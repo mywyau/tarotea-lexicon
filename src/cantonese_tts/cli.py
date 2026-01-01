@@ -1,6 +1,6 @@
 import argparse
 from pathlib import Path
-from .io import load_json, ensure_dir
+from io import load_json, ensure_dir
 from .generator import generate_audio
 
 def run():
