@@ -11,8 +11,6 @@ def generate_audio(text: str, output_path: Path, jyutping: str | None = None):
     print(f"🔊 Generating audio for: {text}")
     
     if jyutping:
-        # prompt = f"{text}（{jyutping}）"
-        # prompt = f"用廣東話讀: \n{text} ({jyutping})"
         prompt = f"用廣東話讀: \n{text}"
     else:
         prompt = text  # fallback (not recommended for Chinese)
