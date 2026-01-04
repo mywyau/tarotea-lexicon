@@ -1,0 +1,32 @@
+{
+  "id": "introduce_self_01",
+  "language": "cantonese",
+
+  "sentence": "我叫阿明",
+  "jyutping": "ngo5 giu3 aa3 ming4",
+  "english": "My name is Ming.",
+
+  "audio": {
+    "native": "/audio/cantonese/introduce_self_01_native.mp3",
+    "slow": "/audio/cantonese/introduce_self_01_slow.mp3"
+  },
+
+  "usage": [
+    "我叫 is the most common way to introduce your name",
+    "阿 is often used before names in spoken Cantonese",
+    "Very natural and casual"
+  ],
+
+  "alternatives": [
+    {
+      "sentence": "我個名係阿明",
+      "jyutping": "ngo5 go3 meng2 hai6 aa3 ming4",
+      "english": "My name is Ming",
+      "note": "Slightly more formal"
+    }
+  ],
+
+  "related": [
+    "particle_aa_01"
+  ]
+}

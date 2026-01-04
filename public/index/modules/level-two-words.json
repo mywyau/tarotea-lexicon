@@ -1,0 +1,69 @@
+{
+  "level": 2,
+  "title": "HSK 2 – Spoken Cantonese Core",
+  "description": "HSK-2 – equivalent vocabulary adapted for natural spoken Cantonese. These words build on HSK 1 and enable longer, more natural conversations.",
+  "words": [
+    { "word": "覺得", "jyutping": "gok3 dak1", "meaning": "to feel / to think" },
+    { "word": "希望", "jyutping": "hei1 mong6", "meaning": "to hope" },
+    { "word": "需要", "jyutping": "seoi1 jiu3", "meaning": "to need" },
+    { "word": "決定", "jyutping": "kyut3 ding6", "meaning": "to decide" },
+    { "word": "記得", "jyutping": "gei3 dak1", "meaning": "to remember" },
+    { "word": "忘記", "jyutping": "mong4 gei3", "meaning": "to forget" },
+    { "word": "試", "jyutping": "si3", "meaning": "to try" },
+    { "word": "繼續", "jyutping": "gai3 zuk6", "meaning": "to continue" },
+    { "word": "停", "jyutping": "ting4", "meaning": "to stop" },
+    { "word": "改", "jyutping": "goi2", "meaning": "to change" },
+
+    { "word": "容易", "jyutping": "jung4 ji6", "meaning": "easy" },
+    { "word": "難", "jyutping": "naan4", "meaning": "difficult" },
+    { "word": "重要", "jyutping": "zung6 jiu3", "meaning": "important" },
+    { "word": "特別", "jyutping": "dak6 bit6", "meaning": "special" },
+    { "word": "正常", "jyutping": "zing1 soeng4", "meaning": "normal" },
+    { "word": "奇怪", "jyutping": "kei4 gwaai3", "meaning": "strange" },
+    { "word": "清楚", "jyutping": "cing1 co2", "meaning": "clear" },
+    { "word": "危險", "jyutping": "ngai4 him2", "meaning": "dangerous" },
+
+    { "word": "開始", "jyutping": "hoi1 ci2", "meaning": "to begin" },
+    { "word": "結束", "jyutping": "git3 cuk1", "meaning": "to end" },
+    { "word": "成功", "jyutping": "sing4 gung1", "meaning": "to succeed" },
+    { "word": "失敗", "jyutping": "sat1 baai6", "meaning": "to fail" },
+
+    { "word": "時間", "jyutping": "si4 gaan3", "meaning": "time" },
+    { "word": "最近", "jyutping": "zeoi3 gan6", "meaning": "recently" },
+    { "word": "以前", "jyutping": "ji5 cin4", "meaning": "before" },
+    { "word": "之後", "jyutping": "zi1 hau6", "meaning": "after" },
+    { "word": "一直", "jyutping": "jat1 zik6", "meaning": "always / continuously" },
+
+    { "word": "地方", "jyutping": "dei6 fong1", "meaning": "place" },
+    { "word": "附近", "jyutping": "fu6 gan6", "meaning": "nearby" },
+    { "word": "遠", "jyutping": "jyun5", "meaning": "far" },
+    { "word": "近", "jyutping": "gan6", "meaning": "near" },
+
+    { "word": "問題", "jyutping": "man6 tai4", "meaning": "problem / question" },
+    { "word": "答案", "jyutping": "daap3 on3", "meaning": "answer" },
+    { "word": "原因", "jyutping": "jyun4 jan1", "meaning": "reason" },
+    { "word": "結果", "jyutping": "git3 gwo2", "meaning": "result" },
+
+    { "word": "幫手", "jyutping": "bong1 sau2", "meaning": "to help (casual)" },
+    { "word": "照顧", "jyutping": "ziu3 gu3", "meaning": "to take care of" },
+    { "word": "照樣", "jyutping": "ziu3 joeng6", "meaning": "the same as before" },
+
+    { "word": "開會", "jyutping": "hoi1 wui6", "meaning": "to have a meeting" },
+    { "word": "返工", "jyutping": "faan1 gung1", "meaning": "to go to work" },
+    { "word": "放工", "jyutping": "fong3 gung1", "meaning": "to get off work" },
+
+    { "word": "旅行", "jyutping": "leoi5 hang4", "meaning": "to travel" },
+    { "word": "假期", "jyutping": "gaa3 kei4", "meaning": "holiday" },
+
+    { "word": "擔心", "jyutping": "daam1 sam1", "meaning": "to worry" },
+    { "word": "放心", "jyutping": "fong3 sam1", "meaning": "to feel relieved" },
+    { "word": "開心", "jyutping": "hoi1 sam1", "meaning": "happy" },
+    { "word": "失望", "jyutping": "sat1 mong6", "meaning": "disappointed" },
+
+    { "word": "如果", "jyutping": "jyu4 gwo2", "meaning": "if" },
+    { "word": "因為", "jyutping": "jan1 wai6", "meaning": "because" },
+    { "word": "所以", "jyutping": "so2 ji5", "meaning": "therefore" },
+    { "word": "雖然", "jyutping": "seoi1 jin4", "meaning": "although" },
+    { "word": "但係", "jyutping": "daan6 hai6", "meaning": "but" }
+  ]
+}

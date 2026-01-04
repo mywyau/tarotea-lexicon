@@ -1,0 +1,31 @@
+{
+  "id": "how_much_01",
+  "language": "cantonese",
+
+  "sentence": "幾多錢？",
+  "jyutping": "gei2 do1 cin2",
+  "english": "How much is it?",
+
+  "audio": {
+    "native": "/audio/cantonese/how_much_01_native.mp3",
+    "slow": "/audio/cantonese/how_much_01_slow.mp3"
+  },
+
+  "usage": [
+    "幾多 is used for asking quantity or amount",
+    "錢 refers to money or price",
+    "Common in shops and markets"
+  ],
+
+  "alternatives": [
+    {
+      "sentence": "呢個幾多錢？",
+      "english": "How much is this?",
+      "note": "Adds specificity"
+    }
+  ],
+
+  "related": [
+    "number_quantity_01"
+  ]
+}

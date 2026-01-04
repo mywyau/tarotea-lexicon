@@ -1,0 +1,184 @@
+{
+  "id": "particles",
+  "title": "Sentence-final Particles",
+  "description": "Common Cantonese particles that change tone, mood, and intent in spoken sentences.",
+  "sections": [
+    {
+      "title": "Neutral & Softening Particles",
+      "items": [
+        {
+          "word": "啦",
+          "jyutping": "laa1",
+          "meaning": "softening / suggestion / change of state",
+          "usage": "Often used to soften a statement or suggest something naturally."
+        },
+        {
+          "word": "喇",
+          "jyutping": "laa3",
+          "meaning": "change of situation / something has happened",
+          "usage": "Used when something has just changed or is now the case."
+        },
+        {
+          "word": "嘅",
+          "jyutping": "ge3",
+          "meaning": "explanatory particle",
+          "usage": "Adds explanation or emphasis to a statement."
+        }
+      ]
+    },
+
+    {
+      "title": "Question & Interaction Particles",
+      "items": [
+        {
+          "word": "呀",
+          "jyutping": "aa3",
+          "meaning": "question / friendliness particle",
+          "usage": "Common in questions and casual speech to sound friendly."
+        },
+        {
+          "word": "呢",
+          "jyutping": "ne1",
+          "meaning": "seeking confirmation / continuation",
+          "usage": "Often used when asking back or prompting a response."
+        },
+        {
+          "word": "咩",
+          "jyutping": "me1",
+          "meaning": "surprise / disbelief",
+          "usage": "Used to show surprise or disbelief in questions."
+        }
+      ]
+    },
+
+    {
+      "title": "Emphasis & Attitude Particles",
+      "items": [
+        {
+          "word": "喎",
+          "jyutping": "wo3",
+          "meaning": "new or noteworthy information",
+          "usage": "Used when telling someone something unexpected or noteworthy."
+        },
+        {
+          "word": "嘛",
+          "jyutping": "maa3",
+          "meaning": "obviousness / persuasion",
+          "usage": "Used when something should be obvious or to persuade gently."
+        },
+        {
+          "word": "啫",
+          "jyutping": "ze1",
+          "meaning": "downplaying / only",
+          "usage": "Used to downplay the importance of something."
+        }
+      ]
+    },
+
+    {
+      "title": "Politeness & Emotional Tone",
+      "items": [
+        {
+          "word": "啩",
+          "jyutping": "gwaa3",
+          "meaning": "uncertainty / guessing",
+          "usage": "Used when making a guess or expressing uncertainty."
+        },
+        {
+          "word": "喇嘛",
+          "jyutping": "laa3 maa3",
+          "meaning": "soft emphasis / reassurance",
+          "usage": "Combination particle used to reassure or emphasise softly."
+        }
+      ]
+    },
+    {
+      "title": "Certainty & Emphasis",
+      "items": [
+        {
+          "word": "㗎",
+          "jyutping": "gaa3",
+          "meaning": "assertion / certainty",
+          "usage": "Stronger than 嘅, used to assert facts confidently."
+        },
+        {
+          "word": "囉",
+          "jyutping": "lo1",
+          "meaning": "obvious conclusion",
+          "usage": "Used when something follows logically or is obvious."
+        },
+        {
+          "word": "咋",
+          "jyutping": "zaa3",
+          "meaning": "only / just",
+          "usage": "Emphasises limitation or minimises importance."
+        }
+      ]
+    },
+
+    {
+      "title": "Reaction & Confirmation",
+      "items": [
+        {
+          "word": "喎",
+          "jyutping": "wo3",
+          "meaning": "unexpected information",
+          "usage": "Marks something as noteworthy or surprising."
+        },
+        {
+          "word": "喔",
+          "jyutping": "o1",
+          "meaning": "realisation / acknowledgement",
+          "usage": "Used when something suddenly makes sense."
+        },
+        {
+          "word": "呀嘛",
+          "jyutping": "aa3 maa3",
+          "meaning": "soft insistence",
+          "usage": "Used to gently insist or remind someone."
+        }
+      ]
+    },
+
+    {
+      "title": "Politeness & Softening",
+      "items": [
+        {
+          "word": "啩",
+          "jyutping": "gwaa3",
+          "meaning": "guessing / uncertainty",
+          "usage": "Used when making an uncertain statement."
+        },
+        {
+          "word": "吖",
+          "jyutping": "aa1",
+          "meaning": "gentle / friendly tone",
+          "usage": "Often used in casual or friendly speech."
+        },
+        {
+          "word": "呢喎",
+          "jyutping": "ne1 wo3",
+          "meaning": "gentle emphasis",
+          "usage": "Combines prompting with new information."
+        }
+      ]
+    },
+    {
+      "title": "Attitude & Emotion",
+      "items": [
+        {
+          "word": "喇喎",
+          "jyutping": "laa3 wo3",
+          "meaning": "sudden change noticed",
+          "usage": "Marks that something has just changed and is notable."
+        },
+        {
+          "word": "啫嘛",
+          "jyutping": "ze1 maa3",
+          "meaning": "downplaying with reassurance",
+          "usage": "Used to minimise concern or calm someone."
+        }
+      ]
+    }
+  ]
+}

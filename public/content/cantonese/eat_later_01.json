@@ -1,0 +1,38 @@
+{
+  "id": "eat_later_01",
+  "language": "cantonese",
+
+  "sentence": "我哋遲啲先食",
+  "jyutping": "ngo5 dei6 ci4 di1 sin1 sik6",
+  "english": "We'll eat later",
+
+  "audio": {
+    "native": "/audio/eat_later_01_native.mp3",
+    "slow": "/audio/eat_later_01_slow.mp3"
+  },
+
+  "usage": [
+    "Very common spoken Cantonese",
+    "遲啲 means 'a bit later' and sounds friendly and flexible",
+    "先 softens the sentence and makes it sound more natural in conversation"
+  ],
+
+  "alternatives": [
+    {
+      "sentence": "我哋一陣先食",
+      "jyutping": "ngo5 dei6 jat1 zan6 sin1 sik6",
+      "english": "We'll eat shortly",
+      "note": "Used when the wait is short"
+    },
+    {
+      "sentence": "我哋夜啲食",
+      "jyutping": "ngo5 dei6 je6 di1 sik6",
+      "english": "We'll eat later in the evening",
+      "note": "Specifies evening time"
+    }
+  ],
+
+  "related": [
+    "particle_sin_01"
+  ]
+}

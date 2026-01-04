@@ -1,0 +1,31 @@
+{
+  "id": "have_not_01",
+  "language": "cantonese",
+
+  "sentence": "我冇錢",
+  "jyutping": "ngo5 mou5 cin2",
+  "english": "I don't have money.",
+
+  "audio": {
+    "native": "/audio/cantonese/have_not_01_native.mp3",
+    "slow": "/audio/cantonese/have_not_01_slow.mp3"
+  },
+
+  "usage": [
+    "冇 is the Cantonese equivalent of 沒有",
+    "Extremely common in daily speech",
+    "Used for possession, availability, or existence"
+  ],
+
+  "alternatives": [
+    {
+      "sentence": "我冇時間",
+      "english": "I don't have time",
+      "note": "Same structure, different noun"
+    }
+  ],
+
+  "related": [
+    "verb_have_01"
+  ]
+}

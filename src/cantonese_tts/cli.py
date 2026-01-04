@@ -21,8 +21,6 @@ def run():
     for item in resources:
         word_id = item.get("id")
         text = item.get("text")
-        jyutping = item.get("jyutping")
-
 
         if not word_id or not text:
             print(f"⚠️  Skipping invalid resource: {item}")
@@ -35,8 +33,8 @@ def run():
             continue
 
         if args.dry_run:
-            print(f"[DRY] {text} ({jyutping}) → {out}")
+            print(f"[DRY] {text} → {out}")
         else:
-            generate_audio(text, out, jyutping)
+            generate_audio(text, out)
 
     print("✅ Done")

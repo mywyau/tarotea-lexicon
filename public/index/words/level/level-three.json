@@ -1,0 +1,96 @@
+{
+  "level": 3,
+  "title": "Level 3 – Opinions, situations, emotions, comparison, and abstract ideas.",
+  "description": "HSK-3 – equivalent vocabulary adapted for natural spoken Cantonese.",
+  "words": [
+    { "word": "認為", "jyutping": "jing6 wai4", "meaning": "to think / to believe (opinion)" },
+    { "word": "感覺", "jyutping": "gam2 gok3", "meaning": "to feel / feeling" },
+    { "word": "發現", "jyutping": "faat3 jin6", "meaning": "to discover / realise" },
+    { "word": "了解", "jyutping": "liu5 gaai2", "meaning": "to understand clearly" },
+    { "word": "同樣", "jyutping": "tung4 joeng6", "meaning": "the same" },
+
+    { "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation" },
+    { "word": "原因", "jyutping": "jyun4 jan1", "meaning": "reason" },
+    { "word": "結果", "jyutping": "git3 gwo2", "meaning": "result" },
+    { "word": "影響", "jyutping": "jing2 hoeng2", "meaning": "to affect / influence" },
+    { "word": "改變", "jyutping": "goi2 bin3", "meaning": "to change" },
+
+    { "word": "適合", "jyutping": "sik1 hap6", "meaning": "suitable" },
+    { "word": "正常", "jyutping": "zing1 soeng4", "meaning": "normal" },
+    { "word": "特別", "jyutping": "dak6 bit6", "meaning": "special" },
+    { "word": "奇怪", "jyutping": "kei4 gwaai3", "meaning": "strange" },
+    { "word": "清楚", "jyutping": "cing1 co2", "meaning": "clear" },
+
+    { "word": "機會", "jyutping": "gei1 wui6", "meaning": "opportunity" },
+    { "word": "方法", "jyutping": "fong1 faat3", "meaning": "method / way" },
+    { "word": "計劃", "jyutping": "gai3 waak6", "meaning": "plan" },
+    { "word": "選擇", "jyutping": "syun2 zaak6", "meaning": "to choose" },
+    { "word": "決定", "jyutping": "kyut3 ding6", "meaning": "to decide" },
+
+    { "word": "生活", "jyutping": "sang1 wut6", "meaning": "life / daily life" },
+    { "word": "工作", "jyutping": "gung1 zok3", "meaning": "work / job" },
+    { "word": "經驗", "jyutping": "ging1 jim6", "meaning": "experience" },
+    { "word": "關係", "jyutping": "gwaan1 hai6", "meaning": "relationship" },
+    { "word": "責任", "jyutping": "zaak3 jam6", "meaning": "responsibility" },
+
+    { "word": "成功", "jyutping": "sing4 gung1", "meaning": "success" },
+    { "word": "失敗", "jyutping": "sat1 baai6", "meaning": "failure" },
+    { "word": "努力", "jyutping": "nou5 lik6", "meaning": "to work hard" },
+    { "word": "改善", "jyutping": "goi2 sin6", "meaning": "to improve" },
+    { "word": "保持", "jyutping": "bou2 ci4", "meaning": "to maintain" },
+
+    { "word": "發生", "jyutping": "faat3 sang1", "meaning": "to happen" },
+    { "word": "發展", "jyutping": "faat3 zin2", "meaning": "to develop" },
+    { "word": "處理", "jyutping": "cyu2 lei5", "meaning": "to handle / deal with" },
+    { "word": "面對", "jyutping": "min6 deoi3", "meaning": "to face" },
+    { "word": "避免", "jyutping": "bei6 min5", "meaning": "to avoid" },
+
+    { "word": "同時", "jyutping": "tung4 si4", "meaning": "at the same time" },
+    { "word": "例如", "jyutping": "jyu4 lai6", "meaning": "for example" },
+    { "word": "尤其", "jyutping": "jau4 kei4", "meaning": "especially" },
+    { "word": "大概", "jyutping": "daai6 koi3", "meaning": "probably / roughly" },
+    { "word": "本來", "jyutping": "bun2 loi4", "meaning": "originally" },
+
+    { "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually" },
+    { "word": "原來", "jyutping": "jyun4 loi4", "meaning": "it turns out that" },
+    { "word": "即係", "jyutping": "zik1 hai6", "meaning": "that is / meaning" },
+    { "word": "可能", "jyutping": "ho2 nang4", "meaning": "maybe / possible" },
+    { "word": "一定", "jyutping": "jat1 ding6", "meaning": "definitely" },
+
+    { "word": "比較", "jyutping": "bei2 gaau3", "meaning": "comparatively" },
+    { "word": "更加", "jyutping": "gang3 gaa1", "meaning": "even more" },
+    { "word": "差唔多", "jyutping": "caa1 m4 do1", "meaning": "almost / about the same" },
+    { "word": "一樣", "jyutping": "jat1 joeng6", "meaning": "the same" },
+    { "word": "唔同", "jyutping": "m4 tung4", "meaning": "different" },
+
+    { "word": "習慣", "jyutping": "zaap6 gwaan3", "meaning": "habit / to be used to" },
+    { "word": "熟悉", "jyutping": "suk6 sik1", "meaning": "familiar with" },
+    { "word": "陌生", "jyutping": "mak6 saang1", "meaning": "unfamiliar" },
+    { "word": "簡單", "jyutping": "gaan2 daan1", "meaning": "simple" },
+    { "word": "複雜", "jyutping": "fuk1 zaap6", "meaning": "complicated" },
+
+    { "word": "擔心", "jyutping": "daam1 sam1", "meaning": "to worry" },
+    { "word": "放心", "jyutping": "fong3 sam1", "meaning": "to feel relieved" },
+    { "word": "失望", "jyutping": "sat1 mong6", "meaning": "disappointed" },
+    { "word": "滿意", "jyutping": "mun5 ji3", "meaning": "satisfied" },
+    { "word": "緊張", "jyutping": "gan2 zoeng1", "meaning": "nervous" },
+
+    { "word": "如果", "jyutping": "jyu4 gwo2", "meaning": "if" },
+    { "word": "雖然", "jyutping": "seoi1 jin4", "meaning": "although" },
+    { "word": "但係", "jyutping": "daan6 hai6", "meaning": "but" },
+    { "word": "因為", "jyutping": "jan1 wai6", "meaning": "because" },
+    { "word": "所以", "jyutping": "so2 ji5", "meaning": "therefore" },
+
+    { "word": "一直", "jyutping": "jat1 zik6", "meaning": "continuously / all along" },
+    { "word": "終於", "jyutping": "zung1 jyu1", "meaning": "finally" },
+    { "word": "馬上", "jyutping": "maa5 soeng6", "meaning": "immediately" },
+    { "word": "慢慢", "jyutping": "maan6 maan6", "meaning": "slowly" },
+    { "word": "突然", "jyutping": "dat6 jin4", "meaning": "suddenly" },
+
+    { "word": "準備", "jyutping": "zeon2 bei6", "meaning": "to prepare" },
+    { "word": "安排", "jyutping": "on1 paai4", "meaning": "to arrange" },
+    { "word": "檢查", "jyutping": "gim2 caa4", "meaning": "to check" },
+    { "word": "解決", "jyutping": "gaai2 kyut3", "meaning": "to solve" },
+    { "word": "接受", "jyutping": "zip3 sau6", "meaning": "to accept" }
+  ]
+}

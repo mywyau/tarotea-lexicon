@@ -1,0 +1,32 @@
+{
+  "id": "dont_know_01",
+  "language": "cantonese",
+
+  "sentence": "我唔知",
+  "jyutping": "ngo5 m4 zi1",
+  "english": "I don't know",
+
+  "audio": {
+    "native": "/audio/cantonese/dont_know_01_native.mp3",
+    "slow": "/audio/cantonese/dont_know_01_slow.mp3"
+  },
+
+  "usage": [
+    "唔 is the standard spoken negation in Cantonese",
+    "Used constantly in conversation",
+    "Often shortened further in casual speech"
+  ],
+
+  "alternatives": [
+    {
+      "sentence": "我真係唔知",
+      "jyutping": "ngo5 zan1 hai6 m4 zi1",
+      "english": "I really don't know",
+      "note": "Adds emphasis"
+    }
+  ],
+
+  "related": [
+    "have_not_01"
+  ]
+}

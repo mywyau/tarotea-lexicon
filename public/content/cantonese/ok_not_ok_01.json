@@ -1,0 +1,31 @@
+{
+  "id": "ok_not_ok_01",
+  "language": "cantonese",
+
+  "sentence": "得唔得？",
+  "jyutping": "dak1 m4 dak1",
+  "english": "Is that OK?",
+
+  "audio": {
+    "native": "/audio/cantonese/ok_not_ok_01_native.mp3",
+    "slow": "/audio/cantonese/ok_not_ok_01_slow.mp3"
+  },
+
+  "usage": [
+    "A very common A-not-A question pattern",
+    "Can be used for permission, ability, or approval",
+    "Often used alone as a full question"
+  ],
+
+  "alternatives": [
+    {
+      "sentence": "可唔可以？",
+      "english": "Is it allowed?",
+      "note": "Slightly more polite"
+    }
+  ],
+
+  "related": [
+    "can_ability_01"
+  ]
+}
