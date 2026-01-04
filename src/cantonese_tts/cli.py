@@ -1,32 +1,42 @@
 import argparse
 from pathlib import Path
-from io import load_json, ensure_dir
+from dotenv import load_dotenv
+from .io import load_json, ensure_dir
 from .generator import generate_audio
 
+load_dotenv()
+
 def run():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--input", required=True)
-    parser.add_argument("--output", required=True)
+    parser = argparse.ArgumentParser(description="Generate Cantonese TTS audio")
+    parser.add_argument("--resources", required=True, help="Path to audio resources JSON")
+    parser.add_argument("--output", required=True, help="Output directory for audio files")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
-    input_dir = Path(args.input)
     output_dir = Path(args.output)
     ensure_dir(output_dir)
 
-    for json_file in input_dir.rglob("*.json"):
-        data = load_json(json_file)
-        word_id = data.get("id")
-        word = data.get("word")
+    resources = load_json(Path(args.resources))
 
-        if not word_id or not word:
+    for item in resources:
+        word_id = item.get("id")
+        text = item.get("text")
+        jyutping = item.get("jyutping")
+
+
+        if not word_id or not text:
+            print(f"⚠️  Skipping invalid resource: {item}")
             continue
 
-        out = output_dir / f"{word_id}.mp3"
+        out = output_dir / f"{text}.mp3"
+
         if out.exists():
+            print(f"⏭️  Skipping existing audio: {out.name}")
             continue
 
         if args.dry_run:
-            print(f"[DRY] {word} → {out}")
+            print(f"[DRY] {text} ({jyutping}) → {out}")
         else:
-            generate_audio(word, out)
+            generate_audio(text, out, jyutping)
+
+    print("✅ Done")
