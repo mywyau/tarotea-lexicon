@@ -28,6 +28,11 @@ python scripts/generate_words.py \
 ```
 
 
-ffmpeg -i 十一個人.mp3 -af "atrim=start=1.3" 十一個人2.mp3
+### Production run, this will actually bill you :)
 
+After installing ffmpeg we can then trim the file of the prompt that aids openai to use cantonese speech
+
+```
+ffmpeg -i 十一個人.mp3 -af "atrim=start=1.3" 十一個人2.mp3
+```
 
