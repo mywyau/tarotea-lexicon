@@ -1,0 +1,115 @@
+{
+  "level": 1,
+  "title": "Level 1 – Core beginner Cantonese",
+  "description": "Foundation vocabulary for basic spoken Cantonese: identity, actions, daily life, and simple needs.",
+  "categories": {
+    "pronouns_and_people": [
+      { "word": "我", "jyutping": "ngo5", "meaning": "I / me" },
+      { "word": "你", "jyutping": "nei5", "meaning": "you" },
+      { "word": "佢", "jyutping": "keoi5", "meaning": "he / she" },
+      { "word": "我哋", "jyutping": "ngo5 dei6", "meaning": "we / us" },
+      { "word": "你哋", "jyutping": "nei5 dei6", "meaning": "you (plural)" },
+      { "word": "人", "jyutping": "jan4", "meaning": "person" },
+      { "word": "朋友", "jyutping": "pang4 jau5", "meaning": "friend" }
+    ],
+
+    "family": [
+      { "word": "爸爸", "jyutping": "baa4 baa1", "meaning": "dad" },
+      { "word": "媽媽", "jyutping": "maa4 maa1", "meaning": "mum" },
+      { "word": "哥哥", "jyutping": "go1 go1", "meaning": "older brother" },
+      { "word": "姐姐", "jyutping": "ze1 ze1", "meaning": "older sister" },
+      { "word": "細佬", "jyutping": "sai3 lou2", "meaning": "younger brother" },
+      { "word": "細妹", "jyutping": "sai3 mui6", "meaning": "younger sister" }
+    ],
+
+    "basic_verbs": [
+      { "word": "係", "jyutping": "hai6", "meaning": "to be" },
+      { "word": "有", "jyutping": "jau5", "meaning": "to have" },
+      { "word": "冇", "jyutping": "mou5", "meaning": "to not have" },
+      { "word": "去", "jyutping": "heoi3", "meaning": "to go" },
+      { "word": "嚟", "jyutping": "lei4", "meaning": "to come" },
+      { "word": "返", "jyutping": "faan1", "meaning": "to return" },
+      { "word": "做", "jyutping": "zou6", "meaning": "to do" },
+      { "word": "睇", "jyutping": "tai2", "meaning": "to watch / look" },
+      { "word": "聽", "jyutping": "teng1", "meaning": "to listen" },
+      { "word": "講", "jyutping": "gong2", "meaning": "to speak" }
+    ],
+
+    "daily_actions": [
+      { "word": "食", "jyutping": "sik6", "meaning": "to eat" },
+      { "word": "飲", "jyutping": "jam2", "meaning": "to drink" },
+      { "word": "住", "jyutping": "zyu6", "meaning": "to live / stay" },
+      { "word": "行", "jyutping": "haang4", "meaning": "to walk" },
+      { "word": "坐", "jyutping": "co5", "meaning": "to sit" },
+      { "word": "企", "jyutping": "kei5", "meaning": "to stand" }
+    ],
+
+    "food_and_drink": [
+      { "word": "飯", "jyutping": "faan6", "meaning": "rice / meal" },
+      { "word": "水", "jyutping": "seoi2", "meaning": "water" },
+      { "word": "茶", "jyutping": "caa4", "meaning": "tea" },
+      { "word": "咖啡", "jyutping": "gaa3 fe1", "meaning": "coffee" }
+    ],
+
+    "places": [
+      { "word": "屋企", "jyutping": "uk1 kei2", "meaning": "home" },
+      { "word": "學校", "jyutping": "hok6 haau6", "meaning": "school" },
+      { "word": "公司", "jyutping": "gung1 si1", "meaning": "company" },
+      { "word": "餐廳", "jyutping": "caan1 teng1", "meaning": "restaurant" },
+      { "word": "廁所", "jyutping": "ci3 so2", "meaning": "toilet" }
+    ],
+
+    "time": [
+      { "word": "而家", "jyutping": "ji4 gaa1", "meaning": "now" },
+      { "word": "今日", "jyutping": "gam1 jat6", "meaning": "today" },
+      { "word": "聽日", "jyutping": "ting1 jat6", "meaning": "tomorrow" },
+      { "word": "噚日", "jyutping": "cam4 jat6", "meaning": "yesterday" },
+      { "word": "一陣", "jyutping": "jat1 zan6", "meaning": "in a moment" }
+    ],
+
+    "questions": [
+      { "word": "咩", "jyutping": "me1", "meaning": "what" },
+      { "word": "邊", "jyutping": "bin1", "meaning": "where / which" },
+      { "word": "點", "jyutping": "dim2", "meaning": "how" },
+      { "word": "幾多", "jyutping": "gei2 do1", "meaning": "how many / how much" }
+    ],
+
+    "negation_and_modals": [
+      { "word": "唔", "jyutping": "m4", "meaning": "not" },
+      { "word": "得", "jyutping": "dak1", "meaning": "can / okay" },
+      { "word": "唔得", "jyutping": "m4 dak1", "meaning": "cannot" },
+      { "word": "要", "jyutping": "jiu3", "meaning": "to want / need" },
+      { "word": "唔要", "jyutping": "m4 jiu3", "meaning": "don’t want" }
+    ],
+
+    "feelings_and_states": [
+      { "word": "忙", "jyutping": "mong4", "meaning": "busy" },
+      { "word": "得閒", "jyutping": "dak1 haan4", "meaning": "free" },
+      { "word": "攰", "jyutping": "gui6", "meaning": "tired" },
+      { "word": "開心", "jyutping": "hoi1 sam1", "meaning": "happy" },
+      { "word": "唔開心", "jyutping": "m4 hoi1 sam1", "meaning": "unhappy" }
+    ],
+
+    "numbers": [
+      { "word": "零", "jyutping": "ling4", "meaning": "zero" },
+      { "word": "一", "jyutping": "jat1", "meaning": "one" },
+      { "word": "二", "jyutping": "ji6", "meaning": "two" },
+      { "word": "三", "jyutping": "saam1", "meaning": "three" },
+      { "word": "四", "jyutping": "sei3", "meaning": "four" },
+      { "word": "五", "jyutping": "ng5", "meaning": "five" },
+      { "word": "六", "jyutping": "luk6", "meaning": "six" },
+      { "word": "七", "jyutping": "cat1", "meaning": "seven" },
+      { "word": "八", "jyutping": "baat3", "meaning": "eight" },
+      { "word": "九", "jyutping": "gau2", "meaning": "nine" },
+      { "word": "十", "jyutping": "sap6", "meaning": "ten" }
+    ],
+
+    "politeness_and_particles": [
+      { "word": "唔該", "jyutping": "m4 goi1", "meaning": "please / thanks" },
+      { "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you" },
+      { "word": "呀", "jyutping": "aa3", "meaning": "question / friendly particle" },
+      { "word": "啦", "jyutping": "laa1", "meaning": "softening particle" },
+      { "word": "嘅", "jyutping": "ge3", "meaning": "explanatory / possessive particle" }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "level": 4,
+  "title": "Level 4 – Reasoning, experiences, and natural expression",
+  "description": "Express opinions, explain situations, discuss experiences, and handle real-life problems in natural spoken Cantonese.",
+  "categories": {
+    "opinions_and_judgement": [
+      { "word": "認為", "jyutping": "jing6 wai4", "meaning": "to think / believe (opinion)" },
+      { "word": "睇法", "jyutping": "tai2 faat3", "meaning": "view / perspective" },
+      { "word": "意見", "jyutping": "ji3 gin3", "meaning": "opinion / suggestion" },
+      { "word": "態度", "jyutping": "taai3 dou6", "meaning": "attitude" },
+      { "word": "感覺上", "jyutping": "gam2 gok3 soeng6", "meaning": "from a feeling standpoint" }
+    ],
+
+    "reasoning_and_explanation": [
+      { "word": "原因", "jyutping": "jyun4 jan1", "meaning": "reason" },
+      { "word": "結果", "jyutping": "git3 gwo2", "meaning": "result" },
+      { "word": "影響", "jyutping": "jing2 hoeng2", "meaning": "to affect / influence" },
+      { "word": "解釋", "jyutping": "gaai2 sik1", "meaning": "to explain" },
+      { "word": "理解", "jyutping": "lei5 gaai2", "meaning": "to understand" }
+    ],
+
+    "experience_and_memory": [
+      { "word": "經驗", "jyutping": "ging1 jim6", "meaning": "experience" },
+      { "word": "回憶", "jyutping": "wui4 jik1", "meaning": "memory / recollection" },
+      { "word": "試過", "jyutping": "si3 gwo3", "meaning": "have tried / experienced" },
+      { "word": "發現", "jyutping": "faat3 jin6", "meaning": "to discover / realise" },
+      { "word": "印象", "jyutping": "jan3 zoeng6", "meaning": "impression" }
+    ],
+
+    "problems_and_solutions": [
+      { "word": "問題", "jyutping": "man6 tai4", "meaning": "problem" },
+      { "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation" },
+      { "word": "處理", "jyutping": "cyu2 lei5", "meaning": "to handle / deal with" },
+      { "word": "解決", "jyutping": "gaai2 kyut3", "meaning": "to solve" },
+      { "word": "安排", "jyutping": "on1 paai4", "meaning": "to arrange" }
+    ],
+
+    "planning_and_decisions": [
+      { "word": "計劃", "jyutping": "gai3 waak6", "meaning": "plan" },
+      { "word": "選擇", "jyutping": "syun2 zaak6", "meaning": "to choose" },
+      { "word": "決定", "jyutping": "kyut3 ding6", "meaning": "to decide" },
+      { "word": "準備", "jyutping": "zeon2 bei6", "meaning": "to prepare" },
+      { "word": "改變", "jyutping": "goi2 bin3", "meaning": "to change" }
+    ],
+
+    "social_interaction": [
+      { "word": "關係", "jyutping": "gwaan1 hai6", "meaning": "relationship" },
+      { "word": "溝通", "jyutping": "kau1 tung1", "meaning": "to communicate" },
+      { "word": "相處", "jyutping": "soeng1 cyu2", "meaning": "to get along" },
+      { "word": "合作", "jyutping": "hap6 zok3", "meaning": "to cooperate" },
+      { "word": "尊重", "jyutping": "zeon1 zung6", "meaning": "to respect" }
+    ],
+
+    "nuance_and_softeners": [
+      { "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually" },
+      { "word": "原來", "jyutping": "jyun4 loi4", "meaning": "it turns out" },
+      { "word": "未必", "jyutping": "mei6 bit1", "meaning": "not necessarily" },
+      { "word": "大概", "jyutping": "daai6 koi3", "meaning": "probably / roughly" },
+      { "word": "即係", "jyutping": "zik1 hai6", "meaning": "that is / meaning" }
+    ],
+
+    "comparison_and_evaluation": [
+      { "word": "比較", "jyutping": "bei2 gaau3", "meaning": "comparatively" },
+      { "word": "更加", "jyutping": "gang3 gaa1", "meaning": "even more" },
+      { "word": "唔同", "jyutping": "m4 tung4", "meaning": "different" },
+      { "word": "一樣", "jyutping": "jat1 joeng6", "meaning": "the same" },
+      { "word": "差別", "jyutping": "caa1 bit6", "meaning": "difference" }
+    ]
+  }
+}

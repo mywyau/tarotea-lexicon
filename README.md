@@ -34,6 +34,12 @@ python scripts/generate_words.py \
   --output audio/words
 ```
 
+or 
+
+```
+./run_prod.sh
+```
+
 We then need to trim the sound file and remove the prefix in the next step
 
 
@@ -44,19 +50,30 @@ After installing ffmpeg we can then trim the file of the prompt that aids openai
 in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert
 
 ```
-ffmpeg -i 四個人.mp3 -af "atrim=start=1.3" cleaned/四個人.mp3
-ffmpeg -i 四杯水.mp3 -af "atrim=start=1.3" cleaned/四杯水.mp3
-ffmpeg -i 四點鐘.mp3 -af "atrim=start=1.6" cleaned/四點鐘.mp3
-ffmpeg -i 四十蚊.mp3 -af "atrim=start=1.3" cleaned/四十蚊.mp3
-ffmpeg -i 四次.mp3 -af "atrim=start=1.3" cleaned/四次.mp3
-ffmpeg -i 星期四.mp3 -af "atrim=start=1.3" cleaned/星期四.mp3
-ffmpeg -i 四樓.mp3 -af "atrim=start=1.3" cleaned/四樓.mp3
-ffmpeg -i 四樣嘢.mp3 -af "atrim=start=1.3" cleaned/四樣嘢.mp3
+ffmpeg -i 我今日要返工，所以唔得閒.mp3 -af "atrim=start=1.3" cleaned/我今日要返工，所以唔得閒.mp3
+ffmpeg -i 我覺得呢間餐廳啲嘢好好食.mp3 -af "atrim=start=1.3" cleaned/我覺得呢間餐廳啲嘢好好食.mp3
+ffmpeg -i 如果你有時間，可以搵我一齊去.mp3 -af "atrim=start=1.3" cleaned/如果你有時間，可以搵我一齊去.mp3
+ffmpeg -i 我之前去過香港好多次.mp3 -af "atrim=start=1.3" cleaned/我之前去過香港好多次.mp3
+ffmpeg -i 其實我都唔係好清楚點做.mp3 -af "atrim=start=1.3" cleaned/其實我都唔係好清楚點做.mp3
+ffmpeg -i 我本來想去，但最後冇去到.mp3 -af "atrim=start=1.3" cleaned/我本來想去，但最後冇去到.mp3
 ```
 
 ### Trim for single words alter the trim timing
 
 ```
-ffmpeg -i 星期三.mp3 -af "atrim=start=1.5" cleaned/星期三.mp3
+ffmpeg -i 九月.mp3 -af "atrim=start=1.3" cleaned/九月.mp3
 ```
+
+
+```
+
+ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.8,asetpts=PTS-STARTPTS" cleaned/九月.mp3
+ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.6" cleaned/九月.mp3
+```
+
+ffmpeg -i cleaned/九月.mp3 -af "atrim=end=1.6" cleaned/九月2.mp3
+
+ffmpeg -i cleaned/我之前去過香港好多次.mp3 -af "atrim=end=0.5" cleaned/我之前去過香港好多次2.mp3
+
+ffmpeg -i 我.mp3 -af "atrim=start=1.3" cleaned/我.mp3
 

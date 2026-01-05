@@ -1,0 +1,70 @@
+{
+  "level": 9,
+  "title": "Level 9 – Media, society, and abstract discussion",
+  "description": "Discuss news, social issues, trends, and abstract ideas clearly and naturally in spoken Cantonese.",
+  "categories": {
+    "news_and_media": [
+      { "word": "新聞", "jyutping": "san1 man4", "meaning": "news" },
+      { "word": "報道", "jyutping": "bou3 dou6", "meaning": "to report / coverage" },
+      { "word": "消息", "jyutping": "siu1 sik1", "meaning": "news / information" },
+      { "word": "訪問", "jyutping": "fong2 man6", "meaning": "interview" },
+      { "word": "評論", "jyutping": "ping4 leon6", "meaning": "commentary / to comment" }
+    ],
+
+    "society_and_topics": [
+      { "word": "社會", "jyutping": "se5 wui6", "meaning": "society" },
+      { "word": "文化", "jyutping": "man4 faa3", "meaning": "culture" },
+      { "word": "經濟", "jyutping": "ging1 zai3", "meaning": "economy" },
+      { "word": "科技", "jyutping": "fo1 gei1", "meaning": "technology" },
+      { "word": "教育", "jyutping": "gaau3 juk6", "meaning": "education" }
+    ],
+
+    "abstract_concepts": [
+      { "word": "問題", "jyutping": "man6 tai4", "meaning": "issue / problem" },
+      { "word": "現象", "jyutping": "jin6 zoeng6", "meaning": "phenomenon" },
+      { "word": "趨勢", "jyutping": "ceoi1 sai3", "meaning": "trend" },
+      { "word": "影響", "jyutping": "jing2 hoeng2", "meaning": "impact / influence" },
+      { "word": "發展", "jyutping": "faat3 zin2", "meaning": "development" }
+    ],
+
+    "analysis_and_explanation": [
+      { "word": "分析", "jyutping": "fan1 sik1", "meaning": "to analyse" },
+      { "word": "解釋", "jyutping": "gaai2 sik1", "meaning": "to explain" },
+      { "word": "指出", "jyutping": "zi2 ceot1", "meaning": "to point out" },
+      { "word": "提到", "jyutping": "tai4 dou6", "meaning": "to mention" },
+      { "word": "理解", "jyutping": "lei5 gaai2", "meaning": "to understand" }
+    ],
+
+    "viewpoints_and_opinions": [
+      { "word": "觀點", "jyutping": "gun1 dim2", "meaning": "viewpoint" },
+      { "word": "立場", "jyutping": "laap6 coeng4", "meaning": "stance / position" },
+      { "word": "角度", "jyutping": "gok3 dou6", "meaning": "angle / perspective" },
+      { "word": "意見", "jyutping": "ji3 gin3", "meaning": "opinion" },
+      { "word": "睇法", "jyutping": "tai2 faat3", "meaning": "way of seeing / view" }
+    ],
+
+    "cause_and_impact": [
+      { "word": "原因", "jyutping": "jyun4 jan1", "meaning": "cause / reason" },
+      { "word": "結果", "jyutping": "git3 gwo2", "meaning": "result" },
+      { "word": "導致", "jyutping": "dou6 zi3", "meaning": "to lead to" },
+      { "word": "影響到", "jyutping": "jing2 hoeng2 dou3", "meaning": "to affect" },
+      { "word": "帶嚟", "jyutping": "daai3 lei4", "meaning": "to bring about" }
+    ],
+
+    "comparison_and_balance": [
+      { "word": "好處", "jyutping": "hou2 cyu3", "meaning": "benefit" },
+      { "word": "壞處", "jyutping": "waai6 cyu3", "meaning": "drawback" },
+      { "word": "取捨", "jyutping": "ceoi2 se2", "meaning": "trade-off" },
+      { "word": "一方面", "jyutping": "jat1 fong1 min6", "meaning": "on one hand" },
+      { "word": "另一方面", "jyutping": "ling6 jat1 fong1 min6", "meaning": "on the other hand" }
+    ],
+
+    "summarising_and_framing": [
+      { "word": "總括嚟講", "jyutping": "zung2 kut3 lei4 gong2", "meaning": "to sum up" },
+      { "word": "整體嚟睇", "jyutping": "zing2 tai2 lei4 tai2", "meaning": "overall speaking" },
+      { "word": "大致上", "jyutping": "daai6 zi3 soeng6", "meaning": "roughly speaking" },
+      { "word": "基本上", "jyutping": "gei1 bun2 soeng6", "meaning": "basically" },
+      { "word": "可以話", "jyutping": "ho2 ji5 waa6", "meaning": "one could say" }
+    ]
+  }
+}
