@@ -1,0 +1,40 @@
+{
+  "id": "haang4-walk",
+  "word": "行",
+  "jyutping": "haang4",
+  "meaning": "to walk",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used for walking or moving on foot"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我行路返屋企。",
+      "jyutping": "ngo5 haang4 lou6 faan1 uk1 kei2",
+      "meaning": "I walk home."
+    },
+    {
+      "sentence": "行快啲啦。",
+      "jyutping": "haang4 faai3 di1 laa1",
+      "meaning": "Walk a bit faster."
+    }
+  ],
+
+  "audio": {
+    "word": "haang4-walk.mp3",
+    "examples": [
+      "haang4-walk-1.mp3",
+      "haang4-walk-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "movement"],
+
+  "related": [
+    "co5-sit",
+    "kei5-stand"
+  ]
+}

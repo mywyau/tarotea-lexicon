@@ -1,0 +1,41 @@
+{
+  "id": "m4jiu3-dont-want",
+  "word": "唔要",
+  "jyutping": "m4 jiu3",
+  "meaning": "don’t want / no need",
+
+  "pos": ["verb", "modal-verb"],
+
+  "usage": [
+    "Used to refuse or decline something",
+    "Polite when said with a soft tone"
+  ],
+
+  "examples": [
+    {
+      "sentence": "唔要啦，多謝。",
+      "jyutping": "m4 jiu3 laa1 do1 ze6",
+      "meaning": "No thanks."
+    },
+    {
+      "sentence": "我唔要呢個。",
+      "jyutping": "ngo5 m4 jiu3 ni1 go3",
+      "meaning": "I don’t want this."
+    }
+  ],
+
+  "audio": {
+    "word": "m4jiu3-dont-want.mp3",
+    "examples": [
+      "m4jiu3-dont-want-1.mp3",
+      "m4jiu3-dont-want-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "modal", "level-1", "core", "daily-life"],
+
+  "related": [
+    "jiu3-want",
+    "m4-not"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kei5-stand",
+  "word": "企",
+  "jyutping": "kei5",
+  "meaning": "to stand",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used for standing upright"
+  ],
+
+  "examples": [
+    {
+      "sentence": "企喺度。",
+      "jyutping": "kei5 hai2 dou6",
+      "meaning": "Stand there."
+    },
+    {
+      "sentence": "唔好企出嚟。",
+      "jyutping": "m4 hou2 kei5 ceot1 lei4",
+      "meaning": "Don’t stand out."
+    }
+  ],
+
+  "audio": {
+    "word": "kei5-stand.mp3",
+    "examples": [
+      "kei5-stand-1.mp3",
+      "kei5-stand-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "movement"],
+
+  "related": [
+    "co5-sit",
+    "haang4-walk"
+  ]
+}

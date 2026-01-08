@@ -1,0 +1,41 @@
+{
+  "id": "cam4jat6-yesterday",
+  "word": "噚日",
+  "jyutping": "cam4 jat6",
+  "meaning": "yesterday",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to the day before today",
+    "More natural than 昨日 in spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "sentence": "噚日落雨。",
+      "jyutping": "cam4 jat6 lok6 jyu5",
+      "meaning": "It rained yesterday."
+    },
+    {
+      "sentence": "我噚日冇返工。",
+      "jyutping": "ngo5 cam4 jat6 mou5 faan1 gung1",
+      "meaning": "I didn’t go to work yesterday."
+    }
+  ],
+
+  "audio": {
+    "word": "cam4jat6-yesterday.mp3",
+    "examples": [
+      "cam4jat6-yesterday-1.mp3",
+      "cam4jat6-yesterday-2.mp3"
+    ]
+  },
+
+  "tags": ["time", "level-1", "core", "daily-life"],
+
+  "related": [
+    "gam1jat6-today",
+    "ting1jat6-tomorrow"
+  ]
+}

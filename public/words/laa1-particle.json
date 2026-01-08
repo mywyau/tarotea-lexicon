@@ -1,0 +1,41 @@
+{
+  "id": "laa1-particle",
+  "word": "啦",
+  "jyutping": "laa1",
+  "meaning": "sentence-ending particle (suggestion / change of state)",
+
+  "pos": ["particle"],
+
+  "usage": [
+    "Used to indicate suggestion, persuasion, or something becoming settled",
+    "Very common in spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "sentence": "走啦。",
+      "jyutping": "zau2 laa1",
+      "meaning": "Let’s go."
+    },
+    {
+      "sentence": "食飯啦。",
+      "jyutping": "sik6 faan6 laa1",
+      "meaning": "Let’s eat."
+    }
+  ],
+
+  "audio": {
+    "word": "laa1-particle.mp3",
+    "examples": [
+      "laa1-particle-1.mp3",
+      "laa1-particle-2.mp3"
+    ]
+  },
+
+  "tags": ["particle", "level-1", "core", "grammar"],
+
+  "related": [
+    "aa3-particle",
+    "ge3-particle"
+  ]
+}

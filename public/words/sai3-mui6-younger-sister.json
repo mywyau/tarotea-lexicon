@@ -1,0 +1,42 @@
+{
+  "id": "sai3-mui6-younger-sister",
+  "word": "細妹",
+  "jyutping": "sai3 mui6",
+  "meaning": "younger sister",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to one’s younger sister",
+    "Common in everyday spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我細妹好鍾意畫畫。",
+      "jyutping": "ngo5 sai3 mui6 hou2 zung1 ji3 waa2 waa2",
+      "meaning": "My younger sister really likes drawing."
+    },
+    {
+      "sentence": "細妹而家瞓緊覺。",
+      "jyutping": "sai3 mui6 ji4 gaa1 fan3 gan2 gaau3",
+      "meaning": "My younger sister is sleeping now."
+    }
+  ],
+
+  "audio": {
+    "word": "sai3-mui6-younger-sister.mp3",
+    "examples": [
+      "sai3-mui6-younger-sister-1.mp3",
+      "sai3-mui6-younger-sister-2.mp3"
+    ]
+  },
+
+  "tags": ["family", "noun", "level-1", "spoken"],
+
+  "related": [
+    "ze1-ze1-older-sister",
+    "sai3-lou2-younger-brother",
+    "ngo5-me"
+  ]
+}
