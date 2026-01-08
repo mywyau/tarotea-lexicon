@@ -1,0 +1,60 @@
+{
+  "id": "ngo5-me",
+  "word": "我",
+  "jyutping": "ngo5",
+  "meaning": "I / me",
+
+  "pos": ["pronoun"],
+
+  "usage": [
+    "Used as the subject or object pronoun for oneself",
+    "Very common in spoken Cantonese",
+    "Often combined with particles to soften tone (e.g. 我呀, 我啦)"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我係香港人。",
+      "jyutping": "ngo5 hai6 hoeng1 gong2 jan4",
+      "meaning": "I am a Hong Kong person."
+    },
+    {
+      "sentence": "我唔知。",
+      "jyutping": "ngo5 m4 zi1",
+      "meaning": "I don’t know."
+    },
+    {
+      "sentence": "呢個係我嘅。",
+      "jyutping": "ni1 go3 hai6 ngo5 ge3",
+      "meaning": "This one is mine."
+    },
+    {
+      "sentence": "你可唔可以幫我？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5",
+      "meaning": "Can you help me?"
+    }
+  ],
+
+  "audio": {
+    "word": "ngo5-me.mp3",
+    "examples": [
+      "ngo5-me-1.mp3",
+      "ngo5-me-2.mp3",
+      "ngo5-me-3.mp3",
+      "ngo5-me-4.mp3"
+    ]
+  },
+
+  "tags": [
+    "core",
+    "pronoun",
+    "level-1",
+    "spoken"
+  ],
+
+  "related": [
+    "nei5-you",
+    "keoi5-he-she",
+    "ngo5-dei6-we"
+  ]
+}

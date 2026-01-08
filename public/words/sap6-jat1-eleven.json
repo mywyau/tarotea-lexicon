@@ -1,0 +1,41 @@
+{
+  "id": "sap6-jat1-eleven",
+  "word": "十一",
+  "jyutping": "sap6 jat1",
+  "meaning": "eleven",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number eleven",
+    "Common in dates, time, floors, and quantities"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我十一點鐘瞓覺。",
+      "jyutping": "ngo5 sap6 jat1 dim2 zung1 fan3 gaau3",
+      "meaning": "I go to sleep at eleven o’clock."
+    },
+    {
+      "sentence": "十一個人已經到齊。",
+      "jyutping": "sap6 jat1 go3 jan4 ji5 ging1 dou3 cai4",
+      "meaning": "All eleven people have arrived."
+    }
+  ],
+
+  "audio": {
+    "word": "sap6-jat1-eleven.mp3",
+    "examples": [
+      "sap6-jat1-eleven-1.mp3",
+      "sap6-jat1-eleven-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "teens", "level-1"],
+
+  "related": [
+    "sap6-ten",
+    "sap6-ji6-twelve"
+  ]
+}

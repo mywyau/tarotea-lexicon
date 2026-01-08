@@ -1,0 +1,41 @@
+{
+  "id": "sap6-baat3-eighteen",
+  "word": "十八",
+  "jyutping": "sap6 baat3",
+  "meaning": "eighteen",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number eighteen",
+    "Often marks adulthood in many contexts"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我十八歲開始自己住。",
+      "jyutping": "ngo5 sap6 baat3 seoi3 hoi1 ci2 zi6 gei2 zyu6",
+      "meaning": "I started living on my own at eighteen."
+    },
+    {
+      "sentence": "十八號有活動。",
+      "jyutping": "sap6 baat3 hou6 jau5 wut6 dung6",
+      "meaning": "There’s an event on the eighteenth."
+    }
+  ],
+
+  "audio": {
+    "word": "sap6-baat3-eighteen.mp3",
+    "examples": [
+      "sap6-baat3-eighteen-1.mp3",
+      "sap6-baat3-eighteen-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "teens", "level-1"],
+
+  "related": [
+    "sap6-cat1-seventeen",
+    "sap6-gau2-nineteen"
+  ]
+}

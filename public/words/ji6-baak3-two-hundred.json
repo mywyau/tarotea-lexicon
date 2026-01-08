@@ -1,0 +1,48 @@
+{
+  "id": "ji6-baak3-two-hundred",
+  "word": "二百",
+  "jyutping": "ji6 baak3",
+  "meaning": "two hundred",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number two hundred",
+    "Grammatically correct but less common in spoken Cantonese",
+    "Often replaced by 兩百 (loeng5 baak3) in everyday speech"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢本書二百蚊。",
+      "jyutping": "ni1 bun2 syu1 ji6 baak3 man1",
+      "meaning": "This book costs two hundred dollars."
+    },
+    {
+      "sentence": "公司有二百個員工。",
+      "jyutping": "gung1 si1 jau5 ji6 baak3 go3 jyun4 gung1",
+      "meaning": "The company has two hundred employees."
+    }
+  ],
+
+  "audio": {
+    "word": "ji6-baak3-two-hundred.mp3",
+    "examples": [
+      "ji6-baak3-two-hundred-1.mp3",
+      "ji6-baak3-two-hundred-2.mp3"
+    ]
+  },
+
+  "tags": [
+    "number",
+    "hundreds",
+    "formal",
+    "level-1"
+  ],
+
+  "related": [
+    "loeng5-baak3-two-hundred-spoken",
+    "jat1-baak3-one-hundred",
+    "saam1-baak3-three-hundred"
+  ]
+}

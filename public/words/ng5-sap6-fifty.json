@@ -1,0 +1,41 @@
+{
+  "id": "ng5-sap6-fifty",
+  "word": "五十",
+  "jyutping": "ng5 sap6",
+  "meaning": "fifty",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number fifty",
+    "Common in money, age, and quantities"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢樣嘢五十蚊。",
+      "jyutping": "ni1 joeng6 je5 ng5 sap6 man1",
+      "meaning": "This costs fifty dollars."
+    },
+    {
+      "sentence": "五十個人報名。",
+      "jyutping": "ng5 sap6 go3 jan4 bou3 meng2",
+      "meaning": "Fifty people signed up."
+    }
+  ],
+
+  "audio": {
+    "word": "ng5-sap6-fifty.mp3",
+    "examples": [
+      "ng5-sap6-fifty-1.mp3",
+      "ng5-sap6-fifty-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "tens", "level-1"],
+
+  "related": [
+    "sei3-sap6-forty",
+    "luk6-sap6-sixty"
+  ]
+}

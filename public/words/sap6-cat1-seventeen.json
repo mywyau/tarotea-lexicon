@@ -1,0 +1,41 @@
+{
+  "id": "sap6-cat1-seventeen",
+  "word": "十七",
+  "jyutping": "sap6 cat1",
+  "meaning": "seventeen",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number seventeen",
+    "Appears in age, dates, and counting"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我十七點先放工。",
+      "jyutping": "ngo5 sap6 cat1 dim2 sin1 fong3 gung1",
+      "meaning": "I finish work at 5pm."
+    },
+    {
+      "sentence": "十七個人已經報名。",
+      "jyutping": "sap6 cat1 go3 jan4 ji5 ging1 bou3 meng2",
+      "meaning": "Seventeen people have already signed up."
+    }
+  ],
+
+  "audio": {
+    "word": "sap6-cat1-seventeen.mp3",
+    "examples": [
+      "sap6-cat1-seventeen-1.mp3",
+      "sap6-cat1-seventeen-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "teens", "level-1"],
+
+  "related": [
+    "sap6-luk6-sixteen",
+    "sap6-baat3-eighteen"
+  ]
+}

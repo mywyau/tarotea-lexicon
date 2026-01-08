@@ -1,0 +1,41 @@
+{
+  "id": "sap6-ng5-fifteen",
+  "word": "十五",
+  "jyutping": "sap6 ng5",
+  "meaning": "fifteen",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number fifteen",
+    "Often used for dates, time, and age"
+  ],
+
+  "examples": [
+    {
+      "sentence": "十五分鐘後返嚟。",
+      "jyutping": "sap6 ng5 fan1 zung1 hau6 faan1 lei4",
+      "meaning": "Come back in fifteen minutes."
+    },
+    {
+      "sentence": "我十五歲搬咗屋。",
+      "jyutping": "ngo5 sap6 ng5 seoi3 bun1 zo2 uk1",
+      "meaning": "I moved house when I was fifteen."
+    }
+  ],
+
+  "audio": {
+    "word": "sap6-ng5-fifteen.mp3",
+    "examples": [
+      "sap6-ng5-fifteen-1.mp3",
+      "sap6-ng5-fifteen-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "teens", "level-1"],
+
+  "related": [
+    "sap6-sei3-fourteen",
+    "ji6-sap6-twenty"
+  ]
+}
