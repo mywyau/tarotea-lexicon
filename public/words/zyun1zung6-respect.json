@@ -1,0 +1,40 @@
+{
+  "id": "zyun1zung6-respect",
+  "word": "尊重",
+  "jyutping": "zyun1 zung6",
+  "meaning": "to respect; respect",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to describe showing respect toward others’ opinions, feelings, or rights"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我哋應該尊重對方。",
+      "jyutping": "ngo5 dei6 jing1 goi1 zyun1 zung6 deoi3 fong1",
+      "meaning": "We should respect each other."
+    },
+    {
+      "sentence": "尊重別人好重要。",
+      "jyutping": "zyun1 zung6 bit6 jan4 hou2 zung6 jiu3",
+      "meaning": "Respecting others is very important."
+    }
+  ],
+
+  "audio": {
+    "word": "zyun1zung6-respect.mp3",
+    "examples": [
+      "zyun1zung6-respect-1.mp3",
+      "zyun1zung6-respect-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "noun", "level-2", "social"],
+
+  "related": [
+    "hap6zok3-cooperate",
+    "soeng1cyu5-interact"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "wui4jik6-memory",
+  "word": "回憶",
+  "jyutping": "wui4 jik6",
+  "meaning": "memory; recollection",
+
+  "pos": ["noun", "verb"],
+
+  "usage": [
+    "Used to describe memories of the past or the act of recalling them"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢段回憶好珍貴。",
+      "jyutping": "ni1 dyun6 wui4 jik6 hou2 zan1 gwai3",
+      "meaning": "This memory is very precious."
+    },
+    {
+      "sentence": "我成日回憶以前嘅事。",
+      "jyutping": "ngo5 seng4 jat6 wui4 jik6 ji5 cin4 ge3 si6",
+      "meaning": "I often recall things from the past."
+    }
+  ],
+
+  "audio": {
+    "word": "wui4jik6-memory.mp3",
+    "examples": [
+      "wui4jik6-memory-1.mp3",
+      "wui4jik6-memory-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "verb", "level-2", "memory"],
+
+  "related": [
+    "ging1jim6-experience",
+    "jan3zoeng6-impression"
+  ]
+}

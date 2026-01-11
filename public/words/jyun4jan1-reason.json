@@ -1,0 +1,40 @@
+{
+  "id": "jyun4jan1-reason",
+  "word": "原因",
+  "jyutping": "jyun4 jan1",
+  "meaning": "reason; cause",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to explain why something happened"
+  ],
+
+  "examples": [
+    {
+      "sentence": "你知唔知原因？",
+      "jyutping": "nei5 zi1 m4 zi1 jyun4 jan1",
+      "meaning": "Do you know the reason?"
+    },
+    {
+      "sentence": "呢個係主要原因。",
+      "jyutping": "ni1 go3 hai6 zyu2 jiu3 jyun4 jan1",
+      "meaning": "This is the main reason."
+    }
+  ],
+
+  "audio": {
+    "word": "jyun4jan1-reason.mp3",
+    "examples": [
+      "jyun4jan1-reason-1.mp3",
+      "jyun4jan1-reason-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "logic"],
+
+  "related": [
+    "git3gwo2-result",
+    "cing4fong3-situation"
+  ]
+}

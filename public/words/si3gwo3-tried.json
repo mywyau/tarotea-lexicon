@@ -1,0 +1,40 @@
+{
+  "id": "si3gwo3-tried",
+  "word": "試過",
+  "jyutping": "si3 gwo3",
+  "meaning": "have tried; have experienced",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe having done something before"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我試過食呢間餐廳。",
+      "jyutping": "ngo5 si3 gwo3 sik6 ni1 gaan1 caan1 teng1",
+      "meaning": "I’ve tried eating at this restaurant."
+    },
+    {
+      "sentence": "你有冇試過？",
+      "jyutping": "nei5 jau5 mou5 si3 gwo3",
+      "meaning": "Have you tried it before?"
+    }
+  ],
+
+  "audio": {
+    "word": "si3gwo3-tried.mp3",
+    "examples": [
+      "si3gwo3-tried-1.mp3",
+      "si3gwo3-tried-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "memory"],
+
+  "related": [
+    "ging1jim6-experience",
+    "faat3jin6-discover"
+  ]
+}

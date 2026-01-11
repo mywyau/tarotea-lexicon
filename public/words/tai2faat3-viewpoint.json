@@ -1,0 +1,40 @@
+{
+  "id": "tai2faat3-viewpoint",
+  "word": "睇法",
+  "jyutping": "tai2 faat3",
+  "meaning": "viewpoint; way of seeing something",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a person’s viewpoint or perspective on an issue"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我同你嘅睇法唔一樣。",
+      "jyutping": "ngo5 tung4 nei5 ge3 tai2 faat3 m4 jat1 joeng6",
+      "meaning": "My viewpoint is different from yours."
+    },
+    {
+      "sentence": "呢個係一個新嘅睇法。",
+      "jyutping": "ni1 go3 hai6 jat1 go3 san1 ge3 tai2 faat3",
+      "meaning": "This is a new perspective."
+    }
+  ],
+
+  "audio": {
+    "word": "tai2faat3-viewpoint.mp3",
+    "examples": [
+      "tai2faat3-viewpoint-1.mp3",
+      "tai2faat3-viewpoint-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "thinking"],
+
+  "related": [
+    "ji3gin3-opinion",
+    "jing6wai4-think"
+  ]
+}

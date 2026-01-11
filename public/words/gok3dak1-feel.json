@@ -1,0 +1,40 @@
+{
+  "id": "gok3dak1-feel",
+  "word": "覺得",
+  "jyutping": "gok3 dak1",
+  "meaning": "to feel; to think (personal impression)",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to express a personal feeling, impression, or subjective opinion"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我覺得好攰。",
+      "jyutping": "ngo5 gok3 dak1 hou2 gui6",
+      "meaning": "I feel very tired."
+    },
+    {
+      "sentence": "你覺得點樣？",
+      "jyutping": "nei5 gok3 dak1 dim2 joeng6",
+      "meaning": "What do you think?"
+    }
+  ],
+
+  "audio": {
+    "word": "gok3dak1-feel.mp3",
+    "examples": [
+      "gok3dak1-feel-1.mp3",
+      "gok3dak1-feel-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "thinking"],
+
+  "related": [
+    "jing6wai4-think",
+    "gam2gok3-sense"
+  ]
+}

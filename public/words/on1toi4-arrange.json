@@ -1,0 +1,40 @@
+{
+  "id": "on1toi4-arrange",
+  "word": "安排",
+  "jyutping": "on1 toi4",
+  "meaning": "to arrange; arrangement",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to describe organizing or arranging plans, events, or tasks"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我已經安排好時間。",
+      "jyutping": "ngo5 ji5 ging1 on1 toi4 hou2 si4 gaan3",
+      "meaning": "I’ve already arranged the time."
+    },
+    {
+      "sentence": "所有安排都完成喇。",
+      "jyutping": "so2 jau5 on1 toi4 dou1 jyun4 sing4 laa3",
+      "meaning": "All arrangements are complete."
+    }
+  ],
+
+  "audio": {
+    "word": "on1toi4-arrange.mp3",
+    "examples": [
+      "on1toi4-arrange-1.mp3",
+      "on1toi4-arrange-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "noun", "level-2", "planning"],
+
+  "related": [
+    "zyun2bei6-prepare",
+    "gai3waak6-plan"
+  ]
+}

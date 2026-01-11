@@ -1,0 +1,39 @@
+{
+  "id": "gam2gok3-sense",
+  "word": "感覺",
+  "jyutping": "gam2 gok3",
+  "meaning": "feeling; sensation",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a physical or emotional feeling or sensation"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個感覺好奇怪。",
+      "jyutping": "ni1 go3 gam2 gok3 hou2 kei4 gwaai3",
+      "meaning": "This feeling is very strange."
+    },
+    {
+      "sentence": "我冇乜感覺。",
+      "jyutping": "ngo5 mou5 mat1 gam2 gok3",
+      "meaning": "I don’t feel much."
+    }
+  ],
+
+  "audio": {
+    "word": "gam2gok3-sense.mp3",
+    "examples": [
+      "gam2gok3-sense-1.mp3",
+      "gam2gok3-sense-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "emotion"],
+
+  "related": [
+    "gok3dak1-feel"
+  ]
+}

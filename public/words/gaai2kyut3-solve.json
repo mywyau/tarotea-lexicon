@@ -1,0 +1,40 @@
+{
+  "id": "gaai2kyut3-solve",
+  "word": "解決",
+  "jyutping": "gaai2 kyut3",
+  "meaning": "to solve; to resolve",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe solving a problem or resolving an issue"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我哋要解決呢個問題。",
+      "jyutping": "ngo5 dei6 jiu3 gaai2 kyut3 ni1 go3 man6 tai4",
+      "meaning": "We need to solve this problem."
+    },
+    {
+      "sentence": "問題終於解決咗。",
+      "jyutping": "man6 tai4 zung1 jyu4 gaai2 kyut3 zo2",
+      "meaning": "The problem was finally solved."
+    }
+  ],
+
+  "audio": {
+    "word": "gaai2kyut3-solve.mp3",
+    "examples": [
+      "gaai2kyut3-solve-1.mp3",
+      "gaai2kyut3-solve-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "action"],
+
+  "related": [
+    "cyu2lei5-handle",
+    "man6tai4-problem"
+  ]
+}

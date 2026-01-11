@@ -1,0 +1,40 @@
+{
+  "id": "min6deoi3-face",
+  "word": "面對",
+  "jyutping": "min6 deoi3",
+  "meaning": "to face; to confront",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe facing a situation, problem, or challenge"
+  ],
+
+  "examples": [
+    {
+      "sentence": "要勇敢面對問題。",
+      "jyutping": "jiu3 jung5 gam2 min6 deoi3 man6 tai4",
+      "meaning": "You must bravely face the problem."
+    },
+    {
+      "sentence": "佢面對好大壓力。",
+      "jyutping": "keoi5 min6 deoi3 hou2 daai6 aat3 lik6",
+      "meaning": "He is facing great pressure."
+    }
+  ],
+
+  "audio": {
+    "word": "min6deoi3-face.mp3",
+    "examples": [
+      "min6deoi3-face-1.mp3",
+      "min6deoi3-face-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "action"],
+
+  "related": [
+    "cyu2lei5-handle",
+    "faat3sang1-happen"
+  ]
+}

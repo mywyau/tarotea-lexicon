@@ -1,0 +1,39 @@
+{
+  "id": "gan2zoeng1-nervous",
+  "word": "緊張",
+  "jyutping": "gan2 zoeng1",
+  "meaning": "nervous; tense",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe feeling nervous, tense, or under pressure"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我而家好緊張。",
+      "jyutping": "ngo5 ji4 gaa1 hou2 gan2 zoeng1",
+      "meaning": "I’m very nervous right now."
+    },
+    {
+      "sentence": "考試之前一定會緊張。",
+      "jyutping": "haau2 si3 zi1 cin4 jat1 ding6 wui5 gan2 zoeng1",
+      "meaning": "You’ll definitely feel nervous before an exam."
+    }
+  ],
+
+  "audio": {
+    "word": "gan2zoeng1-nervous.mp3",
+    "examples": [
+      "gan2zoeng1-nervous-1.mp3",
+      "gan2zoeng1-nervous-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "emotion"],
+
+  "related": [
+    "daam1sam1-worry"
+  ]
+}

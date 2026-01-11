@@ -1,0 +1,40 @@
+{
+  "id": "gwaan1hai6-relationship",
+  "word": "關係",
+  "jyutping": "gwaan1 hai6",
+  "meaning": "relationship; connection",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe the relationship or connection between people or things"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我哋嘅關係幾好。",
+      "jyutping": "ngo5 dei6 ge3 gwaan1 hai6 gei2 hou2",
+      "meaning": "Our relationship is quite good."
+    },
+    {
+      "sentence": "呢兩件事有關係。",
+      "jyutping": "ni1 loeng5 gin6 si6 jau5 gwaan1 hai6",
+      "meaning": "These two things are related."
+    }
+  ],
+
+  "audio": {
+    "word": "gwaan1hai6-relationship.mp3",
+    "examples": [
+      "gwaan1hai6-relationship-1.mp3",
+      "gwaan1hai6-relationship-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "social"],
+
+  "related": [
+    "soeng1cyu5-interact",
+    "zyun1zung6-respect"
+  ]
+}
