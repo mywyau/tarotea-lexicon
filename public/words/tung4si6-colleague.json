@@ -1,0 +1,40 @@
+{
+  "id": "tung4si6-colleague",
+  "word": "同事",
+  "jyutping": "tung4 si6",
+  "meaning": "colleague; co-worker",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to people you work with"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我同同事相處得幾好。",
+      "jyutping": "ngo5 tung4 tung4 si6 soeng1 cyu5 dak1 gei2 hou2",
+      "meaning": "I get along quite well with my colleagues."
+    },
+    {
+      "sentence": "同事之間要互相幫助。",
+      "jyutping": "tung4 si6 zi1 gaan1 jiu3 wu6 soeng1 bong1 zo6",
+      "meaning": "Colleagues should help each other."
+    }
+  ],
+
+  "audio": {
+    "word": "tung4si6-colleague.mp3",
+    "examples": [
+      "tung4si6-colleague-1.mp3",
+      "tung4si6-colleague-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "work"],
+
+  "related": [
+    "soeng1cyu5-interact",
+    "hap6zok3-cooperate"
+  ]
+}

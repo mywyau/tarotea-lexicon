@@ -1,0 +1,40 @@
+{
+  "id": "hok6jing6-confirm",
+  "word": "確認",
+  "jyutping": "hok6 jing6",
+  "meaning": "to confirm; confirmation",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to verify or make sure information or arrangements are correct"
+  ],
+
+  "examples": [
+    {
+      "sentence": "請確認你嘅資料。",
+      "jyutping": "cing2 hok6 jing6 nei5 ge3 zi1 liu2",
+      "meaning": "Please confirm your information."
+    },
+    {
+      "sentence": "我已經收到確認。",
+      "jyutping": "ngo5 ji5 ging1 sau6 dou2 hok6 jing6",
+      "meaning": "I’ve already received confirmation."
+    }
+  ],
+
+  "audio": {
+    "word": "hok6jing6-confirm.mp3",
+    "examples": [
+      "hok6jing6-confirm-1.mp3",
+      "hok6jing6-confirm-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "noun", "level-2", "service"],
+
+  "related": [
+    "dang1gei3-register",
+    "san1cing2-apply"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "zaak3jam6-responsibility",
+  "word": "責任",
+  "jyutping": "zaak3 jam6",
+  "meaning": "responsibility; duty",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a duty or obligation someone has"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個係我嘅責任。",
+      "jyutping": "ni1 go3 hai6 ngo5 ge3 zaak3 jam6",
+      "meaning": "This is my responsibility."
+    },
+    {
+      "sentence": "每個人都有責任。",
+      "jyutping": "mui5 go3 jan4 dou1 jau5 zaak3 jam6",
+      "meaning": "Everyone has responsibilities."
+    }
+  ],
+
+  "audio": {
+    "word": "zaak3jam6-responsibility.mp3",
+    "examples": [
+      "zaak3jam6-responsibility-1.mp3",
+      "zaak3jam6-responsibility-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "work"],
+
+  "related": [
+    "fu6zaak6-responsible",
+    "jiu1kau4-requirement"
+  ]
+}

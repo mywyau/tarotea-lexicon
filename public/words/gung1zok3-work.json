@@ -1,0 +1,41 @@
+{
+  "id": "gung1zok3-work",
+  "word": "工作",
+  "jyutping": "gung1 zok3",
+  "meaning": "work; job",
+
+  "pos": ["noun", "verb"],
+
+  "usage": [
+    "Used to describe work in general or a specific job",
+    "Can also mean to work"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我而家搵緊工作。",
+      "jyutping": "ngo5 ji4 gaa1 wan2 gan2 gung1 zok3",
+      "meaning": "I’m currently looking for a job."
+    },
+    {
+      "sentence": "我喺公司工作。",
+      "jyutping": "ngo5 hai2 gung1 si1 gung1 zok3",
+      "meaning": "I work at a company."
+    }
+  ],
+
+  "audio": {
+    "word": "gung1zok3-work.mp3",
+    "examples": [
+      "gung1zok3-work-1.mp3",
+      "gung1zok3-work-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "verb", "level-2", "work"],
+
+  "related": [
+    "zik1wai6-position",
+    "fu6zaak6-responsible"
+  ]
+}

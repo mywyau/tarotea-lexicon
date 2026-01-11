@@ -1,0 +1,40 @@
+{
+  "id": "soeng6si1-superior",
+  "word": "上司",
+  "jyutping": "soeng6 si1",
+  "meaning": "superior; supervisor",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to someone higher in rank at work"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我要向上司報告。",
+      "jyutping": "ngo5 jiu3 hoeng3 soeng6 si1 bou3 gou3",
+      "meaning": "I need to report to my supervisor."
+    },
+    {
+      "sentence": "佢係我嘅上司。",
+      "jyutping": "keoi5 hai6 ngo5 ge3 soeng6 si1",
+      "meaning": "He is my superior."
+    }
+  ],
+
+  "audio": {
+    "word": "soeng6si1-superior.mp3",
+    "examples": [
+      "soeng6si1-superior-1.mp3",
+      "soeng6si1-superior-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "work"],
+
+  "related": [
+    "lo5baan2-boss",
+    "fu6zaak6-responsible"
+  ]
+}

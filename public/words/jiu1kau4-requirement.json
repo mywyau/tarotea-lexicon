@@ -1,0 +1,40 @@
+{
+  "id": "jiu1kau4-requirement",
+  "word": "要求",
+  "jyutping": "jiu1 kau4",
+  "meaning": "requirement; to require; to demand",
+
+  "pos": ["noun", "verb"],
+
+  "usage": [
+    "Used to describe something that is demanded or required"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個職位有好高要求。",
+      "jyutping": "ni1 go3 zik1 wai6 jau5 hou2 gou1 jiu1 kau4",
+      "meaning": "This position has high requirements."
+    },
+    {
+      "sentence": "老闆要求我準時完成。",
+      "jyutping": "lo5 baan2 jiu1 kau4 ngo5 zeon2 si4 jyun4 sing4",
+      "meaning": "The boss requires me to finish on time."
+    }
+  ],
+
+  "audio": {
+    "word": "jiu1kau4-requirement.mp3",
+    "examples": [
+      "jiu1kau4-requirement-1.mp3",
+      "jiu1kau4-requirement-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "verb", "level-2", "work"],
+
+  "related": [
+    "kwai1geoi2-rule",
+    "biu1zeon2-standard"
+  ]
+}

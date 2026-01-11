@@ -1,0 +1,40 @@
+{
+  "id": "caa1bit6-difference",
+  "word": "差別",
+  "jyutping": "caa1 bit6",
+  "meaning": "difference; distinction",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a difference between things"
+  ],
+
+  "examples": [
+    {
+      "sentence": "兩者之間有差別。",
+      "jyutping": "loeng5 ze2 zi1 gaan1 jau5 caa1 bit6",
+      "meaning": "There is a difference between the two."
+    },
+    {
+      "sentence": "其實冇乜差別。",
+      "jyutping": "kei4 sat6 mou5 mat1 caa1 bit6",
+      "meaning": "Actually, there isn’t much difference."
+    }
+  ],
+
+  "audio": {
+    "word": "caa1bit6-difference.mp3",
+    "examples": [
+      "caa1bit6-difference-1.mp3",
+      "caa1bit6-difference-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "comparison"],
+
+  "related": [
+    "m4tung4-different",
+    "jat1joeng6-same"
+  ]
+}

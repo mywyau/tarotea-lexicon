@@ -1,0 +1,40 @@
+{
+  "id": "jam6mou6-task",
+  "word": "任務",
+  "jyutping": "jam6 mou6",
+  "meaning": "task; mission",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a specific task or assignment that needs to be completed"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個任務好重要。",
+      "jyutping": "ni1 go3 jam6 mou6 hou2 zung6 jiu3",
+      "meaning": "This task is very important."
+    },
+    {
+      "sentence": "我已經完成咗任務。",
+      "jyutping": "ngo5 ji5 ging1 jyun4 sing4 zo2 jam6 mou6",
+      "meaning": "I’ve completed the task."
+    }
+  ],
+
+  "audio": {
+    "word": "jam6mou6-task.mp3",
+    "examples": [
+      "jam6mou6-task-1.mp3",
+      "jam6mou6-task-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "work"],
+
+  "related": [
+    "bou6zo6-step",
+    "lau4cing4-process"
+  ]
+}

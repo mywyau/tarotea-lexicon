@@ -1,0 +1,39 @@
+{
+  "id": "mei6bit1-notnecessarily",
+  "word": "未必",
+  "jyutping": "mei6 bit1",
+  "meaning": "not necessarily; may not",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used to express uncertainty or say something is not guaranteed"
+  ],
+
+  "examples": [
+    {
+      "sentence": "未必會成功。",
+      "jyutping": "mei6 bit1 wui5 sing4 gung1",
+      "meaning": "It may not succeed."
+    },
+    {
+      "sentence": "佢未必有時間。",
+      "jyutping": "keoi5 mei6 bit1 jau5 si4 gaan3",
+      "meaning": "He may not have time."
+    }
+  ],
+
+  "audio": {
+    "word": "mei6bit1-notnecessarily.mp3",
+    "examples": [
+      "mei6bit1-notnecessarily-1.mp3",
+      "mei6bit1-notnecessarily-2.mp3"
+    ]
+  },
+
+  "tags": ["adverb", "level-2", "discourse"],
+
+  "related": [
+    "daai6gaap3-approximately"
+  ]
+}

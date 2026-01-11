@@ -1,0 +1,40 @@
+{
+  "id": "zik1wai6-position",
+  "word": "職位",
+  "jyutping": "zik1 wai6",
+  "meaning": "job position; post",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a position or role in a job or organization"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個職位需要經驗。",
+      "jyutping": "ni1 go3 zik1 wai6 seoi1 jiu3 ging1 jim6",
+      "meaning": "This position requires experience."
+    },
+    {
+      "sentence": "我申請咗一個新職位。",
+      "jyutping": "ngo5 san1 cing2 zo2 jat1 go3 san1 zik1 wai6",
+      "meaning": "I applied for a new position."
+    }
+  ],
+
+  "audio": {
+    "word": "zik1wai6-position.mp3",
+    "examples": [
+      "zik1wai6-position-1.mp3",
+      "zik1wai6-position-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "work"],
+
+  "related": [
+    "gung1zok3-work",
+    "lo5baan2-boss"
+  ]
+}

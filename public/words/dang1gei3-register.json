@@ -1,0 +1,40 @@
+{
+  "id": "dang1gei3-register",
+  "word": "登記",
+  "jyutping": "dang1 gei3",
+  "meaning": "to register; registration",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to describe registering information or signing up for something"
+  ],
+
+  "examples": [
+    {
+      "sentence": "請先登記資料。",
+      "jyutping": "cing2 sin1 dang1 gei3 zi1 liu2",
+      "meaning": "Please register your information first."
+    },
+    {
+      "sentence": "登記已經完成。",
+      "jyutping": "dang1 gei3 ji5 ging1 jyun4 sing4",
+      "meaning": "The registration has been completed."
+    }
+  ],
+
+  "audio": {
+    "word": "dang1gei3-register.mp3",
+    "examples": [
+      "dang1gei3-register-1.mp3",
+      "dang1gei3-register-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "noun", "level-2", "service"],
+
+  "related": [
+    "san1cing2-apply",
+    "hak1jan4-customer"
+  ]
+}
