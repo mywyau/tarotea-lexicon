@@ -1,0 +1,40 @@
+{
+  "id": "goi2bin3-change",
+  "word": "改變",
+  "jyutping": "goi2 bin3",
+  "meaning": "to change",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe altering plans, situations, or conditions"
+  ],
+
+  "examples": [
+    {
+      "sentence": "計劃有改變。",
+      "jyutping": "gai3 waak6 jau5 goi2 bin3",
+      "meaning": "The plan has changed."
+    },
+    {
+      "sentence": "你可以改變主意。",
+      "jyutping": "nei5 ho2 ji5 goi2 bin3 zyu2 ji3",
+      "meaning": "You can change your mind."
+    }
+  ],
+
+  "audio": {
+    "word": "goi2bin3-change.mp3",
+    "examples": [
+      "goi2bin3-change-1.mp3",
+      "goi2bin3-change-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "process"],
+
+  "related": [
+    "kyut3ding6-decide",
+    "gai3waak6-plan"
+  ]
+}

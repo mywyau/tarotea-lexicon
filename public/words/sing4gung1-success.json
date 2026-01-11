@@ -1,0 +1,40 @@
+{
+  "id": "sing4gung1-success",
+  "word": "成功",
+  "jyutping": "sing4 gung1",
+  "meaning": "success / to succeed",
+
+  "pos": ["noun", "verb"],
+
+  "usage": [
+    "Used to describe achieving a desired result"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個計劃好成功。",
+      "jyutping": "ni1 go3 gai3 waak6 hou2 sing4 gung1",
+      "meaning": "This plan is very successful."
+    },
+    {
+      "sentence": "佢終於成功咗。",
+      "jyutping": "keoi5 zung1 jyu1 sing4 gung1 zo2",
+      "meaning": "He finally succeeded."
+    }
+  ],
+
+  "audio": {
+    "word": "sing4gung1-success.mp3",
+    "examples": [
+      "sing4gung1-success-1.mp3",
+      "sing4gung1-success-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "verb", "level-2", "result"],
+
+  "related": [
+    "sat1baai6-failure",
+    "jyun4sing4-complete"
+  ]
+}
