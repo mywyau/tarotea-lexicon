@@ -1,0 +1,39 @@
+{
+  "id": "bei2gaau3-comparatively",
+  "word": "比較",
+  "jyutping": "bei2 gaau3",
+  "meaning": "comparatively; relatively",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used to compare two things or describe something in relative terms"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢間餐廳比較平。",
+      "jyutping": "ni1 gaan1 caan1 teng1 bei2 gaau3 peng4",
+      "meaning": "This restaurant is relatively cheap."
+    },
+    {
+      "sentence": "我比較鍾意呢個。",
+      "jyutping": "ngo5 bei2 gaau3 zung1 ji3 ni1 go3",
+      "meaning": "I prefer this one."
+    }
+  ],
+
+  "audio": {
+    "word": "bei2gaau3-comparatively.mp3",
+    "examples": [
+      "bei2gaau3-comparatively-1.mp3",
+      "bei2gaau3-comparatively-2.mp3"
+    ]
+  },
+
+  "tags": ["adverb", "level-2", "comparison"],
+
+  "related": [
+    "gang3gaa1-evenmore"
+  ]
+}

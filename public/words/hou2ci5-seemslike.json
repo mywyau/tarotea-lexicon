@@ -1,0 +1,39 @@
+{
+  "id": "hou2ci5-seemslike",
+  "word": "好似",
+  "jyutping": "hou2 ci5",
+  "meaning": "seems like; looks like",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to express similarity or an impression based on observation"
+  ],
+
+  "examples": [
+    {
+      "sentence": "好似要落雨。",
+      "jyutping": "hou2 ci5 jiu3 lok6 jyu5",
+      "meaning": "It seems like it’s going to rain."
+    },
+    {
+      "sentence": "佢好似好攰。",
+      "jyutping": "keoi5 hou2 ci5 hou2 gui6",
+      "meaning": "He seems very tired."
+    }
+  ],
+
+  "audio": {
+    "word": "hou2ci5-seemslike.mp3",
+    "examples": [
+      "hou2ci5-seemslike-1.mp3",
+      "hou2ci5-seemslike-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "comparison"],
+
+  "related": [
+    "jat1joeng6-same"
+  ]
+}

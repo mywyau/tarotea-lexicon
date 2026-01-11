@@ -1,0 +1,39 @@
+{
+  "id": "kei4gwaai3-strange",
+  "word": "奇怪",
+  "jyutping": "kei4 gwaai3",
+  "meaning": "strange / odd",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe something unusual or unexpected"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢件事好奇怪。",
+      "jyutping": "ni1 gin6 si6 hou2 kei4 gwaai3",
+      "meaning": "This matter is strange."
+    },
+    {
+      "sentence": "佢今日表現得好奇怪。",
+      "jyutping": "keoi5 gam1 jat6 biu2 jin6 dak1 hou2 kei4 gwaai3",
+      "meaning": "He’s acting very strangely today."
+    }
+  ],
+
+  "audio": {
+    "word": "kei4gwaai3-strange.mp3",
+    "examples": [
+      "kei4gwaai3-strange-1.mp3",
+      "kei4gwaai3-strange-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "description"],
+
+  "related": [
+    "zing1soeng4-normal"
+  ]
+}

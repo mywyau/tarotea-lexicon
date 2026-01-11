@@ -1,0 +1,39 @@
+{
+  "id": "ziu3gu3-care",
+  "word": "照顧",
+  "jyutping": "ziu3 gu3",
+  "meaning": "to take care of",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe looking after a person, animal, or thing"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我要照顧小朋友。",
+      "jyutping": "ngo5 jiu3 ziu3 gu3 siu2 pang4 jau5",
+      "meaning": "I need to take care of the child."
+    },
+    {
+      "sentence": "多謝你照顧我。",
+      "jyutping": "do1 ze6 nei5 ziu3 gu3 ngo5",
+      "meaning": "Thank you for taking care of me."
+    }
+  ],
+
+  "audio": {
+    "word": "ziu3gu3-care.mp3",
+    "examples": [
+      "ziu3gu3-care-1.mp3",
+      "ziu3gu3-care-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "social"],
+
+  "related": [
+    "bong1sau2-help"
+  ]
+}

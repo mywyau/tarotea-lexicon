@@ -1,0 +1,39 @@
+{
+  "id": "bong1sau2-help",
+  "word": "幫手",
+  "jyutping": "bong1 sau2",
+  "meaning": "to help; to give a hand",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to ask for or offer help, especially in an informal and friendly way"
+  ],
+
+  "examples": [
+    {
+      "sentence": "你可唔可以幫手？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 sau2",
+      "meaning": "Can you help?"
+    },
+    {
+      "sentence": "多謝你幫手。",
+      "jyutping": "do1 ze6 nei5 bong1 sau2",
+      "meaning": "Thanks for your help."
+    }
+  ],
+
+  "audio": {
+    "word": "bong1sau2-help.mp3",
+    "examples": [
+      "bong1sau2-help-1.mp3",
+      "bong1sau2-help-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "social"],
+
+  "related": [
+    "maa4fan6-trouble"
+  ]
+}

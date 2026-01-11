@@ -1,0 +1,40 @@
+{
+  "id": "jat1joeng6-same",
+  "word": "一樣",
+  "jyutping": "jat1 joeng6",
+  "meaning": "the same; alike",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe two or more things as being identical or the same"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我哋嘅答案一樣。",
+      "jyutping": "ngo5 dei6 ge3 daap3 on3 jat1 joeng6",
+      "meaning": "Our answers are the same."
+    },
+    {
+      "sentence": "呢兩件衫一樣。",
+      "jyutping": "ni1 loeng5 gin6 saam1 jat1 joeng6",
+      "meaning": "These two pieces of clothing are the same."
+    }
+  ],
+
+  "audio": {
+    "word": "jat1joeng6-same.mp3",
+    "examples": [
+      "jat1joeng6-same-1.mp3",
+      "jat1joeng6-same-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "comparison"],
+
+  "related": [
+    "caa1m4do1-almost",
+    "hou2ci5-seemslike"
+  ]
+}
