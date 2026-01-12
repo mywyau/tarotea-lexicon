@@ -6,20 +6,20 @@
     "pronouns_and_people": [
       { "id": "ngo5-me", "word": "我", "jyutping": "ngo5", "meaning": "I / me" },
       { "id": "nei5-you", "word": "你", "jyutping": "nei5", "meaning": "you" },
-      { "id": "keoi5-he-she", "word": "佢", "jyutping": "keoi5", "meaning": "he / she" },
-      { "id": "ngo5-dei6-we", "word": "我哋", "jyutping": "ngo5 dei6", "meaning": "we / us" },
-      { "id": "nei5-dei6-you-plural", "word": "你哋", "jyutping": "nei5 dei6", "meaning": "you (plural)" },
+      { "id": "keoi5-heshe", "word": "佢", "jyutping": "keoi5", "meaning": "he / she" },
+      { "id": "ngo5dei6-we", "word": "我哋", "jyutping": "ngo5 dei6", "meaning": "we / us" },
+      { "id": "nei5dei6-you-plural", "word": "你哋", "jyutping": "nei5 dei6", "meaning": "you (plural)" },
       { "id": "jan4-person", "word": "人", "jyutping": "jan4", "meaning": "person" },
-      { "id": "pang4-jau5-friend", "word": "朋友", "jyutping": "pang4 jau5", "meaning": "friend" }
+      { "id": "pang4jau5-friend", "word": "朋友", "jyutping": "pang4 jau5", "meaning": "friend" }
     ],
 
     "family": [
-      { "id": "baa4-baa1-dad", "word": "爸爸", "jyutping": "baa4 baa1", "meaning": "dad" },
-      { "id": "maa4-maa1-mum", "word": "媽媽", "jyutping": "maa4 maa1", "meaning": "mum" },
-      { "id": "go1-go1-older-brother", "word": "哥哥", "jyutping": "go1 go1", "meaning": "older brother" },
-      { "id": "ze1-ze1-older-sister", "word": "姐姐", "jyutping": "ze1 ze1", "meaning": "older sister" },
-      { "id": "sai3-lou2-younger-brother", "word": "細佬", "jyutping": "sai3 lou2", "meaning": "younger brother" },
-      { "id": "sai3-mui6-younger-sister", "word": "細妹", "jyutping": "sai3 mui6", "meaning": "younger sister" }
+      { "id": "baa4baa1-dad", "word": "爸爸", "jyutping": "baa4 baa1", "meaning": "dad" },
+      { "id": "maa4maa1-mum", "word": "媽媽", "jyutping": "maa4 maa1", "meaning": "mum" },
+      { "id": "go1go1-older-brother", "word": "哥哥", "jyutping": "go1 go1", "meaning": "older brother" },
+      { "id": "ze1ze1-older-sister", "word": "姐姐", "jyutping": "ze1 ze1", "meaning": "older sister" },
+      { "id": "sai3lou2-younger-brother", "word": "細佬", "jyutping": "sai3 lou2", "meaning": "younger brother" },
+      { "id": "sai3mui6-younger-sister", "word": "細妹", "jyutping": "sai3 mui6", "meaning": "younger sister" }
     ],
 
     "basic_verbs": [
@@ -59,8 +59,8 @@
     ],
 
     "politeness_and_particles": [
-      { "id": "m4-goi1-please", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please / thanks" },
-      { "id": "do1-ze6-thanks", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you" },
+      { "id": "m4goi1-please", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please / thanks" },
+      { "id": "do1ze6-thanks", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you" },
       { "id": "aa3-particle", "word": "呀", "jyutping": "aa3", "meaning": "question / friendly particle" },
       { "id": "laa1-particle", "word": "啦", "jyutping": "laa1", "meaning": "softening particle" },
       { "id": "ge3-particle", "word": "嘅", "jyutping": "ge3", "meaning": "explanatory / possessive particle" }
