@@ -14,34 +14,52 @@
 
   "examples": [
     {
-      "sentence": "我係香港人。",
-      "jyutping": "ngo5 hai6 hoeng1 gong2 jan4",
-      "meaning": "I am a Hong Kong person."
+      "id": "ngo5-example-1",
+      "sentence": "其實我都唔係好清楚點做",
+      "jyutping": "kei4 sat6 ngo5 dou1 m4 hai6 hou2 cing1 co2 dim2 zou6",
+      "meaning": "Actually, I’m not very clear on how to do it."
     },
     {
-      "sentence": "我唔知。",
+      "id": "ngo5-example-2",
+      "sentence": "我唔知",
       "jyutping": "ngo5 m4 zi1",
       "meaning": "I don’t know."
     },
     {
-      "sentence": "呢個係我嘅。",
-      "jyutping": "ni1 go3 hai6 ngo5 ge3",
-      "meaning": "This one is mine."
+      "id": "ngo5-example-3",
+      "sentence": "如果你有時間，可以搵我一齊去",
+      "jyutping": "jyu4 gwo2 nei5 jau5 si4 gaan3, ho2 ji5 wan2 ngo5 jat1 cai4 heoi3",
+      "meaning": "If you have time, you can look for me and go together."
     },
     {
+      "id": "ngo5-example-4",
       "sentence": "你可唔可以幫我？",
       "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5",
       "meaning": "Can you help me?"
+    },
+    {
+      "id": "ngo5-example-5",
+      "sentence": "我之前去過香港好多次",
+      "jyutping": "ngo5 zi1 cin4 heoi3 gwo3 hoeng1 gong2 hou2 do1 ci3",
+      "meaning": "I’ve been to Hong Kong many times before."
+    },
+    {
+      "id": "ngo5-example-6",
+      "sentence": "我今日要返工，所以唔得閒",
+      "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1, so2 ji5 m4 dak1 haan4",
+      "meaning": "I have to work today, so I’m not free."
     }
   ],
 
   "audio": {
     "word": "ngo5-me.mp3",
     "examples": [
-      "ngo5-me-1.mp3",
-      "ngo5-me-2.mp3",
-      "ngo5-me-3.mp3",
-      "ngo5-me-4.mp3"
+      "ngo5-example-1.mp3",
+      "ngo5-example-2.mp3",
+      "ngo5-example-3.mp3",
+      "ngo5-example-4.mp3",
+      "ngo5-example-5.mp3",
+      "ngo5-example-6.mp3"
     ]
   },
 
@@ -55,6 +73,6 @@
   "related": [
     "nei5-you",
     "keoi5-he-she",
-    "ngo5-dei6-we"
+    "ngo5dei6-we"
   ]
 }
