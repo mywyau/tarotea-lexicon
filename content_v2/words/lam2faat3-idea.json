@@ -1,0 +1,39 @@
+{
+  "id": "lam2faat3-idea",
+  "word": "諗法",
+  "jyutping": "lam2 faat3",
+  "meaning": "way of thinking; idea",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a person’s ideas or way of thinking"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我同你嘅諗法唔一樣。",
+      "jyutping": "ngo5 tung4 nei5 ge3 lam2 faat3 m4 jat1 joeng6",
+      "meaning": "My way of thinking is different from yours."
+    },
+    {
+      "sentence": "呢個諗法幾好。",
+      "jyutping": "ni1 go3 lam2 faat3 gei2 hou2",
+      "meaning": "This idea is quite good."
+    }
+  ],
+
+  "audio": {
+    "word": "lam2faat3-idea.mp3",
+    "examples": [
+      "lam2faat3-idea-1.mp3",
+      "lam2faat3-idea-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "thinking"],
+
+  "related": [
+    "ji3gin3-opinion"
+  ]
+}

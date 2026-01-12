@@ -1,0 +1,41 @@
+{
+  "id": "seoi1jiu3-need",
+  "word": "需要",
+  "jyutping": "seoi1 jiu3",
+  "meaning": "to need",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to express necessity or requirement",
+    "Stronger and more formal than 要"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我需要時間。",
+      "jyutping": "ngo5 seoi1 jiu3 si4 gaan3",
+      "meaning": "I need time."
+    },
+    {
+      "sentence": "你需要幫手嗎？",
+      "jyutping": "nei5 seoi1 jiu3 bong1 sau2 maa3",
+      "meaning": "Do you need help?"
+    }
+  ],
+
+  "audio": {
+    "word": "seoi1jiu3-need.mp3",
+    "examples": [
+      "seoi1jiu3-need-1.mp3",
+      "seoi1jiu3-need-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "core", "necessity"],
+
+  "related": [
+    "jiu3-want",
+    "bong1-help"
+  ]
+}

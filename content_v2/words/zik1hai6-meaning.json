@@ -1,0 +1,39 @@
+{
+  "id": "zik1hai6-meaning",
+  "word": "即係",
+  "jyutping": "zik1 hai6",
+  "meaning": "that is; meaning; in other words",
+
+  "pos": ["discourse_marker"],
+
+  "usage": [
+    "Used to explain, clarify, or rephrase something"
+  ],
+
+  "examples": [
+    {
+      "sentence": "即係話你唔嚟。",
+      "jyutping": "zik1 hai6 waa6 nei5 m4 lei4",
+      "meaning": "So that means you’re not coming."
+    },
+    {
+      "sentence": "即係點呀？",
+      "jyutping": "zik1 hai6 dim2 aa3",
+      "meaning": "What exactly do you mean?"
+    }
+  ],
+
+  "audio": {
+    "word": "zik1hai6-meaning.mp3",
+    "examples": [
+      "zik1hai6-meaning-1.mp3",
+      "zik1hai6-meaning-2.mp3"
+    ]
+  },
+
+  "tags": ["discourse_marker", "level-2", "discourse"],
+
+  "related": [
+    "kei4sat6-actually"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "san1cing2-apply",
+  "word": "申請",
+  "jyutping": "san1 cing2",
+  "meaning": "to apply; application",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to describe applying for a service, job, or permission"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我申請咗呢個服務。",
+      "jyutping": "ngo5 san1 cing2 zo2 ni1 go3 fuk6 mou6",
+      "meaning": "I applied for this service."
+    },
+    {
+      "sentence": "申請結果會稍後通知。",
+      "jyutping": "san1 cing2 git3 gwo2 wui5 siu2 hau6 tung1 zi1",
+      "meaning": "The application result will be notified later."
+    }
+  ],
+
+  "audio": {
+    "word": "san1cing2-apply.mp3",
+    "examples": [
+      "san1cing2-apply-1.mp3",
+      "san1cing2-apply-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "noun", "level-2", "service"],
+
+  "related": [
+    "dang1gei3-register",
+    "hak6jam6-responsibility"
+  ]
+}

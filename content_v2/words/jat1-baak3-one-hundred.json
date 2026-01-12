@@ -1,0 +1,41 @@
+{
+  "id": "jat1-baak3-one-hundred",
+  "word": "一百",
+  "jyutping": "jat1 baak3",
+  "meaning": "one hundred",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number one hundred",
+    "Forms the base for hundreds (一百二十, 三百五十, etc.)"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢本書一百蚊。",
+      "jyutping": "ni1 bun2 syu1 jat1 baak3 man1",
+      "meaning": "This book costs one hundred dollars."
+    },
+    {
+      "sentence": "我行咗一百步。",
+      "jyutping": "ngo5 haang4 zo2 jat1 baak3 bou6",
+      "meaning": "I walked one hundred steps."
+    }
+  ],
+
+  "audio": {
+    "word": "jat1-baak3-one-hundred.mp3",
+    "examples": [
+      "jat1-baak3-one-hundred-1.mp3",
+      "jat1-baak3-one-hundred-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "hundreds", "level-1"],
+
+  "related": [
+    "gau2-sap6-ninety",
+    "jat1-cin1-one-thousand"
+  ]
+}

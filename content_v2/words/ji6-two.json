@@ -1,0 +1,42 @@
+{
+  "id": "ji6-two",
+  "word": "二",
+  "jyutping": "ji6",
+  "meaning": "two",
+
+  "pos": ["number", "determiner"],
+
+  "usage": [
+    "Used as the number two",
+    "Often replaced by 兩 (loeng5) before measure words in spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我有二個選擇。",
+      "jyutping": "ngo5 jau5 ji6 go3 syun2 zaak6",
+      "meaning": "I have two choices."
+    },
+    {
+      "sentence": "呢個問題有二個答案。",
+      "jyutping": "ni1 go3 man6 tai4 jau5 ji6 go3 daap3 on3",
+      "meaning": "This question has two answers."
+    }
+  ],
+
+  "audio": {
+    "word": "ji6-two.mp3",
+    "examples": [
+      "ji6-two-1.mp3",
+      "ji6-two-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "level-1", "core"],
+
+  "related": [
+    "loeng5-two-alt",
+    "jat1-one",
+    "saam1-three"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sik6-eat",
+  "word": "食",
+  "jyutping": "sik6",
+  "meaning": "to eat",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used for eating food or meals",
+    "Very common everyday verb"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我食飯。",
+      "jyutping": "ngo5 sik6 faan6",
+      "meaning": "I eat / I am eating."
+    },
+    {
+      "sentence": "一齊食啦。",
+      "jyutping": "jat1 cai4 sik6 laa1",
+      "meaning": "Let’s eat together."
+    }
+  ],
+
+  "audio": {
+    "word": "sik6-eat.mp3",
+    "examples": [
+      "sik6-eat-1.mp3",
+      "sik6-eat-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "daily-life"],
+
+  "related": [
+    "jam2-drink",
+    "faan6-rice"
+  ]
+}

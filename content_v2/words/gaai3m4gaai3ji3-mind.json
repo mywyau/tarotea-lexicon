@@ -1,0 +1,40 @@
+{
+  "id": "gaai3m4gaai3ji3-mind",
+  "word": "介唔介意",
+  "jyutping": "gaai3 m4 gaai3 ji3",
+  "meaning": "do you mind",
+
+  "pos": ["polite_phrase"],
+
+  "usage": [
+    "Used to politely ask for permission or check if something is acceptable"
+  ],
+
+  "examples": [
+    {
+      "sentence": "介唔介意我坐呢度？",
+      "jyutping": "gaai3 m4 gaai3 ji3 ngo5 zo6 ni1 dou6",
+      "meaning": "Do you mind if I sit here?"
+    },
+    {
+      "sentence": "介唔介意等一陣？",
+      "jyutping": "gaai3 m4 gaai3 ji3 dang2 jat1 zan6",
+      "meaning": "Do you mind waiting a bit?"
+    }
+  ],
+
+  "audio": {
+    "word": "gaai3m4gaai3ji3-mind.mp3",
+    "examples": [
+      "gaai3m4gaai3ji3-mind-1.mp3",
+      "gaai3m4gaai3ji3-mind-2.mp3"
+    ]
+  },
+
+  "tags": ["polite", "level-2", "spoken"],
+
+  "related": [
+    "ho2m4ho2ji5-can",
+    "m4hou2ji3si3-sorry"
+  ]
+}

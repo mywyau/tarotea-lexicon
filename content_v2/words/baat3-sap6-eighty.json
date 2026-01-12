@@ -1,0 +1,41 @@
+{
+  "id": "baat3-sap6-eighty",
+  "word": "八十",
+  "jyutping": "baat3 sap6",
+  "meaning": "eighty",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number eighty",
+    "Common in age and formal quantities"
+  ],
+
+  "examples": [
+    {
+      "sentence": "佢阿媽八十歲生日。",
+      "jyutping": "keoi5 aa3 maa4 baat3 sap6 seoi3 sang1 jat6",
+      "meaning": "His mum’s eightieth birthday."
+    },
+    {
+      "sentence": "八十蚊包埋飲品。",
+      "jyutping": "baat3 sap6 man1 baau1 maai4 jam2 ban2",
+      "meaning": "Eighty dollars including drinks."
+    }
+  ],
+
+  "audio": {
+    "word": "baat3-sap6-eighty.mp3",
+    "examples": [
+      "baat3-sap6-eighty-1.mp3",
+      "baat3-sap6-eighty-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "tens", "level-1"],
+
+  "related": [
+    "cat1-sap6-seventy",
+    "gau2-sap6-ninety"
+  ]
+}

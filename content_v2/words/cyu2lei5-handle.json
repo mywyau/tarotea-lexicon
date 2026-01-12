@@ -1,0 +1,40 @@
+{
+  "id": "cyu2lei5-handle",
+  "word": "處理",
+  "jyutping": "cyu2 lei5",
+  "meaning": "to handle; to deal with",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe handling or dealing with a problem or task"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我會處理呢個問題。",
+      "jyutping": "ngo5 wui5 cyu2 lei5 ni1 go3 man6 tai4",
+      "meaning": "I will handle this problem."
+    },
+    {
+      "sentence": "需要時間去處理。",
+      "jyutping": "seoi1 jiu3 si4 gaan3 heoi3 cyu2 lei5",
+      "meaning": "It needs time to deal with."
+    }
+  ],
+
+  "audio": {
+    "word": "cyu2lei5-handle.mp3",
+    "examples": [
+      "cyu2lei5-handle-1.mp3",
+      "cyu2lei5-handle-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "action"],
+
+  "related": [
+    "min6deoi3-face",
+    "cing4fong3-situation"
+  ]
+}

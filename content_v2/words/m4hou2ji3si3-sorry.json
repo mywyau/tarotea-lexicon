@@ -1,0 +1,40 @@
+{
+  "id": "m4hou2ji3si3-sorry",
+  "word": "唔好意思",
+  "jyutping": "m4 hou2 ji3 si3",
+  "meaning": "sorry; excuse me",
+
+  "pos": ["polite_phrase"],
+
+  "usage": [
+    "Used to apologise or to politely get someone’s attention"
+  ],
+
+  "examples": [
+    {
+      "sentence": "唔好意思，我遲到咗。",
+      "jyutping": "m4 hou2 ji3 si3 ngo5 ci4 dou3 zo2",
+      "meaning": "Sorry, I’m late."
+    },
+    {
+      "sentence": "唔好意思，請問洗手間喺邊？",
+      "jyutping": "m4 hou2 ji3 si3 cing2 man6 sai2 sau2 gaan1 hai2 bin1",
+      "meaning": "Excuse me, where is the toilet?"
+    }
+  ],
+
+  "audio": {
+    "word": "m4hou2ji3si3-sorry.mp3",
+    "examples": [
+      "m4hou2ji3si3-sorry-1.mp3",
+      "m4hou2ji3si3-sorry-2.mp3"
+    ]
+  },
+
+  "tags": ["polite", "level-2", "spoken"],
+
+  "related": [
+    "maa4faan4nei5-please",
+    "gaai3m4gaai3ji3-mind"
+  ]
+}

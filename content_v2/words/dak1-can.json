@@ -1,0 +1,41 @@
+{
+  "id": "dak1-can",
+  "word": "得",
+  "jyutping": "dak1",
+  "meaning": "can / okay / allowed",
+
+  "pos": ["modal-verb"],
+
+  "usage": [
+    "Used to express ability, permission, or acceptance",
+    "Often used as a short response meaning “okay”"
+  ],
+
+  "examples": [
+    {
+      "sentence": "咁樣得唔得？",
+      "jyutping": "gam3 joeng6 dak1 m4 dak1",
+      "meaning": "Is this okay?"
+    },
+    {
+      "sentence": "得啦。",
+      "jyutping": "dak1 laa1",
+      "meaning": "Okay, that’s fine."
+    }
+  ],
+
+  "audio": {
+    "word": "dak1-can.mp3",
+    "examples": [
+      "dak1-can-1.mp3",
+      "dak1-can-2.mp3"
+    ]
+  },
+
+  "tags": ["modal", "level-1", "core", "grammar"],
+
+  "related": [
+    "m4-not",
+    "m4dak1-cannot"
+  ]
+}

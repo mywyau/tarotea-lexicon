@@ -1,0 +1,41 @@
+{
+  "id": "mong4gei3-forget",
+  "word": "忘記",
+  "jyutping": "mong4 gei3",
+  "meaning": "to forget",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used when something is not remembered",
+    "Opposite of 記得"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我唔記得定係忘記咗？",
+      "jyutping": "ngo5 m4 gei3 dak1 ding6 hai6 mong4 gei3 zo2",
+      "meaning": "Did I not remember or did I forget?"
+    },
+    {
+      "sentence": "唔好意思，我忘記咗。",
+      "jyutping": "m4 hou2 ji3 si1 ngo5 mong4 gei3 zo2",
+      "meaning": "Sorry, I forgot."
+    }
+  ],
+
+  "audio": {
+    "word": "mong4gei3-forget.mp3",
+    "examples": [
+      "mong4gei3-forget-1.mp3",
+      "mong4gei3-forget-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "memory"],
+
+  "related": [
+    "gei3dak1-remember",
+    "m4-not"
+  ]
+}

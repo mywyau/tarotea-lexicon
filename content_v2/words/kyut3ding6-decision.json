@@ -1,0 +1,40 @@
+{
+  "id": "kyut3ding6-decision",
+  "word": "決定",
+  "jyutping": "kyut3 ding6",
+  "meaning": "decision; to decide",
+
+  "pos": ["noun", "verb"],
+
+  "usage": [
+    "Used to describe making a decision or reaching a conclusion"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我已經作出決定。",
+      "jyutping": "ngo5 ji5 ging1 zok3 ceot1 kyut3 ding6",
+      "meaning": "I’ve already made a decision."
+    },
+    {
+      "sentence": "佢決定辭職。",
+      "jyutping": "keoi5 kyut3 ding6 ci4 zik1",
+      "meaning": "He decided to resign."
+    }
+  ],
+
+  "audio": {
+    "word": "kyut3ding6-decision.mp3",
+    "examples": [
+      "kyut3ding6-decision-1.mp3",
+      "kyut3ding6-decision-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "verb", "level-2", "planning"],
+
+  "related": [
+    "syun2zaak6-choice",
+    "gai3waak6-plan"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "taai3dou6-attitude",
+  "word": "態度",
+  "jyutping": "taai3 dou6",
+  "meaning": "attitude; manner",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe how someone thinks, feels, or behaves toward something"
+  ],
+
+  "examples": [
+    {
+      "sentence": "佢對工作嘅態度好認真。",
+      "jyutping": "keoi5 deoi3 gung1 zok3 ge3 taai3 dou6 hou2 jing6 zan1",
+      "meaning": "He has a very serious attitude toward work."
+    },
+    {
+      "sentence": "你嘅態度好重要。",
+      "jyutping": "nei5 ge3 taai3 dou6 hou2 zung6 jiu3",
+      "meaning": "Your attitude is very important."
+    }
+  ],
+
+  "audio": {
+    "word": "taai3dou6-attitude.mp3",
+    "examples": [
+      "taai3dou6-attitude-1.mp3",
+      "taai3dou6-attitude-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "thinking"],
+
+  "related": [
+    "ji3gin3-opinion",
+    "gam2gok3soeng6-feelslike"
+  ]
+}

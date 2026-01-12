@@ -1,0 +1,40 @@
+{
+  "id": "seoi1jin4-although",
+  "word": "雖然",
+  "jyutping": "seoi1 jin4",
+  "meaning": "although; even though",
+
+  "pos": ["conjunction"],
+
+  "usage": [
+    "Used to introduce a contrast or concession",
+    "Often paired with 但係"
+  ],
+
+  "examples": [
+    {
+      "sentence": "雖然好攰，但係都要做。",
+      "jyutping": "seoi1 jin4 hou2 gui6 daan6 hai6 dou1 jiu3 zou6",
+      "meaning": "Although I’m very tired, I still have to do it."
+    },
+    {
+      "sentence": "雖然落雨，我都出街。",
+      "jyutping": "seoi1 jin4 lok6 jyu5 ngo5 dou1 ceot1 gaai1",
+      "meaning": "Although it’s raining, I still went out."
+    }
+  ],
+
+  "audio": {
+    "word": "seoi1jin4-although.mp3",
+    "examples": [
+      "seoi1jin4-although-1.mp3",
+      "seoi1jin4-although-2.mp3"
+    ]
+  },
+
+  "tags": ["conjunction", "level-2", "logic"],
+
+  "related": [
+    "daan6hai6-but"
+  ]
+}

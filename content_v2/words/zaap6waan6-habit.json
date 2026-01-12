@@ -1,0 +1,39 @@
+{
+  "id": "zaap6waan6-habit",
+  "word": "習慣",
+  "jyutping": "zaap6 waan6",
+  "meaning": "habit; to get used to",
+
+  "pos": ["noun", "verb"],
+
+  "usage": [
+    "Used to describe a habit or becoming accustomed to something"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個係我嘅習慣。",
+      "jyutping": "ni1 go3 hai6 ngo5 ge3 zaap6 waan6",
+      "meaning": "This is my habit."
+    },
+    {
+      "sentence": "我已經習慣咗早起。",
+      "jyutping": "ngo5 ji5 ging1 zaap6 waan6 zo2 zou2 hei2",
+      "meaning": "I’ve gotten used to waking up early."
+    }
+  ],
+
+  "audio": {
+    "word": "zaap6waan6-habit.mp3",
+    "examples": [
+      "zaap6waan6-habit-1.mp3",
+      "zaap6waan6-habit-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "verb", "level-2", "emotion"],
+
+  "related": [
+    "gan2zoeng1-nervous"
+  ]
+}

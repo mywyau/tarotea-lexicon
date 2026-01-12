@@ -1,0 +1,39 @@
+{
+  "id": "zung1jyu4-finally",
+  "word": "終於",
+  "jyutping": "zung1 jyu4",
+  "meaning": "finally; at last",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used when something happens after a long wait or effort"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我終於完成喇。",
+      "jyutping": "ngo5 zung1 jyu4 jyun4 sing4 laa3",
+      "meaning": "I finally finished."
+    },
+    {
+      "sentence": "佢終於明白咗。",
+      "jyutping": "keoi5 zung1 jyu4 ming4 baak6 zo2",
+      "meaning": "He finally understood."
+    }
+  ],
+
+  "audio": {
+    "word": "zung1jyu4-finally.mp3",
+    "examples": [
+      "zung1jyu4-finally-1.mp3",
+      "zung1jyu4-finally-2.mp3"
+    ]
+  },
+
+  "tags": ["adverb", "level-2", "time"],
+
+  "related": [
+    "jat1zik6-continuously"
+  ]
+}

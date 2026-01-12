@@ -1,0 +1,39 @@
+{
+  "id": "cing1co2-clear",
+  "word": "清楚",
+  "jyutping": "cing1 co2",
+  "meaning": "clear / clearly",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe understanding or visibility"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我聽得好清楚。",
+      "jyutping": "ngo5 teng1 dak1 hou2 cing1 co2",
+      "meaning": "I heard it clearly."
+    },
+    {
+      "sentence": "你講清楚啲。",
+      "jyutping": "nei5 gong2 cing1 co2 di1",
+      "meaning": "Please explain it more clearly."
+    }
+  ],
+
+  "audio": {
+    "word": "cing1co2-clear.mp3",
+    "examples": [
+      "cing1co2-clear-1.mp3",
+      "cing1co2-clear-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "understanding"],
+
+  "related": [
+    "ming4baak6-understand"
+  ]
+}

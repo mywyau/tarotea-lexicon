@@ -54,3 +54,5 @@ audio/
 *.log
 tmp/
 temp/
+
+.wrangler

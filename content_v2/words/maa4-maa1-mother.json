@@ -1,0 +1,41 @@
+{
+  "id": "maa4-maa1-mother",
+  "word": "媽媽",
+  "jyutping": "maa4 maa1",
+  "meaning": "mother / mum",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to one’s mother",
+    "Very common in spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我媽媽煮飯好叻。",
+      "jyutping": "ngo5 maa4 maa1 zyu2 faan6 hou2 lek1",
+      "meaning": "My mum is very good at cooking."
+    },
+    {
+      "sentence": "媽媽而家喺屋企。",
+      "jyutping": "maa4 maa1 ji4 gaa1 hai2 uk1 kei2",
+      "meaning": "Mum is at home now."
+    }
+  ],
+
+  "audio": {
+    "word": "maa4-maa1-mother.mp3",
+    "examples": [
+      "maa4-maa1-mother-1.mp3",
+      "maa4-maa1-mother-2.mp3"
+    ]
+  },
+
+  "tags": ["family", "noun", "level-1", "spoken"],
+
+  "related": [
+    "baa4-baa1-father",
+    "ngo5-me"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "liu5gaai2-understand",
+  "word": "了解",
+  "jyutping": "liu5 gaai2",
+  "meaning": "to understand; to know about",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to express understanding of information, a situation, or a person"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我了解你嘅意思。",
+      "jyutping": "ngo5 liu5 gaai2 nei5 ge3 ji3 si1",
+      "meaning": "I understand what you mean."
+    },
+    {
+      "sentence": "想了解更多。",
+      "jyutping": "soeng2 liu5 gaai2 go3 do1",
+      "meaning": "I want to understand more."
+    }
+  ],
+
+  "audio": {
+    "word": "liu5gaai2-understand.mp3",
+    "examples": [
+      "liu5gaai2-understand-1.mp3",
+      "liu5gaai2-understand-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "thinking"],
+
+  "related": [
+    "faat3jin6-discover"
+  ]
+}

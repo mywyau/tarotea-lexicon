@@ -1,0 +1,40 @@
+{
+  "id": "gei1wui6-opportunity",
+  "word": "機會",
+  "jyutping": "gei1 wui6",
+  "meaning": "opportunity; chance",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to a chance or opportunity to do something"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個係一個好機會。",
+      "jyutping": "ni1 go3 hai6 jat1 go3 hou2 gei1 wui6",
+      "meaning": "This is a good opportunity."
+    },
+    {
+      "sentence": "希望有機會再見你。",
+      "jyutping": "hei1 mong6 jau5 gei1 wui6 zoi3 gin3 nei5",
+      "meaning": "I hope I’ll have the chance to see you again."
+    }
+  ],
+
+  "audio": {
+    "word": "gei1wui6-opportunity.mp3",
+    "examples": [
+      "gei1wui6-opportunity-1.mp3",
+      "gei1wui6-opportunity-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "planning"],
+
+  "related": [
+    "syun2zaak6-choice",
+    "gai3waak6-plan"
+  ]
+}

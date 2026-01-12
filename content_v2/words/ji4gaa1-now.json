@@ -1,0 +1,41 @@
+{
+  "id": "ji4gaa1-now",
+  "word": "而家",
+  "jyutping": "ji4 gaa1",
+  "meaning": "now",
+
+  "pos": ["adverb", "noun"],
+
+  "usage": [
+    "Used to refer to the present moment",
+    "Very common in spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我而家好忙。",
+      "jyutping": "ngo5 ji4 gaa1 hou2 mong4",
+      "meaning": "I am very busy right now."
+    },
+    {
+      "sentence": "而家去得唔得？",
+      "jyutping": "ji4 gaa1 heoi3 dak1 m4 dak1",
+      "meaning": "Can we go now?"
+    }
+  ],
+
+  "audio": {
+    "word": "ji4gaa1-now.mp3",
+    "examples": [
+      "ji4gaa1-now-1.mp3",
+      "ji4gaa1-now-2.mp3"
+    ]
+  },
+
+  "tags": ["time", "level-1", "core", "daily-life"],
+
+  "related": [
+    "gam1jat6-today",
+    "jat1zan6-short-while"
+  ]
+}

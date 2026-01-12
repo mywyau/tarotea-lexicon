@@ -1,0 +1,54 @@
+{
+  "level": 11,
+  "title": "Level 11 – Register, tone, and stylistic control",
+  "description": "Control tone, register, and style across different social and professional contexts in spoken Cantonese.",
+  "categories": {
+    "register_shifting": [
+      { "word": "其實講返", "jyutping": "kei4 sat6 gong2 faan1", "meaning": "actually, to put it another way" },
+      { "word": "如果正式啲講", "jyutping": "jyu4 gwo2 zing3 sik1 di1 gong2", "meaning": "if put more formally" },
+      { "word": "講白啲", "jyutping": "gong2 baak6 di1", "meaning": "to put it bluntly" },
+      { "word": "私底下講", "jyutping": "si1 dai2 haa6 gong2", "meaning": "speaking privately" },
+      { "word": "客觀啲睇", "jyutping": "haak3 gun1 di1 tai2", "meaning": "looking at it objectively" }
+    ],
+
+    "reframing_and_rewording": [
+      { "word": "換個講法", "jyutping": "wun6 go3 gong2 faat3", "meaning": "to put it another way" },
+      { "word": "簡單嚟講", "jyutping": "gaan2 daan1 lei4 gong2", "meaning": "simply speaking" },
+      { "word": "實際上", "jyutping": "sat6 zai3 soeng6", "meaning": "in reality" },
+      { "word": "某程度上", "jyutping": "mau5 cing4 dou6 soeng6", "meaning": "to a certain extent" },
+      { "word": "本質上", "jyutping": "bun2 zat1 soeng6", "meaning": "in essence" }
+    ],
+
+    "polite_formality": [
+      { "word": "未必方便直講", "jyutping": "mei6 bit1 fong1 bin6 zik6 gong2", "meaning": "may not be appropriate to say directly" },
+      { "word": "比較委婉啲", "jyutping": "bei2 gaau3 wai2 jyun2 di1", "meaning": "a bit more tactful" },
+      { "word": "出於尊重", "jyutping": "ceot1 jyu1 zeon1 zung6", "meaning": "out of respect" },
+      { "word": "基於呢個考慮", "jyutping": "gei1 jyu1 ni1 go3 haau2 leoi6", "meaning": "based on this consideration" },
+      { "word": "希望你理解", "jyutping": "hei1 mong6 nei5 lei5 gaai2", "meaning": "hope you understand" }
+    ],
+
+    "tone_calibration": [
+      { "word": "語氣重咗", "jyutping": "jyu5 hei3 zung6 zo2", "meaning": "the tone came out too strong" },
+      { "word": "講得太直接", "jyutping": "gong2 dak1 taai3 zik6 zik6", "meaning": "spoken too directly" },
+      { "word": "可能聽落有啲", "jyutping": "ho2 nang4 teng1 lok6 jau5 di1", "meaning": "might sound a bit (negative)" },
+      { "word": "無意冒犯", "jyutping": "mou5 ji3 mou6 faan6", "meaning": "no intention to offend" },
+      { "word": "純粹表達意見", "jyutping": "seon4 seoi3 biu2 daat6 ji3 gin3", "meaning": "just expressing an opinion" }
+    ],
+
+    "audience_awareness": [
+      { "word": "視乎對象", "jyutping": "si6 fu1 deoi3 zoeng6", "meaning": "depending on the audience" },
+      { "word": "場合唔同", "jyutping": "coeng4 hap6 m4 tung4", "meaning": "different situations" },
+      { "word": "同熟人講", "jyutping": "tung4 suk6 jan4 gong2", "meaning": "speaking to someone familiar" },
+      { "word": "對外講法", "jyutping": "deoi3 ngoi6 gong2 faat3", "meaning": "external wording" },
+      { "word": "內部講法", "jyutping": "noi6 bou6 gong2 faat3", "meaning": "internal phrasing" }
+    ],
+
+    "identity_and_style": [
+      { "word": "個人風格", "jyutping": "go3 jan4 fung1 gaak3", "meaning": "personal style" },
+      { "word": "自然啲", "jyutping": "zi6 jin4 di1", "meaning": "more natural" },
+      { "word": "唔使太造作", "jyutping": "m4 sai2 taai3 zou6 zok3", "meaning": "no need to sound forced" },
+      { "word": "講自己嘅方式", "jyutping": "gong2 zi6 gei2 ge3 fong1 sik1", "meaning": "speak in your own way" },
+      { "word": "聽落順耳", "jyutping": "teng1 lok6 seon6 ji5", "meaning": "pleasant to the ear" }
+    ]
+  }
+}

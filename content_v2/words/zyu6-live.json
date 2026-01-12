@@ -1,0 +1,40 @@
+{
+  "id": "zyu6-live",
+  "word": "住",
+  "jyutping": "zyu6",
+  "meaning": "to live / to stay",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe where someone lives or stays"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我住喺香港。",
+      "jyutping": "ngo5 zyu6 hai2 hoeng1 gong2",
+      "meaning": "I live in Hong Kong."
+    },
+    {
+      "sentence": "你住邊？",
+      "jyutping": "nei5 zyu6 bin1",
+      "meaning": "Where do you live?"
+    }
+  ],
+
+  "audio": {
+    "word": "zyu6-live.mp3",
+    "examples": [
+      "zyu6-live-1.mp3",
+      "zyu6-live-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "location"],
+
+  "related": [
+    "uk1-kei2-home",
+    "hai2-at"
+  ]
+}

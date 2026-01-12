@@ -1,0 +1,41 @@
+{
+  "id": "sap6-ji6-twelve",
+  "word": "十二",
+  "jyutping": "sap6 ji6",
+  "meaning": "twelve",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number twelve",
+    "Often used for time, months, and quantities"
+  ],
+
+  "examples": [
+    {
+      "sentence": "而家十二點。",
+      "jyutping": "ji4 gaa1 sap6 ji6 dim2",
+      "meaning": "It’s twelve o’clock now."
+    },
+    {
+      "sentence": "一年有十二個月。",
+      "jyutping": "jat1 nin4 jau5 sap6 ji6 go3 jyut6",
+      "meaning": "There are twelve months in a year."
+    }
+  ],
+
+  "audio": {
+    "word": "sap6-ji6-twelve.mp3",
+    "examples": [
+      "sap6-ji6-twelve-1.mp3",
+      "sap6-ji6-twelve-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "teens", "level-1"],
+
+  "related": [
+    "sap6-jat1-eleven",
+    "sap6-saam1-thirteen"
+  ]
+}

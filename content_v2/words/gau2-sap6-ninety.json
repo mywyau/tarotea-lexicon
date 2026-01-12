@@ -1,0 +1,41 @@
+{
+  "id": "gau2-sap6-ninety",
+  "word": "九十",
+  "jyutping": "gau2 sap6",
+  "meaning": "ninety",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number ninety",
+    "Often used in age and rounded quantities"
+  ],
+
+  "examples": [
+    {
+      "sentence": "佢九十歲仲自己行。",
+      "jyutping": "keoi5 gau2 sap6 seoi3 zung6 zi6 gei2 haang4",
+      "meaning": "He can still walk by himself at ninety."
+    },
+    {
+      "sentence": "九十個百分比完成。",
+      "jyutping": "gau2 sap6 go3 baak3 fan1 bei2 jyun4 sing4",
+      "meaning": "Ninety percent completed."
+    }
+  ],
+
+  "audio": {
+    "word": "gau2-sap6-ninety.mp3",
+    "examples": [
+      "gau2-sap6-ninety-1.mp3",
+      "gau2-sap6-ninety-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "tens", "level-1"],
+
+  "related": [
+    "baat3-sap6-eighty",
+    "jat1-baak3-one-hundred"
+  ]
+}

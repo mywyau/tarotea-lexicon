@@ -1,0 +1,40 @@
+{
+  "id": "ceot1siu1-cancel",
+  "word": "取消",
+  "jyutping": "ceot1 siu1",
+  "meaning": "to cancel; cancellation",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to describe stopping or withdrawing a booking, plan, or service"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我想取消預約。",
+      "jyutping": "ngo5 soeng2 ceot1 siu1 jyu6 joek3",
+      "meaning": "I want to cancel the appointment."
+    },
+    {
+      "sentence": "活動已經取消。",
+      "jyutping": "wut6 dung6 ji5 ging1 ceot1 siu1",
+      "meaning": "The event has been cancelled."
+    }
+  ],
+
+  "audio": {
+    "word": "ceot1siu1-cancel.mp3",
+    "examples": [
+      "ceot1siu1-cancel-1.mp3",
+      "ceot1siu1-cancel-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "noun", "level-2", "service"],
+
+  "related": [
+    "haak1jan4-customer",
+    "fuk6mou6-service"
+  ]
+}

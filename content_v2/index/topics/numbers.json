@@ -1,0 +1,76 @@
+{
+  "id": "numbers",
+  "title": "Numbers",
+  "description": "Counting, prices, quantities, and amounts in spoken Cantonese.",
+  "sections": [
+    {
+      "title": "Basic Numbers (1–10)",
+      "items": [
+        { "word": "零", "jyutping": "ling4", "meaning": "zero" },
+        { "word": "一", "jyutping": "jat1", "meaning": "one" },
+        { "word": "二", "jyutping": "ji6", "meaning": "two" },
+        { "word": "三", "jyutping": "saam1", "meaning": "three" },
+        { "word": "四", "jyutping": "sei3", "meaning": "four" },
+        { "word": "五", "jyutping": "ng5", "meaning": "five" },
+        { "word": "六", "jyutping": "luk6", "meaning": "six" },
+        { "word": "七", "jyutping": "cat1", "meaning": "seven" },
+        { "word": "八", "jyutping": "baat3", "meaning": "eight" },
+        { "word": "九", "jyutping": "gau2", "meaning": "nine" },
+        { "word": "十", "jyutping": "sap6", "meaning": "ten" }
+      ]
+    },
+
+    {
+      "title": "Teen Numbers (11–19)",
+      "items": [
+        { "word": "十一", "jyutping": "sap6 jat1", "meaning": "eleven" },
+        { "word": "十二", "jyutping": "sap6 ji6", "meaning": "twelve" },
+        { "word": "十三", "jyutping": "sap6 saam1", "meaning": "thirteen" },
+        { "word": "十四", "jyutping": "sap6 sei3", "meaning": "fourteen" },
+        { "word": "十五", "jyutping": "sap6 ng5", "meaning": "fifteen" },
+        { "word": "十六", "jyutping": "sap6 luk6", "meaning": "sixteen" },
+        { "word": "十七", "jyutping": "sap6 cat1", "meaning": "seventeen" },
+        { "word": "十八", "jyutping": "sap6 baat3", "meaning": "eighteen" },
+        { "word": "十九", "jyutping": "sap6 gau2", "meaning": "nineteen" }
+      ]
+    },
+
+    {
+      "title": "Tens (20–90)",
+      "items": [
+        { "word": "二十", "jyutping": "ji6 sap6", "meaning": "twenty" },
+        { "word": "三十", "jyutping": "saam1 sap6", "meaning": "thirty" },
+        { "word": "四十", "jyutping": "sei3 sap6", "meaning": "forty" },
+        { "word": "五十", "jyutping": "ng5 sap6", "meaning": "fifty" },
+        { "word": "六十", "jyutping": "luk6 sap6", "meaning": "sixty" },
+        { "word": "七十", "jyutping": "cat1 sap6", "meaning": "seventy" },
+        { "word": "八十", "jyutping": "baat3 sap6", "meaning": "eighty" },
+        { "word": "九十", "jyutping": "gau2 sap6", "meaning": "ninety" }
+      ]
+    },
+
+    {
+      "title": "Hundreds, Thousands, and Beyond",
+      "items": [
+        { "word": "一百", "jyutping": "jat1 baak3", "meaning": "one hundred" },
+        { "word": "二百", "jyutping": "ji6 baak3", "meaning": "two hundred" },
+        { "word": "一千", "jyutping": "jat1 cin1", "meaning": "one thousand" },
+        { "word": "一萬", "jyutping": "jat1 maan6", "meaning": "ten thousand" },
+        { "word": "十萬", "jyutping": "sap6 maan6", "meaning": "one hundred thousand" },
+        { "word": "一百萬", "jyutping": "jat1 baak3 maan6", "meaning": "one million" }
+      ]
+    },
+
+    {
+      "title": "Common Spoken Variants & Odd Ones Out",
+      "items": [
+        { "word": "兩", "jyutping": "loeng5", "meaning": "two (before measure words)" },
+        { "word": "幾", "jyutping": "gei2", "meaning": "a few / several" },
+        { "word": "幾多", "jyutping": "gei2 do1", "meaning": "how many / how much" },
+        { "word": "半", "jyutping": "bun3", "meaning": "half" },
+        { "word": "多", "jyutping": "do1", "meaning": "many / much" },
+        { "word": "少", "jyutping": "siu2", "meaning": "few / little" }
+      ]
+    }
+  ]
+}

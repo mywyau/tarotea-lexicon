@@ -1,0 +1,71 @@
+{
+  "level": 5,
+  "title": "Level 5 – Work, services, and responsibility",
+  "description": "Handle work situations, services, expectations, and real-life responsibilities in natural spoken Cantonese.",
+  "categories": {
+    "work_and_professional_life": [
+      { "word": "工作", "jyutping": "gung1 zok3", "meaning": "work / job" },
+      { "word": "職位", "jyutping": "zik1 wai6", "meaning": "job position" },
+      { "word": "同事", "jyutping": "tung4 si6", "meaning": "colleague" },
+      { "word": "老闆", "jyutping": "lou5 baan2", "meaning": "boss" },
+      { "word": "上司", "jyutping": "soeng6 si1", "meaning": "supervisor" },
+      { "word": "負責", "jyutping": "fu6 zaak3", "meaning": "to be responsible for" }
+    ],
+
+    "tasks_and_processes": [
+      { "word": "任務", "jyutping": "jam6 mou6", "meaning": "task" },
+      { "word": "安排", "jyutping": "on1 paai4", "meaning": "to arrange" },
+      { "word": "流程", "jyutping": "lau4 cing4", "meaning": "process / workflow" },
+      { "word": "步驟", "jyutping": "bou6 zou6", "meaning": "steps" },
+      { "word": "跟進", "jyutping": "gan1 zeon3", "meaning": "to follow up" }
+    ],
+
+    "rules_and_expectations": [
+      { "word": "規矩", "jyutping": "kwai1 geoi2", "meaning": "rules" },
+      { "word": "要求", "jyutping": "jiu1 kau4", "meaning": "to require / requirement" },
+      { "word": "標準", "jyutping": "biu1 zeon2", "meaning": "standard" },
+      { "word": "責任", "jyutping": "zaak3 jam6", "meaning": "responsibility" },
+      { "word": "限制", "jyutping": "haan6 zai3", "meaning": "restriction" }
+    ],
+
+    "problems_and_resolution": [
+      { "word": "出現", "jyutping": "ceot1 jin6", "meaning": "to appear / arise" },
+      { "word": "延遲", "jyutping": "jin4 ci4", "meaning": "delay" },
+      { "word": "影響", "jyutping": "jing2 hoeng2", "meaning": "to affect" },
+      { "word": "處理", "jyutping": "cyu2 lei5", "meaning": "to handle" },
+      { "word": "解決", "jyutping": "gaai2 kyut3", "meaning": "to resolve" }
+    ],
+
+    "services_and_daily_systems": [
+      { "word": "服務", "jyutping": "fu6 mou6", "meaning": "service" },
+      { "word": "登記", "jyutping": "dang1 gei3", "meaning": "to register" },
+      { "word": "申請", "jyutping": "san1 cing2", "meaning": "to apply" },
+      { "word": "取消", "jyutping": "ceoi2 siu1", "meaning": "to cancel" },
+      { "word": "確認", "jyutping": "hok6 jing6", "meaning": "to confirm" }
+    ],
+
+    "politeness_and_negotiation": [
+      { "word": "麻煩你", "jyutping": "maa4 faan4 nei5", "meaning": "sorry to bother you" },
+      { "word": "唔好意思", "jyutping": "m4 hou2 ji3 si1", "meaning": "sorry / excuse me" },
+      { "word": "可唔可以", "jyutping": "ho2 m4 ho2 ji5", "meaning": "may I / is it possible" },
+      { "word": "介唔介意", "jyutping": "gaai3 m4 gaai3 ji3", "meaning": "do you mind" },
+      { "word": "幫忙", "jyutping": "bong1 mong4", "meaning": "to help (polite)" }
+    ],
+    
+    "cause_and_consequence": [
+      { "word": "因而", "jyutping": "jan1 ji4", "meaning": "thereby / as a result" },
+      { "word": "導致", "jyutping": "dou6 zi3", "meaning": "to lead to" },
+      { "word": "影響到", "jyutping": "jing2 hoeng2 dou3", "meaning": "to affect (result)" },
+      { "word": "避免", "jyutping": "bei6 min5", "meaning": "to avoid" },
+      { "word": "防止", "jyutping": "fong4 zi2", "meaning": "to prevent" }
+    ],
+
+    "evaluation_and_feedback": [
+      { "word": "表現", "jyutping": "biu2 jin6", "meaning": "performance" },
+      { "word": "進步", "jyutping": "zeon3 bou6", "meaning": "improvement" },
+      { "word": "不足", "jyutping": "bat1 zuk1", "meaning": "shortcoming" },
+      { "word": "滿意", "jyutping": "mun5 ji3", "meaning": "satisfied" },
+      { "word": "建議", "jyutping": "gin3 ji3", "meaning": "suggestion" }
+    ]
+  }
+}

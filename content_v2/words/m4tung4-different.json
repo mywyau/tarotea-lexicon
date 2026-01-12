@@ -1,0 +1,40 @@
+{
+  "id": "m4tung4-different",
+  "word": "唔同",
+  "jyutping": "m4 tung4",
+  "meaning": "different; not the same",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe things that are not the same"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我哋嘅意見唔同。",
+      "jyutping": "ngo5 dei6 ge3 ji3 gin3 m4 tung4",
+      "meaning": "Our opinions are different."
+    },
+    {
+      "sentence": "呢個同之前唔同。",
+      "jyutping": "ni1 go3 tung4 zi1 cin4 m4 tung4",
+      "meaning": "This is different from before."
+    }
+  ],
+
+  "audio": {
+    "word": "m4tung4-different.mp3",
+    "examples": [
+      "m4tung4-different-1.mp3",
+      "m4tung4-different-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "comparison"],
+
+  "related": [
+    "jat1joeng6-same",
+    "bei2gaau3-comparatively"
+  ]
+}

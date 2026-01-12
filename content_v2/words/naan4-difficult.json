@@ -1,0 +1,39 @@
+{
+  "id": "naan4-difficult",
+  "word": "難",
+  "jyutping": "naan4",
+  "meaning": "difficult",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe something that is hard to do or understand"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個問題好難。",
+      "jyutping": "ni1 go3 man6 tai4 hou2 naan4",
+      "meaning": "This problem is difficult."
+    },
+    {
+      "sentence": "對我嚟講有啲難。",
+      "jyutping": "deoi3 ngo5 lei4 gong2 jau5 di1 naan4",
+      "meaning": "It’s a bit difficult for me."
+    }
+  ],
+
+  "audio": {
+    "word": "naan4-difficult.mp3",
+    "examples": [
+      "naan4-difficult-1.mp3",
+      "naan4-difficult-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "difficulty"],
+
+  "related": [
+    "jung4ji6-easy"
+  ]
+}

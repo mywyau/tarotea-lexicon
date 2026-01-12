@@ -1,0 +1,40 @@
+{
+  "id": "jyun4sing4-complete",
+  "word": "完成",
+  "jyutping": "jyun4 sing4",
+  "meaning": "to complete / to finish",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to indicate something has been fully done"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我已經完成工作。",
+      "jyutping": "ngo5 ji5 ging1 jyun4 sing4 gung1 zok3",
+      "meaning": "I’ve completed the work."
+    },
+    {
+      "sentence": "任務完成。",
+      "jyutping": "jam6 mou6 jyun4 sing4",
+      "meaning": "The task is complete."
+    }
+  ],
+
+  "audio": {
+    "word": "jyun4sing4-complete.mp3",
+    "examples": [
+      "jyun4sing4-complete-1.mp3",
+      "jyun4sing4-complete-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "achievement"],
+
+  "related": [
+    "hoi1ci2-start",
+    "git3cuk1-end"
+  ]
+}

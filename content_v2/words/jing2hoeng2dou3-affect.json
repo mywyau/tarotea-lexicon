@@ -1,0 +1,40 @@
+{
+  "id": "jing2hoeng2dou3-affect",
+  "word": "影響到",
+  "jyutping": "jing2 hoeng2 dou3",
+  "meaning": "to affect; to impact (reach)",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to emphasise that the effect reaches a specific target"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢件事影響到進度。",
+      "jyutping": "ni1 gin6 si6 jing2 hoeng2 dou3 zeon3 dou6",
+      "meaning": "This matter affected the progress."
+    },
+    {
+      "sentence": "天氣影響到交通。",
+      "jyutping": "tin1 hei3 jing2 hoeng2 dou3 gaau1 tung1",
+      "meaning": "The weather affected transportation."
+    }
+  ],
+
+  "audio": {
+    "word": "jing2hoeng2dou3-affect.mp3",
+    "examples": [
+      "jing2hoeng2dou3-affect-1.mp3",
+      "jing2hoeng2dou3-affect-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "logic"],
+
+  "related": [
+    "jing2hoeng2-impact",
+    "dou6zi3-leadto"
+  ]
+}

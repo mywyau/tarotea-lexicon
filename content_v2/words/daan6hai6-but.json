@@ -1,0 +1,39 @@
+{
+  "id": "daan6hai6-but",
+  "word": "但係",
+  "jyutping": "daan6 hai6",
+  "meaning": "but; however",
+
+  "pos": ["conjunction"],
+
+  "usage": [
+    "Used to introduce a contrast or opposing idea"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我想去，但係冇時間。",
+      "jyutping": "ngo5 soeng2 heoi3 daan6 hai6 mou5 si4 gaan3",
+      "meaning": "I want to go, but I don’t have time."
+    },
+    {
+      "sentence": "佢唔貴，但係幾好用。",
+      "jyutping": "keoi5 m4 gwai3 daan6 hai6 gei2 hou2 jung6",
+      "meaning": "It’s not expensive, but it’s quite useful."
+    }
+  ],
+
+  "audio": {
+    "word": "daan6hai6-but.mp3",
+    "examples": [
+      "daan6hai6-but-1.mp3",
+      "daan6hai6-but-2.mp3"
+    ]
+  },
+
+  "tags": ["conjunction", "level-2", "logic"],
+
+  "related": [
+    "seoi1jin4-although"
+  ]
+}

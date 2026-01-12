@@ -1,0 +1,40 @@
+{
+  "id": "haan6zai3-limitation",
+  "word": "限制",
+  "jyutping": "haan6 zai3",
+  "meaning": "restriction; to limit",
+
+  "pos": ["noun", "verb"],
+
+  "usage": [
+    "Used to describe rules or conditions that limit actions or freedom"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個有時間限制。",
+      "jyutping": "ni1 go3 jau5 si4 gaan3 haan6 zai3",
+      "meaning": "There is a time limit."
+    },
+    {
+      "sentence": "法律限制咗呢種行為。",
+      "jyutping": "faat3 leot6 haan6 zai3 zo2 ni1 zung2 hang4 wai4",
+      "meaning": "The law restricted this kind of behaviour."
+    }
+  ],
+
+  "audio": {
+    "word": "haan6zai3-limitation.mp3",
+    "examples": [
+      "haan6zai3-limitation-1.mp3",
+      "haan6zai3-limitation-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "verb", "level-2", "work"],
+
+  "related": [
+    "kwai1geoi2-rule",
+    "jiu1kau4-requirement"
+  ]
+}

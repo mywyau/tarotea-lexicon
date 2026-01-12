@@ -1,0 +1,41 @@
+{
+  "id": "ming4baak6-understand",
+  "word": "明白",
+  "jyutping": "ming4 baak6",
+  "meaning": "to understand",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to indicate understanding of information or situations",
+    "Often used as a response"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我明白。",
+      "jyutping": "ngo5 ming4 baak6",
+      "meaning": "I understand."
+    },
+    {
+      "sentence": "你明白我意思嗎？",
+      "jyutping": "nei5 ming4 baak6 ngo5 ji3 si1 maa3",
+      "meaning": "Do you understand what I mean?"
+    }
+  ],
+
+  "audio": {
+    "word": "ming4baak6-understand.mp3",
+    "examples": [
+      "ming4baak6-understand-1.mp3",
+      "ming4baak6-understand-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "core", "comprehension"],
+
+  "related": [
+    "ming4m4ming4-understand-q",
+    "soeng1seon3-believe"
+  ]
+}

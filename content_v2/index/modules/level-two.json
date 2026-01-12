@@ -1,0 +1,31 @@
+{
+  "level": 2,
+  "title": "HSK 2 similar level – Everyday Spoken Cantonese",
+  "description": "Common conversational patterns used in daily life, questions, and simple opinions.",
+  "items": [
+    {
+      "id": "dont_know_01",
+      "sentence": "我唔知",
+      "jyutping": "ngo5 m4 zi1",
+      "english": "I don't know."
+    },
+    {
+      "id": "ok_not_ok_01",
+      "sentence": "得唔得？",
+      "jyutping": "dak1 m4 dak1",
+      "english": "Is that OK?"
+    },
+    {
+      "id": "where_go_01",
+      "sentence": "你去邊度？",
+      "jyutping": "nei5 heoi3 bin1 dou6",
+      "english": "Where are you going?"
+    },
+    {
+      "id": "how_much_01",
+      "sentence": "幾多錢？",
+      "jyutping": "gei2 do1 cin2",
+      "english": "How much is it?"
+    }
+  ]
+}

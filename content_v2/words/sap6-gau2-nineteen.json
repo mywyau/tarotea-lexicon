@@ -1,0 +1,41 @@
+{
+  "id": "sap6-gau2-nineteen",
+  "word": "十九",
+  "jyutping": "sap6 gau2",
+  "meaning": "nineteen",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number nineteen",
+    "Common in dates, time, and counting"
+  ],
+
+  "examples": [
+    {
+      "sentence": "我十九點鐘到。",
+      "jyutping": "ngo5 sap6 gau2 dim2 zung1 dou3",
+      "meaning": "I’ll arrive at 7pm."
+    },
+    {
+      "sentence": "十九日之前要完成。",
+      "jyutping": "sap6 gau2 jat6 zi1 cin4 jiu3 jyun4 sing4",
+      "meaning": "It needs to be finished before the nineteenth."
+    }
+  ],
+
+  "audio": {
+    "word": "sap6-gau2-nineteen.mp3",
+    "examples": [
+      "sap6-gau2-nineteen-1.mp3",
+      "sap6-gau2-nineteen-2.mp3"
+    ]
+  },
+
+  "tags": ["number", "teens", "level-1"],
+
+  "related": [
+    "sap6-baat3-eighteen",
+    "ji6-sap6-twenty"
+  ]
+}

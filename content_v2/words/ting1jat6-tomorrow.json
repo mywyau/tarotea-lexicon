@@ -1,0 +1,40 @@
+{
+  "id": "ting1jat6-tomorrow",
+  "word": "聽日",
+  "jyutping": "ting1 jat6",
+  "meaning": "tomorrow",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to the day after today"
+  ],
+
+  "examples": [
+    {
+      "sentence": "聽日見。",
+      "jyutping": "ting1 jat6 gin3",
+      "meaning": "See you tomorrow."
+    },
+    {
+      "sentence": "我聽日唔得閒。",
+      "jyutping": "ngo5 ting1 jat6 m4 dak1 haan4",
+      "meaning": "I’m not free tomorrow."
+    }
+  ],
+
+  "audio": {
+    "word": "ting1jat6-tomorrow.mp3",
+    "examples": [
+      "ting1jat6-tomorrow-1.mp3",
+      "ting1jat6-tomorrow-2.mp3"
+    ]
+  },
+
+  "tags": ["time", "level-1", "core", "daily-life"],
+
+  "related": [
+    "gam1jat6-today",
+    "cam4jat6-yesterday"
+  ]
+}
