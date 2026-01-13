@@ -19,14 +19,15 @@ def run():
     resources = load_json(Path(args.resources))
 
     for item in resources:
+        filename = item.get("filename")
         word_id = item.get("id")
         text = item.get("text")
 
-        if not word_id or not text:
+        if not word_id or not text or not filename:
             print(f"⚠️  Skipping invalid resource: {item}")
             continue
 
-        out = output_dir / f"{text}.mp3"
+        out = output_dir / f"{filename}.mp3"
 
         if out.exists():
             print(f"⏭️  Skipping existing audio: {out.name}")
