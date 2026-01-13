@@ -3,12 +3,43 @@
   "word": "嚟",
   "jyutping": "lei4",
   "meaning": "to come",
+
+  "pos": ["verb"],
+
   "usage": [
-    "Movement toward the speaker"
+    "Used to indicate movement toward the speaker",
+    "Often contrasted with 去 (to go)",
+    "Commonly used with places, people, or activities"
   ],
+
   "examples": [
-    "佢嚟緊。",
-    "你幾時嚟？",
-    "朋友嚟我屋企。"
+    {
+      "id": "lei4-come-exmaple-1",
+      "sentence": "你幾時嚟？",
+      "jyutping": "nei5 gei2 si4 lei4",
+      "meaning": "When are you coming?"
+    },
+    {
+      "id": "lei4-come-exmaple-2",
+      "sentence": "佢而家嚟緊。",
+      "jyutping": "keoi5 ji4 gaa1 lei4 gan2",
+      "meaning": "He’s coming now."
+    }
+  ],
+
+  "audio": {
+    "word": "lei4-come.mp3",
+    "examples": [
+      "lei4-come-exmaple-1.mp3",
+      "lei4-come-exmaple-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "movement"],
+
+  "related": [
+    "heoi3-go",
+    "lei4-zo2-came",
+    "lei4-gan2-coming"
   ]
 }

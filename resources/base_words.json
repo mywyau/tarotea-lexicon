@@ -8,14 +8,14 @@
   { "filename": "keoi5-he-she-example-1", "id": "佢今日唔嚟。", "text": "佢今日唔嚟。" },
   { "filename": "keoi5-he-she-example-2", "id": "我識佢好耐。", "text": "我識佢好耐。" },
 
-  { "filename": "ngo5dei6-we-example-1", "id": "我哋已經準備好。", "text": "我哋已經準備好。" },
-  { "filename": "ngo5dei6-we-example-2", "id": "我哋一齊去食飯。", "text": "我哋一齊去食飯。" },
+  { "filename": "ngo5dei6-we-example-1", "id": "我哋一齊去食飯。", "text": "我哋一齊去食飯。" },
+  { "filename": "ngo5dei6-we-example-2", "id": "我哋已經準備好。", "text": "我哋已經準備好。" },
 
   { "filename": "nei5dei6-you-plural-example-1", "id": "你哋幾點到？", "text": "你哋幾點到？" },
   { "filename": "nei5dei6-you-plural-example-2", "id": "我等緊你哋。", "text": "我等緊你哋。" },
 
-  { "filename": "keoi5dei6-they-example-1", "id": "呢度好多人。", "text": "呢度好多人。" },
-  { "filename": "keoi5dei6-they-example-2", "id": "佢係一個好人。", "text": "佢係一個好人。" },
+  { "filename": "keoi5dei6-they-plural-example-1", "id": "佢哋已經走咗。", "text": "佢哋已經走咗。" },
+  { "filename": "keoi5dei6-they-plural-example-2", "id": "我等緊佢哋。", "text": "我等緊佢哋。" },
 
   { "filename": "pang4jau5-friend-example-1", "id": "佢係我最好嘅朋友。", "text": "佢係我最好嘅朋友。" },
   { "filename": "pang4jau5-friend-example-2", "id": "我同朋友出去玩。", "text": "我同朋友出去玩。" },
@@ -35,12 +35,21 @@
   { "filename": "sai3lou2-younger-brother-example-1", "id": "我細佬仲讀緊書。", "text": "我細佬仲讀緊書。" },
   { "filename": "sai3lou2-younger-brother-example-2", "id": "細佬今日冇返學。", "text": "細佬今日冇返學。" },
 
-  { "filename": "sai3mui2-younger-sister-example-1", "id": "我細妹好鍾意畫畫。", "text": "我細妹好鍾意畫畫。" },
-  { "filename": "sai3mui2-younger-sister-example-2", "id": "細妹而家瞓緊覺。", "text": "細妹而家瞓緊覺。" },
+  { "filename": "sai3mui6-younger-sister-example-1", "id": "我細妹好鍾意畫畫。", "text": "我細妹好鍾意畫畫。" },
+  { "filename": "sai3mui6-younger-sister-example-2", "id": "細妹而家瞓緊覺。", "text": "細妹而家瞓緊覺。" },
 
   { "filename": "hai6-be-example-1", "id": "我係學生。", "text": "我係學生。" },
   { "filename": "hai6-be-example-2", "id": "呢個係我朋友。", "text": "呢個係我朋友。" },
 
-  { "filename": "jau5-have-example-1", "id": "呢度有好多人。", "text": "呢度有好多人。" },
-  { "filename": "jau5-have-example-2", "id": "我有時間。", "text": "我有時間。" }
+  { "filename": "jau5-have-example-1", "id": "我有時間。", "text": "我有時間。" },
+  { "filename": "jau5-have-example-2", "id": "呢度有好多人。", "text": "呢度有好多人。" },
+
+  { "filename": "mou5-not-have-exmaple-1", "id": "我冇時間。", "text": "我冇時間。" },
+  { "filename": "mou5-not-have-exmaple-2", "id": "呢度冇人。", "text": "呢度冇人。" },
+
+  { "filename": "heoi3-go-exmaple-1", "id": "我去返工。", "text": "我去返工。" },
+  { "filename": "heoi3-go-exmaple-2", "id": "我哋去食飯。", "text": "我哋去食飯。" },
+
+  { "filename": "lei4-come-exmaple-1", "id": "你幾時嚟？", "text": "你幾時嚟？" },
+  { "filename": "lei4-come-exmaple-2", "id": "佢而家嚟緊。", "text": "佢而家嚟緊。" },
 ]

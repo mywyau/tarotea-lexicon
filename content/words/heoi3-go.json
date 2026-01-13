@@ -3,12 +3,43 @@
   "word": "去",
   "jyutping": "heoi3",
   "meaning": "to go",
+
+  "pos": ["verb"],
+
   "usage": [
-    "Movement away from the speaker"
+    "Used to indicate movement away from the speaker",
+    "Commonly used with places or activities",
+    "Can be combined with other verbs to indicate purpose"
   ],
+
   "examples": [
-    "我去返工。",
-    "佢去學校。",
-    "我哋去食飯。"
+    {
+      "id": "heoi3-go-exmaple-1",
+      "sentence": "我去返工。",
+      "jyutping": "ngo5 heoi3 faan1 gung1",
+      "meaning": "I go to work."
+    },
+    {
+      "id": "heoi3-go-exmaple-2",
+      "sentence": "我哋去食飯。",
+      "jyutping": "ngo5 dei6 heoi3 sik6 faan6",
+      "meaning": "We’re going to eat."
+    }
+  ],
+
+  "audio": {
+    "word": "heoi3-go.mp3",
+    "examples": [
+      "heoi3-go-exmaple-1.mp3",
+      "heoi3-go-exmaple-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "movement"],
+
+  "related": [
+    "lei4-come",
+    "heoi3-zo2-went",
+    "heoi3-dou3-arrive"
   ]
 }
