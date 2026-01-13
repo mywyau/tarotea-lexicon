@@ -1,15 +1,12 @@
 # openai-tts
 
-## What this does
+## What does this app do?
 
-Batch-generate Cantonese TTS audio for dictionary content.
+Batch-generate Cantonese Text To Speech audio for TaroTea site content. Or can be used to call OpenAI's api for conversion 
 
 ## Usage
 
-python scripts/generate_words.py --input ... --output ...
-
 source .venv/bin/activate
-
 
 ### Dry run is just a test run nothing will be generated :)
 
@@ -23,7 +20,11 @@ python scripts/generate_words.py \
 
 ### Production run, this will actually bill you :)
 
-You first need to edit the words in base_words.json 
+You first need to edit the data for the words/sentences wanted in 
+
+```
+base_words.json 
+```
 
 Then we can run this script to call openapi to convert out text to speech.
 The cantonese context is inferred and using cantonese style langauge helps the ai speak using cantonese. 
@@ -40,6 +41,8 @@ or
 ./run_prod.sh
 ```
 
+The conversion is prefixed with "用廣東話讀" which we will trim. 
+
 We then need to trim the sound file and remove the prefix in the next step
 
 
@@ -47,7 +50,9 @@ We then need to trim the sound file and remove the prefix in the next step
 
 After installing ffmpeg we can then trim the file of the prompt that aids openai to use cantonese speech
 
-in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert
+in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert and edit our audio
+
+Some example commands
 
 ```
 ffmpeg -i 我今日要返工，所以唔得閒.mp3 -af "atrim=start=1.3" cleaned/我今日要返工，所以唔得閒.mp3
@@ -71,9 +76,11 @@ ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.8,asetpts=PTS-STARTPTS" cleaned/
 ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.6" cleaned/九月.mp3
 ```
 
+
+```
 ffmpeg -i cleaned/九月.mp3 -af "atrim=end=1.6" cleaned/九月2.mp3
 
 ffmpeg -i cleaned/我之前去過香港好多次.mp3 -af "atrim=end=0.5" cleaned/我之前去過香港好多次2.mp3
 
 ffmpeg -i 我.mp3 -af "atrim=start=1.3" cleaned/我.mp3
-
+```
