@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "pang4-jau5-friend-exmaple-1",
       "sentence": "佢係我最好嘅朋友。",
       "jyutping": "keoi5 hai6 ngo5 zeoi3 hou2 ge3 pang4 jau5",
       "meaning": "He / she is my best friend."
     },
     {
+      "id": "pang4-jau5-friend-exmaple-2",
       "sentence": "我同朋友出去玩。",
       "jyutping": "ngo5 tung4 pang4 jau5 ceot1 heoi3 waan2",
       "meaning": "I’m going out with friends."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "pang4-jau5-friend.mp3",
     "examples": [
-      "pang4-jau5-friend-1.mp3",
-      "pang4-jau5-friend-2.mp3"
+      "pang4-jau5-friend-exmaple-1.mp3",
+      "pang4-jau5-friend-exmaple-2.mp3"
     ]
   },
 
