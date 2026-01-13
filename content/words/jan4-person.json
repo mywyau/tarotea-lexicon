@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "jan4-person-example-1",
       "sentence": "呢度好多人。",
       "jyutping": "ni1 dou6 hou2 do1 jan4",
       "meaning": "There are a lot of people here."
     },
     {
+      "id": "jan4-person-example-2",
       "sentence": "佢係一個好人。",
       "jyutping": "keoi5 hai6 jat1 go3 hou2 jan4",
       "meaning": "He / she is a good person."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "jan4-person.mp3",
     "examples": [
-      "jan4-person-1.mp3",
-      "jan4-person-2.mp3"
+      "jan4-person-example-1.mp3",
+      "jan4-person-example-2.mp3"
     ]
   },
 
