@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "sai3-mui6-younger-sister-exmaple-1",
       "sentence": "我細妹好鍾意畫畫。",
       "jyutping": "ngo5 sai3 mui6 hou2 zung1 ji3 waa2 waa2",
       "meaning": "My younger sister really likes drawing."
     },
     {
+      "id": "sai3-mui6-younger-sister-exmaple-2",
       "sentence": "細妹而家瞓緊覺。",
       "jyutping": "sai3 mui6 ji4 gaa1 fan3 gan2 gaau3",
       "meaning": "My younger sister is sleeping now."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "sai3-mui6-younger-sister.mp3",
     "examples": [
-      "sai3-mui6-younger-sister-1.mp3",
-      "sai3-mui6-younger-sister-2.mp3"
+      "sai3-mui6-younger-sister-exmaple-1.mp3",
+      "sai3-mui6-younger-sister-exmaple-2.mp3"
     ]
   },
 

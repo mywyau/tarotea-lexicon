@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "ze1-ze1-older-sister-example-1",
       "sentence": "我姐姐好細心。",
       "jyutping": "ngo5 ze1 ze1 hou2 sai3 sam1",
       "meaning": "My older sister is very considerate."
     },
     {
+      "id": "ze1-ze1-older-sister-example-2",
       "sentence": "姐姐教我點做。",
       "jyutping": "ze1 ze1 gaau3 ngo5 dim2 zou6",
       "meaning": "My sister taught me how to do it."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "ze1-ze1-older-sister.mp3",
     "examples": [
-      "ze1-ze1-older-sister-1.mp3",
-      "ze1-ze1-older-sister-2.mp3"
+      "ze1-ze1-older-sister-example-1.mp3",
+      "ze1-ze1-older-sister-example-2.mp3"
     ]
   },
 

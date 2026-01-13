@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "sai3-lou2-younger-brother-example-1",
       "sentence": "我細佬仲讀緊書。",
       "jyutping": "ngo5 sai3 lou2 zung6 duk6 gan2 syu1",
       "meaning": "My younger brother is still studying."
     },
     {
+      "id": "sai3-lou2-younger-brother-example-2",
       "sentence": "細佬今日冇返學。",
       "jyutping": "sai3 lou2 gam1 jat6 mou5 faan1 hok6",
       "meaning": "My younger brother didn’t go to school today."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "sai3-lou2-younger-brother.mp3",
     "examples": [
-      "sai3-lou2-younger-brother-1.mp3",
-      "sai3-lou2-younger-brother-2.mp3"
+      "sai3-lou2-younger-brother-example-1.mp3",
+      "sai3-lou2-younger-brother-example-2.mp3"
     ]
   },
 
