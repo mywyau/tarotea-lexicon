@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "ngo5-dei6-we-example-1",
       "sentence": "我哋一齊去食飯。",
       "jyutping": "ngo5 dei6 jat1 cai4 heoi3 sik6 faan6",
       "meaning": "Let’s go eat together."
     },
     {
+      "id": "ngo5-dei6-we-example-2",
       "sentence": "我哋已經準備好。",
       "jyutping": "ngo5 dei6 ji5 ging1 zeon2 bei6 hou2",
       "meaning": "We’re already ready."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "ngo5-dei6-we.mp3",
     "examples": [
-      "ngo5-dei6-we-1.mp3",
-      "ngo5-dei6-we-2.mp3"
+      "ngo5-dei6-we-example-1.mp3",
+      "ngo5-dei6-we-example-2.mp3"
     ]
   },
 
