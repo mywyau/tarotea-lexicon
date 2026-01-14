@@ -55,12 +55,8 @@ in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert and e
 Some example commands
 
 ```
-ffmpeg -i 我今日要返工，所以唔得閒.mp3 -af "atrim=start=1.3" cleaned/我今日要返工，所以唔得閒.mp3
-ffmpeg -i 我覺得呢間餐廳啲嘢好好食.mp3 -af "atrim=start=1.3" cleaned/我覺得呢間餐廳啲嘢好好食.mp3
-ffmpeg -i 如果你有時間，可以搵我一齊去.mp3 -af "atrim=start=1.3" cleaned/如果你有時間，可以搵我一齊去.mp3
-ffmpeg -i 我之前去過香港好多次.mp3 -af "atrim=start=1.3" cleaned/我之前去過香港好多次.mp3
-ffmpeg -i 其實我都唔係好清楚點做.mp3 -af "atrim=start=1.3" cleaned/其實我都唔係好清楚點做.mp3
-ffmpeg -i 我本來想去，但最後冇去到.mp3 -af "atrim=start=1.3" cleaned/我本來想去，但最後冇去到.mp3
+ffmpeg -i ngo5dei6-we-example-1.mp3 -af "atrim=start=1.3" cleaned/ngo5dei6-we-example-1.mp3
+ffmpeg -i ngo5dei6-we-example-2.mp3 -af "atrim=start=1.3" cleaned/ngo5dei6-we-example-2.mp3
 ```
 
 ### Trim for single words alter the trim timing
@@ -78,9 +74,10 @@ ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.6" cleaned/九月.mp3
 
 
 ```
-ffmpeg -i cleaned/九月.mp3 -af "atrim=end=1.6" cleaned/九月2.mp3
-
+ffmpeg -i cleaned/ngo5dei6-we-example-1.mp3 -af "atrim=end=0.5" cleaned/ngo5dei6-we.mp3
 ffmpeg -i cleaned/我之前去過香港好多次.mp3 -af "atrim=end=0.5" cleaned/我之前去過香港好多次2.mp3
 
 ffmpeg -i 我.mp3 -af "atrim=start=1.3" cleaned/我.mp3
 ```
+
+
