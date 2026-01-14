@@ -55,8 +55,8 @@ in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert and e
 Some example commands
 
 ```
-ffmpeg -i ngo5dei6-we-example-1.mp3 -af "atrim=start=1.3" cleaned/ngo5dei6-we-example-1.mp3
-ffmpeg -i ngo5dei6-we-example-2.mp3 -af "atrim=start=1.3" cleaned/ngo5dei6-we-example-2.mp3
+ffmpeg -i jan4-person-example-1.mp3 -af "atrim=start=1.2" cleaned/jan4-person-example-1.mp3
+ffmpeg -i jan4-person-example-2.mp3 -af "atrim=start=1.2" cleaned/jan4-person-example-2.mp3
 ```
 
 ### Trim for single words alter the trim timing
@@ -74,7 +74,7 @@ ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.6" cleaned/九月.mp3
 
 
 ```
-ffmpeg -i cleaned/ngo5dei6-we-example-1.mp3 -af "atrim=end=0.5" cleaned/ngo5dei6-we.mp3
+ffmpeg -i jan4-person-example-2.mp3 -af "atrim=start=2.1" cleaned/jan4-person.mp3
 ffmpeg -i cleaned/我之前去過香港好多次.mp3 -af "atrim=end=0.5" cleaned/我之前去過香港好多次2.mp3
 
 ffmpeg -i 我.mp3 -af "atrim=start=1.3" cleaned/我.mp3
