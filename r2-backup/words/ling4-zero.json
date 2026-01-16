@@ -1,0 +1,57 @@
+{
+  "id": "ling4-zero",
+  "word": "零",
+  "jyutping": "ling4",
+  "meaning": "zero",
+
+  "pos": ["number"],
+
+  "usage": [
+    "Used as the number zero",
+    "Common in phone numbers, scores, prices, and temperatures",
+    "Often used between digits when reading long numbers aloud"
+  ],
+
+  "examples": [
+    {
+      "id": "ling4-zero-example-1",
+      "sentence": "而家係零度。",
+      "jyutping": "ji4 gaa1 hai6 ling4 dou6",
+      "meaning": "It’s zero degrees now."
+    },
+    {
+      "id": "ling4-zero-example-2",
+      "sentence": "比分係二比零。",
+      "jyutping": "bei2 fan1 hai6 ji6 bei2 ling4",
+      "meaning": "The score is two to zero."
+    },
+    {
+      "id": "ling4-zero-example-3",
+      "sentence": "我電話號碼有零。",
+      "jyutping": "ngo5 din6 waa2 hou6 maa5 jau5 ling4",
+      "meaning": "My phone number has a zero."
+    }
+  ],
+
+  "audio": {
+    "word": "ling4-zero.mp3",
+    "examples": [
+      "ling4-zero-example-1.mp3",
+      "ling4-zero-example-2.mp3",
+      "ling4-zero-example-3.mp3"
+    ]
+  },
+
+  "tags": [
+    "number",
+    "core",
+    "level-1",
+    "spoken"
+  ],
+
+  "related": [
+    "jat1-one",
+    "ji6-two",
+    "sap6-ten"
+  ]
+}
