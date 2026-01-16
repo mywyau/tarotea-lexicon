@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "luk6-six-example-1",
       "sentence": "我六點鐘起身。",
       "jyutping": "ngo5 luk6 dim2 zung1 hei2 san1",
       "meaning": "I get up at six o’clock."
     },
     {
+      "id": "luk6-six-example-2",
       "sentence": "呢度有六張枱。",
       "jyutping": "ni1 dou6 jau5 luk6 zoeng1 toi2",
       "meaning": "There are six tables here."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "luk6-six.mp3",
     "examples": [
-      "luk6-six-1.mp3",
-      "luk6-six-2.mp3"
+      "luk6-six-example-1.mp3",
+      "luk6-six-example-2.mp3"
     ]
   },
 

@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "gau2-nine-example-1",
       "sentence": "九點半見。",
       "jyutping": "gau2 dim2 bun3 gin3",
       "meaning": "See you at nine thirty."
     },
     {
+      "id": "gau2-nine-example-2",
       "sentence": "佢有九年經驗。",
       "jyutping": "keoi5 jau5 gau2 nin4 ging1 jim6",
       "meaning": "He has nine years of experience."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "gau2-nine.mp3",
     "examples": [
-      "gau2-nine-1.mp3",
-      "gau2-nine-2.mp3"
+      "gau2-nine-example-1.mp3",
+      "gau2-nine-example-2.mp3"
     ]
   },
 
