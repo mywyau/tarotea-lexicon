@@ -1,0 +1,45 @@
+{
+  "id": "jau5-have",
+  "word": "有",
+  "jyutping": "jau5",
+  "meaning": "to have; to exist",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to express possession or existence",
+    "Often paired with 冇 for negation",
+    "Commonly used to indicate that something is present or available"
+  ],
+
+  "examples": [
+    {
+      "id": "jau5-have-example-1",
+      "sentence": "我有時間。",
+      "jyutping": "ngo5 jau5 si4 gaan3",
+      "meaning": "I have time."
+    },
+    {
+      "id": "jau5-have-example-2",
+      "sentence": "呢度有好多人。",
+      "jyutping": "ni1 dou6 jau5 hou2 do1 jan4",
+      "meaning": "There are many people here."
+    }
+  ],
+
+  "audio": {
+    "word": "jau5-have.mp3",
+    "examples": [
+      "jau5-have-example-1.mp3",
+      "jau5-have-example-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "grammar"],
+
+  "related": [
+    "mou5-not-have",
+    "jau5-mou5-have-question",
+    "hai6-be"
+  ]
+}

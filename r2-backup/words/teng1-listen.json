@@ -1,0 +1,44 @@
+{
+  "id": "teng1-listen",
+  "word": "聽",
+  "jyutping": "teng1",
+  "meaning": "to listen; to hear",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe listening to sounds, speech, or music",
+    "Commonly used for listening to music, conversations, or instructions"
+  ],
+
+  "examples": [
+    {
+      "id": "teng1-listen-exmaple-1",
+      "sentence": "我聽緊音樂。",
+      "jyutping": "ngo5 teng1 gan2 jam1 ngok6",
+      "meaning": "I’m listening to music."
+    },
+    {
+      "id": "teng1-listen-exmaple-2",
+      "sentence": "你有冇聽到？",
+      "jyutping": "nei5 jau5 mou5 teng1 dou3",
+      "meaning": "Did you hear it?"
+    }
+  ],
+
+  "audio": {
+    "word": "teng1-listen.mp3",
+    "examples": [
+      "teng1-listen-exmaple-1.mp3",
+      "teng1-listen-exmaple-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "action"],
+
+  "related": [
+    "tai2-look",
+    "teng1-dou3-hear",
+    "teng1-gan2-listening"
+  ]
+}

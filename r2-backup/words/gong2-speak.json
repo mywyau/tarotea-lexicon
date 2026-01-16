@@ -1,0 +1,44 @@
+{
+  "id": "gong2-speak",
+  "word": "講",
+  "jyutping": "gong2",
+  "meaning": "to speak; to say; to talk",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe speaking or saying something",
+    "Commonly used for talking, explaining, or telling"
+  ],
+
+  "examples": [
+    {
+      "id": "gong2-speak-exmaple-1",
+      "sentence": "佢講廣東話。",
+      "jyutping": "keoi5 gong2 gwong2 dung1 waa2",
+      "meaning": "He speaks Cantonese."
+    },
+    {
+      "id": "gong2-speak-exmaple-2",
+      "sentence": "你講咩呀？",
+      "jyutping": "nei5 gong2 me1 aa3",
+      "meaning": "What are you saying?"
+    }
+  ],
+
+  "audio": {
+    "word": "gong2-speak.mp3",
+    "examples": [
+      "gong2-speak-exmaple-1.mp3",
+      "gong2-speak-exmaple-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "communication"],
+
+  "related": [
+    "teng1-listen",
+    "gong2-waa2-speak-language",
+    "gong2-zo2-said"
+  ]
+}

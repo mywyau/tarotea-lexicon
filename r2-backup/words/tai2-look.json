@@ -1,0 +1,44 @@
+{
+  "id": "tai2-look",
+  "word": "睇",
+  "jyutping": "tai2",
+  "meaning": "to look at; to watch; to see",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe looking at or watching something",
+    "Commonly used for watching TV, movies, or reading"
+  ],
+
+  "examples": [
+    {
+      "id": "tai2-look-exmaple-1",
+      "sentence": "我睇緊電視。",
+      "jyutping": "ngo5 tai2 gan2 din6 si6",
+      "meaning": "I’m watching TV."
+    },
+    {
+      "id": "tai2-look-exmaple-2",
+      "sentence": "你睇下呢個。",
+      "jyutping": "nei5 tai2 haa5 ni1 go3",
+      "meaning": "Take a look at this."
+    }
+  ],
+
+  "audio": {
+    "word": "tai2-look.mp3",
+    "examples": [
+      "tai2-look-exmaple-1.mp3",
+      "tai2-look-exmaple-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "action"],
+
+  "related": [
+    "zou6-do",
+    "tai2-gan2-watching",
+    "tai2-zo2-watched"
+  ]
+}
