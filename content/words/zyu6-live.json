@@ -12,12 +12,14 @@
 
   "examples": [
     {
+      "id": "zyu6-live-example-1",
       "sentence": "我住喺香港。",
       "jyutping": "ngo5 zyu6 hai2 hoeng1 gong2",
       "meaning": "I live in Hong Kong."
     },
     {
-      "sentence": "你住邊？",
+      "id": "zyu6-live-example-2",
+      "sentence": "你住邊度？",
       "jyutping": "nei5 zyu6 bin1",
       "meaning": "Where do you live?"
     }
@@ -26,8 +28,8 @@
   "audio": {
     "word": "zyu6-live.mp3",
     "examples": [
-      "zyu6-live-1.mp3",
-      "zyu6-live-2.mp3"
+      "zyu6-live-example-1.mp3",
+      "zyu6-live-example-2.mp3"
     ]
   },
 

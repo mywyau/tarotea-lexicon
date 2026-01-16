@@ -1,38 +1,5 @@
 [
-  { "filename": "jan4-person", "id": "人。", "text": "人。" },
-  { "filename": "jan4-person-example-1", "id": "呢度好多人。", "text": "呢度好多人。" },
-  { "filename": "jan4-person-example-2", "id": "佢係一個好人。", "text": "佢係一個好人。" },
-
-  { "filename": "baa4baa1-father-example-1", "id": "我爸爸好忙。", "text": "我爸爸好忙。" },
-  { "filename": "baa4baa1-father-example-2", "id": "爸爸今日返工。", "text": "爸爸今日返工。" },
-
-  { "filename": "maa4maa1-mother-example-1", "id": "我媽媽煮飯好叻。", "text": "我媽媽煮飯好叻。" },
-  { "filename": "maa4maa1-mother-example-2", "id": "媽媽而家喺屋企。", "text": "媽媽而家喺屋企。" },
-
-  { "filename": "go1go1-older-brother-example-1", "id": "我哥哥住喺香港。", "text": "我哥哥住喺香港。" },
-  { "filename": "go1go1-older-brother-example-2", "id": "哥哥幫我一次。", "text": "哥哥幫我一次。" },
-
-  { "filename": "ze1ze1-older-sister-example-1", "id": "我姐姐好細心。", "text": "我姐姐好細心。" },
-  { "filename": "ze1ze1-older-sister-example-2", "id": "姐姐教我點做。", "text": "姐姐教我點做。" },
-
-  { "filename": "sai3lou2-younger-brother-example-1", "id": "我細佬仲讀緊書。", "text": "我細佬仲讀緊書。" },
-  { "filename": "sai3lou2-younger-brother-example-2", "id": "細佬今日冇返學。", "text": "細佬今日冇返學。" },
-
-  { "filename": "sai3mui6-younger-sister-example-1", "id": "我細妹好鍾意畫畫。", "text": "我細妹好鍾意畫畫。" },
-  { "filename": "sai3mui6-younger-sister-example-2", "id": "細妹而家瞓緊覺。", "text": "細妹而家瞓緊覺。" },
-
-  { "filename": "hai6-be-example-1", "id": "我係學生。", "text": "我係學生。" },
-  { "filename": "hai6-be-example-2", "id": "呢個係我朋友。", "text": "呢個係我朋友。" },
-
-  { "filename": "jau5-have-example-1", "id": "我有時間。", "text": "我有時間。" },
-  { "filename": "jau5-have-example-2", "id": "呢度有好多人。", "text": "呢度有好多人。" },
-
-  { "filename": "mou5-not-have-example-1", "id": "我冇時間。", "text": "我冇時間。" },
-  { "filename": "mou5-not-have-example-2", "id": "呢度冇人。", "text": "呢度冇人。" },
-
-  { "filename": "heoi3-go-example-1", "id": "我去返工。", "text": "我去返工。" },
-  { "filename": "heoi3-go-example-2", "id": "我哋去食飯。", "text": "我哋去食飯。" },
-
-  { "filename": "lei4-come-example-1", "id": "你幾時嚟？", "text": "你幾時嚟？" },
-  { "filename": "lei4-come-example-2", "id": "佢而家嚟緊。", "text": "佢而家嚟緊。" },
+  { "filename": "kei5-stand", "id": "企。", "text": "企。" },
+  { "filename": "kei5-stand-example-1", "id": "企喺度。", "text": "企喺度。" },
+  { "filename": "kei5-stand-example-2", "id": "唔好企出嚟。", "text": "唔好企出嚟。" }
 ]

@@ -2,32 +2,35 @@
   "id": "co5-sit",
   "word": "坐",
   "jyutping": "co5",
-  "meaning": "to sit",
+  "meaning": "to sit; to take (transport)",
 
   "pos": ["verb"],
 
   "usage": [
-    "Used for sitting or taking a seat"
+    "Used for sitting or taking a seat",
+    "Also used to describe taking public transport (e.g. MTR, bus)"
   ],
 
   "examples": [
     {
-      "sentence": "坐低啦。",
-      "jyutping": "co5 dai1 laa1",
-      "meaning": "Sit down."
+      "id": "co5-sit-example-1",
+      "sentence": "我每日返工都坐地鐵。",
+      "jyutping": "ngo5 mui5 jat6 faan1 gung1 dou1 co5 dei6 tit3",
+      "meaning": "I take the MTR to work every day."
     },
     {
-      "sentence": "我坐呢度。",
-      "jyutping": "ngo5 co5 ni1 dou6",
-      "meaning": "I sit here."
+      "id": "co5-sit-example-2",
+      "sentence": "佢返工通常都坐巴士。",
+      "jyutping": "keoi5 faan1 gung1 tung1 soeng4 dou1 co5 baa1 si2",
+      "meaning": "He usually takes the bus to work."
     }
   ],
 
   "audio": {
     "word": "co5-sit.mp3",
     "examples": [
-      "co5-sit-1.mp3",
-      "co5-sit-2.mp3"
+      "co5-sit-example-1.mp3",
+      "co5-sit-example-2.mp3"
     ]
   },
 

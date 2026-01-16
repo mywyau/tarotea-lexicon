@@ -2,13 +2,51 @@
   "id": "faan1-return",
   "word": "返",
   "jyutping": "faan1",
-  "meaning": "to return / to go back / to go (regularly)",
+  "meaning": "to return; to go back; to go (regularly)",
+
+  "pos": ["verb"],
+
   "usage": [
-    "Commonly used with work, school, or home"
+    "Used to indicate returning to a familiar place",
+    "Commonly used with work, school, or home",
+    "Often implies a regular or habitual destination"
   ],
+
   "examples": [
-    "我返屋企。",
-    "佢返工。",
-    "我哋返學。"
+    {
+      "id": "faan1-return-exmaple-1",
+      "sentence": "我返屋企。",
+      "jyutping": "ngo5 faan1 uk1 kei2",
+      "meaning": "I’m going home."
+    },
+    {
+      "id": "faan1-return-exmaple-2",
+      "sentence": "佢返工。",
+      "jyutping": "keoi5 faan1 gung1",
+      "meaning": "He goes to work."
+    },
+    {
+      "id": "faan1-return-exmaple-3",
+      "sentence": "我哋返學。",
+      "jyutping": "ngo5 dei6 faan1 hok6",
+      "meaning": "We go to school."
+    }
+  ],
+
+  "audio": {
+    "word": "faan1-return.mp3",
+    "examples": [
+      "faan1-return-exmaple-1.mp3",
+      "faan1-return-exmaple-2.mp3",
+      "faan1-return-exmaple-3.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "movement"],
+
+  "related": [
+    "heoi3-go",
+    "lei4-come",
+    "faan1-uk1-go-home"
   ]
 }

@@ -55,8 +55,8 @@ in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert and e
 Some example commands
 
 ```
-ffmpeg -i jan4-person-example-1.mp3 -af "atrim=start=1.2" cleaned/jan4-person-example-1.mp3
-ffmpeg -i jan4-person-example-2.mp3 -af "atrim=start=1.2" cleaned/jan4-person-example-2.mp3
+ffmpeg -i zyu6-live-example-2.mp3 -af "atrim=start=1.5" cleaned/zyu6-live-example-2.mp3
+ffmpeg -i lei4-come-exmaple-2.mp3 -af "atrim=start=1.5" cleaned/lei4-come-exmaple-2.mp3
 ```
 
 ### Trim for single words alter the trim timing
@@ -72,12 +72,15 @@ ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.8,asetpts=PTS-STARTPTS" cleaned/
 ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.6" cleaned/九月.mp3
 ```
 
-
+<audio controls src="audio/words/cleaned/.mp3" title="Title"></audio>
 ```
-ffmpeg -i jan4-person-example-2.mp3 -af "atrim=start=2.1" cleaned/jan4-person.mp3
+ffmpeg -i co5-sit-example-2.mp3 -af "atrim=start=2.4:end=2.7" cleaned/co5-sit-example-2.mp3
 ffmpeg -i cleaned/我之前去過香港好多次.mp3 -af "atrim=end=0.5" cleaned/我之前去過香港好多次2.mp3
 
 ffmpeg -i 我.mp3 -af "atrim=start=1.3" cleaned/我.mp3
 ```
 
 
+ffmpeg -i co5-sit-example-2.mp3 \
+  -af "atrim=start=2.4:end=2.7,atempo=0.7" \
+  cleaned/co5-sit-example-2.mp3
