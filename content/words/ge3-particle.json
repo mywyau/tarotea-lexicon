@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "ge3-particle-example-1",
       "sentence": "我係香港人嚟嘅。",
       "jyutping": "ngo5 hai6 hoeng1 gong2 jan4 lei4 ge3",
       "meaning": "I’m from Hong Kong."
     },
     {
+      "id": "ge3-particle-example-2",
       "sentence": "呢個係我嘅。",
       "jyutping": "ni1 go3 hai6 ngo5 ge3",
       "meaning": "This is mine."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "ge3-particle.mp3",
     "examples": [
-      "ge3-particle-1.mp3",
-      "ge3-particle-2.mp3"
+      "ge3-particle-example-1.mp3",
+      "ge3-particle-example-2.mp3"
     ]
   },
 

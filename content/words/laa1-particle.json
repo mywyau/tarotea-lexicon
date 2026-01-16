@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "laa1-particle-example-1",
       "sentence": "走啦。",
       "jyutping": "zau2 laa1",
       "meaning": "Let’s go."
     },
     {
+      "id": "laa1-particle-example-1",
       "sentence": "食飯啦。",
       "jyutping": "sik6 faan6 laa1",
       "meaning": "Let’s eat."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "laa1-particle.mp3",
     "examples": [
-      "laa1-particle-1.mp3",
-      "laa1-particle-2.mp3"
+      "laa1-particle-example-1.mp3",
+      "laa1-particle-example-2.mp3"
     ]
   },
 
