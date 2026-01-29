@@ -12,22 +12,24 @@
 
   "examples": [
     {
+      "id": "jyun4sing4-complete-example-1",
       "sentence": "我已經完成工作。",
       "jyutping": "ngo5 ji5 ging1 jyun4 sing4 gung1 zok3",
       "meaning": "I’ve completed the work."
     },
     {
-      "sentence": "任務完成。",
-      "jyutping": "jam6 mou6 jyun4 sing4",
-      "meaning": "The task is complete."
+      "id": "jyun4sing4-complete-example-2",
+      "sentence": "個任務已經完成，可以交畀老細喇。",
+      "jyutping": "go3 jam6 mou6 ji5 ging1 jyun4 sing4 ho2 ji5 gaau1 bei2 lou5 sai3 laa3",
+      "meaning": "The task is already complete and can be handed to the boss."
     }
   ],
 
   "audio": {
     "word": "jyun4sing4-complete.mp3",
     "examples": [
-      "jyun4sing4-complete-1.mp3",
-      "jyun4sing4-complete-2.mp3"
+      "jyun4sing4-complete-example-1.mp3",
+      "jyun4sing4-complete-example-2.mp3"
     ]
   },
 

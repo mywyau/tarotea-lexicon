@@ -1,5 +1,5 @@
 {
-  "id": "ming4m4ming4-understand-q",
+  "id": "ming4m4ming4-understand-question",
   "word": "明唔明",
   "jyutping": "ming4 m4 ming4",
   "meaning": "do you understand?",
@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "ming4m4ming4-understand-question-example-1",
       "sentence": "我講清楚未？明唔明？",
       "jyutping": "ngo5 gong2 cing1 co2 mei6 ming4 m4 ming4",
       "meaning": "Did I explain it clearly? Do you understand?"
     },
     {
+      "id": "ming4m4ming4-understand-question-example-2",
       "sentence": "如果唔明就問。",
       "jyutping": "jyu4 gwo2 m4 ming4 zau6 man6",
       "meaning": "If you don’t understand, just ask."
@@ -25,10 +27,10 @@
   ],
 
   "audio": {
-    "word": "ming4m4ming4-understand-q.mp3",
+    "word": "ming4m4ming4-understand-question.mp3",
     "examples": [
-      "ming4m4ming4-understand-q-1.mp3",
-      "ming4m4ming4-understand-q-2.mp3"
+      "ming4m4ming4-understand-question-example-1.mp3",
+      "ming4m4ming4-understand-question-example-2.mp3"
     ]
   },
 

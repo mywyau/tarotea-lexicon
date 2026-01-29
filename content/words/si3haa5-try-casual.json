@@ -13,11 +13,13 @@
 
   "examples": [
     {
+      "id": "si3haa5-try-casual-example-1",
       "sentence": "試下呢個啦。",
       "jyutping": "si3 haa5 ni1 go3 laa1",
       "meaning": "Try this one."
     },
     {
+      "id": "si3haa5-try-casual-example-2",
       "sentence": "你可以試下。",
       "jyutping": "nei5 ho2 ji5 si3 haa5",
       "meaning": "You can give it a try."
@@ -27,8 +29,8 @@
   "audio": {
     "word": "si3haa5-try-casual.mp3",
     "examples": [
-      "si3haa5-try-casual-1.mp3",
-      "si3haa5-try-casual-2.mp3"
+      "si3haa5-try-casual-example-1.mp3",
+      "si3haa5-try-casual-example-2.mp3"
     ]
   },
 
