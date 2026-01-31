@@ -1,0 +1,39 @@
+{
+  "id": "daan6hai6-but",
+  "word": "但係",
+  "jyutping": "daan6 hai6",
+  "meaning": "but; however",
+
+  "pos": ["conjunction"],
+
+  "usage": [
+    "Used to introduce a contrast or opposing idea",
+    "Commonly paired with 「雖然」 in the pattern 「雖然 A，但係 B」",
+    "In spoken Cantonese, 「但係」 is very common and sounds natural in everyday speech"
+  ],
+
+  "examples": [
+    {
+      "id": "daan6hai6-but-example-1",
+      "sentence": "我想去，但係今日真係冇時間。",
+      "jyutping": "ngo5 soeng2 heoi3 daan6 hai6 gam1 jat6 zan1 hai6 mou5 si4 gaan3",
+      "meaning": "I want to go, but I really don’t have time today."
+    },
+    {
+      "id": "daan6hai6-but-example-2",
+      "sentence": "份工好辛苦，但係人工唔錯。",
+      "jyutping": "fan6 gung1 hou2 san1 fu2 daan6 hai6 jan4 gung1 m4 co3",
+      "meaning": "The job is tough, but the pay is not bad."
+    }
+  ],
+
+  "audio": {
+    "word": "daan6hai6-but.mp3",
+    "examples": [
+      "daan6hai6-but-example-1.mp3",
+      "daan6hai6-but-example-2.mp3"
+    ]
+  },
+
+  "tags": ["level-2", "contrast", "connector", "common"]
+}

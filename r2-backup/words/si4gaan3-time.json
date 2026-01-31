@@ -1,0 +1,42 @@
+{
+  "id": "si4gaan3-time",
+  "word": "時間",
+  "jyutping": "si4 gaan3",
+  "meaning": "time",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to time in general or a specific period of time"
+  ],
+
+  "examples": [
+    {
+      "id": "si4gaan3-time-example-1",
+      "sentence": "我冇時間。",
+      "jyutping": "ngo5 mou5 si4 gaan3",
+      "meaning": "I don’t have time."
+    },
+    {
+      "id": "si4gaan3-time-example-2",
+      "sentence": "時間過得好快。",
+      "jyutping": "si4 gaan3 gwo3 dak1 hou2 faai3",
+      "meaning": "Time passes very quickly."
+    }
+  ],
+
+  "audio": {
+    "word": "si4gaan3-time.mp3",
+    "examples": [
+      "si4gaan3-time-example-1.mp3",
+      "si4gaan3-time-example-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "time"],
+
+  "related": [
+    "zi1hau6-after",
+    "ji5cin4-before"
+  ]
+}

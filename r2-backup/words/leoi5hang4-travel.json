@@ -1,0 +1,43 @@
+{
+  "id": "leoi5hang4-travel",
+  "word": "旅行",
+  "jyutping": "leoi5 hang4",
+  "meaning": "to travel; travel",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to describe travelling for leisure or trips",
+    "Can function as both a verb and a noun in everyday Cantonese"
+  ],
+
+  "examples": [
+    {
+      "id": "leoi5hang4-travel-example-1",
+      "sentence": "我下個月去旅行。",
+      "jyutping": "ngo5 haa6 go3 jyut6 heoi3 leoi5 hang4",
+      "meaning": "I’m going travelling next month."
+    },
+    {
+      "id": "leoi5hang4-travel-example-2",
+      "sentence": "佢好鍾意旅行。",
+      "jyutping": "keoi5 hou2 zung1 ji3 leoi5 hang4",
+      "meaning": "He/She really likes travelling."
+    }
+  ],
+
+  "audio": {
+    "word": "leoi5hang4-travel.mp3",
+    "examples": [
+      "leoi5hang4-travel-example-1.mp3",
+      "leoi5hang4-travel-example-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "noun", "level-2", "daily-life", "travel"],
+
+  "related": [
+    "hoi1wui6-meeting",
+    "fong3gung1-finish-work"
+  ]
+}

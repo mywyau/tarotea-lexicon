@@ -1,0 +1,42 @@
+{
+  "id": "gan6-near",
+  "word": "近",
+  "jyutping": "gan6",
+  "meaning": "near; close",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe a short distance between two places or objects"
+  ],
+
+  "examples": [
+    {
+      "id": "gan6-near-example-1",
+      "sentence": "地鐵站好近。",
+      "jyutping": "dei6 tit3 zaam6 hou2 gan6",
+      "meaning": "The underground/MTR station is very close."
+    },
+    {
+      "id": "gan6-near-example-2",
+      "sentence": "間學校離我屋企好近。",
+      "jyutping": "gaan1 hok6 haau6 lei4 ngo5 uk1 kei2 hou2 gan6",
+      "meaning": "The school is very close to my home."
+    }
+  ],
+
+  "audio": {
+    "word": "gan6-near.mp3",
+    "examples": [
+      "gan6-near-example-1.mp3",
+      "gan6-near-example-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "location"],
+
+  "related": [
+    "jyun5-far",
+    "fu6gan6-nearby"
+  ]
+}

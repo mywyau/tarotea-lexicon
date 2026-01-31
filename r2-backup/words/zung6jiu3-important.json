@@ -1,0 +1,41 @@
+{
+  "id": "zung6jiu3-important",
+  "word": "重要",
+  "jyutping": "zung6 jiu3",
+  "meaning": "important",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe something that matters a lot"
+  ],
+
+  "examples": [
+    {
+      "id": "zung6jiu3-important-example-1",
+      "sentence": "呢件事好重要。",
+      "jyutping": "ni1 gin6 si6 hou2 zung6 jiu3",
+      "meaning": "This matter is important."
+    },
+    {
+      "id": "zung6jiu3-important-example-2",
+      "sentence": "健康比錢重要。",
+      "jyutping": "gin6 hong1 bei2 cin2 zung6 jiu3",
+      "meaning": "Health is more important than money."
+    }
+  ],
+
+  "audio": {
+    "word": "zung6jiu3-important.mp3",
+    "examples": [
+      "zung6jiu3-important-example-1.mp3",
+      "zung6jiu3-important-example-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "priority"],
+
+  "related": [
+    "dak6bit6-special"
+  ]
+}

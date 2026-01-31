@@ -1,0 +1,41 @@
+{
+  "id": "ji5cin4-before",
+  "word": "以前",
+  "jyutping": "ji5 cin4",
+  "meaning": "before; in the past",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used to refer to a time in the past"
+  ],
+
+  "examples": [
+    {
+      "id": "ji5cin4-before-example-1",
+      "sentence": "我以前住喺香港。",
+      "jyutping": "ngo5 ji5 cin4 zyu6 hai2 hoeng1 gong2",
+      "meaning": "I used to live in Hong Kong."
+    },
+    {
+      "id": "ji5cin4-before-example-2",
+      "sentence": "以前冇手機。",
+      "jyutping": "ji5 cin4 mou5 sau2 gei1",
+      "meaning": "There were no mobile phones before."
+    }
+  ],
+
+  "audio": {
+    "word": "ji5cin4-before.mp3",
+    "examples": [
+      "ji5cin4-before-example-1.mp3",
+      "ji5cin4-before-example-2.mp3"
+    ]
+  },
+
+  "tags": ["adverb", "level-2", "time"],
+
+  "related": [
+    "zeoi3gan6-recent"
+  ]
+}

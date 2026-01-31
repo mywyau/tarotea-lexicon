@@ -1,0 +1,43 @@
+{
+  "id": "hoi1sam1-happy",
+  "word": "開心",
+  "jyutping": "hoi1 sam1",
+  "meaning": "happy",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe happiness or feeling pleased",
+    "Very common in daily speech"
+  ],
+
+  "examples": [
+    {
+      "id": "hoi1sam1-happy-example-1",
+      "sentence": "我好開心。",
+      "jyutping": "ngo5 hou2 hoi1 sam1",
+      "meaning": "I’m very happy."
+    },
+    {
+      "id": "hoi1sam1-happy-example-2",
+      "sentence": "見到你我好開心。",
+      "jyutping": "gin3 dou2 nei5 ngo5 hou2 hoi1 sam1",
+      "meaning": "I’m happy to see you."
+    }
+  ],
+
+  "audio": {
+    "word": "hoi1sam1-happy.mp3",
+    "examples": [
+      "hoi1sam1-happy-example-1.mp3",
+      "hoi1sam1-happy-example-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-1", "core", "emotion"],
+
+  "related": [
+    "m4hoi1sam1-unhappy",
+    "gui6-tired"
+  ]
+}

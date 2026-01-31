@@ -1,0 +1,43 @@
+{
+  "id": "gaa3kei4-holiday",
+  "word": "假期",
+  "jyutping": "gaa3 kei4",
+  "meaning": "holiday; vacation",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to a period of time off from work or school",
+    "Commonly used to talk about public holidays or personal time off"
+  ],
+
+  "examples": [
+    {
+      "id": "gaa3kei4-holiday-example-1",
+      "sentence": "下個星期係假期。",
+      "jyutping": "haa6 go3 sing1 kei4 hai6 gaa3 kei4",
+      "meaning": "Next week is a holiday."
+    },
+    {
+      "id": "gaa3kei4-holiday-example-2",
+      "sentence": "假期我想去旅行。",
+      "jyutping": "gaa3 kei4 ngo5 soeng2 heoi3 leoi5 hang4",
+      "meaning": "I want to go travelling during the holiday."
+    }
+  ],
+
+  "audio": {
+    "word": "gaa3kei4-holiday.mp3",
+    "examples": [
+      "gaa3kei4-holiday-example-1.mp3",
+      "gaa3kei4-holiday-example-2.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-2", "daily-life", "time", "travel"],
+
+  "related": [
+    "leoi5hang4-travel",
+    "fong3gung1-finish-work"
+  ]
+}

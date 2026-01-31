@@ -1,0 +1,41 @@
+{
+  "id": "zeoi3gan6-recently",
+  "word": "最近",
+  "jyutping": "zeoi3 gan6",
+  "meaning": "recent; recently; lately",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used to talk about events happening in the recent past"
+  ],
+
+  "examples": [
+    {
+      "id": "zeoi3gan6-recently-example-1",
+      "sentence": "我最近好忙。",
+      "jyutping": "ngo5 zeoi3 gan6 hou2 mong4",
+      "meaning": "I’ve been very busy recently."
+    },
+    {
+      "id": "zeoi3gan6-recently-example-2",
+      "sentence": "最近天氣好凍。",
+      "jyutping": "zeoi3 gan6 tin1 hei3 hou2 dung3",
+      "meaning": "The weather has been very cold lately."
+    }
+  ],
+
+  "audio": {
+    "word": "zeoi3gan6-recently.mp3",
+    "examples": [
+      "zeoi3gan6-recently-example-1.mp3",
+      "zeoi3gan6-recently-example-2.mp3"
+    ]
+  },
+
+  "tags": ["adverb", "level-2", "time"],
+
+  "related": [
+    "ji5cin4-before"
+  ]
+}
