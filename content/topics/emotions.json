@@ -1,0 +1,60 @@
+{
+  "topic": "feelings_and_emotions",
+  "title": "Feelings & Emotions – Expressing How You Feel in Cantonese",
+  "description": "Talk about feelings, moods, and emotional states in everyday spoken Cantonese.",
+  "categories": {
+
+    "basic_feelings": [
+      { "id": "hoi1sam1-happy", "word": "開心", "jyutping": "hoi1 sam1", "meaning": "happy" },
+      { "id": "m4hoi1sam1-unhappy", "word": "唔開心", "jyutping": "m4 hoi1 sam1", "meaning": "unhappy" },
+
+      { "id": "ngok6-happy-satisfied", "word": "高興", "jyutping": "gou1 hing3", "meaning": "pleased / glad" },
+      { "id": "nan4gwo3-sad", "word": "難過", "jyutping": "naan4 gwo3", "meaning": "sad / upset" },
+
+      { "id": "hon3hoi1-relaxed", "word": "放鬆", "jyutping": "fong3 sung1", "meaning": "relaxed" },
+      { "id": "gan2zoeng1-nervous", "word": "緊張", "jyutping": "gan2 zoeng1", "meaning": "nervous" }
+    ],
+
+    "energy_and_mood": [
+      { "id": "fan6-m4-gau3-tired", "word": "攰", "jyutping": "gui6", "meaning": "tired" },
+      { "id": "hou2fan6-very-tired", "word": "好攰", "jyutping": "hou2 gui6", "meaning": "very tired" },
+
+      { "id": "jau5lik6-energetic", "word": "有力", "jyutping": "jau5 lik6", "meaning": "energetic" },
+      { "id": "mou5lik6-no-energy", "word": "冇力", "jyutping": "mou5 lik6", "meaning": "no energy" },
+
+      { "id": "hoi1sam1-dim2happy", "word": "精神", "jyutping": "zing1 san1", "meaning": "in good spirits" }
+    ],
+
+    "stress_and_pressure": [
+      { "id": "laap6-leoi6-stressed", "word": "有壓力", "jyutping": "jau5 aat3 lik6", "meaning": "stressed / under pressure" },
+      { "id": "hon6-soeng2-worried", "word": "擔心", "jyutping": "daam1 sam1", "meaning": "worried" },
+
+      { "id": "faan4-noi6-annoyed", "word": "煩", "jyutping": "faan4", "meaning": "annoyed" },
+      { "id": "faan4daan6-frustrated", "word": "煩躁", "jyutping": "faan4 cou3", "meaning": "frustrated / restless" }
+    ],
+
+    "anger_and_negative": [
+      { "id": "noeng6-angry", "word": "嬲", "jyutping": "nau1", "meaning": "angry" },
+      { "id": "hou2noeng6-very-angry", "word": "好嬲", "jyutping": "hou2 nau1", "meaning": "very angry" },
+
+      { "id": "ngok6-gin2-disgusted", "word": "憎", "jyutping": "zang1", "meaning": "to hate / dislike strongly" },
+      { "id": "m4-man6-not-happy", "word": "唔滿意", "jyutping": "m4 mun5 ji3", "meaning": "not satisfied" }
+    ],
+
+    "positive_states": [
+      { "id": "man6ji3-satisfied", "word": "滿意", "jyutping": "mun5 ji3", "meaning": "satisfied" },
+      { "id": "sam1on1-at-peace", "word": "安心", "jyutping": "on1 sam1", "meaning": "at ease / relieved" },
+
+      { "id": "gam2dung6-touched", "word": "感動", "jyutping": "gam2 dung6", "meaning": "touched / moved emotionally" },
+      { "id": "sam1fuk6-happy-inside", "word": "心服", "jyutping": "sam1 fuk6", "meaning": "convinced / content (deeply)" }
+    ],
+
+    "expressing_feelings": [
+      { "id": "ngo5-hou2-hoi1sam1", "word": "我好開心", "jyutping": "ngo5 hou2 hoi1 sam1", "meaning": "I’m very happy" },
+      { "id": "ngo5-hou2-fan6", "word": "我好攰", "jyutping": "ngo5 hou2 gui6", "meaning": "I’m very tired" },
+
+      { "id": "ngo5-jau5-dim2-faan4", "word": "我有啲煩", "jyutping": "ngo5 jau5 di1 faan4", "meaning": "I’m a bit annoyed" },
+      { "id": "ngo5-m4hou2-syu1fuk6", "word": "我唔舒服", "jyutping": "ngo5 m4 syu1 fuk6", "meaning": "I don’t feel well" }
+    ]
+  }
+}

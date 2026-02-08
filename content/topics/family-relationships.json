@@ -1,0 +1,68 @@
+{
+  "topic": "family_and_relationships",
+  "title": "Family & Relationships – Talking About People Close to You",
+  "description": "Talk about family members, relatives, partners, and relationships in everyday spoken Cantonese.",
+  "categories": {
+
+    "immediate_family": [
+      { "id": "baa4-father", "word": "爸爸", "jyutping": "baa4 baa1", "meaning": "dad / father" },
+      { "id": "maa1-mother", "word": "媽媽", "jyutping": "maa1 maa1", "meaning": "mum / mother" },
+
+      { "id": "go1go1-older-brother", "word": "哥哥", "jyutping": "go1 go1", "meaning": "older brother" },
+      { "id": "mui6mui6-younger-sister", "word": "妹妹", "jyutping": "mui6 mui6", "meaning": "younger sister" },
+      { "id": "dai6dai6-younger-brother", "word": "弟弟", "jyutping": "dai6 dai6", "meaning": "younger brother" },
+      { "id": "ze2ze2-older-sister", "word": "姐姐", "jyutping": "ze2 ze2", "meaning": "older sister" },
+
+      { "id": "zai2-son", "word": "仔", "jyutping": "zai2", "meaning": "son" },
+      { "id": "neoi5-daughter", "word": "女", "jyutping": "neoi5", "meaning": "daughter" },
+
+      { "id": "ga1ting4-family", "word": "家庭", "jyutping": "gaa1 ting4", "meaning": "family (household)" }
+    ],
+
+    "extended_family": [
+      { "id": "gung1gung1-grandfather-paternal", "word": "公公", "jyutping": "gung1 gung1", "meaning": "grandfather (father’s side)" },
+      { "id": "po4po4-grandmother-paternal", "word": "婆婆", "jyutping": "po4 po4", "meaning": "grandmother (father’s side)" },
+
+      { "id": "ngoi6gung1-grandfather-maternal", "word": "外公", "jyutping": "ngoi6 gung1", "meaning": "grandfather (mother’s side)" },
+      { "id": "ngoi6po4-grandmother-maternal", "word": "外婆", "jyutping": "ngoi6 po4", "meaning": "grandmother (mother’s side)" },
+
+      { "id": "suk1suk1-uncle-fathers-younger", "word": "叔叔", "jyutping": "suk1 suk1", "meaning": "uncle (father’s younger brother)" },
+      { "id": "baak3baak3-uncle-fathers-older", "word": "伯伯", "jyutping": "baak3 baak3", "meaning": "uncle (father’s older brother)" },
+
+      { "id": "gu1gu1-aunt-fathers-sister", "word": "姑姑", "jyutping": "gu1 gu1", "meaning": "aunt (father’s sister)" },
+      { "id": "ji4maa4-aunt-mothers-sister", "word": "姨媽", "jyutping": "ji4 maa1", "meaning": "aunt (mother’s sister)" },
+
+      { "id": "biu1go1-cousin", "word": "表哥／表姐", "jyutping": "biu1 go1 / biu1 ze2", "meaning": "cousin (older, mixed gender)" },
+      { "id": "tong4mui6-cousin-paternal", "word": "堂妹／堂弟", "jyutping": "tong4 mui6 / tong4 dai6", "meaning": "cousin (father’s side)" }
+    ],
+
+    "relationships": [
+      { "id": "peng4jau5-friend", "word": "朋友", "jyutping": "pang4 jau5", "meaning": "friend" },
+      { "id": "hou2peng4jau5-best-friend", "word": "好朋友", "jyutping": "hou2 pang4 jau5", "meaning": "good friend" },
+
+      { "id": "naam4peng4jau5-boyfriend", "word": "男朋友", "jyutping": "naam4 pang4 jau5", "meaning": "boyfriend" },
+      { "id": "neoi5peng4jau5-girlfriend", "word": "女朋友", "jyutping": "neoi5 pang4 jau5", "meaning": "girlfriend" },
+
+      { "id": "lou5gung1-husband", "word": "老公", "jyutping": "lou5 gung1", "meaning": "husband" },
+      { "id": "lou5po4-wife", "word": "老婆", "jyutping": "lou5 po4", "meaning": "wife" },
+
+      { "id": "po4jai6-partner", "word": "伴侶", "jyutping": "bun6 leoi5", "meaning": "partner (neutral / formal)" }
+    ],
+
+    "marriage_and_status": [
+      { "id": "zi2ji6-married", "word": "結婚", "jyutping": "git3 fan1", "meaning": "to get married" },
+      { "id": "ji4gaa1-married", "word": "已婚", "jyutping": "ji5 fan1", "meaning": "married" },
+
+      { "id": "mei6fan1-single", "word": "未婚", "jyutping": "mei6 fan1", "meaning": "not married / single" },
+      { "id": "fan1coeng4-divorce", "word": "離婚", "jyutping": "lei4 fan1", "meaning": "divorce" }
+    ],
+
+    "spoken_phrases": [
+      { "id": "ngo5-gaa1ting4-man6", "word": "我屋企人", "jyutping": "ngo5 uk1 kei2 jan4", "meaning": "my family" },
+      { "id": "ngo5-jau5-go1go1", "word": "我有哥哥", "jyutping": "ngo5 jau5 go1 go1", "meaning": "I have an older brother" },
+
+      { "id": "ngo5-hai6-lou5gung1", "word": "我老公", "jyutping": "ngo5 lou5 gung1", "meaning": "my husband" },
+      { "id": "ngo5-hai6-neoi5peng4jau5", "word": "我女朋友", "jyutping": "ngo5 neoi5 pang4 jau5", "meaning": "my girlfriend" }
+    ]
+  }
+}

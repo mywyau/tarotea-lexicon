@@ -1,0 +1,68 @@
+{
+  "topic": "health_and_medicine",
+  "title": "Health & Medicine – Talking About Health in Cantonese",
+  "description": "Talk about health, illness, pain, and medicine in everyday spoken Cantonese.",
+  "categories": {
+
+    "general_health": [
+      { "id": "gin6hong1-health", "word": "健康", "jyutping": "gin6 hong1", "meaning": "health" },
+      { "id": "san1tai2-body", "word": "身體", "jyutping": "san1 tai2", "meaning": "body" },
+
+      { "id": "hou2-syu1fuk6-feel-well", "word": "舒服", "jyutping": "syu1 fuk6", "meaning": "comfortable / feel well" },
+      { "id": "m4-syu1fuk6-unwell", "word": "唔舒服", "jyutping": "m4 syu1 fuk6", "meaning": "unwell / not feeling well" }
+    ],
+
+    "common_symptoms": [
+      { "id": "tau4-tung3-headache", "word": "頭痛", "jyutping": "tau4 tung3", "meaning": "headache" },
+      { "id": "faan6-jat6-fever", "word": "發燒", "jyutping": "faat3 siu1", "meaning": "fever" },
+
+      { "id": "tau4wan4-dizzy", "word": "頭暈", "jyutping": "tau4 wan4", "meaning": "dizzy" },
+      { "id": "hou2-go2-hoi1-cough", "word": "咳", "jyutping": "kat1", "meaning": "cough" },
+
+      { "id": "hau2-tung3-sore-throat", "word": "喉嚨痛", "jyutping": "hau4 lung4 tung3", "meaning": "sore throat" },
+      { "id": "sau6-zoeng1-injured", "word": "受傷", "jyutping": "sau6 zoeng1", "meaning": "injured" }
+    ],
+
+    "pain_and_conditions": [
+      { "id": "tung3-pain", "word": "痛", "jyutping": "tung3", "meaning": "pain / hurts" },
+      { "id": "hou2-tung3-very-painful", "word": "好痛", "jyutping": "hou2 tung3", "meaning": "very painful" },
+
+      { "id": "san1tai2-tung3-body-ache", "word": "周身痛", "jyutping": "zau1 san1 tung3", "meaning": "body aches all over" },
+      { "id": "fuk1-tung3-stomach-ache", "word": "肚痛", "jyutping": "tou5 tung3", "meaning": "stomach ache" }
+    ],
+
+    "medicine_and_treatment": [
+      { "id": "joek6-medicine", "word": "藥", "jyutping": "joek6", "meaning": "medicine" },
+      { "id": "joek6-fong1-prescription", "word": "藥方", "jyutping": "joek6 fong1", "meaning": "prescription" },
+
+      { "id": "sek6-joek6-take-medicine", "word": "食藥", "jyutping": "sik6 joek6", "meaning": "take medicine" },
+      { "id": "gaa1-joek6-add-medicine", "word": "加藥", "jyutping": "gaa1 joek6", "meaning": "increase dosage / add medicine" },
+
+      { "id": "joek6-fong2-pharmacy", "word": "藥房", "jyutping": "joek6 fong4", "meaning": "pharmacy" }
+    ],
+
+    "medical_places_and_people": [
+      { "id": "ji1sang1-doctor", "word": "醫生", "jyutping": "ji1 sang1", "meaning": "doctor" },
+      { "id": "wu6si1-nurse", "word": "護士", "jyutping": "wu6 si1", "meaning": "nurse" },
+
+      { "id": "ji1jyun2-hospital", "word": "醫院", "jyutping": "ji1 jyun2", "meaning": "hospital" },
+      { "id": "can4so2-clinic", "word": "診所", "jyutping": "can2 so2", "meaning": "clinic" }
+    ],
+
+    "emergencies": [
+      { "id": "gau3ming6-help", "word": "救命", "jyutping": "gau3 ming6", "meaning": "help! / save me!" },
+      { "id": "giu3-gau3wu6ce1-ambulance", "word": "叫救護車", "jyutping": "giu3 gau3 wu6 ce1", "meaning": "call an ambulance" },
+
+      { "id": "m4-ho2-ting4-worsening", "word": "頂唔順", "jyutping": "ding2 m4 seon6", "meaning": "can’t cope / it’s too much" },
+      { "id": "gan2-gap1-emergency", "word": "緊急", "jyutping": "gan2 gap1", "meaning": "emergency" }
+    ],
+
+    "spoken_phrases": [
+      { "id": "ngo5-m4-syu1fuk6", "word": "我唔舒服", "jyutping": "ngo5 m4 syu1 fuk6", "meaning": "I don’t feel well" },
+      { "id": "ngo5-faan6-siu1", "word": "我發燒", "jyutping": "ngo5 faat3 siu1", "meaning": "I have a fever" },
+
+      { "id": "ni1-go3-tung3", "word": "呢度痛", "jyutping": "ni1 dou6 tung3", "meaning": "it hurts here" },
+      { "id": "ngo5-jiu3-joek6", "word": "我要藥", "jyutping": "ngo5 jiu3 joek6", "meaning": "I need medicine" }
+    ]
+  }
+}

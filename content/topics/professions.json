@@ -1,0 +1,66 @@
+{
+  "topic": "professions_and_jobs",
+  "title": "Professions & Jobs – Talking About Work in Cantonese",
+  "description": "Talk about jobs, professions, and what people do for work in everyday spoken Cantonese.",
+  "categories": {
+
+    "asking_about_work": [
+      { "id": "nei5-zou6-me1-gong1", "word": "你做咩工？", "jyutping": "nei5 zou6 me1 gung1", "meaning": "what do you do for work?" },
+      { "id": "ngo5-zou6-gong1", "word": "我做⋯⋯", "jyutping": "ngo5 zou6 gung1", "meaning": "I work as…" },
+
+      { "id": "zou6-gong1-work", "word": "做工", "jyutping": "zou6 gung1", "meaning": "to work" },
+      { "id": "gok3sik1-job-role", "word": "職業", "jyutping": "zik1 jip6", "meaning": "profession / occupation" }
+    ],
+
+    "office_and_professional": [
+      { "id": "gung1zok3-work", "word": "工作", "jyutping": "gung1 zok3", "meaning": "work / job" },
+      { "id": "gai3si3-engineer", "word": "工程師", "jyutping": "gung1 cing4 si1", "meaning": "engineer" },
+      { "id": "gai3si3-lou5gai3-programmer", "word": "程式員", "jyutping": "cing4 sik1 jyun4", "meaning": "programmer / developer" },
+
+      { "id": "sai1sang1-doctor", "word": "醫生", "jyutping": "ji1 sang1", "meaning": "doctor" },
+      { "id": "wu6si1-nurse", "word": "護士", "jyutping": "wu6 si1", "meaning": "nurse" },
+
+      { "id": "gaau3si1-teacher", "word": "老師", "jyutping": "lou5 si1", "meaning": "teacher" },
+      { "id": "wun6gaau3tung1-translator", "word": "翻譯", "jyutping": "faan1 jik6", "meaning": "translator" },
+
+      { "id": "soeng1wui6-sales", "word": "銷售", "jyutping": "siu1 sau6", "meaning": "sales" },
+      { "id": "gung1si1-employee", "word": "員工", "jyutping": "jyun4 gung1", "meaning": "employee" }
+    ],
+
+    "service_and_public_jobs": [
+      { "id": "jing2caat3-police", "word": "警察", "jyutping": "ging2 caat3", "meaning": "police officer" },
+      { "id": "fo2ce1si3-driver", "word": "司機", "jyutping": "si1 gei1", "meaning": "driver" },
+
+      { "id": "ji3lau4-waiter", "word": "侍應", "jyutping": "si6 jing3", "meaning": "waiter / waitress" },
+      { "id": "cyu1si1-chef", "word": "廚師", "jyutping": "cyu1 si1", "meaning": "chef / cook" },
+
+      { "id": "sau1fung6-cleaner", "word": "清潔工", "jyutping": "cing1 git3 gung1", "meaning": "cleaner" },
+      { "id": "sai3loeng4-security", "word": "保安", "jyutping": "bou2 on1", "meaning": "security guard" }
+    ],
+
+    "skilled_and_manual": [
+      { "id": "muk6gung1-carpenter", "word": "木工", "jyutping": "muk6 gung1", "meaning": "carpenter" },
+      { "id": "din6gung1-electrician", "word": "電工", "jyutping": "din6 gung1", "meaning": "electrician" },
+      { "id": "sui3loeng4-plumber", "word": "水喉工", "jyutping": "seoi2 hau4 gung1", "meaning": "plumber" },
+
+      { "id": "soeng1fo3-delivery", "word": "送貨", "jyutping": "sung3 fo3", "meaning": "delivery worker" },
+      { "id": "fuk6mou6-service-worker", "word": "服務員", "jyutping": "fuk6 mou6 jyun4", "meaning": "service staff" }
+    ],
+
+    "employment_status": [
+      { "id": "jyun4zaang6-full-time", "word": "全職", "jyutping": "cyun4 zik1", "meaning": "full-time" },
+      { "id": "baan6gung1-part-time", "word": "兼職", "jyutping": "gim1 zik1", "meaning": "part-time" },
+
+      { "id": "mou5-gong1-unemployed", "word": "冇工做", "jyutping": "mou5 gung1 zou6", "meaning": "unemployed" },
+      { "id": "hai6-zou6gung1-self-employed", "word": "自僱", "jyutping": "zi6 gu3", "meaning": "self-employed" }
+    ],
+
+    "spoken_phrases": [
+      { "id": "ngo5-zou6-gai3si3", "word": "我做工程師", "jyutping": "ngo5 zou6 gung1 cing4 si1", "meaning": "I’m an engineer" },
+      { "id": "ngo5-hai6-gung1si1-zou6", "word": "我喺公司做嘢", "jyutping": "ngo5 hai2 gung1 si1 zou6 je5", "meaning": "I work at a company" },
+
+      { "id": "ngo5-zou6-gim1zik1", "word": "我做兼職", "jyutping": "ngo5 zou6 gim1 zik1", "meaning": "I work part-time" },
+      { "id": "ngo5-jau5-gung1", "word": "我有工返", "jyutping": "ngo5 jau5 gung1 faan1", "meaning": "I have a job" }
+    ]
+  }
+}

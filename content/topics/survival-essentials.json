@@ -1,0 +1,61 @@
+{
+  "topic": "survival_and_essentials",
+  "title": "Survival & Essentials – Getting Through the Day in Cantonese",
+  "description": "Essential Cantonese for toilets, emergencies, asking for help, and handling basic real-life problems.",
+  "categories": {
+
+    "toilets_and_basic_needs": [
+      { "id": "ci3so2-toilet", "word": "廁所", "jyutping": "ci3 so2", "meaning": "toilet" },
+      { "id": "sai2sau2gaan1-bathroom", "word": "洗手間", "jyutping": "sai2 sau2 gaan1", "meaning": "bathroom / toilet" },
+
+      { "id": "ci3so2-hai2bin1dou6", "word": "廁所喺邊度？", "jyutping": "ci3 so2 hai2 bin1 dou6", "meaning": "where is the toilet?" },
+      { "id": "ho2m4ho2ji5-ji3-ci3so2", "word": "可唔可以借廁所？", "jyutping": "ho2 m4 ho2 ji5 ze3 ci3 so2", "meaning": "can I use the toilet?" },
+
+      { "id": "gap1-urgent", "word": "急", "jyutping": "gap1", "meaning": "urgent" },
+      { "id": "gap1si3-urgent-need", "word": "急事", "jyutping": "gap1 si6", "meaning": "urgent matter" }
+    ],
+
+    "asking_for_help": [
+      { "id": "bong1ngo5-help-me", "word": "幫我", "jyutping": "bong1 ngo5", "meaning": "help me" },
+      { "id": "bong1ngo5-please", "word": "幫幫我", "jyutping": "bong1 bong1 ngo5", "meaning": "please help me" },
+
+      { "id": "ngo5-jiu3-bong1sau2", "word": "我需要幫助", "jyutping": "ngo5 seoi1 jiu3 bong1 zo6", "meaning": "I need help" },
+      { "id": "ho2m4ho2ji5-bong1ngo5", "word": "可唔可以幫我？", "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5", "meaning": "can you help me?" }
+    ],
+
+    "emergencies": [
+      { "id": "gau3ming6-help", "word": "救命", "jyutping": "gau3 ming6", "meaning": "help! / save me!" },
+      { "id": "gwo2ji3-emergency", "word": "緊急", "jyutping": "gan2 gap1", "meaning": "emergency" },
+
+      { "id": "giu3gau3hu6-ce3", "word": "叫救護車", "jyutping": "giu3 gau3 wu6 ce1", "meaning": "call an ambulance" },
+      { "id": "bou3ging2-call-police", "word": "報警", "jyutping": "bou3 ging2", "meaning": "call the police" },
+
+      { "id": "sau6zoeng1-injured", "word": "受傷", "jyutping": "sau6 zoeng1", "meaning": "injured" },
+      { "id": "m4syu1fuk6-unwell", "word": "唔舒服", "jyutping": "m4 syu1 fuk6", "meaning": "unwell / not feeling well" }
+    ],
+
+    "lost_and_directions": [
+      { "id": "ngo5-mai4lou6", "word": "我迷路咗", "jyutping": "ngo5 mai4 lou6 zo2", "meaning": "I’m lost" },
+      { "id": "ni1dou6-hai6bin1", "word": "呢度係邊？", "jyutping": "ni1 dou6 hai6 bin1", "meaning": "where is this?" },
+
+      { "id": "dim2joeng6-heoi3", "word": "點樣去⋯？", "jyutping": "dim2 joeng6 heoi3", "meaning": "how do I get to…?" },
+      { "id": "hai2bin1dou6-where-is", "word": "喺邊度？", "jyutping": "hai2 bin1 dou6", "meaning": "where is it?" }
+    ],
+
+    "communication_problems": [
+      { "id": "ngo5-m4ming4", "word": "我唔明", "jyutping": "ngo5 m4 ming4", "meaning": "I don’t understand" },
+      { "id": "cing2-maan6di1-gong2", "word": "請慢啲講", "jyutping": "cing2 maan6 di1 gong2", "meaning": "please speak slower" },
+
+      { "id": "ting1-m4-dou2", "word": "聽唔到", "jyutping": "ting1 m4 dou2", "meaning": "I can’t hear" },
+      { "id": "cing2-zai3-gong2", "word": "請再講", "jyutping": "cing2 zoi3 gong2", "meaning": "please say it again" }
+    ],
+
+    "problems_and_issues": [
+      { "id": "m4gin3zo2-lost", "word": "唔見咗", "jyutping": "m4 gin3 zo2", "meaning": "it’s lost" },
+      { "id": "waa6zo2-broken", "word": "壞咗", "jyutping": "waa6 zo2", "meaning": "it’s broken" },
+
+      { "id": "m4dak1-works-not", "word": "唔得", "jyutping": "m4 dak1", "meaning": "doesn’t work / not okay" },
+      { "id": "jau5man6tai4-problem", "word": "有問題", "jyutping": "jau5 man6 tai4", "meaning": "there’s a problem" }
+    ]
+  }
+}
