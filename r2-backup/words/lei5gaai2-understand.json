@@ -1,0 +1,38 @@
+{
+  "id": "lei5gaai2-understand",
+  "word": "理解",
+  "jyutping": "lei5 gaai2",
+  "meaning": "to understand",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to express understanding of a situation, idea, or feeling",
+    "Often used to show empathy or acceptance of another person’s perspective",
+    "Commonly paired with 難以 / 完全 / 更加 to describe degree of understanding",
+    "Slightly more formal and deliberate than 明白"
+  ],
+
+  "examples": [
+    {
+      "id": "lei5gaai2-understand-example-1",
+      "sentence": "我理解你點解會有呢種感覺。",
+      "jyutping": "ngo5 lei5 gaai2 nei5 dim2 gaai2 wui5 jau5 ni1 zung2 gam2 gok3",
+      "meaning": "I understand why you feel this way."
+    },
+    {
+      "id": "lei5gaai2-understand-example-2",
+      "sentence": "呢個決定唔容易理解。",
+      "jyutping": "ni1 go3 kyut3 ding6 m4 jung4 ji5 lei5 gaai2",
+      "meaning": "This decision isn’t easy to understand."
+    }
+  ],
+
+  "audio": {
+    "word": "lei5gaai2-understand.mp3",
+    "examples": [
+      "lei5gaai2-understand-example-1.mp3",
+      "lei5gaai2-understand-example-2.mp3"
+    ]
+  }
+}

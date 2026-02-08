@@ -1,0 +1,38 @@
+{
+  "id": "gaai2sik1-explain",
+  "word": "解釋",
+  "jyutping": "gaai2 sik1",
+  "meaning": "to explain",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to clarify reasons, meaning, or situations",
+    "Often followed by the thing being explained or a full clause",
+    "Common in requests, discussions, and problem-solving contexts",
+    "Can sound polite or neutral depending on tone"
+  ],
+
+  "examples": [
+    {
+      "id": "gaai2sik1-explain-example-1",
+      "sentence": "你可以解釋下點解會咁樣嗎？",
+      "jyutping": "nei5 ho2 ji5 gaai2 sik1 haa5 dim2 gaai2 wui5 gam3 joeng6 maa3",
+      "meaning": "Can you explain why this happened?"
+    },
+    {
+      "id": "gaai2sik1-explain-example-2",
+      "sentence": "佢已經向大家解釋清楚。",
+      "jyutping": "keoi5 ji5 ging1 hoeng3 daai6 gaa1 gaai2 sik1 cing1 co2",
+      "meaning": "He has already explained it clearly to everyone."
+    }
+  ],
+
+  "audio": {
+    "word": "gaai2sik1-explain.mp3",
+    "examples": [
+      "gaai2sik1-explain-example-1.mp3",
+      "gaai2sik1-explain-example-2.mp3"
+    ]
+  }
+}

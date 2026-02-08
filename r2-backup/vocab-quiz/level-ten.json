@@ -1,0 +1,54 @@
+{
+  "level": 10,
+  "title": "Level 10 – Fluent casual Cantonese",
+  "description": "Speak naturally, react instinctively, and handle fast, casual conversations like a native Cantonese speaker.",
+  "categories": {
+    "conversation_flow_and_fillers": [
+      { "word": "即係話", "jyutping": "zik1 hai6 waa6", "meaning": "that means / in other words" },
+      { "word": "其實呢", "jyutping": "kei4 sat6 ne1", "meaning": "actually (soft opening)" },
+      { "word": "總之呢", "jyutping": "zung2 zi1 ne1", "meaning": "anyway / long story short" },
+      { "word": "你知啦", "jyutping": "nei5 zi1 laa1", "meaning": "you know (shared understanding)" },
+      { "word": "係咁先", "jyutping": "hai6 gam3 sin1", "meaning": "that’s it for now / leave it there" }
+    ],
+
+    "natural_reactions": [
+      { "word": "真係㗎？", "jyutping": "zan1 hai6 gaa3", "meaning": "really?" },
+      { "word": "唔係呀嘛", "jyutping": "m4 hai6 aa3 maa3", "meaning": "no way / seriously?" },
+      { "word": "咁都得？", "jyutping": "gam3 dou1 dak1", "meaning": "that’s possible too?" },
+      { "word": "原來係咁", "jyutping": "jyun4 loi4 hai6 gam3", "meaning": "oh, so that’s how it is" },
+      { "word": "我都估到", "jyutping": "ngo5 dou1 gu2 dou3", "meaning": "I figured as much" }
+    ],
+
+    "casual_emotions_and_attitudes": [
+      { "word": "好鬼煩", "jyutping": "hou2 gwai2 faan4", "meaning": "so annoying" },
+      { "word": "算把啦", "jyutping": "syun3 baa2 laa1", "meaning": "forget it (casual resignation)" },
+      { "word": "無所謂啦", "jyutping": "mou5 so2 wai6 laa1", "meaning": "doesn’t matter" },
+      { "word": "頂得順", "jyutping": "ding2 dak1 seon6", "meaning": "can handle it" },
+      { "word": "搞笑", "jyutping": "gaau2 siu3", "meaning": "funny / ridiculous" }
+    ],
+
+    "social_bonding_language": [
+      { "word": "你講得啱", "jyutping": "nei5 gong2 dak1 ngaam1", "meaning": "you’re right" },
+      { "word": "我明你", "jyutping": "ngo5 ming4 nei5", "meaning": "I get you" },
+      { "word": "差唔多啦", "jyutping": "caa1 m4 do1 laa1", "meaning": "more or less / close enough" },
+      { "word": "係咪先", "jyutping": "hai6 mai6 sin1", "meaning": "right?" },
+      { "word": "大家都係咁", "jyutping": "daa6 gaa1 dou1 hai6 gam3", "meaning": "we’re all like that" }
+    ],
+
+    "fast_speech_shortcuts": [
+      { "word": "唔記得喇", "jyutping": "m4 gei3 dak1 laa3", "meaning": "I forgot already" },
+      { "word": "算啦算啦", "jyutping": "syun3 laa1 syun3 laa1", "meaning": "let it go, let it go" },
+      { "word": "遲啲再算", "jyutping": "ci4 di1 zoi3 syun3", "meaning": "we’ll deal with it later" },
+      { "word": "講開又講", "jyutping": "gong2 hoi1 jau6 gong2", "meaning": "speaking of which" },
+      { "word": "話晒都係", "jyutping": "waa6 saai3 dou1 hai6", "meaning": "after all" }
+    ],
+
+    "tone_shifting_and_pragmatics": [
+      { "word": "認真講", "jyutping": "jing6 zan1 gong2", "meaning": "seriously speaking" },
+      { "word": "講笑啫", "jyutping": "gong2 siu3 ze1", "meaning": "just joking" },
+      { "word": "唔好誤會", "jyutping": "m4 hou2 ng6 wui6", "meaning": "don’t get me wrong" },
+      { "word": "老實講", "jyutping": "lou5 sat6 gong2", "meaning": "to be honest" },
+      { "word": "點講好呢", "jyutping": "dim2 gong2 hou2 ne1", "meaning": "how should I put it…" }
+    ]
+  }
+}

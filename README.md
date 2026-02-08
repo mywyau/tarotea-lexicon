@@ -84,3 +84,10 @@ ffmpeg -i co5-sit-example-2.mp3 \
   -af "atrim=start=2.4:end=2.7,atempo=0.7" \
   cleaned/co5-sit-example-2.mp3
 
+
+aws s3 sync s3://tarotea-content ./r2-backup \
+  --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com/tarotea-content
+
+  aws s3 sync s3://tarotea-content ./r2-backup \
+  --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \              
+  --profile r2

@@ -1,0 +1,37 @@
+{
+  "id": "cing4fong3-situation",
+  "word": "情況",
+  "jyutping": "cing4 fong3",
+  "meaning": "situation",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a situation, condition, or state of affairs",
+    "Often refers to how things are at a particular time",
+    "Commonly used when explaining, assessing, or updating others"
+  ],
+
+  "examples": [
+    {
+      "id": "cing4fong3-situation-example-1",
+      "sentence": "而家嘅情況有啲複雜。",
+      "jyutping": "ji4 gaa1 ge3 cing4 fong3 jau5 di1 fuk1 zaap6",
+      "meaning": "The current situation is a bit complicated."
+    },
+    {
+      "id": "cing4fong3-situation-example-2",
+      "sentence": "等我了解清楚情況先。",
+      "jyutping": "dang2 ngo5 liu5 gaai2 cing1 co2 cing4 fong3 sin1",
+      "meaning": "Let me understand the situation clearly first."
+    }
+  ],
+
+  "audio": {
+    "word": "cing4fong3-situation.mp3",
+    "examples": [
+      "cing4fong3-situation-example-1.mp3",
+      "cing4fong3-situation-example-2.mp3"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "si3gwo3-experienced",
+  "word": "試過",
+  "jyutping": "si3 gwo3",
+  "meaning": "have tried / have experienced",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to indicate having past experience doing something",
+    "Often placed before a verb or action",
+    "Implies the experience has happened at least once",
+    "Commonly used in casual spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "id": "si3gwo3-experienced-example-1",
+      "sentence": "我試過食呢間餐廳。",
+      "jyutping": "ngo5 si3 gwo3 sik6 ni1 gaan1 caan1 teng1",
+      "meaning": "I’ve tried eating at this restaurant."
+    },
+    {
+      "id": "si3gwo3-experienced-example-2",
+      "sentence": "佢未試過一個人住。",
+      "jyutping": "keoi5 mei6 si3 gwo3 jat1 go3 jan4 zyu6",
+      "meaning": "He has never lived alone before."
+    }
+  ],
+
+  "audio": {
+    "word": "si3gwo3-experienced.mp3",
+    "examples": [
+      "si3gwo3-experienced-example-1.mp3",
+      "si3gwo3-experienced-example-2.mp3"
+    ]
+  }
+}
