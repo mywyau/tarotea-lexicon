@@ -1,0 +1,146 @@
+{
+  "topic": "food_and_ordering",
+  "title": "Food & Ordering – Eating Out in Cantonese",
+  "description": "Order food, customise dishes, ask questions, and handle restaurant situations naturally in Cantonese.",
+  "categories": {
+
+    "ordering_basics": [
+      { "id": "jiu3-order", "word": "要", "jyutping": "jiu3", "meaning": "to want / to order" },
+      { "id": "ngo5jiu3-want", "word": "我要", "jyutping": "ngo5 jiu3", "meaning": "I want / I’ll have" },
+      { "id": "ni1go3-this", "word": "呢個", "jyutping": "ni1 go3", "meaning": "this one" },
+      { "id": "go2go3-that", "word": "嗰個", "jyutping": "go2 go3", "meaning": "that one" },
+      { "id": "di1-some", "word": "啲", "jyutping": "di1", "meaning": "some / a bit" },
+
+      { "id": "ni1di1-these", "word": "呢啲", "jyutping": "ni1 di1", "meaning": "these" },
+      { "id": "go2di1-those", "word": "嗰啲", "jyutping": "go2 di1", "meaning": "those" },
+      { "id": "gei2go3-how-many-items", "word": "幾個", "jyutping": "gei2 go3", "meaning": "how many (items)" },
+      { "id": "jiu3gei2do1fan6-quantity", "word": "要幾多份", "jyutping": "jiu3 gei2 do1 fan6", "meaning": "how many portions?" },
+
+      { "id": "ngo5jiu3jat1fan6-want-one-portion", "word": "我要一份", "jyutping": "ngo5 jiu3 jat1 fan6", "meaning": "I want one portion" },
+      { "id": "ngo5jiu3leung5fan6", "word": "我要兩份", "jyutping": "ngo5 jiu3 loeng5 fan6", "meaning": "I want two portions" },
+      { "id": "jiu3ni1fan6-fan6", "word": "要呢份", "jyutping": "jiu3 ni1 fan6", "meaning": "I want this portion" },
+
+      { "id": "ho2m4ho2ji5-order", "word": "可唔可以要", "jyutping": "ho2 m4 ho2 ji5 jiu3", "meaning": "may I have / can I order" },
+      { "id": "jiu3di1-add-some", "word": "要啲", "jyutping": "jiu3 di1", "meaning": "want some / add some" }
+    ],
+
+    "getting_attention": [
+      { "id": "m4goi1-excuse-me", "word": "唔該", "jyutping": "m4 goi1", "meaning": "excuse me / please" },
+      { "id": "m4goi1saai3-excuse-me-polite", "word": "唔該晒", "jyutping": "m4 goi1 saai3", "meaning": "excuse me (polite call for service)" },
+      { "id": "dang2jat1zan6-wait-a-moment", "word": "等一陣", "jyutping": "dang2 jat1 zan6", "meaning": "wait a moment" },
+
+      { "id": "m4goi1aa3-excuse-me-friendly", "word": "唔該呀", "jyutping": "m4 goi1 aa3", "meaning": "excuse me (softer, friendly)" },
+      { "id": "ho2m4ho2ji5-may-i", "word": "可唔可以", "jyutping": "ho2 m4 ho2 ji5", "meaning": "may I / can I (polite opener)" },
+      { "id": "m4goi1bong1sau2-could-you-help", "word": "唔該幫手", "jyutping": "m4 goi1 bong1 sau2", "meaning": "excuse me, could you help?" },
+
+      { "id": "gwo3lei4-come-over", "word": "過嚟", "jyutping": "gwo3 lei4", "meaning": "come over (casual call)" },
+      { "id": "m4goi1gwo3lei4jat1haa5-come-over-a-moment", "word": "唔該過嚟一下", "jyutping": "m4 goi1 gwo3 lei4 jat1 haa5", "meaning": "excuse me, could you come over?" },
+
+      { "id": "dang2jat1dang2-wait-a-second", "word": "等一等", "jyutping": "dang2 jat1 dang2", "meaning": "wait a second" },
+      { "id": "maan6maan6lei4-no-rush", "word": "慢慢嚟", "jyutping": "maan6 maan6 lei4", "meaning": "no rush / take your time" }
+    ],
+
+    "menu_and_ordering": [
+      { "id": "hoi1daan1-start-ordering", "word": "開單", "jyutping": "hoi1 daan1", "meaning": "to start ordering" },
+      { "id": "caan1daan1-menu", "word": "餐單", "jyutping": "caan1 daan1", "meaning": "menu" },
+
+      { "id": "jiu3ni1go3-want-this-one", "word": "要呢個", "jyutping": "jiu3 ni1 go3", "meaning": "I want this one" },
+      { "id": "jiu3go2go3-want-that-one", "word": "要嗰個", "jyutping": "jiu3 go2 go3", "meaning": "I want that one" },
+      { "id": "jiu3ni1di1-want-these", "word": "要呢啲", "jyutping": "jiu3 ni1 di1", "meaning": "I want these" },
+
+      { "id": "hou2m4hou2mei6-is-it-tasty", "word": "好唔好味", "jyutping": "hou2 m4 hou2 mei6", "meaning": "is it tasty?" },
+      { "id": "hou2m4hou2sik6-is-it-good", "word": "好唔好食", "jyutping": "hou2 m4 hou2 sik6", "meaning": "is it good to eat?" },
+
+      { "id": "jau5m4jau5-have-or-not", "word": "有冇", "jyutping": "jau5 m4 jau5", "meaning": "do you have?" },
+      { "id": "jau5m4jau5ni1go3-have-this", "word": "有冇呢個", "jyutping": "jau5 m4 jau5 ni1 go3", "meaning": "do you have this?" },
+
+      { "id": "jiu3gei2do1-how-much", "word": "要幾多", "jyutping": "jiu3 gei2 do1", "meaning": "how many do you want?" },
+      { "id": "gei2cin2-how-much-money", "word": "幾錢", "jyutping": "gei2 cin2", "meaning": "how much is it?" },
+
+      { "id": "ngo5jiu3loeng5fan6-want-two-portions", "word": "我要兩份", "jyutping": "ngo5 jiu3 loeng5 fan6", "meaning": "I want two portions" }
+    ],
+
+    "customisation": [
+      { "id": "m4hou2laat6-not-too-spicy", "word": "唔好辣", "jyutping": "m4 hou2 laat6", "meaning": "not too spicy" },
+      { "id": "siu2laat6-less-spicy", "word": "少辣", "jyutping": "siu2 laat6", "meaning": "less spicy" },
+      { "id": "zau2-without-ingredient", "word": "走", "jyutping": "zau2", "meaning": "without (ingredient)" },
+      { "id": "gaa1-add", "word": "加", "jyutping": "gaa1", "meaning": "to add" },
+      { "id": "siu2di1-less", "word": "少啲", "jyutping": "siu2 di1", "meaning": "a bit less" },
+
+      { "id": "m4hou2jiu3-without-need", "word": "唔要", "jyutping": "m4 jiu3", "meaning": "don’t want / no need" },
+      { "id": "zau2joeng4-no-onion", "word": "走洋蔥", "jyutping": "zau2 joeng4 cung1", "meaning": "no onion" },
+      { "id": "zau2jyu6-no-fish-sauce", "word": "走魚露", "jyutping": "zau2 jyu4 lou6", "meaning": "no fish sauce" },
+
+      { "id": "gaa1jyu6-add-fish-sauce", "word": "加魚露", "jyutping": "gaa1 jyu4 lou6", "meaning": "add fish sauce" },
+      { "id": "gaa1coeng2-add-sausage", "word": "加腸", "jyutping": "gaa1 coeng2", "meaning": "add sausage" },
+
+      { "id": "siu2naam6-light-flavour", "word": "淡啲", "jyutping": "daam6 di1", "meaning": "lighter / less salty" },
+      { "id": "m4hou2taai3-ham6-not-too-salty", "word": "唔好太鹹", "jyutping": "m4 hou2 taai3 haam4", "meaning": "not too salty" },
+
+      { "id": "siu2dau6ging1-less-sauce", "word": "少汁", "jyutping": "siu2 zap1", "meaning": "less sauce" },
+      { "id": "gaa1dau6ging1-more-sauce", "word": "加汁", "jyutping": "gaa1 zap1", "meaning": "add more sauce" }
+    ],
+
+
+    "food_and_dishes": [
+      { "id": "faan6rice-meal", "word": "飯", "jyutping": "faan6", "meaning": "rice / meal" },
+      { "id": "min6noodles", "word": "麵", "jyutping": "min6", "meaning": "noodles" },
+      { "id": "tong1soup", "word": "湯", "jyutping": "tong1", "meaning": "soup" },
+    
+      { "id": "jyu4fish", "word": "魚", "jyutping": "jyu4", "meaning": "fish" },
+      { "id": "juk6meat", "word": "肉", "jyutping": "juk6", "meaning": "meat" },
+      { "id": "ngau4juk6-beef", "word": "牛肉", "jyutping": "ngau4 juk6", "meaning": "beef" },
+      { "id": "zyu1juk6-pork", "word": "豬肉", "jyutping": "zyu1 juk6", "meaning": "pork" },
+      { "id": "gai1juk6-chicken", "word": "雞肉", "jyutping": "gai1 juk6", "meaning": "chicken" },
+    
+      { "id": "hoi2sin1-seafood", "word": "海鮮", "jyutping": "hoi2 sin1", "meaning": "seafood" },
+      { "id": "coeng2-sausage", "word": "腸", "jyutping": "coeng2", "meaning": "sausage / Chinese sausage" },
+    
+      { "id": "coi3-vegetables", "word": "菜", "jyutping": "coi3", "meaning": "vegetables" },
+      { "id": "coi3sum1-choi-sum", "word": "菜心", "jyutping": "coi3 sam1", "meaning": "choi sum" },
+      { "id": "bok3coi3-bok-choy", "word": "白菜", "jyutping": "baak6 coi3", "meaning": "bok choy / Chinese cabbage" },
+    
+      { "id": "coi4liu6-ingredients", "word": "材料", "jyutping": "coi4 liu6", "meaning": "ingredients" },
+      { "id": "siu1mei6-roast-meat", "word": "燒味", "jyutping": "siu1 mei6", "meaning": "Cantonese roast meats" }
+    ],
+
+    "drinks": [
+      { "id": "jam2-drink", "word": "飲", "jyutping": "jam2", "meaning": "to drink" },
+
+      { "id": "seoi2-water", "word": "水", "jyutping": "seoi2", "meaning": "water" },
+      { "id": "jit6seoi2-hot-water", "word": "熱水", "jyutping": "jit6 seoi2", "meaning": "hot water" },
+      { "id": "dung3seoi2-cold-water", "word": "凍水", "jyutping": "dung3 seoi2", "meaning": "cold water" },
+
+      { "id": "caa4-tea", "word": "茶", "jyutping": "caa4", "meaning": "tea" },
+      {"id": "leong4caa4-herbal-tea","word": "涼茶","jyutping": "leong4 caa4","meaning": "herbal cooling tea"},
+      { "id": "jit6caa4-hot-tea", "word": "熱茶", "jyutping": "jit6 caa4", "meaning": "hot tea" },
+
+      { "id": "gaa1bing1-add-ice", "word": "加冰", "jyutping": "gaa1 bing1", "meaning": "add ice" },
+      { "id": "zou2bing1-no-ice", "word": "走冰", "jyutping": "zou2 bing1", "meaning": "no ice" },
+      { "id": "siu2bing1-less-ice", "word": "少冰", "jyutping": "siu2 bing1", "meaning": "less ice" },
+
+      { "id": "jam2m4jam2-drink-or-not", "word": "飲唔飲", "jyutping": "jam2 m4 jam2", "meaning": "do you want a drink?" },
+      { "id": "jiu3m4jiu3-need-or-not", "word": "要唔要", "jyutping": "jiu3 m4 jiu3", "meaning": "do you want it?" },
+
+      { "id": "jam2pin1-beer", "word": "啤酒", "jyutping": "be1 zau2", "meaning": "beer" },
+      { "id": "seoi2gwo2zau2-fruit-juice", "word": "果汁", "jyutping": "gwo2 zap1", "meaning": "fruit juice" }
+    ],
+
+    "payment_and_closing": [
+      { "id": "maai4daan1-pay-the-bill", "word": "埋單", "jyutping": "maai4 daan1", "meaning": "to pay the bill" },
+      { "id": "mai4daan1-please-bill", "word": "唔該埋單", "jyutping": "m4 goi1 maai4 daan1", "meaning": "excuse me, the bill please" },
+
+      { "id": "fan1zoeng3-split-bill", "word": "分帳", "jyutping": "fan1 zoeng3", "meaning": "split the bill" },
+      { "id": "fan1zoeng3gaa3-split-evenly", "word": "AA制", "jyutping": "aa1 zai3", "meaning": "split evenly (go Dutch)" },
+
+      { "id": "gei2cin2-how-much", "word": "幾錢", "jyutping": "gei2 cin2", "meaning": "how much is it?" },
+      { "id": "ngo5bei2-cash-pay", "word": "我畀", "jyutping": "ngo5 bei2", "meaning": "I’ll pay" },
+
+      { "id": "do1ze6-thank-you", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you" },
+
+      { "id": "haang4sin1-leave-first", "word": "行先", "jyutping": "haang4 sin1", "meaning": "I’ll go first / leaving now" },
+      { "id": "zoi3gin3-goodbye", "word": "再見", "jyutping": "zoi3 gin3", "meaning": "goodbye" },
+      { "id": "ci4di1zoi3lei4-come-again-later", "word": "遲啲再嚟", "jyutping": "ci4 di1 zoi3 lei4", "meaning": "come again later" }
+    ]
+  }
+}

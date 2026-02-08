@@ -32,7 +32,7 @@
       { "id": "cyu2lei5-handle", "word": "處理", "jyutping": "cyu2 lei5", "meaning": "to handle / deal with" },
       { "id": "gaai2kyut3-solve", "word": "解決", "jyutping": "gaai2 kyut3", "meaning": "to solve" },
       { "id": "to5hip3-compromise", "word": "妥協", "jyutping": "to5 hip3", "meaning": "to compromise" }, 
-      { "id": "gaai3si1-address", "word": "解決方案", "jyutping": "gaai2 kyut3 fong1 on3", "meaning": "solution / resolution plan" }
+      { "id": "gaai2kyut3fong1on3-solution","word": "解決方案","jyutping": "gaai2 kyut3 fong1 on3","meaning": "solution / resolution plan"}
     ],
 
     "planning_and_decisions": [
@@ -53,14 +53,14 @@
     "nuance_and_softeners": [
       { "id": "jyun4loi4-turns-out", "word": "原來", "jyutping": "jyun4 loi4", "meaning": "it turns out" },
       { "id": "mei6bit1-not-necessarily", "word": "未必", "jyutping": "mei6 bit1", "meaning": "not necessarily" },
-      { "id": "siu2sam1-gently", "word": "小心啲", "jyutping": "siu2 sam1 di1", "meaning": "carefully / gently (softener)" },
+      { "id": "siu2sam1di1-gently", "word": "小心啲", "jyutping": "siu2 sam1 di1", "meaning": "carefully / gently (softener)" },
       { "id": "ho2nang4-possibly", "word": "可能", "jyutping": "ho2 nang4", "meaning": "possibly / might" }
     ],
 
     "comparison_and_evaluation": [
       { "id": "caa1bit6-difference", "word": "差別", "jyutping": "caa1 bit6", "meaning": "difference" },
       { "id": "gaai3bit6-distinction", "word": "界別", "jyutping": "gaai3 bit6", "meaning": "distinction / category difference" },
-      { "id": "ping4gaau3-evaluate", "word": "評價", "jyutping": "ping4 gaa3", "meaning": "to evaluate / assess" }
+      { "id": "ping4gaa3-evaluate", "word": "評價", "jyutping": "ping4 gaa3", "meaning": "to evaluate / assess" }
     ]
   }
 }
