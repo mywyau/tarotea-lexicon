@@ -1,0 +1,58 @@
+{
+  "id": "bong1-help",
+  "word": "幫",
+  "jyutping": "bong1",
+  "meaning": "to help",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to indicate helping someone or doing something for someone",
+    "Often followed by an object such as 我 (me), 你 (you), or 佢 (him/her)",
+    "Common in requests, questions, and urgent situations"
+  ],
+
+  "examples": [
+    {
+      "id": "bong1-help-example-1",
+      "sentence": "幫我。",
+      "jyutping": "bong1 ngo5",
+      "meaning": "Help me."
+    },
+    {
+      "id": "bong1-help-example-2",
+      "sentence": "幫幫我。",
+      "jyutping": "bong1 bong1 ngo5",
+      "meaning": "Please help me."
+    },
+    {
+      "id": "bong1-help-example-3",
+      "sentence": "可唔可以幫我？",
+      "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5",
+      "meaning": "Can you help me?"
+    },
+    {
+      "id": "bong1-help-example-4",
+      "sentence": "唔好意思，可以幫我嗎？",
+      "jyutping": "m4 hou2 ji3 si3, ho2 ji5 bong1 ngo5 maa3",
+      "meaning": "Sorry, could you help me?"
+    }
+  ],
+
+  "audio": {
+    "word": "bong1-help.mp3",
+    "examples": [
+      "bong1-help-example-1.mp3",
+      "bong1-help-example-2.mp3",
+      "bong1-help-example-3.mp3",
+      "bong1-help-example-4.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "survival"],
+
+  "related": [
+    "bong1sau2-help-out",
+    "m4hou2ji3si3-excuse-me"
+  ]
+}

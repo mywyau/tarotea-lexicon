@@ -1,0 +1,88 @@
+{
+  "id": "ci3so2-toilet",
+  "word": "廁所",
+  "jyutping": "ci3 so2",
+  "meaning": "toilet",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to a toilet or restroom in everyday speech",
+    "Common in public places, shops, stations, and restaurants",
+    "Can be combined with politeness or urgency depending on situation"
+  ],
+
+  "examples": [
+    {
+      "id": "ci3so2-toilet-example-1",
+      "sentence": "廁所喺邊度？",
+      "jyutping": "ci3 so2 hai2 bin1 dou6",
+      "meaning": "Where is the toilet?"
+    },
+    {
+      "id": "ci3so2-toilet-example-2",
+      "sentence": "唔好意思，廁所喺邊度？",
+      "jyutping": "m4 hou2 ji3 si3, ci3 so2 hai2 bin1 dou6",
+      "meaning": "Excuse me, where is the toilet?"
+    },
+    {
+      "id": "ci3so2-toilet-example-3",
+      "sentence": "可唔可以借廁所？",
+      "jyutping": "ho2 m4 ho2 ji5 ze3 ci3 so2",
+      "meaning": "Can I use the toilet?"
+    },
+    {
+      "id": "ci3so2-toilet-example-4",
+      "sentence": "唔該借廁所。",
+      "jyutping": "m4 goi1 ze3 ci3 so2",
+      "meaning": "Excuse me, can I use the toilet?"
+    },
+    {
+      "id": "ci3so2-toilet-example-5",
+      "sentence": "我想去廁所。",
+      "jyutping": "ngo5 soeng2 heoi3 ci3 so2",
+      "meaning": "I want to go to the toilet."
+    },
+    {
+      "id": "ci3so2-toilet-example-6",
+      "sentence": "我好急，想去廁所。",
+      "jyutping": "ngo5 hou2 gap1, soeng2 heoi3 ci3 so2",
+      "meaning": "I really need to go to the toilet."
+    },
+    {
+      "id": "ci3so2-toilet-example-7",
+      "sentence": "廁所鎖咗。",
+      "jyutping": "ci3 so2 so2 zo2",
+      "meaning": "The toilet is locked."
+    },
+    {
+      "id": "ci3so2-toilet-example-8",
+      "sentence": "廁所冇人。",
+      "jyutping": "ci3 so2 mou5 jan4",
+      "meaning": "The toilet is empty."
+    }
+  ],
+
+  "audio": {
+    "word": "ci3so2-toilet.mp3",
+    "examples": [
+      "ci3so2-toilet-example-1.mp3",
+      "ci3so2-toilet-example-2.mp3",
+      "ci3so2-toilet-example-3.mp3",
+      "ci3so2-toilet-example-4.mp3",
+      "ci3so2-toilet-example-5.mp3",
+      "ci3so2-toilet-example-6.mp3",
+      "ci3so2-toilet-example-7.mp3",
+      "ci3so2-toilet-example-8.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-1", "core", "survival"],
+
+  "related": [
+    "sai2sau2gaan1-bathroom",
+    "ci3zi2-toilet-paper",
+    "gap1-urgent",
+    "m4hou2ji3si3-excuse-me"
+  ]
+}

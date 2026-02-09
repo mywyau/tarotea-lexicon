@@ -1,0 +1,67 @@
+{
+  "topic": "technology_and_devices",
+  "title": "Technology & Devices – Using Tech in Cantonese",
+  "description": "Talk about phones, computers, apps, the internet, and common tech problems in everyday spoken Cantonese.",
+  "categories": {
+
+    "common_devices": [
+      { "id": "sau2gei1-phone", "word": "手機", "jyutping": "sau2 gei1", "meaning": "mobile phone" },
+      { "id": "din6nou5-computer", "word": "電腦", "jyutping": "din6 nou5", "meaning": "computer" },
+
+      { "id": "ping4ban2-tablet", "word": "平板", "jyutping": "ping4 baan2", "meaning": "tablet" },
+      { "id": "jin1mui6-headphones", "word": "耳機", "jyutping": "ji5 gei1", "meaning": "earphones / headphones" },
+
+      { "id": "ceot1din6bo1-charger", "word": "充電器", "jyutping": "cung1 din6 hei3", "meaning": "charger" },
+      { "id": "pin3pin3-camera", "word": "相機", "jyutping": "soeng2 gei1", "meaning": "camera" }
+    ],
+
+    "apps_and_internet": [
+      { "id": "wang6lo6-internet", "word": "網絡", "jyutping": "mong5 lok6", "meaning": "internet / network" },
+      { "id": "seoi6fung1-wifi", "word": "Wi-Fi", "jyutping": "wai1 fai1", "meaning": "Wi-Fi" },
+
+      { "id": "ap1-app", "word": "App", "jyutping": "aep1", "meaning": "app" },
+      { "id": "heoi3-zip3-app", "word": "下載", "jyutping": "haa6 zoi3", "meaning": "download" },
+
+      { "id": "soeng6-wan6-cloud", "word": "雲端", "jyutping": "wan4 dyun1", "meaning": "cloud (storage/services)" },
+      { "id": "tung4-bou3-sync", "word": "同步", "jyutping": "tung4 bou3", "meaning": "sync" }
+    ],
+
+    "using_devices": [
+      { "id": "hoi1-open", "word": "開", "jyutping": "hoi1", "meaning": "turn on / open" },
+      { "id": "gwaan1-close", "word": "關", "jyutping": "gwaan1", "meaning": "turn off / close" },
+
+      { "id": "cung1din6-charge", "word": "充電", "jyutping": "cung1 din6", "meaning": "charge (a device)" },
+      { "id": "soeng2-wan4-save", "word": "儲存", "jyutping": "cyu5 cyun4", "meaning": "save (data)" },
+
+      { "id": "zi1mou6-type", "word": "打字", "jyutping": "daa2 zi6", "meaning": "type" },
+      { "id": "soeng2-photo", "word": "影相", "jyutping": "jing2 soeng2", "meaning": "take photos" }
+    ],
+
+    "common_problems": [
+      { "id": "mou5din6-no-battery", "word": "冇電", "jyutping": "mou5 din6", "meaning": "no battery" },
+      { "id": "din6-dip1-low-battery", "word": "低電", "jyutping": "dai1 din6", "meaning": "low battery" },
+
+      { "id": "m4-dak1-not-working", "word": "唔得", "jyutping": "m4 dak1", "meaning": "not working" },
+      { "id": "waa6-zo2-broken", "word": "壞咗", "jyutping": "waa6 zo2", "meaning": "broken" },
+
+      { "id": "wang6lo6-man6tai4-network-problem", "word": "網絡問題", "jyutping": "mong5 lok6 man6 tai4", "meaning": "network problem" },
+      { "id": "hou2-maan6-slow", "word": "好慢", "jyutping": "hou2 maan6", "meaning": "very slow" }
+    ],
+
+    "tech_help_and_fixing": [
+      { "id": "joeng6-man6-help", "word": "幫我睇下", "jyutping": "bong1 ngo5 tai2 haa5", "meaning": "help me take a look" },
+      { "id": "dim2-zo2-what-happened", "word": "點咗？", "jyutping": "dim2 zo2", "meaning": "what happened?" },
+
+      { "id": "zi1-zo2-fix", "word": "整咗", "jyutping": "zing2 zo2", "meaning": "fixed (it)" },
+      { "id": "m4-zi1-how", "word": "我唔識", "jyutping": "ngo5 m4 sik1", "meaning": "I don’t know how" }
+    ],
+
+    "spoken_phrases": [
+      { "id": "ngo5-sau2gei1-mou5din6", "word": "我手機冇電", "jyutping": "ngo5 sau2 gei1 mou5 din6", "meaning": "my phone has no battery" },
+      { "id": "wai1fai1-maan6", "word": "Wi-Fi 好慢", "jyutping": "wai1 fai1 hou2 maan6", "meaning": "the Wi-Fi is very slow" },
+
+      { "id": "ho2m4ho2ji5-ji3-cung1din6", "word": "可唔可以借充電？", "jyutping": "ho2 m4 ho2 ji5 ze3 cung1 din6", "meaning": "can I borrow a charger?" },
+      { "id": "do1ze6-bong1-sau2", "word": "多謝幫手", "jyutping": "do1 ze6 bong1 sau2", "meaning": "thanks for the help" }
+    ]
+  }
+}

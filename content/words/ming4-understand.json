@@ -1,0 +1,66 @@
+{
+  "id": "ming4-understand",
+  "word": "明",
+  "jyutping": "ming4",
+  "meaning": "to understand",
+
+  "pos": ["verb", "adjective"],
+
+  "usage": [
+    "Used to indicate understanding or comprehension",
+    "Commonly negated with 唔 to express not understanding",
+    "Often used alone to confirm understanding in conversation"
+  ],
+
+  "examples": [
+    {
+      "id": "ming4-understand-example-1",
+      "sentence": "我明。",
+      "jyutping": "ngo5 ming4",
+      "meaning": "I understand."
+    },
+    {
+      "id": "ming4-understand-example-2",
+      "sentence": "我唔明。",
+      "jyutping": "ngo5 m4 ming4",
+      "meaning": "I don’t understand."
+    },
+    {
+      "id": "ming4-understand-example-3",
+      "sentence": "明唔明？",
+      "jyutping": "ming4 m4 ming4",
+      "meaning": "Do you understand?"
+    },
+    {
+      "id": "ming4-understand-example-4",
+      "sentence": "我而家明喇。",
+      "jyutping": "ngo5 ji4 gaa1 ming4 laa3",
+      "meaning": "I understand now."
+    },
+    {
+      "id": "ming4-understand-example-5",
+      "sentence": "唔好意思，我真係唔明。",
+      "jyutping": "m4 hou2 ji3 si3, ngo5 zan1 hai6 m4 ming4",
+      "meaning": "Sorry, I really don’t understand."
+    }
+  ],
+
+  "audio": {
+    "word": "ming4-understand.mp3",
+    "examples": [
+      "ming4-understand-example-1.mp3",
+      "ming4-understand-example-2.mp3",
+      "ming4-understand-example-3.mp3",
+      "ming4-understand-example-4.mp3",
+      "ming4-understand-example-5.mp3"
+    ]
+  },
+
+  "tags": ["verb", "adjective", "level-1", "core", "communication"],
+
+  "related": [
+    "ting1-hear",
+    "gong2-speak",
+    "m4hou2ji3si3-excuse-me"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "m4dak1-not-working-not-working",
+  "word": "唔得",
+  "jyutping": "m4 dak1",
+  "meaning": "doesn’t work / not okay / not possible",
+
+  "pos": ["verb phrase"],
+
+  "usage": [
+    "Used to say that something does not work or is not functioning",
+    "Also used to reject a suggestion or say something is not acceptable",
+    "Very common in spoken Cantonese for both objects and situations"
+  ],
+
+  "examples": [
+    {
+      "id": "m4dak1-not-working-example-1",
+      "sentence": "呢部機唔得。",
+      "jyutping": "ni1 bou6 gei1 m4 dak1",
+      "meaning": "This machine doesn’t work."
+    },
+    {
+      "id": "m4dak1-not-working-example-2",
+      "sentence": "個方法唔得。",
+      "jyutping": "go3 fong1 faat3 m4 dak1",
+      "meaning": "This method doesn’t work."
+    },
+    {
+      "id": "m4dak1-not-working-example-3",
+      "sentence": "而家唔得。",
+      "jyutping": "ji4 gaa1 m4 dak1",
+      "meaning": "Not right now / it’s not possible now."
+    },
+    {
+      "id": "m4dak1-not-working-example-4",
+      "sentence": "咁樣做唔得。",
+      "jyutping": "gam2 joeng6 zou6 m4 dak1",
+      "meaning": "Doing it this way won’t work."
+    },
+    {
+      "id": "m4dak1-not-working-example-5",
+      "sentence": "對唔住，呢個唔得。",
+      "jyutping": "deoi3 m4 zyu6, ni1 go3 m4 dak1",
+      "meaning": "Sorry, this isn’t acceptable."
+    }
+  ],
+
+  "audio": {
+    "word": "m4dak1-not-working.mp3",
+    "examples": [
+      "m4dak1-not-working-example-1.mp3",
+      "m4dak1-not-working-example-2.mp3",
+      "m4dak1-not-working-example-3.mp3",
+      "m4dak1-not-working-example-4.mp3",
+      "m4dak1-not-working-example-5.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "problems", "survival"],
+
+  "related": [
+    "waai6zo2-broken",
+    "jau5man6tai4-problem",
+    "m4gin3zo2-lost"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "sai2sau2jik6-hand-soap",
+  "word": "洗手液",
+  "jyutping": "sai2 sau2 jik6",
+  "meaning": "hand soap / liquid soap",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to liquid hand soap",
+    "Common in public toilets, shops, offices, and homes",
+    "Often used together with 洗手 (to wash hands)"
+  ],
+
+  "examples": [
+    {
+      "id": "sai2sau2jik6-hand-example-1",
+      "sentence": "有冇洗手液？",
+      "jyutping": "jau5 mou5 sai2 sau2 jik6",
+      "meaning": "Is there any hand soap?"
+    },
+    {
+      "id": "sai2sau2jik6-hand-example-2",
+      "sentence": "冇洗手液。",
+      "jyutping": "mou5 sai2 sau2 jik6",
+      "meaning": "There’s no hand soap."
+    },
+    {
+      "id": "sai2sau2jik6-hand-example-3",
+      "sentence": "用洗手液洗手。",
+      "jyutping": "jung6 sai2 sau2 jik6 sai2 sau2",
+      "meaning": "Wash your hands with hand soap."
+    },
+    {
+      "id": "sai2sau2jik6-hand-example-4",
+      "sentence": "洗手液用完咗。",
+      "jyutping": "sai2 sau2 jik6 jung6 jyun4 zo2",
+      "meaning": "The hand soap has run out."
+    },
+    {
+      "id": "sai2sau2jik6-hand-example-5",
+      "sentence": "呢度冇洗手液。",
+      "jyutping": "ni1 dou6 mou5 sai2 sau2 jik6",
+      "meaning": "There’s no hand soap here."
+    }
+  ],
+
+  "audio": {
+    "word": "sai2sau2jik6-hand-soap.mp3",
+    "examples": [
+      "sai2sau2jik6-hand-example-1.mp3",
+      "sai2sau2jik6-hand-example-2.mp3",
+      "sai2sau2jik6-hand-example-3.mp3",
+      "sai2sau2jik6-hand-example-4.mp3",
+      "sai2sau2jik6-hand-example-5.mp3"
+    ]
+  },
+
+  "tags": ["noun", "level-1", "core", "survival"],
+
+  "related": [
+    "sai2sau2-wash-hands",
+    "ci3zi2-toilet-paper",
+    "sai2sau2gaan1-bathroom"
+  ]
+}

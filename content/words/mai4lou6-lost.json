@@ -1,0 +1,66 @@
+{
+  "id": "mai4lou6-lost",
+  "word": "迷路",
+  "jyutping": "mai4 lou6",
+  "meaning": "to be lost",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe being lost or not knowing where you are",
+    "Common when asking for directions or explaining a situation",
+    "Often used with 咗 to indicate the current state"
+  ],
+
+  "examples": [
+    {
+      "id": "mai4lou6-lost-example-1",
+      "sentence": "我迷路咗。",
+      "jyutping": "ngo5 mai4 lou6 zo2",
+      "meaning": "I’m lost."
+    },
+    {
+      "id": "mai4lou6-lost-example-2",
+      "sentence": "好似迷路咗。",
+      "jyutping": "hou2 ci5 mai4 lou6 zo2",
+      "meaning": "I think I’m lost."
+    },
+    {
+      "id": "mai4lou6-lost-example-3",
+      "sentence": "我驚自己迷路。",
+      "jyutping": "ngo5 geng1 zi6 gei2 mai4 lou6",
+      "meaning": "I’m afraid I might get lost."
+    },
+    {
+      "id": "mai4lou6-lost-example-4",
+      "sentence": "唔好意思，我迷路咗。",
+      "jyutping": "m4 hou2 ji3 si3, ngo5 mai4 lou6 zo2",
+      "meaning": "Sorry, I’m lost."
+    },
+    {
+      "id": "mai4lou6-lost-example-5",
+      "sentence": "如果迷路，可以問人。",
+      "jyutping": "jyu4 gwo2 mai4 lou6, ho2 ji5 man6 jan4",
+      "meaning": "If you get lost, you can ask someone."
+    }
+  ],
+
+  "audio": {
+    "word": "mai4lou6-lost.mp3",
+    "examples": [
+      "mai4lou6-lost-example-1.mp3",
+      "mai4lou6-lost-example-2.mp3",
+      "mai4lou6-lost-example-3.mp3",
+      "mai4lou6-lost-example-4.mp3",
+      "mai4lou6-lost-example-5.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "directions", "survival"],
+
+  "related": [
+    "hai2bin1dou6-where",
+    "dim2joeng6-heoi3-go-how",
+    "bong1-help"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "m4syu1fuk6-unwell",
+  "word": "唔舒服",
+  "jyutping": "m4 syu1 fuk6",
+  "meaning": "unwell / not feeling well",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to say that someone feels unwell or uncomfortable",
+    "Common for minor illness, discomfort, or early signs of sickness",
+    "Often used before describing specific symptoms"
+  ],
+
+  "examples": [
+    {
+      "id": "m4syu1fuk6-unwell-example-1",
+      "sentence": "我唔舒服。",
+      "jyutping": "ngo5 m4 syu1 fuk6",
+      "meaning": "I don’t feel well."
+    },
+    {
+      "id": "m4syu1fuk6-unwell-example-2",
+      "sentence": "佢話佢唔舒服。",
+      "jyutping": "keoi5 waa6 keoi5 m4 syu1 fuk6",
+      "meaning": "He / she said they don’t feel well."
+    },
+    {
+      "id": "m4syu1fuk6-unwell-example-3",
+      "sentence": "有啲唔舒服。",
+      "jyutping": "jau5 di1 m4 syu1 fuk6",
+      "meaning": "I feel a bit unwell."
+    },
+    {
+      "id": "m4syu1fuk6-unwell-example-4",
+      "sentence": "我頭暈，好唔舒服。",
+      "jyutping": "ngo5 tau4 wan4, hou2 m4 syu1 fuk6",
+      "meaning": "I feel dizzy and very unwell."
+    },
+    {
+      "id": "m4syu1fuk6-unwell-example-5",
+      "sentence": "如果唔舒服，就休息下。",
+      "jyutping": "jyu4 gwo2 m4 syu1 fuk6, zau6 jau1 sik1 haa5",
+      "meaning": "If you don’t feel well, take a rest."
+    }
+  ],
+
+  "audio": {
+    "word": "m4syu1fuk6-unwell.mp3",
+    "examples": [
+      "m4syu1fuk6-unwell-example-1.mp3",
+      "m4syu1fuk6-unwell-example-2.mp3",
+      "m4syu1fuk6-unwell-example-3.mp3",
+      "m4syu1fuk6-unwell-example-4.mp3",
+      "m4syu1fuk6-unwell-example-5.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-1", "core", "health", "survival"],
+
+  "related": [
+    "sau6zoeng1-injured",
+    "gan2gap1-emergency",
+    "gau3ming6-help"
+  ]
+}

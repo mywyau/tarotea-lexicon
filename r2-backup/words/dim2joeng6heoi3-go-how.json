@@ -1,0 +1,66 @@
+{
+  "id": "dim2joeng6heoi3-go-how",
+  "word": "點樣去",
+  "jyutping": "dim2 joeng6 heoi3",
+  "meaning": "how to get to",
+
+  "pos": ["question phrase"],
+
+  "usage": [
+    "Used to ask for directions to a place",
+    "Normally followed by a destination",
+    "Very common when asking for help while travelling or navigating"
+  ],
+
+  "examples": [
+    {
+      "id": "dim2joeng6heoi3-go-how-example-1",
+      "sentence": "點樣去地鐵站？",
+      "jyutping": "dim2 joeng6 heoi3 dei6 tit3 zaam6",
+      "meaning": "How do I get to the MTR station?"
+    },
+    {
+      "id": "dim2joeng6heoi3-go-how-example-2",
+      "sentence": "點樣去洗手間？",
+      "jyutping": "dim2 joeng6 heoi3 sai2 sau2 gaan1",
+      "meaning": "How do I get to the bathroom?"
+    },
+    {
+      "id": "dim2joeng6heoi3-go-how-example-3",
+      "sentence": "唔好意思，點樣去出口？",
+      "jyutping": "m4 hou2 ji3 si3, dim2 joeng6 heoi3 ceot1 hau2",
+      "meaning": "Excuse me, how do I get to the exit?"
+    },
+    {
+      "id": "dim2joeng6heoi3-go-how-example-4",
+      "sentence": "我想問下，點樣去巴士站？",
+      "jyutping": "ngo5 soeng2 man6 haa5, dim2 joeng6 heoi3 baa1 si2 zaam6",
+      "meaning": "I want to ask, how do I get to the bus stop?"
+    },
+    {
+      "id": "dim2joeng6heoi3-go-how-example-5",
+      "sentence": "由呢度點樣去？",
+      "jyutping": "jau4 ni1 dou6 dim2 joeng6 heoi3",
+      "meaning": "How do I get there from here?"
+    }
+  ],
+
+  "audio": {
+    "word": "dim2joeng6heoi3-go-how.mp3",
+    "examples": [
+      "dim2joeng6heoi3-go-how-example-1.mp3",
+      "dim2joeng6heoi3-go-how-example-2.mp3",
+      "dim2joeng6heoi3-go-how-example-3.mp3",
+      "dim2joeng6heoi3-go-how-example-4.mp3",
+      "dim2joeng6heoi3-go-how-example-5.mp3"
+    ]
+  },
+
+  "tags": ["question", "level-1", "core", "directions", "survival"],
+
+  "related": [
+    "hai2bin1dou6-where",
+    "mai4lou6-lost",
+    "bong1-help"
+  ]
+}

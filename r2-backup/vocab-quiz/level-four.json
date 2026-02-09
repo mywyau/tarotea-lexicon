@@ -4,43 +4,41 @@
   "description": "Express opinions, explain situations, discuss experiences, and handle real-life problems in natural spoken Cantonese.",
   "categories": {
     "opinions_and_judgement": [
-      { "id": "jing6wai4-opinion", "word": "認為", "jyutping": "jing6 wai4", "meaning": "to think / believe (opinion)" },
       { "id": "tai2faat3-perspective", "word": "睇法", "jyutping": "tai2 faat3", "meaning": "view / perspective" },
-      { "id": "ji3gin3-opinion", "word": "意見", "jyutping": "ji3 gin3", "meaning": "opinion / suggestion" },
       { "id": "taai3dou6-attitude", "word": "態度", "jyutping": "taai3 dou6", "meaning": "attitude" },
-      { "id": "gam2gok3soeng6-feeling-standpoint", "word": "感覺上", "jyutping": "gam2 gok3 soeng6", "meaning": "from a feeling standpoint" }
+      { "id": "gam2gok3soeng6-feeling-standpoint", "word": "感覺上", "jyutping": "gam2 gok3 soeng6", "meaning": "from a feeling standpoint" },
+      { "id": "lap6coeng4-stance", "word": "立場", "jyutping": "lap6 coeng4", "meaning": "standpoint / stance" },
+      { "id": "gok3dou6-angle", "word": "角度", "jyutping": "gok3 dou6", "meaning": "angle / perspective" }
     ],
 
     "reasoning_and_explanation": [
-      { "id": "jyun4jan1-reason", "word": "原因", "jyutping": "jyun4 jan1", "meaning": "reason" },
-      { "id": "git3gwo2-result", "word": "結果", "jyutping": "git3 gwo2", "meaning": "result" },
-      { "id": "jing2hoeng2-affect", "word": "影響", "jyutping": "jing2 hoeng2", "meaning": "to affect / influence" },
       { "id": "gaai2sik1-explain", "word": "解釋", "jyutping": "gaai2 sik1", "meaning": "to explain" },
-      { "id": "lei5gaai2-understand", "word": "理解", "jyutping": "lei5 gaai2", "meaning": "to understand" }
+      { "id": "lei5gaai2-understand", "word": "理解", "jyutping": "lei5 gaai2", "meaning": "to understand" },
+      { "id": "teoi1dyun6-infer", "word": "推斷", "jyutping": "teoi1 dyun6", "meaning": "to infer / deduce" },
+      { "id": "pun3dyun6-judge", "word": "判斷", "jyutping": "pun3 dyun6", "meaning": "to judge / assess" }
     ],
 
     "experience_and_memory": [
       { "id": "ging1jim6-experience", "word": "經驗", "jyutping": "ging1 jim6", "meaning": "experience" },
       { "id": "wui4jik1-memory", "word": "回憶", "jyutping": "wui4 jik1", "meaning": "memory / recollection" },
       { "id": "si3gwo3-experienced", "word": "試過", "jyutping": "si3 gwo3", "meaning": "have tried / experienced" },
-      { "id": "faat3jin6-discover", "word": "發現", "jyutping": "faat3 jin6", "meaning": "to discover / realise" },
-      { "id": "jan3zoeng6-impression", "word": "印象", "jyutping": "jan3 zoeng6", "meaning": "impression" }
+      { "id": "jan3zoeng6-impression", "word": "印象", "jyutping": "jan3 zoeng6", "meaning": "impression" },
+      { "id": "tai2wui6-realise", "word": "體會", "jyutping": "tai2 wui6", "meaning": "to personally realise / appreciate" },
+      { "id": "ji3sik1dou3-realise", "word": "意識到", "jyutping": "ji3 sik1 dou3", "meaning": "to become aware of" }
     ],
 
     "problems_and_solutions": [
       { "id": "man6tai4-problem", "word": "問題", "jyutping": "man6 tai4", "meaning": "problem" },
-      { "id": "cing4fong3-situation", "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation" },
       { "id": "cyu2lei5-handle", "word": "處理", "jyutping": "cyu2 lei5", "meaning": "to handle / deal with" },
       { "id": "gaai2kyut3-solve", "word": "解決", "jyutping": "gaai2 kyut3", "meaning": "to solve" },
-      { "id": "on1paai4-arrange", "word": "安排", "jyutping": "on1 paai4", "meaning": "to arrange" }
+      { "id": "to5hip3-compromise", "word": "妥協", "jyutping": "to5 hip3", "meaning": "to compromise" }, 
+      { "id": "gaai2kyut3fong1on3-solution","word": "解決方案","jyutping": "gaai2 kyut3 fong1 on3","meaning": "solution / resolution plan"}
     ],
 
     "planning_and_decisions": [
-      { "id": "gai3waak6-plan", "word": "計劃", "jyutping": "gai3 waak6", "meaning": "plan" },
-      { "id": "syun2zaak6-choose", "word": "選擇", "jyutping": "syun2 zaak6", "meaning": "to choose" },
-      { "id": "kyut3ding6-decide", "word": "決定", "jyutping": "kyut3 ding6", "meaning": "to decide" },
-      { "id": "zeon2bei6-prepare", "word": "準備", "jyutping": "zeon2 bei6", "meaning": "to prepare" },
-      { "id": "goi2bin3-change", "word": "改變", "jyutping": "goi2 bin3", "meaning": "to change" }
+      { "id": "goi2bin3-change", "word": "改變", "jyutping": "goi2 bin3", "meaning": "to change" },
+      { "id": "zi3dak1-worth", "word": "值得", "jyutping": "zi3 dak1", "meaning": "worth (doing)" },
+      { "id": "hap6lei5-reasonable", "word": "合理", "jyutping": "hap6 lei5", "meaning": "reasonable" }   
     ],
 
     "social_interaction": [
@@ -48,23 +46,21 @@
       { "id": "kau1tung1-communicate", "word": "溝通", "jyutping": "kau1 tung1", "meaning": "to communicate" },
       { "id": "soeng1cyu2-get-along", "word": "相處", "jyutping": "soeng1 cyu2", "meaning": "to get along" },
       { "id": "hap6zok3-cooperate", "word": "合作", "jyutping": "hap6 zok3", "meaning": "to cooperate" },
-      { "id": "zeon1zung6-respect", "word": "尊重", "jyutping": "zeon1 zung6", "meaning": "to respect" }
+      { "id": "zeon1zung6-respect", "word": "尊重", "jyutping": "zeon1 zung6", "meaning": "to respect" },
+      { "id": "baau1jung4-tolerate", "word": "包容", "jyutping": "baau1 jung4", "meaning": "to be tolerant / inclusive" }
     ],
 
     "nuance_and_softeners": [
-      { "id": "kei4sat6-actually", "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually" },
       { "id": "jyun4loi4-turns-out", "word": "原來", "jyutping": "jyun4 loi4", "meaning": "it turns out" },
       { "id": "mei6bit1-not-necessarily", "word": "未必", "jyutping": "mei6 bit1", "meaning": "not necessarily" },
-      { "id": "daai6koi3-probably", "word": "大概", "jyutping": "daai6 koi3", "meaning": "probably / roughly" },
-      { "id": "zik1hai6-that-is", "word": "即係", "jyutping": "zik1 hai6", "meaning": "that is / meaning" }
+      { "id": "siu2sam1di1-gently", "word": "小心啲", "jyutping": "siu2 sam1 di1", "meaning": "carefully / gently (softener)" },
+      { "id": "ho2nang4-possibly", "word": "可能", "jyutping": "ho2 nang4", "meaning": "possibly / might" }
     ],
 
     "comparison_and_evaluation": [
-      { "id": "bei2gaau3-compare", "word": "比較", "jyutping": "bei2 gaau3", "meaning": "comparatively" },
-      { "id": "gang3gaa1-more", "word": "更加", "jyutping": "gang3 gaa1", "meaning": "even more" },
-      { "id": "m4tung4-different", "word": "唔同", "jyutping": "m4 tung4", "meaning": "different" },
-      { "id": "jat1joeng6-same", "word": "一樣", "jyutping": "jat1 joeng6", "meaning": "the same" },
-      { "id": "caa1bit6-difference", "word": "差別", "jyutping": "caa1 bit6", "meaning": "difference" }
+      { "id": "caa1bit6-difference", "word": "差別", "jyutping": "caa1 bit6", "meaning": "difference" },
+      { "id": "gaai3bit6-distinction", "word": "界別", "jyutping": "gaai3 bit6", "meaning": "distinction / category difference" },
+      { "id": "ping4gaa3-evaluate", "word": "評價", "jyutping": "ping4 gaa3", "meaning": "to evaluate / assess" }
     ]
   }
 }

@@ -1,0 +1,66 @@
+{
+  "id": "sau6zoeng1-injured",
+  "word": "受傷",
+  "jyutping": "sau6 zoeng1",
+  "meaning": "injured",
+
+  "pos": ["verb", "adjective"],
+
+  "usage": [
+    "Used to describe someone being injured or hurt",
+    "Can describe physical injury from accidents or incidents",
+    "Often used in emergencies or when explaining a situation"
+  ],
+
+  "examples": [
+    {
+      "id": "sau6zoeng1-injured-example-1",
+      "sentence": "我受傷。",
+      "jyutping": "ngo5 sau6 zoeng1",
+      "meaning": "I’m injured."
+    },
+    {
+      "id": "sau6zoeng1-injured-example-2",
+      "sentence": "佢受傷。",
+      "jyutping": "keoi5 sau6 zoeng1",
+      "meaning": "He / she is injured."
+    },
+    {
+      "id": "sau6zoeng1-injured-example-3",
+      "sentence": "有人受傷。",
+      "jyutping": "jau5 jan4 sau6 zoeng1",
+      "meaning": "Someone is injured."
+    },
+    {
+      "id": "sau6zoeng1-injured-example-4",
+      "sentence": "我受傷，要叫救護車。",
+      "jyutping": "ngo5 sau6 zoeng1, jiu3 giu3 gau3 wu6 ce1",
+      "meaning": "I’m injured, call an ambulance."
+    },
+    {
+      "id": "sau6zoeng1-injured-example-5",
+      "sentence": "佢受咗傷。",
+      "jyutping": "keoi5 sau6 zo2 zoeng1",
+      "meaning": "He / she has been injured."
+    }
+  ],
+
+  "audio": {
+    "word": "sau6zoeng1-injured.mp3",
+    "examples": [
+      "sau6zoeng1-injured-example-1.mp3",
+      "sau6zoeng1-injured-example-2.mp3",
+      "sau6zoeng1-injured-example-3.mp3",
+      "sau6zoeng1-injured-example-4.mp3",
+      "sau6zoeng1-injured-example-5.mp3"
+    ]
+  },
+
+  "tags": ["verb", "adjective", "level-1", "core", "emergency", "survival"],
+
+  "related": [
+    "gau3ming6-help",
+    "gan2gap1-emergency",
+    "m4syu1fuk6-unwell"
+  ]
+}
