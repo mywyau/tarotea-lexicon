@@ -1,0 +1,66 @@
+{
+  "id": "nei5dim2aa3-how-are-you",
+  "word": "你點呀？",
+  "jyutping": "nei5 dim2 aa3",
+  "meaning": "how are you?",
+  "pos": [
+    "phrase",
+    "question"
+  ],
+  "usage": [
+    "A very common casual Cantonese way to ask 'how are you?'",
+    "Often used between friends, coworkers, or people you know",
+    "Literally means 'how are you doing?'",
+    "Usually followed by a short response like 幾好 or 麻麻哋",
+    "The particle 呀 makes the tone friendly and natural"
+  ],
+  "examples": [
+    {
+      "id": "nei5dim2aa3-how-are-you-example-1",
+      "sentence": "你好呀，你點呀？",
+      "jyutping": "nei5 hou2 aa3, nei5 dim2 aa3",
+      "meaning": "Hi! How are you?"
+    },
+    {
+      "id": "nei5dim2aa3-how-are-you-example-2",
+      "sentence": "我幾好，你呢？",
+      "jyutping": "ngo5 gei2 hou2, nei5 ne1",
+      "meaning": "I’m pretty good, how about you?"
+    },
+    {
+      "id": "nei5dim2aa3-how-are-you-example-3",
+      "sentence": "最近你好似好忙，你點呀？",
+      "jyutping": "zeoi3 gan6 nei5 hou2 ci5 hou2 mong4, nei5 dim2 aa3",
+      "meaning": "You seem really busy lately, how are you?"
+    },
+    {
+      "id": "nei5dim2aa3-how-are-you-example-4",
+      "sentence": "好耐冇見，你點呀？",
+      "jyutping": "hou2 noi6 mou5 gin3, nei5 dim2 aa3",
+      "meaning": "Long time no see, how have you been?"
+    }
+  ],
+  "audio": {
+    "word": "nei5dim2aa3-how-are-you.mp3",
+    "examples": [
+      "nei5dim2aa3-how-are-you-example-1.mp3",
+      "nei5dim2aa3-how-are-you-example-2.mp3",
+      "nei5dim2aa3-how-are-you-example-3.mp3",
+      "nei5dim2aa3-how-are-you-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "greeting",
+    "question",
+    "level-1",
+    "core",
+    "daily",
+    "conversation"
+  ],
+  "related": [
+    "nei5hou2-hello",
+    "gei2hou2-pretty-good",
+    "maa4maa4-decent",
+    "hou2noi6mou5gin3-long-time-no-see"
+  ]
+}

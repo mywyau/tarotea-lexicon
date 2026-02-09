@@ -55,7 +55,7 @@ in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert and e
 Some example commands
 
 ```
-ffmpeg -i bong1sau2-help-out-example-2.mp3 -af "atrim=start=1.5" cleaned/bong1sau2-help-out-example-2.mp3
+ffmpeg -i zoi3gin3-goodbye.mp3 -af "atrim=start=1.7" cleaned/zoi3gin3-goodbye.mp3
 ffmpeg -i lei4-come-exmaple-2.mp3 -af "atrim=start=1.5" cleaned/lei4-come-exmaple-2.mp3
 ```
 
@@ -84,11 +84,18 @@ ffmpeg -i co5-sit-example-2.mp3 \
   -af "atrim=start=2.4:end=2.7,atempo=0.7" \
   cleaned/co5-sit-example-2.mp3
 
+
+### Download and back up locally cloudflare r2 storage 
+
+
 ```
 aws s3 sync s3://tarotea-content ./r2-backup \
   --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
   --profile r2
 ```
+
+### Generate audio file names and generate audio
+
 
 # 1. Generate audio resource list
 python scripts/generate_audio_resources.py

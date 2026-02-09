@@ -5,60 +5,51 @@
   "categories": {
 
     "basic_greetings": [
-      { "id": "nei5-hou2-hello", "word": "你好", "jyutping": "nei5 hou2", "meaning": "hello" },
-      { "id": "nei5-hou2-aa3-hello-friendly", "word": "你好呀", "jyutping": "nei5 hou2 aa3", "meaning": "hello (friendly)" },
+      { "id": "nei5hou2-hello", "word": "你好", "jyutping": "nei5 hou2", "meaning": "hello" },
 
       { "id": "zou2san4-good-morning", "word": "早晨", "jyutping": "zou2 san4", "meaning": "good morning" },
-      { "id": "maan6on1-good-evening", "word": "晚安", "jyutping": "maan6 on1", "meaning": "good night" },
+      { "id": "maan6on1-good-night", "word": "晚安", "jyutping": "maan6 on1", "meaning": "good night" },
 
-      { "id": "nei5-dim2-aa3-how-are-you", "word": "你點呀？", "jyutping": "nei5 dim2 aa3", "meaning": "how are you?" },
-      { "id": "hou2-maai6-how-are-you-casual", "word": "好嗎？", "jyutping": "hou2 maa3", "meaning": "how’s it going?" }
+      { "id": "nei5dim2aa3-how-are-you", "word": "你點呀？", "jyutping": "nei5 dim2 aa3", "meaning": "how are you?" },
+      { "id": "hou2maa3-how-going", "word": "好嗎？", "jyutping": "hou2 maa3", "meaning": "how’s it going?" }
     ],
 
     "responding_politely": [
-      { "id": "hou2-aa3-im-good", "word": "好呀", "jyutping": "hou2 aa3", "meaning": "I’m good" },
-      { "id": "gei3-hou2-pretty-good", "word": "幾好", "jyutping": "gei2 hou2", "meaning": "pretty good" },
+      { "id": "hou2aa3-im-good", "word": "好呀", "jyutping": "hou2 aa3", "meaning": "Good!" },
+      { "id": "gei2hou2-pretty-good", "word": "幾好", "jyutping": "gei2 hou2", "meaning": "pretty good" },
 
-      { "id": "maa4maa4-decent", "word": "麻麻哋", "jyutping": "maa4 maa4 dei2", "meaning": "so-so" },
-      { "id": "m4-taai3-hou2-not-great", "word": "唔太好", "jyutping": "m4 taai3 hou2", "meaning": "not too good" }
+      { "id": "maa4maa4dei2-decent", "word": "麻麻哋", "jyutping": "maa4 maa4 dei2", "meaning": "so-so" },
+      { "id": "m4taai3hou2-not-great", "word": "唔太好", "jyutping": "m4 taai3 hou2", "meaning": "not too good" },
+
+      { "id": "m4hai6m4hai6-youre-welcome", "word": "唔係唔係", "jyutping": "m4 hai6 m4 hai6", "meaning": "no worries/you're welcome" },
+      { "id": "m4gan1jiu3-no-problem", "word": "唔緊要", "jyutping": "m4 gan1 jiu3", "meaning": "it’s okay / no problem" },
+      { "id": "hou2laa1-alright", "word": "好喇", "jyutping": "hou2 laa3", "meaning": "alright then / okay" }
     ],
 
     "please_and_thank_you": [
-      { "id": "m4goi1-please-thanks", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please / thanks (for service)" },
-      { "id": "m4goi1-saai3-thanks-service", "word": "唔該晒", "jyutping": "m4 goi1 saai3", "meaning": "thank you very much (for help/service)" },
-
+      { "id": "m4goi1-please", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please / thanks (for service)" },
       { "id": "do1ze6-thank-you", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you (for gifts / kindness)" },
-      { "id": "do1ze6-saai3-thanks-lots", "word": "多謝晒", "jyutping": "do1 ze6 saai3", "meaning": "thanks a lot" }
+
+      { "id": "ceng2-please", "word": "請", "jyutping": "ceng2", "meaning": "please (formal)" },
+      { "id": "m4goi1aa3-thanks-friendly", "word": "唔該呀", "jyutping": "m4 goi1 aa3", "meaning": "thanks (friendly)" }
     ],
 
     "apologies_and_manners": [
-      { "id": "deoi3-m4-zyu6-sorry", "word": "對唔住", "jyutping": "deoi3 m4 zyu6", "meaning": "sorry" },
-      { "id": "m4hou2-ji3-si3-excuse-me", "word": "唔好意思", "jyutping": "m4 hou2 ji3 si3", "meaning": "excuse me / sorry (polite)" },
-
-      { "id": "m4goi1-借借", "word": "唔該，借借", "jyutping": "m4 goi1 ze3 ze3", "meaning": "excuse me (passing through)" }
-    ],
-
-    "greetings_in_context": [
-      { "id": "fan1-gung1-mei6-work-finished", "word": "放工未呀？", "jyutping": "fong3 gung1 mei6 aa3", "meaning": "finished work yet?" },
-      { "id": "sik6-zo2-faaan6-mei6", "word": "食咗飯未？", "jyutping": "sik6 zo2 faan6 mei6", "meaning": "have you eaten?" },
-
-      { "id": "heoi3-bin1-aa3-going-where", "word": "去邊呀？", "jyutping": "heoi3 bin1 aa3", "meaning": "where are you going?" }
+      { "id": "deoi3m4zyu6-sorry", "word": "對唔住", "jyutping": "deoi3 m4 zyu6", "meaning": "sorry" },
+      { "id": "m4hou2ji3si3-excuse-me", "word": "唔好意思", "jyutping": "m4 hou2 ji3 si3", "meaning": "excuse me / sorry (polite)" },
+      { "id": "ze3ze3-excuse-me-pass", "word": "借借", "jyutping": "ze3 ze3", "meaning": "excuse me (passing through)" }
     ],
 
     "farewells": [
-      { "id": "zoi3-gin3-goodbye", "word": "再見", "jyutping": "zoi3 gin3", "meaning": "goodbye" },
-      { "id": "haang4-sin1-leave-first", "word": "行先", "jyutping": "haang4 sin1", "meaning": "I’ll go first" },
-
-      { "id": "ci4-di1-zoi3-lei4", "word": "遲啲再嚟", "jyutping": "ci4 di1 zoi3 lei4", "meaning": "come again later" },
-      { "id": "maan6-maan6-lei4-take-care", "word": "慢慢嚟", "jyutping": "maan6 maan6 lei4", "meaning": "take care / no rush" }
+      { "id": "zoi3gin3-goodbye", "word": "再見", "jyutping": "zoi3 gin3", "meaning": "goodbye" },
+      { "id": "haang4sin1-leave-first", "word": "行先", "jyutping": "haang4 sin1", "meaning": "I’ll go first" },
+      { "id": "ci4di1-later", "word": "遲啲", "jyutping": "ci4 di1", "meaning": "later" }
     ],
 
     "spoken_phrases": [
-      { "id": "nei5-hou2-hou2-goi3", "word": "你好，多謝", "jyutping": "nei5 hou2 do1 ze6", "meaning": "hello, thank you" },
-      { "id": "m4goi1-bong1-sau2", "word": "唔該幫手", "jyutping": "m4 goi1 bong1 sau2", "meaning": "excuse me, could you help?" },
-
-      { "id": "do1ze6-aa3-thanks-friendly", "word": "多謝呀", "jyutping": "do1 ze6 aa3", "meaning": "thanks (friendly)" },
-      { "id": "zoi3-gin3-laa1", "word": "再見喇", "jyutping": "zoi3 gin3 laa3", "meaning": "bye then" }
+      { "id": "zo2-bother", "word": "阻", "jyutping": "zo2", "meaning": "to disturb / bother" },
+      { "id": "m4faan4nei5laa3-wont-trouble", "word": "唔煩你喇", "jyutping": "m4 faan4 nei5 laa3", "meaning": "I won’t trouble you anymore" },
+      { "id": "m4zo2nei5gam3do1laa3-wont-bother-much", "word": "唔阻你咁多喇", "jyutping": "m4 zo2 nei5 gam3 do1 laa3", "meaning": "I won’t bother you so much anymore" }
     ]
   }
 }

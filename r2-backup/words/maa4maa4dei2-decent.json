@@ -1,0 +1,74 @@
+{
+  "id": "maa4maa4dei2-decent",
+  "word": "麻麻哋",
+  "jyutping": "maa4 maa4 dei2",
+  "meaning": "so-so / not great",
+  "pos": [
+    "adjective",
+    "phrase",
+    "response"
+  ],
+  "usage": [
+    "A very common Cantonese expression meaning 'so-so' or 'not that great'",
+    "Often used as a modest or slightly negative response to 你點呀？",
+    "Implies things are okay but not particularly good",
+    "Sounds natural and casual in everyday conversation",
+    "哋 at the end softens the tone and makes it more conversational"
+  ],
+  "examples": [
+    {
+      "id": "maa4maa4dei2-decent-example-1",
+      "sentence": "我麻麻哋。",
+      "jyutping": "ngo5 maa4 maa4 dei2",
+      "meaning": "I’m so-so."
+    },
+    {
+      "id": "maa4maa4dei2-decent-example-2",
+      "sentence": "你點呀？我麻麻哋。",
+      "jyutping": "nei5 dim2 aa3? ngo5 maa4 maa4 dei2",
+      "meaning": "How are you? I’m so-so."
+    },
+    {
+      "id": "maa4maa4dei2-decent-example-3",
+      "sentence": "今日精神麻麻哋。",
+      "jyutping": "gam1 jat6 zing1 san4 maa4 maa4 dei2",
+      "meaning": "I don’t feel very energetic today."
+    },
+    {
+      "id": "maa4maa4dei2-decent-example-4",
+      "sentence": "呢套戲麻麻哋，好普通。",
+      "jyutping": "ni1 tou3 hei3 maa4 maa4 dei2, hou2 pou2 tung1",
+      "meaning": "This movie is so-so, pretty ordinary."
+    },
+    {
+      "id": "maa4maa4dei2-decent-example-5",
+      "sentence": "最近忙咗啲，所以麻麻哋。",
+      "jyutping": "zeoi3 gan6 mong4 zo2 di1, so2 ji5 maa4 maa4 dei2",
+      "meaning": "I’ve been a bit busy lately, so I’m doing just so-so."
+    }
+  ],
+  "audio": {
+    "word": "maa4maa4dei2-decent.mp3",
+    "examples": [
+      "maa4maa4dei2-decent-example-1.mp3",
+      "maa4maa4dei2-decent-example-2.mp3",
+      "maa4maa4dei2-decent-example-3.mp3",
+      "maa4maa4dei2-decent-example-4.mp3",
+      "maa4maa4dei2-decent-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "response",
+    "adjective",
+    "level-1",
+    "core",
+    "daily",
+    "conversation"
+  ],
+  "related": [
+    "nei5dim2aa3-how-are-you",
+    "gei2hou2-pretty-good",
+    "m4taai3hou2-not-great",
+    "hou2aa3-im-good"
+  ]
+}
