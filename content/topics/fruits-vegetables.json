@@ -28,18 +28,18 @@
       { "id": "coi3-vegetables", "word": "菜", "jyutping": "coi3", "meaning": "vegetables" },
       { "id": "bok6coi3-bok-choy", "word": "白菜", "jyutping": "baak6 coi3", "meaning": "bok choy / Chinese cabbage" },
       { "id": "coi3sam1-choi-sum", "word": "菜心", "jyutping": "coi3 sam1", "meaning": "choi sum" },
-      { "id": "soeng4coi3-spinach", "word": "菠菜", "jyutping": "bo1 coi3", "meaning": "spinach" },
-      { "id": "fan1toi4-tomato", "word": "番茄", "jyutping": "faan1 ke2", "meaning": "tomato" },
-      { "id": "joeng4gwaa1-cucumber", "word": "青瓜", "jyutping": "cing1 gwaa1", "meaning": "cucumber" },
+      { "id": "bo1coi3-spinach", "word": "菠菜", "jyutping": "bo1 coi3", "meaning": "spinach" },
+      { "id": "faan1ke2-tomato", "word": "番茄", "jyutping": "faan1 ke2", "meaning": "tomato" },
+      { "id": "cing1gwaa1-cucumber", "word": "青瓜", "jyutping": "cing1 gwaa1", "meaning": "cucumber" },
       { "id": "lo4baak6-radish", "word": "蘿蔔", "jyutping": "lo4 baak6", "meaning": "radish" },
-      { "id": "hoeng1coeng2-onion", "word": "洋蔥", "jyutping": "joeng4 cung1", "meaning": "onion" },
-      { "id": "fa1ye4-lettuce", "word": "生菜", "jyutping": "saang1 coi3", "meaning": "lettuce" },
-      { "id": "soeng1coi3-celery", "word": "西芹", "jyutping": "sai1 kan4", "meaning": "celery" },
-      { "id": "hoeng1fung1-bell-pepper", "word": "甜椒", "jyutping": "tim4 ziu1", "meaning": "bell pepper" },
+      { "id": "joeng4cung1-onion", "word": "洋蔥", "jyutping": "joeng4 cung1", "meaning": "onion" },
+      { "id": "saang1coi3-lettuce", "word": "生菜", "jyutping": "saang1 coi3", "meaning": "lettuce" },
+      { "id": "sai1kan4-celery", "word": "西芹", "jyutping": "sai1 kan4", "meaning": "celery" },
+      { "id": "tim4ziu1-bell-pepper", "word": "甜椒", "jyutping": "tim4 ziu1", "meaning": "bell pepper" },
       { "id": "ke1zi2-eggplant", "word": "茄子", "jyutping": "ke1 zi2", "meaning": "eggplant / aubergine" },
-      { "id": "joeng4ngaai4-okra", "word": "秋葵", "jyutping": "cau1 kwai4", "meaning": "okra" },
-      { "id": "soeng6ngan4-broccoli", "word": "西蘭花", "jyutping": "sai1 laan4 faa1", "meaning": "broccoli" },
-      { "id": "faa1ye4-cauliflower", "word": "椰菜花", "jyutping": "je4 coi3 faa1", "meaning": "cauliflower" }
+      { "id": "cau1kwai4-okra", "word": "秋葵", "jyutping": "cau1 kwai4", "meaning": "okra" },
+      { "id": "sai1laan4faa1-broccoli", "word": "西蘭花", "jyutping": "sai1 laan4 faa1", "meaning": "broccoli" },
+      { "id": "je4coi3faa1-cauliflower", "word": "椰菜花", "jyutping": "je4 coi3 faa1", "meaning": "cauliflower" }
     ],
 
     "herbs_and_others": [
