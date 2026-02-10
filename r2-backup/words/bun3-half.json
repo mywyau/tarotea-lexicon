@@ -1,0 +1,66 @@
+{
+  "id": "bun3-half",
+  "word": "半",
+  "jyutping": "bun3",
+  "meaning": "half",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "半 (bun3) means 'half' and is used to describe a portion or amount.",
+    "You can use 半 to talk about half a fruit or half a quantity of vegetables.",
+    "半 is often used when you only want part of something instead of the whole.",
+    "It can describe half the size, half the amount, or half the price in shopping.",
+    "半 can also be used in cooking instructions, like 'half an onion' or 'half a cup'."
+  ],
+  "examples": [
+    {
+      "id": "bun3-half-example-1",
+      "sentence": "我買咗半個蘋果。",
+      "jyutping": "ngo5 maai5 zo2 bun3 go3 ping4 gwo2.",
+      "meaning": "I bought half an apple."
+    },
+    {
+      "id": "bun3-half-example-2",
+      "sentence": "呢啲菜好新鮮，但我只要半斤。",
+      "jyutping": "ni1 di1 coi3 hou2 san1 sin1, daa6 ngo5 zi2 jiu3 bun3 gan1.",
+      "meaning": "These vegetables are fresh, but I only want half a catty."
+    },
+    {
+      "id": "bun3-half-example-3",
+      "sentence": "煲湯時要加半個薑。",
+      "jyutping": "bou1 tong1 si4 jiu3 gaa1 bun3 go3 goeng1.",
+      "meaning": "Add half a piece of ginger when making soup."
+    },
+    {
+      "id": "bun3-half-example-4",
+      "sentence": "半個青瓜有幾多水份？",
+      "jyutping": "bun3 go3 ceng1 gwaa1 jau5 gei2 do1 seoi2 fan6?",
+      "meaning": "How much water does half a cucumber have?"
+    }
+  ],
+  "audio": {
+    "word": "bun3-half.mp3",
+    "examples": [
+      "bun3-half-example-1.mp3",
+      "bun3-half-example-2.mp3",
+      "bun3-half-example-3.mp3",
+      "bun3-half-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "quantity",
+    "shopping",
+    "cooking",
+    "food",
+    "portion",
+    "level-1"
+  ],
+  "related": [
+    "一半 (jat1 bun3)",
+    "份量 (fan6 loeng6)",
+    "斤 (gan1)",
+    "整 (zing2)",
+    "切 (cit3)"
+  ]
+}
