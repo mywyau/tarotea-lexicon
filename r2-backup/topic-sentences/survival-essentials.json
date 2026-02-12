@@ -1,0 +1,188 @@
+{
+  "level": 1,
+  "set": 1,
+  "title": "Survival & Essentials – Sentence Meaning",
+  "mode": "meaning",
+  "sentences": [
+    {
+      "id": "toilet-where-is-bathroom",
+      "cantonese": "唔好意思，洗手間喺邊度？",
+      "jyutping": "m4 hou2 ji3 si3, sai2 sau2 gaan1 hai2 bin1 dou6",
+      "meaning": "Excuse me, where is the bathroom?",
+      "audio": "toilet-where-is-bathroom.mp3",
+      "focus_words": ["洗手間", "喺邊度"],
+      "difficulty": 1
+    },
+    {
+      "id": "toilet-mens-toilet-location",
+      "cantonese": "男廁喺邊度？",
+      "jyutping": "naam4 ci3 hai2 bin1 dou6",
+      "meaning": "Where is the men's toilet?",
+      "audio": "toilet-mens-toilet-location.mp3",
+      "focus_words": ["男廁"],
+      "difficulty": 1
+    },
+    {
+      "id": "toilet-no-toilet-paper",
+      "cantonese": "廁所冇廁紙。",
+      "jyutping": "ci3 so2 mou5 ci3 zi2",
+      "meaning": "There’s no toilet paper in the toilet.",
+      "audio": "toilet-no-toilet-paper.mp3",
+      "focus_words": ["廁紙"],
+      "difficulty": 1
+    },
+    {
+      "id": "toilet-urgent-need",
+      "cantonese": "我好急，要去廁所。",
+      "jyutping": "ngo5 hou2 gap1, jiu3 heoi3 ci3 so2",
+      "meaning": "It’s urgent, I need to go to the toilet.",
+      "audio": "toilet-urgent-need.mp3",
+      "focus_words": ["急", "廁所"],
+      "difficulty": 1
+    },
+    {
+      "id": "help-can-you-help-me",
+      "cantonese": "可唔可以幫我？",
+      "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5",
+      "meaning": "Can you help me?",
+      "audio": "help-can-you-help-me.mp3",
+      "focus_words": ["幫"],
+      "difficulty": 1
+    },
+    {
+      "id": "help-please-help-out",
+      "cantonese": "可唔可以幫手一下？",
+      "jyutping": "ho2 m4 ho2 ji5 bong1 sau2 jat1 haa6",
+      "meaning": "Can you give me a hand?",
+      "audio": "help-please-help-out.mp3",
+      "focus_words": ["幫手"],
+      "difficulty": 2
+    },
+    {
+      "id": "emergency-call-for-help",
+      "cantonese": "救命呀！",
+      "jyutping": "gau3 ming6 aa3",
+      "meaning": "Help! Save me!",
+      "audio": "emergency-call-for-help.mp3",
+      "focus_words": ["救命"],
+      "difficulty": 1
+    },
+    {
+      "id": "emergency-this-is-urgent",
+      "cantonese": "呢件事好緊急。",
+      "jyutping": "ni1 gin6 si6 hou2 gan2 gap1",
+      "meaning": "This matter is urgent.",
+      "audio": "emergency-this-is-urgent.mp3",
+      "focus_words": ["緊急"],
+      "difficulty": 2
+    },
+    {
+      "id": "emergency-someone-injured",
+      "cantonese": "佢受傷咗。",
+      "jyutping": "keoi5 sau6 zoeng1 zo2",
+      "meaning": "He is injured.",
+      "audio": "emergency-someone-injured.mp3",
+      "focus_words": ["受傷"],
+      "difficulty": 1
+    },
+    {
+      "id": "emergency-not-feeling-well",
+      "cantonese": "我今日唔舒服。",
+      "jyutping": "ngo5 gam1 jat6 m4 syu1 fuk6",
+      "meaning": "I’m not feeling well today.",
+      "audio": "emergency-not-feeling-well.mp3",
+      "focus_words": ["唔舒服"],
+      "difficulty": 1
+    },
+    {
+      "id": "lost-i-am-lost",
+      "cantonese": "我迷路咗。",
+      "jyutping": "ngo5 mai4 lou6 zo2",
+      "meaning": "I’m lost.",
+      "audio": "lost-i-am-lost.mp3",
+      "focus_words": ["迷路"],
+      "difficulty": 1
+    },
+    {
+      "id": "lost-how-to-get-there",
+      "cantonese": "請問點樣去地鐵站？",
+      "jyutping": "ceng2 man6 dim2 joeng6 heoi3 dei6 tit3 zaam6",
+      "meaning": "Excuse me, how do I get to the MTR station?",
+      "audio": "lost-how-to-get-there.mp3",
+      "focus_words": ["點樣去"],
+      "difficulty": 2
+    },
+    {
+      "id": "communication-dont-understand",
+      "cantonese": "我唔明你講乜。",
+      "jyutping": "ngo5 m4 ming4 nei5 gong2 mat1",
+      "meaning": "I don’t understand what you’re saying.",
+      "audio": "communication-dont-understand.mp3",
+      "focus_words": ["明", "講"],
+      "difficulty": 2
+    },
+    {
+      "id": "communication-cannot-hear-clearly",
+      "cantonese": "我聽唔清楚。",
+      "jyutping": "ngo5 teng1 m4 cing1 co2",
+      "meaning": "I can’t hear clearly.",
+      "audio": "communication-cannot-hear-clearly.mp3",
+      "focus_words": ["聽"],
+      "difficulty": 2
+    },
+    {
+      "id": "problem-phone-not-working",
+      "cantonese": "我部電話唔得。",
+      "jyutping": "ngo5 bou6 din6 waa2 m4 dak1",
+      "meaning": "My phone isn’t working.",
+      "audio": "problem-phone-not-working.mp3",
+      "focus_words": ["唔得"],
+      "difficulty": 2
+    },
+    {
+      "id": "problem-something-broken",
+      "cantonese": "部機壞咗。",
+      "jyutping": "bou6 gei1 waai6 zo2",
+      "meaning": "The machine is broken.",
+      "audio": "problem-something-broken.mp3",
+      "focus_words": ["壞咗"],
+      "difficulty": 1
+    },
+    {
+      "id": "problem-there-is-problem",
+      "cantonese": "呢度有問題。",
+      "jyutping": "ni1 dou6 jau5 man6 tai4",
+      "meaning": "There’s a problem here.",
+      "audio": "problem-there-is-problem.mp3",
+      "focus_words": ["有問題"],
+      "difficulty": 1
+    },
+    {
+      "id": "problem-lost-item",
+      "cantonese": "我嘅銀包唔見咗。",
+      "jyutping": "ngo5 ge3 ngan4 baau1 m4 gin3 zo2",
+      "meaning": "My wallet is lost.",
+      "audio": "problem-lost-item.mp3",
+      "focus_words": ["唔見咗"],
+      "difficulty": 2
+    },
+    {
+      "id": "urgent-matter-need-leave",
+      "cantonese": "我有急事，要走先。",
+      "jyutping": "ngo5 jau5 gap1 si6, jiu3 zau2 sin1",
+      "meaning": "I have an urgent matter and need to leave first.",
+      "audio": "urgent-matter-need-leave.mp3",
+      "focus_words": ["急事"],
+      "difficulty": 2
+    },
+    {
+      "id": "wash-hands-with-soap",
+      "cantonese": "記得用洗手液洗手。",
+      "jyutping": "gei3 dak1 jung6 sai2 sau2 jik6 sai2 sau2",
+      "meaning": "Remember to use hand soap to wash your hands.",
+      "audio": "wash-hands-with-soap.mp3",
+      "focus_words": ["洗手", "洗手液"],
+      "difficulty": 2
+    }
+  ]
+}

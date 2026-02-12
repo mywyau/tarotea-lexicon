@@ -1,0 +1,188 @@
+{
+  "level": 1,
+  "set": 1,
+  "title": "Clothing & Shopping – Sentence Meaning",
+  "mode": "meaning",
+  "sentences": [
+    {
+      "id": "clothing-outerwear-looks-nice",
+      "cantonese": "呢件外套好靚。",
+      "jyutping": "ni1 gin6 ngoi6 tou3 hou2 leng3",
+      "meaning": "This outerwear looks nice.",
+      "audio": "clothing-outerwear-looks-nice.mp3",
+      "focus_words": ["外套", "好靚"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-want-try-jeans",
+      "cantonese": "我想試呢條牛仔褲。",
+      "jyutping": "ngo5 soeng2 si3 ni1 tiu4 ngau4 zai2 fu3",
+      "meaning": "I want to try these jeans.",
+      "audio": "clothing-want-try-jeans.mp3",
+      "focus_words": ["試", "牛仔褲"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-shirt-too-big",
+      "cantonese": "呢件衫太大。",
+      "jyutping": "ni1 gin6 saam1 taai3 daai6",
+      "meaning": "This shirt is too big.",
+      "audio": "clothing-shirt-too-big.mp3",
+      "focus_words": ["衫", "大"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-trousers-too-tight",
+      "cantonese": "條褲太緊。",
+      "jyutping": "tiu4 fu3 taai3 gan2",
+      "meaning": "The trousers are too tight.",
+      "audio": "clothing-trousers-too-tight.mp3",
+      "focus_words": ["褲", "太緊"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-have-small-size",
+      "cantonese": "有冇細碼？",
+      "jyutping": "jau5 mou5 sai3 maa5",
+      "meaning": "Do you have a small size?",
+      "audio": "clothing-have-small-size.mp3",
+      "focus_words": ["細", "碼"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-skirt-fits-well",
+      "cantonese": "呢條裙好合身。",
+      "jyutping": "ni1 tiu4 kwan2 hou2 hap6 san1",
+      "meaning": "This skirt fits well.",
+      "audio": "clothing-skirt-fits-well.mp3",
+      "focus_words": ["裙", "好合身"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-tshirt-black",
+      "cantonese": "件T恤係黑色。",
+      "jyutping": "gin6 ti1 seot1 hai6 hak1 sik1",
+      "meaning": "The T-shirt is black.",
+      "audio": "clothing-tshirt-black.mp3",
+      "focus_words": ["T恤", "黑色"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-white-trainers-like",
+      "cantonese": "我鍾意呢對白色波鞋。",
+      "jyutping": "ngo5 zung1 ji3 ni1 deoi3 baak6 sik1 bo1 haai4",
+      "meaning": "I like these white trainers.",
+      "audio": "clothing-white-trainers-like.mp3",
+      "focus_words": ["波鞋", "白色"],
+      "difficulty": 2
+    },
+    {
+      "id": "clothing-blue-shirt-wearing",
+      "cantonese": "佢着緊藍色恤衫。",
+      "jyutping": "keoi5 zoek3 gan2 laam4 sik1 seot1 saam1",
+      "meaning": "He is wearing a blue shirt.",
+      "audio": "clothing-blue-shirt-wearing.mp3",
+      "focus_words": ["藍色", "恤衫"],
+      "difficulty": 2
+    },
+    {
+      "id": "clothing-light-jacket-stylish",
+      "cantonese": "呢件風褸好型。",
+      "jyutping": "ni1 gin6 fung1 leoi6 hou2 jing4",
+      "meaning": "This light jacket is stylish.",
+      "audio": "clothing-light-jacket-stylish.mp3",
+      "focus_words": ["風褸", "好型"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-jeans-medium-size",
+      "cantonese": "條牛仔褲有中碼。",
+      "jyutping": "tiu4 ngau4 zai2 fu3 jau5 zung1 maa5",
+      "meaning": "The jeans come in medium size.",
+      "audio": "clothing-jeans-medium-size.mp3",
+      "focus_words": ["牛仔褲", "中碼"],
+      "difficulty": 2
+    },
+    {
+      "id": "clothing-coat-red-green",
+      "cantonese": "件褸有紅色同綠色。",
+      "jyutping": "gin6 lau1 jau5 hung4 sik1 tung4 luk6 sik1",
+      "meaning": "The coat comes in red and green.",
+      "audio": "clothing-coat-red-green.mp3",
+      "focus_words": ["褸", "紅色", "綠色"],
+      "difficulty": 2
+    },
+    {
+      "id": "clothing-try-jumper-question",
+      "cantonese": "可唔可以試呢件圓領衫？",
+      "jyutping": "ho2 m4 ho2 ji5 si3 ni1 gin6 jyun4 ling5 saam1",
+      "meaning": "Can I try this jumper?",
+      "audio": "clothing-try-jumper-question.mp3",
+      "focus_words": ["可唔可以試", "圓領衫"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-fitting-room-where",
+      "cantonese": "更衣室喺邊度？",
+      "jyutping": "gang1 ji1 sat1 hai2 bin1 dou6",
+      "meaning": "Where is the fitting room?",
+      "audio": "clothing-fitting-room-where.mp3",
+      "focus_words": ["更衣室"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-shorts-too-loose",
+      "cantonese": "呢條短褲太鬆。",
+      "jyutping": "ni1 tiu4 dyun2 fu3 taai3 sung1",
+      "meaning": "These shorts are too loose.",
+      "audio": "clothing-shorts-too-loose.mp3",
+      "focus_words": ["短褲", "好鬆"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-buy-gold-belt",
+      "cantonese": "我想買金色皮帶。",
+      "jyutping": "ngo5 soeng2 maai5 gam1 sik1 pei4 daai3",
+      "meaning": "I want to buy a gold belt.",
+      "audio": "clothing-buy-gold-belt.mp3",
+      "focus_words": ["金色", "皮帶"],
+      "difficulty": 2
+    },
+    {
+      "id": "clothing-hat-scarf-wearing",
+      "cantonese": "佢戴住帽同圍巾。",
+      "jyutping": "keoi5 daai3 zyu6 mou6 tung4 wai4 gan1",
+      "meaning": "She is wearing a hat and scarf.",
+      "audio": "clothing-hat-scarf-wearing.mp3",
+      "focus_words": ["帽", "圍巾"],
+      "difficulty": 2
+    },
+    {
+      "id": "clothing-slippers-pink",
+      "cantonese": "對拖鞋係粉紅色。",
+      "jyutping": "deoi3 to1 haai4 hai6 fan2 hung4 sik1",
+      "meaning": "The slippers are pink.",
+      "audio": "clothing-slippers-pink.mp3",
+      "focus_words": ["拖鞋", "粉紅色"],
+      "difficulty": 1
+    },
+    {
+      "id": "clothing-need-socks-gloves",
+      "cantonese": "我需要新襪同手套。",
+      "jyutping": "ngo5 seoi1 jiu3 san1 mat6 tung4 sau2 tou3",
+      "meaning": "I need new socks and gloves.",
+      "audio": "clothing-need-socks-gloves.mp3",
+      "focus_words": ["襪", "手套"],
+      "difficulty": 2
+    },
+    {
+      "id": "clothing-wear-suit-looks-good",
+      "cantonese": "佢着西裝好靚。",
+      "jyutping": "keoi5 zoek3 sai1 zong1 hou2 leng3",
+      "meaning": "He looks good in a suit.",
+      "audio": "clothing-wear-suit-looks-good.mp3",
+      "focus_words": ["西裝", "好靚"],
+      "difficulty": 2
+    }
+  ]
+}
