@@ -26,7 +26,7 @@ Requirements:
   - buying / shopping
   - describing freshness or quality
   - common dish or preparation
-  - simple factual usage
+  - simple word usage
 - Generate learner-friendly tags
 - Generate 3–5 related common Cantonese words
 - can the related field be ids of other words following <jyutping>-<word> e.g. coi3-vegetables

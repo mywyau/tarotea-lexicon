@@ -1,0 +1,66 @@
+{
+  "id": "saam1-clothes",
+  "word": "衫",
+  "jyutping": "saam1",
+  "meaning": "clothes",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '衫' is used to refer to clothes in general or a specific piece of clothing.",
+    "It can be followed by classifiers like '件' to specify the quantity, for example, '一件衫' means 'one piece of clothing.'",
+    "You can use '衫' in both singular and plural contexts without changing the form.",
+    "It appears often in questions when asking about clothing, like '你有冇新衫？' meaning 'Do you have new clothes?'.",
+    "'衫' can combine with other words to specify types of clothing, such as '運動衫' (sportswear)."
+  ],
+  "examples": [
+    {
+      "id": "saam1-clothes-example-1",
+      "sentence": "我買咗新衫。",
+      "jyutping": "ngo5 maai5 zo2 san1 saam1.",
+      "meaning": "I bought new clothes."
+    },
+    {
+      "id": "saam1-clothes-example-2",
+      "sentence": "呢件衫幾錢？",
+      "jyutping": "ni1 gin6 saam1 gei2 cin2?",
+      "meaning": "How much is this piece of clothing?"
+    },
+    {
+      "id": "saam1-clothes-example-3",
+      "sentence": "衫濕咗，要換。",
+      "jyutping": "saam1 sap1 zo2, jiu3 wun6.",
+      "meaning": "The clothes got wet, need to change."
+    },
+    {
+      "id": "saam1-clothes-example-4",
+      "sentence": "佢成日著紅色衫。",
+      "jyutping": "keoi5 seng4 jat6 zoek3 hung4 sik1 saam1.",
+      "meaning": "He/She always wears red clothes."
+    }
+  ],
+  "audio": {
+    "word": "saam1-clothes.mp3",
+    "examples": [
+      "saam1-clothes-example-1.mp3",
+      "saam1-clothes-example-2.mp3",
+      "saam1-clothes-example-3.mp3",
+      "saam1-clothes-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "clothing",
+    "shopping",
+    "everyday",
+    "basic",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "褲子",
+    "鞋",
+    "外套",
+    "裙",
+    "襪"
+  ]
+}

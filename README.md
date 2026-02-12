@@ -55,7 +55,7 @@ in /tarotea/openai-tts/audio/words directory we can call ffmpeg to convert and e
 Some example commands
 
 ```
-ffmpeg -i faan1ke2-tomato.mp3 -af "atrim=start=1.7" cleaned/faan1ke2-tomato.mp3
+ffmpeg -i lau1-jacket-example-4.mp3 -af "atrim=start=1.8:end=3.5" cleaned/lau1-jacket-example-4.mp3
 ffmpeg -i lei4-come-exmaple-2.mp3 -af "atrim=start=1.5" cleaned/lei4-come-exmaple-2.mp3
 ```
 

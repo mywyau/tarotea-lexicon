@@ -34,12 +34,8 @@ Jyutping: {job["jyutping"]}
 Requirements:
 - Use the provided jyutping as canonical
 - Part of speech: noun (if applicable)
-- Generate exactly 5 short usage notes in english
-- Generate exactly 4 example sentences:
-  - buying / shopping
-  - describing freshness or quality
-  - common dish or preparation
-  - simple factual usage
+- In english generate four or five sentences on grammatical usage of the word in the Usage field section, please translate to english and no chinese in this section.
+- Generate exactly 4 example sentences of using the word in different contexts
 - Generate learner-friendly tags
 - Generate 3–5 related common Cantonese words
 
@@ -73,9 +69,9 @@ You are a professional Hong Kong Cantonese linguist and language teacher.
 Rules:
 - Use natural spoken Hong Kong Cantonese
 - Jyutping must be accurate and include tone numbers
-- Sentences should be short, practical, and everyday
+- Example Sentences should be short, practical, and everyday
 - Avoid textbook-style phrasing
-- Usage notes should be concrete and learner-friendly
+- Word Usage notes should be concrete and learner-friendly
 - Output STRICT JSON only
 - No explanations
 """
@@ -83,7 +79,7 @@ Rules:
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
-TOPICS_FILE = Path("content/topics/fruits-vegetables.json")
+TOPICS_FILE = Path("content/topics/clothing.json")
 OUT_DIR = Path("content/topics/words")
 
 with open(TOPICS_FILE, "r", encoding="utf-8") as f:
