@@ -23,18 +23,12 @@
     },
     {
       "id": "nei5dim2aa3-how-are-you-example-2",
-      "sentence": "我幾好，你呢？",
-      "jyutping": "ngo5 gei2 hou2, nei5 ne1",
-      "meaning": "I’m pretty good, how about you?"
-    },
-    {
-      "id": "nei5dim2aa3-how-are-you-example-3",
       "sentence": "最近你好似好忙，你點呀？",
       "jyutping": "zeoi3 gan6 nei5 hou2 ci5 hou2 mong4, nei5 dim2 aa3",
       "meaning": "You seem really busy lately, how are you?"
     },
     {
-      "id": "nei5dim2aa3-how-are-you-example-4",
+      "id": "nei5dim2aa3-how-are-you-example-3",
       "sentence": "好耐冇見，你點呀？",
       "jyutping": "hou2 noi6 mou5 gin3, nei5 dim2 aa3",
       "meaning": "Long time no see, how have you been?"
@@ -45,8 +39,7 @@
     "examples": [
       "nei5dim2aa3-how-are-you-example-1.mp3",
       "nei5dim2aa3-how-are-you-example-2.mp3",
-      "nei5dim2aa3-how-are-you-example-3.mp3",
-      "nei5dim2aa3-how-are-you-example-4.mp3"
+      "nei5dim2aa3-how-are-you-example-3.mp3"
     ]
   },
   "tags": [

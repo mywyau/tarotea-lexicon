@@ -5,9 +5,9 @@ from pathlib import Path
 INPUT_DIR = Path("audio/raw")
 OUTPUT_DIR = Path("audio/cleaned")
 # TRIM_START = 1.5  # seconds
-TRIM_START = 1.7  # seconds
+# TRIM_START = 1.7  # seconds
 # TRIM_START = 1.9  # seconds
-# TRIM_START = 2.4  # seconds
+TRIM_START = 2.8  # seconds
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

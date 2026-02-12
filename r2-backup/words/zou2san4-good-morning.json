@@ -17,24 +17,30 @@
   "examples": [
     {
       "id": "zou2san4-good-morning-example-1",
+      "sentence": "早晨。",
+      "jyutping": "zou2 san4",
+      "meaning": "Good morning."
+    },
+    {
+      "id": "zou2san4-good-morning-example-2",
       "sentence": "早晨呀！",
       "jyutping": "zou2 san4 aa3",
       "meaning": "Morning! (friendly)"
     },
     {
-      "id": "zou2san4-good-morning-example-2",
+      "id": "zou2san4-good-morning-example-3",
       "sentence": "早晨，你食咗飯未？",
       "jyutping": "zou2 san4, nei5 sik6 zo2 faan6 mei6",
       "meaning": "Good morning, have you eaten yet?"
     },
     {
-      "id": "zou2san4-good-morning-example-3",
+      "id": "zou2san4-good-morning-example-4",
       "sentence": "早晨，今日點呀？",
       "jyutping": "zou2 san4, gam1 jat6 dim2 aa3",
       "meaning": "Good morning, how’s today going?"
     },
     {
-      "id": "zou2san4-good-morning-example-4",
+      "id": "zou2san4-good-morning-example-5",
       "sentence": "我每日返工都會同同事講早晨。",
       "jyutping": "ngo5 mui5 jat6 faan1 gung1 dou1 wui5 tung4 tung4si6 gong2 zou2 san4",
       "meaning": "Every day when I go to work, I say good morning to my colleagues."
@@ -47,6 +53,7 @@
       "zou2san4-good-morning-example-2.mp3",
       "zou2san4-good-morning-example-3.mp3",
       "zou2san4-good-morning-example-4.mp3",
+      "zou2san4-good-morning-example-5.mp3"
     ]
   },
   "tags": [
