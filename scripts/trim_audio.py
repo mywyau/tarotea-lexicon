@@ -4,10 +4,11 @@ from pathlib import Path
 # CONFIG
 INPUT_DIR = Path("audio/raw")
 OUTPUT_DIR = Path("audio/cleaned")
-# TRIM_START = 1.5  # seconds
-# TRIM_START = 1.7  # seconds
-# TRIM_START = 1.9  # seconds
-TRIM_START = 2.8  # seconds
+# TRIM_START = 1.2  # seconds
+TRIM_START = 1.7  # seconds
+# TRIM_START = 2.1  # seconds
+# TRIM_START = 2.2  # seconds
+# TRIM_START = 2.8  # seconds
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

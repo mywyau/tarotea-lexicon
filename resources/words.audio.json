@@ -1,32 +1,857 @@
 [
   {
+    "filename": "bun3bui1-half-a-cup",
+    "id": "bun3bui1-half-a-cup",
+    "text": "半杯"
+  },
+  {
+    "filename": "bun3bui1-half-a-cup-example-1",
+    "id": "bun3bui1-half-a-cup-example-1",
+    "text": "我想飲半杯水。"
+  },
+  {
+    "filename": "bun3bui1-half-a-cup-example-2",
+    "id": "bun3bui1-half-a-cup-example-2",
+    "text": "請比我半杯咖啡。"
+  },
+  {
+    "filename": "bun3bui1-half-a-cup-example-3",
+    "id": "bun3bui1-half-a-cup-example-3",
+    "text": "蛋糕裏面要加半杯牛油。"
+  },
+  {
+    "filename": "bun3bui1-half-a-cup-example-4",
+    "id": "bun3bui1-half-a-cup-example-4",
+    "text": "半杯米可以煮幾個飯團。"
+  },
+  {
+    "filename": "bun3gan1-half-a-catty",
+    "id": "bun3gan1-half-a-catty",
+    "text": "半斤"
+  },
+  {
+    "filename": "bun3gan1-half-a-catty-example-1",
+    "id": "bun3gan1-half-a-catty-example-1",
+    "text": "我想買半斤蘋果。"
+  },
+  {
+    "filename": "bun3gan1-half-a-catty-example-2",
+    "id": "bun3gan1-half-a-catty-example-2",
+    "text": "呢包肉有半斤幾重。"
+  },
+  {
+    "filename": "bun3gan1-half-a-catty-example-3",
+    "id": "bun3gan1-half-a-catty-example-3",
+    "text": "半斤糖應該夠我哋用。"
+  },
+  {
+    "filename": "bun3gan1-half-a-catty-example-4",
+    "id": "bun3gan1-half-a-catty-example-4",
+    "text": "佢賣半斤魚，好快賣晒。"
+  },
+  {
+    "filename": "bun3siu2si4-half-an-hour",
+    "id": "bun3siu2si4-half-an-hour",
+    "text": "半小時"
+  },
+  {
+    "filename": "bun3siu2si4-half-an-hour-example-1",
+    "id": "bun3siu2si4-half-an-hour-example-1",
+    "text": "我等咗你半小時。"
+  },
+  {
+    "filename": "bun3siu2si4-half-an-hour-example-2",
+    "id": "bun3siu2si4-half-an-hour-example-2",
+    "text": "睇戲要花半小時。"
+  },
+  {
+    "filename": "bun3siu2si4-half-an-hour-example-3",
+    "id": "bun3siu2si4-half-an-hour-example-3",
+    "text": "半小時後我地出發。"
+  },
+  {
+    "filename": "bun3siu2si4-half-an-hour-example-4",
+    "id": "bun3siu2si4-half-an-hour-example-4",
+    "text": "佢做緊嘢半小時。"
+  },
+  {
+    "filename": "cam4jat6-yesterday",
+    "id": "cam4jat6-yesterday",
+    "text": "噚日"
+  },
+  {
+    "filename": "cam4jat6-yesterday-example-1",
+    "id": "cam4jat6-yesterday-example-1",
+    "text": "噚日我去咗街市買嘢。"
+  },
+  {
+    "filename": "cam4jat6-yesterday-example-2",
+    "id": "cam4jat6-yesterday-example-2",
+    "text": "你噚日食咗飯未？"
+  },
+  {
+    "filename": "cam4jat6-yesterday-example-3",
+    "id": "cam4jat6-yesterday-example-3",
+    "text": "噚日啲天氣好熱。"
+  },
+  {
+    "filename": "cam4jat6-yesterday-example-4",
+    "id": "cam4jat6-yesterday-example-4",
+    "text": "我噚日睇咗部新戲，好好睇！"
+  },
+  {
     "filename": "ceng2-please-invite",
     "id": "ceng2-please-invite",
     "text": "請"
   },
   {
-    "filename": "ceng2-example-1",
-    "id": "ceng2-example-1",
+    "filename": "ceng2-please-invite-example-1",
+    "id": "ceng2-please-invite-example-1",
     "text": "請坐。"
   },
   {
-    "filename": "ceng2-example-2",
-    "id": "ceng2-example-2",
+    "filename": "ceng2-please-invite-example-2",
+    "id": "ceng2-please-invite-example-2",
     "text": "請問，地鐵站喺邊度？"
   },
   {
-    "filename": "ceng2-example-3",
-    "id": "ceng2-example-3",
+    "filename": "ceng2-please-invite-example-3",
+    "id": "ceng2-please-invite-example-3",
     "text": "我想請你食飯。"
   },
   {
-    "filename": "ceng2-example-4",
-    "id": "ceng2-example-4",
+    "filename": "ceng2-please-invite-example-4",
+    "id": "ceng2-please-invite-example-4",
     "text": "佢請我去佢屋企。"
   },
   {
-    "filename": "ceng2-example-5",
-    "id": "ceng2-example-5",
+    "filename": "ceng2-please-invite-example-5",
+    "id": "ceng2-please-invite-example-5",
     "text": "今晚我請。"
+  },
+  {
+    "filename": "cin1hak1-kilogram",
+    "id": "cin1hak1-kilogram",
+    "text": "千克"
+  },
+  {
+    "filename": "cin1hak1-kilogram-example-1",
+    "id": "cin1hak1-kilogram-example-1",
+    "text": "呢個蘋果有兩千克重。"
+  },
+  {
+    "filename": "cin1hak1-kilogram-example-2",
+    "id": "cin1hak1-kilogram-example-2",
+    "text": "我買咗五千克大米。"
+  },
+  {
+    "filename": "cin1hak1-kilogram-example-3",
+    "id": "cin1hak1-kilogram-example-3",
+    "text": "運動員需要增重三千克。"
+  },
+  {
+    "filename": "cin1hak1-kilogram-example-4",
+    "id": "cin1hak1-kilogram-example-4",
+    "text": "呢包糖約有一千克。"
+  },
+  {
+    "filename": "do1di1-a-bit-more",
+    "id": "do1di1-a-bit-more",
+    "text": "多啲"
+  },
+  {
+    "filename": "do1di1-a-bit-more-example-1",
+    "id": "do1di1-a-bit-more-example-1",
+    "text": "我想要多啲水。"
+  },
+  {
+    "filename": "do1di1-a-bit-more-example-2",
+    "id": "do1di1-a-bit-more-example-2",
+    "text": "你可以遲啲返嚟，多啲時間都得。"
+  },
+  {
+    "filename": "do1di1-a-bit-more-example-3",
+    "id": "do1di1-a-bit-more-example-3",
+    "text": "呢個蛋糕要多啲糖。"
+  },
+  {
+    "filename": "do1di1-a-bit-more-example-4",
+    "id": "do1di1-a-bit-more-example-4",
+    "text": "你做嘢要多啲用心。"
+  },
+  {
+    "filename": "faai3-fast",
+    "id": "faai3-fast",
+    "text": "快"
+  },
+  {
+    "filename": "faai3-fast-example-1",
+    "id": "faai3-fast-example-1",
+    "text": "我行得幾快。"
+  },
+  {
+    "filename": "faai3-fast-example-2",
+    "id": "faai3-fast-example-2",
+    "text": "呢部車好快呀！"
+  },
+  {
+    "filename": "faai3-fast-example-3",
+    "id": "faai3-fast-example-3",
+    "text": "你做嘢要快啲。"
+  },
+  {
+    "filename": "faai3-fast-example-4",
+    "id": "faai3-fast-example-4",
+    "text": "時間過得好快。"
+  },
+  {
+    "filename": "faai3di1-a-bit-faster",
+    "id": "faai3di1-a-bit-faster",
+    "text": "快啲"
+  },
+  {
+    "filename": "faai3di1-a-bit-faster-example-1",
+    "id": "faai3di1-a-bit-faster-example-1",
+    "text": "你快啲嚟呀，我等唔到喇。"
+  },
+  {
+    "filename": "faai3di1-a-bit-faster-example-2",
+    "id": "faai3di1-a-bit-faster-example-2",
+    "text": "開車快啲啦，遲到嘞！"
+  },
+  {
+    "filename": "faai3di1-a-bit-faster-example-3",
+    "id": "faai3di1-a-bit-faster-example-3",
+    "text": "工作快啲做完，我哋可以早啲放工。"
+  },
+  {
+    "filename": "faai3di1-a-bit-faster-example-4",
+    "id": "faai3di1-a-bit-faster-example-4",
+    "text": "行路快啲，巴士要嚟喇。"
+  },
+  {
+    "filename": "fan1zung1-minute",
+    "id": "fan1zung1-minute",
+    "text": "分鐘"
+  },
+  {
+    "filename": "fan1zung1-minute-example-1",
+    "id": "fan1zung1-minute-example-1",
+    "text": "我等咗你十分鐘。"
+  },
+  {
+    "filename": "fan1zung1-minute-example-2",
+    "id": "fan1zung1-minute-example-2",
+    "text": "呢個電話通話五分鐘。"
+  },
+  {
+    "filename": "fan1zung1-minute-example-3",
+    "id": "fan1zung1-minute-example-3",
+    "text": "再等一分鐘，好嗎？"
+  },
+  {
+    "filename": "fan1zung1-minute-example-4",
+    "id": "fan1zung1-minute-example-4",
+    "text": "課堂從嚟到完大約有四十五分鐘。"
+  },
+  {
+    "filename": "gam1jat6-today",
+    "id": "gam1jat6-today",
+    "text": "今日"
+  },
+  {
+    "filename": "gam1jat6-today-example-1",
+    "id": "gam1jat6-today-example-1",
+    "text": "今日我去買嘢。"
+  },
+  {
+    "filename": "gam1jat6-today-example-2",
+    "id": "gam1jat6-today-example-2",
+    "text": "你今日有冇空？"
+  },
+  {
+    "filename": "gam1jat6-today-example-3",
+    "id": "gam1jat6-today-example-3",
+    "text": "今日嘅天氣幾好。"
+  },
+  {
+    "filename": "gam1jat6-today-example-4",
+    "id": "gam1jat6-today-example-4",
+    "text": "我今日唔想返工。"
+  },
+  {
+    "filename": "gan1-catty",
+    "id": "gan1-catty",
+    "text": "斤"
+  },
+  {
+    "filename": "gan1-catty-example-1",
+    "id": "gan1-catty-example-1",
+    "text": "我要買兩斤蘋果。"
+  },
+  {
+    "filename": "gan1-catty-example-2",
+    "id": "gan1-catty-example-2",
+    "text": "呢塊肉有三斤幾。"
+  },
+  {
+    "filename": "gan1-catty-example-3",
+    "id": "gan1-catty-example-3",
+    "text": "一斤橙大約幾蚊錢？"
+  },
+  {
+    "filename": "gan1-catty-example-4",
+    "id": "gan1-catty-example-4",
+    "text": "阿媽買咗半斤魚。"
+  },
+  {
+    "filename": "gan6-near",
+    "id": "gan6-near",
+    "text": "近"
+  },
+  {
+    "filename": "gan6-near-example-1",
+    "id": "gan6-near-example-1",
+    "text": "我屋企好近地鐵站。"
+  },
+  {
+    "filename": "gan6-near-example-2",
+    "id": "gan6-near-example-2",
+    "text": "你喺邊度？我喺公司附近，好近嘅。"
+  },
+  {
+    "filename": "gan6-near-example-3",
+    "id": "gan6-near-example-3",
+    "text": "聖誕節快到喇，好近啦。"
+  },
+  {
+    "filename": "gan6-near-example-4",
+    "id": "gan6-near-example-4",
+    "text": "我哋嘅客廳近窗口，光線好多。"
+  },
+  {
+    "filename": "gung1lei5-kilometre",
+    "id": "gung1lei5-kilometre",
+    "text": "公里"
+  },
+  {
+    "filename": "gung1lei5-kilometre-example-1",
+    "id": "gung1lei5-kilometre-example-1",
+    "text": "我行咗三公里啫。"
+  },
+  {
+    "filename": "gung1lei5-kilometre-example-2",
+    "id": "gung1lei5-kilometre-example-2",
+    "text": "目的地係十公里外。"
+  },
+  {
+    "filename": "gung1lei5-kilometre-example-3",
+    "id": "gung1lei5-kilometre-example-3",
+    "text": "巴士要行十五公里先停。"
+  },
+  {
+    "filename": "gung1lei5-kilometre-example-4",
+    "id": "gung1lei5-kilometre-example-4",
+    "text": "佢住喺離我屋企八公里嘅地方。"
+  },
+  {
+    "filename": "gung1sing1-litre",
+    "id": "gung1sing1-litre",
+    "text": "公升"
+  },
+  {
+    "filename": "gung1sing1-litre-example-1",
+    "id": "gung1sing1-litre-example-1",
+    "text": "呢樽水有一公升。"
+  },
+  {
+    "filename": "gung1sing1-litre-example-2",
+    "id": "gung1sing1-litre-example-2",
+    "text": "加緊油，仲有五公升。"
+  },
+  {
+    "filename": "gung1sing1-litre-example-3",
+    "id": "gung1sing1-litre-example-3",
+    "text": "煲湯要兩公升水。"
+  },
+  {
+    "filename": "gung1sing1-litre-example-4",
+    "id": "gung1sing1-litre-example-4",
+    "text": "我買咗三公升橙汁。"
+  },
+  {
+    "filename": "hak1-gram",
+    "id": "hak1-gram",
+    "text": "克"
+  },
+  {
+    "filename": "hak1-gram-example-1",
+    "id": "hak1-gram-example-1",
+    "text": "呢包鹽有五十克。"
+  },
+  {
+    "filename": "hak1-gram-example-2",
+    "id": "hak1-gram-example-2",
+    "text": "我要買一百克牛肉。"
+  },
+  {
+    "filename": "hak1-gram-example-3",
+    "id": "hak1-gram-example-3",
+    "text": "呢個蛋糕重二百克。"
+  },
+  {
+    "filename": "hak1-gram-example-4",
+    "id": "hak1-gram-example-4",
+    "text": "請俾我二十五克糖。"
+  },
+  {
+    "filename": "hou2do1-a-lot",
+    "id": "hou2do1-a-lot",
+    "text": "好多"
+  },
+  {
+    "filename": "hou2do1-a-lot-example-1",
+    "id": "hou2do1-a-lot-example-1",
+    "text": "我有好多書。"
+  },
+  {
+    "filename": "hou2do1-a-lot-example-2",
+    "id": "hou2do1-a-lot-example-2",
+    "text": "今日落咗好多雨。"
+  },
+  {
+    "filename": "hou2do1-a-lot-example-3",
+    "id": "hou2do1-a-lot-example-3",
+    "text": "佢話多咗好多錢。"
+  },
+  {
+    "filename": "hou2do1-a-lot-example-4",
+    "id": "hou2do1-a-lot-example-4",
+    "text": "你屋企有冇好多嘢食？"
+  },
+  {
+    "filename": "hou4sing1-millilitre",
+    "id": "hou4sing1-millilitre",
+    "text": "毫升"
+  },
+  {
+    "filename": "hou4sing1-millilitre-example-1",
+    "id": "hou4sing1-millilitre-example-1",
+    "text": "呢杯水有五百毫升。"
+  },
+  {
+    "filename": "hou4sing1-millilitre-example-2",
+    "id": "hou4sing1-millilitre-example-2",
+    "text": "醫生話要飲十毫升藥水。"
+  },
+  {
+    "filename": "hou4sing1-millilitre-example-3",
+    "id": "hou4sing1-millilitre-example-3",
+    "text": "汽水罐入面有三百毫升汽水。"
+  },
+  {
+    "filename": "hou4sing1-millilitre-example-4",
+    "id": "hou4sing1-millilitre-example-4",
+    "text": "你量多啲水，差唔多一百毫升。"
+  },
+  {
+    "filename": "jat1bui1-one-cup",
+    "id": "jat1bui1-one-cup",
+    "text": "一杯"
+  },
+  {
+    "filename": "jat1bui1-one-cup-example-1",
+    "id": "jat1bui1-one-cup-example-1",
+    "text": "我想飲一杯奶茶。"
+  },
+  {
+    "filename": "jat1bui1-one-cup-example-2",
+    "id": "jat1bui1-one-cup-example-2",
+    "text": "請俾我一杯水。"
+  },
+  {
+    "filename": "jat1bui1-one-cup-example-3",
+    "id": "jat1bui1-one-cup-example-3",
+    "text": "煮湯需要一杯水。"
+  },
+  {
+    "filename": "jat1bui1-one-cup-example-4",
+    "id": "jat1bui1-one-cup-example-4",
+    "text": "早餐有一杯橙汁。"
+  },
+  {
+    "filename": "jat1di1-a-tiny-bit",
+    "id": "jat1di1-a-tiny-bit",
+    "text": "一啲"
+  },
+  {
+    "filename": "jat1di1-a-tiny-bit-example-1",
+    "id": "jat1di1-a-tiny-bit-example-1",
+    "text": "我想飲一啲水。"
+  },
+  {
+    "filename": "jat1di1-a-tiny-bit-example-2",
+    "id": "jat1di1-a-tiny-bit-example-2",
+    "text": "可以俾我一啲錢嗎？"
+  },
+  {
+    "filename": "jat1di1-a-tiny-bit-example-3",
+    "id": "jat1di1-a-tiny-bit-example-3",
+    "text": "你慢啲行，一啲啦。"
+  },
+  {
+    "filename": "jat1di1-a-tiny-bit-example-4",
+    "id": "jat1di1-a-tiny-bit-example-4",
+    "text": "呢個靚啲，一啲光。"
+  },
+  {
+    "filename": "jat1fan1zung1-one-minute",
+    "id": "jat1fan1zung1-one-minute",
+    "text": "一分鐘"
+  },
+  {
+    "filename": "jat1fan1zung1-one-minute-example-1",
+    "id": "jat1fan1zung1-one-minute-example-1",
+    "text": "等我一分鐘，好快就好。"
+  },
+  {
+    "filename": "jat1fan1zung1-one-minute-example-2",
+    "id": "jat1fan1zung1-one-minute-example-2",
+    "text": "呢個鐘表快咗一分鐘。"
+  },
+  {
+    "filename": "jat1fan1zung1-one-minute-example-3",
+    "id": "jat1fan1zung1-one-minute-example-3",
+    "text": "去餐廳行一分鐘咋。"
+  },
+  {
+    "filename": "jat1fan1zung1-one-minute-example-4",
+    "id": "jat1fan1zung1-one-minute-example-4",
+    "text": "我等咗佢一分鐘先走。"
+  },
+  {
+    "filename": "jat1gan1-one-catty",
+    "id": "jat1gan1-one-catty",
+    "text": "一斤"
+  },
+  {
+    "filename": "jat1gan1-one-catty-example-1",
+    "id": "jat1gan1-one-catty-example-1",
+    "text": "我想買一斤蘋果。"
+  },
+  {
+    "filename": "jat1gan1-one-catty-example-2",
+    "id": "jat1gan1-one-catty-example-2",
+    "text": "呢個魚重一斤幾。"
+  },
+  {
+    "filename": "jat1gan1-one-catty-example-3",
+    "id": "jat1gan1-one-catty-example-3",
+    "text": "請俾我一斤豬肉。"
+  },
+  {
+    "filename": "jat1gan1-one-catty-example-4",
+    "id": "jat1gan1-one-catty-example-4",
+    "text": "一斤米價錢幾多？"
+  },
+  {
+    "filename": "jat1go3-one-item",
+    "id": "jat1go3-one-item",
+    "text": "一個"
+  },
+  {
+    "filename": "jat1go3-one-item-example-1",
+    "id": "jat1go3-one-item-example-1",
+    "text": "我買咗一個蘋果。"
+  },
+  {
+    "filename": "jat1go3-one-item-example-2",
+    "id": "jat1go3-one-item-example-2",
+    "text": "你要唔要一個杯？"
+  },
+  {
+    "filename": "jat1go3-one-item-example-3",
+    "id": "jat1go3-one-item-example-3",
+    "text": "佢有一個問題。"
+  },
+  {
+    "filename": "jat1go3-one-item-example-4",
+    "id": "jat1go3-one-item-example-4",
+    "text": "我哋一齊分一個蛋糕。"
+  },
+  {
+    "filename": "jat1go3zung1-one-hour",
+    "id": "jat1go3zung1-one-hour",
+    "text": "一個鐘"
+  },
+  {
+    "filename": "jat1go3zung1-one-hour-example-1",
+    "id": "jat1go3zung1-one-hour-example-1",
+    "text": "我等咗你一個鐘。"
+  },
+  {
+    "filename": "jat1go3zung1-one-hour-example-2",
+    "id": "jat1go3zung1-one-hour-example-2",
+    "text": "呢個課堂一個鐘長。"
+  },
+  {
+    "filename": "jat1go3zung1-one-hour-example-3",
+    "id": "jat1go3zung1-one-hour-example-3",
+    "text": "我哋一個鐘後見。"
+  },
+  {
+    "filename": "jat1go3zung1-one-hour-example-4",
+    "id": "jat1go3zung1-one-hour-example-4",
+    "text": "你做運動做咗一個鐘未？"
+  },
+  {
+    "filename": "jat1gung1lei5-one-kilometre",
+    "id": "jat1gung1lei5-one-kilometre",
+    "text": "一公里"
+  },
+  {
+    "filename": "jat1gung1lei5-one-kilometre-example-1",
+    "id": "jat1gung1lei5-one-kilometre-example-1",
+    "text": "我屋企離地鐵站有一公里。"
+  },
+  {
+    "filename": "jat1gung1lei5-one-kilometre-example-2",
+    "id": "jat1gung1lei5-one-kilometre-example-2",
+    "text": "我行咗一公里，先停落嚟休息。"
+  },
+  {
+    "filename": "jat1gung1lei5-one-kilometre-example-3",
+    "id": "jat1gung1lei5-one-kilometre-example-3",
+    "text": "呢條路有五公里長。"
+  },
+  {
+    "filename": "jat1gung1lei5-one-kilometre-example-4",
+    "id": "jat1gung1lei5-one-kilometre-example-4",
+    "text": "搭的士去機場大概要十公里路程。"
+  },
+  {
+    "filename": "jyun5-far",
+    "id": "jyun5-far",
+    "text": "遠"
+  },
+  {
+    "filename": "jyun5-far-example-1",
+    "id": "jyun5-far-example-1",
+    "text": "我屋企好遠，要搭車先到。"
+  },
+  {
+    "filename": "jyun5-far-example-2",
+    "id": "jyun5-far-example-2",
+    "text": "距離呢度太遠，我唔想行。"
+  },
+  {
+    "filename": "jyun5-far-example-3",
+    "id": "jyun5-far-example-3",
+    "text": "你住邊度？係唔係好遠？"
+  },
+  {
+    "filename": "jyun5-far-example-4",
+    "id": "jyun5-far-example-4",
+    "text": "坐火車去嗰邊比較快，因為唔係好遠。"
+  },
+  {
+    "filename": "loeng5go3-two-items",
+    "id": "loeng5go3-two-items",
+    "text": "兩個"
+  },
+  {
+    "filename": "loeng5go3-two-items-example-1",
+    "id": "loeng5go3-two-items-example-1",
+    "text": "我買咗兩個蘋果。"
+  },
+  {
+    "filename": "loeng5go3-two-items-example-2",
+    "id": "loeng5go3-two-items-example-2",
+    "text": "兩個人一齊食飯。"
+  },
+  {
+    "filename": "loeng5go3-two-items-example-3",
+    "id": "loeng5go3-two-items-example-3",
+    "text": "佢哋有兩個手機。"
+  },
+  {
+    "filename": "loeng5go3-two-items-example-4",
+    "id": "loeng5go3-two-items-example-4",
+    "text": "請俾我兩個杯。"
+  },
+  {
+    "filename": "maan6-slow",
+    "id": "maan6-slow",
+    "text": "慢"
+  },
+  {
+    "filename": "maan6-slow-example-1",
+    "id": "maan6-slow-example-1",
+    "text": "行路唔好咁慢。"
+  },
+  {
+    "filename": "maan6-slow-example-2",
+    "id": "maan6-slow-example-2",
+    "text": "我嘅電腦開機慢咗。"
+  },
+  {
+    "filename": "maan6-slow-example-3",
+    "id": "maan6-slow-example-3",
+    "text": "你講嘢慢啲，我聽唔明。"
+  },
+  {
+    "filename": "maan6-slow-example-4",
+    "id": "maan6-slow-example-4",
+    "text": "今次比賽打得好慢。"
+  },
+  {
+    "filename": "maan6di1-a-bit-slower",
+    "id": "maan6di1-a-bit-slower",
+    "text": "慢啲"
+  },
+  {
+    "filename": "maan6di1-a-bit-slower-example-1",
+    "id": "maan6di1-a-bit-slower-example-1",
+    "text": "慢啲行，地下濕咗。"
+  },
+  {
+    "filename": "maan6di1-a-bit-slower-example-2",
+    "id": "maan6di1-a-bit-slower-example-2",
+    "text": "你講慢啲，我聽唔清楚。"
+  },
+  {
+    "filename": "maan6di1-a-bit-slower-example-3",
+    "id": "maan6di1-a-bit-slower-example-3",
+    "text": "開車慢啲，安全啲。"
+  },
+  {
+    "filename": "maan6di1-a-bit-slower-example-4",
+    "id": "maan6di1-a-bit-slower-example-4",
+    "text": "處理呢件事慢啲，唔好心急。"
+  },
+  {
+    "filename": "mai5-metre",
+    "id": "mai5-metre",
+    "text": "米"
+  },
+  {
+    "filename": "mai5-metre-example-1",
+    "id": "mai5-metre-example-1",
+    "text": "呢條繩長五米。"
+  },
+  {
+    "filename": "mai5-metre-example-2",
+    "id": "mai5-metre-example-2",
+    "text": "我哋要買兩米嘅窗簾。"
+  },
+  {
+    "filename": "mai5-metre-example-3",
+    "id": "mai5-metre-example-3",
+    "text": "嗰座大廈高一百米。"
+  },
+  {
+    "filename": "mai5-metre-example-4",
+    "id": "mai5-metre-example-4",
+    "text": "呢條魚長大約三十八米。"
+  },
+  {
+    "filename": "si4gaan3-time",
+    "id": "si4gaan3-time",
+    "text": "時間"
+  },
+  {
+    "filename": "si4gaan3-time-example-1",
+    "id": "si4gaan3-time-example-1",
+    "text": "你有冇時間幫我？"
+  },
+  {
+    "filename": "si4gaan3-time-example-2",
+    "id": "si4gaan3-time-example-2",
+    "text": "我今日冇時間去街。"
+  },
+  {
+    "filename": "si4gaan3-time-example-3",
+    "id": "si4gaan3-time-example-3",
+    "text": "呢個工作需要好多時間。"
+  },
+  {
+    "filename": "si4gaan3-time-example-4",
+    "id": "si4gaan3-time-example-4",
+    "text": "放工後，我有啲自由時間。"
+  },
+  {
+    "filename": "siu2di1-a-bit-less",
+    "id": "siu2di1-a-bit-less",
+    "text": "少啲"
+  },
+  {
+    "filename": "siu2di1-a-bit-less-example-1",
+    "id": "siu2di1-a-bit-less-example-1",
+    "text": "你可唔可以少啲鹽？"
+  },
+  {
+    "filename": "siu2di1-a-bit-less-example-2",
+    "id": "siu2di1-a-bit-less-example-2",
+    "text": "我想食少啲，唔好食咁多。"
+  },
+  {
+    "filename": "siu2di1-a-bit-less-example-3",
+    "id": "siu2di1-a-bit-less-example-3",
+    "text": "呢件衫少啲緊身會舒服啲。"
+  },
+  {
+    "filename": "siu2di1-a-bit-less-example-4",
+    "id": "siu2di1-a-bit-less-example-4",
+    "text": "聽你講，少啲講啲笑話會好啲。"
+  },
+  {
+    "filename": "siu2si4-hour",
+    "id": "siu2si4-hour",
+    "text": "小時"
+  },
+  {
+    "filename": "siu2si4-hour-example-1",
+    "id": "siu2si4-hour-example-1",
+    "text": "我做咗兩個小時功課。"
+  },
+  {
+    "filename": "siu2si4-hour-example-2",
+    "id": "siu2si4-hour-example-2",
+    "text": "坐車要三個小時先到。"
+  },
+  {
+    "filename": "siu2si4-hour-example-3",
+    "id": "siu2si4-hour-example-3",
+    "text": "你今日返工幾多個小時？"
+  },
+  {
+    "filename": "siu2si4-hour-example-4",
+    "id": "siu2si4-hour-example-4",
+    "text": "等咗半個小時先有位。"
+  },
+  {
+    "filename": "ting1jat6-tomorrow",
+    "id": "ting1jat6-tomorrow",
+    "text": "聽日"
+  },
+  {
+    "filename": "ting1jat6-tomorrow-example-1",
+    "id": "ting1jat6-tomorrow-example-1",
+    "text": "我聽日返工。"
+  },
+  {
+    "filename": "ting1jat6-tomorrow-example-2",
+    "id": "ting1jat6-tomorrow-example-2",
+    "text": "你聽日有冇時間？"
+  },
+  {
+    "filename": "ting1jat6-tomorrow-example-3",
+    "id": "ting1jat6-tomorrow-example-3",
+    "text": "聽日我哋去食飯啦。"
+  },
+  {
+    "filename": "ting1jat6-tomorrow-example-4",
+    "id": "ting1jat6-tomorrow-example-4",
+    "text": "你聽日幾點返嚟？"
   }
 ]
