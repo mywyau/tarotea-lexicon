@@ -110,3 +110,12 @@ python scripts/generate_words.py \
 python scripts/generate_words.py \
   --resources resources/words.audio.json \
   --output audio/words
+
+
+  ### remember to export your OpenAi key - 
+
+```
+
+  export <key>
+
+```

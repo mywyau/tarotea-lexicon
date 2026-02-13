@@ -17,7 +17,7 @@
       { "id": "sai1gwaa1-watermelon", "word": "西瓜", "jyutping": "sai1 gwaa1", "meaning": "watermelon" },
       { "id": "tai4zi2-grape", "word": "提子", "jyutping": "tai4zi2", "meaning": "grape" },
       { "id": "si6do1be1lei4-strawberry", "word": "士多啤梨", "jyutping": "si6 do1 be1 lei4", "meaning": "strawberry" },
-      { "id": "gwat1zi2-orange-tangerine", "word": "橘子", "jyutping": "gwat1 zi2", "meaning": "tangerine" },
+      { "id": "gwat1zi2-tangerine", "word": "橘子", "jyutping": "gwat1 zi2", "meaning": "tangerine" },
       { "id": "muk6gwaa1-papaya", "word": "木瓜", "jyutping": "muk6 gwaa1", "meaning": "papaya" },
       { "id": "ning4mung1-lemon", "word": "檸檬", "jyutping": "ning4 mung1", "meaning": "lemon" },
       { "id": "cing1ning4-lime", "word": "青檸", "jyutping": "cing1 ning4", "meaning": "lime" },
@@ -45,7 +45,7 @@
     "herbs_and_others": [
       { "id": "laat6ziu1-chilli", "word": "辣椒", "jyutping": "laat6 ziu1", "meaning": "chilli" },
       { "id": "goeng1-ginger", "word": "薑", "jyutping": "goeng1", "meaning": "ginger" },
-      { "id": "soeng1min4-garlic", "word": "蒜頭", "jyutping": "syun3 tau4", "meaning": "garlic" },
+      { "id": "syun3tau4-garlic", "word": "蒜頭", "jyutping": "syun3 tau4", "meaning": "garlic" },
       { "id": "hoeng1maau4-lemongrass", "word": "香茅", "jyutping": "hoeng1 maau4", "meaning": "lemongrass" },
       { "id": "coi3sam1-herb-coriander", "word": "芫荽", "jyutping": "jin4 seoi1", "meaning": "coriander" },
       { "id": "cung1-spring-onion", "word": "蔥", "jyutping": "cung1", "meaning": "spring onion" },

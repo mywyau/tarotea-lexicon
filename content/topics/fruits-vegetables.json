@@ -1,0 +1,34 @@
+{
+  "topic": "fruits_and_vegetables",
+  "title": "Fruits & Vegetables – Buying and Talking About Produce in Cantonese",
+  "description": "Talk about fruits, vegetables, freshness, and buying produce in everyday spoken Cantonese.",
+  "categories": {
+
+
+    "herbs_and_others": [
+      { "id": "laat6ziu1-chilli", "word": "辣椒", "jyutping": "laat6 ziu1", "meaning": "chilli" },
+      { "id": "goeng1-ginger", "word": "薑", "jyutping": "goeng1", "meaning": "ginger" },
+      { "id": "syun3tau4-garlic", "word": "蒜頭", "jyutping": "syun3 tau4", "meaning": "garlic" },
+      { "id": "hoeng1maau4-lemongrass", "word": "香茅", "jyutping": "hoeng1 maau4", "meaning": "lemongrass" },
+      { "id": "coi3sam1-herb-coriander", "word": "芫荽", "jyutping": "jin4 seoi1", "meaning": "coriander" },
+      { "id": "cung1-spring-onion", "word": "蔥", "jyutping": "cung1", "meaning": "spring onion" },
+      { "id": "gau2coi3-chinese-chives", "word": "韭菜", "jyutping": "gau2 coi3", "meaning": "chinese chives" },
+      { "id": "gau2cang4taap3-thai-basil", "word": "九層塔", "jyutping": "gau2 cang4 taap3", "meaning": "thai basil" }
+    ],
+
+    "quantity_and_preparation": [
+      { "id": "jat1go3-one-piece", "word": "一個", "jyutping": "jat1 go3", "meaning": "one piece" },
+      { "id": "loeng5go3-two-pieces", "word": "兩個", "jyutping": "loeng5 go3", "meaning": "two pieces" },
+      { "id": "bun3-half", "word": "半", "jyutping": "bun3", "meaning": "half" },
+      { "id": "jat1gan1-one-catty", "word": "一斤", "jyutping": "jat1 gan1", "meaning": "one catty" },
+      { "id": "cit3-cut", "word": "切", "jyutping": "cit3", "meaning": "cut" }
+    ],
+
+    "taste_and_quality": [
+      { "id": "tim4-sweet", "word": "甜", "jyutping": "tim4", "meaning": "sweet" },
+      { "id": "syun1-sour", "word": "酸", "jyutping": "syun1", "meaning": "sour" },
+      { "id": "san1sin1-fresh", "word": "新鮮", "jyutping": "san1 sin1", "meaning": "fresh" },
+      { "id": "m4san1sin1-not-fresh", "word": "唔新鮮", "jyutping": "m4 san1 sin1", "meaning": "not fresh" }
+    ]
+  }
+}
