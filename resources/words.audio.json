@@ -700,31 +700,6 @@
     "text": "可唔可以等我講完先？"
   },
   {
-    "filename": "hok6jan6-confirm",
-    "id": "hok6jan6-confirm",
-    "text": "確認"
-  },
-  {
-    "filename": "hok6jan6-confirm-example-1",
-    "id": "hok6jan6-confirm-example-1",
-    "text": "我想確認下明日嘅會議時間。"
-  },
-  {
-    "filename": "hok6jan6-confirm-example-2",
-    "id": "hok6jan6-confirm-example-2",
-    "text": "你可唔可以幫我確認返啲資料？"
-  },
-  {
-    "filename": "hok6jan6-confirm-example-3",
-    "id": "hok6jan6-confirm-example-3",
-    "text": "我已經同客戶確認咗貨品嘅數量。"
-  },
-  {
-    "filename": "hok6jan6-confirm-example-4",
-    "id": "hok6jan6-confirm-example-4",
-    "text": "喺出發之前，一定要確認好路線。"
-  },
-  {
     "filename": "jam6mou6-task",
     "id": "jam6mou6-task",
     "text": "任務"
@@ -848,6 +823,31 @@
     "filename": "jyu4kei4-on-time-example-4",
     "id": "jyu4kei4-on-time-example-4",
     "text": "請確保你如期交付材料。"
+  },
+  {
+    "filename": "kok3jing6-confirm",
+    "id": "kok3jing6-confirm",
+    "text": "確認"
+  },
+  {
+    "filename": "kok3jing6-confirm-example-1",
+    "id": "kok3jing6-confirm-example-1",
+    "text": "我想確認下明日嘅會議時間。"
+  },
+  {
+    "filename": "kok3jing6-confirm-example-2",
+    "id": "kok3jing6-confirm-example-2",
+    "text": "你可唔可以幫我確認返啲資料？"
+  },
+  {
+    "filename": "kok3jing6-confirm-example-3",
+    "id": "kok3jing6-confirm-example-3",
+    "text": "我已經同客戶確認咗貨品嘅數量。"
+  },
+  {
+    "filename": "kok3jing6-confirm-example-4",
+    "id": "kok3jing6-confirm-example-4",
+    "text": "喺出發之前，一定要確認好路線。"
   },
   {
     "filename": "kwai1ding6-regulation",
@@ -1082,7 +1082,7 @@
   {
     "filename": "mou5man6tai4-no-problem-example-1",
     "id": "mou5man6tai4-no-problem-example-1",
-    "text": "你幫我帶書返嚟，好多謝！— 冇問題！"
+    "text": "你幫我帶書返嚟，好多謝！冇問題！"
   },
   {
     "filename": "mou5man6tai4-no-problem-example-2",
