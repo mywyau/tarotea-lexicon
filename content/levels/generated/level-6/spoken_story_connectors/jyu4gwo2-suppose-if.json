@@ -1,0 +1,68 @@
+{
+  "id": "jyu4gwo2-suppose-if",
+  "word": "如果",
+  "jyutping": "jyu4 gwo2",
+  "meaning": "if / suppose",
+  "pos": [
+    "phrase",
+    "connector",
+    "expression"
+  ],
+  "usage": [
+    "'如果' is used to introduce a conditional clause, similar to 'if' or 'suppose' in English.",
+    "It often appears at the beginning of a sentence or clause to set up a hypothetical scenario.",
+    "After '如果', the verb or phrase expresses the condition that must be met for the main clause to occur.",
+    "'如果' can be used in both formal and informal spoken Cantonese to discuss possibilities or suppositions.",
+    "It is commonly followed by simple present or past tense verbs depending on the context."
+  ],
+  "examples": [
+    {
+      "id": "jyu4gwo2-suppose-if-example-1",
+      "sentence": "如果你唔嚟，我哋就自己去。",
+      "jyutping": "jyu4 gwo2 nei5 m4 lai4, ngo5 dei6 zau6 zi6 gei2 heoi3.",
+      "meaning": "If you don't come, we will go by ourselves."
+    },
+    {
+      "id": "jyu4gwo2-suppose-if-example-2",
+      "sentence": "如果下雨，我哋就唔去行山啦。",
+      "jyutping": "jyu4 gwo2 haa6 jyu5, ngo5 dei6 zau6 m4 heoi3 hang4 saan1 laa1.",
+      "meaning": "If it rains, we won't go hiking."
+    },
+    {
+      "id": "jyu4gwo2-suppose-if-example-3",
+      "sentence": "如果我有多啲錢，我會買架新車。",
+      "jyutping": "jyu4 gwo2 ngo5 jau5 do1 di1 cin2, ngo5 wui5 maai5 gaa3 san1 ce1.",
+      "meaning": "If I had more money, I would buy a new car."
+    },
+    {
+      "id": "jyu4gwo2-suppose-if-example-4",
+      "sentence": "如果你早点出門，可能唔會遲到。",
+      "jyutping": "jyu4 gwo2 nei5 zou2 dim2 ceot1 mun4, ho2 nang4 m4 wui5 ci4 dou3.",
+      "meaning": "If you leave earlier, you might not be late."
+    }
+  ],
+  "audio": {
+    "word": "jyu4gwo2-suppose-if.mp3",
+    "examples": [
+      "jyu4gwo2-suppose-if-example-1.mp3",
+      "jyu4gwo2-suppose-if-example-2.mp3",
+      "jyu4gwo2-suppose-if-example-3.mp3",
+      "jyu4gwo2-suppose-if-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "conditional",
+    "spoken",
+    "story_connector",
+    "hypothetical",
+    "speech",
+    "level-6"
+  ],
+  "related": [
+    "假如",
+    "倘若",
+    "萬一",
+    "一旦",
+    "要係"
+  ]
+}

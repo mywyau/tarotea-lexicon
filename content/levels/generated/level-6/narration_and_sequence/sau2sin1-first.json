@@ -1,0 +1,68 @@
+{
+  "id": "sau2sin1-first",
+  "word": "首先",
+  "jyutping": "sau2 sin1",
+  "meaning": "first of all",
+  "pos": [
+    "expression",
+    "connector",
+    "phrase"
+  ],
+  "usage": [
+    "Firstly, it is used to introduce the first point or step in a sequence.",
+    "It commonly appears at the beginning of a sentence or clause to indicate the start of an explanation.",
+    "It functions as a discourse marker to organize ideas or instructions clearly.",
+    "It can be followed by other connectors like 'then' or 'next' to continue the sequence.",
+    "Its formal tone makes it suitable for both spoken and written contexts when structuring arguments or narratives."
+  ],
+  "examples": [
+    {
+      "id": "sau2sin1-first-example-1",
+      "sentence": "首先，我哋要準備齊所有材料先。",
+      "jyutping": "sau2 sin1, ngo5 dei6 jiu3 zeon2 bei6 cai4 so2 jau5 coi4 liu2 sin1.",
+      "meaning": "First of all, we need to prepare all the materials."
+    },
+    {
+      "id": "sau2sin1-first-example-2",
+      "sentence": "你首先應該做好緊急應變措施。",
+      "jyutping": "nei5 sau2 sin1 jing1 goi1 zou6 hou2 gan2 gap1 jing3 bin3 cou3 sik1.",
+      "meaning": "First of all, you should handle emergency measures properly."
+    },
+    {
+      "id": "sau2sin1-first-example-3",
+      "sentence": "首先要了解對方嘅需求。",
+      "jyutping": "sau2 sin1 jiu3 liu5 gaai2 deoi3 fong1 ge3 seoi1 kau4.",
+      "meaning": "First of all, you need to understand the other party’s needs."
+    },
+    {
+      "id": "sau2sin1-first-example-4",
+      "sentence": "首先講完呢件事，我哋再討論下一步。",
+      "jyutping": "sau2 sin1 gong2 jyun4 ni1 gin6 si6, ngo5 dei6 zoi3 tou2 leon6 haa6 jat1 bou6.",
+      "meaning": "First of all, after finishing this matter, we will then discuss the next step."
+    }
+  ],
+  "audio": {
+    "word": "sau2sin1-first.mp3",
+    "examples": [
+      "sau2sin1-first-example-1.mp3",
+      "sau2sin1-first-example-2.mp3",
+      "sau2sin1-first-example-3.mp3",
+      "sau2sin1-first-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "sequence",
+    "connectors",
+    "discourse marker",
+    "formal speech",
+    "instructions",
+    "level-6"
+  ],
+  "related": [
+    "其次 (ci4 ci3)",
+    "然後 (jin4 hau6)",
+    "最後 (zeoi6 hau6)",
+    "接住 (zip3 zyu6)",
+    "第一 (dai6 jat1)"
+  ]
+}

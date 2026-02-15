@@ -1,0 +1,66 @@
+{
+  "id": "dim2zi1-turns-out",
+  "word": "點知",
+  "jyutping": "dim2 zi1",
+  "meaning": "who knew / turns out",
+  "pos": [
+    "phrase",
+    "expression"
+  ],
+  "usage": [
+    "Dim2 zi1 is commonly used to introduce an unexpected outcome or surprise in a story.",
+    "It functions similarly to English phrases like 'who knew' or 'turns out'.",
+    "This expression helps to emphasize that the actual result was not anticipated.",
+    "Dim2 zi1 is often placed at the beginning of the clause revealing the surprise or twist.",
+    "It is typically used in spoken Cantonese for storytelling or sharing personal experiences."
+  ],
+  "examples": [
+    {
+      "id": "dim2zi1-turns-out-example-1",
+      "sentence": "我以為佢唔嚟，點知佢遲咗半個鐘先到。",
+      "jyutping": "ngo5 ji5wai6 keoi5 m4 loi4, dim2 zi1 keoi5 ci4 zo2 bun3 go3 zung1 sin1 dou3.",
+      "meaning": "I thought he wasn't coming; who knew he was an hour late."
+    },
+    {
+      "id": "dim2zi1-turns-out-example-2",
+      "sentence": "點知今天天氣忽然變差，我哋淋濕晒。",
+      "jyutping": "dim2 zi1 gam1 tin1 tin1 hei3 fat1 jin4 bin3 caa1, ngo5 dei6 lam4 sap1 saai3.",
+      "meaning": "It turns out the weather suddenly got bad today, and we got completely soaked."
+    },
+    {
+      "id": "dim2zi1-turns-out-example-3",
+      "sentence": "我試咗新餐廳，點知味道好差。",
+      "jyutping": "ngo5 si3 zo2 san1 caan1 teng1, dim2 zi1 mei6 dou6 hou2 caa1.",
+      "meaning": "I tried the new restaurant, but who knew the taste was so bad."
+    },
+    {
+      "id": "dim2zi1-turns-out-example-4",
+      "sentence": "佢話今晚冇空，點知最後竟然出現咗。",
+      "jyutping": "keoi5 waa6 gam1 maan5 mou5 hung1, dim2 zi1 zeoi3 hau6 ging2 jin4 ceot1 jin2 zo2.",
+      "meaning": "He said he was free tonight; turns out he actually showed up in the end."
+    }
+  ],
+  "audio": {
+    "word": "dim2zi1-turns-out.mp3",
+    "examples": [
+      "dim2zi1-turns-out-example-1.mp3",
+      "dim2zi1-turns-out-example-2.mp3",
+      "dim2zi1-turns-out-example-3.mp3",
+      "dim2zi1-turns-out-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "advanced",
+    "storytelling",
+    "surprise",
+    "colloquial",
+    "expression",
+    "level-6"
+  ],
+  "related": [
+    "原來 jyun4 loi4 (as it turns out)",
+    "竟然 ging2 jin4 (unexpectedly)",
+    "居然 geoi1 jin4 (surprisingly)",
+    "唔該 m4 goi1 (please/thank you used in conversation)"
+  ]
+}

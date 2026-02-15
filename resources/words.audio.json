@@ -1,32 +1,1502 @@
 [
   {
-    "filename": "m4goi1aa3-thanks-friendly",
-    "id": "m4goi1aa3-thanks-friendly",
-    "text": "唔該呀"
+    "filename": "biu1zeon2-standard",
+    "id": "biu1zeon2-standard",
+    "text": "標準"
   },
   {
-    "filename": "m4goi1aa3-thanks-friendly-example-1",
-    "id": "m4goi1aa3-thanks-friendly-example-1",
-    "text": "唔該呀。"
+    "filename": "biu1zeon2-standard-example-1",
+    "id": "biu1zeon2-standard-example-1",
+    "text": "我哋公司嘅工作流程有自己嘅標準。"
   },
   {
-    "filename": "m4goi1aa3-thanks-friendly-example-2",
-    "id": "m4goi1aa3-thanks-friendly-example-2",
-    "text": "唔該呀，幫咗我好多。"
+    "filename": "biu1zeon2-standard-example-2",
+    "id": "biu1zeon2-standard-example-2",
+    "text": "你嘅廣東話達到咗標準，可以同本地人溝通。"
   },
   {
-    "filename": "m4goi1aa3-thanks-friendly-example-3",
-    "id": "m4goi1aa3-thanks-friendly-example-3",
-    "text": "唔該呀，我自己嚟就得。"
+    "filename": "biu1zeon2-standard-example-3",
+    "id": "biu1zeon2-standard-example-3",
+    "text": "唔好低估自己嘅標準，要繼續努力。"
   },
   {
-    "filename": "m4goi1aa3-thanks-friendly-example-4",
-    "id": "m4goi1aa3-thanks-friendly-example-4",
-    "text": "唔該呀，麻煩你喇。"
+    "filename": "biu1zeon2-standard-example-4",
+    "id": "biu1zeon2-standard-example-4",
+    "text": "呢個產品冇達到質量標準，唔好買。"
   },
   {
-    "filename": "m4goi1aa3-thanks-friendly-example-5",
-    "id": "m4goi1aa3-thanks-friendly-example-5",
-    "text": "唔該呀，遲啲再傾。"
+    "filename": "biu2jin6-performance",
+    "id": "biu2jin6-performance",
+    "text": "表現"
+  },
+  {
+    "filename": "biu2jin6-performance-example-1",
+    "id": "biu2jin6-performance-example-1",
+    "text": "你今次嘅考試表現好好，值得嘉許。"
+  },
+  {
+    "filename": "biu2jin6-performance-example-2",
+    "id": "biu2jin6-performance-example-2",
+    "text": "佢喺比賽入面嘅表現令所有人都驚訝。"
+  },
+  {
+    "filename": "biu2jin6-performance-example-3",
+    "id": "biu2jin6-performance-example-3",
+    "text": "公司會根據員工嘅表現嚟決定升職。"
+  },
+  {
+    "filename": "biu2jin6-performance-example-4",
+    "id": "biu2jin6-performance-example-4",
+    "text": "我哋應該定期檢討自己嘅表現，持續改進。"
+  },
+  {
+    "filename": "bou2faan1-make-up-for",
+    "id": "bou2faan1-make-up-for",
+    "text": "補返"
+  },
+  {
+    "filename": "bou2faan1-make-up-for-example-1",
+    "id": "bou2faan1-make-up-for-example-1",
+    "text": "我遲咗交功課，今日要補返。"
+  },
+  {
+    "filename": "bou2faan1-make-up-for-example-2",
+    "id": "bou2faan1-make-up-for-example-2",
+    "text": "你唔使擔心，我會幫你補返嗰部分。"
+  },
+  {
+    "filename": "bou2faan1-make-up-for-example-3",
+    "id": "bou2faan1-make-up-for-example-3",
+    "text": "昨日漏咗飲水，要補返身體水分。"
+  },
+  {
+    "filename": "bou2faan1-make-up-for-example-4",
+    "id": "bou2faan1-make-up-for-example-4",
+    "text": "佢犯嘅錯，我哋要幫佢補返。"
+  },
+  {
+    "filename": "bou6zou6-steps",
+    "id": "bou6zou6-steps",
+    "text": "步驟"
+  },
+  {
+    "filename": "bou6zou6-steps-example-1",
+    "id": "bou6zou6-steps-example-1",
+    "text": "你要清楚咁跟呢個步驟先得。"
+  },
+  {
+    "filename": "bou6zou6-steps-example-2",
+    "id": "bou6zou6-steps-example-2",
+    "text": "教我做蛋糕嘅每一個步驟啦。"
+  },
+  {
+    "filename": "bou6zou6-steps-example-3",
+    "id": "bou6zou6-steps-example-3",
+    "text": "公司改咗啲工作步驟，提高效率咗好多。"
+  },
+  {
+    "filename": "bou6zou6-steps-example-4",
+    "id": "bou6zou6-steps-example-4",
+    "text": "依家唔好跳過任何步驟，因為可能會出錯。"
+  },
+  {
+    "filename": "ceoi2siu1-cancel",
+    "id": "ceoi2siu1-cancel",
+    "text": "取消"
+  },
+  {
+    "filename": "ceoi2siu1-cancel-example-1",
+    "id": "ceoi2siu1-cancel-example-1",
+    "text": "我諗住取消今晚嘅晚餐訂座。"
+  },
+  {
+    "filename": "ceoi2siu1-cancel-example-2",
+    "id": "ceoi2siu1-cancel-example-2",
+    "text": "因為天氣唔好，佢哋決定取消旅行。"
+  },
+  {
+    "filename": "ceoi2siu1-cancel-example-3",
+    "id": "ceoi2siu1-cancel-example-3",
+    "text": "你可唔可以幫我取消呢份訂單？"
+  },
+  {
+    "filename": "ceoi2siu1-cancel-example-4",
+    "id": "ceoi2siu1-cancel-example-4",
+    "text": "如果想取消會員資格，請提前通知我哋。"
+  },
+  {
+    "filename": "ceot1jin6-arise",
+    "id": "ceot1jin6-arise",
+    "text": "出現"
+  },
+  {
+    "filename": "ceot1jin6-arise-example-1",
+    "id": "ceot1jin6-arise-example-1",
+    "text": "呢個問題突然出現，我哋要諗辦法解決。"
+  },
+  {
+    "filename": "ceot1jin6-arise-example-2",
+    "id": "ceot1jin6-arise-example-2",
+    "text": "新科技令好多新機會出現。"
+  },
+  {
+    "filename": "ceot1jin6-arise-example-3",
+    "id": "ceot1jin6-arise-example-3",
+    "text": "當你準備好時，機會就會自然出現。"
+  },
+  {
+    "filename": "ceot1jin6-arise-example-4",
+    "id": "ceot1jin6-arise-example-4",
+    "text": "天空中出現咗一道美麗嘅彩虹。"
+  },
+  {
+    "filename": "ci4zo2-delayed",
+    "id": "ci4zo2-delayed",
+    "text": "遲咗"
+  },
+  {
+    "filename": "ci4zo2-delayed-example-1",
+    "id": "ci4zo2-delayed-example-1",
+    "text": "我遲咗十分鐘先到。"
+  },
+  {
+    "filename": "ci4zo2-delayed-example-2",
+    "id": "ci4zo2-delayed-example-2",
+    "text": "我瞓過龍，所以遲咗。"
+  },
+  {
+    "filename": "ci4zo2-delayed-example-3",
+    "id": "ci4zo2-delayed-example-3",
+    "text": "遲咗買飛，票已經賣晒。"
+  },
+  {
+    "filename": "ci4zo2-delayed-example-4",
+    "id": "ci4zo2-delayed-example-4",
+    "text": "我唔想遲咗，所以早啲出門。"
+  },
+  {
+    "filename": "daa2gung1-work-for-someone",
+    "id": "daa2gung1-work-for-someone",
+    "text": "打工"
+  },
+  {
+    "filename": "daa2gung1-work-for-someone-example-1",
+    "id": "daa2gung1-work-for-someone-example-1",
+    "text": "我而家喺餐廳打工，忙到冇時間休息。"
+  },
+  {
+    "filename": "daa2gung1-work-for-someone-example-2",
+    "id": "daa2gung1-work-for-someone-example-2",
+    "text": "細佬啱啱開始喺間旅行社打工。"
+  },
+  {
+    "filename": "daa2gung1-work-for-someone-example-3",
+    "id": "daa2gung1-work-for-someone-example-3",
+    "text": "好多學生暑假嚟呢度打工賺零用錢。"
+  },
+  {
+    "filename": "daa2gung1-work-for-someone-example-4",
+    "id": "daa2gung1-work-for-someone-example-4",
+    "text": "我唔想一世都喺度打工，想自己做老闆。"
+  },
+  {
+    "filename": "daan6hai6-but",
+    "id": "daan6hai6-but",
+    "text": "但係"
+  },
+  {
+    "filename": "daan6hai6-but-example-1",
+    "id": "daan6hai6-but-example-1",
+    "text": "我知道你嘅意思，但係我都有自己嘅諗法。"
+  },
+  {
+    "filename": "daan6hai6-but-example-2",
+    "id": "daan6hai6-but-example-2",
+    "text": "我哋想去戲院，但係而家時間唔夠。"
+  },
+  {
+    "filename": "daan6hai6-but-example-3",
+    "id": "daan6hai6-but-example-3",
+    "text": "呢件事好重要，但係唔使太緊張。"
+  },
+  {
+    "filename": "daan6hai6-but-example-4",
+    "id": "daan6hai6-but-example-4",
+    "text": "我明白你嘅困難，但係我未必可以幫到你。"
+  },
+  {
+    "filename": "dang1gei3-register",
+    "id": "dang1gei3-register",
+    "text": "登記"
+  },
+  {
+    "filename": "dang1gei3-register-example-1",
+    "id": "dang1gei3-register-example-1",
+    "text": "你去醫院登記咗未？"
+  },
+  {
+    "filename": "dang1gei3-register-example-2",
+    "id": "dang1gei3-register-example-2",
+    "text": "參加比賽之前，要先登記。"
+  },
+  {
+    "filename": "dang1gei3-register-example-3",
+    "id": "dang1gei3-register-example-3",
+    "text": "登記完資料後，佢哋會發張確認信。"
+  },
+  {
+    "filename": "dang1gei3-register-example-4",
+    "id": "dang1gei3-register-example-4",
+    "text": "呢度可以即場登記成為會員。"
+  },
+  {
+    "filename": "faan1gung1-go-to-work",
+    "id": "faan1gung1-go-to-work",
+    "text": "返工"
+  },
+  {
+    "filename": "faan1gung1-go-to-work-example-1",
+    "id": "faan1gung1-go-to-work-example-1",
+    "text": "我朝早七點就要返工。"
+  },
+  {
+    "filename": "faan1gung1-go-to-work-example-2",
+    "id": "faan1gung1-go-to-work-example-2",
+    "text": "聽日星期六我唔返工，可以休息。"
+  },
+  {
+    "filename": "faan1gung1-go-to-work-example-3",
+    "id": "faan1gung1-go-to-work-example-3",
+    "text": "返工前記得攞晒你嘅文件。"
+  },
+  {
+    "filename": "faan1gung1-go-to-work-example-4",
+    "id": "faan1gung1-go-to-work-example-4",
+    "text": "我今日好忙，一早就返工冇時間吹水。"
+  },
+  {
+    "filename": "fu6mou6-service",
+    "id": "fu6mou6-service",
+    "text": "服務"
+  },
+  {
+    "filename": "fu6mou6-service-example-1",
+    "id": "fu6mou6-service-example-1",
+    "text": "呢間店嘅客戶服務好周到。"
+  },
+  {
+    "filename": "fu6mou6-service-example-2",
+    "id": "fu6mou6-service-example-2",
+    "text": "我哋下星期會開始提供新嘅網上服務。"
+  },
+  {
+    "filename": "fu6mou6-service-example-3",
+    "id": "fu6mou6-service-example-3",
+    "text": "佢嘅服務態度令我好滿意。"
+  },
+  {
+    "filename": "fu6mou6-service-example-4",
+    "id": "fu6mou6-service-example-4",
+    "text": "間酒店提供嘅客房服務非常專業。"
+  },
+  {
+    "filename": "fu6zaak3-in-charge-of",
+    "id": "fu6zaak3-in-charge-of",
+    "text": "負責"
+  },
+  {
+    "filename": "fu6zaak3-in-charge-of-example-1",
+    "id": "fu6zaak3-in-charge-of-example-1",
+    "text": "呢個項目係我負責，你可以問我任何問題。"
+  },
+  {
+    "filename": "fu6zaak3-in-charge-of-example-2",
+    "id": "fu6zaak3-in-charge-of-example-2",
+    "text": "佢負責管理整間公司嘅財務。"
+  },
+  {
+    "filename": "fu6zaak3-in-charge-of-example-3",
+    "id": "fu6zaak3-in-charge-of-example-3",
+    "text": "負責安排今次會議嘅人係邊個？"
+  },
+  {
+    "filename": "fu6zaak3-in-charge-of-example-4",
+    "id": "fu6zaak3-in-charge-of-example-4",
+    "text": "作為部門主管，你要負責確保工作順利進行。"
+  },
+  {
+    "filename": "gaa1baan1-overtime",
+    "id": "gaa1baan1-overtime",
+    "text": "加班"
+  },
+  {
+    "filename": "gaa1baan1-overtime-example-1",
+    "id": "gaa1baan1-overtime-example-1",
+    "text": "今個星期我每日都要加班，真係好攰。"
+  },
+  {
+    "filename": "gaa1baan1-overtime-example-2",
+    "id": "gaa1baan1-overtime-example-2",
+    "text": "加班完之後我哋一齊去飲嘢放鬆下啦。"
+  },
+  {
+    "filename": "gaa1baan1-overtime-example-3",
+    "id": "gaa1baan1-overtime-example-3",
+    "text": "老細話呢排唔好太多加班，注重員工平衡。"
+  },
+  {
+    "filename": "gaa1baan1-overtime-example-4",
+    "id": "gaa1baan1-overtime-example-4",
+    "text": "加唔加班由你自己決定，但記住要照顧身體。"
+  },
+  {
+    "filename": "gaai3m4gaai3ji3-do-you-mind",
+    "id": "gaai3m4gaai3ji3-do-you-mind",
+    "text": "介唔介意"
+  },
+  {
+    "filename": "gaai3m4gaai3ji3-do-you-mind-example-1",
+    "id": "gaai3m4gaai3ji3-do-you-mind-example-1",
+    "text": "介唔介意我坐喺呢度？"
+  },
+  {
+    "filename": "gaai3m4gaai3ji3-do-you-mind-example-2",
+    "id": "gaai3m4gaai3ji3-do-you-mind-example-2",
+    "text": "你介唔介意我借你本書？"
+  },
+  {
+    "filename": "gaai3m4gaai3ji3-do-you-mind-example-3",
+    "id": "gaai3m4gaai3ji3-do-you-mind-example-3",
+    "text": "佢介唔介意我哋遲啲先開會？"
+  },
+  {
+    "filename": "gaai3m4gaai3ji3-do-you-mind-example-4",
+    "id": "gaai3m4gaai3ji3-do-you-mind-example-4",
+    "text": "你介唔介意我用下你部電話？"
+  },
+  {
+    "filename": "gaau1fei3-pay-fee",
+    "id": "gaau1fei3-pay-fee",
+    "text": "交費"
+  },
+  {
+    "filename": "gaau1fei3-pay-fee-example-1",
+    "id": "gaau1fei3-pay-fee-example-1",
+    "text": "我今日要去銀行交費。"
+  },
+  {
+    "filename": "gaau1fei3-pay-fee-example-2",
+    "id": "gaau1fei3-pay-fee-example-2",
+    "text": "你記唔記得交電費？"
+  },
+  {
+    "filename": "gaau1fei3-pay-fee-example-3",
+    "id": "gaau1fei3-pay-fee-example-3",
+    "text": "佢哋喺學校交學費。"
+  },
+  {
+    "filename": "gaau1fei3-pay-fee-example-4",
+    "id": "gaau1fei3-pay-fee-example-4",
+    "text": "我哋要準時交租金，唔可以遲。"
+  },
+  {
+    "filename": "gaau1zeoi3-submit",
+    "id": "gaau1zeoi3-submit",
+    "text": "交咗"
+  },
+  {
+    "filename": "gaau1zeoi3-submit-example-1",
+    "id": "gaau1zeoi3-submit-example-1",
+    "text": "我啱啱交咗個報告畀老細。"
+  },
+  {
+    "filename": "gaau1zeoi3-submit-example-2",
+    "id": "gaau1zeoi3-submit-example-2",
+    "text": "你交咗功課未呀？"
+  },
+  {
+    "filename": "gaau1zeoi3-submit-example-3",
+    "id": "gaau1zeoi3-submit-example-3",
+    "text": "啲文件都交咗，依家等覆信。"
+  },
+  {
+    "filename": "gaau1zeoi3-submit-example-4",
+    "id": "gaau1zeoi3-submit-example-4",
+    "text": "我交咗申請表，佢話幾日之後會通知我。"
+  },
+  {
+    "filename": "gaau2co3-mistake",
+    "id": "gaau2co3-mistake",
+    "text": "搞錯"
+  },
+  {
+    "filename": "gaau2co3-mistake-example-1",
+    "id": "gaau2co3-mistake-example-1",
+    "text": "我哋今次搞錯咗地點，去錯咗餐廳。"
+  },
+  {
+    "filename": "gaau2co3-mistake-example-2",
+    "id": "gaau2co3-mistake-example-2",
+    "text": "對唔住，我搞錯咗個時間。"
+  },
+  {
+    "filename": "gaau2co3-mistake-example-3",
+    "id": "gaau2co3-mistake-example-3",
+    "text": "你搞錯咗人，我唔係你要搵嘅人。"
+  },
+  {
+    "filename": "gaau2co3-mistake-example-4",
+    "id": "gaau2co3-mistake-example-4",
+    "text": "呢度搞錯咗，應該係側門入去。"
+  },
+  {
+    "filename": "gaau2dim6-sorted",
+    "id": "gaau2dim6-sorted",
+    "text": "搞掂"
+  },
+  {
+    "filename": "gaau2dim6-sorted-example-1",
+    "id": "gaau2dim6-sorted-example-1",
+    "text": "我已經搞掂晒個報告。"
+  },
+  {
+    "filename": "gaau2dim6-sorted-example-2",
+    "id": "gaau2dim6-sorted-example-2",
+    "text": "唔使擔心，全部嘢我搞掂咗。"
+  },
+  {
+    "filename": "gaau2dim6-sorted-example-3",
+    "id": "gaau2dim6-sorted-example-3",
+    "text": "呢個問題好簡單，快啲搞掂啦！"
+  },
+  {
+    "filename": "gaau2dim6-sorted-example-4",
+    "id": "gaau2dim6-sorted-example-4",
+    "text": "我哋今晚搞掂晒準備工作先落街。"
+  },
+  {
+    "filename": "gan1zeon3-follow-up",
+    "id": "gan1zeon3-follow-up",
+    "text": "跟進"
+  },
+  {
+    "filename": "gan1zeon3-follow-up-example-1",
+    "id": "gan1zeon3-follow-up-example-1",
+    "text": "我會盡快跟進你嘅申請。"
+  },
+  {
+    "filename": "gan1zeon3-follow-up-example-2",
+    "id": "gan1zeon3-follow-up-example-2",
+    "text": "記得跟進上星期嘅會議決定。"
+  },
+  {
+    "filename": "gan1zeon3-follow-up-example-3",
+    "id": "gan1zeon3-follow-up-example-3",
+    "text": "你可唔可以幫我跟進客戶嘅投訴？"
+  },
+  {
+    "filename": "gan1zeon3-follow-up-example-4",
+    "id": "gan1zeon3-follow-up-example-4",
+    "text": "我哋需唔需要跟進嗰個項目嘅進度？"
+  },
+  {
+    "filename": "gin3ji3-suggestion",
+    "id": "gin3ji3-suggestion",
+    "text": "建議"
+  },
+  {
+    "filename": "gin3ji3-suggestion-example-1",
+    "id": "gin3ji3-suggestion-example-1",
+    "text": "我有啲建議想同你講。"
+  },
+  {
+    "filename": "gin3ji3-suggestion-example-2",
+    "id": "gin3ji3-suggestion-example-2",
+    "text": "你可唔可以俾啲建議我點做好啲？"
+  },
+  {
+    "filename": "gin3ji3-suggestion-example-3",
+    "id": "gin3ji3-suggestion-example-3",
+    "text": "建議你試下換另一種方法。"
+  },
+  {
+    "filename": "gin3ji3-suggestion-example-4",
+    "id": "gin3ji3-suggestion-example-4",
+    "text": "大家有冇乜建議可以改善呢個計劃？"
+  },
+  {
+    "filename": "goi2sin6-improve",
+    "id": "goi2sin6-improve",
+    "text": "改善"
+  },
+  {
+    "filename": "goi2sin6-improve-example-1",
+    "id": "goi2sin6-improve-example-1",
+    "text": "我哋需要改善呢個系統嘅效率。"
+  },
+  {
+    "filename": "goi2sin6-improve-example-2",
+    "id": "goi2sin6-improve-example-2",
+    "text": "老師建議我改善我嘅發音。"
+  },
+  {
+    "filename": "goi2sin6-improve-example-3",
+    "id": "goi2sin6-improve-example-3",
+    "text": "公司投入咗好多資源去改善客戶服務。"
+  },
+  {
+    "filename": "goi2sin6-improve-example-4",
+    "id": "goi2sin6-improve-example-4",
+    "text": "佢經常搵方法改善自己嘅工作態度。"
+  },
+  {
+    "filename": "gung1zok3-work",
+    "id": "gung1zok3-work",
+    "text": "工作"
+  },
+  {
+    "filename": "gung1zok3-work-example-1",
+    "id": "gung1zok3-work-example-1",
+    "text": "我每日朝早八點去返工，準時開始工作。"
+  },
+  {
+    "filename": "gung1zok3-work-example-2",
+    "id": "gung1zok3-work-example-2",
+    "text": "佢依家喺間銀行做緊金融工作，好忙。"
+  },
+  {
+    "filename": "gung1zok3-work-example-3",
+    "id": "gung1zok3-work-example-3",
+    "text": "搵工作唔係咁容易，尤其係而家咁競爭激烈嘅市場。"
+  },
+  {
+    "filename": "gung1zok3-work-example-4",
+    "id": "gung1zok3-work-example-4",
+    "text": "完成呢個工作之後，我哋可以準備去旅行。"
+  },
+  {
+    "filename": "gwo3cing4-process",
+    "id": "gwo3cing4-process",
+    "text": "過程"
+  },
+  {
+    "filename": "gwo3cing4-process-example-1",
+    "id": "gwo3cing4-process-example-1",
+    "text": "我哋要檢查整個過程，確保冇錯。"
+  },
+  {
+    "filename": "gwo3cing4-process-example-2",
+    "id": "gwo3cing4-process-example-2",
+    "text": "學習語言嘅過程可能會好慢，但係好有趣。"
+  },
+  {
+    "filename": "gwo3cing4-process-example-3",
+    "id": "gwo3cing4-process-example-3",
+    "text": "你不如順便講下呢個計劃嘅過程。"
+  },
+  {
+    "filename": "gwo3cing4-process-example-4",
+    "id": "gwo3cing4-process-example-4",
+    "text": "醫生講解手術嘅過程，好快就明白晒。"
+  },
+  {
+    "filename": "haa6ci3zoi3zou6hou2di1-better-next-time",
+    "id": "haa6ci3zoi3zou6hou2di1-better-next-time",
+    "text": "下次再做好啲"
+  },
+  {
+    "filename": "haa6ci3zoi3zou6hou2di1-better-next-time-example-1",
+    "id": "haa6ci3zoi3zou6hou2di1-better-next-time-example-1",
+    "text": "你呢次做得唔錯，下次再做好啲啦。"
+  },
+  {
+    "filename": "haa6ci3zoi3zou6hou2di1-better-next-time-example-2",
+    "id": "haa6ci3zoi3zou6hou2di1-better-next-time-example-2",
+    "text": "考試唔夠理想，落次下次再做好啲啦。"
+  },
+  {
+    "filename": "haa6ci3zoi3zou6hou2di1-better-next-time-example-3",
+    "id": "haa6ci3zoi3zou6hou2di1-better-next-time-example-3",
+    "text": "我知道你今次失敗，但係下次再做好啲就得。"
+  },
+  {
+    "filename": "haa6ci3zoi3zou6hou2di1-better-next-time-example-4",
+    "id": "haa6ci3zoi3zou6hou2di1-better-next-time-example-4",
+    "text": "老板話佢要下次再做好啲，唔好再出錯。"
+  },
+  {
+    "filename": "haan6zai3-limit",
+    "id": "haan6zai3-limit",
+    "text": "限制"
+  },
+  {
+    "filename": "haan6zai3-limit-example-1",
+    "id": "haan6zai3-limit-example-1",
+    "text": "我哋要限制入場人數，確保安全。"
+  },
+  {
+    "filename": "haan6zai3-limit-example-2",
+    "id": "haan6zai3-limit-example-2",
+    "text": "政府宣布咗新嘅交通限制措施。"
+  },
+  {
+    "filename": "haan6zai3-limit-example-3",
+    "id": "haan6zai3-limit-example-3",
+    "text": "唔好讓自己嘅思想被框架限制咗。"
+  },
+  {
+    "filename": "haan6zai3-limit-example-4",
+    "id": "haan6zai3-limit-example-4",
+    "text": "呢啲規則係為咗限制未成年人嘅行動。"
+  },
+  {
+    "filename": "hip3tiu4-coordinate",
+    "id": "hip3tiu4-coordinate",
+    "text": "協調"
+  },
+  {
+    "filename": "hip3tiu4-coordinate-example-1",
+    "id": "hip3tiu4-coordinate-example-1",
+    "text": "我哋要協調各部門嘅工作時間先可以準時完成項目。"
+  },
+  {
+    "filename": "hip3tiu4-coordinate-example-2",
+    "id": "hip3tiu4-coordinate-example-2",
+    "text": "佢負責協調貨運同埋倉庫嘅安排。"
+  },
+  {
+    "filename": "hip3tiu4-coordinate-example-3",
+    "id": "hip3tiu4-coordinate-example-3",
+    "text": "國際會議通常需要多個國家協調意見。"
+  },
+  {
+    "filename": "hip3tiu4-coordinate-example-4",
+    "id": "hip3tiu4-coordinate-example-4",
+    "text": "我試下協調大家嘅時間參加呢個聚會。"
+  },
+  {
+    "filename": "ho2m4ho2ji5-could-you",
+    "id": "ho2m4ho2ji5-could-you",
+    "text": "可唔可以"
+  },
+  {
+    "filename": "ho2m4ho2ji5-could-you-example-1",
+    "id": "ho2m4ho2ji5-could-you-example-1",
+    "text": "可唔可以幫我睇一睇呢份報告？"
+  },
+  {
+    "filename": "ho2m4ho2ji5-could-you-example-2",
+    "id": "ho2m4ho2ji5-could-you-example-2",
+    "text": "可唔可以借我支筆？"
+  },
+  {
+    "filename": "ho2m4ho2ji5-could-you-example-3",
+    "id": "ho2m4ho2ji5-could-you-example-3",
+    "text": "可唔可以遲啲開會？"
+  },
+  {
+    "filename": "ho2m4ho2ji5-could-you-example-4",
+    "id": "ho2m4ho2ji5-could-you-example-4",
+    "text": "可唔可以等我講完先？"
+  },
+  {
+    "filename": "hok6jan6-confirm",
+    "id": "hok6jan6-confirm",
+    "text": "確認"
+  },
+  {
+    "filename": "hok6jan6-confirm-example-1",
+    "id": "hok6jan6-confirm-example-1",
+    "text": "我想確認下明日嘅會議時間。"
+  },
+  {
+    "filename": "hok6jan6-confirm-example-2",
+    "id": "hok6jan6-confirm-example-2",
+    "text": "你可唔可以幫我確認返啲資料？"
+  },
+  {
+    "filename": "hok6jan6-confirm-example-3",
+    "id": "hok6jan6-confirm-example-3",
+    "text": "我已經同客戶確認咗貨品嘅數量。"
+  },
+  {
+    "filename": "hok6jan6-confirm-example-4",
+    "id": "hok6jan6-confirm-example-4",
+    "text": "喺出發之前，一定要確認好路線。"
+  },
+  {
+    "filename": "jam6mou6-task",
+    "id": "jam6mou6-task",
+    "text": "任務"
+  },
+  {
+    "filename": "jam6mou6-task-example-1",
+    "id": "jam6mou6-task-example-1",
+    "text": "我今日有啲緊急嘅任務要完成。"
+  },
+  {
+    "filename": "jam6mou6-task-example-2",
+    "id": "jam6mou6-task-example-2",
+    "text": "老細分配咗一個新任務畀我。"
+  },
+  {
+    "filename": "jam6mou6-task-example-3",
+    "id": "jam6mou6-task-example-3",
+    "text": "完成呢項任務之後我哋可以休息一下。"
+  },
+  {
+    "filename": "jam6mou6-task-example-4",
+    "id": "jam6mou6-task-example-4",
+    "text": "接受任務之前要先了解清楚要求。"
+  },
+  {
+    "filename": "jau5zeon3bou6-have-progress",
+    "id": "jau5zeon3bou6-have-progress",
+    "text": "有進步"
+  },
+  {
+    "filename": "jau5zeon3bou6-have-progress-example-1",
+    "id": "jau5zeon3bou6-have-progress-example-1",
+    "text": "你最近畫畫有進步喎，繼續加油！"
+  },
+  {
+    "filename": "jau5zeon3bou6-have-progress-example-2",
+    "id": "jau5zeon3bou6-have-progress-example-2",
+    "text": "老師話我英文有進步，我好開心。"
+  },
+  {
+    "filename": "jau5zeon3bou6-have-progress-example-3",
+    "id": "jau5zeon3bou6-have-progress-example-3",
+    "text": "雖然仲有啲錯誤，但你嘅發音有進步。"
+  },
+  {
+    "filename": "jau5zeon3bou6-have-progress-example-4",
+    "id": "jau5zeon3bou6-have-progress-example-4",
+    "text": "你嘅努力有進步，繼續保持呢個態度。"
+  },
+  {
+    "filename": "jing3deoi3-handle",
+    "id": "jing3deoi3-handle",
+    "text": "應對"
+  },
+  {
+    "filename": "jing3deoi3-handle-example-1",
+    "id": "jing3deoi3-handle-example-1",
+    "text": "佢好有經驗，知道點樣應對困難。"
+  },
+  {
+    "filename": "jing3deoi3-handle-example-2",
+    "id": "jing3deoi3-handle-example-2",
+    "text": "公司要有好嘅方法去應對市場變化。"
+  },
+  {
+    "filename": "jing3deoi3-handle-example-3",
+    "id": "jing3deoi3-handle-example-3",
+    "text": "喺緊急情況下，應對措施要快同準確。"
+  },
+  {
+    "filename": "jing3deoi3-handle-example-4",
+    "id": "jing3deoi3-handle-example-4",
+    "text": "我哋要諗清楚點樣應對客戶嘅投訴。"
+  },
+  {
+    "filename": "jiu1kau4-requirement",
+    "id": "jiu1kau4-requirement",
+    "text": "要求"
+  },
+  {
+    "filename": "jiu1kau4-requirement-example-1",
+    "id": "jiu1kau4-requirement-example-1",
+    "text": "公司要求我哋準時交齊報告。"
+  },
+  {
+    "filename": "jiu1kau4-requirement-example-2",
+    "id": "jiu1kau4-requirement-example-2",
+    "text": "老師要求學生每日溫習功課。"
+  },
+  {
+    "filename": "jiu1kau4-requirement-example-3",
+    "id": "jiu1kau4-requirement-example-3",
+    "text": "參加考試有啲嚴格嘅要求。"
+  },
+  {
+    "filename": "jiu1kau4-requirement-example-4",
+    "id": "jiu1kau4-requirement-example-4",
+    "text": "佢對員工嘅工作要求好高。"
+  },
+  {
+    "filename": "jyu4kei4-on-time",
+    "id": "jyu4kei4-on-time",
+    "text": "如期"
+  },
+  {
+    "filename": "jyu4kei4-on-time-example-1",
+    "id": "jyu4kei4-on-time-example-1",
+    "text": "我哋需要如期完成呢份報告。"
+  },
+  {
+    "filename": "jyu4kei4-on-time-example-2",
+    "id": "jyu4kei4-on-time-example-2",
+    "text": "佢哋如期返咗嚟開會。"
+  },
+  {
+    "filename": "jyu4kei4-on-time-example-3",
+    "id": "jyu4kei4-on-time-example-3",
+    "text": "工程如期完成，大家都好開心。"
+  },
+  {
+    "filename": "jyu4kei4-on-time-example-4",
+    "id": "jyu4kei4-on-time-example-4",
+    "text": "請確保你如期交付材料。"
+  },
+  {
+    "filename": "kwai1ding6-regulation",
+    "id": "kwai1ding6-regulation",
+    "text": "規定"
+  },
+  {
+    "filename": "kwai1ding6-regulation-example-1",
+    "id": "kwai1ding6-regulation-example-1",
+    "text": "公司有好多嚴格嘅規定，要大家遵守。"
+  },
+  {
+    "filename": "kwai1ding6-regulation-example-2",
+    "id": "kwai1ding6-regulation-example-2",
+    "text": "呢個規定幾時開始實行？"
+  },
+  {
+    "filename": "kwai1ding6-regulation-example-3",
+    "id": "kwai1ding6-regulation-example-3",
+    "text": "你違反咗學校嘅規定，所以被警告。"
+  },
+  {
+    "filename": "kwai1ding6-regulation-example-4",
+    "id": "kwai1ding6-regulation-example-4",
+    "text": "政府規定所有司機必須戴安全帶。"
+  },
+  {
+    "filename": "kwai1geoi2-rules",
+    "id": "kwai1geoi2-rules",
+    "text": "規矩"
+  },
+  {
+    "filename": "kwai1geoi2-rules-example-1",
+    "id": "kwai1geoi2-rules-example-1",
+    "text": "你要識得守規矩，唔好亂嚟。"
+  },
+  {
+    "filename": "kwai1geoi2-rules-example-2",
+    "id": "kwai1geoi2-rules-example-2",
+    "text": "呢度嘅規矩好嚴格，每個人都要遵守。"
+  },
+  {
+    "filename": "kwai1geoi2-rules-example-3",
+    "id": "kwai1geoi2-rules-example-3",
+    "text": "做嘢要有規矩，先可以做到長遠。"
+  },
+  {
+    "filename": "kwai1geoi2-rules-example-4",
+    "id": "kwai1geoi2-rules-example-4",
+    "text": "佢成日鬧人，根本唔識規矩。"
+  },
+  {
+    "filename": "lau4cing4-workflow",
+    "id": "lau4cing4-workflow",
+    "text": "流程"
+  },
+  {
+    "filename": "lau4cing4-workflow-example-1",
+    "id": "lau4cing4-workflow-example-1",
+    "text": "呢個流程好複雜，要分得好清楚先得。"
+  },
+  {
+    "filename": "lau4cing4-workflow-example-2",
+    "id": "lau4cing4-workflow-example-2",
+    "text": "我哋依家喺度檢討工作流程，搵出可以改進嘅地方。"
+  },
+  {
+    "filename": "lau4cing4-workflow-example-3",
+    "id": "lau4cing4-workflow-example-3",
+    "text": "有啲公司會用軟件嚟幫助管理流程。"
+  },
+  {
+    "filename": "lau4cing4-workflow-example-4",
+    "id": "lau4cing4-workflow-example-4",
+    "text": "呢個流程簡化咗，做嘢快咗好多。"
+  },
+  {
+    "filename": "loeng6gaai2-understanding",
+    "id": "loeng6gaai2-understanding",
+    "text": "諒解"
+  },
+  {
+    "filename": "loeng6gaai2-understanding-example-1",
+    "id": "loeng6gaai2-understanding-example-1",
+    "text": "我希望你可以諒解我嘅難處。"
+  },
+  {
+    "filename": "loeng6gaai2-understanding-example-2",
+    "id": "loeng6gaai2-understanding-example-2",
+    "text": "多謝你嘅諒解，令我感覺輕鬆啲。"
+  },
+  {
+    "filename": "loeng6gaai2-understanding-example-3",
+    "id": "loeng6gaai2-understanding-example-3",
+    "text": "諒解係建立良好關係嘅重要一環。"
+  },
+  {
+    "filename": "loeng6gaai2-understanding-example-4",
+    "id": "loeng6gaai2-understanding-example-4",
+    "text": "我哋需要互相諒解，先至可以解決問題。"
+  },
+  {
+    "filename": "lok6sat6-implement",
+    "id": "lok6sat6-implement",
+    "text": "落實"
+  },
+  {
+    "filename": "lok6sat6-implement-example-1",
+    "id": "lok6sat6-implement-example-1",
+    "text": "我哋要盡快落實新嘅工作流程。"
+  },
+  {
+    "filename": "lok6sat6-implement-example-2",
+    "id": "lok6sat6-implement-example-2",
+    "text": "政府承諾嘅政策仲未落實。"
+  },
+  {
+    "filename": "lok6sat6-implement-example-3",
+    "id": "lok6sat6-implement-example-3",
+    "text": "公司將會花多啲時間落實客戶嘅要求。"
+  },
+  {
+    "filename": "lok6sat6-implement-example-4",
+    "id": "lok6sat6-implement-example-4",
+    "text": "落實計劃需要團隊合作嘅努力。"
+  },
+  {
+    "filename": "lou5baan2-boss",
+    "id": "lou5baan2-boss",
+    "text": "老闆"
+  },
+  {
+    "filename": "lou5baan2-boss-example-1",
+    "id": "lou5baan2-boss-example-1",
+    "text": "我聽日要同老闆開會。"
+  },
+  {
+    "filename": "lou5baan2-boss-example-2",
+    "id": "lou5baan2-boss-example-2",
+    "text": "老闆話要加班，所以今晚要留多陣。"
+  },
+  {
+    "filename": "lou5baan2-boss-example-3",
+    "id": "lou5baan2-boss-example-3",
+    "text": "呢間公司個老闆好有人情味。"
+  },
+  {
+    "filename": "lou5baan2-boss-example-4",
+    "id": "lou5baan2-boss-example-4",
+    "text": "你做咁多嘢，老闆都睇得到。"
+  },
+  {
+    "filename": "m4hou2ci4do1-dont-be-late",
+    "id": "m4hou2ci4do1-dont-be-late",
+    "text": "唔好遲到"
+  },
+  {
+    "filename": "m4hou2ci4do1-dont-be-late-example-1",
+    "id": "m4hou2ci4do1-dont-be-late-example-1",
+    "text": "開會準時開始，唔好遲到呀。"
+  },
+  {
+    "filename": "m4hou2ci4do1-dont-be-late-example-2",
+    "id": "m4hou2ci4do1-dont-be-late-example-2",
+    "text": "我哋今晚七點見，唔好遲到喇。"
+  },
+  {
+    "filename": "m4hou2ci4do1-dont-be-late-example-3",
+    "id": "m4hou2ci4do1-dont-be-late-example-3",
+    "text": "老師叮囑我哋考試唔好遲到。"
+  },
+  {
+    "filename": "m4hou2ci4do1-dont-be-late-example-4",
+    "id": "m4hou2ci4do1-dont-be-late-example-4",
+    "text": "如果你唔好遲到，大家可以準時開始。"
+  },
+  {
+    "filename": "m4hou2ji3si1-excuse-me",
+    "id": "m4hou2ji3si1-excuse-me",
+    "text": "唔好意思"
+  },
+  {
+    "filename": "m4hou2ji3si1-excuse-me-example-1",
+    "id": "m4hou2ji3si1-excuse-me-example-1",
+    "text": "唔好意思，借過一下。"
+  },
+  {
+    "filename": "m4hou2ji3si1-excuse-me-example-2",
+    "id": "m4hou2ji3si1-excuse-me-example-2",
+    "text": "唔好意思，我遲咗啲。"
+  },
+  {
+    "filename": "m4hou2ji3si1-excuse-me-example-3",
+    "id": "m4hou2ji3si1-excuse-me-example-3",
+    "text": "唔好意思，可以借我支筆嗎？"
+  },
+  {
+    "filename": "m4hou2ji3si1-excuse-me-example-4",
+    "id": "m4hou2ji3si1-excuse-me-example-4",
+    "text": "唔好意思，呢度唔可以泊車。"
+  },
+  {
+    "filename": "maa4faan4nei5-please",
+    "id": "maa4faan4nei5-please",
+    "text": "麻煩你"
+  },
+  {
+    "filename": "maa4faan4nei5-please-example-1",
+    "id": "maa4faan4nei5-please-example-1",
+    "text": "麻煩你幫我睇下呢份文件。"
+  },
+  {
+    "filename": "maa4faan4nei5-please-example-2",
+    "id": "maa4faan4nei5-please-example-2",
+    "text": "麻煩你借我支筆，好嗎？"
+  },
+  {
+    "filename": "maa4faan4nei5-please-example-3",
+    "id": "maa4faan4nei5-please-example-3",
+    "text": "麻煩你盡快回覆我嘅電郵。"
+  },
+  {
+    "filename": "maa4faan4nei5-please-example-4",
+    "id": "maa4faan4nei5-please-example-4",
+    "text": "你麻煩你幫下手啦，我一個人做唔切。"
+  },
+  {
+    "filename": "mou5man6tai4-no-problem",
+    "id": "mou5man6tai4-no-problem",
+    "text": "冇問題"
+  },
+  {
+    "filename": "mou5man6tai4-no-problem-example-1",
+    "id": "mou5man6tai4-no-problem-example-1",
+    "text": "你幫我帶書返嚟，好多謝！— 冇問題！"
+  },
+  {
+    "filename": "mou5man6tai4-no-problem-example-2",
+    "id": "mou5man6tai4-no-problem-example-2",
+    "text": "聽日嘅會議可以改時間嗎？— 冇問題，我會通知大家。"
+  },
+  {
+    "filename": "mou5man6tai4-no-problem-example-3",
+    "id": "mou5man6tai4-no-problem-example-3",
+    "text": "對唔住，我嚟遲咗。— 冇問題，大家都未開始。"
+  },
+  {
+    "filename": "mou5man6tai4-no-problem-example-4",
+    "id": "mou5man6tai4-no-problem-example-4",
+    "text": "你需要幫手清潔屋企？— 冇問題，我今晚得閒。"
+  },
+  {
+    "filename": "on1paai4-arrange",
+    "id": "on1paai4-arrange",
+    "text": "安排"
+  },
+  {
+    "filename": "on1paai4-arrange-example-1",
+    "id": "on1paai4-arrange-example-1",
+    "text": "我幫你安排咗下午嘅會議。"
+  },
+  {
+    "filename": "on1paai4-arrange-example-2",
+    "id": "on1paai4-arrange-example-2",
+    "text": "你安排咗旅行嘅時間未？"
+  },
+  {
+    "filename": "on1paai4-arrange-example-3",
+    "id": "on1paai4-arrange-example-3",
+    "text": "公司會安排專人嚟幫我哋安裝設備。"
+  },
+  {
+    "filename": "on1paai4-arrange-example-4",
+    "id": "on1paai4-arrange-example-4",
+    "text": "記得安排好明天嘅行程，唔好遲到。"
+  },
+  {
+    "filename": "pui3hap6-cooperate",
+    "id": "pui3hap6-cooperate",
+    "text": "配合"
+  },
+  {
+    "filename": "pui3hap6-cooperate-example-1",
+    "id": "pui3hap6-cooperate-example-1",
+    "text": "我哋需要配合埋呢個計劃嘅時間表。"
+  },
+  {
+    "filename": "pui3hap6-cooperate-example-2",
+    "id": "pui3hap6-cooperate-example-2",
+    "text": "你可唔可以配合我哋嘅工作安排？"
+  },
+  {
+    "filename": "pui3hap6-cooperate-example-3",
+    "id": "pui3hap6-cooperate-example-3",
+    "text": "大家配合返，先做得快啲。"
+  },
+  {
+    "filename": "pui3hap6-cooperate-example-4",
+    "id": "pui3hap6-cooperate-example-4",
+    "text": "呢個方案需要同其他部門配合先得。"
+  },
+  {
+    "filename": "san1cing2-apply",
+    "id": "san1cing2-apply",
+    "text": "申請"
+  },
+  {
+    "filename": "san1cing2-apply-example-1",
+    "id": "san1cing2-apply-example-1",
+    "text": "我打算申請大學嘅獎學金。"
+  },
+  {
+    "filename": "san1cing2-apply-example-2",
+    "id": "san1cing2-apply-example-2",
+    "text": "佢已經申請咗工作簽證。"
+  },
+  {
+    "filename": "san1cing2-apply-example-3",
+    "id": "san1cing2-apply-example-3",
+    "text": "你記得喺截止日期之前申請假期。"
+  },
+  {
+    "filename": "san1cing2-apply-example-4",
+    "id": "san1cing2-apply-example-4",
+    "text": "我哋要去申請新嘅身份證。"
+  },
+  {
+    "filename": "sau1gung1-finish-work",
+    "id": "sau1gung1-finish-work",
+    "text": "收工"
+  },
+  {
+    "filename": "sau1gung1-finish-work-example-1",
+    "id": "sau1gung1-finish-work-example-1",
+    "text": "我哋今日五點鐘收工。"
+  },
+  {
+    "filename": "sau1gung1-finish-work-example-2",
+    "id": "sau1gung1-finish-work-example-2",
+    "text": "做咗一日嘅嘢，好想快啲收工返屋企。"
+  },
+  {
+    "filename": "sau1gung1-finish-work-example-3",
+    "id": "sau1gung1-finish-work-example-3",
+    "text": "收工之前記得檢晒啲文件。"
+  },
+  {
+    "filename": "sau1gung1-finish-work-example-4",
+    "id": "sau1gung1-finish-work-example-4",
+    "text": "嗰個活動完咗，我哋就可以收工啦。"
+  },
+  {
+    "filename": "si3jung6kei4-probation",
+    "id": "si3jung6kei4-probation",
+    "text": "試用期"
+  },
+  {
+    "filename": "si3jung6kei4-probation-example-1",
+    "id": "si3jung6kei4-probation-example-1",
+    "text": "我喺呢間公司嘅試用期仲未完，要繼續努力。"
+  },
+  {
+    "filename": "si3jung6kei4-probation-example-2",
+    "id": "si3jung6kei4-probation-example-2",
+    "text": "通常試用期係三個月，如果表現唔好，公司可以即刻解僱。"
+  },
+  {
+    "filename": "si3jung6kei4-probation-example-3",
+    "id": "si3jung6kei4-probation-example-3",
+    "text": "我哋喺試用期內唔會享有全部嘅員工福利。"
+  },
+  {
+    "filename": "si3jung6kei4-probation-example-4",
+    "id": "si3jung6kei4-probation-example-4",
+    "text": "試用期結束之後，你先至可以申請年假同加薪。"
+  },
+  {
+    "filename": "soeng1loeng6-discuss",
+    "id": "soeng1loeng6-discuss",
+    "text": "商量"
+  },
+  {
+    "filename": "soeng1loeng6-discuss-example-1",
+    "id": "soeng1loeng6-discuss-example-1",
+    "text": "我哋需要商量下下星期嘅計劃。"
+  },
+  {
+    "filename": "soeng1loeng6-discuss-example-2",
+    "id": "soeng1loeng6-discuss-example-2",
+    "text": "買樓之前最好同銀行商量下貸款嘅條件。"
+  },
+  {
+    "filename": "soeng1loeng6-discuss-example-3",
+    "id": "soeng1loeng6-discuss-example-3",
+    "text": "我地唔好咁快決定，要先商量清楚。"
+  },
+  {
+    "filename": "soeng1loeng6-discuss-example-4",
+    "id": "soeng1loeng6-discuss-example-4",
+    "text": "佢哋兩家嘅父母會為婚事商量。"
+  },
+  {
+    "filename": "soeng6si1-supervisor",
+    "id": "soeng6si1-supervisor",
+    "text": "上司"
+  },
+  {
+    "filename": "soeng6si1-supervisor-example-1",
+    "id": "soeng6si1-supervisor-example-1",
+    "text": "我哋嘅上司今日開咗個重要會議。"
+  },
+  {
+    "filename": "soeng6si1-supervisor-example-2",
+    "id": "soeng6si1-supervisor-example-2",
+    "text": "上司叫我加快完成報告。"
+  },
+  {
+    "filename": "soeng6si1-supervisor-example-3",
+    "id": "soeng6si1-supervisor-example-3",
+    "text": "如果你有問題，可以問你的上司。"
+  },
+  {
+    "filename": "soeng6si1-supervisor-example-4",
+    "id": "soeng6si1-supervisor-example-4",
+    "text": "我對呢位上司感覺幾有信心。"
+  },
+  {
+    "filename": "tung4si6-colleague",
+    "id": "tung4si6-colleague",
+    "text": "同事"
+  },
+  {
+    "filename": "tung4si6-colleague-example-1",
+    "id": "tung4si6-colleague-example-1",
+    "text": "我啱啱換咗新部門，同事哋都幾好相處。"
+  },
+  {
+    "filename": "tung4si6-colleague-example-2",
+    "id": "tung4si6-colleague-example-2",
+    "text": "同事叫我今晚食飯，一齊傾吓計。"
+  },
+  {
+    "filename": "tung4si6-colleague-example-3",
+    "id": "tung4si6-colleague-example-3",
+    "text": "喺辦公室，同事之間要互相尊重。"
+  },
+  {
+    "filename": "tung4si6-colleague-example-4",
+    "id": "tung4si6-colleague-example-4",
+    "text": "新加入嘅同事好快就融入咗我哋團隊。"
+  },
+  {
+    "filename": "zaak3jam6-responsibility",
+    "id": "zaak3jam6-responsibility",
+    "text": "責任"
+  },
+  {
+    "filename": "zaak3jam6-responsibility-example-1",
+    "id": "zaak3jam6-responsibility-example-1",
+    "text": "每個人都應該對自己嘅行為負起責任。"
+  },
+  {
+    "filename": "zaak3jam6-responsibility-example-2",
+    "id": "zaak3jam6-responsibility-example-2",
+    "text": "做呢份工，責任重大，唔可以馬虎。"
+  },
+  {
+    "filename": "zaak3jam6-responsibility-example-3",
+    "id": "zaak3jam6-responsibility-example-3",
+    "text": "佢推晒責任畀其他人，冇做自己應該做嘅嘢。"
+  },
+  {
+    "filename": "zaak3jam6-responsibility-example-4",
+    "id": "zaak3jam6-responsibility-example-4",
+    "text": "父母有責任教導子女做人嘅道理。"
+  },
+  {
+    "filename": "zap1hang4-carry-out",
+    "id": "zap1hang4-carry-out",
+    "text": "執行"
+  },
+  {
+    "filename": "zap1hang4-carry-out-example-1",
+    "id": "zap1hang4-carry-out-example-1",
+    "text": "我哋需要盡快執行呢個計劃。"
+  },
+  {
+    "filename": "zap1hang4-carry-out-example-2",
+    "id": "zap1hang4-carry-out-example-2",
+    "text": "上司叫我執行新嘅政策。"
+  },
+  {
+    "filename": "zap1hang4-carry-out-example-3",
+    "id": "zap1hang4-carry-out-example-3",
+    "text": "執行呢個任務需要團隊合作。"
+  },
+  {
+    "filename": "zap1hang4-carry-out-example-4",
+    "id": "zap1hang4-carry-out-example-4",
+    "text": "佢負責執行所有嘅安全程序。"
+  },
+  {
+    "filename": "zeon3bou6-progress",
+    "id": "zeon3bou6-progress",
+    "text": "進步"
+  },
+  {
+    "filename": "zeon3bou6-progress-example-1",
+    "id": "zeon3bou6-progress-example-1",
+    "text": "你嘅粵語有好大嘅進步，繼續努力。"
+  },
+  {
+    "filename": "zeon3bou6-progress-example-2",
+    "id": "zeon3bou6-progress-example-2",
+    "text": "公司最近嘅業績有明顯嘅進步。"
+  },
+  {
+    "filename": "zeon3bou6-progress-example-3",
+    "id": "zeon3bou6-progress-example-3",
+    "text": "學習進步慢啲都冇問題，最緊要係持續努力。"
+  },
+  {
+    "filename": "zeon3bou6-progress-example-4",
+    "id": "zeon3bou6-progress-example-4",
+    "text": "醫生話你嘅身體狀況比上次有進步。"
+  },
+  {
+    "filename": "zik1wai6-position",
+    "id": "zik1wai6-position",
+    "text": "職位"
+  },
+  {
+    "filename": "zik1wai6-position-example-1",
+    "id": "zik1wai6-position-example-1",
+    "text": "佢而家嘅職位係市場經理。"
+  },
+  {
+    "filename": "zik1wai6-position-example-2",
+    "id": "zik1wai6-position-example-2",
+    "text": "你申請嗰個職位要咩資格？"
+  },
+  {
+    "filename": "zik1wai6-position-example-3",
+    "id": "zik1wai6-position-example-3",
+    "text": "升職後佢嘅職位有好多責任。"
+  },
+  {
+    "filename": "zik1wai6-position-example-4",
+    "id": "zik1wai6-position-example-4",
+    "text": "呢間公司嘅職位大多數係全職嘅。"
+  },
+  {
+    "filename": "zik1zaak3-duties",
+    "id": "zik1zaak3-duties",
+    "text": "職責"
+  },
+  {
+    "filename": "zik1zaak3-duties-example-1",
+    "id": "zik1zaak3-duties-example-1",
+    "text": "老闆今日俾左我啲新職責。"
+  },
+  {
+    "filename": "zik1zaak3-duties-example-2",
+    "id": "zik1zaak3-duties-example-2",
+    "text": "你要清楚自己嘅職責係乜嘢。"
+  },
+  {
+    "filename": "zik1zaak3-duties-example-3",
+    "id": "zik1zaak3-duties-example-3",
+    "text": "分工合作，每個人都要做好自己嘅職責。"
+  },
+  {
+    "filename": "zik1zaak3-duties-example-4",
+    "id": "zik1zaak3-duties-example-4",
+    "text": "完成職責之後，佢就可以申請假期。"
+  },
+  {
+    "filename": "zip3sau1-receive",
+    "id": "zip3sau1-receive",
+    "text": "接收"
+  },
+  {
+    "filename": "zip3sau1-receive-example-1",
+    "id": "zip3sau1-receive-example-1",
+    "text": "我今日會去你公司接收呢批貨。"
+  },
+  {
+    "filename": "zip3sau1-receive-example-2",
+    "id": "zip3sau1-receive-example-2",
+    "text": "你收到電郵就代表你已經接收咗通知。"
+  },
+  {
+    "filename": "zip3sau1-receive-example-3",
+    "id": "zip3sau1-receive-example-3",
+    "text": "佢哋正式接收呢份文件後，先會開始執行計劃。"
+  },
+  {
+    "filename": "zip3sau1-receive-example-4",
+    "id": "zip3sau1-receive-example-4",
+    "text": "請你喺門口接收包裹，唔好俾佢哋亂拎走。"
+  },
+  {
+    "filename": "zoi3tai2haa5-check-again",
+    "id": "zoi3tai2haa5-check-again",
+    "text": "再睇下"
+  },
+  {
+    "filename": "zoi3tai2haa5-check-again-example-1",
+    "id": "zoi3tai2haa5-check-again-example-1",
+    "text": "我哋再睇下呢份報告先，睇吓有冇錯。"
+  },
+  {
+    "filename": "zoi3tai2haa5-check-again-example-2",
+    "id": "zoi3tai2haa5-check-again-example-2",
+    "text": "你可以再睇下部機嘅設定，確保冇遺漏。"
+  },
+  {
+    "filename": "zoi3tai2haa5-check-again-example-3",
+    "id": "zoi3tai2haa5-check-again-example-3",
+    "text": "我會再睇下你準備嘅資料，確保一切齊全。"
+  },
+  {
+    "filename": "zoi3tai2haa5-check-again-example-4",
+    "id": "zoi3tai2haa5-check-again-example-4",
+    "text": "辦公室嘅文件我再睇下，確認冇漏嘢先交出去。"
+  },
+  {
+    "filename": "zou6dak1m4co3-did-well",
+    "id": "zou6dak1m4co3-did-well",
+    "text": "做得唔錯"
+  },
+  {
+    "filename": "zou6dak1m4co3-did-well-example-1",
+    "id": "zou6dak1m4co3-did-well-example-1",
+    "text": "你今次報告做得唔錯，繼續努力呀！"
+  },
+  {
+    "filename": "zou6dak1m4co3-did-well-example-2",
+    "id": "zou6dak1m4co3-did-well-example-2",
+    "text": "雖然唔係完美，但你做得唔錯，唔好灰心。"
+  },
+  {
+    "filename": "zou6dak1m4co3-did-well-example-3",
+    "id": "zou6dak1m4co3-did-well-example-3",
+    "text": "學生答問題做得唔錯，老師好滿意。"
+  },
+  {
+    "filename": "zou6dak1m4co3-did-well-example-4",
+    "id": "zou6dak1m4co3-did-well-example-4",
+    "text": "呢次演講你準備得好充分，表現做得唔錯。"
   }
 ]

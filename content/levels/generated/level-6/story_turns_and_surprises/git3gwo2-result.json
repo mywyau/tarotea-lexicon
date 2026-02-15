@@ -1,0 +1,68 @@
+{
+  "id": "git3gwo2-result",
+  "word": "結果",
+  "jyutping": "git3 gwo2",
+  "meaning": "as a result",
+  "pos": [
+    "phrase",
+    "connector",
+    "expression"
+  ],
+  "usage": [
+    "The phrase is used to indicate the outcome or consequence of an event or action.",
+    "It commonly appears in narrative contexts to show how a situation unfolds or what happened in the end.",
+    "It can be placed at the beginning, middle, or end of a sentence depending on the emphasis.",
+    "It helps link cause and effect smoothly in storytelling or explanations.",
+    "It is often used in both formal and informal spoken Cantonese."
+  ],
+  "examples": [
+    {
+      "id": "git3gwo2-result-example-1",
+      "sentence": "我以為考試好簡單，結果考得唔理想。",
+      "jyutping": "ngo5 ji5wai6 haau2si5 hou2 gaan2daan1, git3 gwo2 haau2 dak1 m4 lei5soeng4.",
+      "meaning": "I thought the exam was easy, but as a result, I didn't do well."
+    },
+    {
+      "id": "git3gwo2-result-example-2",
+      "sentence": "佢遲咗起身，結果遲到咗公司。",
+      "jyutping": "keoi5 ci4 zo2 hei2 san1, git3 gwo2 ci4 dou3 zo2 gung1si1.",
+      "meaning": "He got up late, and as a result, was late for the company."
+    },
+    {
+      "id": "git3gwo2-result-example-3",
+      "sentence": "我地一路行一路睇風景，結果迷路咗。",
+      "jyutping": "ngo5dei6 jat1lou6 haang4 jat1lou6 tai2 fung1ging2, git3 gwo2 mai4 lou6 zo2.",
+      "meaning": "We were walking while enjoying the scenery, and as a result, got lost."
+    },
+    {
+      "id": "git3gwo2-result-example-4",
+      "sentence": "你唔聽我講，結果出錯咗。",
+      "jyutping": "nei5 m4 teng1 ngo5 gong2, git3 gwo2 ceot1 co3 zo2.",
+      "meaning": "You didn’t listen to me, and as a result, made a mistake."
+    }
+  ],
+  "audio": {
+    "word": "git3gwo2-result.mp3",
+    "examples": [
+      "git3gwo2-result-example-1.mp3",
+      "git3gwo2-result-example-2.mp3",
+      "git3gwo2-result-example-3.mp3",
+      "git3gwo2-result-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "advanced",
+    "connector",
+    "cause-and-effect",
+    "storytelling",
+    "spoken-cantonese",
+    "level-6"
+  ],
+  "related": [
+    "因為 (jan1wai6)",
+    "所以 (so2ji5)",
+    "最後 (zeoi6hau6)",
+    "於是 (jyu1si6)",
+    "造成 (zou6sing4)"
+  ]
+}
