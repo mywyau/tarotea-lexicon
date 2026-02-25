@@ -2,41 +2,66 @@
   "id": "git3gwo2-result",
   "word": "結果",
   "jyutping": "git3 gwo2",
-  "meaning": "result / outcome",
-
-  "pos": ["noun"],
-
-  "usage": [
-    "Used to describe the outcome of an action or event"
+  "meaning": "as a result",
+  "pos": [
+    "expression",
+    "connector"
   ],
-
+  "usage": [
+    "This expression is used to indicate the consequence or outcome of a previous action or event.",
+    "It often serves as a linking word to connect cause and effect in a sentence.",
+    "You can use it to summarize results or to emphasize what happened eventually after a series of events.",
+    "It frequently appears in both formal and informal spoken Cantonese and is suitable for narrative storytelling.",
+    "In conversation, it can appear at the beginning or middle of a sentence to shift focus to the resulting situation."
+  ],
   "examples": [
     {
       "id": "git3gwo2-result-example-1",
-      "sentence": "結果好唔同。",
-      "jyutping": "git3 gwo2 hou2 m4 tung4",
-      "meaning": "The result is very different."
+      "sentence": "我哋努力咗咁耐，結果都冇成功。",
+      "jyutping": "ngo5 dei6 nou5 lik6 zo2 gam2 noi6, git3 gwo2 dou1 mou5 sing4 gung1.",
+      "meaning": "We worked hard for so long, but as a result, we still did not succeed."
     },
     {
       "id": "git3gwo2-result-example-2",
-      "sentence": "我哋等結果。",
-      "jyutping": "ngo5 dei6 dang2 git3 gwo2",
-      "meaning": "We’re waiting for the result."
+      "sentence": "你唔聽我講，結果出事喇。",
+      "jyutping": "nei5 m4 teng1 ngo5 gong2, git3 gwo2 ceot1 si6 laa3.",
+      "meaning": "You didn’t listen to me; as a result, something went wrong."
+    },
+    {
+      "id": "git3gwo2-result-example-3",
+      "sentence": "結果佢冇嚟參加聚會，好可惜。",
+      "jyutping": "git3 gwo2 keoi5 mou5 lai4 caam1 gaa1 zeoi6 wui5, hou2 ho2 sik1.",
+      "meaning": "As a result, he didn’t come to the gathering, which was a shame."
+    },
+    {
+      "id": "git3gwo2-result-example-4",
+      "sentence": "我試吓唔食甜嘢，結果精神好多咗。",
+      "jyutping": "ngo5 si3 haa5 m4 sik6 tim4 je5, git3 gwo2 zing1 san4 hou2 do1 zo2.",
+      "meaning": "I tried not eating sweets; as a result, I felt much more energetic."
     }
   ],
-
   "audio": {
     "word": "git3gwo2-result.mp3",
     "examples": [
       "git3gwo2-result-example-1.mp3",
-      "git3gwo2-result-example-2.mp3"
+      "git3gwo2-result-example-2.mp3",
+      "git3gwo2-result-example-3.mp3",
+      "git3gwo2-result-example-4.mp3"
     ]
   },
-
-  "tags": ["noun", "level-2", "logic"],
-
+  "tags": [
+    "advanced",
+    "story_turns_and_surprises",
+    "connector",
+    "consequence",
+    "narrative",
+    "level-6"
+  ],
   "related": [
-    "jyun4jan1-reason",
-    "man6tai4-problem"
+    "結果喇 (git3 gwo2 laa3)",
+    "於是 (jyu1 si6)",
+    "所以 (so2 ji5)",
+    "後果 (hau6 gwo2)",
+    "最後 (zeoi3 hau6)"
   ]
 }

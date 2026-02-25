@@ -3,41 +3,63 @@
   "word": "記得",
   "jyutping": "gei3 dak1",
   "meaning": "to remember",
-
-  "pos": ["verb"],
-
-  "usage": [
-    "Used to recall information, events, or tasks",
-    "Often paired with 未 / 唔 to indicate memory state"
+  "pos": [
+    "expression"
   ],
-
+  "usage": [
+    "The expression is commonly used to indicate the act of recalling information or events.",
+    "It is often used before giving instructions or reminders to ensure the listener keeps the information in mind.",
+    "This phrase can appear in both formal and informal contexts, making it versatile in everyday conversation.",
+    "It can be followed by a verb or a clause with 'to' to specify what needs to be remembered.",
+    "In questions, it is used to ask if someone recalls a fact or event."
+  ],
   "examples": [
     {
       "id": "gei3dak1-remember-example-1",
-      "sentence": "你記得佢個名嗎？",
-      "jyutping": "nei5 gei3 dak1 keoi5 go3 meng2 maa3",
-      "meaning": "Do you remember his/her name?"
+      "sentence": "你記得帶護照未？",
+      "jyutping": "nei5 gei3 dak1 daai3 wu6 ziu3 mei6?",
+      "meaning": "Do you remember to bring your passport yet?"
     },
     {
       "id": "gei3dak1-remember-example-2",
-      "sentence": "我記得你講過。",
-      "jyutping": "ngo5 gei3 dak1 nei5 gong2 gwo3",
-      "meaning": "I remember you said that."
+      "sentence": "我記得上次嗰次旅行好開心。",
+      "jyutping": "ngo5 gei3 dak1 soeng6 ci3 go2 ci3 leoi5 hang4 hou2 hoi1 sam1.",
+      "meaning": "I remember the last trip was very fun."
+    },
+    {
+      "id": "gei3dak1-remember-example-3",
+      "sentence": "記得買蛋糕慶祝生日！",
+      "jyutping": "gei3 dak1 maai5 daan6 gou1 hing3 zuk1 saang1 jat6!",
+      "meaning": "Remember to buy a cake to celebrate the birthday!"
+    },
+    {
+      "id": "gei3dak1-remember-example-4",
+      "sentence": "你記得佢叫咩名？",
+      "jyutping": "nei5 gei3 dak1 keoi5 giu3 me1 meng2?",
+      "meaning": "Do you remember what his/her name is?"
     }
   ],
-
   "audio": {
     "word": "gei3dak1-remember.mp3",
     "examples": [
       "gei3dak1-remember-example-1.mp3",
-      "gei3dak1-remember-example-2.mp3"
+      "gei3dak1-remember-example-2.mp3",
+      "gei3dak1-remember-example-3.mp3",
+      "gei3dak1-remember-example-4.mp3"
     ]
   },
-
-  "tags": ["verb", "level-2", "memory", "core"],
-
+  "tags": [
+    "memory",
+    "reminder",
+    "common phrase",
+    "conversation",
+    "recall",
+    "level-6"
+  ],
   "related": [
-    "mong4gei3-forget",
-    "ming4baak6-understand"
+    "諗起 (nam2 hei2)",
+    "記憶 (gei3 jik1)",
+    "提醒 (tai4 sing2)",
+    "記錄 (gei3 luk6)"
   ]
 }

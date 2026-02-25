@@ -3,35 +3,64 @@
   "word": "其實",
   "jyutping": "kei4 sat6",
   "meaning": "actually",
-
-  "pos": ["adverb"],
-
-  "usage": [
-    "Used to introduce a clarification, correction, or contrast",
-    "Often softens disagreement or adds new information",
-    "Very common in spoken Cantonese"
+  "pos": [
+    "expression"
   ],
-
+  "usage": [
+    "The expression is used to introduce a fact that may contrast with what was previously assumed or implied.",
+    "It can be placed at the beginning of a sentence to gently correct, clarify, or add information.",
+    "It often signals a shift from a common belief or expectation to the speaker’s actual opinion or fact.",
+    "This phrase is usually followed by a complete sentence and functions as a discourse marker.",
+    "It is common in both formal and informal speech to highlight the truth behind a misconception."
+  ],
   "examples": [
     {
       "id": "kei4sat6-actually-example-1",
-      "sentence": "其實我一早就知道。",
-      "jyutping": "kei4 sat6 ngo5 jat1 zou2 zau6 zi1 dou3",
-      "meaning": "Actually, I knew a long time ago."
+      "sentence": "其實我今日唔係好舒服。",
+      "jyutping": "kei4 sat6 ngo5 gam1 jat6 m4 hai6 hou2 syu1 fuk6.",
+      "meaning": "Actually, I’m not feeling well today."
     },
     {
       "id": "kei4sat6-actually-example-2",
-      "sentence": "我以為好難，其實都幾簡單。",
-      "jyutping": "ngo5 ji5 wai4 hou2 naan4, kei4 sat6 dou1 gei2 gaan2 daan1",
-      "meaning": "I thought it was difficult, but actually it’s quite simple."
+      "sentence": "你以為佢唔嚟， 其實佢已經到咗。",
+      "jyutping": "nei5 ji5 wai4 keoi5 m4 lai4, kei4 sat6 keoi5 ji5 ging1 dou3 zo2.",
+      "meaning": "You thought he wasn’t coming, actually he has already arrived."
+    },
+    {
+      "id": "kei4sat6-actually-example-3",
+      "sentence": "我以為好難學， 其實好簡單。",
+      "jyutping": "ngo5 ji5 wai4 hou2 naan4 hok6, kei4 sat6 hou2 gaan2 daan1.",
+      "meaning": "I thought it was hard to learn, but actually it’s very easy."
+    },
+    {
+      "id": "kei4sat6-actually-example-4",
+      "sentence": "佢話唔喺度， 其實佢喺隔離房。",
+      "jyutping": "keoi5 waa6 m4 hai2 dou6, kei4 sat6 keoi5 hai2 gaak3 lei4 fong2.",
+      "meaning": "He said he is not here, but actually he’s in the next room."
     }
   ],
-
   "audio": {
     "word": "kei4sat6-actually.mp3",
     "examples": [
       "kei4sat6-actually-example-1.mp3",
-      "kei4sat6-actually-example-2.mp3"
+      "kei4sat6-actually-example-2.mp3",
+      "kei4sat6-actually-example-3.mp3",
+      "kei4sat6-actually-example-4.mp3"
     ]
-  }
+  },
+  "tags": [
+    "advanced",
+    "expression",
+    "contrast",
+    "discourse marker",
+    "clarification",
+    "level-6"
+  ],
+  "related": [
+    "事實上 (si6 sat6 soeng6)",
+    "實際上 (sat6 zai3 soeng6)",
+    "其實係 (kei4 sat6 hai6)",
+    "唔係咁 (m4 hai6 gam2)",
+    "原來 (jyun4 loi4)"
+  ]
 }

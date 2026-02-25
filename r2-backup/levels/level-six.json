@@ -1,14 +1,14 @@
 {
   "level": 6,
   "title": "Level 6 – Storytelling and narration",
-  "description": "Tell stories, describe past experiences, and explain events clearly and naturally in spoken Cantonese.",
+  "description": "Tell stories, describe past experiences, and explain events clearly.",
   "categories": {
     "narration_and_sequence": [
       { "id": "sau2sin1-first", "word": "首先", "jyutping": "sau2 sin1", "meaning": "first of all" },
       { "id": "jat1hoi1ci2-at-first", "word": "一開始", "jyutping": "jat1 hoi1 ci2", "meaning": "at the beginning" },
       { "id": "gan1zyu6-next", "word": "跟住", "jyutping": "gan1 zyu6", "meaning": "then / next" },
       { "id": "gan1zyu6zi1hau6-after-that", "word": "跟住之後", "jyutping": "gan1 zyu6 zi1 hau6", "meaning": "after that" },
-      { "id": "zoi3hau6-afterwards", "word": "再之後", "jyutping": "zoi3 zi1 hau6", "meaning": "afterwards / later on" },
+      { "id": "zoi3zi1hau6-afterwards", "word": "再之後", "jyutping": "zoi3 zi1 hau6", "meaning": "afterwards / later on" },
       { "id": "zeoi3hau6-finally", "word": "最後", "jyutping": "zeoi3 hau6", "meaning": "finally" },
       { "id": "tung4si4-at-the-same-time", "word": "同時", "jyutping": "tung4 si4", "meaning": "at the same time" },
       { "id": "maan6maan6-gradually", "word": "慢慢", "jyutping": "maan6 maan6", "meaning": "gradually" },
@@ -22,7 +22,7 @@
       { "id": "jat1baan1lai4gong2-generally", "word": "一般嚟講", "jyutping": "jat1 bun1 lei4 gong2", "meaning": "generally speaking" },
       { "id": "soeng6ci3-last-time", "word": "上次", "jyutping": "soeng6 ci3", "meaning": "last time" },
       { "id": "jau5jat1ci3-one-time", "word": "有一次", "jyutping": "jau5 jat1 ci3", "meaning": "once / there was one time" },
-      { "id": "jat1jat6-one-day", "word": "有一日", "jyutping": "jau5 jat1 jat6", "meaning": "one day…" }
+      { "id": "jau5jat1jat6-one-day", "word": "有一日", "jyutping": "jau5 jat1 jat6", "meaning": "one day…" }
     ],
 
     "events_and_experiences": [
@@ -32,7 +32,7 @@
       { "id": "wui4soeng2-think-back", "word": "回想", "jyutping": "wui4 soeng2", "meaning": "to recall / think back" },
       { "id": "gei3dak1-remember", "word": "記得", "jyutping": "gei3 dak1", "meaning": "to remember" },
       { "id": "m4gei3dak1-forget", "word": "唔記得", "jyutping": "m4 gei3 dak1", "meaning": "to forget" },
-      { "id": "soeng2faan1-hei2-suddenly-recall", "word": "想返起", "jyutping": "soeng2 faan1 hei2", "meaning": "to suddenly remember" }
+      {"id": "dat6jin4soeng2faan1hei2-suddenly-remember","word": "突然想返起","jyutping": "dat6 jin4 soeng2 faan1 hei2","meaning": "to suddenly remember / to suddenly recall"}
     ],
 
     "describing_and_detail": [
@@ -41,7 +41,7 @@
       { "id": "jing4jung4-describe", "word": "形容", "jyutping": "jing4 jung4", "meaning": "to describe" },
       { "id": "waa2min6-scene-image", "word": "畫面", "jyutping": "waa2 min6", "meaning": "scene / mental picture" },
       { "id": "gan2zoeng1-tense", "word": "緊張", "jyutping": "gan2 zoeng1", "meaning": "tense / nervous" },
-      { "id": "hung1hei3-atmosphere", "word": "氣氛", "jyutping": "hei3 fan1", "meaning": "atmosphere" }
+      { "id": "hei3fan1-atmosphere", "word": "氣氛", "jyutping": "hei3 fan1", "meaning": "atmosphere" }
     ],
 
     "story_turns_and_surprises": [
@@ -50,7 +50,7 @@
       { "id": "hou2coi2-luckily", "word": "好彩", "jyutping": "hou2 coi2", "meaning": "luckily / fortunately" },
       { "id": "caam2laa1-oh-no", "word": "慘啦", "jyutping": "caam2 laa1", "meaning": "oh no / that’s bad" },
       { "id": "git3gwo2-result", "word": "結果", "jyutping": "git3 gwo2", "meaning": "as a result" },
-      { "id": "zui3hou6-ends-up", "word": "最後變咗", "jyutping": "zeoi3 hau6 bin3 zo2", "meaning": "in the end it became…" }
+      { "id": "zeoi3hau6bin3zo2-ends-up", "word": "最後變咗", "jyutping": "zeoi3 hau6 bin3 zo2", "meaning": "in the end it became…" }
     ],
 
     "spoken_story_connectors": [
@@ -66,7 +66,24 @@
       { "id": "wui4soeng2hei2-looking-back", "word": "回想起", "jyutping": "wui4 soeng2 hei2", "meaning": "looking back on it" },
       { "id": "gaan2daan1lei4gong2-in-short", "word": "簡單嚟講", "jyutping": "gaan2 daan1 lei4 gong2", "meaning": "simply speaking / in short" },
       { "id": "zung2tai2lei4tai2-overall", "word": "總體嚟睇", "jyutping": "zung2 tai2 lei4 tai2", "meaning": "overall speaking" },
-      { "id": "dou1算係-jat1go3lesson", "word": "都算係一個教訓", "jyutping": "dou1 syun3 hai6 jat1 go3 gaau3 fan3", "meaning": "it was a lesson learned" }
+      { "id": "dou1syun3hai6jat1go3gaau3fan3-lesson", "word": "都算係一個教訓", "jyutping": "dou1 syun3 hai6 jat1 go3 gaau3 fan3", "meaning": "it was a lesson learned" }
+    ],
+
+    "contrast_and_shift": [
+      { "id": "bat1gwo3-but", "word": "不過", "jyutping": "bat1 gwo3", "meaning": "but / however" },
+      { "id": "daan6-but", "word": "但係", "jyutping": "daan6 hai6", "meaning": "but (spoken)" },
+      { "id": "kei4sat6-actually", "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually" },
+      { "id": "jyun4loi4hai6-turned-out-to-be", "word": "原來係", "jyutping": "jyun4 loi4 hai6", "meaning": "it turned out to be" },
+      { "id": "faan1zi2-instead", "word": "反而", "jyutping": "faan2 ji4", "meaning": "instead / on the contrary" },
+      { "id": "zung6ji6-even-more", "word": "仲", "jyutping": "zung6", "meaning": "even / even more" }
+    ],
+
+    "dialogue_and_reporting": [
+      { "id": "waa6-say", "word": "話", "jyutping": "waa6", "meaning": "to say" },
+      { "id": "waa6gei2ngo5ting1-told-me", "word": "話俾我聽", "jyutping": "waa6 bei2 ngo5 teng1", "meaning": "told me" },
+      { "id": "man6ngo5-asked-me", "word": "問我", "jyutping": "man6 ngo5", "meaning": "asked me" },
+      { "id": "ngo5nam2-i-thought", "word": "我諗", "jyutping": "ngo5 nam2", "meaning": "I thought (I think / I was thinking)" },
+      { "id": "ngo5sam1nam2-i-was-thinking", "word": "我心諗", "jyutping": "ngo5 sam1 nam2", "meaning": "I was thinking" }
     ]
   }
 }
