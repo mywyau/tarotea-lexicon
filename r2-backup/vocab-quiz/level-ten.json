@@ -1,0 +1,288 @@
+{
+  "level": 10,
+  "title": "Level 10 – Fluent casual Cantonese",
+  "description": "Speak naturally, react instinctively, and handle fast, casual conversations like a native Cantonese speaker.",
+  "categories": {
+    "casual_emotions_and_attitudes": [
+      {
+        "id": "hou2faan4-so-annoying",
+        "word": "好煩",
+        "jyutping": "hou2 faan4",
+        "meaning": "so annoying"
+      },
+      {
+        "id": "syun3baa6laa1-forget-it",
+        "word": "算吧啦",
+        "jyutping": "syun3 baa6 laa1",
+        "meaning": "forget it (casual resignation)"
+      },
+      {
+        "id": "m4lei5laa1-whatever",
+        "word": "唔理啦",
+        "jyutping": "m4 lei5 laa1",
+        "meaning": "whatever / I’m not dealing with it"
+      },
+      {
+        "id": "ding2dak1zyu6-can-handle-it",
+        "word": "頂得住",
+        "jyutping": "ding2 dak1 zyu6",
+        "meaning": "can handle it / endure"
+      },
+      {
+        "id": "gaau2siu3-ridiculous-funny",
+        "word": "搞笑",
+        "jyutping": "gaau2 siu3",
+        "meaning": "funny / ridiculous"
+      },
+      {
+        "id": "mei6zi3jyu1-not-that-bad",
+        "word": "未至於嘅",
+        "jyutping": "mei6 zi3 jyu1 ge3",
+        "meaning": "not that bad / not to that extent"
+      },
+      {
+        "id": "gam3jau6m4hai6-not-exactly",
+        "word": "咁又唔係",
+        "jyutping": "gam3 jau6 m4 hai6",
+        "meaning": "it’s not exactly like that"
+      }
+    ],
+
+    "conversation_flow_and_fillers": [
+      {
+        "id": "zik1hai6waa6-in-other-words",
+        "word": "即係話",
+        "jyutping": "zik1 hai6 waa6",
+        "meaning": "that means / in other words"
+      },
+      {
+        "id": "kei4sat6ne1-actually-opening",
+        "word": "其實呢",
+        "jyutping": "kei4 sat6 ne1",
+        "meaning": "actually (soft opening)"
+      },
+      {
+        "id": "nei5zi1laa1-you-know",
+        "word": "你知啦",
+        "jyutping": "nei5 zi1 laa1",
+        "meaning": "you know (shared understanding)"
+      },
+      {
+        "id": "hai6gam3sin1-leave-it-there",
+        "word": "係咁先",
+        "jyutping": "hai6 gam3 sin1",
+        "meaning": "that’s it for now / leave it there"
+      },
+      {
+        "id": "waa6si4waa6-by-the-way",
+        "word": "話時話",
+        "jyutping": "waa6 si4 waa6",
+        "meaning": "by the way"
+      },
+      {
+        "id": "nei5ming4m4ming4ngo5ji3si1-do-you-get-me",
+        "word": "你明唔明我意思？",
+        "jyutping": "nei5 ming4 m4 ming4 ngo5 ji3 si1",
+        "meaning": "do you get what I mean?"
+      },
+      {
+        "id": "gam3joeng6laa1-how-about-this",
+        "word": "咁樣啦",
+        "jyutping": "gam3 joeng6 laa1",
+        "meaning": "how about this (suggesting casually)"
+      }
+    ],
+
+    "fast_speech_shortcuts": [
+      {
+        "id": "m4gei3dak1laa3-forgot-already",
+        "word": "唔記得喇",
+        "jyutping": "m4 gei3 dak1 laa3",
+        "meaning": "I forgot already"
+      },
+      {
+        "id": "syun3laa1syun3laa1-let-it-go",
+        "word": "算啦算啦",
+        "jyutping": "syun3 laa1 syun3 laa1",
+        "meaning": "let it go, let it go"
+      },
+      {
+        "id": "ci4di1zoi3syun3-deal-with-it-later",
+        "word": "遲啲再算",
+        "jyutping": "ci4 di1 zoi3 syun3",
+        "meaning": "we’ll deal with it later"
+      },
+      {
+        "id": "dim2gaai2-ne1-how-come",
+        "word": "點解呢",
+        "jyutping": "dim2 gaai2 ne1",
+        "meaning": "how come? (casual)"
+      },
+      {
+        "id": "hai6lo1-right-particle",
+        "word": "係囉",
+        "jyutping": "hai6 lo1",
+        "meaning": "exactly / yeah (particle)"
+      },
+      {
+        "id": "m4hai6gwaa3-seriously-doubt",
+        "word": "唔係掛？",
+        "jyutping": "m4 hai6 gwaa3",
+        "meaning": "seriously? I doubt it…"
+      },
+      {
+        "id": "dang2ngo5nam2haa5sin1-let-me-think",
+        "word": "等我諗下先",
+        "jyutping": "dang2 ngo5 nam2 haa5 sin1",
+        "meaning": "let me think first"
+      },
+      {
+        "id": "gam3jau6hai6wo3-thats-true-too",
+        "word": "咁又係喎",
+        "jyutping": "gam3 jau6 hai6 wo3",
+        "meaning": "that’s true as well"
+      },
+      {
+        "id": "zing3aa3-so-good",
+        "word": "正呀",
+        "jyutping": "zing3 aa3",
+        "meaning": "nice! awesome!"
+      }
+    ],
+
+    "natural_reactions": [
+      {
+        "id": "zan1hai6gaa3-really",
+        "word": "真係㗎？",
+        "jyutping": "zan1 hai6 gaa3",
+        "meaning": "really?"
+      },
+      {
+        "id": "m4hai6aa3maa3-no-way",
+        "word": "唔係呀嘛",
+        "jyutping": "m4 hai6 aa3 maa3",
+        "meaning": "no way / seriously?"
+      },
+      {
+        "id": "gam3dou1dak1gaa3-seriously-possible",
+        "word": "咁都得㗎？",
+        "jyutping": "gam3 dou1 dak1 gaa3",
+        "meaning": "seriously? that works too?"
+      },
+      {
+        "id": "jyun4loi4hai6gam3-oh-so-thats-how",
+        "word": "原來係咁",
+        "jyutping": "jyun4 loi4 hai6 gam3",
+        "meaning": "oh, so that’s how it is"
+      },
+      {
+        "id": "ngo5dou1gu2dou3-figured-as-much",
+        "word": "我都估到",
+        "jyutping": "ngo5 dou1 gu2 dou3",
+        "meaning": "I figured as much"
+      }
+    ],
+
+    "social_bonding_language": [
+      {
+        "id": "nei5gong2dak1ngaam1-youre-right",
+        "word": "你講得啱",
+        "jyutping": "nei5 gong2 dak1 ngaam1",
+        "meaning": "you’re right"
+      },
+      {
+        "id": "ngo5ming4nei5-i-get-you",
+        "word": "我明你",
+        "jyutping": "ngo5 ming4 nei5",
+        "meaning": "I get you"
+      },
+      {
+        "id": "caa1m4do1laa1-close-enough",
+        "word": "差唔多啦",
+        "jyutping": "caa1 m4 do1 laa1",
+        "meaning": "more or less / close enough"
+      },
+      {
+        "id": "hai6mai6sin1-right-question-tag",
+        "word": "係咪先",
+        "jyutping": "hai6 mai6 sin1",
+        "meaning": "right? (tag question)"
+      },
+      {
+        "id": "daa6gaa1dou1hai6gam3-we-are-all-like-that",
+        "word": "大家都係咁",
+        "jyutping": "daa6 gaa1 dou1 hai6 gam3",
+        "meaning": "we’re all like that"
+      },
+      {
+        "id": "mou5co3-exactly",
+        "word": "冇錯",
+        "jyutping": "mou5 co3",
+        "meaning": "exactly / that’s right"
+      },
+      {
+        "id": "m4zo6nei5laa1-wont-bother-you",
+        "word": "唔阻你啦",
+        "jyutping": "m4 zo6 nei5 laa1",
+        "meaning": "I won’t bother you (polite exit)"
+      }
+    ],
+
+    "tone_shifting_and_pragmatics": [
+      {
+        "id": "jing6zan1gong2-seriously-speaking",
+        "word": "認真講",
+        "jyutping": "jing6 zan1 gong2",
+        "meaning": "seriously speaking"
+      },
+      {
+        "id": "gong2siu3ze1-just-joking",
+        "word": "講笑啫",
+        "jyutping": "gong2 siu3 ze1",
+        "meaning": "just joking"
+      },
+      {
+        "id": "m4hou2ng6wui6-dont-misunderstand",
+        "word": "唔好誤會",
+        "jyutping": "m4 hou2 ng6 wui6",
+        "meaning": "don’t get me wrong"
+      },
+      {
+        "id": "dim2gong2hou2ne1-how-should-i-put-it",
+        "word": "點講好呢",
+        "jyutping": "dim2 gong2 hou2 ne1",
+        "meaning": "how should I put it…"
+      },
+      {
+        "id": "zi2hai6-just-that-softener",
+        "word": "只係",
+        "jyutping": "zi2 hai6",
+        "meaning": "it’s just that…"
+      },
+      {
+        "id": "ze1-only-just-particle",
+        "word": "啫",
+        "jyutping": "ze1",
+        "meaning": "just / only (softener particle)"
+      },
+      {
+        "id": "maa3-obviously-particle",
+        "word": "嘛",
+        "jyutping": "maa3",
+        "meaning": "well obviously… (particle)"
+      },
+      {
+        "id": "me1-question-particle",
+        "word": "咩",
+        "jyutping": "me1",
+        "meaning": "huh? / what? (particle)"
+      },
+      {
+        "id": "wo3-new-info-particle",
+        "word": "喎",
+        "jyutping": "wo3",
+        "meaning": "you know / oh really (particle)"
+      }
+    ]
+  }
+}

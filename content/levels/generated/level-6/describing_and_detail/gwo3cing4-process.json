@@ -4,39 +4,40 @@
   "jyutping": "gwo3 cing4",
   "meaning": "process",
   "pos": [
-    "phrase"
+    "phrase",
+    "expression"
   ],
   "usage": [
-    "The word 'gwo3 cing4' refers specifically to the sequence of steps or stages in completing a task or event.",
-    "It is often used in both formal and informal contexts to describe how something unfolds over time.",
-    "This expression can be used in discussions about work, learning, natural events, or any situation involving progression.",
-    "When using 'gwo3 cing4' in a sentence, it commonly functions as a noun representing the concept of a process.",
-    "It can be combined with verbs like 'observe,' 'understand,' or 'control' to discuss interaction with the process."
+    "The term 'gwo3 cing4' refers to the sequence of steps or stages involved in completing a task or event.",
+    "It is often used to describe both physical procedures and abstract sequences, such as problem-solving or decision-making.",
+    "In conversation, 'gwo3 cing4' helps to emphasize the importance of understanding how something unfolds over time.",
+    "It can be used in both formal and informal contexts to talk about the development or progression of activities.",
+    "When explaining, focusing on the 'gwo3 cing4' provides clarity about what happens before, during, and after a particular action."
   ],
   "examples": [
     {
       "id": "gwo3cing4-process-example-1",
-      "sentence": "我哋要詳細研究呢個計劃嘅過程先。",
-      "jyutping": "ngo5 dei6 jiu3 coeng4 sik1 jin4 gau3 ni1 go3 gai3 waak6 ge3 gwo3 cing4 sin1.",
-      "meaning": "We need to study the details of this plan's process first."
+      "sentence": "呢個項目嘅過程好繁複，要小心處理。",
+      "jyutping": "ni1 go3 hong6 muk6 ge3 gwo3 cing4 hou2 faan4 fuk6, jiu3 siu2 sam1 cyu3 lei5.",
+      "meaning": "The process of this project is very complicated and requires careful handling."
     },
     {
       "id": "gwo3cing4-process-example-2",
-      "sentence": "你明唔明白整張報告嘅過程係點樣？",
-      "jyutping": "nei5 ming4 m4 ming4 baak6 zing2 zoeng1 bou3 gou3 ge3 gwo3 cing4 hai6 dim2 joeng6?",
-      "meaning": "Do you understand how the process of making this report works?"
+      "sentence": "我想了解整個手術嘅過程係點樣。",
+      "jyutping": "ngo5 soeng2 liu5 gaai2 zing2 go3 sau2 seot6 ge3 gwo3 cing4 hai6 dim2 joeng6.",
+      "meaning": "I want to understand how the entire surgery process works."
     },
     {
       "id": "gwo3cing4-process-example-3",
-      "sentence": "經驗喺學習過程中非常重要。",
-      "jyutping": "ging1 jim6 hai2 hok6 zaap6 gwo3 cing4 zung1 fei1 soeng4 zung6 jiu3.",
-      "meaning": "Experience is very important in the learning process."
+      "sentence": "做研究嘅過程中，發現咗好多新嘢。",
+      "jyutping": "zou6 jin4 gau3 ge3 gwo3 cing4 zung1, faat3 jin6 zo2 hou2 do1 san1 je5.",
+      "meaning": "During the research process, many new things were discovered."
     },
     {
       "id": "gwo3cing4-process-example-4",
-      "sentence": "我哋要監察生產過程確保質量。",
-      "jyutping": "ngo5 dei6 jiu3 gaam1 caat3 saang1 caan2 gwo3 cing4 kok3 bou2 zat1 loeng6.",
-      "meaning": "We have to monitor the production process to ensure quality."
+      "sentence": "溝通嘅過程中，最好保持耐心。",
+      "jyutping": "kau1 tung1 ge3 gwo3 cing4 zung1, zeoi3 hou2 bou2 ci4 noi6 sam1.",
+      "meaning": "In the process of communication, it’s best to maintain patience."
     }
   ],
   "audio": {
@@ -50,17 +51,17 @@
   },
   "tags": [
     "advanced",
-    "spoken",
-    "formal",
-    "workplace",
-    "learning",
+    "phrase",
+    "process",
+    "describing",
+    "sequence",
     "level-6"
   ],
   "related": [
-    "程序",
-    "步驟",
-    "發展",
-    "操作",
-    "流程"
+    "步驟 (bou6 zau6)",
+    "程序 (cing4 zeoi6)",
+    "階段 (gaai1 dyun6)",
+    "方法 (fong1 faat3)",
+    "工作 (gung1 zok3)"
   ]
 }
