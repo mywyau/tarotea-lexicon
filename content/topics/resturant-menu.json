@@ -6,12 +6,12 @@
 
     "rice_dishes": [
       { "id": "caau2faan6-fried-rice", "word": "炒飯", "jyutping": "caau2 faan6", "meaning": "fried rice" },
+      { "id": "laap6mei6faan6-rice-with-preserved-meats", "word": "臘味飯", "jyutping": "laap6 mei6 faan6", "meaning": "rice with preserved meats" },
       { "id": "joeng4zau1caau2faan6-yangzhou-fried-rice", "word": "揚州炒飯", "jyutping": "joeng4 zau1 caau2 faan6", "meaning": "Yangzhou fried rice" },
       { "id": "baai6cit3gai1faan6-white-cut-chicken-rice", "word": "白切雞飯", "jyutping": "baak6 cit3 gai1 faan6", "meaning": "white cut chicken with rice" },
       { "id": "siu1ngap6faan6-roast-duck-rice", "word": "燒鴨飯", "jyutping": "siu1 aap3 faan6", "meaning": "roast duck with rice" },
       { "id": "caa1siu1faan6-bbq-pork-rice", "word": "叉燒飯", "jyutping": "caa1 siu1 faan6", "meaning": "BBQ pork with rice" },
       { "id": "ngau4juk6faan6-beef-rice", "word": "牛肉飯", "jyutping": "ngau4 juk6 faan6", "meaning": "beef with rice" },
-      { "id": "gaa1laap6mei6faan6-preserved-meat-rice", "word": "臘味飯", "jyutping": "laap6 mei6 faan6", "meaning": "rice with preserved meats" },
       { "id": "soeng1hap6faan6-baked-pork-chop-rice", "word": "焗豬扒飯", "jyutping": "guk6 zyu1 paa4 faan6", "meaning": "baked pork chop rice" },
       { "id": "gaa1laap6ngau4juk6faan6", "word": "咖喱牛肉飯", "jyutping": "gaa3 lei1 ngau4 juk6 faan6", "meaning": "curry beef rice" },
       { "id": "gaa3lei1gai1faan6-curry-chicken-rice", "word": "咖喱雞飯", "jyutping": "gaa3 lei1 gai1 faan6", "meaning": "curry chicken rice" }
@@ -40,6 +40,7 @@
 
     "seafood_dishes": [
       { "id": "cing1zing1jyu4-steamed-fish", "word": "清蒸魚", "jyutping": "cing1 zing1 jyu4", "meaning": "steamed fish" },
+      { "id": "jyu4tau4tong1-fish-head-soup", "word": "魚頭湯", "jyutping": "jyu4 tau4 tong1", "meaning": "fish head soup" },
       { "id": "haam4jyu4gaai2salted-fish-chicken", "word": "鹹魚雞粒", "jyutping": "haam4 jyu4 gai1 nap1", "meaning": "salted fish with diced chicken" },
       { "id": "zaa3jyu4daan2-fried-fish-balls", "word": "炸魚蛋", "jyutping": "zaa3 jyu4 daan2", "meaning": "fried fish balls" },
       { "id": "jing1haa1-steamed-shrimp", "word": "蒸蝦", "jyutping": "zing1 haa1", "meaning": "steamed shrimp" },
