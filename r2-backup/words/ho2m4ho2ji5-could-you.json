@@ -2,41 +2,42 @@
   "id": "ho2m4ho2ji5-could-you",
   "word": "可唔可以",
   "jyutping": "ho2 m4 ho2 ji5",
-  "meaning": "could you / is it possible",
+  "meaning": "could you / may I",
   "pos": [
+    "phrase",
     "expression"
   ],
   "usage": [
-    "The phrase 'ho2 m4 ho2 ji5' is commonly used to make polite requests or ask for permission.",
-    "It literally means 'can or cannot,' functioning similarly to 'could you' or 'is it possible' in English.",
-    "This expression is often placed at the beginning of a sentence to soften the tone and show respect.",
-    "It is suitable for both formal and informal situations when you want to ask someone to do something.",
-    "Using 'ho2 m4 ho2 ji5' helps avoid sounding too direct or demanding in conversation."
+    "The phrase is commonly used to politely ask for permission or make requests.",
+    "It can be used in both formal and informal contexts, depending on the tone.",
+    "The structure typically precedes a verb or action that you are requesting to do or want someone else to do.",
+    "It can be softened by adding polite particles or terms of respect.",
+    "Although literally meaning 'can not can', it functions as 'could you' or 'may I' in English."
   ],
   "examples": [
     {
       "id": "ho2m4ho2ji5-could-you-example-1",
-      "sentence": "可唔可以幫我睇一睇呢份報告？",
-      "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5 tai2 jat1 tai2 ni1 fan6 bou3 gou3?",
-      "meaning": "Could you help me take a look at this report?"
+      "sentence": "可唔可以幫我拎一下嗰個行李？",
+      "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5 ling1 jat1 haa5 go2 go3 hang4 lei5?",
+      "meaning": "Could you help me carry that luggage?"
     },
     {
       "id": "ho2m4ho2ji5-could-you-example-2",
-      "sentence": "可唔可以借我支筆？",
-      "jyutping": "ho2 m4 ho2 ji5 ze3 ngo5 zi1 bat1?",
-      "meaning": "Could I borrow a pen?"
+      "sentence": "我可唔可以早啲走？",
+      "jyutping": "ngo5 ho2 m4 ho2 ji5 zou2 di1 zau2?",
+      "meaning": "May I leave earlier?"
     },
     {
       "id": "ho2m4ho2ji5-could-you-example-3",
-      "sentence": "可唔可以遲啲開會？",
-      "jyutping": "ho2 m4 ho2 ji5 ci4 di1 hoi1 wui6?",
-      "meaning": "Is it possible to start the meeting a bit later?"
+      "sentence": "可唔可以借我支筆？",
+      "jyutping": "ho2 m4 ho2 ji5 ze3 ngo5 zi1 bat1?",
+      "meaning": "Could you lend me a pen?"
     },
     {
       "id": "ho2m4ho2ji5-could-you-example-4",
-      "sentence": "可唔可以等我講完先？",
-      "jyutping": "ho2 m4 ho2 ji5 dang2 ngo5 gong2 jyun4 sin1?",
-      "meaning": "Could you wait until I finish speaking?"
+      "sentence": "可唔可以同你講下我嘅想法？",
+      "jyutping": "ho2 m4 ho2 ji5 tung4 nei5 gong2 haa5 ngo5 ge3 soeng2 faat3?",
+      "meaning": "May I talk to you about my ideas?"
     }
   ],
   "audio": {
@@ -50,16 +51,17 @@
   },
   "tags": [
     "politeness",
-    "requests",
+    "request",
     "permission",
     "expressions",
-    "negotiation",
-    "level-5"
+    "Cantonese",
+    "level-7"
   ],
   "related": [
-    "唔該",
-    "麻煩",
-    "得唔得",
-    "請"
+    "唔該 (m4 goi1)",
+    "可以 (ho2 ji5)",
+    "幫手 (bong1 sau2)",
+    "借 (ze3)",
+    "請 (cing2)"
   ]
 }

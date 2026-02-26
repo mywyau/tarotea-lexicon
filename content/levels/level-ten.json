@@ -1,288 +1,102 @@
 {
   "level": 10,
-  "title": "Level 10 – Fluent casual Cantonese",
-  "description": "Speak naturally, react instinctively, and handle fast, casual conversations.",
+  "title": "Level 10 – Common Chinese idioms in Cantonese",
+  "description": "Understand and use common Chinese idioms (成語) naturally.",
   "categories": {
-    "casual_emotions_and_attitudes": [
-      {
-        "id": "hou2faan4-so-annoying",
-        "word": "好煩",
-        "jyutping": "hou2 faan4",
-        "meaning": "so annoying"
-      },
-      {
-        "id": "syun3baa6laa1-forget-it",
-        "word": "算吧啦",
-        "jyutping": "syun3 baa6 laa1",
-        "meaning": "forget it (casual resignation)"
-      },
-      {
-        "id": "m4lei5laa1-whatever",
-        "word": "唔理啦",
-        "jyutping": "m4 lei5 laa1",
-        "meaning": "whatever / I’m not dealing with it"
-      },
-      {
-        "id": "ding2dak1zyu6-can-handle-it",
-        "word": "頂得住",
-        "jyutping": "ding2 dak1 zyu6",
-        "meaning": "can handle it / endure"
-      },
-      {
-        "id": "gaau2siu3-ridiculous-funny",
-        "word": "搞笑",
-        "jyutping": "gaau2 siu3",
-        "meaning": "funny / ridiculous"
-      },
-      {
-        "id": "mei6zi3jyu1-not-that-bad",
-        "word": "未至於嘅",
-        "jyutping": "mei6 zi3 jyu1 ge3",
-        "meaning": "not that bad / not to that extent"
-      },
-      {
-        "id": "gam3jau6m4hai6-not-exactly",
-        "word": "咁又唔係",
-        "jyutping": "gam3 jau6 m4 hai6",
-        "meaning": "it’s not exactly like that"
-      }
+
+    "crowds_and_scale": [
+      { "id": "jan4saan1jan4hoi2-huge-crowd", "word": "人山人海", "jyutping": "jan4 saan1 jan4 hoi2", "meaning": "huge crowd" },
+      { "id": "seoi2sit3bat1tung1-packed-tight", "word": "水洩不通", "jyutping": "seoi2 sit3 bat1 tung1", "meaning": "packed tightly" },
+      { "id": "jan4coi4jam4jam4-full-of-talent", "word": "人才濟濟", "jyutping": "jan4 coi4 zai3 zai3", "meaning": "full of talent" },
+      { "id": "geoi2cuk1zing3jung6-grand-event", "word": "舉足輕重", "jyutping": "geoi2 zuk1 hing1 zung6", "meaning": "of great importance" },
+      { "id": "hei3si3pang4bong6-impressive-scale", "word": "氣勢磅礡", "jyutping": "hei3 sai3 pong4 bok6", "meaning": "magnificent scale" }
     ],
 
-    "conversation_flow_and_fillers": [
-      {
-        "id": "zik1hai6waa6-in-other-words",
-        "word": "即係話",
-        "jyutping": "zik1 hai6 waa6",
-        "meaning": "that means / in other words"
-      },
-      {
-        "id": "kei4sat6ne1-actually-opening",
-        "word": "其實呢",
-        "jyutping": "kei4 sat6 ne1",
-        "meaning": "actually (soft opening)"
-      },
-      {
-        "id": "nei5zi1laa1-you-know",
-        "word": "你知啦",
-        "jyutping": "nei5 zi1 laa1",
-        "meaning": "you know (shared understanding)"
-      },
-      {
-        "id": "hai6gam3sin1-leave-it-there",
-        "word": "係咁先",
-        "jyutping": "hai6 gam3 sin1",
-        "meaning": "that’s it for now / leave it there"
-      },
-      {
-        "id": "waa6si4waa6-by-the-way",
-        "word": "話時話",
-        "jyutping": "waa6 si4 waa6",
-        "meaning": "by the way"
-      },
-      {
-        "id": "nei5ming4m4ming4ngo5ji3si1-do-you-get-me",
-        "word": "你明唔明我意思？",
-        "jyutping": "nei5 ming4 m4 ming4 ngo5 ji3 si1",
-        "meaning": "do you get what I mean?"
-      },
-      {
-        "id": "gam3joeng6laa1-how-about-this",
-        "word": "咁樣啦",
-        "jyutping": "gam3 joeng6 laa1",
-        "meaning": "how about this (suggesting casually)"
-      }
+    "cause_and_consequence": [
+      { "id": "zi6zok3zi6sau6-self-inflicted", "word": "自作自受", "jyutping": "zi6 zok3 zi6 sau6", "meaning": "self-inflicted" },
+      { "id": "jat1sek6ji6niu5-two-birds", "word": "一石二鳥", "jyutping": "jat1 sek6 ji6 niu5", "meaning": "two birds one stone" },
+      { "id": "jan1siu2sat1daai6-small-loss-big-loss", "word": "因小失大", "jyutping": "jan1 siu2 sat1 daai6", "meaning": "small loss, big damage" },
+      { "id": "hok6ji5zi3jung6-learn-from-mistake", "word": "學以致用", "jyutping": "hok6 ji5 zi3 jung6", "meaning": "apply what you learned" },
+      { "id": "seoi2dou3keoi4sing4-natural-result", "word": "水到渠成", "jyutping": "seoi2 dou3 keoi4 sing4", "meaning": "natural outcome" }
     ],
 
-    "fast_speech_shortcuts": [
-      {
-        "id": "m4gei3dak1laa3-forgot-already",
-        "word": "唔記得喇",
-        "jyutping": "m4 gei3 dak1 laa3",
-        "meaning": "I forgot already"
-      },
-      {
-        "id": "syun3laa1syun3laa1-let-it-go",
-        "word": "算啦算啦",
-        "jyutping": "syun3 laa1 syun3 laa1",
-        "meaning": "let it go, let it go"
-      },
-      {
-        "id": "ci4di1zoi3syun3-deal-with-it-later",
-        "word": "遲啲再算",
-        "jyutping": "ci4 di1 zoi3 syun3",
-        "meaning": "we’ll deal with it later"
-      },
-      {
-        "id": "dim2gaai2-ne1-how-come",
-        "word": "點解呢",
-        "jyutping": "dim2 gaai2 ne1",
-        "meaning": "how come? (casual)"
-      },
-      {
-        "id": "hai6lo1-right-particle",
-        "word": "係囉",
-        "jyutping": "hai6 lo1",
-        "meaning": "exactly / yeah (particle)"
-      },
-      {
-        "id": "m4hai6gwaa3-seriously-doubt",
-        "word": "唔係掛？",
-        "jyutping": "m4 hai6 gwaa3",
-        "meaning": "seriously? I doubt it…"
-      },
-      {
-        "id": "dang2ngo5nam2haa5sin1-let-me-think",
-        "word": "等我諗下先",
-        "jyutping": "dang2 ngo5 nam2 haa5 sin1",
-        "meaning": "let me think first"
-      },
-      {
-        "id": "gam3jau6hai6wo3-thats-true-too",
-        "word": "咁又係喎",
-        "jyutping": "gam3 jau6 hai6 wo3",
-        "meaning": "that’s true as well"
-      },
-      {
-        "id": "zing3aa3-so-good",
-        "word": "正呀",
-        "jyutping": "zing3 aa3",
-        "meaning": "nice! awesome!"
-      }
+    "emotions_and_state": [
+      { "id": "mou4ho2noi6ho4-helpless", "word": "無可奈何", "jyutping": "mou4 ho2 noi6 ho4", "meaning": "utterly helpless" },
+      { "id": "baan3seon3baan3ji4-skeptical", "word": "半信半疑", "jyutping": "bun3 seon3 bun3 ji4", "meaning": "skeptical" },
+      { "id": "sam1jyu4dou1got3-heartbroken", "word": "心如刀割", "jyutping": "sam1 jyu4 dou1 got3", "meaning": "heartbroken" },
+      { "id": "hoi1sam1zo3fa1-very-happy", "word": "開心到飛起", "jyutping": "hoi1 sam1 dou3 fei1 hei2", "meaning": "overjoyed" },
+      { "id": "king1sing4soeng1joeng6-relieved", "word": "輕鬆自在", "jyutping": "hing1 sung1 zi6 zoi6", "meaning": "relaxed and free" }
     ],
 
-    "natural_reactions": [
-      {
-        "id": "zan1hai6gaa3-really",
-        "word": "真係㗎？",
-        "jyutping": "zan1 hai6 gaa3",
-        "meaning": "really?"
-      },
-      {
-        "id": "m4hai6aa3maa3-no-way",
-        "word": "唔係呀嘛",
-        "jyutping": "m4 hai6 aa3 maa3",
-        "meaning": "no way / seriously?"
-      },
-      {
-        "id": "gam3dou1dak1gaa3-seriously-possible",
-        "word": "咁都得㗎？",
-        "jyutping": "gam3 dou1 dak1 gaa3",
-        "meaning": "seriously? that works too?"
-      },
-      {
-        "id": "jyun4loi4hai6gam3-oh-so-thats-how",
-        "word": "原來係咁",
-        "jyutping": "jyun4 loi4 hai6 gam3",
-        "meaning": "oh, so that’s how it is"
-      },
-      {
-        "id": "ngo5dou1gu2dou3-figured-as-much",
-        "word": "我都估到",
-        "jyutping": "ngo5 dou1 gu2 dou3",
-        "meaning": "I figured as much"
-      }
+    "skill_and_quality": [
+      { "id": "tin1ji1mou4fung6-flawless", "word": "天衣無縫", "jyutping": "tin1 ji1 mou4 fung6", "meaning": "flawless" },
+      { "id": "jat1cing1ji6co2-crystal-clear", "word": "一清二楚", "jyutping": "jat1 cing1 ji6 co2", "meaning": "crystal clear" },
+      { "id": "loeng5cyun4kei4mei5-win-win", "word": "兩全其美", "jyutping": "loeng5 cyun4 kei4 mei5", "meaning": "win-win" },
+      { "id": "faat3jam2jau5wai6-promising", "word": "發展有為", "jyutping": "faat3 zin2 jau5 wai4", "meaning": "promising future" },
+      { "id": "soeng6soeng6jan4soeng6-top-tier", "word": "上上之選", "jyutping": "soeng6 soeng6 zi1 syun2", "meaning": "top choice" }
     ],
 
-    "social_bonding_language": [
-      {
-        "id": "nei5gong2dak1ngaam1-youre-right",
-        "word": "你講得啱",
-        "jyutping": "nei5 gong2 dak1 ngaam1",
-        "meaning": "you’re right"
-      },
-      {
-        "id": "ngo5ming4nei5-i-get-you",
-        "word": "我明你",
-        "jyutping": "ngo5 ming4 nei5",
-        "meaning": "I get you"
-      },
-      {
-        "id": "caa1m4do1laa1-close-enough",
-        "word": "差唔多啦",
-        "jyutping": "caa1 m4 do1 laa1",
-        "meaning": "more or less / close enough"
-      },
-      {
-        "id": "hai6mai6sin1-right-question-tag",
-        "word": "係咪先",
-        "jyutping": "hai6 mai6 sin1",
-        "meaning": "right? (tag question)"
-      },
-      {
-        "id": "daa6gaa1dou1hai6gam3-we-are-all-like-that",
-        "word": "大家都係咁",
-        "jyutping": "daa6 gaa1 dou1 hai6 gam3",
-        "meaning": "we’re all like that"
-      },
-      {
-        "id": "mou5co3-exactly",
-        "word": "冇錯",
-        "jyutping": "mou5 co3",
-        "meaning": "exactly / that’s right"
-      },
-      {
-        "id": "m4zo6nei5laa1-wont-bother-you",
-        "word": "唔阻你啦",
-        "jyutping": "m4 zo6 nei5 laa1",
-        "meaning": "I won’t bother you (polite exit)"
-      }
+    "behaviour_and_character": [
+      { "id": "gin3gwaai3bat1gwaai3-unfazed", "word": "見怪不怪", "jyutping": "gin3 gwaai3 bat1 gwaai3", "meaning": "unfazed" },
+      { "id": "zi6ji5wai4si6-self-righteous", "word": "自以為是", "jyutping": "zi6 ji5 wai4 si6", "meaning": "self-righteous" },
+      { "id": "haau2go3bat1geoi3-picky", "word": "挑三揀四", "jyutping": "tiu1 saam1 gaan2 sei3", "meaning": "overly picky" },
+      { "id": "hok6m4zi1fuk1-ungrateful", "word": "學唔識福", "jyutping": "hok6 m4 sik1 fuk1", "meaning": "ungrateful" },
+      { "id": "cin4gung1zan1fai3-wasted-effort", "word": "前功盡廢", "jyutping": "cin4 gung1 zeon6 fai3", "meaning": "effort wasted" }
     ],
 
-    "tone_shifting_and_pragmatics": [
-      {
-        "id": "jing6zan1gong2-seriously-speaking",
-        "word": "認真講",
-        "jyutping": "jing6 zan1 gong2",
-        "meaning": "seriously speaking"
-      },
-      {
-        "id": "gong2siu3ze1-just-joking",
-        "word": "講笑啫",
-        "jyutping": "gong2 siu3 ze1",
-        "meaning": "just joking"
-      },
-      {
-        "id": "m4hou2ng6wui6-dont-misunderstand",
-        "word": "唔好誤會",
-        "jyutping": "m4 hou2 ng6 wui6",
-        "meaning": "don’t get me wrong"
-      },
-      {
-        "id": "dim2gong2hou2ne1-how-should-i-put-it",
-        "word": "點講好呢",
-        "jyutping": "dim2 gong2 hou2 ne1",
-        "meaning": "how should I put it…"
-      },
-      {
-        "id": "zi2hai6-just-that-softener",
-        "word": "只係",
-        "jyutping": "zi2 hai6",
-        "meaning": "it’s just that…"
-      },
-      {
-        "id": "ze1-only-just-particle",
-        "word": "啫",
-        "jyutping": "ze1",
-        "meaning": "just / only (softener particle)"
-      },
-      {
-        "id": "maa3-obviously-particle",
-        "word": "嘛",
-        "jyutping": "maa3",
-        "meaning": "well obviously… (particle)"
-      },
-      {
-        "id": "me1-question-particle",
-        "word": "咩",
-        "jyutping": "me1",
-        "meaning": "huh? / what? (particle)"
-      },
-      {
-        "id": "wo3-new-info-particle",
-        "word": "喎",
-        "jyutping": "wo3",
-        "meaning": "you know / oh really (particle)"
-      }
+    "time_and_change": [
+      { "id": "si4gwo3ging2cin1-times-change", "word": "時過境遷", "jyutping": "si4 gwo3 ging2 cin1", "meaning": "times change" },
+      { "id": "jat1jat6cin1lei5-rapid-progress", "word": "一日千里", "jyutping": "jat1 jat6 cin1 lei5", "meaning": "rapid progress" },
+      { "id": "soeng6wai6loi4-uncertain-future", "word": "尚未可知", "jyutping": "soeng6 mei6 ho2 zi1", "meaning": "unknown yet" },
+      { "id": "jat1jik6zo2fan1-sudden-turn", "word": "一夕之間", "jyutping": "jat1 zik6 zi1 gaan1", "meaning": "overnight" },
+      { "id": "soeng6soeng6bat1dik1-everlasting", "word": "生生不息", "jyutping": "sang1 sang1 bat1 sik1", "meaning": "endless / continuous" }
+    ],
+
+    "speech_and_thinking_idioms": [
+      { "id": "jat1pin4ji1ci4-one-sided", "word": "一面之詞", "jyutping": "jat1 min6 zi1 ci4", "meaning": "one-sided story" },
+      { "id": "gong2bat1cing1co2-unclear-speech", "word": "講不清楚", "jyutping": "gong2 bat1 cing1 co2", "meaning": "unclear explanation" },
+      { "id": "cung1zi3jau5lei5-logical", "word": "充之有理", "jyutping": "cung1 zi1 jau5 lei5", "meaning": "logically sound" },
+      { "id": "sam1zung1jau5so2-something-in-mind", "word": "心中有數", "jyutping": "sam1 zung1 jau5 sou3", "meaning": "know it well inside" },
+      { "id": "jat1jam2zing3lei5-to-the-point", "word": "一針見血", "jyutping": "jat1 zam1 gin3 hyut3", "meaning": "hit the nail on the head" },
+      { "id": "zi6soeng2zi6waa6-self-contradict", "word": "自相矛盾", "jyutping": "zi6 soeng1 mau4 teon5", "meaning": "self-contradictory" },
+      { "id": "jam2zau6dim2zing3-precise", "word": "斬釘截鐵", "jyutping": "zaam2 ding1 zit6 tit3", "meaning": "firm and decisive" }
+    ],
+
+    "money_and_success_idioms": [
+      { "id": "jat1bou6dang1tin1-overnight-success", "word": "一步登天", "jyutping": "jat1 bou6 dang1 tin1", "meaning": "overnight success" },
+      { "id": "foi3gong1foi3lei6-quick-profit", "word": "快功快利", "jyutping": "faai3 gung1 faai3 lei6", "meaning": "quick profit" },
+      { "id": "cin4to4mou4loeng6-bright-future", "word": "前途無量", "jyutping": "cin4 tou4 mou4 loeng6", "meaning": "bright future" },
+      { "id": "bou6bou6goeng1soeng6-rise-steadily", "word": "步步高升", "jyutping": "bou6 bou6 gou1 sing1", "meaning": "rise steadily" },
+      { "id": "soeng6soeng6zi1syun2-top-choice", "word": "上上之選", "jyutping": "soeng6 soeng6 zi1 syun2", "meaning": "top choice" },
+      { "id": "hoi1mun4hung4lei6-good-start", "word": "開門紅利", "jyutping": "hoi1 mun4 hung4 lei6", "meaning": "great start" }
+    ],
+
+    "strategy_and_conflict_idioms": [
+      { "id": "ming4zaang1on3dou6-open-and-secret", "word": "明爭暗鬥", "jyutping": "ming4 zang1 am3 dau3", "meaning": "open and secret fighting" },
+      { "id": "soeng1daan1zoeng3lei6-lose-both", "word": "雙輸局面", "jyutping": "soeng1 syu1 guk6 min6", "meaning": "lose-lose situation" },
+      { "id": "jat1jik6coeng4hung4-fall-instantly", "word": "一敗塗地", "jyutping": "jat1 baai6 tou4 dei6", "meaning": "total defeat" },
+      { "id": "zyu1zi1zung3cing4-heavy-impact", "word": "舉足輕重", "jyutping": "geoi2 zuk1 hing1 zung6", "meaning": "critical importance" }
+    ],
+
+    "relationships_and_social_idioms": [
+      { "id": "cing4sam1yat1ji3-wholehearted", "word": "全心一意", "jyutping": "cyun4 sam1 jat1 ji3", "meaning": "wholeheartedly" },
+      { "id": "jat1gin3jyu4gu1-love-at-first-sight", "word": "一見如故", "jyutping": "jat1 gin3 jyu4 gu3", "meaning": "instant connection" },
+      { "id": "gam1ci1m4zi1-next-time-who-knows", "word": "今次唔知", "jyutping": "gam1 ci3 m4 zi1", "meaning": "who knows next time" },
+      { "id": "soeng1soeng1ji2sau2-mutual-help", "word": "相濡以沫", "jyutping": "soeng1 jyu4 ji5 mut6", "meaning": "support each other" }
+    ],
+
+    "luck_and_fate_idioms": [
+      { "id": "tin1ji1mou4fung6-perfect", "word": "天衣無縫", "jyutping": "tin1 ji1 mou4 fung6", "meaning": "perfectly flawless" },
+      { "id": "tin1ji1gei3jap6-fated", "word": "天注定", "jyutping": "tin1 zyu3 ding6", "meaning": "fated" },
+      { "id": "zung1zi2jau5bou3-what-goes-around", "word": "種瓜得瓜", "jyutping": "zung3 gwaa1 dak1 gwaa1", "meaning": "you reap what you sow" },
+      { "id": "hok6doi3ho2gei3-rare-chance", "word": "可遇不可求", "jyutping": "ho2 jyu6 bat1 ho2 kau4", "meaning": "rare opportunity" }
+    ],
+
+    "work_and_effort_idioms": [
+      { "id": "gai3gung1lei6dak1-hard-earned", "word": "辛苦得來", "jyutping": "san1 fu2 dak1 loi4", "meaning": "hard-earned" },
+      { "id": "zit6ho2zing3lei5-efficient", "word": "事半功倍", "jyutping": "si6 bun3 gung1 pui5", "meaning": "double result half effort" },
+      { "id": "gung1zing3cin4fat6-work-hard", "word": "埋頭苦幹", "jyutping": "mai4 tau4 fu2 gon3", "meaning": "work hard quietly" },
+      { "id": "gai3ho2gei3hak1-plan-ahead", "word": "未雨綢繆", "jyutping": "mei6 jyu5 cau4 mau4", "meaning": "prepare in advance" }
     ]
   }
 }
