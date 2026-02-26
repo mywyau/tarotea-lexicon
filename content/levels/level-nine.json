@@ -82,12 +82,12 @@
       {"id": "ho2ji5waa6-one-could-say","word": "可以話","jyutping": "ho2 ji5 waa6","meaning": "one could say"}
     ],
 
-    "argument_and_reasoning" :[
-      {"id": "ci4wai6-claim","word": "指為","jyutping": "zi2 wai4","meaning": "to claim that"},
-      {"id": "lei5jyu4-for-example","word": "例如","jyutping": "lei6 jyu4","meaning": "for example"},
-      {"id": "jat1baan1lei4gong2-generally-speaking","word": "一般嚟講","jyutping": "jat1 bun1 lei4 gong2","meaning": "generally speaking"},
+    "argument_and_reasoning": [
+      { "id": "zyu2zoeng1-claim", "word": "主張", "jyutping": "zyu2 zoeng1", "meaning": "to assert / to claim"},
+      {"id": "lei6jyu4-for-example","word": "例如","jyutping": "lei6 jyu4","meaning": "for example"},
+      {"id": "jat1bun1lei4gong2-generally-speaking","word": "一般嚟講","jyutping": "jat1 bun1 lei4 gong2","meaning": "generally speaking"},
       {"id": "so2ji5-therefore","word": "所以","jyutping": "so2 ji5","meaning": "therefore"},
-      {"id": "faat3jat6-on-the-contrary","word": "反而","jyutping": "faan2 ji4","meaning": "on the contrary"}
+      {"id": "faan2ji4-on-the-contrary","word": "反而","jyutping": "faan2 ji4","meaning": "on the contrary / instead"}
     ]
   }
 }
