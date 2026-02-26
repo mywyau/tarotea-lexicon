@@ -1,219 +1,91 @@
 {
   "level": 8,
-  "title": "Level 8 – Idioms, culture, and Cantonese thinking",
-  "description": "Understand and use common Cantonese idioms, cultural expressions, and implied meanings in natural, informal speech.",
+  "title": "Level 8 – Expression, Tone & Personality",
+  "description": "Study reactions, exaggeration, judgement, and the subtle meanings hidden inside everyday phrases.",
   "categories": {
     "common_cantonese_idioms": [
-      {
-        "id": "mou5so2wai6-doesnt-matter",
-        "word": "冇所謂",
-        "jyutping": "mou5 so2 wai6",
-        "meaning": "doesn’t matter / whatever"
-      },
-      {
-        "id": "m4gwaai3zi1dak1-no-wonder",
-        "word": "唔怪之得",
-        "jyutping": "m4 gwaai3 zi1 dak1",
-        "meaning": "no wonder"
-      },
-      {
-        "id": "gong2zan1-honestly-speaking",
-        "word": "講真",
-        "jyutping": "gong2 zan1",
-        "meaning": "honestly speaking"
-      }
+      { "id": "mou5so2wai6-whatever","word": "冇所謂","jyutping": "mou5 so2 wai6","meaning": "whatever / doesn't matter" },
+      { "id": "m4gwaai3zi1dak1-no-wonder","word": "唔怪之得","jyutping": "m4 gwaai3 zi1 dak1","meaning": "no wonder" },
+      { "id": "gong2zan1-honestly","word": "講真","jyutping": "gong2 zan1","meaning": "honestly" },
+      { "id": "mou5mat1je5-nothing","word": "冇乜嘢","jyutping": "mou5 mat1 je5","meaning": "nothing much" },
+      { "id": "jau5mat1je5hou2gong2-whats-to-say","word": "有乜嘢好講","jyutping": "jau5 mat1 je5 hou2 gong2","meaning": "what's there to say?" },
+      { "id": "nam2m4ming4-cant-figure","word": "諗唔明","jyutping": "nam2 m4 ming4","meaning": "can't figure it out" }
     ],
 
     "emotional_reactions": [
-      {
-        "id": "ding2m4seon6-cant-stand-it",
-        "word": "頂唔順",
-        "jyutping": "ding2 m4 seon6",
-        "meaning": "can’t stand it"
-      },
-      {
-        "id": "sau6m4zyu6-cant-take-it",
-        "word": "受唔住",
-        "jyutping": "sau6 m4 zyu6",
-        "meaning": "can’t take it"
-      },
-      {
-        "id": "gik1sei2-drives-me-mad",
-        "word": "激死",
-        "jyutping": "gik1 sei2",
-        "meaning": "so annoying it drives one mad"
-      },
-      {
-        "id": "hou2coi2-fortunately",
-        "word": "好彩",
-        "jyutping": "hou2 coi2",
-        "meaning": "fortunately / luckily"
-      },
-      {
-        "id": "caam2laa1-oh-no",
-        "word": "慘啦",
-        "jyutping": "caam2 laa1",
-        "meaning": "oh no / that’s bad"
-      }
+      { "id": "ding2m4seon6-cant-stand","word": "頂唔順","jyutping": "ding2 m4 seon6","meaning": "can't stand it" },
+      { "id": "sau6m4zyu6-cant-endure","word": "受唔住","jyutping": "sau6 m4 zyu6","meaning": "can't endure" },
+      { "id": "gik1sei2-so-annoying","word": "激死","jyutping": "gik1 sei2","meaning": "so annoying" },
+      { "id": "hou2coi2-lucky","word": "好彩","jyutping": "hou2 coi2","meaning": "luckily" },
+      { "id": "caam2laa1-oh-no","word": "慘啦","jyutping": "caam2 laa1","meaning": "oh no" },
+      { "id": "jat1dou3lei4-as-soon-as","word": "一到嚟","jyutping": "jat1 dou3 lei4","meaning": "as soon as arrives" },
+      { "id": "ngo5dei6sei2laa1-were-doomed","word": "我哋死啦","jyutping": "ngo5 dei6 sei2 laa1","meaning": "we're doomed" },
+      { "id": "hou2jam1-gloomy","word": "好陰","jyutping": "hou2 jam1","meaning": "gloomy / sinister" }
     ],
 
     "evaluation_and_judgement": [
-      {
-        "id": "dai2sei2-deserved-it",
-        "word": "抵死",
-        "jyutping": "dai2 sei2",
-        "meaning": "deserved it (often joking)"
-      },
-      {
-        "id": "hou2coi2mou5si6-luckily-nothing-happened",
-        "word": "好彩冇事",
-        "jyutping": "hou2 coi2 mou5 si6",
-        "meaning": "luckily nothing happened"
-      },
-      {
-        "id": "m4ceot1kei4-not-surprising",
-        "word": "唔出奇",
-        "jyutping": "m4 ceot1 kei4",
-        "meaning": "not surprising"
-      },
-      {
-        "id": "jau5paai4-takes-a-long-time",
-        "word": "有排",
-        "jyutping": "jau5 paai4",
-        "meaning": "will take a long time"
-      },
-      {
-        "id": "m4hai6gam3gaan2daan1-not-that-simple",
-        "word": "唔係咁簡單",
-        "jyutping": "m4 hai6 gam3 gaan2 daan1",
-        "meaning": "it’s not that simple"
-      }
+      { "id": "dai2sei2-deserved","word": "抵死","jyutping": "dai2 sei2","meaning": "deserved it" },
+      { "id": "hou2coi2mou5si6-lucky-safe","word": "好彩冇事","jyutping": "hou2 coi2 mou5 si6","meaning": "luckily nothing happened" },
+      { "id": "m4ceot1kei4-not-surprising","word": "唔出奇","jyutping": "m4 ceot1 kei4","meaning": "not surprising" },
+      { "id": "jau5paai4-long-time","word": "有排","jyutping": "jau5 paai4","meaning": "long time" },
+      { "id": "m4hai6gam3gaan2daan1-not-simple","word": "唔係咁簡單","jyutping": "m4 hai6 gam3 gaan2 daan1","meaning": "not that simple" },
+      { "id": "hou2gaau2siu3-hilarious","word": "好搞笑","jyutping": "hou2 gaau2 siu3","meaning": "hilarious" },
+      { "id": "m4zi2hai6gam3-not-just-that","word": "唔止係咁","jyutping": "m4 zi2 hai6 gam3","meaning": "not just that" },
+      { "id": "hou2laap6saap3-rubbish","word": "好垃圾","jyutping": "hou2 laap6 saap3","meaning": "so rubbish" },
+      { "id": "zeng3-awesome","word": "正","jyutping": "zeng3","meaning": "awesome" },
+      { "id": "gam2jau6hai6-fair-point","word": "咁又係","jyutping": "gam2 jau6 hai6","meaning": "fair point" },
+      { "id": "mai6hai6lo1-exactly","word": "咪係囉","jyutping": "mai6 hai6 lo1","meaning": "exactly" },
+      { "id": "hai6lo1-yeah-true","word": "係囉","jyutping": "hai6 lo1","meaning": "yeah true" },
+      { "id": "jan1hai6-really","word": "真係","jyutping": "zan1 hai6","meaning": "really / seriously" }
     ],
 
     "cultural_shortcuts": [
-      {
-        "id": "tai2cing4fong3-depends-on-situation",
-        "word": "睇情況",
-        "jyutping": "tai2 cing4 fong3",
-        "meaning": "depends on the situation"
-      },
-      {
-        "id": "dou3si4sin1syun3-well-see-then",
-        "word": "到時先算",
-        "jyutping": "dou3 si4 sin1 syun3",
-        "meaning": "we’ll see when the time comes"
-      },
-      {
-        "id": "ceoi4bin6laa1-up-to-you",
-        "word": "隨便啦",
-        "jyutping": "ceoi4 bin6 laa1",
-        "meaning": "whatever / up to you"
-      },
-      {
-        "id": "mou5gai3-cant-be-helped",
-        "word": "冇計",
-        "jyutping": "mou5 gai3",
-        "meaning": "no choice / can’t be helped"
-      },
-      {
-        "id": "dak1gwo3ce2gwo3-muddle-through",
-        "word": "得過且過",
-        "jyutping": "dak1 gwo3 ce2 gwo3",
-        "meaning": "get by / muddle through"
-      }
+      { "id": "tai2cing4fong3-depends","word": "睇情況","jyutping": "tai2 cing4 fong3","meaning": "depends" },
+      { "id": "dou3si4sin1syun3-we-ll-see","word": "到時先算","jyutping": "dou3 si4 sin1 syun3","meaning": "we'll see then" },
+      { "id": "ceoi4bin6laa1-up-to-you","word": "隨便啦","jyutping": "ceoi4 bin6 laa1","meaning": "up to you" },
+      { "id": "mou5gai3-no-choice","word": "冇計","jyutping": "mou5 gai3","meaning": "no choice" },
+      { "id": "dak1gwo3ce2gwo3-get-by","word": "得過且過","jyutping": "dak1 gwo3 ce2 gwo3","meaning": "get by" },
+      { "id": "syun3laa1-forget-it","word": "算啦","jyutping": "syun3 laa1","meaning": "forget it" },
+      { "id": "mou5wai6laa1-no-point","word": "冇謂啦","jyutping": "mou5 wai6 laa1","meaning": "no point" },
+      { "id": "m4soeng2-ditch-it","word": "唔想","jyutping": "m4 soeng2","meaning": "don't want to" }
     ],
 
     "spoken_structures": [
-      {
-        "id": "waa6saai3-after-all",
-        "word": "話晒",
-        "jyutping": "waa6 saai3",
-        "meaning": "after all / considering that"
-      },
-      {
-        "id": "dim2dou1hou2-anyway-regardless",
-        "word": "點都好",
-        "jyutping": "dim2 dou1 hou2",
-        "meaning": "anyway / regardless"
-      },
-      {
-        "id": "jat1lei4-for-one-thing",
-        "word": "一嚟",
-        "jyutping": "jat1 lei4",
-        "meaning": "for one thing"
-      },
-      {
-        "id": "zoi3gaa1soeng6-on-top-of-that",
-        "word": "再加上",
-        "jyutping": "zoi3 gaa1 soeng6",
-        "meaning": "on top of that"
-      }
+      { "id": "waa6saai3-after-all","word": "話晒","jyutping": "waa6 saai3","meaning": "after all" },
+      { "id": "dim2dou1hou2-anyway","word": "點都好","jyutping": "dim2 dou1 hou2","meaning": "anyway" },
+      { "id": "jat1lei4-for-one","word": "一嚟","jyutping": "jat1 lei4","meaning": "for one thing" },
+      { "id": "zoi3gaa1soeng6-on-top","word": "再加上","jyutping": "zoi3 gaa1 soeng6","meaning": "on top of that" },
+      { "id": "waa6syut3-speaking-of","word": "話說","jyutping": "waa6 syut3","meaning": "speaking of" },
+      { "id": "zi2hai6-only","word": "只係","jyutping": "zi2 hai6","meaning": "only / just" },
+      { "id": "m4zi1dim2gong2-dont-know-how","word": "唔知點講","jyutping": "m4 zi1 dim2 gong2","meaning": "don't know how to say" }
     ],
 
     "informal_social_language": [
-      {
-        "id": "dak1laa1-thats-enough",
-        "word": "得啦",
-        "jyutping": "dak1 laa1",
-        "meaning": "that’s enough / alright already"
-      },
-      {
-        "id": "m4sai2laa1-no-need-casual",
-        "word": "唔使啦",
-        "jyutping": "m4 sai2 laa1",
-        "meaning": "no need (casual)"
-      },
-      {
-        "id": "syun3sou3-settled",
-        "word": "算數",
-        "jyutping": "syun3 sou3",
-        "meaning": "count it / settled"
-      },
-      {
-        "id": "gaau2dim6-done-sorted",
-        "word": "搞掂",
-        "jyutping": "gaau2 dim6",
-        "meaning": "done / sorted"
-      },
-      {
-        "id": "dak1haan4sin1-later-when-free",
-        "word": "得閒先",
-        "jyutping": "dak1 haan4 sin1",
-        "meaning": "when free / later on"
-      }
+      { "id": "dak1laa1-alright","word": "得啦","jyutping": "dak1 laa1","meaning": "alright / enough" },
+      { "id": "m4sai2laa1-no-need","word": "唔使啦","jyutping": "m4 sai2 laa1","meaning": "no need" },
+      { "id": "syun3sou3-settled","word": "算數","jyutping": "syun3 sou3","meaning": "settled" },
+      { "id": "gaau2dim6-done","word": "搞掂","jyutping": "gaau2 dim6","meaning": "done / sorted" },
+      { "id": "dak1haan4sin1-when-free","word": "得閒先","jyutping": "dak1 haan4 sin1","meaning": "when free" },
+      { "id": "ci4di1sin1-later","word": "遲啲先","jyutping": "ci4 di1 sin1","meaning": "later" },
+      { "id": "mou5zau6m4sai2-no-need-if-none","word": "冇就唔使","jyutping": "mou5 zau6 m4 sai2","meaning": "no need if none" },
+      { "id": "gaa1jau4-keep-going","word": "加油","jyutping": "gaa1 jau4","meaning": "keep going" },
+      { "id": "nam2cing1co2-think-clearly","word": "諗清楚","jyutping": "nam2 cing1 co2","meaning": "think it through" },
+      { "id": "dak1laa1dak1laa1-alright-alright","word": "得啦得啦","jyutping": "dak1 laa1 dak1 laa1","meaning": "alright alright" }
     ],
 
     "implied_meaning_and_exaggeration": [
-      {
-        "id": "seng4jat6-all-the-time",
-        "word": "成日",
-        "jyutping": "seng4 jat6",
-        "meaning": "all the time (often exaggerated)"
-      },
-      {
-        "id": "seng4go3-the-whole-emphatic",
-        "word": "成個",
-        "jyutping": "seng4 go3",
-        "meaning": "the whole (emphatic)"
-      },
-      {
-        "id": "hou2gwai2-really-extremely",
-        "word": "好鬼",
-        "jyutping": "hou2 gwai2",
-        "meaning": "really / extremely (informal)"
-      },
-      {
-        "id": "gwai2gam3-ridiculously",
-        "word": "鬼咁",
-        "jyutping": "gwai2 gam3",
-        "meaning": "ridiculously / extremely"
-      },
-      {
-        "id": "caa1di1-almost-bad-thing",
-        "word": "差啲",
-        "jyutping": "caa1 di1",
-        "meaning": "almost (something bad happened)"
-      }
+      { "id": "seng4jat6-all-the-time","word": "成日","jyutping": "seng4 jat6","meaning": "all the time" },
+      { "id": "seng4go3-whole","word": "成個","jyutping": "seng4 go3","meaning": "whole / entire" },
+      { "id": "hou2gwai2-really","word": "好鬼","jyutping": "hou2 gwai2","meaning": "really / extremely" },
+      { "id": "gwai2gam3-ridiculously","word": "鬼咁","jyutping": "gwai2 gam3","meaning": "ridiculously" },
+      { "id": "caa1di1-almost","word": "差啲","jyutping": "caa1 di1","meaning": "almost (bad outcome)" },
+      { "id": "sei2caang1-stubborn","word": "死撐","jyutping": "sei2 caang1","meaning": "insist stubbornly" },
+      { "id": "sei2cung1-rush-reckless","word": "死衝","jyutping": "sei2 cung1","meaning": "rush recklessly" },
+      { "id": "hou2kwaa1zoeng1-exaggerated","word": "好誇張","jyutping": "hou2 kwaa1 zoeng1","meaning": "so exaggerated" },
+      { "id": "jau5jam1-suspicious","word": "有陰","jyutping": "jau5 jam1","meaning": "feels shady" },
+      { "id": "m4tong4-dont-tell-me","word": "唔通","jyutping": "m4 tong4","meaning": "don't tell me..." },
+      { "id": "nei5waa6laa1-you-tell-me","word": "你話啦","jyutping": "nei5 waa6 laa1","meaning": "you tell me" },
+      { "id": "gam2dou1dak1-like-that-too","word": "咁都得","jyutping": "gam2 dou1 dak1","meaning": "seriously?" }
     ]
   }
 }

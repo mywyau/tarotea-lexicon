@@ -1,0 +1,70 @@
+{
+  "topic": "traditional_cantonese_restaurant",
+  "title": "Traditional Cantonese Restaurant 傳統粵菜",
+  "description": "Learn classic traditional Cantonese banquet and restaurant dishes commonly found in Hong Kong and Guangdong-style restaurants.",
+  "categories": {
+
+    "seafood": [
+      { "id": "cing1zing1jyu4-steamed-fish", "word": "清蒸魚", "jyutping": "cing1 zing1 jyu4", "meaning": "steamed whole fish" },
+      { "id": "goeng1cung1lung4haa1-ginger-scallion-lobster", "word": "薑蔥龍蝦", "jyutping": "goeng1 cung1 lung4 haa1", "meaning": "lobster with ginger and scallions" },
+      { "id": "soeng6tong1zin1haa1-poached-prawns-in-superior-stock", "word": "上湯焗蝦", "jyutping": "soeng6 tong1 guk6 haa1", "meaning": "prawns in superior broth" },
+      { "id": "si6zap1ho2-black-bean-clams", "word": "豉汁炒蜆", "jyutping": "si6 zap1 caau2 hin2", "meaning": "clams in black bean sauce" },
+      { "id": "baau3jyu4-abalone", "word": "鮑魚", "jyutping": "baau3 jyu4", "meaning": "abalone" },
+      { "id": "hou4jyu4-oyster", "word": "蠔豉", "jyutping": "hou4 si6", "meaning": "dried oysters" }
+    ],
+
+    "chicken_and_poultry": [
+      { "id": "baak6cit3gai1-white-cut-chicken", "word": "白切雞", "jyutping": "baak6 cit3 gai1", "meaning": "white cut chicken" },
+      { "id": "jim4guk6gai1-salt-baked-chicken", "word": "鹽焗雞", "jyutping": "jim4 guk6 gai1", "meaning": "salt-baked chicken" },
+      { "id": "si6jau4gai1-soy-sauce-chicken", "word": "豉油雞", "jyutping": "si6 jau4 gai1", "meaning": "soy sauce chicken" },
+      { "id": "goeng1cung1gai1-ginger-scallion-chicken", "word": "薑蔥雞", "jyutping": "goeng1 cung1 gai1", "meaning": "ginger scallion chicken" }
+    ],
+
+    "pork_dishes": [
+      { "id": "caa1siu1-bbq-pork", "word": "叉燒", "jyutping": "caa1 siu1", "meaning": "Cantonese BBQ pork (char siu)" },
+      { "id": "siu1juk6-roast-pork-belly", "word": "燒肉", "jyutping": "siu1 juk6", "meaning": "roast pork belly with crispy skin" },
+      { "id": "mui4coi3kau3juk6-braised-pork-belly", "word": "梅菜扣肉", "jyutping": "mui4 coi3 kau3 juk6", "meaning": "braised pork belly with preserved mustard greens" },
+      { "id": "gu1lou1juk6-sweet-sour-pork", "word": "咕嚕肉", "jyutping": "gu1 lou1 juk6", "meaning": "sweet and sour pork" },
+      { "id": "zing1juk6beng2-steamed-pork-patty", "word": "蒸肉餅", "jyutping": "zing1 juk6 beng2", "meaning": "steamed minced pork patty" },
+      { "id": "haam4jyu4zing1juk6beng2-salted-fish-pork-patty", "word": "鹹魚蒸肉餅", "jyutping": "haam4 jyu4 zing1 juk6 beng2", "meaning": "steamed pork patty with salted fish" },
+      { "id": "daan2gaau3paai4gwat1-sweet-sour-ribs", "word": "鎮江排骨", "jyutping": "zan3 gong1 paai4 gwat1", "meaning": "sweet and sour pork ribs (Zhenjiang style, HK version)" },
+      { "id": "paai4gwat1wong4-pork-ribs-in-honey-sauce", "word": "蜜汁排骨", "jyutping": "mat6 zap1 paai4 gwat1", "meaning": "honey-glazed pork ribs" },
+      { "id": "zin1paai4gwat1-pan-fried-pork-chop", "word": "煎豬扒", "jyutping": "zin1 zyu1 paa4", "meaning": "pan-fried pork chop" },
+      { "id": "soeng1tong1paai4gwat1-pork-rib-soup", "word": "排骨湯", "jyutping": "paai4 gwat1 tong1", "meaning": "pork rib soup" },
+      { "id": "laap6mei6bo2zaai1faan6-claypot-rice-with-preserved-meats", "word": "臘味煲仔飯", "jyutping": "laap6 mei6 bou1 zai2 faan6", "meaning": "claypot rice with preserved meats" },
+      { "id": "laap6coeng2-steamed-chinese-sausage", "word": "蒸臘腸", "jyutping": "zing1 laap6 coeng2", "meaning": "steamed Chinese sausage" },
+      { "id": "si6jau4zyu1so2-soy-braised-pork", "word": "豉油王豬手", "jyutping": "si6 jau4 wong4 zyu1 sau2", "meaning": "soy-braised pork knuckle" },
+      { "id": "bak1cut3zyu1-sliced-boiled-pork", "word": "白切豬肉", "jyutping": "baak6 cit3 zyu1 juk6", "meaning": "sliced boiled pork with dipping sauce" },
+      { "id": "saa1po4zyu1juk6bo1-claypot-pork-belly", "word": "砂鍋腩肉", "jyutping": "saa1 wo1 naam5 juk6", "meaning": "claypot pork belly" },
+      { "id": "nam5jyu4syu1zung1-fish-sauce-braised-pork", "word": "南乳炆豬肉", "jyutping": "naam4 jyu5 man1 zyu1 juk6", "meaning": "pork braised in fermented bean curd sauce" },
+      { "id": "dau6si6caau2zyu1juk6-black-bean-pork", "word": "豆豉炒豬肉", "jyutping": "dau6 si6 caau2 zyu1 juk6", "meaning": "stir-fried pork with fermented black beans" },
+      { "id": "soeng1tong1caau2zyu1gin2-ginger-scallion-pork", "word": "薑蔥炒豬肉", "jyutping": "goeng1 cung1 caau2 zyu1 juk6", "meaning": "stir-fried pork with ginger and scallions" },
+      { "id": "zuk1paai4gwat1-congee-with-pork-ribs", "word": "排骨粥", "jyutping": "paai4 gwat1 zuk1", "meaning": "pork rib congee" },
+      { "id": "zung1zyu1zuk6-steamed-pork-with-taro", "word": "芋頭蒸豬肉", "jyutping": "wu6 tau4 zing1 zyu1 juk6", "meaning": "steamed pork with taro" }
+    ],
+
+    "beef_and_offal": [
+      { "id": "ngau4lam5beef-brisket", "word": "牛腩", "jyutping": "ngau4 lam5", "meaning": "braised beef brisket" },
+      { "id": "caau2ngau4juk6-stir-fried-beef", "word": "炒牛肉", "jyutping": "caau2 ngau4 juk6", "meaning": "stir-fried beef slices" },
+      { "id": "ngau4paak3jip6-beef-tripe", "word": "牛柏葉", "jyutping": "ngau4 paak3 jip6", "meaning": "beef tripe (omasum)" }
+    ],
+
+    "vegetables": [
+      { "id": "soeng6tong1si4suk6-seasonal-veg-in-stock", "word": "上湯時蔬", "jyutping": "soeng6 tong1 si4 suk6", "meaning": "seasonal vegetables in superior stock" },
+      { "id": "syun3jung4coi3sam1-garlic-choy-sum", "word": "蒜蓉菜心", "jyutping": "syun3 jung4 coi3 sam1", "meaning": "choy sum with garlic" },
+      { "id": "syun3jung4gaai3laan4-garlic-gai-lan", "word": "蒜蓉芥蘭", "jyutping": "syun3 jung4 gaai3 laan4", "meaning": "Chinese broccoli with garlic" }
+    ],
+
+    "soups": [
+      { "id": "lo4fo2tong1-old-fire-soup", "word": "老火湯", "jyutping": "lou5 fo2 tong1", "meaning": "slow-cooked Cantonese soup" },
+      { "id": "jyu4tau4tong1-fish-head-soup", "word": "魚頭湯", "jyutping": "jyu4 tau4 tong1", "meaning": "fish head soup" },
+      { "id": "soeng6tong1-superior-stock", "word": "上湯", "jyutping": "soeng6 tong1", "meaning": "superior broth / stock" }
+    ],
+
+    "claypot_and_specialties": [
+      { "id": "bo2zaai1faan6-claypot-rice", "word": "煲仔飯", "jyutping": "bou1 zai2 faan6", "meaning": "claypot rice" },
+      { "id": "laap6mei6bo2zaai1faan6-preserved-meat-claypot-rice", "word": "臘味煲仔飯", "jyutping": "laap6 mei6 bou1 zai2 faan6", "meaning": "claypot rice with preserved meats" },
+      { "id": "saa1po4dau6fu6-claypot-tofu", "word": "砂鍋豆腐", "jyutping": "saa1 wo1 dau6 fu6", "meaning": "tofu in claypot" }
+    ]
+  }
+}

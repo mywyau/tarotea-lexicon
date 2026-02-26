@@ -1,0 +1,45 @@
+{
+  "topic": "countries",
+  "title": "Countries 國家",
+  "description": "Learn the Cantonese names of countries commonly mentioned in conversation, travel, and news.",
+  "categories": {
+
+    "asia": [
+      { "id": "zung1gwok3-china", "word": "中國", "jyutping": "zung1 gwok3", "meaning": "China" },
+      { "id": "toi4waan1-taiwan", "word": "台灣", "jyutping": "toi4 waan1", "meaning": "Taiwan" },
+      { "id": "jat6bun2-japan", "word": "日本", "jyutping": "jat6 bun2", "meaning": "Japan" },
+      { "id": "hon3gwok3-korea", "word": "韓國", "jyutping": "hon4 gwok3", "meaning": "Korea" },
+      { "id": "sing1gaa1bo1-singapore", "word": "新加坡", "jyutping": "san1 gaa1 bo1", "meaning": "Singapore" },
+      { "id": "taai3gwok3-thailand", "word": "泰國", "jyutping": "taai3 gwok3", "meaning": "Thailand" },
+      { "id": "jan3dou1-india", "word": "印度", "jyutping": "jan3 dou6", "meaning": "India" },
+      { "id": "fei1leot6ban1-philippines", "word": "菲律賓", "jyutping": "fei1 leot6 ban1", "meaning": "Philippines" }
+    ],
+
+    "europe": [
+      { "id": "jing1gwok3-united-kingdom", "word": "英國", "jyutping": "jing1 gwok3", "meaning": "United Kingdom" },
+      { "id": "faat3gwok3-france", "word": "法國", "jyutping": "faat3 gwok3", "meaning": "France" },
+      { "id": "dak1gwok3-germany", "word": "德國", "jyutping": "dak1 gwok3", "meaning": "Germany" },
+      { "id": "ji3taai3lei6-italy", "word": "意大利", "jyutping": "ji3 taai3 lei6", "meaning": "Italy" },
+      { "id": "sai1baan1ngaa4-spain", "word": "西班牙", "jyutping": "sai1 baan1 ngaa4", "meaning": "Spain" },
+      { "id": "ho2laan4-netherlands", "word": "荷蘭", "jyutping": "ho4 laan4", "meaning": "Netherlands" },
+      { "id": "seoi6si6-switzerland", "word": "瑞士", "jyutping": "seoi6 si6", "meaning": "Switzerland" }
+    ],
+
+    "americas": [
+      { "id": "mei5gwok3-united-states", "word": "美國", "jyutping": "mei5 gwok3", "meaning": "United States" },
+      { "id": "gaa1naa4daai6-canada", "word": "加拿大", "jyutping": "gaa1 naa4 daai6", "meaning": "Canada" },
+      { "id": "baa1sai1-brazil", "word": "巴西", "jyutping": "baa1 sai1", "meaning": "Brazil" },
+      { "id": "mak6sai1go1-mexico", "word": "墨西哥", "jyutping": "mak6 sai1 go1", "meaning": "Mexico" }
+    ],
+
+    "oceania": [
+      { "id": "ou3zau1-australia", "word": "澳洲", "jyutping": "ou3 zau1", "meaning": "Australia" },
+      { "id": "san1zai1laan4-new-zealand", "word": "新西蘭", "jyutping": "san1 sai1 laan4", "meaning": "New Zealand" }
+    ],
+
+    "africa": [
+      { "id": "naam4fei1-south-africa", "word": "南非", "jyutping": "naam4 fei1", "meaning": "South Africa" },
+      { "id": "ai3kap1-egypt", "word": "埃及", "jyutping": "oi1 kap1", "meaning": "Egypt" }
+    ]
+  }
+}

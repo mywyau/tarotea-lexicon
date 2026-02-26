@@ -1,7 +1,7 @@
 {
   "topic": "restaurant_menu",
   "title": "Restaurant Menu",
-  "description": "Learn common Cantonese restaurant menu items and dishes you will see in Hong Kong cafés, cha chaan tengs, and dim sum restaurants.",
+  "description": "Learn common restaurant menu items and dishes you will see.",
   "categories": {
 
     "rice_dishes": [
@@ -11,7 +11,6 @@
       { "id": "baai6cit3gai1faan6-white-cut-chicken-rice", "word": "白切雞飯", "jyutping": "baak6 cit3 gai1 faan6", "meaning": "white cut chicken with rice" },
       { "id": "siu1ngap6faan6-roast-duck-rice", "word": "燒鴨飯", "jyutping": "siu1 aap3 faan6", "meaning": "roast duck with rice" },
       { "id": "caa1siu1faan6-bbq-pork-rice", "word": "叉燒飯", "jyutping": "caa1 siu1 faan6", "meaning": "BBQ pork with rice" },
-      { "id": "ngau4juk6faan6-beef-rice", "word": "牛肉飯", "jyutping": "ngau4 juk6 faan6", "meaning": "beef with rice" },
       { "id": "soeng1hap6faan6-baked-pork-chop-rice", "word": "焗豬扒飯", "jyutping": "guk6 zyu1 paa4 faan6", "meaning": "baked pork chop rice" },
       { "id": "gaa1laap6ngau4juk6faan6", "word": "咖喱牛肉飯", "jyutping": "gaa3 lei1 ngau4 juk6 faan6", "meaning": "curry beef rice" },
       { "id": "gaa3lei1gai1faan6-curry-chicken-rice", "word": "咖喱雞飯", "jyutping": "gaa3 lei1 gai1 faan6", "meaning": "curry chicken rice" }
@@ -26,8 +25,7 @@
       { "id": "caau2ho2-fried-ho-fun", "word": "炒河粉", "jyutping": "caau2 ho4 fan2", "meaning": "fried flat rice noodles" },
       { "id": "saa1gaa1min6-shrimp-roe-noodles", "word": "蝦子撈麵", "jyutping": "haa1 zi2 lou1 min6", "meaning": "shrimp roe tossed noodles" },
       { "id": "zung2tong1min6-mixed-soup-noodles", "word": "雜湯麵", "jyutping": "zaap6 tong1 min6", "meaning": "mixed soup noodles" },
-      { "id": "gai1si1tong1min6-chicken-shredded-noodles", "word": "雞絲湯麵", "jyutping": "gai1 si1 tong1 min6", "meaning": "shredded chicken soup noodles" },
-      { "id": "gon1caau2ngau4ho4", "word": "乾炒牛河", "jyutping": "gon1 caau2 ngau4 ho4", "meaning": "dry fried beef flat rice noodles"}
+      { "id": "gai1si1tong1min6-chicken-shredded-noodles", "word": "雞絲湯麵", "jyutping": "gai1 si1 tong1 min6", "meaning": "shredded chicken soup noodles" }
     ],
 
     "cha_chaan_teng_classics": [
@@ -42,18 +40,16 @@
       { "id": "cing1zing1jyu4-steamed-fish", "word": "清蒸魚", "jyutping": "cing1 zing1 jyu4", "meaning": "steamed fish" },
       { "id": "jyu4tau4tong1-fish-head-soup", "word": "魚頭湯", "jyutping": "jyu4 tau4 tong1", "meaning": "fish head soup" },
       { "id": "haam4jyu4gaai2salted-fish-chicken", "word": "鹹魚雞粒", "jyutping": "haam4 jyu4 gai1 nap1", "meaning": "salted fish with diced chicken" },
-      { "id": "zaa3jyu4daan2-fried-fish-balls", "word": "炸魚蛋", "jyutping": "zaa3 jyu4 daan2", "meaning": "fried fish balls" },
       { "id": "jing1haa1-steamed-shrimp", "word": "蒸蝦", "jyutping": "zing1 haa1", "meaning": "steamed shrimp" },
       { "id": "siu1haa1-baked-prawns", "word": "燒蝦", "jyutping": "siu1 haa1", "meaning": "grilled prawns" },
       { "id": "zaa3jim4haa1-salt-pepper-prawns", "word": "椒鹽蝦", "jyutping": "ziu1 jim4 haa1", "meaning": "salt and pepper prawns" },
       { "id": "zaa3jim4jau4jyu4-salt-pepper-squid", "word": "椒鹽魷魚", "jyutping": "ziu1 jim4 jau4 jyu4", "meaning": "salt and pepper squid" },
       { "id": "si6zap1ho2-black-bean-clams", "word": "豉汁蜆", "jyutping": "si6 zap1 hin2", "meaning": "clams in black bean sauce" },
       { "id": "soeng1tong1jyu4daan2-fish-ball-soup", "word": "魚蛋湯", "jyutping": "jyu4 daan2 tong1", "meaning": "fish ball soup" },
-      { "id": "soeng1tong1haa1-fresh-shrimp-soup", "word": "鮮蝦湯", "jyutping": "sin1 haa1 tong1", "meaning": "fresh shrimp soup" },
       { "id": "zaa3jyu4liu4-fried-fish-fillet", "word": "炸魚柳", "jyutping": "zaa3 jyu4 lau2", "meaning": "fried fish fillet" },
-      { "id": "soeng1caa4jyu4fish-with-tea-sauce", "word": "茶香魚", "jyutping": "caa4 hoeng1 jyu4", "meaning": "tea-smoked fish" },
       { "id": "jing1hou2-steamed-oyster", "word": "蒸蠔", "jyutping": "zing1 hou4", "meaning": "steamed oysters" },
       { "id": "soeng1tong1gaa1laap6-steamed-lobster", "word": "清蒸龍蝦", "jyutping": "cing1 zing1 lung4 haa1", "meaning": "steamed lobster" },
+      {"id": "goeng1cung1lung4haa1-ginger-scallion-lobster","word": "薑蔥龍蝦","jyutping": "goeng1 cung1 lung4 haa1","meaning": "lobster with ginger and scallions" }
       { "id": "soeng1tong1gei2gaa1crab", "word": "清蒸蟹", "jyutping": "cing1 zing1 haai5", "meaning": "steamed crab" },
       { "id": "soeng1caa4hok6-abalone", "word": "鮑魚", "jyutping": "baau3 jyu4", "meaning": "abalone" }
     ],
@@ -75,7 +71,6 @@
       { "id": "baak6cit3gai1-white-cut-chicken", "word": "白切雞", "jyutping": "baak6 cit3 gai1", "meaning": "white cut chicken" },
       { "id": "siu1gai1-roast-chicken", "word": "燒雞", "jyutping": "siu1 gai1", "meaning": "roast chicken" },
       { "id": "gaa3lei1gai1-curry-chicken", "word": "咖喱雞", "jyutping": "gaa3 lei1 gai1", "meaning": "curry chicken" },
-      { "id": "gung1bou2gai1-kung-pao-chicken", "word": "宮保雞", "jyutping": "gung1 bou2 gai1", "meaning": "kung pao chicken" },
       { "id": "caau2gai1ding2-stir-fried-diced-chicken", "word": "炒雞丁", "jyutping": "caau2 gai1 ding1", "meaning": "stir-fried diced chicken" },
       { "id": "caau2gai1wing1-stir-fried-chicken-wings", "word": "炒雞翼", "jyutping": "caau2 gai1 jik6", "meaning": "stir-fried chicken wings" },
       { "id": "zaa3gai1wing1-fried-chicken-wings", "word": "炸雞翼", "jyutping": "zaa3 gai1 jik6", "meaning": "fried chicken wings" },
@@ -93,6 +88,7 @@
       { "id": "guk6zyu1paa4faan6-baked-pork-chop-rice", "word": "焗豬扒飯", "jyutping": "guk6 zyu1 paa4 faan6", "meaning": "baked pork chop rice" },
       { "id": "tim1cuk1zyu1-sweet-sour-pork", "word": "咕嚕肉", "jyutping": "gu1 lou1 juk6", "meaning": "sweet and sour pork" },
       { "id": "caau2zyu1juk6-stir-fried-pork", "word": "炒豬肉", "jyutping": "caau2 zyu1 juk6", "meaning": "stir-fried pork" },
+      { "id": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce", "word": "豉汁排骨", "jyutping": "si6 zap1 paai4 gwat1", "meaning": "pork ribs in black bean sauce" },
       { "id": "mui6coi3kau3juk6-braised-pork-belly", "word": "梅菜扣肉", "jyutping": "mui4 coi3 kau3 juk6", "meaning": "braised pork belly with preserved mustard greens" },
       { "id": "zung1zyu1jung4-steamed-minced-pork", "word": "蒸豬肉餅", "jyutping": "zing1 zyu1 juk6 beng2", "meaning": "steamed minced pork patty" },
       { "id": "laap6coeng2-chinese-sausage", "word": "臘腸", "jyutping": "laap6 coeng2", "meaning": "Chinese sausage" },
@@ -109,8 +105,8 @@
       { "id": "ngau4juk6-beef", "word": "牛肉", "jyutping": "ngau4 juk6", "meaning": "beef" },
       { "id": "caau2ngau4juk6-stir-fried-beef", "word": "炒牛肉", "jyutping": "caau2 ngau4 juk6", "meaning": "stir-fried beef" },
       { "id": "haak1ziu1ngau4juk6-black-pepper-beef", "word": "黑椒牛肉", "jyutping": "hak1 ziu1 ngau4 juk6", "meaning": "black pepper beef" },
+      { "id": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli", "word": "西蘭花炒牛肉", "jyutping": "sai1 laan4 faa1 caau2 ngau4 juk6", "meaning": "stir-fried beef with broccoli"},
       { "id": "haa1de1ngau4juk6-satay-beef", "word": "沙嗲牛肉", "jyutping": "saa1 de1 ngau4 juk6", "meaning": "satay beef" },
-      { "id": "soeng1tong1ngau4juk6-steamed-beef", "word": "清蒸牛肉", "jyutping": "cing1 zing1 ngau4 juk6", "meaning": "steamed beef" },
       { "id": "ngau4lei4beef-curry-beef", "word": "咖喱牛肉", "jyutping": "gaa3 lei1 ngau4 juk6", "meaning": "curry beef" },
       { "id": "ngau4juk6paai4-beef-steak", "word": "牛扒", "jyutping": "ngau4 paa4", "meaning": "beef steak" },
       { "id": "ngau4juk6tong1-beef-soup", "word": "牛肉湯", "jyutping": "ngau4 juk6 tong1", "meaning": "beef soup" },
