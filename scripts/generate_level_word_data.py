@@ -37,7 +37,7 @@ With filename = <id>.json
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
-LEVEL_FILE = Path("content/levels/level-eight.json")
+LEVEL_FILE = Path("content/levels/level-ten.json")
 OUT_DIR = Path("content/levels/generated")
 
 

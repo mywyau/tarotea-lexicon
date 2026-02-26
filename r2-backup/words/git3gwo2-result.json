@@ -2,42 +2,42 @@
   "id": "git3gwo2-result",
   "word": "結果",
   "jyutping": "git3 gwo2",
-  "meaning": "as a result",
+  "meaning": "result",
   "pos": [
     "expression",
     "connector"
   ],
   "usage": [
-    "This expression is used to indicate the consequence or outcome of a previous action or event.",
-    "It often serves as a linking word to connect cause and effect in a sentence.",
-    "You can use it to summarize results or to emphasize what happened eventually after a series of events.",
-    "It frequently appears in both formal and informal spoken Cantonese and is suitable for narrative storytelling.",
-    "In conversation, it can appear at the beginning or middle of a sentence to shift focus to the resulting situation."
+    "The word is used to indicate the outcome or consequence of an action or event.",
+    "It can function as a connector between cause and effect in sentences.",
+    "Often placed at the beginning of a sentence to introduce the result of a preceding statement.",
+    "It helps to summarize or conclude information relating to why something happened or what happened afterwards.",
+    "It can be used in both formal and informal spoken Cantonese."
   ],
   "examples": [
     {
       "id": "git3gwo2-result-example-1",
-      "sentence": "我哋努力咗咁耐，結果都冇成功。",
-      "jyutping": "ngo5 dei6 nou5 lik6 zo2 gam2 noi6, git3 gwo2 dou1 mou5 sing4 gung1.",
-      "meaning": "We worked hard for so long, but as a result, we still did not succeed."
+      "sentence": "我唔小心跌咗手機，結果屏幕裂咗。",
+      "jyutping": "ngo5 m4 siu2 sam1 dit3 zo2 sau2 gei1, git3 gwo2 ping4 muk6 lit3 zo2.",
+      "meaning": "I accidentally dropped my phone, and as a result, the screen cracked."
     },
     {
       "id": "git3gwo2-result-example-2",
-      "sentence": "你唔聽我講，結果出事喇。",
-      "jyutping": "nei5 m4 teng1 ngo5 gong2, git3 gwo2 ceot1 si6 laa3.",
-      "meaning": "You didn’t listen to me; as a result, something went wrong."
+      "sentence": "今朝遲到，結果被老細鬧咗一餐。",
+      "jyutping": "gam1 ziu1 ci4 dou3, git3 gwo2 bei6 lou5 sai3 naau6 zo2 jat1 caan1.",
+      "meaning": "I was late this morning, and as a result, my boss scolded me."
     },
     {
       "id": "git3gwo2-result-example-3",
-      "sentence": "結果佢冇嚟參加聚會，好可惜。",
-      "jyutping": "git3 gwo2 keoi5 mou5 lai4 caam1 gaa1 zeoi6 wui5, hou2 ho2 sik1.",
-      "meaning": "As a result, he didn’t come to the gathering, which was a shame."
+      "sentence": "佢太努力讀書，結果考試考得好好。",
+      "jyutping": "keoi5 taai3 nou5 lik6 duk6 syu1, git3 gwo2 haau2 si5 haau2 dak1 hou2 hou2.",
+      "meaning": "He studied very hard, and as a result, he did very well on the exam."
     },
     {
       "id": "git3gwo2-result-example-4",
-      "sentence": "我試吓唔食甜嘢，結果精神好多咗。",
-      "jyutping": "ngo5 si3 haa5 m4 sik6 tim4 je5, git3 gwo2 zing1 san4 hou2 do1 zo2.",
-      "meaning": "I tried not eating sweets; as a result, I felt much more energetic."
+      "sentence": "我哋唔預咗天氣壞，結果淋濕晒。",
+      "jyutping": "ngo5 dei6 m4 jyu6 zo2 tin1 hei3 waai6, git3 gwo2 lam4 sap1 saai3.",
+      "meaning": "We did not prepare for bad weather, and as a result, we got completely soaked."
     }
   ],
   "audio": {
@@ -51,17 +51,16 @@
   },
   "tags": [
     "advanced",
-    "story_turns_and_surprises",
     "connector",
-    "consequence",
-    "narrative",
-    "level-6"
+    "cause_and_effect",
+    "spoken_cantonese",
+    "level-9"
   ],
   "related": [
-    "結果喇 (git3 gwo2 laa3)",
-    "於是 (jyu1 si6)",
-    "所以 (so2 ji5)",
-    "後果 (hau6 gwo2)",
-    "最後 (zeoi3 hau6)"
+    "因為",
+    "所以",
+    "結果係",
+    "導致",
+    "因此"
   ]
 }
