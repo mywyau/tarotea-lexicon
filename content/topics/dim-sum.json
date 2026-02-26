@@ -70,47 +70,47 @@
 
     "specialty_items": [
       { "id": "fu6pei4gyun2-tofu-skin-roll", "word": "腐皮卷", "jyutping": "fu6 pei4 gyun2", "meaning": "tofu skin roll" },
-      { "id": "gau2coi3gaau2-chive-dumpling", "word": "韭菜餃", "jyutping": "gau2 coi3 gaau2", "meaning": "chive dumplings" },
+      { "id": "gau2coi3gaau2-chive-dumplings", "word": "韭菜餃", "jyutping": "gau2 coi3 gaau2", "meaning": "chive dumplings" },
       { "id": "zyu1zaap6-mixed-pork-offal", "word": "豬雜", "jyutping": "zyu1 zaap6", "meaning": "mixed pork offal" },
-      { "id": "laap6coeng2-steamed-sausage", "word": "臘腸", "jyutping": "laap6 coeng2", "meaning": "chinese sausage" },
+      { "id": "laap6coeng2-chinese-sausage", "word": "臘腸", "jyutping": "laap6 coeng2", "meaning": "chinese sausage" },
       { "id": "caau2coi3sam1-stir-fried-choy-sum", "word": "炒菜心", "jyutping": "caau2 coi3 sam1", "meaning": "stir fried choy sum" },
       { "id": "jyu4tau4tong1-fish-head-soup", "word": "魚頭湯", "jyutping": "jyu4 tau4 tong1", "meaning": "fish head soup" },
-      { "id": "laap6mei6faai3-rice-with-preserved-meat", "word": "臘味飯", "jyutping": "laap6 mei6 faan6", "meaning": "rice with preserved meats" },
+      { "id": "laap6mei6faan6-rice-with-preserved-meats", "word": "臘味飯", "jyutping": "laap6 mei6 faan6", "meaning": "rice with preserved meats" },
       { "id": "zuk1-congee", "word": "粥", "jyutping": "zuk1", "meaning": "congee" },
-      { "id": "jyu4daan2juk1-fish-ball-congee", "word": "魚蛋粥", "jyutping": "jyu4 daan2 zuk1", "meaning": "fish ball congee" },
+      { "id": "jyu4daan2zuk1-fish-ball-congee", "word": "魚蛋粥", "jyutping": "jyu4 daan2 zuk1", "meaning": "fish ball congee" },
       { "id": "pei4daan2sau3juk6zuk1-century-egg-and-pork-congee", "word": "皮蛋瘦肉粥", "jyutping": "pei4 daan2 sau3 juk6 zuk1", "meaning": "century egg and pork congee" },
-      { "id": "caai3sam1", "word": "菜心", "jyutping": "coi3 sam1", "meaning": "choy sum" }
+      { "id": "coi3sam1-choi-sum", "word": "菜心", "jyutping": "coi3 sam1", "meaning": "choy sum" }
     ],
 
     "tea_types": [
-      { "id": "bou2lei4-pu-erh", "word": "普洱", "jyutping": "bou2 nei5", "meaning": "pu-erh tea" },
-      { "id": "tit3gun1jam1-iron-buddha-tea", "word": "鐵觀音", "jyutping": "tit3 gun1 jam1", "meaning": "iron buddha oolong tea" },
-      { "id": "heong1pin2-jasmine-tea", "word": "香片", "jyutping": "hoeng1 pin2", "meaning": "jasmine tea" },
+      { "id": "bou2nei5-pu-erh-tea", "word": "普洱", "jyutping": "bou2 nei5", "meaning": "pu-erh tea" },
+      { "id": "tit3gun1jam1-iron-buddha-oolong-tea", "word": "鐵觀音", "jyutping": "tit3 gun1 jam1", "meaning": "iron buddha oolong tea" },
+      { "id": "hoeng1pin2-jasmine-tea", "word": "香片", "jyutping": "hoeng1 pin2", "meaning": "jasmine tea" },
       { "id": "sau6mei4-sau-mei-white-tea", "word": "壽眉", "jyutping": "sau6 mei4", "meaning": "sau mei white tea" },
       { "id": "luk6caa4-green-tea", "word": "綠茶", "jyutping": "luk6 caa4", "meaning": "green tea" },
       { "id": "hung4caa4-black-tea", "word": "紅茶", "jyutping": "hung4 caa4", "meaning": "black tea" }
     ],
 
     "tea_ordering_phrases": [
-      {"id": "m4goi1bou2caa4-please-refill-tea","word": "唔該補茶","jyutping": "m4 goi1 bou2 caa4","meaning": "excuse me, please refill the tea."},
-      {"id": "m4goi1gaa1seoi2-please-add-water","word": "唔該加水","jyutping": "m4 goi1 gaa1 seoi2","meaning": "excuse me, please add more hot water."},
-      {"id": "ho2m4ho2ji5bou2caa4-can-you-refill","word": "可唔可以補茶？","jyutping": "ho2 m4 ho2 ji5 bou2 caa4","meaning": "can you refill the tea"},
-      {"id": "ho2m4ho2ji5gaa1seoi2-can-you-add-water","word": "可唔可以加水？","jyutping": "ho2 m4 ho2 ji5 gaa1 seoi2","meaning": "can you add more water"},
-      {"id": "m4goi1jat1wu4caa4-one-pot-tea","word": "唔該一壺茶","jyutping": "m4 goi1 jat1 wu4 caa4","meaning": "Excuse me, one pot of tea please."},
-      {"id": "ho2m4ho2ji5jat1wu4bou2caa4-new-pot","word": "可唔可以換一壺茶？","jyutping": "ho2 m4 ho2 ji5 wun6 jat1 wu4 caa4","meaning": "can we change to a new pot of tea"},
-      {"id": "nei5dei6jam2bin1zung2caa4-which-tea","word": "你哋飲邊種茶？","jyutping": "nei5 dei6 jam2 bin1 zung2 caa4","meaning": "which tea are you having"},
-      {"id": "bou2seoi2jat1ci3-refill-once","word": "補水一次","jyutping": "bou2 seoi2 jat1 ci3","meaning": "refill with water once."},
-      {"id": "caa4laang1zo2-tea-is-cold","word": "茶凍咗","jyutping": "caa4 dung3 zo2","meaning": "the tea has gone cold."},
-      {"id": "ho2m4ho2ji5gaa1cit3hot-water","word": "可唔可以加熱水？","jyutping": "ho2 m4 ho2 ji5 gaa1 jit6 seoi2","meaning": "can you add hot water"}
+      {"id": "m4goi1bou2caa4-excuse-me-please-refill-the-tea","word": "唔該補茶","jyutping": "m4 goi1 bou2 caa4","meaning": "excuse me, please refill the tea." },
+      {"id": "m4goi1gaa1seoi2-excuse-me-please-add-more-hot-water","word": "唔該加水","jyutping": "m4 goi1 gaa1 seoi2","meaning": "excuse me, please add more hot water." },
+      {"id": "ho2m4ho2ji5bou2caa4-can-you-refill-the-tea","word": "可唔可以補茶？","jyutping": "ho2 m4 ho2 ji5 bou2 caa4","meaning": "can you refill the tea" },
+      {"id": "ho2m4ho2ji5gaa1seoi2-can-you-add-more-water","word": "可唔可以加水？","jyutping": "ho2 m4 ho2 ji5 gaa1 seoi2","meaning": "can you add more water" },
+      {"id": "m4goi1jat1wu4caa4-excuse-me-one-pot-of-tea-please","word": "唔該一壺茶","jyutping": "m4 goi1 jat1 wu4 caa4","meaning": "Excuse me, one pot of tea please." },
+      {"id": "ho2m4ho2ji5wun6jat1wu4caa4-can-we-change-to-a-new-pot-of-tea","word": "可唔可以換一壺茶？","jyutping": "ho2 m4 ho2 ji5 wun6 jat1 wu4 caa4","meaning": "can we change to a new pot of tea" },
+      {"id": "nei5dei6jam2bin1zung2caa4-which-tea-are-you-having","word": "你哋飲邊種茶？","jyutping": "nei5 dei6 jam2 bin1 zung2 caa4","meaning": "which tea are you having" },
+      {"id": "bou2seoi2jat1ci3-refill-with-water-once","word": "補水一次","jyutping": "bou2 seoi2 jat1 ci3","meaning": "refill with water once." },
+      {"id": "caa4dung3zo2-the-tea-has-gone-cold","word": "茶凍咗","jyutping": "caa4 dung3 zo2","meaning": "the tea has gone cold." },
+      {"id": "ho2m4ho2ji5gaa1jit6seoi2-can-you-add-hot-water","word": "可唔可以加熱水？","jyutping": "ho2 m4 ho2 ji5 gaa1 jit6 seoi2","meaning": "can you add hot water" }
     ],
 
     "yum_cha_terms": [
       { "id": "dim2sam1-dim-sum", "word": "點心", "jyutping": "dim2 sam1", "meaning": "dim sum" },
-      { "id": "jam2caa4-yum-cha", "word": "飲茶", "jyutping": "jam2 caa4", "meaning": "to have dim sum" },
+      { "id": "jam2caa4-to-have-dim-sum", "word": "飲茶", "jyutping": "jam2 caa4", "meaning": "to have dim sum" },
       { "id": "caa4-tea", "word": "茶", "jyutping": "caa4", "meaning": "tea" },
       { "id": "bou2caa4-refill-tea", "word": "補茶", "jyutping": "bou2 caa4", "meaning": "refill tea" },
-      { "id": "toi4-number", "word": "枱", "jyutping": "toi4", "meaning": "restaurant table" },
-      { "id": "maai4daan1-pay-bill", "word": "埋單", "jyutping": "maai4 daan1", "meaning": "to pay the bill" }
+      { "id": "toi4-restaurant-table", "word": "枱", "jyutping": "toi4", "meaning": "restaurant table" },
+      { "id": "maai4daan1-to-pay-the-bill", "word": "埋單", "jyutping": "maai4 daan1", "meaning": "to pay the bill" }
     ]
   }
 }
