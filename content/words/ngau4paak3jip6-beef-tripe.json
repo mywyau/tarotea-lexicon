@@ -2,40 +2,40 @@
   "id": "ngau4paak3jip6-beef-tripe",
   "word": "牛柏葉",
   "jyutping": "ngau4 paak3 jip6",
-  "meaning": "beef tripe",
+  "meaning": "beef tripe (omasum)",
   "pos": [
     "noun"
   ],
   "usage": [
-    "Ngau4 paak3 jip6 (beef tripe) is commonly used as an ingredient in dim sum and Cantonese soups.",
-    "The word 'ngau4 paak3 jip6' functions as a noun referring to the edible stomach lining of a cow.",
-    "You can use 'ngau4 paak3 jip6' to specify a particular type of offal when ordering food.",
-    "It often appears after the quantifier when counting portions, for example, 'yat1 go3 ngau4 paak3 jip6' means 'one serving of beef tripe'."
+    "牛柏葉 is commonly served as a dim sum dish or used in Cantonese soups and hot pot.",
+    "The word refers specifically to omasum, a type of beef tripe with a layered, textured appearance.",
+    "It is often steamed with ginger and scallions in dim sum restaurants.",
+    "The natural quantifier when ordering is usually 'fan6' (份), for example, 'jat1 fan6 ngau4 paak3 jip6' means 'one portion of beef tripe'."
   ],
   "examples": [
     {
       "id": "ngau4paak3jip6-beef-tripe-example-1",
-      "sentence": "Ngo5 soeng2 sik6 ngau4 paak3 jip6 dim2sam2.",
-      "jyutping": "ngo5 soeng2 sik6 ngau4 paak3 jip6 dim2sam2",
+      "sentence": "我想食牛柏葉點心。",
+      "jyutping": "ngo5 soeng2 sik6 ngau4 paak3 jip6 dim2 sam1.",
       "meaning": "I want to eat beef tripe dim sum."
     },
     {
       "id": "ngau4paak3jip6-beef-tripe-example-2",
-      "sentence": "Lei5 sik6 gwo3 ngau4 paak3 jip6 mei6?",
-      "jyutping": "lei5 sik6 gwo3 ngau4 paak3 jip6 mei6",
+      "sentence": "你食過牛柏葉未？",
+      "jyutping": "lei5 sik6 gwo3 ngau4 paak3 jip6 mei6?",
       "meaning": "Have you tried beef tripe before?"
     },
     {
       "id": "ngau4paak3jip6-beef-tripe-example-3",
-      "sentence": "Ngau4 paak3 jip6 zing1 hai6 hou2 haak3 hau2.",
-      "jyutping": "ngau4 paak3 jip6 zing1 hai6 hou2 haak3 hau2",
-      "meaning": "Beef tripe is really crunchy."
+      "sentence": "牛柏葉蒸得好爽口。",
+      "jyutping": "ngau4 paak3 jip6 zing1 dak1 hou2 song2 hau2.",
+      "meaning": "The steamed beef tripe is very springy and tender."
     },
     {
       "id": "ngau4paak3jip6-beef-tripe-example-4",
-      "sentence": "Dim2sam2 zung1 ngau4 paak3 jip6 dou1 hou2 sik6.",
-      "jyutping": "dim2sam2 zung1 ngau4 paak3 jip6 dou1 hou2 sik6",
-      "meaning": "Beef tripe is delicious in dim sum."
+      "sentence": "點心入面嘅牛柏葉好受歡迎。",
+      "jyutping": "dim2 sam1 jap6 min6 ge3 ngau4 paak3 jip6 hou2 sau6 fun1 jing4.",
+      "meaning": "The beef tripe in dim sum is very popular."
     }
   ],
   "audio": {
@@ -49,17 +49,16 @@
   },
   "tags": [
     "food",
-    "dim sum",
+    "dim-sum",
     "offal",
     "noun",
-    "Cantonese cuisine",
+    "cantonese-cuisine",
     "level-1"
   ],
   "related": [
     "ngau4 juk6 (牛肉 - beef)",
-    "cheung1 (腸 - intestine)",
-    "faan6 (飯 - rice)",
-    "siu1 mai2 (燒賣 - siu mai)",
-    "hou2 (蠔 - oyster)"
+    "zyu1 daai6 ceong2 (豬大腸 - pork intestine)",
+    "siu1 maai6 (燒賣 - siu mai)",
+    "lau4 saa1 baau1 (流沙包 - salted egg bun)"
   ]
 }
