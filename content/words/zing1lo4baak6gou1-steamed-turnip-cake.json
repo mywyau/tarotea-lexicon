@@ -1,0 +1,66 @@
+{
+  "id": "zing1lo4baak6gou1-steamed-turnip-cake",
+  "word": "蒸蘿蔔糕",
+  "jyutping": "zing1 lo4 baak6 gou1",
+  "meaning": "steamed turnip cake",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '蒸蘿蔔糕' functions as a noun naming a specific dish.",
+    "'蒸蘿蔔糕' can be used as the subject of a sentence, for example, when talking about what you eat for breakfast.",
+    "You can use '蒸蘿蔔糕' in a negative sentence by adding '唔' (m4) before the verb, e.g., '我唔鐘意食蒸蘿蔔糕'.",
+    "'蒸蘿蔔糕' can follow quantity words and measure words, for example, '一碟蒸蘿蔔糕' means 'a plate of steamed turnip cake'.",
+    "In conversations, '蒸蘿蔔糕' is commonly used when ordering food or discussing dim sum."
+  ],
+  "examples": [
+    {
+      "id": "zing1lo4baak6gou1-steamed-turnip-cake-example-1",
+      "sentence": "我朝早食咗蒸蘿蔔糕。",
+      "jyutping": "ngo5 ziu1 zou2 sik6 zo2 zing1 lo4 baak6 gou1.",
+      "meaning": "I ate steamed turnip cake this morning."
+    },
+    {
+      "id": "zing1lo4baak6gou1-steamed-turnip-cake-example-2",
+      "sentence": "你鍾唔鍾意蒸蘿蔔糕？",
+      "jyutping": "nei5 zung1 m4 zung1 ji3 zing1 lo4 baak6 gou1?",
+      "meaning": "Do you like steamed turnip cake?"
+    },
+    {
+      "id": "zing1lo4baak6gou1-steamed-turnip-cake-example-3",
+      "sentence": "茶樓有多款蒸蘿蔔糕。",
+      "jyutping": "caa4 lau4 jau5 do1 fun2 zing1 lo4 baak6 gou1.",
+      "meaning": "The tea house has many types of steamed turnip cake."
+    },
+    {
+      "id": "zing1lo4baak6gou1-steamed-turnip-cake-example-4",
+      "sentence": "幫我叫一碟蒸蘿蔔糕。",
+      "jyutping": "bong1 ngo5 giu3 jat1 dip6 zing1 lo4 baak6 gou1.",
+      "meaning": "Help me order a plate of steamed turnip cake."
+    }
+  ],
+  "audio": {
+    "word": "zing1lo4baak6gou1-steamed-turnip-cake.mp3",
+    "examples": [
+      "zing1lo4baak6gou1-steamed-turnip-cake-example-1.mp3",
+      "zing1lo4baak6gou1-steamed-turnip-cake-example-2.mp3",
+      "zing1lo4baak6gou1-steamed-turnip-cake-example-3.mp3",
+      "zing1lo4baak6gou1-steamed-turnip-cake-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "dim_sum",
+    "food",
+    "cantonese_cuisine",
+    "breakfast",
+    "steamed_food",
+    "level-1"
+  ],
+  "related": [
+    "點心 dim_sum",
+    "蘿蔔糕 turnip_cake",
+    "蒸 steamed",
+    "茶樓 tea_house",
+    "雞粥 chicken_congee"
+  ]
+}
