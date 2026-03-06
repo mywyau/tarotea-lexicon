@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 from openai import OpenAI
 
-LIMIT = 100
+LIMIT = 200
 print("🚀 generate_word_data.py started")
 
 

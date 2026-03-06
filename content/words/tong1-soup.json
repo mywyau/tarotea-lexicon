@@ -1,0 +1,66 @@
+{
+  "id": "tong1-soup",
+  "word": "湯",
+  "jyutping": "tong1",
+  "meaning": "soup",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '湯' (soup) is a noun used to describe a liquid food usually served warm.",
+    "'湯' can refer to various types of soups, such as clear broth or creamy soups.",
+    "In conversation, '湯' can be combined with other words to specify soup types, like '雞湯' (chicken soup).",
+    "'湯' is commonly used in menus and daily meals when referring to the soup component.",
+    "It can also be used in phrases to ask or talk about having or ordering soup."
+  ],
+  "examples": [
+    {
+      "id": "tong1-soup-example-1",
+      "sentence": "我昨晚飲咗碗湯，好滋味。",
+      "jyutping": "ngo5 zok6 maan5 jam2 zo2 wun2 tong1, hou2 zi1 mei6.",
+      "meaning": "I drank a bowl of soup last night, it was delicious."
+    },
+    {
+      "id": "tong1-soup-example-2",
+      "sentence": "呢間餐廳嘅湯每日都唔同。",
+      "jyutping": "ni1 gaan1 caan1 teng1 ge3 tong1 mui5 jat6 dou1 m4 tung4.",
+      "meaning": "The soup in this restaurant changes every day."
+    },
+    {
+      "id": "tong1-soup-example-3",
+      "sentence": "你想飲雞湯定魚湯？",
+      "jyutping": "nei5 soeng2 jam2 gai1 tong1 ding6 jyu4 tong1?",
+      "meaning": "Do you want to drink chicken soup or fish soup?"
+    },
+    {
+      "id": "tong1-soup-example-4",
+      "sentence": "食飯前飲啲熱湯會舒服啲。",
+      "jyutping": "sik6 faan6 cin4 jam2 di1 jit6 tong1 wui5 syu1 fuk6 di1.",
+      "meaning": "Drinking some hot soup before a meal feels more comfortable."
+    }
+  ],
+  "audio": {
+    "word": "tong1-soup.mp3",
+    "examples": [
+      "tong1-soup-example-1.mp3",
+      "tong1-soup-example-2.mp3",
+      "tong1-soup-example-3.mp3",
+      "tong1-soup-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "drink",
+    "meal",
+    "restaurant",
+    "liquid",
+    "level-1"
+  ],
+  "related": [
+    "雞湯",
+    "魚湯",
+    "粥",
+    "煲",
+    "麵"
+  ]
+}
