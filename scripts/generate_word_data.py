@@ -58,11 +58,6 @@ Return JSON in this exact format (no extra fields):
 With filename = <id>.json
 """
 
-
-def make_word_id(jyutping, meaning):
-    return f"{jyutping.replace(' ', '')}-{meaning.replace(' ', '-')}"
-
-
 SYSTEM_PROMPT = """
 You are a professional Hong Kong Cantonese linguist and language teacher.
 
@@ -79,7 +74,7 @@ Rules:
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
-TOPICS_FILE = Path("content/topics/dim-sum.json")
+TOPICS_FILE = Path("content/topics/restaurant-menu.json")
 OUT_DIR = Path("content/topics/words")
 
 with open(TOPICS_FILE, "r", encoding="utf-8") as f:
@@ -104,7 +99,7 @@ for category, items in topic_data["categories"].items():
             "level": 1
         }
 
-        word_id = make_word_id(entry["jyutping"], entry["meaning"])
+        word_id = entry["id"]
 
         out_dir = OUT_DIR / topic_name / category
         out_dir.mkdir(parents=True, exist_ok=True)

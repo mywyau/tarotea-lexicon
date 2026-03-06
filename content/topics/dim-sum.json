@@ -5,7 +5,6 @@
   "categories": {
 
     "classic_steamed": [
-      { "id": "haa1gaau2-shrimp-dumplings", "word": "蝦餃", "jyutping": "haa1 gaau2", "meaning": "shrimp dumplings" },
       { "id": "siu1maai6-siu-mai", "word": "燒賣", "jyutping": "siu1 maai6", "meaning": "siu mai" },
       { "id": "caa1siu1baau1-steamed-bbq-pork-bun", "word": "叉燒包", "jyutping": "caa1 siu1 baau1", "meaning": "steamed bbq pork bun" },
       { "id": "lau4saa1baau1-salted-egg-custard-bun", "word": "流沙包", "jyutping": "lau4 saa1 baau1", "meaning": "salted egg custard bun" },
@@ -24,14 +23,13 @@
     ],
 
     "rice_noodle_rolls": [
-      { "id": "zeng6coeng4fan2-plain-rice-roll", "word": "腸粉", "jyutping": "coeng4 fan2", "meaning": "steamed rice noodle roll" },
+      { "id": "zeng6coeng4fan2-plain-rice-roll", "word": "淨腸粉", "jyutping": "zeng6 coeng4 fan2", "meaning": "steamed rice noodle roll" },
       { "id": "haa1coeng4fan2-shrimp-rice-noodle-roll", "word": "蝦腸粉", "jyutping": "haa1 coeng4 fan2", "meaning": "shrimp rice noodle roll" },
       { "id": "ngau4juk6coeng4fan2-beef-rice-noodle-roll", "word": "牛肉腸粉", "jyutping": "ngau4 juk6 coeng4 fan2", "meaning": "beef rice noodle roll" },
       { "id": "zaa3loeng6-fried-dough-wrapped-in-rice-roll", "word": "炸兩", "jyutping": "zaa3 loeng6", "meaning": "fried dough wrapped in rice roll" },
       { "id": "coeng4fan2si6zoeng3-soy-sauce-for-rice-rolls", "word": "腸粉豉醬", "jyutping": "coeng4 fan2 si6 zoeng3", "meaning": "soy sauce for rice rolls" },
       { "id": "caa1siu1coeng4fan2-bbq-pork-rice-noodle-roll", "word": "叉燒腸粉", "jyutping": "caa1 siu1 coeng4 fan2", "meaning": "bbq pork rice noodle roll" },
-      { "id": "sai3coeng4fan2-small-portion-rice-roll", "word": "細腸粉", "jyutping": "sai3 coeng4 fan2", "meaning": "small portion rice roll" },
-      { "id": "zeng6coeng4fan2-plain-rice-roll", "word": "淨腸粉", "jyutping": "zeng6 coeng4 fan2", "meaning": "plain rice roll" }
+      { "id": "sai3coeng4fan2-small-portion-rice-roll", "word": "細腸粉", "jyutping": "sai3 coeng4 fan2", "meaning": "small portion rice roll" }
     ],
 
     "fried_dim_sum": [
