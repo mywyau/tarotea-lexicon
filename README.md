@@ -95,13 +95,6 @@ aws s3 sync s3://tarotea-content ./r2-backup \
 ```
 
 ```
-aws s3 sync ./content/topics/words \
-s3://tarotea-content/words \
---endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
---profile r2
-```
-
-```
 aws s3 cp ./content/words \
 s3://tarotea-content/words \
 --recursive \
