@@ -2,41 +2,40 @@
   "id": "laap6coeng2-chinese-sausage",
   "word": "臘腸",
   "jyutping": "laap6 coeng2",
-  "meaning": "chinese sausage",
+  "meaning": "Chinese sausage",
   "pos": [
     "noun"
   ],
   "usage": [
-    "The word 臘腸 (laap6 coeng2) is a noun referring to a type of Chinese sausage.",
-    "You can use 臘腸 when talking about food, especially traditional Cantonese dishes or ingredients.",
-    "In sentences, 臘腸 often appears as the object, for example: 'I like eating 臘腸 with rice.'",
-    "臘腸 can also be used in compound phrases, such as 臘腸飯 (laap6 coeng2 faan6) meaning sausage rice.",
-    "It is common to hear 臘腸 paired with cooking verbs like '炒' (chaau2, stir-fry) or '蒸' (zing1, steam)."
+    "Laaap6 coeng2 is a noun used to refer to a traditional Chinese dried sausage.",
+    "You can use laaap6 coeng2 as the subject or object in a sentence when talking about food dishes.",
+    "Laaap6 coeng2 often appears in compound words or phrases related to cooking and meals.",
+    "In spoken Cantonese, laaap6 coeng2 is commonly used when ordering food or describing ingredients."
   ],
   "examples": [
     {
       "id": "laap6coeng2-chinese-sausage-example-1",
-      "sentence": "我今日食咗碗臘腸飯，好好味。",
-      "jyutping": "ngo5 gam1 jat6 sik6 zo2 wun2 laap6 coeng2 faan6, hou2 hou2 mei6.",
-      "meaning": "I ate a bowl of sausage rice today, it was very tasty."
+      "sentence": "我鍾意食炒臘腸飯。",
+      "jyutping": "Ngo5 zung1 ji3 sik6 caau2 laap6 coeng2 faan6.",
+      "meaning": "I like to eat fried rice with Chinese sausage."
     },
     {
       "id": "laap6coeng2-chinese-sausage-example-2",
-      "sentence": "你想唔想試吓我整嘅臘腸？",
-      "jyutping": "nei5 soeng2 m4 soeng2 si3 haa5 ngo5 zing2 ge3 laap6 coeng2?",
-      "meaning": "Do you want to try the sausage I made?"
+      "sentence": "呢間餐廳有好味嘅臘腸煲仔飯。",
+      "jyutping": "Ni1 gaan1 caan1 teng1 jau5 hou2 mei6 ge3 laap6 coeng2 bo1 zai2 faan6.",
+      "meaning": "This restaurant has delicious claypot rice with Chinese sausage."
     },
     {
       "id": "laap6coeng2-chinese-sausage-example-3",
-      "sentence": "超市有唔少唔同品牌嘅臘腸。",
-      "jyutping": "ciu1 si5 jau5 m4 siu2 m4 tung4 paa4 paai4 ge3 laap6 coeng2.",
-      "meaning": "The supermarket has many different brands of Chinese sausage."
+      "sentence": "你買唔買臘腸返屋企？",
+      "jyutping": "Nei5 maai5 m4 maai5 laap6 coeng2 faan1 uk1 kei2?",
+      "meaning": "Are you buying Chinese sausage to take home?"
     },
     {
       "id": "laap6coeng2-chinese-sausage-example-4",
-      "sentence": "呢個臘腸香味好濃，令我好肚餓。",
-      "jyutping": "ni1 go3 laap6 coeng2 hoeng1 mei6 hou2 nung4, ling6 ngo5 hou2 tou5 ngo6.",
-      "meaning": "This sausage smells very strong, making me very hungry."
+      "sentence": "臘腸加咗落炒菜入面，好香。",
+      "jyutping": "Laap6 coeng2 gaa1 zo2 lok6 caau2 coi3 jap6 min6, hou2 hoeng1.",
+      "meaning": "Adding Chinese sausage into stir-fried vegetables is very fragrant."
     }
   ],
   "audio": {
@@ -50,17 +49,17 @@
   },
   "tags": [
     "food",
-    "ingredient",
-    "Cantonese cuisine",
+    "meat",
     "sausage",
-    "dim_sum",
+    "ingredient",
+    "restaurant",
     "level-1"
   ],
   "related": [
-    "燒賣 (siu1 maai2)",
-    "腸粉 (coeng2 fan2)",
-    "糯米雞 (no6 mai5 gai1)",
-    "蝦餃 (haa1 gaau2)",
-    "粉腸 (fan2 coeng2)"
+    "燒肉",
+    "叉燒",
+    "臘味",
+    "白飯",
+    "煲仔飯"
   ]
 }

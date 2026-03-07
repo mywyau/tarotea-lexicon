@@ -1,0 +1,66 @@
+{
+  "id": "soeng1ping3-two-item-combo",
+  "word": "雙拼",
+  "jyutping": "soeng1 ping3",
+  "meaning": "two-item combination",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '雙拼' is a noun used to describe a combination of two items served together, commonly in food menus.",
+    "It is used to specify when you want two different dishes or ingredients combined in one order.",
+    "In sentences, it usually follows the number or comes directly before the dish types to indicate the combo.",
+    "It can also be used when ordering at a restaurant to ask for a two-item combo plate.",
+    "The word does not change form in plural or singular usage."
+  ],
+  "examples": [
+    {
+      "id": "soeng1ping3-two-item-combo-example-1",
+      "sentence": "我想叫個雙拼飯。",
+      "jyutping": "ngo5 soeng2 giu3 go3 soeng1 ping3 faan6.",
+      "meaning": "I want to order a two-item combo rice."
+    },
+    {
+      "id": "soeng1ping3-two-item-combo-example-2",
+      "sentence": "呢度嘅雙拼好抵食。",
+      "jyutping": "ni1 dou6 ge3 soeng1 ping3 hou2 dai2 sik6.",
+      "meaning": "The two-item combo here is very good value."
+    },
+    {
+      "id": "soeng1ping3-two-item-combo-example-3",
+      "sentence": "你想揀邊兩樣做雙拼？",
+      "jyutping": "nei5 soeng2 gaan2 bin1 loeng5 joeng6 zou6 soeng1 ping3?",
+      "meaning": "Which two items do you want to choose for the two-item combo?"
+    },
+    {
+      "id": "soeng1ping3-two-item-combo-example-4",
+      "sentence": "我哋今晚叫雙拼方便啲。",
+      "jyutping": "ngo5 dei6 gam1 maan5 giu3 soeng1 ping3 fong1 bin6 di1.",
+      "meaning": "We will order a two-item combo tonight because it's more convenient."
+    }
+  ],
+  "audio": {
+    "word": "soeng1ping3-two-item-combo.mp3",
+    "examples": [
+      "soeng1ping3-two-item-combo-example-1.mp3",
+      "soeng1ping3-two-item-combo-example-2.mp3",
+      "soeng1ping3-two-item-combo-example-3.mp3",
+      "soeng1ping3-two-item-combo-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "restaurant",
+    "food",
+    "menu",
+    "combo",
+    "ordering",
+    "level-1"
+  ],
+  "related": [
+    "飯",
+    "套餐",
+    "拼盤",
+    "單點",
+    "煲仔飯"
+  ]
+}

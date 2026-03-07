@@ -3,42 +3,64 @@
   "word": "哥哥",
   "jyutping": "go1 go1",
   "meaning": "older brother",
-
-  "pos": ["noun"],
-
-  "usage": [
-    "Used to refer to one’s older brother",
-    "Also used to politely address a slightly older male"
+  "pos": [
+    "noun"
   ],
-
+  "usage": [
+    "哥哥 is a noun that refers to a male sibling who is older than you.",
+    "It is used to talk about family relationships, especially when distinguishing between siblings.",
+    "You can use 哥哥 in both formal and informal settings when talking about your older brother.",
+    "The word can be used as a subject or an object in a sentence.",
+    "When addressing your older brother directly, 哥哥 can also be used as a form of address."
+  ],
   "examples": [
     {
       "id": "go1go1-older-brother-example-1",
-      "sentence": "我哥哥住喺香港。",
-      "jyutping": "ngo5 go1 go1 zyu6 hai2 hoeng1 gong2",
-      "meaning": "My older brother lives in Hong Kong."
+      "sentence": "我有一個哥哥。",
+      "jyutping": "ngo5 jau5 jat1 go3 go1 go1.",
+      "meaning": "I have an older brother."
     },
     {
       "id": "go1go1-older-brother-example-2",
-      "sentence": "哥哥幫我一次。",
-      "jyutping": "go1 go1 bong1 ngo5 jat1 ci3",
-      "meaning": "Brother, help me once."
+      "sentence": "哥哥今日返學未？",
+      "jyutping": "go1 go1 gam1 jat6 faan1 hok6 mei6?",
+      "meaning": "Has older brother gone to school today?"
+    },
+    {
+      "id": "go1go1-older-brother-example-3",
+      "sentence": "我哋細個時，哥哥教我打波。",
+      "jyutping": "ngo5 dei6 sai3 go3 si4, go1 go1 gaau3 ngo5 daa2 bo1.",
+      "meaning": "When we were young, older brother taught me how to play ball."
+    },
+    {
+      "id": "go1go1-older-brother-example-4",
+      "sentence": "哥哥，幫我攞下嗰個喇。",
+      "jyutping": "go1 go1, bong1 ngo5 lo2 haa5 go2 go3 laa3.",
+      "meaning": "Older brother, help me get that one."
     }
   ],
-
   "audio": {
     "word": "go1go1-older-brother.mp3",
     "examples": [
       "go1go1-older-brother-example-1.mp3",
-      "go1go1-older-brother-example-2.mp3"
+      "go1go1-older-brother-example-2.mp3",
+      "go1go1-older-brother-example-3.mp3",
+      "go1go1-older-brother-example-4.mp3"
     ]
   },
-
-  "tags": ["family", "noun", "level-1", "spoken"],
-
+  "tags": [
+    "family",
+    "immediate family",
+    "sibling",
+    "male",
+    "spoken Cantonese",
+    "level-1"
+  ],
   "related": [
-    "ze1-ze1-older-sister",
-    "sai3-lou2-younger-brother",
-    "ngo5-me"
+    "弟弟",
+    "妹妹",
+    "姐姐",
+    "兄弟",
+    "家人"
   ]
 }

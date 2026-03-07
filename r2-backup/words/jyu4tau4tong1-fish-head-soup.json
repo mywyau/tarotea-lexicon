@@ -7,35 +7,36 @@
     "noun"
   ],
   "usage": [
-    "魚頭湯 (jyu4 tau4 tong1) is a noun referring to a type of soup made primarily from fish heads.",
-    "You can use 魚頭湯 as the subject of a sentence, for example, '魚頭湯 好味' means 'Fish head soup is delicious.'",
-    "It can also be used as an object, such as '我想食魚頭湯' (I want to eat fish head soup).",
-    "When describing 魚頭湯, you can add adjectives before it, like '熱辣辣嘅魚頭湯' (hot fish head soup)."
+    "魚頭湯 is a noun referring to a type of soup made mainly from fish heads.",
+    "You can use 魚頭湯 as the subject of a sentence, for example, 魚頭湯好味, meaning 'Fish head soup is tasty.'",
+    "It can be the object of a verb, like 我想食魚頭湯, meaning 'I want to eat fish head soup.'",
+    "In conversations, 魚頭湯 often appears in menus or when ordering food at a restaurant.",
+    "It doesn’t change form, so whether singular or plural, it remains 魚頭湯."
   ],
   "examples": [
     {
       "id": "jyu4tau4tong1-fish-head-soup-example-1",
-      "sentence": "今晚我哋食魚頭湯啦。",
-      "jyutping": "gam1 maan5 ngo5 dei6 sik6 jyu4 tau4 tong1 laa1.",
-      "meaning": "Let's eat fish head soup tonight."
+      "sentence": "呢間餐廳嘅魚頭湯好正。",
+      "jyutping": "ni1 gaan1 caan1 teng1 ge3 jyu4 tau4 tong1 hou2 zeng3",
+      "meaning": "The fish head soup at this restaurant is very good."
     },
     {
       "id": "jyu4tau4tong1-fish-head-soup-example-2",
-      "sentence": "呢度嘅魚頭湯好鮮甜。",
-      "jyutping": "ni1 dou6 ge3 jyu4 tau4 tong1 hou2 sin1 tim4.",
-      "meaning": "The fish head soup here is very fresh and sweet."
+      "sentence": "我今晚想飲碗熱辣辣嘅魚頭湯。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 jam2 wun2 jit6 laat6 laat6 ge3 jyu4 tau4 tong1",
+      "meaning": "I want to have a bowl of hot fish head soup tonight."
     },
     {
       "id": "jyu4tau4tong1-fish-head-soup-example-3",
-      "sentence": "媽媽整咗碗魚頭湯俾我。",
-      "jyutping": "maa4 maa1 zing2 zo2 wun2 jyu4 tau4 tong1 bei2 ngo5.",
-      "meaning": "Mom made a bowl of fish head soup for me."
+      "sentence": "魚頭湯通常用鮮魚頭煲出嚟。",
+      "jyutping": "jyu4 tau4 tong1 tung1 soeng4 jung6 sin1 jyu4 tau4 bou1 ceot1 lai4",
+      "meaning": "Fish head soup is usually made by boiling fresh fish heads."
     },
     {
       "id": "jyu4tau4tong1-fish-head-soup-example-4",
-      "sentence": "你想唔想試吓魚頭湯？",
-      "jyutping": "nei5 soeng2 m4 soeng2 si3 haa5 jyu4 tau4 tong1?",
-      "meaning": "Do you want to try fish head soup?"
+      "sentence": "你試過我哋餐廳嘅魚頭湯未？",
+      "jyutping": "nei5 si3 gwo3 ngo5 dei6 caan1 teng1 ge3 jyu4 tau4 tong1 mei6?",
+      "meaning": "Have you tried the fish head soup at our restaurant yet?"
     }
   ],
   "audio": {
@@ -48,18 +49,18 @@
     ]
   },
   "tags": [
-    "food",
-    "soup",
     "seafood",
-    "traditional",
-    "Cantonese",
+    "soups",
+    "restaurant",
+    "Cantonese food",
+    "beginner",
     "level-1"
   ],
   "related": [
-    "魚片湯",
-    "海鮮粥",
-    "蝦餃",
-    "燒賣",
-    "豉汁蒸魚"
+    "魚片 (jyu4 pin3)",
+    "蝦湯 (haa1 tong1)",
+    "海鮮 (hoi2 sin1)",
+    "魚翅 (jyu4 ci3)",
+    "鮑魚 (bou2 jyu4)"
   ]
 }

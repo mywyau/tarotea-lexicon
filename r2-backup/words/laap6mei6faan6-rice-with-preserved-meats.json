@@ -7,35 +7,35 @@
     "noun"
   ],
   "usage": [
-    "Laap6 mei6 faan6 is a noun referring to a dish made of rice and preserved meats.",
-    "You can use laap6 mei6 faan6 as the subject or object in a sentence because it denotes a specific food item.",
-    "It often appears in casual ordering or dining conversations in Cantonese-speaking regions.",
-    "The word does not change form for singular or plural usage, so context clarifies quantity."
+    "Laa6mei6faan6 is a noun referring to a dish made of rice and various preserved meats.",
+    "You can use laa6mei6faan6 as the subject or object in a sentence.",
+    "When ordering, you can say 'ngo5 soeng2 sik6 laa6mei6faan6' which means 'I want to eat rice with preserved meats.'",
+    "Laa6mei6faan6 can be described by adding adjectives before the word, like 'hou2 ho2 sik6 ge3 laa6mei6faan6' (very tasty rice with preserved meats)."
   ],
   "examples": [
     {
       "id": "laap6mei6faan6-rice-with-preserved-meats-example-1",
-      "sentence": "我今日想食臘味飯。",
-      "jyutping": "Ngo5 gam1 jat6 soeng2 sik6 laap6 mei6 faan6.",
-      "meaning": "I want to eat rice with preserved meats today."
+      "sentence": "呢間餐廳嘅臘味飯好出名。",
+      "jyutping": "ni1 gaan1 caan1 teng1 ge3 laap6 mei6 faan6 hou2 ceot1 ming4",
+      "meaning": "This restaurant's rice with preserved meats is very famous."
     },
     {
       "id": "laap6mei6faan6-rice-with-preserved-meats-example-2",
-      "sentence": "呢間餐廳嘅臘味飯好好味。",
-      "jyutping": "Ni1 gaan1 caan1 teng1 ge3 laap6 mei6 faan6 hou2 hou2 mei6.",
-      "meaning": "This restaurant’s rice with preserved meats tastes very good."
+      "sentence": "我今晚想食臘味飯。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 sik6 laap6 mei6 faan6",
+      "meaning": "I want to eat rice with preserved meats tonight."
     },
     {
       "id": "laap6mei6faan6-rice-with-preserved-meats-example-3",
-      "sentence": "你喺邊度買嘅臘味飯？",
-      "jyutping": "Nei5 hai2 bin1 dou6 maai5 ge3 laap6 mei6 faan6?",
-      "meaning": "Where did you buy the rice with preserved meats?"
+      "sentence": "呢碟臘味飯係用多款臘肉整嘅。",
+      "jyutping": "ni1 dip6 laap6 mei6 faan6 hai6 jung6 do1 fun2 laap6 juk6 zing2 ge3",
+      "meaning": "This plate of rice with preserved meats is made using various kinds of preserved meats."
     },
     {
       "id": "laap6mei6faan6-rice-with-preserved-meats-example-4",
-      "sentence": "請俾我一碗熱辣辣嘅臘味飯。",
-      "jyutping": "Ceng2 bei2 ngo5 jat1 wun2 jit6 laat6 laat6 ge3 laap6 mei6 faan6.",
-      "meaning": "Please give me a bowl of steaming hot rice with preserved meats."
+      "sentence": "臘味飯好適合同家人一齊食。",
+      "jyutping": "laap6 mei6 faan6 hou2 sik1 hap6 tung4 gaa1 jan4 jat1 cai4 sik6",
+      "meaning": "Rice with preserved meats is great to eat with family."
     }
   ],
   "audio": {
@@ -50,16 +50,16 @@
   "tags": [
     "food",
     "rice",
-    "dim sum",
-    "cantonese cuisine",
-    "preserved meat",
+    "meat",
+    "restaurant",
+    "cantonese-cuisine",
     "level-1"
   ],
   "related": [
-    "點心 (dim2 sam1) - dim sum",
-    "臘腸 (laap6 coeng2) - preserved sausage",
-    "咸魚 (haam4 jyu4) - salted fish",
-    "糯米飯 (no6 mai5 faan6) - glutinous rice",
-    "燒賣 (siu1 maai2) - siu mai"
+    "臘腸 laap6 coeng2",
+    "臘肉 laap6 juk6",
+    "煲仔飯 bou1 zai2 faan6",
+    "粥 zuk1",
+    "蒸飯 zing1 faan6"
   ]
 }

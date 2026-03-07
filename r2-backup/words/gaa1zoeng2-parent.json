@@ -1,0 +1,65 @@
+{
+  "id": "gaa1zoeng2-parent",
+  "word": "家長",
+  "jyutping": "gaa1 zoeng2",
+  "meaning": "parent / guardian",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '家長' refers to a parent or a guardian and is used as a noun.",
+    "'家長' can be used to talk about the people responsible for children, mostly in school or home contexts.",
+    "It often appears when discussing parent meetings or responsibilities towards children.",
+    "In sentences, '家長' usually acts as the subject or object, e.g., '家長要簽同意書' means 'The parent has to sign the consent form.'"
+  ],
+  "examples": [
+    {
+      "id": "gaa1zoeng2-parent-example-1",
+      "sentence": "學校安排左家長會。",
+      "jyutping": "hok6 haau6 ngoi6 paai4 zo2 gaa1 zoeng2 wui2.",
+      "meaning": "The school arranged a parents' meeting."
+    },
+    {
+      "id": "gaa1zoeng2-parent-example-2",
+      "sentence": "家長應該支持孩子嘅學習。",
+      "jyutping": "gaa1 zoeng2 jing1 goi1 zi1 ci4 haai4 zi2 ge3 hok6 zaap6.",
+      "meaning": "Parents should support their children's learning."
+    },
+    {
+      "id": "gaa1zoeng2-parent-example-3",
+      "sentence": "家長帶仔女去醫生度檢查。",
+      "jyutping": "gaa1 zoeng2 daai3 zai2 neoi5 heoi3 ji1 sang1 dou6 gim2 caa4.",
+      "meaning": "The parent takes their kids to the doctor for a check-up."
+    },
+    {
+      "id": "gaa1zoeng2-parent-example-4",
+      "sentence": "呢個表格要家長簽名。",
+      "jyutping": "ni1 go3 biu2 gaak3 jiu3 gaa1 zoeng2 cim1 ming4.",
+      "meaning": "This form requires the parent's signature."
+    }
+  ],
+  "audio": {
+    "word": "gaa1zoeng2-parent.mp3",
+    "examples": [
+      "gaa1zoeng2-parent-example-1.mp3",
+      "gaa1zoeng2-parent-example-2.mp3",
+      "gaa1zoeng2-parent-example-3.mp3",
+      "gaa1zoeng2-parent-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "family",
+    "parent",
+    "guardian",
+    "school",
+    "responsibility",
+    "level-1"
+  ],
+  "related": [
+    "父母",
+    "監護人",
+    "家長會",
+    "仔女",
+    "家人"
+  ]
+}

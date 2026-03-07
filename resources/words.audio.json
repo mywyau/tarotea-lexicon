@@ -1,1827 +1,3452 @@
 [
   {
-    "filename": "aa3baa4-dad",
-    "id": "aa3baa4-dad",
-    "text": "阿爸"
+    "filename": "baai6cit3gai1faan6-white-cut-chicken-rice",
+    "id": "baai6cit3gai1faan6-white-cut-chicken-rice",
+    "text": "白切雞飯"
   },
   {
-    "filename": "aa3baa4-dad-example-1",
-    "id": "aa3baa4-dad-example-1",
-    "text": "阿爸今日返工呀？"
+    "filename": "baai6cit3gai1faan6-white-cut-chicken-rice-example-1",
+    "id": "baai6cit3gai1faan6-white-cut-chicken-rice-example-1",
+    "text": "我今晚想食白切雞飯。"
   },
   {
-    "filename": "aa3baa4-dad-example-2",
-    "id": "aa3baa4-dad-example-2",
-    "text": "我阿爸好鍾意打波。"
+    "filename": "baai6cit3gai1faan6-white-cut-chicken-rice-example-2",
+    "id": "baai6cit3gai1faan6-white-cut-chicken-rice-example-2",
+    "text": "呢間餐廳嘅白切雞飯好正。"
   },
   {
-    "filename": "aa3baa4-dad-example-3",
-    "id": "aa3baa4-dad-example-3",
-    "text": "聽阿爸講故事俾我聽。"
+    "filename": "baai6cit3gai1faan6-white-cut-chicken-rice-example-3",
+    "id": "baai6cit3gai1faan6-white-cut-chicken-rice-example-3",
+    "text": "你試過白切雞飯未？"
   },
   {
-    "filename": "aa3baa4-dad-example-4",
-    "id": "aa3baa4-dad-example-4",
-    "text": "阿爸帶我去公園玩。"
+    "filename": "baai6cit3gai1faan6-white-cut-chicken-rice-example-4",
+    "id": "baai6cit3gai1faan6-white-cut-chicken-rice-example-4",
+    "text": "白切雞飯同靚湯一齊食最好。"
   },
   {
-    "filename": "aa3maa1-mum",
-    "id": "aa3maa1-mum",
-    "text": "阿媽"
+    "filename": "baak6cit3gai1-white-cut-chicken",
+    "id": "baak6cit3gai1-white-cut-chicken",
+    "text": "白切雞"
   },
   {
-    "filename": "aa3maa1-mum-example-1",
-    "id": "aa3maa1-mum-example-1",
-    "text": "阿媽今日唔舒服。"
+    "filename": "baak6cit3gai1-white-cut-chicken-example-1",
+    "id": "baak6cit3gai1-white-cut-chicken-example-1",
+    "text": "今晚食白切雞啦！"
   },
   {
-    "filename": "aa3maa1-mum-example-2",
-    "id": "aa3maa1-mum-example-2",
-    "text": "我啱啱見咗阿媽。"
+    "filename": "baak6cit3gai1-white-cut-chicken-example-2",
+    "id": "baak6cit3gai1-white-cut-chicken-example-2",
+    "text": "呢間餐廳嘅白切雞好正。"
   },
   {
-    "filename": "aa3maa1-mum-example-3",
-    "id": "aa3maa1-mum-example-3",
-    "text": "阿媽煮咗晚飯喇。"
+    "filename": "baak6cit3gai1-white-cut-chicken-example-3",
+    "id": "baak6cit3gai1-white-cut-chicken-example-3",
+    "text": "我鍾意白切雞配薑蔥醬。"
   },
   {
-    "filename": "aa3maa1-mum-example-4",
-    "id": "aa3maa1-mum-example-4",
-    "text": "我想打電話畀阿媽。"
+    "filename": "baak6cit3gai1-white-cut-chicken-example-4",
+    "id": "baak6cit3gai1-white-cut-chicken-example-4",
+    "text": "呢隻白切雞好新鮮。"
   },
   {
-    "filename": "baa4baa1-father",
-    "id": "baa4baa1-father",
-    "text": "爸爸"
+    "filename": "baau3jyu4-abalone",
+    "id": "baau3jyu4-abalone",
+    "text": "鮑魚"
   },
   {
-    "filename": "baa4baa1-father-example-1",
-    "id": "baa4baa1-father-example-1",
-    "text": "我今日同爸爸去公園。"
+    "filename": "baau3jyu4-abalone-example-1",
+    "id": "baau3jyu4-abalone-example-1",
+    "text": "我今晚想食鮑魚。"
   },
   {
-    "filename": "baa4baa1-father-example-2",
-    "id": "baa4baa1-father-example-2",
-    "text": "爸爸，你食咗飯未呀？"
+    "filename": "baau3jyu4-abalone-example-2",
+    "id": "baau3jyu4-abalone-example-2",
+    "text": "呢間餐廳嘅鮑魚好新鮮。"
   },
   {
-    "filename": "baa4baa1-father-example-3",
-    "id": "baa4baa1-father-example-3",
-    "text": "爸爸幫我做功課。"
+    "filename": "baau3jyu4-abalone-example-3",
+    "id": "baau3jyu4-abalone-example-3",
+    "text": "你試過蒸鮑魚未？"
   },
   {
-    "filename": "baa4baa1-father-example-4",
-    "id": "baa4baa1-father-example-4",
-    "text": "你嘅爸爸喺邊度？"
+    "filename": "baau3jyu4-abalone-example-4",
+    "id": "baau3jyu4-abalone-example-4",
+    "text": "我哋今晚嘅晚餐有鮑魚同龍蝦。"
   },
   {
-    "filename": "baak3baak3-uncle-fathers-older",
-    "id": "baak3baak3-uncle-fathers-older",
-    "text": "伯伯"
+    "filename": "bing1seoi2-iced-water",
+    "id": "bing1seoi2-iced-water",
+    "text": "冰水"
   },
   {
-    "filename": "baak3baak3-uncle-fathers-older-example-1",
-    "id": "baak3baak3-uncle-fathers-older-example-1",
-    "text": "我嘅伯伯今日嚟探我。"
+    "filename": "bing1seoi2-iced-water-example-1",
+    "id": "bing1seoi2-iced-water-example-1",
+    "text": "我想要一杯冰水。"
   },
   {
-    "filename": "baak3baak3-uncle-fathers-older-example-2",
-    "id": "baak3baak3-uncle-fathers-older-example-2",
-    "text": "伯伯幫我買咗禮物。"
+    "filename": "bing1seoi2-iced-water-example-2",
+    "id": "bing1seoi2-iced-water-example-2",
+    "text": "夏天飲冰水好舒服。"
   },
   {
-    "filename": "baak3baak3-uncle-fathers-older-example-3",
-    "id": "baak3baak3-uncle-fathers-older-example-3",
-    "text": "你知唔知你嘅伯伯喺邊？"
+    "filename": "bing1seoi2-iced-water-example-3",
+    "id": "bing1seoi2-iced-water-example-3",
+    "text": "可唔可以俾杯冰水我？"
   },
   {
-    "filename": "baak3baak3-uncle-fathers-older-example-4",
-    "id": "baak3baak3-uncle-fathers-older-example-4",
-    "text": "伯伯經常教我點解功課。"
+    "filename": "bing1seoi2-iced-water-example-4",
+    "id": "bing1seoi2-iced-water-example-4",
+    "text": "餐廳有冇冰水供應？"
   },
   {
-    "filename": "baak3mou5-aunt-paternal",
-    "id": "baak3mou5-aunt-paternal",
-    "text": "伯母"
+    "filename": "bo1lo4baau1-pineapple-bun",
+    "id": "bo1lo4baau1-pineapple-bun",
+    "text": "菠蘿包"
   },
   {
-    "filename": "baak3mou5-aunt-paternal-example-1",
-    "id": "baak3mou5-aunt-paternal-example-1",
-    "text": "我伯母煮咗好多好味嘅餸。"
+    "filename": "bo1lo4baau1-pineapple-bun-example-1",
+    "id": "bo1lo4baau1-pineapple-bun-example-1",
+    "text": "我想食個菠蘿包。"
   },
   {
-    "filename": "baak3mou5-aunt-paternal-example-2",
-    "id": "baak3mou5-aunt-paternal-example-2",
-    "text": "你認識我伯母嗎？"
+    "filename": "bo1lo4baau1-pineapple-bun-example-2",
+    "id": "bo1lo4baau1-pineapple-bun-example-2",
+    "text": "呢間茶餐廳啲菠蘿包好好味。"
   },
   {
-    "filename": "baak3mou5-aunt-paternal-example-3",
-    "id": "baak3mou5-aunt-paternal-example-3",
-    "text": "伯母今次嚟我哋屋企玩。"
+    "filename": "bo1lo4baau1-pineapple-bun-example-3",
+    "id": "bo1lo4baau1-pineapple-bun-example-3",
+    "text": "早餐我通常會食菠蘿包同奶茶。"
   },
   {
-    "filename": "baak3mou5-aunt-paternal-example-4",
-    "id": "baak3mou5-aunt-paternal-example-4",
-    "text": "我伯母好鍾意種花。"
+    "filename": "bo1lo4baau1-pineapple-bun-example-4",
+    "id": "bo1lo4baau1-pineapple-bun-example-4",
+    "text": "佢送咗我一個熱辣辣嘅菠蘿包。"
   },
   {
-    "filename": "biu1dai6-cousin-younger-male-maternal",
-    "id": "biu1dai6-cousin-younger-male-maternal",
-    "text": "表弟"
+    "filename": "caa1siu1-bbq-pork",
+    "id": "caa1siu1-bbq-pork",
+    "text": "叉燒"
   },
   {
-    "filename": "biu1dai6-cousin-younger-male-maternal-example-1",
-    "id": "biu1dai6-cousin-younger-male-maternal-example-1",
-    "text": "我同表弟去打籃球。"
+    "filename": "caa1siu1-bbq-pork-example-1",
+    "id": "caa1siu1-bbq-pork-example-1",
+    "text": "我最鍾意食叉燒。"
   },
   {
-    "filename": "biu1dai6-cousin-younger-male-maternal-example-2",
-    "id": "biu1dai6-cousin-younger-male-maternal-example-2",
-    "text": "表弟今次考試考得唔錯。"
+    "filename": "caa1siu1-bbq-pork-example-2",
+    "id": "caa1siu1-bbq-pork-example-2",
+    "text": "你哋有冇叉燒飯？"
   },
   {
-    "filename": "biu1dai6-cousin-younger-male-maternal-example-3",
-    "id": "biu1dai6-cousin-younger-male-maternal-example-3",
-    "text": "聽講你表弟住喺尖沙咀？"
+    "filename": "caa1siu1-bbq-pork-example-3",
+    "id": "caa1siu1-bbq-pork-example-3",
+    "text": "呢碟叉燒好好味。"
   },
   {
-    "filename": "biu1dai6-cousin-younger-male-maternal-example-4",
-    "id": "biu1dai6-cousin-younger-male-maternal-example-4",
-    "text": "下次我帶表弟去行街。"
+    "filename": "caa1siu1-bbq-pork-example-4",
+    "id": "caa1siu1-bbq-pork-example-4",
+    "text": "我買咗啲叉燒返屋企。"
   },
   {
-    "filename": "biu1go1-cousin-older-male-maternal",
-    "id": "biu1go1-cousin-older-male-maternal",
-    "text": "表哥"
+    "filename": "caa1siu1faan6-bbq-pork-rice",
+    "id": "caa1siu1faan6-bbq-pork-rice",
+    "text": "叉燒飯"
   },
   {
-    "filename": "biu1go1-cousin-older-male-maternal-example-1",
-    "id": "biu1go1-cousin-older-male-maternal-example-1",
-    "text": "我嘅表哥叫阿文。"
+    "filename": "caa1siu1faan6-bbq-pork-rice-example-1",
+    "id": "caa1siu1faan6-bbq-pork-rice-example-1",
+    "text": "我今日想食叉燒飯。"
   },
   {
-    "filename": "biu1go1-cousin-older-male-maternal-example-2",
-    "id": "biu1go1-cousin-older-male-maternal-example-2",
-    "text": "今晚同表哥一齊食飯。"
+    "filename": "caa1siu1faan6-bbq-pork-rice-example-2",
+    "id": "caa1siu1faan6-bbq-pork-rice-example-2",
+    "text": "呢度嘅叉燒飯好好味。"
   },
   {
-    "filename": "biu1go1-cousin-older-male-maternal-example-3",
-    "id": "biu1go1-cousin-older-male-maternal-example-3",
-    "text": "表哥幫我做功課。"
+    "filename": "caa1siu1faan6-bbq-pork-rice-example-3",
+    "id": "caa1siu1faan6-bbq-pork-rice-example-3",
+    "text": "你叫咗幾多份叉燒飯？"
   },
   {
-    "filename": "biu1go1-cousin-older-male-maternal-example-4",
-    "id": "biu1go1-cousin-older-male-maternal-example-4",
-    "text": "表哥成日帶我去打波。"
+    "filename": "caa1siu1faan6-bbq-pork-rice-example-4",
+    "id": "caa1siu1faan6-bbq-pork-rice-example-4",
+    "text": "佢淨係食叉燒飯唔食其他嘢。"
   },
   {
-    "filename": "biu1mui6-cousin-younger-female-maternal",
-    "id": "biu1mui6-cousin-younger-female-maternal",
-    "text": "表妹"
+    "filename": "caan1-set-meal",
+    "id": "caan1-set-meal",
+    "text": "套餐"
   },
   {
-    "filename": "biu1mui6-cousin-younger-female-maternal-example-1",
-    "id": "biu1mui6-cousin-younger-female-maternal-example-1",
-    "text": "我個表妹好叻，成日攞獎。"
+    "filename": "caan1-set-meal-example-1",
+    "id": "caan1-set-meal-example-1",
+    "text": "我想叫一個套餐。"
   },
   {
-    "filename": "biu1mui6-cousin-younger-female-maternal-example-2",
-    "id": "biu1mui6-cousin-younger-female-maternal-example-2",
-    "text": "星期六我同表妹一齊去買嘢。"
+    "filename": "caan1-set-meal-example-2",
+    "id": "caan1-set-meal-example-2",
+    "text": "呢個套餐好抵食。"
   },
   {
-    "filename": "biu1mui6-cousin-younger-female-maternal-example-3",
-    "id": "biu1mui6-cousin-younger-female-maternal-example-3",
-    "text": "你有冇表妹？"
+    "filename": "caan1-set-meal-example-3",
+    "id": "caan1-set-meal-example-3",
+    "text": "食套餐通常會有湯同埋飯。"
   },
   {
-    "filename": "biu1mui6-cousin-younger-female-maternal-example-4",
-    "id": "biu1mui6-cousin-younger-female-maternal-example-4",
-    "text": "我成日同表妹玩牌。"
+    "filename": "caan1-set-meal-example-4",
+    "id": "caan1-set-meal-example-4",
+    "text": "你想要咩套餐？"
   },
   {
-    "filename": "biu1ze2-cousin-older-female-maternal",
-    "id": "biu1ze2-cousin-older-female-maternal",
-    "text": "表姐"
+    "filename": "caau2-stir-fried",
+    "id": "caau2-stir-fried",
+    "text": "炒"
   },
   {
-    "filename": "biu1ze2-cousin-older-female-maternal-example-1",
-    "id": "biu1ze2-cousin-older-female-maternal-example-1",
-    "text": "我嘅表姐今日嚟我屋企玩。"
+    "filename": "caau2-stir-fried-example-1",
+    "id": "caau2-stir-fried-example-1",
+    "text": "我想食炒牛河。"
   },
   {
-    "filename": "biu1ze2-cousin-older-female-maternal-example-2",
-    "id": "biu1ze2-cousin-older-female-maternal-example-2",
-    "text": "表姐同我講咗好多家庭故事。"
+    "filename": "caau2-stir-fried-example-2",
+    "id": "caau2-stir-fried-example-2",
+    "text": "媽媽喺廚房炒菜。"
   },
   {
-    "filename": "biu1ze2-cousin-older-female-maternal-example-3",
-    "id": "biu1ze2-cousin-older-female-maternal-example-3",
-    "text": "我成日同表姐一齊去街市。"
+    "filename": "caau2-stir-fried-example-3",
+    "id": "caau2-stir-fried-example-3",
+    "text": "餐廳有好多炒飯選擇。"
   },
   {
-    "filename": "biu1ze2-cousin-older-female-maternal-example-4",
-    "id": "biu1ze2-cousin-older-female-maternal-example-4",
-    "text": "表姐好叻，佢係學生會主席。"
+    "filename": "caau2-stir-fried-example-4",
+    "id": "caau2-stir-fried-example-4",
+    "text": "師傅快啲炒埋啲青菜。"
   },
   {
-    "filename": "can1cik1-relatives",
-    "id": "can1cik1-relatives",
-    "text": "親戚"
+    "filename": "caau2baak6coi3-stir-fried-bok-choy",
+    "id": "caau2baak6coi3-stir-fried-bok-choy",
+    "text": "炒白菜"
   },
   {
-    "filename": "can1cik1-relatives-example-1",
-    "id": "can1cik1-relatives-example-1",
-    "text": "我今次去探親戚。"
+    "filename": "caau2baak6coi3-stir-fried-bok-choy-example-1",
+    "id": "caau2baak6coi3-stir-fried-bok-choy-example-1",
+    "text": "我今晚想食炒白菜。"
   },
   {
-    "filename": "can1cik1-relatives-example-2",
-    "id": "can1cik1-relatives-example-2",
-    "text": "你有冇好多親戚住喺呢度？"
+    "filename": "caau2baak6coi3-stir-fried-bok-choy-example-2",
+    "id": "caau2baak6coi3-stir-fried-bok-choy-example-2",
+    "text": "呢度嘅炒白菜好好味。"
   },
   {
-    "filename": "can1cik1-relatives-example-3",
-    "id": "can1cik1-relatives-example-3",
-    "text": "親戚嚟我屋企食飯。"
+    "filename": "caau2baak6coi3-stir-fried-bok-choy-example-3",
+    "id": "caau2baak6coi3-stir-fried-bok-choy-example-3",
+    "text": "餐牌上有炒白菜同埋炒菜心。"
   },
   {
-    "filename": "can1cik1-relatives-example-4",
-    "id": "can1cik1-relatives-example-4",
-    "text": "佢哋嘅親戚好關心佢。"
+    "filename": "caau2baak6coi3-stir-fried-bok-choy-example-4",
+    "id": "caau2baak6coi3-stir-fried-bok-choy-example-4",
+    "text": "我哋叫咗兩份炒白菜。"
   },
   {
-    "filename": "daai6go1-older-brother",
-    "id": "daai6go1-older-brother",
-    "text": "大哥"
+    "filename": "caau2coi3sam1-stir-fried-choy-sum",
+    "id": "caau2coi3sam1-stir-fried-choy-sum",
+    "text": "炒菜心"
   },
   {
-    "filename": "daai6go1-older-brother-example-1",
-    "id": "daai6go1-older-brother-example-1",
-    "text": "我嘅大哥教我玩籃球。"
+    "filename": "caau2coi3sam1-stir-fried-choy-sum-example-1",
+    "id": "caau2coi3sam1-stir-fried-choy-sum-example-1",
+    "text": "我今晚想食炒菜心。"
   },
   {
-    "filename": "daai6go1-older-brother-example-2",
-    "id": "daai6go1-older-brother-example-2",
-    "text": "大哥，你今日好忙嗎？"
+    "filename": "caau2coi3sam1-stir-fried-choy-sum-example-2",
+    "id": "caau2coi3sam1-stir-fried-choy-sum-example-2",
+    "text": "呢間餐廳嘅炒菜心好好味。"
   },
   {
-    "filename": "daai6go1-older-brother-example-3",
-    "id": "daai6go1-older-brother-example-3",
-    "text": "阿明係我嘅大哥。"
+    "filename": "caau2coi3sam1-stir-fried-choy-sum-example-3",
+    "id": "caau2coi3sam1-stir-fried-choy-sum-example-3",
+    "text": "炒菜心係我最鍾意嘅蔬菜。"
   },
   {
-    "filename": "daai6go1-older-brother-example-4",
-    "id": "daai6go1-older-brother-example-4",
-    "text": "你搵大哥幫手啦！"
+    "filename": "caau2coi3sam1-stir-fried-choy-sum-example-4",
+    "id": "caau2coi3sam1-stir-fried-choy-sum-example-4",
+    "text": "你想加埋炒菜心定係炒豆苗？"
   },
   {
-    "filename": "daai6ze2-older-sister",
-    "id": "daai6ze2-older-sister",
-    "text": "大姐"
+    "filename": "caau2faan2si1-stir-fried-vermicelli",
+    "id": "caau2faan2si1-stir-fried-vermicelli",
+    "text": "炒粉絲"
   },
   {
-    "filename": "daai6ze2-older-sister-example-1",
-    "id": "daai6ze2-older-sister-example-1",
-    "text": "我嘅大姐好照顧我。"
+    "filename": "caau2faan2si1-stir-fried-vermicelli-example-1",
+    "id": "caau2faan2si1-stir-fried-vermicelli-example-1",
+    "text": "我今晚想食炒粉絲。"
   },
   {
-    "filename": "daai6ze2-older-sister-example-2",
-    "id": "daai6ze2-older-sister-example-2",
-    "text": "大姐今日唔返屋企。"
+    "filename": "caau2faan2si1-stir-fried-vermicelli-example-2",
+    "id": "caau2faan2si1-stir-fried-vermicelli-example-2",
+    "text": "呢間餐廳嘅炒粉絲好好味。"
   },
   {
-    "filename": "daai6ze2-older-sister-example-3",
-    "id": "daai6ze2-older-sister-example-3",
-    "text": "我大姐教我點煮飯。"
+    "filename": "caau2faan2si1-stir-fried-vermicelli-example-3",
+    "id": "caau2faan2si1-stir-fried-vermicelli-example-3",
+    "text": "炒粉絲可以加啲菜同埋肉。"
   },
   {
-    "filename": "daai6ze2-older-sister-example-4",
-    "id": "daai6ze2-older-sister-example-4",
-    "text": "聽日約我同大姐食飯啦。"
+    "filename": "caau2faan2si1-stir-fried-vermicelli-example-4",
+    "id": "caau2faan2si1-stir-fried-vermicelli-example-4",
+    "text": "我唔食辣，但我鍾意炒粉絲。"
   },
   {
-    "filename": "dai6dai6-younger-brother",
-    "id": "dai6dai6-younger-brother",
-    "text": "弟弟"
+    "filename": "caau2faan6-fried-rice",
+    "id": "caau2faan6-fried-rice",
+    "text": "炒飯"
   },
   {
-    "filename": "dai6dai6-younger-brother-example-1",
-    "id": "dai6dai6-younger-brother-example-1",
-    "text": "我有一個弟弟。"
+    "filename": "caau2faan6-fried-rice-example-1",
+    "id": "caau2faan6-fried-rice-example-1",
+    "text": "我今晚想食炒飯。"
   },
   {
-    "filename": "dai6dai6-younger-brother-example-2",
-    "id": "dai6dai6-younger-brother-example-2",
-    "text": "弟弟今日唔返學。"
+    "filename": "caau2faan6-fried-rice-example-2",
+    "id": "caau2faan6-fried-rice-example-2",
+    "text": "呢間餐廳嘅炒飯好好味。"
   },
   {
-    "filename": "dai6dai6-younger-brother-example-3",
-    "id": "dai6dai6-younger-brother-example-3",
-    "text": "你嘅弟弟幾歲？"
+    "filename": "caau2faan6-fried-rice-example-3",
+    "id": "caau2faan6-fried-rice-example-3",
+    "text": "你鍾意蝦仁炒飯定雞肉炒飯？"
   },
   {
-    "filename": "dai6dai6-younger-brother-example-4",
-    "id": "dai6dai6-younger-brother-example-4",
-    "text": "弟弟鍾意打籃球。"
+    "filename": "caau2faan6-fried-rice-example-4",
+    "id": "caau2faan6-fried-rice-example-4",
+    "text": "廚師快啲整多碟炒飯啦。"
   },
   {
-    "filename": "fu6can1-father-formal",
-    "id": "fu6can1-father-formal",
-    "text": "父親"
+    "filename": "caau2gaai3laan4-stir-fried-kai-lan",
+    "id": "caau2gaai3laan4-stir-fried-kai-lan",
+    "text": "炒芥蘭"
   },
   {
-    "filename": "fu6can1-father-formal-example-1",
-    "id": "fu6can1-father-formal-example-1",
-    "text": "我嘅父親今日返工好忙。"
+    "filename": "caau2gaai3laan4-stir-fried-kai-lan-example-1",
+    "id": "caau2gaai3laan4-stir-fried-kai-lan-example-1",
+    "text": "我哋今晚食炒芥蘭。"
   },
   {
-    "filename": "fu6can1-father-formal-example-2",
-    "id": "fu6can1-father-formal-example-2",
-    "text": "你嘅父親仲喺屋企嗎？"
+    "filename": "caau2gaai3laan4-stir-fried-kai-lan-example-2",
+    "id": "caau2gaai3laan4-stir-fried-kai-lan-example-2",
+    "text": "呢度嘅炒芥蘭好正！"
   },
   {
-    "filename": "fu6can1-father-formal-example-3",
-    "id": "fu6can1-father-formal-example-3",
-    "text": "我想同父親傾下計。"
+    "filename": "caau2gaai3laan4-stir-fried-kai-lan-example-3",
+    "id": "caau2gaai3laan4-stir-fried-kai-lan-example-3",
+    "text": "你識唔識整炒芥蘭？"
   },
   {
-    "filename": "fu6can1-father-formal-example-4",
-    "id": "fu6can1-father-formal-example-4",
-    "text": "父親節我買咗花俾佢。"
+    "filename": "caau2gaai3laan4-stir-fried-kai-lan-example-4",
+    "id": "caau2gaai3laan4-stir-fried-kai-lan-example-4",
+    "text": "我唔鐘意食炒芥蘭。"
   },
   {
-    "filename": "gaa1gung1-father-in-law-husband-side",
-    "id": "gaa1gung1-father-in-law-husband-side",
-    "text": "家公"
+    "filename": "caau2gai1ding2-stir-fried-diced-chicken",
+    "id": "caau2gai1ding2-stir-fried-diced-chicken",
+    "text": "炒雞丁"
   },
   {
-    "filename": "gaa1gung1-father-in-law-husband-side-example-1",
-    "id": "gaa1gung1-father-in-law-husband-side-example-1",
-    "text": "我今日帶咗禮物去見我嘅家公。"
+    "filename": "caau2gai1ding2-stir-fried-diced-chicken-example-1",
+    "id": "caau2gai1ding2-stir-fried-diced-chicken-example-1",
+    "text": "我哋今晚食炒雞丁啦。"
   },
   {
-    "filename": "gaa1gung1-father-in-law-husband-side-example-2",
-    "id": "gaa1gung1-father-in-law-husband-side-example-2",
-    "text": "家公教我整咗碟好味嘅菜。"
+    "filename": "caau2gai1ding2-stir-fried-diced-chicken-example-2",
+    "id": "caau2gai1ding2-stir-fried-diced-chicken-example-2",
+    "text": "呢碟炒雞丁好香。"
   },
   {
-    "filename": "gaa1gung1-father-in-law-husband-side-example-3",
-    "id": "gaa1gung1-father-in-law-husband-side-example-3",
-    "text": "我哋今晚去屋企睇吓家公。"
+    "filename": "caau2gai1ding2-stir-fried-diced-chicken-example-3",
+    "id": "caau2gai1ding2-stir-fried-diced-chicken-example-3",
+    "text": "我叫咗一份炒雞丁。"
   },
   {
-    "filename": "gaa1gung1-father-in-law-husband-side-example-4",
-    "id": "gaa1gung1-father-in-law-husband-side-example-4",
-    "text": "家公好鐘意花，多謝你送咗花畀佢。"
+    "filename": "caau2gai1ding2-stir-fried-diced-chicken-example-4",
+    "id": "caau2gai1ding2-stir-fried-diced-chicken-example-4",
+    "text": "炒雞丁通常配米飯一齊食。"
   },
   {
-    "filename": "gaa1hau6-household",
-    "id": "gaa1hau6-household",
-    "text": "家口"
+    "filename": "caau2gai1wing1-stir-fried-chicken-wings",
+    "id": "caau2gai1wing1-stir-fried-chicken-wings",
+    "text": "炒雞翼"
   },
   {
-    "filename": "gaa1hau6-household-example-1",
-    "id": "gaa1hau6-household-example-1",
-    "text": "我哋家口有五個人。"
+    "filename": "caau2gai1wing1-stir-fried-chicken-wings-example-1",
+    "id": "caau2gai1wing1-stir-fried-chicken-wings-example-1",
+    "text": "我想叫一碟炒雞翼。"
   },
   {
-    "filename": "gaa1hau6-household-example-2",
-    "id": "gaa1hau6-household-example-2",
-    "text": "你嘅家口都健康嗎？"
+    "filename": "caau2gai1wing1-stir-fried-chicken-wings-example-2",
+    "id": "caau2gai1wing1-stir-fried-chicken-wings-example-2",
+    "text": "呢個餐廳嘅炒雞翼好好味。"
   },
   {
-    "filename": "gaa1hau6-household-example-3",
-    "id": "gaa1hau6-household-example-3",
-    "text": "我家口好忙，朝早起身做嘢。"
+    "filename": "caau2gai1wing1-stir-fried-chicken-wings-example-3",
+    "id": "caau2gai1wing1-stir-fried-chicken-wings-example-3",
+    "text": "你試過炒雞翼未？"
   },
   {
-    "filename": "gaa1hau6-household-example-4",
-    "id": "gaa1hau6-household-example-4",
-    "text": "報告要寫埋家口嘅資料。"
+    "filename": "caau2gai1wing1-stir-fried-chicken-wings-example-4",
+    "id": "caau2gai1wing1-stir-fried-chicken-wings-example-4",
+    "text": "我哋今晚食炒雞翼啦！"
   },
   {
-    "filename": "gaa1jan4-family-members",
-    "id": "gaa1jan4-family-members",
-    "text": "家人"
+    "filename": "caau2ho4fun2-fried-ho-fun",
+    "id": "caau2ho4fun2-fried-ho-fun",
+    "text": "炒河粉"
   },
   {
-    "filename": "gaa1jan4-family-members-example-1",
-    "id": "gaa1jan4-family-members-example-1",
-    "text": "我今晚同家人一齊食飯。"
+    "filename": "caau2ho4fun2-fried-ho-fun-example-1",
+    "id": "caau2ho4fun2-fried-ho-fun-example-1",
+    "text": "呢間餐廳嘅炒河粉好好味。"
   },
   {
-    "filename": "gaa1jan4-family-members-example-2",
-    "id": "gaa1jan4-family-members-example-2",
-    "text": "你嘅家人住喺邊度？"
+    "filename": "caau2ho4fun2-fried-ho-fun-example-2",
+    "id": "caau2ho4fun2-fried-ho-fun-example-2",
+    "text": "你想唔想試吓炒河粉？"
   },
   {
-    "filename": "gaa1jan4-family-members-example-3",
-    "id": "gaa1jan4-family-members-example-3",
-    "text": "家人最緊要，唔好忽略佢哋。"
+    "filename": "caau2ho4fun2-fried-ho-fun-example-3",
+    "id": "caau2ho4fun2-fried-ho-fun-example-3",
+    "text": "我今晚食牛肉炒河粉。"
   },
   {
-    "filename": "gaa1jan4-family-members-example-4",
-    "id": "gaa1jan4-family-members-example-4",
-    "text": "放假我會陪家人去旅行。"
+    "filename": "caau2ho4fun2-fried-ho-fun-example-4",
+    "id": "caau2ho4fun2-fried-ho-fun-example-4",
+    "text": "炒河粉通常有豆芽菜同埋青蔥。"
   },
   {
-    "filename": "gaa1po4-mother-in-law-husband-side",
-    "id": "gaa1po4-mother-in-law-husband-side",
-    "text": "家婆"
+    "filename": "caau2ngau4juk6-stir-fried-beef",
+    "id": "caau2ngau4juk6-stir-fried-beef",
+    "text": "炒牛肉"
   },
   {
-    "filename": "gaa1po4-mother-in-law-husband-side-example-1",
-    "id": "gaa1po4-mother-in-law-husband-side-example-1",
-    "text": "我屋企嘅家婆好好人。"
+    "filename": "caau2ngau4juk6-stir-fried-beef-example-1",
+    "id": "caau2ngau4juk6-stir-fried-beef-example-1",
+    "text": "我今晚想食炒牛肉。"
   },
   {
-    "filename": "gaa1po4-mother-in-law-husband-side-example-2",
-    "id": "gaa1po4-mother-in-law-husband-side-example-2",
-    "text": "今晚我哋去拜訪我嘅家婆。"
+    "filename": "caau2ngau4juk6-stir-fried-beef-example-2",
+    "id": "caau2ngau4juk6-stir-fried-beef-example-2",
+    "text": "呢間餐廳嘅炒牛肉好出名。"
   },
   {
-    "filename": "gaa1po4-mother-in-law-husband-side-example-3",
-    "id": "gaa1po4-mother-in-law-husband-side-example-3",
-    "text": "家婆煮飯煮得好好味。"
+    "filename": "caau2ngau4juk6-stir-fried-beef-example-3",
+    "id": "caau2ngau4juk6-stir-fried-beef-example-3",
+    "text": "炒牛肉入面有冇加蔥？"
   },
   {
-    "filename": "gaa1po4-mother-in-law-husband-side-example-4",
-    "id": "gaa1po4-mother-in-law-husband-side-example-4",
-    "text": "我嘅家婆經常幫手照顧細路。"
+    "filename": "caau2ngau4juk6-stir-fried-beef-example-4",
+    "id": "caau2ngau4juk6-stir-fried-beef-example-4",
+    "text": "幫我叫一份炒牛肉，多啲辣。"
   },
   {
-    "filename": "gaa1ting4-family-household",
-    "id": "gaa1ting4-family-household",
-    "text": "家庭"
+    "filename": "caau2si1jau4saan1-stir-fried-watercress",
+    "id": "caau2si1jau4saan1-stir-fried-watercress",
+    "text": "炒西洋菜"
   },
   {
-    "filename": "gaa1ting4-family-household-example-1",
-    "id": "gaa1ting4-family-household-example-1",
-    "text": "我哋家庭好團結。"
+    "filename": "caau2si1jau4saan1-stir-fried-watercress-example-1",
+    "id": "caau2si1jau4saan1-stir-fried-watercress-example-1",
+    "text": "今晚食飯想食炒西洋菜。"
   },
   {
-    "filename": "gaa1ting4-family-household-example-2",
-    "id": "gaa1ting4-family-household-example-2",
-    "text": "呢個家庭有五個人。"
+    "filename": "caau2si1jau4saan1-stir-fried-watercress-example-2",
+    "id": "caau2si1jau4saan1-stir-fried-watercress-example-2",
+    "text": "炒西洋菜唔辣，好啱我食。"
   },
   {
-    "filename": "gaa1ting4-family-household-example-3",
-    "id": "gaa1ting4-family-household-example-3",
-    "text": "家庭生活唔容易，但好重要。"
+    "filename": "caau2si1jau4saan1-stir-fried-watercress-example-3",
+    "id": "caau2si1jau4saan1-stir-fried-watercress-example-3",
+    "text": "阿媽今晚煮咗一碟炒西洋菜。"
   },
   {
-    "filename": "gaa1ting4-family-household-example-4",
-    "id": "gaa1ting4-family-household-example-4",
-    "text": "佢哋嘅家庭好幸福。"
+    "filename": "caau2si1jau4saan1-stir-fried-watercress-example-4",
+    "id": "caau2si1jau4saan1-stir-fried-watercress-example-4",
+    "text": "你叫左幾多碟炒西洋菜？"
   },
   {
-    "filename": "gaa1zoeng2-parent",
-    "id": "gaa1zoeng2-parent",
-    "text": "家長"
+    "filename": "caau2soeng1jyu4-lotus-root",
+    "id": "caau2soeng1jyu4-lotus-root",
+    "text": "炒蓮藕"
   },
   {
-    "filename": "gaa1zoeng2-parent-example-1",
-    "id": "gaa1zoeng2-parent-example-1",
-    "text": "學校安排左家長會。"
+    "filename": "caau2soeng1jyu4-lotus-root-example-1",
+    "id": "caau2soeng1jyu4-lotus-root-example-1",
+    "text": "我今晚想食炒蓮藕。"
   },
   {
-    "filename": "gaa1zoeng2-parent-example-2",
-    "id": "gaa1zoeng2-parent-example-2",
-    "text": "家長應該支持孩子嘅學習。"
+    "filename": "caau2soeng1jyu4-lotus-root-example-2",
+    "id": "caau2soeng1jyu4-lotus-root-example-2",
+    "text": "餐廳有冇炒蓮藕？"
   },
   {
-    "filename": "gaa1zoeng2-parent-example-3",
-    "id": "gaa1zoeng2-parent-example-3",
-    "text": "家長帶仔女去醫生度檢查。"
+    "filename": "caau2soeng1jyu4-lotus-root-example-3",
+    "id": "caau2soeng1jyu4-lotus-root-example-3",
+    "text": "呢碟炒蓮藕好好味。"
   },
   {
-    "filename": "gaa1zoeng2-parent-example-4",
-    "id": "gaa1zoeng2-parent-example-4",
-    "text": "呢個表格要家長簽名。"
+    "filename": "caau2soeng1jyu4-lotus-root-example-4",
+    "id": "caau2soeng1jyu4-lotus-root-example-4",
+    "text": "媽媽經常整炒蓮藕畀我食。"
   },
   {
-    "filename": "gaa1zuk6-family-clan",
-    "id": "gaa1zuk6-family-clan",
-    "text": "家族"
+    "filename": "caau2zyu1juk6-stir-fried-pork",
+    "id": "caau2zyu1juk6-stir-fried-pork",
+    "text": "炒豬肉"
   },
   {
-    "filename": "gaa1zuk6-family-clan-example-1",
-    "id": "gaa1zuk6-family-clan-example-1",
-    "text": "我嘅家族好大，有好多親戚。"
+    "filename": "caau2zyu1juk6-stir-fried-pork-example-1",
+    "id": "caau2zyu1juk6-stir-fried-pork-example-1",
+    "text": "今晚我想食炒豬肉。"
   },
   {
-    "filename": "gaa1zuk6-family-clan-example-2",
-    "id": "gaa1zuk6-family-clan-example-2",
-    "text": "佢哋家族傳統好重視禮儀。"
+    "filename": "caau2zyu1juk6-stir-fried-pork-example-2",
+    "id": "caau2zyu1juk6-stir-fried-pork-example-2",
+    "text": "呢間餐廳嘅炒豬肉好出名。"
   },
   {
-    "filename": "gaa1zuk6-family-clan-example-3",
-    "id": "gaa1zuk6-family-clan-example-3",
-    "text": "家族聚會每年都會辦一次。"
+    "filename": "caau2zyu1juk6-stir-fried-pork-example-3",
+    "id": "caau2zyu1juk6-stir-fried-pork-example-3",
+    "text": "佢哋嘅炒豬肉有啲辣。"
   },
   {
-    "filename": "gaa1zuk6-family-clan-example-4",
-    "id": "gaa1zuk6-family-clan-example-4",
-    "text": "佢係呢個家族嘅重要成員。"
+    "filename": "caau2zyu1juk6-stir-fried-pork-example-4",
+    "id": "caau2zyu1juk6-stir-fried-pork-example-4",
+    "text": "我唔鍾意食炒豬肉，因為太油膩。"
   },
   {
-    "filename": "gaa1zung1-at-home",
-    "id": "gaa1zung1-at-home",
-    "text": "家中"
+    "filename": "cing1zing1haai5-crab",
+    "id": "cing1zing1haai5-crab",
+    "text": "清蒸蟹"
   },
   {
-    "filename": "gaa1zung1-at-home-example-1",
-    "id": "gaa1zung1-at-home-example-1",
-    "text": "我家中而家冇人。"
+    "filename": "cing1zing1haai5-crab-example-1",
+    "id": "cing1zing1haai5-crab-example-1",
+    "text": "我今晚想食清蒸蟹。"
   },
   {
-    "filename": "gaa1zung1-at-home-example-2",
-    "id": "gaa1zung1-at-home-example-2",
-    "text": "你家中有冇寵物？"
+    "filename": "cing1zing1haai5-crab-example-2",
+    "id": "cing1zing1haai5-crab-example-2",
+    "text": "呢間餐廳嘅清蒸蟹好出名。"
   },
   {
-    "filename": "gaa1zung1-at-home-example-3",
-    "id": "gaa1zung1-at-home-example-3",
-    "text": "家中嘅氣氛好溫馨。"
+    "filename": "cing1zing1haai5-crab-example-3",
+    "id": "cing1zing1haai5-crab-example-3",
+    "text": "你試過清蒸蟹未？"
   },
   {
-    "filename": "gaa1zung1-at-home-example-4",
-    "id": "gaa1zung1-at-home-example-4",
-    "text": "我想留喺家中休息。"
+    "filename": "cing1zing1haai5-crab-example-4",
+    "id": "cing1zing1haai5-crab-example-4",
+    "text": "我哋叫咗兩份清蒸蟹。"
   },
   {
-    "filename": "gai3fu6-stepfather",
-    "id": "gai3fu6-stepfather",
-    "text": "繼父"
+    "filename": "cing1zing1jyu4-steamed-fish",
+    "id": "cing1zing1jyu4-steamed-fish",
+    "text": "清蒸魚"
   },
   {
-    "filename": "gai3fu6-stepfather-example-1",
-    "id": "gai3fu6-stepfather-example-1",
-    "text": "我嘅繼父好好人。"
+    "filename": "cing1zing1jyu4-steamed-fish-example-1",
+    "id": "cing1zing1jyu4-steamed-fish-example-1",
+    "text": "今晚我哋喺餐廳食清蒸魚。"
   },
   {
-    "filename": "gai3fu6-stepfather-example-2",
-    "id": "gai3fu6-stepfather-example-2",
-    "text": "你繼父做咩工？"
+    "filename": "cing1zing1jyu4-steamed-fish-example-2",
+    "id": "cing1zing1jyu4-steamed-fish-example-2",
+    "text": "呢度嘅清蒸魚好鮮味。"
   },
   {
-    "filename": "gai3fu6-stepfather-example-3",
-    "id": "gai3fu6-stepfather-example-3",
-    "text": "佢同佢嘅繼父相處得好好。"
+    "filename": "cing1zing1jyu4-steamed-fish-example-3",
+    "id": "cing1zing1jyu4-steamed-fish-example-3",
+    "text": "我媽媽鍾意煮清蒸魚。"
   },
   {
-    "filename": "gai3fu6-stepfather-example-4",
-    "id": "gai3fu6-stepfather-example-4",
-    "text": "我細個開始接受我嘅繼父。"
+    "filename": "cing1zing1jyu4-steamed-fish-example-4",
+    "id": "cing1zing1jyu4-steamed-fish-example-4",
+    "text": "你想唔想試下清蒸魚？"
   },
   {
-    "filename": "gai3mou5-stepmother",
-    "id": "gai3mou5-stepmother",
-    "text": "繼母"
+    "filename": "cing1zing1lung4haa1-steamed-lobster",
+    "id": "cing1zing1lung4haa1-steamed-lobster",
+    "text": "清蒸龍蝦"
   },
   {
-    "filename": "gai3mou5-stepmother-example-1",
-    "id": "gai3mou5-stepmother-example-1",
-    "text": "我嘅繼母好好人。"
+    "filename": "cing1zing1lung4haa1-steamed-lobster-example-1",
+    "id": "cing1zing1lung4haa1-steamed-lobster-example-1",
+    "text": "今晚我哋食清蒸龍蝦。"
   },
   {
-    "filename": "gai3mou5-stepmother-example-2",
-    "id": "gai3mou5-stepmother-example-2",
-    "text": "你想唔想介紹你嘅繼母畀我認識？"
+    "filename": "cing1zing1lung4haa1-steamed-lobster-example-2",
+    "id": "cing1zing1lung4haa1-steamed-lobster-example-2",
+    "text": "清蒸龍蝦好鮮甜。"
   },
   {
-    "filename": "gai3mou5-stepmother-example-3",
-    "id": "gai3mou5-stepmother-example-3",
-    "text": "繼母同我哋嘅關係唔係好親。"
+    "filename": "cing1zing1lung4haa1-steamed-lobster-example-3",
+    "id": "cing1zing1lung4haa1-steamed-lobster-example-3",
+    "text": "餐廳有冇清蒸龍蝦？"
   },
   {
-    "filename": "gai3mou5-stepmother-example-4",
-    "id": "gai3mou5-stepmother-example-4",
-    "text": "繼母黎咗我哋屋企做咗幾年。"
+    "filename": "cing1zing1lung4haa1-steamed-lobster-example-4",
+    "id": "cing1zing1lung4haa1-steamed-lobster-example-4",
+    "text": "我想訂一份清蒸龍蝦。"
   },
   {
-    "filename": "go1go1-older-brother",
-    "id": "go1go1-older-brother",
-    "text": "哥哥"
+    "filename": "daan1-menu",
+    "id": "daan1-menu",
+    "text": "餐單"
   },
   {
-    "filename": "go1go1-older-brother-example-1",
-    "id": "go1go1-older-brother-example-1",
-    "text": "我有一個哥哥。"
+    "filename": "daan1-menu-example-1",
+    "id": "daan1-menu-example-1",
+    "text": "我可以睇吓餐單嗎？"
   },
   {
-    "filename": "go1go1-older-brother-example-2",
-    "id": "go1go1-older-brother-example-2",
-    "text": "哥哥今日返學未？"
+    "filename": "daan1-menu-example-2",
+    "id": "daan1-menu-example-2",
+    "text": "呢度嘅餐單好豐富。"
   },
   {
-    "filename": "go1go1-older-brother-example-3",
-    "id": "go1go1-older-brother-example-3",
-    "text": "我哋細個時，哥哥教我打波。"
+    "filename": "daan1-menu-example-3",
+    "id": "daan1-menu-example-3",
+    "text": "佢都唔知餐單上有啲咩嘢。"
   },
   {
-    "filename": "go1go1-older-brother-example-4",
-    "id": "go1go1-older-brother-example-4",
-    "text": "哥哥，幫我攞下嗰個喇。"
+    "filename": "daan1-menu-example-4",
+    "id": "daan1-menu-example-4",
+    "text": "我最鍾意呢個餐單嘅甜品。"
   },
   {
-    "filename": "gu1gu1-aunt-fathers-sister",
-    "id": "gu1gu1-aunt-fathers-sister",
-    "text": "姑姑"
+    "filename": "daan6tat1-egg-tart",
+    "id": "daan6tat1-egg-tart",
+    "text": "蛋撻"
   },
   {
-    "filename": "gu1gu1-aunt-fathers-sister-example-1",
-    "id": "gu1gu1-aunt-fathers-sister-example-1",
-    "text": "我今日去見姑姑。"
+    "filename": "daan6tat1-egg-tart-example-1",
+    "id": "daan6tat1-egg-tart-example-1",
+    "text": "我想食一個蛋撻。"
   },
   {
-    "filename": "gu1gu1-aunt-fathers-sister-example-2",
-    "id": "gu1gu1-aunt-fathers-sister-example-2",
-    "text": "姑姑煮咗好好味嘅晚餐。"
+    "filename": "daan6tat1-egg-tart-example-2",
+    "id": "daan6tat1-egg-tart-example-2",
+    "text": "你哋有冇賣蛋撻？"
   },
   {
-    "filename": "gu1gu1-aunt-fathers-sister-example-3",
-    "id": "gu1gu1-aunt-fathers-sister-example-3",
-    "text": "我細個時候，姑姑經常陪我玩。"
+    "filename": "daan6tat1-egg-tart-example-3",
+    "id": "daan6tat1-egg-tart-example-3",
+    "text": "蛋撻好甜，好好味！"
   },
   {
-    "filename": "gu1gu1-aunt-fathers-sister-example-4",
-    "id": "gu1gu1-aunt-fathers-sister-example-4",
-    "text": "姑姑屋企喺香港中心區。"
+    "filename": "daan6tat1-egg-tart-example-4",
+    "id": "daan6tat1-egg-tart-example-4",
+    "text": "茶餐廳嘅蛋撻最出名。"
   },
   {
-    "filename": "gu1maa1-aunt",
-    "id": "gu1maa1-aunt",
-    "text": "姑媽"
+    "filename": "dung3-cold",
+    "id": "dung3-cold",
+    "text": "凍"
   },
   {
-    "filename": "gu1maa1-aunt-example-1",
-    "id": "gu1maa1-aunt-example-1",
-    "text": "我哋今晚去姑媽屋企食飯。"
+    "filename": "dung3-cold-example-1",
+    "id": "dung3-cold-example-1",
+    "text": "呢杯水好凍。"
   },
   {
-    "filename": "gu1maa1-aunt-example-2",
-    "id": "gu1maa1-aunt-example-2",
-    "text": "姑媽送咗我一份禮物。"
+    "filename": "dung3-cold-example-2",
+    "id": "dung3-cold-example-2",
+    "text": "我鍾意飲凍飲品。"
   },
   {
-    "filename": "gu1maa1-aunt-example-3",
-    "id": "gu1maa1-aunt-example-3",
-    "text": "我嘅姑媽住喺九龍。"
+    "filename": "dung3-cold-example-3",
+    "id": "dung3-cold-example-3",
+    "text": "夏天飲凍嘢最爽。"
   },
   {
-    "filename": "gu1maa1-aunt-example-4",
-    "id": "gu1maa1-aunt-example-4",
-    "text": "姑媽成日教我煮嘢食。"
+    "filename": "dung3-cold-example-4",
+    "id": "dung3-cold-example-4",
+    "text": "廚房入面有凍凍嘅嘢。"
   },
   {
-    "filename": "gung1gung1-grandfather-paternal",
-    "id": "gung1gung1-grandfather-paternal",
-    "text": "公公"
+    "filename": "dung3gaa3fe1-iced-coffee",
+    "id": "dung3gaa3fe1-iced-coffee",
+    "text": "凍咖啡"
   },
   {
-    "filename": "gung1gung1-grandfather-paternal-example-1",
-    "id": "gung1gung1-grandfather-paternal-example-1",
-    "text": "我嘅公公好鍾意種花。"
+    "filename": "dung3gaa3fe1-iced-coffee-example-1",
+    "id": "dung3gaa3fe1-iced-coffee-example-1",
+    "text": "我想飲杯凍咖啡。"
   },
   {
-    "filename": "gung1gung1-grandfather-paternal-example-2",
-    "id": "gung1gung1-grandfather-paternal-example-2",
-    "text": "今次公公嚟我哋屋企食飯。"
+    "filename": "dung3gaa3fe1-iced-coffee-example-2",
+    "id": "dung3gaa3fe1-iced-coffee-example-2",
+    "text": "夏天飲凍咖啡最好。"
   },
   {
-    "filename": "gung1gung1-grandfather-paternal-example-3",
-    "id": "gung1gung1-grandfather-paternal-example-3",
-    "text": "公公教我識用筷子。"
+    "filename": "dung3gaa3fe1-iced-coffee-example-3",
+    "id": "dung3gaa3fe1-iced-coffee-example-3",
+    "text": "餐牌上有凍咖啡同熱咖啡。"
   },
   {
-    "filename": "gung1gung1-grandfather-paternal-example-4",
-    "id": "gung1gung1-grandfather-paternal-example-4",
-    "text": "我想買禮物畀公公。"
+    "filename": "dung3gaa3fe1-iced-coffee-example-4",
+    "id": "dung3gaa3fe1-iced-coffee-example-4",
+    "text": "我唔飲甜嘅，想要無糖嘅凍咖啡。"
   },
   {
-    "filename": "hing1dai6-brothers",
-    "id": "hing1dai6-brothers",
-    "text": "兄弟"
+    "filename": "dung3guk1faa1caa4-iced-chrysanthemum-tea",
+    "id": "dung3guk1faa1caa4-iced-chrysanthemum-tea",
+    "text": "凍菊花茶"
   },
   {
-    "filename": "hing1dai6-brothers-example-1",
-    "id": "hing1dai6-brothers-example-1",
-    "text": "我有兩個兄弟。"
+    "filename": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-1",
+    "id": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-1",
+    "text": "我要一杯凍菊花茶，唔該。"
   },
   {
-    "filename": "hing1dai6-brothers-example-2",
-    "id": "hing1dai6-brothers-example-2",
-    "text": "佢係我嘅兄弟。"
+    "filename": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-2",
+    "id": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-2",
+    "text": "夏天飲凍菊花茶最正。"
   },
   {
-    "filename": "hing1dai6-brothers-example-3",
-    "id": "hing1dai6-brothers-example-3",
-    "text": "我同兄弟一齊去打波。"
+    "filename": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-3",
+    "id": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-3",
+    "text": "茶餐廳有冇凍菊花茶賣？"
   },
   {
-    "filename": "hing1dai6-brothers-example-4",
-    "id": "hing1dai6-brothers-example-4",
-    "text": "兄弟之間要互相幫忙。"
+    "filename": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-4",
+    "id": "dung3guk1faa1caa4-iced-chrysanthemum-tea-example-4",
+    "text": "凍菊花茶同熱菊花茶味道唔同。"
   },
   {
-    "filename": "hing1dai6zi2mui6-siblings",
-    "id": "hing1dai6zi2mui6-siblings",
-    "text": "兄弟姊妹"
+    "filename": "dung3holok6-iced-coke",
+    "id": "dung3holok6-iced-coke",
+    "text": "凍可樂"
   },
   {
-    "filename": "hing1dai6zi2mui6-siblings-example-1",
-    "id": "hing1dai6zi2mui6-siblings-example-1",
-    "text": "我有三個兄弟姊妹。"
+    "filename": "dung3holok6-iced-coke-example-1",
+    "id": "dung3holok6-iced-coke-example-1",
+    "text": "我今晚想飲凍可樂。"
   },
   {
-    "filename": "hing1dai6zi2mui6-siblings-example-2",
-    "id": "hing1dai6zi2mui6-siblings-example-2",
-    "text": "兄弟姊妹之間應該支持對方。"
+    "filename": "dung3holok6-iced-coke-example-2",
+    "id": "dung3holok6-iced-coke-example-2",
+    "text": "呢度有冇凍可樂賣？"
   },
   {
-    "filename": "hing1dai6zi2mui6-siblings-example-3",
-    "id": "hing1dai6zi2mui6-siblings-example-3",
-    "text": "佢啲兄弟姊妹住喺香港。"
+    "filename": "dung3holok6-iced-coke-example-3",
+    "id": "dung3holok6-iced-coke-example-3",
+    "text": "我買咗兩杯凍可樂畀你。"
   },
   {
-    "filename": "hing1dai6zi2mui6-siblings-example-4",
-    "id": "hing1dai6zi2mui6-siblings-example-4",
-    "text": "兄弟姊妹一齊去旅行。"
+    "filename": "dung3holok6-iced-coke-example-4",
+    "id": "dung3holok6-iced-coke-example-4",
+    "text": "天氣咁熱，我想飲凍可樂去降溫。"
   },
   {
-    "filename": "jat1gaa1zi1zyu2-head-of-family",
-    "id": "jat1gaa1zi1zyu2-head-of-family",
-    "text": "一家之主"
+    "filename": "dung3jyun1joeng1-iced-yuenyeung",
+    "id": "dung3jyun1joeng1-iced-yuenyeung",
+    "text": "凍鴛鴦"
   },
   {
-    "filename": "jat1gaa1zi1zyu2-head-of-family-example-1",
-    "id": "jat1gaa1zi1zyu2-head-of-family-example-1",
-    "text": "佢係我哋屋企嘅一家之主。"
+    "filename": "dung3jyun1joeng1-iced-yuenyeung-example-1",
+    "id": "dung3jyun1joeng1-iced-yuenyeung-example-1",
+    "text": "我想叫一杯凍鴛鴦。"
   },
   {
-    "filename": "jat1gaa1zi1zyu2-head-of-family-example-2",
-    "id": "jat1gaa1zi1zyu2-head-of-family-example-2",
-    "text": "做一家之主要負好多責任。"
+    "filename": "dung3jyun1joeng1-iced-yuenyeung-example-2",
+    "id": "dung3jyun1joeng1-iced-yuenyeung-example-2",
+    "text": "凍鴛鴦好飲。"
   },
   {
-    "filename": "jat1gaa1zi1zyu2-head-of-family-example-3",
-    "id": "jat1gaa1zi1zyu2-head-of-family-example-3",
-    "text": "老人家通常係一家之主。"
+    "filename": "dung3jyun1joeng1-iced-yuenyeung-example-3",
+    "id": "dung3jyun1joeng1-iced-yuenyeung-example-3",
+    "text": "你試過凍鴛鴦未？"
   },
   {
-    "filename": "jat1gaa1zi1zyu2-head-of-family-example-4",
-    "id": "jat1gaa1zi1zyu2-head-of-family-example-4",
-    "text": "你唔可以隨便挑戰一家之主嘅決定。"
+    "filename": "dung3jyun1joeng1-iced-yuenyeung-example-4",
+    "id": "dung3jyun1joeng1-iced-yuenyeung-example-4",
+    "text": "餐廳有冇凍鴛鴦賣？"
   },
   {
-    "filename": "je4je4-grandfather-paternal",
-    "id": "je4je4-grandfather-paternal",
-    "text": "爺爺"
+    "filename": "dung3luk6caa4-iced-green-tea",
+    "id": "dung3luk6caa4-iced-green-tea",
+    "text": "凍綠茶"
   },
   {
-    "filename": "je4je4-grandfather-paternal-example-1",
-    "id": "je4je4-grandfather-paternal-example-1",
-    "text": "我個爺爺鐘意種花。"
+    "filename": "dung3luk6caa4-iced-green-tea-example-1",
+    "id": "dung3luk6caa4-iced-green-tea-example-1",
+    "text": "我想要一杯凍綠茶。"
   },
   {
-    "filename": "je4je4-grandfather-paternal-example-2",
-    "id": "je4je4-grandfather-paternal-example-2",
-    "text": "你有冇見過你嘅爺爺？"
+    "filename": "dung3luk6caa4-iced-green-tea-example-2",
+    "id": "dung3luk6caa4-iced-green-tea-example-2",
+    "text": "呢度嘅凍綠茶好好飲。"
   },
   {
-    "filename": "je4je4-grandfather-paternal-example-3",
-    "id": "je4je4-grandfather-paternal-example-3",
-    "text": "我哋星期日去探爺爺。"
+    "filename": "dung3luk6caa4-iced-green-tea-example-3",
+    "id": "dung3luk6caa4-iced-green-tea-example-3",
+    "text": "夏天最鍾意飲凍綠茶。"
   },
   {
-    "filename": "je4je4-grandfather-paternal-example-4",
-    "id": "je4je4-grandfather-paternal-example-4",
-    "text": "爺爺教我點樣整湯。"
+    "filename": "dung3luk6caa4-iced-green-tea-example-4",
+    "id": "dung3luk6caa4-iced-green-tea-example-4",
+    "text": "除咗凍綠茶，仲有凍檸茶。"
   },
   {
-    "filename": "ji4maa4-aunt-mothers-sister",
-    "id": "ji4maa4-aunt-mothers-sister",
-    "text": "姨媽"
+    "filename": "dung3ning4seoi2-iced-lemon-water",
+    "id": "dung3ning4seoi2-iced-lemon-water",
+    "text": "凍檸水"
   },
   {
-    "filename": "ji4maa4-aunt-mothers-sister-example-1",
-    "id": "ji4maa4-aunt-mothers-sister-example-1",
-    "text": "我姨媽今日嚟探我。"
+    "filename": "dung3ning4seoi2-iced-lemon-water-example-1",
+    "id": "dung3ning4seoi2-iced-lemon-water-example-1",
+    "text": "我想要一杯凍檸水。"
   },
   {
-    "filename": "ji4maa4-aunt-mothers-sister-example-2",
-    "id": "ji4maa4-aunt-mothers-sister-example-2",
-    "text": "你姨媽好叻下廚。"
+    "filename": "dung3ning4seoi2-iced-lemon-water-example-2",
+    "id": "dung3ning4seoi2-iced-lemon-water-example-2",
+    "text": "凍檸水好啱夏天飲。"
   },
   {
-    "filename": "ji4maa4-aunt-mothers-sister-example-3",
-    "id": "ji4maa4-aunt-mothers-sister-example-3",
-    "text": "我常常同姨媽一齊去行街。"
+    "filename": "dung3ning4seoi2-iced-lemon-water-example-3",
+    "id": "dung3ning4seoi2-iced-lemon-water-example-3",
+    "text": "你鍾意凍檸水定汽水？"
   },
   {
-    "filename": "ji4maa4-aunt-mothers-sister-example-4",
-    "id": "ji4maa4-aunt-mothers-sister-example-4",
-    "text": "姨媽送咗我一份禮物。"
+    "filename": "dung3ning4seoi2-iced-lemon-water-example-4",
+    "id": "dung3ning4seoi2-iced-lemon-water-example-4",
+    "text": "餐廳有冇凍檸水賣？"
   },
   {
-    "filename": "ji4mui6-aunt-younger",
-    "id": "ji4mui6-aunt-younger",
-    "text": "姨妹"
+    "filename": "dung3syut3bik1-iced-sprite",
+    "id": "dung3syut3bik1-iced-sprite",
+    "text": "凍雪碧"
   },
   {
-    "filename": "ji4mui6-aunt-younger-example-1",
-    "id": "ji4mui6-aunt-younger-example-1",
-    "text": "我姨妹今次嚟香港旅行。"
+    "filename": "dung3syut3bik1-iced-sprite-example-1",
+    "id": "dung3syut3bik1-iced-sprite-example-1",
+    "text": "我哋叫咗兩杯凍雪碧。"
   },
   {
-    "filename": "ji4mui6-aunt-younger-example-2",
-    "id": "ji4mui6-aunt-younger-example-2",
-    "text": "你識唔識我姨妹？"
+    "filename": "dung3syut3bik1-iced-sprite-example-2",
+    "id": "dung3syut3bik1-iced-sprite-example-2",
+    "text": "夏天飲凍雪碧好解渴。"
   },
   {
-    "filename": "ji4mui6-aunt-younger-example-3",
-    "id": "ji4mui6-aunt-younger-example-3",
-    "text": "姨妹仔好鍾意食甜品。"
+    "filename": "dung3syut3bik1-iced-sprite-example-3",
+    "id": "dung3syut3bik1-iced-sprite-example-3",
+    "text": "餐牌上有冇凍雪碧？"
   },
   {
-    "filename": "ji4mui6-aunt-younger-example-4",
-    "id": "ji4mui6-aunt-younger-example-4",
-    "text": "姨妹幫我買咗啲禮物。"
+    "filename": "dung3syut3bik1-iced-sprite-example-4",
+    "id": "dung3syut3bik1-iced-sprite-example-4",
+    "text": "佢鍾意飲凍雪碧唔飲汽水。"
   },
   {
-    "filename": "kau5fu6-maternal-uncle",
-    "id": "kau5fu6-maternal-uncle",
-    "text": "舅父"
+    "filename": "faan6-rice",
+    "id": "faan6-rice",
+    "text": "飯"
   },
   {
-    "filename": "kau5fu6-maternal-uncle-example-1",
-    "id": "kau5fu6-maternal-uncle-example-1",
-    "text": "我舅父今晚會嚟我屋企。"
+    "filename": "faan6-rice-example-1",
+    "id": "faan6-rice-example-1",
+    "text": "我今晚想食白飯。"
   },
   {
-    "filename": "kau5fu6-maternal-uncle-example-2",
-    "id": "kau5fu6-maternal-uncle-example-2",
-    "text": "舅父幫我哋搬咗啲嘢。"
+    "filename": "faan6-rice-example-2",
+    "id": "faan6-rice-example-2",
+    "text": "佢哋啱啱食咗晚飯。"
   },
   {
-    "filename": "kau5fu6-maternal-uncle-example-3",
-    "id": "kau5fu6-maternal-uncle-example-3",
-    "text": "我細個時經常同舅父玩。"
+    "filename": "faan6-rice-example-3",
+    "id": "faan6-rice-example-3",
+    "text": "你食咗飯未？"
   },
   {
-    "filename": "kau5fu6-maternal-uncle-example-4",
-    "id": "kau5fu6-maternal-uncle-example-4",
-    "text": "舅父喺我家庭入面好重要。"
+    "filename": "faan6-rice-example-4",
+    "id": "faan6-rice-example-4",
+    "text": "呢度嘅飯好好味。"
   },
   {
-    "filename": "maa1maa1-mother",
-    "id": "maa1maa1-mother",
-    "text": "媽媽"
+    "filename": "faan6hap6-takeaway-boxed-meal",
+    "id": "faan6hap6-takeaway-boxed-meal",
+    "text": "飯盒"
   },
   {
-    "filename": "maa1maa1-mother-example-1",
-    "id": "maa1maa1-mother-example-1",
-    "text": "媽媽喺屋企煮晚飯。"
+    "filename": "faan6hap6-takeaway-boxed-meal-example-1",
+    "id": "faan6hap6-takeaway-boxed-meal-example-1",
+    "text": "我今日買咗一個飯盒。"
   },
   {
-    "filename": "maa1maa1-mother-example-2",
-    "id": "maa1maa1-mother-example-2",
-    "text": "你媽媽好唔好？"
+    "filename": "faan6hap6-takeaway-boxed-meal-example-2",
+    "id": "faan6hap6-takeaway-boxed-meal-example-2",
+    "text": "午餐我帶咗飯盒嚟公司。"
   },
   {
-    "filename": "maa1maa1-mother-example-3",
-    "id": "maa1maa1-mother-example-3",
-    "text": "我媽媽叫我快啲返屋企。"
+    "filename": "faan6hap6-takeaway-boxed-meal-example-3",
+    "id": "faan6hap6-takeaway-boxed-meal-example-3",
+    "text": "呢間餐廳有好多唔同款嘅飯盒。"
   },
   {
-    "filename": "maa1maa1-mother-example-4",
-    "id": "maa1maa1-mother-example-4",
-    "text": "媽媽帶我去買餸。"
+    "filename": "faan6hap6-takeaway-boxed-meal-example-4",
+    "id": "faan6hap6-takeaway-boxed-meal-example-4",
+    "text": "你想唔想試下我哋啲新飯盒？"
   },
   {
-    "filename": "maa4maa4-grandmother-paternal",
-    "id": "maa4maa4-grandmother-paternal",
-    "text": "嫲嫲"
+    "filename": "gaa1laap6ngau4juk6faan6-curry-beef-rice",
+    "id": "gaa1laap6ngau4juk6faan6-curry-beef-rice",
+    "text": "咖喱牛肉飯"
   },
   {
-    "filename": "maa4maa4-grandmother-paternal-example-1",
-    "id": "maa4maa4-grandmother-paternal-example-1",
-    "text": "我今日去拜嫲嫲。"
+    "filename": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-1",
+    "id": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-1",
+    "text": "我今晚想食咖喱牛肉飯。"
   },
   {
-    "filename": "maa4maa4-grandmother-paternal-example-2",
-    "id": "maa4maa4-grandmother-paternal-example-2",
-    "text": "嫲嫲煮咗好多好味嘅餸。"
+    "filename": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-2",
+    "id": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-2",
+    "text": "呢度嘅咖喱牛肉飯好好味。"
   },
   {
-    "filename": "maa4maa4-grandmother-paternal-example-3",
-    "id": "maa4maa4-grandmother-paternal-example-3",
-    "text": "你㗎嫲嫲住喺邊？"
+    "filename": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-3",
+    "id": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-3",
+    "text": "佢叫咗兩份咖喱牛肉飯。"
   },
   {
-    "filename": "maa4maa4-grandmother-paternal-example-4",
-    "id": "maa4maa4-grandmother-paternal-example-4",
-    "text": "嫲嫲好鍾意同我哋講故仔。"
+    "filename": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-4",
+    "id": "gaa1laap6ngau4juk6faan6-curry-beef-rice-example-4",
+    "text": "午餐我通常食咖喱牛肉飯。"
   },
   {
-    "filename": "mou5can1-mother-formal",
-    "id": "mou5can1-mother-formal",
-    "text": "母親"
+    "filename": "gaa1sung3-add-ingredient",
+    "id": "gaa1sung3-add-ingredient",
+    "text": "加餸"
   },
   {
-    "filename": "mou5can1-mother-formal-example-1",
-    "id": "mou5can1-mother-formal-example-1",
-    "text": "我嘅母親今日生日。"
+    "filename": "gaa1sung3-add-ingredient-example-1",
+    "id": "gaa1sung3-add-ingredient-example-1",
+    "text": "我哋想加餸，多啲菜啦。"
   },
   {
-    "filename": "mou5can1-mother-formal-example-2",
-    "id": "mou5can1-mother-formal-example-2",
-    "text": "你母親叫咩名？"
+    "filename": "gaa1sung3-add-ingredient-example-2",
+    "id": "gaa1sung3-add-ingredient-example-2",
+    "text": "今次飯局唔夠嘢食，要加餸。"
   },
   {
-    "filename": "mou5can1-mother-formal-example-3",
-    "id": "mou5can1-mother-formal-example-3",
-    "text": "母親幫我整飯。"
+    "filename": "gaa1sung3-add-ingredient-example-3",
+    "id": "gaa1sung3-add-ingredient-example-3",
+    "text": "加餸要早啲講，等廚房準備。"
   },
   {
-    "filename": "mou5can1-mother-formal-example-4",
-    "id": "mou5can1-mother-formal-example-4",
-    "text": "我尊重我嘅母親。"
+    "filename": "gaa1sung3-add-ingredient-example-4",
+    "id": "gaa1sung3-add-ingredient-example-4",
+    "text": "餐牌上面有冇加餸嘅選擇？"
   },
   {
-    "filename": "mui6mui6-younger-sister",
-    "id": "mui6mui6-younger-sister",
-    "text": "妹妹"
+    "filename": "gaa3fei1-coffee",
+    "id": "gaa3fei1-coffee",
+    "text": "咖啡"
   },
   {
-    "filename": "mui6mui6-younger-sister-example-1",
-    "id": "mui6mui6-younger-sister-example-1",
-    "text": "我有一個妹妹。"
+    "filename": "gaa3fei1-coffee-example-1",
+    "id": "gaa3fei1-coffee-example-1",
+    "text": "我想飲杯熱咖啡。"
   },
   {
-    "filename": "mui6mui6-younger-sister-example-2",
-    "id": "mui6mui6-younger-sister-example-2",
-    "text": "妹妹今日去學校。"
+    "filename": "gaa3fei1-coffee-example-2",
+    "id": "gaa3fei1-coffee-example-2",
+    "text": "呢度嘅咖啡好香。"
   },
   {
-    "filename": "mui6mui6-younger-sister-example-3",
-    "id": "mui6mui6-younger-sister-example-3",
-    "text": "你嘅妹妹幾多歲？"
+    "filename": "gaa3fei1-coffee-example-3",
+    "id": "gaa3fei1-coffee-example-3",
+    "text": "你鍾意黑咖啡定係奶咖啡？"
   },
   {
-    "filename": "mui6mui6-younger-sister-example-4",
-    "id": "mui6mui6-younger-sister-example-4",
-    "text": "妹妹鍾意唱歌。"
+    "filename": "gaa3fei1-coffee-example-4",
+    "id": "gaa3fei1-coffee-example-4",
+    "text": "佢每日朝早都飲一杯咖啡。"
   },
   {
-    "filename": "naam4zai2-boy",
-    "id": "naam4zai2-boy",
-    "text": "男仔"
+    "filename": "gaa3lei1gai1-curry-chicken",
+    "id": "gaa3lei1gai1-curry-chicken",
+    "text": "咖喱雞"
   },
   {
-    "filename": "naam4zai2-boy-example-1",
-    "id": "naam4zai2-boy-example-1",
-    "text": "嗰個男仔好聰明。"
+    "filename": "gaa3lei1gai1-curry-chicken-example-1",
+    "id": "gaa3lei1gai1-curry-chicken-example-1",
+    "text": "我今日想食咖喱雞。"
   },
   {
-    "filename": "naam4zai2-boy-example-2",
-    "id": "naam4zai2-boy-example-2",
-    "text": "你有冇細個男仔？"
+    "filename": "gaa3lei1gai1-curry-chicken-example-2",
+    "id": "gaa3lei1gai1-curry-chicken-example-2",
+    "text": "呢碟咖喱雞好好味。"
   },
   {
-    "filename": "naam4zai2-boy-example-3",
-    "id": "naam4zai2-boy-example-3",
-    "text": "我見到啲男仔喺公園玩。"
+    "filename": "gaa3lei1gai1-curry-chicken-example-3",
+    "id": "gaa3lei1gai1-curry-chicken-example-3",
+    "text": "咖喱雞有冇辣？"
   },
   {
-    "filename": "naam4zai2-boy-example-4",
-    "id": "naam4zai2-boy-example-4",
-    "text": "你想買本書俾男仔睇嗎？"
+    "filename": "gaa3lei1gai1-curry-chicken-example-4",
+    "id": "gaa3lei1gai1-curry-chicken-example-4",
+    "text": "你鍾意食咖喱雞定係牛腩？"
   },
   {
-    "filename": "neoi5-daughter",
-    "id": "neoi5-daughter",
-    "text": "女"
+    "filename": "gaa3lei1gai1faan6-curry-chicken-rice",
+    "id": "gaa3lei1gai1faan6-curry-chicken-rice",
+    "text": "咖喱雞飯"
   },
   {
-    "filename": "neoi5-daughter-example-1",
-    "id": "neoi5-daughter-example-1",
-    "text": "我有一個女。"
+    "filename": "gaa3lei1gai1faan6-curry-chicken-rice-example-1",
+    "id": "gaa3lei1gai1faan6-curry-chicken-rice-example-1",
+    "text": "我今晚想食咖喱雞飯。"
   },
   {
-    "filename": "neoi5-daughter-example-2",
-    "id": "neoi5-daughter-example-2",
-    "text": "佢係男定女？"
+    "filename": "gaa3lei1gai1faan6-curry-chicken-rice-example-2",
+    "id": "gaa3lei1gai1faan6-curry-chicken-rice-example-2",
+    "text": "呢間茶餐廳嘅咖喱雞飯好出名。"
   },
   {
-    "filename": "neoi5-daughter-example-3",
-    "id": "neoi5-daughter-example-3",
-    "text": "你嘅女幾歲？"
+    "filename": "gaa3lei1gai1faan6-curry-chicken-rice-example-3",
+    "id": "gaa3lei1gai1faan6-curry-chicken-rice-example-3",
+    "text": "你想唔想試下我嘅咖喱雞飯？"
   },
   {
-    "filename": "neoi5-daughter-example-4",
-    "id": "neoi5-daughter-example-4",
-    "text": "呢隻貓係女嘅。"
+    "filename": "gaa3lei1gai1faan6-curry-chicken-rice-example-4",
+    "id": "gaa3lei1gai1faan6-curry-chicken-rice-example-4",
+    "text": "餐牌上有咖喱雞飯同埋炒飯。"
   },
   {
-    "filename": "neoi5sai3-son-in-law",
-    "id": "neoi5sai3-son-in-law",
-    "text": "女婿"
+    "filename": "gaa3lei1ngau4juk6-curry-beef",
+    "id": "gaa3lei1ngau4juk6-curry-beef",
+    "text": "咖喱牛肉"
   },
   {
-    "filename": "neoi5sai3-son-in-law-example-1",
-    "id": "neoi5sai3-son-in-law-example-1",
-    "text": "我女婿好負責任。"
+    "filename": "gaa3lei1ngau4juk6-curry-beef-example-1",
+    "id": "gaa3lei1ngau4juk6-curry-beef-example-1",
+    "text": "我想叫一份咖喱牛肉。"
   },
   {
-    "filename": "neoi5sai3-son-in-law-example-2",
-    "id": "neoi5sai3-son-in-law-example-2",
-    "text": "你幾時介紹你女婿畀我認識？"
+    "filename": "gaa3lei1ngau4juk6-curry-beef-example-2",
+    "id": "gaa3lei1ngau4juk6-curry-beef-example-2",
+    "text": "咖喱牛肉嘅味道好香。"
   },
   {
-    "filename": "neoi5sai3-son-in-law-example-3",
-    "id": "neoi5sai3-son-in-law-example-3",
-    "text": "我哋同女婿相處得好開心。"
+    "filename": "gaa3lei1ngau4juk6-curry-beef-example-3",
+    "id": "gaa3lei1ngau4juk6-curry-beef-example-3",
+    "text": "你試過咖喱牛肉未？"
   },
   {
-    "filename": "neoi5sai3-son-in-law-example-4",
-    "id": "neoi5sai3-son-in-law-example-4",
-    "text": "女婿係家庭重要一員。"
+    "filename": "gaa3lei1ngau4juk6-curry-beef-example-4",
+    "id": "gaa3lei1ngau4juk6-curry-beef-example-4",
+    "text": "今晚我哋食咖喱牛肉飯。"
   },
   {
-    "filename": "neoi5zai2-girl",
-    "id": "neoi5zai2-girl",
-    "text": "女仔"
+    "filename": "gaap3bing1-less-ice",
+    "id": "gaap3bing1-less-ice",
+    "text": "少冰"
   },
   {
-    "filename": "neoi5zai2-girl-example-1",
-    "id": "neoi5zai2-girl-example-1",
-    "text": "我有一個女仔。"
+    "filename": "gaap3bing1-less-ice-example-1",
+    "id": "gaap3bing1-less-ice-example-1",
+    "text": "我要一杯珍珠奶茶少冰。"
   },
   {
-    "filename": "neoi5zai2-girl-example-2",
-    "id": "neoi5zai2-girl-example-2",
-    "text": "嗰個女仔好叻。"
+    "filename": "gaap3bing1-less-ice-example-2",
+    "id": "gaap3bing1-less-ice-example-2",
+    "text": "今次飲嘢試下少冰，好唔好？"
   },
   {
-    "filename": "neoi5zai2-girl-example-3",
-    "id": "neoi5zai2-girl-example-3",
-    "text": "你女仔識唔識游水？"
+    "filename": "gaap3bing1-less-ice-example-3",
+    "id": "gaap3bing1-less-ice-example-3",
+    "text": "唔好加冰，可以少冰嗎？"
   },
   {
-    "filename": "neoi5zai2-girl-example-4",
-    "id": "neoi5zai2-girl-example-4",
-    "text": "我鐘意同女仔傾計。"
+    "filename": "gaap3bing1-less-ice-example-4",
+    "id": "gaap3bing1-less-ice-example-4",
+    "text": "啲飲品我鍾意飲少冰嘅。"
   },
   {
-    "filename": "ngo5go3neoi5-my-daughter",
-    "id": "ngo5go3neoi5-my-daughter",
-    "text": "我個女"
+    "filename": "gaap3siu2-less-sugar",
+    "id": "gaap3siu2-less-sugar",
+    "text": "少糖"
   },
   {
-    "filename": "ngo5go3neoi5-my-daughter-example-1",
-    "id": "ngo5go3neoi5-my-daughter-example-1",
-    "text": "我個女今日唔返學。"
+    "filename": "gaap3siu2-less-sugar-example-1",
+    "id": "gaap3siu2-less-sugar-example-1",
+    "text": "我要一杯奶茶，少糖。"
   },
   {
-    "filename": "ngo5go3neoi5-my-daughter-example-2",
-    "id": "ngo5go3neoi5-my-daughter-example-2",
-    "text": "你個女幾歲呀？"
+    "filename": "gaap3siu2-less-sugar-example-2",
+    "id": "gaap3siu2-less-sugar-example-2",
+    "text": "咖啡少糖味道好啲。"
   },
   {
-    "filename": "ngo5go3neoi5-my-daughter-example-3",
-    "id": "ngo5go3neoi5-my-daughter-example-3",
-    "text": "我個女鍾意唱歌。"
+    "filename": "gaap3siu2-less-sugar-example-3",
+    "id": "gaap3siu2-less-sugar-example-3",
+    "text": "你飲果汁係咪要少糖？"
   },
   {
-    "filename": "ngo5go3neoi5-my-daughter-example-4",
-    "id": "ngo5go3neoi5-my-daughter-example-4",
-    "text": "我個女啱啱學識行路。"
+    "filename": "gaap3siu2-less-sugar-example-4",
+    "id": "gaap3siu2-less-sugar-example-4",
+    "text": "我平時飲嘢都會揀少糖。"
   },
   {
-    "filename": "ngo5go3zai2-my-son",
-    "id": "ngo5go3zai2-my-son",
-    "text": "我個仔"
+    "filename": "gai1faan6-chicken-with-rice",
+    "id": "gai1faan6-chicken-with-rice",
+    "text": "雞飯"
   },
   {
-    "filename": "ngo5go3zai2-my-son-example-1",
-    "id": "ngo5go3zai2-my-son-example-1",
-    "text": "我個仔今日返學。"
+    "filename": "gai1faan6-chicken-with-rice-example-1",
+    "id": "gai1faan6-chicken-with-rice-example-1",
+    "text": "我想食雞飯。"
   },
   {
-    "filename": "ngo5go3zai2-my-son-example-2",
-    "id": "ngo5go3zai2-my-son-example-2",
-    "text": "我個仔鍾意食雪糕。"
+    "filename": "gai1faan6-chicken-with-rice-example-2",
+    "id": "gai1faan6-chicken-with-rice-example-2",
+    "text": "呢間餐廳嘅雞飯好味。"
   },
   {
-    "filename": "ngo5go3zai2-my-son-example-3",
-    "id": "ngo5go3zai2-my-son-example-3",
-    "text": "我個仔玩咗好耐電腦遊戲。"
+    "filename": "gai1faan6-chicken-with-rice-example-3",
+    "id": "gai1faan6-chicken-with-rice-example-3",
+    "text": "你午餐食咗雞飯未？"
   },
   {
-    "filename": "ngo5go3zai2-my-son-example-4",
-    "id": "ngo5go3zai2-my-son-example-4",
-    "text": "我個仔而家唔係屋企。"
+    "filename": "gai1faan6-chicken-with-rice-example-4",
+    "id": "gai1faan6-chicken-with-rice-example-4",
+    "text": "雞飯通常配豉油同辣椒醬。"
   },
   {
-    "filename": "ngoi6gung1-grandfather-maternal",
-    "id": "ngoi6gung1-grandfather-maternal",
-    "text": "外公"
+    "filename": "gai1si1tong1min6-chicken-shredded-noodles",
+    "id": "gai1si1tong1min6-chicken-shredded-noodles",
+    "text": "雞絲湯麵"
   },
   {
-    "filename": "ngoi6gung1-grandfather-maternal-example-1",
-    "id": "ngoi6gung1-grandfather-maternal-example-1",
-    "text": "我星期日去見外公。"
+    "filename": "gai1si1tong1min6-chicken-shredded-noodles-example-1",
+    "id": "gai1si1tong1min6-chicken-shredded-noodles-example-1",
+    "text": "我想食雞絲湯麵。"
   },
   {
-    "filename": "ngoi6gung1-grandfather-maternal-example-2",
-    "id": "ngoi6gung1-grandfather-maternal-example-2",
-    "text": "外公煮嘢食好好味。"
+    "filename": "gai1si1tong1min6-chicken-shredded-noodles-example-2",
+    "id": "gai1si1tong1min6-chicken-shredded-noodles-example-2",
+    "text": "呢間店啲雞絲湯麵好好味。"
   },
   {
-    "filename": "ngoi6gung1-grandfather-maternal-example-3",
-    "id": "ngoi6gung1-grandfather-maternal-example-3",
-    "text": "細路好鍾意同外公玩。"
+    "filename": "gai1si1tong1min6-chicken-shredded-noodles-example-3",
+    "id": "gai1si1tong1min6-chicken-shredded-noodles-example-3",
+    "text": "你試唔試過雞絲湯麵？"
   },
   {
-    "filename": "ngoi6gung1-grandfather-maternal-example-4",
-    "id": "ngoi6gung1-grandfather-maternal-example-4",
-    "text": "我外公住喺新界。"
+    "filename": "gai1si1tong1min6-chicken-shredded-noodles-example-4",
+    "id": "gai1si1tong1min6-chicken-shredded-noodles-example-4",
+    "text": "雞絲湯麵嘅湯好清甜。"
   },
   {
-    "filename": "ngoi6po4-grandmother-maternal",
-    "id": "ngoi6po4-grandmother-maternal",
-    "text": "外婆"
+    "filename": "goeng1cung1lung4haa1-ginger-scallion-lobster",
+    "id": "goeng1cung1lung4haa1-ginger-scallion-lobster",
+    "text": "薑蔥龍蝦"
   },
   {
-    "filename": "ngoi6po4-grandmother-maternal-example-1",
-    "id": "ngoi6po4-grandmother-maternal-example-1",
-    "text": "我成日去探外婆。"
+    "filename": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-1",
+    "id": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-1",
+    "text": "今晚我哋食薑蔥龍蝦啦。"
   },
   {
-    "filename": "ngoi6po4-grandmother-maternal-example-2",
-    "id": "ngoi6po4-grandmother-maternal-example-2",
-    "text": "外婆整嘅飯好好味。"
+    "filename": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-2",
+    "id": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-2",
+    "text": "呢度嘅薑蔥龍蝦真係好鮮味。"
   },
   {
-    "filename": "ngoi6po4-grandmother-maternal-example-3",
-    "id": "ngoi6po4-grandmother-maternal-example-3",
-    "text": "你嘅外婆幾多歲？"
+    "filename": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-3",
+    "id": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-3",
+    "text": "你想唔想試下薑蔥龍蝦？"
   },
   {
-    "filename": "ngoi6po4-grandmother-maternal-example-4",
-    "id": "ngoi6po4-grandmother-maternal-example-4",
-    "text": "細路仔鍾意聽外婆講故仔。"
+    "filename": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-4",
+    "id": "goeng1cung1lung4haa1-ginger-scallion-lobster-example-4",
+    "text": "老細，請一份薑蔥龍蝦，多謝！"
   },
   {
-    "filename": "ngok6fu6-father-in-law",
-    "id": "ngok6fu6-father-in-law",
-    "text": "岳父"
+    "filename": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun",
+    "id": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun",
+    "text": "乾炒牛河"
   },
   {
-    "filename": "ngok6fu6-father-in-law-example-1",
-    "id": "ngok6fu6-father-in-law-example-1",
-    "text": "我今日要同岳父食飯。"
+    "filename": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-1",
+    "id": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-1",
+    "text": "我今晚想食乾炒牛河。"
   },
   {
-    "filename": "ngok6fu6-father-in-law-example-2",
-    "id": "ngok6fu6-father-in-law-example-2",
-    "text": "岳父好錫我。"
+    "filename": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-2",
+    "id": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-2",
+    "text": "這間餐廳的乾炒牛河好好味。"
   },
   {
-    "filename": "ngok6fu6-father-in-law-example-3",
-    "id": "ngok6fu6-father-in-law-example-3",
-    "text": "你岳父係邊個？"
+    "filename": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-3",
+    "id": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-3",
+    "text": "服務員，幫我哋落一份乾炒牛河。"
   },
   {
-    "filename": "ngok6fu6-father-in-law-example-4",
-    "id": "ngok6fu6-father-in-law-example-4",
-    "text": "岳父送咗張禮物俾我。"
+    "filename": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-4",
+    "id": "gon1caau2ngau4ho2-dry-fried-beef-ho-fun-example-4",
+    "text": "乾炒牛河係我最鍾意嘅炒粉之一。"
   },
   {
-    "filename": "ngok6mou5-mother-in-law",
-    "id": "ngok6mou5-mother-in-law",
-    "text": "岳母"
+    "filename": "guk6-baked",
+    "id": "guk6-baked",
+    "text": "焗"
   },
   {
-    "filename": "ngok6mou5-mother-in-law-example-1",
-    "id": "ngok6mou5-mother-in-law-example-1",
-    "text": "我星期日去見我岳母。"
+    "filename": "guk6-baked-example-1",
+    "id": "guk6-baked-example-1",
+    "text": "我今晚想食焗飯。"
   },
   {
-    "filename": "ngok6mou5-mother-in-law-example-2",
-    "id": "ngok6mou5-mother-in-law-example-2",
-    "text": "我岳母好鐘意煮飯。"
+    "filename": "guk6-baked-example-2",
+    "id": "guk6-baked-example-2",
+    "text": "呢個焗雞好香呀。"
   },
   {
-    "filename": "ngok6mou5-mother-in-law-example-3",
-    "id": "ngok6mou5-mother-in-law-example-3",
-    "text": "你同你岳母相處得好唔好？"
+    "filename": "guk6-baked-example-3",
+    "id": "guk6-baked-example-3",
+    "text": "佢鍾意食焗芝士麵包。"
   },
   {
-    "filename": "ngok6mou5-mother-in-law-example-4",
-    "id": "ngok6mou5-mother-in-law-example-4",
-    "text": "我仔同我岳母送咗花。"
+    "filename": "guk6-baked-example-4",
+    "id": "guk6-baked-example-4",
+    "text": "呢度啲焗海鮮好正。"
   },
   {
-    "filename": "po4po4-grandmother-paternal",
-    "id": "po4po4-grandmother-paternal",
-    "text": "婆婆"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice",
+    "text": "焗豬扒飯"
   },
   {
-    "filename": "po4po4-grandmother-paternal-example-1",
-    "id": "po4po4-grandmother-paternal-example-1",
-    "text": "我今晚去探婆婆。"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-1",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-1",
+    "text": "我今晚想食焗豬扒飯。"
   },
   {
-    "filename": "po4po4-grandmother-paternal-example-2",
-    "id": "po4po4-grandmother-paternal-example-2",
-    "text": "婆婆煮嘢食好好味。"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-2",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-2",
+    "text": "餐廳嘅焗豬扒飯好好味。"
   },
   {
-    "filename": "po4po4-grandmother-paternal-example-3",
-    "id": "po4po4-grandmother-paternal-example-3",
-    "text": "你識唔識我阿婆婆？"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-3",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-3",
+    "text": "我叫咗一份焗豬扒飯同埋飲品。"
   },
   {
-    "filename": "po4po4-grandmother-paternal-example-4",
-    "id": "po4po4-grandmother-paternal-example-4",
-    "text": "婆婆教我點樣織毛衣。"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-4",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-4",
+    "text": "你試過焗豬扒飯未？"
   },
   {
-    "filename": "sai3lou2-younger-brother",
-    "id": "sai3lou2-younger-brother",
-    "text": "細佬"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice",
+    "text": "焗豬扒飯"
   },
   {
-    "filename": "sai3lou2-younger-brother-example-1",
-    "id": "sai3lou2-younger-brother-example-1",
-    "text": "我細佬今日返學遲咗。"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-1",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-1",
+    "text": "我今日食咗焗豬扒飯，好好味。"
   },
   {
-    "filename": "sai3lou2-younger-brother-example-2",
-    "id": "sai3lou2-younger-brother-example-2",
-    "text": "你細佬係幾多歲？"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-2",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-2",
+    "text": "餐廳有焗豬扒飯，你想唔想試吓？"
   },
   {
-    "filename": "sai3lou2-younger-brother-example-3",
-    "id": "sai3lou2-younger-brother-example-3",
-    "text": "細佬，快啲嚟食飯！"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-3",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-3",
+    "text": "佢每次來都叫焗豬扒飯。"
   },
   {
-    "filename": "sai3lou2-younger-brother-example-4",
-    "id": "sai3lou2-younger-brother-example-4",
-    "text": "我成日同細佬一齊玩。"
+    "filename": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-4",
+    "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-4",
+    "text": "焗豬扒飯配埋沙律更加正。"
   },
   {
-    "filename": "sai3lou6-youngest-child",
-    "id": "sai3lou6-youngest-child",
-    "text": "細路"
+    "filename": "haa1zi2lou1min6-shrimp-roe-noodles",
+    "id": "haa1zi2lou1min6-shrimp-roe-noodles",
+    "text": "蝦子撈麵"
   },
   {
-    "filename": "sai3lou6-youngest-child-example-1",
-    "id": "sai3lou6-youngest-child-example-1",
-    "text": "我有兩個細路。"
+    "filename": "haa1zi2lou1min6-shrimp-roe-noodles-example-1",
+    "id": "haa1zi2lou1min6-shrimp-roe-noodles-example-1",
+    "text": "我今晚想食蝦子撈麵。"
   },
   {
-    "filename": "sai3lou6-youngest-child-example-2",
-    "id": "sai3lou6-youngest-child-example-2",
-    "text": "細路喺度玩緊球。"
+    "filename": "haa1zi2lou1min6-shrimp-roe-noodles-example-2",
+    "id": "haa1zi2lou1min6-shrimp-roe-noodles-example-2",
+    "text": "呢間餐廳嘅蝦子撈麵好出名。"
   },
   {
-    "filename": "sai3lou6-youngest-child-example-3",
-    "id": "sai3lou6-youngest-child-example-3",
-    "text": "細路夜晚唔岩瞓覺。"
+    "filename": "haa1zi2lou1min6-shrimp-roe-noodles-example-3",
+    "id": "haa1zi2lou1min6-shrimp-roe-noodles-example-3",
+    "text": "你試過蝦子撈麵未？"
   },
   {
-    "filename": "sai3lou6-youngest-child-example-4",
-    "id": "sai3lou6-youngest-child-example-4",
-    "text": "細路食完飯要洗手。"
+    "filename": "haa1zi2lou1min6-shrimp-roe-noodles-example-4",
+    "id": "haa1zi2lou1min6-shrimp-roe-noodles-example-4",
+    "text": "蝦子撈麵嘅味道好鮮。"
   },
   {
-    "filename": "sai3mui6-younger-sister",
-    "id": "sai3mui6-younger-sister",
-    "text": "細妹"
+    "filename": "haak1ziu1ngau4juk6-black-pepper-beef",
+    "id": "haak1ziu1ngau4juk6-black-pepper-beef",
+    "text": "黑椒牛肉"
   },
   {
-    "filename": "sai3mui6-younger-sister-example-1",
-    "id": "sai3mui6-younger-sister-example-1",
-    "text": "我有一個細妹。"
+    "filename": "haak1ziu1ngau4juk6-black-pepper-beef-example-1",
+    "id": "haak1ziu1ngau4juk6-black-pepper-beef-example-1",
+    "text": "呢間餐廳嘅黑椒牛肉好好味。"
   },
   {
-    "filename": "sai3mui6-younger-sister-example-2",
-    "id": "sai3mui6-younger-sister-example-2",
-    "text": "你細妹幾多歲呀？"
+    "filename": "haak1ziu1ngau4juk6-black-pepper-beef-example-2",
+    "id": "haak1ziu1ngau4juk6-black-pepper-beef-example-2",
+    "text": "你要唔要試下黑椒牛肉？"
   },
   {
-    "filename": "sai3mui6-younger-sister-example-3",
-    "id": "sai3mui6-younger-sister-example-3",
-    "text": "細妹今日唔返學。"
+    "filename": "haak1ziu1ngau4juk6-black-pepper-beef-example-3",
+    "id": "haak1ziu1ngau4juk6-black-pepper-beef-example-3",
+    "text": "黑椒牛肉配飯一齊食最啱。"
   },
   {
-    "filename": "sai3mui6-younger-sister-example-4",
-    "id": "sai3mui6-younger-sister-example-4",
-    "text": "我細妹鍾意唱歌。"
+    "filename": "haak1ziu1ngau4juk6-black-pepper-beef-example-4",
+    "id": "haak1ziu1ngau4juk6-black-pepper-beef-example-4",
+    "text": "我今日想叫碟黑椒牛肉。"
   },
   {
-    "filename": "sai3neoi5-youngest-daughter",
-    "id": "sai3neoi5-youngest-daughter",
-    "text": "細女"
+    "filename": "haam4-salty",
+    "id": "haam4-salty",
+    "text": "鹹"
   },
   {
-    "filename": "sai3neoi5-youngest-daughter-example-1",
-    "id": "sai3neoi5-youngest-daughter-example-1",
-    "text": "我嘅細女今年十歲。"
+    "filename": "haam4-salty-example-1",
+    "id": "haam4-salty-example-1",
+    "text": "呢碗湯好鹹，我飲唔到。"
   },
   {
-    "filename": "sai3neoi5-youngest-daughter-example-2",
-    "id": "sai3neoi5-youngest-daughter-example-2",
-    "text": "你有冇細女？"
+    "filename": "haam4-salty-example-2",
+    "id": "haam4-salty-example-2",
+    "text": "你煮嘅嘢唔好咁鹹啦。"
   },
   {
-    "filename": "sai3neoi5-youngest-daughter-example-3",
-    "id": "sai3neoi5-youngest-daughter-example-3",
-    "text": "細女鍾意畫畫。"
+    "filename": "haam4-salty-example-3",
+    "id": "haam4-salty-example-3",
+    "text": "呢啲薯片太鹹，我唔鐘意。"
   },
   {
-    "filename": "sai3neoi5-youngest-daughter-example-4",
-    "id": "sai3neoi5-youngest-daughter-example-4",
-    "text": "細女同哥哥好親。"
+    "filename": "haam4-salty-example-4",
+    "id": "haam4-salty-example-4",
+    "text": "鹹魚係香港好出名嘅小食。"
   },
   {
-    "filename": "sai3zi2-youngest-son",
-    "id": "sai3zi2-youngest-son",
-    "text": "細仔"
+    "filename": "haam4jyu4gai1nap1-salted-fish-chicken",
+    "id": "haam4jyu4gai1nap1-salted-fish-chicken",
+    "text": "鹹魚雞粒"
   },
   {
-    "filename": "sai3zi2-youngest-son-example-1",
-    "id": "sai3zi2-youngest-son-example-1",
-    "text": "我嘅細仔好鍾意踢波。"
+    "filename": "haam4jyu4gai1nap1-salted-fish-chicken-example-1",
+    "id": "haam4jyu4gai1nap1-salted-fish-chicken-example-1",
+    "text": "我今晚想食鹹魚雞粒。"
   },
   {
-    "filename": "sai3zi2-youngest-son-example-2",
-    "id": "sai3zi2-youngest-son-example-2",
-    "text": "你細仔幾歲呀？"
+    "filename": "haam4jyu4gai1nap1-salted-fish-chicken-example-2",
+    "id": "haam4jyu4gai1nap1-salted-fish-chicken-example-2",
+    "text": "呢間餐廳有鹹魚雞粒嗎？"
   },
   {
-    "filename": "sai3zi2-youngest-son-example-3",
-    "id": "sai3zi2-youngest-son-example-3",
-    "text": "細仔今朝自己食早餐。"
+    "filename": "haam4jyu4gai1nap1-salted-fish-chicken-example-3",
+    "id": "haam4jyu4gai1nap1-salted-fish-chicken-example-3",
+    "text": "鹹魚雞粒煮得幾好味。"
   },
   {
-    "filename": "sai3zi2-youngest-son-example-4",
-    "id": "sai3zi2-youngest-son-example-4",
-    "text": "佢係家裏嘅細仔。"
+    "filename": "haam4jyu4gai1nap1-salted-fish-chicken-example-4",
+    "id": "haam4jyu4gai1nap1-salted-fish-chicken-example-4",
+    "text": "我爸爸唔太鐘意食鹹魚雞粒。"
   },
   {
-    "filename": "san1pou4-daughter-in-law",
-    "id": "san1pou4-daughter-in-law",
-    "text": "新抱"
+    "filename": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish",
+    "id": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish",
+    "text": "鹹魚蒸肉餅"
   },
   {
-    "filename": "san1pou4-daughter-in-law-example-1",
-    "id": "san1pou4-daughter-in-law-example-1",
-    "text": "我個新抱好勤力。"
+    "filename": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-1",
+    "id": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-1",
+    "text": "我哋今晚食鹹魚蒸肉餅啦！"
   },
   {
-    "filename": "san1pou4-daughter-in-law-example-2",
-    "id": "san1pou4-daughter-in-law-example-2",
-    "text": "新抱今日未返嚟。"
+    "filename": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-2",
+    "id": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-2",
+    "text": "呢間餐廳嘅鹹魚蒸肉餅好出名。"
   },
   {
-    "filename": "san1pou4-daughter-in-law-example-3",
-    "id": "san1pou4-daughter-in-law-example-3",
-    "text": "新抱煮咗一餐好好味嘅飯。"
+    "filename": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-3",
+    "id": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-3",
+    "text": "你鍾唔鍾意食鹹魚蒸肉餅？"
   },
   {
-    "filename": "san1pou4-daughter-in-law-example-4",
-    "id": "san1pou4-daughter-in-law-example-4",
-    "text": "你同我新抱相處得好好。"
+    "filename": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-4",
+    "id": "haam4jyu4zyu1-steamed-minced-pork-with-salted-fish-example-4",
+    "text": "阿媽今晚煮咗鹹魚蒸肉餅做晚餐。"
   },
   {
-    "filename": "suk1suk1-uncle-fathers-younger",
-    "id": "suk1suk1-uncle-fathers-younger",
-    "text": "叔叔"
+    "filename": "jat1zeon2naai5caa4-hot-milk-tea",
+    "id": "jat1zeon2naai5caa4-hot-milk-tea",
+    "text": "熱奶茶"
   },
   {
-    "filename": "suk1suk1-uncle-fathers-younger-example-1",
-    "id": "suk1suk1-uncle-fathers-younger-example-1",
-    "text": "我個叔叔好細心。"
+    "filename": "jat1zeon2naai5caa4-hot-milk-tea-example-1",
+    "id": "jat1zeon2naai5caa4-hot-milk-tea-example-1",
+    "text": "我朝早飲咗一杯熱奶茶。"
   },
   {
-    "filename": "suk1suk1-uncle-fathers-younger-example-2",
-    "id": "suk1suk1-uncle-fathers-younger-example-2",
-    "text": "嗰位叔叔係我爸爸嘅弟弟。"
+    "filename": "jat1zeon2naai5caa4-hot-milk-tea-example-2",
+    "id": "jat1zeon2naai5caa4-hot-milk-tea-example-2",
+    "text": "呢度嘅熱奶茶好香濃。"
   },
   {
-    "filename": "suk1suk1-uncle-fathers-younger-example-3",
-    "id": "suk1suk1-uncle-fathers-younger-example-3",
-    "text": "我細個時，叔叔成日帶我去公園玩。"
+    "filename": "jat1zeon2naai5caa4-hot-milk-tea-example-3",
+    "id": "jat1zeon2naai5caa4-hot-milk-tea-example-3",
+    "text": "你想飲熱奶茶定凍奶茶？"
   },
   {
-    "filename": "suk1suk1-uncle-fathers-younger-example-4",
-    "id": "suk1suk1-uncle-fathers-younger-example-4",
-    "text": "早晨，叔叔，你食咗未？"
+    "filename": "jat1zeon2naai5caa4-hot-milk-tea-example-4",
+    "id": "jat1zeon2naai5caa4-hot-milk-tea-example-4",
+    "text": "冬天最啱飲熱奶茶。"
   },
   {
-    "filename": "syun1-grandchild",
-    "id": "syun1-grandchild",
-    "text": "孫"
+    "filename": "jing1-steamed",
+    "id": "jing1-steamed",
+    "text": "蒸"
   },
   {
-    "filename": "syun1-grandchild-example-1",
-    "id": "syun1-grandchild-example-1",
-    "text": "我有兩個孫。"
+    "filename": "jing1-steamed-example-1",
+    "id": "jing1-steamed-example-1",
+    "text": "我今晚想食蒸魚。"
   },
   {
-    "filename": "syun1-grandchild-example-2",
-    "id": "syun1-grandchild-example-2",
-    "text": "你嘅孫仔幾歲？"
+    "filename": "jing1-steamed-example-2",
+    "id": "jing1-steamed-example-2",
+    "text": "呢間餐廳嘅蒸飯好好味。"
   },
   {
-    "filename": "syun1-grandchild-example-3",
-    "id": "syun1-grandchild-example-3",
-    "text": "我奶奶好鍾意孫女。"
+    "filename": "jing1-steamed-example-3",
+    "id": "jing1-steamed-example-3",
+    "text": "媽媽教我點樣蒸蝦。"
   },
   {
-    "filename": "syun1-grandchild-example-4",
-    "id": "syun1-grandchild-example-4",
-    "text": "孫輩都嚟咗拜年。"
+    "filename": "jing1-steamed-example-4",
+    "id": "jing1-steamed-example-4",
+    "text": "蒸嘢食通常都係健康啲。"
   },
   {
-    "filename": "syun1neoi5-granddaughter",
-    "id": "syun1neoi5-granddaughter",
-    "text": "孫女"
+    "filename": "jing1haa1-steamed-shrimp",
+    "id": "jing1haa1-steamed-shrimp",
+    "text": "蒸蝦"
   },
   {
-    "filename": "syun1neoi5-granddaughter-example-1",
-    "id": "syun1neoi5-granddaughter-example-1",
-    "text": "我嘅孫女今日去學校。"
+    "filename": "jing1haa1-steamed-shrimp-example-1",
+    "id": "jing1haa1-steamed-shrimp-example-1",
+    "text": "我今晚想食蒸蝦。"
   },
   {
-    "filename": "syun1neoi5-granddaughter-example-2",
-    "id": "syun1neoi5-granddaughter-example-2",
-    "text": "你有孫女定孫仔？"
+    "filename": "jing1haa1-steamed-shrimp-example-2",
+    "id": "jing1haa1-steamed-shrimp-example-2",
+    "text": "呢間餐廳嘅蒸蝦好新鮮。"
   },
   {
-    "filename": "syun1neoi5-granddaughter-example-3",
-    "id": "syun1neoi5-granddaughter-example-3",
-    "text": "阿婆好鍾意同孫女玩。"
+    "filename": "jing1haa1-steamed-shrimp-example-3",
+    "id": "jing1haa1-steamed-shrimp-example-3",
+    "text": "廚師話蒸蝦要喺火上蒸十幾分鐘。"
   },
   {
-    "filename": "syun1neoi5-granddaughter-example-4",
-    "id": "syun1neoi5-granddaughter-example-4",
-    "text": "我要買禮物畀我嘅孫女。"
+    "filename": "jing1haa1-steamed-shrimp-example-4",
+    "id": "jing1haa1-steamed-shrimp-example-4",
+    "text": "我叫咗一份蒸蝦，快啲嚟啦。"
   },
   {
-    "filename": "syun1zai2-grandson",
-    "id": "syun1zai2-grandson",
-    "text": "孫仔"
+    "filename": "jing1hou2-steamed-oyster",
+    "id": "jing1hou2-steamed-oyster",
+    "text": "蒸蠔"
   },
   {
-    "filename": "syun1zai2-grandson-example-1",
-    "id": "syun1zai2-grandson-example-1",
-    "text": "我嘅孫仔好叻，識得講三種語言。"
+    "filename": "jing1hou2-steamed-oyster-example-1",
+    "id": "jing1hou2-steamed-oyster-example-1",
+    "text": "我今晚想食蒸蠔。"
   },
   {
-    "filename": "syun1zai2-grandson-example-2",
-    "id": "syun1zai2-grandson-example-2",
-    "text": "阿婆今日帶孫仔去公園玩。"
+    "filename": "jing1hou2-steamed-oyster-example-2",
+    "id": "jing1hou2-steamed-oyster-example-2",
+    "text": "呢度嘅蒸蠔好新鮮。"
   },
   {
-    "filename": "syun1zai2-grandson-example-3",
-    "id": "syun1zai2-grandson-example-3",
-    "text": "你個孫仔幾時返嚟探我？"
+    "filename": "jing1hou2-steamed-oyster-example-3",
+    "id": "jing1hou2-steamed-oyster-example-3",
+    "text": "你可以幫我點份蒸蠔嗎？"
   },
   {
-    "filename": "syun1zai2-grandson-example-4",
-    "id": "syun1zai2-grandson-example-4",
-    "text": "孫仔同我一齊食晚飯。"
+    "filename": "jing1hou2-steamed-oyster-example-4",
+    "id": "jing1hou2-steamed-oyster-example-4",
+    "text": "媽媽煮咗啲蒸蠔俾我食。"
   },
   {
-    "filename": "tong4dai6-cousin-younger-male-paternal",
-    "id": "tong4dai6-cousin-younger-male-paternal",
-    "text": "堂弟"
+    "filename": "jit6-hot",
+    "id": "jit6-hot",
+    "text": "熱"
   },
   {
-    "filename": "tong4dai6-cousin-younger-male-paternal-example-1",
-    "id": "tong4dai6-cousin-younger-male-paternal-example-1",
-    "text": "我個堂弟上星期結婚喇。"
+    "filename": "jit6-hot-example-1",
+    "id": "jit6-hot-example-1",
+    "text": "呢杯茶好熱。"
   },
   {
-    "filename": "tong4dai6-cousin-younger-male-paternal-example-2",
-    "id": "tong4dai6-cousin-younger-male-paternal-example-2",
-    "text": "堂弟今日唔返學，因為佢病咗。"
+    "filename": "jit6-hot-example-2",
+    "id": "jit6-hot-example-2",
+    "text": "今日好熱，要飲多啲水。"
   },
   {
-    "filename": "tong4dai6-cousin-younger-male-paternal-example-3",
-    "id": "tong4dai6-cousin-younger-male-paternal-example-3",
-    "text": "我同堂弟一齊去睇戲。"
+    "filename": "jit6-hot-example-3",
+    "id": "jit6-hot-example-3",
+    "text": "呢個湯唔好飲，好熱。"
   },
   {
-    "filename": "tong4dai6-cousin-younger-male-paternal-example-4",
-    "id": "tong4dai6-cousin-younger-male-paternal-example-4",
-    "text": "堂弟好叻，考咗第一名。"
+    "filename": "jit6-hot-example-4",
+    "id": "jit6-hot-example-4",
+    "text": "佢係個熱情嘅人。"
   },
   {
-    "filename": "tong4go1-cousin-older-male-paternal",
-    "id": "tong4go1-cousin-older-male-paternal",
-    "text": "堂哥"
+    "filename": "joek3naai5-iced-milk",
+    "id": "joek3naai5-iced-milk",
+    "text": "凍奶"
   },
   {
-    "filename": "tong4go1-cousin-older-male-paternal-example-1",
-    "id": "tong4go1-cousin-older-male-paternal-example-1",
-    "text": "我同堂哥一齊去行街。"
+    "filename": "joek3naai5-iced-milk-example-1",
+    "id": "joek3naai5-iced-milk-example-1",
+    "text": "我想要杯凍奶。"
   },
   {
-    "filename": "tong4go1-cousin-older-male-paternal-example-2",
-    "id": "tong4go1-cousin-older-male-paternal-example-2",
-    "text": "堂哥教我點樣煮魚。"
+    "filename": "joek3naai5-iced-milk-example-2",
+    "id": "joek3naai5-iced-milk-example-2",
+    "text": "餐牌上有凍奶同熱奶。"
   },
   {
-    "filename": "tong4go1-cousin-older-male-paternal-example-3",
-    "id": "tong4go1-cousin-older-male-paternal-example-3",
-    "text": "你個堂哥喺邊度返工？"
+    "filename": "joek3naai5-iced-milk-example-3",
+    "id": "joek3naai5-iced-milk-example-3",
+    "text": "凍奶加茶好飲。"
   },
   {
-    "filename": "tong4go1-cousin-older-male-paternal-example-4",
-    "id": "tong4go1-cousin-older-male-paternal-example-4",
-    "text": "堂哥細個嗰陣我哋經常一齊玩。"
+    "filename": "joek3naai5-iced-milk-example-4",
+    "id": "joek3naai5-iced-milk-example-4",
+    "text": "飲凍奶飲多啲唔會熱氣。"
   },
   {
-    "filename": "tong4mui6-cousin-younger-female-paternal",
-    "id": "tong4mui6-cousin-younger-female-paternal",
-    "text": "堂妹"
+    "filename": "joeng4zau1caau2faan6-yangzhou-fried-rice",
+    "id": "joeng4zau1caau2faan6-yangzhou-fried-rice",
+    "text": "揚州炒飯"
   },
   {
-    "filename": "tong4mui6-cousin-younger-female-paternal-example-1",
-    "id": "tong4mui6-cousin-younger-female-paternal-example-1",
-    "text": "我堂妹今日嚟屋企玩。"
+    "filename": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-1",
+    "id": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-1",
+    "text": "我今晚想食揚州炒飯。"
   },
   {
-    "filename": "tong4mui6-cousin-younger-female-paternal-example-2",
-    "id": "tong4mui6-cousin-younger-female-paternal-example-2",
-    "text": "堂妹識唔識踢足球？"
+    "filename": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-2",
+    "id": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-2",
+    "text": "呢度嘅揚州炒飯幾好味。"
   },
   {
-    "filename": "tong4mui6-cousin-younger-female-paternal-example-3",
-    "id": "tong4mui6-cousin-younger-female-paternal-example-3",
-    "text": "我堂妹同我差兩年。"
+    "filename": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-3",
+    "id": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-3",
+    "text": "你訂咗幾多碟揚州炒飯？"
   },
   {
-    "filename": "tong4mui6-cousin-younger-female-paternal-example-4",
-    "id": "tong4mui6-cousin-younger-female-paternal-example-4",
-    "text": "你堂妹幾時返嚟？"
+    "filename": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-4",
+    "id": "joeng4zau1caau2faan6-yangzhou-fried-rice-example-4",
+    "text": "服務員，我要一碟唔加蝦嘅揚州炒飯。"
   },
   {
-    "filename": "tong4ze2-cousin-older-female-paternal",
-    "id": "tong4ze2-cousin-older-female-paternal",
-    "text": "堂姐"
+    "filename": "jyu1joek3-cold-lemon-tea",
+    "id": "jyu1joek3-cold-lemon-tea",
+    "text": "凍檸茶"
   },
   {
-    "filename": "tong4ze2-cousin-older-female-paternal-example-1",
-    "id": "tong4ze2-cousin-older-female-paternal-example-1",
-    "text": "我堂姐喺度等我。"
+    "filename": "jyu1joek3-cold-lemon-tea-example-1",
+    "id": "jyu1joek3-cold-lemon-tea-example-1",
+    "text": "我想叫杯凍檸茶。"
   },
   {
-    "filename": "tong4ze2-cousin-older-female-paternal-example-2",
-    "id": "tong4ze2-cousin-older-female-paternal-example-2",
-    "text": "明日我同堂姐一齊去買嘢。"
+    "filename": "jyu1joek3-cold-lemon-tea-example-2",
+    "id": "jyu1joek3-cold-lemon-tea-example-2",
+    "text": "呢度嘅凍檸茶好好味。"
   },
   {
-    "filename": "tong4ze2-cousin-older-female-paternal-example-3",
-    "id": "tong4ze2-cousin-older-female-paternal-example-3",
-    "text": "你認識我堂姊未？"
+    "filename": "jyu1joek3-cold-lemon-tea-example-3",
+    "id": "jyu1joek3-cold-lemon-tea-example-3",
+    "text": "夏天飲凍檸茶幾舒服。"
   },
   {
-    "filename": "tong4ze2-cousin-older-female-paternal-example-4",
-    "id": "tong4ze2-cousin-older-female-paternal-example-4",
-    "text": "我堂姐好叻，佢啱啱攞咗獎。"
+    "filename": "jyu1joek3-cold-lemon-tea-example-4",
+    "id": "jyu1joek3-cold-lemon-tea-example-4",
+    "text": "我唔鍾意太甜嘅凍檸茶。"
   },
   {
-    "filename": "uk1kei2-home",
-    "id": "uk1kei2-home",
-    "text": "屋企"
+    "filename": "jyu1joek3naai5caa4-iced-milk-tea",
+    "id": "jyu1joek3naai5caa4-iced-milk-tea",
+    "text": "凍奶茶"
   },
   {
-    "filename": "uk1kei2-home-example-1",
-    "id": "uk1kei2-home-example-1",
-    "text": "我今晚唔返屋企。"
+    "filename": "jyu1joek3naai5caa4-iced-milk-tea-example-1",
+    "id": "jyu1joek3naai5caa4-iced-milk-tea-example-1",
+    "text": "我想飲一杯凍奶茶。"
   },
   {
-    "filename": "uk1kei2-home-example-2",
-    "id": "uk1kei2-home-example-2",
-    "text": "你屋企有幾多人？"
+    "filename": "jyu1joek3naai5caa4-iced-milk-tea-example-2",
+    "id": "jyu1joek3naai5caa4-iced-milk-tea-example-2",
+    "text": "你鍾唔鍾意凍奶茶？"
   },
   {
-    "filename": "uk1kei2-home-example-3",
-    "id": "uk1kei2-home-example-3",
-    "text": "屋企嘅阿媽今朝煮咗早餐。"
+    "filename": "jyu1joek3naai5caa4-iced-milk-tea-example-3",
+    "id": "jyu1joek3naai5caa4-iced-milk-tea-example-3",
+    "text": "茶餐廳有賣凍奶茶。"
   },
   {
-    "filename": "uk1kei2-home-example-4",
-    "id": "uk1kei2-home-example-4",
-    "text": "我想好好照顧屋企人。"
+    "filename": "jyu1joek3naai5caa4-iced-milk-tea-example-4",
+    "id": "jyu1joek3naai5caa4-iced-milk-tea-example-4",
+    "text": "夏天飲凍奶茶最好。"
   },
   {
-    "filename": "uk1kei2jan4-family",
-    "id": "uk1kei2jan4-family",
-    "text": "屋企人"
+    "filename": "jyu4daan2min6-fish-ball-noodles",
+    "id": "jyu4daan2min6-fish-ball-noodles",
+    "text": "魚蛋麵"
   },
   {
-    "filename": "uk1kei2jan4-family-example-1",
-    "id": "uk1kei2jan4-family-example-1",
-    "text": "我今晚同屋企人去食飯。"
+    "filename": "jyu4daan2min6-fish-ball-noodles-example-1",
+    "id": "jyu4daan2min6-fish-ball-noodles-example-1",
+    "text": "我今晚想食魚蛋麵。"
   },
   {
-    "filename": "uk1kei2jan4-family-example-2",
-    "id": "uk1kei2jan4-family-example-2",
-    "text": "屋企人都好支持我。"
+    "filename": "jyu4daan2min6-fish-ball-noodles-example-2",
+    "id": "jyu4daan2min6-fish-ball-noodles-example-2",
+    "text": "呢度嘅魚蛋麵好正！"
   },
   {
-    "filename": "uk1kei2jan4-family-example-3",
-    "id": "uk1kei2jan4-family-example-3",
-    "text": "週末我會返屋企見屋企人。"
+    "filename": "jyu4daan2min6-fish-ball-noodles-example-3",
+    "id": "jyu4daan2min6-fish-ball-noodles-example-3",
+    "text": "請俾我一碗魚蛋麵，多辣唔辣？"
   },
   {
-    "filename": "uk1kei2jan4-family-example-4",
-    "id": "uk1kei2jan4-family-example-4",
-    "text": "屋企人平時幫我好多。"
+    "filename": "jyu4daan2min6-fish-ball-noodles-example-4",
+    "id": "jyu4daan2min6-fish-ball-noodles-example-4",
+    "text": "你鍾意食魚蛋麵定係牛腩麵？"
   },
   {
-    "filename": "zai2-son",
-    "id": "zai2-son",
-    "text": "仔"
+    "filename": "jyu4tau4tong1-fish-head-soup",
+    "id": "jyu4tau4tong1-fish-head-soup",
+    "text": "魚頭湯"
   },
   {
-    "filename": "zai2-son-example-1",
-    "id": "zai2-son-example-1",
-    "text": "我有一個仔。"
+    "filename": "jyu4tau4tong1-fish-head-soup-example-1",
+    "id": "jyu4tau4tong1-fish-head-soup-example-1",
+    "text": "呢間餐廳嘅魚頭湯好正。"
   },
   {
-    "filename": "zai2-son-example-2",
-    "id": "zai2-son-example-2",
-    "text": "仔喺學校讀書。"
+    "filename": "jyu4tau4tong1-fish-head-soup-example-2",
+    "id": "jyu4tau4tong1-fish-head-soup-example-2",
+    "text": "我今晚想飲碗熱辣辣嘅魚頭湯。"
   },
   {
-    "filename": "zai2-son-example-3",
-    "id": "zai2-son-example-3",
-    "text": "佢哋嘅仔好聰明。"
+    "filename": "jyu4tau4tong1-fish-head-soup-example-3",
+    "id": "jyu4tau4tong1-fish-head-soup-example-3",
+    "text": "魚頭湯通常用鮮魚頭煲出嚟。"
   },
   {
-    "filename": "zai2-son-example-4",
-    "id": "zai2-son-example-4",
-    "text": "你個仔幾歲呀？"
+    "filename": "jyu4tau4tong1-fish-head-soup-example-4",
+    "id": "jyu4tau4tong1-fish-head-soup-example-4",
+    "text": "你試過我哋餐廳嘅魚頭湯未？"
   },
   {
-    "filename": "zat6-nephew",
-    "id": "zat6-nephew",
-    "text": "侄"
+    "filename": "jyun1joeng1-coffee-and-milk-tea-mix",
+    "id": "jyun1joeng1-coffee-and-milk-tea-mix",
+    "text": "鴛鴦"
   },
   {
-    "filename": "zat6-nephew-example-1",
-    "id": "zat6-nephew-example-1",
-    "text": "我有兩個侄仔。"
+    "filename": "jyun1joeng1-coffee-and-milk-tea-mix-example-1",
+    "id": "jyun1joeng1-coffee-and-milk-tea-mix-example-1",
+    "text": "我想飲一杯鴛鴦。"
   },
   {
-    "filename": "zat6-nephew-example-2",
-    "id": "zat6-nephew-example-2",
-    "text": "你見過我侄女未？"
+    "filename": "jyun1joeng1-coffee-and-milk-tea-mix-example-2",
+    "id": "jyun1joeng1-coffee-and-milk-tea-mix-example-2",
+    "text": "餐廳有冇鴛鴦賣？"
   },
   {
-    "filename": "zat6-nephew-example-3",
-    "id": "zat6-nephew-example-3",
-    "text": "佢係我哥哥個侄。"
+    "filename": "jyun1joeng1-coffee-and-milk-tea-mix-example-3",
+    "id": "jyun1joeng1-coffee-and-milk-tea-mix-example-3",
+    "text": "夏天我鍾意飲凍鴛鴦。"
   },
   {
-    "filename": "zat6-nephew-example-4",
-    "id": "zat6-nephew-example-4",
-    "text": "每年我都會買禮物俾我侄仔。"
+    "filename": "jyun1joeng1-coffee-and-milk-tea-mix-example-4",
+    "id": "jyun1joeng1-coffee-and-milk-tea-mix-example-4",
+    "text": "飲鴛鴦最好唔該加多啲糖。"
   },
   {
-    "filename": "zat6neoi5-niece",
-    "id": "zat6neoi5-niece",
-    "text": "侄女"
+    "filename": "laap6coeng2-chinese-sausage",
+    "id": "laap6coeng2-chinese-sausage",
+    "text": "臘腸"
   },
   {
-    "filename": "zat6neoi5-niece-example-1",
-    "id": "zat6neoi5-niece-example-1",
-    "text": "我個侄女好鍾意畫畫。"
+    "filename": "laap6coeng2-chinese-sausage-example-1",
+    "id": "laap6coeng2-chinese-sausage-example-1",
+    "text": "我鍾意食炒臘腸飯。"
   },
   {
-    "filename": "zat6neoi5-niece-example-2",
-    "id": "zat6neoi5-niece-example-2",
-    "text": "你見過我侄女未？"
+    "filename": "laap6coeng2-chinese-sausage-example-2",
+    "id": "laap6coeng2-chinese-sausage-example-2",
+    "text": "呢間餐廳有好味嘅臘腸煲仔飯。"
   },
   {
-    "filename": "zat6neoi5-niece-example-3",
-    "id": "zat6neoi5-niece-example-3",
-    "text": "我侄女今日生日。"
+    "filename": "laap6coeng2-chinese-sausage-example-3",
+    "id": "laap6coeng2-chinese-sausage-example-3",
+    "text": "你買唔買臘腸返屋企？"
   },
   {
-    "filename": "zat6neoi5-niece-example-4",
-    "id": "zat6neoi5-niece-example-4",
-    "text": "侄女係我細佬嗰邊嘅。"
+    "filename": "laap6coeng2-chinese-sausage-example-4",
+    "id": "laap6coeng2-chinese-sausage-example-4",
+    "text": "臘腸加咗落炒菜入面，好香。"
   },
   {
-    "filename": "ze2mui6-sisters",
-    "id": "ze2mui6-sisters",
-    "text": "姊妹"
+    "filename": "laap6mei6-preserved-meats",
+    "id": "laap6mei6-preserved-meats",
+    "text": "臘味"
   },
   {
-    "filename": "ze2mui6-sisters-example-1",
-    "id": "ze2mui6-sisters-example-1",
-    "text": "我有兩個姊妹。"
+    "filename": "laap6mei6-preserved-meats-example-1",
+    "id": "laap6mei6-preserved-meats-example-1",
+    "text": "我今晚想食臘味飯。"
   },
   {
-    "filename": "ze2mui6-sisters-example-2",
-    "id": "ze2mui6-sisters-example-2",
-    "text": "我同我姊妹好親。"
+    "filename": "laap6mei6-preserved-meats-example-2",
+    "id": "laap6mei6-preserved-meats-example-2",
+    "text": "呢間酒樓嘅臘味好出名。"
   },
   {
-    "filename": "ze2mui6-sisters-example-3",
-    "id": "ze2mui6-sisters-example-3",
-    "text": "姊妹一齊去Shopping。"
+    "filename": "laap6mei6-preserved-meats-example-3",
+    "id": "laap6mei6-preserved-meats-example-3",
+    "text": "媽咪買咗啲臘味腸返嚟。"
   },
   {
-    "filename": "ze2mui6-sisters-example-4",
-    "id": "ze2mui6-sisters-example-4",
-    "text": "佢哋係死黨姊妹。"
+    "filename": "laap6mei6-preserved-meats-example-4",
+    "id": "laap6mei6-preserved-meats-example-4",
+    "text": "煲仔飯入面通常會加入臘味。"
   },
   {
-    "filename": "ze2ze2-older-sister",
-    "id": "ze2ze2-older-sister",
-    "text": "姐姐"
+    "filename": "laap6mei6faan6-rice-with-preserved-meats",
+    "id": "laap6mei6faan6-rice-with-preserved-meats",
+    "text": "臘味飯"
   },
   {
-    "filename": "ze2ze2-older-sister-example-1",
-    "id": "ze2ze2-older-sister-example-1",
-    "text": "我姐姐今日去買嘢。"
+    "filename": "laap6mei6faan6-rice-with-preserved-meats-example-1",
+    "id": "laap6mei6faan6-rice-with-preserved-meats-example-1",
+    "text": "呢間餐廳嘅臘味飯好出名。"
   },
   {
-    "filename": "ze2ze2-older-sister-example-2",
-    "id": "ze2ze2-older-sister-example-2",
-    "text": "你姐姐幾歲呀？"
+    "filename": "laap6mei6faan6-rice-with-preserved-meats-example-2",
+    "id": "laap6mei6faan6-rice-with-preserved-meats-example-2",
+    "text": "我今晚想食臘味飯。"
   },
   {
-    "filename": "ze2ze2-older-sister-example-3",
-    "id": "ze2ze2-older-sister-example-3",
-    "text": "姐姐教我做功課。"
+    "filename": "laap6mei6faan6-rice-with-preserved-meats-example-3",
+    "id": "laap6mei6faan6-rice-with-preserved-meats-example-3",
+    "text": "呢碟臘味飯係用多款臘肉整嘅。"
   },
   {
-    "filename": "ze2ze2-older-sister-example-4",
-    "id": "ze2ze2-older-sister-example-4",
-    "text": "你姐姐好叻架！"
+    "filename": "laap6mei6faan6-rice-with-preserved-meats-example-4",
+    "id": "laap6mei6faan6-rice-with-preserved-meats-example-4",
+    "text": "臘味飯好適合同家人一齊食。"
   },
   {
-    "filename": "zoeng2neoi5-eldest-daughter",
-    "id": "zoeng2neoi5-eldest-daughter",
-    "text": "長女"
+    "filename": "laat6-spicy",
+    "id": "laat6-spicy",
+    "text": "辣"
   },
   {
-    "filename": "zoeng2neoi5-eldest-daughter-example-1",
-    "id": "zoeng2neoi5-eldest-daughter-example-1",
-    "text": "我嘅長女已經上大學。"
+    "filename": "laat6-spicy-example-1",
+    "id": "laat6-spicy-example-1",
+    "text": "呢道菜好辣，我唔食得。"
   },
   {
-    "filename": "zoeng2neoi5-eldest-daughter-example-2",
-    "id": "zoeng2neoi5-eldest-daughter-example-2",
-    "text": "佢係屋企嘅長女，要幫手照顧細佬。"
+    "filename": "laat6-spicy-example-2",
+    "id": "laat6-spicy-example-2",
+    "text": "你鍾意食辣嘅嘢嗎？"
   },
   {
-    "filename": "zoeng2neoi5-eldest-daughter-example-3",
-    "id": "zoeng2neoi5-eldest-daughter-example-3",
-    "text": "我嘅長女鍾意畫畫。"
+    "filename": "laat6-spicy-example-3",
+    "id": "laat6-spicy-example-3",
+    "text": "呢個辣椒好辣，唔好食太多。"
   },
   {
-    "filename": "zoeng2neoi5-eldest-daughter-example-4",
-    "id": "zoeng2neoi5-eldest-daughter-example-4",
-    "text": "長女嘅角色好重要，佢要做榜樣。"
+    "filename": "laat6-spicy-example-4",
+    "id": "laat6-spicy-example-4",
+    "text": "佢點咗一碟唔辣嘅餸。"
   },
   {
-    "filename": "zoeng2zi2-eldest-son",
-    "id": "zoeng2zi2-eldest-son",
-    "text": "長子"
+    "filename": "m4yiu3laat6-no-spicy",
+    "id": "m4yiu3laat6-no-spicy",
+    "text": "唔要辣"
   },
   {
-    "filename": "zoeng2zi2-eldest-son-example-1",
-    "id": "zoeng2zi2-eldest-son-example-1",
-    "text": "佢係家裏嘅長子。"
+    "filename": "m4yiu3laat6-no-spicy-example-1",
+    "id": "m4yiu3laat6-no-spicy-example-1",
+    "text": "我想要白飯，唔要辣。"
   },
   {
-    "filename": "zoeng2zi2-eldest-son-example-2",
-    "id": "zoeng2zi2-eldest-son-example-2",
-    "text": "長子有責任照顧父母。"
+    "filename": "m4yiu3laat6-no-spicy-example-2",
+    "id": "m4yiu3laat6-no-spicy-example-2",
+    "text": "呢個菜好辣，我唔要辣嘅。"
   },
   {
-    "filename": "zoeng2zi2-eldest-son-example-3",
-    "id": "zoeng2zi2-eldest-son-example-3",
-    "text": "我姊姊唔係長子。"
+    "filename": "m4yiu3laat6-no-spicy-example-3",
+    "id": "m4yiu3laat6-no-spicy-example-3",
+    "text": "請幫我叫唔要辣嘅湯。"
   },
   {
-    "filename": "zoeng2zi2-eldest-son-example-4",
-    "id": "zoeng2zi2-eldest-son-example-4",
-    "text": "傳統上，長子會繼承家業。"
+    "filename": "m4yiu3laat6-no-spicy-example-4",
+    "id": "m4yiu3laat6-no-spicy-example-4",
+    "text": "我唔食辣，唔要辣嘅嘢。"
+  },
+  {
+    "filename": "mai5daan1-pay-the-bill",
+    "id": "mai5daan1-pay-the-bill",
+    "text": "埋單"
+  },
+  {
+    "filename": "mai5daan1-pay-the-bill-example-1",
+    "id": "mai5daan1-pay-the-bill-example-1",
+    "text": "我哋食完，叫埋單。"
+  },
+  {
+    "filename": "mai5daan1-pay-the-bill-example-2",
+    "id": "mai5daan1-pay-the-bill-example-2",
+    "text": "埋單幾多錢？"
+  },
+  {
+    "filename": "mai5daan1-pay-the-bill-example-3",
+    "id": "mai5daan1-pay-the-bill-example-3",
+    "text": "服務員，埋單，快啲！"
+  },
+  {
+    "filename": "mai5daan1-pay-the-bill-example-4",
+    "id": "mai5daan1-pay-the-bill-example-4",
+    "text": "我今次負責埋單。"
+  },
+  {
+    "filename": "min6-noodles",
+    "id": "min6-noodles",
+    "text": "麵"
+  },
+  {
+    "filename": "min6-noodles-example-1",
+    "id": "min6-noodles-example-1",
+    "text": "我今晚想食炸醬麵。"
+  },
+  {
+    "filename": "min6-noodles-example-2",
+    "id": "min6-noodles-example-2",
+    "text": "呢間餐廳嘅湯麵好正。"
+  },
+  {
+    "filename": "min6-noodles-example-3",
+    "id": "min6-noodles-example-3",
+    "text": "你有冇無麩質麵？"
+  },
+  {
+    "filename": "min6-noodles-example-4",
+    "id": "min6-noodles-example-4",
+    "text": "佢最鍾意食炒麵。"
+  },
+  {
+    "filename": "mui6coi3kau3juk6-braised-pork-belly",
+    "id": "mui6coi3kau3juk6-braised-pork-belly",
+    "text": "梅菜扣肉"
+  },
+  {
+    "filename": "mui6coi3kau3juk6-braised-pork-belly-example-1",
+    "id": "mui6coi3kau3juk6-braised-pork-belly-example-1",
+    "text": "今晚我想食梅菜扣肉。"
+  },
+  {
+    "filename": "mui6coi3kau3juk6-braised-pork-belly-example-2",
+    "id": "mui6coi3kau3juk6-braised-pork-belly-example-2",
+    "text": "呢間酒樓嘅梅菜扣肉好出名。"
+  },
+  {
+    "filename": "mui6coi3kau3juk6-braised-pork-belly-example-3",
+    "id": "mui6coi3kau3juk6-braised-pork-belly-example-3",
+    "text": "梅菜扣肉配飯最好味。"
+  },
+  {
+    "filename": "mui6coi3kau3juk6-braised-pork-belly-example-4",
+    "id": "mui6coi3kau3juk6-braised-pork-belly-example-4",
+    "text": "你試過梅菜扣肉未？"
+  },
+  {
+    "filename": "naai5caa4-milk-tea",
+    "id": "naai5caa4-milk-tea",
+    "text": "奶茶"
+  },
+  {
+    "filename": "naai5caa4-milk-tea-example-1",
+    "id": "naai5caa4-milk-tea-example-1",
+    "text": "我想飲一杯熱奶茶。"
+  },
+  {
+    "filename": "naai5caa4-milk-tea-example-2",
+    "id": "naai5caa4-milk-tea-example-2",
+    "text": "呢度嘅奶茶好好味。"
+  },
+  {
+    "filename": "naai5caa4-milk-tea-example-3",
+    "id": "naai5caa4-milk-tea-example-3",
+    "text": "早餐我飲咗杯奶茶同埋蛋撻。"
+  },
+  {
+    "filename": "naai5caa4-milk-tea-example-4",
+    "id": "naai5caa4-milk-tea-example-4",
+    "text": "佢唔鍾意冰奶茶，只係鍾意熱嘅。"
+  },
+  {
+    "filename": "naam4sui3-lemon-water",
+    "id": "naam4sui3-lemon-water",
+    "text": "檸水"
+  },
+  {
+    "filename": "naam4sui3-lemon-water-example-1",
+    "id": "naam4sui3-lemon-water-example-1",
+    "text": "我想飲杯檸水。"
+  },
+  {
+    "filename": "naam4sui3-lemon-water-example-2",
+    "id": "naam4sui3-lemon-water-example-2",
+    "text": "餐牌上有冇檸水？"
+  },
+  {
+    "filename": "naam4sui3-lemon-water-example-3",
+    "id": "naam4sui3-lemon-water-example-3",
+    "text": "檸水嘅味道好清新。"
+  },
+  {
+    "filename": "naam4sui3-lemon-water-example-4",
+    "id": "naam4sui3-lemon-water-example-4",
+    "text": "飯後我通常會飲杯檸水。"
+  },
+  {
+    "filename": "ngau4juk6-beef",
+    "id": "ngau4juk6-beef",
+    "text": "牛肉"
+  },
+  {
+    "filename": "ngau4juk6-beef-example-1",
+    "id": "ngau4juk6-beef-example-1",
+    "text": "我想食牛肉飯。"
+  },
+  {
+    "filename": "ngau4juk6-beef-example-2",
+    "id": "ngau4juk6-beef-example-2",
+    "text": "餐廳有無牛肉湯？"
+  },
+  {
+    "filename": "ngau4juk6-beef-example-3",
+    "id": "ngau4juk6-beef-example-3",
+    "text": "呢碟炒牛肉好好味。"
+  },
+  {
+    "filename": "ngau4juk6-beef-example-4",
+    "id": "ngau4juk6-beef-example-4",
+    "text": "超市賣新鮮牛肉。"
+  },
+  {
+    "filename": "ngau4juk6ding2-diced-beef",
+    "id": "ngau4juk6ding2-diced-beef",
+    "text": "牛肉丁"
+  },
+  {
+    "filename": "ngau4juk6ding2-diced-beef-example-1",
+    "id": "ngau4juk6ding2-diced-beef-example-1",
+    "text": "我今晚想食炒牛肉丁。"
+  },
+  {
+    "filename": "ngau4juk6ding2-diced-beef-example-2",
+    "id": "ngau4juk6ding2-diced-beef-example-2",
+    "text": "呢個湯有好多牛肉丁。"
+  },
+  {
+    "filename": "ngau4juk6ding2-diced-beef-example-3",
+    "id": "ngau4juk6ding2-diced-beef-example-3",
+    "text": "你鍾意食辣嘅牛肉丁定係唔辣？"
+  },
+  {
+    "filename": "ngau4juk6ding2-diced-beef-example-4",
+    "id": "ngau4juk6ding2-diced-beef-example-4",
+    "text": "牛肉丁配飯好味道！"
+  },
+  {
+    "filename": "ngau4juk6min6-beef-noodles",
+    "id": "ngau4juk6min6-beef-noodles",
+    "text": "牛肉麵"
+  },
+  {
+    "filename": "ngau4juk6min6-beef-noodles-example-1",
+    "id": "ngau4juk6min6-beef-noodles-example-1",
+    "text": "呢間茶餐廳嘅牛肉麵好好味。"
+  },
+  {
+    "filename": "ngau4juk6min6-beef-noodles-example-2",
+    "id": "ngau4juk6min6-beef-noodles-example-2",
+    "text": "你想唔想試吓牛肉麵？"
+  },
+  {
+    "filename": "ngau4juk6min6-beef-noodles-example-3",
+    "id": "ngau4juk6min6-beef-noodles-example-3",
+    "text": "我成日食呢度嘅牛肉麵。"
+  },
+  {
+    "filename": "ngau4juk6min6-beef-noodles-example-4",
+    "id": "ngau4juk6min6-beef-noodles-example-4",
+    "text": "一碗熱辣辣嘅牛肉麵最啱冬天。"
+  },
+  {
+    "filename": "ngau4juk6paai4-beef-steak",
+    "id": "ngau4juk6paai4-beef-steak",
+    "text": "牛扒"
+  },
+  {
+    "filename": "ngau4juk6paai4-beef-steak-example-1",
+    "id": "ngau4juk6paai4-beef-steak-example-1",
+    "text": "今晚我想食牛扒。"
+  },
+  {
+    "filename": "ngau4juk6paai4-beef-steak-example-2",
+    "id": "ngau4juk6paai4-beef-steak-example-2",
+    "text": "呢間餐廳嘅牛扒好好味。"
+  },
+  {
+    "filename": "ngau4juk6paai4-beef-steak-example-3",
+    "id": "ngau4juk6paai4-beef-steak-example-3",
+    "text": "牛扒可以煎得幾成熟？"
+  },
+  {
+    "filename": "ngau4juk6paai4-beef-steak-example-4",
+    "id": "ngau4juk6paai4-beef-steak-example-4",
+    "text": "你想配啲咩醬汁食牛扒？"
+  },
+  {
+    "filename": "ngau4juk6tong1-beef-soup",
+    "id": "ngau4juk6tong1-beef-soup",
+    "text": "牛肉湯"
+  },
+  {
+    "filename": "ngau4juk6tong1-beef-soup-example-1",
+    "id": "ngau4juk6tong1-beef-soup-example-1",
+    "text": "我今晚想食牛肉湯。"
+  },
+  {
+    "filename": "ngau4juk6tong1-beef-soup-example-2",
+    "id": "ngau4juk6tong1-beef-soup-example-2",
+    "text": "呢間餐廳嘅牛肉湯好好味。"
+  },
+  {
+    "filename": "ngau4juk6tong1-beef-soup-example-3",
+    "id": "ngau4juk6tong1-beef-soup-example-3",
+    "text": "你飲過牛肉湯未？"
+  },
+  {
+    "filename": "ngau4juk6tong1-beef-soup-example-4",
+    "id": "ngau4juk6tong1-beef-soup-example-4",
+    "text": "煲咗啲牛肉湯，等啲味入晒去。"
+  },
+  {
+    "filename": "ngau4naam5-beef-brisket",
+    "id": "ngau4naam5-beef-brisket",
+    "text": "牛腩"
+  },
+  {
+    "filename": "ngau4naam5-beef-brisket-example-1",
+    "id": "ngau4naam5-beef-brisket-example-1",
+    "text": "我今晚想食牛腩麵。"
+  },
+  {
+    "filename": "ngau4naam5-beef-brisket-example-2",
+    "id": "ngau4naam5-beef-brisket-example-2",
+    "text": "呢餐廳嘅牛腩好出名。"
+  },
+  {
+    "filename": "ngau4naam5-beef-brisket-example-3",
+    "id": "ngau4naam5-beef-brisket-example-3",
+    "text": "你想點牛腩定係牛肉？"
+  },
+  {
+    "filename": "ngau4naam5-beef-brisket-example-4",
+    "id": "ngau4naam5-beef-brisket-example-4",
+    "text": "佢哋嘅牛腩燉得幾軟淋。"
+  },
+  {
+    "filename": "ngau4naam5tong1-beef-brisket-soup",
+    "id": "ngau4naam5tong1-beef-brisket-soup",
+    "text": "牛腩湯"
+  },
+  {
+    "filename": "ngau4naam5tong1-beef-brisket-soup-example-1",
+    "id": "ngau4naam5tong1-beef-brisket-soup-example-1",
+    "text": "我今晚想食牛腩湯。"
+  },
+  {
+    "filename": "ngau4naam5tong1-beef-brisket-soup-example-2",
+    "id": "ngau4naam5tong1-beef-brisket-soup-example-2",
+    "text": "呢碗牛腩湯好好味！"
+  },
+  {
+    "filename": "ngau4naam5tong1-beef-brisket-soup-example-3",
+    "id": "ngau4naam5tong1-beef-brisket-soup-example-3",
+    "text": "餐廳有冇牛腩湯？"
+  },
+  {
+    "filename": "ngau4naam5tong1-beef-brisket-soup-example-4",
+    "id": "ngau4naam5tong1-beef-brisket-soup-example-4",
+    "text": "佢叫咗一碗牛腩湯同埋炒飯。"
+  },
+  {
+    "filename": "ngau4paak3jip6-beef-tripe",
+    "id": "ngau4paak3jip6-beef-tripe",
+    "text": "牛柏葉"
+  },
+  {
+    "filename": "ngau4paak3jip6-beef-tripe-example-1",
+    "id": "ngau4paak3jip6-beef-tripe-example-1",
+    "text": "我哋今晚食牛柏葉湯。"
+  },
+  {
+    "filename": "ngau4paak3jip6-beef-tripe-example-2",
+    "id": "ngau4paak3jip6-beef-tripe-example-2",
+    "text": "呢碟牛柏葉好辣呀！"
+  },
+  {
+    "filename": "ngau4paak3jip6-beef-tripe-example-3",
+    "id": "ngau4paak3jip6-beef-tripe-example-3",
+    "text": "你鐘意食炒牛柏葉定蒸牛柏葉？"
+  },
+  {
+    "filename": "ngau4paak3jip6-beef-tripe-example-4",
+    "id": "ngau4paak3jip6-beef-tripe-example-4",
+    "text": "依家好多餐廳都有牛柏葉做嘢食。"
+  },
+  {
+    "filename": "ngo6maai6-takeaway",
+    "id": "ngo6maai6-takeaway",
+    "text": "外賣"
+  },
+  {
+    "filename": "ngo6maai6-takeaway-example-1",
+    "id": "ngo6maai6-takeaway-example-1",
+    "text": "我今日想叫外賣。"
+  },
+  {
+    "filename": "ngo6maai6-takeaway-example-2",
+    "id": "ngo6maai6-takeaway-example-2",
+    "text": "呢間餐廳有無外賣？"
+  },
+  {
+    "filename": "ngo6maai6-takeaway-example-3",
+    "id": "ngo6maai6-takeaway-example-3",
+    "text": "我哋今晚食外賣啦。"
+  },
+  {
+    "filename": "ngo6maai6-takeaway-example-4",
+    "id": "ngo6maai6-takeaway-example-4",
+    "text": "你想要邊樣外賣？"
+  },
+  {
+    "filename": "pui3faan6-with-rice",
+    "id": "pui3faan6-with-rice",
+    "text": "配飯"
+  },
+  {
+    "filename": "pui3faan6-with-rice-example-1",
+    "id": "pui3faan6-with-rice-example-1",
+    "text": "呢個豬扒配飯幾好味。"
+  },
+  {
+    "filename": "pui3faan6-with-rice-example-2",
+    "id": "pui3faan6-with-rice-example-2",
+    "text": "我想要一個雞翼配飯，唔該。"
+  },
+  {
+    "filename": "pui3faan6-with-rice-example-3",
+    "id": "pui3faan6-with-rice-example-3",
+    "text": "啲菜配飯食落更加飽。"
+  },
+  {
+    "filename": "pui3faan6-with-rice-example-4",
+    "id": "pui3faan6-with-rice-example-4",
+    "text": "呢度嘅套餐全部都配飯。"
+  },
+  {
+    "filename": "saa1de1ngau4ho2-satay-beef-ho-fun",
+    "id": "saa1de1ngau4ho2-satay-beef-ho-fun",
+    "text": "沙嗲牛河"
+  },
+  {
+    "filename": "saa1de1ngau4ho2-satay-beef-ho-fun-example-1",
+    "id": "saa1de1ngau4ho2-satay-beef-ho-fun-example-1",
+    "text": "我今晚想食沙嗲牛河。"
+  },
+  {
+    "filename": "saa1de1ngau4ho2-satay-beef-ho-fun-example-2",
+    "id": "saa1de1ngau4ho2-satay-beef-ho-fun-example-2",
+    "text": "呢間茶餐廳嘅沙嗲牛河好好味。"
+  },
+  {
+    "filename": "saa1de1ngau4ho2-satay-beef-ho-fun-example-3",
+    "id": "saa1de1ngau4ho2-satay-beef-ho-fun-example-3",
+    "text": "你試過沙嗲牛河未？"
+  },
+  {
+    "filename": "saa1de1ngau4ho2-satay-beef-ho-fun-example-4",
+    "id": "saa1de1ngau4ho2-satay-beef-ho-fun-example-4",
+    "text": "我哋要兩份沙嗲牛河，多謝。"
+  },
+  {
+    "filename": "saa1de1ngau4juk6-satay-beef",
+    "id": "saa1de1ngau4juk6-satay-beef",
+    "text": "沙嗲牛肉"
+  },
+  {
+    "filename": "saa1de1ngau4juk6-satay-beef-example-1",
+    "id": "saa1de1ngau4juk6-satay-beef-example-1",
+    "text": "呢碟沙嗲牛肉好好味。"
+  },
+  {
+    "filename": "saa1de1ngau4juk6-satay-beef-example-2",
+    "id": "saa1de1ngau4juk6-satay-beef-example-2",
+    "text": "我今晚想食沙嗲牛肉飯。"
+  },
+  {
+    "filename": "saa1de1ngau4juk6-satay-beef-example-3",
+    "id": "saa1de1ngau4juk6-satay-beef-example-3",
+    "text": "餐廳有冇沙嗲牛肉炒麵？"
+  },
+  {
+    "filename": "saa1de1ngau4juk6-satay-beef-example-4",
+    "id": "saa1de1ngau4juk6-satay-beef-example-4",
+    "text": "佢食咗好多碟沙嗲牛肉。"
+  },
+  {
+    "filename": "saam1mei6faan6-three-roast-meats-rice",
+    "id": "saam1mei6faan6-three-roast-meats-rice",
+    "text": "三拼飯"
+  },
+  {
+    "filename": "saam1mei6faan6-three-roast-meats-rice-example-1",
+    "id": "saam1mei6faan6-three-roast-meats-rice-example-1",
+    "text": "我今晚想食三拼飯。"
+  },
+  {
+    "filename": "saam1mei6faan6-three-roast-meats-rice-example-2",
+    "id": "saam1mei6faan6-three-roast-meats-rice-example-2",
+    "text": "呢碟三拼飯好唔好味？"
+  },
+  {
+    "filename": "saam1mei6faan6-three-roast-meats-rice-example-3",
+    "id": "saam1mei6faan6-three-roast-meats-rice-example-3",
+    "text": "佢每次食飯都叫三拼飯。"
+  },
+  {
+    "filename": "saam1mei6faan6-three-roast-meats-rice-example-4",
+    "id": "saam1mei6faan6-three-roast-meats-rice-example-4",
+    "text": "我未試過三拼飯，你推薦嗎？"
+  },
+  {
+    "filename": "saam1ping3-three-item-combo",
+    "id": "saam1ping3-three-item-combo",
+    "text": "三拼"
+  },
+  {
+    "filename": "saam1ping3-three-item-combo-example-1",
+    "id": "saam1ping3-three-item-combo-example-1",
+    "text": "我今晚想試下三拼。"
+  },
+  {
+    "filename": "saam1ping3-three-item-combo-example-2",
+    "id": "saam1ping3-three-item-combo-example-2",
+    "text": "呢度嘅三拼有燒雞、叉燒同燒肉。"
+  },
+  {
+    "filename": "saam1ping3-three-item-combo-example-3",
+    "id": "saam1ping3-three-item-combo-example-3",
+    "text": "你想要三拼定五拼？"
+  },
+  {
+    "filename": "saam1ping3-three-item-combo-example-4",
+    "id": "saam1ping3-three-item-combo-example-4",
+    "text": "三拼可以俾你試唔同味道。"
+  },
+  {
+    "filename": "saang1caau2gwat1-sweet-and-sour-pork-ribs",
+    "id": "saang1caau2gwat1-sweet-and-sour-pork-ribs",
+    "text": "生炒骨"
+  },
+  {
+    "filename": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-1",
+    "id": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-1",
+    "text": "我今晚想食生炒骨。"
+  },
+  {
+    "filename": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-2",
+    "id": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-2",
+    "text": "呢餐廳啲生炒骨好好味。"
+  },
+  {
+    "filename": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-3",
+    "id": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-3",
+    "text": "你想要一份生炒骨定係炒飯？"
+  },
+  {
+    "filename": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-4",
+    "id": "saang1caau2gwat1-sweet-and-sour-pork-ribs-example-4",
+    "text": "媽咪煮咗啲生炒骨畀我食。"
+  },
+  {
+    "filename": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli",
+    "id": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli",
+    "text": "西蘭花炒牛肉"
+  },
+  {
+    "filename": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-1",
+    "id": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-1",
+    "text": "我想叫一份西蘭花炒牛肉。"
+  },
+  {
+    "filename": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-2",
+    "id": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-2",
+    "text": "西蘭花炒牛肉好好味。"
+  },
+  {
+    "filename": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-3",
+    "id": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-3",
+    "text": "佢唔食西蘭花炒牛肉，因為佢唔鐘意牛肉。"
+  },
+  {
+    "filename": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-4",
+    "id": "sai1laan4faa1caau2ngau4juk6-beef-with-broccoli-example-4",
+    "text": "餐廳嘅西蘭花炒牛肉好受歡迎。"
+  },
+  {
+    "filename": "sau1fei3-charge",
+    "id": "sau1fei3-charge",
+    "text": "收費"
+  },
+  {
+    "filename": "sau1fei3-charge-example-1",
+    "id": "sau1fei3-charge-example-1",
+    "text": "呢間餐廳唔收服務費，淨係收基本收費。"
+  },
+  {
+    "filename": "sau1fei3-charge-example-2",
+    "id": "sau1fei3-charge-example-2",
+    "text": "入場收費係五十蚊。"
+  },
+  {
+    "filename": "sau1fei3-charge-example-3",
+    "id": "sau1fei3-charge-example-3",
+    "text": "餐廳收費幾多？"
+  },
+  {
+    "filename": "sau1fei3-charge-example-4",
+    "id": "sau1fei3-charge-example-4",
+    "text": "網上訂位通常冇收費。"
+  },
+  {
+    "filename": "seoi2daan6-steamed-egg-custard",
+    "id": "seoi2daan6-steamed-egg-custard",
+    "text": "水蛋"
+  },
+  {
+    "filename": "seoi2daan6-steamed-egg-custard-example-1",
+    "id": "seoi2daan6-steamed-egg-custard-example-1",
+    "text": "我今晚想食水蛋。"
+  },
+  {
+    "filename": "seoi2daan6-steamed-egg-custard-example-2",
+    "id": "seoi2daan6-steamed-egg-custard-example-2",
+    "text": "呢個水蛋好滑嘅。"
+  },
+  {
+    "filename": "seoi2daan6-steamed-egg-custard-example-3",
+    "id": "seoi2daan6-steamed-egg-custard-example-3",
+    "text": "茶餐廳有冇水蛋賣？"
+  },
+  {
+    "filename": "seoi2daan6-steamed-egg-custard-example-4",
+    "id": "seoi2daan6-steamed-egg-custard-example-4",
+    "text": "我鍾意加豉油食水蛋。"
+  },
+  {
+    "filename": "si6jau4wong4caau2min6-soy-sauce-noodles",
+    "id": "si6jau4wong4caau2min6-soy-sauce-noodles",
+    "text": "豉油皇炒麵"
+  },
+  {
+    "filename": "si6jau4wong4caau2min6-soy-sauce-noodles-example-1",
+    "id": "si6jau4wong4caau2min6-soy-sauce-noodles-example-1",
+    "text": "我今日想食豉油皇炒麵。"
+  },
+  {
+    "filename": "si6jau4wong4caau2min6-soy-sauce-noodles-example-2",
+    "id": "si6jau4wong4caau2min6-soy-sauce-noodles-example-2",
+    "text": "呢間餐廳嘅豉油皇炒麵好出名。"
+  },
+  {
+    "filename": "si6jau4wong4caau2min6-soy-sauce-noodles-example-3",
+    "id": "si6jau4wong4caau2min6-soy-sauce-noodles-example-3",
+    "text": "你試過豉油皇炒麵未？"
+  },
+  {
+    "filename": "si6jau4wong4caau2min6-soy-sauce-noodles-example-4",
+    "id": "si6jau4wong4caau2min6-soy-sauce-noodles-example-4",
+    "text": "我哋叫咗兩份豉油皇炒麵。"
+  },
+  {
+    "filename": "si6zap1hin2-black-bean-clams",
+    "id": "si6zap1hin2-black-bean-clams",
+    "text": "豉汁蜆"
+  },
+  {
+    "filename": "si6zap1hin2-black-bean-clams-example-1",
+    "id": "si6zap1hin2-black-bean-clams-example-1",
+    "text": "今晚食飯，試吓豉汁蜆啦。"
+  },
+  {
+    "filename": "si6zap1hin2-black-bean-clams-example-2",
+    "id": "si6zap1hin2-black-bean-clams-example-2",
+    "text": "你鍾意食豉汁蜆定係蒸蜆？"
+  },
+  {
+    "filename": "si6zap1hin2-black-bean-clams-example-3",
+    "id": "si6zap1hin2-black-bean-clams-example-3",
+    "text": "佢哋嘅豉汁蜆真係好味。"
+  },
+  {
+    "filename": "si6zap1hin2-black-bean-clams-example-4",
+    "id": "si6zap1hin2-black-bean-clams-example-4",
+    "text": "我訂咗兩碟豉汁蜆，飲茶用。"
+  },
+  {
+    "filename": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce",
+    "id": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce",
+    "text": "豉汁排骨"
+  },
+  {
+    "filename": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-1",
+    "id": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-1",
+    "text": "我想叫一碟豉汁排骨。"
+  },
+  {
+    "filename": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-2",
+    "id": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-2",
+    "text": "呢間餐廳嘅豉汁排骨好出名。"
+  },
+  {
+    "filename": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-3",
+    "id": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-3",
+    "text": "媽咪整咗豉汁排骨俾我食。"
+  },
+  {
+    "filename": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-4",
+    "id": "si6zap1paai4gwat1-pork-ribs-in-black-bean-sauce-example-4",
+    "text": "我唔鍾意豉汁排骨嘅味道，太鹹喇。"
+  },
+  {
+    "filename": "siu1-roasted",
+    "id": "siu1-roasted",
+    "text": "燒"
+  },
+  {
+    "filename": "siu1-roasted-example-1",
+    "id": "siu1-roasted-example-1",
+    "text": "我今晚想食燒肉飯。"
+  },
+  {
+    "filename": "siu1-roasted-example-2",
+    "id": "siu1-roasted-example-2",
+    "text": "呢間餐廳嘅燒鴨好出名。"
+  },
+  {
+    "filename": "siu1-roasted-example-3",
+    "id": "siu1-roasted-example-3",
+    "text": "廚師喺度燒緊燒雞。"
+  },
+  {
+    "filename": "siu1-roasted-example-4",
+    "id": "siu1-roasted-example-4",
+    "text": "我唔鐘意食太多燒嘅嘢，覺得太油膩。"
+  },
+  {
+    "filename": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice",
+    "id": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice",
+    "text": "燒鴨叉燒飯"
+  },
+  {
+    "filename": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-1",
+    "id": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-1",
+    "text": "我今日午餐食咗碗燒鴨叉燒飯。"
+  },
+  {
+    "filename": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-2",
+    "id": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-2",
+    "text": "呢間餐廳嘅燒鴨叉燒飯幾好味。"
+  },
+  {
+    "filename": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-3",
+    "id": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-3",
+    "text": "阿姨，我要一份燒鴨叉燒飯，多啲飯唔該。"
+  },
+  {
+    "filename": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-4",
+    "id": "siu1aap3caa1siu1faan6-roast-duck-bbq-pork-rice-example-4",
+    "text": "食燒鴨叉燒飯嘅時候記住唔好太急。"
+  },
+  {
+    "filename": "siu1gai1-roast-chicken",
+    "id": "siu1gai1-roast-chicken",
+    "text": "燒雞"
+  },
+  {
+    "filename": "siu1gai1-roast-chicken-example-1",
+    "id": "siu1gai1-roast-chicken-example-1",
+    "text": "呢間餐廳嘅燒雞好好味。"
+  },
+  {
+    "filename": "siu1gai1-roast-chicken-example-2",
+    "id": "siu1gai1-roast-chicken-example-2",
+    "text": "我今晚想叫燒雞飯。"
+  },
+  {
+    "filename": "siu1gai1-roast-chicken-example-3",
+    "id": "siu1gai1-roast-chicken-example-3",
+    "text": "你食過燒雞未？"
+  },
+  {
+    "filename": "siu1gai1-roast-chicken-example-4",
+    "id": "siu1gai1-roast-chicken-example-4",
+    "text": "佢鍾意食燒雞多過炸雞。"
+  },
+  {
+    "filename": "siu1haa1-grilled-prawns",
+    "id": "siu1haa1-grilled-prawns",
+    "text": "燒蝦"
+  },
+  {
+    "filename": "siu1haa1-grilled-prawns-example-1",
+    "id": "siu1haa1-grilled-prawns-example-1",
+    "text": "我想叫一份燒蝦。"
+  },
+  {
+    "filename": "siu1haa1-grilled-prawns-example-2",
+    "id": "siu1haa1-grilled-prawns-example-2",
+    "text": "呢隻燒蝦好新鮮！"
+  },
+  {
+    "filename": "siu1haa1-grilled-prawns-example-3",
+    "id": "siu1haa1-grilled-prawns-example-3",
+    "text": "燒蝦配檸檬汁好味。"
+  },
+  {
+    "filename": "siu1haa1-grilled-prawns-example-4",
+    "id": "siu1haa1-grilled-prawns-example-4",
+    "text": "我媽媽識煮好好味嘅燒蝦。"
+  },
+  {
+    "filename": "siu1juk6-roast-pork",
+    "id": "siu1juk6-roast-pork",
+    "text": "燒肉"
+  },
+  {
+    "filename": "siu1juk6-roast-pork-example-1",
+    "id": "siu1juk6-roast-pork-example-1",
+    "text": "我今晚想食燒肉。"
+  },
+  {
+    "filename": "siu1juk6-roast-pork-example-2",
+    "id": "siu1juk6-roast-pork-example-2",
+    "text": "呢間餐廳嘅燒肉好香脆。"
+  },
+  {
+    "filename": "siu1juk6-roast-pork-example-3",
+    "id": "siu1juk6-roast-pork-example-3",
+    "text": "你鍾意唔鍾意燒肉？"
+  },
+  {
+    "filename": "siu1juk6-roast-pork-example-4",
+    "id": "siu1juk6-roast-pork-example-4",
+    "text": "我訂咗一份燒肉飯。"
+  },
+  {
+    "filename": "siu1juk6faan6-crispy-pork-belly-rice",
+    "id": "siu1juk6faan6-crispy-pork-belly-rice",
+    "text": "燒肉飯"
+  },
+  {
+    "filename": "siu1juk6faan6-crispy-pork-belly-rice-example-1",
+    "id": "siu1juk6faan6-crispy-pork-belly-rice-example-1",
+    "text": "我今日食咗一碗燒肉飯。"
+  },
+  {
+    "filename": "siu1juk6faan6-crispy-pork-belly-rice-example-2",
+    "id": "siu1juk6faan6-crispy-pork-belly-rice-example-2",
+    "text": "你鍾意食燒肉飯定係燒鴨飯？"
+  },
+  {
+    "filename": "siu1juk6faan6-crispy-pork-belly-rice-example-3",
+    "id": "siu1juk6faan6-crispy-pork-belly-rice-example-3",
+    "text": "呢間餐廳嘅燒肉飯好正。"
+  },
+  {
+    "filename": "siu1juk6faan6-crispy-pork-belly-rice-example-4",
+    "id": "siu1juk6faan6-crispy-pork-belly-rice-example-4",
+    "text": "我哋叫咗三碟燒肉飯返去。"
+  },
+  {
+    "filename": "siu1laap6-roast-meats-and-preserved-meats",
+    "id": "siu1laap6-roast-meats-and-preserved-meats",
+    "text": "燒臘"
+  },
+  {
+    "filename": "siu1laap6-roast-meats-and-preserved-meats-example-1",
+    "id": "siu1laap6-roast-meats-and-preserved-meats-example-1",
+    "text": "我今日想食燒臘飯。"
+  },
+  {
+    "filename": "siu1laap6-roast-meats-and-preserved-meats-example-2",
+    "id": "siu1laap6-roast-meats-and-preserved-meats-example-2",
+    "text": "呢間餐廳賣嘅燒臘好正。"
+  },
+  {
+    "filename": "siu1laap6-roast-meats-and-preserved-meats-example-3",
+    "id": "siu1laap6-roast-meats-and-preserved-meats-example-3",
+    "text": "燒臘有燒鴨同燒肉。"
+  },
+  {
+    "filename": "siu1laap6-roast-meats-and-preserved-meats-example-4",
+    "id": "siu1laap6-roast-meats-and-preserved-meats-example-4",
+    "text": "佢每日都買燒臘返屋企食。"
+  },
+  {
+    "filename": "siu1mei6-roast-meats",
+    "id": "siu1mei6-roast-meats",
+    "text": "燒味"
+  },
+  {
+    "filename": "siu1mei6-roast-meats-example-1",
+    "id": "siu1mei6-roast-meats-example-1",
+    "text": "我想食燒味飯。"
+  },
+  {
+    "filename": "siu1mei6-roast-meats-example-2",
+    "id": "siu1mei6-roast-meats-example-2",
+    "text": "呢間餐廳嘅燒味好正。"
+  },
+  {
+    "filename": "siu1mei6-roast-meats-example-3",
+    "id": "siu1mei6-roast-meats-example-3",
+    "text": "你鍾意食燒味嘅邊款？"
+  },
+  {
+    "filename": "siu1mei6-roast-meats-example-4",
+    "id": "siu1mei6-roast-meats-example-4",
+    "text": "老板，畀我一份燒味拼盤。"
+  },
+  {
+    "filename": "siu1ngap6faan6-roast-duck-rice",
+    "id": "siu1ngap6faan6-roast-duck-rice",
+    "text": "燒鴨飯"
+  },
+  {
+    "filename": "siu1ngap6faan6-roast-duck-rice-example-1",
+    "id": "siu1ngap6faan6-roast-duck-rice-example-1",
+    "text": "我今日想食燒鴨飯。"
+  },
+  {
+    "filename": "siu1ngap6faan6-roast-duck-rice-example-2",
+    "id": "siu1ngap6faan6-roast-duck-rice-example-2",
+    "text": "呢間餐廳嘅燒鴨飯好正。"
+  },
+  {
+    "filename": "siu1ngap6faan6-roast-duck-rice-example-3",
+    "id": "siu1ngap6faan6-roast-duck-rice-example-3",
+    "text": "我哋叫咗兩碗燒鴨飯。"
+  },
+  {
+    "filename": "siu1ngap6faan6-roast-duck-rice-example-4",
+    "id": "siu1ngap6faan6-roast-duck-rice-example-4",
+    "text": "你試過佢哋嘅燒鴨飯未？"
+  },
+  {
+    "filename": "soeng1fung1gai1-salt-baked-chicken",
+    "id": "soeng1fung1gai1-salt-baked-chicken",
+    "text": "鹽焗雞"
+  },
+  {
+    "filename": "soeng1fung1gai1-salt-baked-chicken-example-1",
+    "id": "soeng1fung1gai1-salt-baked-chicken-example-1",
+    "text": "我哋今晚食鹽焗雞。"
+  },
+  {
+    "filename": "soeng1fung1gai1-salt-baked-chicken-example-2",
+    "id": "soeng1fung1gai1-salt-baked-chicken-example-2",
+    "text": "呢間餐廳有招牌鹽焗雞。"
+  },
+  {
+    "filename": "soeng1fung1gai1-salt-baked-chicken-example-3",
+    "id": "soeng1fung1gai1-salt-baked-chicken-example-3",
+    "text": "我訂咗一隻鹽焗雞做晚餐。"
+  },
+  {
+    "filename": "soeng1fung1gai1-salt-baked-chicken-example-4",
+    "id": "soeng1fung1gai1-salt-baked-chicken-example-4",
+    "text": "鹽焗雞嘅味道好香。"
+  },
+  {
+    "filename": "soeng1hei1gai1-steamed-chicken-with-ginger",
+    "id": "soeng1hei1gai1-steamed-chicken-with-ginger",
+    "text": "薑蔥雞"
+  },
+  {
+    "filename": "soeng1hei1gai1-steamed-chicken-with-ginger-example-1",
+    "id": "soeng1hei1gai1-steamed-chicken-with-ginger-example-1",
+    "text": "今晚我哋食薑蔥雞。"
+  },
+  {
+    "filename": "soeng1hei1gai1-steamed-chicken-with-ginger-example-2",
+    "id": "soeng1hei1gai1-steamed-chicken-with-ginger-example-2",
+    "text": "呢間餐廳嘅薑蔥雞好正。"
+  },
+  {
+    "filename": "soeng1hei1gai1-steamed-chicken-with-ginger-example-3",
+    "id": "soeng1hei1gai1-steamed-chicken-with-ginger-example-3",
+    "text": "廚師用薑同蔥煮薑蔥雞。"
+  },
+  {
+    "filename": "soeng1hei1gai1-steamed-chicken-with-ginger-example-4",
+    "id": "soeng1hei1gai1-steamed-chicken-with-ginger-example-4",
+    "text": "我想叫一碟薑蔥雞。"
+  },
+  {
+    "filename": "soeng1jap1gai1-soy-sauce-chicken",
+    "id": "soeng1jap1gai1-soy-sauce-chicken",
+    "text": "豉油雞"
+  },
+  {
+    "filename": "soeng1jap1gai1-soy-sauce-chicken-example-1",
+    "id": "soeng1jap1gai1-soy-sauce-chicken-example-1",
+    "text": "我今晚想食豉油雞。"
+  },
+  {
+    "filename": "soeng1jap1gai1-soy-sauce-chicken-example-2",
+    "id": "soeng1jap1gai1-soy-sauce-chicken-example-2",
+    "text": "呢間餐廳嘅豉油雞好出名。"
+  },
+  {
+    "filename": "soeng1jap1gai1-soy-sauce-chicken-example-3",
+    "id": "soeng1jap1gai1-soy-sauce-chicken-example-3",
+    "text": "我哋點咗一隻豉油雞。"
+  },
+  {
+    "filename": "soeng1jap1gai1-soy-sauce-chicken-example-4",
+    "id": "soeng1jap1gai1-soy-sauce-chicken-example-4",
+    "text": "你鍾唔鍾意食豉油雞？"
+  },
+  {
+    "filename": "soeng1ping3-two-item-combo",
+    "id": "soeng1ping3-two-item-combo",
+    "text": "雙拼"
+  },
+  {
+    "filename": "soeng1ping3-two-item-combo-example-1",
+    "id": "soeng1ping3-two-item-combo-example-1",
+    "text": "我想叫個雙拼飯。"
+  },
+  {
+    "filename": "soeng1ping3-two-item-combo-example-2",
+    "id": "soeng1ping3-two-item-combo-example-2",
+    "text": "呢度嘅雙拼好抵食。"
+  },
+  {
+    "filename": "soeng1ping3-two-item-combo-example-3",
+    "id": "soeng1ping3-two-item-combo-example-3",
+    "text": "你想揀邊兩樣做雙拼？"
+  },
+  {
+    "filename": "soeng1ping3-two-item-combo-example-4",
+    "id": "soeng1ping3-two-item-combo-example-4",
+    "text": "我哋今晚叫雙拼方便啲。"
+  },
+  {
+    "filename": "soeng1tong1baak6coi3-garlic-bok-choy",
+    "id": "soeng1tong1baak6coi3-garlic-bok-choy",
+    "text": "蒜蓉白菜"
+  },
+  {
+    "filename": "soeng1tong1baak6coi3-garlic-bok-choy-example-1",
+    "id": "soeng1tong1baak6coi3-garlic-bok-choy-example-1",
+    "text": "我哋今晚食蒜蓉白菜。"
+  },
+  {
+    "filename": "soeng1tong1baak6coi3-garlic-bok-choy-example-2",
+    "id": "soeng1tong1baak6coi3-garlic-bok-choy-example-2",
+    "text": "餐牌上有蒜蓉白菜，你想試下嗎？"
+  },
+  {
+    "filename": "soeng1tong1baak6coi3-garlic-bok-choy-example-3",
+    "id": "soeng1tong1baak6coi3-garlic-bok-choy-example-3",
+    "text": "我唔鍾意食蒜蓉白菜太鹹。"
+  },
+  {
+    "filename": "soeng1tong1baak6coi3-garlic-bok-choy-example-4",
+    "id": "soeng1tong1baak6coi3-garlic-bok-choy-example-4",
+    "text": "媽媽整嘅蒜蓉白菜好好味。"
+  },
+  {
+    "filename": "soeng1tong1coi3sam1-garlic-choy-sum",
+    "id": "soeng1tong1coi3sam1-garlic-choy-sum",
+    "text": "蒜蓉菜心"
+  },
+  {
+    "filename": "soeng1tong1coi3sam1-garlic-choy-sum-example-1",
+    "id": "soeng1tong1coi3sam1-garlic-choy-sum-example-1",
+    "text": "我哋今晚食蒜蓉菜心啦。"
+  },
+  {
+    "filename": "soeng1tong1coi3sam1-garlic-choy-sum-example-2",
+    "id": "soeng1tong1coi3sam1-garlic-choy-sum-example-2",
+    "text": "呢碟蒜蓉菜心好味道。"
+  },
+  {
+    "filename": "soeng1tong1coi3sam1-garlic-choy-sum-example-3",
+    "id": "soeng1tong1coi3sam1-garlic-choy-sum-example-3",
+    "text": "你鍾唔鍾意食蒜蓉菜心？"
+  },
+  {
+    "filename": "soeng1tong1coi3sam1-garlic-choy-sum-example-4",
+    "id": "soeng1tong1coi3sam1-garlic-choy-sum-example-4",
+    "text": "餐廳入面冇蒜蓉菜心喇。"
+  },
+  {
+    "filename": "soeng1tong1dau6miu6-garlic-pea-shoots",
+    "id": "soeng1tong1dau6miu6-garlic-pea-shoots",
+    "text": "蒜蓉豆苗"
+  },
+  {
+    "filename": "soeng1tong1dau6miu6-garlic-pea-shoots-example-1",
+    "id": "soeng1tong1dau6miu6-garlic-pea-shoots-example-1",
+    "text": "我鍾意食蒜蓉豆苗。"
+  },
+  {
+    "filename": "soeng1tong1dau6miu6-garlic-pea-shoots-example-2",
+    "id": "soeng1tong1dau6miu6-garlic-pea-shoots-example-2",
+    "text": "餐廳有冇蒜蓉豆苗？"
+  },
+  {
+    "filename": "soeng1tong1dau6miu6-garlic-pea-shoots-example-3",
+    "id": "soeng1tong1dau6miu6-garlic-pea-shoots-example-3",
+    "text": "佢今晚煮咗蒜蓉豆苗。"
+  },
+  {
+    "filename": "soeng1tong1dau6miu6-garlic-pea-shoots-example-4",
+    "id": "soeng1tong1dau6miu6-garlic-pea-shoots-example-4",
+    "text": "蒜蓉豆苗好夠味。"
+  },
+  {
+    "filename": "soeng1tong1gaai3laan4-garlic-gai-lan",
+    "id": "soeng1tong1gaai3laan4-garlic-gai-lan",
+    "text": "蒜蓉芥蘭"
+  },
+  {
+    "filename": "soeng1tong1gaai3laan4-garlic-gai-lan-example-1",
+    "id": "soeng1tong1gaai3laan4-garlic-gai-lan-example-1",
+    "text": "我哋今晚食蒜蓉芥蘭，好唔好？"
+  },
+  {
+    "filename": "soeng1tong1gaai3laan4-garlic-gai-lan-example-2",
+    "id": "soeng1tong1gaai3laan4-garlic-gai-lan-example-2",
+    "text": "蒜蓉芥蘭係我最鍾意嘅蔬菜。"
+  },
+  {
+    "filename": "soeng1tong1gaai3laan4-garlic-gai-lan-example-3",
+    "id": "soeng1tong1gaai3laan4-garlic-gai-lan-example-3",
+    "text": "呢度嘅蒜蓉芥蘭好新鮮。"
+  },
+  {
+    "filename": "soeng1tong1gaai3laan4-garlic-gai-lan-example-4",
+    "id": "soeng1tong1gaai3laan4-garlic-gai-lan-example-4",
+    "text": "我唔食蒜蓉芥蘭，因為我唔鍾意大蒜。"
+  },
+  {
+    "filename": "soeng1tong1gai1-steamed-chicken",
+    "id": "soeng1tong1gai1-steamed-chicken",
+    "text": "清蒸雞"
+  },
+  {
+    "filename": "soeng1tong1gai1-steamed-chicken-example-1",
+    "id": "soeng1tong1gai1-steamed-chicken-example-1",
+    "text": "我今晚想食清蒸雞。"
+  },
+  {
+    "filename": "soeng1tong1gai1-steamed-chicken-example-2",
+    "id": "soeng1tong1gai1-steamed-chicken-example-2",
+    "text": "飯店有唔同嘅清蒸雞款式。"
+  },
+  {
+    "filename": "soeng1tong1gai1-steamed-chicken-example-3",
+    "id": "soeng1tong1gai1-steamed-chicken-example-3",
+    "text": "清蒸雞好健康，唔油膩。"
+  },
+  {
+    "filename": "soeng1tong1gai1-steamed-chicken-example-4",
+    "id": "soeng1tong1gai1-steamed-chicken-example-4",
+    "text": "你想點清蒸雞？帶薑絲定係醬油？"
+  },
+  {
+    "filename": "soeng1tong1jyu4daan2-fish-ball-soup",
+    "id": "soeng1tong1jyu4daan2-fish-ball-soup",
+    "text": "魚蛋湯"
+  },
+  {
+    "filename": "soeng1tong1jyu4daan2-fish-ball-soup-example-1",
+    "id": "soeng1tong1jyu4daan2-fish-ball-soup-example-1",
+    "text": "我想飲碗熱辣辣嘅魚蛋湯。"
+  },
+  {
+    "filename": "soeng1tong1jyu4daan2-fish-ball-soup-example-2",
+    "id": "soeng1tong1jyu4daan2-fish-ball-soup-example-2",
+    "text": "呢度嘅魚蛋湯好好味。"
+  },
+  {
+    "filename": "soeng1tong1jyu4daan2-fish-ball-soup-example-3",
+    "id": "soeng1tong1jyu4daan2-fish-ball-soup-example-3",
+    "text": "魚蛋湯幾錢？"
+  },
+  {
+    "filename": "soeng1tong1jyu4daan2-fish-ball-soup-example-4",
+    "id": "soeng1tong1jyu4daan2-fish-ball-soup-example-4",
+    "text": "中午我買咗碗魚蛋湯。"
+  },
+  {
+    "filename": "soeng1tong1paai4gwat1-soup-pork-ribs",
+    "id": "soeng1tong1paai4gwat1-soup-pork-ribs",
+    "text": "排骨湯"
+  },
+  {
+    "filename": "soeng1tong1paai4gwat1-soup-pork-ribs-example-1",
+    "id": "soeng1tong1paai4gwat1-soup-pork-ribs-example-1",
+    "text": "我今晚想飲排骨湯。"
+  },
+  {
+    "filename": "soeng1tong1paai4gwat1-soup-pork-ribs-example-2",
+    "id": "soeng1tong1paai4gwat1-soup-pork-ribs-example-2",
+    "text": "呢間餐廳嘅排骨湯好好味。"
+  },
+  {
+    "filename": "soeng1tong1paai4gwat1-soup-pork-ribs-example-3",
+    "id": "soeng1tong1paai4gwat1-soup-pork-ribs-example-3",
+    "text": "師傅，你加多啲排骨湯啦！"
+  },
+  {
+    "filename": "soeng1tong1paai4gwat1-soup-pork-ribs-example-4",
+    "id": "soeng1tong1paai4gwat1-soup-pork-ribs-example-4",
+    "text": "排骨湯配白飯最正。"
+  },
+  {
+    "filename": "sung3-side-dish",
+    "id": "sung3-side-dish",
+    "text": "餸"
+  },
+  {
+    "filename": "sung3-side-dish-example-1",
+    "id": "sung3-side-dish-example-1",
+    "text": "今晚我哋試下新嘅餸。"
+  },
+  {
+    "filename": "sung3-side-dish-example-2",
+    "id": "sung3-side-dish-example-2",
+    "text": "呢度嘅餸好Fresh，好味道。"
+  },
+  {
+    "filename": "sung3-side-dish-example-3",
+    "id": "sung3-side-dish-example-3",
+    "text": "我最鍾意食辣味餸。"
+  },
+  {
+    "filename": "sung3-side-dish-example-4",
+    "id": "sung3-side-dish-example-4",
+    "text": "你要幾多碟餸？"
+  },
+  {
+    "filename": "tim1cuk1zyu1-sweet-sour-pork",
+    "id": "tim1cuk1zyu1-sweet-sour-pork",
+    "text": "咕嚕肉"
+  },
+  {
+    "filename": "tim1cuk1zyu1-sweet-sour-pork-example-1",
+    "id": "tim1cuk1zyu1-sweet-sour-pork-example-1",
+    "text": "我今晚想食咕嚕肉。"
+  },
+  {
+    "filename": "tim1cuk1zyu1-sweet-sour-pork-example-2",
+    "id": "tim1cuk1zyu1-sweet-sour-pork-example-2",
+    "text": "呢間餐廳嘅咕嚕肉好出名。"
+  },
+  {
+    "filename": "tim1cuk1zyu1-sweet-sour-pork-example-3",
+    "id": "tim1cuk1zyu1-sweet-sour-pork-example-3",
+    "text": "你鍾意唔鍾意食咕嚕肉？"
+  },
+  {
+    "filename": "tim1cuk1zyu1-sweet-sour-pork-example-4",
+    "id": "tim1cuk1zyu1-sweet-sour-pork-example-4",
+    "text": "服務員，請畀我一碟咕嚕肉。"
+  },
+  {
+    "filename": "tim4-sweet",
+    "id": "tim4-sweet",
+    "text": "甜"
+  },
+  {
+    "filename": "tim4-sweet-example-1",
+    "id": "tim4-sweet-example-1",
+    "text": "呢個蛋糕好甜。"
+  },
+  {
+    "filename": "tim4-sweet-example-2",
+    "id": "tim4-sweet-example-2",
+    "text": "我鍾意飲甜茶。"
+  },
+  {
+    "filename": "tim4-sweet-example-3",
+    "id": "tim4-sweet-example-3",
+    "text": "佢好甜，好容易相處。"
+  },
+  {
+    "filename": "tim4-sweet-example-4",
+    "id": "tim4-sweet-example-4",
+    "text": "飯後我哋食甜品。"
+  },
+  {
+    "filename": "tong1-soup",
+    "id": "tong1-soup",
+    "text": "湯"
+  },
+  {
+    "filename": "tong1-soup-example-1",
+    "id": "tong1-soup-example-1",
+    "text": "我昨晚飲咗碗湯，好滋味。"
+  },
+  {
+    "filename": "tong1-soup-example-2",
+    "id": "tong1-soup-example-2",
+    "text": "呢間餐廳嘅湯每日都唔同。"
+  },
+  {
+    "filename": "tong1-soup-example-3",
+    "id": "tong1-soup-example-3",
+    "text": "你想飲雞湯定魚湯？"
+  },
+  {
+    "filename": "tong1-soup-example-4",
+    "id": "tong1-soup-example-4",
+    "text": "食飯前飲啲熱湯會舒服啲。"
+  },
+  {
+    "filename": "tong1min6-soup-noodles",
+    "id": "tong1min6-soup-noodles",
+    "text": "湯麵"
+  },
+  {
+    "filename": "tong1min6-soup-noodles-example-1",
+    "id": "tong1min6-soup-noodles-example-1",
+    "text": "我今晚想食湯麵。"
+  },
+  {
+    "filename": "tong1min6-soup-noodles-example-2",
+    "id": "tong1min6-soup-noodles-example-2",
+    "text": "呢間餐廳嘅湯麵好好味。"
+  },
+  {
+    "filename": "tong1min6-soup-noodles-example-3",
+    "id": "tong1min6-soup-noodles-example-3",
+    "text": "你想要牛肉湯麵定係豬肉湯麵？"
+  },
+  {
+    "filename": "tong1min6-soup-noodles-example-4",
+    "id": "tong1min6-soup-noodles-example-4",
+    "text": "我哋今晚食湯麵，因為好凍。"
+  },
+  {
+    "filename": "tung4tong4-dine-in",
+    "id": "tung4tong4-dine-in",
+    "text": "堂食"
+  },
+  {
+    "filename": "tung4tong4-dine-in-example-1",
+    "id": "tung4tong4-dine-in-example-1",
+    "text": "你想堂食定外賣呀？"
+  },
+  {
+    "filename": "tung4tong4-dine-in-example-2",
+    "id": "tung4tong4-dine-in-example-2",
+    "text": "呢間餐廳日日堂食都滿座。"
+  },
+  {
+    "filename": "tung4tong4-dine-in-example-3",
+    "id": "tung4tong4-dine-in-example-3",
+    "text": "堂食嘅話，請喺枱上等。"
+  },
+  {
+    "filename": "tung4tong4-dine-in-example-4",
+    "id": "tung4tong4-dine-in-example-4",
+    "text": "我哋今晚想堂食，有冇位？"
+  },
+  {
+    "filename": "wun1tan1min6-wonton-noodles",
+    "id": "wun1tan1min6-wonton-noodles",
+    "text": "雲吞麵"
+  },
+  {
+    "filename": "wun1tan1min6-wonton-noodles-example-1",
+    "id": "wun1tan1min6-wonton-noodles-example-1",
+    "text": "我今日食咗碗雲吞麵，好開心。"
+  },
+  {
+    "filename": "wun1tan1min6-wonton-noodles-example-2",
+    "id": "wun1tan1min6-wonton-noodles-example-2",
+    "text": "呢間餐廳嘅雲吞麵好好味。"
+  },
+  {
+    "filename": "wun1tan1min6-wonton-noodles-example-3",
+    "id": "wun1tan1min6-wonton-noodles-example-3",
+    "text": "你鍾唔鍾意食雲吞麵？"
+  },
+  {
+    "filename": "wun1tan1min6-wonton-noodles-example-4",
+    "id": "wun1tan1min6-wonton-noodles-example-4",
+    "text": "老闆，幫我加碗雲吞麵。"
+  },
+  {
+    "filename": "zaa3-fried",
+    "id": "zaa3-fried",
+    "text": "炸"
+  },
+  {
+    "filename": "zaa3-fried-example-1",
+    "id": "zaa3-fried-example-1",
+    "text": "我鍾意食炸雞。"
+  },
+  {
+    "filename": "zaa3-fried-example-2",
+    "id": "zaa3-fried-example-2",
+    "text": "呢度嘅魚都係炸嘅，好香口。"
+  },
+  {
+    "filename": "zaa3-fried-example-3",
+    "id": "zaa3-fried-example-3",
+    "text": "你可以幫我炸啲薯條嗎？"
+  },
+  {
+    "filename": "zaa3-fried-example-4",
+    "id": "zaa3-fried-example-4",
+    "text": "炸嘢食要小心啲，唔好畀油濺親。"
+  },
+  {
+    "filename": "zaa3gai1wing1-fried-chicken-wings",
+    "id": "zaa3gai1wing1-fried-chicken-wings",
+    "text": "炸雞翼"
+  },
+  {
+    "filename": "zaa3gai1wing1-fried-chicken-wings-example-1",
+    "id": "zaa3gai1wing1-fried-chicken-wings-example-1",
+    "text": "呢度嘅炸雞翼好香。"
+  },
+  {
+    "filename": "zaa3gai1wing1-fried-chicken-wings-example-2",
+    "id": "zaa3gai1wing1-fried-chicken-wings-example-2",
+    "text": "我想叫一份炸雞翼。"
+  },
+  {
+    "filename": "zaa3gai1wing1-fried-chicken-wings-example-3",
+    "id": "zaa3gai1wing1-fried-chicken-wings-example-3",
+    "text": "炸雞翼係我最鍾意嘅小食。"
+  },
+  {
+    "filename": "zaa3gai1wing1-fried-chicken-wings-example-4",
+    "id": "zaa3gai1wing1-fried-chicken-wings-example-4",
+    "text": "餐廳有冇賣炸雞翼？"
+  },
+  {
+    "filename": "zaa3jim4haa1-salt-pepper-prawns",
+    "id": "zaa3jim4haa1-salt-pepper-prawns",
+    "text": "椒鹽蝦"
+  },
+  {
+    "filename": "zaa3jim4haa1-salt-pepper-prawns-example-1",
+    "id": "zaa3jim4haa1-salt-pepper-prawns-example-1",
+    "text": "我今晚想食椒鹽蝦。"
+  },
+  {
+    "filename": "zaa3jim4haa1-salt-pepper-prawns-example-2",
+    "id": "zaa3jim4haa1-salt-pepper-prawns-example-2",
+    "text": "呢間餐廳嘅椒鹽蝦好正！"
+  },
+  {
+    "filename": "zaa3jim4haa1-salt-pepper-prawns-example-3",
+    "id": "zaa3jim4haa1-salt-pepper-prawns-example-3",
+    "text": "椒鹽蝦係我最鍾意嘅海鮮菜。"
+  },
+  {
+    "filename": "zaa3jim4haa1-salt-pepper-prawns-example-4",
+    "id": "zaa3jim4haa1-salt-pepper-prawns-example-4",
+    "text": "我哋叫多份椒鹽蝦啦。"
+  },
+  {
+    "filename": "zaa3jim4jau4jyu4-salt-pepper-squid",
+    "id": "zaa3jim4jau4jyu4-salt-pepper-squid",
+    "text": "椒鹽魷魚"
+  },
+  {
+    "filename": "zaa3jim4jau4jyu4-salt-pepper-squid-example-1",
+    "id": "zaa3jim4jau4jyu4-salt-pepper-squid-example-1",
+    "text": "我想叫一份椒鹽魷魚。"
+  },
+  {
+    "filename": "zaa3jim4jau4jyu4-salt-pepper-squid-example-2",
+    "id": "zaa3jim4jau4jyu4-salt-pepper-squid-example-2",
+    "text": "呢間店嘅椒鹽魷魚好好味。"
+  },
+  {
+    "filename": "zaa3jim4jau4jyu4-salt-pepper-squid-example-3",
+    "id": "zaa3jim4jau4jyu4-salt-pepper-squid-example-3",
+    "text": "椒鹽魷魚炸得好香口。"
+  },
+  {
+    "filename": "zaa3jim4jau4jyu4-salt-pepper-squid-example-4",
+    "id": "zaa3jim4jau4jyu4-salt-pepper-squid-example-4",
+    "text": "你想唔想試下椒鹽魷魚？"
+  },
+  {
+    "filename": "zaa3jyu4liu4-fried-fish-fillet",
+    "id": "zaa3jyu4liu4-fried-fish-fillet",
+    "text": "炸魚柳"
+  },
+  {
+    "filename": "zaa3jyu4liu4-fried-fish-fillet-example-1",
+    "id": "zaa3jyu4liu4-fried-fish-fillet-example-1",
+    "text": "我今日想食炸魚柳。"
+  },
+  {
+    "filename": "zaa3jyu4liu4-fried-fish-fillet-example-2",
+    "id": "zaa3jyu4liu4-fried-fish-fillet-example-2",
+    "text": "呢碟炸魚柳好香脆。"
+  },
+  {
+    "filename": "zaa3jyu4liu4-fried-fish-fillet-example-3",
+    "id": "zaa3jyu4liu4-fried-fish-fillet-example-3",
+    "text": "你鍾意炸魚柳定炸雞翼多啲？"
+  },
+  {
+    "filename": "zaa3jyu4liu4-fried-fish-fillet-example-4",
+    "id": "zaa3jyu4liu4-fried-fish-fillet-example-4",
+    "text": "佢哋個套餐有炸魚柳同薯條。"
+  },
+  {
+    "filename": "zaa3zyu1paai4gwat1-fried-pork-ribs",
+    "id": "zaa3zyu1paai4gwat1-fried-pork-ribs",
+    "text": "炸排骨"
+  },
+  {
+    "filename": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-1",
+    "id": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-1",
+    "text": "我今晚想食炸排骨。"
+  },
+  {
+    "filename": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-2",
+    "id": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-2",
+    "text": "呢間餐廳嘅炸排骨好好味。"
+  },
+  {
+    "filename": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-3",
+    "id": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-3",
+    "text": "你識唔識整炸排骨?"
+  },
+  {
+    "filename": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-4",
+    "id": "zaa3zyu1paai4gwat1-fried-pork-ribs-example-4",
+    "text": "佢叫咗一碟炸排骨做晚餐。"
+  },
+  {
+    "filename": "zeon2ning4caa4-hot-lemon-tea",
+    "id": "zeon2ning4caa4-hot-lemon-tea",
+    "text": "熱檸茶"
+  },
+  {
+    "filename": "zeon2ning4caa4-hot-lemon-tea-example-1",
+    "id": "zeon2ning4caa4-hot-lemon-tea-example-1",
+    "text": "我想飲一杯熱檸茶。"
+  },
+  {
+    "filename": "zeon2ning4caa4-hot-lemon-tea-example-2",
+    "id": "zeon2ning4caa4-hot-lemon-tea-example-2",
+    "text": "熱檸茶好適合冬天飲。"
+  },
+  {
+    "filename": "zeon2ning4caa4-hot-lemon-tea-example-3",
+    "id": "zeon2ning4caa4-hot-lemon-tea-example-3",
+    "text": "呢間餐廳嘅熱檸茶好出名。"
+  },
+  {
+    "filename": "zeon2ning4caa4-hot-lemon-tea-example-4",
+    "id": "zeon2ning4caa4-hot-lemon-tea-example-4",
+    "text": "我要一杯熱檸茶，唔好太甜。"
+  },
+  {
+    "filename": "zeon3zyu1paai4gwat1-pan-fried-ribs",
+    "id": "zeon3zyu1paai4gwat1-pan-fried-ribs",
+    "text": "煎排骨"
+  },
+  {
+    "filename": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-1",
+    "id": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-1",
+    "text": "我今晚想食煎排骨。"
+  },
+  {
+    "filename": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-2",
+    "id": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-2",
+    "text": "呢度嘅煎排骨好好味。"
+  },
+  {
+    "filename": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-3",
+    "id": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-3",
+    "text": "你試過煎排骨未？"
+  },
+  {
+    "filename": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-4",
+    "id": "zeon3zyu1paai4gwat1-pan-fried-ribs-example-4",
+    "text": "我想叫碟煎排骨。"
+  },
+  {
+    "filename": "zung1zyu1jung4-steamed-minced-pork",
+    "id": "zung1zyu1jung4-steamed-minced-pork",
+    "text": "蒸豬肉餅"
+  },
+  {
+    "filename": "zung1zyu1jung4-steamed-minced-pork-example-1",
+    "id": "zung1zyu1jung4-steamed-minced-pork-example-1",
+    "text": "我今晚想食蒸豬肉餅。"
+  },
+  {
+    "filename": "zung1zyu1jung4-steamed-minced-pork-example-2",
+    "id": "zung1zyu1jung4-steamed-minced-pork-example-2",
+    "text": "你試過呢個蒸豬肉餅未？"
+  },
+  {
+    "filename": "zung1zyu1jung4-steamed-minced-pork-example-3",
+    "id": "zung1zyu1jung4-steamed-minced-pork-example-3",
+    "text": "餐牌入面有蒸豬肉餅。"
+  },
+  {
+    "filename": "zung1zyu1jung4-steamed-minced-pork-example-4",
+    "id": "zung1zyu1jung4-steamed-minced-pork-example-4",
+    "text": "廚師整嘅蒸豬肉餅好好味。"
+  },
+  {
+    "filename": "zung2tong1min6-mixed-soup-noodles",
+    "id": "zung2tong1min6-mixed-soup-noodles",
+    "text": "雜湯麵"
+  },
+  {
+    "filename": "zung2tong1min6-mixed-soup-noodles-example-1",
+    "id": "zung2tong1min6-mixed-soup-noodles-example-1",
+    "text": "我今晚想食雜湯麵。"
+  },
+  {
+    "filename": "zung2tong1min6-mixed-soup-noodles-example-2",
+    "id": "zung2tong1min6-mixed-soup-noodles-example-2",
+    "text": "呢間餐廳嘅雜湯麵好出名。"
+  },
+  {
+    "filename": "zung2tong1min6-mixed-soup-noodles-example-3",
+    "id": "zung2tong1min6-mixed-soup-noodles-example-3",
+    "text": "你想飲咩？我叫碗雜湯麵。"
+  },
+  {
+    "filename": "zung2tong1min6-mixed-soup-noodles-example-4",
+    "id": "zung2tong1min6-mixed-soup-noodles-example-4",
+    "text": "雜湯麵入面有好多配料。"
+  },
+  {
+    "filename": "zyu1hung4-sweet-braised-pork",
+    "id": "zyu1hung4-sweet-braised-pork",
+    "text": "紅燒肉"
+  },
+  {
+    "filename": "zyu1hung4-sweet-braised-pork-example-1",
+    "id": "zyu1hung4-sweet-braised-pork-example-1",
+    "text": "我今晚想食紅燒肉。"
+  },
+  {
+    "filename": "zyu1hung4-sweet-braised-pork-example-2",
+    "id": "zyu1hung4-sweet-braised-pork-example-2",
+    "text": "呢間餐廳嘅紅燒肉好好味。"
+  },
+  {
+    "filename": "zyu1hung4-sweet-braised-pork-example-3",
+    "id": "zyu1hung4-sweet-braised-pork-example-3",
+    "text": "阿媽整咗一碟紅燒肉畀我。"
+  },
+  {
+    "filename": "zyu1hung4-sweet-braised-pork-example-4",
+    "id": "zyu1hung4-sweet-braised-pork-example-4",
+    "text": "晚餐可唔可以有紅燒肉？"
+  },
+  {
+    "filename": "zyu1paa4-pork-chop",
+    "id": "zyu1paa4-pork-chop",
+    "text": "豬扒"
+  },
+  {
+    "filename": "zyu1paa4-pork-chop-example-1",
+    "id": "zyu1paa4-pork-chop-example-1",
+    "text": "我今晚想食煎豬扒。"
+  },
+  {
+    "filename": "zyu1paa4-pork-chop-example-2",
+    "id": "zyu1paa4-pork-chop-example-2",
+    "text": "呢間餐廳嘅豬扒好好味。"
+  },
+  {
+    "filename": "zyu1paa4-pork-chop-example-3",
+    "id": "zyu1paa4-pork-chop-example-3",
+    "text": "我哋點咗炸豬扒同炒飯。"
+  },
+  {
+    "filename": "zyu1paa4-pork-chop-example-4",
+    "id": "zyu1paa4-pork-chop-example-4",
+    "text": "阿媽煮咗一碟豬扒飯。"
   }
 ]
