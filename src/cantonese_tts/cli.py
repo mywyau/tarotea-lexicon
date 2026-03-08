@@ -34,7 +34,7 @@ def run():
             continue
 
         if args.dry_run:
-            print(f"[DRY] {text} → {out}")
+            print(f"[DRY] {filename} → {out}")
         else:
             generate_audio(text, out)
 

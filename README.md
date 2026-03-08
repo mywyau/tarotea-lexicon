@@ -87,13 +87,14 @@ ffmpeg -i co5-sit-example-2.mp3 \
 
 ### Download and back up locally cloudflare r2 storage 
 
-
+### Sync S3 Audio
 ```
 aws s3 sync s3://tarotea-content ./r2-backup \
   --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
   --profile r2
 ```
 
+### Copy words from local directory to S3 cloudflare
 ```
 aws s3 cp ./content/words \
 s3://tarotea-content/words \
@@ -102,6 +103,7 @@ s3://tarotea-content/words \
 --profile r2
 ```
 
+### Copy audio from local directory to S3 cloudflare
 ```
 aws s3 cp ./audio/words \
 s3://tarotea-content/audio \
@@ -110,9 +112,18 @@ s3://tarotea-content/audio \
 --profile r2
 ```
 
+### Find audio files longer than 10s
+```
+find audio/words -type f -name "*.mp3" -print0 |
+while IFS= read -r -d '' file; do
+  duration=$(ffprobe -v error -show_entries format=duration -of default=nk=1:nw=1 "$file")
+  if awk "BEGIN {exit !($duration > 10)}"; then
+    echo "TOO LONG: $file -> ${duration}s"
+  fi
+done
+```
 
 ### Generate audio file names and generate audio
-
 
 # 1. Generate audio resource list
 python scripts/generate_audio_resources.py

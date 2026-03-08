@@ -1,0 +1,66 @@
+{
+  "id": "mun4-door",
+  "word": "門",
+  "jyutping": "mun4",
+  "meaning": "door",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '門' refers to a door, which is a physical object used to open or close an entrance.",
+    "'門' can be used to talk about doors of rooms, houses, buildings, or even gates.",
+    "In Cantonese, '門' is commonly used as a noun, and it can be combined with other words to specify types of doors, like '房門' (room door).",
+    "You can use '開門' (open the door) or '關門' (close the door) to describe the actions related to doors.",
+    "It is often used in simple everyday sentences to indicate entering or leaving a space, like '你開門啦' (You open the door)."
+  ],
+  "examples": [
+    {
+      "id": "mun4-door-example-1",
+      "sentence": "我去開門。",
+      "jyutping": "ngo5 heoi3 hoi1 mun4",
+      "meaning": "I am going to open the door."
+    },
+    {
+      "id": "mun4-door-example-2",
+      "sentence": "房門已經關咗。",
+      "jyutping": "fong4 mun4 ji5 ging1 gwaan1 zo2",
+      "meaning": "The room door is already closed."
+    },
+    {
+      "id": "mun4-door-example-3",
+      "sentence": "請問洗手間喺邊個門？",
+      "jyutping": "cing2 man6 sai2 sau2 gaan1 hai2 bin1 go3 mun4",
+      "meaning": "Excuse me, which door is the bathroom?"
+    },
+    {
+      "id": "mun4-door-example-4",
+      "sentence": "爆風時要關好門。",
+      "jyutping": "baau3 fung1 si4 jiu3 gwaan1 hou2 mun4",
+      "meaning": "During a storm, you need to close the door well."
+    }
+  ],
+  "audio": {
+    "word": "mun4-door.mp3",
+    "examples": [
+      "mun4-door-example-1.mp3",
+      "mun4-door-example-2.mp3",
+      "mun4-door-example-3.mp3",
+      "mun4-door-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "furniture",
+    "home",
+    "bedroom",
+    "everyday",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "窗 (window)",
+    "櫃 (cabinet)",
+    "床 (bed)",
+    "鎖 (lock)",
+    "鑰匙 (key)"
+  ]
+}

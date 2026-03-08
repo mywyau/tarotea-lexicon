@@ -1,0 +1,66 @@
+{
+  "id": "coeng1-window",
+  "word": "窗",
+  "jyutping": "coeng1",
+  "meaning": "window",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 窗 (coeng1) is used as a noun meaning 'window'.",
+    "窗 can be used to refer to any type of window in a house, car, or building.",
+    "It is often combined with measure words, like '一個窗' (jat1 go3 coeng1) means 'one window'.",
+    "You can use it in phrases to describe actions involving windows, such as '開窗' (hoi1 coeng1) meaning 'to open the window'.",
+    "窗 is a countable noun and can be used in questions and descriptions about visibility or ventilation."
+  ],
+  "examples": [
+    {
+      "id": "coeng1-window-example-1",
+      "sentence": "我開咗個窗。",
+      "jyutping": "ngo5 hoi1 zo2 go3 coeng1.",
+      "meaning": "I opened the window."
+    },
+    {
+      "id": "coeng1-window-example-2",
+      "sentence": "呢個房有三個窗。",
+      "jyutping": "ni1 go3 fong4 jau5 saam1 go3 coeng1.",
+      "meaning": "This room has three windows."
+    },
+    {
+      "id": "coeng1-window-example-3",
+      "sentence": "窗外有好多樹。",
+      "jyutping": "coeng1 ngoi6 jau5 hou2 do1 syu6.",
+      "meaning": "There are a lot of trees outside the window."
+    },
+    {
+      "id": "coeng1-window-example-4",
+      "sentence": "你可唔可以關窗？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 gwaan1 coeng1?",
+      "meaning": "Can you close the window?"
+    }
+  ],
+  "audio": {
+    "word": "coeng1-window.mp3",
+    "examples": [
+      "coeng1-window-example-1.mp3",
+      "coeng1-window-example-2.mp3",
+      "coeng1-window-example-3.mp3",
+      "coeng1-window-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "furniture",
+    "home",
+    "bedroom",
+    "household",
+    "window",
+    "level-1"
+  ],
+  "related": [
+    "門 (mun4) - door",
+    "枱 (toi2) - table",
+    "床 (cong4) - bed",
+    "燈 (dang1) - lamp",
+    "簾 (lim4) - curtain"
+  ]
+}

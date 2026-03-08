@@ -1,0 +1,66 @@
+{
+  "id": "sai2ji1gei1-washing-machine",
+  "word": "洗衣機",
+  "jyutping": "sai2 ji1 gei1",
+  "meaning": "washing machine",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "洗衣機 is a noun used to refer to the appliance for washing clothes automatically.",
+    "You can use 洗衣機 to indicate the device in your home that cleans laundry.",
+    "It often appears before classifiers like 部 (bou6) when counting, e.g. 一部洗衣機.",
+    "In sentences, it can be the subject or object, for example: 我新買咗部洗衣機 (I just bought a washing machine).",
+    "It can also be combined with adjectives or verbs, e.g. 壞咗嘅洗衣機 (broken washing machine)."
+  ],
+  "examples": [
+    {
+      "id": "sai2ji1gei1-washing-machine-example-1",
+      "sentence": "我哋嘅洗衣機壞咗，要修理。",
+      "jyutping": "ngo5 dei6 ge3 sai2 ji1 gei1 waai6 zo2, jiu3 sau1 lei5.",
+      "meaning": "Our washing machine is broken and needs repair."
+    },
+    {
+      "id": "sai2ji1gei1-washing-machine-example-2",
+      "sentence": "屋企新買咗部洗衣機，好方便。",
+      "jyutping": "uk1 kei2 san1 maai5 zo2 bou6 sai2 ji1 gei1, hou2 fong1 bin6.",
+      "meaning": "We just bought a new washing machine at home; it's very convenient."
+    },
+    {
+      "id": "sai2ji1gei1-washing-machine-example-3",
+      "sentence": "我用洗衣機洗衫，好快完成。",
+      "jyutping": "ngo5 jung6 sai2 ji1 gei1 sai2 saam1, hou2 faai3 jyun4 sing4.",
+      "meaning": "I use the washing machine to wash clothes; it finishes quickly."
+    },
+    {
+      "id": "sai2ji1gei1-washing-machine-example-4",
+      "sentence": "洗衣機入面有好多水，唔好打開。",
+      "jyutping": "sai2 ji1 gei1 jap6 min6 jau5 hou2 do1 seoi2, m4 hou2 daa2 hoi1.",
+      "meaning": "There's a lot of water inside the washing machine; don't open it."
+    }
+  ],
+  "audio": {
+    "word": "sai2ji1gei1-washing-machine.mp3",
+    "examples": [
+      "sai2ji1gei1-washing-machine-example-1.mp3",
+      "sai2ji1gei1-washing-machine-example-2.mp3",
+      "sai2ji1gei1-washing-machine-example-3.mp3",
+      "sai2ji1gei1-washing-machine-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "appliance",
+    "home",
+    "laundry",
+    "kitchen",
+    "daily use",
+    "level-1"
+  ],
+  "related": [
+    "烘乾機",
+    "電冰箱",
+    "微波爐",
+    "雪櫃",
+    "吸塵機"
+  ]
+}
