@@ -1,0 +1,66 @@
+{
+  "id": "ji2-chair",
+  "word": "椅",
+  "jyutping": "ji2",
+  "meaning": "chair",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "椅 is a noun used to refer to a chair or seat, typically a single piece of furniture for sitting.",
+    "You can use 椅 to specify different kinds of chairs by adding adjectives or classifiers.",
+    "椅 can appear in singular or plural form, usually counted with 個 (go3) as a measure word.",
+    "It can be combined with other words to mean specific chairs, like 書椅 (desk chair).",
+    "椅 is common when talking about furniture arrangements or asking someone to sit."
+  ],
+  "examples": [
+    {
+      "id": "ji2-chair-example-1",
+      "sentence": "呢張椅好舒適。",
+      "jyutping": "ni1 zoeng1 ji2 hou2 syu1 sik1.",
+      "meaning": "This chair is very comfortable."
+    },
+    {
+      "id": "ji2-chair-example-2",
+      "sentence": "請坐低喺張椅上。",
+      "jyutping": "cing2 co5 dai1 hai2 zoeng1 ji2 soeng6.",
+      "meaning": "Please sit down on the chair."
+    },
+    {
+      "id": "ji2-chair-example-3",
+      "sentence": "屋企冇多張椅。",
+      "jyutping": "uk1 kei2 mou5 do1 zoeng1 ji2.",
+      "meaning": "There are not many chairs at home."
+    },
+    {
+      "id": "ji2-chair-example-4",
+      "sentence": "佢買咗一張紅色嘅椅。",
+      "jyutping": "keoi5 maai5 zo2 jat1 zoeng1 hung4 sik1 ge3 ji2.",
+      "meaning": "He bought a red chair."
+    }
+  ],
+  "audio": {
+    "word": "ji2-chair.mp3",
+    "examples": [
+      "ji2-chair-example-1.mp3",
+      "ji2-chair-example-2.mp3",
+      "ji2-chair-example-3.mp3",
+      "ji2-chair-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic",
+    "furniture",
+    "home",
+    "seat",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "梳化",
+    "桌",
+    "櫃",
+    "凳",
+    "床"
+  ]
+}

@@ -3,41 +3,63 @@
   "word": "開心",
   "jyutping": "hoi1 sam1",
   "meaning": "happy",
-
-  "pos": ["adjective"],
-
-  "usage": [
-    "Used to describe happiness or feeling pleased",
-    "Very common in daily speech"
+  "pos": [
+    "adjective"
   ],
-
+  "usage": [
+    "Hoi1 sam1 is used to describe the feeling of happiness.",
+    "It can be used to talk about your own feelings or someone else's.",
+    "Hoi1 sam1 can be placed after the subject and verb to describe a state, e.g., 我好開心.",
+    "You can use hoi1 sam1 with verbs like 覺得 (gok3 dak1) to say 'feel happy'.",
+    "Hoi1 sam1 is a common adjective in casual spoken Cantonese."
+  ],
   "examples": [
     {
       "id": "hoi1sam1-happy-example-1",
-      "sentence": "我好開心。",
-      "jyutping": "ngo5 hou2 hoi1 sam1",
-      "meaning": "I’m very happy."
+      "sentence": "我今日好開心。",
+      "jyutping": "ngo5 gam1 jat6 hou2 hoi1 sam1.",
+      "meaning": "I am very happy today."
     },
     {
       "id": "hoi1sam1-happy-example-2",
-      "sentence": "見到你我好開心。",
-      "jyutping": "gin3 dou2 nei5 ngo5 hou2 hoi1 sam1",
-      "meaning": "I’m happy to see you."
+      "sentence": "聽到好消息，我好開心。",
+      "jyutping": "teng1 dou3 hou2 siu1 sik1, ngo5 hou2 hoi1 sam1.",
+      "meaning": "I am happy to hear the good news."
+    },
+    {
+      "id": "hoi1sam1-happy-example-3",
+      "sentence": "你為咩咁開心？",
+      "jyutping": "nei5 wai6 me1 gam3 hoi1 sam1?",
+      "meaning": "Why are you so happy?"
+    },
+    {
+      "id": "hoi1sam1-happy-example-4",
+      "sentence": "見到你，我覺得好開心。",
+      "jyutping": "gin3 dou3 nei5, ngo5 gok3 dak1 hou2 hoi1 sam1.",
+      "meaning": "Seeing you makes me feel happy."
     }
   ],
-
   "audio": {
     "word": "hoi1sam1-happy.mp3",
     "examples": [
       "hoi1sam1-happy-example-1.mp3",
-      "hoi1sam1-happy-example-2.mp3"
+      "hoi1sam1-happy-example-2.mp3",
+      "hoi1sam1-happy-example-3.mp3",
+      "hoi1sam1-happy-example-4.mp3"
     ]
   },
-
-  "tags": ["adjective", "level-1", "core", "emotion"],
-
+  "tags": [
+    "feelings",
+    "emotions",
+    "basic",
+    "happy",
+    "positive",
+    "level-1"
+  ],
   "related": [
-    "m4hoi1sam1-unhappy",
-    "gui6-tired"
+    "笑容 (siu3 jung4) smile",
+    "快樂 (faai3 lok6) joyful",
+    "興奮 (hing1 fan5) excited",
+    "滿足 (mun5 zuk1) satisfied"
   ]
 }
