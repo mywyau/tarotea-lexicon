@@ -18,41 +18,41 @@
     ],
 
     "common_sports": [
-      { "id": "daa2bou1lam4-cycling", "word": "踩單車", "jyutping": "caai2 daan1 ce1", "meaning": "cycle" },
-      { "id": "pau2bou6-run", "word": "跑步", "jyutping": "paau2 bou6", "meaning": "run" },
+      { "id": "caai2daan1ce1-cycling", "word": "踩單車", "jyutping": "caai2 daan1 ce1", "meaning": "cycle" },
+      { "id": "paau2bou6-run", "word": "跑步", "jyutping": "paau2 bou6", "meaning": "run" },
       { "id": "jau4seoi2-swim", "word": "游水", "jyutping": "jau4 seoi2", "meaning": "swim" },
-      { "id": "daa2bou2lam4-basketball", "word": "打籃球", "jyutping": "daa2 laam4 kau4", "meaning": "play basketball" },
-      { "id": "daa2zuk1kau4-football", "word": "踢足球", "jyutping": "tek3 zuk1 kau4", "meaning": "play football" },
-      { "id": "daa2jyu4mou4kau4-badminton", "word": "打羽毛球", "jyutping": "daa2 jyu5 mou4 kau4", "meaning": "play badminton" },
-      { "id": "daa2ping4pong1-table-tennis", "word": "打乒乓波", "jyutping": "daa2 bing1 bam1 bo1", "meaning": "play table tennis" },
-      { "id": "daa2ten1nei4sai1-tennis", "word": "打網球", "jyutping": "daa2 mong5 kau4", "meaning": "play tennis" },
+      { "id": "daa2laam4kau4-basketball", "word": "打籃球", "jyutping": "daa2 laam4 kau4", "meaning": "play basketball" },
+      { "id": "tek3zuk1kau4-football", "word": "踢足球", "jyutping": "tek3 zuk1 kau4", "meaning": "play football" },
+      { "id": "daa2jyu5mou4kau4-badminton", "word": "打羽毛球", "jyutping": "daa2 jyu5 mou4 kau4", "meaning": "play badminton" },
+      { "id": "daa2bing1bam1bo1-table-tennis", "word": "打乒乓波", "jyutping": "daa2 bing1 bam1 bo1", "meaning": "play table tennis" },
+      { "id": "daa2mong5kau4-tennis", "word": "打網球", "jyutping": "daa2 mong5 kau4", "meaning": "play tennis" },
       { "id": "haang4saan1-hiking", "word": "行山", "jyutping": "haang4 saan1", "meaning": "go hiking" },
-      { "id": "jok3jyu4gaa1-yoga", "word": "做瑜伽", "jyutping": "zou6 jyu4 gaa1", "meaning": "do yoga" }
+      { "id": "zou6jyu4gaa1-yoga", "word": "做瑜伽", "jyutping": "zou6 jyu4 gaa1", "meaning": "do yoga" }
     ],
 
     "gym_and_workouts": [
       { "id": "gin6san1sat1-gym", "word": "健身室", "jyutping": "gin6 san1 sat1", "meaning": "gym" },
-      { "id": "bun2san1-warm-up", "word": "熱身", "jyutping": "jit6 san1", "meaning": "warm up" },
-      { "id": "laai1gan2-stretch", "word": "拉筋", "jyutping": "laai1 gan1", "meaning": "stretch" },
-      { "id": "jam3ling6-dumbbell", "word": "啞鈴", "jyutping": "aa2 ling4", "meaning": "dumbbell" },
-      { "id": "baan2ling6-barbell", "word": "槓鈴", "jyutping": "gong3 ling4", "meaning": "barbell" },
-      { "id": "pau2bou6gei1-treadmill", "word": "跑步機", "jyutping": "paau2 bou6 gei1", "meaning": "treadmill" },
+      { "id": "jit6san1-warm-up", "word": "熱身", "jyutping": "jit6 san1", "meaning": "warm up" },
+      { "id": "laai1gan1-stretch", "word": "拉筋", "jyutping": "laai1 gan1", "meaning": "stretch" },
+      { "id": "aa2ling4-dumbbell", "word": "啞鈴", "jyutping": "aa2 ling4", "meaning": "dumbbell" },
+      { "id": "gong3ling4-barbell", "word": "槓鈴", "jyutping": "gong3 ling4", "meaning": "barbell" },
+      { "id": "paau2bou6gei1-treadmill", "word": "跑步機", "jyutping": "paau2 bou6 gei1", "meaning": "treadmill" },
       { "id": "daan1ce1gei1-exercise-bike", "word": "單車機", "jyutping": "daan1 ce1 gei1", "meaning": "exercise bike" },
-      { "id": "jau5soeng6gei1-rowing-machine", "word": "划船機", "jyutping": "waa4 syun4 gei1", "meaning": "rowing machine" },
-      { "id": "soeng6jap6-push-up", "word": "掌上壓", "jyutping": "zoeng2 soeng6 aat3", "meaning": "push-up" },
-      { "id": "jan2sau1sit6-sit-up", "word": "仰臥起坐", "jyutping": "joeng5 ngo6 hei2 co5", "meaning": "sit-up" }
+      { "id": "waa4syun4gei1-rowing-machine", "word": "划船機", "jyutping": "waa4 syun4 gei1", "meaning": "rowing machine" },
+      { "id": "zoeng2soeng6aat3-push-up", "word": "掌上壓", "jyutping": "zoeng2 soeng6 aat3", "meaning": "push-up" },
+      { "id": "joeng5ngo6hei2co5-sit-up", "word": "仰臥起坐", "jyutping": "joeng5 ngo6 hei2 co5", "meaning": "sit-up" }
     ],
 
     "body_and_training": [
-      { "id": "geoi2go3-muscle", "word": "肌肉", "jyutping": "gei1 juk6", "meaning": "muscle" },
-      { "id": "daai6tui2-thigh", "word": "大腿", "jyutping": "daai6 teoi2", "meaning": "thigh" },
+      { "id": "gei1juk6-muscle", "word": "肌肉", "jyutping": "gei1 juk6", "meaning": "muscle" },
+      { "id": "daai6teoi2-thigh", "word": "大腿", "jyutping": "daai6 teoi2", "meaning": "thigh" },
       { "id": "siu2teoi2-calf", "word": "小腿", "jyutping": "siu2 teoi2", "meaning": "calf" },
-      { "id": "gaan1bok3-shoulder", "word": "膊頭", "jyutping": "bok3 tau4", "meaning": "shoulder" },
-      { "id": "sau2bei2-arm", "word": "手臂", "jyutping": "sau2 bei3", "meaning": "arm" },
-      { "id": "fuk1bou6-abs", "word": "腹肌", "jyutping": "fuk1 gei1", "meaning": "abs" },
-      { "id": "sam1fei3-function", "word": "心肺功能", "jyutping": "sam1 fai3 gung1 nang4", "meaning": "cardio fitness" },
-      { "id": "gaam2fai4-lose-weight", "word": "減肥", "jyutping": "gaam2 fei4", "meaning": "lose weight" },
-      { "id": "zoeng2gei1-build-muscle", "word": "增肌", "jyutping": "zang1 gei1", "meaning": "build muscle" },
+      { "id": "bok3tau4-shoulder", "word": "膊頭", "jyutping": "bok3 tau4", "meaning": "shoulder" },
+      { "id": "sau2bei3-arm", "word": "手臂", "jyutping": "sau2 bei3", "meaning": "arm" },
+      { "id": "fuk1gei1-abs", "word": "腹肌", "jyutping": "fuk1 gei1", "meaning": "abs" },
+      { "id": "sam1fai3gung1nang4-cardio-fitness", "word": "心肺功能", "jyutping": "sam1 fai3 gung1 nang4", "meaning": "cardio fitness" },
+      { "id": "gaam2fei4-lose-weight", "word": "減肥", "jyutping": "gaam2 fei4", "meaning": "lose weight" },
+      { "id": "zang1gei1-build-muscle", "word": "增肌", "jyutping": "zang1 gei1", "meaning": "build muscle" },
       { "id": "fuk6jyun4-recover", "word": "復原", "jyutping": "fuk6 jyun4", "meaning": "recover" }
     ],
 
@@ -62,29 +62,29 @@
       { "id": "wan6dung6coeng4-sports-ground", "word": "運動場", "jyutping": "wan6 dung6 coeng4", "meaning": "sports ground" },
       { "id": "gin6san1gaau3lin6-trainer", "word": "健身教練", "jyutping": "gin6 san1 gaau3 lin6", "meaning": "trainer" },
       { "id": "deoi6jau5-teammate", "word": "隊友", "jyutping": "deoi6 jau5", "meaning": "teammate" },
-      { "id": "deoi6sau2-opponent", "word": "對手", "jyutping": "deoi3 sau2", "meaning": "opponent" },
+      { "id": "deoi3sau2-opponent", "word": "對手", "jyutping": "deoi3 sau2", "meaning": "opponent" },
       { "id": "wan6dung6jyun4-athlete", "word": "運動員", "jyutping": "wan6 dung6 jyun4", "meaning": "athlete" },
       { "id": "wui6so2-club", "word": "會所", "jyutping": "wui6 so2", "meaning": "clubhouse" }
     ],
 
     "results_and_performance": [
-      { "id": "jing1caai4-good-performance", "word": "精彩", "jyutping": "zing1 coi2", "meaning": "excellent" },
+      { "id": "zing1coi2-good-performance", "word": "精彩", "jyutping": "zing1 coi2", "meaning": "excellent" },
       { "id": "sing4zik1-result", "word": "成績", "jyutping": "sing4 zik1", "meaning": "result" },
-      { "id": "jing1sang1-win", "word": "贏", "jyutping": "jeng4", "meaning": "win" },
+      { "id": "jeng4-win", "word": "贏", "jyutping": "jeng4", "meaning": "win" },
       { "id": "syu1-lose", "word": "輸", "jyutping": "syu1", "meaning": "lose" },
-      { "id": "ping4sau2-draw", "word": "打和", "jyutping": "daa2 wo4", "meaning": "draw" },
-      { "id": "gaai3luk6-record", "word": "紀錄", "jyutping": "gei2 luk6", "meaning": "record" },
-      { "id": "jin2jing3-progress", "word": "進步", "jyutping": "zeon3 bou6", "meaning": "progress" },
-      { "id": "lei5hai6-amazing", "word": "厲害", "jyutping": "lai6 hoi6", "meaning": "impressive" }
+      { "id": "daa2wo4-draw", "word": "打和", "jyutping": "daa2 wo4", "meaning": "draw" },
+      { "id": "gei2luk6-record", "word": "紀錄", "jyutping": "gei2 luk6", "meaning": "record" },
+      { "id": "zeon3bou6-progress", "word": "進步", "jyutping": "zeon3 bou6", "meaning": "progress" },
+      { "id": "lai6hoi6-amazing", "word": "厲害", "jyutping": "lai6 hoi6", "meaning": "impressive" }
     ],
 
     "spoken_phrases": [
-      { "id": "ngo5-zung1ji3-pau2bou6", "word": "我鍾意跑步", "jyutping": "ngo5 zung1 ji3 paau2 bou6", "meaning": "I like running" },
-      { "id": "ngo5-gam1jat6-jok3zo2-wan6dung6", "word": "我今日做咗運動", "jyutping": "ngo5 gam1 jat6 zou6 zo2 wan6 dung6", "meaning": "I exercised today" },
-      { "id": "keoi5-waan4-gin6san1sat1", "word": "佢喺健身室", "jyutping": "keoi5 hai2 gin6 san1 sat1", "meaning": "He is at the gym" },
-      { "id": "ngo5-jyu4jiu3-lin6zaap6", "word": "我仲要練習", "jyutping": "ngo5 zung6 jiu3 lin6 zaap6", "meaning": "I still need to practise" },
-      { "id": "ni1go3-wan6dung6-hou2-m4hou2", "word": "呢個運動好唔好？", "jyutping": "ni1 go3 wan6 dung6 hou2 m4 hou2", "meaning": "Is this sport good?" },
-      { "id": "keoi5-pau2dak1-hou2faai3", "word": "佢跑得好快", "jyutping": "keoi5 paau2 dak1 hou2 faai3", "meaning": "He runs very fast" }
+      { "id": "ngo5zung1ji3paau2bou6", "word": "我鍾意跑步", "jyutping": "ngo5 zung1 ji3 paau2 bou6", "meaning": "I like running" },
+      { "id": "ngo5gam1jat6zou6zo2wan6dung6", "word": "我今日做咗運動", "jyutping": "ngo5 gam1 jat6 zou6 zo2 wan6 dung6", "meaning": "I exercised today" },
+      { "id": "keoi5hai2gin6san1sat1", "word": "佢喺健身室", "jyutping": "keoi5 hai2 gin6 san1 sat1", "meaning": "He is at the gym" },
+      { "id": "ngo5zung6jiu3lin6zaap6", "word": "我仲要練習", "jyutping": "ngo5 zung6 jiu3 lin6 zaap6", "meaning": "I still need to practise" },
+      { "id": "ni1go3wan6dung6hou2m4hou2", "word": "呢個運動好唔好？", "jyutping": "ni1 go3 wan6 dung6 hou2 m4 hou2", "meaning": "Is this sport good?" },
+      { "id": "keoi5paau2dak1hou2faai3", "word": "佢跑得好快", "jyutping": "keoi5 paau2 dak1 hou2 faai3", "meaning": "He runs very fast" }
     ]
   }
 }
