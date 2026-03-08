@@ -2,40 +2,40 @@
   "id": "zeon3bou6-progress",
   "word": "進步",
   "jyutping": "zeon3 bou6",
-  "meaning": "improvement / progress",
+  "meaning": "progress",
   "pos": [
-    "expression"
+    "noun"
   ],
   "usage": [
-    "The term 'zeon3 bou6' is used to describe positive development or advancement in skills, knowledge, or conditions.",
-    "It can refer to both personal growth and external improvements in various contexts such as education, work, or health.",
-    "Commonly used in both formal and informal speech, this expression highlights a forward movement toward betterment.",
-    "You can use 'zeon3 bou6' to encourage someone by acknowledging their progress or to evaluate improvement over time."
+    "The word 進步 (zeon3 bou6) is used as a noun to indicate improvement or progress in abilities or development.",
+    "It often describes advancements in skills, work, or personal growth, but not actions or processes themselves.",
+    "In sentences, it can be combined with verbs like 'have' or 'make' (有, 有咗 進步) to express achieving progress.",
+    "It's commonly used when comparing current state versus before, emphasizing positive change."
   ],
   "examples": [
     {
       "id": "zeon3bou6-progress-example-1",
-      "sentence": "你嘅粵語有好大嘅進步，繼續努力。",
-      "jyutping": "nei5 ge3 jyut6 jyu5 jau5 hou2 daai6 ge3 zeon3 bou6, gai3 zuk6 nou5 lik6.",
-      "meaning": "Your Cantonese has made great progress, keep up the good work."
+      "sentence": "你嘅英文有好多進步。",
+      "jyutping": "nei5 ge3 jing1 man4 jau5 hou2 do1 zeon3 bou6。",
+      "meaning": "Your English has a lot of progress."
     },
     {
       "id": "zeon3bou6-progress-example-2",
-      "sentence": "公司最近嘅業績有明顯嘅進步。",
-      "jyutping": "gung1 si1 zeoi3 gan6 ge3 jip6 zik1 jau5 ming4 hin2 ge3 zeon3 bou6.",
-      "meaning": "The company's recent performance has shown significant improvement."
+      "sentence": "佢練習得好勤力，所以進步好快。",
+      "jyutping": "keoi5 lin6 zaap6 dak1 hou2 kan4 lik6, so2 ji5 zeon3 bou6 hou2 faai3。",
+      "meaning": "He practices very hard, so the progress is fast."
     },
     {
       "id": "zeon3bou6-progress-example-3",
-      "sentence": "學習進步慢啲都冇問題，最緊要係持續努力。",
-      "jyutping": "hok6 zaap6 zeon3 bou6 maan6 di1 dou1 mou5 man6 tai4, zeoi3 gan2 jiu3 hai6 ci4 zuk6 nou5 lik6.",
-      "meaning": "It's okay if your progress is slow; the most important thing is to keep working hard."
+      "sentence": "雖然進步咗，但仲可以做得更好。",
+      "jyutping": "seoi1 jin4 zeon3 bou6 zo2, daan6 zung6 ho2 ji5 zou6 dak1 gang3 hou2。",
+      "meaning": "Although there is progress, it can still be done better."
     },
     {
       "id": "zeon3bou6-progress-example-4",
-      "sentence": "醫生話你嘅身體狀況比上次有進步。",
-      "jyutping": "ji1 sang1 waa6 nei5 ge3 san1 tai2 zong6 fong3 bei2 soeng6 ci3 jau5 zeon3 bou6.",
-      "meaning": "The doctor said your body condition has improved compared to last time."
+      "sentence": "我見到你最近有進步，好掂！",
+      "jyutping": "ngo5 gin3 dou3 nei5 zeoi3 gan6 jau5 zeon3 bou6, hou2 dim6!",
+      "meaning": "I see you have made progress recently, well done!"
     }
   ],
   "audio": {
@@ -48,18 +48,18 @@
     ]
   },
   "tags": [
-    "advanced",
-    "feedback",
-    "improvement",
     "progress",
-    "encouragement",
-    "level-5"
+    "improvement",
+    "results",
+    "skills",
+    "learning",
+    "level-1"
   ],
   "related": [
-    "改善",
     "發展",
+    "改進",
     "提升",
-    "成長",
-    "進展"
+    "成就",
+    "成長"
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "id": "leoi4-thunder",
+  "word": "雷",
+  "jyutping": "leoi4",
+  "meaning": "thunder",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '雷' (leoi4) is used as a noun to refer specifically to the sound or phenomenon of thunder during a storm.",
+    "'雷' is often used together with '雨' (rain) or '風' (wind) to describe weather conditions.",
+    "You can use '雷' to warn about a storm, for example, '要小心雷' means 'Be careful of the thunder'.",
+    "It does not typically refer to lightning itself, which is 雷電 (leoi4 din6), so be careful not to confuse the two.",
+    "'雷' can often be a standalone word in phrases or sentences describing weather or natural sounds."
+  ],
+  "examples": [
+    {
+      "id": "leoi4-thunder-example-1",
+      "sentence": "今晚會有雷同雨。",
+      "jyutping": "gam1 maan5 wui5 jau5 leoi4 tung4 jyu5.",
+      "meaning": "There will be thunder and rain tonight."
+    },
+    {
+      "id": "leoi4-thunder-example-2",
+      "sentence": "我聽到好大聲嘅雷。",
+      "jyutping": "ngo5 teng1 dou3 hou2 daai6 seng1 ge3 leoi4.",
+      "meaning": "I heard very loud thunder."
+    },
+    {
+      "id": "leoi4-thunder-example-3",
+      "sentence": "雷聲好似好驚。",
+      "jyutping": "leoi4 seng1 hou2 ci5 hou2 ging1.",
+      "meaning": "The sound of the thunder is quite scary."
+    },
+    {
+      "id": "leoi4-thunder-example-4",
+      "sentence": "天黑晒，開始打雷喇。",
+      "jyutping": "tin1 hak1 saai3, hoi1 ci2 daa2 leoi4 laa3.",
+      "meaning": "It's dark now, the thunder has started."
+    }
+  ],
+  "audio": {
+    "word": "leoi4-thunder.mp3",
+    "examples": [
+      "leoi4-thunder-example-1.mp3",
+      "leoi4-thunder-example-2.mp3",
+      "leoi4-thunder-example-3.mp3",
+      "leoi4-thunder-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "thunder",
+    "rain_and_storms",
+    "nature_sounds",
+    "level-1"
+  ],
+  "related": [
+    "雨 (jyu5) - rain",
+    "閃電 (sim2 din6) - lightning",
+    "風 (fung1) - wind",
+    "雷雨 (leoi4 jyu5) - thunderstorm",
+    "暴風雨 (bou6 fung1 jyu5) - storm"
+  ]
+}

@@ -28,7 +28,6 @@
     "apps_and_internet": [
       { "id": "mong5lok6-internet", "word": "網絡", "jyutping": "mong5 lok6", "meaning": "internet" },
       { "id": "wai1fai1-wifi", "word": "Wi-Fi", "jyutping": "wai1 fai1", "meaning": "Wi-Fi" },
-      { "id": "aep1-app", "word": "App", "jyutping": "aep1", "meaning": "app" },
       { "id": "haa6zoi3-download", "word": "下載", "jyutping": "haa6 zoi3", "meaning": "download" },
       { "id": "soeng6zoi3-upload", "word": "上載", "jyutping": "soeng6 zoi3", "meaning": "upload" },
       { "id": "wan4dyun1-cloud", "word": "雲端", "jyutping": "wan4 dyun1", "meaning": "cloud" },
@@ -132,7 +131,7 @@
 
     "phone_features": [
       { "id": "zit6tou4-screenshot", "word": "截圖", "jyutping": "zit6 tou4", "meaning": "screenshot" },
-      { "id": "fei1hang4mou5sik1-mou5sik1-airplane-mode", "word": "飛行模式", "jyutping": "fei1 hang4 mou5 sik1", "meaning": "airplane mode" },
+      { "id": "fei1hang4mou5sik1-airplane-mode", "word": "飛行模式", "jyutping": "fei1 hang4 mou5 sik1", "meaning": "airplane mode" },
       { "id": "ling4sing1-ringtone", "word": "鈴聲", "jyutping": "ling4 sing1", "meaning": "ringtone" },
       { "id": "zi2man4-fingerprint", "word": "指紋", "jyutping": "zi2 man4", "meaning": "fingerprint" },
       { "id": "min6jung4sik1bit6-face-id", "word": "面容識別", "jyutping": "min6 jung4 sik1 bit6", "meaning": "face recognition" }

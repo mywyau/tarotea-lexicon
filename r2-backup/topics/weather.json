@@ -1,60 +1,93 @@
 {
   "topic": "weather",
-  "title": "Weather – Talking About the Weather in Cantonese",
-  "description": "Talk about the weather, temperature, rain, and daily conditions in everyday spoken Cantonese.",
+  "title": "Weather – Talking About the Weather",
+  "description": "Learn vocabulary for weather, temperature, rain, wind, seasons, and daily conditions.",
   "categories": {
-
-    "asking_about_weather": [
+    "general_weather": [
       { "id": "tin1hei3-weather", "word": "天氣", "jyutping": "tin1 hei3", "meaning": "weather" },
-      { "id": "gam1jat6-tin1hei3", "word": "今日天氣點呀？", "jyutping": "gam1 jat6 tin1 hei3 dim2 aa3", "meaning": "what’s the weather like today?" },
-      { "id": "lok6jyu5-mei6", "word": "落雨未呀？", "jyutping": "lok6 jyu5 mei6 aa3", "meaning": "is it raining?" },
-      { "id": "hou2-m4-hou2-tin1hei3", "word": "天氣好唔好？", "jyutping": "tin1 hei3 hou2 m4 hou2", "meaning": "is the weather good?" }
+      { "id": "hei3wan1-climate", "word": "氣溫", "jyutping": "hei3 wan1", "meaning": "temperature" },
+      { "id": "tin1sik1-sky-color", "word": "天色", "jyutping": "tin1 sik1", "meaning": "sky" },
+      { "id": "jat6zi2-daytime-weather", "word": "日子", "jyutping": "jat6 zi2", "meaning": "day" },
+      { "id": "cing4fong3-condition", "word": "情況", "jyutping": "cing4 fong3", "meaning": "condition" }
     ],
 
     "sun_and_cloud": [
-      { "id": "tai3joeng4-sun", "word": "太陽", "jyutping": "taai3 joeng4", "meaning": "sun" },
-      { "id": "hou2-tin1-clear", "word": "好天", "jyutping": "hou2 tin1", "meaning": "good weather / sunny" },
-      { "id": "jam1-cloudy", "word": "陰", "jyutping": "jam1", "meaning": "cloudy / overcast" },
-      { "id": "waan6-jam1-dark-cloudy", "word": "陰沉", "jyutping": "jam1 cam4", "meaning": "dark and cloudy" }
+      { "id": "taai3joeng4-sun", "word": "太陽", "jyutping": "taai3 joeng4", "meaning": "sun" },
+      { "id": "joeng4gwong1-sunlight", "word": "陽光", "jyutping": "joeng4 gwong1", "meaning": "sunlight" },
+      { "id": "hou2tin1-sunny", "word": "好天", "jyutping": "hou2 tin1", "meaning": "sunny" },
+      { "id": "cing4tin1-clear-sky", "word": "晴天", "jyutping": "cing4 tin1", "meaning": "sunny day" },
+      { "id": "wan4-cloud", "word": "雲", "jyutping": "wan4", "meaning": "cloud" },
+      { "id": "wan4loeng6-cloud-layer", "word": "雲量", "jyutping": "wan4 loeng6", "meaning": "cloud cover" },
+      { "id": "jam1-cloudy", "word": "陰", "jyutping": "jam1", "meaning": "cloudy" },
+      { "id": "jam1tin1-overcast-day", "word": "陰天", "jyutping": "jam1 tin1", "meaning": "cloudy day" },
+      { "id": "jam1cam4-gloomy", "word": "陰沉", "jyutping": "jam1 cam4", "meaning": "gloomy" }
     ],
 
     "rain_and_storms": [
-      { "id": "lok6jyu5-rain", "word": "落雨", "jyutping": "lok6 jyu5", "meaning": "to rain" },
+      { "id": "lok6jyu5-rain", "word": "落雨", "jyutping": "lok6 jyu5", "meaning": "rain" },
+      { "id": "jyu5-rain", "word": "雨", "jyutping": "jyu5", "meaning": "rain" },
+      { "id": "sai3jyu5-light-rain", "word": "細雨", "jyutping": "sai3 jyu5", "meaning": "light rain" },
       { "id": "daai6jyu5-heavy-rain", "word": "大雨", "jyutping": "daai6 jyu5", "meaning": "heavy rain" },
-      { "id": "leoi4leoi4-thunder", "word": "雷", "jyutping": "leoi4", "meaning": "thunder" },
-      { "id": "loi4jyu5-thunderstorm", "word": "雷雨", "jyutping": "leoi4 jyu5", "meaning": "thunderstorm" },
-      { "id": "daai6fung1-strong-wind", "word": "大風", "jyutping": "daai6 fung1", "meaning": "strong wind" }
+      { "id": "bou6jyu5-rainstorm", "word": "暴雨", "jyutping": "bou6 jyu5", "meaning": "rainstorm" },
+      { "id": "zan6jyu5-shower", "word": "陣雨", "jyutping": "zan6 jyu5", "meaning": "shower" },
+      { "id": "leoi4-thunder", "word": "雷", "jyutping": "leoi4", "meaning": "thunder" },
+      { "id": "din6-lightning", "word": "電", "jyutping": "din6", "meaning": "lightning" },
+      { "id": "leoi4jyu5-thunderstorm", "word": "雷雨", "jyutping": "leoi4 jyu5", "meaning": "thunderstorm" },
+      { "id": "fung1bou6-storm", "word": "風暴", "jyutping": "fung1 bou6", "meaning": "storm" },
+      { "id": "toi4fung1-typhoon", "word": "颱風", "jyutping": "toi4 fung1", "meaning": "typhoon" }
+    ],
+
+    "wind_and_air": [
+      { "id": "fung1-wind", "word": "風", "jyutping": "fung1", "meaning": "wind" },
+      { "id": "daai6fung1-strong-wind", "word": "大風", "jyutping": "daai6 fung1", "meaning": "strong wind" },
+      { "id": "lit6fung1-gale", "word": "烈風", "jyutping": "lit6 fung1", "meaning": "gale" },
+      { "id": "jau5fung1-windy", "word": "有風", "jyutping": "jau5 fung1", "meaning": "windy" },
+      { "id": "leong4fung1-cool-breeze", "word": "涼風", "jyutping": "leong4 fung1", "meaning": "breeze" },
+      { "id": "hei3-air", "word": "氣", "jyutping": "hei3", "meaning": "air" },
+      { "id": "hung1hei3-air", "word": "空氣", "jyutping": "hung1 hei3", "meaning": "air" },
+      { "id": "cing1san1-fresh", "word": "清新", "jyutping": "cing1 san1", "meaning": "fresh" },
+      { "id": "wu1jim5-pollution", "word": "污染", "jyutping": "wu1 jim5", "meaning": "pollution" }
     ],
 
     "temperature": [
       { "id": "jit6-hot", "word": "熱", "jyutping": "jit6", "meaning": "hot" },
-      { "id": "hou2jit6-very-hot", "word": "好熱", "jyutping": "hou2 jit6", "meaning": "very hot" },
-      { "id": "dong1-cold", "word": "凍", "jyutping": "dung3", "meaning": "cold" },
-      { "id": "hou2dong1-very-cold", "word": "好凍", "jyutping": "hou2 dung3", "meaning": "very cold" },
+      { "id": "nyun5-warm", "word": "暖", "jyutping": "nyun5", "meaning": "warm" },
+      { "id": "dung3-cold", "word": "凍", "jyutping": "dung3", "meaning": "cold" },
       { "id": "leong4-cool", "word": "涼", "jyutping": "leong4", "meaning": "cool" },
-      { "id": "syu1fuk6-comfortable", "word": "舒服", "jyutping": "syu1 fuk6", "meaning": "comfortable (weather)" }
+      { "id": "bing1-cold-icy", "word": "冰", "jyutping": "bing1", "meaning": "ice" },
+      { "id": "jim4hon4-severe-cold", "word": "嚴寒", "jyutping": "jim4 hon4", "meaning": "very cold" },
+      { "id": "jim4jit6-scorching-heat", "word": "炎熱", "jyutping": "jim4 jit6", "meaning": "very hot" },
+      { "id": "wan1wo4-mild", "word": "溫和", "jyutping": "wan1 wo4", "meaning": "mild" },
+      { "id": "syu1fuk6-comfortable", "word": "舒服", "jyutping": "syu1 fuk6", "meaning": "comfortable" }
     ],
 
-    "humidity_and_air": [
-      { "id": "cau1-wet-humid", "word": "潮濕", "jyutping": "ciu4 sap1", "meaning": "humid" },
+    "humidity_and_visibility": [
+      { "id": "ciu4sap1-humid", "word": "潮濕", "jyutping": "ciu4 sap1", "meaning": "humid" },
       { "id": "gon1-dry", "word": "乾", "jyutping": "gon1", "meaning": "dry" },
-      { "id": "jit6laap6-humid-hot", "word": "焗", "jyutping": "guk1", "meaning": "stuffy / humid-hot" },
-      { "id": "fung1-on1-breezy", "word": "有風", "jyutping": "jau5 fung1", "meaning": "windy / breezy" }
+      { "id": "guk1-stuffy", "word": "焗", "jyutping": "guk1", "meaning": "stuffy" },
+      { "id": "mou6-fog", "word": "霧", "jyutping": "mou6", "meaning": "fog" },
+      { "id": "jin1haa4-haze", "word": "煙霞", "jyutping": "jin1 haa4", "meaning": "haze" },
+      { "id": "mung4-blurry", "word": "濛", "jyutping": "mung4", "meaning": "misty" },
+      { "id": "cing1-clear", "word": "清", "jyutping": "cing1", "meaning": "clear" }
     ],
 
-    "season_and_changes": [
+    "season_and_time": [
+      { "id": "gwai3hau6-season", "word": "季候", "jyutping": "gwai3 hau6", "meaning": "season" },
+      { "id": "ceon1tin1-spring", "word": "春天", "jyutping": "ceon1 tin1", "meaning": "spring" },
       { "id": "haa6tin1-summer", "word": "夏天", "jyutping": "haa6 tin1", "meaning": "summer" },
+      { "id": "cau1tin1-autumn", "word": "秋天", "jyutping": "cau1 tin1", "meaning": "autumn" },
       { "id": "dung1tin1-winter", "word": "冬天", "jyutping": "dung1 tin1", "meaning": "winter" },
-      { "id": "tin1hei3-jyun4-zo2", "word": "天氣轉咗", "jyutping": "tin1 hei3 zyun2 zo2", "meaning": "the weather has changed" },
-      { "id": "faan1-fung1-go-cooler", "word": "轉涼", "jyutping": "zyun2 leong4", "meaning": "getting cooler" }
+      { "id": "zyun2leong4-getting-cooler", "word": "轉涼", "jyutping": "zyun2 leong4", "meaning": "cooler" },
+      { "id": "zyun2nyun5-getting-warmer", "word": "轉暖", "jyutping": "zyun2 nyun5", "meaning": "warmer" }
     ],
 
-    "spoken_phrases": [
-      { "id": "gam1jat6-hou2jit6", "word": "今日好熱", "jyutping": "gam1 jat6 hou2 jit6", "meaning": "it’s very hot today" },
-      { "id": "hou2-jiu3-lok6jyu5", "word": "好似要落雨", "jyutping": "hou2 ci5 jiu3 lok6 jyu5", "meaning": "it looks like it’s going to rain" },
-
-      { "id": "tin1hei3-hou2-syu1fuk6", "word": "天氣好舒服", "jyutping": "tin1 hei3 hou2 syu1 fuk6", "meaning": "the weather is nice" },
-      { "id": "lok6jyu5-jau5-maan6", "word": "落雨真係麻煩", "jyutping": "lok6 jyu5 zan1 hai6 maa4 faan4", "meaning": "rain is really inconvenient" }
+    "weather_warnings_and_conditions": [
+      { "id": "ging2bou3-warning", "word": "警報", "jyutping": "ging2 bou3", "meaning": "warning" },
+      { "id": "fung1kau4-signal", "word": "風球", "jyutping": "fung1 kau4", "meaning": "typhoon signal" },
+      { "id": "hung4sik1bou6jyu5-red-rain-warning", "word": "紅色暴雨", "jyutping": "hung4 sik1 bou6 jyu5", "meaning": "red rain warning" },
+      { "id": "hak1sik1bou6jyu5-black-rain-warning", "word": "黑色暴雨", "jyutping": "hak1 sik1 bou6 jyu5", "meaning": "black rain warning" },
+      { "id": "coi2hung4-rainbow", "word": "彩虹", "jyutping": "coi2 hung4", "meaning": "rainbow" },
+      { "id": "soeng1-frost", "word": "霜", "jyutping": "soeng1", "meaning": "frost" }
     ]
   }
 }

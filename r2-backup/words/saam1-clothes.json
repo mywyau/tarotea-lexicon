@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '衫' is used to refer to clothes in general or a specific piece of clothing.",
-    "It can be followed by classifiers like '件' to specify the quantity, for example, '一件衫' means 'one piece of clothing.'",
-    "You can use '衫' in both singular and plural contexts without changing the form.",
-    "It appears often in questions when asking about clothing, like '你有冇新衫？' meaning 'Do you have new clothes?'.",
-    "'衫' can combine with other words to specify types of clothing, such as '運動衫' (sportswear)."
+    "The word '衫' refers to clothes in general and is a common noun.",
+    "It can be used to talk about any type of clothing, such as shirts, pants, or dresses.",
+    "In everyday Cantonese, people use '衫' to describe what someone is wearing or to discuss laundry.",
+    "You can combine '衫' with other words to specify the type of clothes, like '新衫' (new clothes) or '舊衫' (old clothes)."
   ],
   "examples": [
     {
       "id": "saam1-clothes-example-1",
-      "sentence": "我買咗新衫。",
-      "jyutping": "ngo5 maai5 zo2 san1 saam1.",
-      "meaning": "I bought new clothes."
+      "sentence": "你啲衫係咪乾晒？",
+      "jyutping": "nei5 di1 saam1 hai6 mai6 gon1 saai3?",
+      "meaning": "Are your clothes all dry?"
     },
     {
       "id": "saam1-clothes-example-2",
-      "sentence": "呢件衫幾錢？",
-      "jyutping": "ni1 gin6 saam1 gei2 cin2?",
-      "meaning": "How much is this piece of clothing?"
+      "sentence": "我今日著咗件新衫。",
+      "jyutping": "ngo5 gam1 jat6 zoek3 zo2 gin6 san1 saam1.",
+      "meaning": "I wore new clothes today."
     },
     {
       "id": "saam1-clothes-example-3",
-      "sentence": "衫濕咗，要換。",
-      "jyutping": "saam1 sap1 zo2, jiu3 wun6.",
-      "meaning": "The clothes got wet, need to change."
+      "sentence": "佢唔鍾意洗衫。",
+      "jyutping": "keoi5 m4 zung1 ji3 sai2 saam1.",
+      "meaning": "He doesn't like washing clothes."
     },
     {
       "id": "saam1-clothes-example-4",
-      "sentence": "佢成日著紅色衫。",
-      "jyutping": "keoi5 seng4 jat6 zoek3 hung4 sik1 saam1.",
-      "meaning": "He/She always wears red clothes."
+      "sentence": "衫入面有啲污漬。",
+      "jyutping": "saam1 jap6 min6 jau5 di1 wu1 zik1.",
+      "meaning": "There are some stains inside the clothes."
     }
   ],
   "audio": {
@@ -49,18 +48,18 @@
     ]
   },
   "tags": [
-    "clothing",
-    "shopping",
-    "everyday",
-    "basic",
-    "noun",
+    "clothes",
+    "laundry",
+    "daily life",
+    "wardrobe",
+    "home",
     "level-1"
   ],
   "related": [
-    "褲子",
-    "鞋",
-    "外套",
-    "裙",
-    "襪"
+    "洗衫",
+    "衫褲",
+    "衫架",
+    "乾衫",
+    "衣櫃"
   ]
 }

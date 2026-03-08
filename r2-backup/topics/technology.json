@@ -1,172 +1,67 @@
 {
   "topic": "technology_and_devices",
-  "title": "Technology & Devices",
-  "description": "Talk about phones, computers, apps, the internet, and common tech problems.",
+  "title": "Technology & Devices – Using Tech in Cantonese",
+  "description": "Talk about phones, computers, apps, the internet, and common tech problems in everyday spoken Cantonese.",
   "categories": {
 
     "common_devices": [
       { "id": "sau2gei1-phone", "word": "手機", "jyutping": "sau2 gei1", "meaning": "mobile phone" },
       { "id": "din6nou5-computer", "word": "電腦", "jyutping": "din6 nou5", "meaning": "computer" },
-      { "id": "ping4baan2-tablet", "word": "平板", "jyutping": "ping4 baan2", "meaning": "tablet" },
-      { "id": "ji5gei1-headphones", "word": "耳機", "jyutping": "ji5 gei1", "meaning": "earphones / headphones" },
-      { "id": "cung1din6hei3-charger", "word": "充電器", "jyutping": "cung1 din6 hei3", "meaning": "charger" },
-      { "id": "soeng2gei1-camera", "word": "相機", "jyutping": "soeng2 gei1", "meaning": "camera" },
-      { "id": "din6si6-tv", "word": "電視", "jyutping": "din6 si6", "meaning": "television" },
-      { "id": "jam1soeng1-speaker", "word": "音箱", "jyutping": "jam1 soeng1", "meaning": "speaker" },
-      { "id": "smart-watch", "word": "智能手錶", "jyutping": "zi3 nang4 sau2 biu1", "meaning": "smartwatch" }
-    ],
 
-    "computer_parts": [
-      { "id": "ping4mok6-screen", "word": "屏幕", "jyutping": "ping4 mok6", "meaning": "screen" },
-      { "id": "gin6paan4-keyboard", "word": "鍵盤", "jyutping": "gin6 pun4", "meaning": "keyboard" },
-      { "id": "lou5syu2-mouse", "word": "滑鼠", "jyutping": "waat6 syu2", "meaning": "mouse" },
-      { "id": "sip3zoek3-usb", "word": "USB", "jyutping": "jiu1 es1 bi1", "meaning": "USB" },
-      { "id": "soeng2mun4-camera-lens", "word": "鏡頭", "jyutping": "geng3 tau4", "meaning": "lens" },
-      { "id": "lou5syu2baan2-mousepad", "word": "滑鼠墊", "jyutping": "waat6 syu2 zin3", "meaning": "mouse pad" }
+      { "id": "ping4ban2-tablet", "word": "平板", "jyutping": "ping4 baan2", "meaning": "tablet" },
+      { "id": "jin1mui6-headphones", "word": "耳機", "jyutping": "ji5 gei1", "meaning": "earphones / headphones" },
+
+      { "id": "ceot1din6bo1-charger", "word": "充電器", "jyutping": "cung1 din6 hei3", "meaning": "charger" },
+      { "id": "pin3pin3-camera", "word": "相機", "jyutping": "soeng2 gei1", "meaning": "camera" }
     ],
 
     "apps_and_internet": [
-      { "id": "mong5lok6-internet", "word": "網絡", "jyutping": "mong5 lok6", "meaning": "internet / network" },
-      { "id": "wai1fai1-wifi", "word": "Wi-Fi", "jyutping": "wai1 fai1", "meaning": "Wi-Fi" },
-      { "id": "aep1-app", "word": "App", "jyutping": "aep1", "meaning": "app" },
-      { "id": "haa6zoi3-download", "word": "下載", "jyutping": "haa6 zoi3", "meaning": "download" },
-      { "id": "soeng6zoi3-upload", "word": "上載", "jyutping": "soeng6 zoi3", "meaning": "upload" },
-      { "id": "wan4dyun1-cloud", "word": "雲端", "jyutping": "wan4 dyun1", "meaning": "cloud" },
-      { "id": "tung4bou3-sync", "word": "同步", "jyutping": "tung4 bou3", "meaning": "sync" },
-      { "id": "je5laap6-password", "word": "密碼", "jyutping": "mat6 maa5", "meaning": "password" },
-      { "id": "dang1luk6-login", "word": "登入", "jyutping": "dang1 luk6", "meaning": "log in" },
-      { "id": "dang1ceot1-logout", "word": "登出", "jyutping": "dang1 ceot1", "meaning": "log out" }
-    ],
+      { "id": "wang6lo6-internet", "word": "網絡", "jyutping": "mong5 lok6", "meaning": "internet / network" },
+      { "id": "seoi6fung1-wifi", "word": "Wi-Fi", "jyutping": "wai1 fai1", "meaning": "Wi-Fi" },
 
-    "communication_and_social": [
-      { "id": "siu3sik1-message", "word": "消息", "jyutping": "siu1 sik1", "meaning": "message" },
-      { "id": "faai3siu3sik1-instant-message", "word": "快訊", "jyutping": "faai3 seon3", "meaning": "instant message" },
-      { "id": "jing2soeng2-photo", "word": "相片", "jyutping": "soeng2 pin2", "meaning": "photo" },
-      { "id": "daap3seon3-reply", "word": "回覆", "jyutping": "wui4 fuk6", "meaning": "reply" },
-      { "id": "heoi3seon3-send", "word": "傳送", "jyutping": "cyun4 sung3", "meaning": "send" }
-    ],
+      { "id": "ap1-app", "word": "App", "jyutping": "aep1", "meaning": "app" },
+      { "id": "heoi3-zip3-app", "word": "下載", "jyutping": "haa6 zoi3", "meaning": "download" },
 
-    "files_and_storage": [
-      { "id": "cyu5cyun4-save", "word": "儲存", "jyutping": "cyu5 cyun4", "meaning": "save" },
-      { "id": "daan6on3-file", "word": "檔案", "jyutping": "dong3 on3", "meaning": "file" },
-      { "id": "mui6tik1-media", "word": "媒體", "jyutping": "mui4 tai2", "meaning": "media" },
-      { "id": "zi1liu2-data", "word": "資料", "jyutping": "zi1 liu2", "meaning": "data" },
-      { "id": "baau2cyun4-backup", "word": "備份", "jyutping": "bei6 fan6", "meaning": "backup" }
+      { "id": "soeng6-wan6-cloud", "word": "雲端", "jyutping": "wan4 dyun1", "meaning": "cloud (storage/services)" },
+      { "id": "tung4-bou3-sync", "word": "同步", "jyutping": "tung4 bou3", "meaning": "sync" }
     ],
 
     "using_devices": [
       { "id": "hoi1-open", "word": "開", "jyutping": "hoi1", "meaning": "turn on / open" },
       { "id": "gwaan1-close", "word": "關", "jyutping": "gwaan1", "meaning": "turn off / close" },
-      { "id": "cung1din6-charge", "word": "充電", "jyutping": "cung1 din6", "meaning": "charge" },
-      { "id": "daa2zi6-type", "word": "打字", "jyutping": "daa2 zi6", "meaning": "type" },
-      { "id": "jing2soeng2-take-photo", "word": "影相", "jyutping": "jing2 soeng2", "meaning": "take photos" },
-      { "id": "jim4zo2-delete", "word": "刪除", "jyutping": "saan1 ceoi4", "meaning": "delete" },
-      { "id": "gong1zai2-click", "word": "點擊", "jyutping": "dim2 gik1", "meaning": "click" }
+
+      { "id": "cung1din6-charge", "word": "充電", "jyutping": "cung1 din6", "meaning": "charge (a device)" },
+      { "id": "soeng2-wan4-save", "word": "儲存", "jyutping": "cyu5 cyun4", "meaning": "save (data)" },
+
+      { "id": "zi1mou6-type", "word": "打字", "jyutping": "daa2 zi6", "meaning": "type" },
+      { "id": "soeng2-photo", "word": "影相", "jyutping": "jing2 soeng2", "meaning": "take photos" }
     ],
 
     "common_problems": [
       { "id": "mou5din6-no-battery", "word": "冇電", "jyutping": "mou5 din6", "meaning": "no battery" },
-      { "id": "dai1din6-low-battery", "word": "低電", "jyutping": "dai1 din6", "meaning": "low battery" },
-      { "id": "m4dak1-not-working", "word": "唔得", "jyutping": "m4 dak1", "meaning": "not working" },
-      { "id": "waa6zo2-broken", "word": "壞咗", "jyutping": "waa6 zo2", "meaning": "broken" },
-      { "id": "mong5lok6man6tai4-network-problem", "word": "網絡問題", "jyutping": "mong5 lok6 man6 tai4", "meaning": "network problem" },
-      { "id": "hou2maan6-slow", "word": "好慢", "jyutping": "hou2 maan6", "meaning": "very slow" },
-      { "id": "kaat1-zo2-frozen", "word": "卡住", "jyutping": "kaa1 zyu6", "meaning": "frozen / stuck" },
-      { "id": "lou5siu1-lag", "word": "延遲", "jyutping": "jin4 ci4", "meaning": "lag / delay" }
+      { "id": "din6-dip1-low-battery", "word": "低電", "jyutping": "dai1 din6", "meaning": "low battery" },
+
+      { "id": "m4-dak1-not-working", "word": "唔得", "jyutping": "m4 dak1", "meaning": "not working" },
+      { "id": "waa6-zo2-broken", "word": "壞咗", "jyutping": "waa6 zo2", "meaning": "broken" },
+
+      { "id": "wang6lo6-man6tai4-network-problem", "word": "網絡問題", "jyutping": "mong5 lok6 man6 tai4", "meaning": "network problem" },
+      { "id": "hou2-maan6-slow", "word": "好慢", "jyutping": "hou2 maan6", "meaning": "very slow" }
     ],
 
-    "settings_and_controls": [
-      { "id": "cit3ding6-settings", "word": "設定", "jyutping": "cit3 ding6", "meaning": "settings" },
-      { "id": "jam1loeng6-volume", "word": "音量", "jyutping": "jam1 loeng6", "meaning": "volume" },
-      { "id": "loeng6dou6-brightness", "word": "亮度", "jyutping": "loeng6 dou6", "meaning": "brightness" },
-      { "id": "mung4jing2-silent-mode", "word": "靜音", "jyutping": "zing6 jam1", "meaning": "silent mode" },
-      { "id": "tung1zi1-notification", "word": "通知", "jyutping": "tung1 zi1", "meaning": "notification" },
-      { "id": "gaai2so2-unlock", "word": "解鎖", "jyutping": "gaai2 so2", "meaning": "unlock" }
+    "tech_help_and_fixing": [
+      { "id": "joeng6-man6-help", "word": "幫我睇下", "jyutping": "bong1 ngo5 tai2 haa5", "meaning": "help me take a look" },
+      { "id": "dim2-zo2-what-happened", "word": "點咗？", "jyutping": "dim2 zo2", "meaning": "what happened?" },
+
+      { "id": "zi1-zo2-fix", "word": "整咗", "jyutping": "zing2 zo2", "meaning": "fixed (it)" },
+      { "id": "m4-zi1-how", "word": "我唔識", "jyutping": "ngo5 m4 sik1", "meaning": "I don’t know how" }
     ],
 
-    "browsing_and_web": [
-      { "id": "mong5je5-webpage", "word": "網頁", "jyutping": "mong5 jip6", "meaning": "webpage" },
-      { "id": "laam4jim4-hei3-browser", "word": "瀏覽器", "jyutping": "lau4 laam5 hei3", "meaning": "browser" },
-      { "id": "sou2cam4-search", "word": "搜尋", "jyutping": "sau2 cam4", "meaning": "search" },
-      { "id": "jin4si6-display", "word": "顯示", "jyutping": "hin2 si6", "meaning": "display" },
-      { "id": "jung6gaa3-bookmark", "word": "書籤", "jyutping": "syu1 cim1", "meaning": "bookmark" }
-    ],
+    "spoken_phrases": [
+      { "id": "ngo5-sau2gei1-mou5din6", "word": "我手機冇電", "jyutping": "ngo5 sau2 gei1 mou5 din6", "meaning": "my phone has no battery" },
+      { "id": "wai1fai1-maan6", "word": "Wi-Fi 好慢", "jyutping": "wai1 fai1 hou2 maan6", "meaning": "the Wi-Fi is very slow" },
 
-    "software_and_system": [
-      { "id": "jung6jin6-software", "word": "軟件", "jyutping": "jyun5 gin6", "meaning": "software" },
-      { "id": "haard1jin6-hardware", "word": "硬件", "jyutping": "ngaang6 gin6", "meaning": "hardware" },
-      { "id": "gaan2ban2-version", "word": "版本", "jyutping": "baan2 bun2", "meaning": "version" },
-      { "id": "gang1san1-update", "word": "更新", "jyutping": "gang1 san1", "meaning": "update" },
-      { "id": "on1zong1-install", "word": "安裝", "jyutping": "on1 zong1", "meaning": "install" }
-    ],
-
-    "media_and_content": [
-      { "id": "jam1ngok6-music", "word": "音樂", "jyutping": "jam1 ngok6", "meaning": "music" },
-      { "id": "jing2pin3-video", "word": "影片", "jyutping": "jing2 pin3", "meaning": "video" },
-      { "id": "faat3bou3-post", "word": "發佈", "jyutping": "faat3 bou3", "meaning": "post / publish" },
-      { "id": "seon3sik1-information", "word": "訊息", "jyutping": "seon3 sik1", "meaning": "message / info" }
-    ],
-
-    "social_media": [
-      { "id": "zan1hou2-like", "word": "讚好", "jyutping": "zaan3 hou2", "meaning": "like" },
-      { "id": "fan1soeng2-share", "word": "分享", "jyutping": "fan1 hoeng2", "meaning": "share" },
-      { "id": "zyun3faat3-repost", "word": "轉發", "jyutping": "zyun2 faat3", "meaning": "repost" },
-      { "id": "zan6zing3-comment", "word": "留言", "jyutping": "lau4 jin4", "meaning": "comment" },
-      { "id": "gwan1zyu6-follow", "word": "關注", "jyutping": "gwaan1 zyu3", "meaning": "follow" }
-    ],
-
-    "security_and_privacy": [
-      { "id": "mat6maa5-password", "word": "密碼", "jyutping": "mat6 maa5", "meaning": "password" },
-      { "id": "on1cyun4-security", "word": "安全", "jyutping": "on1 cyun4", "meaning": "security" },
-      { "id": "jam1si1-privacy", "word": "隱私", "jyutping": "jan2 si1", "meaning": "privacy" },
-      { "id": "soeng5so2-lock", "word": "上鎖", "jyutping": "soeng5 so2", "meaning": "lock" }
-    ],
-
-    "connectivity": [
-      { "id": "naam4ngaa4-bluetooth", "word": "藍牙", "jyutping": "laam4 ngaa4", "meaning": "Bluetooth" },
-      { "id": "daai6mong5-broadband", "word": "寬頻", "jyutping": "fun1 pan4", "meaning": "broadband" },
-      { "id": "ji1maan5-mobile-data", "word": "流動數據", "jyutping": "lau4 dung6 sou3 geoi3", "meaning": "mobile data" },
-      { "id": "haap6sap1-hotspot", "word": "熱點", "jyutping": "jit6 dim2", "meaning": "hotspot" },
-      { "id": "lin4zip3-connect", "word": "連接", "jyutping": "lin4 zip3", "meaning": "connect" }
-    ],
-
-    "phone_features": [
-      { "id": "zit3tou4-screenshot", "word": "截圖", "jyutping": "zit6 tou4", "meaning": "screenshot" },
-      { "id": "fei1hang4-mou5sik1-airplane-mode", "word": "飛行模式", "jyutping": "fei1 hang4 mou5 sik1", "meaning": "airplane mode" },
-      { "id": "ling4sing1-ringtone", "word": "鈴聲", "jyutping": "ling4 sing1", "meaning": "ringtone" },
-      { "id": "zi2man4-fingerprint", "word": "指紋", "jyutping": "zi2 man4", "meaning": "fingerprint" },
-      { "id": "jin4min4-face-id", "word": "面容識別", "jyutping": "min6 jung4 sik1 bit6", "meaning": "face recognition" }
-    ],
-
-    "documents_and_files": [
-      { "id": "man4gin6-document", "word": "文件", "jyutping": "man4 gin6", "meaning": "document" },
-      { "id": "pin3folder", "word": "資料夾", "jyutping": "zi1 liu2 gaap3", "meaning": "folder" },
-      { "id": "zip3sou2-zip-file", "word": "壓縮檔", "jyutping": "aat3 suk1 dong3", "meaning": "compressed file" },
-      { "id": "ceot1leoi6-export", "word": "匯出", "jyutping": "wui6 ceot1", "meaning": "export" },
-      { "id": "jap6leoi6-import", "word": "匯入", "jyutping": "wui6 jap6", "meaning": "import" }
-    ],
-
-    "editing_actions": [
-      { "id": "pin1cap1-edit", "word": "編輯", "jyutping": "pin1 kap1", "meaning": "edit" },
-      { "id": "gaa1-add", "word": "加", "jyutping": "gaa1", "meaning": "add" },
-      { "id": "gaai2-remove", "word": "刪", "jyutping": "saan1", "meaning": "delete/remove" },
-      { "id": "soeng2zaai3-copy", "word": "複製", "jyutping": "fuk1 zai3", "meaning": "copy" },
-      { "id": "caa1paste", "word": "貼上", "jyutping": "tip3 soeng5", "meaning": "paste" }
-    ],
-
-    "system_status": [
-      { "id": "jung6hong4-running", "word": "運行", "jyutping": "wan6 hang4", "meaning": "running" },
-      { "id": "ting4zi2-stopped", "word": "停止", "jyutping": "ting4 zi2", "meaning": "stopped" },
-      { "id": "jam1si3-pause", "word": "暫停", "jyutping": "zaam6 ting4", "meaning": "pause" },
-      { "id": "kei4dong6-start", "word": "啟動", "jyutping": "kai2 dung6", "meaning": "start" },
-      { "id": "jung6hong4zung1-end", "word": "結束", "jyutping": "git3 cuk1", "meaning": "end / terminate" }
-    ],
-
-    "hardware_and_power": [
-      { "id": "din6ci4-battery", "word": "電池", "jyutping": "din6 ci4", "meaning": "battery" },
-      { "id": "din6jyun4-power", "word": "電源", "jyutping": "din6 jyun4", "meaning": "power source" },
-      { "id": "plug-socket", "word": "插頭", "jyutping": "caap3 tau4", "meaning": "plug" },
-      { "id": "caap3so2-socket", "word": "插座", "jyutping": "caap3 zo6", "meaning": "power socket" }
+      { "id": "ho2m4ho2ji5-ji3-cung1din6", "word": "可唔可以借充電？", "jyutping": "ho2 m4 ho2 ji5 ze3 cung1 din6", "meaning": "can I borrow a charger?" },
+      { "id": "do1ze6-bong1-sau2", "word": "多謝幫手", "jyutping": "do1 ze6 bong1 sau2", "meaning": "thanks for the help" }
     ]
   }
 }
