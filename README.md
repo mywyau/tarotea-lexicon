@@ -144,6 +144,6 @@ python scripts/generate_words.py \
 
 ```
 
-  export <key>
+export <key>
 
 ```

@@ -74,7 +74,7 @@ Rules:
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
-TOPICS_FILE = Path("content/topics/furniture.json")
+TOPICS_FILE = Path("content/topics/sports-fitness.json")
 OUT_DIR = Path("content/topics/words")
 
 with open(TOPICS_FILE, "r", encoding="utf-8") as f:
