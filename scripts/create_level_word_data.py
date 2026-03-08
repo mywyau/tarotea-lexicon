@@ -4,36 +4,13 @@ from pathlib import Path
 from openai import OpenAI
 
 LIMIT = 200
-print("🚀 generate_word_data.py started")
+print("🚀 generate_level_word_data.py started")
 
-
-def extract_json(text: str) -> str:
-    text = text.strip()
-
-    if "```" in text:
-        text = text.split("```", 2)[1]
-
-    start = text.find("{")
-    end = text.rfind("}") + 1
-
-    return text[start:end]
-
-
-def build_prompt(job):
-    return f"""Generate learning content for a Cantonese word.
-
-Topic: {job["topic"]}
-Category: {job["category"]}
-Level: {job["level"]}
-
-Id: {job["id"]}
-Word: {job["word"]}
-Meaning: {job["meaning"]}
-Jyutping: {job["jyutping"]}
+SYSTEM_PROMPT = """
+You are a professional Hong Kong Cantonese linguist and language teacher.
 
 Requirements:
 - Use the provided jyutping as canonical
-- Part of speech: noun (if applicable)
 - In english generate four or five sentences on grammatical usage of the word in the Usage field section, please translate to english and no chinese in this section.
 - Generate exactly 4 example sentences of using the word in different contexts
 - Generate learner-friendly tags
@@ -58,57 +35,98 @@ Return JSON in this exact format (no extra fields):
 With filename = <id>.json
 """
 
-SYSTEM_PROMPT = """
-You are a professional Hong Kong Cantonese linguist and language teacher.
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
-Rules:
-- Use natural spoken Hong Kong Cantonese
-- Jyutping must be accurate and include tone numbers
-- Example Sentences should be short, practical, and everyday
-- Avoid textbook-style phrasing
-- Word Usage notes should be concrete and learner-friendly
-- Output STRICT JSON only
-- No explanations
+LEVEL_FILE = Path("content/levels/level-ten.json")
+OUT_DIR = Path("content/levels/generated")
+
+
+def extract_json(text: str) -> str:
+    text = text.strip()
+    if "```" in text:
+        text = text.split("```", 2)[1]
+
+    start = text.find("{")
+    end = text.rfind("}") + 1
+    return text[start:end]
+
+
+def build_prompt(job):
+    return f"""Generate learning content for an advanced Cantonese expression.
+
+Level: {job["level"]}
+Category: {job["category"]}
+
+Id: {job["id"]}
+Expression: {job["word"]}
+Meaning: {job["meaning"]}
+Jyutping: {job["jyutping"]}
+
+Requirements:
+- Use provided jyutping as canonical
+- This may be a phrase, idiom, or discourse marker
+- POS should be: phrase, idiom, connector, particle, expression
+
+Usage:
+- 4–5 English-only learner notes
+- No Chinese characters inside usage notes
+
+Examples:
+- Exactly 4 natural spoken Cantonese sentences
+
+Return STRICT JSON only:
+
+{{
+  "pos": [],
+  "usage": [],
+  "examples": [
+    {{
+      "sentence": "",
+      "jyutping": "",
+      "meaning": ""
+    }}
+  ],
+  "tags": [],
+  "related": []
+}}
 """
 
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+# Load level file
+with open(LEVEL_FILE, "r", encoding="utf-8") as f:
+    level_data = json.load(f)
 
-TOPICS_FILE = Path("content/topics/sports-fitness.json")
-OUT_DIR = Path("content/topics/words")
+level_number = level_data["level"]
 
-with open(TOPICS_FILE, "r", encoding="utf-8") as f:
-    topic_data = json.load(f)
-
-topic_name = topic_data["topic"]
 count = 0
 
-for category, items in topic_data["categories"].items():
+for category, items in level_data["categories"].items():
     for entry in items:
+
         if count >= LIMIT:
             break
-        count += 1
 
-        job = {
-            "topic": topic_name,
-            "category": category,
-            "id": entry["id"],
-            "word": entry["word"],
-            "meaning": entry["meaning"],
-            "jyutping": entry["jyutping"],
-            "level": 1
-        }
+        count += 1
 
         word_id = entry["id"]
 
-        out_dir = OUT_DIR / topic_name / category
+        out_dir = OUT_DIR / f"level-{level_number}" / category
         out_dir.mkdir(parents=True, exist_ok=True)
 
         out_path = out_dir / f"{word_id}.json"
 
         if out_path.exists():
-            print(f"⏭️  Skipping existing {word_id}")
+            print(f"⏭️ Skipping existing {word_id}")
             continue
+
+        job = {
+            "level": level_number,
+            "category": category,
+            "id": word_id,
+            "word": entry["word"],
+            "meaning": entry["meaning"],
+            "jyutping": entry["jyutping"]
+        }
 
         prompt = build_prompt(job)
 
@@ -126,7 +144,7 @@ for category, items in topic_data["categories"].items():
         try:
             generated = json.loads(json_text)
         except json.JSONDecodeError:
-            print("❌ JSON parse failed for:", entry["word"])
+            print("❌ JSON parse failed:", entry["word"])
             print(raw_text)
             continue
 
@@ -153,7 +171,7 @@ for category, items in topic_data["categories"].items():
                     for i in range(len(generated["examples"]))
                 ]
             },
-            "tags": generated["tags"] + [f"level-{job['level']}"],
+            "tags": generated["tags"] + [f"level-{level_number}"],
             "related": generated["related"]
         }
 

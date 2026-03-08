@@ -1,2152 +1,1777 @@
 [
   {
-    "filename": "aa2ling4-dumbbell",
-    "id": "aa2ling4-dumbbell",
-    "text": "啞鈴"
+    "filename": "bing1-cold-icy",
+    "id": "bing1-cold-icy",
+    "text": "冰"
   },
   {
-    "filename": "aa2ling4-dumbbell-example-1",
-    "id": "aa2ling4-dumbbell-example-1",
-    "text": "我每日用啞鈴做手臂運動。"
+    "filename": "bing1-cold-icy-example-1",
+    "id": "bing1-cold-icy-example-1",
+    "text": "我想飲凍飲，攞啲冰嚟。"
   },
   {
-    "filename": "aa2ling4-dumbbell-example-2",
-    "id": "aa2ling4-dumbbell-example-2",
-    "text": "呢啲啞鈴幾重？"
+    "filename": "bing1-cold-icy-example-2",
+    "id": "bing1-cold-icy-example-2",
+    "text": "冬天啲路面冇冰好安全。"
   },
   {
-    "filename": "aa2ling4-dumbbell-example-3",
-    "id": "aa2ling4-dumbbell-example-3",
-    "text": "你識唔識正確握啞鈴嘅方式？"
+    "filename": "bing1-cold-icy-example-3",
+    "id": "bing1-cold-icy-example-3",
+    "text": "冰箱入面有啲冰丟左。"
   },
   {
-    "filename": "aa2ling4-dumbbell-example-4",
-    "id": "aa2ling4-dumbbell-example-4",
-    "text": "佢用啞鈴鍛鍊肌肉，好健康。"
+    "filename": "bing1-cold-icy-example-4",
+    "id": "bing1-cold-icy-example-4",
+    "text": "夏天飲啲加冰水好舒服。"
   },
   {
-    "filename": "bok3tau4-shoulders",
-    "id": "bok3tau4-shoulders",
-    "text": "膊頭"
+    "filename": "bou6jyu5-rainstorm",
+    "id": "bou6jyu5-rainstorm",
+    "text": "暴雨"
   },
   {
-    "filename": "bok3tau4-shoulders-example-1",
-    "id": "bok3tau4-shoulders-example-1",
-    "text": "我今日膊頭好痛。"
+    "filename": "bou6jyu5-rainstorm-example-1",
+    "id": "bou6jyu5-rainstorm-example-1",
+    "text": "今日好似會有暴雨。"
   },
   {
-    "filename": "bok3tau4-shoulders-example-2",
-    "id": "bok3tau4-shoulders-example-2",
-    "text": "做運動之前，要暖身膊頭。"
+    "filename": "bou6jyu5-rainstorm-example-2",
+    "id": "bou6jyu5-rainstorm-example-2",
+    "text": "暴雨令路面好滑。"
   },
   {
-    "filename": "bok3tau4-shoulders-example-3",
-    "id": "bok3tau4-shoulders-example-3",
-    "text": "佢膊頭甩咗，要去睇醫生。"
+    "filename": "bou6jyu5-rainstorm-example-3",
+    "id": "bou6jyu5-rainstorm-example-3",
+    "text": "暴雨過後，天氣變得好清涼。"
   },
   {
-    "filename": "bok3tau4-shoulders-example-4",
-    "id": "bok3tau4-shoulders-example-4",
-    "text": "我最近經常提重嘢，膊頭承受唔住。"
+    "filename": "bou6jyu5-rainstorm-example-4",
+    "id": "bou6jyu5-rainstorm-example-4",
+    "text": "佢哋因為暴雨而遲到。"
   },
   {
-    "filename": "bui3gei1-back",
-    "id": "bui3gei1-back",
-    "text": "背肌"
+    "filename": "cau1tin1-autumn",
+    "id": "cau1tin1-autumn",
+    "text": "秋天"
   },
   {
-    "filename": "bui3gei1-back-example-1",
-    "id": "bui3gei1-back-example-1",
-    "text": "我啲背肌今日好攰。"
+    "filename": "cau1tin1-autumn-example-1",
+    "id": "cau1tin1-autumn-example-1",
+    "text": "秋天嘅天氣好舒服。"
   },
   {
-    "filename": "bui3gei1-back-example-2",
-    "id": "bui3gei1-back-example-2",
-    "text": "做背肌訓練可以改善姿勢。"
+    "filename": "cau1tin1-autumn-example-2",
+    "id": "cau1tin1-autumn-example-2",
+    "text": "我鍾意秋天去行山。"
   },
   {
-    "filename": "bui3gei1-back-example-3",
-    "id": "bui3gei1-back-example-3",
-    "text": "佢因為舉重所以背肌好發達。"
+    "filename": "cau1tin1-autumn-example-3",
+    "id": "cau1tin1-autumn-example-3",
+    "text": "秋天落葉落得好靚。"
   },
   {
-    "filename": "bui3gei1-back-example-4",
-    "id": "bui3gei1-back-example-4",
-    "text": "記得鍛鍊背肌減少受傷。"
+    "filename": "cau1tin1-autumn-example-4",
+    "id": "cau1tin1-autumn-example-4",
+    "text": "秋天夜晚開始涼快。"
   },
   {
-    "filename": "caai2daan1ce1-cycling",
-    "id": "caai2daan1ce1-cycling",
-    "text": "踩單車"
+    "filename": "ceon1tin1-spring",
+    "id": "ceon1tin1-spring",
+    "text": "春天"
   },
   {
-    "filename": "caai2daan1ce1-cycling-example-1",
-    "id": "caai2daan1ce1-cycling-example-1",
-    "text": "我星期日去踩單車。"
+    "filename": "ceon1tin1-spring-example-1",
+    "id": "ceon1tin1-spring-example-1",
+    "text": "春天嘅花開得好靚。"
   },
   {
-    "filename": "caai2daan1ce1-cycling-example-2",
-    "id": "caai2daan1ce1-cycling-example-2",
-    "text": "你鍾唔鍾意踩單車？"
+    "filename": "ceon1tin1-spring-example-2",
+    "id": "ceon1tin1-spring-example-2",
+    "text": "我鍾意春天嘅天氣。"
   },
   {
-    "filename": "caai2daan1ce1-cycling-example-3",
-    "id": "caai2daan1ce1-cycling-example-3",
-    "text": "踩單車可以保持健康。"
+    "filename": "ceon1tin1-spring-example-3",
+    "id": "ceon1tin1-spring-example-3",
+    "text": "春天係去旅行嘅好時候。"
   },
   {
-    "filename": "caai2daan1ce1-cycling-example-4",
-    "id": "caai2daan1ce1-cycling-example-4",
-    "text": "佢每日踩單車返工。"
+    "filename": "ceon1tin1-spring-example-4",
+    "id": "ceon1tin1-spring-example-4",
+    "text": "今年春天我哋去咗公園散步。"
   },
   {
-    "filename": "caai2waat6baan2-skateboard",
-    "id": "caai2waat6baan2-skateboard",
-    "text": "踩滑板"
+    "filename": "cing1-clear",
+    "id": "cing1-clear",
+    "text": "清"
   },
   {
-    "filename": "caai2waat6baan2-skateboard-example-1",
-    "id": "caai2waat6baan2-skateboard-example-1",
-    "text": "我鐘意踩滑板。"
+    "filename": "cing1-clear-example-1",
+    "id": "cing1-clear-example-1",
+    "text": "今日啲天氣好清。"
   },
   {
-    "filename": "caai2waat6baan2-skateboard-example-2",
-    "id": "caai2waat6baan2-skateboard-example-2",
-    "text": "你識唔識踩滑板？"
+    "filename": "cing1-clear-example-2",
+    "id": "cing1-clear-example-2",
+    "text": "呢個水塘嘅水好清。"
   },
   {
-    "filename": "caai2waat6baan2-skateboard-example-3",
-    "id": "caai2waat6baan2-skateboard-example-3",
-    "text": "佢哋每日去踩滑板場。"
+    "filename": "cing1-clear-example-3",
+    "id": "cing1-clear-example-3",
+    "text": "佢嘅眼睛睇得好清楚。"
   },
   {
-    "filename": "caai2waat6baan2-skateboard-example-4",
-    "id": "caai2waat6baan2-skateboard-example-4",
-    "text": "踩滑板要戴安全帽。"
+    "filename": "cing1-clear-example-4",
+    "id": "cing1-clear-example-4",
+    "text": "早晨嘅空氣好清新。"
   },
   {
-    "filename": "ci3-repetition",
-    "id": "ci3-repetition",
-    "text": "次"
+    "filename": "cing1san1-fresh",
+    "id": "cing1san1-fresh",
+    "text": "清新"
   },
   {
-    "filename": "ci3-repetition-example-1",
-    "id": "ci3-repetition-example-1",
-    "text": "我昨日做咗三十次啞鈴。"
+    "filename": "cing1san1-fresh-example-1",
+    "id": "cing1san1-fresh-example-1",
+    "text": "今朝嘅空氣好清新。"
   },
   {
-    "filename": "ci3-repetition-example-2",
-    "id": "ci3-repetition-example-2",
-    "text": "每次要做八個伏地挺身。"
+    "filename": "cing1san1-fresh-example-2",
+    "id": "cing1san1-fresh-example-2",
+    "text": "個房間有清新嘅香味。"
   },
   {
-    "filename": "ci3-repetition-example-3",
-    "id": "ci3-repetition-example-3",
-    "text": "佢做俾我睇兩次引體向上。"
+    "filename": "cing1san1-fresh-example-3",
+    "id": "cing1san1-fresh-example-3",
+    "text": "出面吹住清新嘅風，好舒服。"
   },
   {
-    "filename": "ci3-repetition-example-4",
-    "id": "ci3-repetition-example-4",
-    "text": "今次健身課要做更多次。"
+    "filename": "cing1san1-fresh-example-4",
+    "id": "cing1san1-fresh-example-4",
+    "text": "飲杯清新嘅檸檬水啦。"
   },
   {
-    "filename": "cung1long6-surf",
-    "id": "cung1long6-surf",
-    "text": "衝浪"
+    "filename": "cing4fong3-condition",
+    "id": "cing4fong3-condition",
+    "text": "情況"
   },
   {
-    "filename": "cung1long6-surf-example-1",
-    "id": "cung1long6-surf-example-1",
-    "text": "我哋星期六去海邊衝浪。"
+    "filename": "cing4fong3-condition-example-1",
+    "id": "cing4fong3-condition-example-1",
+    "text": "天氣情況好，出街玩啦！"
   },
   {
-    "filename": "cung1long6-surf-example-2",
-    "id": "cung1long6-surf-example-2",
-    "text": "夏天最好嘅運動就係衝浪。"
+    "filename": "cing4fong3-condition-example-2",
+    "id": "cing4fong3-condition-example-2",
+    "text": "你嘅身體情況點呀？"
   },
   {
-    "filename": "cung1long6-surf-example-3",
-    "id": "cung1long6-surf-example-3",
-    "text": "你想唔想學衝浪？"
+    "filename": "cing4fong3-condition-example-3",
+    "id": "cing4fong3-condition-example-3",
+    "text": "依家嘅交通情況好差。"
   },
   {
-    "filename": "cung1long6-surf-example-4",
-    "id": "cung1long6-surf-example-4",
-    "text": "衝浪對身體健康好有益。"
+    "filename": "cing4fong3-condition-example-4",
+    "id": "cing4fong3-condition-example-4",
+    "text": "我哋要了解現場情況先。"
   },
   {
-    "filename": "daa2bing1bam1bo1-table-tennis",
-    "id": "daa2bing1bam1bo1-table-tennis",
-    "text": "打乒乓波"
+    "filename": "cing4tin1-clear-sky",
+    "id": "cing4tin1-clear-sky",
+    "text": "晴天"
   },
   {
-    "filename": "daa2bing1bam1bo1-table-tennis-example-1",
-    "id": "daa2bing1bam1bo1-table-tennis-example-1",
-    "text": "我今日想打乒乓波。"
+    "filename": "cing4tin1-clear-sky-example-1",
+    "id": "cing4tin1-clear-sky-example-1",
+    "text": "今日係晴天，我哋去行山啦。"
   },
   {
-    "filename": "daa2bing1bam1bo1-table-tennis-example-2",
-    "id": "daa2bing1bam1bo1-table-tennis-example-2",
-    "text": "佢哋喺學校打乒乓波。"
+    "filename": "cing4tin1-clear-sky-example-2",
+    "id": "cing4tin1-clear-sky-example-2",
+    "text": "明日有晴天，唔使帶傘。"
   },
   {
-    "filename": "daa2bing1bam1bo1-table-tennis-example-3",
-    "id": "daa2bing1bam1bo1-table-tennis-example-3",
-    "text": "打乒乓波可以令你身體好啲。"
+    "filename": "cing4tin1-clear-sky-example-3",
+    "id": "cing4tin1-clear-sky-example-3",
+    "text": "細個嘅時候，我最鐘意晴天玩街。"
   },
   {
-    "filename": "daa2bing1bam1bo1-table-tennis-example-4",
-    "id": "daa2bing1bam1bo1-table-tennis-example-4",
-    "text": "我哋星期日約咗時間打乒乓波。"
+    "filename": "cing4tin1-clear-sky-example-4",
+    "id": "cing4tin1-clear-sky-example-4",
+    "text": "晴天出去，心情都開心啲。"
   },
   {
-    "filename": "daa2gou1ji5fu1kau4-golf",
-    "id": "daa2gou1ji5fu1kau4-golf",
-    "text": "打高爾夫球"
+    "filename": "ciu4sap1-humid",
+    "id": "ciu4sap1-humid",
+    "text": "潮濕"
   },
   {
-    "filename": "daa2gou1ji5fu1kau4-golf-example-1",
-    "id": "daa2gou1ji5fu1kau4-golf-example-1",
-    "text": "我週末會去打高爾夫球。"
+    "filename": "ciu4sap1-humid-example-1",
+    "id": "ciu4sap1-humid-example-1",
+    "text": "今日嘅天氣好潮濕，成日出汗。"
   },
   {
-    "filename": "daa2gou1ji5fu1kau4-golf-example-2",
-    "id": "daa2gou1ji5fu1kau4-golf-example-2",
-    "text": "你識唔識打高爾夫球？"
+    "filename": "ciu4sap1-humid-example-2",
+    "id": "ciu4sap1-humid-example-2",
+    "text": "呢間房太潮濕，啲牆變咗霉。"
   },
   {
-    "filename": "daa2gou1ji5fu1kau4-golf-example-3",
-    "id": "daa2gou1ji5fu1kau4-golf-example-3",
-    "text": "佢哋成日一齊打高爾夫球。"
+    "filename": "ciu4sap1-humid-example-3",
+    "id": "ciu4sap1-humid-example-3",
+    "text": "潮濕嘅天氣會令衫乾得慢。"
   },
   {
-    "filename": "daa2gou1ji5fu1kau4-golf-example-4",
-    "id": "daa2gou1ji5fu1kau4-golf-example-4",
-    "text": "下個月我諗住學打高爾夫球。"
+    "filename": "ciu4sap1-humid-example-4",
+    "id": "ciu4sap1-humid-example-4",
+    "text": "依家空氣好潮濕，容易唔舒服。"
   },
   {
-    "filename": "daa2jyu5mou4kau4-badminton",
-    "id": "daa2jyu5mou4kau4-badminton",
-    "text": "打羽毛球"
+    "filename": "coi2hung4-rainbow",
+    "id": "coi2hung4-rainbow",
+    "text": "彩虹"
   },
   {
-    "filename": "daa2jyu5mou4kau4-badminton-example-1",
-    "id": "daa2jyu5mou4kau4-badminton-example-1",
-    "text": "我星期六同朋友去打羽毛球。"
+    "filename": "coi2hung4-rainbow-example-1",
+    "id": "coi2hung4-rainbow-example-1",
+    "text": "我哋見到一條好靚嘅彩虹。"
   },
   {
-    "filename": "daa2jyu5mou4kau4-badminton-example-2",
-    "id": "daa2jyu5mou4kau4-badminton-example-2",
-    "text": "你鐘唔鐘意打羽毛球？"
+    "filename": "coi2hung4-rainbow-example-2",
+    "id": "coi2hung4-rainbow-example-2",
+    "text": "落雨之後出現咗彩虹。"
   },
   {
-    "filename": "daa2jyu5mou4kau4-badminton-example-3",
-    "id": "daa2jyu5mou4kau4-badminton-example-3",
-    "text": "我每日打羽毛球做運動。"
+    "filename": "coi2hung4-rainbow-example-3",
+    "id": "coi2hung4-rainbow-example-3",
+    "text": "彩虹有好多顏色，好靚。"
   },
   {
-    "filename": "daa2jyu5mou4kau4-badminton-example-4",
-    "id": "daa2jyu5mou4kau4-badminton-example-4",
-    "text": "唔好遲到，我哋今晚打羽毛球。"
+    "filename": "coi2hung4-rainbow-example-4",
+    "id": "coi2hung4-rainbow-example-4",
+    "text": "小朋友見到彩虹會好開心。"
   },
   {
-    "filename": "daa2kyun4-boxing",
-    "id": "daa2kyun4-boxing",
-    "text": "打拳"
+    "filename": "daai6fung1-strong-wind",
+    "id": "daai6fung1-strong-wind",
+    "text": "大風"
   },
   {
-    "filename": "daa2kyun4-boxing-example-1",
-    "id": "daa2kyun4-boxing-example-1",
-    "text": "佢每日去健身室打拳。"
+    "filename": "daai6fung1-strong-wind-example-1",
+    "id": "daai6fung1-strong-wind-example-1",
+    "text": "今日大風，好難企穩。"
   },
   {
-    "filename": "daa2kyun4-boxing-example-2",
-    "id": "daa2kyun4-boxing-example-2",
-    "text": "我想學打拳，保持身體健康。"
+    "filename": "daai6fung1-strong-wind-example-2",
+    "id": "daai6fung1-strong-wind-example-2",
+    "text": "大風令條路啲樹都倒咗。"
   },
   {
-    "filename": "daa2kyun4-boxing-example-3",
-    "id": "daa2kyun4-boxing-example-3",
-    "text": "打拳可以增強耐力。"
+    "filename": "daai6fung1-strong-wind-example-3",
+    "id": "daai6fung1-strong-wind-example-3",
+    "text": "聽日會有大風，要小心啲。"
   },
   {
-    "filename": "daa2kyun4-boxing-example-4",
-    "id": "daa2kyun4-boxing-example-4",
-    "text": "佢細個已經開始學打拳。"
+    "filename": "daai6fung1-strong-wind-example-4",
+    "id": "daai6fung1-strong-wind-example-4",
+    "text": "大風三號風球已經掛起。"
   },
   {
-    "filename": "daa2laam4kau4-basketball",
-    "id": "daa2laam4kau4-basketball",
-    "text": "打籃球"
+    "filename": "daai6jyu5-heavy-rain",
+    "id": "daai6jyu5-heavy-rain",
+    "text": "大雨"
   },
   {
-    "filename": "daa2laam4kau4-basketball-example-1",
-    "id": "daa2laam4kau4-basketball-example-1",
-    "text": "我鐘意同朋友一齊打籃球。"
+    "filename": "daai6jyu5-heavy-rain-example-1",
+    "id": "daai6jyu5-heavy-rain-example-1",
+    "text": "今日落大雨，我冇帶遮。"
   },
   {
-    "filename": "daa2laam4kau4-basketball-example-2",
-    "id": "daa2laam4kau4-basketball-example-2",
-    "text": "我星期三下午會去打籃球。"
+    "filename": "daai6jyu5-heavy-rain-example-2",
+    "id": "daai6jyu5-heavy-rain-example-2",
+    "text": "大雨令成條街都淹水。"
   },
   {
-    "filename": "daa2laam4kau4-basketball-example-3",
-    "id": "daa2laam4kau4-basketball-example-3",
-    "text": "你識唔識打籃球？"
+    "filename": "daai6jyu5-heavy-rain-example-3",
+    "id": "daai6jyu5-heavy-rain-example-3",
+    "text": "聽講聽日會落大雨，好似要颱風咁。"
   },
   {
-    "filename": "daa2laam4kau4-basketball-example-4",
-    "id": "daa2laam4kau4-basketball-example-4",
-    "text": "打籃球可以幫助我保持身體健康。"
+    "filename": "daai6jyu5-heavy-rain-example-4",
+    "id": "daai6jyu5-heavy-rain-example-4",
+    "text": "你出門記得帶遮，因為可能會落大雨。"
   },
   {
-    "filename": "daa2laam5kau4-rugby",
-    "id": "daa2laam5kau4-rugby",
-    "text": "打欖球"
+    "filename": "din6-lightning",
+    "id": "din6-lightning",
+    "text": "電"
   },
   {
-    "filename": "daa2laam5kau4-rugby-example-1",
-    "id": "daa2laam5kau4-rugby-example-1",
-    "text": "我星期六會去公園打欖球。"
+    "filename": "din6-lightning-example-1",
+    "id": "din6-lightning-example-1",
+    "text": "今晚有電，好驚呀！"
   },
   {
-    "filename": "daa2laam5kau4-rugby-example-2",
-    "id": "daa2laam5kau4-rugby-example-2",
-    "text": "佢好鍾意打欖球，幾乎每日都打。"
+    "filename": "din6-lightning-example-2",
+    "id": "din6-lightning-example-2",
+    "text": "聽日可能有雷同電。"
   },
   {
-    "filename": "daa2laam5kau4-rugby-example-3",
-    "id": "daa2laam5kau4-rugby-example-3",
-    "text": "打欖球可以令你身體變得更健康。"
+    "filename": "din6-lightning-example-3",
+    "id": "din6-lightning-example-3",
+    "text": "啲電閃得好快。"
   },
   {
-    "filename": "daa2laam5kau4-rugby-example-4",
-    "id": "daa2laam5kau4-rugby-example-4",
-    "text": "我哋學校有一隊打欖球嘅隊伍。"
+    "filename": "din6-lightning-example-4",
+    "id": "din6-lightning-example-4",
+    "text": "你小心啊，啲電好危險。"
   },
   {
-    "filename": "daa2mong5kau4-tennis",
-    "id": "daa2mong5kau4-tennis",
-    "text": "打網球"
+    "filename": "dung1tin1-winter",
+    "id": "dung1tin1-winter",
+    "text": "冬天"
   },
   {
-    "filename": "daa2mong5kau4-tennis-example-1",
-    "id": "daa2mong5kau4-tennis-example-1",
-    "text": "我鍾意打網球。"
+    "filename": "dung1tin1-winter-example-1",
+    "id": "dung1tin1-winter-example-1",
+    "text": "冬天好凍，我要着多件衫。"
   },
   {
-    "filename": "daa2mong5kau4-tennis-example-2",
-    "id": "daa2mong5kau4-tennis-example-2",
-    "text": "你星期六想唔想打網球？"
+    "filename": "dung1tin1-winter-example-2",
+    "id": "dung1tin1-winter-example-2",
+    "text": "冬天我鍾意飲熱茶。"
   },
   {
-    "filename": "daa2mong5kau4-tennis-example-3",
-    "id": "daa2mong5kau4-tennis-example-3",
-    "text": "佢哋成日一齊打網球。"
+    "filename": "dung1tin1-winter-example-3",
+    "id": "dung1tin1-winter-example-3",
+    "text": "冬天嘅時候，好多地方會落雪。"
   },
   {
-    "filename": "daa2mong5kau4-tennis-example-4",
-    "id": "daa2mong5kau4-tennis-example-4",
-    "text": "我唔識打網球，想學啲技巧。"
+    "filename": "dung1tin1-winter-example-4",
+    "id": "dung1tin1-winter-example-4",
+    "text": "冬天唔太舒服，我想去旅行。"
   },
   {
-    "filename": "daa2paai4kau4-volleyball",
-    "id": "daa2paai4kau4-volleyball",
-    "text": "打排球"
+    "filename": "dung3-cold",
+    "id": "dung3-cold",
+    "text": "凍"
   },
   {
-    "filename": "daa2paai4kau4-volleyball-example-1",
-    "id": "daa2paai4kau4-volleyball-example-1",
-    "text": "我每個星期日都會打排球。"
+    "filename": "dung3-cold-example-1",
+    "id": "dung3-cold-example-1",
+    "text": "今日好凍，我要著多件衫。"
   },
   {
-    "filename": "daa2paai4kau4-volleyball-example-2",
-    "id": "daa2paai4kau4-volleyball-example-2",
-    "text": "你想唔想一齊去打排球？"
+    "filename": "dung3-cold-example-2",
+    "id": "dung3-cold-example-2",
+    "text": "雪水凍凍哋，好醒神。"
   },
   {
-    "filename": "daa2paai4kau4-volleyball-example-3",
-    "id": "daa2paai4kau4-volleyball-example-3",
-    "text": "我哋學校有個打排球隊。"
+    "filename": "dung3-cold-example-3",
+    "id": "dung3-cold-example-3",
+    "text": "開冷氣，唔好覺得凍吖。"
   },
   {
-    "filename": "daa2paai4kau4-volleyball-example-4",
-    "id": "daa2paai4kau4-volleyball-example-4",
-    "text": "佢哋經常喺海灘打排球。"
+    "filename": "dung3-cold-example-4",
+    "id": "dung3-cold-example-4",
+    "text": "冬天嘅早晨好凍，要飲熱茶。"
   },
   {
-    "filename": "daa2taai3gik6-taichi",
-    "id": "daa2taai3gik6-taichi",
-    "text": "打太極"
+    "filename": "fung1-wind",
+    "id": "fung1-wind",
+    "text": "風"
   },
   {
-    "filename": "daa2taai3gik6-taichi-example-1",
-    "id": "daa2taai3gik6-taichi-example-1",
-    "text": "我每日早上都會打太極。"
+    "filename": "fung1-wind-example-1",
+    "id": "fung1-wind-example-1",
+    "text": "今日嘅風好大。"
   },
   {
-    "filename": "daa2taai3gik6-taichi-example-2",
-    "id": "daa2taai3gik6-taichi-example-2",
-    "text": "你想唔想一齊去公園打太極？"
+    "filename": "fung1-wind-example-2",
+    "id": "fung1-wind-example-2",
+    "text": "冬天嘅風好凍。"
   },
   {
-    "filename": "daa2taai3gik6-taichi-example-3",
-    "id": "daa2taai3gik6-taichi-example-3",
-    "text": "打太極幫助放鬆身心。"
+    "filename": "fung1-wind-example-3",
+    "id": "fung1-wind-example-3",
+    "text": "風吹樹葉喺度沙沙響。"
   },
   {
-    "filename": "daa2taai3gik6-taichi-example-4",
-    "id": "daa2taai3gik6-taichi-example-4",
-    "text": "爸爸退休後開始學打太極。"
+    "filename": "fung1-wind-example-4",
+    "id": "fung1-wind-example-4",
+    "text": "最近有新嘅風氣喺公司出現。"
   },
   {
-    "filename": "daa2wo4-draw",
-    "id": "daa2wo4-draw",
-    "text": "打和"
+    "filename": "fung1bou6-storm",
+    "id": "fung1bou6-storm",
+    "text": "風暴"
   },
   {
-    "filename": "daa2wo4-draw-example-1",
-    "id": "daa2wo4-draw-example-1",
-    "text": "球賽打和，大家都唔輸。"
+    "filename": "fung1bou6-storm-example-1",
+    "id": "fung1bou6-storm-example-1",
+    "text": "聽日會有風暴，記得帶雨傘。"
   },
   {
-    "filename": "daa2wo4-draw-example-2",
-    "id": "daa2wo4-draw-example-2",
-    "text": "今次比賽打和，我哋都幾開心。"
+    "filename": "fung1bou6-storm-example-2",
+    "id": "fung1bou6-storm-example-2",
+    "text": "上次嗰場風暴好勁，好多樹倒咗。"
   },
   {
-    "filename": "daa2wo4-draw-example-3",
-    "id": "daa2wo4-draw-example-3",
-    "text": "足球隊打和之後要準備下場比賽。"
+    "filename": "fung1bou6-storm-example-3",
+    "id": "fung1bou6-storm-example-3",
+    "text": "係咪真係有風暴警告？"
   },
   {
-    "filename": "daa2wo4-draw-example-4",
-    "id": "daa2wo4-draw-example-4",
-    "text": "佢哋成日打和，冇分勝負。"
+    "filename": "fung1bou6-storm-example-4",
+    "id": "fung1bou6-storm-example-4",
+    "text": "因為風暴，學校今日停課。"
   },
   {
-    "filename": "daai6teoi2-thighs",
-    "id": "daai6teoi2-thighs",
-    "text": "大腿"
+    "filename": "fung1kau4-signal",
+    "id": "fung1kau4-signal",
+    "text": "風球"
   },
   {
-    "filename": "daai6teoi2-thighs-example-1",
-    "id": "daai6teoi2-thighs-example-1",
-    "text": "我做大腿運動加強肌肉。"
+    "filename": "fung1kau4-signal-example-1",
+    "id": "fung1kau4-signal-example-1",
+    "text": "政府宣佈掛起三號風球。"
   },
   {
-    "filename": "daai6teoi2-thighs-example-2",
-    "id": "daai6teoi2-thighs-example-2",
-    "text": "佢嘅大腿好壯碩。"
+    "filename": "fung1kau4-signal-example-2",
+    "id": "fung1kau4-signal-example-2",
+    "text": "如果掛咗風球，記得留喺屋企。"
   },
   {
-    "filename": "daai6teoi2-thighs-example-3",
-    "id": "daai6teoi2-thighs-example-3",
-    "text": "跑步時大腿會好快攰。"
+    "filename": "fung1kau4-signal-example-3",
+    "id": "fung1kau4-signal-example-3",
+    "text": "天文台話今日可能會落風球。"
   },
   {
-    "filename": "daai6teoi2-thighs-example-4",
-    "id": "daai6teoi2-thighs-example-4",
-    "text": "佢大腿拉傷，要休息吓。"
+    "filename": "fung1kau4-signal-example-4",
+    "id": "fung1kau4-signal-example-4",
+    "text": "風球一落，地鐵會停咗班。"
   },
   {
-    "filename": "daan1ce1gei1-exercise-bike",
-    "id": "daan1ce1gei1-exercise-bike",
-    "text": "單車機"
+    "filename": "ging2bou3-warning",
+    "id": "ging2bou3-warning",
+    "text": "警報"
   },
   {
-    "filename": "daan1ce1gei1-exercise-bike-example-1",
-    "id": "daan1ce1gei1-exercise-bike-example-1",
-    "text": "我鍾意用單車機做運動。"
+    "filename": "ging2bou3-warning-example-1",
+    "id": "ging2bou3-warning-example-1",
+    "text": "政府發出颱風警報。"
   },
   {
-    "filename": "daan1ce1gei1-exercise-bike-example-2",
-    "id": "daan1ce1gei1-exercise-bike-example-2",
-    "text": "間健身室有好多部單車機。"
+    "filename": "ging2bou3-warning-example-2",
+    "id": "ging2bou3-warning-example-2",
+    "text": "聽到警報，快啲入室內。"
   },
   {
-    "filename": "daan1ce1gei1-exercise-bike-example-3",
-    "id": "daan1ce1gei1-exercise-bike-example-3",
-    "text": "你試過一個鐘騎單車機未？"
+    "filename": "ging2bou3-warning-example-3",
+    "id": "ging2bou3-warning-example-3",
+    "text": "警報已經結束，可以出街了。"
   },
   {
-    "filename": "daan1ce1gei1-exercise-bike-example-4",
-    "id": "daan1ce1gei1-exercise-bike-example-4",
-    "text": "我哋下星期買部新嘅單車機。"
+    "filename": "ging2bou3-warning-example-4",
+    "id": "ging2bou3-warning-example-4",
+    "text": "學校因為警報而停課。"
   },
   {
-    "filename": "deoi3sau2-opponent",
-    "id": "deoi3sau2-opponent",
-    "text": "對手"
+    "filename": "gon1-dry",
+    "id": "gon1-dry",
+    "text": "乾"
   },
   {
-    "filename": "deoi3sau2-opponent-example-1",
-    "id": "deoi3sau2-opponent-example-1",
-    "text": "今次比賽，我嘅對手好強。"
+    "filename": "gon1-dry-example-1",
+    "id": "gon1-dry-example-1",
+    "text": "今天天氣好乾。"
   },
   {
-    "filename": "deoi3sau2-opponent-example-2",
-    "id": "deoi3sau2-opponent-example-2",
-    "text": "佢喺籃球隊做我嘅主要對手。"
+    "filename": "gon1-dry-example-2",
+    "id": "gon1-dry-example-2",
+    "text": "呢塊餅幾乾。"
   },
   {
-    "filename": "deoi3sau2-opponent-example-3",
-    "id": "deoi3sau2-opponent-example-3",
-    "text": "比賽中，我避免唔好低估對手。"
+    "filename": "gon1-dry-example-3",
+    "id": "gon1-dry-example-3",
+    "text": "我屋企好乾燥。"
   },
   {
-    "filename": "deoi3sau2-opponent-example-4",
-    "id": "deoi3sau2-opponent-example-4",
-    "text": "佢嘅對手係一支好勁嘅足球隊。"
+    "filename": "gon1-dry-example-4",
+    "id": "gon1-dry-example-4",
+    "text": "乾季唔係咁多雨。"
   },
   {
-    "filename": "deoi6jau5-teammate",
-    "id": "deoi6jau5-teammate",
-    "text": "隊友"
+    "filename": "guk1-stuffy",
+    "id": "guk1-stuffy",
+    "text": "焗"
   },
   {
-    "filename": "deoi6jau5-teammate-example-1",
-    "id": "deoi6jau5-teammate-example-1",
-    "text": "我嘅隊友幫我射咗個入波。"
+    "filename": "guk1-stuffy-example-1",
+    "id": "guk1-stuffy-example-1",
+    "text": "今日天氣好焗。"
   },
   {
-    "filename": "deoi6jau5-teammate-example-2",
-    "id": "deoi6jau5-teammate-example-2",
-    "text": "隊友之間要互相支持。"
+    "filename": "guk1-stuffy-example-2",
+    "id": "guk1-stuffy-example-2",
+    "text": "屋企冇風，好焗喎！"
   },
   {
-    "filename": "deoi6jau5-teammate-example-3",
-    "id": "deoi6jau5-teammate-example-3",
-    "text": "我哋隊友今日一齊練習籃球。"
+    "filename": "guk1-stuffy-example-3",
+    "id": "guk1-stuffy-example-3",
+    "text": "坐喺冇冷氣嘅房入面好焗。"
   },
   {
-    "filename": "deoi6jau5-teammate-example-4",
-    "id": "deoi6jau5-teammate-example-4",
-    "text": "佢係我最信得過嘅隊友。"
+    "filename": "guk1-stuffy-example-4",
+    "id": "guk1-stuffy-example-4",
+    "text": "夏天啲天氣又熱又焗。"
   },
   {
-    "filename": "fuk1gei1-abs",
-    "id": "fuk1gei1-abs",
-    "text": "腹肌"
+    "filename": "gwai3hau6-season",
+    "id": "gwai3hau6-season",
+    "text": "季候"
   },
   {
-    "filename": "fuk1gei1-abs-example-1",
-    "id": "fuk1gei1-abs-example-1",
-    "text": "我每日都做運動，想有腹肌。"
+    "filename": "gwai3hau6-season-example-1",
+    "id": "gwai3hau6-season-example-1",
+    "text": "呢個季候好似有啲凍。"
   },
   {
-    "filename": "fuk1gei1-abs-example-2",
-    "id": "fuk1gei1-abs-example-2",
-    "text": "佢嘅腹肌好明顯，好吸引。"
+    "filename": "gwai3hau6-season-example-2",
+    "id": "gwai3hau6-season-example-2",
+    "text": "我最鍾意春季候嘅天氣。"
   },
   {
-    "filename": "fuk1gei1-abs-example-3",
-    "id": "fuk1gei1-abs-example-3",
-    "text": "做仰臥起坐可以鍛鍊腹肌。"
+    "filename": "gwai3hau6-season-example-3",
+    "id": "gwai3hau6-season-example-3",
+    "text": "冬季候通常會落雪。"
   },
   {
-    "filename": "fuk1gei1-abs-example-4",
-    "id": "fuk1gei1-abs-example-4",
-    "text": "你有冇感覺腹肌痠痛？"
+    "filename": "gwai3hau6-season-example-4",
+    "id": "gwai3hau6-season-example-4",
+    "text": "我哋要留意季候嘅變化。"
   },
   {
-    "filename": "fuk6jyun4-recover",
-    "id": "fuk6jyun4-recover",
-    "text": "復原"
+    "filename": "haa6tin1-summer",
+    "id": "haa6tin1-summer",
+    "text": "夏天"
   },
   {
-    "filename": "fuk6jyun4-recover-example-1",
-    "id": "fuk6jyun4-recover-example-1",
-    "text": "我傷咗腳，需要時間復原。"
+    "filename": "haa6tin1-summer-example-1",
+    "id": "haa6tin1-summer-example-1",
+    "text": "夏天好熱。"
   },
   {
-    "filename": "fuk6jyun4-recover-example-2",
-    "id": "fuk6jyun4-recover-example-2",
-    "text": "運動後要休息先可以快啲復原。"
+    "filename": "haa6tin1-summer-example-2",
+    "id": "haa6tin1-summer-example-2",
+    "text": "我夏天鍾意去游水。"
   },
   {
-    "filename": "fuk6jyun4-recover-example-3",
-    "id": "fuk6jyun4-recover-example-3",
-    "text": "佢病咗成個月，依家先開始復原。"
+    "filename": "haa6tin1-summer-example-3",
+    "id": "haa6tin1-summer-example-3",
+    "text": "夏天有時會落雨。"
   },
   {
-    "filename": "fuk6jyun4-recover-example-4",
-    "id": "fuk6jyun4-recover-example-4",
-    "text": "心理嘅復原都好重要。"
+    "filename": "haa6tin1-summer-example-4",
+    "id": "haa6tin1-summer-example-4",
+    "text": "我哋約好夏天去旅行。"
   },
   {
-    "filename": "gaam2fei4-lose-weight",
-    "id": "gaam2fei4-lose-weight",
-    "text": "減肥"
+    "filename": "hak1sik1bou6jyu5-black-rain-warning",
+    "id": "hak1sik1bou6jyu5-black-rain-warning",
+    "text": "黑色暴雨"
   },
   {
-    "filename": "gaam2fei4-lose-weight-example-1",
-    "id": "gaam2fei4-lose-weight-example-1",
-    "text": "我開始減肥，希望可以健康啲。"
+    "filename": "hak1sik1bou6jyu5-black-rain-warning-example-1",
+    "id": "hak1sik1bou6jyu5-black-rain-warning-example-1",
+    "text": "政府已經發出黑色暴雨警告。"
   },
   {
-    "filename": "gaam2fei4-lose-weight-example-2",
-    "id": "gaam2fei4-lose-weight-example-2",
-    "text": "你想點樣減肥？"
+    "filename": "hak1sik1bou6jyu5-black-rain-warning-example-2",
+    "id": "hak1sik1bou6jyu5-black-rain-warning-example-2",
+    "text": "黑色暴雨期間小心落雨同交通。"
   },
   {
-    "filename": "gaam2fei4-lose-weight-example-3",
-    "id": "gaam2fei4-lose-weight-example-3",
-    "text": "佢做運動嚟減肥。"
+    "filename": "hak1sik1bou6jyu5-black-rain-warning-example-3",
+    "id": "hak1sik1bou6jyu5-black-rain-warning-example-3",
+    "text": "我哋收到黑色暴雨警告，要準備好防水措施。"
   },
   {
-    "filename": "gaam2fei4-lose-weight-example-4",
-    "id": "gaam2fei4-lose-weight-example-4",
-    "text": "減肥唔使咁辛苦，飲多啲水就好。"
+    "filename": "hak1sik1bou6jyu5-black-rain-warning-example-4",
+    "id": "hak1sik1bou6jyu5-black-rain-warning-example-4",
+    "text": "今次黑色暴雨好大，出街記得帶遮。"
   },
   {
-    "filename": "gaam2zi1-lose-fat",
-    "id": "gaam2zi1-lose-fat",
-    "text": "減脂"
+    "filename": "hei3-air",
+    "id": "hei3-air",
+    "text": "氣"
   },
   {
-    "filename": "gaam2zi1-lose-fat-example-1",
-    "id": "gaam2zi1-lose-fat-example-1",
-    "text": "我而家專心做減脂訓練。"
+    "filename": "hei3-air-example-1",
+    "id": "hei3-air-example-1",
+    "text": "外面嘅氣好乾燥。"
   },
   {
-    "filename": "gaam2zi1-lose-fat-example-2",
-    "id": "gaam2zi1-lose-fat-example-2",
-    "text": "減脂唔代表一定要節食。"
+    "filename": "hei3-air-example-2",
+    "id": "hei3-air-example-2",
+    "text": "夏天嘅氣溫好高。"
   },
   {
-    "filename": "gaam2zi1-lose-fat-example-3",
-    "id": "gaam2zi1-lose-fat-example-3",
-    "text": "佢嘅目標係每個月減脂兩公斤。"
+    "filename": "hei3-air-example-3",
+    "id": "hei3-air-example-3",
+    "text": "呢度嘅氣唔太好。"
   },
   {
-    "filename": "gaam2zi1-lose-fat-example-4",
-    "id": "gaam2zi1-lose-fat-example-4",
-    "text": "減脂期間要保持飲食均衡。"
+    "filename": "hei3-air-example-4",
+    "id": "hei3-air-example-4",
+    "text": "你感覺到屋企有新鮮嘅氣嗎？"
   },
   {
-    "filename": "gei1juk6-muscles",
-    "id": "gei1juk6-muscles",
-    "text": "肌肉"
+    "filename": "hei3wan1-climate",
+    "id": "hei3wan1-climate",
+    "text": "氣溫"
   },
   {
-    "filename": "gei1juk6-muscles-example-1",
-    "id": "gei1juk6-muscles-example-1",
-    "text": "我想增強我的肌肉。"
+    "filename": "hei3wan1-climate-example-1",
+    "id": "hei3wan1-climate-example-1",
+    "text": "今日氣溫好高，去泳池啦！"
   },
   {
-    "filename": "gei1juk6-muscles-example-2",
-    "id": "gei1juk6-muscles-example-2",
-    "text": "呢個運動對肌肉好有用。"
+    "filename": "hei3wan1-climate-example-2",
+    "id": "hei3wan1-climate-example-2",
+    "text": "晚上氣溫會下降，記得帶件衫。"
   },
   {
-    "filename": "gei1juk6-muscles-example-3",
-    "id": "gei1juk6-muscles-example-3",
-    "text": "佢嘅肌肉好結實。"
+    "filename": "hei3wan1-climate-example-3",
+    "id": "hei3wan1-climate-example-3",
+    "text": "冬天嘅氣溫通常比較低。"
   },
   {
-    "filename": "gei1juk6-muscles-example-4",
-    "id": "gei1juk6-muscles-example-4",
-    "text": "健身教練教我點樣鍛鍊肌肉。"
+    "filename": "hei3wan1-climate-example-4",
+    "id": "hei3wan1-climate-example-4",
+    "text": "香港夏天氣溫好熱，好難受。"
   },
   {
-    "filename": "gei1juk6loeng6-muscle-mass",
-    "id": "gei1juk6loeng6-muscle-mass",
-    "text": "肌肉量"
+    "filename": "hou2tin1-sunny",
+    "id": "hou2tin1-sunny",
+    "text": "好天"
   },
   {
-    "filename": "gei1juk6loeng6-muscle-mass-example-1",
-    "id": "gei1juk6loeng6-muscle-mass-example-1",
-    "text": "我想增加肌肉量。"
+    "filename": "hou2tin1-sunny-example-1",
+    "id": "hou2tin1-sunny-example-1",
+    "text": "今日係好天，啱晒出街玩。"
   },
   {
-    "filename": "gei1juk6loeng6-muscle-mass-example-2",
-    "id": "gei1juk6loeng6-muscle-mass-example-2",
-    "text": "佢嘅肌肉量好足夠。"
+    "filename": "hou2tin1-sunny-example-2",
+    "id": "hou2tin1-sunny-example-2",
+    "text": "我鍾意好天嘅天氣，感覺舒服。"
   },
   {
-    "filename": "gei1juk6loeng6-muscle-mass-example-3",
-    "id": "gei1juk6loeng6-muscle-mass-example-3",
-    "text": "運動可以幫助增長肌肉量。"
+    "filename": "hou2tin1-sunny-example-3",
+    "id": "hou2tin1-sunny-example-3",
+    "text": "聽日預報話係好天，記住帶太陽眼鏡。"
   },
   {
-    "filename": "gei1juk6loeng6-muscle-mass-example-4",
-    "id": "gei1juk6loeng6-muscle-mass-example-4",
-    "text": "佢因為飲食唔好，所以肌肉量減少咗。"
+    "filename": "hou2tin1-sunny-example-4",
+    "id": "hou2tin1-sunny-example-4",
+    "text": "放假遇到好天，好開心呀！"
   },
   {
-    "filename": "gei2luk6-record",
-    "id": "gei2luk6-record",
-    "text": "紀錄"
+    "filename": "hung1hei3-air",
+    "id": "hung1hei3-air",
+    "text": "空氣"
   },
   {
-    "filename": "gei2luk6-record-example-1",
-    "id": "gei2luk6-record-example-1",
-    "text": "佢打破咗世界紀錄。"
+    "filename": "hung1hei3-air-example-1",
+    "id": "hung1hei3-air-example-1",
+    "text": "今天天氣好，空氣好清新。"
   },
   {
-    "filename": "gei2luk6-record-example-2",
-    "id": "gei2luk6-record-example-2",
-    "text": "我想保持我嘅游泳紀錄。"
+    "filename": "hung1hei3-air-example-2",
+    "id": "hung1hei3-air-example-2",
+    "text": "你要多呼吸新鮮空氣。"
   },
   {
-    "filename": "gei2luk6-record-example-3",
-    "id": "gei2luk6-record-example-3",
-    "text": "呢個紀錄好難打破。"
+    "filename": "hung1hei3-air-example-3",
+    "id": "hung1hei3-air-example-3",
+    "text": "呢度嘅空氣太污糟。"
   },
   {
-    "filename": "gei2luk6-record-example-4",
-    "id": "gei2luk6-record-example-4",
-    "text": "公司有紀錄所有銷售額。"
+    "filename": "hung1hei3-air-example-4",
+    "id": "hung1hei3-air-example-4",
+    "text": "我地開窗透下空氣啦。"
   },
   {
-    "filename": "geoi2tit3-lift-weights",
-    "id": "geoi2tit3-lift-weights",
-    "text": "舉鐵"
+    "filename": "hung4sik1bou6jyu5-red-rain-warning",
+    "id": "hung4sik1bou6jyu5-red-rain-warning",
+    "text": "紅色暴雨"
   },
   {
-    "filename": "geoi2tit3-lift-weights-example-1",
-    "id": "geoi2tit3-lift-weights-example-1",
-    "text": "我每日都去健身房舉鐵。"
+    "filename": "hung4sik1bou6jyu5-red-rain-warning-example-1",
+    "id": "hung4sik1bou6jyu5-red-rain-warning-example-1",
+    "text": "今日政府發出紅色暴雨警告，唔好出街。"
   },
   {
-    "filename": "geoi2tit3-lift-weights-example-2",
-    "id": "geoi2tit3-lift-weights-example-2",
-    "text": "舉鐵可以幫助增強肌肉。"
+    "filename": "hung4sik1bou6jyu5-red-rain-warning-example-2",
+    "id": "hung4sik1bou6jyu5-red-rain-warning-example-2",
+    "text": "紅色暴雨嚟緊，我哋要準備好食物同水。"
   },
   {
-    "filename": "geoi2tit3-lift-weights-example-3",
-    "id": "geoi2tit3-lift-weights-example-3",
-    "text": "你有冇興趣試下舉鐵？"
+    "filename": "hung4sik1bou6jyu5-red-rain-warning-example-3",
+    "id": "hung4sik1bou6jyu5-red-rain-warning-example-3",
+    "text": "學校因紅色暴雨要提早放學。"
   },
   {
-    "filename": "geoi2tit3-lift-weights-example-4",
-    "id": "geoi2tit3-lift-weights-example-4",
-    "text": "舉鐵唔單止鍛鍊身體，仲可以減壓。"
+    "filename": "hung4sik1bou6jyu5-red-rain-warning-example-4",
+    "id": "hung4sik1bou6jyu5-red-rain-warning-example-4",
+    "text": "紅色暴雨警告話今日會落大雨。"
   },
   {
-    "filename": "gin6hong1-healthy",
-    "id": "gin6hong1-healthy",
-    "text": "健康"
+    "filename": "jam1-cloudy",
+    "id": "jam1-cloudy",
+    "text": "陰"
   },
   {
-    "filename": "gin6hong1-healthy-example-1",
-    "id": "gin6hong1-healthy-example-1",
-    "text": "我想保持身體健康。"
+    "filename": "jam1-cloudy-example-1",
+    "id": "jam1-cloudy-example-1",
+    "text": "今日天空好陰，唔多日都唔會落雨。"
   },
   {
-    "filename": "gin6hong1-healthy-example-2",
-    "id": "gin6hong1-healthy-example-2",
-    "text": "飲食健康好重要。"
+    "filename": "jam1-cloudy-example-2",
+    "id": "jam1-cloudy-example-2",
+    "text": "你今日心情好陰喎？"
   },
   {
-    "filename": "gin6hong1-healthy-example-3",
-    "id": "gin6hong1-healthy-example-3",
-    "text": "你最近健康嗎？"
+    "filename": "jam1-cloudy-example-3",
+    "id": "jam1-cloudy-example-3",
+    "text": "聽日預報話會陰天，要帶傘。"
   },
   {
-    "filename": "gin6hong1-healthy-example-4",
-    "id": "gin6hong1-healthy-example-4",
-    "text": "運動對健康有益。"
+    "filename": "jam1-cloudy-example-4",
+    "id": "jam1-cloudy-example-4",
+    "text": "三點開始變陰，唔適合去行山。"
   },
   {
-    "filename": "gin6mei5-bodybuilding",
-    "id": "gin6mei5-bodybuilding",
-    "text": "健美"
+    "filename": "jam1cam4-gloomy",
+    "id": "jam1cam4-gloomy",
+    "text": "陰沉"
   },
   {
-    "filename": "gin6mei5-bodybuilding-example-1",
-    "id": "gin6mei5-bodybuilding-example-1",
-    "text": "我哋星期六去做健美訓練。"
+    "filename": "jam1cam4-gloomy-example-1",
+    "id": "jam1cam4-gloomy-example-1",
+    "text": "今天天空好陰沉，好似快要落雨。"
   },
   {
-    "filename": "gin6mei5-bodybuilding-example-2",
-    "id": "gin6mei5-bodybuilding-example-2",
-    "text": "佢對健美好有興趣。"
+    "filename": "jam1cam4-gloomy-example-2",
+    "id": "jam1cam4-gloomy-example-2",
+    "text": "佢今日個樣陰沉，好似唔開心。"
   },
   {
-    "filename": "gin6mei5-bodybuilding-example-3",
-    "id": "gin6mei5-bodybuilding-example-3",
-    "text": "今次健美比賽好激烈。"
+    "filename": "jam1cam4-gloomy-example-3",
+    "id": "jam1cam4-gloomy-example-3",
+    "text": "陰沉嘅天氣令我唔想出街。"
   },
   {
-    "filename": "gin6mei5-bodybuilding-example-4",
-    "id": "gin6mei5-bodybuilding-example-4",
-    "text": "做健美可以增強肌肉。"
+    "filename": "jam1cam4-gloomy-example-4",
+    "id": "jam1cam4-gloomy-example-4",
+    "text": "公司氣氛好陰沉，好似有啲唔妥。"
   },
   {
-    "filename": "gin6san1-work-out",
-    "id": "gin6san1-work-out",
-    "text": "健身"
+    "filename": "jam1tin1-overcast-day",
+    "id": "jam1tin1-overcast-day",
+    "text": "陰天"
   },
   {
-    "filename": "gin6san1-work-out-example-1",
-    "id": "gin6san1-work-out-example-1",
-    "text": "我每日都去健身。"
+    "filename": "jam1tin1-overcast-day-example-1",
+    "id": "jam1tin1-overcast-day-example-1",
+    "text": "今日係陰天，我哋唔使帶太陽眼鏡。"
   },
   {
-    "filename": "gin6san1-work-out-example-2",
-    "id": "gin6san1-work-out-example-2",
-    "text": "你想唔想一齊去健身房？"
+    "filename": "jam1tin1-overcast-day-example-2",
+    "id": "jam1tin1-overcast-day-example-2",
+    "text": "陰天嘅時候，啲人心情會比較沉悶。"
   },
   {
-    "filename": "gin6san1-work-out-example-3",
-    "id": "gin6san1-work-out-example-3",
-    "text": "健身對身體好有益。"
+    "filename": "jam1tin1-overcast-day-example-3",
+    "id": "jam1tin1-overcast-day-example-3",
+    "text": "我鍾意陰天，因為唔會太熱。"
   },
   {
-    "filename": "gin6san1-work-out-example-4",
-    "id": "gin6san1-work-out-example-4",
-    "text": "我今晚會健身一個鐘。"
+    "filename": "jam1tin1-overcast-day-example-4",
+    "id": "jam1tin1-overcast-day-example-4",
+    "text": "睇下天氣報告，聽日應該係陰天。"
   },
   {
-    "filename": "gin6san1gaau3lin6-trainer",
-    "id": "gin6san1gaau3lin6-trainer",
-    "text": "健身教練"
+    "filename": "jat6zi2-daytime-weather",
+    "id": "jat6zi2-daytime-weather",
+    "text": "日子"
   },
   {
-    "filename": "gin6san1gaau3lin6-trainer-example-1",
-    "id": "gin6san1gaau3lin6-trainer-example-1",
-    "text": "我請咗個健身教練幫我設計訓練計劃。"
+    "filename": "jat6zi2-daytime-weather-example-1",
+    "id": "jat6zi2-daytime-weather-example-1",
+    "text": "今日日子幾好，天氣唔錯。"
   },
   {
-    "filename": "gin6san1gaau3lin6-trainer-example-2",
-    "id": "gin6san1gaau3lin6-trainer-example-2",
-    "text": "健身教練話我做呢個動作要注意姿勢。"
+    "filename": "jat6zi2-daytime-weather-example-2",
+    "id": "jat6zi2-daytime-weather-example-2",
+    "text": "我哋約定下星期六嗰日子見面。"
   },
   {
-    "filename": "gin6san1gaau3lin6-trainer-example-3",
-    "id": "gin6san1gaau3lin6-trainer-example-3",
-    "text": "你嘅健身教練幾時有空？"
+    "filename": "jat6zi2-daytime-weather-example-3",
+    "id": "jat6zi2-daytime-weather-example-3",
+    "text": "佢最近啲日子好忙。"
   },
   {
-    "filename": "gin6san1gaau3lin6-trainer-example-4",
-    "id": "gin6san1gaau3lin6-trainer-example-4",
-    "text": "健身教練教我點樣用啞鈴。"
+    "filename": "jat6zi2-daytime-weather-example-4",
+    "id": "jat6zi2-daytime-weather-example-4",
+    "text": "唔好理啲壞日子，開心啲。"
   },
   {
-    "filename": "gin6san1sat1-gym",
-    "id": "gin6san1sat1-gym",
-    "text": "健身室"
+    "filename": "jau5fung1-windy",
+    "id": "jau5fung1-windy",
+    "text": "有風"
   },
   {
-    "filename": "gin6san1sat1-gym-example-1",
-    "id": "gin6san1sat1-gym-example-1",
-    "text": "我每日都去健身室。"
+    "filename": "jau5fung1-windy-example-1",
+    "id": "jau5fung1-windy-example-1",
+    "text": "今日好有風，唔好帶啲細嘢出去。"
   },
   {
-    "filename": "gin6san1sat1-gym-example-2",
-    "id": "gin6san1sat1-gym-example-2",
-    "text": "今次新開嘅健身室好正。"
+    "filename": "jau5fung1-windy-example-2",
+    "id": "jau5fung1-windy-example-2",
+    "text": "聽日天氣講有風，記得著多啲衫。"
   },
   {
-    "filename": "gin6san1sat1-gym-example-3",
-    "id": "gin6san1sat1-gym-example-3",
-    "text": "你鍾唔鍾意做健身室嘅運動？"
+    "filename": "jau5fung1-windy-example-3",
+    "id": "jau5fung1-windy-example-3",
+    "text": "依家有風，啲樹葉都吹到飛起。"
   },
   {
-    "filename": "gin6san1sat1-gym-example-4",
-    "id": "gin6san1sat1-gym-example-4",
-    "text": "健身室喺公司附近。"
+    "filename": "jau5fung1-windy-example-4",
+    "id": "jau5fung1-windy-example-4",
+    "text": "海邊通常好有風，適合玩風箏。"
   },
   {
-    "filename": "gong3ling4-barbell",
-    "id": "gong3ling4-barbell",
-    "text": "槓鈴"
+    "filename": "ji1gaa3-clothes-hanger",
+    "id": "ji1gaa3-clothes-hanger",
+    "text": "衣架"
   },
   {
-    "filename": "gong3ling4-barbell-example-1",
-    "id": "gong3ling4-barbell-example-1",
-    "text": "我每日都用槓鈴做訓練。"
+    "filename": "ji1gaa3-clothes-hanger-example-1",
+    "id": "ji1gaa3-clothes-hanger-example-1",
+    "text": "請將衫掛喺衣架上。"
   },
   {
-    "filename": "gong3ling4-barbell-example-2",
-    "id": "gong3ling4-barbell-example-2",
-    "text": "槓鈴幾錢一支？"
+    "filename": "ji1gaa3-clothes-hanger-example-2",
+    "id": "ji1gaa3-clothes-hanger-example-2",
+    "text": "呢個衣架係用嚟晾衫嘅。"
   },
   {
-    "filename": "gong3ling4-barbell-example-3",
-    "id": "gong3ling4-barbell-example-3",
-    "text": "你識唔識正確使用槓鈴？"
+    "filename": "ji1gaa3-clothes-hanger-example-3",
+    "id": "ji1gaa3-clothes-hanger-example-3",
+    "text": "我買咗一個新嘅衣架。"
   },
   {
-    "filename": "gong3ling4-barbell-example-4",
-    "id": "gong3ling4-barbell-example-4",
-    "text": "健身房有好多不同重量嘅槓鈴。"
+    "filename": "ji1gaa3-clothes-hanger-example-4",
+    "id": "ji1gaa3-clothes-hanger-example-4",
+    "text": "衣架掛滿咗好多外套。"
   },
   {
-    "filename": "haang4saan1-hiking",
-    "id": "haang4saan1-hiking",
-    "text": "行山"
+    "filename": "jim4hon4-severe-cold",
+    "id": "jim4hon4-severe-cold",
+    "text": "嚴寒"
   },
   {
-    "filename": "haang4saan1-hiking-example-1",
-    "id": "haang4saan1-hiking-example-1",
-    "text": "我鍾意星期六同朋友去行山。"
+    "filename": "jim4hon4-severe-cold-example-1",
+    "id": "jim4hon4-severe-cold-example-1",
+    "text": "冬天嚴寒嘅時候要著多啲衫。"
   },
   {
-    "filename": "haang4saan1-hiking-example-2",
-    "id": "haang4saan1-hiking-example-2",
-    "text": "今年我打算多啲時間去行山。"
+    "filename": "jim4hon4-severe-cold-example-2",
+    "id": "jim4hon4-severe-cold-example-2",
+    "text": "北極嘅嚴寒真係好難受。"
   },
   {
-    "filename": "haang4saan1-hiking-example-3",
-    "id": "haang4saan1-hiking-example-3",
-    "text": "你有冇興趣一齊去行山？"
+    "filename": "jim4hon4-severe-cold-example-3",
+    "id": "jim4hon4-severe-cold-example-3",
+    "text": "老人容易受嚴寒影響，要小心保暖。"
   },
   {
-    "filename": "haang4saan1-hiking-example-4",
-    "id": "haang4saan1-hiking-example-4",
-    "text": "行山可以幫助減肥同埋放鬆心情。"
+    "filename": "jim4hon4-severe-cold-example-4",
+    "id": "jim4hon4-severe-cold-example-4",
+    "text": "嚴寒天氣中最好唔好出街。"
   },
   {
-    "filename": "hing1-light",
-    "id": "hing1-light",
-    "text": "輕"
+    "filename": "jim4jit6-scorching-heat",
+    "id": "jim4jit6-scorching-heat",
+    "text": "炎熱"
   },
   {
-    "filename": "hing1-light-example-1",
-    "id": "hing1-light-example-1",
-    "text": "呢個啞鈴好輕，啱初學者用。"
+    "filename": "jim4jit6-scorching-heat-example-1",
+    "id": "jim4jit6-scorching-heat-example-1",
+    "text": "今日嘅天氣好炎熱，要記得飲多啲水。"
   },
   {
-    "filename": "hing1-light-example-2",
-    "id": "hing1-light-example-2",
-    "text": "你攞嗰個包唔好太重，要揀啲輕啲。"
+    "filename": "jim4jit6-scorching-heat-example-2",
+    "id": "jim4jit6-scorching-heat-example-2",
+    "text": "夏天嘅炎熱令我唔想出去。"
   },
   {
-    "filename": "hing1-light-example-3",
-    "id": "hing1-light-example-3",
-    "text": "我今次練習用咗輕啲重量開始。"
+    "filename": "jim4jit6-scorching-heat-example-3",
+    "id": "jim4jit6-scorching-heat-example-3",
+    "text": "沙灘上面炎熱嘅太陽曬到人好辛苦。"
   },
   {
-    "filename": "hing1-light-example-4",
-    "id": "hing1-light-example-4",
-    "text": "做啲輕鬆嘅拉伸幫助肌肉恢復。"
+    "filename": "jim4jit6-scorching-heat-example-4",
+    "id": "jim4jit6-scorching-heat-example-4",
+    "text": "一個炎熱嘅午後，我哋去游泳消暑。"
   },
   {
-    "filename": "hung1gei1-chest",
-    "id": "hung1gei1-chest",
-    "text": "胸肌"
+    "filename": "jin1haa4-haze",
+    "id": "jin1haa4-haze",
+    "text": "煙霞"
   },
   {
-    "filename": "hung1gei1-chest-example-1",
-    "id": "hung1gei1-chest-example-1",
-    "text": "我每日都做啲胸肌訓練。"
+    "filename": "jin1haa4-haze-example-1",
+    "id": "jin1haa4-haze-example-1",
+    "text": "今日好似有煙霞，空氣唔太清晰。"
   },
   {
-    "filename": "hung1gei1-chest-example-2",
-    "id": "hung1gei1-chest-example-2",
-    "text": "你嘅胸肌好發達喎！"
+    "filename": "jin1haa4-haze-example-2",
+    "id": "jin1haa4-haze-example-2",
+    "text": "出門記得戴口罩，因為有煙霞。"
   },
   {
-    "filename": "hung1gei1-chest-example-3",
-    "id": "hung1gei1-chest-example-3",
-    "text": "練胸肌可以改善姿勢。"
+    "filename": "jin1haa4-haze-example-3",
+    "id": "jin1haa4-haze-example-3",
+    "text": "呢個城市經常有煙霞，視野唔好。"
   },
   {
-    "filename": "hung1gei1-chest-example-4",
-    "id": "hung1gei1-chest-example-4",
-    "text": "佢想增強胸肌力量。"
+    "filename": "jin1haa4-haze-example-4",
+    "id": "jin1haa4-haze-example-4",
+    "text": "煙霞令到太陽睇落去好模糊。"
   },
   {
-    "filename": "jau1sik1-rest",
-    "id": "jau1sik1-rest",
-    "text": "休息"
+    "filename": "jit6-hot",
+    "id": "jit6-hot",
+    "text": "熱"
   },
   {
-    "filename": "jau1sik1-rest-example-1",
-    "id": "jau1sik1-rest-example-1",
-    "text": "我哋運動咗半個鐘，要休息一下。"
+    "filename": "jit6-hot-example-1",
+    "id": "jit6-hot-example-1",
+    "text": "今日真係好熱。"
   },
   {
-    "filename": "jau1sik1-rest-example-2",
-    "id": "jau1sik1-rest-example-2",
-    "text": "每次做完運動，我都會休息十分鐘。"
+    "filename": "jit6-hot-example-2",
+    "id": "jit6-hot-example-2",
+    "text": "你想飲熱茶定凍茶？"
   },
   {
-    "filename": "jau1sik1-rest-example-3",
-    "id": "jau1sik1-rest-example-3",
-    "text": "你而家最好休息，唔好太操勞。"
+    "filename": "jit6-hot-example-3",
+    "id": "jit6-hot-example-3",
+    "text": "廚房好熱，開咗冷氣未？"
   },
   {
-    "filename": "jau1sik1-rest-example-4",
-    "id": "jau1sik1-rest-example-4",
-    "text": "休息嘅時間唔好用手機。"
+    "filename": "jit6-hot-example-4",
+    "id": "jit6-hot-example-4",
+    "text": "我身體覺得好熱。"
   },
   {
-    "filename": "jau4seoi2-swim",
-    "id": "jau4seoi2-swim",
-    "text": "游水"
+    "filename": "joeng4gwong1-sunlight",
+    "id": "joeng4gwong1-sunlight",
+    "text": "陽光"
   },
   {
-    "filename": "jau4seoi2-swim-example-1",
-    "id": "jau4seoi2-swim-example-1",
-    "text": "我今日去游水。"
+    "filename": "joeng4gwong1-sunlight-example-1",
+    "id": "joeng4gwong1-sunlight-example-1",
+    "text": "今日嘅陽光好舒服。"
   },
   {
-    "filename": "jau4seoi2-swim-example-2",
-    "id": "jau4seoi2-swim-example-2",
-    "text": "你識游水嗎？"
+    "filename": "joeng4gwong1-sunlight-example-2",
+    "id": "joeng4gwong1-sunlight-example-2",
+    "text": "我鐘意喺陽光底下散步。"
   },
   {
-    "filename": "jau4seoi2-swim-example-3",
-    "id": "jau4seoi2-swim-example-3",
-    "text": "游水係我嘅興趣之一。"
+    "filename": "joeng4gwong1-sunlight-example-3",
+    "id": "joeng4gwong1-sunlight-example-3",
+    "text": "小朋友喺陽光下玩得好開心。"
   },
   {
-    "filename": "jau4seoi2-swim-example-4",
-    "id": "jau4seoi2-swim-example-4",
-    "text": "佢喺海灘游水好叻。"
+    "filename": "joeng4gwong1-sunlight-example-4",
+    "id": "joeng4gwong1-sunlight-example-4",
+    "text": "陽光令屋企入面好明亮。"
   },
   {
-    "filename": "jau4wing6ci4-swimming-pool",
-    "id": "jau4wing6ci4-swimming-pool",
-    "text": "游泳池"
+    "filename": "jyu5-rain",
+    "id": "jyu5-rain",
+    "text": "雨"
   },
   {
-    "filename": "jau4wing6ci4-swimming-pool-example-1",
-    "id": "jau4wing6ci4-swimming-pool-example-1",
-    "text": "我今朝去咗游泳池游水。"
+    "filename": "jyu5-rain-example-1",
+    "id": "jyu5-rain-example-1",
+    "text": "今日落雨，好凍呀。"
   },
   {
-    "filename": "jau4wing6ci4-swimming-pool-example-2",
-    "id": "jau4wing6ci4-swimming-pool-example-2",
-    "text": "呢個游泳池好乾淨，好舒服。"
+    "filename": "jyu5-rain-example-2",
+    "id": "jyu5-rain-example-2",
+    "text": "我唔鍾意大雨，會淋濕晒。"
   },
   {
-    "filename": "jau4wing6ci4-swimming-pool-example-3",
-    "id": "jau4wing6ci4-swimming-pool-example-3",
-    "text": "你鍾意去屋企樓下嗰個游泳池定係去健身室？"
+    "filename": "jyu5-rain-example-3",
+    "id": "jyu5-rain-example-3",
+    "text": "聽日有雨，記住帶傘。"
   },
   {
-    "filename": "jau4wing6ci4-swimming-pool-example-4",
-    "id": "jau4wing6ci4-swimming-pool-example-4",
-    "text": "游泳池啲水幾時清潔？"
+    "filename": "jyu5-rain-example-4",
+    "id": "jyu5-rain-example-4",
+    "text": "雨停咗，可以出街喇。"
   },
   {
-    "filename": "jeng4-win",
-    "id": "jeng4-win",
-    "text": "贏"
+    "filename": "leoi4-thunder",
+    "id": "leoi4-thunder",
+    "text": "雷"
   },
   {
-    "filename": "jeng4-win-example-1",
-    "id": "jeng4-win-example-1",
-    "text": "我哋今次比賽贏咗。"
+    "filename": "leoi4-thunder-example-1",
+    "id": "leoi4-thunder-example-1",
+    "text": "今晚會有雷同雨。"
   },
   {
-    "filename": "jeng4-win-example-2",
-    "id": "jeng4-win-example-2",
-    "text": "你諗下我會唔會贏？"
+    "filename": "leoi4-thunder-example-2",
+    "id": "leoi4-thunder-example-2",
+    "text": "我聽到好大聲嘅雷。"
   },
   {
-    "filename": "jeng4-win-example-3",
-    "id": "jeng4-win-example-3",
-    "text": "佢贏咗好多獎牌。"
+    "filename": "leoi4-thunder-example-3",
+    "id": "leoi4-thunder-example-3",
+    "text": "雷聲好似好驚。"
   },
   {
-    "filename": "jeng4-win-example-4",
-    "id": "jeng4-win-example-4",
-    "text": "我唔想輸，只想贏。"
+    "filename": "leoi4-thunder-example-4",
+    "id": "leoi4-thunder-example-4",
+    "text": "天黑晒，開始打雷喇。"
   },
   {
-    "filename": "ji6tau4gei1-biceps",
-    "id": "ji6tau4gei1-biceps",
-    "text": "二頭肌"
+    "filename": "leoi4jyu5-thunderstorm",
+    "id": "leoi4jyu5-thunderstorm",
+    "text": "雷雨"
   },
   {
-    "filename": "ji6tau4gei1-biceps-example-1",
-    "id": "ji6tau4gei1-biceps-example-1",
-    "text": "我想加強我嘅二頭肌。"
+    "filename": "leoi4jyu5-thunderstorm-example-1",
+    "id": "leoi4jyu5-thunderstorm-example-1",
+    "text": "今日下午可能會有雷雨，要帶埋雨傘。"
   },
   {
-    "filename": "ji6tau4gei1-biceps-example-2",
-    "id": "ji6tau4gei1-biceps-example-2",
-    "text": "二頭肌訓練好重要。"
+    "filename": "leoi4jyu5-thunderstorm-example-2",
+    "id": "leoi4jyu5-thunderstorm-example-2",
+    "text": "雷雨開始咗，我哋唔好出街啦。"
   },
   {
-    "filename": "ji6tau4gei1-biceps-example-3",
-    "id": "ji6tau4gei1-biceps-example-3",
-    "text": "教練叫我做多啲二頭肌練習。"
+    "filename": "leoi4jyu5-thunderstorm-example-3",
+    "id": "leoi4jyu5-thunderstorm-example-3",
+    "text": "雷雨聲好大，聽到有啲驚。"
   },
   {
-    "filename": "ji6tau4gei1-biceps-example-4",
-    "id": "ji6tau4gei1-biceps-example-4",
-    "text": "佢二頭肌好勁，睇落好有力。"
+    "filename": "leoi4jyu5-thunderstorm-example-4",
+    "id": "leoi4jyu5-thunderstorm-example-4",
+    "text": "天氣預報講今日有雷雨。"
   },
   {
-    "filename": "jit6san1-warm-up",
-    "id": "jit6san1-warm-up",
-    "text": "熱身"
+    "filename": "leong4-cool",
+    "id": "leong4-cool",
+    "text": "涼"
   },
   {
-    "filename": "jit6san1-warm-up-example-1",
-    "id": "jit6san1-warm-up-example-1",
-    "text": "我哋先做熱身，咁先唔會受傷。"
+    "filename": "leong4-cool-example-1",
+    "id": "leong4-cool-example-1",
+    "text": "今天天氣好涼。"
   },
   {
-    "filename": "jit6san1-warm-up-example-2",
-    "id": "jit6san1-warm-up-example-2",
-    "text": "教練叫我哋做多啲熱身。"
+    "filename": "leong4-cool-example-2",
+    "id": "leong4-cool-example-2",
+    "text": "我鍾意飲涼茶。"
   },
   {
-    "filename": "jit6san1-warm-up-example-3",
-    "id": "jit6san1-warm-up-example-3",
-    "text": "做好熱身，先可以開始跑步。"
+    "filename": "leong4-cool-example-3",
+    "id": "leong4-cool-example-3",
+    "text": "打開窗，室內涼好多。"
   },
   {
-    "filename": "jit6san1-warm-up-example-4",
-    "id": "jit6san1-warm-up-example-4",
-    "text": "我唔鍾意做熱身，但我知道有用。"
+    "filename": "leong4-cool-example-4",
+    "id": "leong4-cool-example-4",
+    "text": "夜晚涼風幾舒服。"
   },
   {
-    "filename": "joeng5ngo6hei2co5-sit-up",
-    "id": "joeng5ngo6hei2co5-sit-up",
-    "text": "仰臥起坐"
+    "filename": "leong4fung1-cool-breeze",
+    "id": "leong4fung1-cool-breeze",
+    "text": "涼風"
   },
   {
-    "filename": "joeng5ngo6hei2co5-sit-up-example-1",
-    "id": "joeng5ngo6hei2co5-sit-up-example-1",
-    "text": "我每日做五十個仰臥起坐。"
+    "filename": "leong4fung1-cool-breeze-example-1",
+    "id": "leong4fung1-cool-breeze-example-1",
+    "text": "夕陽下有陣涼風，好舒服。"
   },
   {
-    "filename": "joeng5ngo6hei2co5-sit-up-example-2",
-    "id": "joeng5ngo6hei2co5-sit-up-example-2",
-    "text": "做仰臥起坐可以強健腹肌。"
+    "filename": "leong4fung1-cool-breeze-example-2",
+    "id": "leong4fung1-cool-breeze-example-2",
+    "text": "今日天氣唔熱，有涼風吹過。"
   },
   {
-    "filename": "joeng5ngo6hei2co5-sit-up-example-3",
-    "id": "joeng5ngo6hei2co5-sit-up-example-3",
-    "text": "佢因為腳痛，而家唔做仰臥起坐。"
+    "filename": "leong4fung1-cool-breeze-example-3",
+    "id": "leong4fung1-cool-breeze-example-3",
+    "text": "打開窗戶，讓啲涼風進嚟。"
   },
   {
-    "filename": "joeng5ngo6hei2co5-sit-up-example-4",
-    "id": "joeng5ngo6hei2co5-sit-up-example-4",
-    "text": "教練叫我哋做三組仰臥起坐。"
+    "filename": "leong4fung1-cool-breeze-example-4",
+    "id": "leong4fung1-cool-breeze-example-4",
+    "text": "秋天通常會有涼風，令人舒服。"
   },
   {
-    "filename": "kau4coeng4-pitch",
-    "id": "kau4coeng4-pitch",
-    "text": "球場"
+    "filename": "lit6fung1-gale",
+    "id": "lit6fung1-gale",
+    "text": "烈風"
   },
   {
-    "filename": "kau4coeng4-pitch-example-1",
-    "id": "kau4coeng4-pitch-example-1",
-    "text": "我哋傍晚去球場打籃球。"
+    "filename": "lit6fung1-gale-example-1",
+    "id": "lit6fung1-gale-example-1",
+    "text": "今日有烈風，記得帶埋風褸。"
   },
   {
-    "filename": "kau4coeng4-pitch-example-2",
-    "id": "kau4coeng4-pitch-example-2",
-    "text": "學校有幾個足球場。"
+    "filename": "lit6fung1-gale-example-2",
+    "id": "lit6fung1-gale-example-2",
+    "text": "呢度啱啱刮咗陣烈風，好多樹都跌咗。"
   },
   {
-    "filename": "kau4coeng4-pitch-example-3",
-    "id": "kau4coeng4-pitch-example-3",
-    "text": "球場好多人喺度練習。"
+    "filename": "lit6fung1-gale-example-3",
+    "id": "lit6fung1-gale-example-3",
+    "text": "氣象報告話今晚有烈風，唔好出街喇。"
   },
   {
-    "filename": "kau4coeng4-pitch-example-4",
-    "id": "kau4coeng4-pitch-example-4",
-    "text": "今晚嘅籃球賽喺新球場舉行。"
+    "filename": "lit6fung1-gale-example-4",
+    "id": "lit6fung1-gale-example-4",
+    "text": "烈風可能會影響航班，我哋要留意消息。"
   },
   {
-    "filename": "laai1gan1-stretch",
-    "id": "laai1gan1-stretch",
-    "text": "拉筋"
+    "filename": "lok6jyu5-rain",
+    "id": "lok6jyu5-rain",
+    "text": "落雨"
   },
   {
-    "filename": "laai1gan1-stretch-example-1",
-    "id": "laai1gan1-stretch-example-1",
-    "text": "我每日都會做拉筋。"
+    "filename": "lok6jyu5-rain-example-1",
+    "id": "lok6jyu5-rain-example-1",
+    "text": "今日落雨，要帶傘。"
   },
   {
-    "filename": "laai1gan1-stretch-example-2",
-    "id": "laai1gan1-stretch-example-2",
-    "text": "做完運動，記住要拉筋。"
+    "filename": "lok6jyu5-rain-example-2",
+    "id": "lok6jyu5-rain-example-2",
+    "text": "你覺唔覺得落雨涼快啲？"
   },
   {
-    "filename": "laai1gan1-stretch-example-3",
-    "id": "laai1gan1-stretch-example-3",
-    "text": "教緊拉筋嘅老師好有耐性。"
+    "filename": "lok6jyu5-rain-example-3",
+    "id": "lok6jyu5-rain-example-3",
+    "text": "夜晚可能會落雨，記得關窗。"
   },
   {
-    "filename": "laai1gan1-stretch-example-4",
-    "id": "laai1gan1-stretch-example-4",
-    "text": "拉筋幫助減少受傷。"
+    "filename": "lok6jyu5-rain-example-4",
+    "id": "lok6jyu5-rain-example-4",
+    "text": "昨天下午開始落雨。"
   },
   {
-    "filename": "lai6hoi6-amazing",
-    "id": "lai6hoi6-amazing",
-    "text": "厲害"
+    "filename": "long6saam1-hang-clothes",
+    "id": "long6saam1-hang-clothes",
+    "text": "晾衫"
   },
   {
-    "filename": "lai6hoi6-amazing-example-1",
-    "id": "lai6hoi6-amazing-example-1",
-    "text": "你跑咁快，真係好厲害！"
+    "filename": "long6saam1-hang-clothes-example-1",
+    "id": "long6saam1-hang-clothes-example-1",
+    "text": "我啱啱洗完衫，去晾衫啦。"
   },
   {
-    "filename": "lai6hoi6-amazing-example-2",
-    "id": "lai6hoi6-amazing-example-2",
-    "text": "佢打籃球好厲害，攞過好多獎。"
+    "filename": "long6saam1-hang-clothes-example-2",
+    "id": "long6saam1-hang-clothes-example-2",
+    "text": "今日天氣好，快啲晾衫啦。"
   },
   {
-    "filename": "lai6hoi6-amazing-example-3",
-    "id": "lai6hoi6-amazing-example-3",
-    "text": "今次比賽你嘅表現真係非常厲害！"
+    "filename": "long6saam1-hang-clothes-example-3",
+    "id": "long6saam1-hang-clothes-example-3",
+    "text": "你幾時晾衫？"
   },
   {
-    "filename": "lai6hoi6-amazing-example-4",
-    "id": "lai6hoi6-amazing-example-4",
-    "text": "呢個招數好厲害，可以輕易打倒對手。"
+    "filename": "long6saam1-hang-clothes-example-4",
+    "id": "long6saam1-hang-clothes-example-4",
+    "text": "屋企冇位晾衫，唔方便。"
   },
   {
-    "filename": "lik6hei3-strength",
-    "id": "lik6hei3-strength",
-    "text": "力氣"
+    "filename": "long6saam1gaa3-clothes-rack",
+    "id": "long6saam1gaa3-clothes-rack",
+    "text": "晾衫架"
   },
   {
-    "filename": "lik6hei3-strength-example-1",
-    "id": "lik6hei3-strength-example-1",
-    "text": "我冇足夠嘅力氣搬呢個箱。"
+    "filename": "long6saam1gaa3-clothes-rack-example-1",
+    "id": "long6saam1gaa3-clothes-rack-example-1",
+    "text": "我啲衫放咗喺晾衫架。"
   },
   {
-    "filename": "lik6hei3-strength-example-2",
-    "id": "lik6hei3-strength-example-2",
-    "text": "小朋友要多啲運動，增加力氣。"
+    "filename": "long6saam1gaa3-clothes-rack-example-2",
+    "id": "long6saam1gaa3-clothes-rack-example-2",
+    "text": "晾衫架放喺陽臺度。"
   },
   {
-    "filename": "lik6hei3-strength-example-3",
-    "id": "lik6hei3-strength-example-3",
-    "text": "呢度好似要用好多力氣先做得到。"
+    "filename": "long6saam1gaa3-clothes-rack-example-3",
+    "id": "long6saam1gaa3-clothes-rack-example-3",
+    "text": "快啲攞啲衫落嚟，晾衫架已經滿咗。"
   },
   {
-    "filename": "lik6hei3-strength-example-4",
-    "id": "lik6hei3-strength-example-4",
-    "text": "他用盡力氣推開門。"
+    "filename": "long6saam1gaa3-clothes-rack-example-4",
+    "id": "long6saam1gaa3-clothes-rack-example-4",
+    "text": "我哋買咗個新嘅晾衫架。"
   },
   {
-    "filename": "lik6loeng6-strength",
-    "id": "lik6loeng6-strength",
-    "text": "力量"
+    "filename": "mou6-fog",
+    "id": "mou6-fog",
+    "text": "霧"
   },
   {
-    "filename": "lik6loeng6-strength-example-1",
-    "id": "lik6loeng6-strength-example-1",
-    "text": "我想增強我嘅力量。"
+    "filename": "mou6-fog-example-1",
+    "id": "mou6-fog-example-1",
+    "text": "今朝有好重嘅霧。"
   },
   {
-    "filename": "lik6loeng6-strength-example-2",
-    "id": "lik6loeng6-strength-example-2",
-    "text": "呢個運動可以提升力量。"
+    "filename": "mou6-fog-example-2",
+    "id": "mou6-fog-example-2",
+    "text": "開車小心，因為有霧。"
   },
   {
-    "filename": "lik6loeng6-strength-example-3",
-    "id": "lik6loeng6-strength-example-3",
-    "text": "精神力量都好重要。"
+    "filename": "mou6-fog-example-3",
+    "id": "mou6-fog-example-3",
+    "text": "霧起咗，要攞把傘。"
   },
   {
-    "filename": "lik6loeng6-strength-example-4",
-    "id": "lik6loeng6-strength-example-4",
-    "text": "佢用咗好多力量去幫我。"
+    "filename": "mou6-fog-example-4",
+    "id": "mou6-fog-example-4",
+    "text": "山上經常有濃霧。"
   },
   {
-    "filename": "lin6gei1juk6-train-muscles",
-    "id": "lin6gei1juk6-train-muscles",
-    "text": "練肌肉"
+    "filename": "mung4-blurry",
+    "id": "mung4-blurry",
+    "text": "濛"
   },
   {
-    "filename": "lin6gei1juk6-train-muscles-example-1",
-    "id": "lin6gei1juk6-train-muscles-example-1",
-    "text": "我每日都去健身室練肌肉。"
+    "filename": "mung4-blurry-example-1",
+    "id": "mung4-blurry-example-1",
+    "text": "今日朝早天空好濛。"
   },
   {
-    "filename": "lin6gei1juk6-train-muscles-example-2",
-    "id": "lin6gei1juk6-train-muscles-example-2",
-    "text": "想增肌要堅持練肌肉。"
+    "filename": "mung4-blurry-example-2",
+    "id": "mung4-blurry-example-2",
+    "text": "山上面今日濛濛，好難望到遠處。"
   },
   {
-    "filename": "lin6gei1juk6-train-muscles-example-3",
-    "id": "lin6gei1juk6-train-muscles-example-3",
-    "text": "佢好注重練肌肉同埋飲食。"
+    "filename": "mung4-blurry-example-3",
+    "id": "mung4-blurry-example-3",
+    "text": "呢啲畫面睇落好濛，好有詩意。"
   },
   {
-    "filename": "lin6gei1juk6-train-muscles-example-4",
-    "id": "lin6gei1juk6-train-muscles-example-4",
-    "text": "女士都可以練肌肉保持健康。"
+    "filename": "mung4-blurry-example-4",
+    "id": "mung4-blurry-example-4",
+    "text": "空氣濕度高，所以成日覺得視野濛濛。"
   },
   {
-    "filename": "lin6zaap6-practise",
-    "id": "lin6zaap6-practise",
-    "text": "練習"
+    "filename": "nyun5-warm",
+    "id": "nyun5-warm",
+    "text": "暖"
   },
   {
-    "filename": "lin6zaap6-practise-example-1",
-    "id": "lin6zaap6-practise-example-1",
-    "text": "我每日都會練習打籃球。"
+    "filename": "nyun5-warm-example-1",
+    "id": "nyun5-warm-example-1",
+    "text": "今日天氣好暖，唔洗著外套。"
   },
   {
-    "filename": "lin6zaap6-practise-example-2",
-    "id": "lin6zaap6-practise-example-2",
-    "text": "佢去咗排練習舞蹈。"
+    "filename": "nyun5-warm-example-2",
+    "id": "nyun5-warm-example-2",
+    "text": "屋企裡面暖暖哋，好舒服。"
   },
   {
-    "filename": "lin6zaap6-practise-example-3",
-    "id": "lin6zaap6-practise-example-3",
-    "text": "我哋要多啲練習先可以做好。"
+    "filename": "nyun5-warm-example-3",
+    "id": "nyun5-warm-example-3",
+    "text": "暖水可以令我身體舒服啲。"
   },
   {
-    "filename": "lin6zaap6-practise-example-4",
-    "id": "lin6zaap6-practise-example-4",
-    "text": "練習係進步嘅關鍵。"
+    "filename": "nyun5-warm-example-4",
+    "id": "nyun5-warm-example-4",
+    "text": "佢嘅笑容好暖，令人覺得開心。"
   },
   {
-    "filename": "maan6paau2-jog",
-    "id": "maan6paau2-jog",
-    "text": "慢跑"
+    "filename": "saam1-clothes",
+    "id": "saam1-clothes",
+    "text": "衫"
   },
   {
-    "filename": "maan6paau2-jog-example-1",
-    "id": "maan6paau2-jog-example-1",
-    "text": "我每日早晨去公園慢跑。"
+    "filename": "saam1-clothes-example-1",
+    "id": "saam1-clothes-example-1",
+    "text": "你啲衫係咪乾晒？"
   },
   {
-    "filename": "maan6paau2-jog-example-2",
-    "id": "maan6paau2-jog-example-2",
-    "text": "慢跑係一個好嘅運動方法。"
+    "filename": "saam1-clothes-example-2",
+    "id": "saam1-clothes-example-2",
+    "text": "我今日著咗件新衫。"
   },
   {
-    "filename": "maan6paau2-jog-example-3",
-    "id": "maan6paau2-jog-example-3",
-    "text": "你想唔想試吓一齊慢跑？"
+    "filename": "saam1-clothes-example-3",
+    "id": "saam1-clothes-example-3",
+    "text": "佢唔鍾意洗衫。"
   },
   {
-    "filename": "maan6paau2-jog-example-4",
-    "id": "maan6paau2-jog-example-4",
-    "text": "佢因為慢跑而變得健康咗。"
+    "filename": "saam1-clothes-example-4",
+    "id": "saam1-clothes-example-4",
+    "text": "衫入面有啲污漬。"
   },
   {
-    "filename": "mou5seot6-martial-arts",
-    "id": "mou5seot6-martial-arts",
-    "text": "武術"
+    "filename": "sai2ji1gei1-washing-machine",
+    "id": "sai2ji1gei1-washing-machine",
+    "text": "洗衣機"
   },
   {
-    "filename": "mou5seot6-martial-arts-example-1",
-    "id": "mou5seot6-martial-arts-example-1",
-    "text": "我星期六去學武術。"
+    "filename": "sai2ji1gei1-washing-machine-example-1",
+    "id": "sai2ji1gei1-washing-machine-example-1",
+    "text": "我哋屋企有一部洗衣機。"
   },
   {
-    "filename": "mou5seot6-martial-arts-example-2",
-    "id": "mou5seot6-martial-arts-example-2",
-    "text": "他對武術好有興趣。"
+    "filename": "sai2ji1gei1-washing-machine-example-2",
+    "id": "sai2ji1gei1-washing-machine-example-2",
+    "text": "呢部洗衣機用得好方便。"
   },
   {
-    "filename": "mou5seot6-martial-arts-example-3",
-    "id": "mou5seot6-martial-arts-example-3",
-    "text": "武術唔單止係運動，仲係文化。"
+    "filename": "sai2ji1gei1-washing-machine-example-3",
+    "id": "sai2ji1gei1-washing-machine-example-3",
+    "text": "我想買部新洗衣機。"
   },
   {
-    "filename": "mou5seot6-martial-arts-example-4",
-    "id": "mou5seot6-martial-arts-example-4",
-    "text": "我聽講佢識好多種武術。"
+    "filename": "sai2ji1gei1-washing-machine-example-4",
+    "id": "sai2ji1gei1-washing-machine-example-4",
+    "text": "洗衣機壞咗，要搵人嚟修理。"
   },
   {
-    "filename": "paan1sek6-rock-climb",
-    "id": "paan1sek6-rock-climb",
-    "text": "攀石"
+    "filename": "sai2saam1-wash-clothes",
+    "id": "sai2saam1-wash-clothes",
+    "text": "洗衫"
   },
   {
-    "filename": "paan1sek6-rock-climb-example-1",
-    "id": "paan1sek6-rock-climb-example-1",
-    "text": "我周末想去攀石。"
+    "filename": "sai2saam1-wash-clothes-example-1",
+    "id": "sai2saam1-wash-clothes-example-1",
+    "text": "今日我冇時間洗衫。"
   },
   {
-    "filename": "paan1sek6-rock-climb-example-2",
-    "id": "paan1sek6-rock-climb-example-2",
-    "text": "攀石係一個好刺激嘅運動。"
+    "filename": "sai2saam1-wash-clothes-example-2",
+    "id": "sai2saam1-wash-clothes-example-2",
+    "text": "你幫手摺洗衫啦！"
   },
   {
-    "filename": "paan1sek6-rock-climb-example-3",
-    "id": "paan1sek6-rock-climb-example-3",
-    "text": "你試過攀石未？"
+    "filename": "sai2saam1-wash-clothes-example-3",
+    "id": "sai2saam1-wash-clothes-example-3",
+    "text": "我哋星期六去洗衫鋪。"
   },
   {
-    "filename": "paan1sek6-rock-climb-example-4",
-    "id": "paan1sek6-rock-climb-example-4",
-    "text": "佢學咗幾個月攀石。"
+    "filename": "sai2saam1-wash-clothes-example-4",
+    "id": "sai2saam1-wash-clothes-example-4",
+    "text": "機洗衫好快完成。"
   },
   {
-    "filename": "paau2bou6-run",
-    "id": "paau2bou6-run",
-    "text": "跑步"
+    "filename": "sai3jyu5-light-rain",
+    "id": "sai3jyu5-light-rain",
+    "text": "細雨"
   },
   {
-    "filename": "paau2bou6-run-example-1",
-    "id": "paau2bou6-run-example-1",
-    "text": "我每日早上跑步。"
+    "filename": "sai3jyu5-light-rain-example-1",
+    "id": "sai3jyu5-light-rain-example-1",
+    "text": "今朝落住細雨，唔使帶雨傘。"
   },
   {
-    "filename": "paau2bou6-run-example-2",
-    "id": "paau2bou6-run-example-2",
-    "text": "你鍾意唔鍾意跑步？"
+    "filename": "sai3jyu5-light-rain-example-2",
+    "id": "sai3jyu5-light-rain-example-2",
+    "text": "細雨令到啲樹葉越嚟越濕。"
   },
   {
-    "filename": "paau2bou6-run-example-3",
-    "id": "paau2bou6-run-example-3",
-    "text": "我跑步跑得好快。"
+    "filename": "sai3jyu5-light-rain-example-3",
+    "id": "sai3jyu5-light-rain-example-3",
+    "text": "細雨中行路，感覺幾舒服。"
   },
   {
-    "filename": "paau2bou6-run-example-4",
-    "id": "paau2bou6-run-example-4",
-    "text": "星期日我哋一齊去公園跑步。"
+    "filename": "sai3jyu5-light-rain-example-4",
+    "id": "sai3jyu5-light-rain-example-4",
+    "text": "天氣報告話今日會有細雨。"
   },
   {
-    "filename": "paau2bou6gei1-treadmill",
-    "id": "paau2bou6gei1-treadmill",
-    "text": "跑步機"
+    "filename": "sau1saam1-collect-clothes",
+    "id": "sau1saam1-collect-clothes",
+    "text": "收衫"
   },
   {
-    "filename": "paau2bou6gei1-treadmill-example-1",
-    "id": "paau2bou6gei1-treadmill-example-1",
-    "text": "我每日都會用跑步機做運動。"
+    "filename": "sau1saam1-collect-clothes-example-1",
+    "id": "sau1saam1-collect-clothes-example-1",
+    "text": "我今日負責收衫呀。"
   },
   {
-    "filename": "paau2bou6gei1-treadmill-example-2",
-    "id": "paau2bou6gei1-treadmill-example-2",
-    "text": "健身室有好幾部跑步機。"
+    "filename": "sau1saam1-collect-clothes-example-2",
+    "id": "sau1saam1-collect-clothes-example-2",
+    "text": "你幫我收衫得唔得？"
   },
   {
-    "filename": "paau2bou6gei1-treadmill-example-3",
-    "id": "paau2bou6gei1-treadmill-example-3",
-    "text": "你會唔會識用跑步機？"
+    "filename": "sau1saam1-collect-clothes-example-3",
+    "id": "sau1saam1-collect-clothes-example-3",
+    "text": "收衫之前記得睇下衫乾唔乾。"
   },
   {
-    "filename": "paau2bou6gei1-treadmill-example-4",
-    "id": "paau2bou6gei1-treadmill-example-4",
-    "text": "跑步機突然停咗，我唔知點解。"
+    "filename": "sau1saam1-collect-clothes-example-4",
+    "id": "sau1saam1-collect-clothes-example-4",
+    "text": "收衫係每日嘅家務之一。"
   },
   {
-    "filename": "saam1tau4gei1-triceps",
-    "id": "saam1tau4gei1-triceps",
-    "text": "三頭肌"
+    "filename": "soeng1-frost",
+    "id": "soeng1-frost",
+    "text": "霜"
   },
   {
-    "filename": "saam1tau4gei1-triceps-example-1",
-    "id": "saam1tau4gei1-triceps-example-1",
-    "text": "我今日做咗好多三頭肌訓練。"
+    "filename": "soeng1-frost-example-1",
+    "id": "soeng1-frost-example-1",
+    "text": "今朝地上有好多霜。"
   },
   {
-    "filename": "saam1tau4gei1-triceps-example-2",
-    "id": "saam1tau4gei1-triceps-example-2",
-    "text": "鍛鍊三頭肌可以令手臂更強壯。"
+    "filename": "soeng1-frost-example-2",
+    "id": "soeng1-frost-example-2",
+    "text": "冬天凍到有霜出現。"
   },
   {
-    "filename": "saam1tau4gei1-triceps-example-3",
-    "id": "saam1tau4gei1-triceps-example-3",
-    "text": "三頭肌係做伏地挺身時用得多嘅肌肉。"
+    "filename": "soeng1-frost-example-3",
+    "id": "soeng1-frost-example-3",
+    "text": "小心地面霜滑！"
   },
   {
-    "filename": "saam1tau4gei1-triceps-example-4",
-    "id": "saam1tau4gei1-triceps-example-4",
-    "text": "我想加強三頭肌，睇下點樣做啱。"
+    "filename": "soeng1-frost-example-4",
+    "id": "soeng1-frost-example-4",
+    "text": "今晚可能會有霜降。"
   },
   {
-    "filename": "sam1fai3gung1nang4-cardio-fitness",
-    "id": "sam1fai3gung1nang4-cardio-fitness",
-    "text": "心肺功能"
+    "filename": "syu1fuk6-comfortable",
+    "id": "syu1fuk6-comfortable",
+    "text": "舒服"
   },
   {
-    "filename": "sam1fai3gung1nang4-cardio-fitness-example-1",
-    "id": "sam1fai3gung1nang4-cardio-fitness-example-1",
-    "text": "跑步可以改善你嘅心肺功能。"
+    "filename": "syu1fuk6-comfortable-example-1",
+    "id": "syu1fuk6-comfortable-example-1",
+    "text": "今天天氣好舒服。"
   },
   {
-    "filename": "sam1fai3gung1nang4-cardio-fitness-example-2",
-    "id": "sam1fai3gung1nang4-cardio-fitness-example-2",
-    "text": "醫生話我心肺功能有啲弱，要多啲運動。"
+    "filename": "syu1fuk6-comfortable-example-2",
+    "id": "syu1fuk6-comfortable-example-2",
+    "text": "坐喺張椅度，好舒服。"
   },
   {
-    "filename": "sam1fai3gung1nang4-cardio-fitness-example-3",
-    "id": "sam1fai3gung1nang4-cardio-fitness-example-3",
-    "text": "游泳係幫助提升心肺功能嘅好運動。"
+    "filename": "syu1fuk6-comfortable-example-3",
+    "id": "syu1fuk6-comfortable-example-3",
+    "text": "暖氣開咗，房間而家舒服啲。"
   },
   {
-    "filename": "sam1fai3gung1nang4-cardio-fitness-example-4",
-    "id": "sam1fai3gung1nang4-cardio-fitness-example-4",
-    "text": "長時間訓練可以增強心肺功能。"
+    "filename": "syu1fuk6-comfortable-example-4",
+    "id": "syu1fuk6-comfortable-example-4",
+    "text": "你今日睇落好舒服呀。"
   },
   {
-    "filename": "sau1san1-get-fit",
-    "id": "sau1san1-get-fit",
-    "text": "收身"
+    "filename": "taai3joeng4-sun",
+    "id": "taai3joeng4-sun",
+    "text": "太陽"
   },
   {
-    "filename": "sau1san1-get-fit-example-1",
-    "id": "sau1san1-get-fit-example-1",
-    "text": "我開始做收身運動。"
+    "filename": "taai3joeng4-sun-example-1",
+    "id": "taai3joeng4-sun-example-1",
+    "text": "今天天氣好好，太陽好猛。"
   },
   {
-    "filename": "sau1san1-get-fit-example-2",
-    "id": "sau1san1-get-fit-example-2",
-    "text": "你嘅收身成果好明顯喎。"
+    "filename": "taai3joeng4-sun-example-2",
+    "id": "taai3joeng4-sun-example-2",
+    "text": "你見唔見到太陽落山？"
   },
   {
-    "filename": "sau1san1-get-fit-example-3",
-    "id": "sau1san1-get-fit-example-3",
-    "text": "我哋一齊去做收身啦！"
+    "filename": "taai3joeng4-sun-example-3",
+    "id": "taai3joeng4-sun-example-3",
+    "text": "夏天太陽通常好熱。"
   },
   {
-    "filename": "sau1san1-get-fit-example-4",
-    "id": "sau1san1-get-fit-example-4",
-    "text": "收身唔係一朝一夕嘅事。"
+    "filename": "taai3joeng4-sun-example-4",
+    "id": "taai3joeng4-sun-example-4",
+    "text": "我想喺太陽底下散步。"
   },
   {
-    "filename": "sau2bei3-arms",
-    "id": "sau2bei3-arms",
-    "text": "手臂"
+    "filename": "tin1hei3-weather",
+    "id": "tin1hei3-weather",
+    "text": "天氣"
   },
   {
-    "filename": "sau2bei3-arms-example-1",
-    "id": "sau2bei3-arms-example-1",
-    "text": "我今日做咗好多手臂運動。"
+    "filename": "tin1hei3-weather-example-1",
+    "id": "tin1hei3-weather-example-1",
+    "text": "今日嘅天氣好熱。"
   },
   {
-    "filename": "sau2bei3-arms-example-2",
-    "id": "sau2bei3-arms-example-2",
-    "text": "佢嘅手臂好壯。"
+    "filename": "tin1hei3-weather-example-2",
+    "id": "tin1hei3-weather-example-2",
+    "text": "你知唔知道明天嘅天氣點？"
   },
   {
-    "filename": "sau2bei3-arms-example-3",
-    "id": "sau2bei3-arms-example-3",
-    "text": "請你舉高啲手臂。"
+    "filename": "tin1hei3-weather-example-3",
+    "id": "tin1hei3-weather-example-3",
+    "text": "今朝天氣落雨喇。"
   },
   {
-    "filename": "sau2bei3-arms-example-4",
-    "id": "sau2bei3-arms-example-4",
-    "text": "我手臂有啲痛，可能係運動做多咗。"
+    "filename": "tin1hei3-weather-example-4",
+    "id": "tin1hei3-weather-example-4",
+    "text": "呢個季節嘅天氣通常好涼。"
   },
   {
-    "filename": "sing4zik1-result",
-    "id": "sing4zik1-result",
-    "text": "成績"
+    "filename": "tin1sik1-sky-color",
+    "id": "tin1sik1-sky-color",
+    "text": "天色"
   },
   {
-    "filename": "sing4zik1-result-example-1",
-    "id": "sing4zik1-result-example-1",
-    "text": "我哋隊嘅成績唔錯，贏咗第三名。"
+    "filename": "tin1sik1-sky-color-example-1",
+    "id": "tin1sik1-sky-color-example-1",
+    "text": "今日嘅天色好靚。"
   },
   {
-    "filename": "sing4zik1-result-example-2",
-    "id": "sing4zik1-result-example-2",
-    "text": "老師話我今次考試成績好高。"
+    "filename": "tin1sik1-sky-color-example-2",
+    "id": "tin1sik1-sky-color-example-2",
+    "text": "你覺得而家嘅天色係咩嘢？"
   },
   {
-    "filename": "sing4zik1-result-example-3",
-    "id": "sing4zik1-result-example-3",
-    "text": "你查吓你嘅跑步成績未？"
+    "filename": "tin1sik1-sky-color-example-3",
+    "id": "tin1sik1-sky-color-example-3",
+    "text": "天色唔好，可能落雨。"
   },
   {
-    "filename": "sing4zik1-result-example-4",
-    "id": "sing4zik1-result-example-4",
-    "text": "公司今年嘅業績成績有改善。"
+    "filename": "tin1sik1-sky-color-example-4",
+    "id": "tin1sik1-sky-color-example-4",
+    "text": "我哋快啲出去，天色要暗咗。"
   },
   {
-    "filename": "siu2teoi2-calves",
-    "id": "siu2teoi2-calves",
-    "text": "小腿"
+    "filename": "toi4fung1-typhoon",
+    "id": "toi4fung1-typhoon",
+    "text": "颱風"
   },
   {
-    "filename": "siu2teoi2-calves-example-1",
-    "id": "siu2teoi2-calves-example-1",
-    "text": "我啲小腿今朝好似攰咗。"
+    "filename": "toi4fung1-typhoon-example-1",
+    "id": "toi4fung1-typhoon-example-1",
+    "text": "今個星期有颱風嚟。"
   },
   {
-    "filename": "siu2teoi2-calves-example-2",
-    "id": "siu2teoi2-calves-example-2",
-    "text": "跑步嘅時候要鍛鍊小腿肌肉。"
+    "filename": "toi4fung1-typhoon-example-2",
+    "id": "toi4fung1-typhoon-example-2",
+    "text": "颱風令天氣好差。"
   },
   {
-    "filename": "siu2teoi2-calves-example-3",
-    "id": "siu2teoi2-calves-example-3",
-    "text": "醫生話我小腿拉傷，要休息幾日。"
+    "filename": "toi4fung1-typhoon-example-3",
+    "id": "toi4fung1-typhoon-example-3",
+    "text": "你應該準備颱風用品。"
   },
   {
-    "filename": "siu2teoi2-calves-example-4",
-    "id": "siu2teoi2-calves-example-4",
-    "text": "你做瑜伽嘅時候，可以伸展小腿。"
+    "filename": "toi4fung1-typhoon-example-4",
+    "id": "toi4fung1-typhoon-example-4",
+    "text": "颱風期間要留意安全。"
   },
   {
-    "filename": "syu1-lose",
-    "id": "syu1-lose",
-    "text": "輸"
+    "filename": "wan1wo4-mild",
+    "id": "wan1wo4-mild",
+    "text": "溫和"
   },
   {
-    "filename": "syu1-lose-example-1",
-    "id": "syu1-lose-example-1",
-    "text": "我今次比賽輸咗。"
+    "filename": "wan1wo4-mild-example-1",
+    "id": "wan1wo4-mild-example-1",
+    "text": "今天天氣好溫和，唔熱唔凍。"
   },
   {
-    "filename": "syu1-lose-example-2",
-    "id": "syu1-lose-example-2",
-    "text": "你唔好驚輸，繼續努力。"
+    "filename": "wan1wo4-mild-example-2",
+    "id": "wan1wo4-mild-example-2",
+    "text": "佢嘅性格好溫和，好易傾計。"
   },
   {
-    "filename": "syu1-lose-example-3",
-    "id": "syu1-lose-example-3",
-    "text": "足球隊輸咗三比零。"
+    "filename": "wan1wo4-mild-example-3",
+    "id": "wan1wo4-mild-example-3",
+    "text": "呢度嘅氣候好溫和，適合種花。"
   },
   {
-    "filename": "syu1-lose-example-4",
-    "id": "syu1-lose-example-4",
-    "text": "佢唔想輸比人。"
+    "filename": "wan1wo4-mild-example-4",
+    "id": "wan1wo4-mild-example-4",
+    "text": "冬天溫和啲，人哋都舒服啲。"
   },
   {
-    "filename": "tai2juk6-sports",
-    "id": "tai2juk6-sports",
-    "text": "體育"
+    "filename": "wan4-cloud",
+    "id": "wan4-cloud",
+    "text": "雲"
   },
   {
-    "filename": "tai2juk6-sports-example-1",
-    "id": "tai2juk6-sports-example-1",
-    "text": "我鐘意睇體育節目。"
+    "filename": "wan4-cloud-example-1",
+    "id": "wan4-cloud-example-1",
+    "text": "今朝啲天空有好多雲。"
   },
   {
-    "filename": "tai2juk6-sports-example-2",
-    "id": "tai2juk6-sports-example-2",
-    "text": "學校每個星期都有體育課。"
+    "filename": "wan4-cloud-example-2",
+    "id": "wan4-cloud-example-2",
+    "text": "你見唔見到啲雲好靚？"
   },
   {
-    "filename": "tai2juk6-sports-example-3",
-    "id": "tai2juk6-sports-example-3",
-    "text": "體育運動對身體好。"
+    "filename": "wan4-cloud-example-3",
+    "id": "wan4-cloud-example-3",
+    "text": "今日天氣多雲，唔太熱。"
   },
   {
-    "filename": "tai2juk6-sports-example-4",
-    "id": "tai2juk6-sports-example-4",
-    "text": "我哋去體育館打籃球啦！"
+    "filename": "wan4-cloud-example-4",
+    "id": "wan4-cloud-example-4",
+    "text": "飛機喺雲層裏面飛。"
   },
   {
-    "filename": "tai2lik6-stamina",
-    "id": "tai2lik6-stamina",
-    "text": "體力"
+    "filename": "wan4loeng6-cloud-layer",
+    "id": "wan4loeng6-cloud-layer",
+    "text": "雲量"
   },
   {
-    "filename": "tai2lik6-stamina-example-1",
-    "id": "tai2lik6-stamina-example-1",
-    "text": "跑步需要好嘅體力。"
+    "filename": "wan4loeng6-cloud-layer-example-1",
+    "id": "wan4loeng6-cloud-layer-example-1",
+    "text": "今日嘅雲量好高，好似要落雨。"
   },
   {
-    "filename": "tai2lik6-stamina-example-2",
-    "id": "tai2lik6-stamina-example-2",
-    "text": "佢嘅體力唔夠耐。  "
+    "filename": "wan4loeng6-cloud-layer-example-2",
+    "id": "wan4loeng6-cloud-layer-example-2",
+    "text": "凌晨嘅雲量比較低，天空好清晰。"
   },
   {
-    "filename": "tai2lik6-stamina-example-3",
-    "id": "tai2lik6-stamina-example-3",
-    "text": "健身可以提升你嘅體力。"
+    "filename": "wan4loeng6-cloud-layer-example-3",
+    "id": "wan4loeng6-cloud-layer-example-3",
+    "text": "電視天氣報告講咗雲量中等左右。"
   },
   {
-    "filename": "tai2lik6-stamina-example-4",
-    "id": "tai2lik6-stamina-example-4",
-    "text": "工作一日好攰，因為冇足夠嘅體力。"
+    "filename": "wan4loeng6-cloud-layer-example-4",
+    "id": "wan4loeng6-cloud-layer-example-4",
+    "text": "我哋出門前要睇下雲量先決定帶唔帶傘。"
   },
   {
-    "filename": "tai2nang4-fitness",
-    "id": "tai2nang4-fitness",
-    "text": "體能"
+    "filename": "wu1jim5-pollution",
+    "id": "wu1jim5-pollution",
+    "text": "污染"
   },
   {
-    "filename": "tai2nang4-fitness-example-1",
-    "id": "tai2nang4-fitness-example-1",
-    "text": "我想提升自己嘅體能。"
+    "filename": "wu1jim5-pollution-example-1",
+    "id": "wu1jim5-pollution-example-1",
+    "text": "呢個城市嘅空氣污染好嚴重。"
   },
   {
-    "filename": "tai2nang4-fitness-example-2",
-    "id": "tai2nang4-fitness-example-2",
-    "text": "佢嘅體能好好，跑步好快。"
+    "filename": "wu1jim5-pollution-example-2",
+    "id": "wu1jim5-pollution-example-2",
+    "text": "工廠排放令水污染增加咗。"
   },
   {
-    "filename": "tai2nang4-fitness-example-3",
-    "id": "tai2nang4-fitness-example-3",
-    "text": "做運動可以增強體能。"
+    "filename": "wu1jim5-pollution-example-3",
+    "id": "wu1jim5-pollution-example-3",
+    "text": "政府推行新政策防止污染惡化。"
   },
   {
-    "filename": "tai2nang4-fitness-example-4",
-    "id": "tai2nang4-fitness-example-4",
-    "text": "體能測試準備喺下星期。"
+    "filename": "wu1jim5-pollution-example-4",
+    "id": "wu1jim5-pollution-example-4",
+    "text": "我哋要合作減少污染保持清潔。"
   },
   {
-    "filename": "tek3zuk1kau4-football",
-    "id": "tek3zuk1kau4-football",
-    "text": "踢足球"
+    "filename": "zan6jyu5-shower",
+    "id": "zan6jyu5-shower",
+    "text": "陣雨"
   },
   {
-    "filename": "tek3zuk1kau4-football-example-1",
-    "id": "tek3zuk1kau4-football-example-1",
-    "text": "我星期六會去公園踢足球。"
+    "filename": "zan6jyu5-shower-example-1",
+    "id": "zan6jyu5-shower-example-1",
+    "text": "天氣報告話今日會有陣雨。"
   },
   {
-    "filename": "tek3zuk1kau4-football-example-2",
-    "id": "tek3zuk1kau4-football-example-2",
-    "text": "你鍾唔鍾意踢足球？"
+    "filename": "zan6jyu5-shower-example-2",
+    "id": "zan6jyu5-shower-example-2",
+    "text": "小心啲，陣雨落緊。"
   },
   {
-    "filename": "tek3zuk1kau4-football-example-3",
-    "id": "tek3zuk1kau4-football-example-3",
-    "text": "佢哋每晚踢足球做運動。"
+    "filename": "zan6jyu5-shower-example-3",
+    "id": "zan6jyu5-shower-example-3",
+    "text": "我哋要帶遮，因為下午有陣雨。"
   },
   {
-    "filename": "tek3zuk1kau4-football-example-4",
-    "id": "tek3zuk1kau4-football-example-4",
-    "text": "唔好淨係諗住打機，一齊出嚟踢足球啦！"
+    "filename": "zan6jyu5-shower-example-4",
+    "id": "zan6jyu5-shower-example-4",
+    "text": "陣雨過後，天氣會變好。"
   },
   {
-    "filename": "tiu3mou5-dance",
-    "id": "tiu3mou5-dance",
-    "text": "跳舞"
+    "filename": "zip3saam1-fold-clothes",
+    "id": "zip3saam1-fold-clothes",
+    "text": "摺衫"
   },
   {
-    "filename": "tiu3mou5-dance-example-1",
-    "id": "tiu3mou5-dance-example-1",
-    "text": "我最鍾意跳舞。"
+    "filename": "zip3saam1-fold-clothes-example-1",
+    "id": "zip3saam1-fold-clothes-example-1",
+    "text": "我啱啱洗完衫，依家要摺衫。"
   },
   {
-    "filename": "tiu3mou5-dance-example-2",
-    "id": "tiu3mou5-dance-example-2",
-    "text": "週末我哋去跳舞。"
+    "filename": "zip3saam1-fold-clothes-example-2",
+    "id": "zip3saam1-fold-clothes-example-2",
+    "text": "你可唔可以幫我摺衫？"
   },
   {
-    "filename": "tiu3mou5-dance-example-3",
-    "id": "tiu3mou5-dance-example-3",
-    "text": "佢教我點樣跳舞。"
+    "filename": "zip3saam1-fold-clothes-example-3",
+    "id": "zip3saam1-fold-clothes-example-3",
+    "text": "小朋友學識點樣摺衫，好重要。"
   },
   {
-    "filename": "tiu3mou5-dance-example-4",
-    "id": "tiu3mou5-dance-example-4",
-    "text": "今晚我唔想跳舞。"
+    "filename": "zip3saam1-fold-clothes-example-4",
+    "id": "zip3saam1-fold-clothes-example-4",
+    "text": "今晚我會摺衫同埋整衫櫃。"
   },
   {
-    "filename": "tyun4bou6-glutes",
-    "id": "tyun4bou6-glutes",
-    "text": "臀部"
+    "filename": "zyun2leong4-getting-cooler",
+    "id": "zyun2leong4-getting-cooler",
+    "text": "轉涼"
   },
   {
-    "filename": "tyun4bou6-glutes-example-1",
-    "id": "tyun4bou6-glutes-example-1",
-    "text": "我哋今日主要鍛鍊臀部肌肉。"
+    "filename": "zyun2leong4-getting-cooler-example-1",
+    "id": "zyun2leong4-getting-cooler-example-1",
+    "text": "最近天氣開始轉涼喇。"
   },
   {
-    "filename": "tyun4bou6-glutes-example-2",
-    "id": "tyun4bou6-glutes-example-2",
-    "text": "跑步後我嘅臀部有啲痠痛。"
+    "filename": "zyun2leong4-getting-cooler-example-2",
+    "id": "zyun2leong4-getting-cooler-example-2",
+    "text": "你有冇覺得今日轉涼咗？"
   },
   {
-    "filename": "tyun4bou6-glutes-example-3",
-    "id": "tyun4bou6-glutes-example-3",
-    "text": "醫生話我臀部肌肉拉傷咗。"
+    "filename": "zyun2leong4-getting-cooler-example-3",
+    "id": "zyun2leong4-getting-cooler-example-3",
+    "text": "天氣開始轉涼，要記得著衫。"
   },
   {
-    "filename": "tyun4bou6-glutes-example-4",
-    "id": "tyun4bou6-glutes-example-4",
-    "text": "做臀部伸展運動可以減輕腰痛。"
+    "filename": "zyun2leong4-getting-cooler-example-4",
+    "id": "zyun2leong4-getting-cooler-example-4",
+    "text": "冬天就係咁轉涼。"
   },
   {
-    "filename": "waa4syun4gei1-rowing-machine",
-    "id": "waa4syun4gei1-rowing-machine",
-    "text": "划船機"
+    "filename": "zyun2nyun5-getting-warmer",
+    "id": "zyun2nyun5-getting-warmer",
+    "text": "轉暖"
   },
   {
-    "filename": "waa4syun4gei1-rowing-machine-example-1",
-    "id": "waa4syun4gei1-rowing-machine-example-1",
-    "text": "我每日都會喺健身室用划船機。"
+    "filename": "zyun2nyun5-getting-warmer-example-1",
+    "id": "zyun2nyun5-getting-warmer-example-1",
+    "text": "天氣開始轉暖喇。"
   },
   {
-    "filename": "waa4syun4gei1-rowing-machine-example-2",
-    "id": "waa4syun4gei1-rowing-machine-example-2",
-    "text": "划船機幫我訓練手臂同背部肌肉。"
+    "filename": "zyun2nyun5-getting-warmer-example-2",
+    "id": "zyun2nyun5-getting-warmer-example-2",
+    "text": "春天嘅轉暖令啲花開得更靚。"
   },
   {
-    "filename": "waa4syun4gei1-rowing-machine-example-3",
-    "id": "waa4syun4gei1-rowing-machine-example-3",
-    "text": "呢部划船機好新淨，啱啲初學者用。"
+    "filename": "zyun2nyun5-getting-warmer-example-3",
+    "id": "zyun2nyun5-getting-warmer-example-3",
+    "text": "依家轉暖，唔使着咁多衫。"
   },
   {
-    "filename": "waa4syun4gei1-rowing-machine-example-4",
-    "id": "waa4syun4gei1-rowing-machine-example-4",
-    "text": "你試吓用劃船機減肥啦，好有效。"
-  },
-  {
-    "filename": "waat6bing1-skate",
-    "id": "waat6bing1-skate",
-    "text": "滑冰"
-  },
-  {
-    "filename": "waat6bing1-skate-example-1",
-    "id": "waat6bing1-skate-example-1",
-    "text": "我鐘意去溜冰場玩滑冰。"
-  },
-  {
-    "filename": "waat6bing1-skate-example-2",
-    "id": "waat6bing1-skate-example-2",
-    "text": "星期六我同朋友一齊去滑冰。"
-  },
-  {
-    "filename": "waat6bing1-skate-example-3",
-    "id": "waat6bing1-skate-example-3",
-    "text": "佢滑冰滑得好叻。"
-  },
-  {
-    "filename": "waat6bing1-skate-example-4",
-    "id": "waat6bing1-skate-example-4",
-    "text": "滑冰係我冬天最鍾意嘅運動。"
-  },
-  {
-    "filename": "waat6syut3-ski",
-    "id": "waat6syut3-ski",
-    "text": "滑雪"
-  },
-  {
-    "filename": "waat6syut3-ski-example-1",
-    "id": "waat6syut3-ski-example-1",
-    "text": "我冬天去日本滑雪。"
-  },
-  {
-    "filename": "waat6syut3-ski-example-2",
-    "id": "waat6syut3-ski-example-2",
-    "text": "你識唔識滑雪？"
-  },
-  {
-    "filename": "waat6syut3-ski-example-3",
-    "id": "waat6syut3-ski-example-3",
-    "text": "我最鍾意滑雪，因為好玩。"
-  },
-  {
-    "filename": "waat6syut3-ski-example-4",
-    "id": "waat6syut3-ski-example-4",
-    "text": "滑雪裝備好貴喎。"
-  },
-  {
-    "filename": "wan6dung6-exercise",
-    "id": "wan6dung6-exercise",
-    "text": "運動"
-  },
-  {
-    "filename": "wan6dung6-exercise-example-1",
-    "id": "wan6dung6-exercise-example-1",
-    "text": "我每日都會做運動。"
-  },
-  {
-    "filename": "wan6dung6-exercise-example-2",
-    "id": "wan6dung6-exercise-example-2",
-    "text": "你鍾唔鍾意做運動？"
-  },
-  {
-    "filename": "wan6dung6-exercise-example-3",
-    "id": "wan6dung6-exercise-example-3",
-    "text": "運動可以令你身體健康。"
-  },
-  {
-    "filename": "wan6dung6-exercise-example-4",
-    "id": "wan6dung6-exercise-example-4",
-    "text": "我哋星期六去公園做運動。"
-  },
-  {
-    "filename": "wan6dung6coeng4-sports-ground",
-    "id": "wan6dung6coeng4-sports-ground",
-    "text": "運動場"
-  },
-  {
-    "filename": "wan6dung6coeng4-sports-ground-example-1",
-    "id": "wan6dung6coeng4-sports-ground-example-1",
-    "text": "我哋下午去運動場踢波。"
-  },
-  {
-    "filename": "wan6dung6coeng4-sports-ground-example-2",
-    "id": "wan6dung6coeng4-sports-ground-example-2",
-    "text": "呢個運動場幾時開放？"
-  },
-  {
-    "filename": "wan6dung6coeng4-sports-ground-example-3",
-    "id": "wan6dung6coeng4-sports-ground-example-3",
-    "text": "細路仔喺運動場玩得好開心。"
-  },
-  {
-    "filename": "wan6dung6coeng4-sports-ground-example-4",
-    "id": "wan6dung6coeng4-sports-ground-example-4",
-    "text": "我鍾意去運動場做運動。"
-  },
-  {
-    "filename": "wan6dung6jyun4-athlete",
-    "id": "wan6dung6jyun4-athlete",
-    "text": "運動員"
-  },
-  {
-    "filename": "wan6dung6jyun4-athlete-example-1",
-    "id": "wan6dung6jyun4-athlete-example-1",
-    "text": "佢係田徑隊嘅運動員。"
-  },
-  {
-    "filename": "wan6dung6jyun4-athlete-example-2",
-    "id": "wan6dung6jyun4-athlete-example-2",
-    "text": "運動員每日都要訓練。"
-  },
-  {
-    "filename": "wan6dung6jyun4-athlete-example-3",
-    "id": "wan6dung6jyun4-athlete-example-3",
-    "text": "佢哋係專業運動員。"
-  },
-  {
-    "filename": "wan6dung6jyun4-athlete-example-4",
-    "id": "wan6dung6jyun4-athlete-example-4",
-    "text": "奧運會吸引好多運動員參加。"
-  },
-  {
-    "filename": "wan6dung6saam1-workout-clothes",
-    "id": "wan6dung6saam1-workout-clothes",
-    "text": "運動衫"
-  },
-  {
-    "filename": "wan6dung6saam1-workout-clothes-example-1",
-    "id": "wan6dung6saam1-workout-clothes-example-1",
-    "text": "我今日著咗件新運動衫去跑步。"
-  },
-  {
-    "filename": "wan6dung6saam1-workout-clothes-example-2",
-    "id": "wan6dung6saam1-workout-clothes-example-2",
-    "text": "你啲運動衫洗咗未？"
-  },
-  {
-    "filename": "wan6dung6saam1-workout-clothes-example-3",
-    "id": "wan6dung6saam1-workout-clothes-example-3",
-    "text": "運動衫通常用吸汗材料整嘅，好舒服。"
-  },
-  {
-    "filename": "wan6dung6saam1-workout-clothes-example-4",
-    "id": "wan6dung6saam1-workout-clothes-example-4",
-    "text": "喺健身室記得換返件乾淨嘅運動衫。"
-  },
-  {
-    "filename": "zang1gei1-build-muscle",
-    "id": "zang1gei1-build-muscle",
-    "text": "增肌"
-  },
-  {
-    "filename": "zang1gei1-build-muscle-example-1",
-    "id": "zang1gei1-build-muscle-example-1",
-    "text": "我呢排練緊增肌。"
-  },
-  {
-    "filename": "zang1gei1-build-muscle-example-2",
-    "id": "zang1gei1-build-muscle-example-2",
-    "text": "你想點增肌先？"
-  },
-  {
-    "filename": "zang1gei1-build-muscle-example-3",
-    "id": "zang1gei1-build-muscle-example-3",
-    "text": "增肌飲食好緊要。"
-  },
-  {
-    "filename": "zang1gei1-build-muscle-example-4",
-    "id": "zang1gei1-build-muscle-example-4",
-    "text": "教練話增肌要有耐性。"
-  },
-  {
-    "filename": "zeon3bou6-progress",
-    "id": "zeon3bou6-progress",
-    "text": "進步"
-  },
-  {
-    "filename": "zeon3bou6-progress-example-1",
-    "id": "zeon3bou6-progress-example-1",
-    "text": "你嘅英文有好多進步。"
-  },
-  {
-    "filename": "zeon3bou6-progress-example-2",
-    "id": "zeon3bou6-progress-example-2",
-    "text": "佢練習得好勤力，所以進步好快。"
-  },
-  {
-    "filename": "zeon3bou6-progress-example-3",
-    "id": "zeon3bou6-progress-example-3",
-    "text": "雖然進步咗，但仲可以做得更好。"
-  },
-  {
-    "filename": "zeon3bou6-progress-example-4",
-    "id": "zeon3bou6-progress-example-4",
-    "text": "我見到你最近有進步，好掂！"
-  },
-  {
-    "filename": "zing1coi2-good-performance",
-    "id": "zing1coi2-good-performance",
-    "text": "精彩"
-  },
-  {
-    "filename": "zing1coi2-good-performance-example-1",
-    "id": "zing1coi2-good-performance-example-1",
-    "text": "今日嘅比賽好精彩！"
-  },
-  {
-    "filename": "zing1coi2-good-performance-example-2",
-    "id": "zing1coi2-good-performance-example-2",
-    "text": "佢嘅表現真係精彩。"
-  },
-  {
-    "filename": "zing1coi2-good-performance-example-3",
-    "id": "zing1coi2-good-performance-example-3",
-    "text": "嗰場籃球比賽好精彩。"
-  },
-  {
-    "filename": "zing1coi2-good-performance-example-4",
-    "id": "zing1coi2-good-performance-example-4",
-    "text": "今次演出精彩到爆炸！"
-  },
-  {
-    "filename": "zoeng2soeng6aat3-push-up",
-    "id": "zoeng2soeng6aat3-push-up",
-    "text": "掌上壓"
-  },
-  {
-    "filename": "zoeng2soeng6aat3-push-up-example-1",
-    "id": "zoeng2soeng6aat3-push-up-example-1",
-    "text": "我今日做咗三十個掌上壓。"
-  },
-  {
-    "filename": "zoeng2soeng6aat3-push-up-example-2",
-    "id": "zoeng2soeng6aat3-push-up-example-2",
-    "text": "你識唔識正確做掌上壓？"
-  },
-  {
-    "filename": "zoeng2soeng6aat3-push-up-example-3",
-    "id": "zoeng2soeng6aat3-push-up-example-3",
-    "text": "教練叫我哋做五組掌上壓。"
-  },
-  {
-    "filename": "zoeng2soeng6aat3-push-up-example-4",
-    "id": "zoeng2soeng6aat3-push-up-example-4",
-    "text": "掌上壓可以幫助加強手臂肌肉。"
-  },
-  {
-    "filename": "zou2-group-set",
-    "id": "zou2-group-set",
-    "text": "組"
-  },
-  {
-    "filename": "zou2-group-set-example-1",
-    "id": "zou2-group-set-example-1",
-    "text": "我做三組深蹲。"
-  },
-  {
-    "filename": "zou2-group-set-example-2",
-    "id": "zou2-group-set-example-2",
-    "text": "每組十次起伏。"
-  },
-  {
-    "filename": "zou2-group-set-example-3",
-    "id": "zou2-group-set-example-3",
-    "text": "呢組器械幾重？"
-  },
-  {
-    "filename": "zou2-group-set-example-4",
-    "id": "zou2-group-set-example-4",
-    "text": "完成最後一組，差唔多休息。"
-  },
-  {
-    "filename": "zou6jyu4gaa1-yoga",
-    "id": "zou6jyu4gaa1-yoga",
-    "text": "做瑜伽"
-  },
-  {
-    "filename": "zou6jyu4gaa1-yoga-example-1",
-    "id": "zou6jyu4gaa1-yoga-example-1",
-    "text": "我每日朝早做瑜伽。"
-  },
-  {
-    "filename": "zou6jyu4gaa1-yoga-example-2",
-    "id": "zou6jyu4gaa1-yoga-example-2",
-    "text": "你鍾唔鍾意做瑜伽？"
-  },
-  {
-    "filename": "zou6jyu4gaa1-yoga-example-3",
-    "id": "zou6jyu4gaa1-yoga-example-3",
-    "text": "佢話佢今日唔做瑜伽。"
-  },
-  {
-    "filename": "zou6jyu4gaa1-yoga-example-4",
-    "id": "zou6jyu4gaa1-yoga-example-4",
-    "text": "我想學做瑜伽。"
-  },
-  {
-    "filename": "zung2leoi6-category",
-    "id": "zung2leoi6-category",
-    "text": "種類"
-  },
-  {
-    "filename": "zung2leoi6-category-example-1",
-    "id": "zung2leoi6-category-example-1",
-    "text": "執行多種類嘅運動有助健康。"
-  },
-  {
-    "filename": "zung2leoi6-category-example-2",
-    "id": "zung2leoi6-category-example-2",
-    "text": "呢個超市有唔同種類嘅健康食品。"
-  },
-  {
-    "filename": "zung2leoi6-category-example-3",
-    "id": "zung2leoi6-category-example-3",
-    "text": "你鍾意邊種種類嘅運動？"
-  },
-  {
-    "filename": "zung2leoi6-category-example-4",
-    "id": "zung2leoi6-category-example-4",
-    "text": "種類繁多嘅健身班可以選擇。"
-  },
-  {
-    "filename": "zung6-heavy",
-    "id": "zung6-heavy",
-    "text": "重"
-  },
-  {
-    "filename": "zung6-heavy-example-1",
-    "id": "zung6-heavy-example-1",
-    "text": "呢個包好重，我攞唔起。"
-  },
-  {
-    "filename": "zung6-heavy-example-2",
-    "id": "zung6-heavy-example-2",
-    "text": "今日落雨，好重。"
-  },
-  {
-    "filename": "zung6-heavy-example-3",
-    "id": "zung6-heavy-example-3",
-    "text": "呢把槓鈴太重，我做唔到。"
-  },
-  {
-    "filename": "zung6-heavy-example-4",
-    "id": "zung6-heavy-example-4",
-    "text": "工作嗰日真係好重，好攰。"
-  },
-  {
-    "filename": "zung6loeng6-heavy-weight",
-    "id": "zung6loeng6-heavy-weight",
-    "text": "重量"
-  },
-  {
-    "filename": "zung6loeng6-heavy-weight-example-1",
-    "id": "zung6loeng6-heavy-weight-example-1",
-    "text": "我今日舉起咗好重嘅重量。"
-  },
-  {
-    "filename": "zung6loeng6-heavy-weight-example-2",
-    "id": "zung6loeng6-heavy-weight-example-2",
-    "text": "呢個啞鈴嘅重量係十公斤。"
-  },
-  {
-    "filename": "zung6loeng6-heavy-weight-example-3",
-    "id": "zung6loeng6-heavy-weight-example-3",
-    "text": "增加重量可以幫助增肌。"
-  },
-  {
-    "filename": "zung6loeng6-heavy-weight-example-4",
-    "id": "zung6loeng6-heavy-weight-example-4",
-    "text": "你應該注意自己嘅重量訓練計劃。"
+    "filename": "zyun2nyun5-getting-warmer-example-4",
+    "id": "zyun2nyun5-getting-warmer-example-4",
+    "text": "天氣預報講周末會再轉暖。"
   }
 ]
