@@ -4,12 +4,12 @@
   "description": "Foundation vocabulary for basic spoken, identity, actions, daily life, and simple needs.",
   "categories": {
     "pronouns_and_people": [
-      { "id": "ngo5-me", "word": "我", "jyutping": "ngo5", "meaning": "I / me" },
+      { "id": "ngo5-me", "word": "我", "jyutping": "ngo5", "meaning": "me" },
       { "id": "nei5-you", "word": "你", "jyutping": "nei5", "meaning": "you" },
-      { "id": "keoi5-he-she", "word": "佢", "jyutping": "keoi5", "meaning": "he / she" },
-      { "id": "ngo5dei6-we", "word": "我哋", "jyutping": "ngo5 dei6", "meaning": "we / us" },
-      { "id": "nei5dei6-you-plural", "word": "你哋", "jyutping": "nei5 dei6", "meaning": "you (plural)" },
-      { "id": "keoi5dei6-they-plural", "word": "佢哋", "jyutping": "keoi5 dei6", "meaning": "they / them" },
+      { "id": "keoi5-he-she", "word": "佢", "jyutping": "keoi5", "meaning": "they" },
+      { "id": "ngo5dei6-we", "word": "我哋", "jyutping": "ngo5 dei6", "meaning": "we" },
+      { "id": "nei5dei6-you-plural", "word": "你哋", "jyutping": "nei5 dei6", "meaning": "you all" },
+      { "id": "keoi5dei6-they-plural", "word": "佢哋", "jyutping": "keoi5 dei6", "meaning": "they plural" },
       { "id": "jan4-person", "word": "人", "jyutping": "jan4", "meaning": "person" },
       { "id": "pang4jau5-friend", "word": "朋友", "jyutping": "pang4 jau5", "meaning": "friend" }
     ],
@@ -24,25 +24,25 @@
     ],
 
     "basic_verbs": [
-      { "id": "hai6-be", "word": "係", "jyutping": "hai6", "meaning": "to be" },
-      { "id": "jau5-have", "word": "有", "jyutping": "jau5", "meaning": "to have" },
-      { "id": "mou5-not-have", "word": "冇", "jyutping": "mou5", "meaning": "to not have" },
-      { "id": "heoi3-go", "word": "去", "jyutping": "heoi3", "meaning": "to go" },
-      { "id": "lei4-come", "word": "嚟", "jyutping": "lei4", "meaning": "to come" },
-      { "id": "faan1-return", "word": "返", "jyutping": "faan1", "meaning": "to return" },
-      { "id": "zou6-do", "word": "做", "jyutping": "zou6", "meaning": "to do" },
-      { "id": "tai2-look", "word": "睇", "jyutping": "tai2", "meaning": "to watch / look" },
-      { "id": "teng1-listen", "word": "聽", "jyutping": "teng1", "meaning": "to listen" },
-      { "id": "gong2-speak", "word": "講", "jyutping": "gong2", "meaning": "to speak" }
+      { "id": "hai6-be", "word": "係", "jyutping": "hai6", "meaning": "be" },
+      { "id": "jau5-have", "word": "有", "jyutping": "jau5", "meaning": "have" },
+      { "id": "mou5-not-have", "word": "冇", "jyutping": "mou5", "meaning": "lack" },
+      { "id": "heoi3-go", "word": "去", "jyutping": "heoi3", "meaning": "go" },
+      { "id": "lei4-come", "word": "嚟", "jyutping": "lei4", "meaning": "come" },
+      { "id": "faan1-return", "word": "返", "jyutping": "faan1", "meaning": "return" },
+      { "id": "zou6-do", "word": "做", "jyutping": "zou6", "meaning": "do" },
+      { "id": "tai2-look", "word": "睇", "jyutping": "tai2", "meaning": "look" },
+      { "id": "teng1-listen", "word": "聽", "jyutping": "teng1", "meaning": "listen" },
+      { "id": "gong2-speak", "word": "講", "jyutping": "gong2", "meaning": "speak" }
     ],
 
     "daily_actions": [
-      { "id": "sik6-eat", "word": "食", "jyutping": "sik6", "meaning": "to eat" },
-      { "id": "jam2-drink", "word": "飲", "jyutping": "jam2", "meaning": "to drink" },
-      { "id": "zyu6-live", "word": "住", "jyutping": "zyu6", "meaning": "to live / stay" },
-      { "id": "haang4-walk", "word": "行", "jyutping": "haang4", "meaning": "to walk" },
-      { "id": "co5-sit", "word": "坐", "jyutping": "co5", "meaning": "to sit" },
-      { "id": "kei5-stand", "word": "企", "jyutping": "kei5", "meaning": "to stand" }
+      { "id": "sik6-eat", "word": "食", "jyutping": "sik6", "meaning": "eat" },
+      { "id": "jam2-drink", "word": "飲", "jyutping": "jam2", "meaning": "drink" },
+      { "id": "zyu6-live", "word": "住", "jyutping": "zyu6", "meaning": "live" },
+      { "id": "haang4-walk", "word": "行", "jyutping": "haang4", "meaning": "walk" },
+      { "id": "co5-sit", "word": "坐", "jyutping": "co5", "meaning": "sit" },
+      { "id": "kei5-stand", "word": "企", "jyutping": "kei5", "meaning": "stand" }
     ],
 
     "numbers": [
@@ -60,11 +60,11 @@
     ],
 
     "politeness_and_particles": [
-      { "id": "m4goi1-please", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please / thanks" },
-      { "id": "do1ze6-thank-you", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you" },
-      { "id": "aa3-particle", "word": "呀", "jyutping": "aa3", "meaning": "question / friendly particle" },
-      { "id": "laa1-particle", "word": "啦", "jyutping": "laa1", "meaning": "softening particle" },
-      { "id": "ge3-particle", "word": "嘅", "jyutping": "ge3", "meaning": "explanatory / possessive particle" }
+      { "id": "m4goi1-please", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please" },
+      { "id": "do1ze6-thank-you", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thanks" },
+      { "id": "aa3-particle", "word": "呀", "jyutping": "aa3", "meaning": "question particle" },
+      { "id": "laa1-particle", "word": "啦", "jyutping": "laa1", "meaning": "softener particle" },
+      { "id": "ge3-particle", "word": "嘅", "jyutping": "ge3", "meaning": "possessive particle" }
     ]
   }
 }

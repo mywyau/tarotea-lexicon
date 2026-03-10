@@ -1,0 +1,66 @@
+{
+  "id": "zou1haak3-tenant",
+  "word": "租客",
+  "jyutping": "zou1 haak3",
+  "meaning": "tenant",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '租客' (zou1 haak3) refers to a person who rents a property from a landlord.",
+    "It is used to identify the tenant in rental agreements and housing discussions.",
+    "'租客' can be used in both formal and informal contexts when talking about housing or rental situations.",
+    "In a sentence, '租客' usually functions as the subject or object noun.",
+    "It is a compound noun made up of '租' meaning rent and '客' meaning guest or customer."
+  ],
+  "examples": [
+    {
+      "id": "zou1haak3-tenant-example-1",
+      "sentence": "嗰位租客交租好準時。",
+      "jyutping": "go2 wai2 zou1 haak3 gaau1 zou1 hou2 zeon2 si4.",
+      "meaning": "That tenant pays rent very on time."
+    },
+    {
+      "id": "zou1haak3-tenant-example-2",
+      "sentence": "我哋唔該尊重租客嘅私隱。",
+      "jyutping": "ngo5 dei6 m4 goi1 zyun1 zung6 zou1 haak3 ge3 si1 jan2.",
+      "meaning": "We should respect the tenant's privacy."
+    },
+    {
+      "id": "zou1haak3-tenant-example-3",
+      "sentence": "租客同業主簽左一份合約。",
+      "jyutping": "zou1 haak3 tung4 jip6 zyu2 cim1 zo2 jat1 fan6 hap6 joek3.",
+      "meaning": "The tenant signed a contract with the landlord."
+    },
+    {
+      "id": "zou1haak3-tenant-example-4",
+      "sentence": "呢層樓嘅租客好多。",
+      "jyutping": "ni1 cang4 lau2 ge3 zou1 haak3 hou2 do1.",
+      "meaning": "There are many tenants in this building."
+    }
+  ],
+  "audio": {
+    "word": "zou1haak3-tenant.mp3",
+    "examples": [
+      "zou1haak3-tenant-example-1.mp3",
+      "zou1haak3-tenant-example-2.mp3",
+      "zou1haak3-tenant-example-3.mp3",
+      "zou1haak3-tenant-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "renting",
+    "tenant",
+    "rental agreement",
+    "property",
+    "level-1"
+  ],
+  "related": [
+    "業主 (jip6 zyu2) landlord",
+    "租金 (zou1 gam1) rent",
+    "合約 (hap6 joek3) contract",
+    "租約 (zou1 joek3) lease",
+    "房東 (fong4 dung1) landlord"
+  ]
+}

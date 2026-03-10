@@ -1,0 +1,66 @@
+{
+  "id": "gwaan1mun4-close-door",
+  "word": "關門",
+  "jyutping": "gwaan1 mun4",
+  "meaning": "close door",
+  "pos": [
+    "verb phrase"
+  ],
+  "usage": [
+    "The phrase '關門' (gwaan1 mun4) is used as a verb phrase meaning 'to close the door'.",
+    "It can be used for both physical closing and sometimes figurative meaning like 'closing a business'.",
+    "The structure is usually Subject + 關門 + Object, where the object is sometimes implied (like the door).",
+    "It can be used in commands, for example, telling someone to close the door.",
+    "It is common in everyday conversation about housing or rooms."
+  ],
+  "examples": [
+    {
+      "id": "gwaan1mun4-close-door-example-1",
+      "sentence": "請你關門，唔好凍住。",
+      "jyutping": "cing2 nei5 gwaan1 mun4, m4 hou2 dung3 zyu6.",
+      "meaning": "Please close the door, don't let the cold in."
+    },
+    {
+      "id": "gwaan1mun4-close-door-example-2",
+      "sentence": "出門前記住關門。",
+      "jyutping": "ceot1 mun4 cin4 gei3 zyu6 gwaan1 mun4.",
+      "meaning": "Remember to close the door before going out."
+    },
+    {
+      "id": "gwaan1mun4-close-door-example-3",
+      "sentence": "佢每日都會自己關門。",
+      "jyutping": "keoi5 mui5 jat6 dou1 wui5 zi6 gei2 gwaan1 mun4.",
+      "meaning": "He closes the door by himself every day."
+    },
+    {
+      "id": "gwaan1mun4-close-door-example-4",
+      "sentence": "屋企太嘈，快啲關門啦。",
+      "jyutping": "uk1 kei2 taai3 cou4, faai3 di1 gwaan1 mun4 laa1.",
+      "meaning": "The house is too noisy, close the door quickly."
+    }
+  ],
+  "audio": {
+    "word": "gwaan1mun4-close-door.mp3",
+    "examples": [
+      "gwaan1mun4-close-door-example-1.mp3",
+      "gwaan1mun4-close-door-example-2.mp3",
+      "gwaan1mun4-close-door-example-3.mp3",
+      "gwaan1mun4-close-door-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "daily life",
+    "home",
+    "verbs",
+    "actions",
+    "level-1"
+  ],
+  "related": [
+    "開門",
+    "鎖門",
+    "門口",
+    "房間",
+    "關窗"
+  ]
+}

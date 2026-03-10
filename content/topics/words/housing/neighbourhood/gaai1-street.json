@@ -1,0 +1,66 @@
+{
+  "id": "gaai1-street",
+  "word": "街",
+  "jyutping": "gaai1",
+  "meaning": "street",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '街' (gaai1) is a noun meaning 'street'.",
+    "'街' is used to refer to public roads within cities and towns where people walk or vehicles drive.",
+    "It can appear alone or in combination with other words to specify particular streets or types of streets.",
+    "'街' can describe the physical location or be part of an address.",
+    "In casual conversation, people often use '街' to talk about going out or meeting on a street."
+  ],
+  "examples": [
+    {
+      "id": "gaai1-street-example-1",
+      "sentence": "我哋喺條街度見面啦。",
+      "jyutping": "ngo5 dei6 hai2 tiu4 gaai1 dou6 gin3 min6 laa1.",
+      "meaning": "Let's meet on the street."
+    },
+    {
+      "id": "gaai1-street-example-2",
+      "sentence": "呢條街好多食肆呀。",
+      "jyutping": "ni1 tiu4 gaai1 hou2 do1 sik6 si2 aa3.",
+      "meaning": "This street has a lot of restaurants."
+    },
+    {
+      "id": "gaai1-street-example-3",
+      "sentence": "佢住喺旺角嘅街附近。",
+      "jyutping": "keoi5 zyu6 hai2 wong6 gok3 ge3 gaai1 fu6 gan6.",
+      "meaning": "He lives near the street in Mong Kok."
+    },
+    {
+      "id": "gaai1-street-example-4",
+      "sentence": "夜晚嘅街好熱鬧。",
+      "jyutping": "je6 maan5 ge3 gaai1 hou2 jit6 naau6.",
+      "meaning": "The street is very lively at night."
+    }
+  ],
+  "audio": {
+    "word": "gaai1-street.mp3",
+    "examples": [
+      "gaai1-street-example-1.mp3",
+      "gaai1-street-example-2.mp3",
+      "gaai1-street-example-3.mp3",
+      "gaai1-street-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "neighbourhood",
+    "location",
+    "streets",
+    "daily life",
+    "level-1"
+  ],
+  "related": [
+    "馬路 (maa5 lou6) - road",
+    "街市 (gaai1 si5) - street market",
+    "行人路 (haang4 jan4 lou6) - pavement",
+    "轉角 (zyun3 gok3) - street corner",
+    "燈柱 (dang1 cyu5) - street lamp"
+  ]
+}
