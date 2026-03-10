@@ -147,3 +147,16 @@ python scripts/generate_words.py \
 export <key>
 
 ```
+
+
+### find copy json file in file name in directory
+
+```
+ find . -type f -name "*copy*.json"
+```
+
+### find copy json file in file name in directory
+
+```
+ find . -type f -name "*copy*.mp3"
+```

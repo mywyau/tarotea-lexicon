@@ -1,66 +1,66 @@
 {
-  "id": "m4dak1-not-working-not-working",
+  "id": "m4dak1-not-working",
   "word": "唔得",
   "jyutping": "m4 dak1",
-  "meaning": "doesn’t work / not okay / not possible",
-
-  "pos": ["verb phrase"],
-
-  "usage": [
-    "Used to say that something does not work or is not functioning",
-    "Also used to reject a suggestion or say something is not acceptable",
-    "Very common in spoken Cantonese for both objects and situations"
+  "meaning": "not working",
+  "pos": [
+    "adjective"
   ],
-
+  "usage": [
+    "The word '唔得' (m4 dak1) is mainly used to describe something that is not working or not functioning properly.",
+    "'唔得' can be used on its own as a short phrase to indicate failure or inability.",
+    "It often appears in conversational Cantonese when talking about devices, systems, or plans that have failed.",
+    "'唔得' can be combined with other words to specify what is not working, for example, '電話唔得' means 'the phone is not working.'",
+    "It is informal and commonly used in everyday speech, rather than in formal writing."
+  ],
   "examples": [
     {
       "id": "m4dak1-not-working-example-1",
-      "sentence": "呢部機唔得。",
-      "jyutping": "ni1 bou6 gei1 m4 dak1",
-      "meaning": "This machine doesn’t work."
+      "sentence": "我部電腦唔得，吓！",
+      "jyutping": "ngo5 bou6 din6 nou5 m4 dak1, haa5!",
+      "meaning": "My computer isn't working, huh!"
     },
     {
       "id": "m4dak1-not-working-example-2",
-      "sentence": "個方法唔得。",
-      "jyutping": "go3 fong1 faat3 m4 dak1",
-      "meaning": "This method doesn’t work."
+      "sentence": "個wifi今朝開始唔得喇。",
+      "jyutping": "go3 wifi gam1 ziu1 hoi1 ci2 m4 dak1 laa3.",
+      "meaning": "The wifi stopped working this morning."
     },
     {
       "id": "m4dak1-not-working-example-3",
-      "sentence": "而家唔得。",
-      "jyutping": "ji4 gaa1 m4 dak1",
-      "meaning": "Not right now / it’s not possible now."
+      "sentence": "呢部手機用咗好耐都唔得。",
+      "jyutping": "ni1 bou6 sau2 gei1 jung6 zo2 hou2 noi6 dou1 m4 dak1.",
+      "meaning": "This phone hasn’t been working well for a long time."
     },
     {
       "id": "m4dak1-not-working-example-4",
-      "sentence": "咁樣做唔得。",
-      "jyutping": "gam2 joeng6 zou6 m4 dak1",
-      "meaning": "Doing it this way won’t work."
-    },
-    {
-      "id": "m4dak1-not-working-example-5",
-      "sentence": "對唔住，呢個唔得。",
-      "jyutping": "deoi3 m4 zyu6, ni1 go3 m4 dak1",
-      "meaning": "Sorry, this isn’t acceptable."
+      "sentence": "睇落條路唔得行，我哋轉路啦。",
+      "jyutping": "tai2 lok6 tiu4 lou6 m4 dak1 haang4, ngo5 dei6 zyun2 lou6 laa1.",
+      "meaning": "It looks like the road is blocked, let's take another route."
     }
   ],
-
   "audio": {
     "word": "m4dak1-not-working.mp3",
     "examples": [
       "m4dak1-not-working-example-1.mp3",
       "m4dak1-not-working-example-2.mp3",
       "m4dak1-not-working-example-3.mp3",
-      "m4dak1-not-working-example-4.mp3",
-      "m4dak1-not-working-example-5.mp3"
+      "m4dak1-not-working-example-4.mp3"
     ]
   },
-
-  "tags": ["verb", "level-1", "core", "problems", "survival"],
-
+  "tags": [
+    "technology",
+    "common problems",
+    "everyday",
+    "informal",
+    "device issues",
+    "level-1"
+  ],
   "related": [
-    "waai6zo2-broken",
-    "jau5man6tai4-problem",
-    "m4gin3zo2-lost"
+    "壞 (waai6 - broken)",
+    "漏電 (lau6 din6 - electrical leak)",
+    "死機 (sei2 gei1 - crash/freeze of device)",
+    "無反應 (mou4 faan2 jing3 - no response)",
+    "入唔到網 (jap6 m4 dou3 mong5 - can’t connect to the internet)"
   ]
 }
