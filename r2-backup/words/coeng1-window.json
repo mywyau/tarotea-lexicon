@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word 窗 (coeng1) is used as a noun meaning 'window'.",
-    "窗 can be used to refer to any type of window in a house, car, or building.",
-    "It is often combined with measure words, like '一個窗' (jat1 go3 coeng1) means 'one window'.",
-    "You can use it in phrases to describe actions involving windows, such as '開窗' (hoi1 coeng1) meaning 'to open the window'.",
-    "窗 is a countable noun and can be used in questions and descriptions about visibility or ventilation."
+    "The word 窗 (coeng1) refers to an opening in the wall or roof of a building, typically fitted with glass, to allow light and air in.",
+    "It is used as a countable noun, so you can say 一扇窗 (jat1 sin3 coeng1) meaning 'a window'.",
+    "You can describe the size, type, or condition of the window by adding adjectives before 窗.",
+    "It can also be used figuratively, for example, 窗口 (coeng1 hau2) can mean a 'chance' or 'opportunity' in some contexts.",
+    "In sentences, 窗 usually functions as the object or subject when talking about features of a building."
   ],
   "examples": [
     {
       "id": "coeng1-window-example-1",
-      "sentence": "我開咗個窗。",
-      "jyutping": "ngo5 hoi1 zo2 go3 coeng1.",
-      "meaning": "I opened the window."
+      "sentence": "我屋企嘅窗好大，光線充足。",
+      "jyutping": "ngo5 uk1 kei2 ge3 coeng1 hou2 daai6, gwong1 sin3 cung1 zuk1.",
+      "meaning": "The windows in my house are big and well-lit."
     },
     {
       "id": "coeng1-window-example-2",
-      "sentence": "呢個房有三個窗。",
-      "jyutping": "ni1 go3 fong4 jau5 saam1 go3 coeng1.",
-      "meaning": "This room has three windows."
+      "sentence": "記得鎖好窗先，免得風吹入嚟。",
+      "jyutping": "gei3 dak1 so2 hou2 coeng1 sin1, min5 dak1 fung1 ceoi1 jap6 lai4.",
+      "meaning": "Remember to lock the windows first to prevent the wind from coming in."
     },
     {
       "id": "coeng1-window-example-3",
-      "sentence": "窗外有好多樹。",
-      "jyutping": "coeng1 ngoi6 jau5 hou2 do1 syu6.",
-      "meaning": "There are a lot of trees outside the window."
+      "sentence": "呢扇窗有啲裂紋，要修理下。",
+      "jyutping": "ni1 sin3 coeng1 jau5 di1 lit3 man4, jiu3 sau1 lei5 haa5.",
+      "meaning": "This window has some cracks and needs repairing."
     },
     {
       "id": "coeng1-window-example-4",
-      "sentence": "你可唔可以關窗？",
-      "jyutping": "nei5 ho2 m4 ho2 ji5 gwaan1 coeng1?",
-      "meaning": "Can you close the window?"
+      "sentence": "喺窗外，我見到一棵大樹。",
+      "jyutping": "hai2 coeng1 ngoi6, ngo5 gin3 dou3 jat1 fo1 daai6 syu6.",
+      "meaning": "Outside the window, I see a big tree."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "furniture",
+    "housing",
+    "building_features",
+    "room_parts",
     "home",
-    "bedroom",
-    "household",
     "window",
     "level-1"
   ],
   "related": [
     "門 (mun4) - door",
-    "枱 (toi2) - table",
-    "床 (cong4) - bed",
-    "燈 (dang1) - lamp",
-    "簾 (lim4) - curtain"
+    "牆 (coeng4) - wall",
+    "玻璃 (bo1 lei4) - glass",
+    "窗簾 (coeng1 lim4) - curtain",
+    "陽台 (joeng4 toi4) - balcony"
   ]
 }

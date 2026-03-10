@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word 樓下 (lau4 haa6) is used to refer to the downstairs area or the floor below.",
-    "It functions as a noun, indicating a place or location within a building.",
-    "You can use it to describe where someone is or where something is located relative to upstairs.",
-    "樓下 often appears in everyday conversation when talking about neighbors, rooms, or places in a house.",
-    "It can also be used in figurative senses to mean a lower level or section."
+    "The word '樓下' is used to refer to the space or area immediately below the current floor in a building.",
+    "'樓下' can function as a noun to indicate a location in a conversation.",
+    "You can use '樓下' to describe where someone or something is positioned relative to you in a multi-story building.",
+    "It commonly appears in daily conversation when giving directions or describing someone's residence within a building.",
+    "In sentences, '樓下' generally does not change form and is used as is."
   ],
   "examples": [
     {
       "id": "lau4haa6-downstairs-example-1",
-      "sentence": "我屋企樓下有間便利店。",
-      "jyutping": "ngo5 uk1 kei2 lau4 haa6 jau5 gaan1 bin6 lei6 dim3.",
-      "meaning": "There is a convenience store downstairs in my home."
+      "sentence": "我住喺樓下。",
+      "jyutping": "ngo5 zyu6 hai2 lau4 haa6.",
+      "meaning": "I live downstairs."
     },
     {
       "id": "lau4haa6-downstairs-example-2",
-      "sentence": "你可唔可以幫我拎樓下嘅嘢？",
-      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 ling1 lau4 haa6 ge3 je5?",
-      "meaning": "Can you help me bring the stuff downstairs?"
+      "sentence": "阿媽喺樓下等你。",
+      "jyutping": "aa3 maa1 hai2 lau4 haa6 dang2 nei5.",
+      "meaning": "Mom is waiting for you downstairs."
     },
     {
       "id": "lau4haa6-downstairs-example-3",
-      "sentence": "樓下啲鄰居好熟絡。",
-      "jyutping": "lau4 haa6 di1 leon4 geoi1 hou2 suk6 lok3.",
-      "meaning": "The downstairs neighbors are very friendly."
+      "sentence": "樓下有間超市。",
+      "jyutping": "lau4 haa6 jau5 gaan1 ciu1 si5.",
+      "meaning": "There is a supermarket downstairs."
     },
     {
       "id": "lau4haa6-downstairs-example-4",
-      "sentence": "我今晚會喺樓下等你。",
-      "jyutping": "ngo5 gam1 maan5 wui5 hai2 lau4 haa6 dang2 nei5.",
-      "meaning": "I will wait for you downstairs tonight."
+      "sentence": "啲聲音由樓下傳上嚟。",
+      "jyutping": "di1 sing1 jam1 jau4 lau4 haa6 cyun4 soeng5 lai4.",
+      "meaning": "The noise is coming from downstairs."
     }
   ],
   "audio": {
@@ -50,17 +50,17 @@
   },
   "tags": [
     "location",
-    "house",
-    "floor",
-    "daily life",
-    "direction",
+    "home",
+    "building",
+    "directions",
+    "daily use",
     "level-1"
   ],
   "related": [
-    "樓上 lau4 soeng5",
-    "房間 fong4 gaan1",
-    "樓層 lau4 cang4",
-    "升降機 sing1 gong3 gei1",
-    "廚房 ceoi4 fong2"
+    "樓上",
+    "屋企",
+    "房間",
+    "大廈",
+    "電梯"
   ]
 }

@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "房 (fong2) mainly means 'room', referring to a separate space in a building.",
-    "It can be used to specify particular rooms like bedrooms or living rooms when combined with other words.",
-    "The word '房' can be used generally when talking about rooms, without specifying which one.",
-    "It can also function as a measure word in some contexts, for example, '一房' to mean one room.",
-    "In casual speech, '房' is often used alone to ask about or talk about someone's living or sleeping space."
+    "The word '房' (fong2) is used to refer to a room in a house or building.",
+    "It is a noun and can be preceded by numbers or descriptors to specify which room (e.g., '三房' means 'three rooms').",
+    "You can use '房' to talk about bedrooms, living rooms, or any other types of rooms, but usually it is used for bedrooms or general rooms.",
+    "When combined with other words, '房' can form compound words that refer to specific types of rooms, like '睡房' for bedroom.",
+    "It can also be used in questions to ask about the number or type of rooms, for example, '你間屋有幾多個房？' (How many rooms does your house have?)."
   ],
   "examples": [
     {
       "id": "fong2-room-example-1",
-      "sentence": "我嘅房好細，但好舒服。",
-      "jyutping": "ngo5 ge3 fong2 hou2 sai3, daan6 hou2 syu1 fuk6.",
-      "meaning": "My room is small but very comfy."
+      "sentence": "我有兩個房。",
+      "jyutping": "ngo5 jau5 loeng5 go3 fong2.",
+      "meaning": "I have two rooms."
     },
     {
       "id": "fong2-room-example-2",
-      "sentence": "你屋企有幾多間房？",
-      "jyutping": "nei5 uk1 kei2 jau5 gei2 do1 gaan1 fong2?",
-      "meaning": "How many rooms does your house have?"
+      "sentence": "呢個房好大。",
+      "jyutping": "ni1 go3 fong2 hou2 daai6.",
+      "meaning": "This room is very big."
     },
     {
       "id": "fong2-room-example-3",
-      "sentence": "佢哋將大房改咗做書房。",
-      "jyutping": "keoi5 dei6 zoeng1 daai6 fong2 goi2 zo2 zou6 syu1 fong2.",
-      "meaning": "They converted the big room into a study."
+      "sentence": "我返工之前先收拾房。",
+      "jyutping": "ngo5 faan1 gung1 zi1 cin4 sin1 sau1 sap6 fong2.",
+      "meaning": "I clean the room before going to work."
     },
     {
       "id": "fong2-room-example-4",
-      "sentence": "今日我會喺自己嘅房讀書。",
-      "jyutping": "gam1 jat6 ngo5 wui5 hai2 zi6 gei2 ge3 fong2 duk6 syu1.",
-      "meaning": "Today, I will study in my own room."
+      "sentence": "你個新屋有幾多個房？",
+      "jyutping": "nei5 go3 san1 uk1 jau5 gei2 do1 go3 fong2?",
+      "meaning": "How many rooms does your new house have?"
     }
   ],
   "audio": {
@@ -49,18 +49,17 @@
     ]
   },
   "tags": [
-    "furniture",
-    "home",
-    "rooms",
-    "living space",
+    "housing",
+    "rooms_in_home",
     "basic",
+    "noun",
     "level-1"
   ],
   "related": [
-    "屋企 (uk1 kei2) - home",
-    "書房 (syu1 fong2) - study room",
+    "屋 (uk1) - house",
     "睡房 (seoi6 fong2) - bedroom",
     "客廳 (haak3 teng1) - living room",
-    "廚房 (cyu4 fong2) - kitchen"
+    "廚房 (ceoi4 fong2) - kitchen",
+    "浴室 (juk6 sat1) - bathroom"
   ]
 }

@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "煤氣費 (mui4 hei3 fai3) is a noun that refers to the charge for using gas in a home or building.",
-    "You can use 煤氣費 to talk about the monthly expense related to gas consumption.",
-    "When asking about bills, 煤氣費 is often followed by words like 幾錢 (how much) or 嚟 (to come).",
-    "You can also say 繳煤氣費 (pay the gas bill) when discussing bill payment.",
-    "It commonly appears in everyday conversation about utilities and household expenses."
+    "The term 煤氣費 (mui4 hei3 fai3) refers to the charge for gas utilities used in a household or building.",
+    "It is used as a noun and usually appears as the object in sentences discussing monthly expenses or bills.",
+    "You can say 煤氣費幾錢？ (mui4 hei3 fai3 gei2 cin2?) to ask about how much the gas bill is.",
+    "It can be combined with verbs like 繳交 (giu2 gaau1) meaning 'to pay' or 查詢 (caa4 seon1) meaning 'to inquire'.",
+    "When discussing household costs, 煤氣費 is commonly listed alongside 電費 (din6 fai3) and 水費 (seoi2 fai3)."
   ],
   "examples": [
     {
       "id": "mui4hei3fai3-gas-bill-example-1",
-      "sentence": "我哋呢個月嘅煤氣費好貴。",
-      "jyutping": "ngo5 dei6 ni1 go3 jyut6 ge3 mui4 hei3 fai3 hou2 gwai3.",
-      "meaning": "Our gas bill this month is very expensive."
+      "sentence": "我今個月嘅煤氣費好貴。",
+      "jyutping": "ngo5 gam1 go3 jyut6 ge3 mui4 hei3 fai3 hou2 gwai3.",
+      "meaning": "My gas bill is very expensive this month."
     },
     {
       "id": "mui4hei3fai3-gas-bill-example-2",
-      "sentence": "你記得繳煤氣費未？",
-      "jyutping": "nei5 gei3 dak1 gaau3 mui4 hei3 fai3 mei6?",
+      "sentence": "你記唔記得繳煤氣費？",
+      "jyutping": "nei5 gei3 m4 gei3 dak1 giu2 mui4 hei3 fai3?",
       "meaning": "Did you remember to pay the gas bill?"
     },
     {
       "id": "mui4hei3fai3-gas-bill-example-3",
-      "sentence": "屋企嘅煤氣費通常都喺月頭出。",
-      "jyutping": "uk1 kei2 ge3 mui4 hei3 fai3 tung1 soeng4 dou1 hai2 jyut6 tau4 ceot1.",
-      "meaning": "The gas bill for the house usually comes at the beginning of the month."
+      "sentence": "煤氣費要每個月交一次。",
+      "jyutping": "mui4 hei3 fai3 jiu3 mui5 go3 jyut6 gaau1 jat1 ci3.",
+      "meaning": "The gas bill needs to be paid once every month."
     },
     {
       "id": "mui4hei3fai3-gas-bill-example-4",
-      "sentence": "煤氣費加咗，真係冇得慳。",
-      "jyutping": "mui4 hei3 fai3 gaa1 zo2, zan1 hai6 mou5 dak1 haan2.",
-      "meaning": "The gas bill increased, really no way to save."
+      "sentence": "我想查下今年嘅煤氣費有冇加價。",
+      "jyutping": "ngo5 soeng2 caa4 haa6 gam1 nin4 ge3 mui4 hei3 fai3 jau5 mou5 gaa1 gaa3.",
+      "meaning": "I want to check if the gas bill has increased this year."
     }
   ],
   "audio": {
@@ -50,16 +50,17 @@
   },
   "tags": [
     "utilities",
-    "bills",
-    "household expenses",
-    "monthly payment",
+    "household bills",
+    "monthly expenses",
+    "gas",
+    "daily life",
     "level-1"
   ],
   "related": [
-    "水費",
     "電費",
-    "電錶",
-    "水錶",
-    "煤氣爐"
+    "水費",
+    "電力公司",
+    "用電量",
+    "繳費"
   ]
 }

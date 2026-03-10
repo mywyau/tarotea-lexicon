@@ -2,41 +2,42 @@
   "id": "lau6seoi2-leak",
   "word": "漏水",
   "jyutping": "lau6 seoi2",
-  "meaning": "water leak",
+  "meaning": "leak",
   "pos": [
-    "noun"
+    "noun",
+    "verb"
   ],
   "usage": [
-    "As a noun, '漏水' refers to the phenomenon when water escapes or flows out unintentionally, usually from pipes or containers.",
-    "You can use '漏水' to describe a problem that needs fixing in your home, like a leaking tap or ceiling.",
-    "'漏水' can be the subject or object in a sentence, depending on what you want to express.",
-    "It's common to use it with verbs like '有' (have), '發現' (discover), or '修理' (repair).",
-    "In conversation, people often mention '漏水' to alert someone about a maintenance issue."
+    "The word '漏水' can function as both a noun and a verb in Cantonese.",
+    "When used as a verb, it describes the action of water leaking from somewhere.",
+    "As a noun, it refers to the leak itself or the problem of water leakage.",
+    "It is commonly used in daily conversations about house maintenance or weather conditions.",
+    "You can say '漏水咗' to indicate the leak started or happened."
   ],
   "examples": [
     {
       "id": "lau6seoi2-leak-example-1",
-      "sentence": "廚房水喉漏水，快啲修理啦。",
-      "jyutping": "cyu4 fong2 seoi2 hau2 lau6 seoi2, faai3 di1 sau1 lei5 laa1.",
-      "meaning": "The kitchen tap is leaking water, fix it quickly."
+      "sentence": "廁所啲天花漏水，好煩呀。",
+      "jyutping": "ci3 so2 di1 tin1 faa1 lau6 seoi2, hou2 faan4 aa3.",
+      "meaning": "The bathroom ceiling is leaking, very annoying."
     },
     {
       "id": "lau6seoi2-leak-example-2",
-      "sentence": "天花板漏水，地下已經浸濕晒。",
-      "jyutping": "tin1 faa1 baan2 lau6 seoi2, dei6 haa6 ji5 ging1 zam3 sap1 saai3.",
-      "meaning": "The ceiling is leaking water, the floor is already soaked."
+      "sentence": "呢度有漏水，要搵師傅修理。",
+      "jyutping": "ni1 dou6 jau5 lau6 seoi2, jiu3 wan2 si1 fu2 sau1 lei5.",
+      "meaning": "There is a leak here, need to find a repairman."
     },
     {
       "id": "lau6seoi2-leak-example-3",
-      "sentence": "你屋企漏水冇？",
-      "jyutping": "nei5 uk1 kei2 lau6 seoi2 mou5?",
-      "meaning": "Is there a water leak at your home?"
+      "sentence": "雨後屋企開始漏水咗。",
+      "jyutping": "jyu5 hau6 uk1 kei2 hoi1 ci2 lau6 seoi2 zo2.",
+      "meaning": "After the rain, the house started to leak."
     },
     {
       "id": "lau6seoi2-leak-example-4",
-      "sentence": "發現漏水要立即通知管理員。",
-      "jyutping": "faat3 jin6 lau6 seoi2 jiu3 lap6 zik1 tung1 zi1 gun2 lei5 jyun4.",
-      "meaning": "If you discover a water leak, inform the manager immediately."
+      "sentence": "漏水問題要快啲解決，唔好拖！",
+      "jyutping": "lau6 seoi2 man6 tai4 jiu3 faai3 di1 gaai2 kyut3, m4 hou2 to1!",
+      "meaning": "Leak problems need to be solved quickly, don’t delay!"
     }
   ],
   "audio": {
@@ -49,18 +50,18 @@
     ]
   },
   "tags": [
-    "home",
+    "housing",
     "maintenance",
+    "problem",
     "water",
     "repair",
-    "problem",
     "level-1"
   ],
   "related": [
-    "水喉 (seoi2 hau2) - water pipe",
-    "修理 (sau1 lei5) - to repair",
-    "滲水 (sam3 seoi2) - seepage",
+    "浸水 (zam3 seoi2) - flooding",
     "漏氣 (lau6 hei3) - gas leak",
-    "堵塞 (dou2 sak1) - blockage"
+    "裂縫 (lit3 fung6) - crack",
+    "損壞 (syun2 waai6) - damage",
+    "修理 (sau1 lei5) - repair"
   ]
 }

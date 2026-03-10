@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "Mui4hei3 (煤氣) is used to refer to gas, usually for cooking or heating in the home. It is treated as a singular, uncountable noun.",
-    "You can use mui4hei3 to talk about turning the gas on or off in daily routines.",
-    "When discussing utilities, mui4hei3 often pairs with verbs like 'turn on' (打開 da2hoi1) or 'shut off' (關閉 gwaan1bai6).",
-    "Mui4hei3 is a common noun in conversations about kitchen appliances and household energy sources.",
-    "It can be used in negations or conditionals, for example, mentioning what to do if there is no gas supply."
+    "煤氣 is used to describe the gas supplied to homes for cooking or heating.",
+    "It functions as a noun in sentences, often preceded by a measure word like '瓶' for 'bottle' or '罐' for 'canister'.",
+    "You can use 煤氣 in questions to ask about the availability or safety of gas.",
+    "It appears in compound phrases when talking about utilities or bills, like '煤氣費' (gas bill).",
+    "In casual conversation, people often shorten it to just 煤氣 when talking about the gas supply."
   ],
   "examples": [
     {
       "id": "mui4hei3-gas-example-1",
-      "sentence": "我哋啲煤氣唔夠用，要叫人嚟裝。",
-      "jyutping": "ngo5 dei6 di1 mui4hei3 m4 gau3 jung6, jiu3 giu3 jan4 lai4 zong1.",
-      "meaning": "Our gas is not enough, we need to call someone to install it."
+      "sentence": "我哋屋企嘅煤氣喺星期一嚟咗。",
+      "jyutping": "ngo5 dei6 uk1 kei2 ge3 mui4 hei3 hai6 sing1 kei4 jat1 lai4 zo2.",
+      "meaning": "Our home's gas was delivered on Monday."
     },
     {
       "id": "mui4hei3-gas-example-2",
-      "sentence": "煮飯之前記得開煤氣。",
-      "jyutping": "zyu2 faan6 zi1 cin4 gei3 dak1 hoi1 mui4hei3.",
-      "meaning": "Remember to turn on the gas before cooking."
+      "sentence": "呢個爐用煤氣定電嚟？",
+      "jyutping": "ni1 go3 lou4 jung6 mui4 hei3 ding6 din6 lai4?",
+      "meaning": "Does this stove use gas or electricity?"
     },
     {
       "id": "mui4hei3-gas-example-3",
-      "sentence": "呢度嘅煤氣價錢幾貴喎。",
-      "jyutping": "ni1 dou6 ge3 mui4hei3 gaa3 cin2 gei2 gwai3 wo3.",
-      "meaning": "The price of gas here is quite expensive."
+      "sentence": "煤氣費今個月貴咗好多。",
+      "jyutping": "mui4 hei3 fai3 gam1 go3 jyut6 gwai3 zo2 hou2 do1.",
+      "meaning": "The gas bill is much more expensive this month."
     },
     {
       "id": "mui4hei3-gas-example-4",
-      "sentence": "冇煤氣嘅時候，我哋用電磁爐。",
-      "jyutping": "mou5 mui4hei3 ge3 si4 hau6, ngo5 dei6 jung6 din6 ci4 lou4.",
-      "meaning": "When there is no gas, we use the induction cooker."
+      "sentence": "你記唔記得關返煤氣掣？",
+      "jyutping": "nei5 gei3 m4 gei3 dak1 gwaan1 faan1 mui4 hei3 zai3?",
+      "meaning": "Did you remember to turn off the gas valve?"
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "kitchen",
-    "energy",
+    "housing",
     "utilities",
-    "home appliances",
+    "gas",
     "cooking",
+    "household",
     "level-1"
   ],
   "related": [
-    "電力 din6 lik6",
-    "水 seoi2",
-    "電磁爐 din6 ci4 lou4",
-    "瓦斯 ngaa5 si1",
-    "電熱爐 din6 jit6 lou4"
+    "水電 (seoi2 din6) - water and electricity",
+    "電 (din6) - electricity",
+    "爐 (lou4) - stove",
+    "煤氣費 (mui4 hei3 fai3) - gas bill",
+    "熱水爐 (jit6 seoi2 lou4) - water heater"
   ]
 }

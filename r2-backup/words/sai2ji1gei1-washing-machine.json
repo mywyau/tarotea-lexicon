@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "洗衣機 is a noun used to refer to the appliance for washing clothes automatically.",
-    "You can use 洗衣機 to indicate the device in your home that cleans laundry.",
-    "It often appears before classifiers like 部 (bou6) when counting, e.g. 一部洗衣機.",
-    "In sentences, it can be the subject or object, for example: 我新買咗部洗衣機 (I just bought a washing machine).",
-    "It can also be combined with adjectives or verbs, e.g. 壞咗嘅洗衣機 (broken washing machine)."
+    "The word 洗衣機 (sai2 ji1 gei1) is used as a noun to refer to the appliance that washes clothes automatically.",
+    "In Cantonese, 洗衣機 functions as a subject, object, or complement in sentences depending on the context.",
+    "You can use 洗衣機 alone or with measure words like 部 (bou6) for counting washing machines.",
+    "When talking about washing machines, you can describe them by adding adjectives or modifiers before 洗衣機.",
+    "It is common to combine 洗衣機 with verbs like 用 (jung6) to express using the washing machine."
   ],
   "examples": [
     {
       "id": "sai2ji1gei1-washing-machine-example-1",
-      "sentence": "我哋嘅洗衣機壞咗，要修理。",
-      "jyutping": "ngo5 dei6 ge3 sai2 ji1 gei1 waai6 zo2, jiu3 sau1 lei5.",
-      "meaning": "Our washing machine is broken and needs repair."
+      "sentence": "我屋企有部新嘅洗衣機。",
+      "jyutping": "ngo5 uk1 kei2 jau5 bou6 san1 ge3 sai2 ji1 gei1.",
+      "meaning": "I have a new washing machine at home."
     },
     {
       "id": "sai2ji1gei1-washing-machine-example-2",
-      "sentence": "屋企新買咗部洗衣機，好方便。",
-      "jyutping": "uk1 kei2 san1 maai5 zo2 bou6 sai2 ji1 gei1, hou2 fong1 bin6.",
-      "meaning": "We just bought a new washing machine at home; it's very convenient."
+      "sentence": "洗衣機壞咗，唔洗衫啦。",
+      "jyutping": "sai2 ji1 gei1 waai6 zo2, m4 sai2 saam1 laa1.",
+      "meaning": "The washing machine is broken, so no washing clothes."
     },
     {
       "id": "sai2ji1gei1-washing-machine-example-3",
-      "sentence": "我用洗衣機洗衫，好快完成。",
-      "jyutping": "ngo5 jung6 sai2 ji1 gei1 sai2 saam1, hou2 faai3 jyun4 sing4.",
-      "meaning": "I use the washing machine to wash clothes; it finishes quickly."
+      "sentence": "你識唔識點用洗衣機？",
+      "jyutping": "nei5 sik1 m4 sik1 dim2 jung6 sai2 ji1 gei1?",
+      "meaning": "Do you know how to use the washing machine?"
     },
     {
       "id": "sai2ji1gei1-washing-machine-example-4",
-      "sentence": "洗衣機入面有好多水，唔好打開。",
-      "jyutping": "sai2 ji1 gei1 jap6 min6 jau5 hou2 do1 seoi2, m4 hou2 daa2 hoi1.",
-      "meaning": "There's a lot of water inside the washing machine; don't open it."
+      "sentence": "呢部洗衣機好慳水。",
+      "jyutping": "ni1 bou6 sai2 ji1 gei1 hou2 haan1 seoi2.",
+      "meaning": "This washing machine saves water."
     }
   ],
   "audio": {
@@ -49,18 +49,17 @@
     ]
   },
   "tags": [
-    "appliance",
-    "home",
+    "daily life",
+    "home appliances",
     "laundry",
-    "kitchen",
-    "daily use",
+    "basic",
     "level-1"
   ],
   "related": [
     "烘乾機",
-    "電冰箱",
-    "微波爐",
-    "雪櫃",
-    "吸塵機"
+    "洗衣粉",
+    "晾衫",
+    "布",
+    "電器"
   ]
 }

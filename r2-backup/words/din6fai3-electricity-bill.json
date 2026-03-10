@@ -2,41 +2,41 @@
   "id": "din6fai3-electricity-bill",
   "word": "電費",
   "jyutping": "din6 fai3",
-  "meaning": "electricity bill",
+  "meaning": "electric bill",
   "pos": [
     "noun"
   ],
   "usage": [
-    "The word 電費 (din6 fai3) is a noun referring to the electricity bill one pays for power consumption.",
-    "You can use 電費 as the object of a verb, for example, 'pay 電費' means to pay the electricity bill.",
-    "In conversations, 電費 often appears with numbers or amounts to specify the cost, e.g., '今日嘅電費幾錢？' (How much is today's electricity bill?).",
-    "It is frequently used in questions and statements discussing household expenses.",
-    "You can also use it in comparative sentences, like '呢個月嘅電費貴咗' (This month's electricity bill got more expensive)."
+    "電費 is used as a noun to refer to the cost of electricity used over a period.",
+    "You can say 'pay the 電費' to mean paying the electricity bill.",
+    "It often appears in sentences describing household expenses.",
+    "電費 can be combined with words indicating time, such as 'this month's 電費' or 'last month's 電費'.",
+    "It is common to ask about 電費 when discussing utility costs."
   ],
   "examples": [
     {
       "id": "din6fai3-electricity-bill-example-1",
-      "sentence": "我哋今個月要交電費。",
-      "jyutping": "ngo5 dei6 gam1 go3 jyut6 jiu3 gaau1 din6 fai3",
-      "meaning": "We need to pay the electricity bill this month."
+      "sentence": "我今晚要交電費。",
+      "jyutping": "ngo5 gam1 maan5 jiu3 gaau1 din6 fai3.",
+      "meaning": "I need to pay the electricity bill tonight."
     },
     {
       "id": "din6fai3-electricity-bill-example-2",
-      "sentence": "電費今次加咗好多。",
-      "jyutping": "din6 fai3 gam1 ci3 gaa1 zo2 hou2 do1",
-      "meaning": "The electricity bill increased a lot this time."
+      "sentence": "今個月嘅電費好貴。",
+      "jyutping": "gam1 go3 jyut6 ge3 din6 fai3 hou2 gwai3.",
+      "meaning": "This month's electric bill is expensive."
     },
     {
       "id": "din6fai3-electricity-bill-example-3",
-      "sentence": "你有冇睇過電費單？",
-      "jyutping": "nei5 jau5 mou5 tai2 gwo3 din6 fai3 daan1?",
-      "meaning": "Have you checked the electricity bill?"
+      "sentence": "屋企啲電費成日都高。",
+      "jyutping": "uk1 kei2 di1 din6 fai3 seng4 jat6 dou1 gou1.",
+      "meaning": "The electricity bill at home is always high."
     },
     {
       "id": "din6fai3-electricity-bill-example-4",
-      "sentence": "平時我哋會節省電費。",
-      "jyutping": "peng4 si4 ngo5 dei6 wui5 zit3 saang2 din6 fai3",
-      "meaning": "Usually we save on the electricity bill."
+      "sentence": "你繳咗唔繳電費？",
+      "jyutping": "nei5 gaau2 zo2 m4 gaau2 din6 fai3?",
+      "meaning": "Did you pay the electricity bill?"
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "home",
+    "housing",
     "utilities",
     "bills",
-    "electricity",
+    "daily life",
     "expenses",
     "level-1"
   ],
   "related": [
     "水費",
     "煤氣費",
-    "垃圾費",
-    "電話費",
-    "網費"
+    "差餉",
+    "租金",
+    "管理費"
   ]
 }

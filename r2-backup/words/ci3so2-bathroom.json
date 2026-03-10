@@ -2,40 +2,41 @@
   "id": "ci3so2-bathroom",
   "word": "廁所",
   "jyutping": "ci3 so2",
-  "meaning": "bathroom / toilet",
+  "meaning": "bathroom",
   "pos": [
     "noun"
   ],
   "usage": [
-    "The word '廁所' refers to a bathroom or toilet, a place in a house or public area.",
-    "'廁所' is a noun, so it can act as the subject or object in a sentence.",
-    "You can use '喺廁所' to specify location, meaning 'in the bathroom'.",
-    "When asking where it is, you can say '廁所喺邊度？' meaning 'Where is the bathroom?'."
+    "廁所 (bathroom) is a noun used to refer to the place where you go to use the toilet or wash up.",
+    "You can use 廁所 to ask for the location of the bathroom, for example, '廁所喺邊？' means 'Where is the bathroom?'.",
+    "The word 廁所 can appear as the subject or object in a sentence, for example, '我去廁所。' means 'I am going to the bathroom.'",
+    "廁所 is commonly used in both formal and informal speech when talking about homes, restaurants, or public places.",
+    "To use 廁所 politely, you can add a question particle like 吖 (aa3) or 呀 (aa3) when asking for directions."
   ],
   "examples": [
     {
       "id": "ci3so2-bathroom-example-1",
       "sentence": "我想去廁所。",
-      "jyutping": "ngo5 soeng2 heoi3 ci3 so2.",
+      "jyutping": "ngo5 soeng2 heoi3 ci3 so2",
       "meaning": "I want to go to the bathroom."
     },
     {
       "id": "ci3so2-bathroom-example-2",
-      "sentence": "呢個廁所好乾淨。",
-      "jyutping": "ni1 go3 ci3 so2 hou2 gon1zing6.",
-      "meaning": "This bathroom is very clean."
+      "sentence": "廁所喺邊度？",
+      "jyutping": "ci3 so2 hai2 bin1 dou6",
+      "meaning": "Where is the bathroom?"
     },
     {
       "id": "ci3so2-bathroom-example-3",
-      "sentence": "廁所喺廚房隔離。",
-      "jyutping": "ci3 so2 hai2 ceoi4 fong2 gaak3 lei4.",
-      "meaning": "The bathroom is next to the kitchen."
+      "sentence": "呢度嘅廁所好乾淨。",
+      "jyutping": "ni1 dou6 ge3 ci3 so2 hou2 gon1 zing6",
+      "meaning": "The bathroom here is very clean."
     },
     {
       "id": "ci3so2-bathroom-example-4",
-      "sentence": "你識唔識用呢個廁所？",
-      "jyutping": "nei5 sik1 m4 sik1 jung6 ni1 go3 ci3 so2?",
-      "meaning": "Do you know how to use this bathroom?"
+      "sentence": "你用唔用廁所？",
+      "jyutping": "nei5 jung6 m4 jung6 ci3 so2",
+      "meaning": "Do you want to use the bathroom?"
     }
   ],
   "audio": {
@@ -48,18 +49,18 @@
     ]
   },
   "tags": [
-    "furniture",
-    "house",
-    "room",
+    "housing",
+    "rooms",
     "bathroom",
-    "toilet",
+    "home",
+    "common nouns",
     "level-1"
   ],
   "related": [
-    "浴室",
+    "洗手間",
+    "房間",
     "廚房",
     "客廳",
-    "房間",
-    "洗手盆"
+    "臥室"
   ]
 }

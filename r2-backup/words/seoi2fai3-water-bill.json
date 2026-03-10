@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "水費 is a noun and refers specifically to the charge for water usage in a household or property.",
-    "You usually find 水費 mentioned on monthly bills along with other utilities like electricity and gas.",
-    "When talking about paying utilities in Cantonese, 水費 is commonly used together with 電費 (electricity bill) and 煤氣費 (gas bill).",
-    "水費 can take measure words like '張' (zoeng1) when referring to the paper bill itself, but not when talking about the expense generally.",
-    "In conversations, you can say '交水費' which means paying the water bill."
+    "The word '水費' (seoi2 fai3) is used to refer to the water bill amount that one needs to pay.",
+    "'水費' is typically used as a noun and often appears after words like '交' (to pay) or '收' (to collect).",
+    "You can say '交水費' to mean 'pay the water bill'.",
+    "It can be used in both formal and informal contexts when discussing utility payments.",
+    "When talking about bills, '水費' is commonly grouped with other utility bills such as electricity or gas bills."
   ],
   "examples": [
     {
       "id": "seoi2fai3-water-bill-example-1",
-      "sentence": "呢個月水費幾多錢？",
-      "jyutping": "ni1 go3 jyut6 seoi2 fai3 gei2 do1 cin2?",
-      "meaning": "How much is the water bill this month?"
+      "sentence": "我今個月嘅水費好貴。",
+      "jyutping": "ngo5 gam1 go3 jyut6 ge3 seoi2 fai3 hou2 gwai3.",
+      "meaning": "My water bill this month is very expensive."
     },
     {
       "id": "seoi2fai3-water-bill-example-2",
-      "sentence": "我應該去交水費啦。",
-      "jyutping": "ngo5 jing1 goi1 heoi3 gaau1 seoi2 fai3 laa1.",
-      "meaning": "I should go pay the water bill."
+      "sentence": "你記唔記得交水費？",
+      "jyutping": "nei5 gei3 m4 gei3 dak1 gaau1 seoi2 fai3?",
+      "meaning": "Do you remember to pay the water bill?"
     },
     {
       "id": "seoi2fai3-water-bill-example-3",
-      "sentence": "租金包咗水費同電費。",
-      "jyutping": "zou1 gam1 baau1 zo2 seoi2 fai3 tung4 din6 fai3.",
-      "meaning": "The rent includes water and electricity bills."
+      "sentence": "屋企嘅水費幾時出？",
+      "jyutping": "uk1 kei2 ge3 seoi2 fai3 gei2 si4 ceot1?",
+      "meaning": "When does the household water bill come out?"
     },
     {
       "id": "seoi2fai3-water-bill-example-4",
-      "sentence": "水費成日都超晒預算。",
-      "jyutping": "seoi2 fai3 sing4 jat6 dou1 ciu1 saai3 jyu6 syun3.",
-      "meaning": "The water bill often goes over budget."
+      "sentence": "水費每個月都要準時交。",
+      "jyutping": "seoi2 fai3 mui5 go3 jyut6 dou1 jiu3 zeon2 si4 gaau1.",
+      "meaning": "The water bill needs to be paid on time every month."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
+    "housing",
     "utilities",
-    "home",
     "bills",
     "payment",
-    "water",
+    "everyday",
     "level-1"
   ],
   "related": [
     "電費",
     "煤氣費",
-    "差餉",
+    "網費",
     "租金",
-    "管理費"
+    "水錶"
   ]
 }
