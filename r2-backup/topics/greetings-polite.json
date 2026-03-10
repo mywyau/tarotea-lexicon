@@ -3,52 +3,46 @@
   "title": "Greetings & Polite Interactions",
   "description": "Greet people, be polite, say thank you, apologise, and interact naturally.",
   "categories": {
-
     "basic_greetings": [
       { "id": "nei5hou2-hello", "word": "你好", "jyutping": "nei5 hou2", "meaning": "hello" },
-
       { "id": "zou2san4-good-morning", "word": "早晨", "jyutping": "zou2 san4", "meaning": "good morning" },
       { "id": "maan6on1-good-night", "word": "晚安", "jyutping": "maan6 on1", "meaning": "good night" },
-
-      { "id": "nei5dim2aa3-how-are-you", "word": "你點呀？", "jyutping": "nei5 dim2 aa3", "meaning": "how are you?" },
-      { "id": "hou2maa3-hows-it-going", "word": "好嗎？", "jyutping": "hou2 maa3", "meaning": "how’s it going?" }
+      { "id": "nei5dim2aa3-how-are-you", "word": "你點呀？", "jyutping": "nei5 dim2 aa3", "meaning": "how are you" },
+      { "id": "hou2maa3-hows-it-going", "word": "好嗎？", "jyutping": "hou2 maa3", "meaning": "are you well" }
     ],
 
     "responding_politely": [
-      { "id": "hou2aa3-im-good", "word": "好呀", "jyutping": "hou2 aa3", "meaning": "Good!" },
+      { "id": "hou2aa3-im-good", "word": "好呀", "jyutping": "hou2 aa3", "meaning": "good" },
       { "id": "gei2hou2-pretty-good", "word": "幾好", "jyutping": "gei2 hou2", "meaning": "pretty good" },
-
-      { "id": "maa4maa4dei2-decent", "word": "麻麻哋", "jyutping": "maa4 maa4 dei2", "meaning": "so-so" },
-      { "id": "m4taai3hou2-not-great", "word": "唔太好", "jyutping": "m4 taai3 hou2", "meaning": "not too good" },
-
-      { "id": "m4hai6m4hai6-rejection-polite", "word": "唔係唔係", "jyutping": "m4 hai6 m4 hai6", "meaning": "rejection-polite" },
-      { "id": "m4gan1jiu3-no-problem", "word": "唔緊要", "jyutping": "m4 gan1 jiu3", "meaning": "it’s okay / no problem" }
+      { "id": "maa4maa4dei2-decent", "word": "麻麻哋", "jyutping": "maa4 maa4 dei2", "meaning": "so so" },
+      { "id": "m4taai3hou2-not-great", "word": "唔太好", "jyutping": "m4 taai3 hou2", "meaning": "not great" },
+      { "id": "m4hai6m4hai6-rejection-polite", "word": "唔係唔係", "jyutping": "m4 hai6 m4 hai6", "meaning": "no no" },
+      { "id": "m4gan1jiu3-no-problem", "word": "唔緊要", "jyutping": "m4 gan1 jiu3", "meaning": "no problem" }
     ],
 
     "please_and_thank_you": [
-      { "id": "m4goi1-please", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please / thanks (for service)" },
-      { "id": "do1ze6-thank-you", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you (for gifts / kindness)" },
-
-      { "id": "ceng2-please-invite", "word": "請", "jyutping": "ceng2", "meaning": "please invite" },
-      { "id": "m4goi1aa3-thanks-friendly", "word": "唔該呀", "jyutping": "m4 goi1 aa3", "meaning": "thanks (friendly)" }
+      { "id": "m4goi1-please", "word": "唔該", "jyutping": "m4 goi1", "meaning": "please" },
+      { "id": "do1ze6-thank-you", "word": "多謝", "jyutping": "do1 ze6", "meaning": "thank you" },
+      { "id": "ceng2-please-invite", "word": "請", "jyutping": "ceng2", "meaning": "please" },
+      { "id": "m4goi1aa3-thanks-friendly", "word": "唔該呀", "jyutping": "m4 goi1 aa3", "meaning": "thanks" }
     ],
 
     "apologies_and_manners": [
       { "id": "deoi3m4zyu6-sorry", "word": "對唔住", "jyutping": "deoi3 m4 zyu6", "meaning": "sorry" },
-      { "id": "m4hou2ji3si3-excuse-me", "word": "唔好意思", "jyutping": "m4 hou2 ji3 si3", "meaning": "excuse me / sorry (polite)" },
-      { "id": "ze3ze3-excuse-me-pass", "word": "借借", "jyutping": "ze3 ze3", "meaning": "excuse me (passing through)" }
+      { "id": "m4hou2ji3si3-excuse-me", "word": "唔好意思", "jyutping": "m4 hou2 ji3 si1", "meaning": "excuse me" },
+      { "id": "ze3ze3-excuse-me-pass", "word": "借借", "jyutping": "ze3 ze3", "meaning": "coming through" }
     ],
 
     "farewells": [
       { "id": "zoi3gin3-goodbye", "word": "再見", "jyutping": "zoi3 gin3", "meaning": "goodbye" },
-      { "id": "haang4sin1-leave-first", "word": "行先", "jyutping": "haang4 sin1", "meaning": "I’ll go first" },
+      { "id": "haang4sin1-leave-first", "word": "行先", "jyutping": "haang4 sin1", "meaning": "I am off" },
       { "id": "ci4di1-later", "word": "遲啲", "jyutping": "ci4 di1", "meaning": "later" }
     ],
 
     "spoken_phrases": [
-      { "id": "zo2-bother", "word": "阻", "jyutping": "zo2", "meaning": "to disturb / bother" },
-      { "id": "m4faan4nei5laa3-wont-trouble", "word": "唔煩你喇", "jyutping": "m4 faan4 nei5 laa3", "meaning": "I won’t trouble you anymore" },
-      { "id": "m4zo2nei5gam3do1laa3-wont-bother-much", "word": "唔阻你咁多喇", "jyutping": "m4 zo2 nei5 gam3 do1 laa3", "meaning": "I won’t bother you so much anymore" }
+      { "id": "zo2-bother", "word": "阻", "jyutping": "zo2", "meaning": "disturb" },
+      { "id": "m4faan4nei5laa3-wont-trouble", "word": "唔煩你喇", "jyutping": "m4 faan4 nei5 laa3", "meaning": "I will not trouble you" },
+      { "id": "m4zo2nei5gam3do1laa3-wont-bother-much", "word": "唔阻你咁多喇", "jyutping": "m4 zo2 nei5 gam3 do1 laa3", "meaning": "I will not keep you" }
     ]
   }
 }
