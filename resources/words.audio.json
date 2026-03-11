@@ -1,5 +1,30 @@
 [
   {
+    "filename": "baa1si2-bus",
+    "id": "baa1si2-bus",
+    "text": "巴士"
+  },
+  {
+    "filename": "baa1si2-bus-example-1",
+    "id": "baa1si2-bus-example-1",
+    "text": "我每日返工都坐巴士。"
+  },
+  {
+    "filename": "baa1si2-bus-example-2",
+    "id": "baa1si2-bus-example-2",
+    "text": "巴士站喺嗰邊。"
+  },
+  {
+    "filename": "baa1si2-bus-example-3",
+    "id": "baa1si2-bus-example-3",
+    "text": "今日巴士好多人。"
+  },
+  {
+    "filename": "baa1si2-bus-example-4",
+    "id": "baa1si2-bus-example-4",
+    "text": "你記得買巴士飛呀。"
+  },
+  {
     "filename": "baa1si2zaam6-bus-stop",
     "id": "baa1si2zaam6-bus-stop",
     "text": "巴士站"
@@ -7,247 +32,122 @@
   {
     "filename": "baa1si2zaam6-bus-stop-example-1",
     "id": "baa1si2zaam6-bus-stop-example-1",
-    "text": "我喺巴士站度等車。"
+    "text": "我喺巴士站等巴士。"
   },
   {
     "filename": "baa1si2zaam6-bus-stop-example-2",
     "id": "baa1si2zaam6-bus-stop-example-2",
-    "text": "巴士站附近有超市。"
+    "text": "巴士站好多人。"
   },
   {
     "filename": "baa1si2zaam6-bus-stop-example-3",
     "id": "baa1si2zaam6-bus-stop-example-3",
-    "text": "幾點有巴士去旺角？"
+    "text": "最近嘅巴士站喺邊度？"
   },
   {
     "filename": "baa1si2zaam6-bus-stop-example-4",
     "id": "baa1si2zaam6-bus-stop-example-4",
-    "text": "呢個巴士站係咪新嗰個？"
+    "text": "我哋喺地鐵站轉車去巴士站。"
   },
   {
-    "filename": "bing1soeng1-fridge",
-    "id": "bing1soeng1-fridge",
-    "text": "冰箱"
+    "filename": "baat3daat6tung1-octopus-card",
+    "id": "baat3daat6tung1-octopus-card",
+    "text": "八達通"
   },
   {
-    "filename": "bing1soeng1-fridge-example-1",
-    "id": "bing1soeng1-fridge-example-1",
-    "text": "冰箱入面有啲牛奶。"
+    "filename": "baat3daat6tung1-octopus-card-example-1",
+    "id": "baat3daat6tung1-octopus-card-example-1",
+    "text": "我啱啱用八達通過咗地鐵閘口。"
   },
   {
-    "filename": "bing1soeng1-fridge-example-2",
-    "id": "bing1soeng1-fridge-example-2",
-    "text": "我哋嘅冰箱壞咗，要修理。"
+    "filename": "baat3daat6tung1-octopus-card-example-2",
+    "id": "baat3daat6tung1-octopus-card-example-2",
+    "text": "你要唔要我幫你充錢入八達通？"
   },
   {
-    "filename": "bing1soeng1-fridge-example-3",
-    "id": "bing1soeng1-fridge-example-3",
-    "text": "買咗部新冰箱，放晒所有嘢。"
+    "filename": "baat3daat6tung1-octopus-card-example-3",
+    "id": "baat3daat6tung1-octopus-card-example-3",
+    "text": "搭巴士記住帶埋八達通。"
   },
   {
-    "filename": "bing1soeng1-fridge-example-4",
-    "id": "bing1soeng1-fridge-example-4",
-    "text": "冰箱唔夠大，放唔晒啲嘢。"
+    "filename": "baat3daat6tung1-octopus-card-example-4",
+    "id": "baat3daat6tung1-octopus-card-example-4",
+    "text": "八達通除咗可以坐車，仲可以喺便利店用。"
   },
   {
-    "filename": "bou2on1-security",
-    "id": "bou2on1-security",
-    "text": "保安"
+    "filename": "ce1-vehicle",
+    "id": "ce1-vehicle",
+    "text": "車"
   },
   {
-    "filename": "bou2on1-security-example-1",
-    "id": "bou2on1-security-example-1",
-    "text": "大廈有好多保安。"
+    "filename": "ce1-vehicle-example-1",
+    "id": "ce1-vehicle-example-1",
+    "text": "我架車壞咗，要去維修。"
   },
   {
-    "filename": "bou2on1-security-example-2",
-    "id": "bou2on1-security-example-2",
-    "text": "保安幫我開門。"
+    "filename": "ce1-vehicle-example-2",
+    "id": "ce1-vehicle-example-2",
+    "text": "坐巴士車落返屋企。"
   },
   {
-    "filename": "bou2on1-security-example-3",
-    "id": "bou2on1-security-example-3",
-    "text": "呢間商場嘅保安好仔細。"
+    "filename": "ce1-vehicle-example-3",
+    "id": "ce1-vehicle-example-3",
+    "text": "呢架電單車好快。"
   },
   {
-    "filename": "bou2on1-security-example-4",
-    "id": "bou2on1-security-example-4",
-    "text": "屋企裝咗新嘅保安系統。"
+    "filename": "ce1-vehicle-example-4",
+    "id": "ce1-vehicle-example-4",
+    "text": "街上好多車，好塞車。"
   },
   {
-    "filename": "bun1ceot1-move-out",
-    "id": "bun1ceot1-move-out",
-    "text": "搬出"
+    "filename": "ce1fai3-fare",
+    "id": "ce1fai3-fare",
+    "text": "車費"
   },
   {
-    "filename": "bun1ceot1-move-out-example-1",
-    "id": "bun1ceot1-move-out-example-1",
-    "text": "我下個月要搬出呢間屋。"
+    "filename": "ce1fai3-fare-example-1",
+    "id": "ce1fai3-fare-example-1",
+    "text": "巴士車費貴咗。"
   },
   {
-    "filename": "bun1ceot1-move-out-example-2",
-    "id": "bun1ceot1-move-out-example-2",
-    "text": "佢搬出咗父母嘅屋企。"
+    "filename": "ce1fai3-fare-example-2",
+    "id": "ce1fai3-fare-example-2",
+    "text": "呢程地鐵車費要幾多錢？"
   },
   {
-    "filename": "bun1ceot1-move-out-example-3",
-    "id": "bun1ceot1-move-out-example-3",
-    "text": "你幾時搬出嗰間單位？"
+    "filename": "ce1fai3-fare-example-3",
+    "id": "ce1fai3-fare-example-3",
+    "text": "我唔記得帶車費。"
   },
   {
-    "filename": "bun1ceot1-move-out-example-4",
-    "id": "bun1ceot1-move-out-example-4",
-    "text": "佢哋搬出後，我先可以入去裝修。"
+    "filename": "ce1fai3-fare-example-4",
+    "id": "ce1fai3-fare-example-4",
+    "text": "的士車費包括泊車費。"
   },
   {
-    "filename": "bun1jap6-move-in",
-    "id": "bun1jap6-move-in",
-    "text": "搬入"
+    "filename": "ce1piu3-transport-ticket",
+    "id": "ce1piu3-transport-ticket",
+    "text": "車票"
   },
   {
-    "filename": "bun1jap6-move-in-example-1",
-    "id": "bun1jap6-move-in-example-1",
-    "text": "我星期六會搬入新屋。"
+    "filename": "ce1piu3-transport-ticket-example-1",
+    "id": "ce1piu3-transport-ticket-example-1",
+    "text": "我買咗兩張車票去旺角。"
   },
   {
-    "filename": "bun1jap6-move-in-example-2",
-    "id": "bun1jap6-move-in-example-2",
-    "text": "佢哋已經搬入咗嗰間樓。"
+    "filename": "ce1piu3-transport-ticket-example-2",
+    "id": "ce1piu3-transport-ticket-example-2",
+    "text": "你帶咗車票未？"
   },
   {
-    "filename": "bun1jap6-move-in-example-3",
-    "id": "bun1jap6-move-in-example-3",
-    "text": "我哋準備今晚搬入新屋。"
+    "filename": "ce1piu3-transport-ticket-example-3",
+    "id": "ce1piu3-transport-ticket-example-3",
+    "text": "車票幾錢？"
   },
   {
-    "filename": "bun1jap6-move-in-example-4",
-    "id": "bun1jap6-move-in-example-4",
-    "text": "搬入之前，要先清潔間房。"
-  },
-  {
-    "filename": "bun1uk1-move-house",
-    "id": "bun1uk1-move-house",
-    "text": "搬屋"
-  },
-  {
-    "filename": "bun1uk1-move-house-example-1",
-    "id": "bun1uk1-move-house-example-1",
-    "text": "我下個月要搬屋。"
-  },
-  {
-    "filename": "bun1uk1-move-house-example-2",
-    "id": "bun1uk1-move-house-example-2",
-    "text": "搬屋好辛苦，要整好多嘢。"
-  },
-  {
-    "filename": "bun1uk1-move-house-example-3",
-    "id": "bun1uk1-move-house-example-3",
-    "text": "你幫我搬屋得唔得？"
-  },
-  {
-    "filename": "bun1uk1-move-house-example-4",
-    "id": "bun1uk1-move-house-example-4",
-    "text": "搬屋完成，好開心。"
-  },
-  {
-    "filename": "caa1hoeng2-property-tax",
-    "id": "caa1hoeng2-property-tax",
-    "text": "差餉"
-  },
-  {
-    "filename": "caa1hoeng2-property-tax-example-1",
-    "id": "caa1hoeng2-property-tax-example-1",
-    "text": "我每年都要交差餉。"
-  },
-  {
-    "filename": "caa1hoeng2-property-tax-example-2",
-    "id": "caa1hoeng2-property-tax-example-2",
-    "text": "差餉好貴，令我好頭痛。"
-  },
-  {
-    "filename": "caa1hoeng2-property-tax-example-3",
-    "id": "caa1hoeng2-property-tax-example-3",
-    "text": "屋企嘅差餉幾時交？"
-  },
-  {
-    "filename": "caa1hoeng2-property-tax-example-4",
-    "id": "caa1hoeng2-property-tax-example-4",
-    "text": "差餉包唔包喺租金入面？"
-  },
-  {
-    "filename": "caa4caan1teng1-cafe",
-    "id": "caa4caan1teng1-cafe",
-    "text": "茶餐廳"
-  },
-  {
-    "filename": "caa4caan1teng1-cafe-example-1",
-    "id": "caa4caan1teng1-cafe-example-1",
-    "text": "我哋下晝去茶餐廳飲奶茶。"
-  },
-  {
-    "filename": "caa4caan1teng1-cafe-example-2",
-    "id": "caa4caan1teng1-cafe-example-2",
-    "text": "呢間茶餐廳好多人。"
-  },
-  {
-    "filename": "caa4caan1teng1-cafe-example-3",
-    "id": "caa4caan1teng1-cafe-example-3",
-    "text": "茶餐廳嘅餐牌有好多選擇。"
-  },
-  {
-    "filename": "caa4caan1teng1-cafe-example-4",
-    "id": "caa4caan1teng1-cafe-example-4",
-    "text": "你鍾意去茶餐廳定西餐廳？"
-  },
-  {
-    "filename": "caan1teng1-restaurant",
-    "id": "caan1teng1-restaurant",
-    "text": "餐廳"
-  },
-  {
-    "filename": "caan1teng1-restaurant-example-1",
-    "id": "caan1teng1-restaurant-example-1",
-    "text": "我喺餐廳訂咗位。"
-  },
-  {
-    "filename": "caan1teng1-restaurant-example-2",
-    "id": "caan1teng1-restaurant-example-2",
-    "text": "呢個餐廳嘅湯好好味。"
-  },
-  {
-    "filename": "caan1teng1-restaurant-example-3",
-    "id": "caan1teng1-restaurant-example-3",
-    "text": "餐廳入面好多人。"
-  },
-  {
-    "filename": "caan1teng1-restaurant-example-4",
-    "id": "caan1teng1-restaurant-example-4",
-    "text": "我想試下新開嘅餐廳。"
-  },
-  {
-    "filename": "caap3zo6-socket",
-    "id": "caap3zo6-socket",
-    "text": "插座"
-  },
-  {
-    "filename": "caap3zo6-socket-example-1",
-    "id": "caap3zo6-socket-example-1",
-    "text": "呢度嘅插座唔夠用。"
-  },
-  {
-    "filename": "caap3zo6-socket-example-2",
-    "id": "caap3zo6-socket-example-2",
-    "text": "我唔知插座喺邊。"
-  },
-  {
-    "filename": "caap3zo6-socket-example-3",
-    "id": "caap3zo6-socket-example-3",
-    "text": "請幫我插電喺插座。"
-  },
-  {
-    "filename": "caap3zo6-socket-example-4",
-    "id": "caap3zo6-socket-example-4",
-    "text": "插座壞咗，要修理。"
+    "filename": "ce1piu3-transport-ticket-example-4",
+    "id": "ce1piu3-transport-ticket-example-4",
+    "text": "地鐵車票要喺入閘口畀職員睇。"
   },
   {
     "filename": "ce1wai6-parking-space",
@@ -257,47 +157,97 @@
   {
     "filename": "ce1wai6-parking-space-example-1",
     "id": "ce1wai6-parking-space-example-1",
-    "text": "我哋屋企有兩個車位。"
+    "text": "今晚搵唔到車位，唔通要自己泊路邊。"
   },
   {
     "filename": "ce1wai6-parking-space-example-2",
     "id": "ce1wai6-parking-space-example-2",
-    "text": "呢度個車位幾錢一個月？"
+    "text": "呢度嘅車位好貴，一個月要五千蚊。"
   },
   {
     "filename": "ce1wai6-parking-space-example-3",
     "id": "ce1wai6-parking-space-example-3",
-    "text": "租車位好難搵。"
+    "text": "公寓入面有兩個車位，方便咗好多。"
   },
   {
     "filename": "ce1wai6-parking-space-example-4",
     "id": "ce1wai6-parking-space-example-4",
-    "text": "停車要用指定車位。"
+    "text": "我哋去超市嗰陣，唔好忘記泊車位。"
   },
   {
-    "filename": "ceoi4fong2-kitchen",
-    "id": "ceoi4fong2-kitchen",
-    "text": "廚房"
+    "filename": "ce1zaam6-transport-station",
+    "id": "ce1zaam6-transport-station",
+    "text": "車站"
   },
   {
-    "filename": "ceoi4fong2-kitchen-example-1",
-    "id": "ceoi4fong2-kitchen-example-1",
-    "text": "我喺廚房煮緊飯。"
+    "filename": "ce1zaam6-transport-station-example-1",
+    "id": "ce1zaam6-transport-station-example-1",
+    "text": "我喺上水車站等你。"
   },
   {
-    "filename": "ceoi4fong2-kitchen-example-2",
-    "id": "ceoi4fong2-kitchen-example-2",
-    "text": "廚房入面好乾淨。"
+    "filename": "ce1zaam6-transport-station-example-2",
+    "id": "ce1zaam6-transport-station-example-2",
+    "text": "巴士車站喺馬路對面。"
   },
   {
-    "filename": "ceoi4fong2-kitchen-example-3",
-    "id": "ceoi4fong2-kitchen-example-3",
-    "text": "廚房啲碗要洗。"
+    "filename": "ce1zaam6-transport-station-example-3",
+    "id": "ce1zaam6-transport-station-example-3",
+    "text": "下一個地鐵車站係旺角。"
   },
   {
-    "filename": "ceoi4fong2-kitchen-example-4",
-    "id": "ceoi4fong2-kitchen-example-4",
-    "text": "新屋嗰個廚房好大。"
+    "filename": "ce1zaam6-transport-station-example-4",
+    "id": "ce1zaam6-transport-station-example-4",
+    "text": "我唔記得點去車站。"
+  },
+  {
+    "filename": "ceot1faat3-depart",
+    "id": "ceot1faat3-depart",
+    "text": "出發"
+  },
+  {
+    "filename": "ceot1faat3-depart-example-1",
+    "id": "ceot1faat3-depart-example-1",
+    "text": "我哋而家出發去機場。"
+  },
+  {
+    "filename": "ceot1faat3-depart-example-2",
+    "id": "ceot1faat3-depart-example-2",
+    "text": "佢朝早六點就出發。"
+  },
+  {
+    "filename": "ceot1faat3-depart-example-3",
+    "id": "ceot1faat3-depart-example-3",
+    "text": "我哋準備好，隨時可以出發。"
+  },
+  {
+    "filename": "ceot1faat3-depart-example-4",
+    "id": "ceot1faat3-depart-example-4",
+    "text": "出發之前記得check清楚行李。"
+  },
+  {
+    "filename": "ceot1gwok3-go-abroad",
+    "id": "ceot1gwok3-go-abroad",
+    "text": "出國"
+  },
+  {
+    "filename": "ceot1gwok3-go-abroad-example-1",
+    "id": "ceot1gwok3-go-abroad-example-1",
+    "text": "我下個月會出國。"
+  },
+  {
+    "filename": "ceot1gwok3-go-abroad-example-2",
+    "id": "ceot1gwok3-go-abroad-example-2",
+    "text": "你第一次出國係幾時？"
+  },
+  {
+    "filename": "ceot1gwok3-go-abroad-example-3",
+    "id": "ceot1gwok3-go-abroad-example-3",
+    "text": "出國前要準備護照。"
+  },
+  {
+    "filename": "ceot1gwok3-go-abroad-example-4",
+    "id": "ceot1gwok3-go-abroad-example-4",
+    "text": "我哋呢排唔打算出國。"
   },
   {
     "filename": "ceot1hau2-exit",
@@ -307,722 +257,497 @@
   {
     "filename": "ceot1hau2-exit-example-1",
     "id": "ceot1hau2-exit-example-1",
-    "text": "請問洗手間出口喺邊？"
+    "text": "你喺邊度出嚟？出口喺邊？"
   },
   {
     "filename": "ceot1hau2-exit-example-2",
     "id": "ceot1hau2-exit-example-2",
-    "text": "呢條樓梯就係最近嘅出口。"
+    "text": "地鐵站嘅A出口好容易搵。"
   },
   {
     "filename": "ceot1hau2-exit-example-3",
     "id": "ceot1hau2-exit-example-3",
-    "text": "緊急情況下，請用出口離開。"
+    "text": "請沿住標示行去出口。"
   },
   {
     "filename": "ceot1hau2-exit-example-4",
     "id": "ceot1hau2-exit-example-4",
-    "text": "商場入口同出口分開咗。"
+    "text": "呢度有兩個出口，一個係北邊，一個係南邊。"
   },
   {
-    "filename": "ceot1zou1-rent-out",
-    "id": "ceot1zou1-rent-out",
-    "text": "出租"
+    "filename": "ceot1mun4-go-out",
+    "id": "ceot1mun4-go-out",
+    "text": "出門"
   },
   {
-    "filename": "ceot1zou1-rent-out-example-1",
-    "id": "ceot1zou1-rent-out-example-1",
-    "text": "我屋企出咗間房出租。"
+    "filename": "ceot1mun4-go-out-example-1",
+    "id": "ceot1mun4-go-out-example-1",
+    "text": "我而家要出門買嘢。"
   },
   {
-    "filename": "ceot1zou1-rent-out-example-2",
-    "id": "ceot1zou1-rent-out-example-2",
-    "text": "佢想出租佢嘅車位。"
+    "filename": "ceot1mun4-go-out-example-2",
+    "id": "ceot1mun4-go-out-example-2",
+    "text": "佢朝早出門去返工。"
   },
   {
-    "filename": "ceot1zou1-rent-out-example-3",
-    "id": "ceot1zou1-rent-out-example-3",
-    "text": "間鋪喺街市度出租。"
+    "filename": "ceot1mun4-go-out-example-3",
+    "id": "ceot1mun4-go-out-example-3",
+    "text": "出門記住帶口罩。"
   },
   {
-    "filename": "ceot1zou1-rent-out-example-4",
-    "id": "ceot1zou1-rent-out-example-4",
-    "text": "佢哋出咗舊屋出租，賺返啲錢。"
+    "filename": "ceot1mun4-go-out-example-4",
+    "id": "ceot1mun4-go-out-example-4",
+    "text": "我聽日打算出門旅行。"
   },
   {
-    "filename": "ci3so2-bathroom",
-    "id": "ci3so2-bathroom",
-    "text": "廁所"
+    "filename": "cim1zing3-visa",
+    "id": "cim1zing3-visa",
+    "text": "簽證"
   },
   {
-    "filename": "ci3so2-bathroom-example-1",
-    "id": "ci3so2-bathroom-example-1",
-    "text": "我想去廁所。"
+    "filename": "cim1zing3-visa-example-1",
+    "id": "cim1zing3-visa-example-1",
+    "text": "我申請咗美國簽證。"
   },
   {
-    "filename": "ci3so2-bathroom-example-2",
-    "id": "ci3so2-bathroom-example-2",
-    "text": "廁所喺邊度？"
+    "filename": "cim1zing3-visa-example-2",
+    "id": "cim1zing3-visa-example-2",
+    "text": "去旅行前，要記得攞簽證。"
   },
   {
-    "filename": "ci3so2-bathroom-example-3",
-    "id": "ci3so2-bathroom-example-3",
-    "text": "呢度嘅廁所好乾淨。"
+    "filename": "cim1zing3-visa-example-3",
+    "id": "cim1zing3-visa-example-3",
+    "text": "佢張簽證快過期喇！"
   },
   {
-    "filename": "ci3so2-bathroom-example-4",
-    "id": "ci3so2-bathroom-example-4",
-    "text": "你用唔用廁所？"
+    "filename": "cim1zing3-visa-example-4",
+    "id": "cim1zing3-visa-example-4",
+    "text": "冇簽證嘅話，唔可以入境。"
   },
   {
-    "filename": "cim1joek3-sign-contract",
-    "id": "cim1joek3-sign-contract",
-    "text": "簽約"
+    "filename": "co3gwo3-miss",
+    "id": "co3gwo3-miss",
+    "text": "錯過"
   },
   {
-    "filename": "cim1joek3-sign-contract-example-1",
-    "id": "cim1joek3-sign-contract-example-1",
-    "text": "我哋下星期要簽約。"
+    "filename": "co3gwo3-miss-example-1",
+    "id": "co3gwo3-miss-example-1",
+    "text": "我今日錯過咗巴士，依家要等多十分鐘。"
   },
   {
-    "filename": "cim1joek3-sign-contract-example-2",
-    "id": "cim1joek3-sign-contract-example-2",
-    "text": "簽約之前要睇清楚條款。"
+    "filename": "co3gwo3-miss-example-2",
+    "id": "co3gwo3-miss-example-2",
+    "text": "你唔好錯過呢個好機會啊。"
   },
   {
-    "filename": "cim1joek3-sign-contract-example-3",
-    "id": "cim1joek3-sign-contract-example-3",
-    "text": "佢唔肯簽約，仲諗緊。"
+    "filename": "co3gwo3-miss-example-3",
+    "id": "co3gwo3-miss-example-3",
+    "text": "佢因為塞車，所以錯過咗火車。"
   },
   {
-    "filename": "cim1joek3-sign-contract-example-4",
-    "id": "cim1joek3-sign-contract-example-4",
-    "text": "屋主終於同我哋簽約啦！"
+    "filename": "co3gwo3-miss-example-4",
+    "id": "co3gwo3-miss-example-4",
+    "text": "錯過咗旅遊團可能要再等多次。"
   },
   {
-    "filename": "cing1git3-clean",
-    "id": "cing1git3-clean",
-    "text": "清潔"
+    "filename": "daan1ce1-bicycle",
+    "id": "daan1ce1-bicycle",
+    "text": "單車"
   },
   {
-    "filename": "cing1git3-clean-example-1",
-    "id": "cing1git3-clean-example-1",
-    "text": "我每日都清潔個廚房。"
+    "filename": "daan1ce1-bicycle-example-1",
+    "id": "daan1ce1-bicycle-example-1",
+    "text": "我成日用單車返工。"
   },
   {
-    "filename": "cing1git3-clean-example-2",
-    "id": "cing1git3-clean-example-2",
-    "text": "呢度好清潔，唔使擔心。"
+    "filename": "daan1ce1-bicycle-example-2",
+    "id": "daan1ce1-bicycle-example-2",
+    "text": "呢架單車幾錢？"
   },
   {
-    "filename": "cing1git3-clean-example-3",
-    "id": "cing1git3-clean-example-3",
-    "text": "保持個屋企嘅清潔好緊要。"
+    "filename": "daan1ce1-bicycle-example-3",
+    "id": "daan1ce1-bicycle-example-3",
+    "text": "小朋友鍾意騎單車。"
   },
   {
-    "filename": "cing1git3-clean-example-4",
-    "id": "cing1git3-clean-example-4",
-    "text": "佢做清潔阿叔，專門幫人洗樓。"
+    "filename": "daan1ce1-bicycle-example-4",
+    "id": "daan1ce1-bicycle-example-4",
+    "text": "我哋去公園可以租單車。"
   },
   {
-    "filename": "coeng1-window",
-    "id": "coeng1-window",
-    "text": "窗"
+    "filename": "daan1cing4piu3-one-way-ticket",
+    "id": "daan1cing4piu3-one-way-ticket",
+    "text": "單程票"
   },
   {
-    "filename": "coeng1-window-example-1",
-    "id": "coeng1-window-example-1",
-    "text": "我屋企嘅窗好大，光線充足。"
+    "filename": "daan1cing4piu3-one-way-ticket-example-1",
+    "id": "daan1cing4piu3-one-way-ticket-example-1",
+    "text": "我今日買咗張單程票去尖沙咀。"
   },
   {
-    "filename": "coeng1-window-example-2",
-    "id": "coeng1-window-example-2",
-    "text": "記得鎖好窗先，免得風吹入嚟。"
+    "filename": "daan1cing4piu3-one-way-ticket-example-2",
+    "id": "daan1cing4piu3-one-way-ticket-example-2",
+    "text": "唔使買來回票，我淨係要單程票。"
   },
   {
-    "filename": "coeng1-window-example-3",
-    "id": "coeng1-window-example-3",
-    "text": "呢扇窗有啲裂紋，要修理下。"
+    "filename": "daan1cing4piu3-one-way-ticket-example-3",
+    "id": "daan1cing4piu3-one-way-ticket-example-3",
+    "text": "搭巴士要記得攞單程票。"
   },
   {
-    "filename": "coeng1-window-example-4",
-    "id": "coeng1-window-example-4",
-    "text": "喺窗外，我見到一棵大樹。"
+    "filename": "daan1cing4piu3-one-way-ticket-example-4",
+    "id": "daan1cing4piu3-one-way-ticket-example-4",
+    "text": "張單程票幾錢？"
   },
   {
-    "filename": "coeng4-wall",
-    "id": "coeng4-wall",
-    "text": "牆"
+    "filename": "daap3-ride",
+    "id": "daap3-ride",
+    "text": "搭"
   },
   {
-    "filename": "coeng4-wall-example-1",
-    "id": "coeng4-wall-example-1",
-    "text": "我哋要重新油牆。"
+    "filename": "daap3-ride-example-1",
+    "id": "daap3-ride-example-1",
+    "text": "我今日搭地鐵返工。"
   },
   {
-    "filename": "coeng4-wall-example-2",
-    "id": "coeng4-wall-example-2",
-    "text": "呢面牆好厚。"
+    "filename": "daap3-ride-example-2",
+    "id": "daap3-ride-example-2",
+    "text": "你想搭巴士定係搭的士？"
   },
   {
-    "filename": "coeng4-wall-example-3",
-    "id": "coeng4-wall-example-3",
-    "text": "佢響牆上掛咗幅畫。"
+    "filename": "daap3-ride-example-3",
+    "id": "daap3-ride-example-3",
+    "text": "我哋搭船去離島玩。"
   },
   {
-    "filename": "coeng4-wall-example-4",
-    "id": "coeng4-wall-example-4",
-    "text": "牆嘅顏色好靚。"
+    "filename": "daap3-ride-example-4",
+    "id": "daap3-ride-example-4",
+    "text": "搭電單車出街好爽！"
   },
   {
-    "filename": "cyu5mat6fong2-storage-room",
-    "id": "cyu5mat6fong2-storage-room",
-    "text": "儲物房"
+    "filename": "dang1gei1-board-plane",
+    "id": "dang1gei1-board-plane",
+    "text": "登機"
   },
   {
-    "filename": "cyu5mat6fong2-storage-room-example-1",
-    "id": "cyu5mat6fong2-storage-room-example-1",
-    "text": "我啲行李擺喺儲物房。"
+    "filename": "dang1gei1-board-plane-example-1",
+    "id": "dang1gei1-board-plane-example-1",
+    "text": "我哋而家開始登機。"
   },
   {
-    "filename": "cyu5mat6fong2-storage-room-example-2",
-    "id": "cyu5mat6fong2-storage-room-example-2",
-    "text": "呢個儲物房啱啱整理好晒。"
+    "filename": "dang1gei1-board-plane-example-2",
+    "id": "dang1gei1-board-plane-example-2",
+    "text": "登機口喺右邊。"
   },
   {
-    "filename": "cyu5mat6fong2-storage-room-example-3",
-    "id": "cyu5mat6fong2-storage-room-example-3",
-    "text": "儲物房入面有好多舊傢俬。"
+    "filename": "dang1gei1-board-plane-example-3",
+    "id": "dang1gei1-board-plane-example-3",
+    "text": "佢哋通知我哋準時登機。"
   },
   {
-    "filename": "cyu5mat6fong2-storage-room-example-4",
-    "id": "cyu5mat6fong2-storage-room-example-4",
-    "text": "你可以喺儲物房拎返啲工具。"
+    "filename": "dang1gei1-board-plane-example-4",
+    "id": "dang1gei1-board-plane-example-4",
+    "text": "記得準時到機場等登機。"
   },
   {
-    "filename": "cyun1uk1-village-house",
-    "id": "cyun1uk1-village-house",
-    "text": "村屋"
+    "filename": "dang1gei1-check-in",
+    "id": "dang1gei1-check-in",
+    "text": "登機"
   },
   {
-    "filename": "cyun1uk1-village-house-example-1",
-    "id": "cyun1uk1-village-house-example-1",
-    "text": "我哋喺村屋度住咗十年。"
+    "filename": "dang1gei1-check-in-example-1",
+    "id": "dang1gei1-check-in-example-1",
+    "text": "我哋要早啲去登機。"
   },
   {
-    "filename": "cyun1uk1-village-house-example-2",
-    "id": "cyun1uk1-village-house-example-2",
-    "text": "你想買村屋定係公寓？"
+    "filename": "dang1gei1-check-in-example-2",
+    "id": "dang1gei1-check-in-example-2",
+    "text": "登機時間喺幾點？"
   },
   {
-    "filename": "cyun1uk1-village-house-example-3",
-    "id": "cyun1uk1-village-house-example-3",
-    "text": "村屋通常有自己個花園。"
+    "filename": "dang1gei1-check-in-example-3",
+    "id": "dang1gei1-check-in-example-3",
+    "text": "你完成咗登機未？"
   },
   {
-    "filename": "cyun1uk1-village-house-example-4",
-    "id": "cyun1uk1-village-house-example-4",
-    "text": "返屋企前，我會睇吓村屋嘅租金。"
+    "filename": "dang1gei1-check-in-example-4",
+    "id": "dang1gei1-check-in-example-4",
+    "text": "我拎咗行李去登機櫃枱。"
   },
   {
-    "filename": "daai6tong4-lobby",
-    "id": "daai6tong4-lobby",
-    "text": "大堂"
+    "filename": "dang1gei1zing3-boarding-pass",
+    "id": "dang1gei1zing3-boarding-pass",
+    "text": "登機證"
   },
   {
-    "filename": "daai6tong4-lobby-example-1",
-    "id": "daai6tong4-lobby-example-1",
-    "text": "我喺大堂等你。"
+    "filename": "dang1gei1zing3-boarding-pass-example-1",
+    "id": "dang1gei1zing3-boarding-pass-example-1",
+    "text": "我已經拎咗登機證，可以上機喇。"
   },
   {
-    "filename": "daai6tong4-lobby-example-2",
-    "id": "daai6tong4-lobby-example-2",
-    "text": "大堂有張長椅。"
+    "filename": "dang1gei1zing3-boarding-pass-example-2",
+    "id": "dang1gei1zing3-boarding-pass-example-2",
+    "text": "入閘前要出示登機證。"
   },
   {
-    "filename": "daai6tong4-lobby-example-3",
-    "id": "daai6tong4-lobby-example-3",
-    "text": "公司嘅大堂好大，同埋好企理。"
+    "filename": "dang1gei1zing3-boarding-pass-example-3",
+    "id": "dang1gei1zing3-boarding-pass-example-3",
+    "text": "我唔記得攞我嘅登機證喇！"
   },
   {
-    "filename": "daai6tong4-lobby-example-4",
-    "id": "daai6tong4-lobby-example-4",
-    "text": "搵人嘅時候，等喺大堂比較方便。"
+    "filename": "dang1gei1zing3-boarding-pass-example-4",
+    "id": "dang1gei1zing3-boarding-pass-example-4",
+    "text": "佢哋喺機場嘅專櫃幫我打印咗登機證。"
   },
   {
-    "filename": "daan1jan4fong2-studio",
-    "id": "daan1jan4fong2-studio",
-    "text": "單人房"
+    "filename": "dei6tit3-subway",
+    "id": "dei6tit3-subway",
+    "text": "地鐵"
   },
   {
-    "filename": "daan1jan4fong2-studio-example-1",
-    "id": "daan1jan4fong2-studio-example-1",
-    "text": "我租咗一個單人房喺旺角。"
+    "filename": "dei6tit3-subway-example-1",
+    "id": "dei6tit3-subway-example-1",
+    "text": "我每日都搭地鐵返工。"
   },
   {
-    "filename": "daan1jan4fong2-studio-example-2",
-    "id": "daan1jan4fong2-studio-example-2",
-    "text": "呢間屋嘅單人房好細。"
+    "filename": "dei6tit3-subway-example-2",
+    "id": "dei6tit3-subway-example-2",
+    "text": "地鐵站喺邊度？"
   },
   {
-    "filename": "daan1jan4fong2-studio-example-3",
-    "id": "daan1jan4fong2-studio-example-3",
-    "text": "我想搵一間單人房隔離有廚房嘅屋。"
+    "filename": "dei6tit3-subway-example-3",
+    "id": "dei6tit3-subway-example-3",
+    "text": "呢條路坐地鐵最快。"
   },
   {
-    "filename": "daan1jan4fong2-studio-example-4",
-    "id": "daan1jan4fong2-studio-example-4",
-    "text": "單人房適合一個人住，唔適合兩個人。"
+    "filename": "dei6tit3-subway-example-4",
+    "id": "dei6tit3-subway-example-4",
+    "text": "地鐵幾點收車？"
   },
   {
-    "filename": "daan1wai2-apartment-unit",
-    "id": "daan1wai2-apartment-unit",
-    "text": "單位"
+    "filename": "dei6tou4-map",
+    "id": "dei6tou4-map",
+    "text": "地圖"
   },
   {
-    "filename": "daan1wai2-apartment-unit-example-1",
-    "id": "daan1wai2-apartment-unit-example-1",
-    "text": "我啱啱買咗一個單位。"
+    "filename": "dei6tou4-map-example-1",
+    "id": "dei6tou4-map-example-1",
+    "text": "我哋需要一張地圖先。"
   },
   {
-    "filename": "daan1wai2-apartment-unit-example-2",
-    "id": "daan1wai2-apartment-unit-example-2",
-    "text": "呢個單位幾時開始有電視？"
+    "filename": "dei6tou4-map-example-2",
+    "id": "dei6tou4-map-example-2",
+    "text": "你睇呢張地圖得唔得？"
   },
   {
-    "filename": "daan1wai2-apartment-unit-example-3",
-    "id": "daan1wai2-apartment-unit-example-3",
-    "text": "你嘅單位幾多平方尺？"
+    "filename": "dei6tou4-map-example-3",
+    "id": "dei6tou4-map-example-3",
+    "text": "地圖上寫咗啲路線。"
   },
   {
-    "filename": "daan1wai2-apartment-unit-example-4",
-    "id": "daan1wai2-apartment-unit-example-4",
-    "text": "單位入面有冇洗衣機？"
+    "filename": "dei6tou4-map-example-4",
+    "id": "dei6tou4-map-example-4",
+    "text": "用地圖嚟搵地點方便啲。"
   },
   {
-    "filename": "dei6baan2-floor",
-    "id": "dei6baan2-floor",
-    "text": "地板"
+    "filename": "dik1si2-taxi",
+    "id": "dik1si2-taxi",
+    "text": "的士"
   },
   {
-    "filename": "dei6baan2-floor-example-1",
-    "id": "dei6baan2-floor-example-1",
-    "text": "我要掃地板。"
+    "filename": "dik1si2-taxi-example-1",
+    "id": "dik1si2-taxi-example-1",
+    "text": "我今晚搭的士返屋企。"
   },
   {
-    "filename": "dei6baan2-floor-example-2",
-    "id": "dei6baan2-floor-example-2",
-    "text": "呢個屋企嘅地板係木嘅。"
+    "filename": "dik1si2-taxi-example-2",
+    "id": "dik1si2-taxi-example-2",
+    "text": "附近好難揾的士。"
   },
   {
-    "filename": "dei6baan2-floor-example-3",
-    "id": "dei6baan2-floor-example-3",
-    "text": "地板好滑，要小心啲。"
+    "filename": "dik1si2-taxi-example-3",
+    "id": "dik1si2-taxi-example-3",
+    "text": "你想坐的士定巴士？"
   },
   {
-    "filename": "dei6baan2-floor-example-4",
-    "id": "dei6baan2-floor-example-4",
-    "text": "我鋪咗新地板。"
+    "filename": "dik1si2-taxi-example-4",
+    "id": "dik1si2-taxi-example-4",
+    "text": "的士司機好好人。"
   },
   {
-    "filename": "dei6caan2-real-estate",
-    "id": "dei6caan2-real-estate",
-    "text": "地產"
+    "filename": "din6ce1-tram",
+    "id": "din6ce1-tram",
+    "text": "電車"
   },
   {
-    "filename": "dei6caan2-real-estate-example-1",
-    "id": "dei6caan2-real-estate-example-1",
-    "text": "佢喺地產公司做銷售員。"
+    "filename": "din6ce1-tram-example-1",
+    "id": "din6ce1-tram-example-1",
+    "text": "我每日都搭電車返學。"
   },
   {
-    "filename": "dei6caan2-real-estate-example-2",
-    "id": "dei6caan2-real-estate-example-2",
-    "text": "我想買地產投資。"
+    "filename": "din6ce1-tram-example-2",
+    "id": "din6ce1-tram-example-2",
+    "text": "電車幾點到呀？"
   },
   {
-    "filename": "dei6caan2-real-estate-example-3",
-    "id": "dei6caan2-real-estate-example-3",
-    "text": "呢區嘅地產價錢好貴。"
+    "filename": "din6ce1-tram-example-3",
+    "id": "din6ce1-tram-example-3",
+    "text": "你試過搭電車遊香港未？"
   },
   {
-    "filename": "dei6caan2-real-estate-example-4",
-    "id": "dei6caan2-real-estate-example-4",
-    "text": "地產市場最近有啲變化。"
+    "filename": "din6ce1-tram-example-4",
+    "id": "din6ce1-tram-example-4",
+    "text": "前面兩架電車撞埋喇。"
   },
   {
-    "filename": "dei6caan2ging1gei2-real-estate-agent",
-    "id": "dei6caan2ging1gei2-real-estate-agent",
-    "text": "地產經紀"
+    "filename": "din6daan1ce1-motorbike",
+    "id": "din6daan1ce1-motorbike",
+    "text": "電單車"
   },
   {
-    "filename": "dei6caan2ging1gei2-real-estate-agent-example-1",
-    "id": "dei6caan2ging1gei2-real-estate-agent-example-1",
-    "text": "我搵咗個地產經紀幫我租屋。"
+    "filename": "din6daan1ce1-motorbike-example-1",
+    "id": "din6daan1ce1-motorbike-example-1",
+    "text": "我每日都騎電單車返工。"
   },
   {
-    "filename": "dei6caan2ging1gei2-real-estate-agent-example-2",
-    "id": "dei6caan2ging1gei2-real-estate-agent-example-2",
-    "text": "呢位地產經紀好專業。"
+    "filename": "din6daan1ce1-motorbike-example-2",
+    "id": "din6daan1ce1-motorbike-example-2",
+    "text": "呢架電單車好快喎！"
   },
   {
-    "filename": "dei6caan2ging1gei2-real-estate-agent-example-3",
-    "id": "dei6caan2ging1gei2-real-estate-agent-example-3",
-    "text": "我想同地產經紀傾下買樓嘅事。"
+    "filename": "din6daan1ce1-motorbike-example-3",
+    "id": "din6daan1ce1-motorbike-example-3",
+    "text": "你識唔識開電單車？"
   },
   {
-    "filename": "dei6caan2ging1gei2-real-estate-agent-example-4",
-    "id": "dei6caan2ging1gei2-real-estate-agent-example-4",
-    "text": "地產經紀會介紹唔同嘅物業畀你。"
+    "filename": "din6daan1ce1-motorbike-example-4",
+    "id": "din6daan1ce1-motorbike-example-4",
+    "text": "我想買架新嘅電單車。"
   },
   {
-    "filename": "dei6tit3zaam6-station",
-    "id": "dei6tit3zaam6-station",
-    "text": "地鐵站"
-  },
-  {
-    "filename": "dei6tit3zaam6-station-example-1",
-    "id": "dei6tit3zaam6-station-example-1",
-    "text": "我哋喺地鐵站見。"
-  },
-  {
-    "filename": "dei6tit3zaam6-station-example-2",
-    "id": "dei6tit3zaam6-station-example-2",
-    "text": "地鐵站附近有好多餐廳。"
-  },
-  {
-    "filename": "dei6tit3zaam6-station-example-3",
-    "id": "dei6tit3zaam6-station-example-3",
-    "text": "我坐地鐵去公司。"
-  },
-  {
-    "filename": "dei6tit3zaam6-station-example-4",
-    "id": "dei6tit3zaam6-station-example-4",
-    "text": "地鐵站幾點關門？"
-  },
-  {
-    "filename": "din6dang1-light",
-    "id": "din6dang1-light",
-    "text": "電燈"
-  },
-  {
-    "filename": "din6dang1-light-example-1",
-    "id": "din6dang1-light-example-1",
-    "text": "屋企冇電燈，夜晚好黑。"
-  },
-  {
-    "filename": "din6dang1-light-example-2",
-    "id": "din6dang1-light-example-2",
-    "text": "你開電燈啦，唔好企喺黑暗度。"
-  },
-  {
-    "filename": "din6dang1-light-example-3",
-    "id": "din6dang1-light-example-3",
-    "text": "呢個電燈壞咗，要換新嘅。"
-  },
-  {
-    "filename": "din6dang1-light-example-4",
-    "id": "din6dang1-light-example-4",
-    "text": "廚房嘅電燈好明，好適合煮嘢食。"
-  },
-  {
-    "filename": "din6dang1waai6zo2-light-broken",
-    "id": "din6dang1waai6zo2-light-broken",
-    "text": "電燈壞咗"
-  },
-  {
-    "filename": "din6dang1waai6zo2-light-broken-example-1",
-    "id": "din6dang1waai6zo2-light-broken-example-1",
-    "text": "房間電燈壞咗，要換一個。"
-  },
-  {
-    "filename": "din6dang1waai6zo2-light-broken-example-2",
-    "id": "din6dang1waai6zo2-light-broken-example-2",
-    "text": "我返嚟屋企先發覺電燈壞咗。"
-  },
-  {
-    "filename": "din6dang1waai6zo2-light-broken-example-3",
-    "id": "din6dang1waai6zo2-light-broken-example-3",
-    "text": "如果電燈壞咗，可以唔可以幫我修理？"
-  },
-  {
-    "filename": "din6dang1waai6zo2-light-broken-example-4",
-    "id": "din6dang1waai6zo2-light-broken-example-4",
-    "text": "呢個單位好多電燈都壞咗，唔舒服。"
-  },
-  {
-    "filename": "din6fai3-electricity-bill",
-    "id": "din6fai3-electricity-bill",
-    "text": "電費"
-  },
-  {
-    "filename": "din6fai3-electricity-bill-example-1",
-    "id": "din6fai3-electricity-bill-example-1",
-    "text": "我今晚要交電費。"
-  },
-  {
-    "filename": "din6fai3-electricity-bill-example-2",
-    "id": "din6fai3-electricity-bill-example-2",
-    "text": "今個月嘅電費好貴。"
-  },
-  {
-    "filename": "din6fai3-electricity-bill-example-3",
-    "id": "din6fai3-electricity-bill-example-3",
-    "text": "屋企啲電費成日都高。"
-  },
-  {
-    "filename": "din6fai3-electricity-bill-example-4",
-    "id": "din6fai3-electricity-bill-example-4",
-    "text": "你繳咗唔繳電費？"
-  },
-  {
-    "filename": "din6hei3-appliances",
-    "id": "din6hei3-appliances",
-    "text": "電器"
-  },
-  {
-    "filename": "din6hei3-appliances-example-1",
-    "id": "din6hei3-appliances-example-1",
-    "text": "我哋屋企有好多電器。"
-  },
-  {
-    "filename": "din6hei3-appliances-example-2",
-    "id": "din6hei3-appliances-example-2",
-    "text": "呢部電器壞咗，要維修。"
-  },
-  {
-    "filename": "din6hei3-appliances-example-3",
-    "id": "din6hei3-appliances-example-3",
-    "text": "請問你識唔識用新嘅電器？"
-  },
-  {
-    "filename": "din6hei3-appliances-example-4",
-    "id": "din6hei3-appliances-example-4",
-    "text": "我買咗啲節能電器，慳電好多。"
-  },
-  {
-    "filename": "din6jyun4-power",
-    "id": "din6jyun4-power",
-    "text": "電源"
-  },
-  {
-    "filename": "din6jyun4-power-example-1",
-    "id": "din6jyun4-power-example-1",
-    "text": "記住插好電源先開機。"
-  },
-  {
-    "filename": "din6jyun4-power-example-2",
-    "id": "din6jyun4-power-example-2",
-    "text": "呢個房間有足夠嘅電源插頭。"
-  },
-  {
-    "filename": "din6jyun4-power-example-3",
-    "id": "din6jyun4-power-example-3",
-    "text": "停電嘅時候，要檢查電源線。"
-  },
-  {
-    "filename": "din6jyun4-power-example-4",
-    "id": "din6jyun4-power-example-4",
-    "text": "佢話電源唔穩定，機器有問題。"
-  },
-  {
-    "filename": "din6lip1-elevator",
-    "id": "din6lip1-elevator",
-    "text": "電𨋢"
-  },
-  {
-    "filename": "din6lip1-elevator-example-1",
-    "id": "din6lip1-elevator-example-1",
-    "text": "我哋坐電𨋢上十樓。"
-  },
-  {
-    "filename": "din6lip1-elevator-example-2",
-    "id": "din6lip1-elevator-example-2",
-    "text": "呢部電𨋢壞咗，要修理。"
-  },
-  {
-    "filename": "din6lip1-elevator-example-3",
-    "id": "din6lip1-elevator-example-3",
-    "text": "你等下，我去坐電𨋢先。"
-  },
-  {
-    "filename": "din6lip1-elevator-example-4",
-    "id": "din6lip1-elevator-example-4",
-    "text": "啲老人家唔想行樓梯，鍾意用電𨋢。"
-  },
-  {
-    "filename": "din6tai1-elevator",
-    "id": "din6tai1-elevator",
+    "filename": "din6tai1-lift",
+    "id": "din6tai1-lift",
     "text": "電梯"
   },
   {
-    "filename": "din6tai1-elevator-example-1",
-    "id": "din6tai1-elevator-example-1",
-    "text": "呢座樓有幾部電梯？"
+    "filename": "din6tai1-lift-example-1",
+    "id": "din6tai1-lift-example-1",
+    "text": "我哋搭電梯去九樓。"
   },
   {
-    "filename": "din6tai1-elevator-example-2",
-    "id": "din6tai1-elevator-example-2",
-    "text": "我要搭電梯去五樓。"
+    "filename": "din6tai1-lift-example-2",
+    "id": "din6tai1-lift-example-2",
+    "text": "電梯壞咗，要等維修。"
   },
   {
-    "filename": "din6tai1-elevator-example-3",
-    "id": "din6tai1-elevator-example-3",
-    "text": "電梯壞咗，要行樓梯上去。"
+    "filename": "din6tai1-lift-example-3",
+    "id": "din6tai1-lift-example-3",
+    "text": "唔好喺電梯入面飲嘢。"
   },
   {
-    "filename": "din6tai1-elevator-example-4",
-    "id": "din6tai1-elevator-example-4",
-    "text": "新大廈有無無障礙電梯？"
+    "filename": "din6tai1-lift-example-4",
+    "id": "din6tai1-lift-example-4",
+    "text": "電梯好快，等一陣先。"
   },
   {
-    "filename": "ding3gam1-deposit",
-    "id": "ding3gam1-deposit",
-    "text": "訂金"
+    "filename": "ding3fong2-book-room",
+    "id": "ding3fong2-book-room",
+    "text": "訂房"
   },
   {
-    "filename": "ding3gam1-deposit-example-1",
-    "id": "ding3gam1-deposit-example-1",
-    "text": "我已經付咗訂金租樓喇。"
+    "filename": "ding3fong2-book-room-example-1",
+    "id": "ding3fong2-book-room-example-1",
+    "text": "我哋要訂房先至可以去旅行。"
   },
   {
-    "filename": "ding3gam1-deposit-example-2",
-    "id": "ding3gam1-deposit-example-2",
-    "text": "訂金唔會退返嚟。"
+    "filename": "ding3fong2-book-room-example-2",
+    "id": "ding3fong2-book-room-example-2",
+    "text": "可唔可以幫我訂房？"
   },
   {
-    "filename": "ding3gam1-deposit-example-3",
-    "id": "ding3gam1-deposit-example-3",
-    "text": "租房之前要畀訂金。"
+    "filename": "ding3fong2-book-room-example-3",
+    "id": "ding3fong2-book-room-example-3",
+    "text": "旅遊網站可以訂房同買飛。"
   },
   {
-    "filename": "ding3gam1-deposit-example-4",
-    "id": "ding3gam1-deposit-example-4",
-    "text": "訂金係用來證明誠意。"
+    "filename": "ding3fong2-book-room-example-4",
+    "id": "ding3fong2-book-room-example-4",
+    "text": "我哋訂咗三晚嘅房。"
   },
   {
-    "filename": "duk6laap6uk1-detached-house",
-    "id": "duk6laap6uk1-detached-house",
-    "text": "獨立屋"
+    "filename": "dou3daat6-arrive",
+    "id": "dou3daat6-arrive",
+    "text": "到達"
   },
   {
-    "filename": "duk6laap6uk1-detached-house-example-1",
-    "id": "duk6laap6uk1-detached-house-example-1",
-    "text": "你想住喺邊度嘅獨立屋？"
+    "filename": "dou3daat6-arrive-example-1",
+    "id": "dou3daat6-arrive-example-1",
+    "text": "我哋今晚十點會到達酒店。"
   },
   {
-    "filename": "duk6laap6uk1-detached-house-example-2",
-    "id": "duk6laap6uk1-detached-house-example-2",
-    "text": "獨立屋通常比較貴。"
+    "filename": "dou3daat6-arrive-example-2",
+    "id": "dou3daat6-arrive-example-2",
+    "text": "火車準時到達咗。"
   },
   {
-    "filename": "duk6laap6uk1-detached-house-example-3",
-    "id": "duk6laap6uk1-detached-house-example-3",
-    "text": "我屋企後面有一間獨立屋。"
+    "filename": "dou3daat6-arrive-example-3",
+    "id": "dou3daat6-arrive-example-3",
+    "text": "佢終於到達咗目標。"
   },
   {
-    "filename": "duk6laap6uk1-detached-house-example-4",
-    "id": "duk6laap6uk1-detached-house-example-4",
-    "text": "你見過啲新嘅獨立屋未？"
+    "filename": "dou3daat6-arrive-example-4",
+    "id": "dou3daat6-arrive-example-4",
+    "text": "我哋嘅飛機大約下午三點到達香港。"
   },
   {
-    "filename": "faan6teng1-dining-room",
-    "id": "faan6teng1-dining-room",
-    "text": "飯廳"
+    "filename": "dou6leon4-ferry",
+    "id": "dou6leon4-ferry",
+    "text": "渡輪"
   },
   {
-    "filename": "faan6teng1-dining-room-example-1",
-    "id": "faan6teng1-dining-room-example-1",
-    "text": "我哋今晚喺飯廳見啦。"
+    "filename": "dou6leon4-ferry-example-1",
+    "id": "dou6leon4-ferry-example-1",
+    "text": "我每日搭渡輪返工。"
   },
   {
-    "filename": "faan6teng1-dining-room-example-2",
-    "id": "faan6teng1-dining-room-example-2",
-    "text": "飯廳入面有一張大枱。"
+    "filename": "dou6leon4-ferry-example-2",
+    "id": "dou6leon4-ferry-example-2",
+    "text": "去長洲可以坐渡輪。"
   },
   {
-    "filename": "faan6teng1-dining-room-example-3",
-    "id": "faan6teng1-dining-room-example-3",
-    "text": "佢鍾意喺飯廳度做功課。"
+    "filename": "dou6leon4-ferry-example-3",
+    "id": "dou6leon4-ferry-example-3",
+    "text": "渡輪比較慢，但景色靚。"
   },
   {
-    "filename": "faan6teng1-dining-room-example-4",
-    "id": "faan6teng1-dining-room-example-4",
-    "text": "爸爸喺飯廳煮晚餐。"
+    "filename": "dou6leon4-ferry-example-4",
+    "id": "dou6leon4-ferry-example-4",
+    "text": "星期六我哋去坐渡輪玩水上活動。"
   },
   {
-    "filename": "faan6zoek3wai2-dining-area",
-    "id": "faan6zoek3wai2-dining-area",
-    "text": "飯桌位"
+    "filename": "fo2ce1-train",
+    "id": "fo2ce1-train",
+    "text": "火車"
   },
   {
-    "filename": "faan6zoek3wai2-dining-area-example-1",
-    "id": "faan6zoek3wai2-dining-area-example-1",
-    "text": "我哋嘅飯桌位擺咗新張餐枱。"
+    "filename": "fo2ce1-train-example-1",
+    "id": "fo2ce1-train-example-1",
+    "text": "我朝早搭火車返工。"
   },
   {
-    "filename": "faan6zoek3wai2-dining-area-example-2",
-    "id": "faan6zoek3wai2-dining-area-example-2",
-    "text": "飯桌位冇幾多空間，唔好亂堆嘢。"
+    "filename": "fo2ce1-train-example-2",
+    "id": "fo2ce1-train-example-2",
+    "text": "你坐火車定坐巴士？"
   },
   {
-    "filename": "faan6zoek3wai2-dining-area-example-3",
-    "id": "faan6zoek3wai2-dining-area-example-3",
-    "text": "晚餐時我哋喺飯桌位傾偈。"
+    "filename": "fo2ce1-train-example-3",
+    "id": "fo2ce1-train-example-3",
+    "text": "火車遲咗，等咗好耐。"
   },
   {
-    "filename": "faan6zoek3wai2-dining-area-example-4",
-    "id": "faan6zoek3wai2-dining-area-example-4",
-    "text": "媽媽話飯桌位要保持乾淨先得。"
-  },
-  {
-    "filename": "fong2-room",
-    "id": "fong2-room",
-    "text": "房"
-  },
-  {
-    "filename": "fong2-room-example-1",
-    "id": "fong2-room-example-1",
-    "text": "我有兩個房。"
-  },
-  {
-    "filename": "fong2-room-example-2",
-    "id": "fong2-room-example-2",
-    "text": "呢個房好大。"
-  },
-  {
-    "filename": "fong2-room-example-3",
-    "id": "fong2-room-example-3",
-    "text": "我返工之前先收拾房。"
-  },
-  {
-    "filename": "fong2-room-example-4",
-    "id": "fong2-room-example-4",
-    "text": "你個新屋有幾多個房？"
-  },
-  {
-    "filename": "fong4dung1-landlord",
-    "id": "fong4dung1-landlord",
-    "text": "房東"
-  },
-  {
-    "filename": "fong4dung1-landlord-example-1",
-    "id": "fong4dung1-landlord-example-1",
-    "text": "我同房東講咗，佢話會修理壞咗嘅水喉。"
-  },
-  {
-    "filename": "fong4dung1-landlord-example-2",
-    "id": "fong4dung1-landlord-example-2",
-    "text": "租期到咗，我要同房東續約。"
-  },
-  {
-    "filename": "fong4dung1-landlord-example-3",
-    "id": "fong4dung1-landlord-example-3",
-    "text": "房東比我早啲交鑰匙。"
-  },
-  {
-    "filename": "fong4dung1-landlord-example-4",
-    "id": "fong4dung1-landlord-example-4",
-    "text": "唔好亂咁搵房東，要先約佢。"
+    "filename": "fo2ce1-train-example-4",
+    "id": "fo2ce1-train-example-4",
+    "text": "我哋坐火車去旅行。"
   },
   {
     "filename": "fu4sau2din6tai1-escalator",
@@ -1037,942 +762,367 @@
   {
     "filename": "fu4sau2din6tai1-escalator-example-2",
     "id": "fu4sau2din6tai1-escalator-example-2",
-    "text": "扶手電梯壞咗，要坐電梯啦。"
+    "text": "扶手電梯太多人，要等一陣。"
   },
   {
     "filename": "fu4sau2din6tai1-escalator-example-3",
     "id": "fu4sau2din6tai1-escalator-example-3",
-    "text": "商場入面有多部扶手電梯。"
+    "text": "小心扶手電梯，唔好企得太近。"
   },
   {
     "filename": "fu4sau2din6tai1-escalator-example-4",
     "id": "fu4sau2din6tai1-escalator-example-4",
-    "text": "我唔鍾意企喺扶手電梯上面，覺得唔安全。"
+    "text": "扶手電梯出咗問題，要維修。"
   },
   {
-    "filename": "gaa1si1-furniture",
-    "id": "gaa1si1-furniture",
-    "text": "傢俬"
+    "filename": "gaa3gaak3-price",
+    "id": "gaa3gaak3-price",
+    "text": "價格"
   },
   {
-    "filename": "gaa1si1-furniture-example-1",
-    "id": "gaa1si1-furniture-example-1",
-    "text": "我啱啱買咗啲新傢俬。"
+    "filename": "gaa3gaak3-price-example-1",
+    "id": "gaa3gaak3-price-example-1",
+    "text": "飛機票嘅價格太貴啦。"
   },
   {
-    "filename": "gaa1si1-furniture-example-2",
-    "id": "gaa1si1-furniture-example-2",
-    "text": "依個屋企嘅傢俬好舊。"
+    "filename": "gaa3gaak3-price-example-2",
+    "id": "gaa3gaak3-price-example-2",
+    "text": "你知唔知道三日遊嘅價格係幾多？"
   },
   {
-    "filename": "gaa1si1-furniture-example-3",
-    "id": "gaa1si1-furniture-example-3",
-    "text": "你有冇諗過買張新沙發做傢俬？"
+    "filename": "gaa3gaak3-price-example-3",
+    "id": "gaa3gaak3-price-example-3",
+    "text": "計程車嘅價格會因應交通狀況改變。"
   },
   {
-    "filename": "gaa1si1-furniture-example-4",
-    "id": "gaa1si1-furniture-example-4",
-    "text": "傢俬搬入去新屋要小心啲。"
+    "filename": "gaa3gaak3-price-example-4",
+    "id": "gaa3gaak3-price-example-4",
+    "text": "入場費嘅價格唔包括停车費。"
   },
   {
-    "filename": "gaa3cin2-price",
-    "id": "gaa3cin2-price",
-    "text": "價錢"
+    "filename": "gaa3kei4-holiday",
+    "id": "gaa3kei4-holiday",
+    "text": "假期"
   },
   {
-    "filename": "gaa3cin2-price-example-1",
-    "id": "gaa3cin2-price-example-1",
-    "text": "這間屋的價錢幾多？"
+    "filename": "gaa3kei4-holiday-example-1",
+    "id": "gaa3kei4-holiday-example-1",
+    "text": "我哋假期會去旅行。"
   },
   {
-    "filename": "gaa3cin2-price-example-2",
-    "id": "gaa3cin2-price-example-2",
-    "text": "你覺得呢個價錢合理嗎？"
+    "filename": "gaa3kei4-holiday-example-2",
+    "id": "gaa3kei4-holiday-example-2",
+    "text": "今年假期好短。"
   },
   {
-    "filename": "gaa3cin2-price-example-3",
-    "id": "gaa3cin2-price-example-3",
-    "text": "呢件衫價錢幾平。"
+    "filename": "gaa3kei4-holiday-example-3",
+    "id": "gaa3kei4-holiday-example-3",
+    "text": "假期入面我會休息。"
   },
   {
-    "filename": "gaa3cin2-price-example-4",
-    "id": "gaa3cin2-price-example-4",
-    "text": "地產經紀同我講價錢已經加咗。"
+    "filename": "gaa3kei4-holiday-example-4",
+    "id": "gaa3kei4-holiday-example-4",
+    "text": "你假期想做咩？"
   },
   {
-    "filename": "gaai1-street",
-    "id": "gaai1-street",
-    "text": "街"
+    "filename": "gaau1fai3-pay-fare",
+    "id": "gaau1fai3-pay-fare",
+    "text": "交費"
   },
   {
-    "filename": "gaai1-street-example-1",
-    "id": "gaai1-street-example-1",
-    "text": "我哋喺條街度見面啦。"
+    "filename": "gaau1fai3-pay-fare-example-1",
+    "id": "gaau1fai3-pay-fare-example-1",
+    "text": "我坐巴士之前要交費。"
   },
   {
-    "filename": "gaai1-street-example-2",
-    "id": "gaai1-street-example-2",
-    "text": "呢條街好多食肆呀。"
+    "filename": "gaau1fai3-pay-fare-example-2",
+    "id": "gaau1fai3-pay-fare-example-2",
+    "text": "你記得交費先喇！"
   },
   {
-    "filename": "gaai1-street-example-3",
-    "id": "gaai1-street-example-3",
-    "text": "佢住喺旺角嘅街附近。"
+    "filename": "gaau1fai3-pay-fare-example-3",
+    "id": "gaau1fai3-pay-fare-example-3",
+    "text": "地鐵口有自動交費機。"
   },
   {
-    "filename": "gaai1-street-example-4",
-    "id": "gaai1-street-example-4",
-    "text": "夜晚嘅街好熱鬧。"
+    "filename": "gaau1fai3-pay-fare-example-4",
+    "id": "gaau1fai3-pay-fare-example-4",
+    "text": "交費完就可以上車。"
   },
   {
-    "filename": "gaai1fong1-neighbour",
-    "id": "gaai1fong1-neighbour",
-    "text": "街坊"
+    "filename": "gaau1tung1-transport",
+    "id": "gaau1tung1-transport",
+    "text": "交通"
   },
   {
-    "filename": "gaai1fong1-neighbour-example-1",
-    "id": "gaai1fong1-neighbour-example-1",
-    "text": "我個街坊好幫得手。"
+    "filename": "gaau1tung1-transport-example-1",
+    "id": "gaau1tung1-transport-example-1",
+    "text": "香港嘅交通好方便。"
   },
   {
-    "filename": "gaai1fong1-neighbour-example-2",
-    "id": "gaai1fong1-neighbour-example-2",
-    "text": "街坊聚會今晚有幾多人？"
+    "filename": "gaau1tung1-transport-example-2",
+    "id": "gaau1tung1-transport-example-2",
+    "text": "交通堵塞搞得人好煩。"
   },
   {
-    "filename": "gaai1fong1-neighbour-example-3",
-    "id": "gaai1fong1-neighbour-example-3",
-    "text": "街坊煮嘢食分享咗啲好嘢。"
+    "filename": "gaau1tung1-transport-example-3",
+    "id": "gaau1tung1-transport-example-3",
+    "text": "我每日搭地鐵返工，減少交通時間。"
   },
   {
-    "filename": "gaai1fong1-neighbour-example-4",
-    "id": "gaai1fong1-neighbour-example-4",
-    "text": "我哋啲街坊成日一齊玩。"
+    "filename": "gaau1tung1-transport-example-4",
+    "id": "gaau1tung1-transport-example-4",
+    "text": "市政府想改善城市交通問題。"
   },
   {
-    "filename": "gaak3lei4-neighbour",
-    "id": "gaak3lei4-neighbour",
-    "text": "隔籬"
+    "filename": "gaau1tung1dang1-traffic-light",
+    "id": "gaau1tung1dang1-traffic-light",
+    "text": "交通燈"
   },
   {
-    "filename": "gaak3lei4-neighbour-example-1",
-    "id": "gaak3lei4-neighbour-example-1",
-    "text": "我同隔籬傾咗計，好開心。"
+    "filename": "gaau1tung1dang1-traffic-light-example-1",
+    "id": "gaau1tung1dang1-traffic-light-example-1",
+    "text": "我哋等紅燈先過馬路。"
   },
   {
-    "filename": "gaak3lei4-neighbour-example-2",
-    "id": "gaak3lei4-neighbour-example-2",
-    "text": "隔籬借咗我啲鹽，真係好好人。"
+    "filename": "gaau1tung1dang1-traffic-light-example-2",
+    "id": "gaau1tung1dang1-traffic-light-example-2",
+    "text": "交通燈轉綠燈，要行呀。"
   },
   {
-    "filename": "gaak3lei4-neighbour-example-3",
-    "id": "gaak3lei4-neighbour-example-3",
-    "text": "你識唔識你隔籬？"
+    "filename": "gaau1tung1dang1-traffic-light-example-3",
+    "id": "gaau1tung1dang1-traffic-light-example-3",
+    "text": "前面有個交通燈，好似壞咗。"
   },
   {
-    "filename": "gaak3lei4-neighbour-example-4",
-    "id": "gaak3lei4-neighbour-example-4",
-    "text": "佢同隔籬經常一齊玩。"
+    "filename": "gaau1tung1dang1-traffic-light-example-4",
+    "id": "gaau1tung1dang1-traffic-light-example-4",
+    "text": "新路口安裝咗好多交通燈，好安全。"
   },
   {
-    "filename": "gaau1zou1-pay-rent",
-    "id": "gaau1zou1-pay-rent",
-    "text": "交租"
+    "filename": "gei1coeng4-airport",
+    "id": "gei1coeng4-airport",
+    "text": "機場"
   },
   {
-    "filename": "gaau1zou1-pay-rent-example-1",
-    "id": "gaau1zou1-pay-rent-example-1",
-    "text": "我今個星期要交租。"
+    "filename": "gei1coeng4-airport-example-1",
+    "id": "gei1coeng4-airport-example-1",
+    "text": "我哋坐車去機場。"
   },
   {
-    "filename": "gaau1zou1-pay-rent-example-2",
-    "id": "gaau1zou1-pay-rent-example-2",
-    "text": "佢忘記交租，所以房東好嬲。"
+    "filename": "gei1coeng4-airport-example-2",
+    "id": "gei1coeng4-airport-example-2",
+    "text": "機場好多人。"
   },
   {
-    "filename": "gaau1zou1-pay-rent-example-3",
-    "id": "gaau1zou1-pay-rent-example-3",
-    "text": "唔交租會有罰款。"
+    "filename": "gei1coeng4-airport-example-3",
+    "id": "gei1coeng4-airport-example-3",
+    "text": "我明日喺機場接朋友。"
   },
   {
-    "filename": "gaau1zou1-pay-rent-example-4",
-    "id": "gaau1zou1-pay-rent-example-4",
-    "text": "你交咗租未？"
+    "filename": "gei1coeng4-airport-example-4",
+    "id": "gei1coeng4-airport-example-4",
+    "text": "呢間機場比較大。"
   },
   {
-    "filename": "gau6zong1sau1-old-renovation",
-    "id": "gau6zong1sau1-old-renovation",
-    "text": "舊裝修"
+    "filename": "gon2ce1-catch-transport",
+    "id": "gon2ce1-catch-transport",
+    "text": "趕車"
   },
   {
-    "filename": "gau6zong1sau1-old-renovation-example-1",
-    "id": "gau6zong1sau1-old-renovation-example-1",
-    "text": "呢間屋嘅舊裝修真係好舊。"
+    "filename": "gon2ce1-catch-transport-example-1",
+    "id": "gon2ce1-catch-transport-example-1",
+    "text": "我哋而家要趕車，唔好遲到。"
   },
   {
-    "filename": "gau6zong1sau1-old-renovation-example-2",
-    "id": "gau6zong1sau1-old-renovation-example-2",
-    "text": "我唔鍾意啲舊裝修，想重新裝修。"
+    "filename": "gon2ce1-catch-transport-example-2",
+    "id": "gon2ce1-catch-transport-example-2",
+    "text": "佢每日都趕車返工，好辛苦。"
   },
   {
-    "filename": "gau6zong1sau1-old-renovation-example-3",
-    "id": "gau6zong1sau1-old-renovation-example-3",
-    "text": "呢盤樓就因為舊裝修，所以價錢平啲。"
+    "filename": "gon2ce1-catch-transport-example-3",
+    "id": "gon2ce1-catch-transport-example-3",
+    "text": "我遲咗幾分鐘，差啲趕唔切車。"
   },
   {
-    "filename": "gau6zong1sau1-old-renovation-example-4",
-    "id": "gau6zong1sau1-old-renovation-example-4",
-    "text": "買間冇舊裝修嘅房會安心啲。"
+    "filename": "gon2ce1-catch-transport-example-4",
+    "id": "gon2ce1-catch-transport-example-4",
+    "text": "趕車嘅時候要快啲，唔好慢吞吞。"
   },
   {
-    "filename": "gei2cin2zou1-rent-price",
-    "id": "gei2cin2zou1-rent-price",
-    "text": "幾錢租"
+    "filename": "gong3lok6-land",
+    "id": "gong3lok6-land",
+    "text": "降落"
   },
   {
-    "filename": "gei2cin2zou1-rent-price-example-1",
-    "id": "gei2cin2zou1-rent-price-example-1",
-    "text": "呢間屋幾錢租？"
+    "filename": "gong3lok6-land-example-1",
+    "id": "gong3lok6-land-example-1",
+    "text": "飛機就快要降落喇。"
   },
   {
-    "filename": "gei2cin2zou1-rent-price-example-2",
-    "id": "gei2cin2zou1-rent-price-example-2",
-    "text": "我想知道區附近嘅幾錢租。"
+    "filename": "gong3lok6-land-example-2",
+    "id": "gong3lok6-land-example-2",
+    "text": "航班因天氣問題遲咗啲先降落。"
   },
   {
-    "filename": "gei2cin2zou1-rent-price-example-3",
-    "id": "gei2cin2zou1-rent-price-example-3",
-    "text": "幾錢租差唔多啱我嘅預算。"
+    "filename": "gong3lok6-land-example-3",
+    "id": "gong3lok6-land-example-3",
+    "text": "直升機降落喺山頂。"
   },
   {
-    "filename": "gei2cin2zou1-rent-price-example-4",
-    "id": "gei2cin2zou1-rent-price-example-4",
-    "text": "屋主冇講幾錢租，想問清楚。"
+    "filename": "gong3lok6-land-example-4",
+    "id": "gong3lok6-land-example-4",
+    "text": "你嘅航班幾點降落？"
   },
   {
-    "filename": "ging2gun1-view",
-    "id": "ging2gun1-view",
-    "text": "景觀"
+    "filename": "gung1gung6gaau1tung1-public-transport",
+    "id": "gung1gung6gaau1tung1-public-transport",
+    "text": "公共交通"
   },
   {
-    "filename": "ging2gun1-view-example-1",
-    "id": "ging2gun1-view-example-1",
-    "text": "我屋企有好靚嘅海景觀。"
+    "filename": "gung1gung6gaau1tung1-public-transport-example-1",
+    "id": "gung1gung6gaau1tung1-public-transport-example-1",
+    "text": "我每日都乘公共交通返工。"
   },
   {
-    "filename": "ging2gun1-view-example-2",
-    "id": "ging2gun1-view-example-2",
-    "text": "呢間樓嘅景觀唔錯。"
+    "filename": "gung1gung6gaau1tung1-public-transport-example-2",
+    "id": "gung1gung6gaau1tung1-public-transport-example-2",
+    "text": "香港嘅公共交通系統好方便。"
   },
   {
-    "filename": "ging2gun1-view-example-3",
-    "id": "ging2gun1-view-example-3",
-    "text": "我哋買樓主要睇景觀質素。"
+    "filename": "gung1gung6gaau1tung1-public-transport-example-3",
+    "id": "gung1gung6gaau1tung1-public-transport-example-3",
+    "text": "用公共交通可以慳好多錢。"
   },
   {
-    "filename": "ging2gun1-view-example-4",
-    "id": "ging2gun1-view-example-4",
-    "text": "景觀對房價有好大影響。"
+    "filename": "gung1gung6gaau1tung1-public-transport-example-4",
+    "id": "gung1gung6gaau1tung1-public-transport-example-4",
+    "text": "我唔識揸車，要靠公共交通。"
   },
   {
-    "filename": "gun2lei5cyu3-management-office",
-    "id": "gun2lei5cyu3-management-office",
-    "text": "管理處"
+    "filename": "gung1lou6-highway",
+    "id": "gung1lou6-highway",
+    "text": "公路"
   },
   {
-    "filename": "gun2lei5cyu3-management-office-example-1",
-    "id": "gun2lei5cyu3-management-office-example-1",
-    "text": "我今日要去管理處交管理費。"
+    "filename": "gung1lou6-highway-example-1",
+    "id": "gung1lou6-highway-example-1",
+    "text": "我哋將會喺公路上面開車。"
   },
   {
-    "filename": "gun2lei5cyu3-management-office-example-2",
-    "id": "gun2lei5cyu3-management-office-example-2",
-    "text": "你試下打電話俾管理處問吓電梯維修情況。"
+    "filename": "gung1lou6-highway-example-2",
+    "id": "gung1lou6-highway-example-2",
+    "text": "嗰條公路好窄，開車要小心。"
   },
   {
-    "filename": "gun2lei5cyu3-management-office-example-3",
-    "id": "gun2lei5cyu3-management-office-example-3",
-    "text": "管理處話今晚停電，要注意安全。"
+    "filename": "gung1lou6-highway-example-3",
+    "id": "gung1lou6-highway-example-3",
+    "text": "政府計劃修理條公路。"
   },
   {
-    "filename": "gun2lei5cyu3-management-office-example-4",
-    "id": "gun2lei5cyu3-management-office-example-4",
-    "text": "住喺呢度，遇到問題可以直接去管理處反映。"
+    "filename": "gung1lou6-highway-example-4",
+    "id": "gung1lou6-highway-example-4",
+    "text": "我經常返工會經過條公路。"
   },
   {
-    "filename": "gun2lei5fai3-management-fee",
-    "id": "gun2lei5fai3-management-fee",
-    "text": "管理費"
+    "filename": "haang4jan4lou6-pavement",
+    "id": "haang4jan4lou6-pavement",
+    "text": "行人路"
   },
   {
-    "filename": "gun2lei5fai3-management-fee-example-1",
-    "id": "gun2lei5fai3-management-fee-example-1",
-    "text": "呢個屋苑嘅管理費好貴。"
+    "filename": "haang4jan4lou6-pavement-example-1",
+    "id": "haang4jan4lou6-pavement-example-1",
+    "text": "我哋喺行人路等巴士啦。"
   },
   {
-    "filename": "gun2lei5fai3-management-fee-example-2",
-    "id": "gun2lei5fai3-management-fee-example-2",
-    "text": "交咗管理費先至可以用公共設施。"
+    "filename": "haang4jan4lou6-pavement-example-2",
+    "id": "haang4jan4lou6-pavement-example-2",
+    "text": "你唔好喺行人路度停車。"
   },
   {
-    "filename": "gun2lei5fai3-management-fee-example-3",
-    "id": "gun2lei5fai3-management-fee-example-3",
-    "text": "管理費已經包咗水電費。"
+    "filename": "haang4jan4lou6-pavement-example-3",
+    "id": "haang4jan4lou6-pavement-example-3",
+    "text": "行人路濕咗，小心滑倒。"
   },
   {
-    "filename": "gun2lei5fai3-management-fee-example-4",
-    "id": "gun2lei5fai3-management-fee-example-4",
-    "text": "屋主話管理費每年加三巴仙。"
+    "filename": "haang4jan4lou6-pavement-example-4",
+    "id": "haang4jan4lou6-pavement-example-4",
+    "text": "行人路旁邊有好多檔口食嘢。"
   },
   {
-    "filename": "gun2lei5jyun4-manager",
-    "id": "gun2lei5jyun4-manager",
-    "text": "管理員"
+    "filename": "haang4lei5-luggage",
+    "id": "haang4lei5-luggage",
+    "text": "行李"
   },
   {
-    "filename": "gun2lei5jyun4-manager-example-1",
-    "id": "gun2lei5jyun4-manager-example-1",
-    "text": "我尋日搵管理員攞電費單。"
+    "filename": "haang4lei5-luggage-example-1",
+    "id": "haang4lei5-luggage-example-1",
+    "text": "我要拎呢個行李上飛機。"
   },
   {
-    "filename": "gun2lei5jyun4-manager-example-2",
-    "id": "gun2lei5jyun4-manager-example-2",
-    "text": "管理員每天都會巡視大廈安全。"
+    "filename": "haang4lei5-luggage-example-2",
+    "id": "haang4lei5-luggage-example-2",
+    "text": "你嘅行李喺邊度？"
   },
   {
-    "filename": "gun2lei5jyun4-manager-example-3",
-    "id": "gun2lei5jyun4-manager-example-3",
-    "text": "管理員話修理電梯可能要等幾日。"
+    "filename": "haang4lei5-luggage-example-3",
+    "id": "haang4lei5-luggage-example-3",
+    "text": "行李有啲重，我用車推佢。"
   },
   {
-    "filename": "gun2lei5jyun4-manager-example-4",
-    "id": "gun2lei5jyun4-manager-example-4",
-    "text": "你知唔知道邊個係呢座屋嘅管理員？"
+    "filename": "haang4lei5-luggage-example-4",
+    "id": "haang4lei5-luggage-example-4",
+    "text": "你記得帶埋你嘅行李牌。"
   },
   {
-    "filename": "gung1jyu6-apartment-building",
-    "id": "gung1jyu6-apartment-building",
-    "text": "公寓"
+    "filename": "hei2fei1-take-off",
+    "id": "hei2fei1-take-off",
+    "text": "起飛"
   },
   {
-    "filename": "gung1jyu6-apartment-building-example-1",
-    "id": "gung1jyu6-apartment-building-example-1",
-    "text": "我住喺九龍果座公寓。"
+    "filename": "hei2fei1-take-off-example-1",
+    "id": "hei2fei1-take-off-example-1",
+    "text": "架飛機仲未起飛。"
   },
   {
-    "filename": "gung1jyu6-apartment-building-example-2",
-    "id": "gung1jyu6-apartment-building-example-2",
-    "text": "呢間公寓好方便，附近有超市。"
+    "filename": "hei2fei1-take-off-example-2",
+    "id": "hei2fei1-take-off-example-2",
+    "text": "飛機幾時起飛？"
   },
   {
-    "filename": "gung1jyu6-apartment-building-example-3",
-    "id": "gung1jyu6-apartment-building-example-3",
-    "text": "我想搵一間新公寓租住。"
+    "filename": "hei2fei1-take-off-example-3",
+    "id": "hei2fei1-take-off-example-3",
+    "text": "飛機好快就起飛喇。"
   },
   {
-    "filename": "gung1jyu6-apartment-building-example-4",
-    "id": "gung1jyu6-apartment-building-example-4",
-    "text": "呢座公寓有電梯，好多人住。"
+    "filename": "hei2fei1-take-off-example-4",
+    "id": "hei2fei1-take-off-example-4",
+    "text": "佢話新嘢會快啲起飛。"
   },
   {
-    "filename": "gung1jyun4-park",
-    "id": "gung1jyun4-park",
-    "text": "公園"
+    "filename": "hong4baan1-flight",
+    "id": "hong4baan1-flight",
+    "text": "航班"
   },
   {
-    "filename": "gung1jyun4-park-example-1",
-    "id": "gung1jyun4-park-example-1",
-    "text": "我哋今日去公園散步。"
+    "filename": "hong4baan1-flight-example-1",
+    "id": "hong4baan1-flight-example-1",
+    "text": "我搵緊今日嘅航班時間。"
   },
   {
-    "filename": "gung1jyun4-park-example-2",
-    "id": "gung1jyun4-park-example-2",
-    "text": "附近有個大公園。"
+    "filename": "hong4baan1-flight-example-2",
+    "id": "hong4baan1-flight-example-2",
+    "text": "航班延遲咗，要等陣先。"
   },
   {
-    "filename": "gung1jyun4-park-example-3",
-    "id": "gung1jyun4-park-example-3",
-    "text": "你鍾意去公園跑步定係郊外？"
+    "filename": "hong4baan1-flight-example-3",
+    "id": "hong4baan1-flight-example-3",
+    "text": "我嘅航班號碼係CX456。"
   },
   {
-    "filename": "gung1jyun4-park-example-4",
-    "id": "gung1jyun4-park-example-4",
-    "text": "小朋友喺公園玩得好開心。"
-  },
-  {
-    "filename": "gung1uk1-public-housing",
-    "id": "gung1uk1-public-housing",
-    "text": "公屋"
-  },
-  {
-    "filename": "gung1uk1-public-housing-example-1",
-    "id": "gung1uk1-public-housing-example-1",
-    "text": "我喺九龍嘅公屋住咗五年。"
-  },
-  {
-    "filename": "gung1uk1-public-housing-example-2",
-    "id": "gung1uk1-public-housing-example-2",
-    "text": "政府話會增加公屋嘅數量。"
-  },
-  {
-    "filename": "gung1uk1-public-housing-example-3",
-    "id": "gung1uk1-public-housing-example-3",
-    "text": "申請公屋需要好多文件。"
-  },
-  {
-    "filename": "gung1uk1-public-housing-example-4",
-    "id": "gung1uk1-public-housing-example-4",
-    "text": "佢嘅家喺沙田公屋區。"
-  },
-  {
-    "filename": "gwaan1mun4-close-door",
-    "id": "gwaan1mun4-close-door",
-    "text": "關門"
-  },
-  {
-    "filename": "gwaan1mun4-close-door-example-1",
-    "id": "gwaan1mun4-close-door-example-1",
-    "text": "請你關門，唔好凍住。"
-  },
-  {
-    "filename": "gwaan1mun4-close-door-example-2",
-    "id": "gwaan1mun4-close-door-example-2",
-    "text": "出門前記住關門。"
-  },
-  {
-    "filename": "gwaan1mun4-close-door-example-3",
-    "id": "gwaan1mun4-close-door-example-3",
-    "text": "佢每日都會自己關門。"
-  },
-  {
-    "filename": "gwaan1mun4-close-door-example-4",
-    "id": "gwaan1mun4-close-door-example-4",
-    "text": "屋企太嘈，快啲關門啦。"
-  },
-  {
-    "filename": "gwai6-cabinet",
-    "id": "gwai6-cabinet",
-    "text": "櫃"
-  },
-  {
-    "filename": "gwai6-cabinet-example-1",
-    "id": "gwai6-cabinet-example-1",
-    "text": "我啲衫放喺衣櫃度。"
-  },
-  {
-    "filename": "gwai6-cabinet-example-2",
-    "id": "gwai6-cabinet-example-2",
-    "text": "呢個櫃入面有好多書。"
-  },
-  {
-    "filename": "gwai6-cabinet-example-3",
-    "id": "gwai6-cabinet-example-3",
-    "text": "廚房有個新櫃。"
-  },
-  {
-    "filename": "gwai6-cabinet-example-4",
-    "id": "gwai6-cabinet-example-4",
-    "text": "我想買個冰櫃存雪糕。"
-  },
-  {
-    "filename": "gwong1maang5-bright",
-    "id": "gwong1maang5-bright",
-    "text": "光猛"
-  },
-  {
-    "filename": "gwong1maang5-bright-example-1",
-    "id": "gwong1maang5-bright-example-1",
-    "text": "呢間房好光猛，唔怕暗。"
-  },
-  {
-    "filename": "gwong1maang5-bright-example-2",
-    "id": "gwong1maang5-bright-example-2",
-    "text": "客廳光猛，適合擺啲植物。"
-  },
-  {
-    "filename": "gwong1maang5-bright-example-3",
-    "id": "gwong1maang5-bright-example-3",
-    "text": "租嘅屋光猛，住得舒服啲。"
-  },
-  {
-    "filename": "gwong1maang5-bright-example-4",
-    "id": "gwong1maang5-bright-example-4",
-    "text": "窗大，入面好光猛。"
-  },
-  {
-    "filename": "haang4ceot1joeng4toi4-go-to-balcony",
-    "id": "haang4ceot1joeng4toi4-go-to-balcony",
-    "text": "行出陽台"
-  },
-  {
-    "filename": "haang4ceot1joeng4toi4-go-to-balcony-example-1",
-    "id": "haang4ceot1joeng4toi4-go-to-balcony-example-1",
-    "text": "我想行出陽台睇下風景。"
-  },
-  {
-    "filename": "haang4ceot1joeng4toi4-go-to-balcony-example-2",
-    "id": "haang4ceot1joeng4toi4-go-to-balcony-example-2",
-    "text": "你行出陽台吸啲新鮮空氣啦。"
-  },
-  {
-    "filename": "haang4ceot1joeng4toi4-go-to-balcony-example-3",
-    "id": "haang4ceot1joeng4toi4-go-to-balcony-example-3",
-    "text": "小朋友唔好亂行出陽台，危險㗎。"
-  },
-  {
-    "filename": "haang4ceot1joeng4toi4-go-to-balcony-example-4",
-    "id": "haang4ceot1joeng4toi4-go-to-balcony-example-4",
-    "text": "佢每日晚上都會行出陽台睇星星。"
-  },
-  {
-    "filename": "hak3teng1-living-room",
-    "id": "hak3teng1-living-room",
-    "text": "客廳"
-  },
-  {
-    "filename": "hak3teng1-living-room-example-1",
-    "id": "hak3teng1-living-room-example-1",
-    "text": "我哋喺客廳睇電視。"
-  },
-  {
-    "filename": "hak3teng1-living-room-example-2",
-    "id": "hak3teng1-living-room-example-2",
-    "text": "客廳好大，可以開派對。"
-  },
-  {
-    "filename": "hak3teng1-living-room-example-3",
-    "id": "hak3teng1-living-room-example-3",
-    "text": "我洗咗客廳，乾淨晒。"
-  },
-  {
-    "filename": "hak3teng1-living-room-example-4",
-    "id": "hak3teng1-living-room-example-4",
-    "text": "你想喺客廳擺啲咩傢俬？"
-  },
-  {
-    "filename": "hap6joek3-contract",
-    "id": "hap6joek3-contract",
-    "text": "合約"
-  },
-  {
-    "filename": "hap6joek3-contract-example-1",
-    "id": "hap6joek3-contract-example-1",
-    "text": "我哋仲未簽合約。"
-  },
-  {
-    "filename": "hap6joek3-contract-example-2",
-    "id": "hap6joek3-contract-example-2",
-    "text": "依個合約係租房用嘅。"
-  },
-  {
-    "filename": "hap6joek3-contract-example-3",
-    "id": "hap6joek3-contract-example-3",
-    "text": "你要仔細睇合約內容。"
-  },
-  {
-    "filename": "hap6joek3-contract-example-4",
-    "id": "hap6joek3-contract-example-4",
-    "text": "佢哋因為違反合約而有麻煩。"
-  },
-  {
-    "filename": "hoi1mun4-open-door",
-    "id": "hoi1mun4-open-door",
-    "text": "開門"
-  },
-  {
-    "filename": "hoi1mun4-open-door-example-1",
-    "id": "hoi1mun4-open-door-example-1",
-    "text": "我而家去開門。"
-  },
-  {
-    "filename": "hoi1mun4-open-door-example-2",
-    "id": "hoi1mun4-open-door-example-2",
-    "text": "唔好急，等我開門先。"
-  },
-  {
-    "filename": "hoi1mun4-open-door-example-3",
-    "id": "hoi1mun4-open-door-example-3",
-    "text": "請你幫我開門，好唔好？"
-  },
-  {
-    "filename": "hoi1mun4-open-door-example-4",
-    "id": "hoi1mun4-open-door-example-4",
-    "text": "佢哋搵機會開門做生意。"
-  },
-  {
-    "filename": "hoi2ging2-sea-view",
-    "id": "hoi2ging2-sea-view",
-    "text": "海景"
-  },
-  {
-    "filename": "hoi2ging2-sea-view-example-1",
-    "id": "hoi2ging2-sea-view-example-1",
-    "text": "我想租一間有海景嘅公寓。"
-  },
-  {
-    "filename": "hoi2ging2-sea-view-example-2",
-    "id": "hoi2ging2-sea-view-example-2",
-    "text": "呢間酒店嘅海景好靚。"
-  },
-  {
-    "filename": "hoi2ging2-sea-view-example-3",
-    "id": "hoi2ging2-sea-view-example-3",
-    "text": "佢買咗一間海景房。"
-  },
-  {
-    "filename": "hoi2ging2-sea-view-example-4",
-    "id": "hoi2ging2-sea-view-example-4",
-    "text": "朝早坐喺陽台睇海景好舒服。"
-  },
-  {
-    "filename": "hoi2pong4-harbourfront",
-    "id": "hoi2pong4-harbourfront",
-    "text": "海旁"
-  },
-  {
-    "filename": "hoi2pong4-harbourfront-example-1",
-    "id": "hoi2pong4-harbourfront-example-1",
-    "text": "我哋今晚去海旁食飯。"
-  },
-  {
-    "filename": "hoi2pong4-harbourfront-example-2",
-    "id": "hoi2pong4-harbourfront-example-2",
-    "text": "海旁啲風景好靚。"
-  },
-  {
-    "filename": "hoi2pong4-harbourfront-example-3",
-    "id": "hoi2pong4-harbourfront-example-3",
-    "text": "香港有好多靚嘅海旁長廊。"
-  },
-  {
-    "filename": "hoi2pong4-harbourfront-example-4",
-    "id": "hoi2pong4-harbourfront-example-4",
-    "text": "海旁早晨好適合散步。"
-  },
-  {
-    "filename": "hok6haau6-school",
-    "id": "hok6haau6-school",
-    "text": "學校"
-  },
-  {
-    "filename": "hok6haau6-school-example-1",
-    "id": "hok6haau6-school-example-1",
-    "text": "我每日八點去學校。"
-  },
-  {
-    "filename": "hok6haau6-school-example-2",
-    "id": "hok6haau6-school-example-2",
-    "text": "學校附近有公園。"
-  },
-  {
-    "filename": "hok6haau6-school-example-3",
-    "id": "hok6haau6-school-example-3",
-    "text": "你喺邊間學校讀書？"
-  },
-  {
-    "filename": "hok6haau6-school-example-4",
-    "id": "hok6haau6-school-example-4",
-    "text": "我唔鐘意呢間學校好嘈。"
-  },
-  {
-    "filename": "hok6saang1suk1se3-dormitory",
-    "id": "hok6saang1suk1se3-dormitory",
-    "text": "學生宿舍"
-  },
-  {
-    "filename": "hok6saang1suk1se3-dormitory-example-1",
-    "id": "hok6saang1suk1se3-dormitory-example-1",
-    "text": "學生宿舍好近學校，好方便。"
-  },
-  {
-    "filename": "hok6saang1suk1se3-dormitory-example-2",
-    "id": "hok6saang1suk1se3-dormitory-example-2",
-    "text": "我哋下學期要搬去新嘅學生宿舍。"
-  },
-  {
-    "filename": "hok6saang1suk1se3-dormitory-example-3",
-    "id": "hok6saang1suk1se3-dormitory-example-3",
-    "text": "學生宿舍裏面有共用廚房同洗手間。"
-  },
-  {
-    "filename": "hok6saang1suk1se3-dormitory-example-4",
-    "id": "hok6saang1suk1se3-dormitory-example-4",
-    "text": "學生宿舍好多人一齊住，有時會好嘈。"
-  },
-  {
-    "filename": "hou2am3-dark",
-    "id": "hou2am3-dark",
-    "text": "好暗"
-  },
-  {
-    "filename": "hou2am3-dark-example-1",
-    "id": "hou2am3-dark-example-1",
-    "text": "呢個房好暗，開啲燈啦。"
-  },
-  {
-    "filename": "hou2am3-dark-example-2",
-    "id": "hou2am3-dark-example-2",
-    "text": "落雨天，街度好暗。"
-  },
-  {
-    "filename": "hou2am3-dark-example-3",
-    "id": "hou2am3-dark-example-3",
-    "text": "成日開住燈，唔會覺得好暗。"
-  },
-  {
-    "filename": "hou2am3-dark-example-4",
-    "id": "hou2am3-dark-example-4",
-    "text": "呢個角落好暗，唔好企喺度。"
-  },
-  {
-    "filename": "hou2bik1-crowded",
-    "id": "hou2bik1-crowded",
-    "text": "好迫"
-  },
-  {
-    "filename": "hou2bik1-crowded-example-1",
-    "id": "hou2bik1-crowded-example-1",
-    "text": "呢個屋企好迫，冇晒空位。"
-  },
-  {
-    "filename": "hou2bik1-crowded-example-2",
-    "id": "hou2bik1-crowded-example-2",
-    "text": "地鐵入面好迫，好難行。"
-  },
-  {
-    "filename": "hou2bik1-crowded-example-3",
-    "id": "hou2bik1-crowded-example-3",
-    "text": "市場入面好迫，買嘢要快啲。"
-  },
-  {
-    "filename": "hou2bik1-crowded-example-4",
-    "id": "hou2bik1-crowded-example-4",
-    "text": "間房真係好迫，枱同凳擺唔晒。"
-  },
-  {
-    "filename": "hou2cou4-noisy",
-    "id": "hou2cou4-noisy",
-    "text": "好嘈"
-  },
-  {
-    "filename": "hou2cou4-noisy-example-1",
-    "id": "hou2cou4-noisy-example-1",
-    "text": "呢條街好嘈，唔啱我住。"
-  },
-  {
-    "filename": "hou2cou4-noisy-example-2",
-    "id": "hou2cou4-noisy-example-2",
-    "text": "屋企隔離好嘈，我瞓唔著覺。"
-  },
-  {
-    "filename": "hou2cou4-noisy-example-3",
-    "id": "hou2cou4-noisy-example-3",
-    "text": "夜晚街市好嘈，好多人講嘢。"
-  },
-  {
-    "filename": "hou2cou4-noisy-example-4",
-    "id": "hou2cou4-noisy-example-4",
-    "text": "屋企入面好嘈，小朋友成日喊。"
-  },
-  {
-    "filename": "hou2fut3-spacious",
-    "id": "hou2fut3-spacious",
-    "text": "好闊"
-  },
-  {
-    "filename": "hou2fut3-spacious-example-1",
-    "id": "hou2fut3-spacious-example-1",
-    "text": "呢間屋好闊，好舒服。"
-  },
-  {
-    "filename": "hou2fut3-spacious-example-2",
-    "id": "hou2fut3-spacious-example-2",
-    "text": "我想搵個好闊嘅屋企。"
-  },
-  {
-    "filename": "hou2fut3-spacious-example-3",
-    "id": "hou2fut3-spacious-example-3",
-    "text": "你部廚房好闊啊！"
-  },
-  {
-    "filename": "hou2fut3-spacious-example-4",
-    "id": "hou2fut3-spacious-example-4",
-    "text": "呢個工作間唔係好闊，仲要多人。"
-  },
-  {
-    "filename": "hou2gau6-old",
-    "id": "hou2gau6-old",
-    "text": "好舊"
-  },
-  {
-    "filename": "hou2gau6-old-example-1",
-    "id": "hou2gau6-old-example-1",
-    "text": "呢間屋好舊，要整吓。"
-  },
-  {
-    "filename": "hou2gau6-old-example-2",
-    "id": "hou2gau6-old-example-2",
-    "text": "我件褸好舊，都冇乜用過。"
-  },
-  {
-    "filename": "hou2gau6-old-example-3",
-    "id": "hou2gau6-old-example-3",
-    "text": "果部電視好舊，畫面唔清楚。"
-  },
-  {
-    "filename": "hou2gau6-old-example-4",
-    "id": "hou2gau6-old-example-4",
-    "text": "你嘅電話好舊，可能要換一部。"
-  },
-  {
-    "filename": "hou2gon1zing6-clean",
-    "id": "hou2gon1zing6-clean",
-    "text": "好乾淨"
-  },
-  {
-    "filename": "hou2gon1zing6-clean-example-1",
-    "id": "hou2gon1zing6-clean-example-1",
-    "text": "呢間屋好乾淨。"
-  },
-  {
-    "filename": "hou2gon1zing6-clean-example-2",
-    "id": "hou2gon1zing6-clean-example-2",
-    "text": "佢個房好乾淨，無垃圾。"
-  },
-  {
-    "filename": "hou2gon1zing6-clean-example-3",
-    "id": "hou2gon1zing6-clean-example-3",
-    "text": "廁所好乾淨，好舒服。"
-  },
-  {
-    "filename": "hou2gon1zing6-clean-example-4",
-    "id": "hou2gon1zing6-clean-example-4",
-    "text": "你個廚房今日好乾淨喎。"
-  },
-  {
-    "filename": "hou2gwai3-expensive",
-    "id": "hou2gwai3-expensive",
-    "text": "好貴"
-  },
-  {
-    "filename": "hou2gwai3-expensive-example-1",
-    "id": "hou2gwai3-expensive-example-1",
-    "text": "呢間屋真係好貴。"
-  },
-  {
-    "filename": "hou2gwai3-expensive-example-2",
-    "id": "hou2gwai3-expensive-example-2",
-    "text": "買嘢貴咗，好貴呀！"
-  },
-  {
-    "filename": "hou2gwai3-expensive-example-3",
-    "id": "hou2gwai3-expensive-example-3",
-    "text": "租金好貴，唔係我負擔得起。"
-  },
-  {
-    "filename": "hou2gwai3-expensive-example-4",
-    "id": "hou2gwai3-expensive-example-4",
-    "text": "呢間餐廳嘅價錢好貴。"
-  },
-  {
-    "filename": "hou2lyun6-messy",
-    "id": "hou2lyun6-messy",
-    "text": "好亂"
-  },
-  {
-    "filename": "hou2lyun6-messy-example-1",
-    "id": "hou2lyun6-messy-example-1",
-    "text": "呢間屋好亂，我要執拾。"
-  },
-  {
-    "filename": "hou2lyun6-messy-example-2",
-    "id": "hou2lyun6-messy-example-2",
-    "text": "你檔案夾好亂，快啲整理吓。"
-  },
-  {
-    "filename": "hou2lyun6-messy-example-3",
-    "id": "hou2lyun6-messy-example-3",
-    "text": "我個書包好亂，搵唔到書。"
-  },
-  {
-    "filename": "hou2lyun6-messy-example-4",
-    "id": "hou2lyun6-messy-example-4",
-    "text": "佢個人好亂，好難合作。"
-  },
-  {
-    "filename": "hou2sai3-small",
-    "id": "hou2sai3-small",
-    "text": "好細"
-  },
-  {
-    "filename": "hou2sai3-small-example-1",
-    "id": "hou2sai3-small-example-1",
-    "text": "我屋企嘅廚房好細。"
-  },
-  {
-    "filename": "hou2sai3-small-example-2",
-    "id": "hou2sai3-small-example-2",
-    "text": "呢間公寓好細，但好舒服。"
-  },
-  {
-    "filename": "hou2sai3-small-example-3",
-    "id": "hou2sai3-small-example-3",
-    "text": "你可以睇下呢個好細嘅房間。"
-  },
-  {
-    "filename": "hou2sai3-small-example-4",
-    "id": "hou2sai3-small-example-4",
-    "text": "我鍾意住好細嘅屋企，容易打掃。"
-  },
-  {
-    "filename": "hou2san1-new",
-    "id": "hou2san1-new",
-    "text": "好新"
-  },
-  {
-    "filename": "hou2san1-new-example-1",
-    "id": "hou2san1-new-example-1",
-    "text": "呢間屋真係好新。"
-  },
-  {
-    "filename": "hou2san1-new-example-2",
-    "id": "hou2san1-new-example-2",
-    "text": "我啱啱買咗個好新嘅梳化。"
-  },
-  {
-    "filename": "hou2san1-new-example-3",
-    "id": "hou2san1-new-example-3",
-    "text": "佢嘅電話好新，好靚仔。"
-  },
-  {
-    "filename": "hou2san1-new-example-4",
-    "id": "hou2san1-new-example-4",
-    "text": "我哋搬咗去一間好新嘅屋."
-  },
-  {
-    "filename": "hou2syu1fuk6-comfortable",
-    "id": "hou2syu1fuk6-comfortable",
-    "text": "好舒服"
-  },
-  {
-    "filename": "hou2syu1fuk6-comfortable-example-1",
-    "id": "hou2syu1fuk6-comfortable-example-1",
-    "text": "呢張梳化坐落好舒服。"
-  },
-  {
-    "filename": "hou2syu1fuk6-comfortable-example-2",
-    "id": "hou2syu1fuk6-comfortable-example-2",
-    "text": "夏天開冷氣令屋企好舒服。"
-  },
-  {
-    "filename": "hou2syu1fuk6-comfortable-example-3",
-    "id": "hou2syu1fuk6-comfortable-example-3",
-    "text": "件衫好舒服，好適合我。"
-  },
-  {
-    "filename": "hou2syu1fuk6-comfortable-example-4",
-    "id": "hou2syu1fuk6-comfortable-example-4",
-    "text": "同朋友傾計好舒服，唔覺得累。"
+    "filename": "hong4baan1-flight-example-4",
+    "id": "hong4baan1-flight-example-4",
+    "text": "請問航班何時起飛？"
   },
   {
     "filename": "jap6hau2-entrance",
@@ -1982,1871 +1132,846 @@
   {
     "filename": "jap6hau2-entrance-example-1",
     "id": "jap6hau2-entrance-example-1",
-    "text": "我哋喺大廈嘅入口見面。"
+    "text": "你喺大廈嘅入口等我。"
   },
   {
     "filename": "jap6hau2-entrance-example-2",
     "id": "jap6hau2-entrance-example-2",
-    "text": "入口度有啲花，好靚。"
+    "text": "地鐵入口喺邊度？"
   },
   {
     "filename": "jap6hau2-entrance-example-3",
     "id": "jap6hau2-entrance-example-3",
-    "text": "請從右邊嘅入口入去。"
+    "text": "入口嗰度有個指示牌。"
   },
   {
     "filename": "jap6hau2-entrance-example-4",
     "id": "jap6hau2-entrance-example-4",
-    "text": "入口冇鎖，可以隨時入去。"
+    "text": "呢個系統嘅入口好簡單。"
   },
   {
-    "filename": "jat1fong2-one-bedroom",
-    "id": "jat1fong2-one-bedroom",
-    "text": "一房"
+    "filename": "jin4ng6-delay",
+    "id": "jin4ng6-delay",
+    "text": "延誤"
   },
   {
-    "filename": "jat1fong2-one-bedroom-example-1",
-    "id": "jat1fong2-one-bedroom-example-1",
-    "text": "我啱啱租咗一間一房。"
+    "filename": "jin4ng6-delay-example-1",
+    "id": "jin4ng6-delay-example-1",
+    "text": "今朝班機有延誤，要等多半個鐘。"
   },
   {
-    "filename": "jat1fong2-one-bedroom-example-2",
-    "id": "jat1fong2-one-bedroom-example-2",
-    "text": "呢區嘅一房好難搵。"
+    "filename": "jin4ng6-delay-example-2",
+    "id": "jin4ng6-delay-example-2",
+    "text": "因為地鐵延誤，我遲到了。"
   },
   {
-    "filename": "jat1fong2-one-bedroom-example-3",
-    "id": "jat1fong2-one-bedroom-example-3",
-    "text": "你睇呢個樓盤有冇一房？"
+    "filename": "jin4ng6-delay-example-3",
+    "id": "jin4ng6-delay-example-3",
+    "text": "航班延誤會影響好多乘客。"
   },
   {
-    "filename": "jat1fong2-one-bedroom-example-4",
-    "id": "jat1fong2-one-bedroom-example-4",
-    "text": "我哋搬去一個大啲嘅一房住。"
+    "filename": "jin4ng6-delay-example-4",
+    "id": "jin4ng6-delay-example-4",
+    "text": "延誤時間長，大家都好唔開心。"
   },
   {
-    "filename": "jip6zyu2-owner",
-    "id": "jip6zyu2-owner",
-    "text": "業主"
+    "filename": "jyu6ding3-booking",
+    "id": "jyu6ding3-booking",
+    "text": "預訂"
   },
   {
-    "filename": "jip6zyu2-owner-example-1",
-    "id": "jip6zyu2-owner-example-1",
-    "text": "呢棟樓嘅業主話要翻新大堂。"
+    "filename": "jyu6ding3-booking-example-1",
+    "id": "jyu6ding3-booking-example-1",
+    "text": "我哋已經完成咗酒店嘅預訂。"
   },
   {
-    "filename": "jip6zyu2-owner-example-2",
-    "id": "jip6zyu2-owner-example-2",
-    "text": "做業主要負責維修屋企嘅設施。"
+    "filename": "jyu6ding3-booking-example-2",
+    "id": "jyu6ding3-booking-example-2",
+    "text": "仲有冇飛嘅預訂？"
   },
   {
-    "filename": "jip6zyu2-owner-example-3",
-    "id": "jip6zyu2-owner-example-3",
-    "text": "業主同租客之間有啲小問題。"
+    "filename": "jyu6ding3-booking-example-3",
+    "id": "jyu6ding3-booking-example-3",
+    "text": "預訂嘅資料喺度，你可以參考下。"
   },
   {
-    "filename": "jip6zyu2-owner-example-4",
-    "id": "jip6zyu2-owner-example-4",
-    "text": "業主收到電郵話要收回物业管理權。"
+    "filename": "jyu6ding3-booking-example-4",
+    "id": "jyu6ding3-booking-example-4",
+    "text": "記得去旅行前一定要確定你嘅預訂。"
   },
   {
-    "filename": "jit6seoi2-hot-water",
-    "id": "jit6seoi2-hot-water",
-    "text": "熱水"
+    "filename": "jyun5fong1-far-place",
+    "id": "jyun5fong1-far-place",
+    "text": "遠方"
   },
   {
-    "filename": "jit6seoi2-hot-water-example-1",
-    "id": "jit6seoi2-hot-water-example-1",
-    "text": "我想飲杯熱水。"
+    "filename": "jyun5fong1-far-place-example-1",
+    "id": "jyun5fong1-far-place-example-1",
+    "text": "我想去遠方旅行。"
   },
   {
-    "filename": "jit6seoi2-hot-water-example-2",
-    "id": "jit6seoi2-hot-water-example-2",
-    "text": "你幫我開啲熱水好唔好？"
+    "filename": "jyun5fong1-far-place-example-2",
+    "id": "jyun5fong1-far-place-example-2",
+    "text": "遠方嘅風景好靚。"
   },
   {
-    "filename": "jit6seoi2-hot-water-example-3",
-    "id": "jit6seoi2-hot-water-example-3",
-    "text": "我哋今晚用熱水沖涼。"
+    "filename": "jyun5fong1-far-place-example-3",
+    "id": "jyun5fong1-far-place-example-3",
+    "text": "佢住喺遠方唔方便返嚟。"
   },
   {
-    "filename": "jit6seoi2-hot-water-example-4",
-    "id": "jit6seoi2-hot-water-example-4",
-    "text": "廚房裏面冇熱水喇。"
+    "filename": "jyun5fong1-far-place-example-4",
+    "id": "jyun5fong1-far-place-example-4",
+    "text": "我經常想念遠方嘅老朋友。"
   },
   {
-    "filename": "jit6seoi2lou4-water-heater",
-    "id": "jit6seoi2lou4-water-heater",
-    "text": "熱水爐"
+    "filename": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass",
+    "id": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass",
+    "text": "月票"
   },
   {
-    "filename": "jit6seoi2lou4-water-heater-example-1",
-    "id": "jit6seoi2lou4-water-heater-example-1",
-    "text": "呢個熱水爐壞咗，我哋要搵人修理。"
+    "filename": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-1",
+    "id": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-1",
+    "text": "我買咗張月票坐巴士。"
   },
   {
-    "filename": "jit6seoi2lou4-water-heater-example-2",
-    "id": "jit6seoi2lou4-water-heater-example-2",
-    "text": "你屋企有冇熱水爐？"
+    "filename": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-2",
+    "id": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-2",
+    "text": "月票幾錢？"
   },
   {
-    "filename": "jit6seoi2lou4-water-heater-example-3",
-    "id": "jit6seoi2lou4-water-heater-example-3",
-    "text": "熱水爐啱啱換咗新嘅，水好快熱。"
+    "filename": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-3",
+    "id": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-3",
+    "text": "用月票可以坐晒地鐵。"
   },
   {
-    "filename": "jit6seoi2lou4-water-heater-example-4",
-    "id": "jit6seoi2lou4-water-heater-example-4",
-    "text": "用熱水爐洗澡比較舒服。"
+    "filename": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-4",
+    "id": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-4",
+    "text": "佢嘅月票下個月到期。"
   },
   {
-    "filename": "joeng4toi4-balcony",
-    "id": "joeng4toi4-balcony",
-    "text": "陽台"
+    "filename": "jyut6toi4-platform",
+    "id": "jyut6toi4-platform",
+    "text": "月台"
   },
   {
-    "filename": "joeng4toi4-balcony-example-1",
-    "id": "joeng4toi4-balcony-example-1",
-    "text": "我哋喺陽台食早餐。"
+    "filename": "jyut6toi4-platform-example-1",
+    "id": "jyut6toi4-platform-example-1",
+    "text": "我喺月台等緊火車。"
   },
   {
-    "filename": "joeng4toi4-balcony-example-2",
-    "id": "joeng4toi4-balcony-example-2",
-    "text": "陽台擺咗幾盆花。"
+    "filename": "jyut6toi4-platform-example-2",
+    "id": "jyut6toi4-platform-example-2",
+    "text": "月台上有人買嘢食。"
   },
   {
-    "filename": "joeng4toi4-balcony-example-3",
-    "id": "joeng4toi4-balcony-example-3",
-    "text": "你去陽台執嘢啦！"
+    "filename": "jyut6toi4-platform-example-3",
+    "id": "jyut6toi4-platform-example-3",
+    "text": "你要去第三月台搭車。"
   },
   {
-    "filename": "joeng4toi4-balcony-example-4",
-    "id": "joeng4toi4-balcony-example-4",
-    "text": "陽台風景好舒服。"
+    "filename": "jyut6toi4-platform-example-4",
+    "id": "jyut6toi4-platform-example-4",
+    "text": "月台幾點鐘關門？"
   },
   {
-    "filename": "juk6sat1-bathroom",
-    "id": "juk6sat1-bathroom",
-    "text": "浴室"
+    "filename": "kiu4-bridge",
+    "id": "kiu4-bridge",
+    "text": "橋"
   },
   {
-    "filename": "juk6sat1-bathroom-example-1",
-    "id": "juk6sat1-bathroom-example-1",
-    "text": "我啱啱裝修咗新嘅浴室。"
+    "filename": "kiu4-bridge-example-1",
+    "id": "kiu4-bridge-example-1",
+    "text": "我哋要過嗰座橋。"
   },
   {
-    "filename": "juk6sat1-bathroom-example-2",
-    "id": "juk6sat1-bathroom-example-2",
-    "text": "浴室入面冇洗手液。"
+    "filename": "kiu4-bridge-example-2",
+    "id": "kiu4-bridge-example-2",
+    "text": "條橋好企理。"
   },
   {
-    "filename": "juk6sat1-bathroom-example-3",
-    "id": "juk6sat1-bathroom-example-3",
-    "text": "你可以用呢個浴室嗎？"
+    "filename": "kiu4-bridge-example-3",
+    "id": "kiu4-bridge-example-3",
+    "text": "呢座橋係新建嘅。"
   },
   {
-    "filename": "juk6sat1-bathroom-example-4",
-    "id": "juk6sat1-bathroom-example-4",
-    "text": "我哋屋企有兩個浴室。"
+    "filename": "kiu4-bridge-example-4",
+    "id": "kiu4-bridge-example-4",
+    "text": "車輛通過條橋要小心。"
   },
   {
-    "filename": "jung6joeng4toi4-use-balcony",
-    "id": "jung6joeng4toi4-use-balcony",
-    "text": "用陽台"
+    "filename": "leoi5hang4-travel",
+    "id": "leoi5hang4-travel",
+    "text": "旅行"
   },
   {
-    "filename": "jung6joeng4toi4-use-balcony-example-1",
-    "id": "jung6joeng4toi4-use-balcony-example-1",
-    "text": "我會用陽台種花。"
+    "filename": "leoi5hang4-travel-example-1",
+    "id": "leoi5hang4-travel-example-1",
+    "text": "我下個月想去旅行。"
   },
   {
-    "filename": "jung6joeng4toi4-use-balcony-example-2",
-    "id": "jung6joeng4toi4-use-balcony-example-2",
-    "text": "你鍾意用陽台做乜嘢？"
+    "filename": "leoi5hang4-travel-example-2",
+    "id": "leoi5hang4-travel-example-2",
+    "text": "旅行可以幫助放鬆心情。"
   },
   {
-    "filename": "jung6joeng4toi4-use-balcony-example-3",
-    "id": "jung6joeng4toi4-use-balcony-example-3",
-    "text": "佢哋用陽台嚟晾衫。"
+    "filename": "leoi5hang4-travel-example-3",
+    "id": "leoi5hang4-travel-example-3",
+    "text": "佢成日都喺度計劃旅行。"
   },
   {
-    "filename": "jung6joeng4toi4-use-balcony-example-4",
-    "id": "jung6joeng4toi4-use-balcony-example-4",
-    "text": "用陽台食早餐好舒服。"
+    "filename": "leoi5hang4-travel-example-4",
+    "id": "leoi5hang4-travel-example-4",
+    "text": "我哋嘅旅行好充實。"
   },
   {
-    "filename": "jyu6syun3-budget",
-    "id": "jyu6syun3-budget",
-    "text": "預算"
+    "filename": "loi4wui4piu3-return-ticket",
+    "id": "loi4wui4piu3-return-ticket",
+    "text": "來回票"
   },
   {
-    "filename": "jyu6syun3-budget-example-1",
-    "id": "jyu6syun3-budget-example-1",
-    "text": "我哋呢個月嘅租金預算係八千蚊。"
+    "filename": "loi4wui4piu3-return-ticket-example-1",
+    "id": "loi4wui4piu3-return-ticket-example-1",
+    "text": "我想買一張來回票去九龍。"
   },
   {
-    "filename": "jyu6syun3-budget-example-2",
-    "id": "jyu6syun3-budget-example-2",
-    "text": "買新傢俬要先制定預算。"
+    "filename": "loi4wui4piu3-return-ticket-example-2",
+    "id": "loi4wui4piu3-return-ticket-example-2",
+    "text": "來回票比較平，唔使擔心返程錢。"
   },
   {
-    "filename": "jyu6syun3-budget-example-3",
-    "id": "jyu6syun3-budget-example-3",
-    "text": "我嘅預算唔夠裝修呢間屋。"
+    "filename": "loi4wui4piu3-return-ticket-example-3",
+    "id": "loi4wui4piu3-return-ticket-example-3",
+    "text": "呢張來回票有效期係一個月。"
   },
   {
-    "filename": "jyu6syun3-budget-example-4",
-    "id": "jyu6syun3-budget-example-4",
-    "text": "如果超出預算，就要諗諗點算。"
+    "filename": "loi4wui4piu3-return-ticket-example-4",
+    "id": "loi4wui4piu3-return-ticket-example-4",
+    "text": "攞住嚟回票，就可以快啲過閘。"
   },
   {
-    "filename": "keoi1-district",
-    "id": "keoi1-district",
-    "text": "區"
+    "filename": "lok6ce1-get-off",
+    "id": "lok6ce1-get-off",
+    "text": "落車"
   },
   {
-    "filename": "keoi1-district-example-1",
-    "id": "keoi1-district-example-1",
-    "text": "我住喺呢個區。"
+    "filename": "lok6ce1-get-off-example-1",
+    "id": "lok6ce1-get-off-example-1",
+    "text": "我要喺下一站落車。"
   },
   {
-    "filename": "keoi1-district-example-2",
-    "id": "keoi1-district-example-2",
-    "text": "你識唔識呢個區嘅餐廳？"
+    "filename": "lok6ce1-get-off-example-2",
+    "id": "lok6ce1-get-off-example-2",
+    "text": "佢喺中環落車去開會。"
   },
   {
-    "filename": "keoi1-district-example-3",
-    "id": "keoi1-district-example-3",
-    "text": "佢哋搬咗去另一個區。"
+    "filename": "lok6ce1-get-off-example-3",
+    "id": "lok6ce1-get-off-example-3",
+    "text": "我哋星期日會喺機場落車。"
   },
   {
-    "filename": "keoi1-district-example-4",
-    "id": "keoi1-district-example-4",
-    "text": "旺角區好多人。"
+    "filename": "lok6ce1-get-off-example-4",
+    "id": "lok6ce1-get-off-example-4",
+    "text": "車廂好多人，我哋要快啲落車。"
   },
   {
-    "filename": "laang5hei3-air-conditioner",
-    "id": "laang5hei3-air-conditioner",
-    "text": "冷氣"
+    "filename": "lou6-road",
+    "id": "lou6-road",
+    "text": "路"
   },
   {
-    "filename": "laang5hei3-air-conditioner-example-1",
-    "id": "laang5hei3-air-conditioner-example-1",
-    "text": "我屋企冇冷氣，好焗。"
+    "filename": "lou6-road-example-1",
+    "id": "lou6-road-example-1",
+    "text": "呢條路好窄，開車要小心。"
   },
   {
-    "filename": "laang5hei3-air-conditioner-example-2",
-    "id": "laang5hei3-air-conditioner-example-2",
-    "text": "夏天開冷氣最舒服。"
+    "filename": "lou6-road-example-2",
+    "id": "lou6-road-example-2",
+    "text": "我哋轉左條路，去超市。"
   },
   {
-    "filename": "laang5hei3-air-conditioner-example-3",
-    "id": "laang5hei3-air-conditioner-example-3",
-    "text": "呢部冷氣好新淨。"
+    "filename": "lou6-road-example-3",
+    "id": "lou6-road-example-3",
+    "text": "呢條路行到尾就係地鐵站。"
   },
   {
-    "filename": "laang5hei3-air-conditioner-example-4",
-    "id": "laang5hei3-air-conditioner-example-4",
-    "text": "屋企嘅冷氣壞咗，要修理。"
+    "filename": "lou6-road-example-4",
+    "id": "lou6-road-example-4",
+    "text": "香港有好多行人路，行得好安全。"
   },
   {
-    "filename": "laang5hei3m4dung3-aircon-not-cold",
-    "id": "laang5hei3m4dung3-aircon-not-cold",
-    "text": "冷氣唔凍"
+    "filename": "lou6sin3-route",
+    "id": "lou6sin3-route",
+    "text": "路線"
   },
   {
-    "filename": "laang5hei3m4dung3-aircon-not-cold-example-1",
-    "id": "laang5hei3m4dung3-aircon-not-cold-example-1",
-    "text": "我屋企啲冷氣唔凍，夏天好熱呀。"
+    "filename": "lou6sin3-route-example-1",
+    "id": "lou6sin3-route-example-1",
+    "text": "你知道呢條巴士路線幾時開出？"
   },
   {
-    "filename": "laang5hei3m4dung3-aircon-not-cold-example-2",
-    "id": "laang5hei3m4dung3-aircon-not-cold-example-2",
-    "text": "呢部冷氣唔凍，要唔要搵人黎睇？"
+    "filename": "lou6sin3-route-example-2",
+    "id": "lou6sin3-route-example-2",
+    "text": "我哋換咗條新嘅地鐵路線。"
   },
   {
-    "filename": "laang5hei3m4dung3-aircon-not-cold-example-3",
-    "id": "laang5hei3m4dung3-aircon-not-cold-example-3",
-    "text": "老人屋嘅冷氣唔凍，好多時冇人理。"
+    "filename": "lou6sin3-route-example-3",
+    "id": "lou6sin3-route-example-3",
+    "text": "旅遊時計劃好路線好緊要。"
   },
   {
-    "filename": "laang5hei3m4dung3-aircon-not-cold-example-4",
-    "id": "laang5hei3m4dung3-aircon-not-cold-example-4",
-    "text": "你知唔知點解冷氣唔凍？可能係雪種少咗。"
+    "filename": "lou6sin3-route-example-4",
+    "id": "lou6sin3-route-example-4",
+    "text": "呢個路線比較平靜，適合散步。"
   },
   {
-    "filename": "laang5hei3waai6zo2-aircon-broken",
-    "id": "laang5hei3waai6zo2-aircon-broken",
-    "text": "冷氣壞咗"
+    "filename": "m4goi1loeng5zoeng1-two-tickets-please",
+    "id": "m4goi1loeng5zoeng1-two-tickets-please",
+    "text": "唔該兩張"
   },
   {
-    "filename": "laang5hei3waai6zo2-aircon-broken-example-1",
-    "id": "laang5hei3waai6zo2-aircon-broken-example-1",
-    "text": "屋企嘅冷氣壞咗，好焗。"
+    "filename": "m4goi1loeng5zoeng1-two-tickets-please-example-1",
+    "id": "m4goi1loeng5zoeng1-two-tickets-please-example-1",
+    "text": "喂，唔該兩張車票。"
   },
   {
-    "filename": "laang5hei3waai6zo2-aircon-broken-example-2",
-    "id": "laang5hei3waai6zo2-aircon-broken-example-2",
-    "text": "夏天冷氣壞咗，真係唔舒服。"
+    "filename": "m4goi1loeng5zoeng1-two-tickets-please-example-2",
+    "id": "m4goi1loeng5zoeng1-two-tickets-please-example-2",
+    "text": "我哋想買唔該兩張戲票。"
   },
   {
-    "filename": "laang5hei3waai6zo2-aircon-broken-example-3",
-    "id": "laang5hei3waai6zo2-aircon-broken-example-3",
-    "text": "你知唔知點解冷氣壞咗？"
+    "filename": "m4goi1loeng5zoeng1-two-tickets-please-example-3",
+    "id": "m4goi1loeng5zoeng1-two-tickets-please-example-3",
+    "text": "入閘口，唔該兩張地鐵票。"
   },
   {
-    "filename": "laang5hei3waai6zo2-aircon-broken-example-4",
-    "id": "laang5hei3waai6zo2-aircon-broken-example-4",
-    "text": "要唔要叫人修理冷氣壞咗嘅機？"
+    "filename": "m4goi1loeng5zoeng1-two-tickets-please-example-4",
+    "id": "m4goi1loeng5zoeng1-two-tickets-please-example-4",
+    "text": "巴士站，我想買唔該兩張車票。"
   },
   {
-    "filename": "lau4-flat-apartment",
-    "id": "lau4-flat-apartment",
-    "text": "樓"
-  },
-  {
-    "filename": "lau4-flat-apartment-example-1",
-    "id": "lau4-flat-apartment-example-1",
-    "text": "我住喺五樓。"
-  },
-  {
-    "filename": "lau4-flat-apartment-example-2",
-    "id": "lau4-flat-apartment-example-2",
-    "text": "呢座樓好新淨。"
-  },
-  {
-    "filename": "lau4-flat-apartment-example-3",
-    "id": "lau4-flat-apartment-example-3",
-    "text": "你間樓幾多平方？"
-  },
-  {
-    "filename": "lau4-flat-apartment-example-4",
-    "id": "lau4-flat-apartment-example-4",
-    "text": "我想買一個樓。"
-  },
-  {
-    "filename": "lau4haa6-downstairs",
-    "id": "lau4haa6-downstairs",
-    "text": "樓下"
-  },
-  {
-    "filename": "lau4haa6-downstairs-example-1",
-    "id": "lau4haa6-downstairs-example-1",
-    "text": "我住喺樓下。"
-  },
-  {
-    "filename": "lau4haa6-downstairs-example-2",
-    "id": "lau4haa6-downstairs-example-2",
-    "text": "阿媽喺樓下等你。"
-  },
-  {
-    "filename": "lau4haa6-downstairs-example-3",
-    "id": "lau4haa6-downstairs-example-3",
-    "text": "樓下有間超市。"
-  },
-  {
-    "filename": "lau4haa6-downstairs-example-4",
-    "id": "lau4haa6-downstairs-example-4",
-    "text": "啲聲音由樓下傳上嚟。"
-  },
-  {
-    "filename": "lau4pun2-property-listing",
-    "id": "lau4pun2-property-listing",
-    "text": "樓盤"
-  },
-  {
-    "filename": "lau4pun2-property-listing-example-1",
-    "id": "lau4pun2-property-listing-example-1",
-    "text": "我喺網上搵緊啲樓盤。"
-  },
-  {
-    "filename": "lau4pun2-property-listing-example-2",
-    "id": "lau4pun2-property-listing-example-2",
-    "text": "呢間地產公司有好多樓盤。"
-  },
-  {
-    "filename": "lau4pun2-property-listing-example-3",
-    "id": "lau4pun2-property-listing-example-3",
-    "text": "聽日我想去睇啲新樓盤。"
-  },
-  {
-    "filename": "lau4pun2-property-listing-example-4",
-    "id": "lau4pun2-property-listing-example-4",
-    "text": "地產代理叫我留意最新樓盤。"
-  },
-  {
-    "filename": "lau4soeng6-upstairs",
-    "id": "lau4soeng6-upstairs",
-    "text": "樓上"
-  },
-  {
-    "filename": "lau4soeng6-upstairs-example-1",
-    "id": "lau4soeng6-upstairs-example-1",
-    "text": "我啲嘢喺樓上。"
-  },
-  {
-    "filename": "lau4soeng6-upstairs-example-2",
-    "id": "lau4soeng6-upstairs-example-2",
-    "text": "樓上有間洗手間。"
-  },
-  {
-    "filename": "lau4soeng6-upstairs-example-3",
-    "id": "lau4soeng6-upstairs-example-3",
-    "text": "你去樓上攞啲嘢返嚟。"
-  },
-  {
-    "filename": "lau4soeng6-upstairs-example-4",
-    "id": "lau4soeng6-upstairs-example-4",
-    "text": "樓上唔好咁嘈。"
-  },
-  {
-    "filename": "lau4tai1-stairs",
-    "id": "lau4tai1-stairs",
-    "text": "樓梯"
-  },
-  {
-    "filename": "lau4tai1-stairs-example-1",
-    "id": "lau4tai1-stairs-example-1",
-    "text": "我行樓梯上到三樓。"
-  },
-  {
-    "filename": "lau4tai1-stairs-example-2",
-    "id": "lau4tai1-stairs-example-2",
-    "text": "呢條樓梯好濕，要小心。"
-  },
-  {
-    "filename": "lau4tai1-stairs-example-3",
-    "id": "lau4tai1-stairs-example-3",
-    "text": "我哋唔坐電梯，自己行樓梯落樓下。"
-  },
-  {
-    "filename": "lau4tai1-stairs-example-4",
-    "id": "lau4tai1-stairs-example-4",
-    "text": "樓梯附近有張椅，可以坐低休息。"
-  },
-  {
-    "filename": "lau6seoi2-leak",
-    "id": "lau6seoi2-leak",
-    "text": "漏水"
-  },
-  {
-    "filename": "lau6seoi2-leak-example-1",
-    "id": "lau6seoi2-leak-example-1",
-    "text": "廁所啲天花漏水，好煩呀。"
-  },
-  {
-    "filename": "lau6seoi2-leak-example-2",
-    "id": "lau6seoi2-leak-example-2",
-    "text": "呢度有漏水，要搵師傅修理。"
-  },
-  {
-    "filename": "lau6seoi2-leak-example-3",
-    "id": "lau6seoi2-leak-example-3",
-    "text": "雨後屋企開始漏水咗。"
-  },
-  {
-    "filename": "lau6seoi2-leak-example-4",
-    "id": "lau6seoi2-leak-example-4",
-    "text": "漏水問題要快啲解決，唔好拖！"
-  },
-  {
-    "filename": "lin4paai4uk1-terraced-house",
-    "id": "lin4paai4uk1-terraced-house",
-    "text": "連排屋"
-  },
-  {
-    "filename": "lin4paai4uk1-terraced-house-example-1",
-    "id": "lin4paai4uk1-terraced-house-example-1",
-    "text": "我哋啱啱買咗一間連排屋。"
-  },
-  {
-    "filename": "lin4paai4uk1-terraced-house-example-2",
-    "id": "lin4paai4uk1-terraced-house-example-2",
-    "text": "連排屋嘅鄰居都幾近。"
-  },
-  {
-    "filename": "lin4paai4uk1-terraced-house-example-3",
-    "id": "lin4paai4uk1-terraced-house-example-3",
-    "text": "我哋社區有好多連排屋。"
-  },
-  {
-    "filename": "lin4paai4uk1-terraced-house-example-4",
-    "id": "lin4paai4uk1-terraced-house-example-4",
-    "text": "你想住連排屋定係單幢樓呀？"
-  },
-  {
-    "filename": "loeng5fong2-two-bedroom",
-    "id": "loeng5fong2-two-bedroom",
-    "text": "兩房"
-  },
-  {
-    "filename": "loeng5fong2-two-bedroom-example-1",
-    "id": "loeng5fong2-two-bedroom-example-1",
-    "text": "我想搵一個兩房嘅單位。"
-  },
-  {
-    "filename": "loeng5fong2-two-bedroom-example-2",
-    "id": "loeng5fong2-two-bedroom-example-2",
-    "text": "呢個兩房好實用，啱我哋一家三口。"
-  },
-  {
-    "filename": "loeng5fong2-two-bedroom-example-3",
-    "id": "loeng5fong2-two-bedroom-example-3",
-    "text": "兩房嘅租金通常比較貴。"
-  },
-  {
-    "filename": "loeng5fong2-two-bedroom-example-4",
-    "id": "loeng5fong2-two-bedroom-example-4",
-    "text": "如果要多啲儲物空間，可以選兩房以上。"
-  },
-  {
-    "filename": "lok6lau4-go-downstairs",
-    "id": "lok6lau4-go-downstairs",
-    "text": "落樓"
-  },
-  {
-    "filename": "lok6lau4-go-downstairs-example-1",
-    "id": "lok6lau4-go-downstairs-example-1",
-    "text": "我而家落樓買嘢。"
-  },
-  {
-    "filename": "lok6lau4-go-downstairs-example-2",
-    "id": "lok6lau4-go-downstairs-example-2",
-    "text": "你幾點落樓開門？"
-  },
-  {
-    "filename": "lok6lau4-go-downstairs-example-3",
-    "id": "lok6lau4-go-downstairs-example-3",
-    "text": "落樓見朋友啦！"
-  },
-  {
-    "filename": "lok6lau4-go-downstairs-example-4",
-    "id": "lok6lau4-go-downstairs-example-4",
-    "text": "阿媽叫我落樓食飯。"
-  },
-  {
-    "filename": "maa5lou6-road",
-    "id": "maa5lou6-road",
+    "filename": "maa5lou6-street-road",
+    "id": "maa5lou6-street-road",
     "text": "馬路"
   },
   {
-    "filename": "maa5lou6-road-example-1",
-    "id": "maa5lou6-road-example-1",
-    "text": "我哋喺馬路對面見啦。"
+    "filename": "maa5lou6-street-road-example-1",
+    "id": "maa5lou6-street-road-example-1",
+    "text": "我行喺條馬路度。"
   },
   {
-    "filename": "maa5lou6-road-example-2",
-    "id": "maa5lou6-road-example-2",
-    "text": "呢條馬路好寬闊。"
+    "filename": "maa5lou6-street-road-example-2",
+    "id": "maa5lou6-street-road-example-2",
+    "text": "呢條馬路好窄。"
   },
   {
-    "filename": "maa5lou6-road-example-3",
-    "id": "maa5lou6-road-example-3",
-    "text": "小心過馬路。"
+    "filename": "maa5lou6-street-road-example-3",
+    "id": "maa5lou6-street-road-example-3",
+    "text": "小心睇住馬路嘅車。"
   },
   {
-    "filename": "maa5lou6-road-example-4",
-    "id": "maa5lou6-road-example-4",
-    "text": "馬路上有好多車。"
+    "filename": "maa5lou6-street-road-example-4",
+    "id": "maa5lou6-street-road-example-4",
+    "text": "我哋喺馬路邊食嘢啦。"
   },
   {
-    "filename": "maai5pun2-sale-listing",
-    "id": "maai5pun2-sale-listing",
-    "text": "買盤"
+    "filename": "maa5tau4-pier",
+    "id": "maa5tau4-pier",
+    "text": "碼頭"
   },
   {
-    "filename": "maai5pun2-sale-listing-example-1",
-    "id": "maai5pun2-sale-listing-example-1",
-    "text": "我睇咗幾個買盤，呢個最好。"
+    "filename": "maa5tau4-pier-example-1",
+    "id": "maa5tau4-pier-example-1",
+    "text": "我喺碼頭等你。"
   },
   {
-    "filename": "maai5pun2-sale-listing-example-2",
-    "id": "maai5pun2-sale-listing-example-2",
-    "text": "地產中介喺網上放咗好多買盤。"
+    "filename": "maa5tau4-pier-example-2",
+    "id": "maa5tau4-pier-example-2",
+    "text": "渡輪喺碼頭到咗。"
   },
   {
-    "filename": "maai5pun2-sale-listing-example-3",
-    "id": "maai5pun2-sale-listing-example-3",
-    "text": "想搵平啲嘅買盤，可能要出去啲遠啲嘅地區。"
+    "filename": "maa5tau4-pier-example-3",
+    "id": "maa5tau4-pier-example-3",
+    "text": "嗰個碼頭好多人。"
   },
   {
-    "filename": "maai5pun2-sale-listing-example-4",
-    "id": "maai5pun2-sale-listing-example-4",
-    "text": "啲買盤資料好詳盡，等我哋好快決定。"
+    "filename": "maa5tau4-pier-example-4",
+    "id": "maa5tau4-pier-example-4",
+    "text": "我哋坐船喺碼頭上船。"
   },
   {
-    "filename": "mong5lok6-internet",
-    "id": "mong5lok6-internet",
-    "text": "網絡"
+    "filename": "mai4lou6-lost",
+    "id": "mai4lou6-lost",
+    "text": "迷路"
   },
   {
-    "filename": "mong5lok6-internet-example-1",
-    "id": "mong5lok6-internet-example-1",
-    "text": "我屋企冇網絡，唔可以上網。"
+    "filename": "mai4lou6-lost-example-1",
+    "id": "mai4lou6-lost-example-1",
+    "text": "我喺街度迷路咗。"
   },
   {
-    "filename": "mong5lok6-internet-example-2",
-    "id": "mong5lok6-internet-example-2",
-    "text": "你用邊間網絡供應商？"
+    "filename": "mai4lou6-lost-example-2",
+    "id": "mai4lou6-lost-example-2",
+    "text": "你唔好迷路啊，我帶路。"
   },
   {
-    "filename": "mong5lok6-internet-example-3",
-    "id": "mong5lok6-internet-example-3",
-    "text": "呢個網絡速度好快。"
+    "filename": "mai4lou6-lost-example-3",
+    "id": "mai4lou6-lost-example-3",
+    "text": "佢話佢迷路左。"
   },
   {
-    "filename": "mong5lok6-internet-example-4",
-    "id": "mong5lok6-internet-example-4",
-    "text": "我想買新嘅網絡服務。"
+    "filename": "mai4lou6-lost-example-4",
+    "id": "mai4lou6-lost-example-4",
+    "text": "呢度好易迷路。"
   },
   {
-    "filename": "mong5lok6fai3-internet-bill",
-    "id": "mong5lok6fai3-internet-bill",
-    "text": "網絡費"
+    "filename": "man6lou6-ask-directions",
+    "id": "man6lou6-ask-directions",
+    "text": "問路"
   },
   {
-    "filename": "mong5lok6fai3-internet-bill-example-1",
-    "id": "mong5lok6fai3-internet-bill-example-1",
-    "text": "我今個月嘅網絡費已經交咗。"
+    "filename": "man6lou6-ask-directions-example-1",
+    "id": "man6lou6-ask-directions-example-1",
+    "text": "我唔識路，所以要問路。"
   },
   {
-    "filename": "mong5lok6fai3-internet-bill-example-2",
-    "id": "mong5lok6fai3-internet-bill-example-2",
-    "text": "網絡費太貴，可能要換間供應商。"
+    "filename": "man6lou6-ask-directions-example-2",
+    "id": "man6lou6-ask-directions-example-2",
+    "text": "去街市之前可以問路嗎？"
   },
   {
-    "filename": "mong5lok6fai3-internet-bill-example-3",
-    "id": "mong5lok6fai3-internet-bill-example-3",
-    "text": "你知唔知道我哋屋企嘅網絡費幾多錢？"
+    "filename": "man6lou6-ask-directions-example-3",
+    "id": "man6lou6-ask-directions-example-3",
+    "text": "問路嗰位阿姐幾好人。"
   },
   {
-    "filename": "mong5lok6fai3-internet-bill-example-4",
-    "id": "mong5lok6fai3-internet-bill-example-4",
-    "text": "佢喺網上查咗個月嘅網絡費賬單。"
+    "filename": "man6lou6-ask-directions-example-4",
+    "id": "man6lou6-ask-directions-example-4",
+    "text": "我唔知點去返學校，唯有問路。"
   },
   {
-    "filename": "mou5din6-no-electricity",
-    "id": "mou5din6-no-electricity",
-    "text": "冇電"
+    "filename": "on1cyun4daai2-seat-belt",
+    "id": "on1cyun4daai2-seat-belt",
+    "text": "安全帶"
   },
   {
-    "filename": "mou5din6-no-electricity-example-1",
-    "id": "mou5din6-no-electricity-example-1",
-    "text": "今日屋企冇電，我哋攞蠟燭出嚟。"
+    "filename": "on1cyun4daai2-seat-belt-example-1",
+    "id": "on1cyun4daai2-seat-belt-example-1",
+    "text": "搭車前記得繫安全帶。"
   },
   {
-    "filename": "mou5din6-no-electricity-example-2",
-    "id": "mou5din6-no-electricity-example-2",
-    "text": "條街成日冇電，好唔方便。"
+    "filename": "on1cyun4daai2-seat-belt-example-2",
+    "id": "on1cyun4daai2-seat-belt-example-2",
+    "text": "安全帶唔好唔戴，唔安全。"
   },
   {
-    "filename": "mou5din6-no-electricity-example-3",
-    "id": "mou5din6-no-electricity-example-3",
-    "text": "你知唔知道點解冇電？"
+    "filename": "on1cyun4daai2-seat-belt-example-3",
+    "id": "on1cyun4daai2-seat-belt-example-3",
+    "text": "飛機上安全帶要繫好。"
   },
   {
-    "filename": "mou5din6-no-electricity-example-4",
-    "id": "mou5din6-no-electricity-example-4",
-    "text": "冇電嘅時候，手機都用唔到。"
+    "filename": "on1cyun4daai2-seat-belt-example-4",
+    "id": "on1cyun4daai2-seat-belt-example-4",
+    "text": "警察巡查時會檢查安全帶有冇繫。"
   },
   {
-    "filename": "mou5jit6seoi2-no-hot-water",
-    "id": "mou5jit6seoi2-no-hot-water",
-    "text": "冇熱水"
+    "filename": "piu3-ticket",
+    "id": "piu3-ticket",
+    "text": "票"
   },
   {
-    "filename": "mou5jit6seoi2-no-hot-water-example-1",
-    "id": "mou5jit6seoi2-no-hot-water-example-1",
-    "text": "我屋企今日冇熱水，沖唔到涼。"
+    "filename": "piu3-ticket-example-1",
+    "id": "piu3-ticket-example-1",
+    "text": "我想買火車票。"
   },
   {
-    "filename": "mou5jit6seoi2-no-hot-water-example-2",
-    "id": "mou5jit6seoi2-no-hot-water-example-2",
-    "text": "租嘅樓冇熱水，用水好凍。"
+    "filename": "piu3-ticket-example-2",
+    "id": "piu3-ticket-example-2",
+    "text": "嗰張票幾錢？"
   },
   {
-    "filename": "mou5jit6seoi2-no-hot-water-example-3",
-    "id": "mou5jit6seoi2-no-hot-water-example-3",
-    "text": "呢個旅館冇熱水，住得唔舒服。"
+    "filename": "piu3-ticket-example-3",
+    "id": "piu3-ticket-example-3",
+    "text": "巴士票喺咩地方買？"
   },
   {
-    "filename": "mou5jit6seoi2-no-hot-water-example-4",
-    "id": "mou5jit6seoi2-no-hot-water-example-4",
-    "text": "屋企突然冇熱水，可能係水爐壞咗。"
+    "filename": "piu3-ticket-example-4",
+    "id": "piu3-ticket-example-4",
+    "text": "我忘記帶票入場。"
   },
   {
-    "filename": "mou5mong5lok6-no-internet",
-    "id": "mou5mong5lok6-no-internet",
-    "text": "冇網絡"
+    "filename": "sak1ce1-traffic-jam",
+    "id": "sak1ce1-traffic-jam",
+    "text": "塞車"
   },
   {
-    "filename": "mou5mong5lok6-no-internet-example-1",
-    "id": "mou5mong5lok6-no-internet-example-1",
-    "text": "今日成日都冇網絡，好煩啊。"
+    "filename": "sak1ce1-traffic-jam-example-1",
+    "id": "sak1ce1-traffic-jam-example-1",
+    "text": "今日返工好忙，塞車塞咗半個鐘。"
   },
   {
-    "filename": "mou5mong5lok6-no-internet-example-2",
-    "id": "mou5mong5lok6-no-internet-example-2",
-    "text": "屋企冇網絡，我哋睇唔到YouTube。"
+    "filename": "sak1ce1-traffic-jam-example-2",
+    "id": "sak1ce1-traffic-jam-example-2",
+    "text": "我哋遲咗因為塞車。"
   },
   {
-    "filename": "mou5mong5lok6-no-internet-example-3",
-    "id": "mou5mong5lok6-no-internet-example-3",
-    "text": "啱啱搬新屋，依家仲冇網絡裝。"
+    "filename": "sak1ce1-traffic-jam-example-3",
+    "id": "sak1ce1-traffic-jam-example-3",
+    "text": "早上塞車成日都有，好煩。"
   },
   {
-    "filename": "mou5mong5lok6-no-internet-example-4",
-    "id": "mou5mong5lok6-no-internet-example-4",
-    "text": "冇網絡嘅時候，唔可以用WhatsApp。"
+    "filename": "sak1ce1-traffic-jam-example-4",
+    "id": "sak1ce1-traffic-jam-example-4",
+    "text": "老師教我哋避開塞車路線。"
   },
   {
-    "filename": "mou5seoi2-no-water",
-    "id": "mou5seoi2-no-water",
-    "text": "冇水"
+    "filename": "sau6piu3cyu3-ticket-office",
+    "id": "sau6piu3cyu3-ticket-office",
+    "text": "售票處"
   },
   {
-    "filename": "mou5seoi2-no-water-example-1",
-    "id": "mou5seoi2-no-water-example-1",
-    "text": "我今日屋企冇水，洗唔到碗。"
+    "filename": "sau6piu3cyu3-ticket-office-example-1",
+    "id": "sau6piu3cyu3-ticket-office-example-1",
+    "text": "我喺售票處買咗飛。"
   },
   {
-    "filename": "mou5seoi2-no-water-example-2",
-    "id": "mou5seoi2-no-water-example-2",
-    "text": "地下室突然冇水，真係唔方便。"
+    "filename": "sau6piu3cyu3-ticket-office-example-2",
+    "id": "sau6piu3cyu3-ticket-office-example-2",
+    "text": "售票處幾點關門？"
   },
   {
-    "filename": "mou5seoi2-no-water-example-3",
-    "id": "mou5seoi2-no-water-example-3",
-    "text": "冇水嘅時候，記得早啲儲水。"
+    "filename": "sau6piu3cyu3-ticket-office-example-3",
+    "id": "sau6piu3cyu3-ticket-office-example-3",
+    "text": "呢度嘅售票處好多人。"
   },
   {
-    "filename": "mou5seoi2-no-water-example-4",
-    "id": "mou5seoi2-no-water-example-4",
-    "text": "樓上依家冇水，要等水務公司嚟修。"
+    "filename": "sau6piu3cyu3-ticket-office-example-4",
+    "id": "sau6piu3cyu3-ticket-office-example-4",
+    "text": "去火車售票處排隊啦！"
   },
   {
-    "filename": "mui4hei3-gas",
-    "id": "mui4hei3-gas",
-    "text": "煤氣"
+    "filename": "sau6piu3gei1-ticket-machine",
+    "id": "sau6piu3gei1-ticket-machine",
+    "text": "售票機"
   },
   {
-    "filename": "mui4hei3-gas-example-1",
-    "id": "mui4hei3-gas-example-1",
-    "text": "我哋屋企嘅煤氣喺星期一嚟咗。"
+    "filename": "sau6piu3gei1-ticket-machine-example-1",
+    "id": "sau6piu3gei1-ticket-machine-example-1",
+    "text": "我喺車站搵唔到售票機。"
   },
   {
-    "filename": "mui4hei3-gas-example-2",
-    "id": "mui4hei3-gas-example-2",
-    "text": "呢個爐用煤氣定電嚟？"
+    "filename": "sau6piu3gei1-ticket-machine-example-2",
+    "id": "sau6piu3gei1-ticket-machine-example-2",
+    "text": "售票機壞咗，要搵人幫手。"
   },
   {
-    "filename": "mui4hei3-gas-example-3",
-    "id": "mui4hei3-gas-example-3",
-    "text": "煤氣費今個月貴咗好多。"
+    "filename": "sau6piu3gei1-ticket-machine-example-3",
+    "id": "sau6piu3gei1-ticket-machine-example-3",
+    "text": "你可以用售票機買飛。"
   },
   {
-    "filename": "mui4hei3-gas-example-4",
-    "id": "mui4hei3-gas-example-4",
-    "text": "你記唔記得關返煤氣掣？"
+    "filename": "sau6piu3gei1-ticket-machine-example-4",
+    "id": "sau6piu3gei1-ticket-machine-example-4",
+    "text": "售票機後面排咗好多人。"
   },
   {
-    "filename": "mui4hei3fai3-gas-bill",
-    "id": "mui4hei3fai3-gas-bill",
-    "text": "煤氣費"
+    "filename": "si1gaa1ce1-car",
+    "id": "si1gaa1ce1-car",
+    "text": "私家車"
   },
   {
-    "filename": "mui4hei3fai3-gas-bill-example-1",
-    "id": "mui4hei3fai3-gas-bill-example-1",
-    "text": "我今個月嘅煤氣費好貴。"
+    "filename": "si1gaa1ce1-car-example-1",
+    "id": "si1gaa1ce1-car-example-1",
+    "text": "我架私家車今日停咗喺公司。"
   },
   {
-    "filename": "mui4hei3fai3-gas-bill-example-2",
-    "id": "mui4hei3fai3-gas-bill-example-2",
-    "text": "你記唔記得繳煤氣費？"
+    "filename": "si1gaa1ce1-car-example-2",
+    "id": "si1gaa1ce1-car-example-2",
+    "text": "你有冇諗住買新嘅私家車？"
   },
   {
-    "filename": "mui4hei3fai3-gas-bill-example-3",
-    "id": "mui4hei3fai3-gas-bill-example-3",
-    "text": "煤氣費要每個月交一次。"
+    "filename": "si1gaa1ce1-car-example-3",
+    "id": "si1gaa1ce1-car-example-3",
+    "text": "我哋坐私家車去旅行啦。"
   },
   {
-    "filename": "mui4hei3fai3-gas-bill-example-4",
-    "id": "mui4hei3fai3-gas-bill-example-4",
-    "text": "我想查下今年嘅煤氣費有冇加價。"
+    "filename": "si1gaa1ce1-car-example-4",
+    "id": "si1gaa1ce1-car-example-4",
+    "text": "私家車喺香港好貴。"
   },
   {
-    "filename": "mun4-door",
-    "id": "mun4-door",
-    "text": "門"
+    "filename": "siu2baa1-minibus",
+    "id": "siu2baa1-minibus",
+    "text": "小巴"
   },
   {
-    "filename": "mun4-door-example-1",
-    "id": "mun4-door-example-1",
-    "text": "你記得鎖門未？"
+    "filename": "siu2baa1-minibus-example-1",
+    "id": "siu2baa1-minibus-example-1",
+    "text": "我今朝坐小巴返工。"
   },
   {
-    "filename": "mun4-door-example-2",
-    "id": "mun4-door-example-2",
-    "text": "我哋公司嘅大門好新淨。"
+    "filename": "siu2baa1-minibus-example-2",
+    "id": "siu2baa1-minibus-example-2",
+    "text": "呢架小巴幾時出發？"
   },
   {
-    "filename": "mun4-door-example-3",
-    "id": "mun4-door-example-3",
-    "text": "門口有一張椅。"
+    "filename": "siu2baa1-minibus-example-3",
+    "id": "siu2baa1-minibus-example-3",
+    "text": "你識唔識搭小巴？"
   },
   {
-    "filename": "mun4-door-example-4",
-    "id": "mun4-door-example-4",
-    "text": "呢座屋嘅門壞咗，要修理。"
+    "filename": "siu2baa1-minibus-example-4",
+    "id": "siu2baa1-minibus-example-4",
+    "text": "小巴速度好快，好啱落雨嘅時候。"
   },
   {
-    "filename": "on3gam1-deposit",
-    "id": "on3gam1-deposit",
-    "text": "按金"
+    "filename": "soeng5ce1-board",
+    "id": "soeng5ce1-board",
+    "text": "上車"
   },
   {
-    "filename": "on3gam1-deposit-example-1",
-    "id": "on3gam1-deposit-example-1",
-    "text": "我哋交咗兩個月按金先可以簽租約。"
+    "filename": "soeng5ce1-board-example-1",
+    "id": "soeng5ce1-board-example-1",
+    "text": "我哋喺地鐵站上車啦。"
   },
   {
-    "filename": "on3gam1-deposit-example-2",
-    "id": "on3gam1-deposit-example-2",
-    "text": "如果冇搞壞嘢，按金可以退返。"
+    "filename": "soeng5ce1-board-example-2",
+    "id": "soeng5ce1-board-example-2",
+    "text": "你幾點上車？"
   },
   {
-    "filename": "on3gam1-deposit-example-3",
-    "id": "on3gam1-deposit-example-3",
-    "text": "佢哋話按金要先俾，先住得入去。"
+    "filename": "soeng5ce1-board-example-3",
+    "id": "soeng5ce1-board-example-3",
+    "text": "上車之前要買飛。"
   },
   {
-    "filename": "on3gam1-deposit-example-4",
-    "id": "on3gam1-deposit-example-4",
-    "text": "租房前記得睇清楚按金條款。"
+    "filename": "soeng5ce1-board-example-4",
+    "id": "soeng5ce1-board-example-4",
+    "text": "佢喺巴士站上車。"
   },
   {
-    "filename": "ping4fong1cek3-square-feet",
-    "id": "ping4fong1cek3-square-feet",
-    "text": "平方呎"
+    "filename": "ting4ce1-park",
+    "id": "ting4ce1-park",
+    "text": "停車"
   },
   {
-    "filename": "ping4fong1cek3-square-feet-example-1",
-    "id": "ping4fong1cek3-square-feet-example-1",
-    "text": "呢個單位有五百平方呎。"
+    "filename": "ting4ce1-park-example-1",
+    "id": "ting4ce1-park-example-1",
+    "text": "我哋喺街市附近停車。"
   },
   {
-    "filename": "ping4fong1cek3-square-feet-example-2",
-    "id": "ping4fong1cek3-square-feet-example-2",
-    "text": "你嘅新屋係幾多平方呎？"
+    "filename": "ting4ce1-park-example-2",
+    "id": "ting4ce1-park-example-2",
+    "text": "呢度唔好停車，會罰錢。"
   },
   {
-    "filename": "ping4fong1cek3-square-feet-example-3",
-    "id": "ping4fong1cek3-square-feet-example-3",
-    "text": "比較唔同樓盤嘅平方呎價錢。"
+    "filename": "ting4ce1-park-example-3",
+    "id": "ting4ce1-park-example-3",
+    "text": "呢個停車場好大，有好多車位。"
   },
   {
-    "filename": "ping4fong1cek3-square-feet-example-4",
-    "id": "ping4fong1cek3-square-feet-example-4",
-    "text": "呢間房嘅平方呎唔多，唔夠大。"
+    "filename": "ting4ce1-park-example-4",
+    "id": "ting4ce1-park-example-4",
+    "text": "我停車停咗半個鐘頭喇。"
   },
   {
-    "filename": "ping4min6tou4-floor-plan",
-    "id": "ping4min6tou4-floor-plan",
-    "text": "平面圖"
+    "filename": "wu6ziu3-passport",
+    "id": "wu6ziu3-passport",
+    "text": "護照"
   },
   {
-    "filename": "ping4min6tou4-floor-plan-example-1",
-    "id": "ping4min6tou4-floor-plan-example-1",
-    "text": "呢幢樓有冇平面圖睇？"
+    "filename": "wu6ziu3-passport-example-1",
+    "id": "wu6ziu3-passport-example-1",
+    "text": "我唔記得帶護照去機場。"
   },
   {
-    "filename": "ping4min6tou4-floor-plan-example-2",
-    "id": "ping4min6tou4-floor-plan-example-2",
-    "text": "經紀提供咗詳細嘅平面圖俾我。"
+    "filename": "wu6ziu3-passport-example-2",
+    "id": "wu6ziu3-passport-example-2",
+    "text": "你申請新護照未？"
   },
   {
-    "filename": "ping4min6tou4-floor-plan-example-3",
-    "id": "ping4min6tou4-floor-plan-example-3",
-    "text": "我想睇吓呢個單位嘅平面圖。"
+    "filename": "wu6ziu3-passport-example-3",
+    "id": "wu6ziu3-passport-example-3",
+    "text": "入境嗰陣要檢查護照。"
   },
   {
-    "filename": "ping4min6tou4-floor-plan-example-4",
-    "id": "ping4min6tou4-floor-plan-example-4",
-    "text": "平面圖可以幫助你了解屋企嘅布局。"
+    "filename": "wu6ziu3-passport-example-4",
+    "id": "wu6ziu3-passport-example-4",
+    "text": "護照上面有我嘅相片。"
   },
   {
-    "filename": "saan1ging2-mountain-view",
-    "id": "saan1ging2-mountain-view",
-    "text": "山景"
+    "filename": "zaam6-station",
+    "id": "zaam6-station",
+    "text": "站"
   },
   {
-    "filename": "saan1ging2-mountain-view-example-1",
-    "id": "saan1ging2-mountain-view-example-1",
-    "text": "呢間屋有好靚嘅山景。"
+    "filename": "zaam6-station-example-1",
+    "id": "zaam6-station-example-1",
+    "text": "我喺地鐵站等你。"
   },
   {
-    "filename": "saan1ging2-mountain-view-example-2",
-    "id": "saan1ging2-mountain-view-example-2",
-    "text": "我想租一個有山景嘅單位。"
+    "filename": "zaam6-station-example-2",
+    "id": "zaam6-station-example-2",
+    "text": "下一站係旺角。"
   },
   {
-    "filename": "saan1ging2-mountain-view-example-3",
-    "id": "saan1ging2-mountain-view-example-3",
-    "text": "山景可以令間屋更吸引。"
+    "filename": "zaam6-station-example-3",
+    "id": "zaam6-station-example-3",
+    "text": "你知唔知巴士站喺邊？"
   },
   {
-    "filename": "saan1ging2-mountain-view-example-4",
-    "id": "saan1ging2-mountain-view-example-4",
-    "text": "你鍾唔鍾意有山景嘅房間？"
+    "filename": "zaam6-station-example-4",
+    "id": "zaam6-station-example-4",
+    "text": "我哋喺碼頭站上船。"
   },
   {
-    "filename": "sai2ji1gei1-washing-machine",
-    "id": "sai2ji1gei1-washing-machine",
-    "text": "洗衣機"
+    "filename": "zang1zik6-top-up",
+    "id": "zang1zik6-top-up",
+    "text": "增值"
   },
   {
-    "filename": "sai2ji1gei1-washing-machine-example-1",
-    "id": "sai2ji1gei1-washing-machine-example-1",
-    "text": "我屋企有部新嘅洗衣機。"
+    "filename": "zang1zik6-top-up-example-1",
+    "id": "zang1zik6-top-up-example-1",
+    "text": "我想去便利店增值我的八達通。"
   },
   {
-    "filename": "sai2ji1gei1-washing-machine-example-2",
-    "id": "sai2ji1gei1-washing-machine-example-2",
-    "text": "洗衣機壞咗，唔洗衫啦。"
+    "filename": "zang1zik6-top-up-example-2",
+    "id": "zang1zik6-top-up-example-2",
+    "text": "你已經完成增值未呀？"
   },
   {
-    "filename": "sai2ji1gei1-washing-machine-example-3",
-    "id": "sai2ji1gei1-washing-machine-example-3",
-    "text": "你識唔識點用洗衣機？"
+    "filename": "zang1zik6-top-up-example-3",
+    "id": "zang1zik6-top-up-example-3",
+    "text": "增值可以用現金或者信用卡支付。"
   },
   {
-    "filename": "sai2ji1gei1-washing-machine-example-4",
-    "id": "sai2ji1gei1-washing-machine-example-4",
-    "text": "呢部洗衣機好慳水。"
+    "filename": "zang1zik6-top-up-example-4",
+    "id": "zang1zik6-top-up-example-4",
+    "text": "手機錢包可以隨時增值。"
   },
   {
-    "filename": "san1zong1sau1-renovated",
-    "id": "san1zong1sau1-renovated",
-    "text": "新裝修"
+    "filename": "zau2dim3-hotel",
+    "id": "zau2dim3-hotel",
+    "text": "酒店"
   },
   {
-    "filename": "san1zong1sau1-renovated-example-1",
-    "id": "san1zong1sau1-renovated-example-1",
-    "text": "我啱啱買咗間新裝修嘅單位。"
+    "filename": "zau2dim3-hotel-example-1",
+    "id": "zau2dim3-hotel-example-1",
+    "text": "我今晚住喺個酒店。"
   },
   {
-    "filename": "san1zong1sau1-renovated-example-2",
-    "id": "san1zong1sau1-renovated-example-2",
-    "text": "呢間屋好新裝修，好靚。"
+    "filename": "zau2dim3-hotel-example-2",
+    "id": "zau2dim3-hotel-example-2",
+    "text": "你訂咗酒店未？"
   },
   {
-    "filename": "san1zong1sau1-renovated-example-3",
-    "id": "san1zong1sau1-renovated-example-3",
-    "text": "新裝修嘅浴室感覺好乾淨。"
+    "filename": "zau2dim3-hotel-example-3",
+    "id": "zau2dim3-hotel-example-3",
+    "text": "呢間酒店好貴。"
   },
   {
-    "filename": "san1zong1sau1-renovated-example-4",
-    "id": "san1zong1sau1-renovated-example-4",
-    "text": "我想搵個新裝修嘅地方住。"
+    "filename": "zau2dim3-hotel-example-4",
+    "id": "zau2dim3-hotel-example-4",
+    "text": "酒店門口有的士站。"
   },
   {
-    "filename": "sau1faat3sat1-mail-room",
-    "id": "sau1faat3sat1-mail-room",
-    "text": "收發室"
+    "filename": "zeoi6dou6-tunnel",
+    "id": "zeoi6dou6-tunnel",
+    "text": "隧道"
   },
   {
-    "filename": "sau1faat3sat1-mail-room-example-1",
-    "id": "sau1faat3sat1-mail-room-example-1",
-    "text": "我每日早晨都會去收發室攞信。"
+    "filename": "zeoi6dou6-tunnel-example-1",
+    "id": "zeoi6dou6-tunnel-example-1",
+    "text": "我哋要經過隧道先到。"
   },
   {
-    "filename": "sau1faat3sat1-mail-room-example-2",
-    "id": "sau1faat3sat1-mail-room-example-2",
-    "text": "呢座樓嘅收發室喺大堂隔籬。"
+    "filename": "zeoi6dou6-tunnel-example-2",
+    "id": "zeoi6dou6-tunnel-example-2",
+    "text": "呢條隧道好長。"
   },
   {
-    "filename": "sau1faat3sat1-mail-room-example-3",
-    "id": "sau1faat3sat1-mail-room-example-3",
-    "text": "如果有包裹，收發室會通知你。"
+    "filename": "zeoi6dou6-tunnel-example-3",
+    "id": "zeoi6dou6-tunnel-example-3",
+    "text": "隧道入面摸唔到光。"
   },
   {
-    "filename": "sau1faat3sat1-mail-room-example-4",
-    "id": "sau1faat3sat1-mail-room-example-4",
-    "text": "收發室嘅職員好幫到手。"
+    "filename": "zeoi6dou6-tunnel-example-4",
+    "id": "zeoi6dou6-tunnel-example-4",
+    "text": "政府計劃建多條隧道。"
   },
   {
-    "filename": "sau1sap6-clean-up",
-    "id": "sau1sap6-clean-up",
-    "text": "收拾"
+    "filename": "zung2zaam6-terminus",
+    "id": "zung2zaam6-terminus",
+    "text": "總站"
   },
   {
-    "filename": "sau1sap6-clean-up-example-1",
-    "id": "sau1sap6-clean-up-example-1",
-    "text": "我而家要收拾間房。"
+    "filename": "zung2zaam6-terminus-example-1",
+    "id": "zung2zaam6-terminus-example-1",
+    "text": "呢部巴士嘅總站係旺角。"
   },
   {
-    "filename": "sau1sap6-clean-up-example-2",
-    "id": "sau1sap6-clean-up-example-2",
-    "text": "你幫我收拾啲嘢啦。"
+    "filename": "zung2zaam6-terminus-example-2",
+    "id": "zung2zaam6-terminus-example-2",
+    "text": "我哋喺總站落車先。"
   },
   {
-    "filename": "sau1sap6-clean-up-example-3",
-    "id": "sau1sap6-clean-up-example-3",
-    "text": "我哋收拾完就出門。"
+    "filename": "zung2zaam6-terminus-example-3",
+    "id": "zung2zaam6-terminus-example-3",
+    "text": "呢條地鐵線嘅總站喺尖沙咀。"
   },
   {
-    "filename": "sau1sap6-clean-up-example-4",
-    "id": "sau1sap6-clean-up-example-4",
-    "text": "媽咪叫我收拾書包。"
+    "filename": "zung2zaam6-terminus-example-4",
+    "id": "zung2zaam6-terminus-example-4",
+    "text": "呢架巴士會唔會去總站？"
   },
   {
-    "filename": "seoi2din6fai3-utilities",
-    "id": "seoi2din6fai3-utilities",
-    "text": "水電費"
+    "filename": "zyu6suk1-accommodation",
+    "id": "zyu6suk1-accommodation",
+    "text": "住宿"
   },
   {
-    "filename": "seoi2din6fai3-utilities-example-1",
-    "id": "seoi2din6fai3-utilities-example-1",
-    "text": "我每個月都要交水電費。"
+    "filename": "zyu6suk1-accommodation-example-1",
+    "id": "zyu6suk1-accommodation-example-1",
+    "text": "我哋已經安排好住宿。"
   },
   {
-    "filename": "seoi2din6fai3-utilities-example-2",
-    "id": "seoi2din6fai3-utilities-example-2",
-    "text": "呢個月嘅水電費比上個月貴咗。"
+    "filename": "zyu6suk1-accommodation-example-2",
+    "id": "zyu6suk1-accommodation-example-2",
+    "text": "你想喺邊度住宿？"
   },
   {
-    "filename": "seoi2din6fai3-utilities-example-3",
-    "id": "seoi2din6fai3-utilities-example-3",
-    "text": "你記唔記得交水電費未？"
+    "filename": "zyu6suk1-accommodation-example-3",
+    "id": "zyu6suk1-accommodation-example-3",
+    "text": "呢間酒店嘅住宿好舒服。"
   },
   {
-    "filename": "seoi2din6fai3-utilities-example-4",
-    "id": "seoi2din6fai3-utilities-example-4",
-    "text": "我哋屋企嘅水電費唔算太高。"
+    "filename": "zyu6suk1-accommodation-example-4",
+    "id": "zyu6suk1-accommodation-example-4",
+    "text": "旅遊團包咗住宿同埋交通。"
   },
   {
-    "filename": "seoi2fai3-water-bill",
-    "id": "seoi2fai3-water-bill",
-    "text": "水費"
+    "filename": "zyun2ce1-transfer",
+    "id": "zyun2ce1-transfer",
+    "text": "轉車"
   },
   {
-    "filename": "seoi2fai3-water-bill-example-1",
-    "id": "seoi2fai3-water-bill-example-1",
-    "text": "我今個月嘅水費好貴。"
+    "filename": "zyun2ce1-transfer-example-1",
+    "id": "zyun2ce1-transfer-example-1",
+    "text": "我坐地鐵去嗰度要唔要轉車？"
   },
   {
-    "filename": "seoi2fai3-water-bill-example-2",
-    "id": "seoi2fai3-water-bill-example-2",
-    "text": "你記唔記得交水費？"
+    "filename": "zyun2ce1-transfer-example-2",
+    "id": "zyun2ce1-transfer-example-2",
+    "text": "搭巴士要一個轉車。"
   },
   {
-    "filename": "seoi2fai3-water-bill-example-3",
-    "id": "seoi2fai3-water-bill-example-3",
-    "text": "屋企嘅水費幾時出？"
+    "filename": "zyun2ce1-transfer-example-3",
+    "id": "zyun2ce1-transfer-example-3",
+    "text": "轉車時記得攞定張票。"
   },
   {
-    "filename": "seoi2fai3-water-bill-example-4",
-    "id": "seoi2fai3-water-bill-example-4",
-    "text": "水費每個月都要準時交。"
-  },
-  {
-    "filename": "seoi2hau4-water-tap",
-    "id": "seoi2hau4-water-tap",
-    "text": "水喉"
-  },
-  {
-    "filename": "seoi2hau4-water-tap-example-1",
-    "id": "seoi2hau4-water-tap-example-1",
-    "text": "水喉壞咗，要搵師傅修理。"
-  },
-  {
-    "filename": "seoi2hau4-water-tap-example-2",
-    "id": "seoi2hau4-water-tap-example-2",
-    "text": "開多啲水喉洗手啦。"
-  },
-  {
-    "filename": "seoi2hau4-water-tap-example-3",
-    "id": "seoi2hau4-water-tap-example-3",
-    "text": "陽台有兩個水喉，好方便澆花。"
-  },
-  {
-    "filename": "seoi2hau4-water-tap-example-4",
-    "id": "seoi2hau4-water-tap-example-4",
-    "text": "屋企水喉漏水，要快啲整。"
-  },
-  {
-    "filename": "seoi2hau4man6tai4-plumbing-problem",
-    "id": "seoi2hau4man6tai4-plumbing-problem",
-    "text": "水喉問題"
-  },
-  {
-    "filename": "seoi2hau4man6tai4-plumbing-problem-example-1",
-    "id": "seoi2hau4man6tai4-plumbing-problem-example-1",
-    "text": "屋企有水喉問題，好快要搵人修理。"
-  },
-  {
-    "filename": "seoi2hau4man6tai4-plumbing-problem-example-2",
-    "id": "seoi2hau4man6tai4-plumbing-problem-example-2",
-    "text": "呢個水喉問題搞到成日漏水，好麻煩。"
-  },
-  {
-    "filename": "seoi2hau4man6tai4-plumbing-problem-example-3",
-    "id": "seoi2hau4man6tai4-plumbing-problem-example-3",
-    "text": "樓下鄰居有水喉問題，你有冇聽到水聲？"
-  },
-  {
-    "filename": "seoi2hau4man6tai4-plumbing-problem-example-4",
-    "id": "seoi2hau4man6tai4-plumbing-problem-example-4",
-    "text": "屋主每日都要處理水喉問題，真係攰。"
-  },
-  {
-    "filename": "seoi6fong2-bedroom",
-    "id": "seoi6fong2-bedroom",
-    "text": "睡房"
-  },
-  {
-    "filename": "seoi6fong2-bedroom-example-1",
-    "id": "seoi6fong2-bedroom-example-1",
-    "text": "我嘅睡房好細。"
-  },
-  {
-    "filename": "seoi6fong2-bedroom-example-2",
-    "id": "seoi6fong2-bedroom-example-2",
-    "text": "佢喺睡房度讀書。"
-  },
-  {
-    "filename": "seoi6fong2-bedroom-example-3",
-    "id": "seoi6fong2-bedroom-example-3",
-    "text": "我想整齊啲個睡房。"
-  },
-  {
-    "filename": "seoi6fong2-bedroom-example-4",
-    "id": "seoi6fong2-bedroom-example-4",
-    "text": "你嘅睡房喺邊度？"
-  },
-  {
-    "filename": "seon3soeng1-mailbox",
-    "id": "seon3soeng1-mailbox",
-    "text": "信箱"
-  },
-  {
-    "filename": "seon3soeng1-mailbox-example-1",
-    "id": "seon3soeng1-mailbox-example-1",
-    "text": "我啱啱去信箱攞咗信。"
-  },
-  {
-    "filename": "seon3soeng1-mailbox-example-2",
-    "id": "seon3soeng1-mailbox-example-2",
-    "text": "信箱裏面有封信畀你。"
-  },
-  {
-    "filename": "seon3soeng1-mailbox-example-3",
-    "id": "seon3soeng1-mailbox-example-3",
-    "text": "記得每日檢查信箱呀！"
-  },
-  {
-    "filename": "seon3soeng1-mailbox-example-4",
-    "id": "seon3soeng1-mailbox-example-4",
-    "text": "佢哋換咗個大啲嘅信箱。"
-  },
-  {
-    "filename": "si1jan4lau4-private-apartment",
-    "id": "si1jan4lau4-private-apartment",
-    "text": "私人樓"
-  },
-  {
-    "filename": "si1jan4lau4-private-apartment-example-1",
-    "id": "si1jan4lau4-private-apartment-example-1",
-    "text": "我喺私人樓裏面住。"
-  },
-  {
-    "filename": "si1jan4lau4-private-apartment-example-2",
-    "id": "si1jan4lau4-private-apartment-example-2",
-    "text": "呢間私人樓幾新淨。"
-  },
-  {
-    "filename": "si1jan4lau4-private-apartment-example-3",
-    "id": "si1jan4lau4-private-apartment-example-3",
-    "text": "你想買私人樓定係租住公共屋企？"
-  },
-  {
-    "filename": "si1jan4lau4-private-apartment-example-4",
-    "id": "si1jan4lau4-private-apartment-example-4",
-    "text": "私人樓嘅管理比較嚴格。"
-  },
-  {
-    "filename": "si5coeng4-market",
-    "id": "si5coeng4-market",
-    "text": "市場"
-  },
-  {
-    "filename": "si5coeng4-market-example-1",
-    "id": "si5coeng4-market-example-1",
-    "text": "我每日都去市場買菜。"
-  },
-  {
-    "filename": "si5coeng4-market-example-2",
-    "id": "si5coeng4-market-example-2",
-    "text": "呢個市場好多人，好熱鬧。"
-  },
-  {
-    "filename": "si5coeng4-market-example-3",
-    "id": "si5coeng4-market-example-3",
-    "text": "市場開咗未？"
-  },
-  {
-    "filename": "si5coeng4-market-example-4",
-    "id": "si5coeng4-market-example-4",
-    "text": "佢喺市場入面賣水果。"
-  },
-  {
-    "filename": "siu2dim3-shop",
-    "id": "siu2dim3-shop",
-    "text": "小店"
-  },
-  {
-    "filename": "siu2dim3-shop-example-1",
-    "id": "siu2dim3-shop-example-1",
-    "text": "我附近有好多小店。"
-  },
-  {
-    "filename": "siu2dim3-shop-example-2",
-    "id": "siu2dim3-shop-example-2",
-    "text": "呢間小店啲嘢好抵買。"
-  },
-  {
-    "filename": "siu2dim3-shop-example-3",
-    "id": "siu2dim3-shop-example-3",
-    "text": "我想去小店買嘢。"
-  },
-  {
-    "filename": "siu2dim3-shop-example-4",
-    "id": "siu2dim3-shop-example-4",
-    "text": "你識唔識呢間小店嘅老闆？"
-  },
-  {
-    "filename": "siu2hong6-alley",
-    "id": "siu2hong6-alley",
-    "text": "小巷"
-  },
-  {
-    "filename": "siu2hong6-alley-example-1",
-    "id": "siu2hong6-alley-example-1",
-    "text": "我每日都行過呢條小巷。"
-  },
-  {
-    "filename": "siu2hong6-alley-example-2",
-    "id": "siu2hong6-alley-example-2",
-    "text": "間咖啡店喺小巷入面。"
-  },
-  {
-    "filename": "siu2hong6-alley-example-3",
-    "id": "siu2hong6-alley-example-3",
-    "text": "小朋友喺小巷玩緊嘢。"
-  },
-  {
-    "filename": "siu2hong6-alley-example-4",
-    "id": "siu2hong6-alley-example-4",
-    "text": "呢度啲小巷好窄，要小心行路。"
-  },
-  {
-    "filename": "so2mun4-lock-door",
-    "id": "so2mun4-lock-door",
-    "text": "鎖門"
-  },
-  {
-    "filename": "so2mun4-lock-door-example-1",
-    "id": "so2mun4-lock-door-example-1",
-    "text": "我出門前記得鎖門。"
-  },
-  {
-    "filename": "so2mun4-lock-door-example-2",
-    "id": "so2mun4-lock-door-example-2",
-    "text": "佢哋鎖門之後先走。"
-  },
-  {
-    "filename": "so2mun4-lock-door-example-3",
-    "id": "so2mun4-lock-door-example-3",
-    "text": "你應該每晚鎖門保安。"
-  },
-  {
-    "filename": "so2mun4-lock-door-example-4",
-    "id": "so2mun4-lock-door-example-4",
-    "text": "我唔記得鎖門，所以返去鎖。"
-  },
-  {
-    "filename": "soeng5lau4-go-upstairs",
-    "id": "soeng5lau4-go-upstairs",
-    "text": "上樓"
-  },
-  {
-    "filename": "soeng5lau4-go-upstairs-example-1",
-    "id": "soeng5lau4-go-upstairs-example-1",
-    "text": "我而家上樓拎嘢。"
-  },
-  {
-    "filename": "soeng5lau4-go-upstairs-example-2",
-    "id": "soeng5lau4-go-upstairs-example-2",
-    "text": "小朋友唔好自己上樓，等我陪你。"
-  },
-  {
-    "filename": "soeng5lau4-go-upstairs-example-3",
-    "id": "soeng5lau4-go-upstairs-example-3",
-    "text": "電梯維修，大家要上樓行樓梯。"
-  },
-  {
-    "filename": "soeng5lau4-go-upstairs-example-4",
-    "id": "soeng5lau4-go-upstairs-example-4",
-    "text": "我哋上樓食飯啦。"
-  },
-  {
-    "filename": "syu1fong2-study",
-    "id": "syu1fong2-study",
-    "text": "書房"
-  },
-  {
-    "filename": "syu1fong2-study-example-1",
-    "id": "syu1fong2-study-example-1",
-    "text": "我今朝喺書房寫功課。"
-  },
-  {
-    "filename": "syu1fong2-study-example-2",
-    "id": "syu1fong2-study-example-2",
-    "text": "呢個屋企有三間房，其中一間係書房。"
-  },
-  {
-    "filename": "syu1fong2-study-example-3",
-    "id": "syu1fong2-study-example-3",
-    "text": "我鍾意喺書房飲咖啡同聽音樂。"
-  },
-  {
-    "filename": "syu1fong2-study-example-4",
-    "id": "syu1fong2-study-example-4",
-    "text": "你可唔可以幫我整理書房？"
-  },
-  {
-    "filename": "tai2lau4-view-property",
-    "id": "tai2lau4-view-property",
-    "text": "睇樓"
-  },
-  {
-    "filename": "tai2lau4-view-property-example-1",
-    "id": "tai2lau4-view-property-example-1",
-    "text": "我明天下午去睇樓。"
-  },
-  {
-    "filename": "tai2lau4-view-property-example-2",
-    "id": "tai2lau4-view-property-example-2",
-    "text": "你有冇興趣一齊去睇樓？"
-  },
-  {
-    "filename": "tai2lau4-view-property-example-3",
-    "id": "tai2lau4-view-property-example-3",
-    "text": "初次睇樓要帶埋身份證。"
-  },
-  {
-    "filename": "tai2lau4-view-property-example-4",
-    "id": "tai2lau4-view-property-example-4",
-    "text": "佢哋今晚會去市中心睇樓。"
-  },
-  {
-    "filename": "ting4ce1coeng4-parking-lot",
-    "id": "ting4ce1coeng4-parking-lot",
-    "text": "停車場"
-  },
-  {
-    "filename": "ting4ce1coeng4-parking-lot-example-1",
-    "id": "ting4ce1coeng4-parking-lot-example-1",
-    "text": "我哋去停車場搵車。"
-  },
-  {
-    "filename": "ting4ce1coeng4-parking-lot-example-2",
-    "id": "ting4ce1coeng4-parking-lot-example-2",
-    "text": "屋企附近有個停車場。"
-  },
-  {
-    "filename": "ting4ce1coeng4-parking-lot-example-3",
-    "id": "ting4ce1coeng4-parking-lot-example-3",
-    "text": "呢個停車場好貴喎。"
-  },
-  {
-    "filename": "ting4ce1coeng4-parking-lot-example-4",
-    "id": "ting4ce1coeng4-parking-lot-example-4",
-    "text": "停車場入面有多啲空位。"
-  },
-  {
-    "filename": "tong1fong2-subdivided-flat",
-    "id": "tong1fong2-subdivided-flat",
-    "text": "劏房"
-  },
-  {
-    "filename": "tong1fong2-subdivided-flat-example-1",
-    "id": "tong1fong2-subdivided-flat-example-1",
-    "text": "我喺劏房住咗三年。"
-  },
-  {
-    "filename": "tong1fong2-subdivided-flat-example-2",
-    "id": "tong1fong2-subdivided-flat-example-2",
-    "text": "劏房通常好細同埋冇窗。"
-  },
-  {
-    "filename": "tong1fong2-subdivided-flat-example-3",
-    "id": "tong1fong2-subdivided-flat-example-3",
-    "text": "佢搵到劏房嘅租金比較平。"
-  },
-  {
-    "filename": "tong1fong2-subdivided-flat-example-4",
-    "id": "tong1fong2-subdivided-flat-example-4",
-    "text": "劏房居民嘅生活條件好困難。"
-  },
-  {
-    "filename": "tung1fung1-ventilated",
-    "id": "tung1fung1-ventilated",
-    "text": "通風"
-  },
-  {
-    "filename": "tung1fung1-ventilated-example-1",
-    "id": "tung1fung1-ventilated-example-1",
-    "text": "呢間房好通風，好舒服。"
-  },
-  {
-    "filename": "tung1fung1-ventilated-example-2",
-    "id": "tung1fung1-ventilated-example-2",
-    "text": "夏天要住通風嘅屋企先得。"
-  },
-  {
-    "filename": "tung1fung1-ventilated-example-3",
-    "id": "tung1fung1-ventilated-example-3",
-    "text": "呢度通風唔夠，好似有啲焗。"
-  },
-  {
-    "filename": "tung1fung1-ventilated-example-4",
-    "id": "tung1fung1-ventilated-example-4",
-    "text": "佢哋換咗窗，家裡通風好多。"
-  },
-  {
-    "filename": "uk1-house",
-    "id": "uk1-house",
-    "text": "屋"
-  },
-  {
-    "filename": "uk1-house-example-1",
-    "id": "uk1-house-example-1",
-    "text": "我哋新買咗一間屋。"
-  },
-  {
-    "filename": "uk1-house-example-2",
-    "id": "uk1-house-example-2",
-    "text": "呢間屋好企理。"
-  },
-  {
-    "filename": "uk1-house-example-3",
-    "id": "uk1-house-example-3",
-    "text": "佢住喺側邊嘅屋。"
-  },
-  {
-    "filename": "uk1-house-example-4",
-    "id": "uk1-house-example-4",
-    "text": "我想裝修我嘅屋。"
-  },
-  {
-    "filename": "uk1zou1-house-rent",
-    "id": "uk1zou1-house-rent",
-    "text": "屋租"
-  },
-  {
-    "filename": "uk1zou1-house-rent-example-1",
-    "id": "uk1zou1-house-rent-example-1",
-    "text": "我屋租一個月六千蚊。"
-  },
-  {
-    "filename": "uk1zou1-house-rent-example-2",
-    "id": "uk1zou1-house-rent-example-2",
-    "text": "屋租今年升咗好多。"
-  },
-  {
-    "filename": "uk1zou1-house-rent-example-3",
-    "id": "uk1zou1-house-rent-example-3",
-    "text": "你準備咗屋租未？"
-  },
-  {
-    "filename": "uk1zou1-house-rent-example-4",
-    "id": "uk1zou1-house-rent-example-4",
-    "text": "因為疫情，屋租有所減低。"
-  },
-  {
-    "filename": "waai6zo2-broken",
-    "id": "waai6zo2-broken",
-    "text": "壞咗"
-  },
-  {
-    "filename": "waai6zo2-broken-example-1",
-    "id": "waai6zo2-broken-example-1",
-    "text": "個電視壞咗，睇唔到嘢。"
-  },
-  {
-    "filename": "waai6zo2-broken-example-2",
-    "id": "waai6zo2-broken-example-2",
-    "text": "水喉壞咗，要搵水喉匠嚟修理。"
-  },
-  {
-    "filename": "waai6zo2-broken-example-3",
-    "id": "waai6zo2-broken-example-3",
-    "text": "張窗戶壞咗，風好大吹入嚟。"
-  },
-  {
-    "filename": "waai6zo2-broken-example-4",
-    "id": "waai6zo2-broken-example-4",
-    "text": "部冰箱壞咗，啲嘢凍唔到。"
-  },
-  {
-    "filename": "wan2uk1-find-house",
-    "id": "wan2uk1-find-house",
-    "text": "搵屋"
-  },
-  {
-    "filename": "wan2uk1-find-house-example-1",
-    "id": "wan2uk1-find-house-example-1",
-    "text": "我啱啱開始搵屋。"
-  },
-  {
-    "filename": "wan2uk1-find-house-example-2",
-    "id": "wan2uk1-find-house-example-2",
-    "text": "搵屋好辛苦，搵親靚嘅地方唔容易。"
-  },
-  {
-    "filename": "wan2uk1-find-house-example-3",
-    "id": "wan2uk1-find-house-example-3",
-    "text": "我搵屋搵咗幾個月先有結果。"
-  },
-  {
-    "filename": "wan2uk1-find-house-example-4",
-    "id": "wan2uk1-find-house-example-4",
-    "text": "考慮緊搵屋定租樓先好。"
-  },
-  {
-    "filename": "zau2long4-corridor",
-    "id": "zau2long4-corridor",
-    "text": "走廊"
-  },
-  {
-    "filename": "zau2long4-corridor-example-1",
-    "id": "zau2long4-corridor-example-1",
-    "text": "我喺走廊度撞到朋友。"
-  },
-  {
-    "filename": "zau2long4-corridor-example-2",
-    "id": "zau2long4-corridor-example-2",
-    "text": "走廊上擺咗好多花。"
-  },
-  {
-    "filename": "zau2long4-corridor-example-3",
-    "id": "zau2long4-corridor-example-3",
-    "text": "你跟我行到走廊尾。"
-  },
-  {
-    "filename": "zau2long4-corridor-example-4",
-    "id": "zau2long4-corridor-example-4",
-    "text": "走廊入面唔好大聲講嘢。"
-  },
-  {
-    "filename": "zing2cai4-tidy",
-    "id": "zing2cai4-tidy",
-    "text": "整齊"
-  },
-  {
-    "filename": "zing2cai4-tidy-example-1",
-    "id": "zing2cai4-tidy-example-1",
-    "text": "你個房間好整齊。"
-  },
-  {
-    "filename": "zing2cai4-tidy-example-2",
-    "id": "zing2cai4-tidy-example-2",
-    "text": "書櫃要整齊啲先舒服。"
-  },
-  {
-    "filename": "zing2cai4-tidy-example-3",
-    "id": "zing2cai4-tidy-example-3",
-    "text": "佢將衫摺得好整齊。"
-  },
-  {
-    "filename": "zing2cai4-tidy-example-4",
-    "id": "zing2cai4-tidy-example-4",
-    "text": "洗完屋，我哋要保持整齊。"
-  },
-  {
-    "filename": "zing2sau1-repair",
-    "id": "zing2sau1-repair",
-    "text": "整修"
-  },
-  {
-    "filename": "zing2sau1-repair-example-1",
-    "id": "zing2sau1-repair-example-1",
-    "text": "我屋企搞緊整修。"
-  },
-  {
-    "filename": "zing2sau1-repair-example-2",
-    "id": "zing2sau1-repair-example-2",
-    "text": "佢幫我整修壞咗嘅電話。"
-  },
-  {
-    "filename": "zing2sau1-repair-example-3",
-    "id": "zing2sau1-repair-example-3",
-    "text": "呢啲整修費用幾錢呀？"
-  },
-  {
-    "filename": "zing2sau1-repair-example-4",
-    "id": "zing2sau1-repair-example-4",
-    "text": "我哋頭先整修左廁所。"
-  },
-  {
-    "filename": "zou1-rent",
-    "id": "zou1-rent",
-    "text": "租"
-  },
-  {
-    "filename": "zou1-rent-example-1",
-    "id": "zou1-rent-example-1",
-    "text": "我想租一間單位。"
-  },
-  {
-    "filename": "zou1-rent-example-2",
-    "id": "zou1-rent-example-2",
-    "text": "呢個月租幾多錢？"
-  },
-  {
-    "filename": "zou1-rent-example-3",
-    "id": "zou1-rent-example-3",
-    "text": "佢哋準備咗租約。"
-  },
-  {
-    "filename": "zou1-rent-example-4",
-    "id": "zou1-rent-example-4",
-    "text": "我哋每個月都要交租。"
-  },
-  {
-    "filename": "zou1fong2-rented-room",
-    "id": "zou1fong2-rented-room",
-    "text": "租房"
-  },
-  {
-    "filename": "zou1fong2-rented-room-example-1",
-    "id": "zou1fong2-rented-room-example-1",
-    "text": "我搵咗間租房喺旺角。"
-  },
-  {
-    "filename": "zou1fong2-rented-room-example-2",
-    "id": "zou1fong2-rented-room-example-2",
-    "text": "租房嘅價錢好重要。"
-  },
-  {
-    "filename": "zou1fong2-rented-room-example-3",
-    "id": "zou1fong2-rented-room-example-3",
-    "text": "你想住純粹租房定係買樓？"
-  },
-  {
-    "filename": "zou1fong2-rented-room-example-4",
-    "id": "zou1fong2-rented-room-example-4",
-    "text": "租房生活有啲自由，但唔係好穩定。"
-  },
-  {
-    "filename": "zou1gam1-rent",
-    "id": "zou1gam1-rent",
-    "text": "租金"
-  },
-  {
-    "filename": "zou1gam1-rent-example-1",
-    "id": "zou1gam1-rent-example-1",
-    "text": "我哋每個月要交嘅租金好貴。"
-  },
-  {
-    "filename": "zou1gam1-rent-example-2",
-    "id": "zou1gam1-rent-example-2",
-    "text": "呢個屋企嘅租金包括水電費。"
-  },
-  {
-    "filename": "zou1gam1-rent-example-3",
-    "id": "zou1gam1-rent-example-3",
-    "text": "你覺得租金會唔會再升？"
-  },
-  {
-    "filename": "zou1gam1-rent-example-4",
-    "id": "zou1gam1-rent-example-4",
-    "text": "租金太高，令我好難搵到合適嘅屋企。"
-  },
-  {
-    "filename": "zou1haak3-tenant",
-    "id": "zou1haak3-tenant",
-    "text": "租客"
-  },
-  {
-    "filename": "zou1haak3-tenant-example-1",
-    "id": "zou1haak3-tenant-example-1",
-    "text": "嗰位租客交租好準時。"
-  },
-  {
-    "filename": "zou1haak3-tenant-example-2",
-    "id": "zou1haak3-tenant-example-2",
-    "text": "我哋唔該尊重租客嘅私隱。"
-  },
-  {
-    "filename": "zou1haak3-tenant-example-3",
-    "id": "zou1haak3-tenant-example-3",
-    "text": "租客同業主簽左一份合約。"
-  },
-  {
-    "filename": "zou1haak3-tenant-example-4",
-    "id": "zou1haak3-tenant-example-4",
-    "text": "呢層樓嘅租客好多。"
-  },
-  {
-    "filename": "zou1joek3-lease",
-    "id": "zou1joek3-lease",
-    "text": "租約"
-  },
-  {
-    "filename": "zou1joek3-lease-example-1",
-    "id": "zou1joek3-lease-example-1",
-    "text": "我哋聽日要簽新嘅租約。"
-  },
-  {
-    "filename": "zou1joek3-lease-example-2",
-    "id": "zou1joek3-lease-example-2",
-    "text": "租約講明咗唔准養寵物。"
-  },
-  {
-    "filename": "zou1joek3-lease-example-3",
-    "id": "zou1joek3-lease-example-3",
-    "text": "你租約到幾時先到期？"
-  },
-  {
-    "filename": "zou1joek3-lease-example-4",
-    "id": "zou1joek3-lease-example-4",
-    "text": "租約期滿你想唔想續約？"
-  },
-  {
-    "filename": "zou1pun2-rental-listing",
-    "id": "zou1pun2-rental-listing",
-    "text": "租盤"
-  },
-  {
-    "filename": "zou1pun2-rental-listing-example-1",
-    "id": "zou1pun2-rental-listing-example-1",
-    "text": "我喺網上搵緊啲新租盤。"
-  },
-  {
-    "filename": "zou1pun2-rental-listing-example-2",
-    "id": "zou1pun2-rental-listing-example-2",
-    "text": "呢個租盤嘅價錢合理啱我預算。"
-  },
-  {
-    "filename": "zou1pun2-rental-listing-example-3",
-    "id": "zou1pun2-rental-listing-example-3",
-    "text": "租盤入面有冇包傢俬？"
-  },
-  {
-    "filename": "zou1pun2-rental-listing-example-4",
-    "id": "zou1pun2-rental-listing-example-4",
-    "text": "我地下星期去睇啲租盤。"
-  },
-  {
-    "filename": "zou1uk1-rent-house",
-    "id": "zou1uk1-rent-house",
-    "text": "租屋"
-  },
-  {
-    "filename": "zou1uk1-rent-house-example-1",
-    "id": "zou1uk1-rent-house-example-1",
-    "text": "我係旺角租屋。"
-  },
-  {
-    "filename": "zou1uk1-rent-house-example-2",
-    "id": "zou1uk1-rent-house-example-2",
-    "text": "我想搵租屋，因為屋企太細。"
-  },
-  {
-    "filename": "zou1uk1-rent-house-example-3",
-    "id": "zou1uk1-rent-house-example-3",
-    "text": "佢哋啱啱簽咗租屋合約。"
-  },
-  {
-    "filename": "zou1uk1-rent-house-example-4",
-    "id": "zou1uk1-rent-house-example-4",
-    "text": "租屋嘅租金幾錢？"
-  },
-  {
-    "filename": "zyu6-live",
-    "id": "zyu6-live",
-    "text": "住"
-  },
-  {
-    "filename": "zyu6-live-example-1",
-    "id": "zyu6-live-example-1",
-    "text": "我住喺銅鑼灣。"
-  },
-  {
-    "filename": "zyu6-live-example-2",
-    "id": "zyu6-live-example-2",
-    "text": "你住邊度？"
-  },
-  {
-    "filename": "zyu6-live-example-3",
-    "id": "zyu6-live-example-3",
-    "text": "佢而家住喺酒店。"
-  },
-  {
-    "filename": "zyu6-live-example-4",
-    "id": "zyu6-live-example-4",
-    "text": "我唔住喺呢度。"
-  },
-  {
-    "filename": "zyu6hai2-live-at",
-    "id": "zyu6hai2-live-at",
-    "text": "住喺"
-  },
-  {
-    "filename": "zyu6hai2-live-at-example-1",
-    "id": "zyu6hai2-live-at-example-1",
-    "text": "我住喺銅鑼灣。"
-  },
-  {
-    "filename": "zyu6hai2-live-at-example-2",
-    "id": "zyu6hai2-live-at-example-2",
-    "text": "佢哋住喺九龍城。"
-  },
-  {
-    "filename": "zyu6hai2-live-at-example-3",
-    "id": "zyu6hai2-live-at-example-3",
-    "text": "你住喺邊度呀？"
-  },
-  {
-    "filename": "zyu6hai2-live-at-example-4",
-    "id": "zyu6hai2-live-at-example-4",
-    "text": "我啲朋友住喺呢區。"
-  },
-  {
-    "filename": "zyu6zaak6-residence",
-    "id": "zyu6zaak6-residence",
-    "text": "住宅"
-  },
-  {
-    "filename": "zyu6zaak6-residence-example-1",
-    "id": "zyu6zaak6-residence-example-1",
-    "text": "我嘅住宅好舒服。"
-  },
-  {
-    "filename": "zyu6zaak6-residence-example-2",
-    "id": "zyu6zaak6-residence-example-2",
-    "text": "呢區有好多新嘅住宅。"
-  },
-  {
-    "filename": "zyu6zaak6-residence-example-3",
-    "id": "zyu6zaak6-residence-example-3",
-    "text": "你搵緊住宅定係商業樓？"
-  },
-  {
-    "filename": "zyu6zaak6-residence-example-4",
-    "id": "zyu6zaak6-residence-example-4",
-    "text": "佢搬咗去另一個住宅。"
+    "filename": "zyun2ce1-transfer-example-4",
+    "id": "zyun2ce1-transfer-example-4",
+    "text": "我唔鍾意頻密嘅轉車。"
   }
 ]

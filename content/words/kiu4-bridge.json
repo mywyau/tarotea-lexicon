@@ -1,0 +1,65 @@
+{
+  "id": "kiu4-bridge",
+  "word": "橋",
+  "jyutping": "kiu4",
+  "meaning": "bridge",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '橋' (kiu4) is a noun meaning 'bridge'.",
+    "It can refer to any structure that spans physical obstacles such as water or roads.",
+    "In a sentence, '橋' often comes after a location to specify which bridge is being talked about.",
+    "It can be used with verbs like '行' (walk), '過' (cross), and '搭' (take, as in a toll bridge).",
+    "When giving directions, '橋' helps to indicate a landmark or point of reference."
+  ],
+  "examples": [
+    {
+      "id": "kiu4-bridge-example-1",
+      "sentence": "我哋要過嗰座橋。",
+      "jyutping": "ngo5 dei6 jiu3 gwo3 go2 zo6 kiu4",
+      "meaning": "We have to cross that bridge."
+    },
+    {
+      "id": "kiu4-bridge-example-2",
+      "sentence": "條橋好企理。",
+      "jyutping": "tiu4 kiu4 hou2 kei5 lei5",
+      "meaning": "The bridge is very neat."
+    },
+    {
+      "id": "kiu4-bridge-example-3",
+      "sentence": "呢座橋係新建嘅。",
+      "jyutping": "ni1 zo6 kiu4 hai6 san1 gin3 ge3",
+      "meaning": "This bridge is newly built."
+    },
+    {
+      "id": "kiu4-bridge-example-4",
+      "sentence": "車輛通過條橋要小心。",
+      "jyutping": "ce1 loeng6 tung1 gwo3 tiu4 kiu4 jiu3 siu2 sam1",
+      "meaning": "Vehicles need to be careful when crossing the bridge."
+    }
+  ],
+  "audio": {
+    "word": "kiu4-bridge.mp3",
+    "examples": [
+      "kiu4-bridge-example-1.mp3",
+      "kiu4-bridge-example-2.mp3",
+      "kiu4-bridge-example-3.mp3",
+      "kiu4-bridge-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "travel",
+    "roads",
+    "driving",
+    "infrastructure",
+    "level-1"
+  ],
+  "related": [
+    "路 (lou6) - road",
+    "天橋 (tin1 kiu4) - overpass",
+    "橋頭 (kiu4 tau4) - bridgehead",
+    "橋樑 (kiu4 loeng4) - bridge structure"
+  ]
+}

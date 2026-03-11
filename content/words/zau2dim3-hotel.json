@@ -1,0 +1,66 @@
+{
+  "id": "zau2dim3-hotel",
+  "word": "酒店",
+  "jyutping": "zau2 dim3",
+  "meaning": "hotel",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '酒店' (zau2 dim3) is used as a noun referring to a hotel or place to stay overnight.",
+    "It is commonly placed after a location or brand name to specify the hotel, like '尖沙咀酒店' (Tsim Sha Tsui hotel).",
+    "You can use it as the object in a sentence, for example, when booking or asking about accommodations.",
+    "It functions as a countable noun, so you can say '一間酒店' (one hotel).",
+    "The word can also be used in compound phrases like '酒店服務' meaning hotel services."
+  ],
+  "examples": [
+    {
+      "id": "zau2dim3-hotel-example-1",
+      "sentence": "我今晚住喺個酒店。",
+      "jyutping": "ngo5 gam1 maan5 zyu6 hai2 go3 zau2 dim3.",
+      "meaning": "I am staying at the hotel tonight."
+    },
+    {
+      "id": "zau2dim3-hotel-example-2",
+      "sentence": "你訂咗酒店未？",
+      "jyutping": "nei5 deng6 zo2 zau2 dim3 mei6?",
+      "meaning": "Have you booked the hotel yet?"
+    },
+    {
+      "id": "zau2dim3-hotel-example-3",
+      "sentence": "呢間酒店好貴。",
+      "jyutping": "ni1 gaan1 zau2 dim3 hou2 gwai3.",
+      "meaning": "This hotel is expensive."
+    },
+    {
+      "id": "zau2dim3-hotel-example-4",
+      "sentence": "酒店門口有的士站。",
+      "jyutping": "zau2 dim3 mun4 hau2 jau5 dik1 si2 zaam6.",
+      "meaning": "There is a taxi stand at the hotel entrance."
+    }
+  ],
+  "audio": {
+    "word": "zau2dim3-hotel.mp3",
+    "examples": [
+      "zau2dim3-hotel-example-1.mp3",
+      "zau2dim3-hotel-example-2.mp3",
+      "zau2dim3-hotel-example-3.mp3",
+      "zau2dim3-hotel-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "travel",
+    "accommodation",
+    "lodging",
+    "basic vocabulary",
+    "transport_travel",
+    "level-1"
+  ],
+  "related": [
+    "旅館 (leoi5 gun2) - guesthouse",
+    "機場 (gei1 coeng4) - airport",
+    "訂房 (ding6 fong4) - book a room",
+    "旅遊 (leoi5 jau4) - travel",
+    "坐車 (co5 ce1) - take a vehicle"
+  ]
+}
