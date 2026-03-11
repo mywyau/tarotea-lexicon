@@ -1,0 +1,65 @@
+{
+  "id": "zung6-heavy",
+  "word": "重",
+  "jyutping": "zung6",
+  "meaning": "heavy",
+  "pos": [
+    "adjective"
+  ],
+  "usage": [
+    "The word '重' (zung6) is used to describe something with a large weight or mass.",
+    "It can be used to compare the heaviness of different objects directly.",
+    "When using '重' in a sentence, it's common to place it before the noun it describes.",
+    "'重' can also convey figurative meaning, like heavy workload or serious situations."
+  ],
+  "examples": [
+    {
+      "id": "zung6-heavy-example-1",
+      "sentence": "呢個包好重，我攞唔起。",
+      "jyutping": "ni1 go3 baau1 hou2 zung6, ngo5 lo2 bat1 hei2.",
+      "meaning": "This bag is heavy, I can't lift it."
+    },
+    {
+      "id": "zung6-heavy-example-2",
+      "sentence": "今日落雨，好重。",
+      "jyutping": "gam1 jat6 lok6 jyu5, hou2 zung6.",
+      "meaning": "It is raining heavily today."
+    },
+    {
+      "id": "zung6-heavy-example-3",
+      "sentence": "呢把槓鈴太重，我做唔到。",
+      "jyutping": "ni1 baa2 gong3 ling4 taai3 zung6, ngo5 zou6 bat1 dou2.",
+      "meaning": "This barbell is too heavy, I can't do it."
+    },
+    {
+      "id": "zung6-heavy-example-4",
+      "sentence": "工作嗰日真係好重，好攰。",
+      "jyutping": "gung1 zok3 go2 jat6 zan1 hai6 hou2 zung6, hou2 gui6.",
+      "meaning": "That workday was really heavy (demanding), so tired."
+    }
+  ],
+  "audio": {
+    "word": "zung6-heavy.mp3",
+    "examples": [
+      "zung6-heavy-example-1.mp3",
+      "zung6-heavy-example-2.mp3",
+      "zung6-heavy-example-3.mp3",
+      "zung6-heavy-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weight",
+    "strength",
+    "lifting",
+    "fitness",
+    "heavy",
+    "level-1"
+  ],
+  "related": [
+    "輕 (hing1) - light",
+    "力 (lik6) - strength",
+    "槓鈴 (gong3 ling4) - barbell",
+    "舉重 (geoi2 zung6) - weightlifting",
+    "負重 (fu6 zung6) - carrying weight"
+  ]
+}

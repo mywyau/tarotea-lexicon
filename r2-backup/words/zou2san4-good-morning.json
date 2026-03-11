@@ -1,0 +1,66 @@
+
+{
+  "id": "zou2san4-good-morning",
+  "word": "早晨",
+  "jyutping": "zou2 san4",
+  "meaning": "good morning",
+  "pos": [
+    "phrase",
+    "greeting"
+  ],
+  "usage": [
+    "A very common Cantonese greeting used in the morning",
+    "Often said when meeting someone at the start of the day",
+    "More natural and widely used than formal greetings like 早上好",
+    "Can be shortened casually to 早"
+  ],
+  "examples": [
+    {
+      "id": "zou2san4-good-morning-example-1",
+      "sentence": "早晨呀！",
+      "jyutping": "zou2 san4 aa3",
+      "meaning": "Morning! (friendly)"
+    },
+    {
+      "id": "zou2san4-good-morning-example-2",
+      "sentence": "早晨，你食咗飯未？",
+      "jyutping": "zou2 san4, nei5 sik6 zo2 faan6 mei6",
+      "meaning": "Good morning, have you eaten yet?"
+    },
+    {
+      "id": "zou2san4-good-morning-example-3",
+      "sentence": "早晨，今日點呀？",
+      "jyutping": "zou2 san4, gam1 jat6 dim2 aa3",
+      "meaning": "Good morning, how’s today going?"
+    },
+    {
+      "id": "zou2san4-good-morning-example-4",
+      "sentence": "我每日返工都會同同事講早晨。",
+      "jyutping": "ngo5 mui5 jat6 faan1 gung1 dou1 wui5 tung4 tung4si6 gong2 zou2 san4",
+      "meaning": "Every day when I go to work, I say good morning to my colleagues."
+    }
+  ],
+  "audio": {
+    "word": "zou2san4-good-morning.mp3",
+    "examples": [
+      "zou2san4-good-morning-example-1.mp3",
+      "zou2san4-good-morning-example-2.mp3",
+      "zou2san4-good-morning-example-3.mp3",
+      "zou2san4-good-morning-example-4.mp3",
+      "zou2san4-good-morning-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "greeting",
+    "level-1",
+    "core",
+    "daily",
+    "morning"
+  ],
+  "related": [
+    "nei5hou2-hello",
+    "zou2-morning-short",
+    "maan6on1-good-night",
+    "zoi3gin3-goodbye"
+  ]
+}

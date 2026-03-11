@@ -1,0 +1,107 @@
+{
+  "topic": "family_members",
+  "title": "Family Members – Talking About Your Family",
+  "description": "Words for parents, siblings, relatives, and extended family.",
+  "categories": {
+
+    "immediate_family": [
+      { "id": "baa4baa1-father", "word": "爸爸", "jyutping": "baa4 baa1", "meaning": "dad / father" },
+      { "id": "maa1maa1-mother", "word": "媽媽", "jyutping": "maa1 maa1", "meaning": "mum / mother" },
+      { "id": "aa3baa4-dad", "word": "阿爸", "jyutping": "aa3 baa4", "meaning": "dad (colloquial)" },
+      { "id": "aa3maa1-mum", "word": "阿媽", "jyutping": "aa3 maa1", "meaning": "mum (colloquial)" },
+      { "id": "fu6can1-father-formal", "word": "父親", "jyutping": "fu6 can1", "meaning": "father (formal)" },
+      { "id": "mou5can1-mother-formal", "word": "母親", "jyutping": "mou5 can1", "meaning": "mother (formal)" },
+      { "id": "go1go1-older-brother", "word": "哥哥", "jyutping": "go1 go1", "meaning": "older brother" },
+      { "id": "mui6mui6-younger-sister", "word": "妹妹", "jyutping": "mui6 mui6", "meaning": "younger sister" },
+      { "id": "dai6dai6-younger-brother", "word": "弟弟", "jyutping": "dai6 dai6", "meaning": "younger brother" },
+      { "id": "ze2ze2-older-sister", "word": "姐姐", "jyutping": "ze2 ze2", "meaning": "older sister" },
+      { "id": "zai2-son", "word": "仔", "jyutping": "zai2", "meaning": "son" },
+      { "id": "neoi5-daughter", "word": "女", "jyutping": "neoi5", "meaning": "daughter / female" }
+    ],
+
+    "extended_family_paternal": [
+      { "id": "je4je4-grandfather-paternal", "word": "爺爺", "jyutping": "je4 je4", "meaning": "grandfather (father’s side)" },
+      { "id": "maa4maa4-grandmother-paternal", "word": "嫲嫲", "jyutping": "maa4 maa4", "meaning": "grandmother (father’s side)" },
+      { "id": "baak3baak3-uncle-fathers-older", "word": "伯伯", "jyutping": "baak3 baak3", "meaning": "uncle (father’s older brother)" },
+      { "id": "suk1suk1-uncle-fathers-younger", "word": "叔叔", "jyutping": "suk1 suk1", "meaning": "uncle (father’s younger brother)" },
+      { "id": "gu1gu1-aunt-fathers-sister", "word": "姑姑", "jyutping": "gu1 gu1", "meaning": "aunt (father’s sister)" },
+      { "id": "baak3mou5-aunt-paternal", "word": "伯母", "jyutping": "baak3 mou5", "meaning": "wife of father's older brother" },
+      { "id": "gu1maa1-aunt", "word": "姑媽", "jyutping": "gu1 maa1", "meaning": "father's sister (aunt)" },
+      { "id": "tong4go1-cousin-older-male-paternal", "word": "堂哥", "jyutping": "tong4 go1", "meaning": "older male cousin (father’s brother’s son)" },
+      { "id": "tong4ze2-cousin-older-female-paternal", "word": "堂姐", "jyutping": "tong4 ze2", "meaning": "older female cousin (father’s brother’s daughter)" },
+      { "id": "tong4dai6-cousin-younger-male-paternal", "word": "堂弟", "jyutping": "tong4 dai6", "meaning": "younger male cousin (father’s brother’s son)" },
+      { "id": "tong4mui6-cousin-younger-female-paternal", "word": "堂妹", "jyutping": "tong4 mui6", "meaning": "younger female cousin (father’s brother’s daughter)" }
+    ],
+
+    "extended_family_maternal": [
+      { "id": "ngoi6gung1-grandfather-maternal", "word": "外公", "jyutping": "ngoi6 gung1", "meaning": "grandfather (mother’s side)" },
+      { "id": "ngoi6po4-grandmother-maternal", "word": "外婆", "jyutping": "ngoi6 po4", "meaning": "grandmother (mother’s side)" },
+      { "id": "ji4maa4-aunt-mothers-sister", "word": "姨媽", "jyutping": "ji4 maa4", "meaning": "aunt (mother’s sister)" },
+      { "id": "kau5fu6-maternal-uncle", "word": "舅父", "jyutping": "kau5 fu6", "meaning": "mother's brother" },
+      { "id": "ji4mui6-aunt-younger", "word": "姨妹", "jyutping": "ji4 mui6", "meaning": "wife's younger sister" },
+      { "id": "biu1go1-cousin-older-male-maternal", "word": "表哥", "jyutping": "biu1 go1", "meaning": "older male cousin (mother’s side / aunt’s son)" },
+      { "id": "biu1ze2-cousin-older-female-maternal", "word": "表姐", "jyutping": "biu1 ze2", "meaning": "older female cousin (mother’s side / aunt’s daughter)" },
+      { "id": "biu1dai6-cousin-younger-male-maternal", "word": "表弟", "jyutping": "biu1 dai6", "meaning": "younger male cousin (mother’s side / aunt’s son)" },
+      { "id": "biu1mui6-cousin-younger-female-maternal", "word": "表妹", "jyutping": "biu1 mui6", "meaning": "younger female cousin (mother’s side / aunt’s daughter)" }
+    ],
+
+    "in_laws": [
+      { "id": "ngok6fu6-father-in-law", "word": "岳父", "jyutping": "ngok6 fu6", "meaning": "father-in-law" },
+      { "id": "ngok6mou5-mother-in-law", "word": "岳母", "jyutping": "ngok6 mou5", "meaning": "mother-in-law" },
+      { "id": "neoi5sai3-son-in-law", "word": "女婿", "jyutping": "neoi5 sai3", "meaning": "son-in-law" },
+      { "id": "san1pou4-daughter-in-law", "word": "新抱", "jyutping": "san1 pou4", "meaning": "daughter-in-law (colloquial)" },
+      { "id": "gaa1po4-mother-in-law-husband-side", "word": "家婆", "jyutping": "gaa1 po4", "meaning": "mother-in-law (husband's mother)" },
+      { "id": "gaa1gung1-father-in-law-husband-side", "word": "家公", "jyutping": "gaa1 gung1", "meaning": "father-in-law (husband's father)" }
+    ],
+    
+    "family_roles": [
+      { "id": "gaa1zoeng2-parent", "word": "家長", "jyutping": "gaa1 zoeng2", "meaning": "parent / guardian" },
+      { "id": "zoeng2zi2-eldest-son", "word": "長子", "jyutping": "zoeng2 zi2", "meaning": "eldest son" },
+      { "id": "zoeng2neoi5-eldest-daughter", "word": "長女", "jyutping": "zoeng2 neoi5", "meaning": "eldest daughter" },
+      { "id": "sai3zi2-youngest-son", "word": "細仔", "jyutping": "sai3 zai2", "meaning": "youngest son" },
+      { "id": "sai3neoi5-youngest-daughter", "word": "細女", "jyutping": "sai3 neoi5", "meaning": "youngest daughter" },
+      { "id": "sai3lou6-youngest-child", "word": "細路", "jyutping": "sai3 lou6", "meaning": "young child / kid" },
+      { "id": "jat1gaa1zi1zyu2-head-of-family", "word": "一家之主", "jyutping": "jat1 gaa1 zi1 zyu2", "meaning": "head of the household" }
+    ],
+    
+    "casual_family_terms": [
+      { "id": "gaa1jan4-family-members", "word": "家人", "jyutping": "gaa1 jan4", "meaning": "family members" },
+      { "id": "uk1kei2-home", "word": "屋企", "jyutping": "uk1 kei2", "meaning": "home / household" },
+      { "id": "uk1kei2jan4-family", "word": "屋企人", "jyutping": "uk1 kei2 jan4", "meaning": "family members" },
+      { "id": "can1cik1-relatives", "word": "親戚", "jyutping": "can1 cik1", "meaning": "relatives" },
+      { "id": "gaa1zuk6-family-clan", "word": "家族", "jyutping": "gaa1 zuk6", "meaning": "extended family / clan" },
+      { "id": "gaa1ting4-family-household", "word": "家庭", "jyutping": "gaa1 ting4", "meaning": "family / household" },
+      { "id": "gaa1hau6-household", "word": "家口", "jyutping": "gaa1 hau2", "meaning": "family members / household members" },
+      { "id": "gaa1zung1-at-home", "word": "家中", "jyutping": "gaa1 zung1", "meaning": "at home / in one's home" }
+    ],
+
+    "sibling_terms": [
+      { "id": "hing1dai6-brothers", "word": "兄弟", "jyutping": "hing1 dai6", "meaning": "brothers" },
+      { "id": "ze2mui6-sisters", "word": "姊妹", "jyutping": "ze2 mui6", "meaning": "sisters / sisterhood" },
+      { "id": "hing1dai6zi2mui6-siblings", "word": "兄弟姊妹", "jyutping": "hing1 dai6 zi2 mui6", "meaning": "siblings" },
+      { "id": "daai6go1-older-brother", "word": "大哥", "jyutping": "daai6 go1", "meaning": "eldest brother" },
+      { "id": "daai6ze2-older-sister", "word": "大姐", "jyutping": "daai6 ze2", "meaning": "eldest sister" },
+      { "id": "sai3lou2-younger-brother", "word": "細佬", "jyutping": "sai3 lou2", "meaning": "younger brother (colloquial)" },
+      { "id": "sai3mui6-younger-sister", "word": "細妹", "jyutping": "sai3 mui6", "meaning": "younger sister (colloquial)" }
+    ],
+
+    "talking_about_children": [
+      { "id": "ngo5go3zai2-my-son", "word": "我個仔", "jyutping": "ngo5 go3 zai2", "meaning": "my son" },
+      { "id": "ngo5go3neoi5-my-daughter", "word": "我個女", "jyutping": "ngo5 go3 neoi5", "meaning": "my daughter" },
+      { "id": "neoi5zai2-girl", "word": "女仔", "jyutping": "neoi5 zai2", "meaning": "girl" },
+      { "id": "naam4zai2-boy", "word": "男仔", "jyutping": "naam4 zai2", "meaning": "boy" }
+    ],
+
+    "others": [
+      { "id": "gung1gung1-grandfather-paternal", "word": "公公", "jyutping": "gung1 gung1", "meaning": "grandfather" },
+      { "id": "po4po4-grandmother-paternal", "word": "婆婆", "jyutping": "po4 po4", "meaning": "grandmother" },
+      { "id": "gai3fu6-stepfather", "word": "繼父", "jyutping": "gai3 fu6", "meaning": "stepfather" },
+      { "id": "gai3mou5-stepmother", "word": "繼母", "jyutping": "gai3 mou5", "meaning": "stepmother" },
+      { "id": "syun1-grandchild", "word": "孫", "jyutping": "syun1", "meaning": "grandchild" },
+      { "id": "syun1zai2-grandson", "word": "孫仔", "jyutping": "syun1 zai2", "meaning": "grandson" },
+      { "id": "syun1neoi5-granddaughter", "word": "孫女", "jyutping": "syun1 neoi5", "meaning": "granddaughter" },
+      { "id": "zat6-nephew", "word": "侄", "jyutping": "zat6", "meaning": "nephew" },
+      { "id": "zat6neoi5-niece", "word": "侄女", "jyutping": "zat6 neoi5", "meaning": "niece" }
+    ]
+  }
+}

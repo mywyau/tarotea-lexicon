@@ -1,0 +1,87 @@
+{
+  "level": 5,
+  "title": "Level 5 – Work, services, and responsibility",
+  "description": "Handle work situations, services, expectations, and everyday responsibilities naturally.",
+  "categories": {
+    "work_and_professional_life": [
+      { "id": "gung1zok3-work", "word": "工作", "jyutping": "gung1 zok3", "meaning": "work" },
+      { "id": "zik1wai6-position", "word": "職位", "jyutping": "zik1 wai6", "meaning": "role" },
+      { "id": "tung4si6-colleague", "word": "同事", "jyutping": "tung4 si6", "meaning": "coworker" },
+      { "id": "soeng6si1-supervisor", "word": "上司", "jyutping": "soeng6 si1", "meaning": "supervisor" },
+      { "id": "lou5baan2-boss", "word": "老闆", "jyutping": "lou5 baan2", "meaning": "boss" },
+      { "id": "fu6zaak3-in-charge-of", "word": "負責", "jyutping": "fu6 zaak3", "meaning": "oversee" },
+      { "id": "zik1zaak3-duties", "word": "職責", "jyutping": "zik1 zaak3", "meaning": "duties" },
+      { "id": "si3jung6kei4-probation", "word": "試用期", "jyutping": "si3 jung6 kei4", "meaning": "probation" },
+      { "id": "daa2gung1-work-for-someone", "word": "打工", "jyutping": "daa2 gung1", "meaning": "employed" },
+      { "id": "faan1gung1-go-to-work", "word": "返工", "jyutping": "faan1 gung1", "meaning": "commute" },
+      { "id": "sau1gung1-finish-work", "word": "收工", "jyutping": "sau1 gung1", "meaning": "clock off" },
+      { "id": "gaa1baan1-overtime", "word": "加班", "jyutping": "gaa1 baan1", "meaning": "overtime" }
+    ],
+
+    "tasks_and_workflow": [
+      { "id": "jam6mou6-task", "word": "任務", "jyutping": "jam6 mou6", "meaning": "task" },
+      { "id": "gwo3cing4-process", "word": "過程", "jyutping": "gwo3 cing4", "meaning": "process" },
+      { "id": "lau4cing4-workflow", "word": "流程", "jyutping": "lau4 cing4", "meaning": "workflow" },
+      { "id": "bou6zou6-steps", "word": "步驟", "jyutping": "bou6 zou6", "meaning": "procedure" },
+      { "id": "gan1zeon3-follow-up", "word": "跟進", "jyutping": "gan1 zeon3", "meaning": "follow up" },
+      { "id": "hip3tiu4-coordinate", "word": "協調", "jyutping": "hip3 tiu4", "meaning": "coordinate" },
+      { "id": "zap1hang4-carry-out", "word": "執行", "jyutping": "zap1 hang4", "meaning": "execute" },
+      { "id": "lok6sat6-implement", "word": "落實", "jyutping": "lok6 sat6", "meaning": "implement" },
+      { "id": "gaau1zeoi3-submit", "word": "交咗", "jyutping": "gaau1 zo2", "meaning": "submitted" },
+      { "id": "on1paai4-arrange", "word": "安排", "jyutping": "on1 paai4", "meaning": "schedule" },
+      { "id": "zoi3tai2haa5-check-again", "word": "再睇下", "jyutping": "zoi3 tai2 haa5", "meaning": "recheck" }
+    ],
+
+    "rules_and_expectations": [
+      { "id": "kwai1geoi2-rules", "word": "規矩", "jyutping": "kwai1 geoi2", "meaning": "conduct" },
+      { "id": "jiu1kau4-requirement", "word": "要求", "jyutping": "jiu1 kau4", "meaning": "requirement" },
+      { "id": "biu1zeon2-standard", "word": "標準", "jyutping": "biu1 zeon2", "meaning": "standard" },
+      { "id": "zaak3jam6-responsibility", "word": "責任", "jyutping": "zaak3 jam6", "meaning": "responsibility" },
+      { "id": "haan6zai3-limit", "word": "限制", "jyutping": "haan6 zai3", "meaning": "restriction" },
+      { "id": "kwai1ding6-regulation", "word": "規定", "jyutping": "kwai1 ding6", "meaning": "regulation" },
+      { "id": "m4hou2ci4do1-dont-be-late", "word": "唔好遲到", "jyutping": "m4 hou2 ci4 dou3", "meaning": "be punctual" },
+      { "id": "jyu4kei4-on-time", "word": "如期", "jyutping": "jyu4 kei4", "meaning": "as planned" }
+    ],
+
+    "problems_and_fixing_things": [
+      { "id": "ceot1jin6-arise", "word": "出現", "jyutping": "ceot1 jin6", "meaning": "arise" },
+      { "id": "ci4zo2-delayed", "word": "遲咗", "jyutping": "ci4 zo2", "meaning": "delayed" },
+      { "id": "gaau2co3-mistake", "word": "搞錯", "jyutping": "gaau2 co3", "meaning": "mistake" },
+      { "id": "jing3deoi3-handle", "word": "應對", "jyutping": "jing3 deoi3", "meaning": "respond" },
+      { "id": "bou2faan1-make-up-for", "word": "補返", "jyutping": "bou2 faan1", "meaning": "repair" },
+      { "id": "gaau2dim6-sorted", "word": "搞掂", "jyutping": "gaau2 dim6", "meaning": "settled" },
+      { "id": "mou5man6tai4-no-problem", "word": "冇問題", "jyutping": "mou5 man6 tai4", "meaning": "fine" }
+    ],
+
+    "services_and_real_life_admin": [
+      { "id": "fu6mou6-service", "word": "服務", "jyutping": "fu6 mou6", "meaning": "service" },
+      { "id": "dang1gei3-register", "word": "登記", "jyutping": "dang1 gei3", "meaning": "register" },
+      { "id": "san1cing2-apply", "word": "申請", "jyutping": "san1 cing2", "meaning": "apply" },
+      { "id": "ceoi2siu1-cancel", "word": "取消", "jyutping": "ceoi2 siu1", "meaning": "cancel" },
+      { "id": "kok3jing6-confirm", "word": "確認", "jyutping": "kok3 jing6", "meaning": "confirm" },
+      { "id": "zip3sau1-receive", "word": "接收", "jyutping": "zip3 sau1", "meaning": "receive" },
+      { "id": "gaau1fei3-pay-fee", "word": "交費", "jyutping": "gaau1 fei3", "meaning": "pay fee" }
+    ],
+
+    "politeness_and_negotiation": [
+      { "id": "maa4faan4nei5-please", "word": "麻煩你", "jyutping": "maa4 faan4 nei5", "meaning": "please" },
+      { "id": "m4hou2ji3si1-excuse-me", "word": "唔好意思", "jyutping": "m4 hou2 ji3 si1", "meaning": "excuse me" },
+      { "id": "ho2m4ho2ji5-could-you", "word": "可唔可以", "jyutping": "ho2 m4 ho2 ji5", "meaning": "may I" },
+      { "id": "gaai3m4gaai3ji3-do-you-mind", "word": "介唔介意", "jyutping": "gaai3 m4 gaai3 ji3", "meaning": "mind" },
+      { "id": "soeng1loeng6-discuss", "word": "商量", "jyutping": "soeng1 loeng6", "meaning": "negotiate" },
+      { "id": "pui3hap6-cooperate", "word": "配合", "jyutping": "pui3 hap6", "meaning": "collaborate" },
+      { "id": "loeng6gaai2-understanding", "word": "諒解", "jyutping": "loeng6 gaai2", "meaning": "understanding" },
+      { "id": "daan6hai6-but", "word": "但係", "jyutping": "daan6 hai6", "meaning": "however" }
+    ],
+
+    "feedback_and_improvement": [
+      { "id": "biu2jin6-performance", "word": "表現", "jyutping": "biu2 jin6", "meaning": "performance" },
+      { "id": "zeon3bou6-progress", "word": "進步", "jyutping": "zeon3 bou6", "meaning": "progress" },
+      { "id": "gin3ji3-suggestion", "word": "建議", "jyutping": "gin3 ji3", "meaning": "suggestion" },
+      { "id": "goi2sin6-improve", "word": "改善", "jyutping": "goi2 sin6", "meaning": "improve" },
+      { "id": "zou6dak1m4co3-did-well", "word": "做得唔錯", "jyutping": "zou6 dak1 m4 co3", "meaning": "well done" },
+      { "id": "jau5zeon3bou6-have-progress", "word": "有進步", "jyutping": "jau5 zeon3 bou6", "meaning": "improved" },
+      { "id": "haa6ci3zoi3zou6hou2di1-better-next-time", "word": "下次再做好啲", "jyutping": "haa6 ci3 zoi3 zou6 hou2 di1", "meaning": "do better" }
+    ]
+  }
+}

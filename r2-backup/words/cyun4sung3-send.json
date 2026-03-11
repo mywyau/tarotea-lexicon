@@ -1,0 +1,66 @@
+{
+  "id": "cyun4sung3-send",
+  "word": "傳送",
+  "jyutping": "cyun4 sung3",
+  "meaning": "send",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word '傳送' is used as a verb to describe the action of sending something.",
+    "It can refer to sending messages, files, or even physical items.",
+    "It is commonly used in both formal and informal contexts.",
+    "When using '傳送', the object being sent usually follows the verb directly.",
+    "'傳送' is often seen in technological contexts but can be used in everyday situations as well."
+  ],
+  "examples": [
+    {
+      "id": "cyun4sung3-send-example-1",
+      "sentence": "我已經傳送咗啲文件畀你。",
+      "jyutping": "ngo5 ji5 ging1 cyun4 sung3 zo2 di1 man4 gin2 bei2 nei5.",
+      "meaning": "I have already sent you the documents."
+    },
+    {
+      "id": "cyun4sung3-send-example-2",
+      "sentence": "你可以傳送呢個檔案用Email。",
+      "jyutping": "nei5 ho2 ji5 cyun4 sung3 ni1 go3 dong2 on3 jung6 Email.",
+      "meaning": "You can send this file using Email."
+    },
+    {
+      "id": "cyun4sung3-send-example-3",
+      "sentence": "呢部機可以快速傳送資料。",
+      "jyutping": "ni1 bou6 gei1 ho2 ji5 faai3 cuk1 cyun4 sung3 zi1 liu2.",
+      "meaning": "This device can quickly send data."
+    },
+    {
+      "id": "cyun4sung3-send-example-4",
+      "sentence": "等我幫你傳送啲相片。",
+      "jyutping": "dang2 ngo5 bong1 nei5 cyun4 sung3 di1 soeng2 pin3.",
+      "meaning": "Let me help you send the photos."
+    }
+  ],
+  "audio": {
+    "word": "cyun4sung3-send.mp3",
+    "examples": [
+      "cyun4sung3-send-example-1.mp3",
+      "cyun4sung3-send-example-2.mp3",
+      "cyun4sung3-send-example-3.mp3",
+      "cyun4sung3-send-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "technology",
+    "communication",
+    "sending",
+    "files",
+    "messages",
+    "level-1"
+  ],
+  "related": [
+    "發送",
+    "傳達",
+    "寄送",
+    "發信",
+    "發email"
+  ]
+}

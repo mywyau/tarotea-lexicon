@@ -1,0 +1,43 @@
+{
+  "id": "maa4faan4-bother",
+  "word": "麻煩",
+  "jyutping": "maa4 faan4",
+  "meaning": "to bother; to trouble; please (polite request)",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to politely ask someone to do something",
+    "Can also be used to describe causing trouble or inconvenience"
+  ],
+
+  "examples": [
+    {
+      "id": "maa4faan4-bother-example-1",
+      "sentence": "麻煩你幫手。",
+      "jyutping": "maa4 faan4 nei5 bong1 sau2",
+      "meaning": "Please help me."
+    },
+    {
+      "id": "maa4faan4-bother-example-2",
+      "sentence": "唔好麻煩到你。",
+      "jyutping": "m4 hou2 maa4 faan4 dou3 nei5",
+      "meaning": "I don’t want to trouble you."
+    }
+  ],
+
+  "audio": {
+    "word": "maa4faan4-bother.mp3",
+    "examples": [
+      "maa4faan4-bother-example-1.mp3",
+      "maa4faan4-bother-example-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "daily-life", "polite"],
+
+  "related": [
+    "bong1sau2-help",
+    "ziu3gu3-take-care"
+  ]
+}

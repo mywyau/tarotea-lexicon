@@ -1,0 +1,66 @@
+{
+  "id": "zuk1-congee",
+  "word": "粥",
+  "jyutping": "zuk1",
+  "meaning": "congee",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '粥' is a noun and refers to a type of rice porridge commonly eaten in Cantonese cuisine.",
+    "'粥' can be used to describe a dish served for breakfast, lunch, or dinner.",
+    "You can add different ingredients to '粥' to change its flavor, like meat, fish, or vegetables.",
+    "'粥' is often served hot and is considered comfort food, especially when someone is feeling unwell.",
+    "In sentences, '粥' usually functions as the subject or object when talking about food."
+  ],
+  "examples": [
+    {
+      "id": "zuk1-congee-example-1",
+      "sentence": "我朝早食咗碗粥。",
+      "jyutping": "ngo5 ziu1zou2 sik6 zo2 wun2 zuk1",
+      "meaning": "I ate a bowl of congee this morning."
+    },
+    {
+      "id": "zuk1-congee-example-2",
+      "sentence": "你鍾意食咩口味嘅粥？",
+      "jyutping": "nei5 zung1ji3 sik6 me1 hau2mei6 ge3 zuk1?",
+      "meaning": "What flavor of congee do you like?"
+    },
+    {
+      "id": "zuk1-congee-example-3",
+      "sentence": "佢唔舒服，所以飲咗啲粥。",
+      "jyutping": "keoi5 m4 syu1fuk6, so2ji5 jam2 zo2 di1 zuk1",
+      "meaning": "He was not feeling well, so he drank some congee."
+    },
+    {
+      "id": "zuk1-congee-example-4",
+      "sentence": "香港嘅粥非常出名。",
+      "jyutping": "hoeng1gong2 ge3 zuk1 fei1soeng4 ceot1ming4",
+      "meaning": "Hong Kong’s congee is very famous."
+    }
+  ],
+  "audio": {
+    "word": "zuk1-congee.mp3",
+    "examples": [
+      "zuk1-congee-example-1.mp3",
+      "zuk1-congee-example-2.mp3",
+      "zuk1-congee-example-3.mp3",
+      "zuk1-congee-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "rice dish",
+    "breakfast",
+    "comfort food",
+    "Cantonese cuisine",
+    "level-1"
+  ],
+  "related": [
+    "點心 dim2sam1",
+    "炒粉炒麵 caau2fan2 caau2min6",
+    "燒賣 siu1maai2",
+    "腸粉 coeng4fan2",
+    "糯米卷 no6mai5gyun2"
+  ]
+}

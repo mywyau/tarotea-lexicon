@@ -1,0 +1,65 @@
+{
+  "id": "mei5-tail",
+  "word": "尾",
+  "jyutping": "mei5",
+  "meaning": "tail",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 尾 (mei5) is used to refer to the tail of an animal.",
+    "You can use it as a noun to identify the tail part of animals or objects resembling a tail.",
+    "It often appears after the noun it describes, for example, 狗嘅尾 (dog's tail).",
+    "尾 (mei5) can also be used metaphorically, like talking about '尾燈' (tail light)."
+  ],
+  "examples": [
+    {
+      "id": "mei5-tail-example-1",
+      "sentence": "隻狗條尾好長。",
+      "jyutping": "zek3 gau2 tiu4 mei5 hou2 coeng4.",
+      "meaning": "The dog's tail is very long."
+    },
+    {
+      "id": "mei5-tail-example-2",
+      "sentence": "魚有長尾。",
+      "jyutping": "jyu4 jau5 coeng4 mei5.",
+      "meaning": "Fish have long tails."
+    },
+    {
+      "id": "mei5-tail-example-3",
+      "sentence": "我部車個尾壞咗。",
+      "jyutping": "ngo5 bou6 ce1 go3 mei5 waai6 zo2.",
+      "meaning": "The tail of my car is broken."
+    },
+    {
+      "id": "mei5-tail-example-4",
+      "sentence": "佢拉住隻貓嘅尾。",
+      "jyutping": "keoi5 laai1 zyu6 zek3 maau1 ge3 mei5.",
+      "meaning": "He is pulling the cat's tail."
+    }
+  ],
+  "audio": {
+    "word": "mei5-tail.mp3",
+    "examples": [
+      "mei5-tail-example-1.mp3",
+      "mei5-tail-example-2.mp3",
+      "mei5-tail-example-3.mp3",
+      "mei5-tail-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal body part",
+    "noun",
+    "common",
+    "daily use",
+    "tail",
+    "level-1"
+  ],
+  "related": [
+    "頭 tau4 (head)",
+    "爪 zaau2 (claw)",
+    "腳 goek3 (foot/leg)",
+    "翅 cik3 (wing)",
+    "眼 ngaan5 (eye)"
+  ]
+}

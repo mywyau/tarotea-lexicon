@@ -1,0 +1,37 @@
+{
+  "id": "faat3sang1-happen",
+  "word": "發生",
+  "jyutping": "faat3 sang1",
+  "meaning": "to happen",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe events or situations that occur",
+    "Often refers to something unexpected or noteworthy",
+    "Commonly used when talking about incidents, changes, or problems"
+  ],
+
+  "examples": [
+    {
+      "id": "faat3sang1-happen-example-1",
+      "sentence": "發生咗咩事？",
+      "jyutping": "faat3 sang1 zo2 me1 si6",
+      "meaning": "What happened?"
+    },
+    {
+      "id": "faat3sang1-happen-example-2",
+      "sentence": "如果再發生同樣嘅問題，要即刻通知我。",
+      "jyutping": "jyu4 gwo2 zoi3 faat3 sang1 tung4 joeng6 ge3 man6 tai4, jiu3 zik1 hak1 tung1 zi1 ngo5",
+      "meaning": "If the same problem happens again, inform me immediately."
+    }
+  ],
+
+  "audio": {
+    "word": "faat3sang1-happen.mp3",
+    "examples": [
+      "faat3sang1-happen-example-1.mp3",
+      "faat3sang1-happen-example-2.mp3"
+    ]
+  }
+}

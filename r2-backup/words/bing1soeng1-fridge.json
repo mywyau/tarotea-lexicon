@@ -1,0 +1,65 @@
+{
+  "id": "bing1soeng1-fridge",
+  "word": "冰箱",
+  "jyutping": "bing1 soeng1",
+  "meaning": "fridge",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "冰箱係一個用嚟保存食物同飲品嘅家用電器。",
+    "你可以話“我哋屋企有部新嘅冰箱”，嚟講出冰箱嘅擁有情況。",
+    "‘冰箱’通常用嚟指放喺廚房嘅大型冷藏裝置。",
+    "喺講冰箱入面嘅物品時，可以話：“我仲有啲水果喺冰箱入面。”",
+    "冰箱可以有不同容量同功能，通常用嚟分開冷藏同冷凍。"
+  ],
+  "examples": [
+    {
+      "id": "bing1soeng1-fridge-example-1",
+      "sentence": "冰箱入面有啲牛奶。",
+      "jyutping": "bing1 soeng1 jap6 min6 jau5 di1 ngau4 naai5.",
+      "meaning": "There is some milk in the fridge."
+    },
+    {
+      "id": "bing1soeng1-fridge-example-2",
+      "sentence": "我哋嘅冰箱壞咗，要修理。",
+      "jyutping": "ngo5 dei6 ge3 bing1 soeng1 waai6 zo2, jiu3 sau1 lei5.",
+      "meaning": "Our fridge is broken and needs to be repaired."
+    },
+    {
+      "id": "bing1soeng1-fridge-example-3",
+      "sentence": "買咗部新冰箱，放晒所有嘢。",
+      "jyutping": "maai5 zo2 bou6 san1 bing1 soeng1, fong3 saai3 so2 jau5 je5.",
+      "meaning": "Bought a new fridge to store everything."
+    },
+    {
+      "id": "bing1soeng1-fridge-example-4",
+      "sentence": "冰箱唔夠大，放唔晒啲嘢。",
+      "jyutping": "bing1 soeng1 m4 gau3 daai6, fong3 m4 saai3 di1 je5.",
+      "meaning": "The fridge isn't big enough to hold everything."
+    }
+  ],
+  "audio": {
+    "word": "bing1soeng1-fridge.mp3",
+    "examples": [
+      "bing1soeng1-fridge-example-1.mp3",
+      "bing1soeng1-fridge-example-2.mp3",
+      "bing1soeng1-fridge-example-3.mp3",
+      "bing1soeng1-fridge-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "household",
+    "kitchen",
+    "appliance",
+    "food preservation",
+    "level-1"
+  ],
+  "related": [
+    "洗衣機",
+    "爐具",
+    "微波爐",
+    "冷氣機",
+    "廚房"
+  ]
+}

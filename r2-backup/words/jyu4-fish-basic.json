@@ -1,0 +1,64 @@
+{
+  "id": "jyu4-fish-basic",
+  "word": "魚",
+  "jyutping": "jyu4",
+  "meaning": "fish",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '魚' (jyu4) is used to refer to fish as animals that live in water.",
+    "It can be the subject or object in a sentence when talking about eating, catching, or seeing fish.",
+    "You can use '魚' with measure words like '條' (tiu4) to specify a single fish.",
+    "It appears in common phrases related to seafood and fishing activities.",
+    "In Cantonese, '魚' can be combined with other words to name different types of fish."
+  ],
+  "examples": [
+    {
+      "id": "jyu4-fish-basic-example-1",
+      "sentence": "我買咗條魚返屋企。",
+      "jyutping": "ngo5 maai5 zo2 tiu4 jyu4 faan1 uk1 kei2.",
+      "meaning": "I bought a fish and brought it home."
+    },
+    {
+      "id": "jyu4-fish-basic-example-2",
+      "sentence": "呢隻魚好新鮮。",
+      "jyutping": "ni1 zek3 jyu4 hou2 san1 sin1.",
+      "meaning": "This fish is very fresh."
+    },
+    {
+      "id": "jyu4-fish-basic-example-3",
+      "sentence": "你食唔食魚？",
+      "jyutping": "nei5 sik6 m4 sik6 jyu4?",
+      "meaning": "Do you eat fish?"
+    },
+    {
+      "id": "jyu4-fish-basic-example-4",
+      "sentence": "我哋去釣魚啦！",
+      "jyutping": "ngo5 dei6 heoi3 diu3 jyu4 laa1!",
+      "meaning": "Let's go fishing!"
+    }
+  ],
+  "audio": {
+    "word": "jyu4-fish-basic.mp3",
+    "examples": [
+      "jyu4-fish-basic-example-1.mp3",
+      "jyu4-fish-basic-example-2.mp3",
+      "jyu4-fish-basic-example-3.mp3",
+      "jyu4-fish-basic-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animals",
+    "water_animals",
+    "food",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "海鮮 (hoi2 sin1) - seafood",
+    "釣魚 (diu3 jyu4) - fishing",
+    "魚湯 (jyu4 tong1) - fish soup",
+    "魚 market (jyu4 si5 coeng4) - fish market"
+  ]
+}
