@@ -1,0 +1,66 @@
+{
+  "id": "bun1ceot1-move-out",
+  "word": "搬出",
+  "jyutping": "bun1 ceot1",
+  "meaning": "move out",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The verb 搬出 (bun1 ceot1) means to move out of a place, such as a house or apartment.",
+    "It is commonly used with a destination or a point of origin to indicate where someone is moving out from.",
+    "You can use 搬出 with a time expression to specify when the move occurs.",
+    "It is often paired with 搬入 (bun1 jap6) meaning 'move in' for contrasting moving actions.",
+    "In sentences, 搬出 can take objects referring to homes, rooms, or buildings."
+  ],
+  "examples": [
+    {
+      "id": "bun1ceot1-move-out-example-1",
+      "sentence": "我下個月要搬出呢間屋。",
+      "jyutping": "ngo5 haa6 go3 jyut6 jiu3 bun1 ceot1 ni1 gaan1 uk1.",
+      "meaning": "I have to move out of this house next month."
+    },
+    {
+      "id": "bun1ceot1-move-out-example-2",
+      "sentence": "佢搬出咗父母嘅屋企。",
+      "jyutping": "keoi5 bun1 ceot1 zo2 fu6 mou5 ge3 uk1 kei2.",
+      "meaning": "He moved out of his parents’ home."
+    },
+    {
+      "id": "bun1ceot1-move-out-example-3",
+      "sentence": "你幾時搬出嗰間單位？",
+      "jyutping": "nei5 gei2 si4 bun1 ceot1 go2 gaan1 daan1 wai6?",
+      "meaning": "When are you moving out of that unit?"
+    },
+    {
+      "id": "bun1ceot1-move-out-example-4",
+      "sentence": "佢哋搬出後，我先可以入去裝修。",
+      "jyutping": "keoi5 dei6 bun1 ceot1 hau6, ngo5 sin1 ho2 ji5 jap6 heoi3 zong1 sau1.",
+      "meaning": "After they move out, I can go in to renovate."
+    }
+  ],
+  "audio": {
+    "word": "bun1ceot1-move-out.mp3",
+    "examples": [
+      "bun1ceot1-move-out-example-1.mp3",
+      "bun1ceot1-move-out-example-2.mp3",
+      "bun1ceot1-move-out-example-3.mp3",
+      "bun1ceot1-move-out-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "move",
+    "living_actions",
+    "apartment",
+    "home",
+    "level-1"
+  ],
+  "related": [
+    "搬入",
+    "租屋",
+    "搬家",
+    "退租",
+    "租約"
+  ]
+}

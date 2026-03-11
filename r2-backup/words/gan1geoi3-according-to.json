@@ -1,0 +1,67 @@
+{
+  "id": "gan1geoi3-according-to",
+  "word": "根據",
+  "jyutping": "gan1 geoi3",
+  "meaning": "according to",
+  "pos": [
+    "expression",
+    "connector"
+  ],
+  "usage": [
+    "The phrase is used to introduce information that comes from a specific source or authority.",
+    "It is commonly used in formal or news contexts to attribute statements, findings, or data.",
+    "Typically placed at the beginning of a sentence or clause to indicate that the following information is based on someone else's report or evidence.",
+    "It can link to various types of sources such as reports, experts, or documents.",
+    "Though mostly formal, it can occasionally appear in everyday conversation when citing information."
+  ],
+  "examples": [
+    {
+      "id": "gan1geoi3-according-to-example-1",
+      "sentence": "根據天氣預報，明天會落雨。",
+      "jyutping": "gan1 geoi3 tin1 hei3 jyu6 bou3, ming4 tin1 wui5 lok6 jyu5.",
+      "meaning": "According to the weather forecast, it will rain tomorrow."
+    },
+    {
+      "id": "gan1geoi3-according-to-example-2",
+      "sentence": "根據警方消息，案情有新進展。",
+      "jyutping": "gan1 geoi3 ging2 fong1 siu1 sik1, on3 cing4 jau5 san1 zeon3 zin2.",
+      "meaning": "According to police news, there are new developments in the case."
+    },
+    {
+      "id": "gan1geoi3-according-to-example-3",
+      "sentence": "根據報告，經濟狀況正在改善。",
+      "jyutping": "gan1 geoi3 bou3 gou3, ging1 zai3 zong6 fong3 zing3 zoi6 goi2 sin6.",
+      "meaning": "According to the report, the economic situation is improving."
+    },
+    {
+      "id": "gan1geoi3-according-to-example-4",
+      "sentence": "根據專家的意見，我哋應該改變策略。",
+      "jyutping": "gan1 geoi3 zyun1 gaa1 dik1 ji3 gin3, ngo5 dei6 jing1 goi1 goi2 bin3 caak3 loek6.",
+      "meaning": "According to the experts' opinions, we should change our strategy."
+    }
+  ],
+  "audio": {
+    "word": "gan1geoi3-according-to.mp3",
+    "examples": [
+      "gan1geoi3-according-to-example-1.mp3",
+      "gan1geoi3-according-to-example-2.mp3",
+      "gan1geoi3-according-to-example-3.mp3",
+      "gan1geoi3-according-to-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "formal",
+    "news",
+    "source-attribution",
+    "reporting",
+    "connector",
+    "level-9"
+  ],
+  "related": [
+    "報告 (bou3 gou3 – report)",
+    "消息 (siu1 sik1 – news)",
+    "專家 (zyun1 gaa1 – expert)",
+    "警方 (ging2 fong1 – police)",
+    "資料 (zi1 liu2 – data/information)"
+  ]
+}

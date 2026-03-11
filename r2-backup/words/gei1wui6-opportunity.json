@@ -1,0 +1,37 @@
+{
+  "id": "gei1wui6-opportunity",
+  "word": "機會",
+  "jyutping": "gei1 wui6",
+  "meaning": "opportunity / chance",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to refer to a chance or opportunity for something to happen",
+    "Often implies something valuable or time-limited",
+    "Commonly used with verbs like 有 (have), 把握 (seize), or 給 (give)"
+  ],
+
+  "examples": [
+    {
+      "id": "gei1wui6-opportunity-example-1",
+      "sentence": "如果有機會，我想再試一次。",
+      "jyutping": "jyu4 gwo2 jau5 gei1 wui6, ngo5 soeng2 zoi3 si3 jat1 ci3",
+      "meaning": "If there’s an opportunity, I’d like to try again."
+    },
+    {
+      "id": "gei1wui6-opportunity-example-2",
+      "sentence": "你要把握呢個機會。",
+      "jyutping": "nei5 jiu3 baa2 ak1 ni1 go3 gei1 wui6",
+      "meaning": "You should seize this opportunity."
+    }
+  ],
+
+  "audio": {
+    "word": "gei1wui6-opportunity.mp3",
+    "examples": [
+      "gei1wui6-opportunity-example-1.mp3",
+      "gei1wui6-opportunity-example-2.mp3"
+    ]
+  }
+}

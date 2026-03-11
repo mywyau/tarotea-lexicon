@@ -1,0 +1,193 @@
+{
+  "topic": "housing",
+  "title": "Housing & Renting",
+  "description": "Talk about apartments, renting homes, landlords, and everyday housing issues.",
+  "categories": {
+    "types_of_housing": [
+      { "id": "uk1-house", "word": "屋", "jyutping": "uk1", "meaning": "house" },
+      { "id": "lau4-flat-apartment", "word": "樓", "jyutping": "lau4", "meaning": "apartment" },
+      { "id": "daan1wai2-apartment-unit", "word": "單位", "jyutping": "daan1 wai2", "meaning": "apartment unit" },
+      { "id": "gung1uk1-public-housing", "word": "公屋", "jyutping": "gung1 uk1", "meaning": "public housing" },
+      { "id": "si1jan4lau4-private-apartment", "word": "私人樓", "jyutping": "si1 jan4 lau4", "meaning": "private apartment" },
+      { "id": "zyu6zaak6-residence", "word": "住宅", "jyutping": "zyu6 zaak6", "meaning": "home" },
+      { "id": "cyun1uk1-village-house", "word": "村屋", "jyutping": "cyun1 uk1", "meaning": "village house" },
+      { "id": "duk6laap6uk1-detached-house", "word": "獨立屋", "jyutping": "duk6 laap6 uk1", "meaning": "detached house" },
+      { "id": "lin4paai4uk1-terraced-house", "word": "連排屋", "jyutping": "lin4 paai4 uk1", "meaning": "terraced house" },
+      { "id": "hok6saang1suk1se3-dormitory", "word": "學生宿舍", "jyutping": "hok6 saang1 suk1 se3", "meaning": "dormitory" },
+      { "id": "zou1fong2-rented-room", "word": "租房", "jyutping": "zou1 fong2", "meaning": "rented room" },
+      { "id": "tong1fong2-subdivided-flat", "word": "劏房", "jyutping": "tong1 fong2", "meaning": "subdivided flat" },
+      { "id": "loeng5fong2-two-bedroom", "word": "兩房", "jyutping": "loeng5 fong2", "meaning": "two bedroom flat" },
+      { "id": "jat1fong2-one-bedroom", "word": "一房", "jyutping": "jat1 fong2", "meaning": "one bedroom flat" },
+      { "id": "daan1jan4fong2-studio", "word": "單人房", "jyutping": "daan1 jan4 fong2", "meaning": "studio" }
+    ],
+
+    "rooms_in_home": [
+      { "id": "hak3teng1-living-room", "word": "客廳", "jyutping": "hak3 teng1", "meaning": "living room" },
+      { "id": "fong2-room", "word": "房", "jyutping": "fong2", "meaning": "room" },
+      { "id": "ceoi4fong2-kitchen", "word": "廚房", "jyutping": "ceoi4 fong2", "meaning": "kitchen" },
+      { "id": "ci3so2-bathroom", "word": "廁所", "jyutping": "ci3 so2", "meaning": "bathroom" },
+      { "id": "joeng4toi4-balcony", "word": "陽台", "jyutping": "joeng4 toi4", "meaning": "balcony" },
+      { "id": "cyu5mat6fong2-storage-room", "word": "儲物房", "jyutping": "cyu5 mat6 fong2", "meaning": "storage room" },
+      { "id": "seoi6fong2-bedroom", "word": "睡房", "jyutping": "seoi6 fong2", "meaning": "bedroom" },
+      { "id": "faan6teng1-dining-room", "word": "飯廳", "jyutping": "faan6 teng1", "meaning": "dining room" },
+      { "id": "syu1fong2-study", "word": "書房", "jyutping": "syu1 fong2", "meaning": "study" },
+      { "id": "juk6sat1-bathroom", "word": "浴室", "jyutping": "juk6 sat1", "meaning": "bathroom" },
+      { "id": "faan6zoek3wai2-dining-area", "word": "飯桌位", "jyutping": "faan6 zoek3 wai2", "meaning": "dining area" },
+      { "id": "lau4soeng6-upstairs", "word": "樓上", "jyutping": "lau4 soeng6", "meaning": "upstairs" },
+      { "id": "lau4haa6-downstairs", "word": "樓下", "jyutping": "lau4 haa6", "meaning": "downstairs" }
+    ],
+
+    "renting_terms": [
+      { "id": "zou1-rent", "word": "租", "jyutping": "zou1", "meaning": "rent" },
+      { "id": "on3gam1-deposit", "word": "按金", "jyutping": "on3 gam1", "meaning": "deposit" },
+      { "id": "zou1haak3-tenant", "word": "租客", "jyutping": "zou1 haak3", "meaning": "tenant" },
+      { "id": "fong4dung1-landlord", "word": "房東", "jyutping": "fong4 dung1", "meaning": "landlord" },
+      { "id": "zou1joek3-lease", "word": "租約", "jyutping": "zou1 joek3", "meaning": "lease" },
+      { "id": "cim1joek3-sign-contract", "word": "簽約", "jyutping": "cim1 joek3", "meaning": "sign contract" },
+      { "id": "hap6joek3-contract", "word": "合約", "jyutping": "hap6 joek3", "meaning": "contract" },
+      { "id": "gei2cin2zou1-rent-price", "word": "幾錢租", "jyutping": "gei2 cin2 zou1", "meaning": "rent price" }
+    ],
+
+    "housing_features": [
+      { "id": "gaa1si1-furniture", "word": "傢俬", "jyutping": "gaa1 si1", "meaning": "furniture" },
+      { "id": "gwai6-cabinet", "word": "櫃", "jyutping": "gwai6", "meaning": "cabinet" },
+      { "id": "coeng4-wall", "word": "牆", "jyutping": "coeng4", "meaning": "wall" },
+      { "id": "dei6baan2-floor", "word": "地板", "jyutping": "dei6 baan2", "meaning": "floor" },
+      { "id": "mun4-door", "word": "門", "jyutping": "mun4", "meaning": "door" },
+      { "id": "coeng1-window", "word": "窗", "jyutping": "coeng1", "meaning": "window" }
+    ],
+
+    "utilities_and_services": [
+      { "id": "seoi2fai3-water-bill", "word": "水費", "jyutping": "seoi2 fai3", "meaning": "water bill" },
+      { "id": "din6fai3-electricity-bill", "word": "電費", "jyutping": "din6 fai3", "meaning": "electric bill" },
+      { "id": "mui4hei3fai3-gas-bill", "word": "煤氣費", "jyutping": "mui4 hei3 fai3", "meaning": "gas bill" },
+      { "id": "mong5lok6fai3-internet-bill", "word": "網絡費", "jyutping": "mong5 lok6 fai3", "meaning": "internet bill" },
+      { "id": "din6hei3-appliances", "word": "電器", "jyutping": "din6 hei3", "meaning": "appliances" },
+      { "id": "jit6seoi2-hot-water", "word": "熱水", "jyutping": "jit6 seoi2", "meaning": "hot water" },
+      { "id": "laang5hei3-air-conditioner", "word": "冷氣", "jyutping": "laang5 hei3", "meaning": "air conditioner" },
+      { "id": "mong5lok6-internet", "word": "網絡", "jyutping": "mong5 lok6", "meaning": "internet" },
+      { "id": "mui4hei3-gas", "word": "煤氣", "jyutping": "mui4 hei3", "meaning": "gas" },
+      { "id": "din6jyun4-power", "word": "電源", "jyutping": "din6 jyun4", "meaning": "power" },
+      { "id": "caap3zo6-socket", "word": "插座", "jyutping": "caap3 zo6", "meaning": "socket" },
+      { "id": "din6dang1-light", "word": "電燈", "jyutping": "din6 dang1", "meaning": "light" },
+      { "id": "seoi2hau4-water-tap", "word": "水喉", "jyutping": "seoi2 hau4", "meaning": "tap" },
+      { "id": "sai2ji1gei1-washing-machine", "word": "洗衣機", "jyutping": "sai2 ji1 gei1", "meaning": "washing machine" },
+      { "id": "bing1soeng1-fridge", "word": "冰箱", "jyutping": "bing1 soeng1", "meaning": "fridge" },
+      { "id": "jit6seoi2lou4-water-heater", "word": "熱水爐", "jyutping": "jit6 seoi2 lou4", "meaning": "water heater" }
+    ],
+
+    "house_condition": [
+      { "id": "lau6seoi2-leak", "word": "漏水", "jyutping": "lau6 seoi2", "meaning": "leak" },
+      { "id": "waai6zo2-broken", "word": "壞咗", "jyutping": "waai6 zo2", "meaning": "broken" },
+      { "id": "mou5jit6seoi2-no-hot-water", "word": "冇熱水", "jyutping": "mou5 jit6 seoi2", "meaning": "no hot water" },
+      { "id": "mou5din6-no-electricity", "word": "冇電", "jyutping": "mou5 din6", "meaning": "no electricity" },
+      { "id": "mou5seoi2-no-water", "word": "冇水", "jyutping": "mou5 seoi2", "meaning": "no water" },
+      { "id": "hou2sai3-small", "word": "好細", "jyutping": "hou2 sai3", "meaning": "small" },
+      { "id": "hou2gwai3-expensive", "word": "好貴", "jyutping": "hou2 gwai3", "meaning": "expensive" },
+      { "id": "hou2cou4-noisy", "word": "好嘈", "jyutping": "hou2 cou4", "meaning": "noisy" },
+      { "id": "seoi2hau4man6tai4-plumbing-problem", "word": "水喉問題", "jyutping": "seoi2 hau4 man6 tai4", "meaning": "plumbing problem" },
+      { "id": "laang5hei3waai6zo2-aircon-broken", "word": "冷氣壞咗", "jyutping": "laang5 hei3 waai6 zo2", "meaning": "aircon broken" },
+      { "id": "din6dang1waai6zo2-light-broken", "word": "電燈壞咗", "jyutping": "din6 dang1 waai6 zo2", "meaning": "light broken" },
+      { "id": "mou5mong5lok6-no-internet", "word": "冇網絡", "jyutping": "mou5 mong5 lok6", "meaning": "no internet" },
+      { "id": "laang5hei3m4dung3-aircon-not-cold", "word": "冷氣唔凍", "jyutping": "laang5 hei3 m4 dung3", "meaning": "aircon not cold" },
+      { "id": "gwong1maang5-bright", "word": "光猛", "jyutping": "gwong1 maang5", "meaning": "bright" },
+      { "id": "hou2am3-dark", "word": "好暗", "jyutping": "hou2 am3", "meaning": "dark" },
+      { "id": "hou2gon1zing6-clean", "word": "好乾淨", "jyutping": "hou2 gon1 zing6", "meaning": "clean" },
+      { "id": "hou2lyun6-messy", "word": "好亂", "jyutping": "hou2 lyun6", "meaning": "messy" },
+      { "id": "hou2fut3-spacious", "word": "好闊", "jyutping": "hou2 fut3", "meaning": "spacious" },
+      { "id": "hou2gau6-old", "word": "好舊", "jyutping": "hou2 gau6", "meaning": "old" },
+      { "id": "hou2san1-new", "word": "好新", "jyutping": "hou2 san1", "meaning": "new" },
+      { "id": "tung1fung1-ventilated", "word": "通風", "jyutping": "tung1 fung1", "meaning": "ventilated" },
+      { "id": "zing2cai4-tidy", "word": "整齊", "jyutping": "zing2 cai4", "meaning": "tidy" },
+      { "id": "san1zong1sau1-renovated", "word": "新裝修", "jyutping": "san1 zong1 sau1", "meaning": "renovated" },
+      { "id": "gau6zong1sau1-old-renovation", "word": "舊裝修", "jyutping": "gau6 zong1 sau1", "meaning": "old renovation" },
+      { "id": "hou2syu1fuk6-comfortable", "word": "好舒服", "jyutping": "hou2 syu1 fuk6", "meaning": "comfortable" },
+      { "id": "hou2bik1-crowded", "word": "好迫", "jyutping": "hou2 bik1", "meaning": "crowded" }
+    ],
+
+    "living_actions": [
+      { "id": "wan2uk1-find-house", "word": "搵屋", "jyutping": "wan2 uk1", "meaning": "find house" },
+      { "id": "zou1uk1-rent-house", "word": "租屋", "jyutping": "zou1 uk1", "meaning": "rent house" },
+      { "id": "ceot1zou1-rent-out", "word": "出租", "jyutping": "ceot1 zou1", "meaning": "rent out" },
+      { "id": "zing2sau1-repair", "word": "整修", "jyutping": "zing2 sau1", "meaning": "repair" },
+      { "id": "zyu6-live", "word": "住", "jyutping": "zyu6", "meaning": "live" },
+      { "id": "zyu6hai2-live-at", "word": "住喺", "jyutping": "zyu6 hai2", "meaning": "live at" },
+      { "id": "bun1uk1-move-house", "word": "搬屋", "jyutping": "bun1 uk1", "meaning": "move house" },
+      { "id": "bun1jap6-move-in", "word": "搬入", "jyutping": "bun1 jap6", "meaning": "move in" },
+      { "id": "bun1ceot1-move-out", "word": "搬出", "jyutping": "bun1 ceot1", "meaning": "move out" },
+      { "id": "soeng5lau4-go-upstairs", "word": "上樓", "jyutping": "soeng5 lau4", "meaning": "go upstairs" },
+      { "id": "lok6lau4-go-downstairs", "word": "落樓", "jyutping": "lok6 lau4", "meaning": "go downstairs" },
+      { "id": "hoi1mun4-open-door", "word": "開門", "jyutping": "hoi1 mun4", "meaning": "open door" },
+      { "id": "gwaan1mun4-close-door", "word": "關門", "jyutping": "gwaan1 mun4", "meaning": "close door" },
+      { "id": "so2mun4-lock-door", "word": "鎖門", "jyutping": "so2 mun4", "meaning": "lock door" },
+      { "id": "sau1sap6-clean-up", "word": "收拾", "jyutping": "sau1 sap6", "meaning": "clean up" },
+      { "id": "cing1git3-clean", "word": "清潔", "jyutping": "cing1 git3", "meaning": "clean" },
+      { "id": "jung6joeng4toi4-use-balcony", "word": "用陽台", "jyutping": "jung6 joeng4 toi4", "meaning": "use balcony" },
+      { "id": "haang4ceot1joeng4toi4-go-to-balcony", "word": "行出陽台", "jyutping": "haang4 ceot1 joeng4 toi4", "meaning": "go to balcony" }
+    ],
+
+    "real_estate": [
+      { "id": "dei6caan2-real-estate", "word": "地產", "jyutping": "dei6 caan2", "meaning": "real estate" },
+      { "id": "dei6caan2ging1gei2-real-estate-agent", "word": "地產經紀", "jyutping": "dei6 caan2 ging1 gei2", "meaning": "real estate agent" },
+      { "id": "lau4pun2-property-listing", "word": "樓盤", "jyutping": "lau4 pun2", "meaning": "property listing" },
+      { "id": "tai2lau4-view-property", "word": "睇樓", "jyutping": "tai2 lau4", "meaning": "view property" },
+      { "id": "jip6zyu2-owner", "word": "業主", "jyutping": "jip6 zyu2", "meaning": "owner" },
+      { "id": "zou1pun2-rental-listing", "word": "租盤", "jyutping": "zou1 pun2", "meaning": "rental listing" },
+      { "id": "maai5pun2-sale-listing", "word": "買盤", "jyutping": "maai5 pun2", "meaning": "sale listing" },
+      { "id": "gaa3cin2-price", "word": "價錢", "jyutping": "gaa3 cin2", "meaning": "price" },
+      { "id": "ping4fong1cek3-square-feet", "word": "平方呎", "jyutping": "ping4 fong1 cek3", "meaning": "square feet" },
+      { "id": "gung1jyu6-apartment-building", "word": "公寓", "jyutping": "gung1 jyu6", "meaning": "apartment building" },
+      { "id": "ping4min6tou4-floor-plan", "word": "平面圖", "jyutping": "ping4 min6 tou4", "meaning": "floor plan" },
+      { "id": "ging2gun1-view", "word": "景觀", "jyutping": "ging2 gun1", "meaning": "view" },
+      { "id": "hoi2ging2-sea-view", "word": "海景", "jyutping": "hoi2 ging2", "meaning": "sea view" },
+      { "id": "saan1ging2-mountain-view", "word": "山景", "jyutping": "saan1 ging2", "meaning": "mountain view" }
+    ],
+
+    "housing_costs": [
+      { "id": "zou1gam1-rent", "word": "租金", "jyutping": "zou1 gam1", "meaning": "rent" },
+      { "id": "uk1zou1-house-rent", "word": "屋租", "jyutping": "uk1 zou1", "meaning": "house rent" },
+      { "id": "gaau1zou1-pay-rent", "word": "交租", "jyutping": "gaau1 zou1", "meaning": "pay rent" },
+      { "id": "gun2lei5fai3-management-fee", "word": "管理費", "jyutping": "gun2 lei5 fai3", "meaning": "management fee" },
+      { "id": "caa1hoeng2-property-tax", "word": "差餉", "jyutping": "caa1 hoeng2", "meaning": "property tax" },
+      { "id": "seoi2din6fai3-utilities", "word": "水電費", "jyutping": "seoi2 din6 fai3", "meaning": "utilities" },
+      { "id": "ding3gam1-deposit", "word": "訂金", "jyutping": "ding3 gam1", "meaning": "deposit" },
+      { "id": "jyu6syun3-budget", "word": "預算", "jyutping": "jyu6 syun3", "meaning": "budget" }
+    ],
+
+    "building_facilities": [
+      { "id": "din6tai1-elevator", "word": "電梯", "jyutping": "din6 tai1", "meaning": "elevator" },
+      { "id": "din6lip1-elevator", "word": "電𨋢", "jyutping": "din6 lip1", "meaning": "elevator" },
+      { "id": "fu4sau2din6tai1-escalator", "word": "扶手電梯", "jyutping": "fu4 sau2 din6 tai1", "meaning": "escalator" },
+      { "id": "ce1wai6-parking-space", "word": "車位", "jyutping": "ce1 wai6", "meaning": "parking space" },
+      { "id": "bou2on1-security", "word": "保安", "jyutping": "bou2 on1", "meaning": "security" },
+      { "id": "daai6tong4-lobby", "word": "大堂", "jyutping": "daai6 tong4", "meaning": "lobby" },
+      { "id": "gun2lei5cyu3-management-office", "word": "管理處", "jyutping": "gun2 lei5 cyu3", "meaning": "management office" },
+      { "id": "seon3soeng1-mailbox", "word": "信箱", "jyutping": "seon3 soeng1", "meaning": "mailbox" },
+      { "id": "sau1faat3sat1-mail-room", "word": "收發室", "jyutping": "sau1 faat3 sat1", "meaning": "mail room" },
+      { "id": "gun2lei5jyun4-manager", "word": "管理員", "jyutping": "gun2 lei5 jyun4", "meaning": "manager" },
+      { "id": "zau2long4-corridor", "word": "走廊", "jyutping": "zau2 long4", "meaning": "corridor" },
+      { "id": "lau4tai1-stairs", "word": "樓梯", "jyutping": "lau4 tai1", "meaning": "stairs" },
+      { "id": "ting4ce1coeng4-parking-lot", "word": "停車場", "jyutping": "ting4 ce1 coeng4", "meaning": "parking lot" },
+      { "id": "jap6hau2-entrance", "word": "入口", "jyutping": "jap6 hau2", "meaning": "entrance" },
+      { "id": "ceot1hau2-exit", "word": "出口", "jyutping": "ceot1 hau2", "meaning": "exit" }
+    ],
+
+    "neighbourhood": [
+      { "id": "keoi1-district", "word": "區", "jyutping": "keoi1", "meaning": "district" },
+      { "id": "gaak3lei4-neighbour", "word": "隔籬", "jyutping": "gaak3 lei4", "meaning": "neighbour" },
+      { "id": "gaai1-street", "word": "街", "jyutping": "gaai1", "meaning": "street" },
+      { "id": "si5coeng4-market", "word": "市場", "jyutping": "si5 coeng4", "meaning": "market" },
+      { "id": "hok6haau6-school", "word": "學校", "jyutping": "hok6 haau6", "meaning": "school" },
+      { "id": "gaai1fong1-neighbour", "word": "街坊", "jyutping": "gaai1 fong1", "meaning": "neighbour" },
+      { "id": "siu2dim3-shop", "word": "小店", "jyutping": "siu2 dim3", "meaning": "shop" },
+      { "id": "caan1teng1-restaurant", "word": "餐廳", "jyutping": "caan1 teng1", "meaning": "restaurant" },
+      { "id": "caa4caan1teng1-cafe", "word": "茶餐廳", "jyutping": "caa4 caan1 teng1", "meaning": "cafe" },
+      { "id": "gung1jyun4-park", "word": "公園", "jyutping": "gung1 jyun4", "meaning": "park" },
+      { "id": "hoi2pong4-harbourfront", "word": "海旁", "jyutping": "hoi2 pong4", "meaning": "harbourfront" },
+      { "id": "baa1si2zaam6-bus-stop", "word": "巴士站", "jyutping": "baa1 si2 zaam6", "meaning": "bus stop" },
+      { "id": "dei6tit3zaam6-station", "word": "地鐵站", "jyutping": "dei6 tit3 zaam6", "meaning": "station" },
+      { "id": "maa5lou6-road", "word": "馬路", "jyutping": "maa5 lou6", "meaning": "road" },
+      { "id": "siu2hong6-alley", "word": "小巷", "jyutping": "siu2 hong6", "meaning": "alley" }
+    ]
+  }
+}

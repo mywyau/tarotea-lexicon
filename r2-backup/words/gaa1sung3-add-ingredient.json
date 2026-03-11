@@ -1,0 +1,66 @@
+{
+  "id": "gaa1sung3-add-ingredient",
+  "word": "加餸",
+  "jyutping": "gaa1 sung3",
+  "meaning": "add an extra dish",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '加餸' (gaa1 sung3) is used to indicate adding an extra dish to a meal or order.",
+    "It functions as a noun in a sentence, referring to the additional dish itself or the act of adding one.",
+    "'加餸' can appear after a verb like '想' (want) or '叫' (order), for example, '想加餸' means wanting to add an extra dish.",
+    "It is commonly used when talking about restaurant orders or group meals where extra food is requested.",
+    "Although '加餸' is a noun, it can be used in a casual way to imply the action of adding more dishes."
+  ],
+  "examples": [
+    {
+      "id": "gaa1sung3-add-ingredient-example-1",
+      "sentence": "我哋想加餸，多啲菜啦。",
+      "jyutping": "ngo5 dei6 soeng2 gaa1 sung3, do1 di1 coi3 laa1.",
+      "meaning": "We want to add an extra dish, more vegetables please."
+    },
+    {
+      "id": "gaa1sung3-add-ingredient-example-2",
+      "sentence": "今次飯局唔夠嘢食，要加餸。",
+      "jyutping": "gam1 ci3 faan6 guk6 m4 gau3 je5 sik6, jiu3 gaa1 sung3.",
+      "meaning": "This meal doesn’t have enough food, need to add an extra dish."
+    },
+    {
+      "id": "gaa1sung3-add-ingredient-example-3",
+      "sentence": "加餸要早啲講，等廚房準備。",
+      "jyutping": "gaa1 sung3 jiu3 zou2 di1 gong2, dang2 ceoi4 fong2 zeon2 bei6.",
+      "meaning": "You have to say you want to add extra dishes early so the kitchen can prepare."
+    },
+    {
+      "id": "gaa1sung3-add-ingredient-example-4",
+      "sentence": "餐牌上面有冇加餸嘅選擇？",
+      "jyutping": "caan1 paai4 soeng6 min6 jau5 mou5 gaa1 sung3 ge3 syun2 zaak6?",
+      "meaning": "Are there options for extra dishes on the menu?"
+    }
+  ],
+  "audio": {
+    "word": "gaa1sung3-add-ingredient.mp3",
+    "examples": [
+      "gaa1sung3-add-ingredient-example-1.mp3",
+      "gaa1sung3-add-ingredient-example-2.mp3",
+      "gaa1sung3-add-ingredient-example-3.mp3",
+      "gaa1sung3-add-ingredient-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "restaurant",
+    "ordering food",
+    "extra dish",
+    "meal",
+    "food",
+    "level-1"
+  ],
+  "related": [
+    "餸6 sung3 - dish",
+    "加糖 gaa1 tong4 - add sugar",
+    "加飯 gaa1 faan6 - add rice",
+    "點菜 dim2 coi3 - order food",
+    "叫外賣 giu3 ngoi6 maai6 - order takeout"
+  ]
+}

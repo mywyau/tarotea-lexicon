@@ -1,0 +1,37 @@
+{
+  "id": "jing2hoeng2-affect",
+  "word": "影響",
+  "jyutping": "jing2 hoeng2",
+  "meaning": "to affect / influence",
+
+  "pos": ["verb", "noun"],
+
+  "usage": [
+    "Used to describe the effect or influence one thing has on another",
+    "Can refer to people, situations, decisions, or results",
+    "Often used in cause-and-effect explanations"
+  ],
+
+  "examples": [
+    {
+      "id": "jing2hoeng2-affect-example-1",
+      "sentence": "呢個決定會影響好多人。",
+      "jyutping": "ni1 go3 kyut3 ding6 wui5 jing2 hoeng2 hou2 do1 jan4",
+      "meaning": "This decision will affect many people."
+    },
+    {
+      "id": "jing2hoeng2-affect-example-2",
+      "sentence": "天氣影響咗我哋嘅行程。",
+      "jyutping": "tin1 hei3 jing2 hoeng2 zo2 ngo5 dei6 ge3 hang4 cing4",
+      "meaning": "The weather affected our plans."
+    }
+  ],
+
+  "audio": {
+    "word": "jing2hoeng2-affect.mp3",
+    "examples": [
+      "jing2hoeng2-affect-example-1.mp3",
+      "jing2hoeng2-affect-example-2.mp3"
+    ]
+  }
+}

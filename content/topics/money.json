@@ -1,0 +1,89 @@
+{
+  "topic": "money_and_payment",
+  "title": "Money & Payment",
+  "description": "Talk about money, prices, shopping, paying, change, bills, banking, and everyday payment situations.",
+  "categories": {
+    "basic_money_words": [
+      { "id": "cin2-money", "word": "錢", "jyutping": "cin2", "meaning": "money" },
+      { "id": "ngan4-bank", "word": "銀", "jyutping": "ngan4", "meaning": "silver" },
+      { "id": "gaan1gaak3-price", "word": "價格", "jyutping": "gaa3 gaak3", "meaning": "listed price" },
+      { "id": "gaa3cin2-price", "word": "價錢", "jyutping": "gaa3 cin2", "meaning": "price" },
+      { "id": "gei2cin2-how-much", "word": "幾錢", "jyutping": "gei2 cin2", "meaning": "how much" },
+      { "id": "tai2gwaa3-expensive", "word": "太貴", "jyutping": "taai3 gwai3", "meaning": "too expensive" },
+      { "id": "ping4-cheap", "word": "平", "jyutping": "peng4", "meaning": "cheap" },
+      { "id": "gwai3-expensive", "word": "貴", "jyutping": "gwai3", "meaning": "expensive" },
+      { "id": "jyun4-round-number", "word": "圓", "jyutping": "jyun4", "meaning": "dollar" },
+      { "id": "hou2-soen3-worth", "word": "抵", "jyutping": "dai2", "meaning": "good value" }
+    ],
+
+    "cash_and_change": [
+      { "id": "jin4-banknote", "word": "紙幣", "jyutping": "zi2 bai6", "meaning": "banknote" },
+      { "id": "ngan4zi2-coin", "word": "銀仔", "jyutping": "ngan4 zai2", "meaning": "coin" },
+      { "id": "saan3zi2-change", "word": "散紙", "jyutping": "saan2 zi2", "meaning": "loose change" },
+      { "id": "tim1change-give-change", "word": "找續", "jyutping": "zaau2 zuk6", "meaning": "change due" },
+      { "id": "mou5saan3zi2-no-change", "word": "冇散紙", "jyutping": "mou5 saan2 zi2", "meaning": "no change" },
+      { "id": "jau5mou5saan3zi2-any-change", "word": "有冇散紙", "jyutping": "jau5 mou5 saan2 zi2", "meaning": "any change" },
+      { "id": "bei2cin2-pay-money", "word": "俾錢", "jyutping": "bei2 cin2", "meaning": "pay money" },
+      { "id": "sau1cin2-receive-payment", "word": "收錢", "jyutping": "sau1 cin2", "meaning": "receive payment" }
+    ],
+
+    "shopping_and_paying": [
+      { "id": "maai5-buy", "word": "買", "jyutping": "maai5", "meaning": "buy" },
+      { "id": "maai6-sell", "word": "賣", "jyutping": "maai6", "meaning": "sell" },
+      { "id": "maai5ye5-buy-things", "word": "買嘢", "jyutping": "maai5 je5", "meaning": "buy things" },
+      { "id": "gaau1fai3-pay-fee", "word": "交費", "jyutping": "gaau1 fai3", "meaning": "pay fee" },
+      { "id": "gaau1cin2-pay-money", "word": "交錢", "jyutping": "gaau1 cin2", "meaning": "pay money" },
+      { "id": "maai4daan1-pay-bill", "word": "埋單", "jyutping": "maai4 daan1", "meaning": "pay the bill" },
+      { "id": "fung1daan1-bill", "word": "賬單", "jyutping": "zoeng3 daan1", "meaning": "bill" },
+      { "id": "daan1-receipt", "word": "單", "jyutping": "daan1", "meaning": "receipt" },
+      { "id": "sau1geoi3-receipt", "word": "收據", "jyutping": "sau1 geoi3", "meaning": "receipt" },
+      { "id": "zit3discount-discount", "word": "折扣", "jyutping": "zit3 kau3", "meaning": "discount" },
+      { "id": "ping4dou3-a-bit-cheaper", "word": "平啲", "jyutping": "peng4 di1", "meaning": "a bit cheaper" }
+    ],
+
+    "payment_methods": [
+      { "id": "jin4gaan1-cash", "word": "現金", "jyutping": "jin6 gam1", "meaning": "cash" },
+      { "id": "kaat1-card", "word": "卡", "jyutping": "kaat1", "meaning": "card" },
+      { "id": "seon3jung6kaat1-credit-card", "word": "信用卡", "jyutping": "seon3 jung6 kaat1", "meaning": "credit card" },
+      { "id": "ngan4hang4kaat1-bank-card", "word": "銀行卡", "jyutping": "ngan4 hong4 kaat1", "meaning": "bank card" },
+      { "id": "baat3daat6tung1-octopus", "word": "八達通", "jyutping": "baat3 daat6 tung1", "meaning": "octopus card" },
+      { "id": "saubaang6-tap-card-pay", "word": "拍卡", "jyutping": "paak3 kaat1", "meaning": "tap card to pay" },
+      { "id": "scan1-pay-scan-pay", "word": "掃碼支付", "jyutping": "sou3 maa5 zi1 fu6", "meaning": "qr payment" },
+      { "id": "jyun4zin6-online-payment", "word": "網上付款", "jyutping": "mong5 soeng6 fu6 fun2", "meaning": "online payment" }
+    ],
+
+    "banking": [
+      { "id": "ngan4hong4-bank", "word": "銀行", "jyutping": "ngan4 hong4", "meaning": "bank" },
+      { "id": "ngan4hong4zaang2wu6-bank-account", "word": "銀行賬戶", "jyutping": "ngan4 hong4 zoeng3 wu6", "meaning": "bank account" },
+      { "id": "cing4fo3-deposit", "word": "存款", "jyutping": "cyun4 fun2", "meaning": "deposit" },
+      { "id": "tai4fun2-withdraw", "word": "提款", "jyutping": "tai4 fun2", "meaning": "withdraw money" },
+      { "id": "zyun2zoeng3-transfer", "word": "轉賬", "jyutping": "zyun2 zoeng3", "meaning": "transfer" },
+      { "id": "jyun4ngoek6-balance", "word": "餘額", "jyutping": "jyu4 ngak6", "meaning": "balance" },
+      { "id": "lei6sik1-interest", "word": "利息", "jyutping": "lei6 sik1", "meaning": "interest" },
+      { "id": "aat3jiu3-loan", "word": "貸款", "jyutping": "taai3 fun2", "meaning": "loan" },
+      { "id": "atm1-cash-machine", "word": "提款機", "jyutping": "tai4 fun2 gei1", "meaning": "cash machine" }
+    ],
+
+    "bills_and_costs": [
+      { "id": "din6fai3-electric-bill", "word": "電費", "jyutping": "din6 fai3", "meaning": "electric bill" },
+      { "id": "seoi2fai3-water-bill", "word": "水費", "jyutping": "seoi2 fai3", "meaning": "water bill" },
+      { "id": "mui4hei3fai3-gas-bill", "word": "煤氣費", "jyutping": "mui4 hei3 fai3", "meaning": "gas bill" },
+      { "id": "zung6gei3fai3-phone-bill", "word": "電話費", "jyutping": "din6 waa2 fai3", "meaning": "phone bill" },
+      { "id": "mong5lok6fai3-internet-bill", "word": "網絡費", "jyutping": "mong5 lok6 fai3", "meaning": "internet bill" },
+      { "id": "zou1gam1-rent", "word": "租金", "jyutping": "zou1 gam1", "meaning": "rent" },
+      { "id": "gun2lei5fai3-management-fee", "word": "管理費", "jyutping": "gun2 lei5 fai3", "meaning": "management fee" },
+      { "id": "ce1fai3-fare", "word": "車費", "jyutping": "ce1 fai3", "meaning": "fare" }
+    ],
+
+    "money_questions_and_phrases": [
+      { "id": "gei2cin2-how-much", "word": "幾錢", "jyutping": "gei2 cin2", "meaning": "how much" },
+      { "id": "tai3gwai3-too-expensive", "word": "太貴喇", "jyutping": "taai3 gwai3 laa3", "meaning": "too expensive" },
+      { "id": "jau5mou5zit3-can-discount", "word": "有冇折", "jyutping": "jau5 mou5 zit3", "meaning": "any discount" },
+      { "id": "ho2m4ho2ji5ping4di1-can-cheaper", "word": "可唔可以平啲", "jyutping": "ho2 m4 ho2 ji5 peng4 di1", "meaning": "can it be cheaper" },
+      { "id": "ngo5jiu3maai4daan1-i-want-pay-bill", "word": "我要埋單", "jyutping": "ngo5 jiu3 maai4 daan1", "meaning": "I want to pay" },
+      { "id": "ngo5yiu3sau1geoi3-i-want-receipt", "word": "我要收據", "jyutping": "ngo5 jiu3 sau1 geoi3", "meaning": "I want a receipt" },
+      { "id": "jau5mou5saan2zi2-any-change", "word": "有冇散紙", "jyutping": "jau5 mou5 saan2 zi2", "meaning": "any loose change" },
+      { "id": "m4goi1tim1ngo5zaau2-can-give-change", "word": "唔該找我", "jyutping": "m4 goi1 zaau2 ngo5", "meaning": "please give change" }
+    ]
+  }
+}

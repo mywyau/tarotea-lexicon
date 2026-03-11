@@ -1,0 +1,66 @@
+{
+  "id": "jyu4-fish",
+  "word": "魚",
+  "jyutping": "jyu4",
+  "meaning": "fish",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "魚 (jyu4) is mainly used as a noun to mean fish, including both living fish and fish as food.",
+    "You can use 魚 in singular or plural contexts without changing the form, just like 'fish' in English.",
+    "It can be combined with measure words like '條' (tiu4) to specify quantity, for example, 一條魚 means one fish.",
+    "The word 魚 can be used literally or in idioms and expressions related to fish or fish-like qualities.",
+    "When talking about different types of fish, 魚 can be used with descriptors or names, e.g., 金魚 (goldfish)."
+  ],
+  "examples": [
+    {
+      "id": "jyu4-fish-example-1",
+      "sentence": "我買咗三條魚。",
+      "jyutping": "ngo5 maai5 zo2 saam1 tiu4 jyu4.",
+      "meaning": "I bought three fish."
+    },
+    {
+      "id": "jyu4-fish-example-2",
+      "sentence": "屋企有隻魚喺水缸入面。",
+      "jyutping": "uk1 kei2 jau5 zek3 jyu4 hai2 seoi2 gong1 jap6 min6.",
+      "meaning": "There is a fish in the water tank at home."
+    },
+    {
+      "id": "jyu4-fish-example-3",
+      "sentence": "今日食咗魚飯，好飽啊。",
+      "jyutping": "gam1 jat6 sik6 zo2 jyu4 faan6, hou2 baau2 aa3.",
+      "meaning": "I ate fish with rice today, very full."
+    },
+    {
+      "id": "jyu4-fish-example-4",
+      "sentence": "你識唔識游水同魚一樣？",
+      "jyutping": "nei5 sik1 m4 sik1 jau4 seoi2 tung4 jyu4 jat1 joeng6?",
+      "meaning": "Can you swim like a fish?"
+    }
+  ],
+  "audio": {
+    "word": "jyu4-fish.mp3",
+    "examples": [
+      "jyu4-fish-example-1.mp3",
+      "jyu4-fish-example-2.mp3",
+      "jyu4-fish-example-3.mp3",
+      "jyu4-fish-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal",
+    "food",
+    "living_thing",
+    "measure_word",
+    "common_noun",
+    "level-1"
+  ],
+  "related": [
+    "條 (tiu4)",
+    "魚缸 (jyu4 gong1) - fish tank",
+    "金魚 (gam1 jyu4) - goldfish",
+    "海鮮 (hoi2 sin1) - seafood",
+    "水 (seoi2) - water"
+  ]
+}

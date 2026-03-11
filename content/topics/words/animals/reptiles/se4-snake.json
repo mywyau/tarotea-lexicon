@@ -1,0 +1,66 @@
+{
+  "id": "se4-snake",
+  "word": "蛇",
+  "jyutping": "se4",
+  "meaning": "snake",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '蛇' (se4) is used to refer to the reptile 'snake' in Cantonese.",
+    "'蛇' can be used as the subject or object of a sentence.",
+    "To describe something related to snakes, you can combine '蛇' with other words, like '蛇皮' (snake skin).",
+    "When talking about multiple snakes, use a numeral plus a classifier, e.g., '一條蛇' (one snake).",
+    "In casual conversation, '蛇' might also be part of idioms or expressions."
+  ],
+  "examples": [
+    {
+      "id": "se4-snake-example-1",
+      "sentence": "我見到一條大蛇喺樹上。",
+      "jyutping": "ngo5 gin3 dou3 jat1 tiu4 daai6 se4 hai2 syu6 soeng6.",
+      "meaning": "I saw a big snake on the tree."
+    },
+    {
+      "id": "se4-snake-example-2",
+      "sentence": "蛇行得好慢。",
+      "jyutping": "se4 hang4 dak1 hou2 maan6.",
+      "meaning": "The snake moves very slowly."
+    },
+    {
+      "id": "se4-snake-example-3",
+      "sentence": "佢好怕蛇。",
+      "jyutping": "keoi5 hou2 paa3 se4.",
+      "meaning": "He is very afraid of snakes."
+    },
+    {
+      "id": "se4-snake-example-4",
+      "sentence": "呢度有好多種蛇。",
+      "jyutping": "ni1 dou6 jau5 hou2 do1 zung2 se4.",
+      "meaning": "There are many kinds of snakes here."
+    }
+  ],
+  "audio": {
+    "word": "se4-snake.mp3",
+    "examples": [
+      "se4-snake-example-1.mp3",
+      "se4-snake-example-2.mp3",
+      "se4-snake-example-3.mp3",
+      "se4-snake-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal",
+    "reptile",
+    "nature",
+    "basic",
+    "level1",
+    "level-1"
+  ],
+  "related": [
+    "蜥蜴",
+    "烏龜",
+    "青蛙",
+    "毒蛇",
+    "蛇皮"
+  ]
+}

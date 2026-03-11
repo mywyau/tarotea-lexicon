@@ -1,0 +1,66 @@
+{
+  "id": "jat1-one",
+  "word": "一",
+  "jyutping": "jat1",
+  "meaning": "one",
+
+  "pos": ["number", "determiner"],
+
+  "usage": [
+    "Used as the number one",
+    "Commonly used before measure words",
+    "Can imply ‘a / one single’ depending on context",
+    "Often pronounced quickly in natural speech"
+  ],
+
+  "examples": [
+    {
+      "id": "jat1-one-example-1",
+      "sentence": "我得一個問題。",
+      "jyutping": "ngo5 dak1 jat1 go3 man6 tai4",
+      "meaning": "I only have one question."
+    },
+    {
+      "id": "jat1-one-example-2",
+      "sentence": "一杯咖啡，唔該。",
+      "jyutping": "jat1 bui1 gaa3 fe1, m4 goi1",
+      "meaning": "One cup of coffee, please."
+    },
+    {
+      "id": "jat1-one-example-3",
+      "sentence": "我住喺一個好細嘅地方。",
+      "jyutping": "ngo5 zyu6 hai2 jat1 go3 hou2 sai3 ge3 dei6 fong1",
+      "meaning": "I live in a very small place."
+    },
+    {
+      "id": "jat1-one-example-4",
+      "sentence": "一齊去啦。",
+      "jyutping": "jat1 cai4 heoi3 laa1",
+      "meaning": "Let’s go together."
+    }
+  ],
+
+  "audio": {
+    "word": "jat1-one.mp3",
+    "examples": [
+      "jat1-one-example-1.mp3",
+      "jat1-one-example-2.mp3",
+      "jat1-one-example-3.mp3",
+      "jat1-one-example-4.mp3"
+    ]
+  },
+
+  "tags": [
+    "number",
+    "core",
+    "measure-words",
+    "level-1",
+    "spoken"
+  ],
+
+  "related": [
+    "ling4-zero",
+    "ji6-two",
+    "jat1-go3-one-clf"
+  ]
+}

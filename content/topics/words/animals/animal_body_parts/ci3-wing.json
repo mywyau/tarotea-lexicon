@@ -1,0 +1,66 @@
+{
+  "id": "ci3-wing",
+  "word": "翅",
+  "jyutping": "ci3",
+  "meaning": "wing",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '翅' (ci3) means 'wing' and is a noun used to describe the part of a bird or insect that allows it to fly.",
+    "It can be used both literally, such as referring to bird wings, and figuratively in expressions.",
+    "'翅' often appears in compound words or phrases related to flying animals or food like chicken wings.",
+    "In sentences, it usually follows a measure word or is directly modified by adjectives describing the wing's condition or color.",
+    "The plural form is the same as the singular in Cantonese, so context determines the number."
+  ],
+  "examples": [
+    {
+      "id": "ci3-wing-example-1",
+      "sentence": "隻雞有兩隻翅膀。",
+      "jyutping": "zek3 gai1 jau5 loeng5 zek3 ci3bong2.",
+      "meaning": "The chicken has two wings."
+    },
+    {
+      "id": "ci3-wing-example-2",
+      "sentence": "我鐘意食炸雞翅。",
+      "jyutping": "ngo5 zung1 ji3 sik6 zaa3 gai1 ci3.",
+      "meaning": "I like to eat fried chicken wings."
+    },
+    {
+      "id": "ci3-wing-example-3",
+      "sentence": "蝴蝶嘅翅好靚。",
+      "jyutping": "wu4 dip6 ge3 ci3 hou2 leng3.",
+      "meaning": "The butterfly's wings are very beautiful."
+    },
+    {
+      "id": "ci3-wing-example-4",
+      "sentence": "隻鳥張開翅飛走咗。",
+      "jyutping": "zek3 niu5 zoeng1 hoi1 ci3 fei1 zau2 zo2.",
+      "meaning": "The bird spread its wings and flew away."
+    }
+  ],
+  "audio": {
+    "word": "ci3-wing.mp3",
+    "examples": [
+      "ci3-wing-example-1.mp3",
+      "ci3-wing-example-2.mp3",
+      "ci3-wing-example-3.mp3",
+      "ci3-wing-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal",
+    "body part",
+    "bird",
+    "insect",
+    "food",
+    "level-1"
+  ],
+  "related": [
+    "翼 (jik6) - wing",
+    "翅膀 (ci3bong2) - wings",
+    "羽毛 (jyu5 mou4) - feathers",
+    "雞翅 (gai1 ci3) - chicken wings",
+    "蝴蝶 (wu4 dip6) - butterfly"
+  ]
+}

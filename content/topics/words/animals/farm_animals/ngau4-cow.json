@@ -1,0 +1,66 @@
+{
+  "id": "ngau4-cow",
+  "word": "牛",
+  "jyutping": "ngau4",
+  "meaning": "cow",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '牛' (ngau4) is a noun used to refer to 'cow' or 'cattle' generally.",
+    "'牛' can be singular or plural depending on context, but often treated as singular in everyday speech.",
+    "It can be combined with other words to refer to specific types or parts of a cow, like '牛奶' (cow milk).",
+    "In Cantonese, measure words like '隻' (zek3) are used when counting '牛', e.g., '一隻牛'.",
+    "'牛' can also be used metaphorically in expressions related to strength or stubbornness."
+  ],
+  "examples": [
+    {
+      "id": "ngau4-cow-example-1",
+      "sentence": "田度有好多牛喺食草。",
+      "jyutping": "tin4 dou6 jau5 hou2 do1 ngau4 hai2 sik6 cou2.",
+      "meaning": "There are many cows eating grass in the field."
+    },
+    {
+      "id": "ngau4-cow-example-2",
+      "sentence": "阿公養咗三隻牛。",
+      "jyutping": "aa3 gung1 joeng5 zo2 saam1 zek3 ngau4.",
+      "meaning": "Grandpa raised three cows."
+    },
+    {
+      "id": "ngau4-cow-example-3",
+      "sentence": "我哋買咗牛奶返屋企。",
+      "jyutping": "ngo5 dei6 maai5 zo2 ngau4 naai5 faan1 uk1 kei2.",
+      "meaning": "We bought cow milk to take home."
+    },
+    {
+      "id": "ngau4-cow-example-4",
+      "sentence": "牛咁嘅力氣，好勁！",
+      "jyutping": "ngau4 gam3 ge3 lik6 hei3, hou2 ging6!",
+      "meaning": "Strength like a cow, very strong!"
+    }
+  ],
+  "audio": {
+    "word": "ngau4-cow.mp3",
+    "examples": [
+      "ngau4-cow-example-1.mp3",
+      "ngau4-cow-example-2.mp3",
+      "ngau4-cow-example-3.mp3",
+      "ngau4-cow-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "farm animal",
+    "basic noun",
+    "countable",
+    "dairy",
+    "metaphor",
+    "level-1"
+  ],
+  "related": [
+    "羊",
+    "豬",
+    "雞",
+    "馬",
+    "牛奶"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "dung6mat6-animal",
+  "word": "動物",
+  "jyutping": "dung6 mat6",
+  "meaning": "animal",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "動物 (animal) is a noun used to refer to living creatures that are not humans or plants.",
+    "You can use 動物 in both singular and plural contexts without changing the form.",
+    "動物 often appears in general discussions about wildlife, pets, or biology.",
+    "It can be paired with other words to specify types of animals, like 野生動物 (wild animals).",
+    "動物 can be used as a subject or object in a sentence."
+  ],
+  "examples": [
+    {
+      "id": "dung6mat6-animal-example-1",
+      "sentence": "我好鍾意睇動物。",
+      "jyutping": "ngo5 hou2 zung1 ji3 tai2 dung6 mat6",
+      "meaning": "I really like watching animals."
+    },
+    {
+      "id": "dung6mat6-animal-example-2",
+      "sentence": "動物園入面有好多動物。",
+      "jyutping": "dung6 mat6 jyun4 jap6 min6 jau5 hou2 do1 dung6 mat6",
+      "meaning": "There are many animals in the zoo."
+    },
+    {
+      "id": "dung6mat6-animal-example-3",
+      "sentence": "你識分唔識分唔同嘅動物？",
+      "jyutping": "nei5 sik1 fan1 m4 sik1 fan1 m4 tung4 ge3 dung6 mat6",
+      "meaning": "Do you know how to tell the different animals apart?"
+    },
+    {
+      "id": "dung6mat6-animal-example-4",
+      "sentence": "動物都需要水同食物。",
+      "jyutping": "dung6 mat6 dou1 seoi1 jiu3 seoi2 tung4 sik6 mat6",
+      "meaning": "Animals all need water and food."
+    }
+  ],
+  "audio": {
+    "word": "dung6mat6-animal.mp3",
+    "examples": [
+      "dung6mat6-animal-example-1.mp3",
+      "dung6mat6-animal-example-2.mp3",
+      "dung6mat6-animal-example-3.mp3",
+      "dung6mat6-animal-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic",
+    "animals",
+    "noun",
+    "everyday",
+    "nature",
+    "level-1"
+  ],
+  "related": [
+    "貓 (maau1) cat",
+    "狗 (gau2) dog",
+    "鳥 (niu5) bird",
+    "魚 (jyu4) fish",
+    "動物園 (dung6 mat6 jyun4) zoo"
+  ]
+}

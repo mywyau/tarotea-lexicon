@@ -1,0 +1,65 @@
+{
+  "id": "goek3-foot",
+  "word": "腳",
+  "jyutping": "goek3",
+  "meaning": "foot",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '腳' (goek3) means 'foot' and is used to refer to the body part below the ankle.",
+    "'腳' can be used on its own or with measure words when counting or describing multiple feet.",
+    "In sentences, '腳' can function as the subject, object, or part of a noun phrase.",
+    "You can use '腳' to describe actions related to the foot, such as walking, hurting, or stepping.",
+    "Common phrases often include '腳痛' (foot pain) or '洗腳' (wash feet), showing how '腳' connects to health and daily activities."
+  ],
+  "examples": [
+    {
+      "id": "goek3-foot-example-1",
+      "sentence": "我隻腳痛，行唔到路。",
+      "jyutping": "ngo5 zek3 goek3 tung3, haang4 m4 dou3 lou6.",
+      "meaning": "My foot hurts, I can't walk."
+    },
+    {
+      "id": "goek3-foot-example-2",
+      "sentence": "你嘅腳幾大？",
+      "jyutping": "nei5 ge3 goek3 gei2 daai6?",
+      "meaning": "How big are your feet?"
+    },
+    {
+      "id": "goek3-foot-example-3",
+      "sentence": "記得每天洗腳。",
+      "jyutping": "gei3 dak1 mui5 tin1 saai2 goek3.",
+      "meaning": "Remember to wash your feet every day."
+    },
+    {
+      "id": "goek3-foot-example-4",
+      "sentence": "佢跑步嘅時候腳扭傷咗。",
+      "jyutping": "keoi5 paau2 bou6 ge3 si4 hau6 goek3 nau2 soeng1 zo2.",
+      "meaning": "He twisted his foot while running."
+    }
+  ],
+  "audio": {
+    "word": "goek3-foot.mp3",
+    "examples": [
+      "goek3-foot-example-1.mp3",
+      "goek3-foot-example-2.mp3",
+      "goek3-foot-example-3.mp3",
+      "goek3-foot-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "body part",
+    "health",
+    "foot",
+    "basic vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "手 (sau2)",
+    "腿 (teoi2)",
+    "腳趾 (goek3 zi2)",
+    "腳傷 (goek3 soeng1)",
+    "行路 (haang4 lou6)"
+  ]
+}

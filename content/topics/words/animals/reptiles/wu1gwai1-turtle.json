@@ -1,0 +1,66 @@
+{
+  "id": "wu1gwai1-turtle",
+  "word": "烏龜",
+  "jyutping": "wu1 gwai1",
+  "meaning": "turtle",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Wu1 gwai1 is used primarily as a noun to refer to a turtle.",
+    "You can use wu1 gwai1 to talk about real turtles or toy turtles, both countable.",
+    "When asking questions, wu1 gwai1 can be the subject or object, like 'Where is the turtle?'",
+    "You can add numbers before wu1 gwai1 to specify how many turtles, e.g., 'yat1 wu1 gwai1' (one turtle).",
+    "Wu1 gwai1 can appear in simple sentences or combined with adjectives for descriptions."
+  ],
+  "examples": [
+    {
+      "id": "wu1gwai1-turtle-example-1",
+      "sentence": "我有一隻烏龜。",
+      "jyutping": "ngo5 jau5 jat1 zek3 wu1 gwai1.",
+      "meaning": "I have a turtle."
+    },
+    {
+      "id": "wu1gwai1-turtle-example-2",
+      "sentence": "烏龜行得好慢。",
+      "jyutping": "wu1 gwai1 haang4 dak1 hou2 maan6.",
+      "meaning": "The turtle walks very slowly."
+    },
+    {
+      "id": "wu1gwai1-turtle-example-3",
+      "sentence": "你見唔見過真嘅烏龜？",
+      "jyutping": "nei5 gin3 m4 gin3 gwo3 zan1 ge3 wu1 gwai1?",
+      "meaning": "Have you seen a real turtle?"
+    },
+    {
+      "id": "wu1gwai1-turtle-example-4",
+      "sentence": "佢買咗個烏龜模型玩。",
+      "jyutping": "keoi5 maai5 zo2 go3 wu1 gwai1 mou4 jing4 waan2.",
+      "meaning": "He bought a turtle model to play with."
+    }
+  ],
+  "audio": {
+    "word": "wu1gwai1-turtle.mp3",
+    "examples": [
+      "wu1gwai1-turtle-example-1.mp3",
+      "wu1gwai1-turtle-example-2.mp3",
+      "wu1gwai1-turtle-example-3.mp3",
+      "wu1gwai1-turtle-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animals",
+    "reptiles",
+    "pets",
+    "basic vocabulary",
+    "countable nouns",
+    "level-1"
+  ],
+  "related": [
+    "蛇",
+    "蜥蜴",
+    "龜殼",
+    "龜仔",
+    "海龜"
+  ]
+}

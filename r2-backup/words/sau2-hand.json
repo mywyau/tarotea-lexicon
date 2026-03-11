@@ -1,0 +1,66 @@
+{
+  "id": "sau2-hand",
+  "word": "手",
+  "jyutping": "sau2",
+  "meaning": "hand",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '手' means 'hand' in Cantonese. It is a noun used to refer to the part of the body at the end of the arm.",
+    "'手' can be used to talk about actions involving the hand, like holding, touching, or writing.",
+    "You can combine '手' with other words to describe specific parts, for example, '手指' for 'finger' and '手腕' for 'wrist'.",
+    "'手' is often seen in phrases relating to health, injury, or physical interaction.",
+    "When talking about your hand, you can also mention which hand by adding 左 (left) or 右 (right), like '左手' (left hand)."
+  ],
+  "examples": [
+    {
+      "id": "sau2-hand-example-1",
+      "sentence": "我手痛，唔好用力。",
+      "jyutping": "ngo5 sau2 tung3, m4 hou2 jung6 lik6.",
+      "meaning": "My hand hurts, don't use force."
+    },
+    {
+      "id": "sau2-hand-example-2",
+      "sentence": "佢用手寫字，好靚。",
+      "jyutping": "keoi5 jung6 sau2 se2 zi6, hou2 leng3.",
+      "meaning": "He writes with his hand, very neat."
+    },
+    {
+      "id": "sau2-hand-example-3",
+      "sentence": "請你舉起手。",
+      "jyutping": "cing2 nei5 geoi2 hei2 sau2.",
+      "meaning": "Please raise your hand."
+    },
+    {
+      "id": "sau2-hand-example-4",
+      "sentence": "我左手戴住手錶。",
+      "jyutping": "ngo5 zo2 sau2 daai3 zyu6 sau2 biu1.",
+      "meaning": "I wear a watch on my left hand."
+    }
+  ],
+  "audio": {
+    "word": "sau2-hand.mp3",
+    "examples": [
+      "sau2-hand-example-1.mp3",
+      "sau2-hand-example-2.mp3",
+      "sau2-hand-example-3.mp3",
+      "sau2-hand-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "body",
+    "health",
+    "injury",
+    "daily_use",
+    "action",
+    "level-1"
+  ],
+  "related": [
+    "手指",
+    "手腕",
+    "手掌",
+    "手套",
+    "護手霜"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "aap3-bird-duck",
+  "word": "鴨",
+  "jyutping": "aap3",
+  "meaning": "duck",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '鴨' refers to the bird known as a duck.",
+    "'鴨' is used as a noun in sentences, indicating the animal itself.",
+    "You can use '鴨' to talk about ducks in nature, food, or stories.",
+    "It can appear alone or with measure words when counting, like '一隻鴨' (one duck).",
+    "Use '鴨' in daily conversations when referring to ducks, whether alive or cooked."
+  ],
+  "examples": [
+    {
+      "id": "aap3-bird-duck-example-1",
+      "sentence": "我見到一隻鴨喺公園度游水。",
+      "jyutping": "ngo5 gin3 dou3 jat1 zek3 aap3 hai2 gung1 jyun4 dou6 jau4 seoi2",
+      "meaning": "I saw a duck swimming in the park."
+    },
+    {
+      "id": "aap3-bird-duck-example-2",
+      "sentence": "今晚食烤鴨，好味呀。",
+      "jyutping": "gam1 maan5 sik6 haau1 aap3, hou2 mei6 aa3",
+      "meaning": "We're eating roast duck tonight, very delicious."
+    },
+    {
+      "id": "aap3-bird-duck-example-3",
+      "sentence": "鴨蛋係呢度買唔到。",
+      "jyutping": "aap3 daan6 hai6 ni1 dou6 maai5 m4 dou3",
+      "meaning": "Duck eggs cannot be bought here."
+    },
+    {
+      "id": "aap3-bird-duck-example-4",
+      "sentence": "小朋友最鍾意餵鴨。",
+      "jyutping": "siu2 pang4 jau5 zeoi3 zung1 ji3 wui3 aap3",
+      "meaning": "Children like feeding the ducks the most."
+    }
+  ],
+  "audio": {
+    "word": "aap3-bird-duck.mp3",
+    "examples": [
+      "aap3-bird-duck-example-1.mp3",
+      "aap3-bird-duck-example-2.mp3",
+      "aap3-bird-duck-example-3.mp3",
+      "aap3-bird-duck-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal",
+    "bird",
+    "noun",
+    "food",
+    "nature",
+    "level-1"
+  ],
+  "related": [
+    "雀 (zoek3) - bird",
+    "雞 (gai1) - chicken",
+    "蛋 (daan6) - egg",
+    "魚 (jyu4) - fish",
+    "鵝 (ngo4) - goose"
+  ]
+}

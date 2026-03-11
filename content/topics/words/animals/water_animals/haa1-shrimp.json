@@ -1,0 +1,65 @@
+{
+  "id": "haa1-shrimp",
+  "word": "蝦",
+  "jyutping": "haa1",
+  "meaning": "shrimp",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "蝦 (shrimp) is commonly used as a noun to refer to the small crustacean found in water.",
+    "It can be used alone or combined with other words to specify types or preparations of shrimp.",
+    "蝦 can appear as the subject or object in a sentence.",
+    "It is often used in everyday conversation about food, cooking, and animals."
+  ],
+  "examples": [
+    {
+      "id": "haa1-shrimp-example-1",
+      "sentence": "我今晚想食蝦。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 sik6 haa1",
+      "meaning": "I want to eat shrimp tonight."
+    },
+    {
+      "id": "haa1-shrimp-example-2",
+      "sentence": "呢度有新鮮嘅蝦。",
+      "jyutping": "ni1 dou6 jau5 san1 sin1 ge3 haa1",
+      "meaning": "There are fresh shrimps here."
+    },
+    {
+      "id": "haa1-shrimp-example-3",
+      "sentence": "你識唔識整蝦餃？",
+      "jyutping": "nei5 sik1 m4 sik1 zeng2 haa1 gaau2",
+      "meaning": "Do you know how to make shrimp dumplings?"
+    },
+    {
+      "id": "haa1-shrimp-example-4",
+      "sentence": "魚缸入面有幾隻蝦。",
+      "jyutping": "jyu4 gong1 jap6 min6 jau5 gei2 zek3 haa1",
+      "meaning": "There are several shrimps in the fish tank."
+    }
+  ],
+  "audio": {
+    "word": "haa1-shrimp.mp3",
+    "examples": [
+      "haa1-shrimp-example-1.mp3",
+      "haa1-shrimp-example-2.mp3",
+      "haa1-shrimp-example-3.mp3",
+      "haa1-shrimp-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animals",
+    "water animals",
+    "seafood",
+    "food",
+    "cooking",
+    "level-1"
+  ],
+  "related": [
+    "海鮮 (hoi2 sin1) - seafood",
+    "蝦餃 (haa1 gaau2) - shrimp dumpling",
+    "龍蝦 (lung4 haa1) - lobster",
+    "蝦醬 (haa1 zoeng3) - shrimp paste",
+    "蝦仁 (haa1 jan4) - shelled shrimp"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tiu3-jump",
+  "word": "跳",
+  "jyutping": "tiu3",
+  "meaning": "jump",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word 跳 (tiu3) is most commonly used as a verb meaning 'to jump'.",
+    "It can describe physical actions, such as animals or people jumping.",
+    "It can be used in phrases to indicate skipping or dancing.",
+    "The verb can be followed by locations or objects where the jumping happens.",
+    "It is often used in everyday situations to describe movements or playful actions."
+  ],
+  "examples": [
+    {
+      "id": "tiu3-jump-example-1",
+      "sentence": "隻貓跳咗上張櫈。",
+      "jyutping": "zek3 maau1 tiu3 zo2 soeng6 zoeng1 dang2.",
+      "meaning": "The cat jumped onto the chair."
+    },
+    {
+      "id": "tiu3-jump-example-2",
+      "sentence": "小朋友鍾意跳繩。",
+      "jyutping": "siu2 pang4 jau5 zung1 ji3 tiu3 sing4.",
+      "meaning": "Children like to jump rope."
+    },
+    {
+      "id": "tiu3-jump-example-3",
+      "sentence": "狗喺草地度跳嚟跳去。",
+      "jyutping": "gau2 hai2 cou2 dei6 dou6 tiu3 lai4 tiu3 heoi3.",
+      "meaning": "The dog is jumping back and forth on the grass."
+    },
+    {
+      "id": "tiu3-jump-example-4",
+      "sentence": "佢跳咗一道好高嘅欄杆。",
+      "jyutping": "keoi5 tiu3 zo2 jat1 dou6 hou2 gou1 ge3 laan4 gon1.",
+      "meaning": "He jumped over a very high railing."
+    }
+  ],
+  "audio": {
+    "word": "tiu3-jump.mp3",
+    "examples": [
+      "tiu3-jump-example-1.mp3",
+      "tiu3-jump-example-2.mp3",
+      "tiu3-jump-example-3.mp3",
+      "tiu3-jump-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal_actions",
+    "movement",
+    "common_verbs",
+    "basic_cantonese",
+    "physical_actions",
+    "level-1"
+  ],
+  "related": [
+    "跑",
+    "跳繩",
+    "跳高",
+    "跳舞",
+    "落地"
+  ]
+}

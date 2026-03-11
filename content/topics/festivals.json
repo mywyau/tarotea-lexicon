@@ -1,0 +1,81 @@
+{
+  "topic": "festivals_and_celebrations",
+  "title": "Festivals & Celebrations",
+  "description": "Talk about holidays, festivals, birthdays, weddings, lucky wishes, decorations, and celebration activities.",
+  "categories": {
+    "traditional_festivals": [
+      { "id": "nung4lik6san1nin4-lunar-new-year", "word": "農曆新年", "jyutping": "nung4 lik6 san1 nin4", "meaning": "lunar new year" },
+      { "id": "jyun4siu1zit3-lantern-festival", "word": "元宵節", "jyutping": "jyun4 siu1 zit3", "meaning": "lantern festival" },
+      { "id": "cing1ming4zit3-ching-ming-festival", "word": "清明節", "jyutping": "cing1 ming4 zit3", "meaning": "ching ming festival" },
+      { "id": "dyun1ng5zit3-dragon-boat-festival", "word": "端午節", "jyutping": "dyun1 ng5 zit3", "meaning": "dragon boat festival" },
+      { "id": "zung1cau1zit3-mid-autumn-festival", "word": "中秋節", "jyutping": "zung1 cau1 zit3", "meaning": "mid autumn festival" },
+      { "id": "coeng4joeng4zit3-chung-yeung-festival", "word": "重陽節", "jyutping": "cung4 joeng4 zit3", "meaning": "chung yeung festival" },
+      { "id": "dung1zi3-winter-solstice", "word": "冬至", "jyutping": "dung1 zi3", "meaning": "winter solstice" },
+      { "id": "sing3daan3zit3-christmas", "word": "聖誕節", "jyutping": "sing3 daan3 zit3", "meaning": "christmas" }
+    ],
+
+    "family_and_personal_celebrations": [
+      { "id": "saang1jat6-birthday", "word": "生日", "jyutping": "saang1 jat6", "meaning": "birthday" },
+      { "id": "saang1jat6wui6-birthday-party", "word": "生日會", "jyutping": "saang1 jat6 wui6", "meaning": "birthday party" },
+      { "id": "git3fan1-wedding", "word": "結婚", "jyutping": "git3 fan1", "meaning": "get married" },
+      { "id": "fan1lai5-wedding-ceremony", "word": "婚禮", "jyutping": "fan1 lai5", "meaning": "wedding" },
+      { "id": "kei4nin4-anniversary", "word": "紀念日", "jyutping": "gei2 nim6 jat6", "meaning": "anniversary" },
+      { "id": "paai3deoi3-party", "word": "派對", "jyutping": "paai3 deoi3", "meaning": "party" },
+      { "id": "hing3zuk1-celebrate", "word": "慶祝", "jyutping": "hing3 zuk1", "meaning": "celebrate" },
+      { "id": "seng1zan1-newborn", "word": "新生", "jyutping": "san1 saang1", "meaning": "newborn" }
+    ],
+
+    "festive_foods": [
+      { "id": "nin4gou1-new-year-cake", "word": "年糕", "jyutping": "nin4 gou1", "meaning": "new year cake" },
+      { "id": "tong1jyun4-sweet-dumplings", "word": "湯圓", "jyutping": "tong1 jyun4", "meaning": "sweet dumplings" },
+      { "id": "zung2-rice-dumpling", "word": "糉", "jyutping": "zung2", "meaning": "rice dumpling" },
+      { "id": "jyut6beng2-mooncake", "word": "月餅", "jyutping": "jyut6 beng2", "meaning": "mooncake" },
+      { "id": "tyun4nin4faan6-reunion-dinner", "word": "團年飯", "jyutping": "tyun4 nin4 faan6", "meaning": "reunion dinner" },
+      { "id": "hoi1sam1gwo2-celebration-fruit", "word": "開心果", "jyutping": "hoi1 sam1 gwo2", "meaning": "pistachio" },
+      { "id": "saang1jat6daan6gou1-birthday-cake", "word": "生日蛋糕", "jyutping": "saang1 jat6 daan6 gou1", "meaning": "birthday cake" },
+      { "id": "syut3gou1-ice-cream", "word": "雪糕", "jyutping": "syut3 gou1", "meaning": "ice cream" }
+    ],
+
+    "decorations_and_festive_items": [
+      { "id": "dang1lung4-lantern", "word": "燈籠", "jyutping": "dang1 lung4", "meaning": "lantern" },
+      { "id": "fai1ceon1-fai-chun", "word": "揮春", "jyutping": "fai1 ceon1", "meaning": "fai chun" },
+      { "id": "leoi6si6-red-packet", "word": "利是", "jyutping": "lai6 si6", "meaning": "red packet" },
+      { "id": "sin1faa1-flowers", "word": "鮮花", "jyutping": "sin1 faa1", "meaning": "flowers" },
+      { "id": "hei3kau4-balloon", "word": "氣球", "jyutping": "hei3 kau4", "meaning": "balloon" },
+      { "id": "laap6zuk1-candle", "word": "蠟燭", "jyutping": "laap6 zuk1", "meaning": "candle" },
+      { "id": "go3lei6-card", "word": "賀卡", "jyutping": "ho6 kaat1", "meaning": "greeting card" },
+      { "id": "bou3zi3-decoration-cloth", "word": "布置", "jyutping": "bou3 zi3", "meaning": "decorate" }
+    ],
+
+    "celebration_actions": [
+      { "id": "baai3nin4-pay-new-year-visit", "word": "拜年", "jyutping": "baai3 nin4", "meaning": "pay new year visit" },
+      { "id": "paai3leoi6si6-give-red-packets", "word": "派利是", "jyutping": "paai3 lai6 si6", "meaning": "give red packets" },
+      { "id": "sau1leoi6si6-receive-red-packets", "word": "收利是", "jyutping": "sau1 lai6 si6", "meaning": "receive red packets" },
+      { "id": "ceoi1laap6zuk1-blow-candles", "word": "吹蠟燭", "jyutping": "ceoi1 laap6 zuk1", "meaning": "blow candles" },
+      { "id": "cit3daan6gou1-cut-cake", "word": "切蛋糕", "jyutping": "cit3 daan6 gou1", "meaning": "cut cake" },
+      { "id": "song3lai5mat6-give-gift", "word": "送禮物", "jyutping": "sung3 lai5 mat6", "meaning": "give gift" },
+      { "id": "daap3toi4-sing-karaoke", "word": "唱K", "jyutping": "coeng3 kei1", "meaning": "sing karaoke" },
+      { "id": "zin3jin1faa1-set-off-fireworks", "word": "放煙花", "jyutping": "fong3 jin1 faa1", "meaning": "set off fireworks" }
+    ],
+
+    "greetings_and_good_wishes": [
+      { "id": "san1nin4faai3lok6-happy-new-year", "word": "新年快樂", "jyutping": "san1 nin4 faai3 lok6", "meaning": "happy new year" },
+      { "id": "gung1hei2faat3coi4-wish-you-prosperity", "word": "恭喜發財", "jyutping": "gung1 hei2 faat3 coi4", "meaning": "wish you prosperity" },
+      { "id": "san1jat6faai3lok6-happy-birthday", "word": "生日快樂", "jyutping": "saang1 jat6 faai3 lok6", "meaning": "happy birthday" },
+      { "id": "baak3nin4hou2hap6-happy-marriage", "word": "百年好合", "jyutping": "baak3 nin4 hou2 hap6", "meaning": "happy marriage" },
+      { "id": "san1fan1faai3lok6-happy-wedding", "word": "新婚快樂", "jyutping": "san1 fan1 faai3 lok6", "meaning": "happy wedding" },
+      { "id": "sam1soeng2si6sing4-may-wishes-come-true", "word": "心想事成", "jyutping": "sam1 soeng2 si6 sing4", "meaning": "may wishes come true" },
+      { "id": "san1tai2gin6hong1-good-health", "word": "身體健康", "jyutping": "san1 tai2 gin6 hong1", "meaning": "good health" },
+      { "id": "maan6si6jyu4ji3-all-goes-well", "word": "萬事如意", "jyutping": "maan6 si6 jyu4 ji3", "meaning": "all goes well" }
+    ],
+
+    "wedding_terms": [
+      { "id": "san1long4-groom", "word": "新郎", "jyutping": "san1 long4", "meaning": "groom" },
+      { "id": "san1noeng4-bride", "word": "新娘", "jyutping": "san1 noeng4", "meaning": "bride" },
+      { "id": "fan1sa1-wedding-dress", "word": "婚紗", "jyutping": "fan1 saa1", "meaning": "wedding dress" },
+      { "id": "gai1paan4-roast-pig-tray", "word": "金豬", "jyutping": "gam1 zyu1", "meaning": "roast pig" },
+      { "id": "lai5gam1-betrothal-gift", "word": "禮金", "jyutping": "lai5 gam1", "meaning": "gift money" },
+      { "id": "jing3fan1-register-marriage", "word": "證婚", "jyutping": "zing3 fan1", "meaning": "marry officially" }
+    ]
+  }
+}

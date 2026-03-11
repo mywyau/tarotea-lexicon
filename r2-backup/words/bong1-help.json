@@ -1,0 +1,66 @@
+{
+  "id": "bong1-help",
+  "word": "幫",
+  "jyutping": "bong1",
+  "meaning": "help",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The verb '幫' (bong1) is commonly used to express the action of helping someone with a task or favor.",
+    "'幫' can be followed by a verb to form a verb phrase, indicating helping to do that action.",
+    "You can use '幫' in questions to ask if someone can assist.",
+    "'幫' can be used politely to offer help or to request help.",
+    "It is often combined with pronouns or objects to specify who is being helped."
+  ],
+  "examples": [
+    {
+      "id": "bong1-help-example-1",
+      "sentence": "你可以幫我搬啲嘢嗎？",
+      "jyutping": "nei5 ho2 ji5 bong1 ngo5 bun1 di1 je5 maa3?",
+      "meaning": "Can you help me move some stuff?"
+    },
+    {
+      "id": "bong1-help-example-2",
+      "sentence": "佢幫阿媽洗碗。",
+      "jyutping": "keoi5 bong1 aa3 maa1 sai2 wun2.",
+      "meaning": "He helps mom wash the dishes."
+    },
+    {
+      "id": "bong1-help-example-3",
+      "sentence": "我幫你睇下啲文件。",
+      "jyutping": "ngo5 bong1 nei5 tai2 haa5 di1 man4 gin2.",
+      "meaning": "I will help you check the documents."
+    },
+    {
+      "id": "bong1-help-example-4",
+      "sentence": "可以幫我開門嗎？",
+      "jyutping": "ho2 ji5 bong1 ngo5 hoi1 mun4 maa3?",
+      "meaning": "Can you help me open the door?"
+    }
+  ],
+  "audio": {
+    "word": "bong1-help.mp3",
+    "examples": [
+      "bong1-help-example-1.mp3",
+      "bong1-help-example-2.mp3",
+      "bong1-help-example-3.mp3",
+      "bong1-help-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic",
+    "verb",
+    "daily_use",
+    "helping",
+    "social_actions",
+    "level-1"
+  ],
+  "related": [
+    "幫手 (bong1 sau2) - help",
+    "協助 (hip3 zo6) - assist",
+    "幫忙 (bong1 mong4) - lend a hand",
+    "支持 (zi1 ci4) - support",
+    "幫助 (bong1 zo6) - aid"
+  ]
+}

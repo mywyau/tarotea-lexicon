@@ -1,0 +1,39 @@
+{
+  "id": "bei2gaau3-compare",
+  "word": "比較",
+  "jyutping": "bei2 gaau3",
+  "meaning": "to compare; relatively",
+
+  "pos": ["verb", "adverb"],
+
+  "usage": [
+    "As a verb, used to compare two or more things",
+    "As an adverb, used to indicate something is relatively or comparatively so",
+    "Very common in both spoken and written Cantonese"
+  ],
+
+  "examples": [
+    {
+      "id": "bei2gaau3-compare-example-1",
+      "sentence": "呢兩個方法可以比較下。",
+      "jyutping": "ni1 loeng5 go3 fong1 faat3 ho2 ji5 bei2 gaau3 haa5",
+      "meaning": "These two methods can be compared."
+    },
+    {
+      "id": "bei2gaau3-compare-example-2",
+      "sentence": "今日比較忙，未必有時間。",
+      "jyutping": "gam1 jat6 bei2 gaau3 mong4 mei6 bit1 jau5 si4 gaan3",
+      "meaning": "Today is relatively busy, so I might not have time."
+    }
+  ],
+
+  "audio": {
+    "word": "bei2gaau3-compare.mp3",
+    "examples": [
+      "bei2gaau3-compare-example-1.mp3",
+      "bei2gaau3-compare-example-2.mp3"
+    ]
+  },
+
+  "tags": ["level-2", "comparison", "common"]
+}

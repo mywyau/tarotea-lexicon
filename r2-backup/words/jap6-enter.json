@@ -1,0 +1,65 @@
+{
+  "id": "jap6-enter",
+  "word": "入",
+  "jyutping": "jap6",
+  "meaning": "enter",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "入 (jap6) is a verb meaning 'to enter'. It often indicates movement from outside to inside a place.",
+    "You can use 入 with places like buildings, rooms, or vehicles.",
+    "Depending on context, 入 can also imply starting or joining something.",
+    "入 is commonly followed by a location or an object you physically enter."
+  ],
+  "examples": [
+    {
+      "id": "jap6-enter-example-1",
+      "sentence": "我入咗屋企。",
+      "jyutping": "ngo5 jap6 zo2 uk1 kei2.",
+      "meaning": "I have entered the house."
+    },
+    {
+      "id": "jap6-enter-example-2",
+      "sentence": "你可以入嚟坐。",
+      "jyutping": "nei5 ho2 ji5 jap6 lai4 co5.",
+      "meaning": "You can come in and sit."
+    },
+    {
+      "id": "jap6-enter-example-3",
+      "sentence": "佢入咗大學讀書。",
+      "jyutping": "keoi5 jap6 zo2 daai6 hok6 duk6 syu1.",
+      "meaning": "He has entered university to study."
+    },
+    {
+      "id": "jap6-enter-example-4",
+      "sentence": "巴士入站喇。",
+      "jyutping": "baa1 si2 jap6 zaam6 laa3.",
+      "meaning": "The bus has entered the station."
+    }
+  ],
+  "audio": {
+    "word": "jap6-enter.mp3",
+    "examples": [
+      "jap6-enter-example-1.mp3",
+      "jap6-enter-example-2.mp3",
+      "jap6-enter-example-3.mp3",
+      "jap6-enter-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic",
+    "verb",
+    "movement",
+    "entry",
+    "daily",
+    "level-1"
+  ],
+  "related": [
+    "出 (ceot1) - exit",
+    "走 (zau2) - walk/go",
+    "返 (faan1) - return",
+    "嚟 (lai4) - come",
+    "入去 (jap6 heoi3) - go in"
+  ]
+}

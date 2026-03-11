@@ -1,0 +1,68 @@
+{
+  "id": "dim2dou1hou2-anyway",
+  "word": "點都好",
+  "jyutping": "dim2 dou1 hou2",
+  "meaning": "anyway",
+  "pos": [
+    "phrase",
+    "connector",
+    "expression"
+  ],
+  "usage": [
+    "The phrase 'dim2 dou1 hou2' is commonly used as a discourse marker to indicate resignation or acceptance regardless of the previous discussion.",
+    "It functions similarly to the English word 'anyway' to shift the focus or conclude a topic.",
+    "It can be placed at the beginning or end of sentences to express that the exact details do not matter to the speaker.",
+    "Often used in casual spoken Cantonese to signal that the outcome or choice is not important to the speaker.",
+    "It helps transition between topics smoothly, especially when summarizing a point or moving past disagreements."
+  ],
+  "examples": [
+    {
+      "id": "dim2dou1hou2-anyway-example-1",
+      "sentence": "點都好，我哋快啲走啦，唔好再等了。",
+      "jyutping": "dim2 dou1 hou2, ngo5 dei6 faai3 di1 zau2 laa1, m4 hou2 zoi3 dang2 liu5.",
+      "meaning": "Anyway, let's leave quickly, no need to wait any longer."
+    },
+    {
+      "id": "dim2dou1hou2-anyway-example-2",
+      "sentence": "呢件事點都好，你自己決定啦。",
+      "jyutping": "ni1 gin6 si6 dim2 dou1 hou2, nei5 zi6 gei2 kyut3 ding6 laa1.",
+      "meaning": "Anyway, it's up to you to decide this matter."
+    },
+    {
+      "id": "dim2dou1hou2-anyway-example-3",
+      "sentence": "我哋而家冇時間傾計，點都好，下次再講啦。",
+      "jyutping": "ngo5 dei6 ji4 gaa1 mou5 si4 gaan3 king1 gai2, dim2 dou1 hou2, haa6 ci3 zoi3 gong2 laa1.",
+      "meaning": "We don't have time to chat now, anyway, let's talk next time."
+    },
+    {
+      "id": "dim2dou1hou2-anyway-example-4",
+      "sentence": "點都好，至少你試過，唔好後悔。",
+      "jyutping": "dim2 dou1 hou2, zi3 siu2 nei5 si3 gwo3, m4 hou2 hau6 fui3.",
+      "meaning": "Anyway, at least you tried, don't regret it."
+    }
+  ],
+  "audio": {
+    "word": "dim2dou1hou2-anyway.mp3",
+    "examples": [
+      "dim2dou1hou2-anyway-example-1.mp3",
+      "dim2dou1hou2-anyway-example-2.mp3",
+      "dim2dou1hou2-anyway-example-3.mp3",
+      "dim2dou1hou2-anyway-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "spoken",
+    "discourse marker",
+    "casual",
+    "connectors",
+    "resignation",
+    "level-8"
+  ],
+  "related": [
+    "無論如何 (mou4 leon6 jyu4 ho4)",
+    "總之 (zung2 zi1)",
+    "反正 (faan2 zing3)",
+    "算啦 (syun3 laa1)",
+    "隨便 (ceoi4 bin6)"
+  ]
+}
