@@ -9,7 +9,6 @@
       { "id": "cung2mat6-pet", "word": "寵物", "jyutping": "cung2 mat6", "meaning": "pet" },
       { "id": "sau3-beast", "word": "獸", "jyutping": "sau3", "meaning": "beast" },
       { "id": "zoek3-bird", "word": "雀", "jyutping": "zoek3", "meaning": "bird" },
-      { "id": "jyu4-fish", "word": "魚", "jyutping": "jyu4", "meaning": "fish" },
       { "id": "cung4-insect", "word": "蟲", "jyutping": "cung4", "meaning": "insect" },
       { "id": "zi6liu2-animal-feed", "word": "飼料", "jyutping": "zi6 liu2", "meaning": "animal feed" }
     ],
@@ -18,11 +17,9 @@
       { "id": "gau2-dog", "word": "狗", "jyutping": "gau2", "meaning": "dog" },
       { "id": "maau1-cat", "word": "貓", "jyutping": "maau1", "meaning": "cat" },
       { "id": "gam1jyu4-goldfish", "word": "金魚", "jyutping": "gam1 jyu4", "meaning": "goldfish" },
-      { "id": "zoek3zai2-small-bird", "word": "雀仔", "jyutping": "zoek3 zai2", "meaning": "small bird" },
       { "id": "tou3-rabbit", "word": "兔", "jyutping": "tou3", "meaning": "rabbit" },
       { "id": "cong1syu2-hamster", "word": "倉鼠", "jyutping": "cong1 syu2", "meaning": "hamster" },
-      { "id": "gwai1-turtle", "word": "龜", "jyutping": "gwai1", "meaning": "turtle" },
-      { "id": "sik1jik6-pet-lizard", "word": "蜥蜴", "jyutping": "sik1 jik6", "meaning": "lizard" }
+      { "id": "gwai1-turtle", "word": "龜", "jyutping": "gwai1", "meaning": "turtle" }
     ],
 
     "farm_animals": [
@@ -38,7 +35,7 @@
     "wild_animals": [
       { "id": "lou5fu2-tiger", "word": "老虎", "jyutping": "lou5 fu2", "meaning": "tiger" },
       { "id": "si1zi2-lion", "word": "獅子", "jyutping": "si1 zi2", "meaning": "lion" },
-      { "id": "zoeng6-elephant", "word": "象", "jyutping": "zoeng6", "meaning": "elephant" },
+      { "id": "daai6zoeng6-elephant", "word": "大象", "jyutping": "daai6 zoeng6", "meaning": "elephant" },
       { "id": "hau4zi2-monkey", "word": "猴子", "jyutping": "hau4 zi2", "meaning": "monkey" },
       { "id": "luk6-deer", "word": "鹿", "jyutping": "luk6", "meaning": "deer" },
       { "id": "hung4maau1-panda", "word": "熊貓", "jyutping": "hung4 maau1", "meaning": "panda" },
@@ -55,9 +52,6 @@
       { "id": "zoeng1jyu4-octopus", "word": "章魚", "jyutping": "zoeng1 jyu4", "meaning": "octopus" },
       { "id": "mak6jyu4-cuttlefish", "word": "墨魚", "jyutping": "mak6 jyu4", "meaning": "cuttlefish" },
       { "id": "hoi2gwai1-sea-turtle", "word": "海龜", "jyutping": "hoi2 gwai1", "meaning": "sea turtle" },
-      { "id": "wu1gwai1-turtle", "word": "烏龜", "jyutping": "wu1 gwai1", "meaning": "turtle" },
-      { "id": "hoi2gwai1-sea-turtle", "word": "海龜", "jyutping": "hoi2 gwai1", "meaning": "sea turtle" },
-      { "id": "luk6gwai1-tortoise", "word": "陸龜", "jyutping": "luk6 gwai1", "meaning": "tortoise" },
       { "id": "gaap3jyu4-softshell-turtle", "word": "甲魚", "jyutping": "gaap3 jyu4", "meaning": "softshell turtle" }
     ],
 
@@ -92,7 +86,7 @@
       { "id": "seoi2caat3-otter", "word": "水獺", "jyutping": "seoi2 caat3", "meaning": "otter" },
       { "id": "jin2syu2-mole", "word": "鼴鼠", "jyutping": "jin2 syu2", "meaning": "mole" }
     ],
-      
+
     "birds": [
       { "id": "zoek3zai2-bird", "word": "雀仔", "jyutping": "zoek3 zai2", "meaning": "bird" },
       { "id": "maa4zoek3-sparrow", "word": "麻雀", "jyutping": "maa4 zoek3", "meaning": "sparrow" },
@@ -101,10 +95,7 @@
       { "id": "hung2zoek3-peacock", "word": "孔雀", "jyutping": "hung2 zoek3", "meaning": "peacock" },
       { "id": "lou5jing1-eagle", "word": "老鷹", "jyutping": "lou5 jing1", "meaning": "eagle" },
       { "id": "maau1tau4jing1-owl", "word": "貓頭鷹", "jyutping": "maau1 tau4 jing1", "meaning": "owl" },
-      { "id": "aap3-bird-duck", "word": "鴨", "jyutping": "aap3", "meaning": "duck" },
-      { "id": "ngo4-bird-goose", "word": "鵝", "jyutping": "ngo4", "meaning": "goose" },
       { "id": "tin1ngo4-swan", "word": "天鵝", "jyutping": "tin1 ngo4", "meaning": "swan" },
-      { "id": "gai1-chicken", "word": "雞", "jyutping": "gai1", "meaning": "chicken" },
       { "id": "gung1gai1-rooster", "word": "公雞", "jyutping": "gung1 gai1", "meaning": "rooster" },
       { "id": "mou5gai1-hen", "word": "母雞", "jyutping": "mou5 gai1", "meaning": "hen" },
       { "id": "kei5ngo2-penguin", "word": "企鵝", "jyutping": "kei5 ngo2", "meaning": "penguin" },
@@ -125,8 +116,7 @@
       { "id": "bin3sik1lung4-chameleon", "word": "變色龍", "jyutping": "bin3 sik1 lung4", "meaning": "chameleon" },
       { "id": "wu1gwai1-turtle", "word": "烏龜", "jyutping": "wu1 gwai1", "meaning": "turtle" },
       { "id": "luk6gwai1-tortoise", "word": "陸龜", "jyutping": "luk6 gwai1", "meaning": "tortoise" },
-      { "id": "ngok6jyu4-crocodile", "word": "鱷魚", "jyutping": "ngok6 jyu4", "meaning": "crocodile" },
-      { "id": "gaap3jyu4-softshell-turtle", "word": "甲魚", "jyutping": "gaap3 jyu4", "meaning": "softshell turtle" }
+      { "id": "ngok6jyu4-crocodile", "word": "鱷魚", "jyutping": "ngok6 jyu4", "meaning": "crocodile" }
     ],
 
     "animal_body_parts": [
@@ -144,7 +134,7 @@
       { "id": "haang4-walk", "word": "行", "jyutping": "haang4", "meaning": "walk" },
       { "id": "paau2-run", "word": "跑", "jyutping": "paau2", "meaning": "run" },
       { "id": "fei1-fly", "word": "飛", "jyutping": "fei1", "meaning": "fly" },
-      { "id": "jau4-swim", "word": "游", "jyutping": "jau4", "meaning": "swim" },
+      { "id": "jau4seoi2-swim", "word": "游水", "jyutping": "jau4 seoi2", "meaning": "swim" },
       { "id": "tiu3-jump", "word": "跳", "jyutping": "tiu3", "meaning": "jump" },
       { "id": "giu3-call-cry", "word": "叫", "jyutping": "giu3", "meaning": "cry out" },
       { "id": "ngaau5-bite", "word": "咬", "jyutping": "ngaau5", "meaning": "bite" },
