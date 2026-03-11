@@ -1,152 +1,2102 @@
 [
   {
-    "filename": "cong1syu2-hamster",
-    "id": "cong1syu2-hamster",
-    "text": "倉鼠"
+    "filename": "beng6duk6-virus",
+    "id": "beng6duk6-virus",
+    "text": "病毒"
   },
   {
-    "filename": "cong1syu2-hamster-example-1",
-    "id": "cong1syu2-hamster-example-1",
-    "text": "我鐘意養倉鼠。"
+    "filename": "beng6duk6-virus-example-1",
+    "id": "beng6duk6-virus-example-1",
+    "text": "個醫生講呢個病毒好危險。"
   },
   {
-    "filename": "cong1syu2-hamster-example-2",
-    "id": "cong1syu2-hamster-example-2",
-    "text": "呢隻倉鼠好得意。"
+    "filename": "beng6duk6-virus-example-2",
+    "id": "beng6duk6-virus-example-2",
+    "text": "我哋要戴口罩防止病毒。"
   },
   {
-    "filename": "cong1syu2-hamster-example-3",
-    "id": "cong1syu2-hamster-example-3",
-    "text": "倉鼠鐘意食種子同果仁。"
+    "filename": "beng6duk6-virus-example-3",
+    "id": "beng6duk6-virus-example-3",
+    "text": "呢種病毒喺空氣中可以傳播。"
   },
   {
-    "filename": "cong1syu2-hamster-example-4",
-    "id": "cong1syu2-hamster-example-4",
-    "text": "帶你睇我新嘅倉鼠。"
+    "filename": "beng6duk6-virus-example-4",
+    "id": "beng6duk6-virus-example-4",
+    "text": "呢個疫苗可以保護你對抗病毒。"
   },
   {
-    "filename": "gam1jyu4-goldfish",
-    "id": "gam1jyu4-goldfish",
-    "text": "金魚"
+    "filename": "bou2juk6-conservation",
+    "id": "bou2juk6-conservation",
+    "text": "保育"
   },
   {
-    "filename": "gam1jyu4-goldfish-example-1",
-    "id": "gam1jyu4-goldfish-example-1",
-    "text": "我買咗隻金魚返屋企養。"
+    "filename": "bou2juk6-conservation-example-1",
+    "id": "bou2juk6-conservation-example-1",
+    "text": "政府加強咗森林保育。"
   },
   {
-    "filename": "gam1jyu4-goldfish-example-2",
-    "id": "gam1jyu4-goldfish-example-2",
-    "text": "你見唔見到嗰隻金魚？"
+    "filename": "bou2juk6-conservation-example-2",
+    "id": "bou2juk6-conservation-example-2",
+    "text": "我哋應該支持動物保育工作。"
   },
   {
-    "filename": "gam1jyu4-goldfish-example-3",
-    "id": "gam1jyu4-goldfish-example-3",
-    "text": "金魚喺水缸入面游嚟游去。"
+    "filename": "bou2juk6-conservation-example-3",
+    "id": "bou2juk6-conservation-example-3",
+    "text": "保育區入面禁止亂拋垃圾。"
   },
   {
-    "filename": "gam1jyu4-goldfish-example-4",
-    "id": "gam1jyu4-goldfish-example-4",
-    "text": "細路仔鍾意睇金魚游水。"
+    "filename": "bou2juk6-conservation-example-4",
+    "id": "bou2juk6-conservation-example-4",
+    "text": "呢個計劃有助生態保育。"
   },
   {
-    "filename": "gau2-dog",
-    "id": "gau2-dog",
-    "text": "狗"
+    "filename": "ci4tit3-magnet",
+    "id": "ci4tit3-magnet",
+    "text": "磁鐵"
   },
   {
-    "filename": "gau2-dog-example-1",
-    "id": "gau2-dog-example-1",
-    "text": "我有一隻狗。"
+    "filename": "ci4tit3-magnet-example-1",
+    "id": "ci4tit3-magnet-example-1",
+    "text": "呢塊磁鐵好強。"
   },
   {
-    "filename": "gau2-dog-example-2",
-    "id": "gau2-dog-example-2",
-    "text": "條狗好可愛。"
+    "filename": "ci4tit3-magnet-example-2",
+    "id": "ci4tit3-magnet-example-2",
+    "text": "小朋友玩緊磁鐵。"
   },
   {
-    "filename": "gau2-dog-example-3",
-    "id": "gau2-dog-example-3",
-    "text": "狗係人嘅好朋友。"
+    "filename": "ci4tit3-magnet-example-3",
+    "id": "ci4tit3-magnet-example-3",
+    "text": "你有冇磁鐵？"
   },
   {
-    "filename": "gau2-dog-example-4",
-    "id": "gau2-dog-example-4",
-    "text": "你想養狗定貓？"
+    "filename": "ci4tit3-magnet-example-4",
+    "id": "ci4tit3-magnet-example-4",
+    "text": "磁鐵吸住鐵釘。"
   },
   {
-    "filename": "gwai1-turtle",
-    "id": "gwai1-turtle",
-    "text": "龜"
+    "filename": "cuk1dou6-speed",
+    "id": "cuk1dou6-speed",
+    "text": "速度"
   },
   {
-    "filename": "gwai1-turtle-example-1",
-    "id": "gwai1-turtle-example-1",
-    "text": "我有一隻龜喺屋企。"
+    "filename": "cuk1dou6-speed-example-1",
+    "id": "cuk1dou6-speed-example-1",
+    "text": "車嘅速度好快。"
   },
   {
-    "filename": "gwai1-turtle-example-2",
-    "id": "gwai1-turtle-example-2",
-    "text": "公園入面有好多龜。"
+    "filename": "cuk1dou6-speed-example-2",
+    "id": "cuk1dou6-speed-example-2",
+    "text": "我哋要減速度。"
   },
   {
-    "filename": "gwai1-turtle-example-3",
-    "id": "gwai1-turtle-example-3",
-    "text": "你見唔見過咁大隻龜？"
+    "filename": "cuk1dou6-speed-example-3",
+    "id": "cuk1dou6-speed-example-3",
+    "text": "網絡速度不夠快。"
   },
   {
-    "filename": "gwai1-turtle-example-4",
-    "id": "gwai1-turtle-example-4",
-    "text": "呢隻龜好慢，好可愛。"
+    "filename": "cuk1dou6-speed-example-4",
+    "id": "cuk1dou6-speed-example-4",
+    "text": "佢做嘢嘅速度好慢。"
   },
   {
-    "filename": "maau1-cat",
-    "id": "maau1-cat",
-    "text": "貓"
+    "filename": "cyun4kau4nyun5faa3-global-warming",
+    "id": "cyun4kau4nyun5faa3-global-warming",
+    "text": "全球暖化"
   },
   {
-    "filename": "maau1-cat-example-1",
-    "id": "maau1-cat-example-1",
-    "text": "我有一隻貓。"
+    "filename": "cyun4kau4nyun5faa3-global-warming-example-1",
+    "id": "cyun4kau4nyun5faa3-global-warming-example-1",
+    "text": "我哋要關心全球暖化嘅影響。"
   },
   {
-    "filename": "maau1-cat-example-2",
-    "id": "maau1-cat-example-2",
-    "text": "貓喺屋企瞓覺。"
+    "filename": "cyun4kau4nyun5faa3-global-warming-example-2",
+    "id": "cyun4kau4nyun5faa3-global-warming-example-2",
+    "text": "全球暖化導致天氣變得好極端。"
   },
   {
-    "filename": "maau1-cat-example-3",
-    "id": "maau1-cat-example-3",
-    "text": "你見過我條貓未？"
+    "filename": "cyun4kau4nyun5faa3-global-warming-example-3",
+    "id": "cyun4kau4nyun5faa3-global-warming-example-3",
+    "text": "學校教我哋點樣減少全球暖化。"
   },
   {
-    "filename": "maau1-cat-example-4",
-    "id": "maau1-cat-example-4",
-    "text": "貓好鍾意玩紗線。"
+    "filename": "cyun4kau4nyun5faa3-global-warming-example-4",
+    "id": "cyun4kau4nyun5faa3-global-warming-example-4",
+    "text": "新聞報導提到全球暖化嘅嚴重性。"
   },
   {
-    "filename": "tou3-rabbit",
-    "id": "tou3-rabbit",
-    "text": "兔"
+    "filename": "dei6kau4-earth",
+    "id": "dei6kau4-earth",
+    "text": "地球"
   },
   {
-    "filename": "tou3-rabbit-example-1",
-    "id": "tou3-rabbit-example-1",
-    "text": "我有隻兔。"
+    "filename": "dei6kau4-earth-example-1",
+    "id": "dei6kau4-earth-example-1",
+    "text": "我哋住喺地球上面。"
   },
   {
-    "filename": "tou3-rabbit-example-2",
-    "id": "tou3-rabbit-example-2",
-    "text": "呢隻兔好可愛。"
+    "filename": "dei6kau4-earth-example-2",
+    "id": "dei6kau4-earth-example-2",
+    "text": "地球有好多水同埋山。"
   },
   {
-    "filename": "tou3-rabbit-example-3",
-    "id": "tou3-rabbit-example-3",
-    "text": "你見過兔跑嗎？"
+    "filename": "dei6kau4-earth-example-3",
+    "id": "dei6kau4-earth-example-3",
+    "text": "地球嘅氣候變化好嚴重。"
   },
   {
-    "filename": "tou3-rabbit-example-4",
-    "id": "tou3-rabbit-example-4",
-    "text": "兔嘅毛好軟。"
+    "filename": "dei6kau4-earth-example-4",
+    "id": "dei6kau4-earth-example-4",
+    "text": "我想了解多啲關於地球嘅知識。"
+  },
+  {
+    "filename": "din6-electricity",
+    "id": "din6-electricity",
+    "text": "電"
+  },
+  {
+    "filename": "din6-electricity-example-1",
+    "id": "din6-electricity-example-1",
+    "text": "屋企嘅電今晚停咗。"
+  },
+  {
+    "filename": "din6-electricity-example-2",
+    "id": "din6-electricity-example-2",
+    "text": "我唔記得帶電池。"
+  },
+  {
+    "filename": "din6-electricity-example-3",
+    "id": "din6-electricity-example-3",
+    "text": "電視入面有好多廣告。"
+  },
+  {
+    "filename": "din6-electricity-example-4",
+    "id": "din6-electricity-example-4",
+    "text": "地鐵站入面唔可以用電爐。"
+  },
+  {
+    "filename": "din6lou6-electric-circuit",
+    "id": "din6lou6-electric-circuit",
+    "text": "電路"
+  },
+  {
+    "filename": "din6lou6-electric-circuit-example-1",
+    "id": "din6lou6-electric-circuit-example-1",
+    "text": "呢個電路唔通電喇。"
+  },
+  {
+    "filename": "din6lou6-electric-circuit-example-2",
+    "id": "din6lou6-electric-circuit-example-2",
+    "text": "我想學點樣整一個簡單嘅電路。"
+  },
+  {
+    "filename": "din6lou6-electric-circuit-example-3",
+    "id": "din6lou6-electric-circuit-example-3",
+    "text": "老師教我哋辨認電路圖。"
+  },
+  {
+    "filename": "din6lou6-electric-circuit-example-4",
+    "id": "din6lou6-electric-circuit-example-4",
+    "text": "呢條電路有啲零件冇接好。"
+  },
+  {
+    "filename": "dung6lik6-power",
+    "id": "dung6lik6-power",
+    "text": "動力"
+  },
+  {
+    "filename": "dung6lik6-power-example-1",
+    "id": "dung6lik6-power-example-1",
+    "text": "呢架車嘅動力好強。"
+  },
+  {
+    "filename": "dung6lik6-power-example-2",
+    "id": "dung6lik6-power-example-2",
+    "text": "你嘅努力係我嘅動力。"
+  },
+  {
+    "filename": "dung6lik6-power-example-3",
+    "id": "dung6lik6-power-example-3",
+    "text": "呢台風扇嘅動力唔夠。"
+  },
+  {
+    "filename": "dung6lik6-power-example-4",
+    "id": "dung6lik6-power-example-4",
+    "text": "太陽能係一種清潔動力。"
+  },
+  {
+    "filename": "faa3hok6-chemistry",
+    "id": "faa3hok6-chemistry",
+    "text": "化學"
+  },
+  {
+    "filename": "faa3hok6-chemistry-example-1",
+    "id": "faa3hok6-chemistry-example-1",
+    "text": "我鐘意上化學堂。"
+  },
+  {
+    "filename": "faa3hok6-chemistry-example-2",
+    "id": "faa3hok6-chemistry-example-2",
+    "text": "化學係一門科學。"
+  },
+  {
+    "filename": "faa3hok6-chemistry-example-3",
+    "id": "faa3hok6-chemistry-example-3",
+    "text": "佢係一個化學教授。"
+  },
+  {
+    "filename": "faa3hok6-chemistry-example-4",
+    "id": "faa3hok6-chemistry-example-4",
+    "text": "我哋做咗一個化學實驗。"
+  },
+  {
+    "filename": "faa3hok6faan2jing3-chemical-reaction",
+    "id": "faa3hok6faan2jing3-chemical-reaction",
+    "text": "化學反應"
+  },
+  {
+    "filename": "faa3hok6faan2jing3-chemical-reaction-example-1",
+    "id": "faa3hok6faan2jing3-chemical-reaction-example-1",
+    "text": "化學反應令顏色變咗。"
+  },
+  {
+    "filename": "faa3hok6faan2jing3-chemical-reaction-example-2",
+    "id": "faa3hok6faan2jing3-chemical-reaction-example-2",
+    "text": "實驗室入面做緊化學反應。"
+  },
+  {
+    "filename": "faa3hok6faan2jing3-chemical-reaction-example-3",
+    "id": "faa3hok6faan2jing3-chemical-reaction-example-3",
+    "text": "呢種化學反應好快完成。"
+  },
+  {
+    "filename": "faa3hok6faan2jing3-chemical-reaction-example-4",
+    "id": "faa3hok6faan2jing3-chemical-reaction-example-4",
+    "text": "我哋學到酸鹼中有好多化學反應發生。"
+  },
+  {
+    "filename": "faa3hok6mat6zat1-chemical",
+    "id": "faa3hok6mat6zat1-chemical",
+    "text": "化學物質"
+  },
+  {
+    "filename": "faa3hok6mat6zat1-chemical-example-1",
+    "id": "faa3hok6mat6zat1-chemical-example-1",
+    "text": "呢啲化學物質好危險，唔好亂摸。"
+  },
+  {
+    "filename": "faa3hok6mat6zat1-chemical-example-2",
+    "id": "faa3hok6mat6zat1-chemical-example-2",
+    "text": "我哋需要分析呢個化學物質嘅成分。"
+  },
+  {
+    "filename": "faa3hok6mat6zat1-chemical-example-3",
+    "id": "faa3hok6mat6zat1-chemical-example-3",
+    "text": "呢隻實驗室入面有好多唔同種類嘅化學物質。"
+  },
+  {
+    "filename": "faa3hok6mat6zat1-chemical-example-4",
+    "id": "faa3hok6mat6zat1-chemical-example-4",
+    "text": "化學物質嘅反應可以改變物質嘅性質。"
+  },
+  {
+    "filename": "faat3jin6-discovery",
+    "id": "faat3jin6-discovery",
+    "text": "發現"
+  },
+  {
+    "filename": "faat3jin6-discovery-example-1",
+    "id": "faat3jin6-discovery-example-1",
+    "text": "科學家有咗一個重要嘅發現。"
+  },
+  {
+    "filename": "faat3jin6-discovery-example-2",
+    "id": "faat3jin6-discovery-example-2",
+    "text": "我哋嘅發現改變咗世界。"
+  },
+  {
+    "filename": "faat3jin6-discovery-example-3",
+    "id": "faat3jin6-discovery-example-3",
+    "text": "呢個發現證明咗佢啱。"
+  },
+  {
+    "filename": "faat3jin6-discovery-example-4",
+    "id": "faat3jin6-discovery-example-4",
+    "text": "小朋友都有啲有趣嘅發現。"
+  },
+  {
+    "filename": "fan1zi2-molecule",
+    "id": "fan1zi2-molecule",
+    "text": "分子"
+  },
+  {
+    "filename": "fan1zi2-molecule-example-1",
+    "id": "fan1zi2-molecule-example-1",
+    "text": "呢個水由好多水分子組成。"
+  },
+  {
+    "filename": "fan1zi2-molecule-example-2",
+    "id": "fan1zi2-molecule-example-2",
+    "text": "分子太細，我哋用顯微鏡睇佢。"
+  },
+  {
+    "filename": "fan1zi2-molecule-example-3",
+    "id": "fan1zi2-molecule-example-3",
+    "text": "呢種分子對人體好重要。"
+  },
+  {
+    "filename": "fan1zi2-molecule-example-4",
+    "id": "fan1zi2-molecule-example-4",
+    "text": "科學家研究分子嘅結構。"
+  },
+  {
+    "filename": "fo1hok6-science",
+    "id": "fo1hok6-science",
+    "text": "科學"
+  },
+  {
+    "filename": "fo1hok6-science-example-1",
+    "id": "fo1hok6-science-example-1",
+    "text": "我對科學好有興趣。"
+  },
+  {
+    "filename": "fo1hok6-science-example-2",
+    "id": "fo1hok6-science-example-2",
+    "text": "學校嘅科學課好有趣。"
+  },
+  {
+    "filename": "fo1hok6-science-example-3",
+    "id": "fo1hok6-science-example-3",
+    "text": "依家科技同科學關係好密。"
+  },
+  {
+    "filename": "fo1hok6-science-example-4",
+    "id": "fo1hok6-science-example-4",
+    "text": "科學幫助我地了解世界。"
+  },
+  {
+    "filename": "fo1hok6gaa1-scientist",
+    "id": "fo1hok6gaa1-scientist",
+    "text": "科學家"
+  },
+  {
+    "filename": "fo1hok6gaa1-scientist-example-1",
+    "id": "fo1hok6gaa1-scientist-example-1",
+    "text": "佢係一個著名嘅科學家。"
+  },
+  {
+    "filename": "fo1hok6gaa1-scientist-example-2",
+    "id": "fo1hok6gaa1-scientist-example-2",
+    "text": "科學家研究點樣治病。"
+  },
+  {
+    "filename": "fo1hok6gaa1-scientist-example-3",
+    "id": "fo1hok6gaa1-scientist-example-3",
+    "text": "啲科學家喺實驗室工作。"
+  },
+  {
+    "filename": "fo1hok6gaa1-scientist-example-4",
+    "id": "fo1hok6gaa1-scientist-example-4",
+    "text": "我想做一個科學家，發明新嘢。"
+  },
+  {
+    "filename": "fo2zin3-rocket",
+    "id": "fo2zin3-rocket",
+    "text": "火箭"
+  },
+  {
+    "filename": "fo2zin3-rocket-example-1",
+    "id": "fo2zin3-rocket-example-1",
+    "text": "火箭今晚會升空。"
+  },
+  {
+    "filename": "fo2zin3-rocket-example-2",
+    "id": "fo2zin3-rocket-example-2",
+    "text": "細路仔對火箭好有興趣。"
+  },
+  {
+    "filename": "fo2zin3-rocket-example-3",
+    "id": "fo2zin3-rocket-example-3",
+    "text": "呢隻火箭好快。"
+  },
+  {
+    "filename": "fo2zin3-rocket-example-4",
+    "id": "fo2zin3-rocket-example-4",
+    "text": "火箭幫助我哋探索太空。"
+  },
+  {
+    "filename": "fu1kap1-respiration",
+    "id": "fu1kap1-respiration",
+    "text": "呼吸"
+  },
+  {
+    "filename": "fu1kap1-respiration-example-1",
+    "id": "fu1kap1-respiration-example-1",
+    "text": "我每日做深呼吸，幫助減壓。"
+  },
+  {
+    "filename": "fu1kap1-respiration-example-2",
+    "id": "fu1kap1-respiration-example-2",
+    "text": "呼吸對人體好重要。"
+  },
+  {
+    "filename": "fu1kap1-respiration-example-3",
+    "id": "fu1kap1-respiration-example-3",
+    "text": "佢停止咗呼吸，要即刻搵醫生。"
+  },
+  {
+    "filename": "fu1kap1-respiration-example-4",
+    "id": "fu1kap1-respiration-example-4",
+    "text": "深呼吸可以幫助放鬆心情。"
+  },
+  {
+    "filename": "fung1lik6-wind-power",
+    "id": "fung1lik6-wind-power",
+    "text": "風力"
+  },
+  {
+    "filename": "fung1lik6-wind-power-example-1",
+    "id": "fung1lik6-wind-power-example-1",
+    "text": "呢度用風力發電，好環保。"
+  },
+  {
+    "filename": "fung1lik6-wind-power-example-2",
+    "id": "fung1lik6-wind-power-example-2",
+    "text": "風力可以幫助減少污染。"
+  },
+  {
+    "filename": "fung1lik6-wind-power-example-3",
+    "id": "fung1lik6-wind-power-example-3",
+    "text": "我哋應該多啲利用風力能源。"
+  },
+  {
+    "filename": "fung1lik6-wind-power-example-4",
+    "id": "fung1lik6-wind-power-example-4",
+    "text": "風力發電係未來嘅重要趨勢。"
+  },
+  {
+    "filename": "gaa2cit3-hypothesis",
+    "id": "gaa2cit3-hypothesis",
+    "text": "假設"
+  },
+  {
+    "filename": "gaa2cit3-hypothesis-example-1",
+    "id": "gaa2cit3-hypothesis-example-1",
+    "text": "我地而家要驗證呢個假設。"
+  },
+  {
+    "filename": "gaa2cit3-hypothesis-example-2",
+    "id": "gaa2cit3-hypothesis-example-2",
+    "text": "佢嘅假設好似講得通。"
+  },
+  {
+    "filename": "gaa2cit3-hypothesis-example-3",
+    "id": "gaa2cit3-hypothesis-example-3",
+    "text": "寫報告嘅時候，要講清楚你嘅假設。"
+  },
+  {
+    "filename": "gaa2cit3-hypothesis-example-4",
+    "id": "gaa2cit3-hypothesis-example-4",
+    "text": "呢個假設未必啱，但值得試下。"
+  },
+  {
+    "filename": "gei1jan1-gene",
+    "id": "gei1jan1-gene",
+    "text": "基因"
+  },
+  {
+    "filename": "gei1jan1-gene-example-1",
+    "id": "gei1jan1-gene-example-1",
+    "text": "人嘅基因決定咗佢嘅眼睛顏色。"
+  },
+  {
+    "filename": "gei1jan1-gene-example-2",
+    "id": "gei1jan1-gene-example-2",
+    "text": "基因突變可以帶嚟疾病。"
+  },
+  {
+    "filename": "gei1jan1-gene-example-3",
+    "id": "gei1jan1-gene-example-3",
+    "text": "基因測試幫助醫生了解遺傳問題。"
+  },
+  {
+    "filename": "gei1jan1-gene-example-4",
+    "id": "gei1jan1-gene-example-4",
+    "text": "呢種水果有特殊嘅基因，味道特別好。"
+  },
+  {
+    "filename": "gei1juk6-muscle",
+    "id": "gei1juk6-muscle",
+    "text": "肌肉"
+  },
+  {
+    "filename": "gei1juk6-muscle-example-1",
+    "id": "gei1juk6-muscle-example-1",
+    "text": "他做運動令肌肉變壯。"
+  },
+  {
+    "filename": "gei1juk6-muscle-example-2",
+    "id": "gei1juk6-muscle-example-2",
+    "text": "我起身時肌肉好痛。"
+  },
+  {
+    "filename": "gei1juk6-muscle-example-3",
+    "id": "gei1juk6-muscle-example-3",
+    "text": "按摩可以放鬆肌肉。"
+  },
+  {
+    "filename": "gei1juk6-muscle-example-4",
+    "id": "gei1juk6-muscle-example-4",
+    "text": "他有好多肌肉，因為佢練習舉重。"
+  },
+  {
+    "filename": "git3gwo2-result",
+    "id": "git3gwo2-result",
+    "text": "結果"
+  },
+  {
+    "filename": "git3gwo2-result-example-1",
+    "id": "git3gwo2-result-example-1",
+    "text": "我哋仲未收到測試嘅結果。"
+  },
+  {
+    "filename": "git3gwo2-result-example-2",
+    "id": "git3gwo2-result-example-2",
+    "text": "研究嘅結果好令人驚訝。"
+  },
+  {
+    "filename": "git3gwo2-result-example-3",
+    "id": "git3gwo2-result-example-3",
+    "text": "你睇吓計算嘅結果係啱嘅。"
+  },
+  {
+    "filename": "git3gwo2-result-example-4",
+    "id": "git3gwo2-result-example-4",
+    "text": "呢個實驗嘅結果證明咗理論。"
+  },
+  {
+    "filename": "gu3tai2-solid",
+    "id": "gu3tai2-solid",
+    "text": "固體"
+  },
+  {
+    "filename": "gu3tai2-solid-example-1",
+    "id": "gu3tai2-solid-example-1",
+    "text": "水可以係固體、液體或者氣體。"
+  },
+  {
+    "filename": "gu3tai2-solid-example-2",
+    "id": "gu3tai2-solid-example-2",
+    "text": "金屬係一種固體材料。"
+  },
+  {
+    "filename": "gu3tai2-solid-example-3",
+    "id": "gu3tai2-solid-example-3",
+    "text": "呢塊冰淇淋係固體先至可以溶化。"
+  },
+  {
+    "filename": "gu3tai2-solid-example-4",
+    "id": "gu3tai2-solid-example-4",
+    "text": "鋼鐵係一種好硬嘅固體。"
+  },
+  {
+    "filename": "gun1caat3-observe",
+    "id": "gun1caat3-observe",
+    "text": "觀察"
+  },
+  {
+    "filename": "gun1caat3-observe-example-1",
+    "id": "gun1caat3-observe-example-1",
+    "text": "我哋而家要觀察呢啲昆蟲嘅行為。"
+  },
+  {
+    "filename": "gun1caat3-observe-example-2",
+    "id": "gun1caat3-observe-example-2",
+    "text": "醫生話需要進行更詳細嘅觀察。"
+  },
+  {
+    "filename": "gun1caat3-observe-example-3",
+    "id": "gun1caat3-observe-example-3",
+    "text": "佢每日都會細心觀察朋友嘅反應。"
+  },
+  {
+    "filename": "gun1caat3-observe-example-4",
+    "id": "gun1caat3-observe-example-4",
+    "text": "呢個實驗主要係基於仔細觀察同分析。"
+  },
+  {
+    "filename": "gwat1gaak3-skeleton",
+    "id": "gwat1gaak3-skeleton",
+    "text": "骨骼"
+  },
+  {
+    "filename": "gwat1gaak3-skeleton-example-1",
+    "id": "gwat1gaak3-skeleton-example-1",
+    "text": "人類嘅骨骼好硬淨。"
+  },
+  {
+    "filename": "gwat1gaak3-skeleton-example-2",
+    "id": "gwat1gaak3-skeleton-example-2",
+    "text": "老師教我哋骨骼點樣支撐身體。"
+  },
+  {
+    "filename": "gwat1gaak3-skeleton-example-3",
+    "id": "gwat1gaak3-skeleton-example-3",
+    "text": "蝦嘅骨骼好細。"
+  },
+  {
+    "filename": "gwat1gaak3-skeleton-example-4",
+    "id": "gwat1gaak3-skeleton-example-4",
+    "text": "要多啲鈣，因為佢有助骨骼健康。"
+  },
+  {
+    "filename": "gwong1-light",
+    "id": "gwong1-light",
+    "text": "光"
+  },
+  {
+    "filename": "gwong1-light-example-1",
+    "id": "gwong1-light-example-1",
+    "text": "房間入面冇光。"
+  },
+  {
+    "filename": "gwong1-light-example-2",
+    "id": "gwong1-light-example-2",
+    "text": "太陽嘅光好刺眼。"
+  },
+  {
+    "filename": "gwong1-light-example-3",
+    "id": "gwong1-light-example-3",
+    "text": "你開燈，等我有多啲光睇書。"
+  },
+  {
+    "filename": "gwong1-light-example-4",
+    "id": "gwong1-light-example-4",
+    "text": "街燈嘅光越夜越暗。"
+  },
+  {
+    "filename": "hang4sing1-planet",
+    "id": "hang4sing1-planet",
+    "text": "行星"
+  },
+  {
+    "filename": "hang4sing1-planet-example-1",
+    "id": "hang4sing1-planet-example-1",
+    "text": "地球係我哋嘅行星。"
+  },
+  {
+    "filename": "hang4sing1-planet-example-2",
+    "id": "hang4sing1-planet-example-2",
+    "text": "太陽系入面有好多行星。"
+  },
+  {
+    "filename": "hang4sing1-planet-example-3",
+    "id": "hang4sing1-planet-example-3",
+    "text": "我鍾意研究行星嘅運行。"
+  },
+  {
+    "filename": "hang4sing1-planet-example-4",
+    "id": "hang4sing1-planet-example-4",
+    "text": "火星係最近嘅紅色行星。"
+  },
+  {
+    "filename": "hei3gun1-organ",
+    "id": "hei3gun1-organ",
+    "text": "器官"
+  },
+  {
+    "filename": "hei3gun1-organ-example-1",
+    "id": "hei3gun1-organ-example-1",
+    "text": "心臟係一個重要嘅器官。"
+  },
+  {
+    "filename": "hei3gun1-organ-example-2",
+    "id": "hei3gun1-organ-example-2",
+    "text": "醫生話要檢查佢嘅器官。"
+  },
+  {
+    "filename": "hei3gun1-organ-example-3",
+    "id": "hei3gun1-organ-example-3",
+    "text": "肝臟係解毒嘅主要器官。"
+  },
+  {
+    "filename": "hei3gun1-organ-example-4",
+    "id": "hei3gun1-organ-example-4",
+    "text": "唔好隨便損害你嘅器官。"
+  },
+  {
+    "filename": "hei3hau6-climate",
+    "id": "hei3hau6-climate",
+    "text": "氣候"
+  },
+  {
+    "filename": "hei3hau6-climate-example-1",
+    "id": "hei3hau6-climate-example-1",
+    "text": "香港嘅氣候好潮濕。"
+  },
+  {
+    "filename": "hei3hau6-climate-example-2",
+    "id": "hei3hau6-climate-example-2",
+    "text": "今年嘅氣候比起以往更熱。"
+  },
+  {
+    "filename": "hei3hau6-climate-example-3",
+    "id": "hei3hau6-climate-example-3",
+    "text": "你覺得邊度嘅氣候最好？"
+  },
+  {
+    "filename": "hei3hau6-climate-example-4",
+    "id": "hei3hau6-climate-example-4",
+    "text": "氣候變化影響咗好多動植物。"
+  },
+  {
+    "filename": "hei3tai2-gas",
+    "id": "hei3tai2-gas",
+    "text": "氣體"
+  },
+  {
+    "filename": "hei3tai2-gas-example-1",
+    "id": "hei3tai2-gas-example-1",
+    "text": "呢個氣體好易散開。"
+  },
+  {
+    "filename": "hei3tai2-gas-example-2",
+    "id": "hei3tai2-gas-example-2",
+    "text": "我哋要小心有毒氣體。"
+  },
+  {
+    "filename": "hei3tai2-gas-example-3",
+    "id": "hei3tai2-gas-example-3",
+    "text": "氣體會上升到天花板。"
+  },
+  {
+    "filename": "hei3tai2-gas-example-4",
+    "id": "hei3tai2-gas-example-4",
+    "text": "科學家測試新嘅氣體反應。"
+  },
+  {
+    "filename": "hin2mei4geng3-microscope",
+    "id": "hin2mei4geng3-microscope",
+    "text": "顯微鏡"
+  },
+  {
+    "filename": "hin2mei4geng3-microscope-example-1",
+    "id": "hin2mei4geng3-microscope-example-1",
+    "text": "我用顯微鏡睇細菌。"
+  },
+  {
+    "filename": "hin2mei4geng3-microscope-example-2",
+    "id": "hin2mei4geng3-microscope-example-2",
+    "text": "呢部顯微鏡好新淨。"
+  },
+  {
+    "filename": "hin2mei4geng3-microscope-example-3",
+    "id": "hin2mei4geng3-microscope-example-3",
+    "text": "佢喺學校借咗顯微鏡做實驗。"
+  },
+  {
+    "filename": "hin2mei4geng3-microscope-example-4",
+    "id": "hin2mei4geng3-microscope-example-4",
+    "text": "顯微鏡壞咗，要修理。"
+  },
+  {
+    "filename": "hung1hei3-air",
+    "id": "hung1hei3-air",
+    "text": "空氣"
+  },
+  {
+    "filename": "hung1hei3-air-example-1",
+    "id": "hung1hei3-air-example-1",
+    "text": "呢度嘅空氣好清新。"
+  },
+  {
+    "filename": "hung1hei3-air-example-2",
+    "id": "hung1hei3-air-example-2",
+    "text": "空氣污染對健康有害。"
+  },
+  {
+    "filename": "hung1hei3-air-example-3",
+    "id": "hung1hei3-air-example-3",
+    "text": "我感覺空氣好焗促。"
+  },
+  {
+    "filename": "hung1hei3-air-example-4",
+    "id": "hung1hei3-air-example-4",
+    "text": "室外嘅空氣比室內新鮮好多。"
+  },
+  {
+    "filename": "jam1-sound",
+    "id": "jam1-sound",
+    "text": "音"
+  },
+  {
+    "filename": "jam1-sound-example-1",
+    "id": "jam1-sound-example-1",
+    "text": "我聽到有一個奇怪嘅音。"
+  },
+  {
+    "filename": "jam1-sound-example-2",
+    "id": "jam1-sound-example-2",
+    "text": "音樂有好多唔同嘅音。"
+  },
+  {
+    "filename": "jam1-sound-example-3",
+    "id": "jam1-sound-example-3",
+    "text": "請調低電視嘅音。"
+  },
+  {
+    "filename": "jam1-sound-example-4",
+    "id": "jam1-sound-example-4",
+    "text": "果架車嘅引擎發出大聲嘅音。"
+  },
+  {
+    "filename": "jan5lik6-gravity",
+    "id": "jan5lik6-gravity",
+    "text": "引力"
+  },
+  {
+    "filename": "jan5lik6-gravity-example-1",
+    "id": "jan5lik6-gravity-example-1",
+    "text": "地球有好強嘅引力。"
+  },
+  {
+    "filename": "jan5lik6-gravity-example-2",
+    "id": "jan5lik6-gravity-example-2",
+    "text": "引力令啲蘋果跌落地。"
+  },
+  {
+    "filename": "jan5lik6-gravity-example-3",
+    "id": "jan5lik6-gravity-example-3",
+    "text": "飛機係靠引力同引擎推動。"
+  },
+  {
+    "filename": "jan5lik6-gravity-example-4",
+    "id": "jan5lik6-gravity-example-4",
+    "text": "我哋研究宇宙嘅引力定律。"
+  },
+  {
+    "filename": "jik6tai2-liquid",
+    "id": "jik6tai2-liquid",
+    "text": "液體"
+  },
+  {
+    "filename": "jik6tai2-liquid-example-1",
+    "id": "jik6tai2-liquid-example-1",
+    "text": "呢個杯入面有啲液體。"
+  },
+  {
+    "filename": "jik6tai2-liquid-example-2",
+    "id": "jik6tai2-liquid-example-2",
+    "text": "水係一種透明嘅液體。"
+  },
+  {
+    "filename": "jik6tai2-liquid-example-3",
+    "id": "jik6tai2-liquid-example-3",
+    "text": "我哋要小心倒液體，唔好跌咗喺地下。"
+  },
+  {
+    "filename": "jik6tai2-liquid-example-4",
+    "id": "jik6tai2-liquid-example-4",
+    "text": "實驗中，我哋會將固體變成液體。"
+  },
+  {
+    "filename": "jin4gau3-research",
+    "id": "jin4gau3-research",
+    "text": "研究"
+  },
+  {
+    "filename": "jin4gau3-research-example-1",
+    "id": "jin4gau3-research-example-1",
+    "text": "我做緊天氣嘅研究。"
+  },
+  {
+    "filename": "jin4gau3-research-example-2",
+    "id": "jin4gau3-research-example-2",
+    "text": "呢個研究幫助我了解更多知識。"
+  },
+  {
+    "filename": "jin4gau3-research-example-3",
+    "id": "jin4gau3-research-example-3",
+    "text": "佢係一位專門做癌症研究嘅科學家。"
+  },
+  {
+    "filename": "jin4gau3-research-example-4",
+    "id": "jin4gau3-research-example-4",
+    "text": "我想研究更多關於呢個技術嘅資料。"
+  },
+  {
+    "filename": "jit6loeng6-heat",
+    "id": "jit6loeng6-heat",
+    "text": "熱量"
+  },
+  {
+    "filename": "jit6loeng6-heat-example-1",
+    "id": "jit6loeng6-heat-example-1",
+    "text": "呢個物體有好多熱量。"
+  },
+  {
+    "filename": "jit6loeng6-heat-example-2",
+    "id": "jit6loeng6-heat-example-2",
+    "text": "我哋需要計算食物嘅熱量。"
+  },
+  {
+    "filename": "jit6loeng6-heat-example-3",
+    "id": "jit6loeng6-heat-example-3",
+    "text": "熱量由高溫流向低溫。"
+  },
+  {
+    "filename": "jit6loeng6-heat-example-4",
+    "id": "jit6loeng6-heat-example-4",
+    "text": "電腦發出好多熱量，成日好熱。"
+  },
+  {
+    "filename": "joeng5hei3-oxygen",
+    "id": "joeng5hei3-oxygen",
+    "text": "氧氣"
+  },
+  {
+    "filename": "joeng5hei3-oxygen-example-1",
+    "id": "joeng5hei3-oxygen-example-1",
+    "text": "人類需要氧氣先可以呼吸。"
+  },
+  {
+    "filename": "joeng5hei3-oxygen-example-2",
+    "id": "joeng5hei3-oxygen-example-2",
+    "text": "呢個池入面有好多氧氣。"
+  },
+  {
+    "filename": "joeng5hei3-oxygen-example-3",
+    "id": "joeng5hei3-oxygen-example-3",
+    "text": "植物透過光合作用產生氧氣。"
+  },
+  {
+    "filename": "joeng5hei3-oxygen-example-4",
+    "id": "joeng5hei3-oxygen-example-4",
+    "text": "醫生用氧氣幫助病人呼吸。"
+  },
+  {
+    "filename": "jung4gaai2-dissolve",
+    "id": "jung4gaai2-dissolve",
+    "text": "溶解"
+  },
+  {
+    "filename": "jung4gaai2-dissolve-example-1",
+    "id": "jung4gaai2-dissolve-example-1",
+    "text": "糖好快就溶解咗喺水入面。"
+  },
+  {
+    "filename": "jung4gaai2-dissolve-example-2",
+    "id": "jung4gaai2-dissolve-example-2",
+    "text": "呢啲鹽喺熱水入面容易溶解。"
+  },
+  {
+    "filename": "jung4gaai2-dissolve-example-3",
+    "id": "jung4gaai2-dissolve-example-3",
+    "text": "佢成日講話友誼溶解咗。"
+  },
+  {
+    "filename": "jung4gaai2-dissolve-example-4",
+    "id": "jung4gaai2-dissolve-example-4",
+    "text": "科學家研究物質嘅溶解過程。"
+  },
+  {
+    "filename": "jyu5zau6-universe",
+    "id": "jyu5zau6-universe",
+    "text": "宇宙"
+  },
+  {
+    "filename": "jyu5zau6-universe-example-1",
+    "id": "jyu5zau6-universe-example-1",
+    "text": "我鍾意睇關於宇宙嘅紀錄片。"
+  },
+  {
+    "filename": "jyu5zau6-universe-example-2",
+    "id": "jyu5zau6-universe-example-2",
+    "text": "宇宙好大，我哋人好細。"
+  },
+  {
+    "filename": "jyu5zau6-universe-example-3",
+    "id": "jyu5zau6-universe-example-3",
+    "text": "科學家想深入了解宇宙嘅奧秘。"
+  },
+  {
+    "filename": "jyu5zau6-universe-example-4",
+    "id": "jyu5zau6-universe-example-4",
+    "text": "宇宙中有好多星星同行星。"
+  },
+  {
+    "filename": "jyun4sou3-element",
+    "id": "jyun4sou3-element",
+    "text": "元素"
+  },
+  {
+    "filename": "jyun4sou3-element-example-1",
+    "id": "jyun4sou3-element-example-1",
+    "text": "氫係一種重要嘅元素。"
+  },
+  {
+    "filename": "jyun4sou3-element-example-2",
+    "id": "jyun4sou3-element-example-2",
+    "text": "呢啲元素組成咗水。"
+  },
+  {
+    "filename": "jyun4sou3-element-example-3",
+    "id": "jyun4sou3-element-example-3",
+    "text": "老師教我哋識多啲元素。"
+  },
+  {
+    "filename": "jyun4sou3-element-example-4",
+    "id": "jyun4sou3-element-example-4",
+    "text": "鐵係一種金屬元素。"
+  },
+  {
+    "filename": "jyun4zi2-atom",
+    "id": "jyun4zi2-atom",
+    "text": "原子"
+  },
+  {
+    "filename": "jyun4zi2-atom-example-1",
+    "id": "jyun4zi2-atom-example-1",
+    "text": "原子係物質嘅基本單位。"
+  },
+  {
+    "filename": "jyun4zi2-atom-example-2",
+    "id": "jyun4zi2-atom-example-2",
+    "text": "科學課今日講緊原子結構。"
+  },
+  {
+    "filename": "jyun4zi2-atom-example-3",
+    "id": "jyun4zi2-atom-example-3",
+    "text": "化學家研究原子點樣組合。"
+  },
+  {
+    "filename": "jyun4zi2-atom-example-4",
+    "id": "jyun4zi2-atom-example-4",
+    "text": "原子裂變會釋放大量能量。"
+  },
+  {
+    "filename": "jyut6kau4-moon",
+    "id": "jyut6kau4-moon",
+    "text": "月球"
+  },
+  {
+    "filename": "jyut6kau4-moon-example-1",
+    "id": "jyut6kau4-moon-example-1",
+    "text": "我哋今晚去望月球。"
+  },
+  {
+    "filename": "jyut6kau4-moon-example-2",
+    "id": "jyut6kau4-moon-example-2",
+    "text": "月球有好多隻水坑。"
+  },
+  {
+    "filename": "jyut6kau4-moon-example-3",
+    "id": "jyut6kau4-moon-example-3",
+    "text": "科學家研究月球嘅表面結構。"
+  },
+  {
+    "filename": "jyut6kau4-moon-example-4",
+    "id": "jyut6kau4-moon-example-4",
+    "text": "阿波羅登陸月球嘅任務好成功。"
+  },
+  {
+    "filename": "keoi1lei4-distance",
+    "id": "keoi1lei4-distance",
+    "text": "距離"
+  },
+  {
+    "filename": "keoi1lei4-distance-example-1",
+    "id": "keoi1lei4-distance-example-1",
+    "text": "呢兩個城市嘅距離好遠。"
+  },
+  {
+    "filename": "keoi1lei4-distance-example-2",
+    "id": "keoi1lei4-distance-example-2",
+    "text": "我哋保持一定嘅距離先安全。"
+  },
+  {
+    "filename": "keoi1lei4-distance-example-3",
+    "id": "keoi1lei4-distance-example-3",
+    "text": "佢同我哋之間有啲情感距離。"
+  },
+  {
+    "filename": "keoi1lei4-distance-example-4",
+    "id": "keoi1lei4-distance-example-4",
+    "text": "請用度尺量一量距離。"
+  },
+  {
+    "filename": "laap6saap3-rubbish",
+    "id": "laap6saap3-rubbish",
+    "text": "垃圾"
+  },
+  {
+    "filename": "laap6saap3-rubbish-example-1",
+    "id": "laap6saap3-rubbish-example-1",
+    "text": "呢度有好多垃圾，唔好亂扔。"
+  },
+  {
+    "filename": "laap6saap3-rubbish-example-2",
+    "id": "laap6saap3-rubbish-example-2",
+    "text": "我哋要分開扔垃圾。"
+  },
+  {
+    "filename": "laap6saap3-rubbish-example-3",
+    "id": "laap6saap3-rubbish-example-3",
+    "text": "垃圾桶滿晒，要清理。"
+  },
+  {
+    "filename": "laap6saap3-rubbish-example-4",
+    "id": "laap6saap3-rubbish-example-4",
+    "text": "呢啲嘢係垃圾，唔好攞返嚟。"
+  },
+  {
+    "filename": "lei5leon6-theory",
+    "id": "lei5leon6-theory",
+    "text": "理論"
+  },
+  {
+    "filename": "lei5leon6-theory-example-1",
+    "id": "lei5leon6-theory-example-1",
+    "text": "佢嘅理論幾有道理。"
+  },
+  {
+    "filename": "lei5leon6-theory-example-2",
+    "id": "lei5leon6-theory-example-2",
+    "text": "老師講咗好多科學嘅理論。"
+  },
+  {
+    "filename": "lei5leon6-theory-example-3",
+    "id": "lei5leon6-theory-example-3",
+    "text": "呢個理論未證實。"
+  },
+  {
+    "filename": "lei5leon6-theory-example-4",
+    "id": "lei5leon6-theory-example-4",
+    "text": "我哋要用理論去解釋問題。"
+  },
+  {
+    "filename": "lik6-force",
+    "id": "lik6-force",
+    "text": "力"
+  },
+  {
+    "filename": "lik6-force-example-1",
+    "id": "lik6-force-example-1",
+    "text": "佢用咗好多力推門。"
+  },
+  {
+    "filename": "lik6-force-example-2",
+    "id": "lik6-force-example-2",
+    "text": "吸引力令物體落地。"
+  },
+  {
+    "filename": "lik6-force-example-3",
+    "id": "lik6-force-example-3",
+    "text": "你要加把勁，用多啲力。"
+  },
+  {
+    "filename": "lik6-force-example-4",
+    "id": "lik6-force-example-4",
+    "text": "風嘅力吹到樹搖晃。"
+  },
+  {
+    "filename": "loeng4tung2-measuring-cylinder",
+    "id": "loeng4tung2-measuring-cylinder",
+    "text": "量筒"
+  },
+  {
+    "filename": "loeng4tung2-measuring-cylinder-example-1",
+    "id": "loeng4tung2-measuring-cylinder-example-1",
+    "text": "我哋喺實驗室用量筒量水。"
+  },
+  {
+    "filename": "loeng4tung2-measuring-cylinder-example-2",
+    "id": "loeng4tung2-measuring-cylinder-example-2",
+    "text": "呢個量筒有刻度，可以量得準確。"
+  },
+  {
+    "filename": "loeng4tung2-measuring-cylinder-example-3",
+    "id": "loeng4tung2-measuring-cylinder-example-3",
+    "text": "倒入量筒嘅液體太多，會溢出嚟。"
+  },
+  {
+    "filename": "loeng4tung2-measuring-cylinder-example-4",
+    "id": "loeng4tung2-measuring-cylinder-example-4",
+    "text": "記住用乾淨嘅量筒避免混淆化學試劑。"
+  },
+  {
+    "filename": "mat6lei5hok6-physics",
+    "id": "mat6lei5hok6-physics",
+    "text": "物理學"
+  },
+  {
+    "filename": "mat6lei5hok6-physics-example-1",
+    "id": "mat6lei5hok6-physics-example-1",
+    "text": "我想學物理學。"
+  },
+  {
+    "filename": "mat6lei5hok6-physics-example-2",
+    "id": "mat6lei5hok6-physics-example-2",
+    "text": "物理學好有趣。"
+  },
+  {
+    "filename": "mat6lei5hok6-physics-example-3",
+    "id": "mat6lei5hok6-physics-example-3",
+    "text": "佢係大學物理學系嘅學生。"
+  },
+  {
+    "filename": "mat6lei5hok6-physics-example-4",
+    "id": "mat6lei5hok6-physics-example-4",
+    "text": "我哋今次嘅科學課主要講物理學。"
+  },
+  {
+    "filename": "mat6zung2-species",
+    "id": "mat6zung2-species",
+    "text": "物種"
+  },
+  {
+    "filename": "mat6zung2-species-example-1",
+    "id": "mat6zung2-species-example-1",
+    "text": "呢個動物屬於一個好罕見嘅物種。"
+  },
+  {
+    "filename": "mat6zung2-species-example-2",
+    "id": "mat6zung2-species-example-2",
+    "text": "學校教我哋識多啲唔同嘅物種。"
+  },
+  {
+    "filename": "mat6zung2-species-example-3",
+    "id": "mat6zung2-species-example-3",
+    "text": "呢度有好多本地嘅珍貴物種。"
+  },
+  {
+    "filename": "mat6zung2-species-example-4",
+    "id": "mat6zung2-species-example-4",
+    "text": "科學家發現咗一個新嘅物種。"
+  },
+  {
+    "filename": "mong6jyun5geng3-telescope",
+    "id": "mong6jyun5geng3-telescope",
+    "text": "望遠鏡"
+  },
+  {
+    "filename": "mong6jyun5geng3-telescope-example-1",
+    "id": "mong6jyun5geng3-telescope-example-1",
+    "text": "我用望遠鏡睇星星。"
+  },
+  {
+    "filename": "mong6jyun5geng3-telescope-example-2",
+    "id": "mong6jyun5geng3-telescope-example-2",
+    "text": "你見唔見到嗰部望遠鏡？"
+  },
+  {
+    "filename": "mong6jyun5geng3-telescope-example-3",
+    "id": "mong6jyun5geng3-telescope-example-3",
+    "text": "望遠鏡放喺書架上。"
+  },
+  {
+    "filename": "mong6jyun5geng3-telescope-example-4",
+    "id": "mong6jyun5geng3-telescope-example-4",
+    "text": "我想買部新嘅望遠鏡。"
+  },
+  {
+    "filename": "nang4loeng6-energy",
+    "id": "nang4loeng6-energy",
+    "text": "能量"
+  },
+  {
+    "filename": "nang4loeng6-energy-example-1",
+    "id": "nang4loeng6-energy-example-1",
+    "text": "呢部手機嘅電池有好多能量。"
+  },
+  {
+    "filename": "nang4loeng6-energy-example-2",
+    "id": "nang4loeng6-energy-example-2",
+    "text": "我覺得做完運動之後身體有更多能量。"
+  },
+  {
+    "filename": "nang4loeng6-energy-example-3",
+    "id": "nang4loeng6-energy-example-3",
+    "text": "太陽係能量嘅主要來源。"
+  },
+  {
+    "filename": "nang4loeng6-energy-example-4",
+    "id": "nang4loeng6-energy-example-4",
+    "text": "呢個系統可以有效地利用能量。"
+  },
+  {
+    "filename": "ngan4ho4-galaxy",
+    "id": "ngan4ho4-galaxy",
+    "text": "銀河"
+  },
+  {
+    "filename": "ngan4ho4-galaxy-example-1",
+    "id": "ngan4ho4-galaxy-example-1",
+    "text": "你見過銀河嗎？"
+  },
+  {
+    "filename": "ngan4ho4-galaxy-example-2",
+    "id": "ngan4ho4-galaxy-example-2",
+    "text": "銀河入面有好多星星。"
+  },
+  {
+    "filename": "ngan4ho4-galaxy-example-3",
+    "id": "ngan4ho4-galaxy-example-3",
+    "text": "我哋嘅地球係銀河系嘅一部分。"
+  },
+  {
+    "filename": "ngan4ho4-galaxy-example-4",
+    "id": "ngan4ho4-galaxy-example-4",
+    "text": "佢鐘意研究銀河嘅結構。"
+  },
+  {
+    "filename": "sai3baau1-cell",
+    "id": "sai3baau1-cell",
+    "text": "細胞"
+  },
+  {
+    "filename": "sai3baau1-cell-example-1",
+    "id": "sai3baau1-cell-example-1",
+    "text": "人體由好多個細胞組成。"
+  },
+  {
+    "filename": "sai3baau1-cell-example-2",
+    "id": "sai3baau1-cell-example-2",
+    "text": "癌症係因為細胞無控制好而生長得太快。"
+  },
+  {
+    "filename": "sai3baau1-cell-example-3",
+    "id": "sai3baau1-cell-example-3",
+    "text": "老師教我哋點樣觀察細胞。"
+  },
+  {
+    "filename": "sai3baau1-cell-example-4",
+    "id": "sai3baau1-cell-example-4",
+    "text": "細胞係生命最細嘅單位。"
+  },
+  {
+    "filename": "sai3kwan2-bacteria",
+    "id": "sai3kwan2-bacteria",
+    "text": "細菌"
+  },
+  {
+    "filename": "sai3kwan2-bacteria-example-1",
+    "id": "sai3kwan2-bacteria-example-1",
+    "text": "呢個傷口有細菌感染，要小心。"
+  },
+  {
+    "filename": "sai3kwan2-bacteria-example-2",
+    "id": "sai3kwan2-bacteria-example-2",
+    "text": "細菌喺食物入面會繁殖。"
+  },
+  {
+    "filename": "sai3kwan2-bacteria-example-3",
+    "id": "sai3kwan2-bacteria-example-3",
+    "text": "我哋用漂白水殺死細菌。"
+  },
+  {
+    "filename": "sai3kwan2-bacteria-example-4",
+    "id": "sai3kwan2-bacteria-example-4",
+    "text": "唔洗手容易帶有細菌。"
+  },
+  {
+    "filename": "sam1lam4-forest",
+    "id": "sam1lam4-forest",
+    "text": "森林"
+  },
+  {
+    "filename": "sam1lam4-forest-example-1",
+    "id": "sam1lam4-forest-example-1",
+    "text": "我哋今日去森林行山。"
+  },
+  {
+    "filename": "sam1lam4-forest-example-2",
+    "id": "sam1lam4-forest-example-2",
+    "text": "森林入面有好多唔同嘅動物。"
+  },
+  {
+    "filename": "sam1lam4-forest-example-3",
+    "id": "sam1lam4-forest-example-3",
+    "text": "保護森林好重要。"
+  },
+  {
+    "filename": "sam1lam4-forest-example-4",
+    "id": "sam1lam4-forest-example-4",
+    "text": "呢個森林好靚，有好多樹。"
+  },
+  {
+    "filename": "sang1mat6-living-thing",
+    "id": "sang1mat6-living-thing",
+    "text": "生物"
+  },
+  {
+    "filename": "sang1mat6-living-thing-example-1",
+    "id": "sang1mat6-living-thing-example-1",
+    "text": "我哋今日喺課堂學生物。"
+  },
+  {
+    "filename": "sang1mat6-living-thing-example-2",
+    "id": "sang1mat6-living-thing-example-2",
+    "text": "呢啲生物好奇怪。"
+  },
+  {
+    "filename": "sang1mat6-living-thing-example-3",
+    "id": "sang1mat6-living-thing-example-3",
+    "text": "啲海洋生物好靚。"
+  },
+  {
+    "filename": "sang1mat6-living-thing-example-4",
+    "id": "sang1mat6-living-thing-example-4",
+    "text": "動物同植物都係生物。"
+  },
+  {
+    "filename": "sang1taai3-ecology",
+    "id": "sang1taai3-ecology",
+    "text": "生態"
+  },
+  {
+    "filename": "sang1taai3-ecology-example-1",
+    "id": "sang1taai3-ecology-example-1",
+    "text": "佢哋研究森林嘅生態系統。"
+  },
+  {
+    "filename": "sang1taai3-ecology-example-2",
+    "id": "sang1taai3-ecology-example-2",
+    "text": "城市發展影響咗啲生態。"
+  },
+  {
+    "filename": "sang1taai3-ecology-example-3",
+    "id": "sang1taai3-ecology-example-3",
+    "text": "我哋應該保護海洋生態。"
+  },
+  {
+    "filename": "sang1taai3-ecology-example-4",
+    "id": "sang1taai3-ecology-example-4",
+    "text": "佢嘅公司有好嘅辦公室生態。"
+  },
+  {
+    "filename": "sat6jim6-experiment",
+    "id": "sat6jim6-experiment",
+    "text": "實驗"
+  },
+  {
+    "filename": "sat6jim6-experiment-example-1",
+    "id": "sat6jim6-experiment-example-1",
+    "text": "老師介紹咗個新嘅實驗畀我哋。"
+  },
+  {
+    "filename": "sat6jim6-experiment-example-2",
+    "id": "sat6jim6-experiment-example-2",
+    "text": "呢個科學實驗好有趣。"
+  },
+  {
+    "filename": "sat6jim6-experiment-example-3",
+    "id": "sat6jim6-experiment-example-3",
+    "text": "我哋要進行多啲實驗先可以得出結果。"
+  },
+  {
+    "filename": "sat6jim6-experiment-example-4",
+    "id": "sat6jim6-experiment-example-4",
+    "text": "公司嘅實驗失敗咗，要重新開始。"
+  },
+  {
+    "filename": "sat6jim6sat1-laboratory",
+    "id": "sat6jim6sat1-laboratory",
+    "text": "實驗室"
+  },
+  {
+    "filename": "sat6jim6sat1-laboratory-example-1",
+    "id": "sat6jim6sat1-laboratory-example-1",
+    "text": "我哋今日喺實驗室做實驗。"
+  },
+  {
+    "filename": "sat6jim6sat1-laboratory-example-2",
+    "id": "sat6jim6sat1-laboratory-example-2",
+    "text": "呢個實驗室有好多設備。"
+  },
+  {
+    "filename": "sat6jim6sat1-laboratory-example-3",
+    "id": "sat6jim6sat1-laboratory-example-3",
+    "text": "老師帶我去實驗室睇化學實驗。"
+  },
+  {
+    "filename": "sat6jim6sat1-laboratory-example-4",
+    "id": "sat6jim6sat1-laboratory-example-4",
+    "text": "實驗室入面要穿實驗袍。"
+  },
+  {
+    "filename": "seng1-sound",
+    "id": "seng1-sound",
+    "text": "聲"
+  },
+  {
+    "filename": "seng1-sound-example-1",
+    "id": "seng1-sound-example-1",
+    "text": "外面有好大嘅聲。"
+  },
+  {
+    "filename": "seng1-sound-example-2",
+    "id": "seng1-sound-example-2",
+    "text": "你聽到啲鳥嘅聲未？"
+  },
+  {
+    "filename": "seng1-sound-example-3",
+    "id": "seng1-sound-example-3",
+    "text": "電視嘅聲開大啲。"
+  },
+  {
+    "filename": "seng1-sound-example-4",
+    "id": "seng1-sound-example-4",
+    "text": "呢個聲好舒服。"
+  },
+  {
+    "filename": "seoi2zi1jyun4-water-resources",
+    "id": "seoi2zi1jyun4-water-resources",
+    "text": "水資源"
+  },
+  {
+    "filename": "seoi2zi1jyun4-water-resources-example-1",
+    "id": "seoi2zi1jyun4-water-resources-example-1",
+    "text": "我哋要節約水資源，唔好浪費水。"
+  },
+  {
+    "filename": "seoi2zi1jyun4-water-resources-example-2",
+    "id": "seoi2zi1jyun4-water-resources-example-2",
+    "text": "城市嘅水資源越嚟越緊張。"
+  },
+  {
+    "filename": "seoi2zi1jyun4-water-resources-example-3",
+    "id": "seoi2zi1jyun4-water-resources-example-3",
+    "text": "農業發展好依賴水資源。"
+  },
+  {
+    "filename": "seoi2zi1jyun4-water-resources-example-4",
+    "id": "seoi2zi1jyun4-water-resources-example-4",
+    "text": "政府推行咗好多保護水資源嘅政策。"
+  },
+  {
+    "filename": "seoi6sing1-comet",
+    "id": "seoi6sing1-comet",
+    "text": "彗星"
+  },
+  {
+    "filename": "seoi6sing1-comet-example-1",
+    "id": "seoi6sing1-comet-example-1",
+    "text": "今晚有彗星可以睇。"
+  },
+  {
+    "filename": "seoi6sing1-comet-example-2",
+    "id": "seoi6sing1-comet-example-2",
+    "text": "天文館講解彗星嘅成因。"
+  },
+  {
+    "filename": "seoi6sing1-comet-example-3",
+    "id": "seoi6sing1-comet-example-3",
+    "text": "科學家話彗星尾巴係塵埃。"
+  },
+  {
+    "filename": "seoi6sing1-comet-example-4",
+    "id": "seoi6sing1-comet-example-4",
+    "text": "我第一次見到真實嘅彗星。"
+  },
+  {
+    "filename": "sing1-star",
+    "id": "sing1-star",
+    "text": "星"
+  },
+  {
+    "filename": "sing1-star-example-1",
+    "id": "sing1-star-example-1",
+    "text": "今晚我哋睇見咗好多星。"
+  },
+  {
+    "filename": "sing1-star-example-2",
+    "id": "sing1-star-example-2",
+    "text": "佢係一個好出名嘅影星。"
+  },
+  {
+    "filename": "sing1-star-example-3",
+    "id": "sing1-star-example-3",
+    "text": "我屋企附近冇好多光污染，夜晚可以清楚見到星。"
+  },
+  {
+    "filename": "sing1-star-example-4",
+    "id": "sing1-star-example-4",
+    "text": "呢間餐廳嘅服務有五粒星咁好。"
+  },
+  {
+    "filename": "sou3geoi3-data",
+    "id": "sou3geoi3-data",
+    "text": "數據"
+  },
+  {
+    "filename": "sou3geoi3-data-example-1",
+    "id": "sou3geoi3-data-example-1",
+    "text": "我哋需要啲數據去做報告。"
+  },
+  {
+    "filename": "sou3geoi3-data-example-2",
+    "id": "sou3geoi3-data-example-2",
+    "text": "呢個數據幫助我理解問題。"
+  },
+  {
+    "filename": "sou3geoi3-data-example-3",
+    "id": "sou3geoi3-data-example-3",
+    "text": "你可唔可以畀啲數據我睇下？"
+  },
+  {
+    "filename": "sou3geoi3-data-example-4",
+    "id": "sou3geoi3-data-example-4",
+    "text": "數據分析係科學入面好重要。"
+  },
+  {
+    "filename": "syun1-acid",
+    "id": "syun1-acid",
+    "text": "酸"
+  },
+  {
+    "filename": "syun1-acid-example-1",
+    "id": "syun1-acid-example-1",
+    "text": "呢個酸好刺激。"
+  },
+  {
+    "filename": "syun1-acid-example-2",
+    "id": "syun1-acid-example-2",
+    "text": "檸檬嘅味道好酸。"
+  },
+  {
+    "filename": "syun1-acid-example-3",
+    "id": "syun1-acid-example-3",
+    "text": "化學課要學酸同鹼。"
+  },
+  {
+    "filename": "syun1-acid-example-4",
+    "id": "syun1-acid-example-4",
+    "text": "硫酸用嚟清潔工業設備。"
+  },
+  {
+    "filename": "taai3hung1-space",
+    "id": "taai3hung1-space",
+    "text": "太空"
+  },
+  {
+    "filename": "taai3hung1-space-example-1",
+    "id": "taai3hung1-space-example-1",
+    "text": "科學家研究太空嘅秘密。"
+  },
+  {
+    "filename": "taai3hung1-space-example-2",
+    "id": "taai3hung1-space-example-2",
+    "text": "我想坐太空船去太空旅行。"
+  },
+  {
+    "filename": "taai3hung1-space-example-3",
+    "id": "taai3hung1-space-example-3",
+    "text": "太空好大，咩都可能發生。"
+  },
+  {
+    "filename": "taai3hung1-space-example-4",
+    "id": "taai3hung1-space-example-4",
+    "text": "我哋會喺太空發射新嘅衛星。"
+  },
+  {
+    "filename": "taai3hung1jan4-astronaut",
+    "id": "taai3hung1jan4-astronaut",
+    "text": "太空人"
+  },
+  {
+    "filename": "taai3hung1jan4-astronaut-example-1",
+    "id": "taai3hung1jan4-astronaut-example-1",
+    "text": "我細個嗰陣想做太空人。"
+  },
+  {
+    "filename": "taai3hung1jan4-astronaut-example-2",
+    "id": "taai3hung1jan4-astronaut-example-2",
+    "text": "太空人要喺太空度漂浮。"
+  },
+  {
+    "filename": "taai3hung1jan4-astronaut-example-3",
+    "id": "taai3hung1jan4-astronaut-example-3",
+    "text": "佢係一個經驗豐富嘅太空人。"
+  },
+  {
+    "filename": "taai3hung1jan4-astronaut-example-4",
+    "id": "taai3hung1jan4-astronaut-example-4",
+    "text": "太空人訓練好辛苦，但好有趣。"
+  },
+  {
+    "filename": "taai3joeng4-sun",
+    "id": "taai3joeng4-sun",
+    "text": "太陽"
+  },
+  {
+    "filename": "taai3joeng4-sun-example-1",
+    "id": "taai3joeng4-sun-example-1",
+    "text": "今朝嘅太陽好猛。"
+  },
+  {
+    "filename": "taai3joeng4-sun-example-2",
+    "id": "taai3joeng4-sun-example-2",
+    "text": "太陽係一個大火球。"
+  },
+  {
+    "filename": "taai3joeng4-sun-example-3",
+    "id": "taai3joeng4-sun-example-3",
+    "text": "我哋應該遮住啲太陽。"
+  },
+  {
+    "filename": "taai3joeng4-sun-example-4",
+    "id": "taai3joeng4-sun-example-4",
+    "text": "太陽落山咗，天開始黑。"
+  },
+  {
+    "filename": "taai3joeng4nang4-solar-energy",
+    "id": "taai3joeng4nang4-solar-energy",
+    "text": "太陽能"
+  },
+  {
+    "filename": "taai3joeng4nang4-solar-energy-example-1",
+    "id": "taai3joeng4nang4-solar-energy-example-1",
+    "text": "我哋屋頂裝咗太陽能板。"
+  },
+  {
+    "filename": "taai3joeng4nang4-solar-energy-example-2",
+    "id": "taai3joeng4nang4-solar-energy-example-2",
+    "text": "太陽能可以幫助減少電費。"
+  },
+  {
+    "filename": "taai3joeng4nang4-solar-energy-example-3",
+    "id": "taai3joeng4nang4-solar-energy-example-3",
+    "text": "學校希望用太陽能黎供電。"
+  },
+  {
+    "filename": "taai3joeng4nang4-solar-energy-example-4",
+    "id": "taai3joeng4nang4-solar-energy-example-4",
+    "text": "太陽能係一種環保能源。"
+  },
+  {
+    "filename": "tin1ping4-scale",
+    "id": "tin1ping4-scale",
+    "text": "天平"
+  },
+  {
+    "filename": "tin1ping4-scale-example-1",
+    "id": "tin1ping4-scale-example-1",
+    "text": "呢架天平幾準㗎。"
+  },
+  {
+    "filename": "tin1ping4-scale-example-2",
+    "id": "tin1ping4-scale-example-2",
+    "text": "你用天平量吓啲材料嘅重量。"
+  },
+  {
+    "filename": "tin1ping4-scale-example-3",
+    "id": "tin1ping4-scale-example-3",
+    "text": "實驗室入面放咗部新天平。"
+  },
+  {
+    "filename": "tin1ping4-scale-example-4",
+    "id": "tin1ping4-scale-example-4",
+    "text": "天平上擺住幾個砝碼。"
+  },
+  {
+    "filename": "waan4ging2-environment",
+    "id": "waan4ging2-environment",
+    "text": "環境"
+  },
+  {
+    "filename": "waan4ging2-environment-example-1",
+    "id": "waan4ging2-environment-example-1",
+    "text": "我哋要保護環境。"
+  },
+  {
+    "filename": "waan4ging2-environment-example-2",
+    "id": "waan4ging2-environment-example-2",
+    "text": "香港嘅環境好乾淨。"
+  },
+  {
+    "filename": "waan4ging2-environment-example-3",
+    "id": "waan4ging2-environment-example-3",
+    "text": "工廈嘅環境好嘈。"
+  },
+  {
+    "filename": "waan4ging2-environment-example-4",
+    "id": "waan4ging2-environment-example-4",
+    "text": "政府擬定咗新嘅環境政策。"
+  },
+  {
+    "filename": "wai6sing1-satellite",
+    "id": "wai6sing1-satellite",
+    "text": "衛星"
+  },
+  {
+    "filename": "wai6sing1-satellite-example-1",
+    "id": "wai6sing1-satellite-example-1",
+    "text": "我哋用衛星收睇電視。"
+  },
+  {
+    "filename": "wai6sing1-satellite-example-2",
+    "id": "wai6sing1-satellite-example-2",
+    "text": "月球係地球嘅一個天然衛星。"
+  },
+  {
+    "filename": "wai6sing1-satellite-example-3",
+    "id": "wai6sing1-satellite-example-3",
+    "text": "科學家發射咗一個新嘅通訊衛星。"
+  },
+  {
+    "filename": "wai6sing1-satellite-example-4",
+    "id": "wai6sing1-satellite-example-4",
+    "text": "衛星幫助我哋監測天氣變化。"
+  },
+  {
+    "filename": "wan1dou6-temperature",
+    "id": "wan1dou6-temperature",
+    "text": "溫度"
+  },
+  {
+    "filename": "wan1dou6-temperature-example-1",
+    "id": "wan1dou6-temperature-example-1",
+    "text": "室內嘅溫度好舒服。"
+  },
+  {
+    "filename": "wan1dou6-temperature-example-2",
+    "id": "wan1dou6-temperature-example-2",
+    "text": "你可以測量水嘅溫度嗎？"
+  },
+  {
+    "filename": "wan1dou6-temperature-example-3",
+    "id": "wan1dou6-temperature-example-3",
+    "text": "今朝外面嘅溫度好低。"
+  },
+  {
+    "filename": "wan1dou6-temperature-example-4",
+    "id": "wan1dou6-temperature-example-4",
+    "text": "廚房入面嘅溫度要高啲先好。"
+  },
+  {
+    "filename": "wan6dung6-motion",
+    "id": "wan6dung6-motion",
+    "text": "運動"
+  },
+  {
+    "filename": "wan6dung6-motion-example-1",
+    "id": "wan6dung6-motion-example-1",
+    "text": "小朋友喺公園做運動。"
+  },
+  {
+    "filename": "wan6dung6-motion-example-2",
+    "id": "wan6dung6-motion-example-2",
+    "text": "呢架車冇運動。"
+  },
+  {
+    "filename": "wan6dung6-motion-example-3",
+    "id": "wan6dung6-motion-example-3",
+    "text": "星星有好多運動方式。"
+  },
+  {
+    "filename": "wan6dung6-motion-example-4",
+    "id": "wan6dung6-motion-example-4",
+    "text": "牛仔褲喺洗衣機入面有啲運動。"
+  },
+  {
+    "filename": "wu1jim5-pollution",
+    "id": "wu1jim5-pollution",
+    "text": "污染"
+  },
+  {
+    "filename": "wu1jim5-pollution-example-1",
+    "id": "wu1jim5-pollution-example-1",
+    "text": "呢條河有嚴重嘅污染。"
+  },
+  {
+    "filename": "wu1jim5-pollution-example-2",
+    "id": "wu1jim5-pollution-example-2",
+    "text": "我哋要保護環境，減少污染。"
+  },
+  {
+    "filename": "wu1jim5-pollution-example-3",
+    "id": "wu1jim5-pollution-example-3",
+    "text": "工廠嘅污染影響住居民嘅健康。"
+  },
+  {
+    "filename": "wu1jim5-pollution-example-4",
+    "id": "wu1jim5-pollution-example-4",
+    "text": "政府出台新政策應付污染問題。"
+  },
+  {
+    "filename": "wui4sau1-recycling",
+    "id": "wui4sau1-recycling",
+    "text": "回收"
+  },
+  {
+    "filename": "wui4sau1-recycling-example-1",
+    "id": "wui4sau1-recycling-example-1",
+    "text": "我哋應該多啲做回收。"
+  },
+  {
+    "filename": "wui4sau1-recycling-example-2",
+    "id": "wui4sau1-recycling-example-2",
+    "text": "呢個地區有免費嘅回收服務。"
+  },
+  {
+    "filename": "wui4sau1-recycling-example-3",
+    "id": "wui4sau1-recycling-example-3",
+    "text": "回收可減少資源浪費。"
+  },
+  {
+    "filename": "wui4sau1-recycling-example-4",
+    "id": "wui4sau1-recycling-example-4",
+    "text": "垃圾回收箱喺街角度。"
+  },
+  {
+    "filename": "zan1kwan2-fungus",
+    "id": "zan1kwan2-fungus",
+    "text": "真菌"
+  },
+  {
+    "filename": "zan1kwan2-fungus-example-1",
+    "id": "zan1kwan2-fungus-example-1",
+    "text": "呢啲麵包有真菌喺上面。"
+  },
+  {
+    "filename": "zan1kwan2-fungus-example-2",
+    "id": "zan1kwan2-fungus-example-2",
+    "text": "真菌可以幫助分解有機物。"
+  },
+  {
+    "filename": "zan1kwan2-fungus-example-3",
+    "id": "zan1kwan2-fungus-example-3",
+    "text": "醫生話我有皮膚真菌感染。"
+  },
+  {
+    "filename": "zan1kwan2-fungus-example-4",
+    "id": "zan1kwan2-fungus-example-4",
+    "text": "森林入面有好多唔同種類嘅真菌。"
+  },
+  {
+    "filename": "zat1loeng6-mass",
+    "id": "zat1loeng6-mass",
+    "text": "質量"
+  },
+  {
+    "filename": "zat1loeng6-mass-example-1",
+    "id": "zat1loeng6-mass-example-1",
+    "text": "呢個石頭嘅質量好重。"
+  },
+  {
+    "filename": "zat1loeng6-mass-example-2",
+    "id": "zat1loeng6-mass-example-2",
+    "text": "質量同體積係兩個唔同嘅概念。"
+  },
+  {
+    "filename": "zat1loeng6-mass-example-3",
+    "id": "zat1loeng6-mass-example-3",
+    "text": "喺物理學入面，質量係物體嘅基本特性。"
+  },
+  {
+    "filename": "zat1loeng6-mass-example-4",
+    "id": "zat1loeng6-mass-example-4",
+    "text": "努力運動唔會改變你嘅體重，但會影響你嘅質量。"
+  },
+  {
+    "filename": "zeon3faa3-evolution",
+    "id": "zeon3faa3-evolution",
+    "text": "進化"
+  },
+  {
+    "filename": "zeon3faa3-evolution-example-1",
+    "id": "zeon3faa3-evolution-example-1",
+    "text": "恐龍嘅進化過程好長。"
+  },
+  {
+    "filename": "zeon3faa3-evolution-example-2",
+    "id": "zeon3faa3-evolution-example-2",
+    "text": "人類嘅進化改善咗我哋嘅生活。"
+  },
+  {
+    "filename": "zeon3faa3-evolution-example-3",
+    "id": "zeon3faa3-evolution-example-3",
+    "text": "老師講咗關於細菌嘅進化。"
+  },
+  {
+    "filename": "zeon3faa3-evolution-example-4",
+    "id": "zeon3faa3-evolution-example-4",
+    "text": "手機科技嘅進化好快。"
+  },
+  {
+    "filename": "zing3ming4-proof",
+    "id": "zing3ming4-proof",
+    "text": "證明"
+  },
+  {
+    "filename": "zing3ming4-proof-example-1",
+    "id": "zing3ming4-proof-example-1",
+    "text": "你要帶身分證作為證明。"
+  },
+  {
+    "filename": "zing3ming4-proof-example-2",
+    "id": "zing3ming4-proof-example-2",
+    "text": "這篇文章裡有清楚的證明。"
+  },
+  {
+    "filename": "zing3ming4-proof-example-3",
+    "id": "zing3ming4-proof-example-3",
+    "text": "科學家用實驗證明理論。"
+  },
+  {
+    "filename": "zing3ming4-proof-example-4",
+    "id": "zing3ming4-proof-example-4",
+    "text": "法庭需要證明被告的罪行。"
+  },
+  {
+    "filename": "zoi3sang1nang4jyun4-renewable-energy",
+    "id": "zoi3sang1nang4jyun4-renewable-energy",
+    "text": "再生能源"
+  },
+  {
+    "filename": "zoi3sang1nang4jyun4-renewable-energy-example-1",
+    "id": "zoi3sang1nang4jyun4-renewable-energy-example-1",
+    "text": "香港多咗用再生能源，對環境好啲。"
+  },
+  {
+    "filename": "zoi3sang1nang4jyun4-renewable-energy-example-2",
+    "id": "zoi3sang1nang4jyun4-renewable-energy-example-2",
+    "text": "政府應該推廣再生能源減少污染。"
+  },
+  {
+    "filename": "zoi3sang1nang4jyun4-renewable-energy-example-3",
+    "id": "zoi3sang1nang4jyun4-renewable-energy-example-3",
+    "text": "再生能源包括太陽能同風能。"
+  },
+  {
+    "filename": "zoi3sang1nang4jyun4-renewable-energy-example-4",
+    "id": "zoi3sang1nang4jyun4-renewable-energy-example-4",
+    "text": "你識唔識利用再生能源？"
+  },
+  {
+    "filename": "zung6loeng6-weight",
+    "id": "zung6loeng6-weight",
+    "text": "重量"
+  },
+  {
+    "filename": "zung6loeng6-weight-example-1",
+    "id": "zung6loeng6-weight-example-1",
+    "text": "呢個箱嘅重量好重，搬唔動。"
+  },
+  {
+    "filename": "zung6loeng6-weight-example-2",
+    "id": "zung6loeng6-weight-example-2",
+    "text": "請你測量呢包米嘅重量。"
+  },
+  {
+    "filename": "zung6loeng6-weight-example-3",
+    "id": "zung6loeng6-weight-example-3",
+    "text": "運動可以幫助你控制體重。"
+  },
+  {
+    "filename": "zung6loeng6-weight-example-4",
+    "id": "zung6loeng6-weight-example-4",
+    "text": "呢件行李重量超過航空公司嘅限制。"
   }
 ]

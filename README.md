@@ -87,7 +87,7 @@ ffmpeg -i co5-sit-example-2.mp3 \
 
 ### Download and back up locally cloudflare r2 storage 
 
-### Sync S3 Audio
+### Sync and download S3 bucket locally
 ```
 aws s3 sync s3://tarotea-content ./r2-backup \
   --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
