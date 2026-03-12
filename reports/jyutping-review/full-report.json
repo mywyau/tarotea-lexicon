@@ -39,6 +39,7 @@
     "status": "needs_review",
     "summary": "The second example's Jyutping has an incorrect segment 'aam1 aam1' instead of 'aam1 aam2'.",
     "lowConfidence": false,
+     "fixed": "yes",
     "issues": [
       {
         "path": "examples[1].jyutping",
@@ -69,6 +70,7 @@
     "status": "needs_review",
     "summary": "Found possible errors in the jyutping for 'dong3' which corresponds to the character '檔'. The correct jyutping for '檔' in this context is 'dong2' (tone 2), not 'dong3'. Also, example 3 contains an extra character '壓' before '縮檔' which seems to be a duplication and may be a mistake in the sentence.",
     "lowConfidence": false,
+    "fixed": "yes",
     "issues": [
       {
         "path": "jyutping",
@@ -188,6 +190,7 @@
     "status": "needs_review",
     "summary": "The Jyutping for the word '白蟻' is incorrect; it should be 'baak6 mai5' instead of 'baak6 ngai5'. The example sentences consistently use 'baak6 ngai5', which is incorrect.",
     "lowConfidence": false,
+    "fixed": "yes",
     "issues": [
       {
         "path": "jyutping",
