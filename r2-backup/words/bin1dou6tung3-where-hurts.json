@@ -8,10 +8,10 @@
   ],
   "usage": [
     "The phrase 'bin1 dou6 tung3' is used to ask about the location of pain on the body.",
-    "It is commonly used by doctors or caregivers when trying to understand a patient's symptoms.",
-    "You can say 'bin1 dou6 tung3 aa3?' as a question to directly ask 'Where does it hurt?'.",
-    "'Bin1 dou6 tung3' can be followed by a specific body part to describe where the pain is, for example, 'ngo5 gin2 bin1 dou6 tung3' means 'My shoulder hurts.'",
-    "It is informal and suitable for casual and medical conversations."
+    "It is commonly used by doctors, caregivers, or family members when trying to understand someone's symptoms.",
+    "You can say 'nei5 bin1 dou6 tung3 aa3?' to directly ask 'Where does it hurt?'.",
+    "'Bin1 dou6 tung3' is a question phrase. To answer it, you would usually name the body part that hurts, for example, 'ngo5 tau4 tung3' means 'My head hurts.'",
+    "It is natural in both everyday conversation and medical situations."
   ],
   "examples": [
     {
@@ -24,19 +24,19 @@
       "id": "bin1dou6tung3-where-hurts-example-2",
       "sentence": "我頭痛，你邊度痛？",
       "jyutping": "ngo5 tau4 tung3, nei5 bin1 dou6 tung3?",
-      "meaning": "My head hurts, where do you hurt?"
+      "meaning": "I have a headache. Where does it hurt for you?"
     },
     {
       "id": "bin1dou6tung3-where-hurts-example-3",
-      "sentence": "細路仔，邊度痛？",
-      "jyutping": "sai3 lou6 zai2, bin1 dou6 tung3?",
+      "sentence": "細路仔，邊度痛呀？",
+      "jyutping": "sai3 lou6 zai2, bin1 dou6 tung3 aa3?",
       "meaning": "Kid, where does it hurt?"
     },
     {
       "id": "bin1dou6tung3-where-hurts-example-4",
-      "sentence": "如果邊度痛得嚴重，要睇醫生。",
-      "jyutping": "jyu4 gwo2 bin1 dou6 tung3 dak1 jim4 zung6, jiu3 tai2 ji1 sang1.",
-      "meaning": "If where it hurts is serious, you need to see a doctor."
+      "sentence": "如果痛得好嚴重，就要睇醫生。",
+      "jyutping": "jyu4 gwo2 tung3 dak1 hou2 jim4 zung6, zau6 jiu3 tai2 ji1 sang1.",
+      "meaning": "If the pain is very severe, you need to see a doctor."
     }
   ],
   "audio": {
@@ -57,10 +57,10 @@
     "level-1"
   ],
   "related": [
-    "痛 (tung3) - pain",
+    "痛 (tung3) - pain / hurt",
     "頭痛 (tau4 tung3) - headache",
     "醫生 (ji1 sang1) - doctor",
-    "看醫生 (hon3 ji1 sang1) - see a doctor",
+    "睇醫生 (tai2 ji1 sang1) - see a doctor",
     "受傷 (sau6 soeng1) - injured"
   ]
 }
