@@ -3,37 +3,46 @@
   "word": "差唔多",
   "jyutping": "caa1 m4 do1",
   "meaning": "almost; nearly; about the same",
-
   "pos": ["adverb", "adjective"],
-
   "usage": [
     "Used to indicate something is nearly finished or nearly the same",
     "Often used to mean ‘almost done’ or ‘roughly the same amount’",
     "Very common in everyday spoken Cantonese"
   ],
-
   "examples": [
     {
       "id": "caa1m4do1-almost-example-1",
       "sentence": "就快食完喇，差唔多喇。",
-      "jyutping": "zau6 faai3 sik6 jyun4 laa3 caa1 m4 do1 laa3",
+      "jyutping": "zau6 faai3 sik6 jyun4 laa3, caa1 m4 do1 laa3.",
       "meaning": "I’m almost finished eating."
     },
     {
       "id": "caa1m4do1-almost-example-2",
       "sentence": "我哋差唔多同一時間到。",
-      "jyutping": "ngo5 dei6 caa1 m4 do1 tung4 jat1 si4 gaan3 dou3",
+      "jyutping": "ngo5 dei6 caa1 m4 do1 tung4 jat1 si4 gaan3 dou3.",
       "meaning": "We arrived at almost the same time."
+    },
+    {
+      "id": "caa1m4do1-almost-example-3",
+      "sentence": "而家差唔多十點喇。",
+      "jyutping": "ji4 gaa1 caa1 m4 do1 sap6 dim2 laa3.",
+      "meaning": "It’s almost ten o’clock now."
+    },
+    {
+      "id": "caa1m4do1-almost-example-4",
+      "sentence": "呢兩件衫差唔多價錢。",
+      "jyutping": "ni1 loeng5 gin6 saam1 caa1 m4 do1 gaa3 cin4.",
+      "meaning": "These two clothes are about the same price."
     }
   ],
-
   "audio": {
     "word": "caa1m4do1-almost.mp3",
     "examples": [
       "caa1m4do1-almost-example-1.mp3",
-      "caa1m4do1-almost-example-2.mp3"
+      "caa1m4do1-almost-example-2.mp3",
+      "caa1m4do1-almost-example-3.mp3",
+      "caa1m4do1-almost-example-4.mp3"
     ]
   },
-
   "tags": ["level-2", "degree", "comparison", "common"]
 }

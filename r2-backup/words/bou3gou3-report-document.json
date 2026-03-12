@@ -2,22 +2,21 @@
   "id": "bou3gou3-report-document",
   "word": "報告",
   "jyutping": "bou3 gou3",
-  "meaning": "report (document)",
+  "meaning": "report",
   "pos": [
-    "phrase"
+    "noun"
   ],
   "usage": [
-    "The word 'bou3 gou3' is primarily used as a noun to refer to a formal report or document containing detailed information.",
-    "It can be used in both spoken and written Cantonese when discussing official documents or findings.",
-    "'bou3 gou3' often appears in professional, academic, or media contexts to describe findings or data summaries.",
-    "It is important to note that 'bou3 gou3' typically refers to a comprehensive document rather than a brief message.",
-    "The phrase can be combined with verbs like 'tai2' (to read), 'gat1' (to draft), or 'faan1' (to file) to describe activities related to reports."
+    "The word 報告 is primarily used as a noun to refer to a report or document containing information, findings, or analysis.",
+    "It can be used in both spoken and written Cantonese, especially in official, professional, academic, or media contexts.",
+    "報告 often appears in phrases such as 財務報告 (financial report), 工作報告 (work report), or 市場報告 (market report).",
+    "It can be combined with verbs like 睇 (read), 寫 (write), 提交 (submit), or 發佈 (release) when talking about reports."
   ],
   "examples": [
     {
       "id": "bou3gou3-report-document-example-1",
-      "sentence": "政府會喺今日發佈最新嘅環境報告。",
-      "jyutping": "zing3 fu2 wui5 hai2 gam1 jat6 faat3 bou3 zeoi3 san1 ge3 waan4 ging2 bou3 gou3.",
+      "sentence": "政府今日會發佈最新嘅環境報告。",
+      "jyutping": "zing3 fu2 gam1 jat6 wui5 faat3 bou3 zeoi3 san1 ge3 waan4 ging2 bou3 gou3.",
       "meaning": "The government will release the latest environmental report today."
     },
     {
@@ -35,7 +34,7 @@
     {
       "id": "bou3gou3-report-document-example-4",
       "sentence": "員工要提交季度工作報告。",
-      "jyutping": "yun4 gung1 jiu3 tai4 gaau1 gwai3 dou6 gung1 zok3 bou3 gou3.",
+      "jyutping": "jyun4 gung1 jiu3 tai4 gaau1 gwai3 dou6 gung1 zok3 bou3 gou3.",
       "meaning": "Employees need to submit quarterly work reports."
     }
   ],
@@ -58,9 +57,9 @@
   ],
   "related": [
     "文件 (man4 gin2)",
-    "報章 (bou3 zoeng1)",
     "調查 (diu6 caa4)",
     "總結 (zung2 git3)",
-    "分析 (fan1 sik1)"
+    "分析 (fan1 sik1)",
+    "匯報 (wui6 bou3)"
   ]
 }

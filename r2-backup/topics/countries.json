@@ -1,6 +1,6 @@
 {
   "topic": "countries",
-  "title": "Countries 國家",
+  "title": "Countries",
   "description": "Learn the names of countries commonly mentioned in conversation, travel, and news.",
   "categories": {
 
@@ -47,7 +47,7 @@
       { "id": "no4wai1-norway", "word": "挪威", "jyutping": "no4 wai1", "meaning": "Norway" },
       { "id": "fan1laan4-finland", "word": "芬蘭", "jyutping": "fan1 laan4", "meaning": "Finland" },
       { "id": "hei1laap6-greece", "word": "希臘", "jyutping": "hei1 laap6", "meaning": "Greece" },
-      { "id": "bou2tou2ngaa4-portugal", "word": "葡萄牙", "jyutping": "pou4 tou4 ngaa4", "meaning": "Portugal" }
+      { "id": "pou4tou4ngaa4-portugal", "word": "葡萄牙", "jyutping": "pou4 tou4 ngaa4", "meaning": "Portugal" }
     ],
 
     "americas": [
