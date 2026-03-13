@@ -1,0 +1,67 @@
+{
+  "id": "gan6-near",
+  "word": "近",
+  "jyutping": "gan6",
+  "meaning": "near",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "usage": [
+    "Near (近, gan6) is commonly used as an adjective to describe the physical proximity of places or objects.",
+    "You can use near to refer to the closeness of time or events, not just physical space.",
+    "As an adverb, near can modify verbs to indicate an action happening close to a place or object.",
+    "Near often contrasts with the word far (遠, jyun5) to express distance.",
+    "Near can be combined with location or time phrases to specify exactly what is close."
+  ],
+  "examples": [
+    {
+      "id": "gan6-near-example-1",
+      "sentence": "我屋企好近地鐵站。",
+      "jyutping": "ngo5 uk1 kei2 hou2 gan6 dei6 tit3 zaam6.",
+      "meaning": "My home is very near the MTR station."
+    },
+    {
+      "id": "gan6-near-example-2",
+      "sentence": "你喺邊度？我喺公司附近，好近嘅。",
+      "jyutping": "nei5 hai2 bin1 dou6? ngo5 hai2 gung1 si1 fu6 gan6, hou2 gan6 ge3.",
+      "meaning": "Where are you? I'm near the company, very close."
+    },
+    {
+      "id": "gan6-near-example-3",
+      "sentence": "聖誕節快到喇，好近啦。",
+      "jyutping": "sing3 daan3 zit3 faai3 dou3 laa3, hou2 gan6 laa1.",
+      "meaning": "Christmas is coming soon, it's near."
+    },
+    {
+      "id": "gan6-near-example-4",
+      "sentence": "我哋嘅客廳近窗口，光線好多。",
+      "jyutping": "ngo5 dei6 ge3 haak3 teng1 gan6 coeng1 hau2, gwong1 sin3 hou2 do1.",
+      "meaning": "Our living room is near the window, lots of light."
+    }
+  ],
+  "audio": {
+    "word": "gan6-near.mp3",
+    "examples": [
+      "gan6-near-example-1.mp3",
+      "gan6-near-example-2.mp3",
+      "gan6-near-example-3.mp3",
+      "gan6-near-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "distance",
+    "location",
+    "time",
+    "basic",
+    "everyday",
+    "level-1"
+  ],
+  "related": [
+    "遠 (jyun5 - far)",
+    "附近 (fu6 gan6 - nearby)",
+    "左右 (zo2 jau6 - around)",
+    "接近 (zip3 gan6 - approach)",
+    "隔離 (gaak3 lei4 - next to)"
+  ]
+}

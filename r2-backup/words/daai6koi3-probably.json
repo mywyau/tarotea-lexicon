@@ -1,0 +1,37 @@
+{
+  "id": "daai6koi3-probably",
+  "word": "大概",
+  "jyutping": "daai6 koi3",
+  "meaning": "probably / roughly",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used to express approximation or uncertainty",
+    "Can mean 'probably' when describing likelihood",
+    "Can also mean 'roughly' when referring to amounts or time"
+  ],
+
+  "examples": [
+    {
+      "id": "daai6koi3-probably-example-1",
+      "sentence": "佢大概已經走咗。",
+      "jyutping": "keoi5 daai6 koi3 ji5 ging1 zau2 zo2",
+      "meaning": "He’s probably already left."
+    },
+    {
+      "id": "daai6koi3-probably-example-2",
+      "sentence": "大概十分鐘就到。",
+      "jyutping": "daai6 koi3 sap6 fan1 zung1 zau6 dou3",
+      "meaning": "It’ll take roughly ten minutes to arrive."
+    }
+  ],
+
+  "audio": {
+    "word": "daai6koi3-probably.mp3",
+    "examples": [
+      "daai6koi3-probably-example-1.mp3",
+      "daai6koi3-probably-example-2.mp3"
+    ]
+  }
+}

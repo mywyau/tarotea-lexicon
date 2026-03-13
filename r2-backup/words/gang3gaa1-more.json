@@ -1,0 +1,39 @@
+{
+  "id": "gang3gaa1-more",
+  "word": "更加",
+  "jyutping": "gang3 gaa1",
+  "meaning": "more; even more; to a greater extent",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used to indicate an increased degree or extent",
+    "Often used to compare two situations, meaning ‘even more than before’",
+    "Commonly appears with adjectives or verbs to emphasise change"
+  ],
+
+  "examples": [
+    {
+      "id": "gang3gaa1-more-example-1",
+      "sentence": "天氣凍咗，今晚會更加凍。",
+      "jyutping": "tin1 hei3 dung3 zo2 gam1 maan5 wui5 gang3 gaa1 dung3",
+      "meaning": "The weather has got cold; tonight it will be even colder."
+    },
+    {
+      "id": "gang3gaa1-more-example-2",
+      "sentence": "練多啲，你會更加熟手。",
+      "jyutping": "lin6 do1 di1 nei5 wui5 gang3 gaa1 suk6 sau2",
+      "meaning": "Practice more and you’ll become even more skilled."
+    }
+  ],
+
+  "audio": {
+    "word": "gang3gaa1-more.mp3",
+    "examples": [
+      "gang3gaa1-more-example-1.mp3",
+      "gang3gaa1-more-example-2.mp3"
+    ]
+  },
+
+  "tags": ["level-2", "degree", "comparison", "common"]
+}

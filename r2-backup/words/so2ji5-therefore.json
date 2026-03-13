@@ -1,0 +1,39 @@
+{
+  "id": "so2ji5-therefore",
+  "word": "所以",
+  "jyutping": "so2 ji5",
+  "meaning": "therefore; so",
+
+  "pos": ["conjunction"],
+
+  "usage": [
+    "Used to introduce a result or consequence",
+    "Commonly paired with 「因為」 in the pattern 「因為 A，所以 B」",
+    "In casual speech, 「所以」 is often shortened to just 「所以」 without explicitly stating 「因為」 if the cause is already clear"
+  ],
+
+  "examples": [
+    {
+      "id": "so2ji5-therefore-example-1",
+      "sentence": "我今日好攰，所以想早啲瞓。",
+      "jyutping": "ngo5 gam1 jat6 hou2 gui6 so2 ji5 soeng2 zou2 di1 fan3",
+      "meaning": "I’m very tired today, so I want to sleep earlier."
+    },
+    {
+      "id": "so2ji5-therefore-example-2",
+      "sentence": "落雨，所以我哋留喺屋企。",
+      "jyutping": "lok6 jyu5 so2 ji5 ngo5 dei6 lau4 hai2 uk1 kei2",
+      "meaning": "It’s raining, so we’re staying at home."
+    }
+  ],
+
+  "audio": {
+    "word": "so2ji5-therefore.mp3",
+    "examples": [
+      "so2ji5-therefore-example-1.mp3",
+      "so2ji5-therefore-example-2.mp3"
+    ]
+  },
+
+  "tags": ["level-2", "result", "connector", "common"]
+}

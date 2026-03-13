@@ -1,0 +1,66 @@
+{
+  "id": "daan1-menu",
+  "word": "餐單",
+  "jyutping": "caan1 daan1",
+  "meaning": "menu",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '餐單' is a noun referring to a list of food and drink items available at a restaurant.",
+    "You can ask for the '餐單' when you want to see what dishes are offered before ordering.",
+    "'餐單' can be used in both formal and casual settings in restaurants or cafes.",
+    "In spoken Cantonese, '餐單' is often used when deciding what to eat.",
+    "It commonly appears in questions and statements about food choices."
+  ],
+  "examples": [
+    {
+      "id": "daan1-menu-example-1",
+      "sentence": "我可以睇吓餐單嗎？",
+      "jyutping": "ngo5 ho2 ji5 tai2 ha5 caan1 daan1 maa3?",
+      "meaning": "Can I look at the menu?"
+    },
+    {
+      "id": "daan1-menu-example-2",
+      "sentence": "呢度嘅餐單好豐富。",
+      "jyutping": "ni1 dou6 ge3 caan1 daan1 hou2 fung1 fu3.",
+      "meaning": "The menu here is very rich/diverse."
+    },
+    {
+      "id": "daan1-menu-example-3",
+      "sentence": "佢都唔知餐單上有啲咩嘢。",
+      "jyutping": "keoi5 dou1 m4 zi1 caan1 daan1 soeng5 jau5 di1 me1 je5.",
+      "meaning": "He doesn't even know what's on the menu."
+    },
+    {
+      "id": "daan1-menu-example-4",
+      "sentence": "我最鍾意呢個餐單嘅甜品。",
+      "jyutping": "ngo5 zeoi3 zung1 ji3 ni1 go3 caan1 daan1 ge3 tim4 ban2.",
+      "meaning": "I like the desserts on this menu the most."
+    }
+  ],
+  "audio": {
+    "word": "daan1-menu.mp3",
+    "examples": [
+      "daan1-menu-example-1.mp3",
+      "daan1-menu-example-2.mp3",
+      "daan1-menu-example-3.mp3",
+      "daan1-menu-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "restaurant",
+    "food",
+    "ordering",
+    "basic",
+    "menu",
+    "level-1"
+  ],
+  "related": [
+    "食物 sik6 mat6 (food)",
+    "點菜 dim2 coi3 (to order dishes)",
+    "飲品 jam2 ban2 (beverages)",
+    "甜品 tim4 ban2 (desserts)",
+    "餐廳 caan1 teng1 (restaurant)"
+  ]
+}

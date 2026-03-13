@@ -1,0 +1,66 @@
+{
+  "id": "daai6zoeng6-elephant",
+  "word": "大象",
+  "jyutping": "daai6 zoeng6",
+  "meaning": "elephant",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Elephant is a noun that refers to a large, wild animal with a trunk.",
+    "You can use 'elephant' to talk about this animal in zoos, nature, or stories.",
+    "In sentences, 'elephant' can be the subject or object, like 'The elephant drinks water.'",
+    "You can also use 'elephant' with size or color descriptions, like 'big elephant' or 'gray elephant.'",
+    "When talking about elephants, verbs like 'see,' 'feed,' or 'watch' are common."
+  ],
+  "examples": [
+    {
+      "id": "daai6zoeng6-elephant-example-1",
+      "sentence": "我喺動物園見到大象。",
+      "jyutping": "ngo5 hai2 dung6 mat6 jyun4 gin3 dou3 daai6 zoeng6.",
+      "meaning": "I saw an elephant at the zoo."
+    },
+    {
+      "id": "daai6zoeng6-elephant-example-2",
+      "sentence": "大象用長鼻飲水。",
+      "jyutping": "daai6 zoeng6 jung6 coeng4 bei6 jam2 seoi2.",
+      "meaning": "Elephants use their long trunks to drink water."
+    },
+    {
+      "id": "daai6zoeng6-elephant-example-3",
+      "sentence": "呢隻大象好大隻。",
+      "jyutping": "ni1 zek3 daai6 zoeng6 hou2 daai6 zek3.",
+      "meaning": "This elephant is very big."
+    },
+    {
+      "id": "daai6zoeng6-elephant-example-4",
+      "sentence": "小朋友鍾意睇大象。",
+      "jyutping": "siu2 pang4 jau5 zung1 ji3 tai2 daai6 zoeng6.",
+      "meaning": "Children like to watch elephants."
+    }
+  ],
+  "audio": {
+    "word": "daai6zoeng6-elephant.mp3",
+    "examples": [
+      "daai6zoeng6-elephant-example-1.mp3",
+      "daai6zoeng6-elephant-example-2.mp3",
+      "daai6zoeng6-elephant-example-3.mp3",
+      "daai6zoeng6-elephant-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal",
+    "wild",
+    "zoo",
+    "large",
+    "nature",
+    "level-1"
+  ],
+  "related": [
+    "獅子",
+    "老虎",
+    "長頸鹿",
+    "大熊貓",
+    "斑馬"
+  ]
+}

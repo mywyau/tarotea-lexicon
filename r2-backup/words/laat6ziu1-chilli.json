@@ -1,0 +1,51 @@
+{
+  "id": "laat6ziu1-chilli",
+  "word": "辣椒",
+  "jyutping": "laat6 ziu1",
+  "meaning": "chilli",
+  "pos": ["noun"],
+  "usage": [
+    "Chilli is a seasoning used to add spiciness to food.",
+    "People in Hong Kong often eat food with chilli sauce.",
+    "Chilli can sometimes feel very intense on the mouth, so eat it carefully.",
+    "When buying chillies, choose ones that are fresh and brightly coloured.",
+    "There are many different types of chilli — some are very spicy, others are milder."
+  ],
+  "examples": [
+    {
+      "id": "laat6ziu1-chilli-example-1",
+      "sentence": "我哋去街市買啲新鮮辣椒。",
+      "jyutping": "ngo5 dei6 heoi3 gaai1 si5 maai5 di1 san1 sin1 laat6 ziu1.",
+      "meaning": "We go to the market to buy fresh chillies."
+    },
+    {
+      "id": "laat6ziu1-chilli-example-2",
+      "sentence": "呢啲辣椒好新鮮，色好鮮艷。",
+      "jyutping": "ni1 di1 laat6 ziu1 hou2 san1 sin1, sik1 hou2 sin1 jim6.",
+      "meaning": "These chillies are very fresh and brightly colored."
+    },
+    {
+      "id": "laat6ziu1-chilli-example-3",
+      "sentence": "炒菜時我鍾意加啲辣椒，味道更好。",
+      "jyutping": "caau2 coi3 si4 ngo5 zung1 ji3 gaa1 di1 laat6 ziu1, mei6 dou6 gang3 hou2.",
+      "meaning": "I like adding some chillies when stir-frying, it tastes better."
+    },
+    {
+      "id": "laat6ziu1-chilli-example-4",
+      "sentence": "辣椒係一種常用嘅香料。",
+      "jyutping": "laat6 ziu1 hai6 jat1 zung2 soeng4 jung6 ge3 hoeng1 liu6.",
+      "meaning": "Chilli is a commonly used spice."
+    }
+  ],
+  "audio": {
+    "word": "laat6ziu1-chilli.mp3",
+    "examples": [
+      "laat6ziu1-chilli-example-1.mp3",
+      "laat6ziu1-chilli-example-2.mp3",
+      "laat6ziu1-chilli-example-3.mp3",
+      "laat6ziu1-chilli-example-4.mp3"
+    ]
+  },
+  "tags": ["food", "shopping", "spice", "freshness", "cooking", "level-1"],
+  "related": ["蒜頭", "薑", "蔥", "胡椒", "辣椒醬"]
+}

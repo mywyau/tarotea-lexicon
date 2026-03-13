@@ -1,0 +1,38 @@
+{
+  "id": "caa1bit6-difference",
+  "word": "差別",
+  "jyutping": "caa1 bit6",
+  "meaning": "difference",
+
+  "pos": ["noun"],
+
+  "usage": [
+    "Used to describe a difference between two or more things",
+    "Often paired with 有 / 冇 to state whether a difference exists",
+    "Commonly used in comparisons, evaluations, and explanations",
+    "Frequently appears with 之間 to indicate what is being compared"
+  ],
+
+  "examples": [
+    {
+      "id": "caa1bit6-difference-example-1",
+      "sentence": "呢兩個方案之間冇乜差別。",
+      "jyutping": "ni1 loeng5 go3 fong1 on3 zi1 gaan1 mou5 mat1 caa1 bit6",
+      "meaning": "There isn’t much difference between these two options."
+    },
+    {
+      "id": "caa1bit6-difference-example-2",
+      "sentence": "價錢嘅差別會影響選擇。",
+      "jyutping": "gaa3 cin2 ge3 caa1 bit6 wui5 jing2 hoeng2 syun2 zaak6",
+      "meaning": "The price difference will affect the choice."
+    }
+  ],
+
+  "audio": {
+    "word": "caa1bit6-difference.mp3",
+    "examples": [
+      "caa1bit6-difference-example-1.mp3",
+      "caa1bit6-difference-example-2.mp3"
+    ]
+  }
+}

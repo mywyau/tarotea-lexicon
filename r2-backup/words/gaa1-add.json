@@ -1,0 +1,66 @@
+{
+  "id": "gaa1-add",
+  "word": "加",
+  "jyutping": "gaa1",
+  "meaning": "add",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word '加' (gaa1) is a verb that means 'to add'.",
+    "It can be used in various contexts, such as adding ingredients, adding information, or adding a number.",
+    "In Cantonese sentences, '加' typically comes before the object that is being added.",
+    "It can be followed directly by a noun or a verb phrase.",
+    "It can also be used in commands or requests to indicate doing an addition."
+  ],
+  "examples": [
+    {
+      "id": "gaa1-add-example-1",
+      "sentence": "我想加糖喺咖啡入面。",
+      "jyutping": "ngo5 soeng2 gaa1 tong4 hai2 gaa3 fe1 jap6 min6.",
+      "meaning": "I want to add sugar to the coffee."
+    },
+    {
+      "id": "gaa1-add-example-2",
+      "sentence": "你可以加我做朋友嗎？",
+      "jyutping": "nei5 ho2 ji5 gaa1 ngo5 zou6 pang4 jau5 maa3?",
+      "meaning": "Can you add me as a friend?"
+    },
+    {
+      "id": "gaa1-add-example-3",
+      "sentence": "請加多啲油喺炒菜度。",
+      "jyutping": "cing2 gaa1 do1 di1 jau4 hai2 caau2 coi3 dou6.",
+      "meaning": "Please add more oil when stir-frying."
+    },
+    {
+      "id": "gaa1-add-example-4",
+      "sentence": "佢加咗幾張相上網。",
+      "jyutping": "keoi5 gaa1 zo2 gei2 zoeng1 soeng2 soeng5 mong5.",
+      "meaning": "He/she added a few photos online."
+    }
+  ],
+  "audio": {
+    "word": "gaa1-add.mp3",
+    "examples": [
+      "gaa1-add-example-1.mp3",
+      "gaa1-add-example-2.mp3",
+      "gaa1-add-example-3.mp3",
+      "gaa1-add-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "verb",
+    "common",
+    "daily use",
+    "technology",
+    "food",
+    "level-1"
+  ],
+  "related": [
+    "減 (gaan2) - subtract",
+    "整 (zing2) - make/fix",
+    "加埋 (gaa1 maai4) - add together",
+    "增加 (zang1 gaa1) - increase",
+    "放 (fong3) - put"
+  ]
+}

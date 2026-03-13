@@ -1,0 +1,65 @@
+{
+  "id": "gan1-catty",
+  "word": "斤",
+  "jyutping": "gan1",
+  "meaning": "catty",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '斤' is used to measure weight, commonly in Hong Kong and other Cantonese-speaking regions.",
+    "'斤' typically represents a weight of approximately 600 grams.",
+    "It is used after a number to specify the amount of an item, e.g., '一斤' means one catty.",
+    "When measuring fruits, vegetables, or meat, using '斤' is very common in daily conversations.",
+    "'斤' can function as both a standalone noun and part of a compound phrase indicating quantity."
+  ],
+  "examples": [
+    {
+      "id": "gan1-catty-example-1",
+      "sentence": "我要買兩斤蘋果。",
+      "jyutping": "ngo5 jiu3 maai5 loeng5 gan1 ping4 gwo2.",
+      "meaning": "I want to buy two catties of apples."
+    },
+    {
+      "id": "gan1-catty-example-2",
+      "sentence": "呢塊肉有三斤幾。",
+      "jyutping": "ni1 faai3 juk6 jau5 saam1 gan1 gei2.",
+      "meaning": "This piece of meat is a bit over three catties."
+    },
+    {
+      "id": "gan1-catty-example-3",
+      "sentence": "一斤橙大約幾蚊錢？",
+      "jyutping": "jat1 gan1 caang4 daai6 joek3 gei2 man1 cin2?",
+      "meaning": "About how much is one catty of oranges?"
+    },
+    {
+      "id": "gan1-catty-example-4",
+      "sentence": "阿媽買咗半斤魚。",
+      "jyutping": "aa3 maa1 maai5 zo2 bun3 gan1 jyu4.",
+      "meaning": "Mom bought half a catty of fish."
+    }
+  ],
+  "audio": {
+    "word": "gan1-catty.mp3",
+    "examples": [
+      "gan1-catty-example-1.mp3",
+      "gan1-catty-example-2.mp3",
+      "gan1-catty-example-3.mp3",
+      "gan1-catty-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weight",
+    "measurement",
+    "food",
+    "daily use",
+    "quantity",
+    "level-1"
+  ],
+  "related": [
+    "兩 (loeng5)",
+    "磅 (bong6)",
+    "克 (hak1)",
+    "公斤 (gung1 gan1)"
+  ]
+}

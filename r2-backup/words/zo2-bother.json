@@ -1,0 +1,73 @@
+{
+  "id": "zo2-bother",
+  "word": "阻",
+  "jyutping": "zo2",
+  "meaning": "to disturb / bother / block",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "A verb meaning 'to block', 'to obstruct', or 'to bother someone'",
+    "Commonly used in polite phrases like 唔阻你喇 ('I won’t bother you anymore')",
+    "Can describe physically blocking the way or interrupting someone’s time",
+    "Often appears with negation 唔 to sound polite and indirect",
+    "Useful in both everyday speech and more formal compounds"
+  ],
+  "examples": [
+    {
+      "id": "zo2-bother-example-1",
+      "sentence": "唔好阻住。",
+      "jyutping": "m4 hou2 zo2 zyu6",
+      "meaning": "Don’t block the way."
+    },
+    {
+      "id": "zo2-bother-example-2",
+      "sentence": "唔阻你喇。",
+      "jyutping": "m4 zo2 nei5 laa3",
+      "meaning": "I won’t bother you anymore."
+    },
+    {
+      "id": "zo2-bother-example-3",
+      "sentence": "對唔住，阻到你。",
+      "jyutping": "deoi3 m4 zyu6, zo2 dou3 nei5",
+      "meaning": "Sorry for bothering you."
+    },
+    {
+      "id": "zo2-bother-example-4",
+      "sentence": "呢度好多人，行路會阻住。",
+      "jyutping": "ni1 dou6 hou2 do1 jan4, haang4 lou6 wui5 zo2 zyu6",
+      "meaning": "There are lots of people here, walking will block the way."
+    },
+    {
+      "id": "zo2-bother-example-5",
+      "sentence": "唔好意思，打擾你一下，冇阻到你呀？",
+      "jyutping": "m4 hou2 ji3 si3, daa2 jiu2 nei5 jat1 haa5, mou5 zo2 dou3 nei5 aa3?",
+      "meaning": "Sorry to disturb you for a moment — am I bothering you?"
+    }
+  ],
+  "audio": {
+    "word": "zo2-bother.mp3",
+    "examples": [
+      "zo2-bother-example-1.mp3",
+      "zo2-bother-example-2.mp3",
+      "zo2-bother-example-3.mp3",
+      "zo2-bother-example-4.mp3",
+      "zo2-bother-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "verb",
+    "level-2",
+    "core",
+    "daily",
+    "polite",
+    "conversation"
+  ],
+  "related": [
+    "m4zo2nei5laa3-wont-bother",
+    "daa2jiu2-disturb",
+    "deoi3m4zyu6-sorry",
+    "m4hou2ji3si3-excuse-me",
+    "zo2zyu6-block-way"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "m4goi1-please",
+  "word": "唔該",
+  "jyutping": "m4 goi1",
+  "meaning": "please / thanks (for services)",
+
+  "pos": ["expression"],
+
+  "usage": [
+    "Used to say thank you for services or help",
+    "Also used to mean ‘please’ when making requests",
+    "More casual than 多謝"
+  ],
+
+  "examples": [
+    {
+      "id": "m4goi1-please-example-1",
+      "sentence": "唔該晒。",
+      "jyutping": "m4 goi1 saai3",
+      "meaning": "Thanks a lot."
+    },
+    {
+      "id": "m4goi1-please-example-2",
+      "sentence": "唔該幫我開門。",
+      "jyutping": "m4 goi1 bong1 ngo5 hoi1 mun4",
+      "meaning": "Please help me open the door."
+    }
+  ],
+
+  "audio": {
+    "word": "m4goi1-please.mp3",
+    "examples": [
+      "m4goi1-please-example-1.mp3",
+      "m4goi1-please-example-2.mp3"
+    ]
+  },
+
+  "tags": ["politeness", "level-1", "core", "daily-life"],
+
+  "related": [
+    "do1ze6-thank-you",
+    "m4jiu3-dont-want"
+  ]
+}

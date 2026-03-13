@@ -1,0 +1,66 @@
+{
+  "id": "maai5-buy",
+  "word": "買",
+  "jyutping": "maai5",
+  "meaning": "buy",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The verb '買' (maai5) means 'to buy' in Cantonese.",
+    "'買' is commonly used with the object that you intend to purchase following it directly.",
+    "It can be used in both past and future tenses by adding appropriate time words or context.",
+    "When asking questions, '買唔買?' (maai5 m4 maai5?) means 'Will you buy it?' or 'Do you want to buy?'.",
+    "You can combine '買' with measure words or quantities to be more specific, e.g., '買一個蘋果' (buy one apple)."
+  ],
+  "examples": [
+    {
+      "id": "maai5-buy-example-1",
+      "sentence": "我想買杯咖啡。",
+      "jyutping": "ngo5 soeng2 maai5 bui1 gaa3 fe1.",
+      "meaning": "I want to buy a cup of coffee."
+    },
+    {
+      "id": "maai5-buy-example-2",
+      "sentence": "佢喺市場買水果。",
+      "jyutping": "keoi5 hai2 si5 coeng4 maai5 seoi2 gwo2.",
+      "meaning": "He buys fruits at the market."
+    },
+    {
+      "id": "maai5-buy-example-3",
+      "sentence": "你今日買咗啲咩？",
+      "jyutping": "nei5 gam1 jat6 maai5 zo2 di1 me1?",
+      "meaning": "What did you buy today?"
+    },
+    {
+      "id": "maai5-buy-example-4",
+      "sentence": "我哋下星期去買新嘢。",
+      "jyutping": "ngo5 dei6 haa6 sing1 kei4 heoi3 maai5 san1 je5.",
+      "meaning": "We will go buy new things next week."
+    }
+  ],
+  "audio": {
+    "word": "maai5-buy.mp3",
+    "examples": [
+      "maai5-buy-example-1.mp3",
+      "maai5-buy-example-2.mp3",
+      "maai5-buy-example-3.mp3",
+      "maai5-buy-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic verbs",
+    "daily tasks",
+    "shopping",
+    "common verbs",
+    "level 1",
+    "level-1"
+  ],
+  "related": [
+    "賣 (maai6) sell",
+    "錢 (cin2) money",
+    "買嘢 (maai5 je5) shopping",
+    "市場 (si5 coeng4) market",
+    "選擇 (syun2 zaak6) choose"
+  ]
+}

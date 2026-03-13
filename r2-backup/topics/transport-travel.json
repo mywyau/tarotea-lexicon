@@ -1,0 +1,106 @@
+{
+  "topic": "transport_travel",
+  "title": "Transport & Travel",
+  "description": "Talk about getting around, public transport, tickets, travel plans, and common travel situations.",
+  "categories": {
+    "transport_types": [
+      { "id": "gaau1tung1-transport", "word": "交通", "jyutping": "gaau1 tung1", "meaning": "transport" },
+      { "id": "ce1-car-vehicle", "word": "車", "jyutping": "ce1", "meaning": "car" },
+      { "id": "gung1gung6gaau1tung1-public-transport", "word": "公共交通", "jyutping": "gung1 gung6 gaau1 tung1", "meaning": "public transport" },
+      { "id": "baa1si2-bus", "word": "巴士", "jyutping": "baa1 si2", "meaning": "bus" },
+      { "id": "siu2baa1-minibus", "word": "小巴", "jyutping": "siu2 baa1", "meaning": "minibus" },
+      { "id": "dik1si2-taxi", "word": "的士", "jyutping": "dik1 si2", "meaning": "taxi" },
+      { "id": "dei6tit3-subway", "word": "地鐵", "jyutping": "dei6 tit3", "meaning": "subway" },
+      { "id": "fo2ce1-train", "word": "火車", "jyutping": "fo2 ce1", "meaning": "train" },
+      { "id": "din6ce1-tram", "word": "電車", "jyutping": "din6 ce1", "meaning": "tram" },
+      { "id": "dou6leon4-ferry", "word": "渡輪", "jyutping": "dou6 leon4", "meaning": "ferry" },
+      { "id": "daan1ce1-bicycle", "word": "單車", "jyutping": "daan1 ce1", "meaning": "bicycle" },
+      { "id": "din6daan1ce1-motorbike", "word": "電單車", "jyutping": "din6 daan1 ce1", "meaning": "motorbike" },
+      { "id": "si1gaa1ce1-private-car", "word": "私家車", "jyutping": "si1 gaa1 ce1", "meaning": "private car" }
+    ],
+
+    "public_transport_places": [
+      { "id": "zaam6-station", "word": "站", "jyutping": "zaam6", "meaning": "station" },
+      { "id": "baa1si2zaam6-bus-stop", "word": "巴士站", "jyutping": "baa1 si2 zaam6", "meaning": "bus stop" },
+      { "id": "ce1zaam6-transport-station", "word": "車站", "jyutping": "ce1 zaam6", "meaning": "transport station" },
+      { "id": "zung2zaam6-terminus", "word": "總站", "jyutping": "zung2 zaam6", "meaning": "terminus" },
+      { "id": "jyut6toi4-platform", "word": "月台", "jyutping": "jyut6 toi4", "meaning": "platform" },
+      { "id": "jap6hau2-entrance", "word": "入口", "jyutping": "jap6 hau2", "meaning": "entrance" },
+      { "id": "ceot1hau2-exit", "word": "出口", "jyutping": "ceot1 hau2", "meaning": "exit" },
+      { "id": "sau6piu3cyu3-ticket-office", "word": "售票處", "jyutping": "sau6 piu3 cyu3", "meaning": "ticket office" },
+      { "id": "sau6piu3gei1-ticket-machine", "word": "售票機", "jyutping": "sau6 piu3 gei1", "meaning": "ticket machine" },
+      { "id": "din6tai1-lift", "word": "電梯", "jyutping": "din6 tai1", "meaning": "lift" },
+      { "id": "fu4sau2din6tai1-escalator", "word": "扶手電梯", "jyutping": "fu4 sau2 din6 tai1", "meaning": "escalator" },
+      { "id": "maa5tau4-pier", "word": "碼頭", "jyutping": "maa5 tau4", "meaning": "pier" }
+    ],
+
+    "tickets_and_payment": [
+      { "id": "piu3-ticket", "word": "票", "jyutping": "piu3", "meaning": "ticket" },
+      { "id": "ce1piu3-transport-ticket", "word": "車票", "jyutping": "ce1 piu3", "meaning": "transport ticket" },
+      { "id": "daan1cing4piu3-one-way-ticket", "word": "單程票", "jyutping": "daan1 cing4 piu3", "meaning": "one way ticket" },
+      { "id": "loi4wui4piu3-return-ticket", "word": "來回票", "jyutping": "loi4 wui4 piu3", "meaning": "return ticket" },
+      { "id": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass", "word": "月票", "jyutping": "jyut6 piu3", "meaning": "monthly pass" },
+      { "id": "baat3daat6tung1-octopus-card", "word": "八達通", "jyutping": "baat3 daat6 tung1", "meaning": "octopus card" },
+      { "id": "ce1fai3-fare", "word": "車費", "jyutping": "ce1 fai3", "meaning": "fare" },
+      { "id": "gaau1fai3-pay-fare", "word": "交費", "jyutping": "gaau1 fai3", "meaning": "pay fare" },
+      { "id": "zang1zik6-top-up", "word": "增值", "jyutping": "zang1 zik6", "meaning": "top up" },
+      { "id": "m4goi1loeng5zoeng1-two-tickets-please", "word": "唔該兩張", "jyutping": "m4 goi1 loeng5 zoeng1", "meaning": "two tickets please" }
+    ],
+
+    "travel_actions": [
+      { "id": "ceot1faat3-depart", "word": "出發", "jyutping": "ceot1 faat3", "meaning": "depart" },
+      { "id": "dou3daat6-arrive", "word": "到達", "jyutping": "dou3 daat6", "meaning": "arrive" },
+      { "id": "soeng5ce1-board", "word": "上車", "jyutping": "soeng5 ce1", "meaning": "board" },
+      { "id": "lok6ce1-get-off", "word": "落車", "jyutping": "lok6 ce1", "meaning": "get off" },
+      { "id": "zyun2ce1-transfer", "word": "轉車", "jyutping": "zyun2 ce1", "meaning": "transfer" },
+      { "id": "daap3-ride", "word": "搭", "jyutping": "daap3", "meaning": "ride" },
+      { "id": "gon2ce1-catch-transport", "word": "趕車", "jyutping": "gon2 ce1", "meaning": "catch transport" },
+      { "id": "co3gwo3-miss", "word": "錯過", "jyutping": "co3 gwo3", "meaning": "miss" },
+      { "id": "man6lou6-ask-directions", "word": "問路", "jyutping": "man6 lou6", "meaning": "ask directions" },
+      { "id": "mai4lou6-lost", "word": "迷路", "jyutping": "mai4 lou6", "meaning": "lost" },
+      { "id": "leoi5hang4-travel", "word": "旅行", "jyutping": "leoi5 hang4", "meaning": "travel" },
+      { "id": "ceot1mun4-go-out", "word": "出門", "jyutping": "ceot1 mun4", "meaning": "go out" }
+    ],
+
+    "airport_and_flights": [
+      { "id": "gei1coeng4-airport", "word": "機場", "jyutping": "gei1 coeng4", "meaning": "airport" },
+      { "id": "hong4baan1-flight", "word": "航班", "jyutping": "hong4 baan1", "meaning": "flight" },
+      { "id": "wu6ziu3-passport", "word": "護照", "jyutping": "wu6 ziu3", "meaning": "passport" },
+      { "id": "cim1zing3-visa", "word": "簽證", "jyutping": "cim1 zing3", "meaning": "visa" },
+      { "id": "haang4lei5-luggage", "word": "行李", "jyutping": "haang4 lei5", "meaning": "luggage" },
+      { "id": "dang1gei1-board-plane", "word": "登機", "jyutping": "dang1 gei1", "meaning": "board plane" },
+      { "id": "dang1gei1zing3-boarding-pass", "word": "登機證", "jyutping": "dang1 gei1 zing3", "meaning": "boarding pass" },
+      { "id": "hei2fei1-take-off", "word": "起飛", "jyutping": "hei2 fei1", "meaning": "take off" },
+      { "id": "gong3lok6-land", "word": "降落", "jyutping": "gong3 lok6", "meaning": "land" },
+      { "id": "jin4ng6-delay", "word": "延誤", "jyutping": "jin4 ng6", "meaning": "delay" },
+      { "id": "dang1gei1-check-in", "word": "登機", "jyutping": "dang1 gei1", "meaning": "check in" }
+    ],
+
+    "roads_and_driving": [
+      { "id": "lou6-road", "word": "路", "jyutping": "lou6", "meaning": "road" },
+      { "id": "maa5lou6-street-road", "word": "馬路", "jyutping": "maa5 lou6", "meaning": "street" },
+      { "id": "gung1lou6-highway", "word": "公路", "jyutping": "gung1 lou6", "meaning": "highway" },
+      { "id": "gaau1tung1dang1-traffic-light", "word": "交通燈", "jyutping": "gaau1 tung1 dang1", "meaning": "traffic light" },
+      { "id": "haang4jan4lou6-pavement", "word": "行人路", "jyutping": "haang4 jan4 lou6", "meaning": "pavement" },
+      { "id": "ce1wai6-parking-space", "word": "車位", "jyutping": "ce1 wai6", "meaning": "parking space" },
+      { "id": "ting4ce1-park", "word": "停車", "jyutping": "ting4 ce1", "meaning": "park" },
+      { "id": "zeoi6dou6-tunnel", "word": "隧道", "jyutping": "zeoi6 dou6", "meaning": "tunnel" },
+      { "id": "kiu4-bridge", "word": "橋", "jyutping": "kiu4", "meaning": "bridge" },
+      { "id": "sak1ce1-traffic-jam", "word": "塞車", "jyutping": "sak1 ce1", "meaning": "traffic jam" },
+      { "id": "on1cyun4daai2-seat-belt", "word": "安全帶", "jyutping": "on1 cyun4 daai2", "meaning": "seat belt" }
+    ],
+
+    "travel_and_trip_words": [
+      { "id": "gaa3kei4-holiday", "word": "假期", "jyutping": "gaa3 kei4", "meaning": "holiday" },
+      { "id": "ceot1gwok3-go-abroad", "word": "出國", "jyutping": "ceot1 gwok3", "meaning": "go abroad" },
+      { "id": "jyun5fong1-far-place", "word": "遠方", "jyutping": "jyun5 fong1", "meaning": "far place" },
+      { "id": "lou6sin3-route", "word": "路線", "jyutping": "lou6 sin3", "meaning": "route" },
+      { "id": "dei6tou4-map", "word": "地圖", "jyutping": "dei6 tou4", "meaning": "map" },
+      { "id": "zyu6suk1-accommodation", "word": "住宿", "jyutping": "zyu6 suk1", "meaning": "accommodation" },
+      { "id": "zau2dim3-hotel", "word": "酒店", "jyutping": "zau2 dim3", "meaning": "hotel" },
+      { "id": "ding3fong2-book-room", "word": "訂房", "jyutping": "ding3 fong2", "meaning": "book room" },
+      { "id": "gaa3gaak3-price", "word": "價格", "jyutping": "gaa3 gaak3", "meaning": "price" },
+      { "id": "jyu6ding3-booking", "word": "預訂", "jyutping": "jyu6 ding3", "meaning": "booking" }
+    ]
+  }
+}

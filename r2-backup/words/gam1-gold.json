@@ -1,0 +1,66 @@
+{
+  "id": "gam1-gold",
+  "word": "金",
+  "jyutping": "gam1",
+  "meaning": "gold",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "金 (gam1) is a noun referring to the metal gold.",
+    "It can be used to talk about the material gold or objects made from gold.",
+    "金 is often used as a symbol of wealth or value in everyday speech.",
+    "You can combine 金 with other words to form compound nouns, like 金飾 (gold jewelry).",
+    "In Cantonese, the word 金 does not change form based on tense or number."
+  ],
+  "examples": [
+    {
+      "id": "gam1-gold-example-1",
+      "sentence": "佢買咗一條金頸鏈。",
+      "jyutping": "keoi5 maai5 zo2 jat1 tiu4 gam1 geng2 lin2.",
+      "meaning": "He bought a gold necklace."
+    },
+    {
+      "id": "gam1-gold-example-2",
+      "sentence": "呢個戒指係用純金造嘅。",
+      "jyutping": "ni1 go3 gaai3 zi2 hai6 jung6 seon4 gam1 zou6 ge3.",
+      "meaning": "This ring is made of pure gold."
+    },
+    {
+      "id": "gam1-gold-example-3",
+      "sentence": "我唔鍾意戴金嘅飾物。",
+      "jyutping": "ngo5 m4 zung1 ji3 daai3 gam1 ge3 sik1 mat6.",
+      "meaning": "I don't like wearing gold accessories."
+    },
+    {
+      "id": "gam1-gold-example-4",
+      "sentence": "金價最近上升咗好多。",
+      "jyutping": "gam1 gaa3 zeoi3 gan6 soeng5 sing1 zo2 hou2 do1.",
+      "meaning": "The price of gold has risen a lot recently."
+    }
+  ],
+  "audio": {
+    "word": "gam1-gold.mp3",
+    "examples": [
+      "gam1-gold-example-1.mp3",
+      "gam1-gold-example-2.mp3",
+      "gam1-gold-example-3.mp3",
+      "gam1-gold-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "material",
+    "metal",
+    "valuable",
+    "jewelry",
+    "wealth",
+    "level-1"
+  ],
+  "related": [
+    "銀 (ngan4) - silver",
+    "銅 (tung4) - copper",
+    "鐵 (tit3) - iron",
+    "鋁 (leoi5) - aluminum",
+    "珠寶 (zyu1 bou2) - jewelry"
+  ]
+}

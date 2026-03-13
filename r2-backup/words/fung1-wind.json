@@ -1,0 +1,66 @@
+{
+  "id": "fung1-wind",
+  "word": "風",
+  "jyutping": "fung1",
+  "meaning": "wind",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '風' (fung1) is a noun referring to moving air or wind.",
+    "It can be used to talk about the strength or direction of the wind.",
+    "'風' also appears in compound words related to weather or feelings of atmosphere.",
+    "It can be used metaphorically, for example to describe trends or rumors as '風'.",
+    "'風' can be combined with verbs like 吹 (ceoi1 - blow) to describe the wind's action."
+  ],
+  "examples": [
+    {
+      "id": "fung1-wind-example-1",
+      "sentence": "今日嘅風好大。",
+      "jyutping": "gam1 jat6 ge3 fung1 hou2 daai6.",
+      "meaning": "The wind is very strong today."
+    },
+    {
+      "id": "fung1-wind-example-2",
+      "sentence": "冬天嘅風好凍。",
+      "jyutping": "dung1 tin1 ge3 fung1 hou2 dung3.",
+      "meaning": "The winter wind is very cold."
+    },
+    {
+      "id": "fung1-wind-example-3",
+      "sentence": "風吹樹葉喺度沙沙響。",
+      "jyutping": "fung1 ceoi1 syu6 jip6 hai2 dou6 saa1 saa1 hoeng2.",
+      "meaning": "The wind is blowing the leaves, making a rustling sound."
+    },
+    {
+      "id": "fung1-wind-example-4",
+      "sentence": "最近有新嘅風氣喺公司出現。",
+      "jyutping": "zeoi3 gan6 jau5 san1 ge3 fung1 hei3 hai2 gung1 si1 ceot1 jin6.",
+      "meaning": "There is a new trend appearing in the company recently."
+    }
+  ],
+  "audio": {
+    "word": "fung1-wind.mp3",
+    "examples": [
+      "fung1-wind-example-1.mp3",
+      "fung1-wind-example-2.mp3",
+      "fung1-wind-example-3.mp3",
+      "fung1-wind-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "nature",
+    "wind",
+    "common",
+    "level1",
+    "level-1"
+  ],
+  "related": [
+    "吹 (ceoi1)",
+    "颱風 (toi4 fung1)",
+    "風扇 (fung1 sin3)",
+    "風箏 (fung1 zeng1)",
+    "風力 (fung1 lik6)"
+  ]
+}

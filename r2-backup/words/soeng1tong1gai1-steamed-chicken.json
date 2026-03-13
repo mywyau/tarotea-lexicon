@@ -1,0 +1,66 @@
+{
+  "id": "soeng1tong1gai1-steamed-chicken",
+  "word": "清蒸雞",
+  "jyutping": "cing1 zing1 gai1",
+  "meaning": "steamed chicken",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '清蒸雞' is a noun referring to a specific dish, steamed chicken.",
+    "You can use '清蒸雞' when ordering food at a restaurant to specify the dish you want.",
+    "'清蒸雞' can be combined with other words to describe dishes, like '廣東清蒸雞' meaning Cantonese style steamed chicken.",
+    "In conversations, '清蒸雞' is often used as a subject or object in a sentence when talking about food.",
+    "You can also use '清蒸雞' in a question, for example, '你鍾意食清蒸雞嗎？' (Do you like steamed chicken?)."
+  ],
+  "examples": [
+    {
+      "id": "soeng1tong1gai1-steamed-chicken-example-1",
+      "sentence": "我今晚想食清蒸雞。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 sik6 cing1 zing1 gai1.",
+      "meaning": "I want to eat steamed chicken tonight."
+    },
+    {
+      "id": "soeng1tong1gai1-steamed-chicken-example-2",
+      "sentence": "飯店有唔同嘅清蒸雞款式。",
+      "jyutping": "faan6 dim3 jau5 m4 tung4 ge3 cing1 zing1 gai1 fun2 sik1.",
+      "meaning": "The restaurant has different styles of steamed chicken."
+    },
+    {
+      "id": "soeng1tong1gai1-steamed-chicken-example-3",
+      "sentence": "清蒸雞好健康，唔油膩。",
+      "jyutping": "cing1 zing1 gai1 hou2 gin6 hong1, m4 jau4 nei6.",
+      "meaning": "Steamed chicken is very healthy and not greasy."
+    },
+    {
+      "id": "soeng1tong1gai1-steamed-chicken-example-4",
+      "sentence": "你想點清蒸雞？帶薑絲定係醬油？",
+      "jyutping": "nei5 soeng2 dim2 cing1 zing1 gai1? daai3 goeng1 si1 ding6 hai6 zoeng3 jau4?",
+      "meaning": "How do you want the steamed chicken? With shredded ginger or soy sauce?"
+    }
+  ],
+  "audio": {
+    "word": "soeng1tong1gai1-steamed-chicken.mp3",
+    "examples": [
+      "soeng1tong1gai1-steamed-chicken-example-1.mp3",
+      "soeng1tong1gai1-steamed-chicken-example-2.mp3",
+      "soeng1tong1gai1-steamed-chicken-example-3.mp3",
+      "soeng1tong1gai1-steamed-chicken-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "restaurant",
+    "chicken",
+    "steamed",
+    "healthy",
+    "level-1"
+  ],
+  "related": [
+    "白切雞",
+    "豉油雞",
+    "鹽焗雞",
+    "燒雞",
+    "雞粥"
+  ]
+}
