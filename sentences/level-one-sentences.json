@@ -1,0 +1,2347 @@
+{
+  "level": 1,
+  "title": "Level 1 – Beginner Cantonese",
+  "totalWords": 46,
+  "totalSentences": 132,
+  "items": [
+    {
+      "sentenceId": "ngo5-me-example-1",
+      "sentence": "其實我都唔係好清楚點做",
+      "jyutping": "kei4 sat6 ngo5 dou1 m4 hai6 hou2 cing1 co2 dim2 zou6",
+      "meaning": "Actually, I’m not very clear on how to do it.",
+      "sourceWordId": "ngo5-me",
+      "sourceWord": "我",
+      "sourceWordJyutping": "ngo5",
+      "sourceWordMeaning": "I / me",
+      "tags": [
+        "core",
+        "pronoun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5-me.json"
+    },
+    {
+      "sentenceId": "ngo5-me-example-2",
+      "sentence": "我唔知",
+      "jyutping": "ngo5 m4 zi1",
+      "meaning": "I don’t know.",
+      "sourceWordId": "ngo5-me",
+      "sourceWord": "我",
+      "sourceWordJyutping": "ngo5",
+      "sourceWordMeaning": "I / me",
+      "tags": [
+        "core",
+        "pronoun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5-me.json"
+    },
+    {
+      "sentenceId": "ngo5-me-example-3",
+      "sentence": "如果你有時間，可以搵我一齊去",
+      "jyutping": "jyu4 gwo2 nei5 jau5 si4 gaan3, ho2 ji5 wan2 ngo5 jat1 cai4 heoi3",
+      "meaning": "If you have time, you can look for me and go together.",
+      "sourceWordId": "ngo5-me",
+      "sourceWord": "我",
+      "sourceWordJyutping": "ngo5",
+      "sourceWordMeaning": "I / me",
+      "tags": [
+        "core",
+        "pronoun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5-me.json"
+    },
+    {
+      "sentenceId": "ngo5-me-example-4",
+      "sentence": "你可唔可以幫我？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5",
+      "meaning": "Can you help me?",
+      "sourceWordId": "ngo5-me",
+      "sourceWord": "我",
+      "sourceWordJyutping": "ngo5",
+      "sourceWordMeaning": "I / me",
+      "tags": [
+        "core",
+        "pronoun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5-me.json"
+    },
+    {
+      "sentenceId": "ngo5-me-example-5",
+      "sentence": "我之前去過香港好多次",
+      "jyutping": "ngo5 zi1 cin4 heoi3 gwo3 hoeng1 gong2 hou2 do1 ci3",
+      "meaning": "I’ve been to Hong Kong many times before.",
+      "sourceWordId": "ngo5-me",
+      "sourceWord": "我",
+      "sourceWordJyutping": "ngo5",
+      "sourceWordMeaning": "I / me",
+      "tags": [
+        "core",
+        "pronoun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5-me.json"
+    },
+    {
+      "sentenceId": "ngo5-me-example-6",
+      "sentence": "我今日要返工，所以唔得閒",
+      "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1, so2 ji5 m4 dak1 haan4",
+      "meaning": "I have to work today, so I’m not free.",
+      "sourceWordId": "ngo5-me",
+      "sourceWord": "我",
+      "sourceWordJyutping": "ngo5",
+      "sourceWordMeaning": "I / me",
+      "tags": [
+        "core",
+        "pronoun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5-me.json"
+    },
+    {
+      "sentenceId": "nei5-you-example-1",
+      "sentence": "你點呀？",
+      "jyutping": "nei5 dim2 aa3",
+      "meaning": "How are you?",
+      "sourceWordId": "nei5-you",
+      "sourceWord": "你",
+      "sourceWordJyutping": "nei5",
+      "sourceWordMeaning": "you (singular)",
+      "tags": [
+        "pronoun",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/nei5-you.json"
+    },
+    {
+      "sentenceId": "nei5-you-example-2",
+      "sentence": "我想問你一樣嘢。",
+      "jyutping": "ngo5 soeng2 man6 nei5 jat1 joeng6 je5",
+      "meaning": "I want to ask you something.",
+      "sourceWordId": "nei5-you",
+      "sourceWord": "你",
+      "sourceWordJyutping": "nei5",
+      "sourceWordMeaning": "you (singular)",
+      "tags": [
+        "pronoun",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/nei5-you.json"
+    },
+    {
+      "sentenceId": "keoi5-he-she-example-1",
+      "sentence": "佢今日唔嚟。",
+      "jyutping": "keoi5 gam1 jat6 m4 lei4",
+      "meaning": "He / she isn’t coming today.",
+      "sourceWordId": "keoi5-he-she",
+      "sourceWord": "佢",
+      "sourceWordJyutping": "keoi5",
+      "sourceWordMeaning": "he / she / them (singular)",
+      "tags": [
+        "pronoun",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/keoi5-he-she.json"
+    },
+    {
+      "sentenceId": "keoi5-he-she-example-2",
+      "sentence": "我識佢好耐。",
+      "jyutping": "ngo5 sik1 keoi5 hou2 noi6",
+      "meaning": "I’ve known him / her for a long time.",
+      "sourceWordId": "keoi5-he-she",
+      "sourceWord": "佢",
+      "sourceWordJyutping": "keoi5",
+      "sourceWordMeaning": "he / she / them (singular)",
+      "tags": [
+        "pronoun",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/keoi5-he-she.json"
+    },
+    {
+      "sentenceId": "ngo5dei6-we-example-1",
+      "sentence": "我哋一齊去食飯。",
+      "jyutping": "ngo5 dei6 jat1 cai4 heoi3 sik6 faan6",
+      "meaning": "Let’s go eat together.",
+      "sourceWordId": "ngo5dei6-we",
+      "sourceWord": "我哋",
+      "sourceWordJyutping": "ngo5 dei6",
+      "sourceWordMeaning": "we / us",
+      "tags": [
+        "pronoun",
+        "plural",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dei6-we.json"
+    },
+    {
+      "sentenceId": "ngo5dei6-we-example-2",
+      "sentence": "我哋已經準備好。",
+      "jyutping": "ngo5 dei6 ji5 ging1 zeon2 bei6 hou2",
+      "meaning": "We’re already ready.",
+      "sourceWordId": "ngo5dei6-we",
+      "sourceWord": "我哋",
+      "sourceWordJyutping": "ngo5 dei6",
+      "sourceWordMeaning": "we / us",
+      "tags": [
+        "pronoun",
+        "plural",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dei6-we.json"
+    },
+    {
+      "sentenceId": "nei5dei6-you-plural-example-1",
+      "sentence": "你哋幾點到？",
+      "jyutping": "nei5 dei6 gei2 dim2 dou3",
+      "meaning": "What time are you all arriving?",
+      "sourceWordId": "nei5-dei6-you-plural",
+      "sourceWord": "你哋",
+      "sourceWordJyutping": "nei5 dei6",
+      "sourceWordMeaning": "you (plural)",
+      "tags": [
+        "pronoun",
+        "plural",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/nei5dei6-you-plural.json"
+    },
+    {
+      "sentenceId": "nei5dei6-you-plural-example-2",
+      "sentence": "我等緊你哋。",
+      "jyutping": "ngo5 dang2 gan2 nei5 dei6",
+      "meaning": "I’m waiting for you guys.",
+      "sourceWordId": "nei5-dei6-you-plural",
+      "sourceWord": "你哋",
+      "sourceWordJyutping": "nei5 dei6",
+      "sourceWordMeaning": "you (plural)",
+      "tags": [
+        "pronoun",
+        "plural",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/nei5dei6-you-plural.json"
+    },
+    {
+      "sentenceId": "keoi5dei6-they-plural-example-1",
+      "sentence": "佢哋已經走咗。",
+      "jyutping": "keoi5 dei6 ji5 ging1 zau2 zo2",
+      "meaning": "They have already left.",
+      "sourceWordId": "keoi5dei6-they-plural",
+      "sourceWord": "佢哋",
+      "sourceWordJyutping": "keoi5dei6",
+      "sourceWordMeaning": "they; them",
+      "tags": [
+        "pronoun",
+        "level-1",
+        "core",
+        "people"
+      ],
+      "sourceFile": "r2-backup/words/keoi5dei6-they-plural.json"
+    },
+    {
+      "sentenceId": "keoi5dei6-they-plural-example-2",
+      "sentence": "我等緊佢哋。",
+      "jyutping": "ngo5 dang2 gan2 keoi5 dei6",
+      "meaning": "I’m waiting for them.",
+      "sourceWordId": "keoi5dei6-they-plural",
+      "sourceWord": "佢哋",
+      "sourceWordJyutping": "keoi5dei6",
+      "sourceWordMeaning": "they; them",
+      "tags": [
+        "pronoun",
+        "level-1",
+        "core",
+        "people"
+      ],
+      "sourceFile": "r2-backup/words/keoi5dei6-they-plural.json"
+    },
+    {
+      "sentenceId": "jan4-person-example-1",
+      "sentence": "呢度好多人。",
+      "jyutping": "ni1 dou6 hou2 do1 jan4",
+      "meaning": "There are a lot of people here.",
+      "sourceWordId": "jan4-person",
+      "sourceWord": "人",
+      "sourceWordJyutping": "jan4",
+      "sourceWordMeaning": "person / people",
+      "tags": [
+        "noun",
+        "core",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4-person.json"
+    },
+    {
+      "sentenceId": "jan4-person-example-2",
+      "sentence": "佢係一個好人。",
+      "jyutping": "keoi5 hai6 jat1 go3 hou2 jan4",
+      "meaning": "He / she is a good person.",
+      "sourceWordId": "jan4-person",
+      "sourceWord": "人",
+      "sourceWordJyutping": "jan4",
+      "sourceWordMeaning": "person / people",
+      "tags": [
+        "noun",
+        "core",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4-person.json"
+    },
+    {
+      "sentenceId": "pang4jau5-friend-example-1",
+      "sentence": "佢係我最好嘅朋友。",
+      "jyutping": "keoi5 hai6 ngo5 zeoi3 hou2 ge3 pang4 jau5",
+      "meaning": "He / she is my best friend.",
+      "sourceWordId": "pang4jau5-friend",
+      "sourceWord": "朋友",
+      "sourceWordJyutping": "pang4 jau5",
+      "sourceWordMeaning": "friend",
+      "tags": [
+        "noun",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/pang4jau5-friend.json"
+    },
+    {
+      "sentenceId": "pang4jau5-friend-example-2",
+      "sentence": "我同朋友出去玩。",
+      "jyutping": "ngo5 tung4 pang4 jau5 ceot1 heoi3 waan2",
+      "meaning": "I’m going out with friends.",
+      "sourceWordId": "pang4jau5-friend",
+      "sourceWord": "朋友",
+      "sourceWordJyutping": "pang4 jau5",
+      "sourceWordMeaning": "friend",
+      "tags": [
+        "noun",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/pang4jau5-friend.json"
+    },
+    {
+      "sentenceId": "baa4baa1-father-example-1",
+      "sentence": "我今日同爸爸去公園。",
+      "jyutping": "ngo5 gam1 jat6 tung4 baa4 baa1 heoi3 gung1 jyun4.",
+      "meaning": "Today I go to the park with dad.",
+      "sourceWordId": "baa4baa1-father",
+      "sourceWord": "爸爸",
+      "sourceWordJyutping": "baa4 baa1",
+      "sourceWordMeaning": "dad / father",
+      "tags": [
+        "family",
+        "immediate family",
+        "male parent",
+        "casual",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa4baa1-father.json"
+    },
+    {
+      "sentenceId": "baa4baa1-father-example-2",
+      "sentence": "爸爸，你食咗飯未呀？",
+      "jyutping": "baa4 baa1, nei5 sik6 zo2 faan6 mei6 aa3?",
+      "meaning": "Dad, have you eaten yet?",
+      "sourceWordId": "baa4baa1-father",
+      "sourceWord": "爸爸",
+      "sourceWordJyutping": "baa4 baa1",
+      "sourceWordMeaning": "dad / father",
+      "tags": [
+        "family",
+        "immediate family",
+        "male parent",
+        "casual",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa4baa1-father.json"
+    },
+    {
+      "sentenceId": "baa4baa1-father-example-3",
+      "sentence": "爸爸幫我做功課。",
+      "jyutping": "baa4 baa1 bong1 ngo5 zou6 gung1 fo3.",
+      "meaning": "Dad helps me do homework.",
+      "sourceWordId": "baa4baa1-father",
+      "sourceWord": "爸爸",
+      "sourceWordJyutping": "baa4 baa1",
+      "sourceWordMeaning": "dad / father",
+      "tags": [
+        "family",
+        "immediate family",
+        "male parent",
+        "casual",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa4baa1-father.json"
+    },
+    {
+      "sentenceId": "baa4baa1-father-example-4",
+      "sentence": "你嘅爸爸喺邊度？",
+      "jyutping": "nei5 ge3 baa4 baa1 hai2 bin1 dou6?",
+      "meaning": "Where is your dad?",
+      "sourceWordId": "baa4baa1-father",
+      "sourceWord": "爸爸",
+      "sourceWordJyutping": "baa4 baa1",
+      "sourceWordMeaning": "dad / father",
+      "tags": [
+        "family",
+        "immediate family",
+        "male parent",
+        "casual",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa4baa1-father.json"
+    },
+    {
+      "sentenceId": "maa4maa1-mother-example-1",
+      "sentence": "我媽媽煮飯好叻。",
+      "jyutping": "ngo5 maa4 maa1 zyu2 faan6 hou2 lek1",
+      "meaning": "My mum is very good at cooking.",
+      "sourceWordId": "maa4maa1-mother",
+      "sourceWord": "媽媽",
+      "sourceWordJyutping": "maa4 maa1",
+      "sourceWordMeaning": "mother / mum",
+      "tags": [
+        "family",
+        "noun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/maa4maa1-mother.json"
+    },
+    {
+      "sentenceId": "maa4maa1-mother-example-2",
+      "sentence": "媽媽而家喺屋企。",
+      "jyutping": "maa4 maa1 ji4 gaa1 hai2 uk1 kei2",
+      "meaning": "Mum is at home now.",
+      "sourceWordId": "maa4maa1-mother",
+      "sourceWord": "媽媽",
+      "sourceWordJyutping": "maa4 maa1",
+      "sourceWordMeaning": "mother / mum",
+      "tags": [
+        "family",
+        "noun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/maa4maa1-mother.json"
+    },
+    {
+      "sentenceId": "go1go1-older-brother-example-1",
+      "sentence": "我有一個哥哥。",
+      "jyutping": "ngo5 jau5 jat1 go3 go1 go1.",
+      "meaning": "I have an older brother.",
+      "sourceWordId": "go1go1-older-brother",
+      "sourceWord": "哥哥",
+      "sourceWordJyutping": "go1 go1",
+      "sourceWordMeaning": "older brother",
+      "tags": [
+        "family",
+        "immediate family",
+        "sibling",
+        "male",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1go1-older-brother.json"
+    },
+    {
+      "sentenceId": "go1go1-older-brother-example-2",
+      "sentence": "哥哥今日返學未？",
+      "jyutping": "go1 go1 gam1 jat6 faan1 hok6 mei6?",
+      "meaning": "Has older brother gone to school today?",
+      "sourceWordId": "go1go1-older-brother",
+      "sourceWord": "哥哥",
+      "sourceWordJyutping": "go1 go1",
+      "sourceWordMeaning": "older brother",
+      "tags": [
+        "family",
+        "immediate family",
+        "sibling",
+        "male",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1go1-older-brother.json"
+    },
+    {
+      "sentenceId": "go1go1-older-brother-example-3",
+      "sentence": "我哋細個時，哥哥教我打波。",
+      "jyutping": "ngo5 dei6 sai3 go3 si4, go1 go1 gaau3 ngo5 daa2 bo1.",
+      "meaning": "When we were young, older brother taught me how to play ball.",
+      "sourceWordId": "go1go1-older-brother",
+      "sourceWord": "哥哥",
+      "sourceWordJyutping": "go1 go1",
+      "sourceWordMeaning": "older brother",
+      "tags": [
+        "family",
+        "immediate family",
+        "sibling",
+        "male",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1go1-older-brother.json"
+    },
+    {
+      "sentenceId": "go1go1-older-brother-example-4",
+      "sentence": "哥哥，幫我攞下嗰個喇。",
+      "jyutping": "go1 go1, bong1 ngo5 lo2 haa5 go2 go3 laa3.",
+      "meaning": "Older brother, help me get that one.",
+      "sourceWordId": "go1go1-older-brother",
+      "sourceWord": "哥哥",
+      "sourceWordJyutping": "go1 go1",
+      "sourceWordMeaning": "older brother",
+      "tags": [
+        "family",
+        "immediate family",
+        "sibling",
+        "male",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1go1-older-brother.json"
+    },
+    {
+      "sentenceId": "ze1ze1-older-sister-example-1",
+      "sentence": "我姐姐好細心。",
+      "jyutping": "ngo5 ze1 ze1 hou2 sai3 sam1",
+      "meaning": "My older sister is very considerate.",
+      "sourceWordId": "ze1ze1-older-sister",
+      "sourceWord": "姐姐",
+      "sourceWordJyutping": "ze1 ze1",
+      "sourceWordMeaning": "older sister",
+      "tags": [
+        "family",
+        "noun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ze1ze1-older-sister.json"
+    },
+    {
+      "sentenceId": "ze1ze1-older-sister-example-2",
+      "sentence": "姐姐教我點做。",
+      "jyutping": "ze1 ze1 gaau3 ngo5 dim2 zou6",
+      "meaning": "My sister taught me how to do it.",
+      "sourceWordId": "ze1ze1-older-sister",
+      "sourceWord": "姐姐",
+      "sourceWordJyutping": "ze1 ze1",
+      "sourceWordMeaning": "older sister",
+      "tags": [
+        "family",
+        "noun",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ze1ze1-older-sister.json"
+    },
+    {
+      "sentenceId": "sai3lou2-younger-brother-example-1",
+      "sentence": "我細佬今日返學遲咗。",
+      "jyutping": "ngo5 sai3 lou2 gam1 jat6 faan1 hok6 ci4 zo2.",
+      "meaning": "My younger brother was late for school today.",
+      "sourceWordId": "sai3lou2-younger-brother",
+      "sourceWord": "細佬",
+      "sourceWordJyutping": "sai3 lou2",
+      "sourceWordMeaning": "younger brother (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "informal",
+        "spoken Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3lou2-younger-brother.json"
+    },
+    {
+      "sentenceId": "sai3lou2-younger-brother-example-2",
+      "sentence": "你細佬係幾多歲？",
+      "jyutping": "nei5 sai3 lou2 hai6 gei2 do1 seoi3?",
+      "meaning": "How old is your younger brother?",
+      "sourceWordId": "sai3lou2-younger-brother",
+      "sourceWord": "細佬",
+      "sourceWordJyutping": "sai3 lou2",
+      "sourceWordMeaning": "younger brother (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "informal",
+        "spoken Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3lou2-younger-brother.json"
+    },
+    {
+      "sentenceId": "sai3lou2-younger-brother-example-3",
+      "sentence": "細佬，快啲嚟食飯！",
+      "jyutping": "sai3 lou2, faai3 di1 lai4 sik6 faan6!",
+      "meaning": "Younger brother, come quickly to eat!",
+      "sourceWordId": "sai3lou2-younger-brother",
+      "sourceWord": "細佬",
+      "sourceWordJyutping": "sai3 lou2",
+      "sourceWordMeaning": "younger brother (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "informal",
+        "spoken Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3lou2-younger-brother.json"
+    },
+    {
+      "sentenceId": "sai3lou2-younger-brother-example-4",
+      "sentence": "我成日同細佬一齊玩。",
+      "jyutping": "ngo5 seng4 jat6 tung4 sai3 lou2 jat1 cai4 waan2.",
+      "meaning": "I often play together with my younger brother.",
+      "sourceWordId": "sai3lou2-younger-brother",
+      "sourceWord": "細佬",
+      "sourceWordJyutping": "sai3 lou2",
+      "sourceWordMeaning": "younger brother (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "informal",
+        "spoken Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3lou2-younger-brother.json"
+    },
+    {
+      "sentenceId": "sai3mui6-younger-sister-example-1",
+      "sentence": "我有一個細妹。",
+      "jyutping": "ngo5 jau5 jat1 go3 sai3 mui6.",
+      "meaning": "I have a younger sister.",
+      "sourceWordId": "sai3mui6-younger-sister",
+      "sourceWord": "細妹",
+      "sourceWordJyutping": "sai3 mui6",
+      "sourceWordMeaning": "younger sister (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "younger sister",
+        "colloquial",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3mui6-younger-sister.json"
+    },
+    {
+      "sentenceId": "sai3mui6-younger-sister-example-2",
+      "sentence": "你細妹幾多歲呀？",
+      "jyutping": "nei5 sai3 mui6 gei2 do1 seoi3 aa3?",
+      "meaning": "How old is your younger sister?",
+      "sourceWordId": "sai3mui6-younger-sister",
+      "sourceWord": "細妹",
+      "sourceWordJyutping": "sai3 mui6",
+      "sourceWordMeaning": "younger sister (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "younger sister",
+        "colloquial",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3mui6-younger-sister.json"
+    },
+    {
+      "sentenceId": "sai3mui6-younger-sister-example-3",
+      "sentence": "細妹今日唔返學。",
+      "jyutping": "sai3 mui6 gam1 jat6 m4 faan1 hok6.",
+      "meaning": "Younger sister is not going to school today.",
+      "sourceWordId": "sai3mui6-younger-sister",
+      "sourceWord": "細妹",
+      "sourceWordJyutping": "sai3 mui6",
+      "sourceWordMeaning": "younger sister (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "younger sister",
+        "colloquial",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3mui6-younger-sister.json"
+    },
+    {
+      "sentenceId": "sai3mui6-younger-sister-example-4",
+      "sentence": "我細妹鍾意唱歌。",
+      "jyutping": "ngo5 sai3 mui6 zung1 ji3 coeng3 go1.",
+      "meaning": "My younger sister likes to sing.",
+      "sourceWordId": "sai3mui6-younger-sister",
+      "sourceWord": "細妹",
+      "sourceWordJyutping": "sai3 mui6",
+      "sourceWordMeaning": "younger sister (colloquial)",
+      "tags": [
+        "family",
+        "siblings",
+        "younger sister",
+        "colloquial",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sai3mui6-younger-sister.json"
+    },
+    {
+      "sentenceId": "hai6-be-example-1",
+      "sentence": "我係學生。",
+      "jyutping": "ngo5 hai6 hok6 saang1",
+      "meaning": "I am a student.",
+      "sourceWordId": "hai6-be",
+      "sourceWord": "係",
+      "sourceWordJyutping": "hai6",
+      "sourceWordMeaning": "to be; is / are",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/hai6-be.json"
+    },
+    {
+      "sentenceId": "hai6-be-example-2",
+      "sentence": "呢個係我朋友。",
+      "jyutping": "ni1 go3 hai6 ngo5 pang4 jau5",
+      "meaning": "This is my friend.",
+      "sourceWordId": "hai6-be",
+      "sourceWord": "係",
+      "sourceWordJyutping": "hai6",
+      "sourceWordMeaning": "to be; is / are",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/hai6-be.json"
+    },
+    {
+      "sentenceId": "jau5-have-example-1",
+      "sentence": "我有時間。",
+      "jyutping": "ngo5 jau5 si4 gaan3",
+      "meaning": "I have time.",
+      "sourceWordId": "jau5-have",
+      "sourceWord": "有",
+      "sourceWordJyutping": "jau5",
+      "sourceWordMeaning": "to have; to exist",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/jau5-have.json"
+    },
+    {
+      "sentenceId": "jau5-have-example-2",
+      "sentence": "呢度有好多人。",
+      "jyutping": "ni1 dou6 jau5 hou2 do1 jan4",
+      "meaning": "There are many people here.",
+      "sourceWordId": "jau5-have",
+      "sourceWord": "有",
+      "sourceWordJyutping": "jau5",
+      "sourceWordMeaning": "to have; to exist",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/jau5-have.json"
+    },
+    {
+      "sentenceId": "mou5-not-have-example-1",
+      "sentence": "我冇時間。",
+      "jyutping": "ngo5 mou5 si4 gaan3",
+      "meaning": "I don’t have time.",
+      "sourceWordId": "mou5-not-have",
+      "sourceWord": "冇",
+      "sourceWordJyutping": "mou5",
+      "sourceWordMeaning": "to not have; there is not",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/mou5-not-have.json"
+    },
+    {
+      "sentenceId": "mou5-not-have-example-2",
+      "sentence": "呢度冇人。",
+      "jyutping": "ni1 dou6 mou5 jan4",
+      "meaning": "There is no one here.",
+      "sourceWordId": "mou5-not-have",
+      "sourceWord": "冇",
+      "sourceWordJyutping": "mou5",
+      "sourceWordMeaning": "to not have; there is not",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/mou5-not-have.json"
+    },
+    {
+      "sentenceId": "heoi3-go-example-1",
+      "sentence": "我去超市買嘢。",
+      "jyutping": "ngo5 heoi3 ciu1 si5 maai5 je5.",
+      "meaning": "I am going to the supermarket to buy things.",
+      "sourceWordId": "heoi3-go",
+      "sourceWord": "去",
+      "sourceWordJyutping": "heoi3",
+      "sourceWordMeaning": "go",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "daily conversation",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/heoi3-go.json"
+    },
+    {
+      "sentenceId": "heoi3-go-example-2",
+      "sentence": "你想去邊度？",
+      "jyutping": "nei5 soeng2 heoi3 bin1 dou6?",
+      "meaning": "Where do you want to go?",
+      "sourceWordId": "heoi3-go",
+      "sourceWord": "去",
+      "sourceWordJyutping": "heoi3",
+      "sourceWordMeaning": "go",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "daily conversation",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/heoi3-go.json"
+    },
+    {
+      "sentenceId": "heoi3-go-example-3",
+      "sentence": "佢今日唔去返學。",
+      "jyutping": "keoi5 gam1 jat6 m4 heoi3 faan1 hok6.",
+      "meaning": "He is not going back to school today.",
+      "sourceWordId": "heoi3-go",
+      "sourceWord": "去",
+      "sourceWordJyutping": "heoi3",
+      "sourceWordMeaning": "go",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "daily conversation",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/heoi3-go.json"
+    },
+    {
+      "sentenceId": "heoi3-go-example-4",
+      "sentence": "我哋去飲嘢啦！",
+      "jyutping": "ngo5 dei6 heoi3 jam2 je5 laa1!",
+      "meaning": "Let's go have a drink!",
+      "sourceWordId": "heoi3-go",
+      "sourceWord": "去",
+      "sourceWordJyutping": "heoi3",
+      "sourceWordMeaning": "go",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "daily conversation",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/heoi3-go.json"
+    },
+    {
+      "sentenceId": "lei4-come-example-1",
+      "sentence": "你幾點嚟？",
+      "jyutping": "nei5 gei2 dim2 lei4?",
+      "meaning": "What time will you come?",
+      "sourceWordId": "lei4-come",
+      "sourceWord": "嚟",
+      "sourceWordJyutping": "lei4",
+      "sourceWordMeaning": "come",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "direction",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei4-come.json"
+    },
+    {
+      "sentenceId": "lei4-come-example-2",
+      "sentence": "等我嚟幫你。",
+      "jyutping": "dang2 ngo5 lei4 bong1 nei5.",
+      "meaning": "Wait for me to come help you.",
+      "sourceWordId": "lei4-come",
+      "sourceWord": "嚟",
+      "sourceWordJyutping": "lei4",
+      "sourceWordMeaning": "come",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "direction",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei4-come.json"
+    },
+    {
+      "sentenceId": "lei4-come-example-3",
+      "sentence": "佢已經嚟咗。",
+      "jyutping": "keoi5 ji5 ging1 lei4 zo2.",
+      "meaning": "He already came.",
+      "sourceWordId": "lei4-come",
+      "sourceWord": "嚟",
+      "sourceWordJyutping": "lei4",
+      "sourceWordMeaning": "come",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "direction",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei4-come.json"
+    },
+    {
+      "sentenceId": "lei4-come-example-4",
+      "sentence": "嚟呢度睇下！",
+      "jyutping": "lei4 ni1 dou6 tai2 haa5!",
+      "meaning": "Come here and have a look!",
+      "sourceWordId": "lei4-come",
+      "sourceWord": "嚟",
+      "sourceWordJyutping": "lei4",
+      "sourceWordMeaning": "come",
+      "tags": [
+        "movement",
+        "basic verbs",
+        "direction",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei4-come.json"
+    },
+    {
+      "sentenceId": "faan1-return-example-1",
+      "sentence": "我今日早啲返屋企。",
+      "jyutping": "ngo5 gam1 jat6 zou2 di1 faan1 uk1 kei2",
+      "meaning": "I'm going back home earlier today.",
+      "sourceWordId": "faan1-return",
+      "sourceWord": "返",
+      "sourceWordJyutping": "faan1",
+      "sourceWordMeaning": "return",
+      "tags": [
+        "basic",
+        "verbs",
+        "movement",
+        "daily use",
+        "returning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1-return.json"
+    },
+    {
+      "sentenceId": "faan1-return-example-2",
+      "sentence": "你幾點返公司？",
+      "jyutping": "nei5 gei2 dim2 faan1 gung1 si1",
+      "meaning": "What time are you returning to the company?",
+      "sourceWordId": "faan1-return",
+      "sourceWord": "返",
+      "sourceWordJyutping": "faan1",
+      "sourceWordMeaning": "return",
+      "tags": [
+        "basic",
+        "verbs",
+        "movement",
+        "daily use",
+        "returning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1-return.json"
+    },
+    {
+      "sentenceId": "faan1-return-example-3",
+      "sentence": "我們坐車返學校。",
+      "jyutping": "ngo5 mun4 co5 ce1 faan1 hok6 haau6",
+      "meaning": "We take the bus back to school.",
+      "sourceWordId": "faan1-return",
+      "sourceWord": "返",
+      "sourceWordJyutping": "faan1",
+      "sourceWordMeaning": "return",
+      "tags": [
+        "basic",
+        "verbs",
+        "movement",
+        "daily use",
+        "returning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1-return.json"
+    },
+    {
+      "sentenceId": "faan1-return-example-4",
+      "sentence": "佢返咗未？",
+      "jyutping": "keoi5 faan1 zo2 mei6",
+      "meaning": "Has he/she returned yet?",
+      "sourceWordId": "faan1-return",
+      "sourceWord": "返",
+      "sourceWordJyutping": "faan1",
+      "sourceWordMeaning": "return",
+      "tags": [
+        "basic",
+        "verbs",
+        "movement",
+        "daily use",
+        "returning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1-return.json"
+    },
+    {
+      "sentenceId": "zou6-do-exmaple-1",
+      "sentence": "我做緊嘢。",
+      "jyutping": "ngo5 zou6 gan2 je5",
+      "meaning": "I’m working.",
+      "sourceWordId": "zou6-do",
+      "sourceWord": "做",
+      "sourceWordJyutping": "zou6",
+      "sourceWordMeaning": "to do; to make",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "action"
+      ],
+      "sourceFile": "r2-backup/words/zou6-do.json"
+    },
+    {
+      "sentenceId": "zou6-do-exmaple-2",
+      "sentence": "你做咩呀？",
+      "jyutping": "nei5 zou6 me1 aa3",
+      "meaning": "What are you doing?",
+      "sourceWordId": "zou6-do",
+      "sourceWord": "做",
+      "sourceWordJyutping": "zou6",
+      "sourceWordMeaning": "to do; to make",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "action"
+      ],
+      "sourceFile": "r2-backup/words/zou6-do.json"
+    },
+    {
+      "sentenceId": "tai2-look-exmaple-1",
+      "sentence": "我睇緊電視。",
+      "jyutping": "ngo5 tai2 gan2 din6 si6",
+      "meaning": "I’m watching TV.",
+      "sourceWordId": "tai2-look",
+      "sourceWord": "睇",
+      "sourceWordJyutping": "tai2",
+      "sourceWordMeaning": "to look at; to watch; to see",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "action"
+      ],
+      "sourceFile": "r2-backup/words/tai2-look.json"
+    },
+    {
+      "sentenceId": "tai2-look-exmaple-2",
+      "sentence": "你睇下呢個。",
+      "jyutping": "nei5 tai2 haa5 ni1 go3",
+      "meaning": "Take a look at this.",
+      "sourceWordId": "tai2-look",
+      "sourceWord": "睇",
+      "sourceWordJyutping": "tai2",
+      "sourceWordMeaning": "to look at; to watch; to see",
+      "tags": [
+        "verb",
+        "level-1",
+        "core",
+        "action"
+      ],
+      "sourceFile": "r2-backup/words/tai2-look.json"
+    },
+    {
+      "sentenceId": "teng1-listen-example-1",
+      "sentence": "你聽我講。",
+      "jyutping": "nei5 teng1 ngo5 gong2.",
+      "meaning": "Listen to me.",
+      "sourceWordId": "teng1-listen",
+      "sourceWord": "聽",
+      "sourceWordJyutping": "teng1",
+      "sourceWordMeaning": "listen",
+      "tags": [
+        "basic verbs",
+        "daily actions",
+        "communication",
+        "listening",
+        "imperative",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1-listen.json"
+    },
+    {
+      "sentenceId": "teng1-listen-example-2",
+      "sentence": "我鍾意聽音樂。",
+      "jyutping": "ngo5 zung1 ji3 teng1 jam1 ngok6.",
+      "meaning": "I like listening to music.",
+      "sourceWordId": "teng1-listen",
+      "sourceWord": "聽",
+      "sourceWordJyutping": "teng1",
+      "sourceWordMeaning": "listen",
+      "tags": [
+        "basic verbs",
+        "daily actions",
+        "communication",
+        "listening",
+        "imperative",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1-listen.json"
+    },
+    {
+      "sentenceId": "teng1-listen-example-3",
+      "sentence": "佢有聽廣播。",
+      "jyutping": "keoi5 jau5 teng1 gwong2 bo3.",
+      "meaning": "He has listened to the radio.",
+      "sourceWordId": "teng1-listen",
+      "sourceWord": "聽",
+      "sourceWordJyutping": "teng1",
+      "sourceWordMeaning": "listen",
+      "tags": [
+        "basic verbs",
+        "daily actions",
+        "communication",
+        "listening",
+        "imperative",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1-listen.json"
+    },
+    {
+      "sentenceId": "teng1-listen-example-4",
+      "sentence": "小心聽，老師講緊緊要嘅嘢。",
+      "jyutping": "siu2 sam1 teng1, lou5 si1 gong2 gan2 gan2 jiu3 ge3 je5.",
+      "meaning": "Listen carefully, the teacher is saying something important.",
+      "sourceWordId": "teng1-listen",
+      "sourceWord": "聽",
+      "sourceWordJyutping": "teng1",
+      "sourceWordMeaning": "listen",
+      "tags": [
+        "basic verbs",
+        "daily actions",
+        "communication",
+        "listening",
+        "imperative",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1-listen.json"
+    },
+    {
+      "sentenceId": "gong2-speak-example-1",
+      "sentence": "我哋傾吓計，講下新嘢。",
+      "jyutping": "ngo5 dei6 king1 ha5 gai2, gong2 haa5 san1 je5.",
+      "meaning": "Let's chat and talk about new things.",
+      "sourceWordId": "gong2-speak",
+      "sourceWord": "講",
+      "sourceWordJyutping": "gong2",
+      "sourceWordMeaning": "speak",
+      "tags": [
+        "basic",
+        "verb",
+        "communication",
+        "everyday",
+        "speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong2-speak.json"
+    },
+    {
+      "sentenceId": "gong2-speak-example-2",
+      "sentence": "老師喺度講課。",
+      "jyutping": "lou5 si1 hai2 dou6 gong2 fo3.",
+      "meaning": "The teacher is giving a lesson.",
+      "sourceWordId": "gong2-speak",
+      "sourceWord": "講",
+      "sourceWordJyutping": "gong2",
+      "sourceWordMeaning": "speak",
+      "tags": [
+        "basic",
+        "verb",
+        "communication",
+        "everyday",
+        "speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong2-speak.json"
+    },
+    {
+      "sentenceId": "gong2-speak-example-3",
+      "sentence": "你講咗啲咩？",
+      "jyutping": "nei5 gong2 zo2 di1 me1?",
+      "meaning": "What did you say?",
+      "sourceWordId": "gong2-speak",
+      "sourceWord": "講",
+      "sourceWordJyutping": "gong2",
+      "sourceWordMeaning": "speak",
+      "tags": [
+        "basic",
+        "verb",
+        "communication",
+        "everyday",
+        "speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong2-speak.json"
+    },
+    {
+      "sentenceId": "gong2-speak-example-4",
+      "sentence": "請講慢啲，我聽唔清楚。",
+      "jyutping": "cing2 gong2 maan6 di1, ngo5 teng1 m4 cing1 co2.",
+      "meaning": "Please speak more slowly, I can't hear clearly.",
+      "sourceWordId": "gong2-speak",
+      "sourceWord": "講",
+      "sourceWordJyutping": "gong2",
+      "sourceWordMeaning": "speak",
+      "tags": [
+        "basic",
+        "verb",
+        "communication",
+        "everyday",
+        "speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong2-speak.json"
+    },
+    {
+      "sentenceId": "sik6-eat-example-1",
+      "sentence": "我而家想食蘋果。",
+      "jyutping": "ngo5 ji4gaa1 soeng2 sik6 ping4gwo2.",
+      "meaning": "I want to eat an apple now.",
+      "sourceWordId": "sik6-eat",
+      "sourceWord": "食",
+      "sourceWordJyutping": "sik6",
+      "sourceWordMeaning": "eat",
+      "tags": [
+        "basic",
+        "verb",
+        "daily actions",
+        "food",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik6-eat.json"
+    },
+    {
+      "sentenceId": "sik6-eat-example-2",
+      "sentence": "晚餐我食咗飯。",
+      "jyutping": "maan5caan1 ngo5 sik6 zo2 faan6.",
+      "meaning": "I ate rice for dinner.",
+      "sourceWordId": "sik6-eat",
+      "sourceWord": "食",
+      "sourceWordJyutping": "sik6",
+      "sourceWordMeaning": "eat",
+      "tags": [
+        "basic",
+        "verb",
+        "daily actions",
+        "food",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik6-eat.json"
+    },
+    {
+      "sentenceId": "sik6-eat-example-3",
+      "sentence": "你今日食咗咩？",
+      "jyutping": "nei5 gam1jat6 sik6 zo2 me1?",
+      "meaning": "What did you eat today?",
+      "sourceWordId": "sik6-eat",
+      "sourceWord": "食",
+      "sourceWordJyutping": "sik6",
+      "sourceWordMeaning": "eat",
+      "tags": [
+        "basic",
+        "verb",
+        "daily actions",
+        "food",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik6-eat.json"
+    },
+    {
+      "sentenceId": "sik6-eat-example-4",
+      "sentence": "佢唔肯食藥。",
+      "jyutping": "keoi5 m4 hang2 sik6 joek6.",
+      "meaning": "He/She refuses to take medicine.",
+      "sourceWordId": "sik6-eat",
+      "sourceWord": "食",
+      "sourceWordJyutping": "sik6",
+      "sourceWordMeaning": "eat",
+      "tags": [
+        "basic",
+        "verb",
+        "daily actions",
+        "food",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik6-eat.json"
+    },
+    {
+      "sentenceId": "jam2-drink-example-1",
+      "sentence": "我想飲啤酒。",
+      "jyutping": "ngo5 soeng2 jam2 be1 zau2.",
+      "meaning": "I want to drink beer.",
+      "sourceWordId": "jam2-drink",
+      "sourceWord": "飲",
+      "sourceWordJyutping": "jam2",
+      "sourceWordMeaning": "drink",
+      "tags": [
+        "basic",
+        "verb",
+        "daily",
+        "action",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2-drink.json"
+    },
+    {
+      "sentenceId": "jam2-drink-example-2",
+      "sentence": "佢而家喺度飲茶。",
+      "jyutping": "keoi5 ji4 gaa1 hai2 dou6 jam2 caa4.",
+      "meaning": "He is drinking tea here now.",
+      "sourceWordId": "jam2-drink",
+      "sourceWord": "飲",
+      "sourceWordJyutping": "jam2",
+      "sourceWordMeaning": "drink",
+      "tags": [
+        "basic",
+        "verb",
+        "daily",
+        "action",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2-drink.json"
+    },
+    {
+      "sentenceId": "jam2-drink-example-3",
+      "sentence": "飲多啲水有益健康。",
+      "jyutping": "jam2 do1 di1 seoi2 jau5 jik1 gin6 hong1.",
+      "meaning": "Drinking more water is good for health.",
+      "sourceWordId": "jam2-drink",
+      "sourceWord": "飲",
+      "sourceWordJyutping": "jam2",
+      "sourceWordMeaning": "drink",
+      "tags": [
+        "basic",
+        "verb",
+        "daily",
+        "action",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2-drink.json"
+    },
+    {
+      "sentenceId": "jam2-drink-example-4",
+      "sentence": "你想飲咩？",
+      "jyutping": "nei5 soeng2 jam2 me1?",
+      "meaning": "What do you want to drink?",
+      "sourceWordId": "jam2-drink",
+      "sourceWord": "飲",
+      "sourceWordJyutping": "jam2",
+      "sourceWordMeaning": "drink",
+      "tags": [
+        "basic",
+        "verb",
+        "daily",
+        "action",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2-drink.json"
+    },
+    {
+      "sentenceId": "zyu6-live-example-1",
+      "sentence": "我住喺銅鑼灣。",
+      "jyutping": "ngo5 zyu6 hai2 tung4 lo4 waan1.",
+      "meaning": "I live in Causeway Bay.",
+      "sourceWordId": "zyu6-live",
+      "sourceWord": "住",
+      "sourceWordJyutping": "zyu6",
+      "sourceWordMeaning": "live",
+      "tags": [
+        "housing",
+        "living",
+        "residence",
+        "daily conversation",
+        "questions",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu6-live.json"
+    },
+    {
+      "sentenceId": "zyu6-live-example-2",
+      "sentence": "你住邊度？",
+      "jyutping": "nei5 zyu6 bin1 dou6?",
+      "meaning": "Where do you live?",
+      "sourceWordId": "zyu6-live",
+      "sourceWord": "住",
+      "sourceWordJyutping": "zyu6",
+      "sourceWordMeaning": "live",
+      "tags": [
+        "housing",
+        "living",
+        "residence",
+        "daily conversation",
+        "questions",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu6-live.json"
+    },
+    {
+      "sentenceId": "zyu6-live-example-3",
+      "sentence": "佢而家住喺酒店。",
+      "jyutping": "keoi5 ji4 gaa1 zyu6 hai2 zau2 dim3.",
+      "meaning": "He/she is currently living in a hotel.",
+      "sourceWordId": "zyu6-live",
+      "sourceWord": "住",
+      "sourceWordJyutping": "zyu6",
+      "sourceWordMeaning": "live",
+      "tags": [
+        "housing",
+        "living",
+        "residence",
+        "daily conversation",
+        "questions",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu6-live.json"
+    },
+    {
+      "sentenceId": "zyu6-live-example-4",
+      "sentence": "我唔住喺呢度。",
+      "jyutping": "ngo5 m4 zyu6 hai2 ni1 dou6.",
+      "meaning": "I don't live here.",
+      "sourceWordId": "zyu6-live",
+      "sourceWord": "住",
+      "sourceWordJyutping": "zyu6",
+      "sourceWordMeaning": "live",
+      "tags": [
+        "housing",
+        "living",
+        "residence",
+        "daily conversation",
+        "questions",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu6-live.json"
+    },
+    {
+      "sentenceId": "haang4-walk-example-1",
+      "sentence": "佢每日都喺公園行。",
+      "jyutping": "Keoi5 mui5 jat6 dou1 hai2 gung1 jyun4 haang4.",
+      "meaning": "He walks in the park every day.",
+      "sourceWordId": "haang4-walk",
+      "sourceWord": "行",
+      "sourceWordJyutping": "haang4",
+      "sourceWordMeaning": "walk",
+      "tags": [
+        "animal_actions",
+        "basic_verbs",
+        "movement",
+        "daily_use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4-walk.json"
+    },
+    {
+      "sentenceId": "haang4-walk-example-2",
+      "sentence": "狗狗行得好快。",
+      "jyutping": "Gau2 gau2 haang4 dak1 hou2 faai3.",
+      "meaning": "The dog walks very fast.",
+      "sourceWordId": "haang4-walk",
+      "sourceWord": "行",
+      "sourceWordJyutping": "haang4",
+      "sourceWordMeaning": "walk",
+      "tags": [
+        "animal_actions",
+        "basic_verbs",
+        "movement",
+        "daily_use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4-walk.json"
+    },
+    {
+      "sentenceId": "haang4-walk-example-3",
+      "sentence": "我哋一齊行去食嘢啦。",
+      "jyutping": "Ngo5 dei6 jat1 cai4 haang4 heoi3 sik6 je5 laa1.",
+      "meaning": "Let's walk together to eat.",
+      "sourceWordId": "haang4-walk",
+      "sourceWord": "行",
+      "sourceWordJyutping": "haang4",
+      "sourceWordMeaning": "walk",
+      "tags": [
+        "animal_actions",
+        "basic_verbs",
+        "movement",
+        "daily_use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4-walk.json"
+    },
+    {
+      "sentenceId": "haang4-walk-example-4",
+      "sentence": "你可以行過去嗰邊。",
+      "jyutping": "Nei5 ho2 ji5 haang4 gwo3 heoi3 go2 bin1.",
+      "meaning": "You can walk over there.",
+      "sourceWordId": "haang4-walk",
+      "sourceWord": "行",
+      "sourceWordJyutping": "haang4",
+      "sourceWordMeaning": "walk",
+      "tags": [
+        "animal_actions",
+        "basic_verbs",
+        "movement",
+        "daily_use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4-walk.json"
+    },
+    {
+      "sentenceId": "co5-sit-example-1",
+      "sentence": "你坐喺度休息吓。",
+      "jyutping": "nei5 co5 hai2 dou6 jau1 sik1 haa5.",
+      "meaning": "You sit here and rest a bit.",
+      "sourceWordId": "co5-sit",
+      "sourceWord": "坐",
+      "sourceWordJyutping": "co5",
+      "sourceWordMeaning": "sit",
+      "tags": [
+        "basic",
+        "verb",
+        "body actions",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/co5-sit.json"
+    },
+    {
+      "sentenceId": "co5-sit-example-2",
+      "sentence": "我坐地鐵去返工。",
+      "jyutping": "ngo5 co5 dei6 tit3 heoi3 faan1 gung1.",
+      "meaning": "I take the subway to go to work.",
+      "sourceWordId": "co5-sit",
+      "sourceWord": "坐",
+      "sourceWordJyutping": "co5",
+      "sourceWordMeaning": "sit",
+      "tags": [
+        "basic",
+        "verb",
+        "body actions",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/co5-sit.json"
+    },
+    {
+      "sentenceId": "co5-sit-example-3",
+      "sentence": "請坐低，我哋傾吓計。",
+      "jyutping": "cing2 co5 dai1, ngo5 dei6 king1 haa5 gai2.",
+      "meaning": "Please sit down, let's chat.",
+      "sourceWordId": "co5-sit",
+      "sourceWord": "坐",
+      "sourceWordJyutping": "co5",
+      "sourceWordMeaning": "sit",
+      "tags": [
+        "basic",
+        "verb",
+        "body actions",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/co5-sit.json"
+    },
+    {
+      "sentenceId": "co5-sit-example-4",
+      "sentence": "細路仔唔識得坐定啲。",
+      "jyutping": "sai3 lou6 zai2 m4 sik1 dak1 co5 ding6 di1.",
+      "meaning": "The kid doesn’t know how to sit still.",
+      "sourceWordId": "co5-sit",
+      "sourceWord": "坐",
+      "sourceWordJyutping": "co5",
+      "sourceWordMeaning": "sit",
+      "tags": [
+        "basic",
+        "verb",
+        "body actions",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/co5-sit.json"
+    },
+    {
+      "sentenceId": "kei5-stand-example-1",
+      "sentence": "你企喺度等我。",
+      "jyutping": "nei5 kei5 hai2 dou6 dang2 ngo5.",
+      "meaning": "You stand here and wait for me.",
+      "sourceWordId": "kei5-stand",
+      "sourceWord": "企",
+      "sourceWordJyutping": "kei5",
+      "sourceWordMeaning": "stand",
+      "tags": [
+        "basic verbs",
+        "body actions",
+        "physical",
+        "standing",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kei5-stand.json"
+    },
+    {
+      "sentenceId": "kei5-stand-example-2",
+      "sentence": "我企唔穩，要坐低。",
+      "jyutping": "ngo5 kei5 m4 wan2, jiu3 co5 dai1.",
+      "meaning": "I can't stand steadily, I need to sit down.",
+      "sourceWordId": "kei5-stand",
+      "sourceWord": "企",
+      "sourceWordJyutping": "kei5",
+      "sourceWordMeaning": "stand",
+      "tags": [
+        "basic verbs",
+        "body actions",
+        "physical",
+        "standing",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kei5-stand.json"
+    },
+    {
+      "sentenceId": "kei5-stand-example-3",
+      "sentence": "企喺門口就方便。",
+      "jyutping": "kei5 hai2 mun4 hau2 zau6 fong1 bin6.",
+      "meaning": "Standing at the doorway is convenient.",
+      "sourceWordId": "kei5-stand",
+      "sourceWord": "企",
+      "sourceWordJyutping": "kei5",
+      "sourceWordMeaning": "stand",
+      "tags": [
+        "basic verbs",
+        "body actions",
+        "physical",
+        "standing",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kei5-stand.json"
+    },
+    {
+      "sentenceId": "kei5-stand-example-4",
+      "sentence": "小朋友企好唔好？",
+      "jyutping": "siu2 pang4 jau5 kei5 hou2 m4 hou2?",
+      "meaning": "Kids, stand properly, okay?",
+      "sourceWordId": "kei5-stand",
+      "sourceWord": "企",
+      "sourceWordJyutping": "kei5",
+      "sourceWordMeaning": "stand",
+      "tags": [
+        "basic verbs",
+        "body actions",
+        "physical",
+        "standing",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kei5-stand.json"
+    },
+    {
+      "sentenceId": "ling4-zero-example-1",
+      "sentence": "而家係零度。",
+      "jyutping": "ji4 gaa1 hai6 ling4 dou6",
+      "meaning": "It’s zero degrees now.",
+      "sourceWordId": "ling4-zero",
+      "sourceWord": "零",
+      "sourceWordJyutping": "ling4",
+      "sourceWordMeaning": "zero",
+      "tags": [
+        "number",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ling4-zero.json"
+    },
+    {
+      "sentenceId": "ling4-zero-example-2",
+      "sentence": "比分係二比零。",
+      "jyutping": "bei2 fan1 hai6 ji6 bei2 ling4",
+      "meaning": "The score is two to zero.",
+      "sourceWordId": "ling4-zero",
+      "sourceWord": "零",
+      "sourceWordJyutping": "ling4",
+      "sourceWordMeaning": "zero",
+      "tags": [
+        "number",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ling4-zero.json"
+    },
+    {
+      "sentenceId": "ling4-zero-example-3",
+      "sentence": "我電話號碼有零。",
+      "jyutping": "ngo5 din6 waa2 hou6 maa5 jau5 ling4",
+      "meaning": "My phone number has a zero.",
+      "sourceWordId": "ling4-zero",
+      "sourceWord": "零",
+      "sourceWordJyutping": "ling4",
+      "sourceWordMeaning": "zero",
+      "tags": [
+        "number",
+        "core",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/ling4-zero.json"
+    },
+    {
+      "sentenceId": "jat1-one-example-1",
+      "sentence": "我得一個問題。",
+      "jyutping": "ngo5 dak1 jat1 go3 man6 tai4",
+      "meaning": "I only have one question.",
+      "sourceWordId": "jat1-one",
+      "sourceWord": "一",
+      "sourceWordJyutping": "jat1",
+      "sourceWordMeaning": "one",
+      "tags": [
+        "number",
+        "core",
+        "measure-words",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/jat1-one.json"
+    },
+    {
+      "sentenceId": "jat1-one-example-2",
+      "sentence": "一杯咖啡，唔該。",
+      "jyutping": "jat1 bui1 gaa3 fe1, m4 goi1",
+      "meaning": "One cup of coffee, please.",
+      "sourceWordId": "jat1-one",
+      "sourceWord": "一",
+      "sourceWordJyutping": "jat1",
+      "sourceWordMeaning": "one",
+      "tags": [
+        "number",
+        "core",
+        "measure-words",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/jat1-one.json"
+    },
+    {
+      "sentenceId": "jat1-one-example-3",
+      "sentence": "我住喺一個好細嘅地方。",
+      "jyutping": "ngo5 zyu6 hai2 jat1 go3 hou2 sai3 ge3 dei6 fong1",
+      "meaning": "I live in a very small place.",
+      "sourceWordId": "jat1-one",
+      "sourceWord": "一",
+      "sourceWordJyutping": "jat1",
+      "sourceWordMeaning": "one",
+      "tags": [
+        "number",
+        "core",
+        "measure-words",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/jat1-one.json"
+    },
+    {
+      "sentenceId": "jat1-one-example-4",
+      "sentence": "一齊去啦。",
+      "jyutping": "jat1 cai4 heoi3 laa1",
+      "meaning": "Let’s go together.",
+      "sourceWordId": "jat1-one",
+      "sourceWord": "一",
+      "sourceWordJyutping": "jat1",
+      "sourceWordMeaning": "one",
+      "tags": [
+        "number",
+        "core",
+        "measure-words",
+        "level-1",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/jat1-one.json"
+    },
+    {
+      "sentenceId": "ji6-two-example-1",
+      "sentence": "我有二個選擇。",
+      "jyutping": "ngo5 jau5 ji6 go3 syun2 zaak6",
+      "meaning": "I have two choices.",
+      "sourceWordId": "ji6-two",
+      "sourceWord": "二",
+      "sourceWordJyutping": "ji6",
+      "sourceWordMeaning": "two",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/ji6-two.json"
+    },
+    {
+      "sentenceId": "ji6-two-example-2",
+      "sentence": "呢個問題有二個答案。",
+      "jyutping": "ni1 go3 man6 tai4 jau5 ji6 go3 daap3 on3",
+      "meaning": "This question has two answers.",
+      "sourceWordId": "ji6-two",
+      "sourceWord": "二",
+      "sourceWordJyutping": "ji6",
+      "sourceWordMeaning": "two",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/ji6-two.json"
+    },
+    {
+      "sentenceId": "saam1-three-example-1",
+      "sentence": "我三點鐘返工。",
+      "jyutping": "ngo5 saam1 dim2 zung1 faan1 gung1",
+      "meaning": "I start work at three o’clock.",
+      "sourceWordId": "saam1-three",
+      "sourceWord": "三",
+      "sourceWordJyutping": "saam1",
+      "sourceWordMeaning": "three",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/saam1-three.json"
+    },
+    {
+      "sentenceId": "saam1-three-example-2",
+      "sentence": "呢度有三個人。",
+      "jyutping": "ni1 dou6 jau5 saam1 go3 jan4",
+      "meaning": "There are three people here.",
+      "sourceWordId": "saam1-three",
+      "sourceWord": "三",
+      "sourceWordJyutping": "saam1",
+      "sourceWordMeaning": "three",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/saam1-three.json"
+    },
+    {
+      "sentenceId": "sei3-four-example-1",
+      "sentence": "我住喺四樓。",
+      "jyutping": "ngo5 zyu6 hai2 sei3 lau4",
+      "meaning": "I live on the fourth floor.",
+      "sourceWordId": "sei3-four",
+      "sourceWord": "四",
+      "sourceWordJyutping": "sei3",
+      "sourceWordMeaning": "four",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/sei3-four.json"
+    },
+    {
+      "sentenceId": "sei3-four-example-2",
+      "sentence": "四個星期之後見。",
+      "jyutping": "sei3 go3 sing1 kei4 zi1 hau6 gin3",
+      "meaning": "See you in four weeks.",
+      "sourceWordId": "sei3-four",
+      "sourceWord": "四",
+      "sourceWordJyutping": "sei3",
+      "sourceWordMeaning": "four",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/sei3-four.json"
+    },
+    {
+      "sentenceId": "ng5-five-example-1",
+      "sentence": "星期五我早放工。",
+      "jyutping": "sing1 kei4 ng5 ngo5 zou2 fong3 gung1",
+      "meaning": "I finish work early on Friday.",
+      "sourceWordId": "ng5-five",
+      "sourceWord": "五",
+      "sourceWordJyutping": "ng5",
+      "sourceWordMeaning": "five",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/ng5-five.json"
+    },
+    {
+      "sentenceId": "ng5-five-example-2",
+      "sentence": "呢樣嘢五十蚊。",
+      "jyutping": "ni1 joeng6 je5 ng5 sap6 man1",
+      "meaning": "This costs fifty dollars.",
+      "sourceWordId": "ng5-five",
+      "sourceWord": "五",
+      "sourceWordJyutping": "ng5",
+      "sourceWordMeaning": "five",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/ng5-five.json"
+    },
+    {
+      "sentenceId": "luk6-six-example-1",
+      "sentence": "我六點鐘起身。",
+      "jyutping": "ngo5 luk6 dim2 zung1 hei2 san1",
+      "meaning": "I get up at six o’clock.",
+      "sourceWordId": "luk6-six",
+      "sourceWord": "六",
+      "sourceWordJyutping": "luk6",
+      "sourceWordMeaning": "six",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/luk6-six.json"
+    },
+    {
+      "sentenceId": "luk6-six-example-2",
+      "sentence": "呢度有六張枱。",
+      "jyutping": "ni1 dou6 jau5 luk6 zoeng1 toi2",
+      "meaning": "There are six tables here.",
+      "sourceWordId": "luk6-six",
+      "sourceWord": "六",
+      "sourceWordJyutping": "luk6",
+      "sourceWordMeaning": "six",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/luk6-six.json"
+    },
+    {
+      "sentenceId": "cat1-seven-example-1",
+      "sentence": "我七月去旅行。",
+      "jyutping": "ngo5 cat1 jyut6 heoi3 leoi5 hang4",
+      "meaning": "I’m going travelling in July.",
+      "sourceWordId": "cat1-seven",
+      "sourceWord": "七",
+      "sourceWordJyutping": "cat1",
+      "sourceWordMeaning": "seven",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/cat1-seven.json"
+    },
+    {
+      "sentenceId": "cat1-seven-example-2",
+      "sentence": "七個人一齊食飯。",
+      "jyutping": "cat1 go3 jan4 jat1 cai4 sik6 faan6",
+      "meaning": "Seven people are eating together.",
+      "sourceWordId": "cat1-seven",
+      "sourceWord": "七",
+      "sourceWordJyutping": "cat1",
+      "sourceWordMeaning": "seven",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/cat1-seven.json"
+    },
+    {
+      "sentenceId": "cat1-seven-example-3",
+      "sentence": "我有七本書。",
+      "jyutping": "ngo5 jau5 cat1 bun2 syu1",
+      "meaning": "I have seven books.",
+      "sourceWordId": "cat1-seven",
+      "sourceWord": "七",
+      "sourceWordJyutping": "cat1",
+      "sourceWordMeaning": "seven",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/cat1-seven.json"
+    },
+    {
+      "sentenceId": "cat1-seven-example-4",
+      "sentence": "今日七點鐘開會。",
+      "jyutping": "gam1 jat6 cat1 dim2 zung1 hoi1 wui2",
+      "meaning": "The meeting starts at seven o’clock today.",
+      "sourceWordId": "cat1-seven",
+      "sourceWord": "七",
+      "sourceWordJyutping": "cat1",
+      "sourceWordMeaning": "seven",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/cat1-seven.json"
+    },
+    {
+      "sentenceId": "baat3-eight-example-1",
+      "sentence": "八點鐘開始。",
+      "jyutping": "baat3 dim2 zung1 hoi1 ci2",
+      "meaning": "It starts at eight o’clock.",
+      "sourceWordId": "baat3-eight",
+      "sourceWord": "八",
+      "sourceWordJyutping": "baat3",
+      "sourceWordMeaning": "eight",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/baat3-eight.json"
+    },
+    {
+      "sentenceId": "baat3-eight-example-2",
+      "sentence": "我買咗八樣嘢。",
+      "jyutping": "ngo5 maai5 zo2 baat3 joeng6 je5",
+      "meaning": "I bought eight things.",
+      "sourceWordId": "baat3-eight",
+      "sourceWord": "八",
+      "sourceWordJyutping": "baat3",
+      "sourceWordMeaning": "eight",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/baat3-eight.json"
+    },
+    {
+      "sentenceId": "gau2-nine-example-1",
+      "sentence": "九點半見。",
+      "jyutping": "gau2 dim2 bun3 gin3",
+      "meaning": "See you at nine thirty.",
+      "sourceWordId": "gau2-nine",
+      "sourceWord": "九",
+      "sourceWordJyutping": "gau2",
+      "sourceWordMeaning": "nine",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/gau2-nine.json"
+    },
+    {
+      "sentenceId": "gau2-nine-example-2",
+      "sentence": "佢有九年經驗。",
+      "jyutping": "keoi5 jau5 gau2 nin4 ging1 jim6",
+      "meaning": "He has nine years of experience.",
+      "sourceWordId": "gau2-nine",
+      "sourceWord": "九",
+      "sourceWordJyutping": "gau2",
+      "sourceWordMeaning": "nine",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/gau2-nine.json"
+    },
+    {
+      "sentenceId": "sap6-ten-example-1",
+      "sentence": "我等咗十分鐘。",
+      "jyutping": "ngo5 dang2 zo2 sap6 fan1 zung1",
+      "meaning": "I waited for ten minutes.",
+      "sourceWordId": "sap6-ten",
+      "sourceWord": "十",
+      "sourceWordJyutping": "sap6",
+      "sourceWordMeaning": "ten",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/sap6-ten.json"
+    },
+    {
+      "sentenceId": "sap6-ten-example-2",
+      "sentence": "十個人都同意。",
+      "jyutping": "sap6 go3 jan4 dou1 tung4 ji3",
+      "meaning": "All ten people agreed.",
+      "sourceWordId": "sap6-ten",
+      "sourceWord": "十",
+      "sourceWordJyutping": "sap6",
+      "sourceWordMeaning": "ten",
+      "tags": [
+        "number",
+        "level-1",
+        "core"
+      ],
+      "sourceFile": "r2-backup/words/sap6-ten.json"
+    },
+    {
+      "sentenceId": "m4goi1-please-example-1",
+      "sentence": "唔該晒。",
+      "jyutping": "m4 goi1 saai3",
+      "meaning": "Thanks a lot.",
+      "sourceWordId": "m4goi1-please",
+      "sourceWord": "唔該",
+      "sourceWordJyutping": "m4 goi1",
+      "sourceWordMeaning": "please / thanks (for services)",
+      "tags": [
+        "politeness",
+        "level-1",
+        "core",
+        "daily-life"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1-please.json"
+    },
+    {
+      "sentenceId": "m4goi1-please-example-2",
+      "sentence": "唔該幫我開門。",
+      "jyutping": "m4 goi1 bong1 ngo5 hoi1 mun4",
+      "meaning": "Please help me open the door.",
+      "sourceWordId": "m4goi1-please",
+      "sourceWord": "唔該",
+      "sourceWordJyutping": "m4 goi1",
+      "sourceWordMeaning": "please / thanks (for services)",
+      "tags": [
+        "politeness",
+        "level-1",
+        "core",
+        "daily-life"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1-please.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-1",
+      "sentence": "多謝你。",
+      "jyutping": "do1 ze6 nei5",
+      "meaning": "Thank you (to you).",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-2",
+      "sentence": "多謝晒！",
+      "jyutping": "do1 ze6 saai3",
+      "meaning": "Thanks a lot!",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-3",
+      "sentence": "多謝你幫我。",
+      "jyutping": "do1 ze6 nei5 bong1 ngo5",
+      "meaning": "Thank you for helping me.",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-4",
+      "sentence": "呢份禮物好靚，多謝你。",
+      "jyutping": "ni1 fan6 lai5 mat6 hou2 leng3, do1 ze6 nei5",
+      "meaning": "This gift is really nice, thank you.",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "aa3-particle-example-1",
+      "sentence": "係呀。",
+      "jyutping": "hai6 aa3",
+      "meaning": "Yes, that’s right.",
+      "sourceWordId": "aa3-particle",
+      "sourceWord": "呀",
+      "sourceWordJyutping": "aa3",
+      "sourceWordMeaning": "sentence-ending particle (soft / friendly)",
+      "tags": [
+        "particle",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/aa3-particle.json"
+    },
+    {
+      "sentenceId": "laa1-particle-example-1",
+      "sentence": "走啦。",
+      "jyutping": "zau2 laa1",
+      "meaning": "Let’s go.",
+      "sourceWordId": "laa1-particle",
+      "sourceWord": "啦",
+      "sourceWordJyutping": "laa1",
+      "sourceWordMeaning": "sentence-ending particle (suggestion / change of state)",
+      "tags": [
+        "particle",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/laa1-particle.json"
+    },
+    {
+      "sentenceId": "laa1-particle-example-1",
+      "sentence": "食飯啦。",
+      "jyutping": "sik6 faan6 laa1",
+      "meaning": "Let’s eat.",
+      "sourceWordId": "laa1-particle",
+      "sourceWord": "啦",
+      "sourceWordJyutping": "laa1",
+      "sourceWordMeaning": "sentence-ending particle (suggestion / change of state)",
+      "tags": [
+        "particle",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/laa1-particle.json"
+    },
+    {
+      "sentenceId": "ge3-particle-example-1",
+      "sentence": "我係香港人嚟嘅。",
+      "jyutping": "ngo5 hai6 hoeng1 gong2 jan4 lei4 ge3",
+      "meaning": "I’m from Hong Kong.",
+      "sourceWordId": "ge3-particle",
+      "sourceWord": "嘅",
+      "sourceWordJyutping": "ge3",
+      "sourceWordMeaning": "explanatory / possessive particle",
+      "tags": [
+        "particle",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/ge3-particle.json"
+    },
+    {
+      "sentenceId": "ge3-particle-example-2",
+      "sentence": "呢個係我嘅。",
+      "jyutping": "ni1 go3 hai6 ngo5 ge3",
+      "meaning": "This is mine.",
+      "sourceWordId": "ge3-particle",
+      "sourceWord": "嘅",
+      "sourceWordJyutping": "ge3",
+      "sourceWordMeaning": "explanatory / possessive particle",
+      "tags": [
+        "particle",
+        "level-1",
+        "core",
+        "grammar"
+      ],
+      "sourceFile": "r2-backup/words/ge3-particle.json"
+    }
+  ],
+  "missingWordFiles": []
+}

@@ -1,0 +1,4721 @@
+{
+  "level": 7,
+  "title": "Level 7 – Politeness, disagreement, and persuasion",
+  "totalWords": 62,
+  "totalSentences": 248,
+  "items": [
+    {
+      "sentenceId": "ho2nang4-maybe-example-1",
+      "sentence": "我可能今晚唔返屋企。",
+      "jyutping": "ngo5 ho2 nang4 gam1 mun5 m4 faan1 uk1 kei2.",
+      "meaning": "I might not go home tonight.",
+      "sourceWordId": "ho2nang4-maybe",
+      "sourceWord": "可能",
+      "sourceWordJyutping": "ho2 nang4",
+      "sourceWordMeaning": "maybe / possibly",
+      "tags": [
+        "possibility",
+        "softening",
+        "uncertainty",
+        "politeness",
+        "modal expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4-maybe.json"
+    },
+    {
+      "sentenceId": "ho2nang4-maybe-example-2",
+      "sentence": "佢可能遲啲先嚟。",
+      "jyutping": "keoi5 ho2 nang4 ci4 di1 sin1 lai4.",
+      "meaning": "He may come a bit later.",
+      "sourceWordId": "ho2nang4-maybe",
+      "sourceWord": "可能",
+      "sourceWordJyutping": "ho2 nang4",
+      "sourceWordMeaning": "maybe / possibly",
+      "tags": [
+        "possibility",
+        "softening",
+        "uncertainty",
+        "politeness",
+        "modal expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4-maybe.json"
+    },
+    {
+      "sentenceId": "ho2nang4-maybe-example-3",
+      "sentence": "呢個消息可能係真嘅。",
+      "jyutping": "ni1 go3 siu1 sik1 ho2 nang4 hai6 zan1 ge3.",
+      "meaning": "This news could be true.",
+      "sourceWordId": "ho2nang4-maybe",
+      "sourceWord": "可能",
+      "sourceWordJyutping": "ho2 nang4",
+      "sourceWordMeaning": "maybe / possibly",
+      "tags": [
+        "possibility",
+        "softening",
+        "uncertainty",
+        "politeness",
+        "modal expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4-maybe.json"
+    },
+    {
+      "sentenceId": "ho2nang4-maybe-example-4",
+      "sentence": "明日可能會落雨，你準備好未？",
+      "jyutping": "ming4 jat6 ho2 nang4 wui5 lok6 jyu5, nei5 zeon2 bei6 hou2 mei6?",
+      "meaning": "It might rain tomorrow, are you ready?",
+      "sourceWordId": "ho2nang4-maybe",
+      "sourceWord": "可能",
+      "sourceWordJyutping": "ho2 nang4",
+      "sourceWordMeaning": "maybe / possibly",
+      "tags": [
+        "possibility",
+        "softening",
+        "uncertainty",
+        "politeness",
+        "modal expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4-maybe.json"
+    },
+    {
+      "sentenceId": "mei6bit1-not-necessarily-example-1",
+      "sentence": "佢未必會嚟，今天天氣唔穩定。",
+      "jyutping": "keoi5 mei6 bit1 wui5 lei4, gam1 tin1 tin1 hei3 m4 wan6 ding6.",
+      "meaning": "He might not come; the weather is unstable today.",
+      "sourceWordId": "mei6bit1-not-necessarily",
+      "sourceWord": "未必",
+      "sourceWordJyutping": "mei6 bit1",
+      "sourceWordMeaning": "not necessarily",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "politeness",
+        "disagreement",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1-not-necessarily.json"
+    },
+    {
+      "sentenceId": "mei6bit1-not-necessarily-example-2",
+      "sentence": "做得咁快未必好，細心啲會好過。",
+      "jyutping": "zou6 dak1 gam3 faai3 mei6 bit1 hou2, sai3 sam1 di1 wui5 hou2 gwo3.",
+      "meaning": "Doing it so quickly is not necessarily good; being more careful would be better.",
+      "sourceWordId": "mei6bit1-not-necessarily",
+      "sourceWord": "未必",
+      "sourceWordJyutping": "mei6 bit1",
+      "sourceWordMeaning": "not necessarily",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "politeness",
+        "disagreement",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1-not-necessarily.json"
+    },
+    {
+      "sentenceId": "mei6bit1-not-necessarily-example-3",
+      "sentence": "呢件事未必只係佢一個人的錯。",
+      "jyutping": "ni1 gin6 si6 mei6 bit1 zi2 hai6 keoi5 jat1 go3 jan4 dik1 co3.",
+      "meaning": "This matter is not necessarily just his fault alone.",
+      "sourceWordId": "mei6bit1-not-necessarily",
+      "sourceWord": "未必",
+      "sourceWordJyutping": "mei6 bit1",
+      "sourceWordMeaning": "not necessarily",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "politeness",
+        "disagreement",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1-not-necessarily.json"
+    },
+    {
+      "sentenceId": "mei6bit1-not-necessarily-example-4",
+      "sentence": "天氣預報講會落雨，但未必一定落。",
+      "jyutping": "tin1 hei3 jyu6 bou3 gong2 wui5 lok6 jyu5, daan6 mei6 bit1 jat1 ding6 lok6.",
+      "meaning": "The weather forecast says it will rain, but it is not necessarily certain.",
+      "sourceWordId": "mei6bit1-not-necessarily",
+      "sourceWord": "未必",
+      "sourceWordJyutping": "mei6 bit1",
+      "sourceWordMeaning": "not necessarily",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "politeness",
+        "disagreement",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1-not-necessarily.json"
+    },
+    {
+      "sentenceId": "jau5di1-somewhat-example-1",
+      "sentence": "我今日有啲攰，想早啲休息。",
+      "jyutping": "ngo5 gam1 jat6 jau5 di1 gui6, soeng2 zou2 di1 jau1 sik1.",
+      "meaning": "I’m a bit tired today, I want to rest earlier.",
+      "sourceWordId": "jau5di1-somewhat",
+      "sourceWord": "有啲",
+      "sourceWordJyutping": "jau5 di1",
+      "sourceWordMeaning": "a bit / somewhat",
+      "tags": [
+        "softening expression",
+        "degree adverb",
+        "colloquial",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jau5di1-somewhat.json"
+    },
+    {
+      "sentenceId": "jau5di1-somewhat-example-2",
+      "sentence": "呢個菜有啲辣，你要小心食。",
+      "jyutping": "ni1 go3 coi3 jau5 di1 laat6, nei5 jiu3 siu2 sam1 sik6.",
+      "meaning": "This dish is somewhat spicy, you should eat carefully.",
+      "sourceWordId": "jau5di1-somewhat",
+      "sourceWord": "有啲",
+      "sourceWordJyutping": "jau5 di1",
+      "sourceWordMeaning": "a bit / somewhat",
+      "tags": [
+        "softening expression",
+        "degree adverb",
+        "colloquial",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jau5di1-somewhat.json"
+    },
+    {
+      "sentenceId": "jau5di1-somewhat-example-3",
+      "sentence": "佢講嘢有啲含糊，唔係好清楚。",
+      "jyutping": "keoi5 gong2 je5 jau5 di1 ham4 wu4, m4 hai6 hou2 cing1 co2.",
+      "meaning": "He speaks somewhat vaguely, not very clearly.",
+      "sourceWordId": "jau5di1-somewhat",
+      "sourceWord": "有啲",
+      "sourceWordJyutping": "jau5 di1",
+      "sourceWordMeaning": "a bit / somewhat",
+      "tags": [
+        "softening expression",
+        "degree adverb",
+        "colloquial",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jau5di1-somewhat.json"
+    },
+    {
+      "sentenceId": "jau5di1-somewhat-example-4",
+      "sentence": "今次考試有啲難，不過我盡力咗。",
+      "jyutping": "gam1 ci3 haau2 si3 jau5 di1 naan4, bat1 gwo2 ngo5 zeon3 lik6 zo2.",
+      "meaning": "This exam was a bit difficult, but I tried my best.",
+      "sourceWordId": "jau5di1-somewhat",
+      "sourceWord": "有啲",
+      "sourceWordJyutping": "jau5 di1",
+      "sourceWordMeaning": "a bit / somewhat",
+      "tags": [
+        "softening expression",
+        "degree adverb",
+        "colloquial",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jau5di1-somewhat.json"
+    },
+    {
+      "sentenceId": "siu2siu2-a-little-softening-example-1",
+      "sentence": "可以幫我講少少快啲嗎？",
+      "jyutping": "ho2 ji5 bong1 ngo5 gong2 siu2 siu2 faai3 di1 maa3?",
+      "meaning": "Can you speak a little faster for me?",
+      "sourceWordId": "siu2siu2-a-little-softening",
+      "sourceWord": "少少",
+      "sourceWordJyutping": "siu2 siu2",
+      "sourceWordMeaning": "a little (softening)",
+      "tags": [
+        "softening",
+        "politeness",
+        "quantifier",
+        "colloquial",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/siu2siu2-a-little-softening.json"
+    },
+    {
+      "sentenceId": "siu2siu2-a-little-softening-example-2",
+      "sentence": "今日嘅湯味道要調少少鹹。",
+      "jyutping": "gam1 jat6 ge3 tong1 mei6 dou6 jiu3 tiu4 siu2 siu2 haam4.",
+      "meaning": "The soup today needs to be a little less salty.",
+      "sourceWordId": "siu2siu2-a-little-softening",
+      "sourceWord": "少少",
+      "sourceWordJyutping": "siu2 siu2",
+      "sourceWordMeaning": "a little (softening)",
+      "tags": [
+        "softening",
+        "politeness",
+        "quantifier",
+        "colloquial",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/siu2siu2-a-little-softening.json"
+    },
+    {
+      "sentenceId": "siu2siu2-a-little-softening-example-3",
+      "sentence": "我哋試下遲啲出發，等時間多少少。",
+      "jyutping": "ngo5 dei6 si3 haa5 ci4 di1 ceot1 faat3, dang2 si4 gaan3 do1 siu2 siu2.",
+      "meaning": "Let's try leaving a little later to have a bit more time.",
+      "sourceWordId": "siu2siu2-a-little-softening",
+      "sourceWord": "少少",
+      "sourceWordJyutping": "siu2 siu2",
+      "sourceWordMeaning": "a little (softening)",
+      "tags": [
+        "softening",
+        "politeness",
+        "quantifier",
+        "colloquial",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/siu2siu2-a-little-softening.json"
+    },
+    {
+      "sentenceId": "siu2siu2-a-little-softening-example-4",
+      "sentence": "呢件衫細咗，你可唔可以改大少少？",
+      "jyutping": "ni1 gin6 saam1 sai3 zo2, nei5 ho2 m4 ho2 ji5 goi2 daai6 siu2 siu2?",
+      "meaning": "This shirt is small; can you make it a little bigger?",
+      "sourceWordId": "siu2siu2-a-little-softening",
+      "sourceWord": "少少",
+      "sourceWordJyutping": "siu2 siu2",
+      "sourceWordMeaning": "a little (softening)",
+      "tags": [
+        "softening",
+        "politeness",
+        "quantifier",
+        "colloquial",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/siu2siu2-a-little-softening.json"
+    },
+    {
+      "sentenceId": "gam2joeng6gong2laa1-speaking-like-this-example-1",
+      "sentence": "咁樣講啦，我唔係唔想去，只係今日太忙。",
+      "jyutping": "gam2 joeng6 gong2 laa1, ngo5 m4 hai6 m4 soeng2 heoi3, zi2 hai6 gam1 jat6 taai3 mong4.",
+      "meaning": "Let me put it this way, it's not that I don't want to go, it's just that I'm too busy today.",
+      "sourceWordId": "gam2joeng6gong2laa1-speaking-like-this",
+      "sourceWord": "咁樣講啦",
+      "sourceWordJyutping": "gam2 joeng6 gong2 laa1",
+      "sourceWordMeaning": "let me put it this way",
+      "tags": [
+        "softening",
+        "tone",
+        "conversation",
+        "politeness",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gam2joeng6gong2laa1-speaking-like-this.json"
+    },
+    {
+      "sentenceId": "gam2joeng6gong2laa1-speaking-like-this-example-2",
+      "sentence": "咁樣講啦，如果你唔舒服，最好休息吓。",
+      "jyutping": "gam2 joeng6 gong2 laa1, jyu4 gwo2 nei5 m4 syu1 fuk6, zeoi3 hou2 jau1 sik1 ha5.",
+      "meaning": "Let me put it this way, if you feel unwell, it's best to take some rest.",
+      "sourceWordId": "gam2joeng6gong2laa1-speaking-like-this",
+      "sourceWord": "咁樣講啦",
+      "sourceWordJyutping": "gam2 joeng6 gong2 laa1",
+      "sourceWordMeaning": "let me put it this way",
+      "tags": [
+        "softening",
+        "tone",
+        "conversation",
+        "politeness",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gam2joeng6gong2laa1-speaking-like-this.json"
+    },
+    {
+      "sentenceId": "gam2joeng6gong2laa1-speaking-like-this-example-3",
+      "sentence": "咁樣講啦，呢件事唔係完全你嘅錯，但你都要負責任。",
+      "jyutping": "gam2 joeng6 gong2 laa1, ni1 gin6 si6 m4 hai6 jyun4 cyun4 nei5 ge3 co3, daan6 nei5 dou1 jiu3 fu6 zaak3 jam6.",
+      "meaning": "Let me put it this way, this matter is not entirely your fault, but you still need to take responsibility.",
+      "sourceWordId": "gam2joeng6gong2laa1-speaking-like-this",
+      "sourceWord": "咁樣講啦",
+      "sourceWordJyutping": "gam2 joeng6 gong2 laa1",
+      "sourceWordMeaning": "let me put it this way",
+      "tags": [
+        "softening",
+        "tone",
+        "conversation",
+        "politeness",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gam2joeng6gong2laa1-speaking-like-this.json"
+    },
+    {
+      "sentenceId": "gam2joeng6gong2laa1-speaking-like-this-example-4",
+      "sentence": "咁樣講啦，你依家做嘅嘢對將來會有幫助。",
+      "jyutping": "gam2 joeng6 gong2 laa1, nei5 ji1 gaa1 zou6 ge3 je5 deoi3 zoeng1 loi4 wui5 jau5 bong1 zo6.",
+      "meaning": "Let me put it this way, what you're doing now will be helpful in the future.",
+      "sourceWordId": "gam2joeng6gong2laa1-speaking-like-this",
+      "sourceWord": "咁樣講啦",
+      "sourceWordJyutping": "gam2 joeng6 gong2 laa1",
+      "sourceWordMeaning": "let me put it this way",
+      "tags": [
+        "softening",
+        "tone",
+        "conversation",
+        "politeness",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gam2joeng6gong2laa1-speaking-like-this.json"
+    },
+    {
+      "sentenceId": "ho2zi2soeng6you-could-think-example-1",
+      "sentence": "你可以咁諗，呢件事係一個學習嘅機會。",
+      "jyutping": "nei5 ho2 ji5 gam2 nam2, ni1 gin6 si6 hai6 jat1 go3 hok6 zaap6 ge3 gei1 wui6.",
+      "meaning": "You could think of it like this: this is a learning opportunity.",
+      "sourceWordId": "ho2zi2soeng6you-could-think",
+      "sourceWord": "可以咁諗",
+      "sourceWordJyutping": "ho2 ji5 gam2 nam2",
+      "sourceWordMeaning": "you could think of it like this",
+      "tags": [
+        "expression",
+        "softening",
+        "perspective",
+        "conversation",
+        "polite",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2soeng6you-could-think.json"
+    },
+    {
+      "sentenceId": "ho2zi2soeng6you-could-think-example-2",
+      "sentence": "遇到困難，你可以咁諗，係一種成長。",
+      "jyutping": "jyu6 dou3 kwan3 naan4, nei5 ho2 ji5 gam2 nam2, hai6 jat1 zung2 sing4 zoeng2.",
+      "meaning": "When encountering difficulties, you could think of it like this: it’s a kind of growth.",
+      "sourceWordId": "ho2zi2soeng6you-could-think",
+      "sourceWord": "可以咁諗",
+      "sourceWordJyutping": "ho2 ji5 gam2 nam2",
+      "sourceWordMeaning": "you could think of it like this",
+      "tags": [
+        "expression",
+        "softening",
+        "perspective",
+        "conversation",
+        "polite",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2soeng6you-could-think.json"
+    },
+    {
+      "sentenceId": "ho2zi2soeng6you-could-think-example-3",
+      "sentence": "我哋可以咁諗，如果唔試吓，就唔知道結果。",
+      "jyutping": "ngo5 dei6 ho2 ji5 gam2 nam2, jyu4 gwo2 m4 si3 haa5, zau6 m4 zi1 dou3 git3 gwo2.",
+      "meaning": "We could think of it like this: if we don’t try, we won’t know the outcome.",
+      "sourceWordId": "ho2zi2soeng6you-could-think",
+      "sourceWord": "可以咁諗",
+      "sourceWordJyutping": "ho2 ji5 gam2 nam2",
+      "sourceWordMeaning": "you could think of it like this",
+      "tags": [
+        "expression",
+        "softening",
+        "perspective",
+        "conversation",
+        "polite",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2soeng6you-could-think.json"
+    },
+    {
+      "sentenceId": "ho2zi2soeng6you-could-think-example-4",
+      "sentence": "其實，你可以咁諗，佢只係想幫手。",
+      "jyutping": "kei4 sat6, nei5 ho2 ji5 gam2 nam2, keoi5 zi2 hai6 soeng2 bong1 sau2.",
+      "meaning": "Actually, you could think of it like this: he just wants to help.",
+      "sourceWordId": "ho2zi2soeng6you-could-think",
+      "sourceWord": "可以咁諗",
+      "sourceWordJyutping": "ho2 ji5 gam2 nam2",
+      "sourceWordMeaning": "you could think of it like this",
+      "tags": [
+        "expression",
+        "softening",
+        "perspective",
+        "conversation",
+        "polite",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2soeng6you-could-think.json"
+    },
+    {
+      "sentenceId": "m4zi1hai6m4hai6-not-sure-if-example-1",
+      "sentence": "唔知係唔係今日會落雨？",
+      "jyutping": "m4 zi1 hai6 m4 hai6 gam1 jat6 wui5 lok6 jyu5?",
+      "meaning": "Not sure if it's going to rain today.",
+      "sourceWordId": "m4zi1hai6m4hai6-not-sure-if",
+      "sourceWord": "唔知係唔係",
+      "sourceWordJyutping": "m4 zi1 hai6 m4 hai6",
+      "sourceWordMeaning": "not sure if",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "expression",
+        "daily-use",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4zi1hai6m4hai6-not-sure-if.json"
+    },
+    {
+      "sentenceId": "m4zi1hai6m4hai6-not-sure-if-example-2",
+      "sentence": "我唔知係唔係佢講嗰句話。",
+      "jyutping": "ngo5 m4 zi1 hai6 m4 hai6 keoi5 gong2 go2 geoi3 waa6.",
+      "meaning": "I'm not sure if it was what he said.",
+      "sourceWordId": "m4zi1hai6m4hai6-not-sure-if",
+      "sourceWord": "唔知係唔係",
+      "sourceWordJyutping": "m4 zi1 hai6 m4 hai6",
+      "sourceWordMeaning": "not sure if",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "expression",
+        "daily-use",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4zi1hai6m4hai6-not-sure-if.json"
+    },
+    {
+      "sentenceId": "m4zi1hai6m4hai6-not-sure-if-example-3",
+      "sentence": "唔知係唔係要遲啲先開始？",
+      "jyutping": "m4 zi1 hai6 m4 hai6 jiu3 ci4 di1 sin1 hoi1 ci2?",
+      "meaning": "Not sure if we need to start a bit later.",
+      "sourceWordId": "m4zi1hai6m4hai6-not-sure-if",
+      "sourceWord": "唔知係唔係",
+      "sourceWordJyutping": "m4 zi1 hai6 m4 hai6",
+      "sourceWordMeaning": "not sure if",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "expression",
+        "daily-use",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4zi1hai6m4hai6-not-sure-if.json"
+    },
+    {
+      "sentenceId": "m4zi1hai6m4hai6-not-sure-if-example-4",
+      "sentence": "佢好似唔知係唔係應該去嘅。",
+      "jyutping": "keoi5 hou2 ci5 m4 zi1 hai6 m4 hai6 jing1 goi1 heoi3 ge3.",
+      "meaning": "He seems not sure if he should go.",
+      "sourceWordId": "m4zi1hai6m4hai6-not-sure-if",
+      "sourceWord": "唔知係唔係",
+      "sourceWordJyutping": "m4 zi1 hai6 m4 hai6",
+      "sourceWordMeaning": "not sure if",
+      "tags": [
+        "uncertainty",
+        "softening",
+        "expression",
+        "daily-use",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4zi1hai6m4hai6-not-sure-if.json"
+    },
+    {
+      "sentenceId": "zi2hai6soeng2gong2-just-wanted-to-say-example-1",
+      "sentence": "只係想講，你遲咗返嚟，要通知下我。",
+      "jyutping": "zi2 hai6 soeng2 gong2, nei5 ci4 zo2 faan1 lei4, jiu3 tung1 zi1 haa5 ngo5.",
+      "meaning": "I just wanted to say, if you are going to be late, you should inform me.",
+      "sourceWordId": "zi2hai6soeng2gong2-just-wanted-to-say",
+      "sourceWord": "只係想講",
+      "sourceWordJyutping": "zi2 hai6 soeng2 gong2",
+      "sourceWordMeaning": "I just wanted to say",
+      "tags": [
+        "softening",
+        "politeness",
+        "conversation",
+        "expression",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2hai6soeng2gong2-just-wanted-to-say.json"
+    },
+    {
+      "sentenceId": "zi2hai6soeng2gong2-just-wanted-to-say-example-2",
+      "sentence": "只係想講，呢件事我覺得唔太妥當。",
+      "jyutping": "zi2 hai6 soeng2 gong2, ni1 gin6 si6 ngo5 gok3 dak1 m4 taai3 to2 dong3.",
+      "meaning": "I just wanted to say, I think this matter is not quite appropriate.",
+      "sourceWordId": "zi2hai6soeng2gong2-just-wanted-to-say",
+      "sourceWord": "只係想講",
+      "sourceWordJyutping": "zi2 hai6 soeng2 gong2",
+      "sourceWordMeaning": "I just wanted to say",
+      "tags": [
+        "softening",
+        "politeness",
+        "conversation",
+        "expression",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2hai6soeng2gong2-just-wanted-to-say.json"
+    },
+    {
+      "sentenceId": "zi2hai6soeng2gong2-just-wanted-to-say-example-3",
+      "sentence": "只係想講，多啲人尊重下對方嘅感受。",
+      "jyutping": "zi2 hai6 soeng2 gong2, do1 di1 jan4 zyun1 zung6 haa5 deoi3 fong1 ge3 gam2 sau6.",
+      "meaning": "I just wanted to say, people should respect others' feelings more.",
+      "sourceWordId": "zi2hai6soeng2gong2-just-wanted-to-say",
+      "sourceWord": "只係想講",
+      "sourceWordJyutping": "zi2 hai6 soeng2 gong2",
+      "sourceWordMeaning": "I just wanted to say",
+      "tags": [
+        "softening",
+        "politeness",
+        "conversation",
+        "expression",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2hai6soeng2gong2-just-wanted-to-say.json"
+    },
+    {
+      "sentenceId": "zi2hai6soeng2gong2-just-wanted-to-say-example-4",
+      "sentence": "只係想講，如果需要幫手，記住講聲。",
+      "jyutping": "zi2 hai6 soeng2 gong2, jyu4 gwo2 seoi1 jiu3 bong1 sau2, gei3 zyu6 gong2 seng1.",
+      "meaning": "I just wanted to say, if you need help, remember to say so.",
+      "sourceWordId": "zi2hai6soeng2gong2-just-wanted-to-say",
+      "sourceWord": "只係想講",
+      "sourceWordJyutping": "zi2 hai6 soeng2 gong2",
+      "sourceWordMeaning": "I just wanted to say",
+      "tags": [
+        "softening",
+        "politeness",
+        "conversation",
+        "expression",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2hai6soeng2gong2-just-wanted-to-say.json"
+    },
+    {
+      "sentenceId": "ngo5ming4baak6nei5ji3si1-i-understand-you-example-1",
+      "sentence": "我明白你意思，但我有啲唔同意。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ji3 si1, daan6 ngo5 jau5 di1 m4 tung4 ji3.",
+      "meaning": "I understand what you mean, but I have some disagreements.",
+      "sourceWordId": "ngo5ming4baak6nei5ji3si1-i-understand-you",
+      "sourceWord": "我明白你意思",
+      "sourceWordJyutping": "ngo5 ming4 baak6 nei5 ji3 si1",
+      "sourceWordMeaning": "I understand what you mean",
+      "tags": [
+        "polite",
+        "disagreement",
+        "acknowledgment",
+        "conversation",
+        "respect",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5ming4baak6nei5ji3si1-i-understand-you.json"
+    },
+    {
+      "sentenceId": "ngo5ming4baak6nei5ji3si1-i-understand-you-example-2",
+      "sentence": "多謝你解釋，我明白你意思。",
+      "jyutping": "do1 ze6 nei5 gaai2 sik1, ngo5 ming4 baak6 nei5 ji3 si1.",
+      "meaning": "Thank you for explaining, I understand what you mean.",
+      "sourceWordId": "ngo5ming4baak6nei5ji3si1-i-understand-you",
+      "sourceWord": "我明白你意思",
+      "sourceWordJyutping": "ngo5 ming4 baak6 nei5 ji3 si1",
+      "sourceWordMeaning": "I understand what you mean",
+      "tags": [
+        "polite",
+        "disagreement",
+        "acknowledgment",
+        "conversation",
+        "respect",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5ming4baak6nei5ji3si1-i-understand-you.json"
+    },
+    {
+      "sentenceId": "ngo5ming4baak6nei5ji3si1-i-understand-you-example-3",
+      "sentence": "我明白你意思，不過我覺得應該試多一次。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ji3 si1, bat1 gwo2 ngo5 gok3 dak1 jing1 goi1 si3 do1 jat1 ci3.",
+      "meaning": "I understand what you mean, but I think we should try once more.",
+      "sourceWordId": "ngo5ming4baak6nei5ji3si1-i-understand-you",
+      "sourceWord": "我明白你意思",
+      "sourceWordJyutping": "ngo5 ming4 baak6 nei5 ji3 si1",
+      "sourceWordMeaning": "I understand what you mean",
+      "tags": [
+        "polite",
+        "disagreement",
+        "acknowledgment",
+        "conversation",
+        "respect",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5ming4baak6nei5ji3si1-i-understand-you.json"
+    },
+    {
+      "sentenceId": "ngo5ming4baak6nei5ji3si1-i-understand-you-example-4",
+      "sentence": "雖然我明白你意思，但我有其他嘅睇法。",
+      "jyutping": "seoi1 jin4 ngo5 ming4 baak6 nei5 ji3 si1, daan6 ngo5 jau5 kei4 taa1 ge3 tai2 faat3.",
+      "meaning": "Although I understand what you mean, I have other viewpoints.",
+      "sourceWordId": "ngo5ming4baak6nei5ji3si1-i-understand-you",
+      "sourceWord": "我明白你意思",
+      "sourceWordJyutping": "ngo5 ming4 baak6 nei5 ji3 si1",
+      "sourceWordMeaning": "I understand what you mean",
+      "tags": [
+        "polite",
+        "disagreement",
+        "acknowledgment",
+        "conversation",
+        "respect",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5ming4baak6nei5ji3si1-i-understand-you.json"
+    },
+    {
+      "sentenceId": "bat1gwo3-however-example-1",
+      "sentence": "我明白你嘅意思，不過我有啲唔同嘅睇法。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ge3 ji3 si1, bat1 gwo3 ngo5 jau5 di1 m4 tung4 ge3 tai2 faat3.",
+      "meaning": "I understand your point, however, I have a slightly different opinion.",
+      "sourceWordId": "bat1gwo3-however",
+      "sourceWord": "不過",
+      "sourceWordJyutping": "bat1 gwo3",
+      "sourceWordMeaning": "however",
+      "tags": [
+        "polite disagreement",
+        "contrast",
+        "connector",
+        "discourse marker",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1gwo3-however.json"
+    },
+    {
+      "sentenceId": "bat1gwo3-however-example-2",
+      "sentence": "呢個方法好，但係成本太高，不過我哋可以考慮下。",
+      "jyutping": "ni1 go3 fong1 faat3 hou2, daan6 hai6 sing4 bun2 taai3 gou1, bat1 gwo3 ngo5 dei6 ho2 ji5 haau2 leoi6 haa5.",
+      "meaning": "This method is good, but the cost is too high. However, we can consider it.",
+      "sourceWordId": "bat1gwo3-however",
+      "sourceWord": "不過",
+      "sourceWordJyutping": "bat1 gwo3",
+      "sourceWordMeaning": "however",
+      "tags": [
+        "polite disagreement",
+        "contrast",
+        "connector",
+        "discourse marker",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1gwo3-however.json"
+    },
+    {
+      "sentenceId": "bat1gwo3-however-example-3",
+      "sentence": "佢好忙，不過仲抽時間幫我。",
+      "jyutping": "keoi5 hou2 mong4, bat1 gwo3 zung6 cau1 si4 gaan3 bong1 ngo5.",
+      "meaning": "He is very busy, however, he still makes time to help me.",
+      "sourceWordId": "bat1gwo3-however",
+      "sourceWord": "不過",
+      "sourceWordJyutping": "bat1 gwo3",
+      "sourceWordMeaning": "however",
+      "tags": [
+        "polite disagreement",
+        "contrast",
+        "connector",
+        "discourse marker",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1gwo3-however.json"
+    },
+    {
+      "sentenceId": "bat1gwo3-however-example-4",
+      "sentence": "我鍾意呢啲設計，不過未必啱你口味。",
+      "jyutping": "ngo5 zung1 ji3 ni1 di1 cit3 gei3, bat1 gwo3 mei6 bat1 aam1 nei5 hau2 mei6.",
+      "meaning": "I like this design, however, it might not suit your taste.",
+      "sourceWordId": "bat1gwo3-however",
+      "sourceWord": "不過",
+      "sourceWordJyutping": "bat1 gwo3",
+      "sourceWordMeaning": "however",
+      "tags": [
+        "polite disagreement",
+        "contrast",
+        "connector",
+        "discourse marker",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1gwo3-however.json"
+    },
+    {
+      "sentenceId": "daan6ho2nang4-but-maybe-example-1",
+      "sentence": "我覺得呢個計劃好，但可能有啲風險。",
+      "jyutping": "ngo5 gok3 dak1 ni1 go3 gai3 waak6 hou2, daan6 ho2 nang4 jau5 di1 fung1him2.",
+      "meaning": "I think this plan is good, but maybe there are some risks.",
+      "sourceWordId": "daan6ho2nang4-but-maybe",
+      "sourceWord": "但可能",
+      "sourceWordJyutping": "daan6 ho2 nang4",
+      "sourceWordMeaning": "but maybe",
+      "tags": [
+        "polite disagreement",
+        "connector",
+        "expression",
+        "softening phrase",
+        "contrasting opinion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daan6ho2nang4-but-maybe.json"
+    },
+    {
+      "sentenceId": "daan6ho2nang4-but-maybe-example-2",
+      "sentence": "你講得啱，但可能我哋要考慮多啲細節。",
+      "jyutping": "nei5 gong2 dak1 aap3, daan6 ho2 nang4 ngo5 dei6 jiu3 haau2 leoi6 do1 di1 sai3zit3.",
+      "meaning": "You are right, but maybe we need to consider more details.",
+      "sourceWordId": "daan6ho2nang4-but-maybe",
+      "sourceWord": "但可能",
+      "sourceWordJyutping": "daan6 ho2 nang4",
+      "sourceWordMeaning": "but maybe",
+      "tags": [
+        "polite disagreement",
+        "connector",
+        "expression",
+        "softening phrase",
+        "contrasting opinion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daan6ho2nang4-but-maybe.json"
+    },
+    {
+      "sentenceId": "daan6ho2nang4-but-maybe-example-3",
+      "sentence": "呢件事應該冇問題，但可能會拖長時間。",
+      "jyutping": "ni1 gin6 si6 jing1 goi1 mou5 man6tai4, daan6 ho2 nang4 wui5 to1 coeng4 si4 gaan3.",
+      "meaning": "This matter should have no problem, but maybe it will take a longer time.",
+      "sourceWordId": "daan6ho2nang4-but-maybe",
+      "sourceWord": "但可能",
+      "sourceWordJyutping": "daan6 ho2 nang4",
+      "sourceWordMeaning": "but maybe",
+      "tags": [
+        "polite disagreement",
+        "connector",
+        "expression",
+        "softening phrase",
+        "contrasting opinion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daan6ho2nang4-but-maybe.json"
+    },
+    {
+      "sentenceId": "daan6ho2nang4-but-maybe-example-4",
+      "sentence": "我明白你嘅意思，但可能我哋嘅方法唔同。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ge3 ji3 si1, daan6 ho2 nang4 ngo5 dei6 ge3 fong1 faat3 m4 tung4.",
+      "meaning": "I understand your point, but maybe our methods are different.",
+      "sourceWordId": "daan6ho2nang4-but-maybe",
+      "sourceWord": "但可能",
+      "sourceWordJyutping": "daan6 ho2 nang4",
+      "sourceWordMeaning": "but maybe",
+      "tags": [
+        "polite disagreement",
+        "connector",
+        "expression",
+        "softening phrase",
+        "contrasting opinion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daan6ho2nang4-but-maybe.json"
+    },
+    {
+      "sentenceId": "mei6bit1hai6gam3-might-not-be-like-that-example-1",
+      "sentence": "你話佢唔嚟，未必係咁，佢可能仲未決定。",
+      "jyutping": "nei5 waa6 keoi5 m4 lai4, mei6 bit1 hai6 gam3, keoi5 ho2 nang4 zung6 mei6 kyut3 ding6.",
+      "meaning": "You said he won't come, but it might not be like that; he may still be undecided.",
+      "sourceWordId": "mei6bit1hai6gam3-might-not-be-like-that",
+      "sourceWord": "未必係咁",
+      "sourceWordJyutping": "mei6 bit1 hai6 gam3",
+      "sourceWordMeaning": "it might not be like that",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "softening",
+        "conversation",
+        "uncertainty",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1hai6gam3-might-not-be-like-that.json"
+    },
+    {
+      "sentenceId": "mei6bit1hai6gam3-might-not-be-like-that-example-2",
+      "sentence": "市場冇咁多人，未必係咁，試吓喺其他時間去睇。",
+      "jyutping": "si5 coeng4 mou5 gam3 do1 jan4, mei6 bit1 hai6 gam3, si3 haa5 hai2 kei4 taa1 si4 gaan1 heoi3 tai2.",
+      "meaning": "The market isn't that crowded, it might not be like that; try going at another time.",
+      "sourceWordId": "mei6bit1hai6gam3-might-not-be-like-that",
+      "sourceWord": "未必係咁",
+      "sourceWordJyutping": "mei6 bit1 hai6 gam3",
+      "sourceWordMeaning": "it might not be like that",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "softening",
+        "conversation",
+        "uncertainty",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1hai6gam3-might-not-be-like-that.json"
+    },
+    {
+      "sentenceId": "mei6bit1hai6gam3-might-not-be-like-that-example-3",
+      "sentence": "佢唔鐘意呢啲嘢，未必係咁，每個人嘅口味唔同。",
+      "jyutping": "keoi5 m4 zung1 ji3 ni1 di1 je5, mei6 bit1 hai6 gam3, mui5 go3 jan4 ge3 hau2 mei6 m4 tung4.",
+      "meaning": "He doesn't like this stuff, it might not be like that; everyone has different tastes.",
+      "sourceWordId": "mei6bit1hai6gam3-might-not-be-like-that",
+      "sourceWord": "未必係咁",
+      "sourceWordJyutping": "mei6 bit1 hai6 gam3",
+      "sourceWordMeaning": "it might not be like that",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "softening",
+        "conversation",
+        "uncertainty",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1hai6gam3-might-not-be-like-that.json"
+    },
+    {
+      "sentenceId": "mei6bit1hai6gam3-might-not-be-like-that-example-4",
+      "sentence": "事情冇咁簡單，未必係咁，要了解多啲先。",
+      "jyutping": "si6 cing4 mou5 gam3 gaan2 daan1, mei6 bit1 hai6 gam3, jiu3 liu5 gaai2 do1 di1 sin1.",
+      "meaning": "Things aren't that simple; it might not be like that. You need to understand more first.",
+      "sourceWordId": "mei6bit1hai6gam3-might-not-be-like-that",
+      "sourceWord": "未必係咁",
+      "sourceWordJyutping": "mei6 bit1 hai6 gam3",
+      "sourceWordMeaning": "it might not be like that",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "softening",
+        "conversation",
+        "uncertainty",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1hai6gam3-might-not-be-like-that.json"
+    },
+    {
+      "sentenceId": "ngo5jau5di1m4tung4tai2faat3-different-view-example-1",
+      "sentence": "我有啲唔同睇法，所以我建議再考慮一次。",
+      "jyutping": "ngo5 jau5 di1 m4 tung4 tai2 faat3, so2 ji5 ngo5 gin3 ji5 zoi3 haau2 leoi6 jat1 ci3.",
+      "meaning": "I have a slightly different view, so I suggest reconsidering once more.",
+      "sourceWordId": "ngo5jau5di1m4tung4tai2faat3-different-view",
+      "sourceWord": "我有啲唔同睇法",
+      "sourceWordJyutping": "ngo5 jau5 di1 m4 tung4 tai2 faat3",
+      "sourceWordMeaning": "I have a slightly different view",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "discussion",
+        "advanced",
+        "formal",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jau5di1m4tung4tai2faat3-different-view.json"
+    },
+    {
+      "sentenceId": "ngo5jau5di1m4tung4tai2faat3-different-view-example-2",
+      "sentence": "你講得啱，但我有啲唔同睇法。",
+      "jyutping": "nei5 gong2 dak1 aam1, daan6 ngo5 jau5 di1 m4 tung4 tai2 faat3.",
+      "meaning": "What you said is correct, but I have a slightly different view.",
+      "sourceWordId": "ngo5jau5di1m4tung4tai2faat3-different-view",
+      "sourceWord": "我有啲唔同睇法",
+      "sourceWordJyutping": "ngo5 jau5 di1 m4 tung4 tai2 faat3",
+      "sourceWordMeaning": "I have a slightly different view",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "discussion",
+        "advanced",
+        "formal",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jau5di1m4tung4tai2faat3-different-view.json"
+    },
+    {
+      "sentenceId": "ngo5jau5di1m4tung4tai2faat3-different-view-example-3",
+      "sentence": "呢件事我有啲唔同睇法，想同你分享下。",
+      "jyutping": "ni1 gin6 si6 ngo5 jau5 di1 m4 tung4 tai2 faat3, soeng2 tung4 nei5 fan1 hoeng2 ha5.",
+      "meaning": "I have a slightly different view on this matter and want to share it with you.",
+      "sourceWordId": "ngo5jau5di1m4tung4tai2faat3-different-view",
+      "sourceWord": "我有啲唔同睇法",
+      "sourceWordJyutping": "ngo5 jau5 di1 m4 tung4 tai2 faat3",
+      "sourceWordMeaning": "I have a slightly different view",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "discussion",
+        "advanced",
+        "formal",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jau5di1m4tung4tai2faat3-different-view.json"
+    },
+    {
+      "sentenceId": "ngo5jau5di1m4tung4tai2faat3-different-view-example-4",
+      "sentence": "討論中，我有啲唔同睇法，希望可以討論得更深入。",
+      "jyutping": "tou2 leon6 zung1, ngo5 jau5 di1 m4 tung4 tai2 faat3, hei1 mong6 ho2 ji5 tou2 leon6 dak1 gang3 sam1 jap6.",
+      "meaning": "During the discussion, I have a slightly different view and hope we can discuss it more deeply.",
+      "sourceWordId": "ngo5jau5di1m4tung4tai2faat3-different-view",
+      "sourceWord": "我有啲唔同睇法",
+      "sourceWordJyutping": "ngo5 jau5 di1 m4 tung4 tai2 faat3",
+      "sourceWordMeaning": "I have a slightly different view",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "discussion",
+        "advanced",
+        "formal",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jau5di1m4tung4tai2faat3-different-view.json"
+    },
+    {
+      "sentenceId": "ngo5wai4ji4-have-doubts-example-1",
+      "sentence": "我懷疑呢個計劃可唔可以成功。",
+      "jyutping": "ngo5 wai4 ji4 ni1 go3 gai3 waak6 ho2 m4 ho2 ji5 sing4 gung1",
+      "meaning": "I have some doubts about whether this plan can succeed.",
+      "sourceWordId": "ngo5wai4ji4-have-doubts",
+      "sourceWord": "我懷疑",
+      "sourceWordJyutping": "ngo5 wai4 ji4",
+      "sourceWordMeaning": "I have some doubts",
+      "tags": [
+        "polite_disagreement",
+        "expression",
+        "doubt",
+        "skepticism",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5wai4ji4-have-doubts.json"
+    },
+    {
+      "sentenceId": "ngo5wai4ji4-have-doubts-example-2",
+      "sentence": "你講嘅數字，我懷疑啱唔啱。",
+      "jyutping": "nei5 gong2 ge3 sou3 zi6, ngo5 wai4 ji4 aam1 m4 aam1",
+      "meaning": "I have some doubts whether the figures you mentioned are correct.",
+      "sourceWordId": "ngo5wai4ji4-have-doubts",
+      "sourceWord": "我懷疑",
+      "sourceWordJyutping": "ngo5 wai4 ji4",
+      "sourceWordMeaning": "I have some doubts",
+      "tags": [
+        "polite_disagreement",
+        "expression",
+        "doubt",
+        "skepticism",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5wai4ji4-have-doubts.json"
+    },
+    {
+      "sentenceId": "ngo5wai4ji4-have-doubts-example-3",
+      "sentence": "我懷疑佢真係記得嗰件事。",
+      "jyutping": "ngo5 wai4 ji4 keoi5 zan1 hai6 gei3 dak1 go2 gin6 si6",
+      "meaning": "I have doubts that he really remembers that matter.",
+      "sourceWordId": "ngo5wai4ji4-have-doubts",
+      "sourceWord": "我懷疑",
+      "sourceWordJyutping": "ngo5 wai4 ji4",
+      "sourceWordMeaning": "I have some doubts",
+      "tags": [
+        "polite_disagreement",
+        "expression",
+        "doubt",
+        "skepticism",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5wai4ji4-have-doubts.json"
+    },
+    {
+      "sentenceId": "ngo5wai4ji4-have-doubts-example-4",
+      "sentence": "我懷疑呢個方案仲有不足嘅地方。",
+      "jyutping": "ngo5 wai4 ji4 ni1 go3 fong1 on3 zung6 jau5 bat1 zuk1 ge3 dei6 fong1",
+      "meaning": "I have some doubts that this proposal still has some shortcomings.",
+      "sourceWordId": "ngo5wai4ji4-have-doubts",
+      "sourceWord": "我懷疑",
+      "sourceWordJyutping": "ngo5 wai4 ji4",
+      "sourceWordMeaning": "I have some doubts",
+      "tags": [
+        "polite_disagreement",
+        "expression",
+        "doubt",
+        "skepticism",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5wai4ji4-have-doubts.json"
+    },
+    {
+      "sentenceId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that-example-1",
+      "sentence": "我覺得佢講嘅未必完全係咁，你要聽多啲其他人嘅意見。",
+      "jyutping": "ngo5 gok3 dak1 keoi5 gong2 ge3 mei6 bit1 jyun4 cyun4 hai6 gam3, nei5 jiu3 teng1 do1 di1 kei4 taa1 jan4 ge3 ji3 gin3.",
+      "meaning": "I think what he said might not be entirely like that; you should listen to more opinions from others.",
+      "sourceWordId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that",
+      "sourceWord": "未必完全係咁",
+      "sourceWordJyutping": "mei6 bit1 jyun4 cyun4 hai6 gam3",
+      "sourceWordMeaning": "it might not be entirely like that",
+      "tags": [
+        "polite disagreement",
+        "softening",
+        "discourse marker",
+        "conversation",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that.json"
+    },
+    {
+      "sentenceId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that-example-2",
+      "sentence": "呢個問題未必完全係咁簡單，背後可能有更多原因。",
+      "jyutping": "ni1 go3 man6 tai4 mei6 bit1 jyun4 cyun4 hai6 gam3 gaan2 daan1, bui3 hau6 ho2 nang4 jau5 gang1 do1 jyun4 jan1.",
+      "meaning": "This issue might not be entirely that simple; there could be more reasons behind it.",
+      "sourceWordId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that",
+      "sourceWord": "未必完全係咁",
+      "sourceWordJyutping": "mei6 bit1 jyun4 cyun4 hai6 gam3",
+      "sourceWordMeaning": "it might not be entirely like that",
+      "tags": [
+        "polite disagreement",
+        "softening",
+        "discourse marker",
+        "conversation",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that.json"
+    },
+    {
+      "sentenceId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that-example-3",
+      "sentence": "你話佢唔可靠，但其實情況未必完全係咁。",
+      "jyutping": "nei5 waa6 keoi5 m4 ho2 kaau3, daan6 kei4 sat6 cing4 fong3 mei6 bit1 jyun4 cyun4 hai6 gam3.",
+      "meaning": "You said he is unreliable, but actually, the situation might not be entirely like that.",
+      "sourceWordId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that",
+      "sourceWord": "未必完全係咁",
+      "sourceWordJyutping": "mei6 bit1 jyun4 cyun4 hai6 gam3",
+      "sourceWordMeaning": "it might not be entirely like that",
+      "tags": [
+        "polite disagreement",
+        "softening",
+        "discourse marker",
+        "conversation",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that.json"
+    },
+    {
+      "sentenceId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that-example-4",
+      "sentence": "我哋未必完全係咁認為呢件事無解，仲有其他方法可以試吓。",
+      "jyutping": "ngo5 dei6 mei6 bit1 jyun4 cyun4 hai6 gam3 jing6 wai4 ni1 gin6 si6 mou4 gaai2, zung6 jau5 kei4 taa1 fong1 faat3 ho2 ji5 si3 ha5.",
+      "meaning": "We might not entirely think that this matter is unsolvable; there are still other methods we can try.",
+      "sourceWordId": "mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that",
+      "sourceWord": "未必完全係咁",
+      "sourceWordJyutping": "mei6 bit1 jyun4 cyun4 hai6 gam3",
+      "sourceWordMeaning": "it might not be entirely like that",
+      "tags": [
+        "polite disagreement",
+        "softening",
+        "discourse marker",
+        "conversation",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1jyun4cyun4hai6gam3-not-entirely-like-that.json"
+    },
+    {
+      "sentenceId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons-example-1",
+      "sentence": "我哋唔應該急住判斷，可能有其他原因。",
+      "jyutping": "ngo5 dei6 m4 jing1 goi1 gap1 zyu6 pun3 dyun6, ho2 nang4 jau5 kei4 taa1 jyun4 jan1.",
+      "meaning": "We shouldn’t rush to judge; there might be other reasons.",
+      "sourceWordId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons",
+      "sourceWord": "可能有其他原因",
+      "sourceWordJyutping": "ho2 nang4 jau5 kei4 taa1 jyun4 jan1",
+      "sourceWordMeaning": "there might be other reasons",
+      "tags": [
+        "polite_disagreement",
+        "alternative_explanation",
+        "softening_expression",
+        "advanced_phrase",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons.json"
+    },
+    {
+      "sentenceId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons-example-2",
+      "sentence": "呢個問題唔係咁簡單，可能有其他原因導致。",
+      "jyutping": "ni1 go3 man6 tai4 m4 hai6 gam3 gaan2 daan1, ho2 nang4 jau5 kei4 taa1 jyun4 jan1 dou6 zi3.",
+      "meaning": "This problem isn’t that simple; there might be other reasons causing it.",
+      "sourceWordId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons",
+      "sourceWord": "可能有其他原因",
+      "sourceWordJyutping": "ho2 nang4 jau5 kei4 taa1 jyun4 jan1",
+      "sourceWordMeaning": "there might be other reasons",
+      "tags": [
+        "polite_disagreement",
+        "alternative_explanation",
+        "softening_expression",
+        "advanced_phrase",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons.json"
+    },
+    {
+      "sentenceId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons-example-3",
+      "sentence": "你講嘅都啱，但可能有其他原因令情況變得複雜。",
+      "jyutping": "nei5 gong2 ge3 dou1 aap3, daan6 ho2 nang4 jau5 kei4 taa1 jyun4 jan1 ling6 cing4 fong3 bin3 dak1 fuk1 zaap6.",
+      "meaning": "What you said is correct, but there might be other reasons making the situation more complicated.",
+      "sourceWordId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons",
+      "sourceWord": "可能有其他原因",
+      "sourceWordJyutping": "ho2 nang4 jau5 kei4 taa1 jyun4 jan1",
+      "sourceWordMeaning": "there might be other reasons",
+      "tags": [
+        "polite_disagreement",
+        "alternative_explanation",
+        "softening_expression",
+        "advanced_phrase",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons.json"
+    },
+    {
+      "sentenceId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons-example-4",
+      "sentence": "你可以試下諗多啲，可能有其他原因未考慮到。",
+      "jyutping": "nei5 ho2 ji5 si3 haa5 nam2 do1 di1, ho2 nang4 jau5 kei4 taa1 jyun4 jan1 mei6 haau2 leoi6 dou3.",
+      "meaning": "You could try thinking more; there might be other reasons not yet considered.",
+      "sourceWordId": "ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons",
+      "sourceWord": "可能有其他原因",
+      "sourceWordJyutping": "ho2 nang4 jau5 kei4 taa1 jyun4 jan1",
+      "sourceWordMeaning": "there might be other reasons",
+      "tags": [
+        "polite_disagreement",
+        "alternative_explanation",
+        "softening_expression",
+        "advanced_phrase",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2nang4jau5kei4taa1jyu4yin4-maybe-other-reasons.json"
+    },
+    {
+      "sentenceId": "ngo5m4tai2tung4i-dont-fully-agree-example-1",
+      "sentence": "我唔太同意你嘅睇法，我覺得情況可能係另一回事。",
+      "jyutping": "ngo5 m4 taai3 tung4 ji3 nei5 ge3 tai2 faat3, ngo5 gok3 dak1 cing4 fong3 ho2 nang4 hai6 ling6 jat1 wai6 si6.",
+      "meaning": "I don’t quite agree with your point of view; I think the situation might be something different.",
+      "sourceWordId": "ngo5m4tai2tung4i-dont-fully-agree",
+      "sourceWord": "我唔太同意",
+      "sourceWordJyutping": "ngo5 m4 taai3 tung4 ji3",
+      "sourceWordMeaning": "I don’t quite agree",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "advanced",
+        "spoken Cantonese",
+        "softening language",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4tai2tung4i-dont-fully-agree.json"
+    },
+    {
+      "sentenceId": "ngo5m4tai2tung4i-dont-fully-agree-example-2",
+      "sentence": "呢個提議我唔太同意，我覺得仲有改進嘅空間。",
+      "jyutping": "ni1 go3 tai4 ji5 ngo5 m4 taai3 tung4 ji3, ngo5 gok3 dak1 zung6 jau5 goi2 zeon3 ge3 hung1 gaan1.",
+      "meaning": "I don’t quite agree with this proposal; I think there is still room for improvement.",
+      "sourceWordId": "ngo5m4tai2tung4i-dont-fully-agree",
+      "sourceWord": "我唔太同意",
+      "sourceWordJyutping": "ngo5 m4 taai3 tung4 ji3",
+      "sourceWordMeaning": "I don’t quite agree",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "advanced",
+        "spoken Cantonese",
+        "softening language",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4tai2tung4i-dont-fully-agree.json"
+    },
+    {
+      "sentenceId": "ngo5m4tai2tung4i-dont-fully-agree-example-3",
+      "sentence": "我唔太同意你噉講，但我可以明白你嘅立場。",
+      "jyutping": "ngo5 m4 taai3 tung4 ji3 nei5 gam2 gong2, daan6 ngo5 ho2 ji5 ming4 baak6 nei5 ge3 lap6 coeng4.",
+      "meaning": "I don’t quite agree with what you said, but I can understand your position.",
+      "sourceWordId": "ngo5m4tai2tung4i-dont-fully-agree",
+      "sourceWord": "我唔太同意",
+      "sourceWordJyutping": "ngo5 m4 taai3 tung4 ji3",
+      "sourceWordMeaning": "I don’t quite agree",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "advanced",
+        "spoken Cantonese",
+        "softening language",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4tai2tung4i-dont-fully-agree.json"
+    },
+    {
+      "sentenceId": "ngo5m4tai2tung4i-dont-fully-agree-example-4",
+      "sentence": "對於呢件事，我哋有啲唔同意，我唔太同意個方法。",
+      "jyutping": "deoi3 jyu1 ni1 gin6 si6, ngo5 dei6 jau5 di1 m4 tung4 ji3, ngo5 m4 taai3 tung4 ji3 go3 fong1 faat3.",
+      "meaning": "Regarding this matter, we have some disagreements; I don’t quite agree with the method.",
+      "sourceWordId": "ngo5m4tai2tung4i-dont-fully-agree",
+      "sourceWord": "我唔太同意",
+      "sourceWordJyutping": "ngo5 m4 taai3 tung4 ji3",
+      "sourceWordMeaning": "I don’t quite agree",
+      "tags": [
+        "polite disagreement",
+        "expression",
+        "advanced",
+        "spoken Cantonese",
+        "softening language",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4tai2tung4i-dont-fully-agree.json"
+    },
+    {
+      "sentenceId": "bat1jyu4-how-about-example-1",
+      "sentence": "不如我哋出去食飯啦。",
+      "jyutping": "bat1 jyu4 ngo5 dei6 ceot1 heoi3 sik6 faan6 laa1.",
+      "meaning": "How about we go out to eat?",
+      "sourceWordId": "bat1jyu4-how-about",
+      "sourceWord": "不如",
+      "sourceWordJyutping": "bat1 jyu4",
+      "sourceWordMeaning": "how about / why don’t we",
+      "tags": [
+        "suggestions",
+        "polite expressions",
+        "daily conversation",
+        "speech softening",
+        "making proposals",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1jyu4-how-about.json"
+    },
+    {
+      "sentenceId": "bat1jyu4-how-about-example-2",
+      "sentence": "今日天氣咁好，不如去行山啦。",
+      "jyutping": "gam1 jat6 tin1 hei3 gam3 hou2, bat1 jyu4 heoi3 hang4 saan1 laa1.",
+      "meaning": "The weather is so nice today, how about going hiking?",
+      "sourceWordId": "bat1jyu4-how-about",
+      "sourceWord": "不如",
+      "sourceWordJyutping": "bat1 jyu4",
+      "sourceWordMeaning": "how about / why don’t we",
+      "tags": [
+        "suggestions",
+        "polite expressions",
+        "daily conversation",
+        "speech softening",
+        "making proposals",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1jyu4-how-about.json"
+    },
+    {
+      "sentenceId": "bat1jyu4-how-about-example-3",
+      "sentence": "我哋不如試下呢間新餐廳？",
+      "jyutping": "ngo5 dei6 bat1 jyu4 si3 haa5 ni1 gaan1 san1 caan1 teng1?",
+      "meaning": "Why don’t we try this new restaurant?",
+      "sourceWordId": "bat1jyu4-how-about",
+      "sourceWord": "不如",
+      "sourceWordJyutping": "bat1 jyu4",
+      "sourceWordMeaning": "how about / why don’t we",
+      "tags": [
+        "suggestions",
+        "polite expressions",
+        "daily conversation",
+        "speech softening",
+        "making proposals",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1jyu4-how-about.json"
+    },
+    {
+      "sentenceId": "bat1jyu4-how-about-example-4",
+      "sentence": "唔想煮嘢食？不如叫外賣啦！",
+      "jyutping": "m4 soeng2 zyu2 je5 sik6? bat1 jyu4 giu3 ngoi6 maai6 laa1!",
+      "meaning": "Don’t feel like cooking? How about ordering takeout!",
+      "sourceWordId": "bat1jyu4-how-about",
+      "sourceWord": "不如",
+      "sourceWordJyutping": "bat1 jyu4",
+      "sourceWordMeaning": "how about / why don’t we",
+      "tags": [
+        "suggestions",
+        "polite expressions",
+        "daily conversation",
+        "speech softening",
+        "making proposals",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/bat1jyu4-how-about.json"
+    },
+    {
+      "sentenceId": "ngo5gin3ji3-i-suggest-example-1",
+      "sentence": "我建議你試下呢間餐廳，啲嘢好好食。",
+      "jyutping": "ngo5 gin3 ji3 nei5 si3 haa5 ni1 gaan1 caan1 teng1, di1 je5 hou2 hou2 sik6.",
+      "meaning": "I suggest you try this restaurant; the food is very good.",
+      "sourceWordId": "ngo5gin3ji3-i-suggest",
+      "sourceWord": "我建議",
+      "sourceWordJyutping": "ngo5 gin3 ji3",
+      "sourceWordMeaning": "I suggest",
+      "tags": [
+        "suggestion",
+        "politeness",
+        "advice",
+        "expression",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gin3ji3-i-suggest.json"
+    },
+    {
+      "sentenceId": "ngo5gin3ji3-i-suggest-example-2",
+      "sentence": "喺咁嘅情況下，我建議我哋諗多啲時間。",
+      "jyutping": "hai2 gam2 ge3 cing4 fong3 haa6, ngo5 gin3 ji3 ngo5 dei6 nam2 do1 di1 si4 gaan3.",
+      "meaning": "In this situation, I suggest we think about it longer.",
+      "sourceWordId": "ngo5gin3ji3-i-suggest",
+      "sourceWord": "我建議",
+      "sourceWordJyutping": "ngo5 gin3 ji3",
+      "sourceWordMeaning": "I suggest",
+      "tags": [
+        "suggestion",
+        "politeness",
+        "advice",
+        "expression",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gin3ji3-i-suggest.json"
+    },
+    {
+      "sentenceId": "ngo5gin3ji3-i-suggest-example-3",
+      "sentence": "我建議你唔好遲到，因為會影響大家。",
+      "jyutping": "ngo5 gin3 ji3 nei5 m4 hou2 ci4 dou3, jan1 wai6 wui5 jing2 hoeng2 daai6 gaa1.",
+      "meaning": "I suggest you don’t be late because it will affect everyone.",
+      "sourceWordId": "ngo5gin3ji3-i-suggest",
+      "sourceWord": "我建議",
+      "sourceWordJyutping": "ngo5 gin3 ji3",
+      "sourceWordMeaning": "I suggest",
+      "tags": [
+        "suggestion",
+        "politeness",
+        "advice",
+        "expression",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gin3ji3-i-suggest.json"
+    },
+    {
+      "sentenceId": "ngo5gin3ji3-i-suggest-example-4",
+      "sentence": "如果你唔識做，我建議你問下同事。",
+      "jyutping": "jyu4 gwo2 nei5 m4 sik1 zou6, ngo5 gin3 ji3 nei5 man6 haa5 tung4 si6.",
+      "meaning": "If you don’t know how to do it, I suggest you ask a colleague.",
+      "sourceWordId": "ngo5gin3ji3-i-suggest",
+      "sourceWord": "我建議",
+      "sourceWordJyutping": "ngo5 gin3 ji3",
+      "sourceWordMeaning": "I suggest",
+      "tags": [
+        "suggestion",
+        "politeness",
+        "advice",
+        "expression",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gin3ji3-i-suggest.json"
+    },
+    {
+      "sentenceId": "waak6ze2ho2ji5-maybe-we-could-example-1",
+      "sentence": "或者可以我哋今晚去食意大利菜？",
+      "jyutping": "waak6 ze2 ho2 ji5 ngo5 dei6 gam1 maan5 heoi3 sik6 ji3 daai6 lei6 coi3?",
+      "meaning": "Maybe we could go eat Italian food tonight?",
+      "sourceWordId": "waak6ze2ho2ji5-maybe-we-could",
+      "sourceWord": "或者可以",
+      "sourceWordJyutping": "waak6 ze2 ho2 ji5",
+      "sourceWordMeaning": "maybe we could",
+      "tags": [
+        "suggestion",
+        "polite",
+        "possibility",
+        "casual",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2ho2ji5-maybe-we-could.json"
+    },
+    {
+      "sentenceId": "waak6ze2ho2ji5-maybe-we-could-example-2",
+      "sentence": "或者可以試下換另一部手機？",
+      "jyutping": "waak6 ze2 ho2 ji5 si3 haa5 wun6 ling6 jat1 bou6 sau2 gei1?",
+      "meaning": "Maybe we could try switching to a different phone?",
+      "sourceWordId": "waak6ze2ho2ji5-maybe-we-could",
+      "sourceWord": "或者可以",
+      "sourceWordJyutping": "waak6 ze2 ho2 ji5",
+      "sourceWordMeaning": "maybe we could",
+      "tags": [
+        "suggestion",
+        "polite",
+        "possibility",
+        "casual",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2ho2ji5-maybe-we-could.json"
+    },
+    {
+      "sentenceId": "waak6ze2ho2ji5-maybe-we-could-example-3",
+      "sentence": "我哋或者可以明天再討論一次。",
+      "jyutping": "ngo5 dei6 waak6 ze2 ho2 ji5 ming4 tin1 zoi3 tou2 leon6 jat1 ci3.",
+      "meaning": "Maybe we could discuss it again tomorrow.",
+      "sourceWordId": "waak6ze2ho2ji5-maybe-we-could",
+      "sourceWord": "或者可以",
+      "sourceWordJyutping": "waak6 ze2 ho2 ji5",
+      "sourceWordMeaning": "maybe we could",
+      "tags": [
+        "suggestion",
+        "polite",
+        "possibility",
+        "casual",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2ho2ji5-maybe-we-could.json"
+    },
+    {
+      "sentenceId": "waak6ze2ho2ji5-maybe-we-could-example-4",
+      "sentence": "如果唔趕時間，或者可以行路去公園。",
+      "jyutping": "jyu4 gwo2 m4 gon2 si4 gaan3, waak6 ze2 ho2 ji5 haang4 lou6 heoi3 gung1 jyun4.",
+      "meaning": "If we’re not in a hurry, maybe we could walk to the park.",
+      "sourceWordId": "waak6ze2ho2ji5-maybe-we-could",
+      "sourceWord": "或者可以",
+      "sourceWordJyutping": "waak6 ze2 ho2 ji5",
+      "sourceWordMeaning": "maybe we could",
+      "tags": [
+        "suggestion",
+        "polite",
+        "possibility",
+        "casual",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2ho2ji5-maybe-we-could.json"
+    },
+    {
+      "sentenceId": "wui5m4wui5hou2di1-would-it-be-better-example-1",
+      "sentence": "我哋會唔會好啲坐巴士去嗰度？",
+      "jyutping": "ngo5 dei6 wui5 m4 wui5 hou2 di1 co5 baa1 si2 heoi3 go2 dou6?",
+      "meaning": "Would it be better if we took the bus to that place?",
+      "sourceWordId": "wui5m4wui5hou2di1-would-it-be-better",
+      "sourceWord": "會唔會好啲",
+      "sourceWordJyutping": "wui5 m4 wui5 hou2 di1",
+      "sourceWordMeaning": "would it be better",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "indirect",
+        "conversation",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/wui5m4wui5hou2di1-would-it-be-better.json"
+    },
+    {
+      "sentenceId": "wui5m4wui5hou2di1-would-it-be-better-example-2",
+      "sentence": "你會唔會好啲提早準備功課？",
+      "jyutping": "nei5 wui5 m4 wui5 hou2 di1 tai4 zou2 zeon2 bei6 gung1 fo3?",
+      "meaning": "Would it be better if you prepared your homework earlier?",
+      "sourceWordId": "wui5m4wui5hou2di1-would-it-be-better",
+      "sourceWord": "會唔會好啲",
+      "sourceWordJyutping": "wui5 m4 wui5 hou2 di1",
+      "sourceWordMeaning": "would it be better",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "indirect",
+        "conversation",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/wui5m4wui5hou2di1-would-it-be-better.json"
+    },
+    {
+      "sentenceId": "wui5m4wui5hou2di1-would-it-be-better-example-3",
+      "sentence": "會唔會好啲唔好咁趕，慢慢嚟？",
+      "jyutping": "wui5 m4 wui5 hou2 di1 m4 hou2 gam3 gon2, maan6 maan6 lai4?",
+      "meaning": "Would it be better not to rush and take it slowly?",
+      "sourceWordId": "wui5m4wui5hou2di1-would-it-be-better",
+      "sourceWord": "會唔會好啲",
+      "sourceWordJyutping": "wui5 m4 wui5 hou2 di1",
+      "sourceWordMeaning": "would it be better",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "indirect",
+        "conversation",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/wui5m4wui5hou2di1-would-it-be-better.json"
+    },
+    {
+      "sentenceId": "wui5m4wui5hou2di1-would-it-be-better-example-4",
+      "sentence": "你覺得會唔會好啲換間公司做？",
+      "jyutping": "nei5 gok3 dak1 wui5 m4 wui5 hou2 di1 wun6 gaan1 gung1 si1 zou6?",
+      "meaning": "Do you think it would be better to switch to another company?",
+      "sourceWordId": "wui5m4wui5hou2di1-would-it-be-better",
+      "sourceWord": "會唔會好啲",
+      "sourceWordJyutping": "wui5 m4 wui5 hou2 di1",
+      "sourceWordMeaning": "would it be better",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "indirect",
+        "conversation",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/wui5m4wui5hou2di1-would-it-be-better.json"
+    },
+    {
+      "sentenceId": "nei5gok3dak1dim2-what-do-you-think-example-1",
+      "sentence": "我哋今晚去邊度食飯， 你覺得點？",
+      "jyutping": "ngo5 dei6 gam1 maan5 heoi3 bin1 dou6 sik6 faan6, nei5 gok3 dak1 dim2?",
+      "meaning": "Where should we go for dinner tonight, what do you think?",
+      "sourceWordId": "nei5gok3dak1dim2-what-do-you-think",
+      "sourceWord": "你覺得點",
+      "sourceWordJyutping": "nei5 gok3 dak1 dim2",
+      "sourceWordMeaning": "what do you think?",
+      "tags": [
+        "opinion",
+        "questions",
+        "conversation",
+        "polite",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nei5gok3dak1dim2-what-do-you-think.json"
+    },
+    {
+      "sentenceId": "nei5gok3dak1dim2-what-do-you-think-example-2",
+      "sentence": "呢份報告寫得唔錯，你覺得點？",
+      "jyutping": "ni1 fan6 bou3 gou3 se2 dak1 m4 co3, nei5 gok3 dak1 dim2?",
+      "meaning": "This report is not bad, what do you think?",
+      "sourceWordId": "nei5gok3dak1dim2-what-do-you-think",
+      "sourceWord": "你覺得點",
+      "sourceWordJyutping": "nei5 gok3 dak1 dim2",
+      "sourceWordMeaning": "what do you think?",
+      "tags": [
+        "opinion",
+        "questions",
+        "conversation",
+        "polite",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nei5gok3dak1dim2-what-do-you-think.json"
+    },
+    {
+      "sentenceId": "nei5gok3dak1dim2-what-do-you-think-example-3",
+      "sentence": "依家咁嘅安排合理嗎？你覺得點？",
+      "jyutping": "ji1 gaa1 gam2 ge3 ngon1 paai4 ho4 lei5 maa3? nei5 gok3 dak1 dim2?",
+      "meaning": "Is this arrangement reasonable now? What do you think?",
+      "sourceWordId": "nei5gok3dak1dim2-what-do-you-think",
+      "sourceWord": "你覺得點",
+      "sourceWordJyutping": "nei5 gok3 dak1 dim2",
+      "sourceWordMeaning": "what do you think?",
+      "tags": [
+        "opinion",
+        "questions",
+        "conversation",
+        "polite",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nei5gok3dak1dim2-what-do-you-think.json"
+    },
+    {
+      "sentenceId": "nei5gok3dak1dim2-what-do-you-think-example-4",
+      "sentence": "我打算買部新手機，你覺得點？",
+      "jyutping": "ngo5 daa2 syun3 maai5 bou6 san1 sau2 gei1, nei5 gok3 dak1 dim2?",
+      "meaning": "I plan to buy a new phone, what do you think?",
+      "sourceWordId": "nei5gok3dak1dim2-what-do-you-think",
+      "sourceWord": "你覺得點",
+      "sourceWordJyutping": "nei5 gok3 dak1 dim2",
+      "sourceWordMeaning": "what do you think?",
+      "tags": [
+        "opinion",
+        "questions",
+        "conversation",
+        "polite",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nei5gok3dak1dim2-what-do-you-think.json"
+    },
+    {
+      "sentenceId": "ngo5nam2-i-think-example-1",
+      "sentence": "我諗呢個方案好啱我哋嘅需要。",
+      "jyutping": "ngo5 nam2 ni1 go3 fong1 on3 hou2 aam1 ngo5 dei6 ge3 seoi1 jiu3",
+      "meaning": "I think this plan suits our needs well.",
+      "sourceWordId": "ngo5nam2-i-think",
+      "sourceWord": "我諗",
+      "sourceWordJyutping": "ngo5 nam2",
+      "sourceWordMeaning": "I think",
+      "tags": [
+        "opinion",
+        "politeness",
+        "suggestion",
+        "discourse-marker",
+        "spoken",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5nam2-i-think.json"
+    },
+    {
+      "sentenceId": "ngo5nam2-i-think-example-2",
+      "sentence": "我諗你應該試下呢個新餐廳。",
+      "jyutping": "ngo5 nam2 nei5 jing1 goi1 si3 haa5 ni1 go3 san1 caan1 teng1",
+      "meaning": "I think you should try this new restaurant.",
+      "sourceWordId": "ngo5nam2-i-think",
+      "sourceWord": "我諗",
+      "sourceWordJyutping": "ngo5 nam2",
+      "sourceWordMeaning": "I think",
+      "tags": [
+        "opinion",
+        "politeness",
+        "suggestion",
+        "discourse-marker",
+        "spoken",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5nam2-i-think.json"
+    },
+    {
+      "sentenceId": "ngo5nam2-i-think-example-3",
+      "sentence": "我諗佢可能唔知道呢件事。",
+      "jyutping": "ngo5 nam2 keoi5 ho2 nang4 m4 zi1 dou3 ni1 gin6 si6",
+      "meaning": "I think he might not know about this matter.",
+      "sourceWordId": "ngo5nam2-i-think",
+      "sourceWord": "我諗",
+      "sourceWordJyutping": "ngo5 nam2",
+      "sourceWordMeaning": "I think",
+      "tags": [
+        "opinion",
+        "politeness",
+        "suggestion",
+        "discourse-marker",
+        "spoken",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5nam2-i-think.json"
+    },
+    {
+      "sentenceId": "ngo5nam2-i-think-example-4",
+      "sentence": "我諗我哋下星期開會再傾。",
+      "jyutping": "ngo5 nam2 ngo5 dei6 haa6 sing1 kei4 hoi1 wui6 zoi3 king1",
+      "meaning": "I think we should discuss it again at the meeting next week.",
+      "sourceWordId": "ngo5nam2-i-think",
+      "sourceWord": "我諗",
+      "sourceWordJyutping": "ngo5 nam2",
+      "sourceWordMeaning": "I think",
+      "tags": [
+        "opinion",
+        "politeness",
+        "suggestion",
+        "discourse-marker",
+        "spoken",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5nam2-i-think.json"
+    },
+    {
+      "sentenceId": "ngo5gok3dak1-i-feel-example-1",
+      "sentence": "我覺得今天天氣幾好，我哋去散步啦。",
+      "jyutping": "ngo5 gok3 dak1 gam1 tin1 tin1 hei3 gei2 hou2, ngo5 dei6 heoi3 saan3 bou6 laa1.",
+      "meaning": "I feel the weather is quite good today, let's go for a walk.",
+      "sourceWordId": "ngo5gok3dak1-i-feel",
+      "sourceWord": "我覺得",
+      "sourceWordJyutping": "ngo5 gok3 dak1",
+      "sourceWordMeaning": "I feel / I think",
+      "tags": [
+        "expression",
+        "opinion",
+        "conversation",
+        "politeness",
+        "persuasion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gok3dak1-i-feel.json"
+    },
+    {
+      "sentenceId": "ngo5gok3dak1-i-feel-example-2",
+      "sentence": "我覺得呢個計劃要再諗清楚先得。",
+      "jyutping": "ngo5 gok3 dak1 ni1 go3 gai3 waak6 jiu3 zoi3 nam2 cing1 co2 sin1 dak1.",
+      "meaning": "I think this plan needs to be reconsidered carefully first.",
+      "sourceWordId": "ngo5gok3dak1-i-feel",
+      "sourceWord": "我覺得",
+      "sourceWordJyutping": "ngo5 gok3 dak1",
+      "sourceWordMeaning": "I feel / I think",
+      "tags": [
+        "expression",
+        "opinion",
+        "conversation",
+        "politeness",
+        "persuasion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gok3dak1-i-feel.json"
+    },
+    {
+      "sentenceId": "ngo5gok3dak1-i-feel-example-3",
+      "sentence": "對於你嘅建議，我覺得有啲道理。",
+      "jyutping": "deoi3 jyu1 nei5 ge3 gin3 ji3, ngo5 gok3 dak1 jau5 di1 dou6 lei5.",
+      "meaning": "Regarding your suggestion, I feel there is some logic to it.",
+      "sourceWordId": "ngo5gok3dak1-i-feel",
+      "sourceWord": "我覺得",
+      "sourceWordJyutping": "ngo5 gok3 dak1",
+      "sourceWordMeaning": "I feel / I think",
+      "tags": [
+        "expression",
+        "opinion",
+        "conversation",
+        "politeness",
+        "persuasion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gok3dak1-i-feel.json"
+    },
+    {
+      "sentenceId": "ngo5gok3dak1-i-feel-example-4",
+      "sentence": "講真，我覺得你今日比平時努力好多。",
+      "jyutping": "gong2 zan1, ngo5 gok3 dak1 nei5 gam1 jat6 bei2 ping4 si4 nou5 lik6 hou2 do1.",
+      "meaning": "Honestly, I feel you worked much harder today than usual.",
+      "sourceWordId": "ngo5gok3dak1-i-feel",
+      "sourceWord": "我覺得",
+      "sourceWordJyutping": "ngo5 gok3 dak1",
+      "sourceWordMeaning": "I feel / I think",
+      "tags": [
+        "expression",
+        "opinion",
+        "conversation",
+        "politeness",
+        "persuasion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5gok3dak1-i-feel.json"
+    },
+    {
+      "sentenceId": "zing3hai6-simply-example-1",
+      "sentence": "我淨係想睇戲，唔想出街。",
+      "jyutping": "ngo5 zing6 hai6 soeng2 tai2 hei3, m4 soeng2 ceot1 gaai1.",
+      "meaning": "I only want to watch a movie, I don't want to go out.",
+      "sourceWordId": "zing3hai6-simply",
+      "sourceWord": "淨係",
+      "sourceWordJyutping": "zing6 hai6",
+      "sourceWordMeaning": "only / simply",
+      "tags": [
+        "advanced",
+        "spoken",
+        "exclusivity",
+        "emphasis",
+        "casual",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zing3hai6-simply.json"
+    },
+    {
+      "sentenceId": "zing3hai6-simply-example-2",
+      "sentence": "佢淨係鍾意食辣嘢。",
+      "jyutping": "keoi5 zing6 hai6 zung1 ji3 sik6 laat6 je5.",
+      "meaning": "He only likes to eat spicy food.",
+      "sourceWordId": "zing3hai6-simply",
+      "sourceWord": "淨係",
+      "sourceWordJyutping": "zing6 hai6",
+      "sourceWordMeaning": "only / simply",
+      "tags": [
+        "advanced",
+        "spoken",
+        "exclusivity",
+        "emphasis",
+        "casual",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zing3hai6-simply.json"
+    },
+    {
+      "sentenceId": "zing3hai6-simply-example-3",
+      "sentence": "今次考試淨係答咗五題。",
+      "jyutping": "gam1 ci3 haau2 si3 zing6 hai6 daap3 zo2 ng5 tai4.",
+      "meaning": "This time, I only answered five questions on the test.",
+      "sourceWordId": "zing3hai6-simply",
+      "sourceWord": "淨係",
+      "sourceWordJyutping": "zing6 hai6",
+      "sourceWordMeaning": "only / simply",
+      "tags": [
+        "advanced",
+        "spoken",
+        "exclusivity",
+        "emphasis",
+        "casual",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zing3hai6-simply.json"
+    },
+    {
+      "sentenceId": "zing3hai6-simply-example-4",
+      "sentence": "你淨係要記住呢個規則。",
+      "jyutping": "nei5 zing6 hai6 jiu3 gei3 zyu6 ni1 go3 kwai1 zak1.",
+      "meaning": "You simply need to remember this rule.",
+      "sourceWordId": "zing3hai6-simply",
+      "sourceWord": "淨係",
+      "sourceWordJyutping": "zing6 hai6",
+      "sourceWordMeaning": "only / simply",
+      "tags": [
+        "advanced",
+        "spoken",
+        "exclusivity",
+        "emphasis",
+        "casual",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zing3hai6-simply.json"
+    },
+    {
+      "sentenceId": "ho2zi2can-be-said-example-1",
+      "sentence": "呢個問題，可以話係一個好大嘅挑戰。",
+      "jyutping": "ni1 go3 man6 tai4, ho2 ji5 waa6 hai6 jat1 go3 hou2 daai6 ge3 tiu1 cin3.",
+      "meaning": "This problem, you could say, is a very big challenge.",
+      "sourceWordId": "ho2zi2can-be-said",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "you could say",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "spoken Cantonese",
+        "softener",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2can-be-said.json"
+    },
+    {
+      "sentenceId": "ho2zi2can-be-said-example-2",
+      "sentence": "佢嘅成功，可以話係靠堅持同努力。",
+      "jyutping": "keoi5 ge3 sing4 gung1, ho2 ji5 waa6 hai6 kaau3 gin1 ci4 tung4 nou5 lik6.",
+      "meaning": "His success, you could say, relies on persistence and hard work.",
+      "sourceWordId": "ho2zi2can-be-said",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "you could say",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "spoken Cantonese",
+        "softener",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2can-be-said.json"
+    },
+    {
+      "sentenceId": "ho2zi2can-be-said-example-3",
+      "sentence": "依家嘅市場，可以話變化好快。",
+      "jyutping": "ji1 gaa1 ge3 si5 coeng4, ho2 ji5 waa6 bin3 faa3 hou2 faai3.",
+      "meaning": "The current market, you could say, changes very quickly.",
+      "sourceWordId": "ho2zi2can-be-said",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "you could say",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "spoken Cantonese",
+        "softener",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2can-be-said.json"
+    },
+    {
+      "sentenceId": "ho2zi2can-be-said-example-4",
+      "sentence": "佢講嘅嘢，可以話幾有道理。",
+      "jyutping": "keoi5 gong2 ge3 je5, ho2 ji5 waa6 gei2 jau5 dou6 lei5.",
+      "meaning": "What he said, you could say, makes quite a bit of sense.",
+      "sourceWordId": "ho2zi2can-be-said",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "you could say",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "spoken Cantonese",
+        "softener",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2zi2can-be-said.json"
+    },
+    {
+      "sentenceId": "jiu3m4jiu3soeng2haa5-why-not-consider-example-1",
+      "sentence": "要唔要諗下換份工，可能會開心啲。",
+      "jyutping": "jiu3 m4 jiu3 nam2 haa5 wun6 fan6 gung1, ho2 nang4 wui5 hoi1 sam1 di1.",
+      "meaning": "Why not consider changing jobs? You might be happier.",
+      "sourceWordId": "jiu3m4jiu3soeng2haa5-why-not-consider",
+      "sourceWord": "要唔要諗下",
+      "sourceWordJyutping": "jiu3 m4 jiu3 nam2 haa5",
+      "sourceWordMeaning": "why not consider",
+      "tags": [
+        "suggestion",
+        "polite",
+        "persuasion",
+        "conversation",
+        "softening",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jiu3m4jiu3soeng2haa5-why-not-consider.json"
+    },
+    {
+      "sentenceId": "jiu3m4jiu3soeng2haa5-why-not-consider-example-2",
+      "sentence": "依家做唔到，唔好心急，要唔要諗下遲啲再試？",
+      "jyutping": "ji1 gaa1 zou6 m4 dou3, m4 hou2 sam1 gap1, jiu3 m4 jiu3 nam2 haa5 ci4 di1 zoi3 si3?",
+      "meaning": "It's not possible to do it now, don't worry, why not consider trying later?",
+      "sourceWordId": "jiu3m4jiu3soeng2haa5-why-not-consider",
+      "sourceWord": "要唔要諗下",
+      "sourceWordJyutping": "jiu3 m4 jiu3 nam2 haa5",
+      "sourceWordMeaning": "why not consider",
+      "tags": [
+        "suggestion",
+        "polite",
+        "persuasion",
+        "conversation",
+        "softening",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jiu3m4jiu3soeng2haa5-why-not-consider.json"
+    },
+    {
+      "sentenceId": "jiu3m4jiu3soeng2haa5-why-not-consider-example-3",
+      "sentence": "你要唔要諗下報讀夜校，提升自己技術？",
+      "jyutping": "nei5 jiu3 m4 jiu3 nam2 haa5 bou3 duk6 je6 haau6, tai1 sing1 zi6 gei2 gei6 seot6?",
+      "meaning": "Why not consider enrolling in night classes to improve your skills?",
+      "sourceWordId": "jiu3m4jiu3soeng2haa5-why-not-consider",
+      "sourceWord": "要唔要諗下",
+      "sourceWordJyutping": "jiu3 m4 jiu3 nam2 haa5",
+      "sourceWordMeaning": "why not consider",
+      "tags": [
+        "suggestion",
+        "polite",
+        "persuasion",
+        "conversation",
+        "softening",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jiu3m4jiu3soeng2haa5-why-not-consider.json"
+    },
+    {
+      "sentenceId": "jiu3m4jiu3soeng2haa5-why-not-consider-example-4",
+      "sentence": "成日唔開心，要唔要諗下去旅行放鬆下？",
+      "jyutping": "sing4 jat6 m4 hoi1 sam1, jiu3 m4 jiu3 nam2 haa5 heoi3 leoi5 hang4 fong3 sung1 haa5?",
+      "meaning": "If you're often unhappy, why not consider going on a trip to relax?",
+      "sourceWordId": "jiu3m4jiu3soeng2haa5-why-not-consider",
+      "sourceWord": "要唔要諗下",
+      "sourceWordJyutping": "jiu3 m4 jiu3 nam2 haa5",
+      "sourceWordMeaning": "why not consider",
+      "tags": [
+        "suggestion",
+        "polite",
+        "persuasion",
+        "conversation",
+        "softening",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jiu3m4jiu3soeng2haa5-why-not-consider.json"
+    },
+    {
+      "sentenceId": "soeng2soeng2jat1haa5-think-for-a-moment-example-1",
+      "sentence": "你唔好急，諗一諗先。",
+      "jyutping": "nei5 m4 hou2 gap1, nam2 jat1 nam2 sin1.",
+      "meaning": "Don't rush, have a think first.",
+      "sourceWordId": "soeng2soeng2jat1haa5-think-for-a-moment",
+      "sourceWord": "諗一諗",
+      "sourceWordJyutping": "nam2 jat1 nam2",
+      "sourceWordMeaning": "have a think",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "reflection",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng2soeng2jat1haa5-think-for-a-moment.json"
+    },
+    {
+      "sentenceId": "soeng2soeng2jat1haa5-think-for-a-moment-example-2",
+      "sentence": "呢個主意唔錯，唔該諗一諗。",
+      "jyutping": "ni1 go3 zyu2 ji3 m4 co3, m4 goi1 nam2 jat1 nam2.",
+      "meaning": "This idea isn't bad, please have a think.",
+      "sourceWordId": "soeng2soeng2jat1haa5-think-for-a-moment",
+      "sourceWord": "諗一諗",
+      "sourceWordJyutping": "nam2 jat1 nam2",
+      "sourceWordMeaning": "have a think",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "reflection",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng2soeng2jat1haa5-think-for-a-moment.json"
+    },
+    {
+      "sentenceId": "soeng2soeng2jat1haa5-think-for-a-moment-example-3",
+      "sentence": "喺答唔之前，諗一諗你想要乜嘢。",
+      "jyutping": "hai2 daap3 m4 zi1 cin4, nam2 jat1 nam2 nei5 soeng2 jiu3 mat1 je5.",
+      "meaning": "Before answering, have a think about what you want.",
+      "sourceWordId": "soeng2soeng2jat1haa5-think-for-a-moment",
+      "sourceWord": "諗一諗",
+      "sourceWordJyutping": "nam2 jat1 nam2",
+      "sourceWordMeaning": "have a think",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "reflection",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng2soeng2jat1haa5-think-for-a-moment.json"
+    },
+    {
+      "sentenceId": "soeng2soeng2jat1haa5-think-for-a-moment-example-4",
+      "sentence": "我建議你諗一諗先，再決定。",
+      "jyutping": "ngo5 gin3 ji5 nei5 nam2 jat1 nam2 sin1, zoi3 kyut3 ding6.",
+      "meaning": "I suggest you have a think first, then decide.",
+      "sourceWordId": "soeng2soeng2jat1haa5-think-for-a-moment",
+      "sourceWord": "諗一諗",
+      "sourceWordJyutping": "nam2 jat1 nam2",
+      "sourceWordMeaning": "have a think",
+      "tags": [
+        "expression",
+        "persuasion",
+        "suggestion",
+        "reflection",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng2soeng2jat1haa5-think-for-a-moment.json"
+    },
+    {
+      "sentenceId": "zung6jau5jat1go3dim2-also-one-point-example-1",
+      "sentence": "我哋去旅行好唔錯，仲有一個點係可以學到新嘢。",
+      "jyutping": "ngo5 dei6 heoi3 leoi5 hang4 hou2 m4 co3, zung6 jau5 jat1 go3 dim2 hai6 ho2 ji5 hok6 dou3 san1 je5.",
+      "meaning": "Our trip is really good, and there’s one more point that we can learn something new.",
+      "sourceWordId": "zung6jau5jat1go3dim2-also-one-point",
+      "sourceWord": "仲有一個點",
+      "sourceWordJyutping": "zung6 jau5 jat1 go3 dim2",
+      "sourceWordMeaning": "there’s one more point",
+      "tags": [
+        "advanced",
+        "persuasion",
+        "conversation",
+        "connector",
+        "discussion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zung6jau5jat1go3dim2-also-one-point.json"
+    },
+    {
+      "sentenceId": "zung6jau5jat1go3dim2-also-one-point-example-2",
+      "sentence": "你話要早啲收工，仲有一個點係唔好拖延。",
+      "jyutping": "nei5 waa6 jiu3 zou2 di1 sau1 gung1, zung6 jau5 jat1 go3 dim2 hai6 m4 hou2 to1 jin4.",
+      "meaning": "You said you want to finish work early, and there’s one more point that you shouldn’t procrastinate.",
+      "sourceWordId": "zung6jau5jat1go3dim2-also-one-point",
+      "sourceWord": "仲有一個點",
+      "sourceWordJyutping": "zung6 jau5 jat1 go3 dim2",
+      "sourceWordMeaning": "there’s one more point",
+      "tags": [
+        "advanced",
+        "persuasion",
+        "conversation",
+        "connector",
+        "discussion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zung6jau5jat1go3dim2-also-one-point.json"
+    },
+    {
+      "sentenceId": "zung6jau5jat1go3dim2-also-one-point-example-3",
+      "sentence": "我覺得呢個計劃有優點，仲有一個點係可以幫助團隊合作。",
+      "jyutping": "ngo5 gok3 dak1 ni1 go3 gai3 waak6 jau5 jau1 dim2, zung6 jau5 jat1 go3 dim2 hai6 ho2 ji5 bong1 zo6 tyun4 deoi2 hap6 zok3.",
+      "meaning": "I think this plan has advantages, and there’s one more point that it can help the team cooperate.",
+      "sourceWordId": "zung6jau5jat1go3dim2-also-one-point",
+      "sourceWord": "仲有一個點",
+      "sourceWordJyutping": "zung6 jau5 jat1 go3 dim2",
+      "sourceWordMeaning": "there’s one more point",
+      "tags": [
+        "advanced",
+        "persuasion",
+        "conversation",
+        "connector",
+        "discussion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zung6jau5jat1go3dim2-also-one-point.json"
+    },
+    {
+      "sentenceId": "zung6jau5jat1go3dim2-also-one-point-example-4",
+      "sentence": "你解釋得好清楚，仲有一個點想補充一下。",
+      "jyutping": "nei5 gaai2 sik1 dak1 hou2 cing1 co2, zung6 jau5 jat1 go3 dim2 soeng2 bou2 cung1 jat1 haa5.",
+      "meaning": "You explained very clearly, and there’s one more point I want to add.",
+      "sourceWordId": "zung6jau5jat1go3dim2-also-one-point",
+      "sourceWord": "仲有一個點",
+      "sourceWordJyutping": "zung6 jau5 jat1 go3 dim2",
+      "sourceWordMeaning": "there’s one more point",
+      "tags": [
+        "advanced",
+        "persuasion",
+        "conversation",
+        "connector",
+        "discussion",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zung6jau5jat1go3dim2-also-one-point.json"
+    },
+    {
+      "sentenceId": "zeoi3hou2hai6-best-would-be-example-1",
+      "sentence": "最好係你而家準備好，咁等會先唔怕緊張。",
+      "jyutping": "zeoi3 hou2 hai6 nei5 ji4 gaa1 zeon2 bei6 hou2, gam2 dang2 wui5 sin1 m4 pa3 gan2 zoeng1.",
+      "meaning": "It would be best if you prepare now so that you won’t be nervous later.",
+      "sourceWordId": "zeoi3hou2hai6-best-would-be",
+      "sourceWord": "最好係",
+      "sourceWordJyutping": "zeoi3 hou2 hai6",
+      "sourceWordMeaning": "it would be best if",
+      "tags": [
+        "advice",
+        "suggestion",
+        "polite",
+        "persuasion",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zeoi3hou2hai6-best-would-be.json"
+    },
+    {
+      "sentenceId": "zeoi3hou2hai6-best-would-be-example-2",
+      "sentence": "你最好係趁早搵律師幫手，免得後悔。",
+      "jyutping": "nei5 zeoi3 hou2 hai6 can3 zou2 wan2 leon6 si1 bong1 sau2, min5 dak1 hau6 fui3.",
+      "meaning": "It would be best if you find a lawyer to help early to avoid regrets.",
+      "sourceWordId": "zeoi3hou2hai6-best-would-be",
+      "sourceWord": "最好係",
+      "sourceWordJyutping": "zeoi3 hou2 hai6",
+      "sourceWordMeaning": "it would be best if",
+      "tags": [
+        "advice",
+        "suggestion",
+        "polite",
+        "persuasion",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zeoi3hou2hai6-best-would-be.json"
+    },
+    {
+      "sentenceId": "zeoi3hou2hai6-best-would-be-example-3",
+      "sentence": "我覺得最好係我哋一齊去商量下，唔好自己諗。",
+      "jyutping": "ngo5 gok3 dak1 zeoi3 hou2 hai6 ngo5 dei6 jat1 cai4 heoi3 soeng1 loeng4 haa5, m4 hou2 zi6 gei2 nam2.",
+      "meaning": "I think it would be best if we discuss it together instead of you thinking alone.",
+      "sourceWordId": "zeoi3hou2hai6-best-would-be",
+      "sourceWord": "最好係",
+      "sourceWordJyutping": "zeoi3 hou2 hai6",
+      "sourceWordMeaning": "it would be best if",
+      "tags": [
+        "advice",
+        "suggestion",
+        "polite",
+        "persuasion",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zeoi3hou2hai6-best-would-be.json"
+    },
+    {
+      "sentenceId": "zeoi3hou2hai6-best-would-be-example-4",
+      "sentence": "你最好係今晚早啲訓覺，明日先有精神。",
+      "jyutping": "nei5 zeoi3 hou2 hai6 gam1 maan5 zou2 di1 fan3 gaau3, ming4 jat6 sin1 jau5 zing1 san4.",
+      "meaning": "It would be best if you sleep early tonight so you will have energy tomorrow.",
+      "sourceWordId": "zeoi3hou2hai6-best-would-be",
+      "sourceWord": "最好係",
+      "sourceWordJyutping": "zeoi3 hou2 hai6",
+      "sourceWordMeaning": "it would be best if",
+      "tags": [
+        "advice",
+        "suggestion",
+        "polite",
+        "persuasion",
+        "recommendation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zeoi3hou2hai6-best-would-be.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-example-1",
+      "sentence": "可唔可以幫我拎一下嗰個行李？",
+      "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5 ling1 jat1 haa5 go2 go3 hang4 lei5?",
+      "meaning": "Could you help me carry that luggage?",
+      "sourceWordId": "ho2m4ho2ji5-could-you",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-example-2",
+      "sentence": "我可唔可以早啲走？",
+      "jyutping": "ngo5 ho2 m4 ho2 ji5 zou2 di1 zau2?",
+      "meaning": "May I leave earlier?",
+      "sourceWordId": "ho2m4ho2ji5-could-you",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-example-3",
+      "sentence": "可唔可以借我支筆？",
+      "jyutping": "ho2 m4 ho2 ji5 ze3 ngo5 zi1 bat1?",
+      "meaning": "Could you lend me a pen?",
+      "sourceWordId": "ho2m4ho2ji5-could-you",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-example-4",
+      "sentence": "可唔可以同你講下我嘅想法？",
+      "jyutping": "ho2 m4 ho2 ji5 tung4 nei5 gong2 haa5 ngo5 ge3 soeng2 faat3?",
+      "meaning": "May I talk to you about my ideas?",
+      "sourceWordId": "ho2m4ho2ji5-could-you",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-1",
+      "sentence": "你介唔介意我借埋你部電話用一陣？",
+      "jyutping": "nei5 gaai3 m4 gaai3 ji3 ngo5 ze3 maai4 nei5 bou6 din6 waa2 jung6 jat1 zan6?",
+      "meaning": "Do you mind if I borrow your phone for a moment?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-2",
+      "sentence": "介唔介意我今晚唔返屋企食飯？",
+      "jyutping": "gaai3 m4 gaai3 ji3 ngo5 gam1 maan5 m4 faan1 uk1 kei2 sik6 faan6?",
+      "meaning": "Do you mind if I don’t come home for dinner tonight?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-3",
+      "sentence": "你介唔介意我幫你睇下份文件？",
+      "jyutping": "nei5 gaai3 m4 gaai3 ji3 ngo5 bong1 nei5 tai2 haa5 fan6 man4 gin2?",
+      "meaning": "Do you mind if I help you check the document?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-4",
+      "sentence": "介唔介意同我講多啲關於你嘅計劃？",
+      "jyutping": "gaai3 m4 gaai3 ji3 tung4 ngo5 gong2 do1 di1 gwaan1 jyu1 nei5 ge3 gai3 waak6?",
+      "meaning": "Do you mind telling me more about your plans?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-1",
+      "sentence": "唔好意思，我唔係好明白你講咩。",
+      "jyutping": "m4 hou2 ji3 si1, ngo5 m4 hai6 hou2 ming4 baak6 nei5 gong2 me1.",
+      "meaning": "Sorry, I don't really understand what you're saying.",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "attention",
+        "requests",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-2",
+      "sentence": "唔好意思，可唔可以借過一陣？",
+      "jyutping": "m4 hou2 ji3 si1, ho2 m4 ho2 ji5 ze3 gwo3 jat1 zan6?",
+      "meaning": "Excuse me, could you please let me pass for a moment?",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "attention",
+        "requests",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-3",
+      "sentence": "唔好意思，我遲咗少少先嚟到。",
+      "jyutping": "m4 hou2 ji3 si1, ngo5 ci4 zo2 siu2 siu2 sin1 lai4 dou3.",
+      "meaning": "Sorry, I arrived a little late.",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "attention",
+        "requests",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-4",
+      "sentence": "唔好意思，我想問你一個問題。",
+      "jyutping": "m4 hou2 ji3 si1, ngo5 soeng2 man6 nei5 jat1 go3 man6 tai4.",
+      "meaning": "Excuse me, I want to ask you a question.",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "attention",
+        "requests",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "hung2paa3-im-afraid-example-1",
+      "sentence": "恐怕我唔能夠今晚去派對。",
+      "jyutping": "hung2 paa3 ngo5 m4 nang4 gau3 gam1 maan5 heoi3 paai3 deoi3.",
+      "meaning": "I'm afraid I can't go to the party tonight.",
+      "sourceWordId": "hung2paa3-im-afraid",
+      "sourceWord": "恐怕",
+      "sourceWordJyutping": "hung2 paa3",
+      "sourceWordMeaning": "I’m afraid (polite refusal)",
+      "tags": [
+        "polite refusal",
+        "expression",
+        "softening",
+        "hesitation",
+        "requests and boundaries",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hung2paa3-im-afraid.json"
+    },
+    {
+      "sentenceId": "hung2paa3-im-afraid-example-2",
+      "sentence": "恐怕佢未準備好做報告。",
+      "jyutping": "hung2 paa3 keoi5 mei6 zeon2 bei6 hou2 zou6 bou3 gou3.",
+      "meaning": "I'm afraid he isn't ready to do the report.",
+      "sourceWordId": "hung2paa3-im-afraid",
+      "sourceWord": "恐怕",
+      "sourceWordJyutping": "hung2 paa3",
+      "sourceWordMeaning": "I’m afraid (polite refusal)",
+      "tags": [
+        "polite refusal",
+        "expression",
+        "softening",
+        "hesitation",
+        "requests and boundaries",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hung2paa3-im-afraid.json"
+    },
+    {
+      "sentenceId": "hung2paa3-im-afraid-example-3",
+      "sentence": "恐怕今晚落雨，唔適合郊遊。",
+      "jyutping": "hung2 paa3 gam1 maan5 lok6 jyu5, m4 sik1 hap6 gaau1 jau4.",
+      "meaning": "I'm afraid it will rain tonight, not suitable for an outing.",
+      "sourceWordId": "hung2paa3-im-afraid",
+      "sourceWord": "恐怕",
+      "sourceWordJyutping": "hung2 paa3",
+      "sourceWordMeaning": "I’m afraid (polite refusal)",
+      "tags": [
+        "polite refusal",
+        "expression",
+        "softening",
+        "hesitation",
+        "requests and boundaries",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hung2paa3-im-afraid.json"
+    },
+    {
+      "sentenceId": "hung2paa3-im-afraid-example-4",
+      "sentence": "恐怕我冇時間陪你去睇戲。",
+      "jyutping": "hung2 paa3 ngo5 mou5 si4 gaan3 pui4 nei5 heoi3 tai2 hei3.",
+      "meaning": "I'm afraid I don't have time to accompany you to watch a movie.",
+      "sourceWordId": "hung2paa3-im-afraid",
+      "sourceWord": "恐怕",
+      "sourceWordJyutping": "hung2 paa3",
+      "sourceWordMeaning": "I’m afraid (polite refusal)",
+      "tags": [
+        "polite refusal",
+        "expression",
+        "softening",
+        "hesitation",
+        "requests and boundaries",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hung2paa3-im-afraid.json"
+    },
+    {
+      "sentenceId": "mei6bit1fong1bin6-not-convenient-example-1",
+      "sentence": "我下星期去你屋企，未必方便，你話吓得唔得？",
+      "jyutping": "ngo5 haa6 sing1 kei4 heoi3 nei5 uk1 kei2, mei6 bit1 fong1 bin6, nei5 waa6 haa5 dak1 m4 dak1?",
+      "meaning": "I might visit your place next week, but it might not be convenient; can you let me know if it's okay?",
+      "sourceWordId": "mei6bit1fong1bin6-not-convenient",
+      "sourceWord": "未必方便",
+      "sourceWordJyutping": "mei6 bit1 fong1 bin6",
+      "sourceWordMeaning": "might not be convenient",
+      "tags": [
+        "politeness",
+        "uncertainty",
+        "requests",
+        "convenience",
+        "softening expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1fong1bin6-not-convenient.json"
+    },
+    {
+      "sentenceId": "mei6bit1fong1bin6-not-convenient-example-2",
+      "sentence": "你想約我今晚食飯？未必方便呀，我有啲嘢做。",
+      "jyutping": "nei5 soeng2 joek3 ngo5 gam1 maan5 sik6 faan6? mei6 bit1 fong1 bin6 aa3, ngo5 jau5 di1 je5 zou6.",
+      "meaning": "You want to ask me to have dinner tonight? It might not be convenient; I have some things to do.",
+      "sourceWordId": "mei6bit1fong1bin6-not-convenient",
+      "sourceWord": "未必方便",
+      "sourceWordJyutping": "mei6 bit1 fong1 bin6",
+      "sourceWordMeaning": "might not be convenient",
+      "tags": [
+        "politeness",
+        "uncertainty",
+        "requests",
+        "convenience",
+        "softening expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1fong1bin6-not-convenient.json"
+    },
+    {
+      "sentenceId": "mei6bit1fong1bin6-not-convenient-example-3",
+      "sentence": "我哋可以改日傾，因為今日未必方便見面。",
+      "jyutping": "ngo5 dei6 ho2 ji5 goi2 jat6 king1, jan1 wai6 gam1 jat6 mei6 bit1 fong1 bin6 gin3 min6.",
+      "meaning": "We can chat another day because today might not be convenient for meeting.",
+      "sourceWordId": "mei6bit1fong1bin6-not-convenient",
+      "sourceWord": "未必方便",
+      "sourceWordJyutping": "mei6 bit1 fong1 bin6",
+      "sourceWordMeaning": "might not be convenient",
+      "tags": [
+        "politeness",
+        "uncertainty",
+        "requests",
+        "convenience",
+        "softening expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1fong1bin6-not-convenient.json"
+    },
+    {
+      "sentenceId": "mei6bit1fong1bin6-not-convenient-example-4",
+      "sentence": "等咗你咁耐打電話，我估你未必方便答我。",
+      "jyutping": "dang2 zo2 nei5 gam2 noi6 daa2 din6 waa2, ngo5 gu2 nei5 mei6 bit1 fong1 bin6 daap3 ngo5.",
+      "meaning": "After waiting for you for so long to call, I guess it might not be convenient for you to answer me.",
+      "sourceWordId": "mei6bit1fong1bin6-not-convenient",
+      "sourceWord": "未必方便",
+      "sourceWordJyutping": "mei6 bit1 fong1 bin6",
+      "sourceWordMeaning": "might not be convenient",
+      "tags": [
+        "politeness",
+        "uncertainty",
+        "requests",
+        "convenience",
+        "softening expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1fong1bin6-not-convenient.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time-example-1",
+      "sentence": "可唔可以畀我啲時間諗諗？",
+      "jyutping": "ho2 m4 ho2 ji5 bei2 ngo5 di1 si4 gaan3 lam2 lam2?",
+      "meaning": "Could you give me some time to think?",
+      "sourceWordId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time",
+      "sourceWord": "可唔可以畀我啲時間",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5 bei2 ngo5 di1 si4 gaan3",
+      "sourceWordMeaning": "could you give me some time",
+      "tags": [
+        "polite request",
+        "time",
+        "asking for time",
+        "formal and informal",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time-example-2",
+      "sentence": "你可唔可以畀我啲時間完成呢個任務？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bei2 ngo5 di1 si4 gaan3 wun4 sing4 ni1 go3 jam6 mou6?",
+      "meaning": "Could you give me some time to complete this task?",
+      "sourceWordId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time",
+      "sourceWord": "可唔可以畀我啲時間",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5 bei2 ngo5 di1 si4 gaan3",
+      "sourceWordMeaning": "could you give me some time",
+      "tags": [
+        "polite request",
+        "time",
+        "asking for time",
+        "formal and informal",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time-example-3",
+      "sentence": "老闆，可唔可以畀我啲時間整理資料？",
+      "jyutping": "lou5 baan2, ho2 m4 ho2 ji5 bei2 ngo5 di1 si4 gaan3 zing2 lei5 zi1 liu2?",
+      "meaning": "Boss, could you give me some time to organize the data?",
+      "sourceWordId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time",
+      "sourceWord": "可唔可以畀我啲時間",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5 bei2 ngo5 di1 si4 gaan3",
+      "sourceWordMeaning": "could you give me some time",
+      "tags": [
+        "polite request",
+        "time",
+        "asking for time",
+        "formal and informal",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time-example-4",
+      "sentence": "我可唔可以畀啲時間你考慮下？",
+      "jyutping": "ngo5 ho2 m4 ho2 ji5 bei2 di1 si4 gaan3 nei5 haau2 leoi6 haa5?",
+      "meaning": "Can I give you some time to consider?",
+      "sourceWordId": "ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time",
+      "sourceWord": "可唔可以畀我啲時間",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5 bei2 ngo5 di1 si4 gaan3",
+      "sourceWordMeaning": "could you give me some time",
+      "tags": [
+        "polite request",
+        "time",
+        "asking for time",
+        "formal and informal",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5bei2ngo5di1si4gaan3-could-give-me-some-time.json"
+    },
+    {
+      "sentenceId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think-example-1",
+      "sentence": "我需要時間諗下呢個提議先。",
+      "jyutping": "ngo5 seoi1 jiu3 si4 gaan3 nam2 haa5 ni1 go3 tai4 ji5 sin1",
+      "meaning": "I need time to think about this proposal first.",
+      "sourceWordId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think",
+      "sourceWord": "我需要時間諗下",
+      "sourceWordJyutping": "ngo5 seoi1 jiu3 si4 gaan3 nam2 haa5",
+      "sourceWordMeaning": "I need time to think",
+      "tags": [
+        "polite",
+        "request",
+        "thinking",
+        "time",
+        "decision-making",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think.json"
+    },
+    {
+      "sentenceId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think-example-2",
+      "sentence": "你講嘅嘢好重要，我需要時間諗下。",
+      "jyutping": "nei5 gong2 ge3 je5 hou2 zung6 jiu3, ngo5 seoi1 jiu3 si4 gaan3 nam2 haa5",
+      "meaning": "What you said is very important, I need time to think it over.",
+      "sourceWordId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think",
+      "sourceWord": "我需要時間諗下",
+      "sourceWordJyutping": "ngo5 seoi1 jiu3 si4 gaan3 nam2 haa5",
+      "sourceWordMeaning": "I need time to think",
+      "tags": [
+        "polite",
+        "request",
+        "thinking",
+        "time",
+        "decision-making",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think.json"
+    },
+    {
+      "sentenceId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think-example-3",
+      "sentence": "喺決定之前，我都想先需要時間諗下。",
+      "jyutping": "hai2 kyut3 ding6 zi1 cin4, ngo5 dou1 soeng2 sin1 seoi1 jiu3 si4 gaan3 nam2 haa5",
+      "meaning": "Before deciding, I also want to first take some time to think.",
+      "sourceWordId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think",
+      "sourceWord": "我需要時間諗下",
+      "sourceWordJyutping": "ngo5 seoi1 jiu3 si4 gaan3 nam2 haa5",
+      "sourceWordMeaning": "I need time to think",
+      "tags": [
+        "polite",
+        "request",
+        "thinking",
+        "time",
+        "decision-making",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think.json"
+    },
+    {
+      "sentenceId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think-example-4",
+      "sentence": "唔好急住答我，我需要時間諗下。",
+      "jyutping": "m4 hou2 gap1 zyu6 daap3 ngo5, ngo5 seoi1 jiu3 si4 gaan3 nam2 haa5",
+      "meaning": "Don't rush me to answer, I need time to think.",
+      "sourceWordId": "ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think",
+      "sourceWord": "我需要時間諗下",
+      "sourceWordJyutping": "ngo5 seoi1 jiu3 si4 gaan3 nam2 haa5",
+      "sourceWordMeaning": "I need time to think",
+      "tags": [
+        "polite",
+        "request",
+        "thinking",
+        "time",
+        "decision-making",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5seoi1jiu3si4gaan3soeng2haa5-i-need-time-to-think.json"
+    },
+    {
+      "sentenceId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet-example-1",
+      "sentence": "未必而家講得清楚，你等陣我再解釋吓。",
+      "jyutping": "mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2, nei5 dang2 zan6 ngo5 zoi3 gaai2 sik1 haa5.",
+      "meaning": "It might not be clear yet, wait a moment and I will explain it again.",
+      "sourceWordId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet",
+      "sourceWord": "未必而家講得清楚",
+      "sourceWordJyutping": "mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2",
+      "sourceWordMeaning": "it might not be clear yet",
+      "tags": [
+        "uncertainty",
+        "clarification",
+        "softener",
+        "expression",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet.json"
+    },
+    {
+      "sentenceId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet-example-2",
+      "sentence": "呢個計劃嘅細節未必而家講得清楚，要睇多啲資料。",
+      "jyutping": "ni1 go3 gai3 waak6 ge3 sai3 zit3 mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2, jiu3 tai2 do1 di1 zi1 liu2.",
+      "meaning": "The details of this plan might not be clear yet; we need to look at more information.",
+      "sourceWordId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet",
+      "sourceWord": "未必而家講得清楚",
+      "sourceWordJyutping": "mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2",
+      "sourceWordMeaning": "it might not be clear yet",
+      "tags": [
+        "uncertainty",
+        "clarification",
+        "softener",
+        "expression",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet.json"
+    },
+    {
+      "sentenceId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet-example-3",
+      "sentence": "你啱啱收到嘅消息未必而家講得清楚，等多陣先可信啲。",
+      "jyutping": "nei5 ngaam1 ngaam1 sau1 dou3 ge3 siu1 sik1 mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2, dang2 do1 zan6 sin1 ho2 seon3 di1.",
+      "meaning": "The news you just received might not be clear yet; wait a bit longer before trusting it.",
+      "sourceWordId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet",
+      "sourceWord": "未必而家講得清楚",
+      "sourceWordJyutping": "mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2",
+      "sourceWordMeaning": "it might not be clear yet",
+      "tags": [
+        "uncertainty",
+        "clarification",
+        "softener",
+        "expression",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet.json"
+    },
+    {
+      "sentenceId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet-example-4",
+      "sentence": "關於呢個問題，未必而家講得清楚，等我哋討論完先。",
+      "jyutping": "gwaan1 jyu1 ni1 go3 man6 tai4, mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2, dang2 ngo5 dei6 tou2 leon6 jyun4 sin1.",
+      "meaning": "Regarding this issue, it might not be clear yet, let's wait until we finish discussing.",
+      "sourceWordId": "mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet",
+      "sourceWord": "未必而家講得清楚",
+      "sourceWordJyutping": "mei6 bit1 ji4 gaa1 gong2 dak1 cing1 co2",
+      "sourceWordMeaning": "it might not be clear yet",
+      "tags": [
+        "uncertainty",
+        "clarification",
+        "softener",
+        "expression",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6bit1ji4gaa1gong2dak1cing1co2-might-not-be-clear-yet.json"
+    },
+    {
+      "sentenceId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you-example-1",
+      "sentence": "其實唔係針對你，我淨係覺得呢個做法未必啱。",
+      "jyutping": "kei4 sat6 m4 hai6 zam1 deoi3 nei5, ngo5 zing6 hai6 gok3 dak1 ni1 go3 zou6 faat3 mei6 bit1 aam1.",
+      "meaning": "It's actually not directed at you, I just feel this method might not be right.",
+      "sourceWordId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you",
+      "sourceWord": "其實唔係針對你",
+      "sourceWordJyutping": "kei4 sat6 m4 hai6 zam1 deoi3 nei5",
+      "sourceWordMeaning": "it’s not directed at you",
+      "tags": [
+        "managing_conflict",
+        "clarification",
+        "politeness",
+        "softening",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you.json"
+    },
+    {
+      "sentenceId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you-example-2",
+      "sentence": "你唔好誤會， 其實唔係針對你，只係大家意見唔同。",
+      "jyutping": "nei5 m4 hou2 ng6 wui6, kei4 sat6 m4 hai6 zam1 deoi3 nei5, zi2 hai6 daai6 gaa1 ji3 gin3 m4 tung4.",
+      "meaning": "Don't misunderstand, it's not directed at you, it's just that everyone's opinions differ.",
+      "sourceWordId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you",
+      "sourceWord": "其實唔係針對你",
+      "sourceWordJyutping": "kei4 sat6 m4 hai6 zam1 deoi3 nei5",
+      "sourceWordMeaning": "it’s not directed at you",
+      "tags": [
+        "managing_conflict",
+        "clarification",
+        "politeness",
+        "softening",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you.json"
+    },
+    {
+      "sentenceId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you-example-3",
+      "sentence": "喺會議上講嘅嘢， 其實唔係針對你，只係想表達我哋嘅立場。",
+      "jyutping": "hai2 wui6 ji5 soeng5 gong2 ge3 je5, kei4 sat6 m4 hai6 zam1 deoi3 nei5, zi2 hai6 soeng2 biu2 daat6 ngo5 dei6 ge3 laap6 coeng4.",
+      "meaning": "What I said in the meeting was not actually directed at you, just wanted to express our position.",
+      "sourceWordId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you",
+      "sourceWord": "其實唔係針對你",
+      "sourceWordJyutping": "kei4 sat6 m4 hai6 zam1 deoi3 nei5",
+      "sourceWordMeaning": "it’s not directed at you",
+      "tags": [
+        "managing_conflict",
+        "clarification",
+        "politeness",
+        "softening",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you.json"
+    },
+    {
+      "sentenceId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you-example-4",
+      "sentence": "其實唔係針對你，我哋只係希望改進工作流程。",
+      "jyutping": "kei4 sat6 m4 hai6 zam1 deoi3 nei5, ngo5 dei6 zi2 hai6 hei1 mong6 goi2 zeon3 gung1 zok3 lau4 cing4.",
+      "meaning": "It’s not directed at you, we just hope to improve the work process.",
+      "sourceWordId": "kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you",
+      "sourceWord": "其實唔係針對你",
+      "sourceWordJyutping": "kei4 sat6 m4 hai6 zam1 deoi3 nei5",
+      "sourceWordMeaning": "it’s not directed at you",
+      "tags": [
+        "managing_conflict",
+        "clarification",
+        "politeness",
+        "softening",
+        "feedback",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/kei4sat6m4hai6zam1deoi3nei5-not-directed-at-you.json"
+    },
+    {
+      "sentenceId": "daa6gaa1laang5zing6di1-calm-down-example-1",
+      "sentence": "大家冷靜啲，我哋慢慢傾。",
+      "jyutping": "daa6 gaa1 laang5 zing6 di1, ngo5 dei6 maan6 maan6 king1.",
+      "meaning": "Let's all calm down and talk slowly.",
+      "sourceWordId": "daa6gaa1laang5zing6di1-calm-down",
+      "sourceWord": "大家冷靜啲",
+      "sourceWordJyutping": "daa6 gaa1 laang5 zing6 di1",
+      "sourceWordMeaning": "let’s all calm down",
+      "tags": [
+        "managing_conflict",
+        "calming_down",
+        "group_expression",
+        "politeness",
+        "emotional_control",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1laang5zing6di1-calm-down.json"
+    },
+    {
+      "sentenceId": "daa6gaa1laang5zing6di1-calm-down-example-2",
+      "sentence": "吵咁大聲，大家冷靜啲啦。",
+      "jyutping": "caau2 gam3 daai6 seng1, daa6 gaa1 laang5 zing6 di1 laa1.",
+      "meaning": "It's so noisy, everyone please calm down.",
+      "sourceWordId": "daa6gaa1laang5zing6di1-calm-down",
+      "sourceWord": "大家冷靜啲",
+      "sourceWordJyutping": "daa6 gaa1 laang5 zing6 di1",
+      "sourceWordMeaning": "let’s all calm down",
+      "tags": [
+        "managing_conflict",
+        "calming_down",
+        "group_expression",
+        "politeness",
+        "emotional_control",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1laang5zing6di1-calm-down.json"
+    },
+    {
+      "sentenceId": "daa6gaa1laang5zing6di1-calm-down-example-3",
+      "sentence": "發生咩事？大家冷靜啲，唔好驚。",
+      "jyutping": "faat3 sang1 me1 si6? daa6 gaa1 laang5 zing6 di1, m4 hou2 geng1.",
+      "meaning": "What happened? Let's all calm down, don't be scared.",
+      "sourceWordId": "daa6gaa1laang5zing6di1-calm-down",
+      "sourceWord": "大家冷靜啲",
+      "sourceWordJyutping": "daa6 gaa1 laang5 zing6 di1",
+      "sourceWordMeaning": "let’s all calm down",
+      "tags": [
+        "managing_conflict",
+        "calming_down",
+        "group_expression",
+        "politeness",
+        "emotional_control",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1laang5zing6di1-calm-down.json"
+    },
+    {
+      "sentenceId": "daa6gaa1laang5zing6di1-calm-down-example-4",
+      "sentence": "入面好亂，大家冷靜啲先入去。",
+      "jyutping": "jap6 min6 hou2 lyun6, daa6 gaa1 laang5 zing6 di1 sin1 jap6 heoi3.",
+      "meaning": "It's very chaotic inside, everyone calm down before entering.",
+      "sourceWordId": "daa6gaa1laang5zing6di1-calm-down",
+      "sourceWord": "大家冷靜啲",
+      "sourceWordJyutping": "daa6 gaa1 laang5 zing6 di1",
+      "sourceWordMeaning": "let’s all calm down",
+      "tags": [
+        "managing_conflict",
+        "calming_down",
+        "group_expression",
+        "politeness",
+        "emotional_control",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1laang5zing6di1-calm-down.json"
+    },
+    {
+      "sentenceId": "maan6maan6gong2-talk-it-through-example-1",
+      "sentence": "你而家唔好激動，慢慢講我哋點解會有誤會。",
+      "jyutping": "nei5 ji4 gaa1 m4 hou2 gik1 dung6, maan6 maan6 gong2 ngo5 dei6 dim2 gaai2 wui5 jau5 ng6 wui6.",
+      "meaning": "Don't get upset now, let's calmly talk through why there's a misunderstanding.",
+      "sourceWordId": "maan6maan6gong2-talk-it-through",
+      "sourceWord": "慢慢講",
+      "sourceWordJyutping": "maan6 maan6 gong2",
+      "sourceWordMeaning": "let’s talk it through",
+      "tags": [
+        "managing conflict",
+        "communication",
+        "calm discussion",
+        "problem solving",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6gong2-talk-it-through.json"
+    },
+    {
+      "sentenceId": "maan6maan6gong2-talk-it-through-example-2",
+      "sentence": "有問題我哋慢慢講，唔好一齊爆燈。",
+      "jyutping": "jau5 man6 tai4 ngo5 dei6 maan6 maan6 gong2, m4 hou2 jat1 cai4 baau3 dang1.",
+      "meaning": "If there’s a problem, let's talk it through slowly, don't blow up together.",
+      "sourceWordId": "maan6maan6gong2-talk-it-through",
+      "sourceWord": "慢慢講",
+      "sourceWordJyutping": "maan6 maan6 gong2",
+      "sourceWordMeaning": "let’s talk it through",
+      "tags": [
+        "managing conflict",
+        "communication",
+        "calm discussion",
+        "problem solving",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6gong2-talk-it-through.json"
+    },
+    {
+      "sentenceId": "maan6maan6gong2-talk-it-through-example-3",
+      "sentence": "你有咩疑問我可以慢慢講清楚。",
+      "jyutping": "nei5 jau5 me1 ji4 man6 ngo5 ho2 ji5 maan6 maan6 gong2 cing1 co2.",
+      "meaning": "If you have any doubts, I can explain clearly by talking it through.",
+      "sourceWordId": "maan6maan6gong2-talk-it-through",
+      "sourceWord": "慢慢講",
+      "sourceWordJyutping": "maan6 maan6 gong2",
+      "sourceWordMeaning": "let’s talk it through",
+      "tags": [
+        "managing conflict",
+        "communication",
+        "calm discussion",
+        "problem solving",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6gong2-talk-it-through.json"
+    },
+    {
+      "sentenceId": "maan6maan6gong2-talk-it-through-example-4",
+      "sentence": "我哋先坐低，慢慢講吓點樣解決問題。",
+      "jyutping": "ngo5 dei6 sin1 co5 dai1, maan6 maan6 gong2 haa5 dim2 joeng6 gaai2 kyut3 man6 tai4.",
+      "meaning": "Let's sit down first and talk it through slowly on how to solve the problem.",
+      "sourceWordId": "maan6maan6gong2-talk-it-through",
+      "sourceWord": "慢慢講",
+      "sourceWordJyutping": "maan6 maan6 gong2",
+      "sourceWordMeaning": "let’s talk it through",
+      "tags": [
+        "managing conflict",
+        "communication",
+        "calm discussion",
+        "problem solving",
+        "expressions",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6gong2-talk-it-through.json"
+    },
+    {
+      "sentenceId": "m4soeng2gaau2dou3gam3-didnt-want-this-example-1",
+      "sentence": "我真係唔想搞到咁，大家一齊冷靜吓好唔好？",
+      "jyutping": "ngo5 zan1 hai6 m4 soeng2 gaau2 dou3 gam3, daai6 gaa1 jat1 cai4 laang5 zing6 haa5 hou2 m4 hou2?",
+      "meaning": "I really didn't want it to turn out like this; can we all calm down together?",
+      "sourceWordId": "m4soeng2gaau2dou3gam3-didnt-want-this",
+      "sourceWord": "唔想搞到咁",
+      "sourceWordJyutping": "m4 soeng2 gaau2 dou3 gam3",
+      "sourceWordMeaning": "I didn’t want it to turn out like this",
+      "tags": [
+        "advanced",
+        "managing_conflict",
+        "expression",
+        "spoken_cantonese",
+        "regret",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4soeng2gaau2dou3gam3-didnt-want-this.json"
+    },
+    {
+      "sentenceId": "m4soeng2gaau2dou3gam3-didnt-want-this-example-2",
+      "sentence": "唔想搞到咁錯嘅，但係有時候事情都發展得好快。",
+      "jyutping": "m4 soeng2 gaau2 dou3 gam3 co3 ge3, daan6 hai6 jau5 si4 hau6 si6 cing4 dou1 faat3 zin2 dak1 hou2 faai3.",
+      "meaning": "I didn’t want it to end up like this, but sometimes things just develop quickly.",
+      "sourceWordId": "m4soeng2gaau2dou3gam3-didnt-want-this",
+      "sourceWord": "唔想搞到咁",
+      "sourceWordJyutping": "m4 soeng2 gaau2 dou3 gam3",
+      "sourceWordMeaning": "I didn’t want it to turn out like this",
+      "tags": [
+        "advanced",
+        "managing_conflict",
+        "expression",
+        "spoken_cantonese",
+        "regret",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4soeng2gaau2dou3gam3-didnt-want-this.json"
+    },
+    {
+      "sentenceId": "m4soeng2gaau2dou3gam3-didnt-want-this-example-3",
+      "sentence": "如果唔講清楚，真係唔想搞到咁尷尬啫。",
+      "jyutping": "jyu4 gwo2 m4 gong2 cing1 co2, zan1 hai6 m4 soeng2 gaau2 dou3 gam3 gaan1 gaa3 ze1.",
+      "meaning": "If we don’t clarify, I really don’t want it to get so awkward.",
+      "sourceWordId": "m4soeng2gaau2dou3gam3-didnt-want-this",
+      "sourceWord": "唔想搞到咁",
+      "sourceWordJyutping": "m4 soeng2 gaau2 dou3 gam3",
+      "sourceWordMeaning": "I didn’t want it to turn out like this",
+      "tags": [
+        "advanced",
+        "managing_conflict",
+        "expression",
+        "spoken_cantonese",
+        "regret",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4soeng2gaau2dou3gam3-didnt-want-this.json"
+    },
+    {
+      "sentenceId": "m4soeng2gaau2dou3gam3-didnt-want-this-example-4",
+      "sentence": "我哋原本只係傾下計，唔想搞到咁嚴重。",
+      "jyutping": "ngo5 dei6 jyun4 bun2 zi2 hai6 king1 haa5 gai2, m4 soeng2 gaau2 dou3 gam3 jim4 zung6.",
+      "meaning": "We originally were just chatting; I didn’t want it to get so serious.",
+      "sourceWordId": "m4soeng2gaau2dou3gam3-didnt-want-this",
+      "sourceWord": "唔想搞到咁",
+      "sourceWordJyutping": "m4 soeng2 gaau2 dou3 gam3",
+      "sourceWordMeaning": "I didn’t want it to turn out like this",
+      "tags": [
+        "advanced",
+        "managing_conflict",
+        "expression",
+        "spoken_cantonese",
+        "regret",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4soeng2gaau2dou3gam3-didnt-want-this.json"
+    },
+    {
+      "sentenceId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons-example-1",
+      "sentence": "大家都有原因，唔好淨係責怪佢。",
+      "jyutping": "daa6 gaa1 dou1 jau5 jyun4 jan1, m4 hou2 zing6 hai6 zaak3 gwaai3 keoi5.",
+      "meaning": "Everyone has their reasons, so don't just blame him.",
+      "sourceWordId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons",
+      "sourceWord": "大家都有原因",
+      "sourceWordJyutping": "daa6 gaa1 dou1 jau5 jyun4 jan1",
+      "sourceWordMeaning": "everyone has their reasons",
+      "tags": [
+        "conflict_resolution",
+        "empathy",
+        "understanding",
+        "tolerance",
+        "interpersonal_communication",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons.json"
+    },
+    {
+      "sentenceId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons-example-2",
+      "sentence": "跟佢講呀啦，大家都有原因，應該試下理解吓。",
+      "jyutping": "gan1 keoi5 gong2 aa3 laa1, daa6 gaa1 dou1 jau5 jyun4 jan1, jing1 goi1 si3 haa5 lei5 gaai2 haa5.",
+      "meaning": "Tell him, everyone has their reasons, we should try to understand a bit.",
+      "sourceWordId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons",
+      "sourceWord": "大家都有原因",
+      "sourceWordJyutping": "daa6 gaa1 dou1 jau5 jyun4 jan1",
+      "sourceWordMeaning": "everyone has their reasons",
+      "tags": [
+        "conflict_resolution",
+        "empathy",
+        "understanding",
+        "tolerance",
+        "interpersonal_communication",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons.json"
+    },
+    {
+      "sentenceId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons-example-3",
+      "sentence": "即使意見唔同，都要記住大家都有原因。",
+      "jyutping": "zik1 si2 ji3 gin3 m4 tung4, dou1 jiu3 gei3 zyu6 daa6 gaa1 dou1 jau5 jyun4 jan1.",
+      "meaning": "Even if opinions differ, remember that everyone has their reasons.",
+      "sourceWordId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons",
+      "sourceWord": "大家都有原因",
+      "sourceWordJyutping": "daa6 gaa1 dou1 jau5 jyun4 jan1",
+      "sourceWordMeaning": "everyone has their reasons",
+      "tags": [
+        "conflict_resolution",
+        "empathy",
+        "understanding",
+        "tolerance",
+        "interpersonal_communication",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons.json"
+    },
+    {
+      "sentenceId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons-example-4",
+      "sentence": "處理衝突時，要謹記大家都有原因，唔好太快評判。",
+      "jyutping": "cyu3 lei5 cung1 dat6 si4, jiu3 gan2 gei3 daa6 gaa1 dou1 jau5 jyun4 jan1, m4 hou2 taai3 faai3 ping4 pun3.",
+      "meaning": "When handling conflicts, remember everyone has their reasons; don't judge too quickly.",
+      "sourceWordId": "daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons",
+      "sourceWord": "大家都有原因",
+      "sourceWordJyutping": "daa6 gaa1 dou1 jau5 jyun4 jan1",
+      "sourceWordMeaning": "everyone has their reasons",
+      "tags": [
+        "conflict_resolution",
+        "empathy",
+        "understanding",
+        "tolerance",
+        "interpersonal_communication",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/daa6gaa1dou1jau5jyun4jan1-everyone-has-reasons.json"
+    },
+    {
+      "sentenceId": "m4hou2ng6wui6-dont-get-me-wrong-example-1",
+      "sentence": "唔好誤會，我唔係針對你，淨係想提出啲建議。",
+      "jyutping": "m4 hou2 ng6 wui6, ngo5 m4 hai6 zam1 deoi3 nei5, zing6 hai6 soeng2 tai4 ceot1 di1 gin3 ji5.",
+      "meaning": "Don't get me wrong, I'm not targeting you; I just want to offer some suggestions.",
+      "sourceWordId": "m4hou2ng6wui6-dont-get-me-wrong",
+      "sourceWord": "唔好誤會",
+      "sourceWordJyutping": "m4 hou2 ng6 wui6",
+      "sourceWordMeaning": "don’t get me wrong / please don’t misunderstand",
+      "tags": [
+        "expression",
+        "politeness",
+        "clarification",
+        "conflict_management",
+        "spoken_Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ng6wui6-dont-get-me-wrong.json"
+    },
+    {
+      "sentenceId": "m4hou2ng6wui6-dont-get-me-wrong-example-2",
+      "sentence": "我講呢個唔係批評你，唔好誤會啊。",
+      "jyutping": "ngo5 gong2 ni1 go3 m4 hai6 pai1 ping4 nei5, m4 hou2 ng6 wui6 aa3.",
+      "meaning": "I'm not criticizing you when I say this, please don't misunderstand.",
+      "sourceWordId": "m4hou2ng6wui6-dont-get-me-wrong",
+      "sourceWord": "唔好誤會",
+      "sourceWordJyutping": "m4 hou2 ng6 wui6",
+      "sourceWordMeaning": "don’t get me wrong / please don’t misunderstand",
+      "tags": [
+        "expression",
+        "politeness",
+        "clarification",
+        "conflict_management",
+        "spoken_Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ng6wui6-dont-get-me-wrong.json"
+    },
+    {
+      "sentenceId": "m4hou2ng6wui6-dont-get-me-wrong-example-3",
+      "sentence": "唔好誤會，我嘅意思係我哋需要更多時間嚟完成。",
+      "jyutping": "m4 hou2 ng6 wui6, ngo5 ge3 ji3 si1 hai6 ngo5 dei6 seoi1 jiu3 gang1 do1 si4 gaan3 lai4 jyun4 sing4.",
+      "meaning": "Don't get me wrong, what I mean is that we need more time to complete it.",
+      "sourceWordId": "m4hou2ng6wui6-dont-get-me-wrong",
+      "sourceWord": "唔好誤會",
+      "sourceWordJyutping": "m4 hou2 ng6 wui6",
+      "sourceWordMeaning": "don’t get me wrong / please don’t misunderstand",
+      "tags": [
+        "expression",
+        "politeness",
+        "clarification",
+        "conflict_management",
+        "spoken_Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ng6wui6-dont-get-me-wrong.json"
+    },
+    {
+      "sentenceId": "m4hou2ng6wui6-dont-get-me-wrong-example-4",
+      "sentence": "你唔好誤會，我冇任何惡意，只係想幫忙啫。",
+      "jyutping": "nei5 m4 hou2 ng6 wui6, ngo5 mou5 jam6 ho4 ok3 ji3, zi2 hai6 soeng2 bong1 mong4 je1.",
+      "meaning": "Please don't get me wrong, I have no ill intentions, I just want to help.",
+      "sourceWordId": "m4hou2ng6wui6-dont-get-me-wrong",
+      "sourceWord": "唔好誤會",
+      "sourceWordJyutping": "m4 hou2 ng6 wui6",
+      "sourceWordMeaning": "don’t get me wrong / please don’t misunderstand",
+      "tags": [
+        "expression",
+        "politeness",
+        "clarification",
+        "conflict_management",
+        "spoken_Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ng6wui6-dont-get-me-wrong.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble-example-1",
+      "sentence": "我唔係想搞事，我只係想講清楚啲。",
+      "jyutping": "ngo5 m4 hai6 soeng2 gaau2 si6, ngo5 zi2 hai6 soeng2 gong2 cing1 co2 di1.",
+      "meaning": "I'm not trying to cause trouble, I just want to clarify things.",
+      "sourceWordId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble",
+      "sourceWord": "我唔係想搞事",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 gaau2 si6",
+      "sourceWordMeaning": "I’m not trying to cause trouble",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "expression",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble-example-2",
+      "sentence": "放心啦，我真係我唔係想搞事。",
+      "jyutping": "fong3 sam1 laa1, ngo5 zan1 hai6 ngo5 m4 hai6 soeng2 gaau2 si6.",
+      "meaning": "Don't worry, I really am not trying to cause any trouble.",
+      "sourceWordId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble",
+      "sourceWord": "我唔係想搞事",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 gaau2 si6",
+      "sourceWordMeaning": "I’m not trying to cause trouble",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "expression",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble-example-3",
+      "sentence": "我話嘅嘢唔係針對任何人，我唔係想搞事。",
+      "jyutping": "ngo5 waa6 ge3 je5 m4 hai6 zam1 deoi3 jam6 ho4 jan4, ngo5 m4 hai6 soeng2 gaau2 si6.",
+      "meaning": "What I said is not directed at anyone, I’m not trying to cause trouble.",
+      "sourceWordId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble",
+      "sourceWord": "我唔係想搞事",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 gaau2 si6",
+      "sourceWordMeaning": "I’m not trying to cause trouble",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "expression",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble-example-4",
+      "sentence": "如果我講嘢錯咗，你知我唔係想搞事呀。",
+      "jyutping": "jyu4 gwo2 ngo5 gong2 je5 co3 zo2, nei5 zi1 ngo5 m4 hai6 soeng2 gaau2 si6 aa3.",
+      "meaning": "If I said something wrong, you know I’m not trying to cause trouble.",
+      "sourceWordId": "ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble",
+      "sourceWord": "我唔係想搞事",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 gaau2 si6",
+      "sourceWordMeaning": "I’m not trying to cause trouble",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "expression",
+        "politeness",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2gaau2si6-not-trying-to-cause-trouble.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated-example-1",
+      "sentence": "我唔係想令事情複雜，但我覺得我哋應該澄清一下。",
+      "jyutping": "ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6, daan6 ngo5 gok3 dak1 ngo5 dei6 jing1 goi1 cing4 cing1 jat1 haa5.",
+      "meaning": "I'm not trying to complicate things, but I think we should clarify a bit.",
+      "sourceWordId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated",
+      "sourceWord": "我唔係想令事情複雜",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6",
+      "sourceWordMeaning": "I’m not trying to complicate things",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "politeness",
+        "reassurance",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated-example-2",
+      "sentence": "你聽住，我真係我唔係想令事情複雜，淨係想大家明白啫。",
+      "jyutping": "nei5 teng1 zyu6, ngo5 zan1 hai6 ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6, zing6 hai6 soeng2 daai6 gaa1 ming4 baak6 ze1.",
+      "meaning": "Listen, I really am not trying to complicate things, I just want everyone to understand.",
+      "sourceWordId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated",
+      "sourceWord": "我唔係想令事情複雜",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6",
+      "sourceWordMeaning": "I’m not trying to complicate things",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "politeness",
+        "reassurance",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated-example-3",
+      "sentence": "喺呢個會議上，我唔係想令事情複雜，只係想提出啲問題。",
+      "jyutping": "hai2 ni1 go3 wui6 ji5 soeng6, ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6, zi2 hai6 soeng2 tai4 ceot1 di1 man6 tai4.",
+      "meaning": "In this meeting, I'm not trying to complicate things, I just want to raise some questions.",
+      "sourceWordId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated",
+      "sourceWord": "我唔係想令事情複雜",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6",
+      "sourceWordMeaning": "I’m not trying to complicate things",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "politeness",
+        "reassurance",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated.json"
+    },
+    {
+      "sentenceId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated-example-4",
+      "sentence": "你唔使擔心，我講呢句，只係因為我唔係想令事情複雜。",
+      "jyutping": "nei5 m4 sai2 daam1 sam1, ngo5 gong2 ni1 geoi3, zing6 hai6 jan1 wai6 ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6.",
+      "meaning": "You don't have to worry, I'm saying this only because I'm not trying to complicate things.",
+      "sourceWordId": "ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated",
+      "sourceWord": "我唔係想令事情複雜",
+      "sourceWordJyutping": "ngo5 m4 hai6 soeng2 ling6 si6 cing4 fuk1 zaap6",
+      "sourceWordMeaning": "I’m not trying to complicate things",
+      "tags": [
+        "conflict management",
+        "clarification",
+        "politeness",
+        "reassurance",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5m4hai6soeng2ling6si6cing4fuk1zaap6-try-not-to-make-things-complicated.json"
+    },
+    {
+      "sentenceId": "maan6maan6king1-discuss-calmly-example-1",
+      "sentence": "呢件事我哋慢慢傾，唔好急住決定。",
+      "jyutping": "ni1 gin6 si6 ngo5 dei6 maan6 maan6 king1, m4 hou2 gap1 zyu6 kyut3 ding6.",
+      "meaning": "Let's discuss this matter calmly, don't rush to decide.",
+      "sourceWordId": "maan6maan6king1-discuss-calmly",
+      "sourceWord": "慢慢傾",
+      "sourceWordJyutping": "maan6 maan6 king1",
+      "sourceWordMeaning": "let’s discuss calmly",
+      "tags": [
+        "managing_conflict",
+        "calm_discussion",
+        "polite_expression",
+        "conversation",
+        "emotion_management",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6king1-discuss-calmly.json"
+    },
+    {
+      "sentenceId": "maan6maan6king1-discuss-calmly-example-2",
+      "sentence": "發生咩事？慢慢傾，唔使驚。",
+      "jyutping": "faat3 sang1 me1 si6? maan6 maan6 king1, m4 sai2 geng1.",
+      "meaning": "What happened? Let's talk calmly, no need to be afraid.",
+      "sourceWordId": "maan6maan6king1-discuss-calmly",
+      "sourceWord": "慢慢傾",
+      "sourceWordJyutping": "maan6 maan6 king1",
+      "sourceWordMeaning": "let’s discuss calmly",
+      "tags": [
+        "managing_conflict",
+        "calm_discussion",
+        "polite_expression",
+        "conversation",
+        "emotion_management",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6king1-discuss-calmly.json"
+    },
+    {
+      "sentenceId": "maan6maan6king1-discuss-calmly-example-3",
+      "sentence": "我哋唔好爭嘈，慢慢傾先。",
+      "jyutping": "ngo5 dei6 m4 hou2 zeng1 cou4, maan6 maan6 king1 sin1.",
+      "meaning": "Let's not argue, let's discuss calmly first.",
+      "sourceWordId": "maan6maan6king1-discuss-calmly",
+      "sourceWord": "慢慢傾",
+      "sourceWordJyutping": "maan6 maan6 king1",
+      "sourceWordMeaning": "let’s discuss calmly",
+      "tags": [
+        "managing_conflict",
+        "calm_discussion",
+        "polite_expression",
+        "conversation",
+        "emotion_management",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6king1-discuss-calmly.json"
+    },
+    {
+      "sentenceId": "maan6maan6king1-discuss-calmly-example-4",
+      "sentence": "處理問題時，最好係慢慢傾嘅方式。",
+      "jyutping": "cyu2 lei5 man6 tai4 si4, zeoi3 hou2 hai6 maan6 maan6 king1 ge3 fong1 sik1.",
+      "meaning": "When dealing with problems, the best way is to discuss calmly.",
+      "sourceWordId": "maan6maan6king1-discuss-calmly",
+      "sourceWord": "慢慢傾",
+      "sourceWordJyutping": "maan6 maan6 king1",
+      "sourceWordMeaning": "let’s discuss calmly",
+      "tags": [
+        "managing_conflict",
+        "calm_discussion",
+        "polite_expression",
+        "conversation",
+        "emotion_management",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/maan6maan6king1-discuss-calmly.json"
+    },
+    {
+      "sentenceId": "ngo5dou1jing6tung4-i-also-agree-example-1",
+      "sentence": "我都認同你講嘅意見。",
+      "jyutping": "ngo5 dou1 jing6 tung4 nei5 gong2 ge3 ji3 gin3.",
+      "meaning": "I also agree with the opinion you expressed.",
+      "sourceWordId": "ngo5dou1jing6tung4-i-also-agree",
+      "sourceWord": "我都認同",
+      "sourceWordJyutping": "ngo5 dou1 jing6 tung4",
+      "sourceWordMeaning": "I also agree",
+      "tags": [
+        "agreement",
+        "expression",
+        "phrase",
+        "conversation",
+        "alignment",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1jing6tung4-i-also-agree.json"
+    },
+    {
+      "sentenceId": "ngo5dou1jing6tung4-i-also-agree-example-2",
+      "sentence": "佢認為呢個方案好，我都認同。",
+      "jyutping": "keoi5 jing6 wai4 ni1 go3 fong1 on3 hou2, ngo5 dou1 jing6 tung4.",
+      "meaning": "He thinks this plan is good, and I also agree.",
+      "sourceWordId": "ngo5dou1jing6tung4-i-also-agree",
+      "sourceWord": "我都認同",
+      "sourceWordJyutping": "ngo5 dou1 jing6 tung4",
+      "sourceWordMeaning": "I also agree",
+      "tags": [
+        "agreement",
+        "expression",
+        "phrase",
+        "conversation",
+        "alignment",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1jing6tung4-i-also-agree.json"
+    },
+    {
+      "sentenceId": "ngo5dou1jing6tung4-i-also-agree-example-3",
+      "sentence": "關於呢件事，我都認同你嘅睇法。",
+      "jyutping": "gwaan1 jyu1 ni1 gin6 si6, ngo5 dou1 jing6 tung4 nei5 ge3 tai2 faat3.",
+      "meaning": "Regarding this matter, I also agree with your viewpoint.",
+      "sourceWordId": "ngo5dou1jing6tung4-i-also-agree",
+      "sourceWord": "我都認同",
+      "sourceWordJyutping": "ngo5 dou1 jing6 tung4",
+      "sourceWordMeaning": "I also agree",
+      "tags": [
+        "agreement",
+        "expression",
+        "phrase",
+        "conversation",
+        "alignment",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1jing6tung4-i-also-agree.json"
+    },
+    {
+      "sentenceId": "ngo5dou1jing6tung4-i-also-agree-example-4",
+      "sentence": "大家都提出咗唔同嘅意見，我都認同呢個建議。",
+      "jyutping": "daai6 gaa1 dou1 tai4 ceot1 zo2 m4 tung4 ge3 ji3 gin3, ngo5 dou1 jing6 tung4 ni1 go3 gin3 ji5.",
+      "meaning": "Everyone put forward different opinions, and I also agree with this suggestion.",
+      "sourceWordId": "ngo5dou1jing6tung4-i-also-agree",
+      "sourceWord": "我都認同",
+      "sourceWordJyutping": "ngo5 dou1 jing6 tung4",
+      "sourceWordMeaning": "I also agree",
+      "tags": [
+        "agreement",
+        "expression",
+        "phrase",
+        "conversation",
+        "alignment",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1jing6tung4-i-also-agree.json"
+    },
+    {
+      "sentenceId": "gong2dak1ngaam1-youre-right-example-1",
+      "sentence": "你講得啱，我都係咁諗。",
+      "jyutping": "nei5 gong2 dak1 ngaam1, ngo5 dou1 hai6 gam2 lam2.",
+      "meaning": "You’re right, I think the same.",
+      "sourceWordId": "gong2dak1ngaam1-youre-right",
+      "sourceWord": "講得啱",
+      "sourceWordJyutping": "gong2 dak1 ngaam1",
+      "sourceWordMeaning": "that makes sense / you’re right",
+      "tags": [
+        "agreement",
+        "validation",
+        "conversation",
+        "casual",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gong2dak1ngaam1-youre-right.json"
+    },
+    {
+      "sentenceId": "gong2dak1ngaam1-youre-right-example-2",
+      "sentence": "噉做真係講得啱，咁先有效率。",
+      "jyutping": "gam2 zou6 zan1 hai6 gong2 dak1 ngaam1, gam2 sin1 jau5 haau6 leot6.",
+      "meaning": "Doing it this way really makes sense; it’s more efficient.",
+      "sourceWordId": "gong2dak1ngaam1-youre-right",
+      "sourceWord": "講得啱",
+      "sourceWordJyutping": "gong2 dak1 ngaam1",
+      "sourceWordMeaning": "that makes sense / you’re right",
+      "tags": [
+        "agreement",
+        "validation",
+        "conversation",
+        "casual",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gong2dak1ngaam1-youre-right.json"
+    },
+    {
+      "sentenceId": "gong2dak1ngaam1-youre-right-example-3",
+      "sentence": "佢講得啱，我哋應該接受佢嘅建議。",
+      "jyutping": "keoi5 gong2 dak1 ngaam1, ngo5 dei6 jing1 goi1 zip3 sau6 keoi5 ge3 gin3 ji5.",
+      "meaning": "He’s right, we should accept his suggestion.",
+      "sourceWordId": "gong2dak1ngaam1-youre-right",
+      "sourceWord": "講得啱",
+      "sourceWordJyutping": "gong2 dak1 ngaam1",
+      "sourceWordMeaning": "that makes sense / you’re right",
+      "tags": [
+        "agreement",
+        "validation",
+        "conversation",
+        "casual",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gong2dak1ngaam1-youre-right.json"
+    },
+    {
+      "sentenceId": "gong2dak1ngaam1-youre-right-example-4",
+      "sentence": "唔好介意，我只係覺得你講得啱啫。",
+      "jyutping": "m4 hou2 gaai3 ji3, ngo5 zi2 hai6 gok3 dak1 nei5 gong2 dak1 ngaam1 ze1.",
+      "meaning": "Don’t mind me, I just think you’re right.",
+      "sourceWordId": "gong2dak1ngaam1-youre-right",
+      "sourceWord": "講得啱",
+      "sourceWordJyutping": "gong2 dak1 ngaam1",
+      "sourceWordMeaning": "that makes sense / you’re right",
+      "tags": [
+        "agreement",
+        "validation",
+        "conversation",
+        "casual",
+        "expression",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gong2dak1ngaam1-youre-right.json"
+    },
+    {
+      "sentenceId": "ngo5dou1gok3dak1-i-feel-the-same-example-1",
+      "sentence": "你講得啱，我都覺得咁樣做最好。",
+      "jyutping": "nei5 gong2 dak1 aap3, ngo5 dou1 gok3 dak1 gam2 joeng6 zou6 zeoi3 hou2.",
+      "meaning": "What you said is right, I think doing it this way is best too.",
+      "sourceWordId": "ngo5dou1gok3dak1-i-feel-the-same",
+      "sourceWord": "我都覺得",
+      "sourceWordJyutping": "ngo5 dou1 gok3 dak1",
+      "sourceWordMeaning": "I think so too",
+      "tags": [
+        "agreement",
+        "expression",
+        "concurrence",
+        "conversation",
+        "colloquial",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1gok3dak1-i-feel-the-same.json"
+    },
+    {
+      "sentenceId": "ngo5dou1gok3dak1-i-feel-the-same-example-2",
+      "sentence": "佢話嗰部電影好睇，我都覺得非常精彩。",
+      "jyutping": "keoi5 waa6 go2 bou6 din6 jing2 hou2 tai2, ngo5 dou1 gok3 dak1 fei1 soeng4 zing1 coi2.",
+      "meaning": "He said that movie was good, I think it was very exciting too.",
+      "sourceWordId": "ngo5dou1gok3dak1-i-feel-the-same",
+      "sourceWord": "我都覺得",
+      "sourceWordJyutping": "ngo5 dou1 gok3 dak1",
+      "sourceWordMeaning": "I think so too",
+      "tags": [
+        "agreement",
+        "expression",
+        "concurrence",
+        "conversation",
+        "colloquial",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1gok3dak1-i-feel-the-same.json"
+    },
+    {
+      "sentenceId": "ngo5dou1gok3dak1-i-feel-the-same-example-3",
+      "sentence": "關於呢個計劃，我都覺得需要再傾下。",
+      "jyutping": "gwaan1 jyu1 ni1 go3 gai3 waak6, ngo5 dou1 gok3 dak1 seoi1 jiu3 zoi3 king1 haa5.",
+      "meaning": "Regarding this plan, I think it needs further discussion too.",
+      "sourceWordId": "ngo5dou1gok3dak1-i-feel-the-same",
+      "sourceWord": "我都覺得",
+      "sourceWordJyutping": "ngo5 dou1 gok3 dak1",
+      "sourceWordMeaning": "I think so too",
+      "tags": [
+        "agreement",
+        "expression",
+        "concurrence",
+        "conversation",
+        "colloquial",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1gok3dak1-i-feel-the-same.json"
+    },
+    {
+      "sentenceId": "ngo5dou1gok3dak1-i-feel-the-same-example-4",
+      "sentence": "如果你覺得唔方便，我都覺得可以改日再約。",
+      "jyutping": "jyu4 gwo2 nei5 gok3 dak1 m4 fong1 bin6, ngo5 dou1 gok3 dak1 ho2 ji5 goi2 jat6 zoi3 joek3.",
+      "meaning": "If you feel it’s inconvenient, I think we can arrange another day too.",
+      "sourceWordId": "ngo5dou1gok3dak1-i-feel-the-same",
+      "sourceWord": "我都覺得",
+      "sourceWordJyutping": "ngo5 dou1 gok3 dak1",
+      "sourceWordMeaning": "I think so too",
+      "tags": [
+        "agreement",
+        "expression",
+        "concurrence",
+        "conversation",
+        "colloquial",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5dou1gok3dak1-i-feel-the-same.json"
+    },
+    {
+      "sentenceId": "m4hai6waa6m4dak1-not-that-it-cant-example-1",
+      "sentence": "唔係話唔得，但係時間真係唔夠。",
+      "jyutping": "m4 hai6 waa6 m4 dak1, daan6 hai6 si4 gaan1 zan1 hai6 m4 gau3.",
+      "meaning": "It's not that it can't be done, but there really isn't enough time.",
+      "sourceWordId": "m4hai6waa6m4dak1-not-that-it-cant",
+      "sourceWord": "唔係話唔得",
+      "sourceWordJyutping": "m4 hai6 waa6 m4 dak1",
+      "sourceWordMeaning": "it’s not that it can’t be done",
+      "tags": [
+        "politeness",
+        "face-saving",
+        "nuance",
+        "softening refusal",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6waa6m4dak1-not-that-it-cant.json"
+    },
+    {
+      "sentenceId": "m4hai6waa6m4dak1-not-that-it-cant-example-2",
+      "sentence": "我唔係話唔得你提議，只係覺得仲有其他選擇。",
+      "jyutping": "ngo5 m4 hai6 waa6 m4 dak1 nei5 tai4 ji5, zi2 hai6 gok3 dak1 zung6 jau5 kei4 taa1 syun2 zaak6.",
+      "meaning": "I'm not saying your suggestion can't work, I just think there are other options.",
+      "sourceWordId": "m4hai6waa6m4dak1-not-that-it-cant",
+      "sourceWord": "唔係話唔得",
+      "sourceWordJyutping": "m4 hai6 waa6 m4 dak1",
+      "sourceWordMeaning": "it’s not that it can’t be done",
+      "tags": [
+        "politeness",
+        "face-saving",
+        "nuance",
+        "softening refusal",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6waa6m4dak1-not-that-it-cant.json"
+    },
+    {
+      "sentenceId": "m4hai6waa6m4dak1-not-that-it-cant-example-3",
+      "sentence": "唔係話唔得改動計劃，但係成本會高好多。",
+      "jyutping": "m4 hai6 waa6 m4 dak1 goi2 dung6 gai3 waak6, daan6 hai6 sing4 bun2 wui5 gou1 hou2 do1.",
+      "meaning": "It's not that changing the plan can't be done, but the costs would be much higher.",
+      "sourceWordId": "m4hai6waa6m4dak1-not-that-it-cant",
+      "sourceWord": "唔係話唔得",
+      "sourceWordJyutping": "m4 hai6 waa6 m4 dak1",
+      "sourceWordMeaning": "it’s not that it can’t be done",
+      "tags": [
+        "politeness",
+        "face-saving",
+        "nuance",
+        "softening refusal",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6waa6m4dak1-not-that-it-cant.json"
+    },
+    {
+      "sentenceId": "m4hai6waa6m4dak1-not-that-it-cant-example-4",
+      "sentence": "唔係話唔得試吓，但我建議要小心啲。",
+      "jyutping": "m4 hai6 waa6 m4 dak1 si3 haa5, daan6 ngo5 gin3 ji5 jiu3 siu2 sam1 di1.",
+      "meaning": "It's not that trying it isn't possible, but I suggest being more careful.",
+      "sourceWordId": "m4hai6waa6m4dak1-not-that-it-cant",
+      "sourceWord": "唔係話唔得",
+      "sourceWordJyutping": "m4 hai6 waa6 m4 dak1",
+      "sourceWordMeaning": "it’s not that it can’t be done",
+      "tags": [
+        "politeness",
+        "face-saving",
+        "nuance",
+        "softening refusal",
+        "discourse marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6waa6m4dak1-not-that-it-cant.json"
+    },
+    {
+      "sentenceId": "zi2bat1gwo3hai6-its-just-that-example-1",
+      "sentence": "我只不過係想幫手，你唔使咁緊張。",
+      "jyutping": "ngo5 zi2 bat1 gwo3 hai6 soeng2 bong1 sau2, nei5 m4 sai2 gam3 gan2 zoeng1.",
+      "meaning": "It's just that I want to help, you don't need to be so nervous.",
+      "sourceWordId": "zi2bat1gwo3hai6-its-just-that",
+      "sourceWord": "只不過係",
+      "sourceWordJyutping": "zi2 bat1 gwo3 hai6",
+      "sourceWordMeaning": "it’s just that",
+      "tags": [
+        "advanced",
+        "politeness",
+        "nuance",
+        "face-saving",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2bat1gwo3hai6-its-just-that.json"
+    },
+    {
+      "sentenceId": "zi2bat1gwo3hai6-its-just-that-example-2",
+      "sentence": "佢只不過係遲咗啲，無乜大問題。",
+      "jyutping": "keoi5 zi2 bat1 gwo3 hai6 ci4 zo2 di1, mou4 mat1 daai6 man6 tai4.",
+      "meaning": "It's just that he was a bit late, no big problem.",
+      "sourceWordId": "zi2bat1gwo3hai6-its-just-that",
+      "sourceWord": "只不過係",
+      "sourceWordJyutping": "zi2 bat1 gwo3 hai6",
+      "sourceWordMeaning": "it’s just that",
+      "tags": [
+        "advanced",
+        "politeness",
+        "nuance",
+        "face-saving",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2bat1gwo3hai6-its-just-that.json"
+    },
+    {
+      "sentenceId": "zi2bat1gwo3hai6-its-just-that-example-3",
+      "sentence": "我只不過係唔想影響其他人嘅決定。",
+      "jyutping": "ngo5 zi2 bat1 gwo3 hai6 m4 soeng2 jing2 hoeng2 kei4 taa1 jan4 ge3 kyut3 ding6.",
+      "meaning": "It's just that I don't want to influence other people's decisions.",
+      "sourceWordId": "zi2bat1gwo3hai6-its-just-that",
+      "sourceWord": "只不過係",
+      "sourceWordJyutping": "zi2 bat1 gwo3 hai6",
+      "sourceWordMeaning": "it’s just that",
+      "tags": [
+        "advanced",
+        "politeness",
+        "nuance",
+        "face-saving",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2bat1gwo3hai6-its-just-that.json"
+    },
+    {
+      "sentenceId": "zi2bat1gwo3hai6-its-just-that-example-4",
+      "sentence": "你只不過係誤會咗啫，唔駛咁介意。",
+      "jyutping": "nei5 zi2 bat1 gwo3 hai6 ng6 wui6 zo2 ze1, m4 sai2 gam3 gaai3 ji3.",
+      "meaning": "It's just a misunderstanding, no need to mind so much.",
+      "sourceWordId": "zi2bat1gwo3hai6-its-just-that",
+      "sourceWord": "只不過係",
+      "sourceWordJyutping": "zi2 bat1 gwo3 hai6",
+      "sourceWordMeaning": "it’s just that",
+      "tags": [
+        "advanced",
+        "politeness",
+        "nuance",
+        "face-saving",
+        "conversation",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi2bat1gwo3hai6-its-just-that.json"
+    },
+    {
+      "sentenceId": "mei6nam2cing1co2-not-thought-through-example-1",
+      "sentence": "我唔想即刻答你，我未諗清楚。",
+      "jyutping": "ngo5 m4 soeng2 zik1 hak1 daap3 nei5, ngo5 mei6 nam2 cing1 co2.",
+      "meaning": "I don't want to answer you right away; I haven't thought it through.",
+      "sourceWordId": "mei6nam2cing1co2-not-thought-through",
+      "sourceWord": "未諗清楚",
+      "sourceWordJyutping": "mei6 nam2 cing1 co2",
+      "sourceWordMeaning": "haven’t thought it through",
+      "tags": [
+        "advanced",
+        "expression",
+        "face-saving",
+        "planning",
+        "thinking",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6nam2cing1co2-not-thought-through.json"
+    },
+    {
+      "sentenceId": "mei6nam2cing1co2-not-thought-through-example-2",
+      "sentence": "呢個計劃好似匆忙決定，我覺得大家未諗清楚。",
+      "jyutping": "ni1 go3 gai3 waak6 hou2 ci5 cung1 mong4 kyut3 ding6, ngo5 gok3 dak1 daai6 gaa1 mei6 nam2 cing1 co2.",
+      "meaning": "This plan seems to be a rushed decision; I feel everyone hasn’t thought it through.",
+      "sourceWordId": "mei6nam2cing1co2-not-thought-through",
+      "sourceWord": "未諗清楚",
+      "sourceWordJyutping": "mei6 nam2 cing1 co2",
+      "sourceWordMeaning": "haven’t thought it through",
+      "tags": [
+        "advanced",
+        "expression",
+        "face-saving",
+        "planning",
+        "thinking",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6nam2cing1co2-not-thought-through.json"
+    },
+    {
+      "sentenceId": "mei6nam2cing1co2-not-thought-through-example-3",
+      "sentence": "唔好批評佢啦，佢未諗清楚先講。",
+      "jyutping": "m4 hou2 pai1 ping4 keoi5 laa1, keoi5 mei6 nam2 cing1 co2 sin1 gong2.",
+      "meaning": "Don't criticize him; he spoke before thinking it through.",
+      "sourceWordId": "mei6nam2cing1co2-not-thought-through",
+      "sourceWord": "未諗清楚",
+      "sourceWordJyutping": "mei6 nam2 cing1 co2",
+      "sourceWordMeaning": "haven’t thought it through",
+      "tags": [
+        "advanced",
+        "expression",
+        "face-saving",
+        "planning",
+        "thinking",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6nam2cing1co2-not-thought-through.json"
+    },
+    {
+      "sentenceId": "mei6nam2cing1co2-not-thought-through-example-4",
+      "sentence": "我哋做嘢之前要諗清楚，唔好未諗清楚就亂做。",
+      "jyutping": "ngo5 dei6 zou6 je5 zi1 cin4 jiu3 nam2 cing1 co2, m4 hou2 mei6 nam2 cing1 co2 zau6 lyun6 zou6.",
+      "meaning": "We need to think things through before we act; don't act impulsively without thinking it through.",
+      "sourceWordId": "mei6nam2cing1co2-not-thought-through",
+      "sourceWord": "未諗清楚",
+      "sourceWordJyutping": "mei6 nam2 cing1 co2",
+      "sourceWordMeaning": "haven’t thought it through",
+      "tags": [
+        "advanced",
+        "expression",
+        "face-saving",
+        "planning",
+        "thinking",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/mei6nam2cing1co2-not-thought-through.json"
+    },
+    {
+      "sentenceId": "waak6ze2jau5kei4taa1fong1faat3-other-ways-example-1",
+      "sentence": "我哋依家未必要咁做，或者有其他方法可以試下。",
+      "jyutping": "ngo5 dei6 ji1 gaa1 mai6 bat1 jiu3 gam3 zou6, waak6 ze2 jau5 kei4 taa1 fong1 faat3 ho2 ji5 si3 haa5.",
+      "meaning": "We might not have to do it this way now; maybe there are other methods to try.",
+      "sourceWordId": "waak6ze2jau5kei4taa1fong1faat3-other-ways",
+      "sourceWord": "或者有其他方法",
+      "sourceWordJyutping": "waak6 ze2 jau5 kei4 taa1 fong1 faat3",
+      "sourceWordMeaning": "maybe there are other ways",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "negotiation",
+        "face-saving",
+        "alternative options",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2jau5kei4taa1fong1faat3-other-ways.json"
+    },
+    {
+      "sentenceId": "waak6ze2jau5kei4taa1fong1faat3-other-ways-example-2",
+      "sentence": "呢個計劃唔一定係最好，或者有其他方法更適合我哋。",
+      "jyutping": "ni1 go3 gai3 waak6 m4 jat1 ding6 hai6 zeoi3 hou2, waak6 ze2 jau5 kei4 taa1 fong1 faat3 gang3 sik1 hap6 ngo5 dei6.",
+      "meaning": "This plan isn't necessarily the best; maybe there are other ways more suitable for us.",
+      "sourceWordId": "waak6ze2jau5kei4taa1fong1faat3-other-ways",
+      "sourceWord": "或者有其他方法",
+      "sourceWordJyutping": "waak6 ze2 jau5 kei4 taa1 fong1 faat3",
+      "sourceWordMeaning": "maybe there are other ways",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "negotiation",
+        "face-saving",
+        "alternative options",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2jau5kei4taa1fong1faat3-other-ways.json"
+    },
+    {
+      "sentenceId": "waak6ze2jau5kei4taa1fong1faat3-other-ways-example-3",
+      "sentence": "我唔肯定呢個方案嘅效果，或者有其他方法能達到目標。",
+      "jyutping": "ngo5 m4 hang2 deng6 ni1 go3 fong1 on3 ge3 haau6 gwo2, waak6 ze2 jau5 kei4 taa1 fong1 faat3 nang4 daat6 dou3 muk6 biu1.",
+      "meaning": "I'm not sure about this plan's effectiveness; maybe there are other ways to achieve the goal.",
+      "sourceWordId": "waak6ze2jau5kei4taa1fong1faat3-other-ways",
+      "sourceWord": "或者有其他方法",
+      "sourceWordJyutping": "waak6 ze2 jau5 kei4 taa1 fong1 faat3",
+      "sourceWordMeaning": "maybe there are other ways",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "negotiation",
+        "face-saving",
+        "alternative options",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2jau5kei4taa1fong1faat3-other-ways.json"
+    },
+    {
+      "sentenceId": "waak6ze2jau5kei4taa1fong1faat3-other-ways-example-4",
+      "sentence": "討論完之後，我諗或者有其他方法我哋未考慮過。",
+      "jyutping": "tou2 leon6 jyun4 zi1 hau6, ngo5 lam2 waak6 ze2 jau5 kei4 taa1 fong1 faat3 ngo5 dei6 mei6 haau2 leoi6 gwo3.",
+      "meaning": "After the discussion, I think maybe there are other methods we haven’t considered.",
+      "sourceWordId": "waak6ze2jau5kei4taa1fong1faat3-other-ways",
+      "sourceWord": "或者有其他方法",
+      "sourceWordJyutping": "waak6 ze2 jau5 kei4 taa1 fong1 faat3",
+      "sourceWordMeaning": "maybe there are other ways",
+      "tags": [
+        "politeness",
+        "suggestion",
+        "negotiation",
+        "face-saving",
+        "alternative options",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/waak6ze2jau5kei4taa1fong1faat3-other-ways.json"
+    },
+    {
+      "sentenceId": "m4sai2gap1-no-need-to-rush-example-1",
+      "sentence": "你慢慢嚟，唔使急。",
+      "jyutping": "nei5 maan6 maan6 lai4, m4 sai2 gap1.",
+      "meaning": "Take your time, no need to rush.",
+      "sourceWordId": "m4sai2gap1-no-need-to-rush",
+      "sourceWord": "唔使急",
+      "sourceWordJyutping": "m4 sai2 gap1",
+      "sourceWordMeaning": "no need to rush",
+      "tags": [
+        "polite",
+        "reassuring",
+        "time",
+        "calm",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4sai2gap1-no-need-to-rush.json"
+    },
+    {
+      "sentenceId": "m4sai2gap1-no-need-to-rush-example-2",
+      "sentence": "考試仲有半個鐘，唔使急咁做。",
+      "jyutping": "haau2 si3 zung6 jau5 bun3 go3 zung1, m4 sai2 gap1 gam2 zou6.",
+      "meaning": "There’s still half an hour left for the exam, no need to rush to do it.",
+      "sourceWordId": "m4sai2gap1-no-need-to-rush",
+      "sourceWord": "唔使急",
+      "sourceWordJyutping": "m4 sai2 gap1",
+      "sourceWordMeaning": "no need to rush",
+      "tags": [
+        "polite",
+        "reassuring",
+        "time",
+        "calm",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4sai2gap1-no-need-to-rush.json"
+    },
+    {
+      "sentenceId": "m4sai2gap1-no-need-to-rush-example-3",
+      "sentence": "我哋未決定，唔使急答我。",
+      "jyutping": "ngo5 dei6 mei6 kyut3 ding6, m4 sai2 gap1 daap3 ngo5.",
+      "meaning": "We haven’t decided yet, no need to rush to answer me.",
+      "sourceWordId": "m4sai2gap1-no-need-to-rush",
+      "sourceWord": "唔使急",
+      "sourceWordJyutping": "m4 sai2 gap1",
+      "sourceWordMeaning": "no need to rush",
+      "tags": [
+        "polite",
+        "reassuring",
+        "time",
+        "calm",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4sai2gap1-no-need-to-rush.json"
+    },
+    {
+      "sentenceId": "m4sai2gap1-no-need-to-rush-example-4",
+      "sentence": "今次旅行唔使急，可以慢慢享受。",
+      "jyutping": "gam1 ci3 leoi5 hang4 m4 sai2 gap1, ho2 ji5 maan6 maan6 hoeng2 sau6.",
+      "meaning": "This trip has no rush, you can enjoy it slowly.",
+      "sourceWordId": "m4sai2gap1-no-need-to-rush",
+      "sourceWord": "唔使急",
+      "sourceWordJyutping": "m4 sai2 gap1",
+      "sourceWordMeaning": "no need to rush",
+      "tags": [
+        "polite",
+        "reassuring",
+        "time",
+        "calm",
+        "everyday",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4sai2gap1-no-need-to-rush.json"
+    },
+    {
+      "sentenceId": "m4hai6nei5dik1co3-not-your-fault-example-1",
+      "sentence": "唔係你嘅錯，呢件事係因為系統出咗問題。",
+      "jyutping": "m4 hai6 nei5 ge3 co3, ni1 gin6 si6 hai6 jan1 wai6 hai6 tung2 ceot1 zo2 man6 tai4.",
+      "meaning": "It's not your fault, this matter is because the system had a problem.",
+      "sourceWordId": "m4hai6nei5dik1co3-not-your-fault",
+      "sourceWord": "唔係你嘅錯",
+      "sourceWordJyutping": "m4 hai6 nei5 ge3 co3",
+      "sourceWordMeaning": "it’s not your fault",
+      "tags": [
+        "comfort",
+        "face-saving",
+        "blame",
+        "informal",
+        "reassurance",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6nei5dik1co3-not-your-fault.json"
+    },
+    {
+      "sentenceId": "m4hai6nei5dik1co3-not-your-fault-example-2",
+      "sentence": "唔係你嘅錯，老細講錯咗指示。",
+      "jyutping": "m4 hai6 nei5 ge3 co3, lou5 sai3 gong2 co3 zo2 zi2 si6.",
+      "meaning": "It's not your fault, the boss gave the wrong instructions.",
+      "sourceWordId": "m4hai6nei5dik1co3-not-your-fault",
+      "sourceWord": "唔係你嘅錯",
+      "sourceWordJyutping": "m4 hai6 nei5 ge3 co3",
+      "sourceWordMeaning": "it’s not your fault",
+      "tags": [
+        "comfort",
+        "face-saving",
+        "blame",
+        "informal",
+        "reassurance",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6nei5dik1co3-not-your-fault.json"
+    },
+    {
+      "sentenceId": "m4hai6nei5dik1co3-not-your-fault-example-3",
+      "sentence": "我知道你難過，但唔係你嘅錯。",
+      "jyutping": "ngo5 zi1 dou3 nei5 naan4 gwo3, daan6 m4 hai6 nei5 ge3 co3.",
+      "meaning": "I know you are upset, but it's not your fault.",
+      "sourceWordId": "m4hai6nei5dik1co3-not-your-fault",
+      "sourceWord": "唔係你嘅錯",
+      "sourceWordJyutping": "m4 hai6 nei5 ge3 co3",
+      "sourceWordMeaning": "it’s not your fault",
+      "tags": [
+        "comfort",
+        "face-saving",
+        "blame",
+        "informal",
+        "reassurance",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6nei5dik1co3-not-your-fault.json"
+    },
+    {
+      "sentenceId": "m4hai6nei5dik1co3-not-your-fault-example-4",
+      "sentence": "唔係你嘅錯，我哋一齊面對呢個問題。",
+      "jyutping": "m4 hai6 nei5 ge3 co3, ngo5 dei6 jat1 cai4 min6 deoi3 ni1 go3 man6 tai4.",
+      "meaning": "It's not your fault; we will face this problem together.",
+      "sourceWordId": "m4hai6nei5dik1co3-not-your-fault",
+      "sourceWord": "唔係你嘅錯",
+      "sourceWordJyutping": "m4 hai6 nei5 ge3 co3",
+      "sourceWordMeaning": "it’s not your fault",
+      "tags": [
+        "comfort",
+        "face-saving",
+        "blame",
+        "informal",
+        "reassurance",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6nei5dik1co3-not-your-fault.json"
+    },
+    {
+      "sentenceId": "ngo5zi2hai6gok3dak1-i-just-feel-example-1",
+      "sentence": "我只係覺得佢做嘢咪太急咗啲。",
+      "jyutping": "ngo5 zi2 hai6 gok3 dak1 keoi5 zou6 je5 mai6 taai3 gap1 zo2 di1.",
+      "meaning": "I just feel that he is doing things a bit too quickly.",
+      "sourceWordId": "ngo5zi2hai6gok3dak1-i-just-feel",
+      "sourceWord": "我只係覺得",
+      "sourceWordJyutping": "ngo5 zi2 hai6 gok3 dak1",
+      "sourceWordMeaning": "I just feel that",
+      "tags": [
+        "opinion",
+        "softening",
+        "face-saving",
+        "politeness",
+        "discourse-marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5zi2hai6gok3dak1-i-just-feel.json"
+    },
+    {
+      "sentenceId": "ngo5zi2hai6gok3dak1-i-just-feel-example-2",
+      "sentence": "我只係覺得呢個計劃未必係最好嘅選擇。",
+      "jyutping": "ngo5 zi2 hai6 gok3 dak1 ni1 go3 gai3 waak6 mei6 bat1 hai6 zeoi3 hou2 ge3 syun2 zaak6.",
+      "meaning": "I just feel that this plan might not be the best choice.",
+      "sourceWordId": "ngo5zi2hai6gok3dak1-i-just-feel",
+      "sourceWord": "我只係覺得",
+      "sourceWordJyutping": "ngo5 zi2 hai6 gok3 dak1",
+      "sourceWordMeaning": "I just feel that",
+      "tags": [
+        "opinion",
+        "softening",
+        "face-saving",
+        "politeness",
+        "discourse-marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5zi2hai6gok3dak1-i-just-feel.json"
+    },
+    {
+      "sentenceId": "ngo5zi2hai6gok3dak1-i-just-feel-example-3",
+      "sentence": "我只係覺得我哋可以試下另一個方法。",
+      "jyutping": "ngo5 zi2 hai6 gok3 dak1 ngo5 dei6 ho2 ji5 si3 haa5 ling6 jat1 go3 fong1 faat3.",
+      "meaning": "I just feel that we could try another method.",
+      "sourceWordId": "ngo5zi2hai6gok3dak1-i-just-feel",
+      "sourceWord": "我只係覺得",
+      "sourceWordJyutping": "ngo5 zi2 hai6 gok3 dak1",
+      "sourceWordMeaning": "I just feel that",
+      "tags": [
+        "opinion",
+        "softening",
+        "face-saving",
+        "politeness",
+        "discourse-marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5zi2hai6gok3dak1-i-just-feel.json"
+    },
+    {
+      "sentenceId": "ngo5zi2hai6gok3dak1-i-just-feel-example-4",
+      "sentence": "我只係覺得佢講嘅唔係咁啱。",
+      "jyutping": "ngo5 zi2 hai6 gok3 dak1 keoi5 gong2 ge3 m4 hai6 gam2 aam1.",
+      "meaning": "I just feel that what he said is not quite right.",
+      "sourceWordId": "ngo5zi2hai6gok3dak1-i-just-feel",
+      "sourceWord": "我只係覺得",
+      "sourceWordJyutping": "ngo5 zi2 hai6 gok3 dak1",
+      "sourceWordMeaning": "I just feel that",
+      "tags": [
+        "opinion",
+        "softening",
+        "face-saving",
+        "politeness",
+        "discourse-marker",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ngo5zi2hai6gok3dak1-i-just-feel.json"
+    },
+    {
+      "sentenceId": "jyu4gwo2hai6ngo5-If-it-were-me-example-1",
+      "sentence": "如果係我，我就唔會咁做。",
+      "jyutping": "jyu4 gwo2 hai6 ngo5, ngo5 zau6 m4 wui5 gam2 zou6.",
+      "meaning": "If it were me, I would not do that.",
+      "sourceWordId": "jyu4gwo2hai6ngo5-If-it-were-me",
+      "sourceWord": "如果係我",
+      "sourceWordJyutping": "jyu4 gwo2 hai6 ngo5",
+      "sourceWordMeaning": "if it were me",
+      "tags": [
+        "hypothetical",
+        "advice",
+        "empathy",
+        "softening",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gwo2hai6ngo5-If-it-were-me.json"
+    },
+    {
+      "sentenceId": "jyu4gwo2hai6ngo5-If-it-were-me-example-2",
+      "sentence": "你想咁做，不過如果係我，我會考慮清楚啲。",
+      "jyutping": "nei5 soeng2 gam2 zou6, bat1 gwo2 jyu4 gwo2 hai6 ngo5, ngo5 wui5 haau2 leoi6 cing1 co2 di1.",
+      "meaning": "You want to do that, but if it were me, I would think it over more carefully.",
+      "sourceWordId": "jyu4gwo2hai6ngo5-If-it-were-me",
+      "sourceWord": "如果係我",
+      "sourceWordJyutping": "jyu4 gwo2 hai6 ngo5",
+      "sourceWordMeaning": "if it were me",
+      "tags": [
+        "hypothetical",
+        "advice",
+        "empathy",
+        "softening",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gwo2hai6ngo5-If-it-were-me.json"
+    },
+    {
+      "sentenceId": "jyu4gwo2hai6ngo5-If-it-were-me-example-3",
+      "sentence": "如果係我，我會同佢講清楚啲。",
+      "jyutping": "jyu4 gwo2 hai6 ngo5, ngo5 wui5 tung4 keoi5 gong2 cing1 co2 di1.",
+      "meaning": "If it were me, I would explain things more clearly to him/her.",
+      "sourceWordId": "jyu4gwo2hai6ngo5-If-it-were-me",
+      "sourceWord": "如果係我",
+      "sourceWordJyutping": "jyu4 gwo2 hai6 ngo5",
+      "sourceWordMeaning": "if it were me",
+      "tags": [
+        "hypothetical",
+        "advice",
+        "empathy",
+        "softening",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gwo2hai6ngo5-If-it-were-me.json"
+    },
+    {
+      "sentenceId": "jyu4gwo2hai6ngo5-If-it-were-me-example-4",
+      "sentence": "你咁做好唔好？如果係我，我會先諗諗後果。",
+      "jyutping": "nei5 gam2 zou6 hou2 m4 hou2? jyu4 gwo2 hai6 ngo5, ngo5 wui5 sin1 nam2 nam2 hau6 gwo2.",
+      "meaning": "Is doing this a good idea? If it were me, I would consider the consequences first.",
+      "sourceWordId": "jyu4gwo2hai6ngo5-If-it-were-me",
+      "sourceWord": "如果係我",
+      "sourceWordJyutping": "jyu4 gwo2 hai6 ngo5",
+      "sourceWordMeaning": "if it were me",
+      "tags": [
+        "hypothetical",
+        "advice",
+        "empathy",
+        "softening",
+        "conversational",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gwo2hai6ngo5-If-it-were-me.json"
+    },
+    {
+      "sentenceId": "soeng6ci3gong2-example-1",
+      "sentence": "上次講，你會點做？",
+      "jyutping": "soeng6 ci3 gong2, nei5 wui5 dim2 zou6?",
+      "meaning": "As mentioned last time, how would you do it?",
+      "sourceWordId": "soeng6ci3gong2-as-mentioned-last-time",
+      "sourceWord": "上次講",
+      "sourceWordJyutping": "soeng6 ci3 gong2",
+      "sourceWordMeaning": "as mentioned last time",
+      "tags": [
+        "connector",
+        "conversation",
+        "reasoning",
+        "reference",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng6ci3gong2-as-mentioned-last-time.json"
+    },
+    {
+      "sentenceId": "soeng6ci3gong2-example-2",
+      "sentence": "上次講，我哋要早啲開始。",
+      "jyutping": "soeng6 ci3 gong2, ngo5 dei6 jiu3 zou2 di1 hoi1 ci2.",
+      "meaning": "As mentioned last time, we need to start earlier.",
+      "sourceWordId": "soeng6ci3gong2-as-mentioned-last-time",
+      "sourceWord": "上次講",
+      "sourceWordJyutping": "soeng6 ci3 gong2",
+      "sourceWordMeaning": "as mentioned last time",
+      "tags": [
+        "connector",
+        "conversation",
+        "reasoning",
+        "reference",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng6ci3gong2-as-mentioned-last-time.json"
+    },
+    {
+      "sentenceId": "soeng6ci3gong2-example-3",
+      "sentence": "上次講，你哋住邊度？",
+      "jyutping": "soeng6 ci3 gong2, nei5 dei6 zyu6 bin1 dou6?",
+      "meaning": "As mentioned last time, where do you guys live?",
+      "sourceWordId": "soeng6ci3gong2-as-mentioned-last-time",
+      "sourceWord": "上次講",
+      "sourceWordJyutping": "soeng6 ci3 gong2",
+      "sourceWordMeaning": "as mentioned last time",
+      "tags": [
+        "connector",
+        "conversation",
+        "reasoning",
+        "reference",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng6ci3gong2-as-mentioned-last-time.json"
+    },
+    {
+      "sentenceId": "soeng6ci3gong2-example-4",
+      "sentence": "上次講，我最鍾意呢個方法。",
+      "jyutping": "soeng6 ci3 gong2, ngo5 zeoi3 zung1 ji3 ni1 go3 fong1 faat3.",
+      "meaning": "As mentioned last time, this is my favourite method.",
+      "sourceWordId": "soeng6ci3gong2-as-mentioned-last-time",
+      "sourceWord": "上次講",
+      "sourceWordJyutping": "soeng6 ci3 gong2",
+      "sourceWordMeaning": "as mentioned last time",
+      "tags": [
+        "connector",
+        "conversation",
+        "reasoning",
+        "reference",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/soeng6ci3gong2-as-mentioned-last-time.json"
+    },
+    {
+      "sentenceId": "hai6mai6-is-it-example-1",
+      "sentence": "你係咪今晚返屋企？",
+      "jyutping": "nei5 hai6 mai6 gam1 maan5 faan1 uk1 kei2?",
+      "meaning": "Are you going home tonight?",
+      "sourceWordId": "hai6mai6-is-it",
+      "sourceWord": "係咪",
+      "sourceWordJyutping": "hai6 mai6",
+      "sourceWordMeaning": "whether or not / isn’t it?",
+      "tags": [
+        "question particle",
+        "confirmation",
+        "discourse marker",
+        "yes-no question",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hai6mai6-is-it.json"
+    },
+    {
+      "sentenceId": "hai6mai6-is-it-example-2",
+      "sentence": "佢話佢今日唔嚟，係咪？",
+      "jyutping": "keoi5 waa6 keoi5 gam1 jat6 m4 loi4, hai6 mai6?",
+      "meaning": "He said he’s not coming today, isn’t he?",
+      "sourceWordId": "hai6mai6-is-it",
+      "sourceWord": "係咪",
+      "sourceWordJyutping": "hai6 mai6",
+      "sourceWordMeaning": "whether or not / isn’t it?",
+      "tags": [
+        "question particle",
+        "confirmation",
+        "discourse marker",
+        "yes-no question",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hai6mai6-is-it.json"
+    },
+    {
+      "sentenceId": "hai6mai6-is-it-example-3",
+      "sentence": "我哋係咪應該提前準備？",
+      "jyutping": "ngo5 dei6 hai6 mai6 jing1 goi1 tai4 cin4 zeon2 bei6?",
+      "meaning": "Should we prepare in advance?",
+      "sourceWordId": "hai6mai6-is-it",
+      "sourceWord": "係咪",
+      "sourceWordJyutping": "hai6 mai6",
+      "sourceWordMeaning": "whether or not / isn’t it?",
+      "tags": [
+        "question particle",
+        "confirmation",
+        "discourse marker",
+        "yes-no question",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hai6mai6-is-it.json"
+    },
+    {
+      "sentenceId": "hai6mai6-is-it-example-4",
+      "sentence": "你真係去咗日本，係咪？",
+      "jyutping": "nei5 zan1 hai6 heoi3 zo2 jat6 bun2, hai6 mai6?",
+      "meaning": "You actually went to Japan, right?",
+      "sourceWordId": "hai6mai6-is-it",
+      "sourceWord": "係咪",
+      "sourceWordJyutping": "hai6 mai6",
+      "sourceWordMeaning": "whether or not / isn’t it?",
+      "tags": [
+        "question particle",
+        "confirmation",
+        "discourse marker",
+        "yes-no question",
+        "spoken Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/hai6mai6-is-it.json"
+    },
+    {
+      "sentenceId": "zi1so2ji5-the-reason-is-example-1",
+      "sentence": "我唔去旅行，之所以係因為我冇時間。",
+      "jyutping": "ngo5 m4 heoi3 leoi5 hang4, zi1 so2 ji5 hai6 jan1 wai6 ngo5 mou5 si4 gaan3.",
+      "meaning": "The reason why I am not going traveling is because I have no time.",
+      "sourceWordId": "zi1so2ji5-the-reason-is",
+      "sourceWord": "之所以",
+      "sourceWordJyutping": "zi1 so2 ji5",
+      "sourceWordMeaning": "the reason why is",
+      "tags": [
+        "reason",
+        "cause",
+        "connector",
+        "argument",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi1so2ji5-the-reason-is.json"
+    },
+    {
+      "sentenceId": "zi1so2ji5-the-reason-is-example-2",
+      "sentence": "公司之所以咁快發展，係因為員工合作得好。",
+      "jyutping": "gung1 si1 zi1 so2 ji5 gam3 faai3 faat3 zin2, hai6 jan1 wai6 jyun4 gung1 hap6 zok3 dak1 hou2.",
+      "meaning": "The reason why the company developed so quickly is because the employees worked well together.",
+      "sourceWordId": "zi1so2ji5-the-reason-is",
+      "sourceWord": "之所以",
+      "sourceWordJyutping": "zi1 so2 ji5",
+      "sourceWordMeaning": "the reason why is",
+      "tags": [
+        "reason",
+        "cause",
+        "connector",
+        "argument",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi1so2ji5-the-reason-is.json"
+    },
+    {
+      "sentenceId": "zi1so2ji5-the-reason-is-example-3",
+      "sentence": "佢之所以成功，係因為佢付出咗好多努力。",
+      "jyutping": "keoi5 zi1 so2 ji5 sing4 gung1, hai6 jan1 wai6 keoi5 fu6 ceot1 zo2 hou2 do1 nou5 lik6.",
+      "meaning": "The reason why he succeeded is because he put in a lot of effort.",
+      "sourceWordId": "zi1so2ji5-the-reason-is",
+      "sourceWord": "之所以",
+      "sourceWordJyutping": "zi1 so2 ji5",
+      "sourceWordMeaning": "the reason why is",
+      "tags": [
+        "reason",
+        "cause",
+        "connector",
+        "argument",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi1so2ji5-the-reason-is.json"
+    },
+    {
+      "sentenceId": "zi1so2ji5-the-reason-is-example-4",
+      "sentence": "我哋唔需要擔心，之所以咁講係有充分嘅資料支持。",
+      "jyutping": "ngo5 dei6 m4 seoi1 jiu3 daam1 sam1, zi1 so2 ji5 gam3 gong2 hai6 jau5 cung1 fan4 ge3 zi1 liu2 zi1 ci4.",
+      "meaning": "We don't need to worry; the reason why I say that is because there is sufficient supporting information.",
+      "sourceWordId": "zi1so2ji5-the-reason-is",
+      "sourceWord": "之所以",
+      "sourceWordJyutping": "zi1 so2 ji5",
+      "sourceWordMeaning": "the reason why is",
+      "tags": [
+        "reason",
+        "cause",
+        "connector",
+        "argument",
+        "advanced",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/zi1so2ji5-the-reason-is.json"
+    },
+    {
+      "sentenceId": "nam2haa5-think-about-it-example-1",
+      "sentence": "呢個方案唔錯，你諗下先。",
+      "jyutping": "ni1 go3 fo1ng3 m4 co3, nei5 nam2 haa5 sin1.",
+      "meaning": "This plan isn't bad, think about it first.",
+      "sourceWordId": "nam2haa5-think-about-it",
+      "sourceWord": "諗下",
+      "sourceWordJyutping": "nam2 haa5",
+      "sourceWordMeaning": "think about it",
+      "tags": [
+        "reflection",
+        "thinking",
+        "advice",
+        "decision-making",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nam2haa5-think-about-it.json"
+    },
+    {
+      "sentenceId": "nam2haa5-think-about-it-example-2",
+      "sentence": "你唔好即刻答我，諗下先啦。",
+      "jyutping": "nei5 m4 hou2 zik1 haak1 daap3 ngo5, nam2 haa5 sin1 laa1.",
+      "meaning": "Don't answer me immediately, think about it first.",
+      "sourceWordId": "nam2haa5-think-about-it",
+      "sourceWord": "諗下",
+      "sourceWordJyutping": "nam2 haa5",
+      "sourceWordMeaning": "think about it",
+      "tags": [
+        "reflection",
+        "thinking",
+        "advice",
+        "decision-making",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nam2haa5-think-about-it.json"
+    },
+    {
+      "sentenceId": "nam2haa5-think-about-it-example-3",
+      "sentence": "呢件事有啲複雜，你最好諗下。",
+      "jyutping": "ni1 gin6 si6 jau5 di1 fuk1 zaap6, nei5 zeoi3 hou2 nam2 haa5.",
+      "meaning": "This matter is a bit complicated, you better think about it.",
+      "sourceWordId": "nam2haa5-think-about-it",
+      "sourceWord": "諗下",
+      "sourceWordJyutping": "nam2 haa5",
+      "sourceWordMeaning": "think about it",
+      "tags": [
+        "reflection",
+        "thinking",
+        "advice",
+        "decision-making",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nam2haa5-think-about-it.json"
+    },
+    {
+      "sentenceId": "nam2haa5-think-about-it-example-4",
+      "sentence": "我哋唔好急住決定，諗下所有可能嘅選擇。",
+      "jyutping": "ngo5 dei6 m4 hou2 gap1 zyu6 kyut3 ding6, nam2 haa5 so2 jau5 ho2 nang4 ge3 syun2 zaak6.",
+      "meaning": "Let's not rush to decide, think about all the possible options.",
+      "sourceWordId": "nam2haa5-think-about-it",
+      "sourceWord": "諗下",
+      "sourceWordJyutping": "nam2 haa5",
+      "sourceWordMeaning": "think about it",
+      "tags": [
+        "reflection",
+        "thinking",
+        "advice",
+        "decision-making",
+        "casual speech",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/nam2haa5-think-about-it.json"
+    }
+  ],
+  "missingWordFiles": []
+}
