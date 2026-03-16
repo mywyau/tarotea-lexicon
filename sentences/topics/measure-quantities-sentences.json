@@ -1,8 +1,8 @@
 {
   "topic": "measurements_and_quantities",
   "title": "Measurements & Quantities",
-  "totalWords": 33,
-  "totalSentences": 128,
+  "totalWords": 65,
+  "totalSentences": 132,
   "items": [
     {
       "sentenceId": "jat1di1-a-tiny-bit-example-1",
@@ -457,6 +457,82 @@
       "sourceFile": "r2-backup/words/loeng5go3-two-items.json"
     },
     {
+      "sentenceId": "bun3-half-example-1",
+      "sentence": "我食咗半個蘋果。",
+      "jyutping": "ngo5 sik6 zo2 bun3 go3 ping4 gwo2.",
+      "meaning": "I ate half an apple.",
+      "sourceWordId": "bun3-half",
+      "sourceWord": "半",
+      "sourceWordJyutping": "bun3",
+      "sourceWordMeaning": "half",
+      "tags": [
+        "quantity",
+        "shopping",
+        "cooking",
+        "food",
+        "portion",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3-half.json"
+    },
+    {
+      "sentenceId": "bun3-half-example-2",
+      "sentence": "呢啲菜好新鮮，但我只要半斤。",
+      "jyutping": "ni1 di1 coi3 hou2 san1 sin1, daan6 ngo5 zi2 jiu3 bun3 gan1.",
+      "meaning": "These vegetables are very fresh, but I only want half a catty.",
+      "sourceWordId": "bun3-half",
+      "sourceWord": "半",
+      "sourceWordJyutping": "bun3",
+      "sourceWordMeaning": "half",
+      "tags": [
+        "quantity",
+        "shopping",
+        "cooking",
+        "food",
+        "portion",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3-half.json"
+    },
+    {
+      "sentenceId": "bun3-half-example-3",
+      "sentence": "煲湯時要加半舊薑。",
+      "jyutping": "bou1 tong1 si4 jiu3 gaa1 bun3 gau6 goeng1.",
+      "meaning": "Add half a piece of ginger when making soup.",
+      "sourceWordId": "bun3-half",
+      "sourceWord": "半",
+      "sourceWordJyutping": "bun3",
+      "sourceWordMeaning": "half",
+      "tags": [
+        "quantity",
+        "shopping",
+        "cooking",
+        "food",
+        "portion",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3-half.json"
+    },
+    {
+      "sentenceId": "bun3-half-example-4",
+      "sentence": "我淨係食咗半條青瓜。",
+      "jyutping": "ngo5 zing6 hai6 sik6 zo2 bun3 tiu4 ceng1 gwaa1.",
+      "meaning": "I only ate half a cucumber.",
+      "sourceWordId": "bun3-half",
+      "sourceWord": "半",
+      "sourceWordJyutping": "bun3",
+      "sourceWordMeaning": "half",
+      "tags": [
+        "quantity",
+        "shopping",
+        "cooking",
+        "food",
+        "portion",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3-half.json"
+    },
+    {
       "sentenceId": "hak1-gram-example-1",
       "sentence": "呢包鹽有五十克。",
       "jyutping": "ni1 baau1 jim4 jau5 ng5 sap6 hak1.",
@@ -534,9 +610,9 @@
     },
     {
       "sentenceId": "cin1hak1-kilogram-example-1",
-      "sentence": "呢個蘋果有兩千克重。",
-      "jyutping": "ni1 go3 ping4 gwo2 jau5 loeng5 cin1 hak1 cung5.",
-      "meaning": "This apple weighs two kilograms.",
+      "sentence": "呢個西瓜有兩千克重。",
+      "jyutping": "ni1 go3 sai1 gwaa1 jau5 loeng5 cin1 hak1 cung5.",
+      "meaning": "This watermelon weighs two kilograms.",
       "sourceWordId": "cin1hak1-kilogram",
       "sourceWord": "千克",
       "sourceWordJyutping": "cin1 hak1",
@@ -553,8 +629,8 @@
     },
     {
       "sentenceId": "cin1hak1-kilogram-example-2",
-      "sentence": "我買咗五千克大米。",
-      "jyutping": "ngo5 maai5 zo2 ng5 cin1 hak1 daai6 mai5.",
+      "sentence": "我買咗五千克米。",
+      "jyutping": "ngo5 maai5 zo2 ng5 cin1 hak1 mai5.",
       "meaning": "I bought five kilograms of rice.",
       "sourceWordId": "cin1hak1-kilogram",
       "sourceWord": "千克",
@@ -572,9 +648,9 @@
     },
     {
       "sentenceId": "cin1hak1-kilogram-example-3",
-      "sentence": "運動員需要增重三千克。",
-      "jyutping": "wan6 dung6 jyun4 seoi1 jiu3 zang1 cung5 saam1 cin1 hak1.",
-      "meaning": "The athlete needs to gain three kilograms.",
+      "sentence": "佢最近重咗三千克。",
+      "jyutping": "keoi5 zeoi3 gan6 zung6 zo2 saam1 cin1 hak1.",
+      "meaning": "He has gained three kilograms recently.",
       "sourceWordId": "cin1hak1-kilogram",
       "sourceWord": "千克",
       "sourceWordJyutping": "cin1 hak1",
@@ -1897,6 +1973,82 @@
       "sourceFile": "r2-backup/words/bun3siu2si4-half-an-hour.json"
     },
     {
+      "sentenceId": "jat1go3zung1-one-hour-example-1",
+      "sentence": "我等咗你一個鐘。",
+      "jyutping": "ngo5 dang2 zo2 nei5 jat1 go3 zung1.",
+      "meaning": "I waited for you for one hour.",
+      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWord": "一個鐘",
+      "sourceWordJyutping": "jat1 go3 zung1",
+      "sourceWordMeaning": "one hour",
+      "tags": [
+        "time",
+        "duration",
+        "hour",
+        "daily use",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+    },
+    {
+      "sentenceId": "jat1go3zung1-one-hour-example-2",
+      "sentence": "呢個課堂一個鐘長。",
+      "jyutping": "ni1 go3 fo3tong4 jat1 go3 zung1 coeng4.",
+      "meaning": "This class lasts one hour.",
+      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWord": "一個鐘",
+      "sourceWordJyutping": "jat1 go3 zung1",
+      "sourceWordMeaning": "one hour",
+      "tags": [
+        "time",
+        "duration",
+        "hour",
+        "daily use",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+    },
+    {
+      "sentenceId": "jat1go3zung1-one-hour-example-3",
+      "sentence": "我哋一個鐘後見。",
+      "jyutping": "ngo5 dei6 jat1 go3 zung1 hau6 gin3.",
+      "meaning": "We will meet in one hour.",
+      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWord": "一個鐘",
+      "sourceWordJyutping": "jat1 go3 zung1",
+      "sourceWordMeaning": "one hour",
+      "tags": [
+        "time",
+        "duration",
+        "hour",
+        "daily use",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+    },
+    {
+      "sentenceId": "jat1go3zung1-one-hour-example-4",
+      "sentence": "你做運動做咗一個鐘未？",
+      "jyutping": "nei5 zou6 wan6dung6 zou6 zo2 jat1 go3 zung1 mei6?",
+      "meaning": "Have you exercised for one hour yet?",
+      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWord": "一個鐘",
+      "sourceWordJyutping": "jat1 go3 zung1",
+      "sourceWordMeaning": "one hour",
+      "tags": [
+        "time",
+        "duration",
+        "hour",
+        "daily use",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+    },
+    {
       "sentenceId": "cam4jat6-yesterday-example-1",
       "sentence": "噚日我去咗街市買嘢。",
       "jyutping": "cam4 jat6 ngo5 heoi3 zo2 gaai1 si5 maai5 je5.",
@@ -2343,85 +2495,40 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/maan6di1-a-bit-slower.json"
-    },
-    {
-      "sentenceId": "jat1go3zung1-one-hour-example-1",
-      "sentence": "我等咗你一個鐘。",
-      "jyutping": "ngo5 dang2 zo2 nei5 jat1 go3 zung1.",
-      "meaning": "I waited for you for one hour.",
-      "sourceWordId": "jat1go3zung1-one-hour",
-      "sourceWord": "一個鐘",
-      "sourceWordJyutping": "jat1 go3 zung1",
-      "sourceWordMeaning": "one hour",
-      "tags": [
-        "time",
-        "duration",
-        "hour",
-        "daily use",
-        "basic",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
-    },
-    {
-      "sentenceId": "jat1go3zung1-one-hour-example-2",
-      "sentence": "呢個課堂一個鐘長。",
-      "jyutping": "ni1 go3 fo3tong4 jat1 go3 zung1 coeng4.",
-      "meaning": "This class lasts one hour.",
-      "sourceWordId": "jat1go3zung1-one-hour",
-      "sourceWord": "一個鐘",
-      "sourceWordJyutping": "jat1 go3 zung1",
-      "sourceWordMeaning": "one hour",
-      "tags": [
-        "time",
-        "duration",
-        "hour",
-        "daily use",
-        "basic",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
-    },
-    {
-      "sentenceId": "jat1go3zung1-one-hour-example-3",
-      "sentence": "我哋一個鐘後見。",
-      "jyutping": "ngo5 dei6 jat1 go3 zung1 hau6 gin3.",
-      "meaning": "We will meet in one hour.",
-      "sourceWordId": "jat1go3zung1-one-hour",
-      "sourceWord": "一個鐘",
-      "sourceWordJyutping": "jat1 go3 zung1",
-      "sourceWordMeaning": "one hour",
-      "tags": [
-        "time",
-        "duration",
-        "hour",
-        "daily use",
-        "basic",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
-    },
-    {
-      "sentenceId": "jat1go3zung1-one-hour-example-4",
-      "sentence": "你做運動做咗一個鐘未？",
-      "jyutping": "nei5 zou6 wan6dung6 zou6 zo2 jat1 go3 zung1 mei6?",
-      "meaning": "Have you exercised for one hour yet?",
-      "sourceWordId": "jat1go3zung1-one-hour",
-      "sourceWord": "一個鐘",
-      "sourceWordJyutping": "jat1 go3 zung1",
-      "sourceWordMeaning": "one hour",
-      "tags": [
-        "time",
-        "duration",
-        "hour",
-        "daily use",
-        "basic",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
     }
   ],
   "missingWordFiles": [
-    "faai3di1-faster"
+    "gei2do1-how-much",
+    "zung1jat6-all-day",
+    "daai6joek3-about",
+    "go3-general-classifier",
+    "zek3-for-animals-and-certain-objects",
+    "tiu4-for-long-things",
+    "zoeng1-for-flat-objects",
+    "bun2-for-books",
+    "zi1-for-stick-like-objects",
+    "gin6-for-items-and-clothing",
+    "gaa3-for-vehicles-and-machines",
+    "bou6-for-machines-and-devices",
+    "gaan1-for-rooms-and-shops",
+    "bui1-for-cups",
+    "wun2-for-bowls",
+    "baau1-for-packets-and-bags",
+    "hap6-for-boxes",
+    "zung2-for-types",
+    "fan6-for-portions",
+    "ci3-for-times-occurrences",
+    "nap1-for-small-round-items",
+    "faai3-for-pieces-chunks",
+    "deoi3-for-pairs",
+    "gung1gan1-kilogram-common",
+    "loeng5gan1-two-catty",
+    "jat1zeon1-one-bottle",
+    "jat1wun2-one-bowl",
+    "lei4mai5-centimetre",
+    "bun3mai5-half-a-metre",
+    "bun3go3zung1-half-an-hour-colloquial",
+    "faai3di1-faster",
+    "jat1go3zung1-one-hour-speed"
   ]
 }

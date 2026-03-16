@@ -10,7 +10,7 @@ load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 # CONFIG
 # ----------------------------
 
-DRY_RUN = True  # set to False to actually delete
+DRY_RUN = False  # set to False to actually delete
 
 TOPIC_JSON_PATH = Path("./r2-backup/topics/measure-quantities.json")
 
