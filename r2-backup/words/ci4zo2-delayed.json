@@ -2,14 +2,14 @@
   "id": "ci4zo2-delayed",
   "word": "遲咗",
   "jyutping": "ci4 zo2",
-  "meaning": "late / delayed",
+  "meaning": "late / running late / too late / delayed",
   "pos": ["expression"],
   "usage": [
-    "The expression 'ci4 zo2' is commonly used to indicate that something or someone is late or delayed.",
-    "'Ci4 zo2' can describe both events and actions that have not happened on time.",
-    "It is often used in spoken Cantonese to express mild regret or apology for the delay.",
-    "This phrase can appear before or after the subject, depending on the sentence structure.",
-    "In casual conversations, 'ci4 zo2' is frequently combined with other phrases to explain reasons or consequences of the delay."
+    "The expression '遲咗' is commonly used to say that someone or something was late.",
+    "It can describe arriving late, doing something later than expected, or being too late for something.",
+    "It is often used in spoken Cantonese when explaining a delay or apologising for being late.",
+    "It usually appears after the subject or after the action being described, for example '我遲咗' or '買飛買遲咗'.",
+    "For specifically being late to arrive somewhere, the related expression '遲到' is also very common."
   ],
   "examples": [
     {
@@ -21,14 +21,14 @@
     {
       "id": "ci4zo2-delayed-example-2",
       "sentence": "我瞓過龍，所以遲咗。",
-      "jyutping": "ngo5 fan3 gwo3 lung4, so2 ji5 ci4 zo2.",
+      "jyutping": "ngo5 fan3 gwo3 lung4, so2 ji5 ci4 zo2",
       "meaning": "I overslept, so I was late."
     },
     {
       "id": "ci4zo2-delayed-example-3",
-      "sentence": "遲咗買飛，票已經賣晒。",
-      "jyutping": "ci4 zo2 maai5 fei1, piu3 ji5 ging1 maai6 saai3",
-      "meaning": "I bought tickets late; they were already sold out."
+      "sentence": "我買飛買遲咗，啲飛已經賣晒。",
+      "jyutping": "ngo5 maai5 fei1 maai5 ci4 zo2, di1 fei1 ji5 ging1 maai6 saai3",
+      "meaning": "I bought the tickets too late, and they were already sold out."
     },
     {
       "id": "ci4zo2-delayed-example-4",
@@ -54,5 +54,5 @@
     "spoken Cantonese",
     "level-5"
   ],
-  "related": ["遲到", "延誤", "晚", "拖延", "遲緩"]
+  "related": ["遲到", "太遲", "趕唔切", "延誤", "誤點"]
 }

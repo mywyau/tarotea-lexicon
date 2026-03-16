@@ -8,29 +8,29 @@
   ],
   "usage": [
     "千克 is a noun used to measure weight.",
-    "It is a standard unit for weighing heavier objects compared to grams.",
-    "千克 can be used alone or with numbers to specify weight amounts.",
-    "In daily conversation, people often combine 千克 with food items or goods to discuss quantity.",
-    "千克 is more common in formal or semi-formal contexts than informal speech."
+    "It is a standard unit equal to one thousand grams.",
+    "千克 can be used with numbers to specify weight amounts.",
+    "It is often used when talking about the weight of food, goods, or people.",
+    "In everyday Cantonese, 公斤 is often more commonly used than 千克."
   ],
   "examples": [
     {
       "id": "cin1hak1-kilogram-example-1",
-      "sentence": "呢個蘋果有兩千克重。",
-      "jyutping": "ni1 go3 ping4 gwo2 jau5 loeng5 cin1 hak1 cung5.",
-      "meaning": "This apple weighs two kilograms."
+      "sentence": "呢個西瓜有兩千克重。",
+      "jyutping": "ni1 go3 sai1 gwaa1 jau5 loeng5 cin1 hak1 cung5.",
+      "meaning": "This watermelon weighs two kilograms."
     },
     {
       "id": "cin1hak1-kilogram-example-2",
-      "sentence": "我買咗五千克大米。",
-      "jyutping": "ngo5 maai5 zo2 ng5 cin1 hak1 daai6 mai5.",
+      "sentence": "我買咗五千克米。",
+      "jyutping": "ngo5 maai5 zo2 ng5 cin1 hak1 mai5.",
       "meaning": "I bought five kilograms of rice."
     },
     {
       "id": "cin1hak1-kilogram-example-3",
-      "sentence": "運動員需要增重三千克。",
-      "jyutping": "wan6 dung6 jyun4 seoi1 jiu3 zang1 cung5 saam1 cin1 hak1.",
-      "meaning": "The athlete needs to gain three kilograms."
+      "sentence": "佢最近重咗三千克。",
+      "jyutping": "keoi5 zeoi3 gan6 zung6 zo2 saam1 cin1 hak1.",
+      "meaning": "He has gained three kilograms recently."
     },
     {
       "id": "cin1hak1-kilogram-example-4",
@@ -57,10 +57,10 @@
     "level-1"
   ],
   "related": [
-    "克 (hak1)",
-    "斤 (gan1)",
-    "磅 (bong6)",
-    "重量 (zung6 loeng6)",
-    "計量 (gai3 loeng6)"
+    "克",
+    "公斤",
+    "斤",
+    "磅",
+    "重量"
   ]
 }
