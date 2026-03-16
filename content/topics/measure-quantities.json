@@ -1,0 +1,93 @@
+{
+  "topic": "measurements_and_quantities",
+  "title": "Measurements & Quantities",
+  "description": "Talk about amounts, measurements, time, weight, volume, distance, and speed.",
+  "categories": {
+    "basic_quantities": [
+      { "id": "jat1di1-a-tiny-bit", "word": "一啲", "jyutping": "jat1 di1", "meaning": "a tiny bit" },
+      { "id": "hou2do1-a-lot", "word": "好多", "jyutping": "hou2 do1", "meaning": "a lot" },
+      { "id": "siu2di1-a-bit-less", "word": "少啲", "jyutping": "siu2 di1", "meaning": "a bit less" },
+      { "id": "do1di1-a-bit-more", "word": "多啲", "jyutping": "do1 di1", "meaning": "a bit more" },
+      { "id": "jat1go3-one-item", "word": "一個", "jyutping": "jat1 go3", "meaning": "one item" },
+      { "id": "loeng5go3-two-items", "word": "兩個", "jyutping": "loeng5 go3", "meaning": "two items" },
+      { "id": "bun3-half", "word": "半", "jyutping": "bun3", "meaning": "half" },
+      { "id": "gei2do1-how-much", "word": "幾多", "jyutping": "gei2 do1", "meaning": "how much / how many" },
+      { "id": "zung6jat6-all-day", "word": "終日", "jyutping": "zung1 jat6", "meaning": "all day" },
+      { "id": "daai6joek3-about", "word": "大約", "jyutping": "daai6 joek3", "meaning": "about / approximately" }
+    ],
+
+    "measure_words": [
+      { "id": "go3-general-classifier", "word": "個", "jyutping": "go3", "meaning": "general classifier" },
+      { "id": "zek3-for-animals-and-certain-objects", "word": "隻", "jyutping": "zek3", "meaning": "classifier for animals and some objects" },
+      { "id": "tiu4-for-long-things", "word": "條", "jyutping": "tiu4", "meaning": "classifier for long things" },
+      { "id": "zoeng1-for-flat-objects", "word": "張", "jyutping": "zoeng1", "meaning": "classifier for flat objects" },
+      { "id": "bun2-for-books", "word": "本", "jyutping": "bun2", "meaning": "classifier for books" },
+      { "id": "zi1-for-stick-like-objects", "word": "支", "jyutping": "zi1", "meaning": "classifier for pens, bottles, and stick-like objects" },
+      { "id": "gin6-for-items-and-clothing", "word": "件", "jyutping": "gin6", "meaning": "classifier for items and clothing" },
+      { "id": "gaa3-for-vehicles-and-machines", "word": "架", "jyutping": "gaa3", "meaning": "classifier for vehicles and machines" },
+      { "id": "bou6-for-machines-and-devices", "word": "部", "jyutping": "bou6", "meaning": "classifier for machines and devices" },
+      { "id": "gaan1-for-rooms-and-shops", "word": "間", "jyutping": "gaan1", "meaning": "classifier for rooms, houses, and shops" },
+      { "id": "bui1-for-cups", "word": "杯", "jyutping": "bui1", "meaning": "classifier for cups / cupfuls" },
+      { "id": "wun2-for-bowls", "word": "碗", "jyutping": "wun2", "meaning": "classifier for bowls / bowlfuls" },
+      { "id": "baau1-for-packets-and-bags", "word": "包", "jyutping": "baau1", "meaning": "classifier for packets, bags, and packs" },
+      { "id": "hap6-for-boxes", "word": "盒", "jyutping": "hap6", "meaning": "classifier for boxes" },
+      { "id": "zung2-for-types", "word": "種", "jyutping": "zung2", "meaning": "kind / type / classifier for types" },
+      { "id": "fan6-for-portions", "word": "份", "jyutping": "fan6", "meaning": "portion / serving / copy" },
+      { "id": "ci3-for-times-occurrences", "word": "次", "jyutping": "ci3", "meaning": "time / occurrence" },
+      { "id": "nap1-for-small-round-items", "word": "粒", "jyutping": "nap1", "meaning": "classifier for small round items" },
+      { "id": "faai3-for-pieces-chunks", "word": "塊", "jyutping": "faai3", "meaning": "classifier for pieces / chunks" },
+      { "id": "deoi3-for-pairs", "word": "對", "jyutping": "deoi3", "meaning": "classifier for pairs" }
+    ],
+
+    "weight": [
+      { "id": "hak1-gram", "word": "克", "jyutping": "hak1", "meaning": "gram" },
+      { "id": "cin1hak1-kilogram", "word": "千克", "jyutping": "cin1 hak1", "meaning": "kilogram" },
+      { "id": "gung1gan1-kilogram-common", "word": "公斤", "jyutping": "gung1 gan1", "meaning": "kilogram" },
+      { "id": "gan1-catty", "word": "斤", "jyutping": "gan1", "meaning": "catty" },
+      { "id": "jat1gan1-one-catty", "word": "一斤", "jyutping": "jat1 gan1", "meaning": "one catty" },
+      { "id": "bun3gan1-half-a-catty", "word": "半斤", "jyutping": "bun3 gan1", "meaning": "half a catty" },
+      { "id": "loeng5gan1-two-catty", "word": "兩斤", "jyutping": "loeng5 gan1", "meaning": "two catties" }
+    ],
+
+    "volume": [
+      { "id": "gung1sing1-litre", "word": "公升", "jyutping": "gung1 sing1", "meaning": "litre" },
+      { "id": "hou4sing1-millilitre", "word": "毫升", "jyutping": "hou4 sing1", "meaning": "millilitre" },
+      { "id": "jat1bui1-one-cup", "word": "一杯", "jyutping": "jat1 bui1", "meaning": "one cup" },
+      { "id": "bun3bui1-half-a-cup", "word": "半杯", "jyutping": "bun3 bui1", "meaning": "half a cup" },
+      { "id": "jat1zung1-one-bottle", "word": "一樽", "jyutping": "jat1 zeon1", "meaning": "one bottle" },
+      { "id": "jat1wun2-one-bowl", "word": "一碗", "jyutping": "jat1 wun2", "meaning": "one bowl" }
+    ],
+
+    "length_and_distance": [
+      { "id": "mai5-metre", "word": "米", "jyutping": "mai5", "meaning": "metre" },
+      { "id": "cing1mai5-centimetre", "word": "厘米", "jyutping": "cing1 mai5", "meaning": "centimetre" },
+      { "id": "gung1lei5-kilometre", "word": "公里", "jyutping": "gung1 lei5", "meaning": "kilometre" },
+      { "id": "gan6-near", "word": "近", "jyutping": "gan6", "meaning": "near" },
+      { "id": "jyun5-far", "word": "遠", "jyutping": "jyun5", "meaning": "far" },
+      { "id": "jat1gung1lei5-one-kilometre", "word": "一公里", "jyutping": "jat1 gung1 lei5", "meaning": "one kilometre" },
+      { "id": "bun3mai5-half-a-metre", "word": "半米", "jyutping": "bun3 mai5", "meaning": "half a metre" }
+    ],
+
+    "time": [
+      { "id": "si4gaan3-time", "word": "時間", "jyutping": "si4 gaan3", "meaning": "time" },
+      { "id": "fan1zung1-minute", "word": "分鐘", "jyutping": "fan1 zung1", "meaning": "minute" },
+      { "id": "siu2si4-hour", "word": "小時", "jyutping": "siu2 si4", "meaning": "hour" },
+      { "id": "jat1fan1zung1-one-minute", "word": "一分鐘", "jyutping": "jat1 fan1 zung1", "meaning": "one minute" },
+      { "id": "bun3siu2si4-half-an-hour", "word": "半小時", "jyutping": "bun3 siu2 si4", "meaning": "half an hour" },
+      { "id": "jat1go3zung1-one-hour", "word": "一個鐘", "jyutping": "jat1 go3 zung1", "meaning": "one hour" },
+      { "id": "bun3go3zung1-half-an-hour-colloquial", "word": "半個鐘", "jyutping": "bun3 go3 zung1", "meaning": "half an hour" },
+      { "id": "cam4jat6-yesterday", "word": "噚日", "jyutping": "cam4 jat6", "meaning": "yesterday" },
+      { "id": "gam1jat6-today", "word": "今日", "jyutping": "gam1 jat6", "meaning": "today" },
+      { "id": "ting1jat6-tomorrow", "word": "聽日", "jyutping": "ting1 jat6", "meaning": "tomorrow" }
+    ],
+
+    "speed_and_rate": [
+      { "id": "faai3-fast", "word": "快", "jyutping": "faai3", "meaning": "fast" },
+      { "id": "maan6-slow", "word": "慢", "jyutping": "maan6", "meaning": "slow" },
+      { "id": "faai3di1-faster", "word": "快啲", "jyutping": "faai3 di1", "meaning": "a bit faster" },
+      { "id": "maan6di1-a-bit-slower", "word": "慢啲", "jyutping": "maan6 di1", "meaning": "a bit slower" },
+      { "id": "jat1go3zung1-one-hour", "word": "一個鐘", "jyutping": "jat1 go3 zung1", "meaning": "one hour" },
+      { "id": "gung1lei5-si4-kilometres-per-hour", "word": "公里／小時", "jyutping": "gung1 lei5 / siu2 si4", "meaning": "kilometres per hour" }
+    ]
+  }
+}

@@ -1,55 +1,5 @@
 [
   {
-    "file": "r2-backup/words/ci3-repetition.json",
-    "status": "needs_review",
-    "summary": "The English gloss 'rep' is incomplete and should be expanded to 'repetition' or 'reps' for clarity. The example 3's English gloss uses 'pull-ups', which matches '引體向上' correctly. The rest of the Jyutping matches the Chinese sentences well. No wrong readings or tones detected. However, low confidence about the suitability of the English gloss 'rep' as a standalone meaning.",
-    "lowConfidence": true,
-    "issues": [
-      {
-        "path": "meaning",
-        "severity": "medium",
-        "reason": "The English gloss 'rep' is incomplete and potentially unclear as a standalone meaning; it should be 'repetition' or 'reps' to match typical fitness glossary terms.",
-        "currentValue": "rep",
-        "suggestedValue": "repetition",
-        "confidence": 0.85
-      }
-    ]
-  },
-
-  {
-    "file": "r2-backup/words/ci4zo2-delayed.json",
-    "status": "needs_review",
-    "summary": "Example 3's meaning is inconsistent with the sentence. The sentence '遲咗買飛，票已經賣晒。' means 'Bought tickets late; the tickets were already sold out.' but the current English gloss 'I bought tickets late; they were already sold out.' misleads by implying successful purchase. Suggested meaning should clarify that tickets were bought too late and therefore sold out. Also, example 4's jyutping ends with 'ceot1 mun4', but the sentence has no final full stop; minor punctuation mismatch but not critical.",
-    "lowConfidence": false,
-    "issues": [
-      {
-        "path": "examples[2].meaning",
-        "severity": "medium",
-        "reason": "The current English gloss implies successful purchase, but the sentence means tickets were sold out because of buying late.",
-        "currentValue": "I bought tickets late; they were already sold out.",
-        "suggestedValue": "I bought tickets too late; the tickets were already sold out.",
-        "confidence": 0.9
-      }
-    ]
-  },
-
-  {
-    "file": "r2-backup/words/cim1zing3-visa.json",
-    "status": "needs_review",
-    "summary": "The Jyutping for the main word '簽證' is incorrect; it should be 'cim1 zing3' but 'cim1' is a wrong initial for 簽, which should be 'cim1'. However, upon review, '簽' is pronounced 'cim1' according to standard Jyutping ('cim1' is correct). The examples all use 'cim1 zing3', which matches the Chinese text. The example sentences' Jyutping matches the Chinese characters correctly, and English glosses are accurate. However, there is a known standard that '簽' is pronounced 'cim1' in Cantonese, so no correction needed. There is a minor tonal segmentation issue in example 2: 'leoi5 hang4' should be 'leoi5 haang4' (行 is pronounced 'haang4'), so 'hang4' is incorrect tone (should be 4th tone). This is an error. So example 2 Jyutping is incorrect in 'leoi5 hang4' (should be 'leoi5 haang4'). No other issues found.",
-    "lowConfidence": false,
-    "issues": [
-      {
-        "path": "examples[1].jyutping",
-        "severity": "high",
-        "reason": "The character 行 in 旅行 should be pronounced 'haang4' not 'hang4'. The Jyutping 'leoi5 hang4' is incorrect tone and vowel for 行 in this context.",
-        "currentValue": "heoi3 leoi5 hang4 cin4, jiu3 gei3 dak1 lo2 cim1 zing3.",
-        "suggestedValue": "heoi3 leoi5 haang4 cin4, jiu3 gei3 dak1 lo2 cim1 zing3.",
-        "confidence": 0.95
-      }
-    ]
-  },
-  {
     "file": "r2-backup/words/cin1hak1-kilogram.json",
     "status": "needs_review",
     "summary": "The character 克 should be pronounced as 'hak1', but in the third example sentence, the jyutping 'cung5' is incorrect. It should be 'cuk1' for 增重 (gain weight) or 'zang1' for 增. The current jyutping 'wan6 dung6 jyun4 seoi1 jiu3 zang1 cung5 saam1 cin1 hak1' does not match the Chinese sentence. Also, '增重' should be read as 'zang1 cung5' or 'zang1 cung5' depending on intended pronunciation, but 'cung5' character 增 is 'zang1' or 'zang1' in jyutping. The 'cung5' is likely a typo. The correct jyutping for the third example would be 'wan6 dung6 jyun4 seoi1 jiu3 zang1 cung5 saam1 cin1 hak1'. Because 'cung5' is the correct jyutping for 重, the issue is with 'zang1' which should be 'zang1' or 'zang1', but it's acceptable. The current spelling 'zang1' is acceptable, but 'cung5' for 重 is correct. So the main issue is the 'zang1 cung5' part appears acceptable. On closer look, 'zang1' is an uncommon variant for 增, commonly 'zang1' or 'zang1'. However, the main error is 'cung5' being checking if '重' is pronounced 'cung5' or 'cung4' or 'zung6' — Standard jyutping for 重 is 'cung4' or 'zung6'. The correct jyutping for 重 here is 'cung4' or 'zung6'. The data has 'cung5' which is incorrect. So 'cung5' is a mistake. It should be 'cung4' or 'zung6' for 重. Therefore, the jyutping for example 3 is wrong. Suggested correction is 'wan6 dung6 jyun4 seoi1 jiu3 zang1 cung4 saam1 cin1 hak1.'",

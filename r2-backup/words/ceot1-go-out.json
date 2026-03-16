@@ -2,40 +2,40 @@
   "id": "ceot1-go-out",
   "word": "出",
   "jyutping": "ceot1",
-  "meaning": "exit",
+  "meaning": "go out; exit",
   "pos": [
     "verb"
   ],
   "usage": [
-    "The word '出' (ceot1) is commonly used as a verb meaning 'to go out' or 'to exit'.",
-    "'出' can be followed by a place to indicate leaving or exiting that place.",
+    "出 is commonly used as a verb meaning 'to go out' or 'to come out'.",
+    "It often appears in common patterns like 出街 (go out to town), 出去 (go out), or 出門口 (go out the door).",
     "It can be used in both formal and informal contexts.",
-    "'出' can also combine with other verbs or particles to indicate different directions or manners of going out."
+    "出 can also combine with other words to express direction, movement, or leaving a place."
   ],
   "examples": [
     {
       "id": "ceot1-go-out-example-1",
-      "sentence": "我依家要出街。",
-      "jyutping": "ngo5 ji1 gaa1 jiu3 ceot1 gaai1.",
-      "meaning": "I want to go out now."
+      "sentence": "我而家要出街。",
+      "jyutping": "ngo5 ji4 gaa1 jiu3 ceot1 gaai1",
+      "meaning": "I need to go out now."
     },
     {
       "id": "ceot1-go-out-example-2",
-      "sentence": "佢喺門口等住出。",
-      "jyutping": "keoi5 hai2 mun4 hau2 dang2 zyu6 ceot1.",
-      "meaning": "He is waiting at the door to go out."
+      "sentence": "佢頭先出咗去買嘢。",
+      "jyutping": "keoi5 tau4 sin1 ceot1 zo2 heoi3 maai5 je5",
+      "meaning": "He went out to buy something just now."
     },
     {
       "id": "ceot1-go-out-example-3",
       "sentence": "唔好急，慢慢出。",
-      "jyutping": "m4 hou2 gap1, maan6 maan6 ceot1.",
+      "jyutping": "m4 hou2 gap1, maan6 maan6 ceot1",
       "meaning": "Don't rush, go out slowly."
     },
     {
       "id": "ceot1-go-out-example-4",
-      "sentence": "我出咗租屋。",
-      "jyutping": "ngo5 ceot1 zo2 zou1 uk1.",
-      "meaning": "I moved out of the rented flat."
+      "sentence": "我下個月搬出間租屋。",
+      "jyutping": "ngo5 haa6 go3 jyut6 bun1 ceot1 gaan1 zou1 uk1",
+      "meaning": "I’m moving out of the rented flat next month."
     }
   ],
   "audio": {
@@ -51,7 +51,6 @@
     "basic",
     "verb",
     "movement",
-    "exit",
     "daily use",
     "level-1"
   ],

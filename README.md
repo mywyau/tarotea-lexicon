@@ -167,6 +167,21 @@ export <key>
 python3 scripts/extract_example_sentences.py /path/to/your/json-folder examples.json
 ```
 
+### extract sentences from levels
 ```
-python3 scripts/extract_level_sentences.py ./r2-backup/levels/level-ten.json ./r2-backup/words ./sentences/level-ten-sentences.json --dedupe
+python3 scripts/extract_level_sentences.py ./r2-backup/levels/level-ten.json ./r2-backup/words ./sentences/level/level-ten-sentences.json --dedupe
+```
+
+
+### extract sentences from topics
+
+```
+python3 scripts/extract_topics_sentences.py ./r2-backup/topics/science.json ./r2-backup/words ./sentences/topics/science-sentences.json --dedupe
+```
+
+
+### delete topic words from r2 for topic
+
+```
+python3 scripts/delete_topic_from_r2.py 
 ```
