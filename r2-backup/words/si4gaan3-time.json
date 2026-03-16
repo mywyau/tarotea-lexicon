@@ -7,11 +7,11 @@
     "noun"
   ],
   "usage": [
-    "時間 (si4 gaan3) is a noun and generally refers to 'time' as a measurable or perceivable continuum.",
-    "時間 can be used to specify a duration, like 'how much time' or 'a lot of time.'",
-    "You can combine 時間 with verbs like 'have' or 'spend' to talk about managing time, e.g., 'spend time' (花時間).",
-    "時間 can also refer to specific points or periods, like 'meeting time' or 'free time.'",
-    "The word can function as a subject or object in a sentence without additional particles."
+    "Time (時間 si4 gaan3) is used to talk about the measurable period when things happen.",
+    "It can refer to specific points or durations, like 'What time is it?' or 'I don't have enough time.'",
+    "時間 is a noun, so it usually follows verbs or prepositions when used in sentences.",
+    "You can use 時間 with measure words like '個' (go3) when counting chunks of time.",
+    "It’s common to use 時間 in both formal and informal conversations about schedules, deadlines, and daily activities."
   ],
   "examples": [
     {
@@ -22,21 +22,21 @@
     },
     {
       "id": "si4gaan3-time-example-2",
-      "sentence": "我今日冇時間去街。",
-      "jyutping": "ngo5 gam1 jat6 mou5 si4 gaan3 heoi3 gaai1.",
-      "meaning": "I don't have time to go out today."
+      "sentence": "我今日冇時間去買嘢。",
+      "jyutping": "ngo5 gam1 jat6 mou5 si4 gaan3 heoi3 maai5 je5.",
+      "meaning": "I don't have time to go shopping today."
     },
     {
       "id": "si4gaan3-time-example-3",
-      "sentence": "呢個工作需要好多時間。",
-      "jyutping": "ni1 go3 gung1 zok3 seoi1 jiu3 hou2 do1 si4 gaan3.",
-      "meaning": "This job requires a lot of time."
+      "sentence": "時間過得好快。",
+      "jyutping": "si4 gaan3 gwo3 dak1 hou2 faai3.",
+      "meaning": "Time goes by very quickly."
     },
     {
       "id": "si4gaan3-time-example-4",
-      "sentence": "放工後，我有啲自由時間。",
-      "jyutping": "fong3 gung1 hau6, ngo5 jau5 di1 zi6 jau4 si4 gaan3.",
-      "meaning": "After work, I have some free time."
+      "sentence": "你幾點有時間？",
+      "jyutping": "nei5 gei2 dim2 jau5 si4 gaan3?",
+      "meaning": "What time will you be free?"
     }
   ],
   "audio": {
@@ -49,17 +49,18 @@
     ]
   },
   "tags": [
-    "measurement",
+    "basic",
     "time",
-    "daily life",
-    "basic vocabulary",
+    "noun",
+    "daily conversation",
+    "measurements_and_quantities",
     "level-1"
   ],
   "related": [
-    "鐘頭 (zung1 tau4 - hour)",
     "分鐘 (fan1 zung1 - minute)",
-    "日子 (jat6 zi2 - day)",
-    "時間表 (si4 gaan3 biu2 - timetable)",
-    "時候 (si4 hau6 - time/occasion)"
+    "時刻 (si4 hak1 - moment)",
+    "鐘 (zung1 - clock)",
+    "日期 (jat6 kei4 - date)",
+    "時辰 (si4 san4 - ancient time period)"
   ]
 }

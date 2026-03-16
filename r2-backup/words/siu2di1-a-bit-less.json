@@ -2,40 +2,41 @@
   "id": "siu2di1-a-bit-less",
   "word": "少啲",
   "jyutping": "siu2 di1",
-  "meaning": "a bit less",
+  "meaning": "less",
   "pos": [
     "adverb"
   ],
   "usage": [
-    "少啲 is used to indicate a small reduction in quantity or degree.",
-    "It can be used before verbs or adjectives to modify the amount or intensity.",
-    "少啲 often appears in casual conversation to suggest doing something slightly less or to request a small decrease.",
-    "It can also be used to compare quantities, implying slightly less than something else."
+    "1. '少啲' is commonly used to indicate a smaller amount or quantity of something.",
+    "2. It can be used before a noun or a verb to suggest doing or having less of that thing.",
+    "3. As an adverb, '少啲' modifies verbs or adjectives to express a reduction in degree or quantity.",
+    "4. It is often used in requests or suggestions to politely ask for less of something.",
+    "5. The word can appear in affirmative, negative, or interrogative sentences."
   ],
   "examples": [
     {
       "id": "siu2di1-a-bit-less-example-1",
-      "sentence": "你可唔可以少啲鹽？",
-      "jyutping": "nei5 ho2 m4 ho2 ji5 siu2 di1 jim4?",
-      "meaning": "Can you put a bit less salt?"
+      "sentence": "你倒少啲糖好唔好？",
+      "jyutping": "nei5 dou3 siu2 di1 tong4 hou2 m4 hou2?",
+      "meaning": "Can you put a bit less sugar?"
     },
     {
       "id": "siu2di1-a-bit-less-example-2",
-      "sentence": "我想食少啲，唔好食咁多。",
-      "jyutping": "ngo5 soeng2 sik6 siu2 di1, m4 hou2 sik6 gam3 do1.",
-      "meaning": "I want to eat a bit less, not that much."
+      "sentence": "今次買少啲嘢啦，唔好太重。",
+      "jyutping": "gam1 ci3 maai5 siu2 di1 je5 laa1, m4 hou2 taai3 zung6.",
+      "meaning": "Buy a bit less stuff this time, don't make it too heavy."
     },
     {
       "id": "siu2di1-a-bit-less-example-3",
-      "sentence": "呢件衫少啲緊身會舒服啲。",
-      "jyutping": "ni1 gin6 saam1 siu2 di1 gan2 san1 wui5 syu1 fuk6 di1.",
-      "meaning": "This shirt would be more comfortable if it's a bit less tight."
+      "sentence": "你講嘢講少啲聲啦。",
+      "jyutping": "nei5 gong2 je5 gong2 siu2 di1 seng1 laa1.",
+      "meaning": "Speak a bit more quietly."
     },
     {
       "id": "siu2di1-a-bit-less-example-4",
-      "sentence": "聽你講，少啲講啲笑話會好啲。",
-      "jyutping": "teng1 nei5 gong2, siu2 di1 gong2 di1 siu3 waa6 wui5 hou2 di1.",
-      "meaning": "Hearing you, it would be better to tell a bit fewer jokes."
+      "sentence": "今日運動少啲，等下唔會攰。",
+      "jyutping": "gam1 jat6 wan6 dung6 siu2 di1, dang2 haa6 m4 wui5 gui6.",
+      "meaning": "Exercise a bit less today so you won't be tired later."
     }
   ],
   "audio": {
@@ -49,16 +50,17 @@
   },
   "tags": [
     "quantity",
-    "casual",
-    "modifier",
-    "colloquial",
+    "adverb",
+    "polite requests",
+    "daily use",
+    "reduction",
     "level-1"
   ],
   "related": [
     "多啲",
-    "啲",
+    "幾多",
     "細啲",
-    "減少",
-    "少少"
+    "少少",
+    "冇咁多"
   ]
 }

@@ -2,41 +2,41 @@
   "id": "jat1go3-one-item",
   "word": "一個",
   "jyutping": "jat1 go3",
-  "meaning": "one item",
+  "meaning": "one",
   "pos": [
     "noun"
   ],
   "usage": [
-    "一個 (jat1 go3) is used as a measure word to count singular items, often meaning \"one\" or \"a\".",
-    "It can function as a standalone noun phrase to refer to a single object or unit.",
-    "You can use 一個 before nouns to specify the quantity of one item in a casual conversation.",
-    "In questions, 一個 can be used to ask about the quantity of something, e.g., how many items.",
-    "It commonly appears in everyday speech when ordering or talking about discrete objects."
+    "一個 is used to count singular items or objects.",
+    "It is placed before the noun to specify 'one' of something.",
+    "一個 can also refer to a person or thing as a unit.",
+    "When asking questions, 一個 helps specify one item from a group.",
+    "It works together with classifiers (measure words) usually like 個 go3."
   ],
   "examples": [
     {
       "id": "jat1go3-one-item-example-1",
-      "sentence": "我買咗一個蘋果。",
-      "jyutping": "ngo5 maai5 zo2 jat1 go3 ping4 gwo2.",
-      "meaning": "I bought one apple."
+      "sentence": "我要買一個蘋果。",
+      "jyutping": "ngo5 jiu3 maai5 jat1 go3 ping4 gwo2.",
+      "meaning": "I want to buy one apple."
     },
     {
       "id": "jat1go3-one-item-example-2",
-      "sentence": "你要唔要一個杯？",
-      "jyutping": "nei5 jiu3 m4 jiu3 jat1 go3 bui1?",
-      "meaning": "Do you want a cup?"
+      "sentence": "呢個房間有一個床。",
+      "jyutping": "ni1 go3 fong4 gaan1 jau5 jat1 go3 cong4.",
+      "meaning": "This room has one bed."
     },
     {
       "id": "jat1go3-one-item-example-3",
-      "sentence": "佢有一個問題。",
-      "jyutping": "keoi5 jau5 jat1 go3 man6 tai4.",
-      "meaning": "He has one question/problem."
+      "sentence": "佢係一個好人。",
+      "jyutping": "keoi5 hai6 jat1 go3 hou2 jan4.",
+      "meaning": "He is a good person."
     },
     {
       "id": "jat1go3-one-item-example-4",
-      "sentence": "我哋一齊分一個蛋糕。",
-      "jyutping": "ngo5 dei6 jat1 cai4 fan1 jat1 go3 daan6 gou1.",
-      "meaning": "Let's share one cake together."
+      "sentence": "你可以借我一個筆嗎？",
+      "jyutping": "nei5 ho2 ji5 ze3 ngo5 jat1 go3 bat1 maa3?",
+      "meaning": "Can you lend me one pen?"
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
+    "quantity",
+    "counting",
     "basic",
     "measure word",
-    "counting",
-    "everyday",
     "singular",
     "level-1"
   ],
   "related": [
-    "兩個 (loeng5 go3)",
-    "三個 (saam1 go3)",
-    "幾多 (gei2 do1)",
-    "個 (go3)",
-    "件 (gin6)"
+    "兩個",
+    "三個",
+    "幾個",
+    "多個",
+    "個"
   ]
 }

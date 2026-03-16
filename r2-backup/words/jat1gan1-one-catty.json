@@ -7,35 +7,36 @@
     "noun"
   ],
   "usage": [
-    "一斤 is used as a measure word for weight in everyday Cantonese, equivalent to one catty which is about 600 grams.",
-    "It often appears after a number to indicate quantity, such as '兩斤' (two catties) or '半斤' (half a catty).",
-    "You can use 一斤 when buying fruits or meat to specify the desired amount.",
-    "This term is always treated as a noun and typically follows the quantity number directly."
+    "一斤 is used as a measurement unit for weight, commonly in markets and daily life.",
+    "It refers to approximately 604.8 grams in Hong Kong measurement.",
+    "You can use 一斤 before a noun to specify the weight of an object or ingredient.",
+    "It often appears in buying and selling contexts, especially for food items like fruit and meat.",
+    "When speaking, 一斤 usually pairs with the verb '賣' (maai6) meaning 'to sell' or '買' (maai5) meaning 'to buy'."
   ],
   "examples": [
     {
       "id": "jat1gan1-one-catty-example-1",
-      "sentence": "我想買一斤蘋果。",
-      "jyutping": "ngo5 soeng2 maai5 jat1 gan1 ping4 gwo2.",
-      "meaning": "I want to buy one catty of apples."
+      "sentence": "我買咗一斤蘋果。",
+      "jyutping": "ngo5 maai5 zo2 jat1 gan1 ping4 gwo2.",
+      "meaning": "I bought one catty of apples."
     },
     {
       "id": "jat1gan1-one-catty-example-2",
-      "sentence": "呢個魚重一斤幾。",
-      "jyutping": "ni1 go3 jyu4 zung6 jat1 gan1 gei2.",
-      "meaning": "This fish weighs a little over one catty."
+      "sentence": "呢度一斤荔枝幾錢？",
+      "jyutping": "ni1 dou6 jat1 gan1 lai6 zi1 gei2 cin2?",
+      "meaning": "How much is one catty of lychees here?"
     },
     {
       "id": "jat1gan1-one-catty-example-3",
-      "sentence": "請俾我一斤豬肉。",
-      "jyutping": "cing2 bei2 ngo5 jat1 gan1 zyu1 juk6.",
-      "meaning": "Please give me one catty of pork."
+      "sentence": "我要一斤豬肉。",
+      "jyutping": "ngo5 jiu3 jat1 gan1 zyu1 juk6.",
+      "meaning": "I want one catty of pork."
     },
     {
       "id": "jat1gan1-one-catty-example-4",
-      "sentence": "一斤米價錢幾多？",
-      "jyutping": "jat1 gan1 mai5 gaa3 cin2 gei2 do1?",
-      "meaning": "How much does one catty of rice cost?"
+      "sentence": "一斤鹽唔夠，我要多啲。",
+      "jyutping": "jat1 gan1 jim4 m4 gau3, ngo5 jiu3 do1 di1.",
+      "meaning": "One catty of salt isn't enough, I want more."
     }
   ],
   "audio": {
@@ -48,18 +49,17 @@
     ]
   },
   "tags": [
-    "measure word",
+    "measurement",
     "weight",
     "food",
-    "shopping",
-    "everyday use",
+    "market",
+    "daily use",
     "level-1"
   ],
   "related": [
-    "兩斤 (loeng5 gan1) - two catties",
-    "半斤 (bun3 gan1) - half a catty",
+    "兩 (loeng5) - two taels",
     "公斤 (gung1 gan1) - kilogram",
-    "錢 (cin2) - money/price",
-    "重量 (zung6 loeng6) - weight"
+    "克 (hak1) - gram",
+    "磅 (pong3) - pound"
   ]
 }

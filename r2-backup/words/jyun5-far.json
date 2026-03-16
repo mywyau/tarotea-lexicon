@@ -7,36 +7,36 @@
     "adjective"
   ],
   "usage": [
-    "The word '遠' (jyun5) is used to describe the distance between two places or objects.",
-    "'遠' can modify both physical distance and metaphorical distances, like relationships or time.",
-    "You usually place '遠' before the noun or the verb phrase it describes, e.g., '好遠' (very far).",
-    "'遠' can be combined with negation to express 'not far' (唔遠).",
-    "It can also be used in comparisons to indicate which of two places is farther."
+    "遠 (jyun5) describes a long physical distance between two places or objects.",
+    "It can also be used metaphorically to indicate a distant relationship or a time far in the past or future.",
+    "遠 often appears before nouns to describe how far something is, for example, 遠路 (a long journey).",
+    "When used in questions, it asks about the distance or how far something is.",
+    "遠 can also be combined with measurement words to specify exact distances."
   ],
   "examples": [
     {
       "id": "jyun5-far-example-1",
-      "sentence": "我屋企好遠，要搭車先到。",
-      "jyutping": "ngo5 uk1 kei2 hou2 jyun5, jiu3 daap3 ce1 sin1 dou3.",
-      "meaning": "My home is far, I need to take a bus first to get there."
+      "sentence": "呢座商場好遠。",
+      "jyutping": "ni1 zo6 soeng1 coeng4 hou2 jyun5.",
+      "meaning": "This shopping mall is very far."
     },
     {
       "id": "jyun5-far-example-2",
-      "sentence": "距離呢度太遠，我唔想行。",
-      "jyutping": "geoi3 lei6 ni1 dou6 taai3 jyun5, ngo5 m4 soeng2 haang4.",
-      "meaning": "The distance from here is too far, I don't want to walk."
+      "sentence": "我哋屋企遠過學校。",
+      "jyutping": "ngo5 dei6 uk1 kei2 jyun5 gwo3 hok6 haau6.",
+      "meaning": "Our home is farther than the school."
     },
     {
       "id": "jyun5-far-example-3",
-      "sentence": "你住邊度？係唔係好遠？",
-      "jyutping": "nei5 zyu6 bin1 dou6? hai6 m4 hai6 hou2 jyun5?",
-      "meaning": "Where do you live? Is it very far?"
+      "sentence": "你屋企遠唔遠？",
+      "jyutping": "nei5 uk1 kei2 jyun5 m4 jyun5?",
+      "meaning": "Is your home far?"
     },
     {
       "id": "jyun5-far-example-4",
-      "sentence": "坐火車去嗰邊比較快，因為唔係好遠。",
-      "jyutping": "co5 fo2 ce1 heoi3 go2 bin1 bei2 gaau3 faai3, jan1 wai6 m4 hai6 hou2 jyun5.",
-      "meaning": "Taking the train to that side is faster because it’s not very far."
+      "sentence": "佢遲咗，因為路太遠。",
+      "jyutping": "keoi5 ci4 zo2, jan1 wai6 lou6 taai3 jyun5.",
+      "meaning": "He is late because the distance is too far."
     }
   ],
   "audio": {
@@ -50,17 +50,17 @@
   },
   "tags": [
     "distance",
-    "locations",
-    "travel",
-    "basic vocabulary",
-    "describing length",
+    "location",
+    "basic",
+    "adjective",
+    "everyday",
     "level-1"
   ],
   "related": [
-    "近 (gan6) - near",
-    "長 (coeng4) - long",
-    "短 (dyun2) - short",
-    "距離 (geoi3 lei6) - distance",
-    "行 (haang4) - walk"
+    "近 (gan6)",
+    "長 (coeng4)",
+    "間隔 (gaan1 gaak3)",
+    "路程 (lou6 cing4)",
+    "中間 (zung1 gaan1)"
   ]
 }

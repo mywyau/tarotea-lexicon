@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "一個鐘 (jat1 go3 zung1) means 'one hour' in Cantonese and is used to express a time duration.",
-    "You can use 一個鐘 to specify how long an activity lasts or how much time you need.",
-    "It often follows time-related verbs like 'wait', 'work', or 'rest'.",
-    "When talking about plans, you can say something happens after 一個鐘.",
-    "It’s a common way to indicate a 60-minute time period casually."
+    "「一個鐘」usually refers to a duration of exactly one hour.",
+    "It can be used to indicate how long an activity lasts.",
+    "In casual conversations, people say they need \"一個鐘\" to do something, meaning an hour is required.",
+    "It can be combined with verbs like 去 (go), 做 (do), or 等 (wait) to describe time spent."
   ],
   "examples": [
     {
       "id": "jat1go3zung1-one-hour-example-1",
       "sentence": "我等咗你一個鐘。",
-      "jyutping": "ngo5 dang2 zo2 nei5 jat1 go3 zung1.",
+      "jyutping": "ngo5 dang2 zo2 nei5 jat1 go3 zung1",
       "meaning": "I waited for you for one hour."
     },
     {
       "id": "jat1go3zung1-one-hour-example-2",
-      "sentence": "呢個課堂一個鐘長。",
-      "jyutping": "ni1 go3 fo3tong4 jat1 go3 zung1 coeng4.",
-      "meaning": "This class lasts one hour."
+      "sentence": "做功課要一個鐘。",
+      "jyutping": "zou6 gung1 fo3 jiu3 jat1 go3 zung1",
+      "meaning": "Doing homework takes one hour."
     },
     {
       "id": "jat1go3zung1-one-hour-example-3",
-      "sentence": "我哋一個鐘後見。",
-      "jyutping": "ngo5 dei6 jat1 go3 zung1 hau6 gin3.",
-      "meaning": "We will meet in one hour."
+      "sentence": "坐車去尖沙咀一個鐘。",
+      "jyutping": "co5 ce1 heoi3 zim1 saa1 zeoi2 jat1 go3 zung1",
+      "meaning": "It takes one hour by car to get to Tsim Sha Tsui."
     },
     {
       "id": "jat1go3zung1-one-hour-example-4",
-      "sentence": "你做運動做咗一個鐘未？",
-      "jyutping": "nei5 zou6 wan6dung6 zou6 zo2 jat1 go3 zung1 mei6?",
-      "meaning": "Have you exercised for one hour yet?"
+      "sentence": "我哋玩咗一個鐘喇。",
+      "jyutping": "ngo5 dei6 waan2 zo2 jat1 go3 zung1 laa3",
+      "meaning": "We played for one hour already."
     }
   ],
   "audio": {
@@ -52,15 +51,15 @@
     "time",
     "duration",
     "hour",
-    "daily use",
-    "basic",
+    "everyday",
+    "measurement",
     "level-1"
   ],
   "related": [
-    "半個鐘 (bun3 go3 zung1) - half an hour",
-    "鐘 (zung1) - hour; clock",
     "分鐘 (fan1 zung1) - minute",
-    "幾耐 (gei2 noi6) - how long?",
-    "鐘頭 (zung1 tau4) - hour"
+    "半個鐘 (bun3 go3 zung1) - half an hour",
+    "鐘 (zung1) - hour/timepiece",
+    "時間 (si4 gaan3) - time",
+    "日 (jat6) - day"
   ]
 }

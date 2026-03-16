@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word '今日' is a noun and means 'today'.",
-    "'今日' is used to refer to the current day.",
-    "It can be placed at the beginning or middle of a sentence, depending on sentence structure.",
-    "You can use '今日' to specify when an action happens, like '今日食飯' means 'eat today'.",
-    "'今日' can stand alone or be part of time phrases combined with other words."
+    "今日 (gam1 jat6) is used to refer to the current day, from midnight to midnight.",
+    "It can be used alone as a subject, object, or adverbial time phrase in a sentence.",
+    "When talking about plans or events, 今日 often helps specify timing clearly without needing extra words.",
+    "It can combine with verbs like '去' (heoi3 - to go) or '做' (zou6 - to do) to indicate actions happening today.",
+    "今日 contrasts with words like 聽日 (ting1 jat6 - tomorrow) and 昨日 (zok6 jat6 - yesterday) to position events on the timeline."
   ],
   "examples": [
     {
       "id": "gam1jat6-today-example-1",
-      "sentence": "今日我去買嘢。",
-      "jyutping": "gam1 jat6 ngo5 heoi3 maai5 je5.",
-      "meaning": "Today I am going shopping."
+      "sentence": "我今日要返工。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1.",
+      "meaning": "I have to go to work today."
     },
     {
       "id": "gam1jat6-today-example-2",
-      "sentence": "你今日有冇空？",
-      "jyutping": "nei5 gam1 jat6 jau5 mou5 hung1?",
-      "meaning": "Are you free today?"
+      "sentence": "今日天氣好熱。",
+      "jyutping": "gam1 jat6 tin1 hei3 hou2 jit6.",
+      "meaning": "The weather is very hot today."
     },
     {
       "id": "gam1jat6-today-example-3",
-      "sentence": "今日嘅天氣幾好。",
-      "jyutping": "gam1 jat6 ge3 tin1 hei3 gei2 hou2.",
-      "meaning": "Today's weather is quite good."
+      "sentence": "我哋今日去飲茶啦！",
+      "jyutping": "ngo5 dei6 gam1 jat6 heoi3 jam2 caa4 laa1!",
+      "meaning": "Let's go have dim sum today!"
     },
     {
       "id": "gam1jat6-today-example-4",
-      "sentence": "我今日唔想返工。",
-      "jyutping": "ngo5 gam1 jat6 m4 soeng2 faan1 gung1.",
-      "meaning": "I don't want to go to work today."
+      "sentence": "今日有冇考試？",
+      "jyutping": "gam1 jat6 jau5 mou5 haau2 si3?",
+      "meaning": "Is there an exam today?"
     }
   ],
   "audio": {
@@ -53,14 +53,13 @@
     "daily",
     "basic",
     "noun",
-    "measurement",
     "level-1"
   ],
   "related": [
     "聽日",
-    "昨曰",
-    "時候",
-    "日子",
+    "昨日",
+    "今日頭先",
+    "而家",
     "今晚"
   ]
 }

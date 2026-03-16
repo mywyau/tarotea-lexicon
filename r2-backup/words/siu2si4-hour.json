@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word 小時 (siu2 si4) is used to measure time durations, equivalent to an hour in English.",
-    "It is a noun and typically follows a number to indicate quantity, like 'two hours' or 'three hours'.",
-    "In questions, it can be used to ask about the length of time, for example, 'How many hours?'",
-    "To express fractions of an hour, 小時 can be combined with other time words, such as 'half an hour'.",
-    "It is often paired with verbs related to time, such as 'work', 'wait', or 'drive'."
+    "小時 (siu2 si4) is used to measure time intervals and always refers to a duration of 60 minutes.",
+    "It can be used with numbers to specify how long an activity lasts, for example, 'two 小時' means 'two hours'.",
+    "In Cantonese, 小時 can appear before or after a number, but it is most natural to say the number first then 小時.",
+    "When asking about or telling time duration, use 小時 with verbs like '行' (walk), '學' (study), or '工作' (work).",
+    "小時 is a noun, so it can be combined with classifiers or time-related words to express different time-related concepts."
   ],
   "examples": [
     {
       "id": "siu2si4-hour-example-1",
-      "sentence": "我做咗兩個小時功課。",
-      "jyutping": "ngo5 zou6 zo2 loeng5 go3 siu2 si4 gung1 fo3.",
-      "meaning": "I did homework for two hours."
+      "sentence": "我睇咗兩個小時嘅電視。",
+      "jyutping": "ngo5 tai2 zo2 loeng5 go3 siu2 si4 ge3 din6 si6.",
+      "meaning": "I watched TV for two hours."
     },
     {
       "id": "siu2si4-hour-example-2",
-      "sentence": "坐車要三個小時先到。",
-      "jyutping": "co5 ce1 jiu3 saam1 go3 siu2 si4 sin1 dou3.",
-      "meaning": "It takes three hours to get there by car."
+      "sentence": "我哋喺度等咗一個小時。",
+      "jyutping": "ngo5 dei6 hai2 dou6 dang2 zo2 jat1 go3 siu2 si4.",
+      "meaning": "We waited here for one hour."
     },
     {
       "id": "siu2si4-hour-example-3",
-      "sentence": "你今日返工幾多個小時？",
-      "jyutping": "nei5 gam1 jat6 faan1 gung1 gei2 do1 go3 siu2 si4?",
-      "meaning": "How many hours did you work today?"
+      "sentence": "你做功課要幾多小時？",
+      "jyutping": "nei5 zou6 gung1 fo3 jiu3 gei2 do1 siu2 si4?",
+      "meaning": "How many hours do you need to do homework?"
     },
     {
       "id": "siu2si4-hour-example-4",
-      "sentence": "等咗半個小時先有位。",
-      "jyutping": "dang2 zo2 bun3 go3 siu2 si4 sin1 jau5 wai2.",
-      "meaning": "Waited half an hour before there was a seat."
+      "sentence": "飛機遲咗幾個小時先起飛。",
+      "jyutping": "fei1 gei1 ci4 zo2 gei2 go3 siu2 si4 sin1 hei2 fei1.",
+      "meaning": "The plane took off a few hours late."
     }
   ],
   "audio": {
@@ -50,9 +50,9 @@
   },
   "tags": [
     "time",
+    "measurement",
     "duration",
-    "hour",
-    "measurements",
+    "hours",
     "daily use",
     "level-1"
   ],
@@ -60,7 +60,7 @@
     "分鐘 (fan1 zung1)",
     "日 (jat6)",
     "秒 (miu5)",
-    "星期 (sing1 kei4)",
-    "年 (nin4)"
+    "時間 (si4 gaan3)",
+    "鐘 (zung1)"
   ]
 }

@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "‘ting1 jat6’ means 'tomorrow' and is used to talk about the day after today.",
-    "It is commonly placed at the beginning or end of a sentence to specify the time when something will happen.",
-    "‘ting1 jat6’ can be used with verbs to indicate future actions or plans.",
-    "It is an informal, everyday way to say ‘tomorrow’ in spoken Cantonese.",
-    "You can also use ‘ting1 jat6 mou5 gin3’ to mean 'see you tomorrow'."
+    "Tomorrow is used to refer to the day after today.",
+    "It typically functions as a noun and can be used on its own or with other words related to time.",
+    "You can use 'tomorrow' when making plans or talking about events that will happen the next day.",
+    "It often appears with verbs like 'go', 'see', 'do', or 'meet'.",
+    "In casual speech, 'tomorrow' can also be used to suggest a near future, not strictly limited to the next day."
   ],
   "examples": [
     {
       "id": "ting1jat6-tomorrow-example-1",
-      "sentence": "我聽日返工。",
-      "jyutping": "ngo5 ting1 jat6 faan1 gung1.",
-      "meaning": "I will go to work tomorrow."
+      "sentence": "我聽日去街。",
+      "jyutping": "ngo5 ting1 jat6 heoi3 gaai1",
+      "meaning": "I will go out tomorrow."
     },
     {
       "id": "ting1jat6-tomorrow-example-2",
-      "sentence": "你聽日有冇時間？",
-      "jyutping": "nei5 ting1 jat6 jau5 mou5 si4 gaan3?",
-      "meaning": "Do you have time tomorrow?"
+      "sentence": "聽日見啦！",
+      "jyutping": "ting1 jat6 gin3 laa1",
+      "meaning": "See you tomorrow!"
     },
     {
       "id": "ting1jat6-tomorrow-example-3",
-      "sentence": "聽日我哋去食飯啦。",
-      "jyutping": "ting1 jat6 ngo5 dei6 heoi3 sik6 faan6 laa1.",
-      "meaning": "Let's go eat tomorrow."
+      "sentence": "聽日會落雨。",
+      "jyutping": "ting1 jat6 wui5 lok6 jyu5",
+      "meaning": "It will rain tomorrow."
     },
     {
       "id": "ting1jat6-tomorrow-example-4",
-      "sentence": "你聽日幾點返嚟？",
-      "jyutping": "nei5 ting1 jat6 gei2 dim2 faan1 lai4?",
-      "meaning": "What time will you come back tomorrow?"
+      "sentence": "我聽日有個考試。",
+      "jyutping": "ngo5 ting1 jat6 jau5 go3 haau2 si3",
+      "meaning": "I have an exam tomorrow."
     }
   ],
   "audio": {
@@ -50,15 +50,16 @@
   },
   "tags": [
     "time",
+    "daily use",
     "future",
-    "daily conversation",
-    "informal",
+    "noun",
     "level-1"
   ],
   "related": [
     "今日",
     "尋日",
-    "後日",
-    "明日"
+    "下星期",
+    "朝早",
+    "夜晚"
   ]
 }

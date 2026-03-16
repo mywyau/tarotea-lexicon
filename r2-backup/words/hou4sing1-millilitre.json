@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word '毫升' (hou4 sing1) is a noun used to describe a unit of volume, specifically millilitre.",
-    "It is commonly used when measuring liquids in small quantities.",
-    "You often find '毫升' used in recipes, medical dosages, and packaging.",
-    "The quantity is usually expressed as a number followed by '毫升'.",
-    "It can be used with verbs like '量' (to measure) and '加' (to add)."
+    "The word '毫升' is used to measure small volumes of liquids, commonly in recipes or medical dosages.",
+    "It always follows a numerical value to specify the amount, such as '50 毫升' meaning '50 millilitres'.",
+    "'毫升' can be used in both formal and informal contexts when talking about liquid quantities.",
+    "In a sentence, '毫升' usually comes after the number and before the object being measured, if stated.",
+    "It's a unit of measurement in the metric system, so it connects well with other metric units."
   ],
   "examples": [
     {
       "id": "hou4sing1-millilitre-example-1",
-      "sentence": "呢杯水有五百毫升。",
-      "jyutping": "ni1 bui1 seoi2 jau5 ng5 baak3 hou4 sing1.",
-      "meaning": "This cup of water has 500 millilitres."
+      "sentence": "呢個藥要係20毫升水入面沖。",
+      "jyutping": "ni1 go3 joek6 jiu3 hai6 20 hou4 sing1 seoi2 jap6 min6 cung1.",
+      "meaning": "This medicine needs to be diluted in 20 millilitres of water."
     },
     {
       "id": "hou4sing1-millilitre-example-2",
-      "sentence": "醫生話要飲十毫升藥水。",
-      "jyutping": "ji1 sang1 waa6 jiu3 jam2 sap6 hou4 sing1 joek6 seoi2.",
-      "meaning": "The doctor said to take 10 millilitres of medicine."
+      "sentence": "我嘅水樽裝咗500毫升水。",
+      "jyutping": "ngo5 ge3 seoi2 tyun4 zong1 zo2 500 hou4 sing1 seoi2.",
+      "meaning": "My water bottle holds 500 millilitres of water."
     },
     {
       "id": "hou4sing1-millilitre-example-3",
-      "sentence": "汽水罐入面有三百毫升汽水。",
-      "jyutping": "hei3 seoi2 gun3 jap6 min6 jau5 saam1 baak3 hou4 sing1 hei3 seoi2.",
-      "meaning": "The soda can contains 300 millilitres of soda."
+      "sentence": "你應該用30毫升啲牛奶落去咖啡。",
+      "jyutping": "nei5 jing1 goi1 jung6 30 hou4 sing1 di1 ngau4 naai5 lok6 heoi3 gaa3 fe1.",
+      "meaning": "You should add 30 millilitres of milk to the coffee."
     },
     {
       "id": "hou4sing1-millilitre-example-4",
-      "sentence": "你量多啲水，差唔多一百毫升。",
-      "jyutping": "nei5 loeng6 do1 di1 seoi2, caa1 m4 do1 jat1 baak3 hou4 sing1.",
-      "meaning": "Measure more water, about 100 millilitres."
+      "sentence": "呢支針筒可以注入10毫升液體。",
+      "jyutping": "ni1 zi1 zan1 tung4 ho2 ji5 zyu3 jap6 10 hou4 sing1 jik6 tai2.",
+      "meaning": "This syringe can inject 10 millilitres of liquid."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "unit",
-    "measurement",
+    "measurements",
     "volume",
-    "liquid",
-    "everyday",
+    "metric units",
+    "liquids",
+    "daily use",
     "level-1"
   ],
   "related": [
-    "升 (sing1) - litre",
+    "升 (seong1) - litre",
     "毫克 (hou4 hak1) - milligram",
-    "克 (hak1) - gram",
-    "加侖 (gaa1 leon4) - gallon",
-    "公升 (gung1 sing1) - liter"
+    "公斤 (gung1 gan1) - kilogram",
+    "分升 (fan1 seong1) - decilitre",
+    "克 (hak1) - gram"
   ]
 }

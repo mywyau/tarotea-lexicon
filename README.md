@@ -176,7 +176,7 @@ python3 scripts/extract_level_sentences.py ./r2-backup/levels/level-ten.json ./r
 ### extract sentences from topics
 
 ```
-python3 scripts/extract_topics_sentences.py ./r2-backup/topics/measure-quantities.json ./r2-backup/words ./sentences/topics/measure-quantities.json --dedupe
+python3 scripts/extract_topics_sentences.py ./r2-backup/topics/family-members.json ./r2-backup/words ./sentences/topics/family-members-sentences.json --dedupe
 ```
 
 

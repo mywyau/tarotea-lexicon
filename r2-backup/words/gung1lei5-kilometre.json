@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word 公里 (gung1 lei5) refers to a unit of distance measurement, equivalent to one thousand meters.",
-    "It is used to describe how far or long something is between two points.",
-    "You can use 公里 to talk about distances in everyday situations, such as driving, walking, or traveling.",
-    "In sentences, 公里 usually comes after a number to indicate the length, for example, '5 公里' means '5 kilometres.'",
-    "It can be combined with verbs related to movement or measurement, like '行' (walk) or '開車' (drive)."
+    "The word ‘公里’ is a noun used to measure distance, equivalent to 'kilometre' in English.",
+    "‘公里’ usually comes after a number to indicate how many kilometres.",
+    "It can be used in both spoken and written Cantonese when talking about distance between places.",
+    "You often see ‘公里’ when discussing running distances, travel distances, or maps.",
+    "‘公里’ can be combined with time words (like hours) to describe speed, e.g., kilometers per hour."
   ],
   "examples": [
     {
       "id": "gung1lei5-kilometre-example-1",
-      "sentence": "我行咗三公里啫。",
-      "jyutping": "ngo5 haang4 zo2 saam1 gung1 lei5 ze1.",
-      "meaning": "I only walked three kilometres."
+      "sentence": "我屋企離公司有十公里。",
+      "jyutping": "ngo5 uk1 kei2 lei4 gung1 si1 jau5 sap6 gung1 lei5。",
+      "meaning": "My home is 10 kilometres away from the office."
     },
     {
       "id": "gung1lei5-kilometre-example-2",
-      "sentence": "目的地係十公里外。",
-      "jyutping": "muk6 dik1 dei6 hai6 sap6 gung1 lei5 ngoi6.",
-      "meaning": "The destination is ten kilometres away."
+      "sentence": "呢條路長五公里。",
+      "jyutping": "ni1 tiu4 lou6 coeng4 ng5 gung1 lei5。",
+      "meaning": "This road is 5 kilometres long."
     },
     {
       "id": "gung1lei5-kilometre-example-3",
-      "sentence": "巴士要行十五公里先停。",
-      "jyutping": "baa1 si2 jiu3 haang4 sap6 ng5 gung1 lei5 sin1 ting4.",
-      "meaning": "The bus will stop only after traveling 15 kilometres."
+      "sentence": "我行咗兩公里就攰喇。",
+      "jyutping": "ngo5 haang4 zo2 loeng5 gung1 lei5 zau6 gui6 laa3。",
+      "meaning": "I got tired after walking 2 kilometres."
     },
     {
       "id": "gung1lei5-kilometre-example-4",
-      "sentence": "佢住喺離我屋企八公里嘅地方。",
-      "jyutping": "keoi5 zyu6 hai2 lei4 ngo5 uk1 kei2 baat3 gung1 lei5 ge3 dei6 fong1.",
-      "meaning": "He lives in a place eight kilometres from my home."
+      "sentence": "巴士行緊每小時六十公里。",
+      "jyutping": "baa1 si2 haang4 gan2 mui5 siu2 si4 luk6 sap6 gung1 lei5。",
+      "meaning": "The bus is travelling at 60 kilometres per hour."
     }
   ],
   "audio": {
@@ -51,16 +51,16 @@
   "tags": [
     "distance",
     "measurement",
-    "length",
     "travel",
-    "units",
+    "geometry",
+    "speed",
     "level-1"
   ],
   "related": [
-    "米 (mai5) - meter",
-    "厘米 (laam4 lei5) - centimeter",
-    "公尺 (gung1 cek3) - meter",
+    "米 (mai5) - metre",
+    "公尺 (gung1 cek3) - metre",
     "英里 (jing1 lei5) - mile",
-    "寸 (cyun3) - inch"
+    "厘米 (laang4 mei4) - centimetre",
+    "公分 (gung1 fan1) - centimentre"
   ]
 }

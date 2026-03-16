@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "噚日 is used to refer to the day before today.",
-    "It functions as a noun, often placed before verbs or time expressions to indicate when something happened.",
-    "It can appear at the beginning or middle of a sentence depending on emphasis.",
-    "When talking about activities or events, 噚日 helps specify that they occurred yesterday.",
-    "It's a very common everyday word and can be shortened to 喺噚日 in casual speech."
+    "The word 噚日 (cam4 jat6) is used to refer specifically to the day before today, or 'yesterday'.",
+    "It functions as a noun and can be the subject, object, or temporal adverb in a sentence.",
+    "It often appears at the start or middle of a sentence to indicate when something happened.",
+    "噚日 is an informal, conversational way of saying 'yesterday' in Cantonese.",
+    "You can combine 噚日 with verbs to talk about actions that took place the day before today."
   ],
   "examples": [
     {
       "id": "cam4jat6-yesterday-example-1",
-      "sentence": "噚日我去咗街市買嘢。",
-      "jyutping": "cam4 jat6 ngo5 heoi3 zo2 gaai1 si5 maai5 je5.",
-      "meaning": "I went to the market yesterday."
+      "sentence": "我噚日去咗街。",
+      "jyutping": "ngo5 cam4 jat6 heoi3 zo2 gaai1.",
+      "meaning": "I went out yesterday."
     },
     {
       "id": "cam4jat6-yesterday-example-2",
-      "sentence": "你噚日食咗飯未？",
-      "jyutping": "nei5 cam4 jat6 sik6 zo2 faan6 mei6?",
-      "meaning": "Did you eat (a meal) yesterday?"
+      "sentence": "噚日無帶傘，結果落雨淋濕晒。",
+      "jyutping": "cam4 jat6 mou4 daai3 saan3, git3 gwo2 lok6 jyu5 lam4 sap1 saai3.",
+      "meaning": "Yesterday I didn’t bring an umbrella, and as a result I got soaked in the rain."
     },
     {
       "id": "cam4jat6-yesterday-example-3",
-      "sentence": "噚日啲天氣好熱。",
-      "jyutping": "cam4 jat6 di1 tin1 hei3 hou2 jit6.",
-      "meaning": "The weather was very hot yesterday."
+      "sentence": "你噚日食咗啲乜嘢？",
+      "jyutping": "nei5 cam4 jat6 sik6 zo2 di1 mat1 je5?",
+      "meaning": "What did you eat yesterday?"
     },
     {
       "id": "cam4jat6-yesterday-example-4",
-      "sentence": "我噚日睇咗部新戲，好好睇！",
-      "jyutping": "ngo5 cam4 jat6 tai2 zo2 bou6 san1 hei3, hou2 hou2 tai2!",
-      "meaning": "I watched a new movie yesterday; it was very good!"
+      "sentence": "噚日啲學生考試，佢考得唔錯。",
+      "jyutping": "cam4 jat6 di1 hok6 saang1 haau2 si3, keoi5 haau2 dak1 m4 co3.",
+      "meaning": "Yesterday the students had an exam, and he did quite well."
     }
   ],
   "audio": {
@@ -50,16 +50,17 @@
   },
   "tags": [
     "time",
-    "daily life",
-    "basic",
-    "noun",
+    "everyday",
+    "informal",
+    "temporal noun",
+    "past",
     "level-1"
   ],
   "related": [
     "今日 (gam1 jat6) - today",
     "聽日 (ting1 jat6) - tomorrow",
-    "上星期 (soeng6 sing1 kei4) - last week",
-    "下星期 (haa6 sing1 kei4) - next week",
-    "之前 (zi1 cin4) - before"
+    "朝早 (ziu1 zou2) - morning",
+    "夜晚 (je6 maan5) - evening",
+    "上晝 (soeng6 zau3) - daytime"
   ]
 }

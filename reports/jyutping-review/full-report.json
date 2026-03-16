@@ -1,22 +1,5 @@
 [
   {
-    "file": "r2-backup/words/cin1hak1-kilogram.json",
-    "status": "needs_review",
-    "summary": "The character 克 should be pronounced as 'hak1', but in the third example sentence, the jyutping 'cung5' is incorrect. It should be 'cuk1' for 增重 (gain weight) or 'zang1' for 增. The current jyutping 'wan6 dung6 jyun4 seoi1 jiu3 zang1 cung5 saam1 cin1 hak1' does not match the Chinese sentence. Also, '增重' should be read as 'zang1 cung5' or 'zang1 cung5' depending on intended pronunciation, but 'cung5' character 增 is 'zang1' or 'zang1' in jyutping. The 'cung5' is likely a typo. The correct jyutping for the third example would be 'wan6 dung6 jyun4 seoi1 jiu3 zang1 cung5 saam1 cin1 hak1'. Because 'cung5' is the correct jyutping for 重, the issue is with 'zang1' which should be 'zang1' or 'zang1', but it's acceptable. The current spelling 'zang1' is acceptable, but 'cung5' for 重 is correct. So the main issue is the 'zang1 cung5' part appears acceptable. On closer look, 'zang1' is an uncommon variant for 增, commonly 'zang1' or 'zang1'. However, the main error is 'cung5' being checking if '重' is pronounced 'cung5' or 'cung4' or 'zung6' — Standard jyutping for 重 is 'cung4' or 'zung6'. The correct jyutping for 重 here is 'cung4' or 'zung6'. The data has 'cung5' which is incorrect. So 'cung5' is a mistake. It should be 'cung4' or 'zung6' for 重. Therefore, the jyutping for example 3 is wrong. Suggested correction is 'wan6 dung6 jyun4 seoi1 jiu3 zang1 cung4 saam1 cin1 hak1.'",
-    "lowConfidence": false,
-    "issues": [
-      {
-        "path": "examples[2].jyutping",
-        "severity": "high",
-        "reason": "Jyutping 'cung5' for 重 is incorrect; correct tone for 重 in this context is 'cung4' or possibly 'zung6'.",
-        "currentValue": "wan6 dung6 jyun4 seoi1 jiu3 zang1 cung5 saam1 cin1 hak1.",
-        "suggestedValue": "wan6 dung6 jyun4 seoi1 jiu3 zang1 cung4 saam1 cin1 hak1.",
-        "confidence": 0.95
-      }
-    ]
-  },
-
-  {
     "file": "r2-backup/words/cin4gung1zeon6fai3-effort-wasted.json",
     "status": "needs_review",
     "summary": "There is a tone error in the jyutping for the word '盡' in '前功盡廢'. It is currently marked as 'zeon6' but it should be 'zeon2'.",

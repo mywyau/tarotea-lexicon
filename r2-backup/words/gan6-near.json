@@ -4,40 +4,39 @@
   "jyutping": "gan6",
   "meaning": "near",
   "pos": [
-    "adjective",
-    "adverb"
+    "adjective"
   ],
   "usage": [
-    "Near (近, gan6) is commonly used as an adjective to describe the physical proximity of places or objects.",
-    "You can use near to refer to the closeness of time or events, not just physical space.",
-    "As an adverb, near can modify verbs to indicate an action happening close to a place or object.",
-    "Near often contrasts with the word far (遠, jyun5) to express distance.",
-    "Near can be combined with location or time phrases to specify exactly what is close."
+    "The word '近' is used to describe something being nearby or close in distance.",
+    "It can be used to compare distances by saying 'A 近 B' meaning A is closer to B.",
+    "'近' can also be used in time expressions to indicate something will happen soon.",
+    "It often appears before nouns to specify location, e.g., '近商場' means near the mall.",
+    "In negative sentences, you can say '唔近' to mean not close or far."
   ],
   "examples": [
     {
       "id": "gan6-near-example-1",
-      "sentence": "我屋企好近地鐵站。",
-      "jyutping": "ngo5 uk1 kei2 hou2 gan6 dei6 tit3 zaam6.",
-      "meaning": "My home is very near the MTR station."
+      "sentence": "我屋企近學校。",
+      "jyutping": "ngo5 uk1 kei2 gan6 hok6 haau6.",
+      "meaning": "My home is near the school."
     },
     {
       "id": "gan6-near-example-2",
-      "sentence": "你喺邊度？我喺公司附近，好近嘅。",
-      "jyutping": "nei5 hai2 bin1 dou6? ngo5 hai2 gung1 si1 fu6 gan6, hou2 gan6 ge3.",
-      "meaning": "Where are you? I'm near the company, very close."
+      "sentence": "餐廳唔近，行路要十五分鐘。",
+      "jyutping": "caan1 teng1 m4 gan6, haang4 lou6 jiu3 sap6 ng5 fan1 zung1.",
+      "meaning": "The restaurant is not near; it takes fifteen minutes to walk."
     },
     {
       "id": "gan6-near-example-3",
-      "sentence": "聖誕節快到喇，好近啦。",
-      "jyutping": "sing3 daan3 zit3 faai3 dou3 laa3, hou2 gan6 laa1.",
-      "meaning": "Christmas is coming soon, it's near."
+      "sentence": "你屋企近邊度？",
+      "jyutping": "nei5 uk1 kei2 gan6 bin1 dou6?",
+      "meaning": "Where is your home near?"
     },
     {
       "id": "gan6-near-example-4",
-      "sentence": "我哋嘅客廳近窗口，光線好多。",
-      "jyutping": "ngo5 dei6 ge3 haak3 teng1 gan6 coeng1 hau2, gwong1 sin3 hou2 do1.",
-      "meaning": "Our living room is near the window, lots of light."
+      "sentence": "比賽近咗，下星期就開始。",
+      "jyutping": "bei2 coi3 gan6 zo2, haa6 sing1 kei4 zau6 hoi1 ci2.",
+      "meaning": "The competition is near, it starts next week."
     }
   ],
   "audio": {
@@ -50,18 +49,18 @@
     ]
   },
   "tags": [
-    "distance",
     "location",
+    "distance",
     "time",
+    "common",
     "basic",
-    "everyday",
     "level-1"
   ],
   "related": [
-    "遠 (jyun5 - far)",
-    "附近 (fu6 gan6 - nearby)",
-    "左右 (zo2 jau6 - around)",
-    "接近 (zip3 gan6 - approach)",
-    "隔離 (gaak3 lei4 - next to)"
+    "遠 jyun5",
+    "旁邊 pong4 bin1",
+    "附近 fu6 gan6",
+    "隔離 gaak3 lei4",
+    "附近 fu6 gan6"
   ]
 }

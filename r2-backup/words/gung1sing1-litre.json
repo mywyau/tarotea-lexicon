@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word '公升' (gung1 sing1) is used to measure volume, especially liquids.",
-    "'公升' is a countable noun and can be quantified, for example, '兩公升' means 'two litres'.",
-    "When talking about quantity, you generally put a number before '公升', like '三公升' (three litres).",
-    "'公升' can be combined with containers, like '一公升水' to mean one litre of water.",
-    "It is commonly used in daily life for beverages, fuel, or any fluids."
+    "‘公升’ is used to measure liquid volume, especially for beverages and liquids in containers.",
+    "It often appears with numbers to indicate quantity, for example, '一公升' means one litre.",
+    "‘公升’ can be combined with classifiers like '樽' (bottle) to specify packaging.",
+    "In sentences, it usually follows the quantity and precedes the noun or unit container.",
+    "It is a standard unit in metric volume measurement, and it is commonly used in daily life for cooking, shopping, and measurements."
   ],
   "examples": [
     {
       "id": "gung1sing1-litre-example-1",
-      "sentence": "呢樽水有一公升。",
-      "jyutping": "ni1 syun1 seoi2 jau5 jat1 gung1 sing1.",
-      "meaning": "This bottle of water has one litre."
+      "sentence": "我買咗兩公升水。",
+      "jyutping": "ngo5 maai5 zo2 loeng5 gung1 sing1 seoi2.",
+      "meaning": "I bought two litres of water."
     },
     {
       "id": "gung1sing1-litre-example-2",
-      "sentence": "加緊油，仲有五公升。",
-      "jyutping": "gaa1 gan2 jau4, zung6 jau5 ng5 gung1 sing1.",
-      "meaning": "Filling petrol, there are still five litres left."
+      "sentence": "呢支汽水係一公升裝。",
+      "jyutping": "ni1 zi1 hei3 seoi2 hai6 jat1 gung1 sing1 zong1.",
+      "meaning": "This soda is one litre."
     },
     {
       "id": "gung1sing1-litre-example-3",
-      "sentence": "煲湯要兩公升水。",
-      "jyutping": "bo1 tong1 jiu3 loeng5 gung1 sing1 seoi2.",
-      "meaning": "Making soup requires two litres of water."
+      "sentence": "你要幾多公升牛奶？",
+      "jyutping": "nei5 jiu3 gei2 do1 gung1 sing1 ngau4 naai5?",
+      "meaning": "How many litres of milk do you want?"
     },
     {
       "id": "gung1sing1-litre-example-4",
-      "sentence": "我買咗三公升橙汁。",
-      "jyutping": "ngo5 maai5 zo2 saam1 gung1 sing1 caang4 zap1.",
-      "meaning": "I bought three litres of orange juice."
+      "sentence": "煲湯時要加三公升水。",
+      "jyutping": "bou1 tong1 si4 jiu3 gaa1 saam1 gung1 sing1 seoi2.",
+      "meaning": "You need to add three litres of water when making soup."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "measurements",
     "volume",
+    "measurement",
     "liquid",
-    "daily life",
-    "countable nouns",
+    "everyday",
+    "shopping",
     "level-1"
   ],
   "related": [
     "毫升 (hou4 sing1)",
-    "桶 (tung5)",
-    "瓶 (ping4)",
+    "公克 (gung1 hak1)",
+    "升 (sing1)",
     "容量 (jung4 loeng6)",
-    "液體 (jik6 tai2)"
+    "公斤 (gung1 gan1)"
   ]
 }

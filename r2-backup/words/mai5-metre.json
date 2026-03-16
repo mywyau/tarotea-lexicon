@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word '米' (metre) is used as a noun to describe units of length.",
-    "You can use '米' to talk about distances or dimensions in everyday life.",
-    "When using '米', it usually comes after a number to specify length, e.g., ‘三米’ means three metres.",
-    "It is common to measure things like room size, cloth length, or height in meters using '米'.",
-    "You can combine '米' with other measurement words to compare sizes, such as '米幾' for approximately meters."
+    "The word 米 (mai5) is used to describe the unit of length 'metre' in Cantonese.",
+    "It usually follows a number directly to indicate distance or size, for example, '一米' means 'one metre'.",
+    "米 can be combined with measurement expressions, like '長度幾多米？' (How many metres long?).",
+    "When used in a sentence, 米 acts like a noun and does not change form for singular or plural.",
+    "You can use 米 in daily situations involving measurements, such as describing room size or height."
   ],
   "examples": [
     {
       "id": "mai5-metre-example-1",
-      "sentence": "呢條繩長五米。",
-      "jyutping": "ni1 tiu4 sing4 coeng4 ng5 mai5.",
-      "meaning": "This rope is five metres long."
+      "sentence": "呢張枱有兩米長。",
+      "jyutping": "ni1 zoeng1 toi2 jau5 loeng5 mai5 coeng4.",
+      "meaning": "This table is two metres long."
     },
     {
       "id": "mai5-metre-example-2",
-      "sentence": "我哋要買兩米嘅窗簾。",
-      "jyutping": "ngo5 dei6 jiu3 maai5 loeng5 mai5 ge3 coeng1 lin4.",
-      "meaning": "We need to buy two metres of curtains."
+      "sentence": "我屋企同學校差唔多一百米遠。",
+      "jyutping": "ngo5 uk1 kei2 tung4 hok6 haau6 caa1 m4 do1 jat1 baak3 mai5 jyun5.",
+      "meaning": "My home is about 100 metres from the school."
     },
     {
       "id": "mai5-metre-example-3",
-      "sentence": "嗰座大廈高一百米。",
-      "jyutping": "go2 zo6 daai6 haa6 gou1 jat1 baak3 mai5.",
-      "meaning": "That building is 100 metres tall."
+      "sentence": "呢條繩有五米長。",
+      "jyutping": "ni1 tiu4 sing4 jau5 ng5 mai5 coeng4.",
+      "meaning": "This rope is five metres long."
     },
     {
       "id": "mai5-metre-example-4",
-      "sentence": "呢條魚長大約三十八米。",
-      "jyutping": "ni1 tiu4 jyu4 coeng4 daai6 joek3 saam1 sap6 baat3 mai5.",
-      "meaning": "This fish is about 38 metres long."
+      "sentence": "我高一米七幾。",
+      "jyutping": "ngo5 gou1 jat1 mai5 cat1 gei2.",
+      "meaning": "I am about 1.7 metres tall."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "measurement",
+    "measurements",
     "length",
     "distance",
-    "basic",
-    "everyday",
+    "common noun",
+    "basic vocabulary",
     "level-1"
   ],
   "related": [
-    "厘米 (centimetre, lei4 mai5)",
-    "公里 (kilometre, gung1 lei5)",
-    "寸 (inch, cyun3)",
-    "尺 (foot, cek3)",
-    "毫米 (millimetre, mak6 lei5)"
+    "厘米 (cam4 lei5) - centimetre",
+    "公里 (gung1 lei5) - kilometre",
+    "直徑 (zik6 ging3) - diameter",
+    "高度 (gou1 dou6) - height",
+    "長度 (coeng4 dou6) - length"
   ]
 }

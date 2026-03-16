@@ -1,0 +1,66 @@
+{
+  "id": "faai3di1-faster",
+  "word": "快啲",
+  "jyutping": "faai3 di1",
+  "meaning": "faster",
+  "pos": [
+    "adverb"
+  ],
+  "usage": [
+    "The word '快啲' is used to ask someone to do something at a quicker pace.",
+    "It can modify verbs by indicating an increase in speed or urgency.",
+    "It often appears before the verb it modifies.",
+    "You can also use '快啲' in commands or requests to sound polite but clear.",
+    "Although it literally means 'faster', it can also express 'hurry up' in casual situations."
+  ],
+  "examples": [
+    {
+      "id": "faai3di1-faster-example-1",
+      "sentence": "你快啲行，我哋遲到啦。",
+      "jyutping": "nei5 faai3 di1 haang4, ngo5 dei6 ci4 dou3 laa1.",
+      "meaning": "Walk faster, we are going to be late."
+    },
+    {
+      "id": "faai3di1-faster-example-2",
+      "sentence": "快啲交功課啦，最後期限快到喇。",
+      "jyutping": "faai3 di1 gaau1 gung1 fo3 laa1, zeoi3 hau6 kei4 haan6 faai3 dou3 laa3.",
+      "meaning": "Submit your homework faster, the deadline is coming soon."
+    },
+    {
+      "id": "faai3di1-faster-example-3",
+      "sentence": "車快啲行，冇咁塞車。",
+      "jyutping": "ce1 faai3 di1 haang4, mou5 gam2 sak1 ce1.",
+      "meaning": "Drive faster to avoid so much traffic jam."
+    },
+    {
+      "id": "faai3di1-faster-example-4",
+      "sentence": "快啲食，晚餐要熱噃。",
+      "jyutping": "faai3 di1 sik6, maan5 caan1 jiu3 jit6 bo3.",
+      "meaning": "Eat faster, the dinner should be hot."
+    }
+  ],
+  "audio": {
+    "word": "faai3di1-faster.mp3",
+    "examples": [
+      "faai3di1-faster-example-1.mp3",
+      "faai3di1-faster-example-2.mp3",
+      "faai3di1-faster-example-3.mp3",
+      "faai3di1-faster-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "speed",
+    "adverb",
+    "commands",
+    "daily conversation",
+    "urgency",
+    "level-1"
+  ],
+  "related": [
+    "慢啲",
+    "快啲啲",
+    "趕快",
+    "快手",
+    "加快"
+  ]
+}
