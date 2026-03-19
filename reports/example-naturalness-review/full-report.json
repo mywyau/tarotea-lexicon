@@ -1,0 +1,136 @@
+[
+  {
+    "file": "r2-backup/words/a3ting4zan1naa4-argentina.json",
+    "status": "ok",
+    "summary": "No likely naturalness issues found",
+    "lowConfidence": false,
+    "issues": []
+  },
+  {
+    "file": "r2-backup/words/aa2ling4-dumbbell.json",
+    "status": "needs_review",
+    "summary": "Potential naturalness issues found",
+    "lowConfidence": true,
+    "issues": [
+      {
+        "path": "example:aa2ling4-dumbbell-example-3",
+        "decision": "needs_manual_review",
+        "reason": "Understandable, but \"握啞鈴嘅方式\" feels slightly stiff and somewhat influenced by written/translated wording. A Cantonese speaker might more naturally say something like \"點樣握啞鈴\" or \"攞啞鈴嘅姿勢\" depending on context. Also, \"dumbbells\" in the English meaning sounds plural, while the Chinese sentence could be read more generically.",
+        "currentSentence": "你識唔識正確握啞鈴嘅方式？",
+        "currentJyutping": "nei5 sik1 m4 sik1 zing3 kok3 ngok6 aa2 ling4 ge3 fong1 sik1?",
+        "currentMeaning": "Do you know the correct way to hold dumbbells?",
+        "suggestedSentence": "你識唔識點樣正確握啞鈴？",
+        "suggestedJyutping": "nei5 sik1 m4 sik1 dim2 joeng6 zing3 kok3 ngok6 aa2 ling4?",
+        "suggestedMeaning": "Do you know how to hold a dumbbell correctly?",
+        "confidence": 0.7
+      },
+      {
+        "path": "example:aa2ling4-dumbbell-example-4",
+        "decision": "likely_unnatural",
+        "reason": "The sentence is awkward because \"佢用啞鈴鍛鍊肌肉，好健康\" creates a weak or odd link between using dumbbells and \"being very healthy.\" Native Cantonese would more naturally describe him as doing exercise, getting fitter, or becoming healthier, rather than simply stating \"鍛鍊肌肉，好健康\" in this way. The English meaning also over-interprets the sentence.",
+        "currentSentence": "佢用啞鈴鍛鍊肌肉，好健康。",
+        "currentJyutping": "keoi5 jung6 aa2 ling4 dyun3 lin6 gei1 juk6, hou2 gin6 hong1.",
+        "currentMeaning": "He uses dumbbells to train his muscles and is very healthy.",
+        "suggestedSentence": "佢用啞鈴鍛鍊身體，好健康。",
+        "suggestedJyutping": "keoi5 jung6 aa2 ling4 dyun3 lin6 san1 tai2, hou2 gin6 hong1.",
+        "suggestedMeaning": "He uses dumbbells to work out and stay healthy.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "file": "r2-backup/words/aa3-particle.json",
+    "status": "ok",
+    "summary": "No likely naturalness issues found",
+    "lowConfidence": false,
+    "issues": []
+  },
+  {
+    "file": "r2-backup/words/aa3baa4-dad-colloquial.json",
+    "status": "ok",
+    "summary": "No likely naturalness issues found",
+    "lowConfidence": false,
+    "issues": []
+  },
+  {
+    "file": "r2-backup/words/aa3ji5kap6lei6aa3-algeria.json",
+    "status": "needs_review",
+    "summary": "Potential naturalness issues found",
+    "lowConfidence": true,
+    "issues": [
+      {
+        "path": "example:aa3ji5kap6lei6aa3-algeria-example-1",
+        "decision": "needs_manual_review",
+        "reason": "句子本身可以理解，但講『阿爾及利亞今年天氣幾好』有少少籠統，同日常廣東話感覺略怪，似直譯或教材句。唔算明顯錯，但自然度略有疑問。",
+        "currentSentence": "阿爾及利亞今年天氣幾好。",
+        "currentJyutping": "aa3 ji5 kap6 lei6 aa3 gam1 nin4 tin1 hei3 gei2 hou2.",
+        "currentMeaning": "Algeria's weather is quite good this year.",
+        "suggestedSentence": "阿爾及利亞今年嘅天氣幾唔錯。",
+        "suggestedJyutping": "aa3 ji5 kap6 lei6 aa3 gam1 nin4 ge3 tin1 hei3 gei2 m4 co3.",
+        "suggestedMeaning": "Algeria's weather is quite nice this year.",
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "file": "r2-backup/words/aa3maa1-mum-colloquial.json",
+    "status": "needs_review",
+    "summary": "Potential naturalness issues found",
+    "lowConfidence": false,
+    "issues": [
+      {
+        "path": "example:aa3maa1-mum-colloquial-example-4",
+        "decision": "likely_unnatural",
+        "reason": "This sounds awkward in Cantonese because 好好味 normally describes the food itself, not directly 阿媽煮嘢食 as an action. A native speaker would more naturally say 阿媽煮嘅嘢食好好味 or 阿媽煮嘢食煮得好好味.",
+        "currentSentence": "阿媽煮嘢食好好味。",
+        "currentJyutping": "aa3 maa1 zyu2 je5 sik6 hou2 hou2 mei6.",
+        "currentMeaning": "Mum cooks very tasty food.",
+        "suggestedSentence": "阿媽煮嘅嘢食好好味。",
+        "suggestedJyutping": "aa3 maa1 zyu2 ge3 je5 sik6 hou2 hou2 mei6.",
+        "suggestedMeaning": "The food Mum cooks is very tasty.",
+        "confidence": 0.93
+      }
+    ]
+  },
+  {
+    "file": "r2-backup/words/aai3kap6-egypt.json",
+    "status": "ok",
+    "summary": "No likely naturalness issues found",
+    "lowConfidence": false,
+    "issues": []
+  },
+  {
+    "file": "r2-backup/words/aat3lik6-pressure.json",
+    "status": "ok",
+    "summary": "No likely naturalness issues found",
+    "lowConfidence": false,
+    "issues": []
+  },
+  {
+    "file": "r2-backup/words/aat3suk1dong2-zip-file.json",
+    "status": "ok",
+    "summary": "No likely naturalness issues found",
+    "lowConfidence": false,
+    "issues": []
+  },
+  {
+    "file": "r2-backup/words/au3-vomit.json",
+    "status": "needs_review",
+    "summary": "Potential naturalness issues found",
+    "lowConfidence": false,
+    "issues": [
+      {
+        "path": "example:au3-vomit-example-4",
+        "decision": "likely_unnatural",
+        "reason": "「有嘔嘅情況」 sounds awkward and somewhat non-native with the colloquial verb 「嘔」. A Cantonese speaker would more naturally say 「如果嘔」 or use the more formal noun-like 「嘔吐」 with 「情況」.",
+        "currentSentence": "喺旅行期間，如果有嘔嘅情況，要即刻搵醫生。",
+        "currentJyutping": "hai2 leoi5 hang4 kei4 gaan1, jyu4 gwo2 jau5 au3 ge3 cing4 fong3, jiu3 zik1 hak1 wan2 ji1 sang1.",
+        "currentMeaning": "During the trip, if there is vomiting, immediately find a doctor.",
+        "suggestedSentence": "喺旅行期間，如果嘔，要即刻搵醫生。",
+        "suggestedJyutping": "hai2 leoi5 hang4 kei4 gaan1, jyu4 gwo2 au3, jiu3 zik1 hak1 wan2 ji1 sang1.",
+        "suggestedMeaning": "During the trip, if you vomit, seek a doctor immediately.",
+        "confidence": 0.95
+      }
+    ]
+  }
+]

@@ -15,7 +15,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4")
 ROOT_DIR = Path(os.getenv("ROOT_DIR", "./r2-backup/words"))
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./reports/jyutping-review"))
-MAX_FILES = int(os.getenv("MAX_FILES", "999999"))
+MAX_FILES = int(os.getenv("MAX_FILES", "10"))
 CONCURRENCY = int(os.getenv("CONCURRENCY", "1"))
 SKIP_COPY_FILES = os.getenv("SKIP_COPY_FILES", "true").lower() == "true"
 
