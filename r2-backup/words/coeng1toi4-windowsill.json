@@ -7,11 +7,11 @@
     "noun"
   ],
   "usage": [
-    "The word \"窗台\" refers to the flat surface directly below a window, commonly found inside or outside buildings.",
-    "\"窗台\" functions as a noun and can be used as the subject or object in a sentence.",
-    "You can describe items placed on or near the windowsill using \"窗台\" followed by a verb.",
-    "\"窗台\" often appears in home or furniture related conversations, especially when talking about decorations or house maintenance.",
-    "It is common to talk about the size, condition, or what is placed on the 窗台 in daily speech."
+    "窗台 refers to the flat surface below a window.",
+    "It is a noun and can be used as the subject or object in a sentence.",
+    "It is often used when talking about things placed near a window, such as plants or decorations.",
+    "窗台 commonly appears in conversations about the home, cleaning, or room layout.",
+    "People often describe what is on the 窗台, or whether it is clean, messy, big, or small."
   ],
   "examples": [
     {
@@ -22,21 +22,21 @@
     },
     {
       "id": "coeng1toi4-windowsill-example-2",
-      "sentence": "窗台好企理，可以擺啲裝飾品。",
-      "jyutping": "coeng1 toi4 hou2 kei5 lei5, ho2 ji5 baai2 di1 zong1 sik1 ban2.",
-      "meaning": "The windowsill is tidy and can hold some decorations."
+      "sentence": "個窗台好企理，可以擺啲裝飾品。",
+      "jyutping": "go3 coeng1 toi4 hou2 kei5 lei5, ho2 ji5 baai2 di1 zong1 sik1 ban2.",
+      "meaning": "The windowsill is tidy, and you can put some decorations on it."
     },
     {
       "id": "coeng1toi4-windowsill-example-3",
-      "sentence": "窗台要清潔，先可以保持乾淨。",
-      "jyutping": "coeng1 toi4 jiu3 cing1 git3, sin1 ho2 ji5 bou2 ci4 gon1 zeng6.",
-      "meaning": "The windowsill needs to be cleaned to stay neat."
+      "sentence": "個窗台好多塵，要清潔吓。",
+      "jyutping": "go3 coeng1 toi4 hou2 do1 can4, jiu3 cing1 git3 haa5.",
+      "meaning": "The windowsill is very dusty and needs to be cleaned."
     },
     {
       "id": "coeng1toi4-windowsill-example-4",
       "sentence": "小朋友鍾意坐喺窗台睇街。",
       "jyutping": "siu2 pang4 jau5 zung1 ji3 co5 hai2 coeng1 toi4 tai2 gaai1.",
-      "meaning": "Kids like to sit on the windowsill to watch the street."
+      "meaning": "Kids like to sit on the windowsill and watch the street."
     }
   ],
   "audio": {
@@ -50,17 +50,16 @@
   },
   "tags": [
     "home",
-    "furniture",
     "household items",
     "windows",
     "interior",
     "level-1"
   ],
   "related": [
-    "窗戶 (coeng1 wu6) - window",
-    "門 (mun4) - door",
-    "牆壁 (coeng4 bik1) - wall",
-    "枱 (toi2) - table",
-    "櫃 (gwai6) - cabinet"
+    "窗戶 (coeng1 wu6)",
+    "門 (mun4)",
+    "牆壁 (coeng4 bik1)",
+    "枱 (toi2)",
+    "櫃 (gwai6)"
   ]
 }

@@ -7,17 +7,17 @@
     "expression"
   ],
   "usage": [
-    "The phrase is used to express uncertainty or to indicate that something is not guaranteed.",
-    "It often cushions statements, making them less direct or absolute.",
-    "You can use it to politely disagree or offer an alternative viewpoint without confrontation.",
-    "It functions similarly to 'not necessarily' or 'might not be' in English.",
-    "Used primarily in conversational contexts to soften claims or opinions."
+    "未必 is used to show that something is not certain or not guaranteed.",
+    "It is often used to soften a statement or show doubt.",
+    "You can use it to politely disagree or suggest another possibility.",
+    "It works similarly to 'not necessarily' or 'might not' in English, depending on the sentence.",
+    "It is very common in everyday spoken Cantonese."
   ],
   "examples": [
     {
       "id": "mei6bit1-not-necessarily-example-1",
       "sentence": "佢未必會嚟，今天天氣唔穩定。",
-      "jyutping": "keoi5 mei6 bit1 wui5 lei4, gam1 tin1 tin1 hei3 m4 wan6 ding6.",
+      "jyutping": "keoi5 mei6 bit1 wui5 lai4, gam1 tin1 tin1 hei3 m4 wan2 ding6.",
       "meaning": "He might not come; the weather is unstable today."
     },
     {
@@ -28,15 +28,15 @@
     },
     {
       "id": "mei6bit1-not-necessarily-example-3",
-      "sentence": "呢件事未必只係佢一個人的錯。",
-      "jyutping": "ni1 gin6 si6 mei6 bit1 zi2 hai6 keoi5 jat1 go3 jan4 dik1 co3.",
-      "meaning": "This matter is not necessarily just his fault alone."
+      "sentence": "呢件事未必只係佢一個人嘅錯。",
+      "jyutping": "ni1 gin6 si6 mei6 bit1 zi2 hai6 keoi5 jat1 go3 jan4 ge3 co3.",
+      "meaning": "This may not be just his fault alone."
     },
     {
       "id": "mei6bit1-not-necessarily-example-4",
       "sentence": "天氣預報講會落雨，但未必一定落。",
       "jyutping": "tin1 hei3 jyu6 bou3 gong2 wui5 lok6 jyu5, daan6 mei6 bit1 jat1 ding6 lok6.",
-      "meaning": "The weather forecast says it will rain, but it is not necessarily certain."
+      "meaning": "The weather forecast says it will rain, but it may not actually rain."
     }
   ],
   "audio": {
@@ -51,7 +51,6 @@
   "tags": [
     "uncertainty",
     "softening",
-    "politeness",
     "disagreement",
     "conversation",
     "level-7"

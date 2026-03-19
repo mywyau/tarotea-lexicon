@@ -4,20 +4,20 @@
   "jyutping": "ho2 nang4",
   "meaning": "maybe / possibly",
   "pos": [
-    "expression"
+    "adverb"
   ],
   "usage": [
-    "The word is commonly used to express possibility or uncertainty about an event or situation.",
-    "It is often placed before verbs or sentences to soften statements and indicate something is not guaranteed.",
-    "In conversation, using this word can make your speech sound more polite or less assertive.",
-    "It can be used interchangeably with similar words but tends to imply a moderate level of likelihood rather than certainty.",
-    "The word can be followed by other adverbs or expressions for emphasis, such as '大概' or '可能會'."
+    "可能 is used to express possibility or uncertainty.",
+    "It is often placed before a verb or clause to show that something may happen or may be true.",
+    "It is commonly used in both spoken and written Cantonese.",
+    "可能 suggests that something is possible, but not certain.",
+    "A common pattern is 可能會, used before a verb to talk about something that may happen in the future."
   ],
   "examples": [
     {
       "id": "ho2nang4-maybe-example-1",
       "sentence": "我可能今晚唔返屋企。",
-      "jyutping": "ngo5 ho2 nang4 gam1 mun5 m4 faan1 uk1 kei2.",
+      "jyutping": "ngo5 ho2 nang4 gam1 maan5 m4 faan1 uk1 kei2.",
       "meaning": "I might not go home tonight."
     },
     {
@@ -34,9 +34,9 @@
     },
     {
       "id": "ho2nang4-maybe-example-4",
-      "sentence": "明日可能會落雨，你準備好未？",
-      "jyutping": "ming4 jat6 ho2 nang4 wui5 lok6 jyu5, nei5 zeon2 bei6 hou2 mei6?",
-      "meaning": "It might rain tomorrow, are you ready?"
+      "sentence": "聽日可能會落雨，你準備好未？",
+      "jyutping": "teng1 jat6 ho2 nang4 wui5 lok6 jyu5, nei5 zeon2 bei6 hou2 mei6?",
+      "meaning": "It might rain tomorrow. Are you ready?"
     }
   ],
   "audio": {
@@ -50,17 +50,15 @@
   },
   "tags": [
     "possibility",
-    "softening",
     "uncertainty",
-    "politeness",
     "modal expression",
     "level-7"
   ],
   "related": [
     "大概 (daai6 koi3)",
-    "或者 (waak6 ze2)",
-    "可能會 (ho2 nang4 wui5)",
     "或許 (waak6 heoi2)",
-    "應該 (jing1 goi1)"
+    "應該 (jing1 goi1)",
+    "未必 (mei6 bit1)",
+    "多數 (do1 sou3)"
   ]
 }

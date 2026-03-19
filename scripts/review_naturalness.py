@@ -11,11 +11,10 @@ from openai import OpenAI
 # ----------------------------
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-# OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4")
 ROOT_DIR = Path(os.getenv("ROOT_DIR", "./r2-backup/words"))
-OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./reports/jyutping-review"))
-MAX_FILES = int(os.getenv("MAX_FILES", "999999"))
+OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./reports/example-naturalness-review"))
+MAX_FILES = int(os.getenv("MAX_FILES", "10"))
 CONCURRENCY = int(os.getenv("CONCURRENCY", "1"))
 SKIP_COPY_FILES = os.getenv("SKIP_COPY_FILES", "true").lower() == "true"
 
@@ -48,90 +47,102 @@ def reduce_payload(data: dict) -> dict:
     return {
         "id": data.get("id"),
         "word": data.get("word"),
-        "jyutping": data.get("jyutping"),
+        "meaning": data.get("meaning"),
         "examples": [
             {
                 "id": ex.get("id"),
                 "sentence": ex.get("sentence"),
                 "jyutping": ex.get("jyutping"),
+                "meaning": ex.get("meaning"),
             }
             for ex in data.get("examples", [])
             if isinstance(ex, dict)
         ],
     }
 
+
 def review_with_openai(payload: dict) -> dict:
     schema = {
         "type": "object",
         "additionalProperties": False,
         "properties": {
-            "word": {
-                "type": "object",
-                "additionalProperties": False,
-                "properties": {
-                    "decision": {
-                        "type": "string",
-                        "enum": ["approved", "needs_manual_review", "likely_incorrect"],
-                    },
-                    "reason": {"type": "string"},
-                    "confidence": {"type": "number"},
-                    "suggestedJyutping": {
-                        "anyOf": [
-                            {"type": "string"},
-                            {"type": "null"},
-                        ]
-                    },
-                },
-                "required": ["decision", "reason", "confidence", "suggestedJyutping"],
-            },
             "examples": {
                 "type": "array",
                 "items": {
                     "type": "object",
                     "additionalProperties": False,
                     "properties": {
-                        "id": {"type": "string"},
+                        "id": {
+                            "anyOf": [
+                                {"type": "string"},
+                                {"type": "null"},
+                            ]
+                        },
                         "decision": {
                             "type": "string",
-                            "enum": ["approved", "needs_manual_review", "likely_incorrect"],
+                            "enum": ["approved", "needs_manual_review", "likely_unnatural"],
                         },
                         "reason": {"type": "string"},
                         "confidence": {"type": "number"},
+                        "suggestedSentence": {
+                            "anyOf": [
+                                {"type": "string"},
+                                {"type": "null"},
+                            ]
+                        },
                         "suggestedJyutping": {
                             "anyOf": [
                                 {"type": "string"},
                                 {"type": "null"},
                             ]
                         },
+                        "suggestedMeaning": {
+                            "anyOf": [
+                                {"type": "string"},
+                                {"type": "null"},
+                            ]
+                        },
                     },
-                    "required": ["id", "decision", "reason", "confidence", "suggestedJyutping"],
+                    "required": [
+                        "id",
+                        "decision",
+                        "reason",
+                        "confidence",
+                        "suggestedSentence",
+                        "suggestedJyutping",
+                        "suggestedMeaning",
+                    ],
                 },
             },
         },
-        "required": ["word", "examples"],
+        "required": ["examples"],
     }
 
     response = client.responses.create(
         model=OPENAI_MODEL,
         reasoning={"effort": "low"},
-        max_output_tokens=500,
+        max_output_tokens=700,
         input=[
             {
                 "role": "system",
                 "content": (
-                    "You are reviewing Cantonese Jyutping only. "
-                    "Do not review English meanings, glosses, style, pedagogy, or content quality. "
-                    "Assume spacing and syllable formatting are often already valid. "
-                    "Your task is to judge whether the Jyutping is clearly correct, clearly incorrect, or uncertain.\n\n"
+                    "You are reviewing Cantonese-learning example sentences. "
+                    "Your task is to judge whether each Chinese example sentence sounds natural and appropriate for Cantonese usage.\n\n"
+                    "Focus on:\n"
+                    "- awkward phrasing\n"
+                    "- Mandarin-influenced wording\n"
+                    "- overly literal translation feel\n"
+                    "- unnatural sentence flow\n"
+                    "- mismatch between the Chinese sentence and the Jyutping\n"
+                    "- mismatch between the Chinese sentence and the English meaning\n\n"
                     "Rules:\n"
-                    "- Only return likely_incorrect if the Jyutping is clearly wrong or misleading.\n"
-                    "- If the reading may be valid but you are not sure, return needs_manual_review.\n"
+                    "- Only return likely_unnatural if the example is clearly awkward, unnatural, misleading, or suspicious.\n"
+                    "- If the example may be acceptable but you are unsure, return needs_manual_review.\n"
                     "- Be conservative about flagging issues.\n"
-                    "- Focus mainly on tone correctness and obvious reading mismatches.\n"
-                    "- Do not mark something likely_incorrect just because another reading might also exist.\n"
-                    "- If the current reading is plausible Cantonese Jyutping, prefer approved or needs_manual_review.\n"
-                    "- Do not nitpick minor variant possibilities.\n"
-                    "- Only suggest a corrected Jyutping when confidence is reasonably high.\n"
+                    "- Do not nitpick minor stylistic alternatives.\n"
+                    "- Prefer natural Cantonese-style phrasing suitable for learners.\n"
+                    "- Only suggest rewrites when confidence is reasonably high.\n"
+                    "- If the sentence is natural enough, return approved.\n"
                     "- Return strict JSON only."
                 ),
             },
@@ -143,7 +154,7 @@ def review_with_openai(payload: dict) -> dict:
         text={
             "format": {
                 "type": "json_schema",
-                "name": "jyutping_review",
+                "name": "example_naturalness_review",
                 "strict": True,
                 "schema": schema,
             }
@@ -151,6 +162,7 @@ def review_with_openai(payload: dict) -> dict:
     )
 
     return json.loads(response.output_text)
+
 
 def review_file(file_path: Path) -> dict:
     try:
@@ -166,43 +178,37 @@ def review_file(file_path: Path) -> dict:
 
     try:
         reduced = reduce_payload(data)
-
-        # 1. LLM review only if hard checks pass
         review = review_with_openai(reduced)
 
         issues = []
 
-        if review["word"]["decision"] != "approved":
-            issues.append({
-                "path": "jyutping",
-                "decision": review["word"]["decision"],
-                "reason": review["word"]["reason"],
-                "currentValue": reduced.get("jyutping", ""),
-                "suggestedValue": review["word"]["suggestedJyutping"] or "",
-                "confidence": review["word"]["confidence"],
-            })
-
         example_lookup = {
-            ex.get("id"): ex.get("jyutping", "")
+            ex.get("id"): ex
             for ex in reduced.get("examples", [])
         }
 
         for ex_review in review["examples"]:
             if ex_review["decision"] != "approved":
-                example_id = ex_review["id"]
+                example_id = ex_review.get("id")
+                current_example = example_lookup.get(example_id, {})
+
                 issues.append({
                     "path": f"example:{example_id}",
                     "decision": ex_review["decision"],
                     "reason": ex_review["reason"],
-                    "currentValue": example_lookup.get(example_id, ""),
-                    "suggestedValue": ex_review["suggestedJyutping"] or "",
+                    "currentSentence": current_example.get("sentence", ""),
+                    "currentJyutping": current_example.get("jyutping", ""),
+                    "currentMeaning": current_example.get("meaning", ""),
+                    "suggestedSentence": ex_review["suggestedSentence"] or "",
+                    "suggestedJyutping": ex_review["suggestedJyutping"] or "",
+                    "suggestedMeaning": ex_review["suggestedMeaning"] or "",
                     "confidence": ex_review["confidence"],
                 })
 
         return {
             "file": str(file_path),
             "status": "ok" if not issues else "needs_review",
-            "summary": "No likely Jyutping issues found" if not issues else "Potential Jyutping issues found",
+            "summary": "No likely naturalness issues found" if not issues else "Potential naturalness issues found",
             "lowConfidence": any(
                 issue["decision"] == "needs_manual_review" for issue in issues
             ),
@@ -217,18 +223,20 @@ def review_file(file_path: Path) -> dict:
             "error": str(e),
         }
 
+
 def write_text_file(path: Path, lines: list[str]) -> None:
     content = "\n".join(lines)
     if content:
         content += "\n"
     path.write_text(content, encoding="utf-8")
 
+
 # ----------------------------
 # Main
 # ----------------------------
 
 def main() -> None:
-    print("Starting Jyutping review...")
+    print("Starting example naturalness review...")
     print(f"Using ROOT_DIR: {ROOT_DIR}")
 
     files = get_json_files(ROOT_DIR)[:MAX_FILES]

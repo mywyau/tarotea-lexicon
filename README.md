@@ -185,3 +185,7 @@ python3 scripts/extract_topics_sentences.py ./r2-backup/topics/family-members.js
 ```
 python3 scripts/delete_topic_from_r2.py 
 ```
+
+```
+python3 scripts/review_naturalness.py
+```
