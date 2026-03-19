@@ -3,35 +3,62 @@
   "word": "情況",
   "jyutping": "cing4 fong3",
   "meaning": "situation",
-
-  "pos": ["noun"],
-
-  "usage": [
-    "Used to describe a situation, condition, or state of affairs",
-    "Often refers to how things are at a particular time",
-    "Commonly used when explaining, assessing, or updating others"
+  "pos": [
+    "noun"
   ],
-
+  "usage": [
+    "情況 is a noun that means 'situation', 'condition', or 'circumstances'.",
+    "It is often used to describe the state of something, such as traffic, work, health, or what is happening in a place.",
+    "情況 can be used in both formal and informal Cantonese.",
+    "It can refer to both concrete and abstract situations, such as 交通情況 (traffic situation) or 工作情況 (work situation).",
+    "Common phrases include 情況好差 (the situation is very bad), 情況唔錯 (the situation is not bad), and 了解情況 (understand the situation)."
+  ],
   "examples": [
     {
       "id": "cing4fong3-situation-example-1",
-      "sentence": "而家嘅情況有啲複雜。",
-      "jyutping": "ji4 gaa1 ge3 cing4 fong3 jau5 di1 fuk1 zaap6",
-      "meaning": "The current situation is a bit complicated."
+      "sentence": "今日路面情況唔錯，出去應該幾順利。",
+      "jyutping": "gam1 jat6 lou6 min6 cing4 fong3 m4 co3, ceot1 heoi3 jing1 goi1 gei2 seon6 lei6.",
+      "meaning": "The road conditions are not bad today, so going out should be quite smooth."
     },
     {
       "id": "cing4fong3-situation-example-2",
-      "sentence": "等我了解清楚情況先。",
-      "jyutping": "dang2 ngo5 liu5 gaai2 cing1 co2 cing4 fong3 sin1",
-      "meaning": "Let me understand the situation clearly first."
+      "sentence": "你嘅身體情況點呀？",
+      "jyutping": "nei5 ge3 san1 tai2 cing4 fong3 dim2 aa3?",
+      "meaning": "How is your physical condition?"
+    },
+    {
+      "id": "cing4fong3-situation-example-3",
+      "sentence": "依家嘅交通情況好差。",
+      "jyutping": "ji1 gaa1 ge3 gaau1 tung1 cing4 fong3 hou2 caa1.",
+      "meaning": "The traffic situation is very bad right now."
+    },
+    {
+      "id": "cing4fong3-situation-example-4",
+      "sentence": "我哋要了解現場情況先。",
+      "jyutping": "ngo5 dei6 jiu3 liu5 gaai2 jin6 coeng4 cing4 fong3 sin1.",
+      "meaning": "We need to understand the situation at the scene first."
     }
   ],
-
   "audio": {
     "word": "cing4fong3-situation.mp3",
     "examples": [
       "cing4fong3-situation-example-1.mp3",
-      "cing4fong3-situation-example-2.mp3"
+      "cing4fong3-situation-example-2.mp3",
+      "cing4fong3-situation-example-3.mp3",
+      "cing4fong3-situation-example-4.mp3"
     ]
-  }
+  },
+  "tags": [
+    "condition",
+    "situation",
+    "everyday use",
+    "level-1"
+  ],
+  "related": [
+    "狀況 (zong6 fong3)",
+    "狀態 (zong6 taai3)",
+    "環境 (waan4 ging2)",
+    "局勢 (guk6 sai3)",
+    "天氣 (tin1 hei3)"
+  ]
 }

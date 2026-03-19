@@ -2,40 +2,41 @@
   "id": "cing2-invite",
   "word": "請",
   "jyutping": "cing2",
-  "meaning": "invite",
+  "meaning": "please / invite / treat",
   "pos": [
     "verb"
   ],
   "usage": [
-    "請 (cing2) is mainly used as a verb meaning 'to invite' someone to an event or to ask someone politely to do something.",
-    "It can be followed by a direct object, such as a person being invited.",
-    "請 can be used in polite requests, usually followed by a verb.",
-    "When inviting people, 請 is often combined with places or events after the person or as part of the sentence.",
-    "請 is a very common word used in everyday social interactions to make invitations or polite requests."
+    "請 is commonly used to make polite requests, similar to 'please' in English.",
+    "It can also mean to invite someone or to treat someone to food or a meal.",
+    "When used in polite requests, 請 is usually followed by a verb.",
+    "When used for invitations, 請 can be followed by a person and then an action or event.",
+    "請 is very common in daily Cantonese and appears in expressions such as 請問.",
+    "請 can sometimes sound like ceng2."
   ],
   "examples": [
     {
       "id": "cing2-invite-example-1",
       "sentence": "我請你食晚飯。",
-      "jyutping": "ngo5 cing2 nei5 sik6 maan5faan6.",
-      "meaning": "I invite you to have dinner."
+      "jyutping": "ngo5 cing2 nei5 sik6 maan5 faan6.",
+      "meaning": "I'll treat you to dinner."
     },
     {
       "id": "cing2-invite-example-2",
       "sentence": "請你過嚟傾計。",
       "jyutping": "cing2 nei5 gwo3 lai4 king1 gai2.",
-      "meaning": "Please come over to chat."
+      "meaning": "Please come over and chat."
     },
     {
       "id": "cing2-invite-example-3",
       "sentence": "佢請我去佢屋企玩。",
-      "jyutping": "keoi5 cing2 ngo5 heoi3 keoi5 uk1kei2 waan2.",
+      "jyutping": "keoi5 cing2 ngo5 heoi3 keoi5 uk1 kei2 waan2.",
       "meaning": "He invited me to his house to hang out."
     },
     {
       "id": "cing2-invite-example-4",
       "sentence": "請問你識唔識講廣東話？",
-      "jyutping": "cing2 man6 nei5 sik1 m4 sik1 gong2 gwong2dung1waa2?",
+      "jyutping": "cing2 man6 nei5 sik1 m4 sik1 gong2 gwong2 dung1 waa2?",
       "meaning": "May I ask if you can speak Cantonese?"
     }
   ],
@@ -58,9 +59,9 @@
   ],
   "related": [
     "邀請 (jiu1 cing2)",
-    "叫 (giu3)",
-    "帶 (daai3)",
-    "幫手 (bong1 sau2)",
-    "認識 (jing6 sik1)"
+    "請問 (cing2 man6)",
+    "麻煩 (maa4 faan4)",
+    "招呼 (ziu1 fu6)",
+    "款待 (fun2 doi6)"
   ]
 }

@@ -7,11 +7,11 @@
     "noun"
   ],
   "usage": [
-    "The word 兄弟 (hing1 dai6) refers to male siblings, specifically brothers.",
-    "It can be used to talk about biological brothers or close male friends like brothers.",
-    "In sentences, 兄弟 can be the subject or object, e.g., “My brothers are at home.”",
-    "You can use it in plural or singular, but usually it means more than one brother together.",
-    "It can also imply brotherhood or strong male friendship beyond blood relations."
+    "The word 兄弟 is used to refer to brothers or male siblings in Cantonese.",
+    "It can also be used metaphorically to mean close male friends who are like brothers.",
+    "When talking about your siblings, 兄弟 generally refers to male siblings only, not sisters.",
+    "In a sentence, 兄弟 can appear as the subject or object, and it is usually plural unless specified otherwise.",
+    "You can combine 兄弟 with numbers to specify how many brothers you have, e.g., 三兄弟 (three brothers)."
   ],
   "examples": [
     {
@@ -22,21 +22,21 @@
     },
     {
       "id": "hing1dai6-brothers-example-2",
-      "sentence": "佢係我嘅兄弟。",
-      "jyutping": "keoi5 hai6 ngo5 ge3 hing1 dai6.",
-      "meaning": "He is my brother."
+      "sentence": "佢哋好似真正嘅兄弟咁。",
+      "jyutping": "keoi5 dei6 hou2 ci5 zan1 zing3 ge3 hing1 dai6 gam2.",
+      "meaning": "They are like real brothers."
     },
     {
       "id": "hing1dai6-brothers-example-3",
-      "sentence": "我同兄弟一齊去打波。",
-      "jyutping": "ngo5 tung4 hing1 dai6 jat1 cai4 heoi3 daa2 bo1.",
-      "meaning": "I go play ball with my brothers."
+      "sentence": "我兄弟鍾意打波。",
+      "jyutping": "ngo5 hing1 dai6 zung1 ji3 daa2 bo1.",
+      "meaning": "My brothers like playing basketball."
     },
     {
       "id": "hing1dai6-brothers-example-4",
-      "sentence": "兄弟之間要互相幫忙。",
-      "jyutping": "hing1 dai6 zi1 gaan1 jiu3 wu6 soeng1 bong1 mong4.",
-      "meaning": "Brothers should help each other."
+      "sentence": "三兄弟一齊旅行。",
+      "jyutping": "saam1 hing1 dai6 jat1 cai4 leoi5 hang4.",
+      "meaning": "Three brothers travel together."
     }
   ],
   "audio": {
@@ -51,16 +51,16 @@
   "tags": [
     "family",
     "siblings",
-    "male",
     "brothers",
+    "male",
     "relationships",
     "level-1"
   ],
   "related": [
-    "姊妹 (zi2 mui6) - sisters",
-    "家人 (gaa1 jan4) - family members",
-    "親戚 (can1 cik1) - relatives",
-    "兄長 (hing1 coeng4) - elder brother",
-    "弟弟 (dai6 dai2) - younger brother"
+    "姊妹",
+    "哥哥",
+    "弟弟",
+    "兄長",
+    "兄弟姐妹"
   ]
 }

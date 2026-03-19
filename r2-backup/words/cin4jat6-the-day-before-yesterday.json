@@ -4,38 +4,38 @@
   "jyutping": "cin4 jat6",
   "meaning": "the day before yesterday",
   "pos": [
-    "noun"
+    "time expression"
   ],
   "usage": [
-    "The word '前日' is used to refer to the day before yesterday.",
-    "It functions as a noun in a sentence, often as a time expression.",
-    "'前日' can be used alone or with verbs to talk about actions or events that happened the day before yesterday.",
-    "It is commonly used in both spoken and written Cantonese for time reference.",
-    "'前日' is typically followed by a verb or a phrase describing what happened on that day."
+    "前日 is used to refer to the day before yesterday.",
+    "It is commonly used as a time expression in a sentence.",
+    "前日 can be used with verbs to describe actions or events that happened on that day.",
+    "It is used in both spoken and written Cantonese.",
+    "It usually appears before the verb or event being described."
   ],
   "examples": [
     {
       "id": "cin4jat6-the-day-before-yesterday-example-1",
-      "sentence": "我前日去左超市。",
+      "sentence": "我前日去咗超市。",
       "jyutping": "ngo5 cin4 jat6 heoi3 zo2 ciu1 si5.",
       "meaning": "I went to the supermarket the day before yesterday."
     },
     {
       "id": "cin4jat6-the-day-before-yesterday-example-2",
-      "sentence": "前日啱啱落雨。",
-      "jyutping": "cin4 jat6 aam1 aam1 lok6 jyu5.",
-      "meaning": "It just rained the day before yesterday."
+      "sentence": "前日落咗雨。",
+      "jyutping": "cin4 jat6 lok6 zo2 jyu5.",
+      "meaning": "It rained the day before yesterday."
     },
     {
       "id": "cin4jat6-the-day-before-yesterday-example-3",
       "sentence": "你前日做咗啲乜嘢？",
-      "jyutping": "nei5 cin4 jat6 teng1 jat6 zou6 zo2 di1 mat1 je5?",
+      "jyutping": "nei5 cin4 jat6 zou6 zo2 di1 mat1 je5?",
       "meaning": "What did you do the day before yesterday?"
     },
     {
       "id": "cin4jat6-the-day-before-yesterday-example-4",
-      "sentence": "我哋前日開會傾計。",
-      "jyutping": "ngo5 dei6 cin4 jat6 hoi1 wui6 king1 gai2.",
+      "sentence": "我哋前日開咗會。",
+      "jyutping": "ngo5 dei6 cin4 jat6 hoi1 zo2 wui6.",
       "meaning": "We had a meeting the day before yesterday."
     }
   ],
@@ -51,7 +51,6 @@
   "tags": [
     "time",
     "date",
-    "noun",
     "daily use",
     "basic vocabulary",
     "level-1"

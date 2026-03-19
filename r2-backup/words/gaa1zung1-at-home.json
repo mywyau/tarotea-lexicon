@@ -2,41 +2,41 @@
   "id": "gaa1zung1-at-home",
   "word": "家中",
   "jyutping": "gaa1 zung1",
-  "meaning": "at home / in one's home",
+  "meaning": "at home",
   "pos": [
     "noun"
   ],
   "usage": [
-    "The word 家中 is used to refer to being inside one's home or at home.",
-    "It can describe a location, typically referring to the interior of a house or living place.",
-    "家中 can be used to indicate where family activities or events happen.",
-    "It is often used when talking about the environment or situations happening at someone's residence.",
-    "家中 can also imply a sense of comfort and familiarity, as it relates to one's household."
+    "“家中” (gaa1 zung1) can be used to refer to the inside of one's home or household. It emphasizes the location within the house.",
+    "It often functions as a noun to talk about activities that happen at home or the people living within the home.",
+    "You can use '家中' when describing where someone is or where something happens, usually contrasting with being outside.",
+    "It can also refer to matters concerning the family or household when used in context.",
+    "In casual speech, '家中' replaces more formal words like 'in the house' or 'at home'."
   ],
   "examples": [
     {
       "id": "gaa1zung1-at-home-example-1",
-      "sentence": "我家中而家冇人。",
-      "jyutping": "ngo5 gaa1 zung1 ji4 gaa1 mou5 jan4.",
-      "meaning": "There's no one at home in my house right now."
+      "sentence": "我今日留喺家中休息。",
+      "jyutping": "ngo5 gam1 jat6 lau4 hai2 gaa1 zung1 jau1 sik1.",
+      "meaning": "I'm staying at home to rest today."
     },
     {
       "id": "gaa1zung1-at-home-example-2",
-      "sentence": "你家中有冇寵物？",
-      "jyutping": "nei5 gaa1 zung1 jau5 mou5 cung5 mat6?",
-      "meaning": "Do you have pets at home?"
+      "sentence": "家中冇人，就係我一個。",
+      "jyutping": "gaa1 zung1 mou5 jan4, zau6 hai6 ngo5 jat1 go3.",
+      "meaning": "No one is at home, it's just me alone."
     },
     {
       "id": "gaa1zung1-at-home-example-3",
-      "sentence": "家中嘅氣氛好溫馨。",
-      "jyutping": "gaa1 zung1 ge3 hei3 fan1 hou2 wan1 hang1.",
-      "meaning": "The atmosphere at home is very cozy."
+      "sentence": "你屋企人都喺家中嗎？",
+      "jyutping": "nei5 uk1 kei2 jan4 dou1 hai2 gaa1 zung1 maa3?",
+      "meaning": "Is your family all at home?"
     },
     {
       "id": "gaa1zung1-at-home-example-4",
-      "sentence": "我想留喺家中休息。",
-      "jyutping": "ngo5 soeng2 lau4 hai2 gaa1 zung1 jau1 sik1.",
-      "meaning": "I want to stay at home and rest."
+      "sentence": "家中嘅氣氛好溫馨。",
+      "jyutping": "gaa1 zung1 ge3 hei3 fan1 hou2 wan1 hang1.",
+      "meaning": "The atmosphere at home is very warm and cozy."
     }
   ],
   "audio": {
@@ -49,17 +49,18 @@
     ]
   },
   "tags": [
+    "daily life",
     "home",
     "family",
     "location",
-    "daily life",
+    "casual speech",
     "level-1"
   ],
   "related": [
-    "屋企 uk1 kei2",
-    "屋內 uk1 noi6",
-    "家庭 gaa1 ting4",
-    "飯廳 faan6 teng1",
-    "房間 fong4 gaan1"
+    "屋企 (uk1 kei2) - home/family",
+    "屋企人 (uk1 kei2 jan4) - family members",
+    "返屋企 (faan1 uk1 kei2) - go home",
+    "屋內 (uk1 noi6) - inside the house",
+    "家 (gaa1) - home/family"
   ]
 }

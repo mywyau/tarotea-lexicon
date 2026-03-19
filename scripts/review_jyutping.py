@@ -10,7 +10,7 @@ from openai import OpenAI
 # Config
 # ----------------------------
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 ROOT_DIR = Path(os.getenv("ROOT_DIR", "./r2-backup/words"))
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./reports/jyutping-review"))

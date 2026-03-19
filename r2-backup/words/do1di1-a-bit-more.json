@@ -3,14 +3,12 @@
   "word": "多啲",
   "jyutping": "do1 di1",
   "meaning": "more",
-  "pos": [
-    "adverb"
-  ],
+  "pos": ["adverb"],
   "usage": [
-    "The word '多啲' is used to indicate the desire for a greater amount or quantity of something.",
-    "'多啲' can be placed before verbs or adjectives to modify the action or description with a sense of 'more'.",
-    "In casual conversation, '多啲' is often used when asking for something politely but clearly.",
-    "'多啲' can be combined with nouns to request an increase in number or volume.",
+    "The word 多啲 is used to indicate the desire for a greater amount or quantity of something.",
+    "多啲 can be placed before verbs or adjectives to modify the action or description with a sense of 'more'.",
+    "In casual conversation, 多啲 is often used when asking for something politely but clearly.",
+    "多啲 can be combined with nouns to request an increase in number or volume.",
     "It functions similarly to the English word 'more' and is commonly understood in everyday spoken Cantonese."
   ],
   "examples": [
@@ -28,9 +26,9 @@
     },
     {
       "id": "do1di1-a-bit-more-example-3",
-      "sentence": "今日熱，多啲風啦！",
-      "jyutping": "gam1 jat6 jit6, do1 di1 fung1 laa3!",
-      "meaning": "It's hot today, (let there be) more wind!"
+      "sentence": "你可唔可以講多啲呀？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 gong2 do1 di1 aa3?",
+      "meaning": "Can you say a bit more?"
     },
     {
       "id": "do1di1-a-bit-more-example-4",
@@ -56,11 +54,5 @@
     "polite requests",
     "level-1"
   ],
-  "related": [
-    "少啲",
-    "再",
-    "加多啲",
-    "更多",
-    "更加"
-  ]
+  "related": ["少啲", "再", "加多啲", "更多", "更加"]
 }

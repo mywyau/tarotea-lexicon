@@ -2,41 +2,41 @@
   "id": "uk1kei2-home",
   "word": "屋企",
   "jyutping": "uk1 kei2",
-  "meaning": "home / household",
+  "meaning": "home",
   "pos": [
     "noun"
   ],
   "usage": [
-    "The word '屋企' (uk1 kei2) is commonly used to refer to one's home or household in everyday Cantonese conversations.",
-    "'屋企' can be used as a subject or object in a sentence to indicate where someone lives or where a group of people share a household.",
-    "You can use '返屋企' to mean 'go back home', which is a frequent phrase in casual speech.",
-    "'屋企' is more informal and colloquial compared to the more formal '家' (gaa1), but both mean 'home'.",
-    "When talking about family members collectively, '屋企' can imply the people living in the same home, making it useful in family contexts."
+    "The word '屋企' (uk1 kei2) is used to refer to 'home' or 'household' in casual conversation.",
+    "'屋企' can imply the physical house or the family living in it, depending on context.",
+    "It often occurs with verbs like '返' (to return) or '去' (to go) when talking about going home.",
+    "'屋企' is more informal and commonly used in daily spoken Cantonese instead of the formal '家' (gaa1).",
+    "It can be used both as a subject or object in a sentence."
   ],
   "examples": [
     {
       "id": "uk1kei2-home-example-1",
-      "sentence": "我今晚唔返屋企。",
-      "jyutping": "ngo5 gam1 maan5 m4 faan1 uk1 kei2.",
-      "meaning": "I am not going back home tonight."
+      "sentence": "我今日唔返屋企，今晚喺朋友度瞓。",
+      "jyutping": "ngo5 gam1 jat6 m4 faan1 uk1 kei2, gam1 maan5 hai2 pang4 jau5 dou6 fan3.",
+      "meaning": "I'm not going home today; tonight I'll sleep at a friend's place."
     },
     {
       "id": "uk1kei2-home-example-2",
       "sentence": "你屋企有幾多人？",
       "jyutping": "nei5 uk1 kei2 jau5 gei2 do1 jan4?",
-      "meaning": "How many people are there in your household?"
+      "meaning": "How many people are there in your home?"
     },
     {
       "id": "uk1kei2-home-example-3",
-      "sentence": "屋企嘅阿媽今朝煮咗早餐。",
-      "jyutping": "uk1 kei2 ge3 aa3 maa1 gam1 ziu1 zyu2 zo2 zou2 caan1.",
-      "meaning": "Mom at home cooked breakfast this morning."
+      "sentence": "我啲嘢全都放咗喺屋企。",
+      "jyutping": "ngo5 di1 je5 cyun4 dou1 fong3 zo2 hai2 uk1 kei2.",
+      "meaning": "All my stuff is kept at home."
     },
     {
       "id": "uk1kei2-home-example-4",
-      "sentence": "我想好好照顧屋企人。",
-      "jyutping": "ngo5 soeng2 hou2 hou2 ziu3 gu3 uk1 kei2 jan4.",
-      "meaning": "I want to take good care of my family."
+      "sentence": "屋企附近有唔少好食嘅餐廳。",
+      "jyutping": "uk1 kei2 fu6 gan6 jau5 m4 siu2 hou2 sik6 ge3 caan1 teng1.",
+      "meaning": "There are quite a few good restaurants near my home."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
+    "casual",
     "family",
     "home",
-    "casual",
-    "everyday",
-    "household",
+    "daily_use",
+    "noun",
     "level-1"
   ],
   "related": [
-    "屋企人",
-    "返屋企",
-    "家",
-    "爸爸",
-    "媽媽"
+    "家 (gaa1)",
+    "爸爸 (baa4 baa1)",
+    "媽媽 (maa4 maa1)",
+    "親戚 (can1 cik1)",
+    "廚房 (cyu4 fong2)"
   ]
 }

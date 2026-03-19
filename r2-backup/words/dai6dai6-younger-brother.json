@@ -7,11 +7,11 @@
     "noun"
   ],
   "usage": [
-    "The word 弟弟 (dai6 dai6) is a noun used to refer to a younger brother in a family.",
-    "In Cantonese, 弟弟 is usually used as a simple subject or object in sentences.",
-    "You can add possessive particles like '我嘅' (ngo5 ge3) before 弟弟 to say 'my younger brother'.",
-    "弟弟 can be used in both formal and informal contexts without changing the word form.",
-    "The word does not change for plural form; context usually indicates if more than one younger brother is meant."
+    "弟弟 (dai6 dai6) means a younger brother in Cantonese.",
+    "It is used to refer to a male sibling who is younger than the speaker.",
+    "You can use it as a subject or object in a sentence, for example, '我的弟弟好聰明' (My younger brother is smart).",
+    "When talking to someone else about their younger brother, use 弟弟 directly without any possessive pronoun if the context is clear.",
+    "It can be combined with numbers or classifiers to specify which younger brother you are talking about."
   ],
   "examples": [
     {
@@ -22,21 +22,21 @@
     },
     {
       "id": "dai6dai6-younger-brother-example-2",
-      "sentence": "弟弟今日唔返學。",
-      "jyutping": "dai6 dai6 gam1 jat6 m4 faan1 hok6.",
-      "meaning": "Younger brother is not going to school today."
+      "sentence": "弟弟鍾意踢波。",
+      "jyutping": "dai6 dai6 zung1 ji3 tek3 bo1.",
+      "meaning": "Younger brother likes to play football."
     },
     {
       "id": "dai6dai6-younger-brother-example-3",
-      "sentence": "你嘅弟弟幾歲？",
-      "jyutping": "nei5 ge3 dai6 dai6 gei2 seoi3?",
+      "sentence": "你弟弟幾歲？",
+      "jyutping": "nei5 dai6 dai6 gei2 seoi3?",
       "meaning": "How old is your younger brother?"
     },
     {
       "id": "dai6dai6-younger-brother-example-4",
-      "sentence": "弟弟鍾意打籃球。",
-      "jyutping": "dai6 dai6 zung1 ji3 daa2 laam4 kau4.",
-      "meaning": "Younger brother likes to play basketball."
+      "sentence": "我哋嘅弟弟好得意。",
+      "jyutping": "ngo5 dei6 ge3 dai6 dai6 hou2 dak1 ji3.",
+      "meaning": "Our younger brother is very cute."
     }
   ],
   "audio": {
@@ -52,15 +52,15 @@
     "family",
     "immediate family",
     "siblings",
-    "basic vocabulary",
-    "nouns",
+    "male",
+    "basic",
     "level-1"
   ],
   "related": [
     "哥哥",
     "姐姐",
     "妹妹",
-    "家人",
+    "家庭",
     "兄弟"
   ]
 }
