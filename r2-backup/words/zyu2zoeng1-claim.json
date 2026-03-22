@@ -2,41 +2,42 @@
   "id": "zyu2zoeng1-claim",
   "word": "主張",
   "jyutping": "zyu2 zoeng1",
-  "meaning": "to assert / to claim",
+  "meaning": "to advocate; to argue for; to maintain; view; position",
   "pos": [
-    "expression"
+    "verb",
+    "noun"
   ],
   "usage": [
-    "The phrase is commonly used to indicate that someone is expressing a strong opinion or stance on a topic.",
-    "It can be used both in formal discussions and casual debates to convey assertion or a claim.",
-    "It usually takes a noun or clause as the object, representing the point someone is asserting.",
-    "The phrase can often introduce someone's perspective before elaborating on their reasons.",
-    "It implies confidence in the truth or correctness of the statement being made."
+    "This word is used when someone advocates or argues in favour of an idea, policy, or course of action.",
+    "It is common in formal discussions, debates, politics, education, and written Chinese, but it can also appear in careful spoken Cantonese.",
+    "As a verb, it usually introduces a view, opinion, or proposal that someone supports.",
+    "As a noun, it can refer to a person's position, argument, or viewpoint.",
+    "It often sounds more formal and deliberate than words like 認為."
   ],
   "examples": [
     {
       "id": "zyu2zoeng1-claim-example-1",
       "sentence": "佢主張政府應該加強環保措施。",
-      "jyutping": "keoi5 zyu2 zoeng1 zing3fu2 jing1goi1 gaa1koeng4 waan4bou2 cou3si1.",
-      "meaning": "He asserts that the government should strengthen environmental protection measures."
+      "jyutping": "keoi5 zyu2 zoeng1 zing3 fu2 jing1 goi1 gaa1 koeng4 waan4 bou2 cou3 si1.",
+      "meaning": "He advocates that the government should strengthen environmental protection measures."
     },
     {
       "id": "zyu2zoeng1-claim-example-2",
-      "sentence": "你主張點先解決呢個問題？",
-      "jyutping": "nei5 zyu2 zoeng1 dim2 sin1 gaai2kyut3 ni1 go3 man6tai4?",
-      "meaning": "What is your claim on how to solve this problem?"
+      "sentence": "你主張應該點樣解決呢個問題？",
+      "jyutping": "nei5 zyu2 zoeng1 jing1 goi1 dim2 joeng6 gaai2 kyut3 ni1 go3 man6 tai4?",
+      "meaning": "How do you think this problem should be solved?"
     },
     {
       "id": "zyu2zoeng1-claim-example-3",
       "sentence": "有啲人主張讀書先至有前途。",
-      "jyutping": "jau5 di1 jan4 zyu2 zoeng1 duk6 syu1 sin1 zi3 jau5 cin4tou4.",
-      "meaning": "Some people claim that studying first leads to a promising future."
+      "jyutping": "jau5 di1 jan4 zyu2 zoeng1 duk6 syu1 sin1 zi3 jau5 cin4 tou4.",
+      "meaning": "Some people argue that only studying first leads to a good future."
     },
     {
       "id": "zyu2zoeng1-claim-example-4",
       "sentence": "佢主張我哋應該用數據分析嚟做決定。",
-      "jyutping": "keoi5 zyu2 zoeng1 ngo5dei6 jing1goi1 jung6 sou3geoi3 fan1sik1 lai4 zou6 kyut3ding6.",
-      "meaning": "He asserts that we should use data analysis to make decisions."
+      "jyutping": "keoi5 zyu2 zoeng1 ngo5 dei6 jing1 goi1 jung6 sou3 geoi3 fan1 sik1 lai4 zou6 kyut3 ding6.",
+      "meaning": "He argues that we should use data analysis to make decisions."
     }
   ],
   "audio": {
@@ -50,16 +51,16 @@
   },
   "tags": [
     "assertion",
-    "claim",
-    "debate",
     "opinion",
-    "expression",
+    "debate",
+    "formal",
+    "advocacy",
     "level-9"
   ],
   "related": [
-    "聲稱",
-    "表示",
+    "提倡",
     "認為",
-    "堅持"
+    "立場",
+    "意見"
   ]
 }

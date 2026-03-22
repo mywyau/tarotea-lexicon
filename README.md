@@ -112,7 +112,7 @@ s3://tarotea-content/audio \
 --profile r2
 ```
 
-### Find audio files longer than 10s
+### Find audio files longer than 10s in wip folders
 ```
 find audio/words -type f -name "*.mp3" -print0 |
 while IFS= read -r -d '' file; do
@@ -122,6 +122,19 @@ while IFS= read -r -d '' file; do
   fi
 done
 ```
+
+
+### Find audio files longer than 10s in r2 local audio directory - takes a while to run 
+```
+find r2-backup/audio -type f -name "*.mp3" -print0 |
+while IFS= read -r -d '' file; do
+  duration=$(ffprobe -v error -show_entries format=duration -of default=nk=1:nw=1 "$file")
+  if awk "BEGIN {exit !($duration > 10)}"; then
+    echo "TOO LONG: $file -> ${duration}s"
+  fi
+done
+```
+
 
 ### Generate audio file names and generate audio
 

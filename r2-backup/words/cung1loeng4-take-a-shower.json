@@ -2,16 +2,16 @@
   "id": "cung1loeng4-take-a-shower",
   "word": "沖涼",
   "jyutping": "cung1 loeng4",
-  "meaning": "take a wash",
+  "meaning": "take a shower",
   "pos": [
-    "noun"
+    "verb"
   ],
   "usage": [
-    "The word '沖涼' is used as a noun to refer to the act of taking a bath or shower.",
-    "In Cantonese, '沖涼' can be used to describe both the action of washing oneself and the time spent doing so.",
-    "It is commonly used when talking about daily routines or when planning activities around washing.",
-    "The word can stand alone or be combined with verbs like '去' (go) or '返嚟' (come back) to indicate going to or coming back from showering.",
-    "'沖涼' can also be a casual invitation or reminder, such as telling someone it is time to take a wash."
+    "This word means to take a shower, and can also refer more broadly to bathing depending on context.",
+    "It is a very common Cantonese term used when talking about daily routines and personal hygiene.",
+    "It is often used in phrases like '去沖涼', '沖完涼', and '沖涼先'.",
+    "The exact meaning can be showering or bathing, depending on the situation.",
+    "It is mainly used in casual everyday speech."
   ],
   "examples": [
     {
@@ -22,8 +22,8 @@
     },
     {
       "id": "cung1loeng4-take-a-shower-example-2",
-      "sentence": "沖涼之後我覺得好舒服。",
-      "jyutping": "cung1 loeng4 zi1 hau6 ngo5 gok3 dak1 hou2 syu1 fuk6.",
+      "sentence": "沖完涼之後我覺得好舒服。",
+      "jyutping": "cung1 jyun4 loeng4 zi1 hau6 ngo5 gok3 dak1 hou2 syu1 fuk6.",
       "meaning": "I feel very comfortable after taking a shower."
     },
     {
@@ -38,29 +38,5 @@
       "jyutping": "cung1 loeng4 ge3 si4 hau6 m4 hou2 jung6 taai3 jit6 ge3 seoi2.",
       "meaning": "Don't use water that is too hot when taking a shower."
     }
-  ],
-  "audio": {
-    "word": "cung1loeng4-take-a-shower.mp3",
-    "examples": [
-      "cung1loeng4-take-a-shower-example-1.mp3",
-      "cung1loeng4-take-a-shower-example-2.mp3",
-      "cung1loeng4-take-a-shower-example-3.mp3",
-      "cung1loeng4-take-a-shower-example-4.mp3"
-    ]
-  },
-  "tags": [
-    "bathroom",
-    "daily routine",
-    "washing",
-    "hygiene",
-    "conversation",
-    "level-1"
-  ],
-  "related": [
-    "洗手間",
-    "毛巾",
-    "浴室",
-    "洗澡",
-    "肥皂"
   ]
 }
