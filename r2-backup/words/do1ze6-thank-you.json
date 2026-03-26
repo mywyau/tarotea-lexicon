@@ -2,24 +2,24 @@
   "id": "do1ze6-thank-you",
   "word": "多謝",
   "jyutping": "do1 ze6",
-  "meaning": "thank you (for gifts / kindness)",
+  "meaning": "thank you; thanks (for gifts, kindness, or favors)",
   "pos": [
     "phrase",
     "polite_expression"
   ],
   "usage": [
     "A very common Cantonese expression meaning 'thank you'",
-    "Used especially when thanking someone for a gift, kindness, or personal effort",
-    "More heartfelt than 唔該, which is used for services or small help",
-    "Often repeated or extended to sound warmer (e.g. 多謝晒, 多謝你)",
-    "Can be used in both casual and polite situations"
+    "Used especially when thanking someone for gifts, favors, kindness, or personal effort",
+    "Often used in contexts where the speaker feels genuine appreciation",
+    "Often repeated or extended to sound warmer (e.g. 多謝晒, 多謝你, 多謝呀)",
+    "While 唔該 is more common for services, requests, or routine help, 多謝 is commonly used for more personal gratitude"
   ],
   "examples": [
     {
       "id": "do1ze6-thank-you-example-1",
       "sentence": "多謝你。",
       "jyutping": "do1 ze6 nei5",
-      "meaning": "Thank you (to you)."
+      "meaning": "Thank you."
     },
     {
       "id": "do1ze6-thank-you-example-2",
@@ -29,8 +29,8 @@
     },
     {
       "id": "do1ze6-thank-you-example-3",
-      "sentence": "多謝你幫我。",
-      "jyutping": "do1 ze6 nei5 bong1 ngo5",
+      "sentence": "多謝你幫咗我。",
+      "jyutping": "do1 ze6 nei5 bong1 zo2 ngo5",
       "meaning": "Thank you for helping me."
     },
     {
@@ -59,7 +59,6 @@
   ],
   "related": [
     "m4goi1-please-thanks",
-    "m4gan1jiu3-no-problem",
     "do1ze6saai3-thanks-lots",
     "do1ze6aa3-thanks-friendly",
     "bong1-help"

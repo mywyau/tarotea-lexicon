@@ -2,40 +2,40 @@
   "id": "haang4-walk",
   "word": "行",
   "jyutping": "haang4",
-  "meaning": "walk",
+  "meaning": "walk; go on foot",
   "pos": [
     "verb"
   ],
   "usage": [
-    "The word '行' (haang4) is used as a verb meaning 'to walk'.",
-    "It can describe someone or an animal moving on foot from one place to another.",
-    "'行' can be used in different tenses with appropriate particles, such as '行緊' for 'walking' now.",
-    "It is often paired with direction or destination words, like '行入去' (walk inside).",
-    "You can also use '行' in questions to ask if someone can or will walk somewhere."
+    "行 is a common Cantonese verb meaning 'to walk' or 'to go on foot'.",
+    "It is used when someone or an animal moves by walking rather than by vehicle.",
+    "It can combine with aspect markers or complements, such as 行緊 for 'walking' and 行得快 for 'walk quickly'.",
+    "It is often paired with direction or destination phrases, such as 行入去, 行過去, or 行返屋企.",
+    "It is very common in everyday Cantonese when talking about movement on foot."
   ],
   "examples": [
     {
       "id": "haang4-walk-example-1",
-      "sentence": "佢每日都喺公園行。",
-      "jyutping": "Keoi5 mui5 jat6 dou1 hai2 gung1 jyun4 haang4.",
+      "sentence": "佢每日都喺公園度行。",
+      "jyutping": "keoi5 mui5 jat6 dou1 hai2 gung1 jyun4 dou6 haang4",
       "meaning": "He walks in the park every day."
     },
     {
       "id": "haang4-walk-example-2",
-      "sentence": "狗狗行得好快。",
-      "jyutping": "Gau2 gau2 haang4 dak1 hou2 faai3.",
-      "meaning": "The dog walks very fast."
+      "sentence": "佢行得好快，我跟唔上。",
+      "jyutping": "keoi5 haang4 dak1 hou2 faai3, ngo5 gan1 m4 soeng5",
+      "meaning": "He walks very fast, and I can't keep up."
     },
     {
       "id": "haang4-walk-example-3",
       "sentence": "我哋一齊行去食嘢啦。",
-      "jyutping": "Ngo5 dei6 jat1 cai4 haang4 heoi3 sik6 je5 laa1.",
-      "meaning": "Let's walk together to eat."
+      "jyutping": "ngo5 dei6 jat1 cai4 haang4 heoi3 sik6 je5 laa1",
+      "meaning": "Let's walk over together to get something to eat."
     },
     {
       "id": "haang4-walk-example-4",
       "sentence": "你可以行過去嗰邊。",
-      "jyutping": "Nei5 ho2 ji5 haang4 gwo3 heoi3 go2 bin1.",
+      "jyutping": "nei5 ho2 ji5 haang4 gwo3 heoi3 go2 bin1",
       "meaning": "You can walk over there."
     }
   ],
@@ -49,17 +49,15 @@
     ]
   },
   "tags": [
-    "animal_actions",
     "basic_verbs",
     "movement",
     "daily_use",
     "level-1"
   ],
   "related": [
-    "走",
-    "跑",
-    "爬",
-    "跳",
-    "停"
+    "paau2-run",
+    "paa4-climb",
+    "tiu3-jump",
+    "ting4-stop"
   ]
 }

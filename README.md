@@ -182,7 +182,7 @@ python3 scripts/extract_example_sentences.py /path/to/your/json-folder examples.
 
 ### extract sentences from levels
 ```
-python3 scripts/extract_level_sentences.py ./r2-backup/levels/level-ten.json ./r2-backup/words ./sentences/level/level-ten-sentences.json --dedupe
+python3 scripts/extract_level_sentences.py ./r2-backup/levels/level-one.json ./r2-backup/words ./sentences/level/level-one-sentences.json --dedupe
 ```
 
 
