@@ -25,6 +25,5 @@ def generate_audio(text: str, output_path: Path):
             "Keep the delivery clear, steady, and slightly careful."
         ),
         response_format=FORMAT,
-        speed=SPEED,
     ) as response:
         response.stream_to_file(output_path)
