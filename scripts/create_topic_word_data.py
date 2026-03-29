@@ -79,7 +79,7 @@ Jyutping: {job["jyutping"]}
 Requirements:
 - Use the provided jyutping as canonical
 - Part of speech: noun (if applicable)
-- In Cantonese, generate four sentences on grammatical usage of the word in the Usage field
+- The usage field needs four bullet points on the grammitcal usage, please use english to teach the user.
 - Usage field content must be in english, any references to chinese words, sentence or characters are to be in Cantonese
 - Generate exactly 4 example sentences using the word in different contexts that are natural chinese
 - Generate learner-friendly tags
