@@ -8,9 +8,9 @@ SPEED = 1.00
 
 client = OpenAI()
 
-def generate_audio(text: str, output_path: Path):
+def generate_audio(text: str, output_path: Path, word_id:str):
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    print(f"🔊 Generating audio for: {text}")
+    print(f"🔊 Generating audio for: {word_id}")
 
     with client.audio.speech.with_streaming_response.create(
         model=MODEL,

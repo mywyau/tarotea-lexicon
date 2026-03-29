@@ -3,10 +3,12 @@
   "word": "智能手錶",
   "jyutping": "zi3 nang4 sau2 biu1",
   "meaning": "smartwatch",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "The word '智能手錶' functions as a noun and refers to a smartwatch, a wearable device that connects to your phone and tracks health or notifications.",
-    "You can use '智能手錶' as the subject or object in a sentence, for Example:  '我買咗智能手錶' (I bought a smartwatch).",
+    "You can use '智能手錶' as the subject or object in a sentence, for example: '我買咗智能手錶' (I bought a smartwatch).",
     "'智能手錶' can be modified by adjectives related to technology, such as '最新嘅智能手錶' (the latest smartwatch).",
     "When talking about features, you can use verbs like '用' (use), '睇' (check), or '接收' (receive) with '智能手錶'.",
     "In questions, you can ask about possession, use, or preferences, e.g. '你有冇用智能手錶？' (Do you use a smartwatch?)."
@@ -54,5 +56,11 @@
     "daily use",
     "level-1"
   ],
-  "related": ["手機", "智能電話", "平板電腦", "藍牙", "健康應用"]
+  "related": [
+    "手機",
+    "智能電話",
+    "平板電腦",
+    "藍牙",
+    "健康應用"
+  ]
 }

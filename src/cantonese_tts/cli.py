@@ -36,6 +36,6 @@ def run():
         if args.dry_run:
             print(f"[DRY] {filename} → {out}")
         else:
-            generate_audio(text, out)
+            generate_audio(text, out, word_id)
 
     print("✅ Done")

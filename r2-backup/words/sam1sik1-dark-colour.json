@@ -3,12 +3,14 @@
   "word": "深色",
   "jyutping": "sam1 sik1",
   "meaning": "dark colour",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use 深色 to talk about a dark shade or a dark-coloured item. Example: 呢件衫係深色。",
-    "It is often used before a noun to describe colour. Example: 我鍾意深色褲。",
-    "You can use it when comparing colours with 浅色 / 淺色. Example: 呢隻藍色深色啲。",
-    "It sounds natural in everyday shopping, clothes, and design talk. Example: 想要深色嘅枱面。"
+    "Use 深色 to talk about a dark shade or a dark-coloured item. 例如：呢件衫係深色。",
+    "It is often used before a noun to describe colour. 例如：我鍾意深色褲。",
+    "You can use it when comparing colours with 浅色 / 淺色. 例如：呢隻藍色深色啲。",
+    "It sounds natural in everyday shopping, clothes, and design talk. 例如：想要深色嘅枱面。"
   ],
   "examples": [
     {
@@ -54,5 +56,11 @@
     "describing things",
     "level-1"
   ],
-  "related": ["淺色", "黑色", "灰色", "藍色", "深淺"]
+  "related": [
+    "淺色",
+    "黑色",
+    "灰色",
+    "藍色",
+    "深淺"
+  ]
 }

@@ -3,12 +3,14 @@
   "word": "私家車",
   "jyutping": "si1 gaa1 ce1",
   "meaning": "private car",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "私家車 refers to a privately owned car, as opposed to public transport or commercial vehicles.",
     "You can use 私家車 when talking about personal transport, driving, parking, or buying a car.",
     "It often appears in sentences about owning or using a car, such as 揸私家車 (drive a private car) or 坐私家車 (go by private car).",
-    "When counting private cars, the usual classifier is 架, for Example:  一架私家車.",
+    "When counting private cars, the usual classifier is 架, for example: 一架私家車.",
     "It functions as a noun and can be used as the subject or object of a sentence."
   ],
   "examples": [
@@ -46,6 +48,19 @@
       "si1gaa1ce1-private-car-example-4.mp3"
     ]
   },
-  "tags": ["transport", "vehicle", "car", "private", "travel", "level-1"],
-  "related": ["巴士", "的士", "電單車", "地鐵", "輪船"]
+  "tags": [
+    "transport",
+    "vehicle",
+    "car",
+    "private",
+    "travel",
+    "level-1"
+  ],
+  "related": [
+    "巴士",
+    "的士",
+    "電單車",
+    "地鐵",
+    "輪船"
+  ]
 }

@@ -2,41 +2,40 @@
   "id": "tek3zuk1kau4-football",
   "word": "踢足球",
   "jyutping": "tek3 zuk1 kau4",
-  "meaning": "play football",
+  "meaning": "football",
   "pos": [
-    "verb phrase"
+    "noun"
   ],
   "usage": [
-    "The phrase 踢足球 (tek3 zuk1 kau4) is a verb phrase that means 'to play football' or 'to kick football'.",
-    "It can be used to describe the action of playing football casually or in organized sports.",
-    "You can use 踢足球 in present tense statements, questions, and commands.",
-    "Because it’s a verb phrase, it can combine with time words to indicate when the activity happens, e.g., 今晚踢足球 (play football tonight).",
-    "It often appears with expressions of frequency, such as 經常踢足球 (often play football)."
+    "- Use 踢足球 as a noun phrase for the sport of football/soccer; it is common in everyday spoken Cantonese.",
+    "- In Hong Kong, people often say 踢足球 when they mean playing football, not watching it.",
+    "- It can work after verbs like 鍾意, 想, 去, or 學, for example in hobby or activity contexts.",
+    "- For young learners, this is a very common sports word, and it sounds natural in both school and casual conversation."
   ],
   "examples": [
     {
       "id": "tek3zuk1kau4-football-example-1",
-      "sentence": "我星期六會去公園踢足球。",
-      "jyutping": "ngo5 sing1 kei4 luk6 wui5 heoi3 gung1 jyun4 tek3 zuk1 kau4.",
-      "meaning": "I will go to the park to play football on Saturday."
+      "sentence": "我星期六最鍾意踢足球。",
+      "jyutping": "ngo5 sing1 kei4 luk6 zeoi3 zung1 ji3 tek3 zuk1 kau4.",
+      "meaning": "I like playing football best on Saturdays."
     },
     {
       "id": "tek3zuk1kau4-football-example-2",
-      "sentence": "你鍾唔鍾意踢足球？",
-      "jyutping": "nei5 zung1 m4 zung1 ji3 tek3 zuk1 kau4?",
-      "meaning": "Do you like playing football?"
+      "sentence": "佢成日同朋友踢足球。",
+      "jyutping": "keoi5 sing4 jat6 tung4 pang4 jau5 tek3 zuk1 kau4.",
+      "meaning": "He often plays football with friends."
     },
     {
       "id": "tek3zuk1kau4-football-example-3",
-      "sentence": "佢哋每晚踢足球做運動。",
-      "jyutping": "keoi5 dei6 mui5 maan5 tek3 zuk1 kau4 zou6 wan6 dung6.",
-      "meaning": "They play football every night as exercise."
+      "sentence": "你想唔想一齊去踢足球？",
+      "jyutping": "nei5 soeng2 m4 soeng2 jat1 cai4 heoi3 tek3 zuk1 kau4?",
+      "meaning": "Do you want to go play football together?"
     },
     {
       "id": "tek3zuk1kau4-football-example-4",
-      "sentence": "唔好淨係諗住打機，一齊出嚟踢足球啦！",
-      "jyutping": "m4 hou2 zing6 hai6 nam2 zyu6 da2 gei1, jat1 cai4 ceot1 lai4 tek3 zuk1 kau4 laa1!",
-      "meaning": "Don’t just think about playing video games, come out and play football together!"
+      "sentence": "學校操場可以踢足球。",
+      "jyutping": "hok6 haau6 cou1 coeng4 ho2 ji5 tek3 zuk1 kau4.",
+      "meaning": "You can play football on the school playground."
     }
   ],
   "audio": {
@@ -50,17 +49,18 @@
   },
   "tags": [
     "sports",
-    "football",
-    "exercise",
-    "verb phrase",
-    "common activities",
+    "hobbies",
+    "fitness",
+    "ball sports",
+    "beginner",
+    "daily life",
     "level-1"
   ],
   "related": [
-    "球場 (kau4 coeng4 - football pitch)",
-    "球員 (kau4 jyun4 - player)",
-    "踢波 (tek3 bo1 - kick ball)",
-    "足球隊 (zuk1 kau4 deoi2 - football team)",
-    "運動 (wan6 dung6 - exercise)"
+    "足球",
+    "波",
+    "打波",
+    "運動",
+    "球場"
   ]
 }

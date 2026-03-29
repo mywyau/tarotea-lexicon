@@ -3,12 +3,14 @@
   "word": "白色",
   "jyutping": "baak6 sik1",
   "meaning": "white",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use 白色 to talk about the colour white. Example:  呢件衫係白色。",
-    "It often comes before a noun to describe something’s colour. Example:  白色鞋好襯。",
-    "You can use it in everyday conversation for clothes, objects, and animals. Example:  我鍾意白色杯。",
-    "It can also be used in fixed colour expressions. Example:  白色牆身睇落好光。"
+    "Use 白色 to talk about the colour white. Example: 呢件衫係白色。",
+    "It often comes before a noun to describe something’s colour. Example: 白色鞋好襯。",
+    "You can use it in everyday conversation for clothes, objects, and animals. Example: 我鍾意白色杯。",
+    "It can also be used in fixed colour expressions. Example: 白色牆身睇落好光。"
   ],
   "examples": [
     {
@@ -53,5 +55,10 @@
     "level 1",
     "level-1"
   ],
-  "related": ["白", "黑色", "灰色", "顏色"]
+  "related": [
+    "白",
+    "黑色",
+    "灰色",
+    "顏色"
+  ]
 }

@@ -3,12 +3,14 @@
   "word": "淡色",
   "jyutping": "daam6 sik1",
   "meaning": "pale colour",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "淡色 usually works as a noun phrase, meaning a pale or light colour. Example: 呢件衫係淡色。",
-    "You can use 淡色 to describe clothes, paint, makeup, or anything with a soft colour. Example: 我想揀淡色口紅。",
-    "It often comes before the noun it modifies in a general way, like 淡色 + noun. Example: 佢買咗淡色窗簾。",
-    "You can use it in everyday speech when comparing with darker colours. Example: 呢幅畫用咗淡色背景。"
+    "淡色 usually works as a noun phrase, meaning a pale or light colour. 例如：呢件衫係淡色。",
+    "You can use 淡色 to describe clothes, paint, makeup, or anything with a soft colour. 例如：我想揀淡色口紅。",
+    "It often comes before the noun it modifies in a general way, like 淡色 + noun. 例如：佢買咗淡色窗簾。",
+    "You can use it in everyday speech when comparing with darker colours. 例如：呢幅畫用咗淡色背景。"
   ],
   "examples": [
     {
@@ -53,5 +55,11 @@
     "describing appearance",
     "level-1"
   ],
-  "related": ["淺色", "深色", "顏色", "色調", "米色"]
+  "related": [
+    "淺色",
+    "深色",
+    "顏色",
+    "色調",
+    "米色"
+  ]
 }

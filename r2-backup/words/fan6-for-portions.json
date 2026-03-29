@@ -3,11 +3,13 @@
   "word": "份",
   "jyutping": "fan6",
   "meaning": "portion",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "The word 份 (fan6) is used as a measure word for portions or shares, commonly referring to food or document portions.",
     "It can quantify an amount that is divided or shared among people or things.",
-    "份 typically comes after a number and before a noun, for Example:  '一份飯' (one portion of rice).",
+    "份 typically comes after a number and before a noun, for example: '一份飯' (one portion of rice).",
     "This measure word is often used in restaurants or when splitting items into parts.",
     "份 can also indicate someone's share or assignment of tasks or goods."
   ],
@@ -54,5 +56,11 @@
     "assignments",
     "level-1"
   ],
-  "related": ["個 (go3)", "件 (gin6)", "杯 (bui1)", "碗 (wun2)", "張 (zoeng1)"]
+  "related": [
+    "個 (go3)",
+    "件 (gin6)",
+    "杯 (bui1)",
+    "碗 (wun2)",
+    "張 (zoeng1)"
+  ]
 }

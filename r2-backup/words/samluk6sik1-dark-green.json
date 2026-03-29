@@ -3,12 +3,14 @@
   "word": "深綠色",
   "jyutping": "sam1 luk6 sik1",
   "meaning": "dark green",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Used as a noun to talk about the colour dark green. Example: 呢件衫係深綠色。",
-    "You can use it before a noun to describe things with a dark green colour. Example: 深綠色背包幾好睇。",
-    "It is common in everyday speech when describing clothes, objects, or nature. Example: 我鍾意深綠色嘅牆。",
-    "It can also be used when choosing or comparing colours. Example: 你想要深綠色定淺綠色？"
+    "Used as a noun to talk about the colour dark green. 例如：呢件衫係深綠色。",
+    "You can use it before a noun to describe things with a dark green colour. 例如：深綠色背包幾好睇。",
+    "It is common in everyday speech when describing clothes, objects, or nature. 例如：我鍾意深綠色嘅牆。",
+    "It can also be used when choosing or comparing colours. 例如：你想要深綠色定淺綠色？"
   ],
   "examples": [
     {
@@ -53,5 +55,10 @@
     "light and dark colours",
     "level-1"
   ],
-  "related": ["綠色", "淺綠色", "黑色", "藍色"]
+  "related": [
+    "綠色",
+    "淺綠色",
+    "黑色",
+    "藍色"
+  ]
 }

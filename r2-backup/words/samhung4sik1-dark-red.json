@@ -3,12 +3,14 @@
   "word": "深紅色",
   "jyutping": "sam1 hung4 sik1",
   "meaning": "dark red",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Used as a noun to name a dark shade of red. Example:  呢件衫係深紅色。",
-    "Often describes clothes, objects, or decorations when you want to say the colour is darker than normal red. Example:  我買咗深紅色嘅袋。",
-    "Can be used after a noun phrase to say the thing is dark red in colour. Example:  朵花係深紅色。",
-    "A simple everyday colour word; it is neutral and can be used in both casual talk and writing. Example:  佢鍾意深紅色嘅手機殼。"
+    "Used as a noun to name a dark shade of red. Example: 呢件衫係深紅色。",
+    "Often describes clothes, objects, or decorations when you want to say the colour is darker than normal red. Example: 我買咗深紅色嘅袋。",
+    "Can be used after a noun phrase to say the thing is dark red in colour. Example: 朵花係深紅色。",
+    "A simple everyday colour word; it is neutral and can be used in both casual talk and writing. Example: 佢鍾意深紅色嘅手機殼。"
   ],
   "examples": [
     {
@@ -53,5 +55,10 @@
     "light and dark shades",
     "level-1"
   ],
-  "related": ["紅色", "黑色", "紫色", "粉紅色"]
+  "related": [
+    "紅色",
+    "黑色",
+    "紫色",
+    "粉紅色"
+  ]
 }

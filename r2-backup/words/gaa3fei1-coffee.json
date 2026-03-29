@@ -3,11 +3,13 @@
   "word": "咖啡",
   "jyutping": "gaa3 fe1",
   "meaning": "coffee",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "The word 咖啡 (gaa3 fe1) is a noun that refers to the drink coffee.",
     "You can use 咖啡 as the subject or object of a sentence.",
-    "It can be combined with numbers and classifiers, for Example:  一杯咖啡 (jat1 bui1 gaa3 fe1) means 'a cup of coffee'.",
+    "It can be combined with numbers and classifiers, for example: 一杯咖啡 (jat1 bui1 gaa3 fe1) means 'a cup of coffee'.",
     "You may see 咖啡 used with adjectives to describe the type of coffee, like 熱咖啡 (jit6 gaa3 fe1) meaning 'hot coffee'.",
     "In informal speech, 咖啡 often appears in requests or questions about ordering drinks."
   ],
@@ -46,7 +48,14 @@
       "gaa3fei1-coffee-example-4.mp3"
     ]
   },
-  "tags": ["drink", "noun", "beverage", "coffee", "ordering", "level-1"],
+  "tags": [
+    "drink",
+    "noun",
+    "beverage",
+    "coffee",
+    "ordering",
+    "level-1"
+  ],
   "related": [
     "茶 (caa4) - tea",
     "水 (seoi2) - water",

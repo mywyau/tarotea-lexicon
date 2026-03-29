@@ -2,42 +2,40 @@
   "id": "haang4saan1-hiking",
   "word": "行山",
   "jyutping": "haang4 saan1",
-  "meaning": "go hiking",
+  "meaning": "hiking",
   "pos": [
-    "noun",
-    "verb"
+    "noun"
   ],
   "usage": [
-    "As a noun, '行山' means the activity of hiking, e.g., 'I enjoy going for a hike on weekends.'",
-    "As a verb phrase, '行山' means to go hiking, e.g., 'We plan to hike this Saturday.'",
-    "It can be used with verbs like '去' (to go) when talking about the action of going hiking.",
-    "When talking about frequency, '行山' can be combined with words like '經常' (often) or '試下' (try) to express regularity or suggestion.",
-    "The phrase can appear in questions, statements, and commands naturally, making it versatile for different sentence types."
+    "Used for leisure hiking or walking on hills and country trails; very common in Hong Kong daily speech.",
+    "Can be used on its own or after verbs like 去 or 鍾意, e.g. to talk about going hiking or liking hiking.",
+    "Usually refers to outdoor hill walking rather than formal mountaineering; for very difficult climbing, people may use other words.",
+    "A very natural, everyday word in spoken Cantonese; good for beginner vocabulary in hobbies and fitness."
   ],
   "examples": [
     {
       "id": "haang4saan1-hiking-example-1",
-      "sentence": "我鍾意星期六同朋友去行山。",
-      "jyutping": "ngo5 zung1 ji3 sing1 kei4 luk6 tung4 pang4 jau5 heoi3 haang4 saan1",
-      "meaning": "I like going hiking with friends on Saturdays."
+      "sentence": "我聽日同朋友去行山。",
+      "jyutping": "ngo5 ting1 jat6 tung4 pang4 jau5 heoi3 haang4 saan1.",
+      "meaning": "I’m going hiking with friends tomorrow."
     },
     {
       "id": "haang4saan1-hiking-example-2",
-      "sentence": "今年我打算多啲時間去行山。",
-      "jyutping": "gam1 nin4 ngo5 daa2 syun3 do1 di1 si4 gaan3 heoi3 haang4 saan1",
-      "meaning": "This year I plan to go hiking more often."
+      "sentence": "週末你好鍾意行山呀？",
+      "jyutping": "zau1 mut6 nei5 hou2 zung1 ji3 haang4 saan1 aa3?",
+      "meaning": "Do you like hiking a lot on weekends?"
     },
     {
       "id": "haang4saan1-hiking-example-3",
-      "sentence": "你有冇興趣一齊去行山？",
-      "jyutping": "nei5 jau5 mou5 hing3 ceoi3 jat1 cai4 heoi3 haang4 saan1",
-      "meaning": "Are you interested in going hiking together?"
+      "sentence": "佢成日去行山，身體好好。",
+      "jyutping": "keoi5 seng4 jat6 heoi3 haang4 saan1, san1 tai2 hou2 hou2.",
+      "meaning": "He/She goes hiking often, so they’re in great shape."
     },
     {
       "id": "haang4saan1-hiking-example-4",
-      "sentence": "行山可以幫助減肥同埋放鬆心情。",
-      "jyutping": "haang4 saan1 ho2 ji5 bong1 zo6 gaam2 fei4 tung4 maai4 fong3 sung1 sam1 cing4",
-      "meaning": "Hiking can help with losing weight and relaxing your mind."
+      "sentence": "天氣咁好，我哋不如去行山啦。",
+      "jyutping": "tin1 hei3 gam3 hou2, ngo5 dei6 bat1 jyu4 heoi3 haang4 saan1 laa1.",
+      "meaning": "The weather is so nice, let’s go hiking."
     }
   ],
   "audio": {
@@ -50,18 +48,20 @@
     ]
   },
   "tags": [
-    "outdoor",
-    "exercise",
-    "nature",
-    "weekend activity",
+    "hobbies",
+    "interests",
+    "sports",
     "fitness",
+    "outdoor activities",
+    "beginner",
+    "daily conversation",
+    "Hong Kong Cantonese",
     "level-1"
   ],
   "related": [
-    "郊遊 (gaau1 jau4) - outing",
-    "遠足 (yun5 zuk1) - trekking",
-    "爬山 (paa4 saan1) - mountain climbing",
-    "露營 (lou6 jing4) - camping",
-    "健行 (gin6 hang4) - fitness walking"
+    "郊遊",
+    "遠足",
+    "爬山",
+    "山徑"
   ]
 }

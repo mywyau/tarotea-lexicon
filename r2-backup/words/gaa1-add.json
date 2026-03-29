@@ -6,37 +6,37 @@
   "pos": [
     "verb"
   ],
-  "usage": [
-    "The word '加' (gaa1) is a verb that means 'to add'.",
-    "It can be used in various contexts, such as adding ingredients, adding information, or adding a number.",
-    "In Cantonese sentences, '加' typically comes before the object that is being added.",
-    "It can be followed directly by a noun or a verb phrase.",
-    "It can also be used in commands or requests to indicate doing an addition."
-  ],
+"usage": [
+  "The word 「加」 is a verb meaning 'to add'. It is commonly used in maths when combining numbers or amounts.",
+  "In arithmetic, 「加」 can be used to describe addition, for example adding one number to another.",
+  "In everyday speech, 「加」 can also mean to put in or add something extra, such as sugar, water, or other ingredients.",
+  "「加」 can also be used more broadly to mean adding an extra person, item, or amount to something.",
+  "Common related words include 「加法」 (addition), 「相加」 (to add together), and 「加埋」 (add together / include as well)."
+]
   "examples": [
     {
       "id": "gaa1-add-example-1",
-      "sentence": "我想加糖喺咖啡入面。",
-      "jyutping": "ngo5 soeng2 gaa1 tong4 hai2 gaa3 fe1 jap6 min6.",
-      "meaning": "I want to add sugar to the coffee."
+      "sentence": "我哋要加二加三。",
+      "jyutping": "ngo5 dei6 jiu3 gaa1 ji6 gaa1 saam1.",
+      "meaning": "We need to add 2 and 3."
     },
     {
       "id": "gaa1-add-example-2",
-      "sentence": "你可以加我做朋友嗎？",
-      "jyutping": "nei5 ho2 ji5 gaa1 ngo5 zou6 pang4 jau5 maa3?",
-      "meaning": "Can you add me as a friend?"
+      "sentence": "呢條題要加埋個零。",
+      "jyutping": "ni1 tiu4 tai4 jiu3 gaa1 maai4 go3 ling4.",
+      "meaning": "This problem needs the zero added in."
     },
     {
       "id": "gaa1-add-example-3",
-      "sentence": "請加多啲油喺炒菜度。",
-      "jyutping": "cing2 gaa1 do1 di1 jau4 hai2 caau2 coi3 dou6.",
-      "meaning": "Please add more oil when stir-frying."
+      "sentence": "你幫我加少少糖。",
+      "jyutping": "nei5 bong1 ngo5 gaa1 siu2 siu2 tong4.",
+      "meaning": "Help me add a little sugar."
     },
     {
       "id": "gaa1-add-example-4",
-      "sentence": "佢加咗幾張相上網。",
-      "jyutping": "keoi5 gaa1 zo2 gei2 zoeng1 soeng2 soeng5 mong5.",
-      "meaning": "He/she added a few photos online."
+      "sentence": "開會前先加多個人。",
+      "jyutping": "hoi1 wui2 cin4 sin1 gaa1 do1 go3 jan4.",
+      "meaning": "Add one more person before the meeting."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "verb",
-    "common",
-    "daily use",
-    "technology",
-    "food",
+    "math",
+    "arithmetic",
+    "basic verb",
+    "addition",
+    "everyday use",
     "level-1"
   ],
   "related": [
-    "減 (gaan2) - subtract",
-    "整 (zing2) - make/fix",
-    "加埋 (gaa1 maai4) - add together",
-    "增加 (zang1 gaa1) - increase",
-    "放 (fong3) - put"
+    "加法",
+    "加數",
+    "相加",
+    "加減",
+    "加埋"
   ]
 }

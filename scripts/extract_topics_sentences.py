@@ -156,6 +156,10 @@ def main() -> None:
     print(f"Loaded {len(word_ids)} word ids from {topic_file.name}")
     print(f"Extracted {len(rows)} sentences")
     print(f"Missing word files: {len(missing_files)}")
+    
+    for missing_file in missing_files:
+        print(f"Missing word file: {missing_file}")
+    
     print(f"Wrote output to {output_file}")
 
 

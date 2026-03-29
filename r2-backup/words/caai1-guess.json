@@ -3,10 +3,12 @@
   "word": "猜",
   "jyutping": "caai1",
   "meaning": "guess",
-  "pos": ["verb"],
+  "pos": [
+    "verb"
+  ],
   "usage": [
     "The verb '猜' means 'to guess' and is commonly used when you try to find an answer without full information.",
-    "'猜' can be used with objects, for Example:  猜答案 (guess the answer).",
+    "'猜' can be used with objects, for example: 猜答案 (guess the answer).",
     "It can also be used in questions, like 你估唔估到? (Can you guess?).",
     "When expressing a guess, it can be followed by a clause, like 我估佢係老師 (I guess he is the teacher).",
     "'猜' is often used in casual conversations about making guesses or assumptions."
@@ -46,6 +48,18 @@
       "caai1-guess-example-4.mp3"
     ]
   },
-  "tags": ["basic_verbs", "thinking", "daily_life", "common", "level-1"],
-  "related": ["估", "諗", "覺得", "估計", "認為"]
+  "tags": [
+    "basic_verbs",
+    "thinking",
+    "daily_life",
+    "common",
+    "level-1"
+  ],
+  "related": [
+    "估",
+    "諗",
+    "覺得",
+    "估計",
+    "認為"
+  ]
 }

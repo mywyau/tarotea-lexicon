@@ -1,0 +1,96 @@
+{
+  "topic": "hobbies-interests",
+  "title": "Hobbies & Interests",
+  "description": "Learn common Cantonese words for hobbies, pastimes, creative activities, sports, games, collecting, and social interests.",
+  "categories": {
+    "general_hobbies": [
+      { "id": "hing3ceoi3-interest", "word": "興趣", "jyutping": "hing3 ceoi3", "meaning": "interest" },
+      { "id": "si3hou3-hobby", "word": "嗜好", "jyutping": "si3 hou3", "meaning": "hobby" },
+      { "id": "oi3hou3-pastime", "word": "愛好", "jyutping": "oi3 hou3", "meaning": "pastime" },
+      { "id": "jyu4lok6-entertainment", "word": "娛樂", "jyutping": "jyu4 lok6", "meaning": "entertainment" },
+      { "id": "fong3sung1-relax", "word": "放鬆", "jyutping": "fong3 sung1", "meaning": "relax" },
+      { "id": "jip6jyu4-amateur", "word": "業餘", "jyutping": "jip6 jyu4", "meaning": "amateur" },
+      { "id": "hung1haan4-free-time", "word": "空閒", "jyutping": "hung1 haan4", "meaning": "free time" },
+      { "id": "jau5ceoi3-interesting", "word": "有趣", "jyutping": "jau5 ceoi3", "meaning": "interesting" },
+      { "id": "mou4liu4-boring", "word": "無聊", "jyutping": "mou4 liu4", "meaning": "boring" },
+      { "id": "zik1gik6-active", "word": "積極", "jyutping": "zik1 gik6", "meaning": "active" }
+    ],
+    "sports_fitness": [
+      { "id": "wan6dung6-sport", "word": "運動", "jyutping": "wan6 dung6", "meaning": "sport" },
+      { "id": "gin6san1-fitness", "word": "健身", "jyutping": "gin6 san1", "meaning": "fitness" },
+      { "id": "paau2bou6-running", "word": "跑步", "jyutping": "paau2 bou6", "meaning": "running" },
+      { "id": "jau4seoi2-swimming", "word": "游水", "jyutping": "jau4 seoi2", "meaning": "swimming" },
+      { "id": "caai2daan1ce1-cycling", "word": "踩單車", "jyutping": "caai2 daan1 ce1", "meaning": "cycling" },
+      { "id": "haang4saan1-hiking", "word": "行山", "jyutping": "haang4 saan1", "meaning": "hiking" },
+      { "id": "daa2bo1-ball-games", "word": "打波", "jyutping": "daa2 bo1", "meaning": "ball games" },
+      { "id": "daa2paang5kau4-baseball", "word": "打棒球", "jyutping": "daa2 paang5 kau4", "meaning": "baseball" },
+      { "id": "daa2laam4kau4-basketball", "word": "打籃球", "jyutping": "daa2 laam4 kau4", "meaning": "basketball" },
+      { "id": "tek3zuk1kau4-football", "word": "踢足球", "jyutping": "tek3 zuk1 kau4", "meaning": "football" },
+      { "id": "daa2jyu5mou4kau4-badminton", "word": "打羽毛球", "jyutping": "daa2 jyu5 mou4 kau4", "meaning": "badminton" },
+      { "id": "jyu4gaa1-yoga", "word": "瑜伽", "jyutping": "jyu4 gaa1", "meaning": "yoga" }
+    ],
+    "outdoor_activities": [
+      { "id": "lou6jing4-camping", "word": "露營", "jyutping": "lou6 jing4", "meaning": "camping" },
+      { "id": "diu3jyu4-fishing", "word": "釣魚", "jyutping": "diu3 jyu4", "meaning": "fishing" },
+      { "id": "leoi5hang4-travel", "word": "旅行", "jyutping": "leoi5 hang4", "meaning": "travel" },
+      { "id": "saan3bou6-walking", "word": "散步", "jyutping": "saan3 bou6", "meaning": "walking" },
+      { "id": "gun1niu5-birdwatching", "word": "觀鳥", "jyutping": "gun1 niu5", "meaning": "birdwatching" },
+      { "id": "jyun4ngai6-gardening", "word": "園藝", "jyutping": "jyun4 ngai6", "meaning": "gardening" },
+      { "id": "jing2soeng2-taking-photos", "word": "影相", "jyutping": "jing2 soeng2", "meaning": "taking photos" },
+      { "id": "caam1gun1-visit", "word": "參觀", "jyutping": "caam1 gun1", "meaning": "visit" }
+    ],
+    "arts_creative": [
+      { "id": "waa2waa2-drawing", "word": "畫畫", "jyutping": "waa2 waa2", "meaning": "drawing" },
+      { "id": "se2zok3-writing", "word": "寫作", "jyutping": "se2 zok3", "meaning": "writing" },
+      { "id": "sip3jing2-photography", "word": "攝影", "jyutping": "sip3 jing2", "meaning": "photography" },
+      { "id": "sau2gung1-crafts", "word": "手工", "jyutping": "sau2 gung1", "meaning": "crafts" },
+      { "id": "pin1zik1-knitting", "word": "編織", "jyutping": "pin1 zik1", "meaning": "knitting" },
+      { "id": "tou4sik1-colouring", "word": "塗色", "jyutping": "tou4 sik1", "meaning": "colouring" },
+      { "id": "cai3mou4jing4-models", "word": "砌模型", "jyutping": "cai3 mou4 jing4", "meaning": "models" },
+      { "id": "caap3faa1-flower-arranging", "word": "插花", "jyutping": "caap3 faa1", "meaning": "flower arranging" },
+      { "id": "luk6jing2-filming", "word": "錄影", "jyutping": "luk6 jing2", "meaning": "filming" },
+      { "id": "ceot1baan2-publishing", "word": "出版", "jyutping": "ceot1 baan2", "meaning": "publishing" }
+    ],
+    "music_performing": [
+      { "id": "coeng3go1-singing", "word": "唱歌", "jyutping": "coeng3 go1", "meaning": "singing" },
+      { "id": "teng1jam1ngok6-listening-to-music", "word": "聽音樂", "jyutping": "teng1 jam1 ngok6", "meaning": "listening to music" },
+      { "id": "taan4git3taa1-guitar", "word": "彈結他", "jyutping": "taan4 git3 taa1", "meaning": "guitar" },
+      { "id": "taan4gong3kam4-piano", "word": "彈鋼琴", "jyutping": "taan4 gong3 kam4", "meaning": "piano" },
+      { "id": "laai1ji6wu4-erhu", "word": "拉二胡", "jyutping": "laai1 ji6 wu4", "meaning": "erhu" },
+      { "id": "tiu3mou5-dancing", "word": "跳舞", "jyutping": "tiu3 mou5", "meaning": "dancing" },
+      { "id": "biu2jin2-performing", "word": "表演", "jyutping": "biu2 jin2", "meaning": "performing" },
+      { "id": "hok6jam1ngok6-music-lessons", "word": "學音樂", "jyutping": "hok6 jam1 ngok6", "meaning": "music lessons" }
+    ],
+    "games_technology": [
+      { "id": "daa2gei1-gaming", "word": "打機", "jyutping": "daa2 gei1", "meaning": "gaming" },
+      { "id": "haa6kei4-chess", "word": "下棋", "jyutping": "haa6 kei4", "meaning": "chess" },
+      { "id": "coek3jau4-board-games", "word": "桌遊", "jyutping": "coek3 jau4", "meaning": "board games" },
+      { "id": "pin1cing4-coding", "word": "編程", "jyutping": "pin1 cing4", "meaning": "coding" },
+      { "id": "cit3gai3-design", "word": "設計", "jyutping": "cit3 gai3", "meaning": "design" },
+      { "id": "zing2jing3jung6cing4sik1-app-making", "word": "整應用程式", "jyutping": "zing2 jing3 jung6 cing4 sik1", "meaning": "app making" },
+      { "id": "soeng5mong5-go-online", "word": "上網", "jyutping": "soeng5 mong5", "meaning": "go online" }
+    ],
+    "learning_reading": [
+      { "id": "jyut6duk6-reading", "word": "閱讀", "jyutping": "jyut6 duk6", "meaning": "reading" },
+      { "id": "tai2syu1-reading-books", "word": "睇書", "jyutping": "tai2 syu1", "meaning": "reading books" },
+      { "id": "hok6jyu5jin4-languages", "word": "學語言", "jyutping": "hok6 jyu5 jin4", "meaning": "languages" },
+      { "id": "hok6je5-studying", "word": "學嘢", "jyutping": "hok6 je5", "meaning": "studying" },
+      { "id": "gin3sik1-knowledge", "word": "見識", "jyutping": "gin3 sik1", "meaning": "knowledge" },
+      { "id": "jin4gau3-research", "word": "研究", "jyutping": "jin4 gau3", "meaning": "research" },
+      { "id": "tai2san1man4-news", "word": "睇新聞", "jyutping": "tai2 san1 man4", "meaning": "news" },
+      { "id": "hok6san1je5-new-skills", "word": "學新嘢", "jyutping": "hok6 san1 je5", "meaning": "new skills" }
+    ],
+    "collecting_social_lifestyle": [
+      { "id": "sau1cong4-collecting", "word": "收藏", "jyutping": "sau1 cong4", "meaning": "collecting" },
+      { "id": "zaap6jau4-stamps", "word": "集郵", "jyutping": "zaap6 jau4", "meaning": "stamps" },
+      { "id": "zaap6kaat1-cards", "word": "集卡", "jyutping": "zaap6 kaat1", "meaning": "cards" },
+      { "id": "maai5je5-shopping", "word": "買嘢", "jyutping": "maai5 je5", "meaning": "shopping" },
+      { "id": "zyu2faan6-cooking", "word": "煮飯", "jyutping": "zyu2 faan6", "meaning": "cooking" },
+      { "id": "guk6je5sik6-baking", "word": "焗嘢食", "jyutping": "guk6 je5 sik6", "meaning": "baking" },
+      { "id": "ji6gung1-volunteer", "word": "義工", "jyutping": "ji6 gung1", "meaning": "volunteer" },
+      { "id": "gaau1pang4jau5-making-friends", "word": "交朋友", "jyutping": "gaau1 pang4 jau5", "meaning": "making friends" },
+      { "id": "zeoi6wui6-meetup", "word": "聚會", "jyutping": "zeoi6 wui6", "meaning": "meetup" },
+      { "id": "jam2gaa3fe1-coffee", "word": "飲咖啡", "jyutping": "jam2 gaa3 fe1", "meaning": "coffee" }
+    ]
+  }
+}

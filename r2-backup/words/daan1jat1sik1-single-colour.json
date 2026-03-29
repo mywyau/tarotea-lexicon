@@ -3,10 +3,12 @@
   "word": "單一色",
   "jyutping": "daan1 jat1 sik1",
   "meaning": "single colour",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "單一色 is a noun phrase used to describe something that has only one colour, with no pattern or mixed colours.",
-    "It often appears before nouns, for Example:  單一色衫, 單一色背景, 單一色設計.",
+    "It often appears before nouns, for example: 單一色衫, 單一色背景, 單一色設計.",
     "In everyday Cantonese, it sounds natural in shopping, design, and describing clothes or objects.",
     "It can also be used to compare styles, especially when talking about simple or plain colour choices."
   ],
@@ -54,5 +56,11 @@
     "level 1",
     "level-1"
   ],
-  "related": ["單色", "顏色", "花紋", "款式", "簡單"]
+  "related": [
+    "單色",
+    "顏色",
+    "花紋",
+    "款式",
+    "簡單"
+  ]
 }

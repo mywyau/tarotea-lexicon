@@ -3,11 +3,13 @@
   "word": "一房",
   "jyutping": "jat1 fong2",
   "meaning": "one bedroom flat",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "The word '一房' functions as a noun meaning 'one-bedroom flat'.",
     "It is often used to specify the type of housing or flat someone wants or lives in.",
-    "In a sentence, '一房' can be the subject or object, for Example:  '我想租一房' (I want to rent a one-bedroom flat).",
+    "In a sentence, '一房' can be the subject or object, for example: '我想租一房' (I want to rent a one-bedroom flat).",
     "When describing housing, '一房' directly relates to the number of bedrooms in the flat.",
     "It can be combined with other words to describe location or condition, such as '市中心一房' (a one-bedroom flat in the city center)."
   ],
@@ -54,5 +56,11 @@
     "rental",
     "level-1"
   ],
-  "related": ["兩房", "三房", "單位", "租屋", "公屋"]
+  "related": [
+    "兩房",
+    "三房",
+    "單位",
+    "租屋",
+    "公屋"
+  ]
 }

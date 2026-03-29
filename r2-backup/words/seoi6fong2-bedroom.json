@@ -3,13 +3,15 @@
   "word": "睡房",
   "jyutping": "seoi6 fong2",
   "meaning": "bedroom",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "The word '睡房' (seoi6 fong2) is a noun that refers to the bedroom in a house or apartment. It is a common word used when talking about rooms in a home.",
     "'睡房' is typically used as the subject or object in a sentence when describing locations or activities related to sleeping or resting.",
-    "You can modify '睡房' with adjectives to describe the bedroom, for Example:  大睡房 (daai6 seoi6 fong2) means 'big bedroom'.",
-    "To indicate possession, you can add a possessive particle before '睡房', for Example:  我嘅睡房 (ngo5 ge3 seoi6 fong2) means 'my bedroom'.",
-    "Questions about the bedroom often use '睡房' to inquire about location or condition, for Example:  你嘅睡房喺邊？ (nei5 ge3 seoi6 fong2 hai2 bin1?) meaning 'Where is your bedroom?'."
+    "You can modify '睡房' with adjectives to describe the bedroom, for example: 大睡房 (daai6 seoi6 fong2) means 'big bedroom'.",
+    "To indicate possession, you can add a possessive particle before '睡房', for example: 我嘅睡房 (ngo5 ge3 seoi6 fong2) means 'my bedroom'.",
+    "Questions about the bedroom often use '睡房' to inquire about location or condition, for example: 你嘅睡房喺邊？ (nei5 ge3 seoi6 fong2 hai2 bin1?) meaning 'Where is your bedroom?'."
   ],
   "examples": [
     {
@@ -46,6 +48,19 @@
       "seoi6fong2-bedroom-example-4.mp3"
     ]
   },
-  "tags": ["housing", "rooms", "bedroom", "home", "basic", "level-1"],
-  "related": ["客廳", "廚房", "浴室", "書房", "陽台"]
+  "tags": [
+    "housing",
+    "rooms",
+    "bedroom",
+    "home",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "客廳",
+    "廚房",
+    "浴室",
+    "書房",
+    "陽台"
+  ]
 }

@@ -1,0 +1,68 @@
+{
+  "id": "gung1gan1-kilogram",
+  "word": "公斤",
+  "jyutping": "gung1 gan1",
+  "meaning": "kilogram",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used as a unit noun for weight, usually after a number or quantity word: e.g. 1 公斤, 2.5 公斤. In Cantonese it sounds natural in shopping, cooking, and weighing things.",
+    "Common in measure phrases with numerals and classifiers. You can also add approximate words like 大約 or 差唔多 before the quantity.",
+    "Very often used for food and body weight, especially when talking about meat, fruit, luggage, or exercise goals.",
+    "In everyday Hong Kong speech, 斤 is still very common in wet markets, while 公斤 is the standard metric unit in more formal, school, and written contexts."
+  ],
+  "examples": [
+    {
+      "id": "gung1gan1-kilogram-example-1",
+      "sentence": "呢包米有五公斤。",
+      "jyutping": "ni1 baau1 mai5 jau5 ng5 gung1 gan1.",
+      "meaning": "This bag of rice is five kilograms."
+    },
+    {
+      "id": "gung1gan1-kilogram-example-2",
+      "sentence": "我想買兩公斤蘋果。",
+      "jyutping": "ngo5 soeng2 maai5 loeng5 gung1 gan1 ping4 gwo2.",
+      "meaning": "I want to buy two kilograms of apples."
+    },
+    {
+      "id": "gung1gan1-kilogram-example-3",
+      "sentence": "呢個行李超過二十公斤。",
+      "jyutping": "ni1 go3 hong4 lei5 ciu1 gwo3 ji6 sap6 gung1 gan1.",
+      "meaning": "This luggage is over twenty kilograms."
+    },
+    {
+      "id": "gung1gan1-kilogram-example-4",
+      "sentence": "醫生話我應該減少三公斤。",
+      "jyutping": "ji1 sang1 waa6 ngo5 jing1 goi1 gaam2 siu2 saam1 gung1 gan1.",
+      "meaning": "The doctor said I should lose three kilograms."
+    }
+  ],
+  "audio": {
+    "word": "gung1gan1-kilogram.mp3",
+    "examples": [
+      "gung1gan1-kilogram-example-1.mp3",
+      "gung1gan1-kilogram-example-2.mp3",
+      "gung1gan1-kilogram-example-3.mp3",
+      "gung1gan1-kilogram-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measurement",
+    "weight",
+    "math",
+    "science",
+    "shopping",
+    "food",
+    "common noun",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "克",
+    "斤",
+    "磅",
+    "體重",
+    "稱重"
+  ]
+}

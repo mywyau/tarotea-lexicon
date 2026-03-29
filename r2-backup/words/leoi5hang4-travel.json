@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "旅行 (leoi5 hang4) is primarily used as a noun to describe the activity of traveling.",
-    "It can refer to both short trips and long journeys.",
-    "You can combine 旅行 with verbs like 去 (heoi3, to go) or 想 (soeng2, to want) to express going travel or wanting to travel.",
-    "In Cantonese sentences, 旅行 usually appears after the subject and before the verb or additional descriptions.",
-    "It can be used by itself or in combination with places, like 旅行日本 (travel Japan)."
+    "- Use 旅行 when you mean a trip or travel in a general sense. It is a very common everyday noun.",
+    "- It often appears with verbs like 去 (go) and plan-related words like planning, booking, and taking leave.",
+    "- For short trips or holiday travel, 旅行 is natural and neutral; it sounds more general than very specific transport words.",
+    "- In spoken Cantonese, people also use it in compounds and fixed phrases related to travelling, holidays, and travel plans."
   ],
   "examples": [
     {
       "id": "leoi5hang4-travel-example-1",
-      "sentence": "我下個月想去旅行。",
-      "jyutping": "ngo5 haa6 go3 jyut6 soeng2 heoi3 leoi5 hang4",
-      "meaning": "I want to go traveling next month."
+      "sentence": "我下個月去日本旅行。",
+      "jyutping": "ngo5 haa6 go3 jyut6 go3 jyut6 heoi3 jat6 bun2 leoi5 hang4.",
+      "meaning": "I’m going to Japan next month for a trip."
     },
     {
       "id": "leoi5hang4-travel-example-2",
-      "sentence": "旅行可以幫助放鬆心情。",
-      "jyutping": "leoi5 hang4 ho2 ji5 bong1 zo6 fong3 sung1 sam1 cing4",
-      "meaning": "Traveling can help relax your mood."
+      "sentence": "佢好鍾意同朋友一齊旅行。",
+      "jyutping": "keoi5 hou2 zung1 ji3 tung4 pang4 jau5 jat1 cai4 leoi5 hang4.",
+      "meaning": "He really likes travelling with friends."
     },
     {
       "id": "leoi5hang4-travel-example-3",
-      "sentence": "佢成日都喺度計劃旅行。",
-      "jyutping": "keoi5 sing4 jat6 dou1 hai2 dou6 gai3 waak6 leoi5 hang4",
-      "meaning": "He is always planning trips."
+      "sentence": "暑假我哋計劃去歐洲旅行。",
+      "jyutping": "syu2 gaa3 ngo5 dei6 gai3 waak6 heoi3 au1 zau1 leoi5 hang4.",
+      "meaning": "We’re planning to travel to Europe during the summer holiday."
     },
     {
       "id": "leoi5hang4-travel-example-4",
-      "sentence": "我哋嘅旅行好充實。",
-      "jyutping": "ngo5 dei6 ge3 leoi5 hang4 hou2 cung1 sat6",
-      "meaning": "Our trip was very fulfilling."
+      "sentence": "長途旅行最好早啲準備。",
+      "jyutping": "coeng4 tou4 leoi5 hang4 zeoi3 hou2 zou2 di1 zeon2 bei6.",
+      "meaning": "For long-distance travel, it’s best to prepare early."
     }
   ],
   "audio": {
@@ -49,18 +48,19 @@
     ]
   },
   "tags": [
+    "hobbies and interests",
+    "outdoor activities",
     "travel",
-    "trip",
     "holiday",
-    "leisure",
-    "transport_travel",
+    "common noun",
+    "everyday Cantonese",
     "level-1"
   ],
   "related": [
-    "旅行社",
+    "去旅行",
+    "旅遊",
+    "行程",
     "機票",
-    "酒店",
-    "行李",
-    "旅程"
+    "酒店"
   ]
 }

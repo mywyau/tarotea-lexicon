@@ -3,12 +3,14 @@
   "word": "錯過",
   "jyutping": "co3 gwo3",
   "meaning": "miss",
-  "pos": ["verb"],
+  "pos": [
+    "verb"
+  ],
   "usage": [
     "The word '錯過' is a verb that means 'to miss' something such as an event, opportunity, or transport.",
     "It is commonly used with objects like buses, trains, flights, or chances to describe the situation of not arriving in time.",
     "It can be used both in past and present contexts to describe missing something.",
-    "'錯過' often appears before the object, for Example:  '錯過火車' means 'miss the train.'",
+    "'錯過' often appears before the object, for example: '錯過火車' means 'miss the train.'",
     "It does not change form for tense, context or subject; context or time words indicate when the miss happened."
   ],
   "examples": [
@@ -46,6 +48,19 @@
       "co3gwo3-miss-example-4.mp3"
     ]
   },
-  "tags": ["transport", "travel", "actions", "miss", "daily use", "level-1"],
-  "related": ["趕車", "遲到", "延誤", "旅行", "機會"]
+  "tags": [
+    "transport",
+    "travel",
+    "actions",
+    "miss",
+    "daily use",
+    "level-1"
+  ],
+  "related": [
+    "趕車",
+    "遲到",
+    "延誤",
+    "旅行",
+    "機會"
+  ]
 }

@@ -1,852 +1,477 @@
 [
   {
-    "filename": "baak3fan1bei2-percentage",
-    "id": "baak3fan1bei2-percentage",
-    "text": "百分比"
+    "filename": "ci3fong1-power",
+    "id": "ci3fong1-power",
+    "text": "次方"
   },
   {
-    "filename": "baak3fan1bei2-percentage-example-1",
-    "id": "baak3fan1bei2-percentage-example-1",
-    "text": "呢間舖嘅折扣百分比好高。"
+    "filename": "ci3fong1-power-example-1",
+    "id": "ci3fong1-power-example-1",
+    "text": "二次方即係二乘二。"
   },
   {
-    "filename": "baak3fan1bei2-percentage-example-2",
-    "id": "baak3fan1bei2-percentage-example-2",
-    "text": "我想知呢個數嘅百分比。"
+    "filename": "ci3fong1-power-example-2",
+    "id": "ci3fong1-power-example-2",
+    "text": "十的三次方係一千。"
   },
   {
-    "filename": "baak3fan1bei2-percentage-example-3",
-    "id": "baak3fan1bei2-percentage-example-3",
-    "text": "今年合格百分比升咗。"
+    "filename": "ci3fong1-power-example-3",
+    "id": "ci3fong1-power-example-3",
+    "text": "老師叫我哋計呢條數嘅五次方。"
   },
   {
-    "filename": "baak3fan1bei2-percentage-example-4",
-    "id": "baak3fan1bei2-percentage-example-4",
-    "text": "佢話加價百分比唔算高。"
+    "filename": "ci3fong1-power-example-4",
+    "id": "ci3fong1-power-example-4",
+    "text": "呢個公式入面，x嘅二次方好重要。"
   },
   {
-    "filename": "bin1-side",
-    "id": "bin1-side",
-    "text": "邊"
+    "filename": "coeng4dou6-length",
+    "id": "coeng4dou6-length",
+    "text": "長度"
   },
   {
-    "filename": "bin1-side-example-1",
-    "id": "bin1-side-example-1",
-    "text": "呢個正方形有四邊。"
+    "filename": "coeng4dou6-length-example-1",
+    "id": "coeng4dou6-length-example-1",
+    "text": "呢條繩嘅長度有三米。"
   },
   {
-    "filename": "bin1-side-example-2",
-    "id": "bin1-side-example-2",
-    "text": "你坐喺邊邊？"
+    "filename": "coeng4dou6-length-example-2",
+    "id": "coeng4dou6-length-example-2",
+    "text": "你可唔可以量吓條枱嘅長度？"
   },
   {
-    "filename": "bin1-side-example-3",
-    "id": "bin1-side-example-3",
-    "text": "三角形有三邊。"
+    "filename": "coeng4dou6-length-example-3",
+    "id": "coeng4dou6-length-example-3",
+    "text": "佢哋要比較兩條路嘅長度。"
   },
   {
-    "filename": "bin1-side-example-4",
-    "id": "bin1-side-example-4",
-    "text": "張枱邊好鋒利。"
+    "filename": "coeng4dou6-length-example-4",
+    "id": "coeng4dou6-length-example-4",
+    "text": "呢個課題會教你點樣計算長度。"
   },
   {
-    "filename": "ceoi4-divide",
-    "id": "ceoi4-divide",
-    "text": "除"
+    "filename": "doi6jap6faat3-substitution",
+    "id": "doi6jap6faat3-substitution",
+    "text": "代入法"
   },
   {
-    "filename": "ceoi4-divide-example-1",
-    "id": "ceoi4-divide-example-1",
-    "text": "八除二等於四。"
+    "filename": "doi6jap6faat3-substitution-example-1",
+    "id": "doi6jap6faat3-substitution-example-1",
+    "text": "我哋今日學代入法解聯立方程。"
   },
   {
-    "filename": "ceoi4-divide-example-2",
-    "id": "ceoi4-divide-example-2",
-    "text": "呢條數要除開先。"
+    "filename": "doi6jap6faat3-substitution-example-2",
+    "id": "doi6jap6faat3-substitution-example-2",
+    "text": "呢條題用代入法會快好多。"
   },
   {
-    "filename": "ceoi4-divide-example-3",
-    "id": "ceoi4-divide-example-3",
-    "text": "三十除五好快計到。"
+    "filename": "doi6jap6faat3-substitution-example-3",
+    "id": "doi6jap6faat3-substitution-example-3",
+    "text": "老師教我先用代入法搵 x。"
   },
   {
-    "filename": "ceoi4-divide-example-4",
-    "id": "ceoi4-divide-example-4",
-    "text": "老師叫我哋用除法做呢題。"
+    "filename": "doi6jap6faat3-substitution-example-4",
+    "id": "doi6jap6faat3-substitution-example-4",
+    "text": "如果未知數得一個，代入法通常好好用。"
   },
   {
-    "filename": "coeng4fong1jing4-rectangle",
-    "id": "coeng4fong1jing4-rectangle",
-    "text": "長方形"
+    "filename": "doi6sou3-algebra",
+    "id": "doi6sou3-algebra",
+    "text": "代數"
   },
   {
-    "filename": "coeng4fong1jing4-rectangle-example-1",
-    "id": "coeng4fong1jing4-rectangle-example-1",
-    "text": "呢個係長方形。"
+    "filename": "doi6sou3-algebra-example-1",
+    "id": "doi6sou3-algebra-example-1",
+    "text": "我今日要溫代數。"
   },
   {
-    "filename": "coeng4fong1jing4-rectangle-example-2",
-    "id": "coeng4fong1jing4-rectangle-example-2",
-    "text": "張枱面係長方形。"
+    "filename": "doi6sou3-algebra-example-2",
+    "id": "doi6sou3-algebra-example-2",
+    "text": "佢代數幾好。"
   },
   {
-    "filename": "coeng4fong1jing4-rectangle-example-3",
-    "id": "coeng4fong1jing4-rectangle-example-3",
-    "text": "老師畫咗一個長方形。"
+    "filename": "doi6sou3-algebra-example-3",
+    "id": "doi6sou3-algebra-example-3",
+    "text": "呢條代數題有啲難。"
   },
   {
-    "filename": "coeng4fong1jing4-rectangle-example-4",
-    "id": "coeng4fong1jing4-rectangle-example-4",
-    "text": "我想要長方形嘅紙。"
+    "filename": "doi6sou3-algebra-example-4",
+    "id": "doi6sou3-algebra-example-4",
+    "text": "學好代數對將來讀理科好有幫助。"
   },
   {
-    "filename": "daai6jyu4-greater",
-    "id": "daai6jyu4-greater",
-    "text": "大於"
+    "filename": "fut3dou6-width",
+    "id": "fut3dou6-width",
+    "text": "闊度"
   },
   {
-    "filename": "daai6jyu4-greater-example-1",
-    "id": "daai6jyu4-greater-example-1",
-    "text": "五大於三。"
+    "filename": "fut3dou6-width-example-1",
+    "id": "fut3dou6-width-example-1",
+    "text": "呢張枱嘅闊度有一米半。"
   },
   {
-    "filename": "daai6jyu4-greater-example-2",
-    "id": "daai6jyu4-greater-example-2",
-    "text": "呢個數大於嗰個數。"
+    "filename": "fut3dou6-width-example-2",
+    "id": "fut3dou6-width-example-2",
+    "text": "請量一量道門嘅闊度。"
   },
   {
-    "filename": "daai6jyu4-greater-example-3",
-    "id": "daai6jyu4-greater-example-3",
-    "text": "a大於b。"
+    "filename": "fut3dou6-width-example-3",
+    "id": "fut3dou6-width-example-3",
+    "text": "呢個紙箱嘅闊度唔夠，放唔入。"
   },
   {
-    "filename": "daai6jyu4-greater-example-4",
-    "id": "daai6jyu4-greater-example-4",
-    "text": "十歲大於八歲。"
+    "filename": "fut3dou6-width-example-4",
+    "id": "fut3dou6-width-example-4",
+    "text": "螢幕闊度太窄，睇片唔方便。"
   },
   {
-    "filename": "daan1sou3-odd",
-    "id": "daan1sou3-odd",
-    "text": "單數"
+    "filename": "gaan2faa3-simplify",
+    "id": "gaan2faa3-simplify",
+    "text": "簡化"
   },
   {
-    "filename": "daan1sou3-odd-example-1",
-    "id": "daan1sou3-odd-example-1",
-    "text": "1 係單數。"
+    "filename": "gaan2faa3-simplify-example-1",
+    "id": "gaan2faa3-simplify-example-1",
+    "text": "我哋要先將條方程簡化，再去計答案。"
   },
   {
-    "filename": "daan1sou3-odd-example-2",
-    "id": "daan1sou3-odd-example-2",
-    "text": "3 同 5 都係單數。"
+    "filename": "gaan2faa3-simplify-example-2",
+    "id": "gaan2faa3-simplify-example-2",
+    "text": "老師教我哋用比較簡單嘅方法去簡化分數。"
   },
   {
-    "filename": "daan1sou3-odd-example-3",
-    "id": "daan1sou3-odd-example-3",
-    "text": "呢條數要揀單數。"
+    "filename": "gaan2faa3-simplify-example-3",
+    "id": "gaan2faa3-simplify-example-3",
+    "text": "呢個步驟可以幫你簡化成個計算過程。"
   },
   {
-    "filename": "daan1sou3-odd-example-4",
-    "id": "daan1sou3-odd-example-4",
-    "text": "7 係單數，8 係雙數。"
+    "filename": "gaan2faa3-simplify-example-4",
+    "id": "gaan2faa3-simplify-example-4",
+    "text": "如果將問題簡化一下，會容易明好多。"
   },
   {
-    "filename": "daap3on3-answer",
-    "id": "daap3on3-answer",
-    "text": "答案"
+    "filename": "gou1dou6-height",
+    "id": "gou1dou6-height",
+    "text": "高度"
   },
   {
-    "filename": "daap3on3-answer-example-1",
-    "id": "daap3on3-answer-example-1",
-    "text": "你嗰題嘅答案係咩？"
+    "filename": "gou1dou6-height-example-1",
+    "id": "gou1dou6-height-example-1",
+    "text": "呢張枱嘅高度大約係一米。"
   },
   {
-    "filename": "daap3on3-answer-example-2",
-    "id": "daap3on3-answer-example-2",
-    "text": "我搵到條數嘅答案喇。"
+    "filename": "gou1dou6-height-example-2",
+    "id": "gou1dou6-height-example-2",
+    "text": "老師叫我哋量一量個盆栽嘅高度。"
   },
   {
-    "filename": "daap3on3-answer-example-3",
-    "id": "daap3on3-answer-example-3",
-    "text": "佢未俾我答案。"
+    "filename": "gou1dou6-height-example-3",
+    "id": "gou1dou6-height-example-3",
+    "text": "你睇吓呢座樓嘅高度幾高。"
   },
   {
-    "filename": "daap3on3-answer-example-4",
-    "id": "daap3on3-answer-example-4",
-    "text": "呢個係正確答案。"
+    "filename": "gou1dou6-height-example-4",
+    "id": "gou1dou6-height-example-4",
+    "text": "呢條數學題要計正方形嘅高度。"
   },
   {
-    "filename": "dang2jyu4-equal",
-    "id": "dang2jyu4-equal",
-    "text": "等於"
+    "filename": "gung1gan1-kilogram",
+    "id": "gung1gan1-kilogram",
+    "text": "公斤"
   },
   {
-    "filename": "dang2jyu4-equal-example-1",
-    "id": "dang2jyu4-equal-example-1",
-    "text": "二加三等於五。"
+    "filename": "gung1gan1-kilogram-example-1",
+    "id": "gung1gan1-kilogram-example-1",
+    "text": "呢包米有五公斤。"
   },
   {
-    "filename": "dang2jyu4-equal-example-2",
-    "id": "dang2jyu4-equal-example-2",
-    "text": "呢條題等於幾多？"
+    "filename": "gung1gan1-kilogram-example-2",
+    "id": "gung1gan1-kilogram-example-2",
+    "text": "我想買兩公斤蘋果。"
   },
   {
-    "filename": "dang2jyu4-equal-example-3",
-    "id": "dang2jyu4-equal-example-3",
-    "text": "佢話努力等於進步。"
+    "filename": "gung1gan1-kilogram-example-3",
+    "id": "gung1gan1-kilogram-example-3",
+    "text": "呢個行李超過二十公斤。"
   },
   {
-    "filename": "dang2jyu4-equal-example-4",
-    "id": "dang2jyu4-equal-example-4",
-    "text": "A 等於 B。"
+    "filename": "gung1gan1-kilogram-example-4",
+    "id": "gung1gan1-kilogram-example-4",
+    "text": "醫生話我應該減少三公斤。"
   },
   {
-    "filename": "fan1sou3-fraction",
-    "id": "fan1sou3-fraction",
-    "text": "分數"
+    "filename": "hai6sou3-coefficient",
+    "id": "hai6sou3-coefficient",
+    "text": "係數"
   },
   {
-    "filename": "fan1sou3-fraction-example-1",
-    "id": "fan1sou3-fraction-example-1",
-    "text": "呢題要化成分數。"
+    "filename": "hai6sou3-coefficient-example-1",
+    "id": "hai6sou3-coefficient-example-1",
+    "text": "喺呢條方程入面，2 係 x 嘅係數。"
   },
   {
-    "filename": "fan1sou3-fraction-example-2",
-    "id": "fan1sou3-fraction-example-2",
-    "text": "我數學成績得六十分。"
+    "filename": "hai6sou3-coefficient-example-2",
+    "id": "hai6sou3-coefficient-example-2",
+    "text": "老師叫我哋搵出每一項嘅係數。"
   },
   {
-    "filename": "fan1sou3-fraction-example-3",
-    "id": "fan1sou3-fraction-example-3",
-    "text": "佢答對咗三分之二。"
+    "filename": "hai6sou3-coefficient-example-3",
+    "id": "hai6sou3-coefficient-example-3",
+    "text": "當多項式展開之後，係數可能會改變。"
   },
   {
-    "filename": "fan1sou3-fraction-example-4",
-    "id": "fan1sou3-fraction-example-4",
-    "text": "老師教我哋睇分數大小。"
+    "filename": "hai6sou3-coefficient-example-4",
+    "id": "hai6sou3-coefficient-example-4",
+    "text": "佢對二次方程好熟，成日都可以即刻講到係數。"
   },
   {
-    "filename": "fong1cing4sik1-equation",
-    "id": "fong1cing4sik1-equation",
-    "text": "方程式"
+    "filename": "laap6fong1-cube",
+    "id": "laap6fong1-cube",
+    "text": "立方"
   },
   {
-    "filename": "fong1cing4sik1-equation-example-1",
-    "id": "fong1cing4sik1-equation-example-1",
-    "text": "呢條方程式好難。"
+    "filename": "laap6fong1-cube-example-1",
+    "id": "laap6fong1-cube-example-1",
+    "text": "呢條數要計 2 立方。"
   },
   {
-    "filename": "fong1cing4sik1-equation-example-2",
-    "id": "fong1cing4sik1-equation-example-2",
-    "text": "老師叫我哋解方程式。"
+    "filename": "laap6fong1-cube-example-2",
+    "id": "laap6fong1-cube-example-2",
+    "text": "老師教我哋點樣求立方。"
   },
   {
-    "filename": "fong1cing4sik1-equation-example-3",
-    "id": "fong1cing4sik1-equation-example-3",
-    "text": "我哋今日學二次方程式。"
+    "filename": "laap6fong1-cube-example-3",
+    "id": "laap6fong1-cube-example-3",
+    "text": "呢個木盒係一個正立方體。"
   },
   {
-    "filename": "fong1cing4sik1-equation-example-4",
-    "id": "fong1cing4sik1-equation-example-4",
-    "text": "考試有一條方程式題目。"
+    "filename": "laap6fong1-cube-example-4",
+    "id": "laap6fong1-cube-example-4",
+    "text": "三的立方係二十七。"
   },
   {
-    "filename": "fu6sou3-negative",
-    "id": "fu6sou3-negative",
-    "text": "負數"
+    "filename": "laap6fong1gan1-cube-root",
+    "id": "laap6fong1gan1-cube-root",
+    "text": "立方根"
   },
   {
-    "filename": "fu6sou3-negative-example-1",
-    "id": "fu6sou3-negative-example-1",
-    "text": "呢個數係負數。"
+    "filename": "laap6fong1gan1-cube-root-example-1",
+    "id": "laap6fong1gan1-cube-root-example-1",
+    "text": "𨋢廳入面個樓梯式設計好有特色。"
   },
   {
-    "filename": "fu6sou3-negative-example-2",
-    "id": "fu6sou3-negative-example-2",
-    "text": "佢寫咗一個負數。"
+    "filename": "laap6fong1gan1-cube-root-example-2",
+    "id": "laap6fong1gan1-cube-root-example-2",
+    "text": "我哋堂數學今日學立方根。"
   },
   {
-    "filename": "fu6sou3-negative-example-3",
-    "id": "fu6sou3-negative-example-3",
-    "text": "零以下嗰啲都係負數。"
+    "filename": "laap6fong1gan1-cube-root-example-3",
+    "id": "laap6fong1gan1-cube-root-example-3",
+    "text": "八嘅立方根係二。"
   },
   {
-    "filename": "fu6sou3-negative-example-4",
-    "id": "fu6sou3-negative-example-4",
-    "text": "呢條數有正數同負數。"
+    "filename": "laap6fong1gan1-cube-root-example-4",
+    "id": "laap6fong1gan1-cube-root-example-4",
+    "text": "如果你想計立方根，可以用計數機。"
   },
   {
-    "filename": "gaa1-add",
-    "id": "gaa1-add",
-    "text": "加"
+    "filename": "mei6zi1sou3-variable",
+    "id": "mei6zi1sou3-variable",
+    "text": "未知數"
   },
   {
-    "filename": "gaa1-add-example-1",
-    "id": "gaa1-add-example-1",
-    "text": "我哋要加二加三。"
+    "filename": "mei6zi1sou3-variable-example-1",
+    "id": "mei6zi1sou3-variable-example-1",
+    "text": "呢條方程式入面有一個未知數，要先搵出嚟先計到答案。"
   },
   {
-    "filename": "gaa1-add-example-2",
-    "id": "gaa1-add-example-2",
-    "text": "呢條題要加埋個零。"
+    "filename": "mei6zi1sou3-variable-example-2",
+    "id": "mei6zi1sou3-variable-example-2",
+    "text": "老師叫我哋用 x 代表未知數。"
   },
   {
-    "filename": "gaa1-add-example-3",
-    "id": "gaa1-add-example-3",
-    "text": "你幫我加少少糖。"
+    "filename": "mei6zi1sou3-variable-example-3",
+    "id": "mei6zi1sou3-variable-example-3",
+    "text": "做數學題嗰陣，先睇清楚未知數係邊個。"
   },
   {
-    "filename": "gaa1-add-example-4",
-    "id": "gaa1-add-example-4",
-    "text": "開會前先加多個人。"
+    "filename": "mei6zi1sou3-variable-example-4",
+    "id": "mei6zi1sou3-variable-example-4",
+    "text": "佢話呢個公式有兩個未知數，所以唔可以即刻解。"
   },
   {
-    "filename": "gaam2-subtract",
-    "id": "gaam2-subtract",
-    "text": "減"
+    "filename": "min6zik1-area",
+    "id": "min6zik1-area",
+    "text": "面積"
   },
   {
-    "filename": "gaam2-subtract-example-1",
-    "id": "gaam2-subtract-example-1",
-    "text": "五減二等於三。"
+    "filename": "min6zik1-area-example-1",
+    "id": "min6zik1-area-example-1",
+    "text": "呢個長方形嘅面積係二十平方厘米。"
   },
   {
-    "filename": "gaam2-subtract-example-2",
-    "id": "gaam2-subtract-example-2",
-    "text": "你幫我減吓呢條數。"
+    "filename": "min6zik1-area-example-2",
+    "id": "min6zik1-area-example-2",
+    "text": "老師叫我哋計下個圖形嘅面積。"
   },
   {
-    "filename": "gaam2-subtract-example-3",
-    "id": "gaam2-subtract-example-3",
-    "text": "呢件衫減咗二十蚊。"
+    "filename": "min6zik1-area-example-3",
+    "id": "min6zik1-area-example-3",
+    "text": "張枱嘅面積唔大，不過好夠用。"
   },
   {
-    "filename": "gaam2-subtract-example-4",
-    "id": "gaam2-subtract-example-4",
-    "text": "我想減少啲糖。"
+    "filename": "min6zik1-area-example-4",
+    "id": "min6zik1-area-example-4",
+    "text": "如果塊地嘅面積再大啲，就可以起多一間屋。"
   },
   {
-    "filename": "gai3sou3-calculate",
-    "id": "gai3sou3-calculate",
-    "text": "計數"
+    "filename": "ping4fong1-square",
+    "id": "ping4fong1-square",
+    "text": "平方"
   },
   {
-    "filename": "gai3sou3-calculate-example-1",
-    "id": "gai3sou3-calculate-example-1",
-    "text": "你幫我計數，睇吓啱唔啱。"
+    "filename": "ping4fong1-square-example-1",
+    "id": "ping4fong1-square-example-1",
+    "text": "二的平方係四。"
   },
   {
-    "filename": "gai3sou3-calculate-example-2",
-    "id": "gai3sou3-calculate-example-2",
-    "text": "我而家喺度計數。"
+    "filename": "ping4fong1-square-example-2",
+    "id": "ping4fong1-square-example-2",
+    "text": "呢塊地有一百平方米。"
   },
   {
-    "filename": "gai3sou3-calculate-example-3",
-    "id": "gai3sou3-calculate-example-3",
-    "text": "你計數未？"
+    "filename": "ping4fong1-square-example-3",
+    "id": "ping4fong1-square-example-3",
+    "text": "你要先計平方，再開根號。"
   },
   {
-    "filename": "gai3sou3-calculate-example-4",
-    "id": "gai3sou3-calculate-example-4",
-    "text": "呢條問題好難計數。"
+    "filename": "ping4fong1-square-example-4",
+    "id": "ping4fong1-square-example-4",
+    "text": "老師叫我哋寫平方同立方。"
   },
   {
-    "filename": "gok3-angle",
-    "id": "gok3-angle",
-    "text": "角"
+    "filename": "ping4fong1gan1-square-root",
+    "id": "ping4fong1gan1-square-root",
+    "text": "平方根"
   },
   {
-    "filename": "gok3-angle-example-1",
-    "id": "gok3-angle-example-1",
-    "text": "三角形有三個角。"
+    "filename": "ping4fong1gan1-square-root-example-1",
+    "id": "ping4fong1gan1-square-root-example-1",
+    "text": "25嘅平方根係5。"
   },
   {
-    "filename": "gok3-angle-example-2",
-    "id": "gok3-angle-example-2",
-    "text": "呢個角太尖。"
+    "filename": "ping4fong1gan1-square-root-example-2",
+    "id": "ping4fong1gan1-square-root-example-2",
+    "text": "老師教我哋點樣計平方根。"
   },
   {
-    "filename": "gok3-angle-example-3",
-    "id": "gok3-angle-example-3",
-    "text": "佢畫咗個直角。"
+    "filename": "ping4fong1gan1-square-root-example-3",
+    "id": "ping4fong1gan1-square-root-example-3",
+    "text": "呢條數要搵平方根。"
   },
   {
-    "filename": "gok3-angle-example-4",
-    "id": "gok3-angle-example-4",
-    "text": "張枱個角撞到我。"
+    "filename": "ping4fong1gan1-square-root-example-4",
+    "id": "ping4fong1gan1-square-root-example-4",
+    "text": "我哋今日學到開平方根。"
   },
   {
-    "filename": "gung1sik1-formula",
-    "id": "gung1sik1-formula",
-    "text": "公式"
+    "filename": "ping4fong1sou3-square-number",
+    "id": "ping4fong1sou3-square-number",
+    "text": "平方數"
   },
   {
-    "filename": "gung1sik1-formula-example-1",
-    "id": "gung1sik1-formula-example-1",
-    "text": "呢條 公式 幾好用。"
+    "filename": "ping4fong1sou3-square-number-example-1",
+    "id": "ping4fong1sou3-square-number-example-1",
+    "text": "1、4、9、16 都係平方數。"
   },
   {
-    "filename": "gung1sik1-formula-example-2",
-    "id": "gung1sik1-formula-example-2",
-    "text": "老師 今日 教 我哋 一條 公式。"
+    "filename": "ping4fong1sou3-square-number-example-2",
+    "id": "ping4fong1sou3-square-number-example-2",
+    "text": "老師叫我哋搵出 1 到 100 入面嘅平方數。"
   },
   {
-    "filename": "gung1sik1-formula-example-3",
-    "id": "gung1sik1-formula-example-3",
-    "text": "我仲未 搵到 個 公式。"
+    "filename": "ping4fong1sou3-square-number-example-3",
+    "id": "ping4fong1sou3-square-number-example-3",
+    "text": "25 係一個平方數，因為 5 × 5 = 25。"
   },
   {
-    "filename": "gung1sik1-formula-example-4",
-    "id": "gung1sik1-formula-example-4",
-    "text": "呢個 公式 係 咁 計。"
+    "filename": "ping4fong1sou3-square-number-example-4",
+    "id": "ping4fong1sou3-square-number-example-4",
+    "text": "呢條題目要你分辨邊啲數係平方數。"
   },
   {
-    "filename": "jing4zong6-shape",
-    "id": "jing4zong6-shape",
-    "text": "形狀"
+    "filename": "tai2zik1-volume",
+    "id": "tai2zik1-volume",
+    "text": "體積"
   },
   {
-    "filename": "jing4zong6-shape-example-1",
-    "id": "jing4zong6-shape-example-1",
-    "text": "個球係圓形狀。"
+    "filename": "tai2zik1-volume-example-1",
+    "id": "tai2zik1-volume-example-1",
+    "text": "呢個盒嘅體積好大。"
   },
   {
-    "filename": "jing4zong6-shape-example-2",
-    "id": "jing4zong6-shape-example-2",
-    "text": "呢個盒嘅形狀好方。"
+    "filename": "tai2zik1-volume-example-2",
+    "id": "tai2zik1-volume-example-2",
+    "text": "老師叫我哋計圓柱體嘅體積。"
   },
   {
-    "filename": "jing4zong6-shape-example-3",
-    "id": "jing4zong6-shape-example-3",
-    "text": "我想知呢個圖案嘅形狀。"
+    "filename": "tai2zik1-volume-example-3",
+    "id": "tai2zik1-volume-example-3",
+    "text": "如果水倒入去，體積就會變。"
   },
   {
-    "filename": "jing4zong6-shape-example-4",
-    "id": "jing4zong6-shape-example-4",
-    "text": "塊石頭嘅形狀好特別。"
+    "filename": "tai2zik1-volume-example-4",
+    "id": "tai2zik1-volume-example-4",
+    "text": "呢件傢俬體積唔細，要小心搬。"
   },
   {
-    "filename": "jyu4sou3-remainder",
-    "id": "jyu4sou3-remainder",
-    "text": "餘數"
+    "filename": "zau1coeng4-perimeter",
+    "id": "zau1coeng4-perimeter",
+    "text": "周長"
   },
   {
-    "filename": "jyu4sou3-remainder-example-1",
-    "id": "jyu4sou3-remainder-example-1",
-    "text": "10除3，餘數係1。"
+    "filename": "zau1coeng4-perimeter-example-1",
+    "id": "zau1coeng4-perimeter-example-1",
+    "text": "呢個長方形嘅周長係二十厘米。"
   },
   {
-    "filename": "jyu4sou3-remainder-example-2",
-    "id": "jyu4sou3-remainder-example-2",
-    "text": "呢題嘅餘數係2。"
+    "filename": "zau1coeng4-perimeter-example-2",
+    "id": "zau1coeng4-perimeter-example-2",
+    "text": "計周長之前，要先量清楚每一邊。"
   },
   {
-    "filename": "jyu4sou3-remainder-example-3",
-    "id": "jyu4sou3-remainder-example-3",
-    "text": "老師叫我哋搵出餘數。"
+    "filename": "zau1coeng4-perimeter-example-3",
+    "id": "zau1coeng4-perimeter-example-3",
+    "text": "老師叫我哋用公式搵三角形嘅周長。"
   },
   {
-    "filename": "jyu4sou3-remainder-example-4",
-    "id": "jyu4sou3-remainder-example-4",
-    "text": "分完之後仲有少少餘數。"
+    "filename": "zau1coeng4-perimeter-example-4",
+    "id": "zau1coeng4-perimeter-example-4",
+    "text": "如果條繩圍住個圓形一圈，長度就係圓形嘅周長。"
   },
   {
-    "filename": "jyun4jing4-circle",
-    "id": "jyun4jing4-circle",
-    "text": "圓形"
+    "filename": "zi2sou3-exponent",
+    "id": "zi2sou3-exponent",
+    "text": "指數"
   },
   {
-    "filename": "jyun4jing4-circle-example-1",
-    "id": "jyun4jing4-circle-example-1",
-    "text": "呢個圖案係圓形。"
+    "filename": "zi2sou3-exponent-example-1",
+    "id": "zi2sou3-exponent-example-1",
+    "text": "二的三次方，個指數係三。"
   },
   {
-    "filename": "jyun4jing4-circle-example-2",
-    "id": "jyun4jing4-circle-example-2",
-    "text": "我畫咗一個圓形。"
+    "filename": "zi2sou3-exponent-example-2",
+    "id": "zi2sou3-exponent-example-2",
+    "text": "老師叫我哋留意指數同底數嘅關係。"
   },
   {
-    "filename": "jyun4jing4-circle-example-3",
-    "id": "jyun4jing4-circle-example-3",
-    "text": "個餅乾模係圓形。"
+    "filename": "zi2sou3-exponent-example-3",
+    "id": "zi2sou3-exponent-example-3",
+    "text": "呢條數嘅指數太大，計起上嚟好麻煩。"
   },
   {
-    "filename": "jyun4jing4-circle-example-4",
-    "id": "jyun4jing4-circle-example-4",
-    "text": "塊桌面係圓形嘅。"
-  },
-  {
-    "filename": "man6tai4-problem",
-    "id": "man6tai4-problem",
-    "text": "問題"
-  },
-  {
-    "filename": "man6tai4-problem-example-1",
-    "id": "man6tai4-problem-example-1",
-    "text": "呢條數學問題好難。"
-  },
-  {
-    "filename": "man6tai4-problem-example-2",
-    "id": "man6tai4-problem-example-2",
-    "text": "我哋要先解決呢個問題。"
-  },
-  {
-    "filename": "man6tai4-problem-example-3",
-    "id": "man6tai4-problem-example-3",
-    "text": "你有咩問題可以問我。"
-  },
-  {
-    "filename": "man6tai4-problem-example-4",
-    "id": "man6tai4-problem-example-4",
-    "text": "佢哋之間有溝通問題。"
-  },
-  {
-    "filename": "ping4gwan1-average",
-    "id": "ping4gwan1-average",
-    "text": "平均"
-  },
-  {
-    "filename": "ping4gwan1-average-example-1",
-    "id": "ping4gwan1-average-example-1",
-    "text": "呢班人嘅平均年齡係二十歲。"
-  },
-  {
-    "filename": "ping4gwan1-average-example-2",
-    "id": "ping4gwan1-average-example-2",
-    "text": "我哋睇平均分先。"
-  },
-  {
-    "filename": "ping4gwan1-average-example-3",
-    "id": "ping4gwan1-average-example-3",
-    "text": "平均每個人分到兩個蘋果。"
-  },
-  {
-    "filename": "ping4gwan1-average-example-4",
-    "id": "ping4gwan1-average-example-4",
-    "text": "呢個月嘅平均溫度高過上個月。"
-  },
-  {
-    "filename": "saam1gok3jing4-triangle",
-    "id": "saam1gok3jing4-triangle",
-    "text": "三角形"
-  },
-  {
-    "filename": "saam1gok3jing4-triangle-example-1",
-    "id": "saam1gok3jing4-triangle-example-1",
-    "text": "老師叫我畫一個三角形。"
-  },
-  {
-    "filename": "saam1gok3jing4-triangle-example-2",
-    "id": "saam1gok3jing4-triangle-example-2",
-    "text": "呢個餅乾係三角形。"
-  },
-  {
-    "filename": "saam1gok3jing4-triangle-example-3",
-    "id": "saam1gok3jing4-triangle-example-3",
-    "text": "張紙上面有個三角形圖案。"
-  },
-  {
-    "filename": "saam1gok3jing4-triangle-example-4",
-    "id": "saam1gok3jing4-triangle-example-4",
-    "text": "佢買咗一對三角形耳環。"
-  },
-  {
-    "filename": "sing4-multiply",
-    "id": "sing4-multiply",
-    "text": "乘"
-  },
-  {
-    "filename": "sing4-multiply-example-1",
-    "id": "sing4-multiply-example-1",
-    "text": "二乘三等於六。"
-  },
-  {
-    "filename": "sing4-multiply-example-2",
-    "id": "sing4-multiply-example-2",
-    "text": "呢條題要乘四。"
-  },
-  {
-    "filename": "sing4-multiply-example-3",
-    "id": "sing4-multiply-example-3",
-    "text": "我未學到乘法。"
-  },
-  {
-    "filename": "sing4-multiply-example-4",
-    "id": "sing4-multiply-example-4",
-    "text": "老師叫我哋背乘數表。"
-  },
-  {
-    "filename": "siu2jyu4-smaller",
-    "id": "siu2jyu4-smaller",
-    "text": "小於"
-  },
-  {
-    "filename": "siu2jyu4-smaller-example-1",
-    "id": "siu2jyu4-smaller-example-1",
-    "text": "3小於5。"
-  },
-  {
-    "filename": "siu2jyu4-smaller-example-2",
-    "id": "siu2jyu4-smaller-example-2",
-    "text": "佢嘅分數小於平均分。"
-  },
-  {
-    "filename": "siu2jyu4-smaller-example-3",
-    "id": "siu2jyu4-smaller-example-3",
-    "text": "呢個數小於嗰個數。"
-  },
-  {
-    "filename": "siu2jyu4-smaller-example-4",
-    "id": "siu2jyu4-smaller-example-4",
-    "text": "十歲以下即係小於十歲。"
-  },
-  {
-    "filename": "siu2sou3-decimal",
-    "id": "siu2sou3-decimal",
-    "text": "小數"
-  },
-  {
-    "filename": "siu2sou3-decimal-example-1",
-    "id": "siu2sou3-decimal-example-1",
-    "text": "呢條數有小數。"
-  },
-  {
-    "filename": "siu2sou3-decimal-example-2",
-    "id": "siu2sou3-decimal-example-2",
-    "text": "一點五係小數。"
-  },
-  {
-    "filename": "siu2sou3-decimal-example-3",
-    "id": "siu2sou3-decimal-example-3",
-    "text": "佢識讀小數。"
-  },
-  {
-    "filename": "siu2sou3-decimal-example-4",
-    "id": "siu2sou3-decimal-example-4",
-    "text": "呢份功課要寫小數。"
-  },
-  {
-    "filename": "soeng1sou3-even",
-    "id": "soeng1sou3-even",
-    "text": "雙數"
-  },
-  {
-    "filename": "soeng1sou3-even-example-1",
-    "id": "soeng1sou3-even-example-1",
-    "text": "8 係雙數。"
-  },
-  {
-    "filename": "soeng1sou3-even-example-2",
-    "id": "soeng1sou3-even-example-2",
-    "text": "呢個數係雙數。"
-  },
-  {
-    "filename": "soeng1sou3-even-example-3",
-    "id": "soeng1sou3-even-example-3",
-    "text": "12 係雙數，11 係單數。"
-  },
-  {
-    "filename": "soeng1sou3-even-example-4",
-    "id": "soeng1sou3-even-example-4",
-    "text": "你揀雙數定單數？"
-  },
-  {
-    "filename": "sou3hok6-math",
-    "id": "sou3hok6-math",
-    "text": "數學"
-  },
-  {
-    "filename": "sou3hok6-math-example-1",
-    "id": "sou3hok6-math-example-1",
-    "text": "我今日有數學堂。"
-  },
-  {
-    "filename": "sou3hok6-math-example-2",
-    "id": "sou3hok6-math-example-2",
-    "text": "佢數學好叻。"
-  },
-  {
-    "filename": "sou3hok6-math-example-3",
-    "id": "sou3hok6-math-example-3",
-    "text": "我想學數學。"
-  },
-  {
-    "filename": "sou3hok6-math-example-4",
-    "id": "sou3hok6-math-example-4",
-    "text": "呢份數學功課好難。"
-  },
-  {
-    "filename": "sou3zi6-number",
-    "id": "sou3zi6-number",
-    "text": "數字"
-  },
-  {
-    "filename": "sou3zi6-number-example-1",
-    "id": "sou3zi6-number-example-1",
-    "text": "你可唔可以寫低你個電話數字？"
-  },
-  {
-    "filename": "sou3zi6-number-example-2",
-    "id": "sou3zi6-number-example-2",
-    "text": "呢個數字好大。"
-  },
-  {
-    "filename": "sou3zi6-number-example-3",
-    "id": "sou3zi6-number-example-3",
-    "text": "我唔記得個密碼尾三個數字。"
-  },
-  {
-    "filename": "sou3zi6-number-example-4",
-    "id": "sou3zi6-number-example-4",
-    "text": "請你幫我對一對呢堆數字。"
-  },
-  {
-    "filename": "syun3sik1-calculation",
-    "id": "syun3sik1-calculation",
-    "text": "算式"
-  },
-  {
-    "filename": "syun3sik1-calculation-example-1",
-    "id": "syun3sik1-calculation-example-1",
-    "text": "呢條算式點做？"
-  },
-  {
-    "filename": "syun3sik1-calculation-example-2",
-    "id": "syun3sik1-calculation-example-2",
-    "text": "老師寫咗個算式喺黑板。"
-  },
-  {
-    "filename": "syun3sik1-calculation-example-3",
-    "id": "syun3sik1-calculation-example-3",
-    "text": "我計錯咗個算式。"
-  },
-  {
-    "filename": "syun3sik1-calculation-example-4",
-    "id": "syun3sik1-calculation-example-4",
-    "text": "呢個算式好簡單。"
-  },
-  {
-    "filename": "zik6sin3-line",
-    "id": "zik6sin3-line",
-    "text": "直線"
-  },
-  {
-    "filename": "zik6sin3-line-example-1",
-    "id": "zik6sin3-line-example-1",
-    "text": "呢條直線畫得好直。"
-  },
-  {
-    "filename": "zik6sin3-line-example-2",
-    "id": "zik6sin3-line-example-2",
-    "text": "條路一直向前，係一條直線。"
-  },
-  {
-    "filename": "zik6sin3-line-example-3",
-    "id": "zik6sin3-line-example-3",
-    "text": "佢用直線連住兩個點。"
-  },
-  {
-    "filename": "zik6sin3-line-example-4",
-    "id": "zik6sin3-line-example-4",
-    "text": "圖入面有兩條直線。"
-  },
-  {
-    "filename": "zing2sou3-integer",
-    "id": "zing2sou3-integer",
-    "text": "整數"
-  },
-  {
-    "filename": "zing2sou3-integer-example-1",
-    "id": "zing2sou3-integer-example-1",
-    "text": "5 係整數。"
-  },
-  {
-    "filename": "zing2sou3-integer-example-2",
-    "id": "zing2sou3-integer-example-2",
-    "text": "呢條題目要填整數。"
-  },
-  {
-    "filename": "zing2sou3-integer-example-3",
-    "id": "zing2sou3-integer-example-3",
-    "text": "3.5 唔係整數。"
-  },
-  {
-    "filename": "zing2sou3-integer-example-4",
-    "id": "zing2sou3-integer-example-4",
-    "text": "呢組數據全部都係整數。"
-  },
-  {
-    "filename": "zing3fong1jing4-square",
-    "id": "zing3fong1jing4-square",
-    "text": "正方形"
-  },
-  {
-    "filename": "zing3fong1jing4-square-example-1",
-    "id": "zing3fong1jing4-square-example-1",
-    "text": "呢個圖案係正方形。"
-  },
-  {
-    "filename": "zing3fong1jing4-square-example-2",
-    "id": "zing3fong1jing4-square-example-2",
-    "text": "張紙係正方形㗎。"
-  },
-  {
-    "filename": "zing3fong1jing4-square-example-3",
-    "id": "zing3fong1jing4-square-example-3",
-    "text": "呢塊磚係正方形。"
-  },
-  {
-    "filename": "zing3fong1jing4-square-example-4",
-    "id": "zing3fong1jing4-square-example-4",
-    "text": "佢畫咗個正方形。"
-  },
-  {
-    "filename": "zing3sou3-positive",
-    "id": "zing3sou3-positive",
-    "text": "正數"
-  },
-  {
-    "filename": "zing3sou3-positive-example-1",
-    "id": "zing3sou3-positive-example-1",
-    "text": "呢個數係正數。"
-  },
-  {
-    "filename": "zing3sou3-positive-example-2",
-    "id": "zing3sou3-positive-example-2",
-    "text": "五係正數。"
-  },
-  {
-    "filename": "zing3sou3-positive-example-3",
-    "id": "zing3sou3-positive-example-3",
-    "text": "一同二都係正數。"
-  },
-  {
-    "filename": "zing3sou3-positive-example-4",
-    "id": "zing3sou3-positive-example-4",
-    "text": "老師叫我分正數同負數。"
-  },
-  {
-    "filename": "zung2sou3-total",
-    "id": "zung2sou3-total",
-    "text": "總數"
-  },
-  {
-    "filename": "zung2sou3-total-example-1",
-    "id": "zung2sou3-total-example-1",
-    "text": "呢度嘅總數係一百蚊。"
-  },
-  {
-    "filename": "zung2sou3-total-example-2",
-    "id": "zung2sou3-total-example-2",
-    "text": "你幫我計下總數。"
-  },
-  {
-    "filename": "zung2sou3-total-example-3",
-    "id": "zung2sou3-total-example-3",
-    "text": "三樣嘢加埋，總數係八個。"
-  },
-  {
-    "filename": "zung2sou3-total-example-4",
-    "id": "zung2sou3-total-example-4",
-    "text": "今日落單嘅總數有幾多？"
+    "filename": "zi2sou3-exponent-example-4",
+    "id": "zi2sou3-exponent-example-4",
+    "text": "你學微積分之前，要先熟識指數運算。"
   }
 ]

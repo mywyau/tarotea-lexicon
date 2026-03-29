@@ -3,12 +3,14 @@
   "word": "票",
   "jyutping": "piu3",
   "meaning": "ticket",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "The word '票' (piu3) is used as a noun meaning 'ticket' for transport or events.",
     "'票' can be used with different types of transport like train, bus, or plane tickets.",
     "You can use '買票' (maai5 piu3) to say 'buy a ticket'.",
-    "'票' can also be combined with classifiers, for Example:  '一張票' (jat1 zoeng1 piu3) meaning 'one ticket'.",
+    "'票' can also be combined with classifiers, for example: '一張票' (jat1 zoeng1 piu3) meaning 'one ticket'.",
     "'票' is a common word to ask or talk about tickets in daily conversations."
   ],
   "examples": [
@@ -46,6 +48,19 @@
       "piu3-ticket-example-4.mp3"
     ]
   },
-  "tags": ["transport", "travel", "ticket", "payment", "basic", "level-1"],
-  "related": ["火車票", "飛機票", "巴士票", "買票", "票價"]
+  "tags": [
+    "transport",
+    "travel",
+    "ticket",
+    "payment",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "火車票",
+    "飛機票",
+    "巴士票",
+    "買票",
+    "票價"
+  ]
 }
