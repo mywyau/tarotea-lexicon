@@ -7,11 +7,9 @@
     "noun"
   ],
   "usage": [
-    "科學 (fo1 hok6) is used as a noun referring to the systematic study of the structure and behavior of the natural and physical world through observation and experimentation.",
-    "It can refer to the academic subject, a body of knowledge, or the scientific method.",
-    "In Cantonese sentences, 科學 often acts as the subject or object of a verb.",
-    "When talking about school subjects, you can say 我學科學 (ngo5 hok6 fo1 hok6) to mean 'I study science.'",
-    "It does not usually combine directly with measure words, but can form part of compound nouns or phrases."
+    "Used as a noun meaning science",
+    "Can refer to the school subject or to science as a field of knowledge",
+    "Often appears in phrases like 科學家 (scientist) and 科學方法 (scientific method)"
   ],
   "examples": [
     {
@@ -22,21 +20,27 @@
     },
     {
       "id": "fo1hok6-science-example-2",
-      "sentence": "學校嘅科學課好有趣。",
-      "jyutping": "hok6 haau6 ge3 fo1 hok6 fo3 hou2 jau5 ceoi3",
-      "meaning": "The school's science class is very interesting."
+      "sentence": "我最鍾意上科學堂。",
+      "jyutping": "ngo5 zeoi3 zung1 ji3 soeng5 fo1 hok6 tong4",
+      "meaning": "Science is my favourite class."
     },
     {
       "id": "fo1hok6-science-example-3",
-      "sentence": "依家科技同科學關係好密。",
-      "jyutping": "ji1 gaa1 fo1 gei6 tung4 fo1 hok6 gwaan1 hai6 hou2 mat6",
+      "sentence": "而家科技同科學關係好密切。",
+      "jyutping": "ji4 gaa1 fo1 gei6 tung4 fo1 hok6 gwaan1 hai6 hou2 mat6 cit3",
       "meaning": "Nowadays, technology and science are closely related."
     },
     {
       "id": "fo1hok6-science-example-4",
-      "sentence": "科學幫助我地了解世界。",
+      "sentence": "科學幫助我哋了解世界。",
       "jyutping": "fo1 hok6 bong1 zo6 ngo5 dei6 liu5 gaai2 sai3 gaai3",
       "meaning": "Science helps us understand the world."
+    },
+    {
+      "id": "fo1hok6-science-example-5",
+      "sentence": "佢想做科學家。",
+      "jyutping": "keoi5 soeng2 zou6 fo1 hok6 gaa1",
+      "meaning": "He / she wants to be a scientist."
     }
   ],
   "audio": {
@@ -45,7 +49,8 @@
       "fo1hok6-science-example-1.mp3",
       "fo1hok6-science-example-2.mp3",
       "fo1hok6-science-example-3.mp3",
-      "fo1hok6-science-example-4.mp3"
+      "fo1hok6-science-example-4.mp3",
+      "fo1hok6-science-example-5.mp3"
     ]
   },
   "tags": [
@@ -57,10 +62,10 @@
     "level-1"
   ],
   "related": [
-    "科技 (fo1 gei6, technology)",
-    "生物 (saang1 mat6, biology)",
-    "物理 (mat6 lei5, physics)",
-    "化學 (fo3 hok6, chemistry)",
-    "實驗 (sat6 jim6, experiment)"
+    "fo1gei6-technology",
+    "saang1mat6hok6-biology",
+    "mat6lei5-physics",
+    "faa3hok6-chemistry",
+    "sat6jim6-experiment"
   ]
 }

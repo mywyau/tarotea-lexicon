@@ -7,15 +7,15 @@
       { "id": "ho2nang4-maybe", "word": "可能", "jyutping": "ho2 nang4", "meaning": "perhaps" },
       { "id": "mei6bit1-not-necessarily", "word": "未必", "jyutping": "mei6 bit1", "meaning": "uncertain" },
       { "id": "jau5di1-somewhat", "word": "有啲", "jyutping": "jau5 di1", "meaning": "somewhat" },
-      { "id": "siu2siu2-a-little-softening", "word": "少少", "jyutping": "siu2 siu2", "meaning": "slightly" },
+      { "id": "siu2siu2-a-little", "word": "少少", "jyutping": "siu2 siu2", "meaning": "a little" },
       { "id": "gam2joeng6gong2laa1-speaking-like-this", "word": "咁樣講啦", "jyutping": "gam2 joeng6 gong2 laa1", "meaning": "put it this way" },
-      { "id": "ho2zi2soeng6you-could-think", "word": "可以咁諗", "jyutping": "ho2 ji5 gam2 nam2", "meaning": "see it this way" },
+      { "id": "ho2zi2soeng6-you-could-think", "word": "可以咁諗", "jyutping": "ho2 ji5 gam2 nam2", "meaning": "see it this way" },
       { "id": "m4zi1hai6m4hai6-not-sure-if", "word": "唔知係唔係", "jyutping": "m4 zi1 hai6 m4 hai6", "meaning": "not sure" },
       { "id": "zi2hai6soeng2gong2-just-wanted-to-say", "word": "只係想講", "jyutping": "zi2 hai6 soeng2 gong2", "meaning": "just saying" }
     ],
 
     "polite_disagreement": [
-      { "id": "ngo5ming4baak6nei5ji3si1-i-understand-you", "word": "我明白你意思", "jyutping": "ngo5 ming4 baak6 nei5 ji3 si1", "meaning": "I see your point" },
+      { "id": "ngo5ming4baak6nei5ge3ji3si1-i-understand-what-you-mean", "word": "我明白你嘅意思", "jyutping": "ngo5 ming4 baak6 nei5 ge3 ji3 si1", "meaning": "I understand what you mean" },
       { "id": "bat1gwo3-however", "word": "不過", "jyutping": "bat1 gwo3", "meaning": "however" },
       { "id": "daan6ho2nang4-but-maybe", "word": "但可能", "jyutping": "daan6 ho2 nang4", "meaning": "but perhaps" },
       { "id": "mei6bit1hai6gam3-might-not-be-like-that", "word": "未必係咁", "jyutping": "mei6 bit1 hai6 gam3", "meaning": "maybe not" },

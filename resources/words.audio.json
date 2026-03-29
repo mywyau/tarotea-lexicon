@@ -1,27 +1,467 @@
 [
   {
-    "filename": "heoi3-go",
-    "id": "heoi3-go",
-    "text": "去"
+    "filename": "bo1haai4-trainers",
+    "id": "bo1haai4-trainers",
+    "text": "波鞋"
   },
   {
-    "filename": "heoi3-go-example-1",
-    "id": "heoi3-go-example-1",
-    "text": "我去超市買嘢。"
+    "filename": "bo1haai4-trainers-example-1",
+    "id": "bo1haai4-trainers-example-1",
+    "text": "我買咗對新波鞋，好舒服。"
   },
   {
-    "filename": "heoi3-go-example-2",
-    "id": "heoi3-go-example-2",
-    "text": "你想去邊度？"
+    "filename": "bo1haai4-trainers-example-2",
+    "id": "bo1haai4-trainers-example-2",
+    "text": "你嘅波鞋好靚喎！"
   },
   {
-    "filename": "heoi3-go-example-3",
-    "id": "heoi3-go-example-3",
-    "text": "佢今日唔去公司。"
+    "filename": "bo1haai4-trainers-example-3",
+    "id": "bo1haai4-trainers-example-3",
+    "text": "佢成日著波鞋去跑步。"
   },
   {
-    "filename": "heoi3-go-example-4",
-    "id": "heoi3-go-example-4",
-    "text": "我哋去飲嘢啦！"
+    "filename": "bo1haai4-trainers-example-4",
+    "id": "bo1haai4-trainers-example-4",
+    "text": "我想買對新嘅白色波鞋。"
+  },
+  {
+    "filename": "bou3dou6-report-coverage",
+    "id": "bou3dou6-report-coverage",
+    "text": "報道"
+  },
+  {
+    "filename": "bou3dou6-report-coverage-example-1",
+    "id": "bou3dou6-report-coverage-example-1",
+    "text": "呢間電視台今晚會有現場報道。"
+  },
+  {
+    "filename": "bou3dou6-report-coverage-example-2",
+    "id": "bou3dou6-report-coverage-example-2",
+    "text": "記者喺現場即時報道最新消息。"
+  },
+  {
+    "filename": "bou3dou6-report-coverage-example-3",
+    "id": "bou3dou6-report-coverage-example-3",
+    "text": "呢篇新聞報道好詳細，冇遺漏任何重要資料。"
+  },
+  {
+    "filename": "bou3dou6-report-coverage-example-4",
+    "id": "bou3dou6-report-coverage-example-4",
+    "text": "網上平台會報道今日嘅政治發展。"
+  },
+  {
+    "filename": "ceot1mun4-leave-home",
+    "id": "ceot1mun4-leave-home",
+    "text": "出門"
+  },
+  {
+    "filename": "ceot1mun4-leave-home-example-1",
+    "id": "ceot1mun4-leave-home-example-1",
+    "text": "我八點要出門返工。"
+  },
+  {
+    "filename": "ceot1mun4-leave-home-example-2",
+    "id": "ceot1mun4-leave-home-example-2",
+    "text": "出門前記住帶鎖匙。"
+  },
+  {
+    "filename": "ceot1mun4-leave-home-example-3",
+    "id": "ceot1mun4-leave-home-example-3",
+    "text": "天氣咁凍，出門要著多件衫。"
+  },
+  {
+    "filename": "ceot1mun4-leave-home-example-4",
+    "id": "ceot1mun4-leave-home-example-4",
+    "text": "我每日朝早七點半就出門。"
+  },
+  {
+    "filename": "cung1loeng4-take-a-shower",
+    "id": "cung1loeng4-take-a-shower",
+    "text": "沖涼"
+  },
+  {
+    "filename": "cung1loeng4-take-a-shower-example-1",
+    "id": "cung1loeng4-take-a-shower-example-1",
+    "text": "我宜家去沖涼。"
+  },
+  {
+    "filename": "cung1loeng4-take-a-shower-example-2",
+    "id": "cung1loeng4-take-a-shower-example-2",
+    "text": "沖完涼之後我覺得好舒服。"
+  },
+  {
+    "filename": "cung1loeng4-take-a-shower-example-3",
+    "id": "cung1loeng4-take-a-shower-example-3",
+    "text": "你今晚幾點沖涼？"
+  },
+  {
+    "filename": "cung1loeng4-take-a-shower-example-4",
+    "id": "cung1loeng4-take-a-shower-example-4",
+    "text": "沖涼嘅時候唔好用太熱嘅水。"
+  },
+  {
+    "filename": "dyun2fu3-shorts",
+    "id": "dyun2fu3-shorts",
+    "text": "短褲"
+  },
+  {
+    "filename": "dyun2fu3-shorts-example-1",
+    "id": "dyun2fu3-shorts-example-1",
+    "text": "今日天氣好熱，我著咗短褲。"
+  },
+  {
+    "filename": "dyun2fu3-shorts-example-2",
+    "id": "dyun2fu3-shorts-example-2",
+    "text": "你有冇啲藍色嘅短褲？"
+  },
+  {
+    "filename": "dyun2fu3-shorts-example-3",
+    "id": "dyun2fu3-shorts-example-3",
+    "text": "去沙灘記得帶短褲同泳衣。"
+  },
+  {
+    "filename": "dyun2fu3-shorts-example-4",
+    "id": "dyun2fu3-shorts-example-4",
+    "text": "買新短褲要搵啱尺寸。"
+  },
+  {
+    "filename": "faan1uk1kei2-go-home",
+    "id": "faan1uk1kei2-go-home",
+    "text": "返屋企"
+  },
+  {
+    "filename": "faan1uk1kei2-go-home-example-1",
+    "id": "faan1uk1kei2-go-home-example-1",
+    "text": "我下晝五點鐘返屋企。"
+  },
+  {
+    "filename": "faan1uk1kei2-go-home-example-2",
+    "id": "faan1uk1kei2-go-home-example-2",
+    "text": "放學之後，我就返屋企。"
+  },
+  {
+    "filename": "faan1uk1kei2-go-home-example-3",
+    "id": "faan1uk1kei2-go-home-example-3",
+    "text": "我今日唔想返屋企，想喺朋友屋企玩。"
+  },
+  {
+    "filename": "faan1uk1kei2-go-home-example-4",
+    "id": "faan1uk1kei2-go-home-example-4",
+    "text": "返屋企之前買啲嘢食啦。"
+  },
+  {
+    "filename": "gang3gaa1-more",
+    "id": "gang3gaa1-more",
+    "text": "更加"
+  },
+  {
+    "filename": "gang3gaa1-more-example-1",
+    "id": "gang3gaa1-more-example-1",
+    "text": "天氣凍咗，今晚會更加凍。"
+  },
+  {
+    "filename": "gang3gaa1-more-example-2",
+    "id": "gang3gaa1-more-example-2",
+    "text": "練多啲，你會更加熟手。"
+  },
+  {
+    "filename": "git3gwo2-result",
+    "id": "git3gwo2-result",
+    "text": "結果"
+  },
+  {
+    "filename": "git3gwo2-result-example-1",
+    "id": "git3gwo2-result-example-1",
+    "text": "我哋仲未收到測試結果。"
+  },
+  {
+    "filename": "git3gwo2-result-example-2",
+    "id": "git3gwo2-result-example-2",
+    "text": "研究結果好令人驚訝。"
+  },
+  {
+    "filename": "git3gwo2-result-example-3",
+    "id": "git3gwo2-result-example-3",
+    "text": "你睇吓，計算結果係啱嘅。"
+  },
+  {
+    "filename": "git3gwo2-result-example-4",
+    "id": "git3gwo2-result-example-4",
+    "text": "呢個實驗嘅結果證明咗個理論。"
+  },
+  {
+    "filename": "ho2jyu6bat1ho2kau4-rare-opportunity",
+    "id": "ho2jyu6bat1ho2kau4-rare-opportunity",
+    "text": "可遇不可求"
+  },
+  {
+    "filename": "ho2jyu6bat1ho2kau4-rare-opportunity-example-1",
+    "id": "ho2jyu6bat1ho2kau4-rare-opportunity-example-1",
+    "text": "呢次嘅演唱會入場券真係可遇不可求，唔好錯過呀。"
+  },
+  {
+    "filename": "ho2jyu6bat1ho2kau4-rare-opportunity-example-2",
+    "id": "ho2jyu6bat1ho2kau4-rare-opportunity-example-2",
+    "text": "遇到呢啲好老友真係可遇不可求，要珍惜。"
+  },
+  {
+    "filename": "ho2jyu6bat1ho2kau4-rare-opportunity-example-3",
+    "id": "ho2jyu6bat1ho2kau4-rare-opportunity-example-3",
+    "text": "發展咁好嘅機會可遇不可求，你要好好把握。"
+  },
+  {
+    "filename": "ho2jyu6bat1ho2kau4-rare-opportunity-example-4",
+    "id": "ho2jyu6bat1ho2kau4-rare-opportunity-example-4",
+    "text": "呢啲機會唔容易嚟，真係可遇不可求。"
+  },
+  {
+    "filename": "jam2gaa3fe1-drink-coffee",
+    "id": "jam2gaa3fe1-drink-coffee",
+    "text": "飲咖啡"
+  },
+  {
+    "filename": "jam2gaa3fe1-drink-coffee-example-1",
+    "id": "jam2gaa3fe1-drink-coffee-example-1",
+    "text": "我朝早一定要飲咖啡先醒神。"
+  },
+  {
+    "filename": "jam2gaa3fe1-drink-coffee-example-2",
+    "id": "jam2gaa3fe1-drink-coffee-example-2",
+    "text": "我哋去附近嘅咖啡店飲咖啡啦。"
+  },
+  {
+    "filename": "jam2gaa3fe1-drink-coffee-example-3",
+    "id": "jam2gaa3fe1-drink-coffee-example-3",
+    "text": "飲咖啡幫我提神好多。"
+  },
+  {
+    "filename": "jam2gaa3fe1-drink-coffee-example-4",
+    "id": "jam2gaa3fe1-drink-coffee-example-4",
+    "text": "佢唔鍾意飲咖啡，鍾意飲茶多啲。"
+  },
+  {
+    "filename": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain",
+    "id": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain",
+    "text": "因小失大"
+  },
+  {
+    "filename": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-1",
+    "id": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-1",
+    "text": "你咁樣做可能會因小失大，唔值得。"
+  },
+  {
+    "filename": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-2",
+    "id": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-2",
+    "text": "投資股市要小心，唔好因小失大。"
+  },
+  {
+    "filename": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-3",
+    "id": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-3",
+    "text": "你唔好為咗啲小利益而因小失大，應該諗遠啲。"
+  },
+  {
+    "filename": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-4",
+    "id": "jan1siu2sat1daai6-suffer-big-loss-over-small-gain-example-4",
+    "text": "老闆因為想慳幾蚊，結果因小失大，損失嚴重。"
+  },
+  {
+    "filename": "lei2-pear",
+    "id": "lei2-pear",
+    "text": "梨"
+  },
+  {
+    "filename": "lei2-pear-example-1",
+    "id": "lei2-pear-example-1",
+    "text": "我想買一個梨。"
+  },
+  {
+    "filename": "lei2-pear-example-2",
+    "id": "lei2-pear-example-2",
+    "text": "呢啲梨好甜。"
+  },
+  {
+    "filename": "lei2-pear-example-3",
+    "id": "lei2-pear-example-3",
+    "text": "呢啲梨新唔新鮮？"
+  },
+  {
+    "filename": "lei2-pear-example-4",
+    "id": "lei2-pear-example-4",
+    "text": "呢個梨好多汁。"
+  },
+  {
+    "filename": "mei6jyu5cau4mau4-prepare-ahead",
+    "id": "mei6jyu5cau4mau4-prepare-ahead",
+    "text": "未雨綢繆"
+  },
+  {
+    "filename": "mei6jyu5cau4mau4-prepare-ahead-example-1",
+    "id": "mei6jyu5cau4mau4-prepare-ahead-example-1",
+    "text": "我哋要未雨綢繆，早啲買齊所有嘢，先至可以應付突發情況。"
+  },
+  {
+    "filename": "mei6jyu5cau4mau4-prepare-ahead-example-2",
+    "id": "mei6jyu5cau4mau4-prepare-ahead-example-2",
+    "text": "老闆話要未雨綢繆，一早開始做計劃，唔好等到有問題先處理。"
+  },
+  {
+    "filename": "mei6jyu5cau4mau4-prepare-ahead-example-3",
+    "id": "mei6jyu5cau4mau4-prepare-ahead-example-3",
+    "text": "有未雨綢繆嘅習慣，可以幫我哋避免好多麻煩同壓力。"
+  },
+  {
+    "filename": "mei6jyu5cau4mau4-prepare-ahead-example-4",
+    "id": "mei6jyu5cau4mau4-prepare-ahead-example-4",
+    "text": "佢成日講要未雨綢繆，呢種態度對工作好重要。"
+  },
+  {
+    "filename": "ping4gwo2-apple",
+    "id": "ping4gwo2-apple",
+    "text": "蘋果"
+  },
+  {
+    "filename": "ping4gwo2-apple-example-1",
+    "id": "ping4gwo2-apple-example-1",
+    "text": "我想買一個蘋果。"
+  },
+  {
+    "filename": "ping4gwo2-apple-example-2",
+    "id": "ping4gwo2-apple-example-2",
+    "text": "呢啲蘋果好甜。"
+  },
+  {
+    "filename": "ping4gwo2-apple-example-3",
+    "id": "ping4gwo2-apple-example-3",
+    "text": "呢啲蘋果新唔新鮮？"
+  },
+  {
+    "filename": "ping4gwo2-apple-example-4",
+    "id": "ping4gwo2-apple-example-4",
+    "text": "我每日都食一個蘋果。"
+  },
+  {
+    "filename": "san1fu2dak1loi4-hard-earned",
+    "id": "san1fu2dak1loi4-hard-earned",
+    "text": "辛苦得來"
+  },
+  {
+    "filename": "san1fu2dak1loi4-hard-earned-example-1",
+    "id": "san1fu2dak1loi4-hard-earned-example-1",
+    "text": "呢個機會係我辛苦得來嘅，我一定會珍惜。"
+  },
+  {
+    "filename": "san1fu2dak1loi4-hard-earned-example-2",
+    "id": "san1fu2dak1loi4-hard-earned-example-2",
+    "text": "你嘅成績係辛苦得來嘅，唔好輕易放棄。"
+  },
+  {
+    "filename": "san1fu2dak1loi4-hard-earned-example-3",
+    "id": "san1fu2dak1loi4-hard-earned-example-3",
+    "text": "呢啲錢係我辛苦得來嘅，唔可以亂用。"
+  },
+  {
+    "filename": "san1fu2dak1loi4-hard-earned-example-4",
+    "id": "san1fu2dak1loi4-hard-earned-example-4",
+    "text": "成功唔容易，辛苦得來先更加有價值。"
+  },
+  {
+    "filename": "si1cau4-silk",
+    "id": "si1cau4-silk",
+    "text": "絲綢"
+  },
+  {
+    "filename": "si1cau4-silk-example-1",
+    "id": "si1cau4-silk-example-1",
+    "text": "我件衫係用絲綢做嘅，好舒服。"
+  },
+  {
+    "filename": "si1cau4-silk-example-2",
+    "id": "si1cau4-silk-example-2",
+    "text": "呢條絲綢頸巾好靚，適合夏天戴。"
+  },
+  {
+    "filename": "si1cau4-silk-example-3",
+    "id": "si1cau4-silk-example-3",
+    "text": "佢買咗件絲綢裙去參加晚會。"
+  },
+  {
+    "filename": "si1cau4-silk-example-4",
+    "id": "si1cau4-silk-example-4",
+    "text": "絲綢係一種比較高級嘅布料。"
+  },
+  {
+    "filename": "soeng6mei6ho2zi1-not-yet-known",
+    "id": "soeng6mei6ho2zi1-not-yet-known",
+    "text": "尚未可知"
+  },
+  {
+    "filename": "soeng6mei6ho2zi1-not-yet-known-example-1",
+    "id": "soeng6mei6ho2zi1-not-yet-known-example-1",
+    "text": "今次考試嘅結果尚未可知，大家都好緊張。"
+  },
+  {
+    "filename": "soeng6mei6ho2zi1-not-yet-known-example-2",
+    "id": "soeng6mei6ho2zi1-not-yet-known-example-2",
+    "text": "下星期嘅天氣尚未可知，而家仲好難講。"
+  },
+  {
+    "filename": "soeng6mei6ho2zi1-not-yet-known-example-3",
+    "id": "soeng6mei6ho2zi1-not-yet-known-example-3",
+    "text": "公司會唔會重組尚未可知，員工都仲喺度等消息。"
+  },
+  {
+    "filename": "soeng6mei6ho2zi1-not-yet-known-example-4",
+    "id": "soeng6mei6ho2zi1-not-yet-known-example-4",
+    "text": "佢哋最終會點決定，尚未可知。"
+  },
+  {
+    "filename": "syun1-sour",
+    "id": "syun1-sour",
+    "text": "酸"
+  },
+  {
+    "filename": "syun1-sour-example-1",
+    "id": "syun1-sour-example-1",
+    "text": "呢啲檸檬好酸，好適合用嚟榨汁。"
+  },
+  {
+    "filename": "syun1-sour-example-2",
+    "id": "syun1-sour-example-2",
+    "text": "呢啲蘋果未熟，食落好酸。"
+  },
+  {
+    "filename": "syun1-sour-example-3",
+    "id": "syun1-sour-example-3",
+    "text": "杯奶變酸咗，唔好飲。"
+  },
+  {
+    "filename": "syun1-sour-example-4",
+    "id": "syun1-sour-example-4",
+    "text": "酸味係一種基本味道。"
+  },
+  {
+    "filename": "zing3ming4-proof",
+    "id": "zing3ming4-proof",
+    "text": "證明"
+  },
+  {
+    "filename": "zing3ming4-proof-example-1",
+    "id": "zing3ming4-proof-example-1",
+    "text": "你要帶身份證作為證明。"
+  },
+  {
+    "filename": "zing3ming4-proof-example-2",
+    "id": "zing3ming4-proof-example-2",
+    "text": "佢攞出收據作為證明。"
+  },
+  {
+    "filename": "zing3ming4-proof-example-3",
+    "id": "zing3ming4-proof-example-3",
+    "text": "科學家用實驗證明理論。"
+  },
+  {
+    "filename": "zing3ming4-proof-example-4",
+    "id": "zing3ming4-proof-example-4",
+    "text": "法庭需要證明被告有罪。"
   }
 ]

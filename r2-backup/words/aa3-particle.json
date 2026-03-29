@@ -2,13 +2,15 @@
   "id": "aa3-particle",
   "word": "呀",
   "jyutping": "aa3",
-  "meaning": "sentence-ending particle (soft / friendly)",
+  "meaning": "sentence-final particle used to soften tone",
 
   "pos": ["particle"],
 
   "usage": [
-    "Used to soften statements or questions",
-    "Adds friendliness or emphasis depending on tone"
+    "Used at the end of a sentence to soften the tone",
+    "Common in both questions and statements in spoken Cantonese",
+    "Can make speech sound friendlier, lighter, or more natural",
+    "Often used in casual conversation"
   ],
 
   "examples": [
@@ -19,10 +21,22 @@
       "meaning": "What are you doing?"
     },
     {
-      "id": "aa3-particle-example-1",
+      "id": "aa3-particle-example-2",
       "sentence": "係呀。",
       "jyutping": "hai6 aa3",
       "meaning": "Yes, that’s right."
+    },
+    {
+      "id": "aa3-particle-example-3",
+      "sentence": "你去邊呀？",
+      "jyutping": "nei5 heoi3 bin1 aa3",
+      "meaning": "Where are you going?"
+    },
+    {
+      "id": "aa3-particle-example-4",
+      "sentence": "我而家返屋企呀。",
+      "jyutping": "ngo5 ji4 gaa1 faan1 uk1 kei2 aa3",
+      "meaning": "I’m going home now."
     }
   ],
 
@@ -30,7 +44,9 @@
     "word": "aa3-particle.mp3",
     "examples": [
       "aa3-particle-example-1.mp3",
-      "aa3-particle-example-2.mp3"
+      "aa3-particle-example-2.mp3",
+      "aa3-particle-example-3.mp3",
+      "aa3-particle-example-4.mp3"
     ]
   },
 

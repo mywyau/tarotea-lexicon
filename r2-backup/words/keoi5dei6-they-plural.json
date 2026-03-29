@@ -1,15 +1,16 @@
 {
   "id": "keoi5dei6-they-plural",
   "word": "佢哋",
-  "jyutping": "keoi5dei6",
-  "meaning": "they; them",
+  "jyutping": "keoi5 dei6",
+  "meaning": "they / them",
 
   "pos": ["pronoun"],
 
   "usage": [
-    "Used to refer to a group of people or animals",
-    "Plural form of 佢 (he / she)",
-    "Commonly used for third-person plural subjects or objects"
+    "Used to refer to a group of people or sometimes animals",
+    "Plural form of 佢, used to mean they or them",
+    "Commonly used as a third-person plural subject or object pronoun",
+    "Very common in everyday spoken Cantonese"
   ],
 
   "examples": [
@@ -24,6 +25,18 @@
       "sentence": "我等緊佢哋。",
       "jyutping": "ngo5 dang2 gan2 keoi5 dei6",
       "meaning": "I’m waiting for them."
+    },
+    {
+      "id": "keoi5dei6-they-plural-example-3",
+      "sentence": "佢哋住喺附近。",
+      "jyutping": "keoi5 dei6 zyu6 hai2 fu6 gan6",
+      "meaning": "They live nearby."
+    },
+    {
+      "id": "keoi5dei6-they-plural-example-4",
+      "sentence": "老師叫佢哋坐低。",
+      "jyutping": "lou5 si1 giu3 keoi5 dei6 co5 dai1",
+      "meaning": "The teacher told them to sit down."
     }
   ],
 
@@ -31,7 +44,9 @@
     "word": "keoi5dei6-they-plural.mp3",
     "examples": [
       "keoi5dei6-they-plural-example-1.mp3",
-      "keoi5dei6-they-plural-example-2.mp3"
+      "keoi5dei6-they-plural-example-2.mp3",
+      "keoi5dei6-they-plural-example-3.mp3",
+      "keoi5dei6-they-plural-example-4.mp3"
     ]
   },
 
@@ -40,6 +55,6 @@
   "related": [
     "keoi5-he-she",
     "ngo5dei6-we",
-    "nei5dei6-you-pl"
+    "nei5dei6-you-plural"
   ]
 }

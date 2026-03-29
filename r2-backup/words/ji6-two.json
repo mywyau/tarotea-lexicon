@@ -4,25 +4,39 @@
   "jyutping": "ji6",
   "meaning": "two",
 
-  "pos": ["number", "determiner"],
+  "pos": ["number"],
 
   "usage": [
     "Used as the number two",
-    "Often replaced by 兩 (loeng5) before measure words in spoken Cantonese"
+    "Often used in counting, dates, floors, and ordinal expressions",
+    "In spoken Cantonese, 兩 (loeng5) is usually used before measure words",
+    "Common in forms such as 第二 (second) and 二樓 (second floor)"
   ],
 
   "examples": [
     {
       "id": "ji6-two-example-1",
-      "sentence": "我有二個選擇。",
-      "jyutping": "ngo5 jau5 ji6 go3 syun2 zaak6",
-      "meaning": "I have two choices."
+      "sentence": "一加一等於二。",
+      "jyutping": "jat1 gaa1 jat1 dang2 jyu4 ji6",
+      "meaning": "One plus one equals two."
     },
     {
       "id": "ji6-two-example-2",
-      "sentence": "呢個問題有二個答案。",
-      "jyutping": "ni1 go3 man6 tai4 jau5 ji6 go3 daap3 on3",
-      "meaning": "This question has two answers."
+      "sentence": "今日係二號。",
+      "jyutping": "gam1 jat6 hai6 ji6 hou6",
+      "meaning": "Today is the second."
+    },
+    {
+      "id": "ji6-two-example-3",
+      "sentence": "我住二樓。",
+      "jyutping": "ngo5 zyu6 ji6 lau2",
+      "meaning": "I live on the second floor."
+    },
+    {
+      "id": "ji6-two-example-4",
+      "sentence": "第二題好難。",
+      "jyutping": "dai6 ji6 tai4 hou2 naan4",
+      "meaning": "The second question is very difficult."
     }
   ],
 
@@ -30,7 +44,9 @@
     "word": "ji6-two.mp3",
     "examples": [
       "ji6-two-example-1.mp3",
-      "ji6-two-example-2.mp3"
+      "ji6-two-example-2.mp3",
+      "ji6-two-example-3.mp3",
+      "ji6-two-example-4.mp3"
     ]
   },
 
