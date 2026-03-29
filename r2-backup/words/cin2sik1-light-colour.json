@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word 淺色 (cin2 sik1) is used to describe colors that are light or pale in shade.",
-    "You can use 淺色 to talk about clothes, backgrounds, or any objects with a light color tone.",
-    "It can appear before a noun to specify the color type, for example, 淺色衫 means light-colored shirt.",
-    "淺色 can also be contrasted with 深色 (sam1 sik1) which means dark color.",
-    "When shopping or describing outfits, 淺色 helps distinguish styles by color brightness."
+    "Used as a noun meaning a light colour. 呢件衫係淺色。",
+    "Can describe clothes, furniture, or paint. 我想要淺色嘅牆身。",
+    "Often contrasts with 深色. 呢隻袋有淺色同深色兩款。",
+    "Common in everyday shopping and design talk. 你鍾意淺色定深色？"
   ],
   "examples": [
     {
       "id": "cin2sik1-light-colour-example-1",
-      "sentence": "我鍾意著淺色衫，夏天涼快啲。",
-      "jyutping": "ngo5 zung1 ji3 zoek3 cin2 sik1 saam1, haa6 tin1 loeng4 faai3 di1.",
-      "meaning": "I like wearing light-colored shirts, they are cooler in summer."
+      "sentence": "呢件衫係淺色。",
+      "jyutping": "ni1 gin6 saam1 hai6 cin2 sik1.",
+      "meaning": "This shirt is a light colour."
     },
     {
       "id": "cin2sik1-light-colour-example-2",
-      "sentence": "呢間鋪有好多淺色褲賣。",
-      "jyutping": "ni1 gaan1 pou3 jau5 hou2 do1 cin2 sik1 fu3 maai6.",
-      "meaning": "This store sells many light-colored pants."
+      "sentence": "我想要淺色嘅牆身。",
+      "jyutping": "ngo5 soeng2 jiu3 cin2 sik1 ge3 coeng4 san1.",
+      "meaning": "I want a light-coloured wall."
     },
     {
       "id": "cin2sik1-light-colour-example-3",
-      "sentence": "你買咗啲咩淺色嘢？",
-      "jyutping": "nei5 maai5 zo2 di1 me1 cin2 sik1 je5?",
-      "meaning": "What light-colored stuff did you buy?"
+      "sentence": "呢隻袋有淺色同深色兩款。",
+      "jyutping": "ni1 zek3 doi2 jau5 cin2 sik1 tung4 sam1 sik1 loeng5 fun2.",
+      "meaning": "This bag comes in light and dark colours."
     },
     {
       "id": "cin2sik1-light-colour-example-4",
-      "sentence": "淺色鞋對襯你條裙。",
-      "jyutping": "cin2 sik1 haai4 deoi3 can3 nei5 tiu4 gwan1.",
-      "meaning": "Light-colored shoes match your skirt."
+      "sentence": "你鍾意淺色定深色？",
+      "jyutping": "nei5 zung1 ji3 cin2 sik1 ding6 sam1 sik1?",
+      "meaning": "Do you like light colours or dark colours?"
     }
   ],
   "audio": {
@@ -49,18 +48,18 @@
     ]
   },
   "tags": [
-    "clothing",
-    "colours",
-    "shopping",
+    "colour",
+    "shade",
+    "light colour",
     "everyday",
-    "style",
+    "shopping",
+    "describing things",
     "level-1"
   ],
   "related": [
-    "深色 (sam1 sik1) - dark colour",
-    "衣服 (ji1 fuk6) - clothes",
-    "衫 (saam1) - shirt",
-    "裙 (gwan1) - skirt",
-    "褲 (fu3) - pants"
+    "深色",
+    "淺藍色",
+    "淺啡色",
+    "顏色"
   ]
 }

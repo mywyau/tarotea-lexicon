@@ -3,40 +3,37 @@
   "word": "粉紅色",
   "jyutping": "fan2 hung4 sik1",
   "meaning": "pink",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "粉紅色 is used to name a color, specifically pink.",
-    "It acts as a noun when describing colors of objects or clothes.",
-    "In sentences, 粉紅色 can be a subject, object, or used after a verb to describe the color of something.",
-    "You can combine 粉紅色 with nouns like 衫 (clothes) or 褲 (pants) to specify the color of these items.",
-    "粉紅色 can also be combined with adjectives or used in comparisons to talk about shades or preferences."
+    "Use 粉紅色 to talk about the colour pink. Example: 呢條裙係粉紅色。",
+    "You can put 粉紅色 before a noun to describe something. Example: 我想要粉紅色嘅手機殼。",
+    "It is common in everyday talk for clothes, accessories, and objects. Example: 佢買咗對粉紅色波鞋。",
+    "You can also use it when choosing colours with someone. Example: 你鍾意粉紅色定藍色？"
   ],
   "examples": [
     {
       "id": "fan2hung4sik1-pink-example-1",
-      "sentence": "我買咗一件粉紅色嘅衫。",
-      "jyutping": "ngo5 maai5 zo2 jat1 gin6 fan2 hung4 sik1 ge3 saam1.",
-      "meaning": "I bought a pink shirt."
+      "sentence": "呢條裙係粉紅色。",
+      "jyutping": "ni1 tiu4 kwan4 hai6 fan2 hung4 sik1.",
+      "meaning": "This dress is pink."
     },
     {
       "id": "fan2hung4sik1-pink-example-2",
-      "sentence": "呢條裙係粉紅色，非常靚。",
-      "jyutping": "ni1 tiu4 kwan4 hai6 fan2 hung4 sik1, fei1 soeng4 leng3.",
-      "meaning": "This skirt is pink, very beautiful."
+      "sentence": "我想要粉紅色嘅手機殼。",
+      "jyutping": "ngo5 soeng2 jiu3 fan2 hung4 sik1 ge3 sau2 gei1 kok3.",
+      "meaning": "I want a pink phone case."
     },
     {
       "id": "fan2hung4sik1-pink-example-3",
-      "sentence": "你鍾意粉紅色定藍色？",
-      "jyutping": "nei5 zung1 ji3 fan2 hung4 sik1 ding6 laam4 sik1?",
-      "meaning": "Do you like pink or blue?"
+      "sentence": "佢買咗對粉紅色波鞋。",
+      "jyutping": "keoi5 maai5 zo2 deoi3 fan2 hung4 sik1 bo1 haai4.",
+      "meaning": "She bought a pair of pink sneakers."
     },
     {
       "id": "fan2hung4sik1-pink-example-4",
-      "sentence": "小朋友好鍾意粉紅色嘅玩具。",
-      "jyutping": "siu2 pang4 jau5 hou2 zung1 ji3 fan2 hung4 sik1 ge3 waan6 geoi6.",
-      "meaning": "Kids really like pink toys."
+      "sentence": "你鍾意粉紅色定藍色？",
+      "jyutping": "nei5 zung1 ji3 fan2 hung4 sik1 ding6 laam4 sik1?",
+      "meaning": "Do you like pink or blue?"
     }
   ],
   "audio": {
@@ -50,17 +47,11 @@
   },
   "tags": [
     "colour",
-    "clothing",
-    "shopping",
-    "basic",
-    "style",
+    "basic vocabulary",
+    "level 1",
+    "everyday language",
+    "describing objects",
     "level-1"
   ],
-  "related": [
-    "紅色",
-    "藍色",
-    "黃色",
-    "衫",
-    "裙"
-  ]
+  "related": ["紅色", "紫色", "白色", "藍色"]
 }

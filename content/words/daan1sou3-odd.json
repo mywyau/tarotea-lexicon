@@ -1,0 +1,65 @@
+{
+  "id": "daan1sou3-odd",
+  "word": "單數",
+  "jyutping": "daan1 sou3",
+  "meaning": "odd",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 單數 to talk about an odd number: 呢個數係單數。",
+    "It is often used with numbers in math: 1、3、5 都係單數。",
+    "You can also use it when comparing with 雙數: 7 係單數，8 係雙數。",
+    "In everyday speech, 單數 is a simple way to say an odd number: 呢條題入面，揀單數。"
+  ],
+  "examples": [
+    {
+      "id": "daan1sou3-odd-example-1",
+      "sentence": "1 係單數。",
+      "jyutping": "jat1 hai6 daan1 sou3.",
+      "meaning": "1 is odd."
+    },
+    {
+      "id": "daan1sou3-odd-example-2",
+      "sentence": "3 同 5 都係單數。",
+      "jyutping": "saam1 tung4 ng5 dou1 hai6 daan1 sou3.",
+      "meaning": "3 and 5 are both odd."
+    },
+    {
+      "id": "daan1sou3-odd-example-3",
+      "sentence": "呢條數要揀單數。",
+      "jyutping": "ni1 tiu4 sou3 jiu3 gaai2 daan1 sou3.",
+      "meaning": "You need to choose an odd number for this one."
+    },
+    {
+      "id": "daan1sou3-odd-example-4",
+      "sentence": "7 係單數，8 係雙數。",
+      "jyutping": "cat1 hai6 daan1 sou3, baat3 hai6 soeng1 sou3.",
+      "meaning": "7 is odd, 8 is even."
+    }
+  ],
+  "audio": {
+    "word": "daan1sou3-odd.mp3",
+    "examples": [
+      "daan1sou3-odd-example-1.mp3",
+      "daan1sou3-odd-example-2.mp3",
+      "daan1sou3-odd-example-3.mp3",
+      "daan1sou3-odd-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "number types",
+    "odd numbers",
+    "basic vocabulary",
+    "primary level",
+    "level-1"
+  ],
+  "related": [
+    "雙數",
+    "偶數",
+    "數字",
+    "奇數",
+    "數目"
+  ]
+}

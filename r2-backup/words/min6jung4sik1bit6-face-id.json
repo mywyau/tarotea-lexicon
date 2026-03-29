@@ -3,13 +3,11 @@
   "word": "面容識別",
   "jyutping": "min6 jung4 sik1 bit6",
   "meaning": "face recognition",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
     "Face recognition is used as a noun to refer to the technology that identifies a person's face.",
     "It often appears in sentences talking about phone or security features.",
-    "You can use it as the subject, for example: Face recognition improves phone security.",
+    "You can use it as the subject, for Example:  Face recognition improves phone security.",
     "It can also be the object: Many phones use face recognition for unlocking.",
     "In context, it usually takes singular form since it refers to one technology or feature."
   ],
@@ -56,11 +54,5 @@
     "mobile",
     "level-1"
   ],
-  "related": [
-    "指紋識別",
-    "解鎖",
-    "密碼",
-    "手機",
-    "生物認證"
-  ]
+  "related": ["指紋識別", "解鎖", "密碼", "手機", "生物認證"]
 }

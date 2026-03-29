@@ -2,30 +2,30 @@
   "id": "soeng6mei6ho2zi1-not-yet-known",
   "word": "尚未可知",
   "jyutping": "soeng6 mei6 ho2 zi1",
-  "meaning": "not yet known; still unknown; remains to be seen",
+  "meaning": "not yet known; still uncertain; remains to be seen",
   "pos": [
     "phrase",
     "formal expression"
   ],
   "usage": [
-    "This phrase is used to indicate that something is not yet known or remains uncertain.",
-    "It often appears in formal, written, or analytical contexts, especially when discussing future outcomes or unresolved situations.",
-    "It suggests that the answer or result has not yet become clear.",
-    "It is more common in formal writing or careful speech than in casual everyday Cantonese.",
+    "尚未可知 is a formal expression used to indicate that something is not yet known or still uncertain.",
+    "It often appears in written, analytical, or relatively formal contexts, especially when discussing future outcomes or unresolved situations.",
+    "It suggests that the answer, result, or development has not yet become clear.",
+    "It is much more common in formal writing or careful speech than in casual everyday Cantonese.",
     "It is often used for predictions, decisions, outcomes, or developments that are still uncertain."
   ],
   "examples": [
     {
       "id": "soeng6mei6ho2zi1-not-yet-known-example-1",
-      "sentence": "今次考試嘅結果尚未可知，大家都緊張緊。",
-      "jyutping": "gam1 ci3 haau2 si3 ge3 git3 gwo2 soeng6 mei6 ho2 zi1, daai6 gaa1 dou1 gan2 zoeng1 gan2.",
-      "meaning": "The results of this exam are still unknown, and everyone is nervous."
+      "sentence": "今次考試嘅結果尚未可知，大家都好緊張。",
+      "jyutping": "gam1 ci3 haau2 si3 ge3 git3 gwo2 soeng6 mei6 ho2 zi1, daai6 gaa1 dou1 hou2 gan2 zoeng1.",
+      "meaning": "The results of this exam are still unknown, and everyone is very nervous."
     },
     {
       "id": "soeng6mei6ho2zi1-not-yet-known-example-2",
       "sentence": "下星期嘅天氣尚未可知，而家仲好難講。",
       "jyutping": "haa6 sing1 kei4 ge3 tin1 hei3 soeng6 mei6 ho2 zi1, ji4 gaa1 zung6 hou2 naan4 gong2.",
-      "meaning": "Next week's weather is still unknown; it's hard to say right now."
+      "meaning": "Next week's weather is still uncertain; it's hard to say right now."
     },
     {
       "id": "soeng6mei6ho2zi1-not-yet-known-example-3",
@@ -58,10 +58,10 @@
     "level-10"
   ],
   "related": [
-    "未知",
-    "未定",
-    "未有定論",
-    "仲未知",
-    "難講"
+    "未知 (mei6 zi1) - unknown",
+    "未定 (mei6 ding6) - not yet decided",
+    "未有定論 (mei6 jau5 ding6 leon6) - no conclusion yet",
+    "仲未知 (zung6 mei6 zi1) - still don't know",
+    "難講 (naan4 gong2) - hard to say"
   ]
 }

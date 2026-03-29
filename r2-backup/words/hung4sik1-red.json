@@ -3,40 +3,37 @@
   "word": "紅色",
   "jyutping": "hung4 sik1",
   "meaning": "red",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "紅色 refers to the color red and can be used both as a noun and an adjective to describe something that is red in color.",
-    "When describing clothes or objects, 紅色 usually comes before the noun, e.g., 紅色衫 (red shirt).",
-    "It can also stand alone as a noun when talking about colors in general, e.g., 我鍾意紅色 (I like red).",
-    "紅色 is a basic color word, so it is often used in daily conversation about style, shopping, or describing things.",
-    "You can pair 紅色 with other descriptive words to form casual expressions, such as 深紅色 (dark red) or 淺紅色 (light red)."
+    "紅色係一個名詞，用嚟表示顏色；Example: 我鍾意紅色。",
+    "紅色可以直接放喺名詞前面，形容物件嘅顏色；Example: 紅色衫好襯你。",
+    "紅色常用嚟講明、熱鬧或者喜慶嘅感覺；Example: 佢買咗一張紅色咭。",
+    "紅色都可以用喺日常口語，講人哋見到嘅實物顏色；Example: 呢支筆係紅色。"
   ],
   "examples": [
     {
       "id": "hung4sik1-red-example-1",
-      "sentence": "我買咗一件紅色衫。",
-      "jyutping": "ngo5 maai5 zo2 jat1 gin6 hung4 sik1 saam1.",
-      "meaning": "I bought a red shirt."
+      "sentence": "我鍾意紅色。",
+      "jyutping": "ngo5 zung1 ji3 hung4 sik1.",
+      "meaning": "I like red."
     },
     {
       "id": "hung4sik1-red-example-2",
-      "sentence": "你鍾意紅色定係藍色？",
-      "jyutping": "nei5 zung1 ji3 hung4 sik1 ding6 hai6 laam4 sik1?",
-      "meaning": "Do you like red or blue?"
+      "sentence": "紅色衫好襯你。",
+      "jyutping": "hung4 sik1 saam1 hou2 can3 nei5.",
+      "meaning": "Red clothes suit you well."
     },
     {
       "id": "hung4sik1-red-example-3",
-      "sentence": "紅色好顯眼。",
-      "jyutping": "hung4 sik1 hou2 hin2 ngaan5.",
-      "meaning": "Red is very eye-catching."
+      "sentence": "佢買咗一張紅色咭。",
+      "jyutping": "keoi5 maai5 zo2 jat1 zoeng1 hung4 sik1 kaat1.",
+      "meaning": "He/She bought a red card."
     },
     {
       "id": "hung4sik1-red-example-4",
-      "sentence": "呢條裙係紅色嘅。",
-      "jyutping": "ni1 tiu4 kwan4 hai6 hung4 sik1 ge3.",
-      "meaning": "This skirt is red."
+      "sentence": "呢支筆係紅色。",
+      "jyutping": "ni1 zi1 bat1 hai6 hung4 sik1.",
+      "meaning": "This pen is red."
     }
   ],
   "audio": {
@@ -49,18 +46,13 @@
     ]
   },
   "tags": [
-    "color",
-    "clothing",
-    "shopping",
-    "basic vocabulary",
-    "style",
+    "basic colour",
+    "colour",
+    "noun",
+    "everyday",
+    "beginner",
+    "describing things",
     "level-1"
   ],
-  "related": [
-    "藍色",
-    "黑色",
-    "白色",
-    "衣服",
-    "裙"
-  ]
+  "related": ["紅", "白色", "藍色", "綠色", "黃色"]
 }

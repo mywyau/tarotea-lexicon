@@ -3,40 +3,37 @@
   "word": "白色",
   "jyutping": "baak6 sik1",
   "meaning": "white",
-  "pos": [
-    "noun",
-    "adjective"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "白色 (white) can be used as a noun to refer to the color white.",
-    "It can also function as an adjective to describe something that is white in color.",
-    "When using 白色 as an adjective, it usually appears before the noun it modifies.",
-    "In Cantonese, the color 白色 can describe clothing, objects, or even abstract things like paper or snow."
+    "Use 白色 to talk about the colour white. Example:  呢件衫係白色。",
+    "It often comes before a noun to describe something’s colour. Example:  白色鞋好襯。",
+    "You can use it in everyday conversation for clothes, objects, and animals. Example:  我鍾意白色杯。",
+    "It can also be used in fixed colour expressions. Example:  白色牆身睇落好光。"
   ],
   "examples": [
     {
       "id": "baak6sik1-white-example-1",
-      "sentence": "我鍾意穿白色衫。",
-      "jyutping": "ngo5 zung1 ji3 cyun1 baak6 sik1 saam1.",
-      "meaning": "I like to wear white shirts."
+      "sentence": "呢件衫係白色。",
+      "jyutping": "ni1 gin6 saam1 hai6 baak6 sik1.",
+      "meaning": "This shirt is white."
     },
     {
       "id": "baak6sik1-white-example-2",
-      "sentence": "呢條裙係白色嘅。",
-      "jyutping": "ni1 tiu4 kwan4 hai6 baak6 sik1 ge3.",
-      "meaning": "This skirt is white."
+      "sentence": "我鍾意白色杯。",
+      "jyutping": "ngo5 zung1 ji3 baak6 sik1 bui1.",
+      "meaning": "I like white cups."
     },
     {
       "id": "baak6sik1-white-example-3",
-      "sentence": "白色嘅紙張好容易見到污漬。",
-      "jyutping": "baak6 sik1 ge3 zi2 zoeng1 hou2 jung4 ji6 gin3 dou3 wu1 zik1.",
-      "meaning": "White paper shows dirt very easily."
+      "sentence": "白色鞋好襯。",
+      "jyutping": "baak6 sik1 haai4 hou2 can3.",
+      "meaning": "White shoes match well."
     },
     {
       "id": "baak6sik1-white-example-4",
-      "sentence": "佢買咗件白色外套。",
-      "jyutping": "keoi5 maai5 zo2 gin6 baak6 sik1 ngoi6 tou3.",
-      "meaning": "He bought a white jacket."
+      "sentence": "白色牆身睇落好光。",
+      "jyutping": "baak6 sik1 coeng4 san1 tai2 lok6 hou2 gwong1.",
+      "meaning": "The white wall looks bright."
     }
   ],
   "audio": {
@@ -50,17 +47,11 @@
   },
   "tags": [
     "colour",
-    "clothing",
-    "basic",
-    "adjective",
-    "noun",
+    "basic vocabulary",
+    "describing things",
+    "everyday use",
+    "level 1",
     "level-1"
   ],
-  "related": [
-    "黑色",
-    "紅色",
-    "藍色",
-    "衫",
-    "裙"
-  ]
+  "related": ["白", "黑色", "灰色", "顏色"]
 }

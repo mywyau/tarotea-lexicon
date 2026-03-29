@@ -4,51 +4,74 @@ from pathlib import Path
 from openai import OpenAI
 
 LIMIT = 200
+MODEL = "gpt-5.4-mini"
+REASONING_EFFORT = "low"   # try "none" for faster/cheaper, "medium" if quality needs help
+
 print("🚀 generate_level_word_data.py started")
 
 SYSTEM_PROMPT = """
 You are a professional Hong Kong Cantonese linguist and language teacher.
 
-Requirements:
+Rules:
+- Use natural spoken Hong Kong Cantonese
 - Use the provided jyutping as canonical
-- In english generate four or five sentences on grammatical usage of the word in the Usage field section, please translate to english and no chinese in this section.
-- Generate exactly 4 example sentences of using the word in different contexts
-- Generate learner-friendly tags
-- Generate 3–5 related common Cantonese words
-
-Return JSON in this exact format (no extra fields):
-
-{{
-  "pos": [],
-  "usage": [],
-  "examples": [
-    {{
-      "sentence": "",
-      "jyutping": "",
-      "meaning": ""
-    }}
-  ],
-  "tags": [],
-  "related": []
-}}
-
-With filename = <id>.json
+- Jyutping must be accurate and include tone numbers
+- This may be a phrase, idiom, discourse marker, connector, particle, or expression
+- Usage notes must be in English only
+- No Chinese characters inside usage notes
+- Example sentences should be natural, spoken, practical, and everyday
+- Avoid textbook-style phrasing
+- Output must match the provided JSON schema exactly
 """
+
+SCHEMA = {
+    "type": "object",
+    "properties": {
+        "pos": {
+            "type": "array",
+            "items": {"type": "string"},
+            "minItems": 1
+        },
+        "usage": {
+            "type": "array",
+            "items": {"type": "string"},
+            "minItems": 4,
+            "maxItems": 5
+        },
+        "examples": {
+            "type": "array",
+            "minItems": 4,
+            "maxItems": 4,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "sentence": {"type": "string"},
+                    "jyutping": {"type": "string"},
+                    "meaning": {"type": "string"}
+                },
+                "required": ["sentence", "jyutping", "meaning"],
+                "additionalProperties": False
+            }
+        },
+        "tags": {
+            "type": "array",
+            "items": {"type": "string"}
+        },
+        "related": {
+            "type": "array",
+            "items": {"type": "string"},
+            "minItems": 3,
+            "maxItems": 5
+        }
+    },
+    "required": ["pos", "usage", "examples", "tags", "related"],
+    "additionalProperties": False
+}
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 LEVEL_FILE = Path("content/levels/level-ten.json")
 OUT_DIR = Path("content/levels/generated")
-
-
-def extract_json(text: str) -> str:
-    text = text.strip()
-    if "```" in text:
-        text = text.split("```", 2)[1]
-
-    start = text.find("{")
-    end = text.rfind("}") + 1
-    return text[start:end]
 
 
 def build_prompt(job):
@@ -65,49 +88,32 @@ Jyutping: {job["jyutping"]}
 Requirements:
 - Use provided jyutping as canonical
 - This may be a phrase, idiom, or discourse marker
-- POS should be: phrase, idiom, connector, particle, expression
-
-Usage:
-- 4–5 English-only learner notes
-- No Chinese characters inside usage notes
-
-Examples:
-- Exactly 4 natural spoken Cantonese sentences
-
-Return STRICT JSON only:
-
-{{
-  "pos": [],
-  "usage": [],
-  "examples": [
-    {{
-      "sentence": "",
-      "jyutping": "",
-      "meaning": ""
-    }}
-  ],
-  "tags": [],
-  "related": []
-}}
+- POS should be chosen from these when appropriate:
+  phrase, idiom, connector, particle, expression
+- Usage:
+  - 4–5 English-only learner notes
+  - No Chinese characters inside usage notes
+- Examples:
+  - Exactly 4 natural spoken Cantonese sentences
+- Related:
+  - 3–5 related common Cantonese words or expressions
+- Tags:
+  - learner-friendly tags
 """
 
 
-# Load level file
 with open(LEVEL_FILE, "r", encoding="utf-8") as f:
     level_data = json.load(f)
 
 level_number = level_data["level"]
-
 count = 0
 
 for category, items in level_data["categories"].items():
     for entry in items:
-
         if count >= LIMIT:
             break
 
         count += 1
-
         word_id = entry["id"]
 
         out_dir = OUT_DIR / f"level-{level_number}" / category
@@ -125,27 +131,34 @@ for category, items in level_data["categories"].items():
             "id": word_id,
             "word": entry["word"],
             "meaning": entry["meaning"],
-            "jyutping": entry["jyutping"]
+            "jyutping": entry["jyutping"],
         }
 
         prompt = build_prompt(job)
 
-        response = client.responses.create(
-            model="gpt-4.1-mini",
-            input=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt}
-            ]
-        )
-
-        raw_text = response.output_text
-        json_text = extract_json(raw_text)
-
         try:
-            generated = json.loads(json_text)
-        except json.JSONDecodeError:
-            print("❌ JSON parse failed:", entry["word"])
-            print(raw_text)
+            response = client.responses.create(
+                model=MODEL,
+                reasoning={"effort": REASONING_EFFORT},
+                max_output_tokens=1400,
+                input=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": prompt},
+                ],
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "advanced_cantonese_expression_data",
+                        "schema": SCHEMA,
+                        "strict": True,
+                    }
+                },
+            )
+
+            generated = json.loads(response.output_text)
+
+        except Exception as e:
+            print(f"❌ Failed for {entry['word']}: {e}")
             continue
 
         final_json = {
@@ -160,7 +173,7 @@ for category, items in level_data["categories"].items():
                     "id": f"{word_id}-example-{i+1}",
                     "sentence": ex["sentence"],
                     "jyutping": ex["jyutping"],
-                    "meaning": ex["meaning"]
+                    "meaning": ex["meaning"],
                 }
                 for i, ex in enumerate(generated["examples"])
             ],
@@ -169,10 +182,10 @@ for category, items in level_data["categories"].items():
                 "examples": [
                     f"{word_id}-example-{i+1}.mp3"
                     for i in range(len(generated["examples"]))
-                ]
+                ],
             },
             "tags": generated["tags"] + [f"level-{level_number}"],
-            "related": generated["related"]
+            "related": generated["related"],
         }
 
         with open(out_path, "w", encoding="utf-8") as f:

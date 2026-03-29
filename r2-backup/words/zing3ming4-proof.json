@@ -2,29 +2,30 @@
   "id": "zing3ming4-proof",
   "word": "證明",
   "jyutping": "zing3 ming4",
-  "meaning": "proof",
+  "meaning": "proof; certificate; to prove",
   "pos": [
-    "noun"
+    "noun",
+    "verb"
   ],
   "usage": [
-    "The word '證明' is used as a noun meaning 'proof' or 'evidence'.",
-    "'證明' can refer to physical documents or actions that demonstrate truth.",
-    "It is often used in formal or academic contexts to show that something has been verified.",
-    "You can combine '證明' with verbs like '提供' (to provide) or '要求' (to request) to talk about giving or needing proof.",
-    "It can also imply the result of proving something, as in presenting scientific or logical evidence."
+    "證明 can be used as both a noun and a verb in Cantonese.",
+    "As a noun, it can mean proof, evidence, or a certificate used to show that something is true.",
+    "As a verb, it means to prove or show that something is true.",
+    "It is commonly used in formal, academic, legal, and administrative contexts.",
+    "Common phrases include 身份證明 (proof of identity), 提供證明 (provide proof), and 證明理論 (prove a theory)."
   ],
   "examples": [
     {
       "id": "zing3ming4-proof-example-1",
-      "sentence": "你要帶身分證作為證明。",
-      "jyutping": "nei5 jiu3 daai3 san1 fan6 zing3 zok3 wai6 zing3 ming4.",
-      "meaning": "You need to bring an ID card as proof."
+      "sentence": "你要帶身份證作為證明。",
+      "jyutping": "nei5 jiu3 daai3 san1 fan6 zing3 zok3 wai4 zing3 ming4.",
+      "meaning": "You need to bring your ID card as proof."
     },
     {
       "id": "zing3ming4-proof-example-2",
-      "sentence": "這篇文章裡有清楚的證明。",
-      "jyutping": "ze5 pin1 man4 zoeng1 leoi5 jau5 cing1 co2 dik1 zing3 ming4.",
-      "meaning": "This article contains clear proof."
+      "sentence": "佢攞出收據作為證明。",
+      "jyutping": "keoi5 lo2 ceot1 sau1 geoi3 zok3 wai4 zing3 ming4.",
+      "meaning": "He took out the receipt as proof."
     },
     {
       "id": "zing3ming4-proof-example-3",
@@ -34,9 +35,9 @@
     },
     {
       "id": "zing3ming4-proof-example-4",
-      "sentence": "法庭需要證明被告的罪行。",
-      "jyutping": "faat3 teng4 seoi1 jiu3 zing3 ming4 bei6 gou3 dik1 zeoi6 hang4.",
-      "meaning": "The court needs proof of the defendant's crime."
+      "sentence": "法庭需要證明被告有罪。",
+      "jyutping": "faat3 ting4 seoi1 jiu3 zing3 ming4 bei6 gou3 jau5 zeoi6.",
+      "meaning": "The court needs to prove that the defendant is guilty."
     }
   ],
   "audio": {
@@ -57,10 +58,10 @@
     "level-1"
   ],
   "related": [
-    "証據",
-    "證實",
-    "驗證",
-    "理論",
-    "實驗"
+    "證據 (zing3 geoi3) - evidence",
+    "證實 (zing3 sat6) - confirm",
+    "驗證 (jim6 zing3) - verify",
+    "理論 (lei5 leon6) - theory",
+    "實驗 (sat6 jim6) - experiment"
   ]
 }

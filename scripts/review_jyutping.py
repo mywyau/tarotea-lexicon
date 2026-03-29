@@ -191,7 +191,7 @@ def review_file(file_path: Path) -> dict:
             if ex_review["decision"] != "approved":
                 example_id = ex_review["id"]
                 issues.append({
-                    "path": f"example:{example_id}",
+                    "path": f"Example: {example_id}",
                     "decision": ex_review["decision"],
                     "reason": ex_review["reason"],
                     "currentValue": example_lookup.get(example_id, ""),

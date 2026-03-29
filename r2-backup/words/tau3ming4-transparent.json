@@ -7,36 +7,35 @@
     "adjective"
   ],
   "usage": [
-    "The word 透明 (tau3 ming4) is an adjective, used to describe something that is clear or see-through.",
-    "You can use 透明 to talk about objects like glass, water, or plastic bottles when you want to say you can see through them.",
-    "In sentences, 透明 can be placed before a noun to describe its quality, such as 透明膠袋 (transparent plastic bag).",
-    "It can also describe abstract things, like 透明流程 (transparent process), meaning clear and open.",
-    "When used in negative form, e.g., 唔透明 (not transparent), it means something is not see-through or not clear."
+    "Use 透明 to describe something that you can see through, like glass or plastic.",
+    "It can also describe a clear, honest way of doing things, like 透明公開.",
+    "As an adjective, 透明 usually comes before the noun, for example 透明膠片.",
+    "It is common in everyday speech and writing, especially for materials, colours, and business or government openness."
   ],
   "examples": [
     {
       "id": "tau3ming4-transparent-example-1",
-      "sentence": "呢個水樽係透明嘅。",
-      "jyutping": "ni1 go3 seoi2 syun1 hai6 tau3 ming4 ge3.",
-      "meaning": "This water bottle is transparent."
+      "sentence": "呢個膠袋係透明㗎。",
+      "jyutping": "ni1 go3 gaau1 doi2 hai6 tau3 ming4 gaa3.",
+      "meaning": "This plastic bag is transparent."
     },
     {
       "id": "tau3ming4-transparent-example-2",
-      "sentence": "我鍾意用透明嘅膠袋裝嘢。",
-      "jyutping": "ngo5 zung1 ji3 jung6 tau3 ming4 ge3 gaau1 doi2 zong1 je5.",
-      "meaning": "I like using transparent plastic bags to hold things."
+      "sentence": "個杯係透明玻璃整嘅。",
+      "jyutping": "go3 bui1 hai6 tau3 ming4 bo1 lei4 zing2 ge3.",
+      "meaning": "The cup is made of transparent glass."
     },
     {
       "id": "tau3ming4-transparent-example-3",
-      "sentence": "呢份報告內容好透明。",
-      "jyutping": "ni1 fan6 bou3 gou3 noi6 jung4 hou2 tau3 ming4.",
-      "meaning": "The content of this report is very transparent."
+      "sentence": "佢想買一塊透明貼紙。",
+      "jyutping": "keoi5 soeng2 maai5 jat1 faai3 tau3 ming4 tip3 zi2.",
+      "meaning": "He wants to buy a transparent sticker."
     },
     {
       "id": "tau3ming4-transparent-example-4",
-      "sentence": "玻璃杯係透明嘅，所以睇到飲品。",
-      "jyutping": "bo1 lei4 bui1 hai6 tau3 ming4 ge3, so2 ji5 tai2 dou3 jam2 ban2.",
-      "meaning": "Glass cups are transparent, so you can see the drinks."
+      "sentence": "公司做事要透明啲。",
+      "jyutping": "gung1 si1 zou6 si6 jiu3 tau3 ming4 di1.",
+      "meaning": "The company should be more transparent in its work."
     }
   ],
   "audio": {
@@ -49,18 +48,19 @@
     ]
   },
   "tags": [
-    "material",
-    "property",
-    "description",
+    "colour-related",
+    "describing materials",
+    "everyday adjective",
+    "transparent",
     "clear",
-    "see-through",
+    "honest",
     "level-1"
   ],
   "related": [
-    "玻璃 (bo1 lei4 - glass)",
-    "水樽 (seoi2 syun1 - water bottle)",
-    "膠袋 (gaau1 doi2 - plastic bag)",
-    "清楚 (cing1 co2 - clear)",
-    "透明度 (tau3 ming4 dou6 - transparency)"
+    "清楚",
+    "玻璃",
+    "膠片",
+    "半透明",
+    "透明度"
   ]
 }

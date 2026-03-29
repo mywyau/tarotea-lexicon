@@ -13,7 +13,7 @@
     "lowConfidence": true,
     "issues": [
       {
-        "path": "example:aa2ling4-dumbbell-example-3",
+        "path": "Example: aa2ling4-dumbbell-example-3",
         "decision": "needs_manual_review",
         "reason": "Understandable, but \"握啞鈴嘅方式\" feels slightly stiff and somewhat influenced by written/translated wording. A Cantonese speaker might more naturally say something like \"點樣握啞鈴\" or \"攞啞鈴嘅姿勢\" depending on context. Also, \"dumbbells\" in the English meaning sounds plural, while the Chinese sentence could be read more generically.",
         "currentSentence": "你識唔識正確握啞鈴嘅方式？",
@@ -25,7 +25,7 @@
         "confidence": 0.7
       },
       {
-        "path": "example:aa2ling4-dumbbell-example-4",
+        "path": "Example: aa2ling4-dumbbell-example-4",
         "decision": "likely_unnatural",
         "reason": "The sentence is awkward because \"佢用啞鈴鍛鍊肌肉，好健康\" creates a weak or odd link between using dumbbells and \"being very healthy.\" Native Cantonese would more naturally describe him as doing exercise, getting fitter, or becoming healthier, rather than simply stating \"鍛鍊肌肉，好健康\" in this way. The English meaning also over-interprets the sentence.",
         "currentSentence": "佢用啞鈴鍛鍊肌肉，好健康。",
@@ -59,7 +59,7 @@
     "lowConfidence": true,
     "issues": [
       {
-        "path": "example:aa3ji5kap6lei6aa3-algeria-example-1",
+        "path": "Example: aa3ji5kap6lei6aa3-algeria-example-1",
         "decision": "needs_manual_review",
         "reason": "句子本身可以理解，但講『阿爾及利亞今年天氣幾好』有少少籠統，同日常廣東話感覺略怪，似直譯或教材句。唔算明顯錯，但自然度略有疑問。",
         "currentSentence": "阿爾及利亞今年天氣幾好。",
@@ -79,7 +79,7 @@
     "lowConfidence": false,
     "issues": [
       {
-        "path": "example:aa3maa1-mum-colloquial-example-4",
+        "path": "Example: aa3maa1-mum-colloquial-example-4",
         "decision": "likely_unnatural",
         "reason": "This sounds awkward in Cantonese because 好好味 normally describes the food itself, not directly 阿媽煮嘢食 as an action. A native speaker would more naturally say 阿媽煮嘅嘢食好好味 or 阿媽煮嘢食煮得好好味.",
         "currentSentence": "阿媽煮嘢食好好味。",
@@ -120,7 +120,7 @@
     "lowConfidence": false,
     "issues": [
       {
-        "path": "example:au3-vomit-example-4",
+        "path": "Example: au3-vomit-example-4",
         "decision": "likely_unnatural",
         "reason": "「有嘔嘅情況」 sounds awkward and somewhat non-native with the colloquial verb 「嘔」. A Cantonese speaker would more naturally say 「如果嘔」 or use the more formal noun-like 「嘔吐」 with 「情況」.",
         "currentSentence": "喺旅行期間，如果有嘔嘅情況，要即刻搵醫生。",

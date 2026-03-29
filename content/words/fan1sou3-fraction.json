@@ -1,0 +1,65 @@
+{
+  "id": "fan1sou3-fraction",
+  "word": "分數",
+  "jyutping": "fan1 sou3",
+  "meaning": "fraction",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "「分數」係名詞，通常指數學入面嘅fraction，例如 1/2、3/4。",
+    "講成績嗰陣，「分數」可以指 exam score，例如「我攞咗九十分」。",
+    "「分數」前面可以加量詞或數字去講具體比例，例如「三分之一」。",
+    "日常講法入面，可以話「呢條題要化成分數」或者「我唔識做分數題」。"
+  ],
+  "examples": [
+    {
+      "id": "fan1sou3-fraction-example-1",
+      "sentence": "呢題要化成分數。",
+      "jyutping": "ni1 tai4 jiu3 faa3 sing4 fan1 sou3.",
+      "meaning": "This question needs to be written as a fraction."
+    },
+    {
+      "id": "fan1sou3-fraction-example-2",
+      "sentence": "我數學成績得六十分。",
+      "jyutping": "ngo5 sou2 hok6 sing4 zik1 dak1 luk6 sap6 fan1.",
+      "meaning": "I only got 60 in math."
+    },
+    {
+      "id": "fan1sou3-fraction-example-3",
+      "sentence": "佢答對咗三分之二。",
+      "jyutping": "keoi5 daap3 deoi3 zo2 saam1 fan1 zi1 ji6.",
+      "meaning": "He got two-thirds correct."
+    },
+    {
+      "id": "fan1sou3-fraction-example-4",
+      "sentence": "老師教我哋睇分數大小。",
+      "jyutping": "lou5 si1 gaau3 ngo5 dei6 tai2 fan1 sou3 daai6 siu2.",
+      "meaning": "The teacher taught us how to compare fractions."
+    }
+  ],
+  "audio": {
+    "word": "fan1sou3-fraction.mp3",
+    "examples": [
+      "fan1sou3-fraction-example-1.mp3",
+      "fan1sou3-fraction-example-2.mp3",
+      "fan1sou3-fraction-example-3.mp3",
+      "fan1sou3-fraction-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "number",
+    "fraction",
+    "exam score",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "百分比",
+    "小數",
+    "比例",
+    "分子",
+    "分母"
+  ]
+}

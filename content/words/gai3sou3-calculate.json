@@ -1,0 +1,66 @@
+{
+  "id": "gai3sou3-calculate",
+  "word": "計數",
+  "jyutping": "gai3 sou3",
+  "meaning": "calculate",
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "usage": [
+    "Usually means counting or calculating; e.g. 你幫我計數，睇吓呢條數啱唔啱。",
+    "Can refer to doing math in daily life; e.g. 我而家喺度計數，等我一陣。",
+    "Often used when checking money or bills; e.g. 你計數未？我想知要畀幾多。",
+    "Can also mean figuring out something with your head; e.g. 我計數都唔叻，要慢慢睇。"
+  ],
+  "examples": [
+    {
+      "id": "gai3sou3-calculate-example-1",
+      "sentence": "你幫我計數，睇吓啱唔啱。",
+      "jyutping": "nei5 bong1 ngo5 gai3 sou3, tai2 haa5 ngaam1 m4 ngaam1.",
+      "meaning": "Help me calculate it and see if it’s right."
+    },
+    {
+      "id": "gai3sou3-calculate-example-2",
+      "sentence": "我而家喺度計數。",
+      "jyutping": "ngo5 ji4 gaa1 hai2 dou6 gai3 sou3.",
+      "meaning": "I’m calculating now."
+    },
+    {
+      "id": "gai3sou3-calculate-example-3",
+      "sentence": "你計數未？",
+      "jyutping": "nei5 gai3 sou3 mei6?",
+      "meaning": "Have you calculated it yet?"
+    },
+    {
+      "id": "gai3sou3-calculate-example-4",
+      "sentence": "呢條問題好難計數。",
+      "jyutping": "ni1 tiu4 man6 tai4 hou2 naan4 gai3 sou3.",
+      "meaning": "This problem is hard to calculate."
+    }
+  ],
+  "audio": {
+    "word": "gai3sou3-calculate.mp3",
+    "examples": [
+      "gai3sou3-calculate-example-1.mp3",
+      "gai3sou3-calculate-example-2.mp3",
+      "gai3sou3-calculate-example-3.mp3",
+      "gai3sou3-calculate-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "basic vocabulary",
+    "daily use",
+    "calculation",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "加數",
+    "減數",
+    "乘數",
+    "除數",
+    "算數"
+  ]
+}

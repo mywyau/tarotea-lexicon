@@ -3,22 +3,20 @@
   "word": "短褲",
   "jyutping": "dyun2 fu3",
   "meaning": "shorts",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "Shorts as a noun refers to a type of clothing worn usually during warm weather.",
-    "You can use 'shorts' to talk about specific types, colors, or styles, for example, 'red shorts' or 'cotton shorts'.",
-    "'Shorts' are generally worn on the lower half of the body, covering from the waist to above the knees.",
-    "In conversations, 'shorts' can be used with verbs such as 'wear', 'buy', or 'take off'.",
-    "When plural, the word 'shorts' does not usually change form, but the context shows you are talking about them."
+    "短褲 is a noun meaning shorts.",
+    "It refers to trousers that end above the knee or around the knee.",
+    "It is commonly used when talking about summer clothes, casual wear, sport, or shopping.",
+    "短褲 is often used with verbs such as 著 (to wear), 買 (to buy), and 帶 (to bring).",
+    "You can describe 短褲 by color, material, or style, for Example:  白色短褲 (white shorts) or 牛仔短褲 (denim shorts)."
   ],
   "examples": [
     {
       "id": "dyun2fu3-shorts-example-1",
-      "sentence": "今天天氣好熱，我着左短褲。",
-      "jyutping": "gam1 tin1 tin1 hei3 hou2 jit6, ngo5 zoek3 zo2 dyun2 fu3.",
-      "meaning": "It's very hot today, I am wearing shorts."
+      "sentence": "今日天氣好熱，我著咗短褲。",
+      "jyutping": "gam1 jat6 tin1 hei3 hou2 jit6, ngo5 zoek3 zo2 dyun2 fu3.",
+      "meaning": "It's very hot today, so I'm wearing shorts."
     },
     {
       "id": "dyun2fu3-shorts-example-2",
@@ -28,9 +26,9 @@
     },
     {
       "id": "dyun2fu3-shorts-example-3",
-      "sentence": "去沙灘，記得帶短褲同泳衣。",
-      "jyutping": "heoi3 saa1 taan1, gei3 dak1 daai3 dyun2 fu3 tung4 wing6 ji1.",
-      "meaning": "Going to the beach, remember to bring shorts and swimsuit."
+      "sentence": "去沙灘記得帶短褲同泳衣。",
+      "jyutping": "heoi3 saa1 taan1 gei3 dak1 daai3 dyun2 fu3 tung4 wing6 ji1.",
+      "meaning": "If you're going to the beach, remember to bring shorts and swimwear."
     },
     {
       "id": "dyun2fu3-shorts-example-4",
@@ -57,10 +55,10 @@
     "level-1"
   ],
   "related": [
-    "長褲",
-    "泳衣",
-    "T恤",
-    "裙",
-    "鞋"
+    "長褲 (coeng4 fu3) - trousers",
+    "泳衣 (wing6 ji1) - swimwear",
+    "T恤 (ti1 seot1) - T-shirt",
+    "裙 (kwan4) - skirt",
+    "鞋 (haai4) - shoes"
   ]
 }

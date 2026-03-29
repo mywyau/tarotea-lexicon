@@ -198,7 +198,7 @@ def review_file(file_path: Path) -> dict:
                 current_example = example_lookup.get(example_id, {})
 
                 issues.append({
-                    "path": f"example:{example_id}",
+                    "path": f"Example: {example_id}",
                     "decision": ex_review["decision"],
                     "reason": ex_review["reason"],
                     "currentSentence": current_example.get("sentence", ""),

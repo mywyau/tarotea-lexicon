@@ -4,40 +4,38 @@
   "jyutping": "gam1 sik1",
   "meaning": "gold",
   "pos": [
-    "noun",
-    "adjective"
+    "noun"
   ],
   "usage": [
-    "The word '金色' can be used as a noun to refer to the color gold itself.",
-    "It can also function as an adjective to describe something that has a gold color.",
-    "When used as an adjective, '金色' usually comes before the noun it describes, e.g., 金色衣服 (gold-colored clothes).",
-    "It can be used in everyday contexts like describing fashion, accessories, decorations, or natural objects.",
-    "In Cantonese, '金色' is often used for both literal references to the color and figurative expressions related to wealth or quality."
+    "Use 金色 to describe something that is gold-coloured or has a golden shine. 佢隻戒指係金色。",
+    "It is common with objects, clothes, and decorations. 呢條裙係金色。",
+    "You can use it for real gold or for a gold-like colour. 呢個獎盃係金色嘅。",
+    "It is often used in everyday speech to talk about a bright, rich colour tone. 夕陽睇落好金色。"
   ],
   "examples": [
     {
       "id": "gam1sik1-gold-example-1",
-      "sentence": "我鍾意你條金色頸鍊。",
-      "jyutping": "ngo5 zung1 ji3 nei5 tiu4 gam1 sik1 geng2 lin2",
-      "meaning": "I like your gold necklace."
+      "sentence": "佢隻戒指係金色。",
+      "jyutping": "keoi5 zek3 gaai3zi2 hai6 gam1sik1.",
+      "meaning": "Her ring is gold-coloured."
     },
     {
       "id": "gam1sik1-gold-example-2",
-      "sentence": "嗰件衫係金色，好靚呀！",
-      "jyutping": "go2 gin6 saam1 hai6 gam1 sik1, hou2 leng3 aa3",
-      "meaning": "That shirt is gold-colored, very pretty!"
+      "sentence": "呢條裙係金色。",
+      "jyutping": "ni1 tiu4 kwan4 hai6 gam1sik1.",
+      "meaning": "This dress is gold."
     },
     {
       "id": "gam1sik1-gold-example-3",
-      "sentence": "新年我買咗一對金色耳環。",
-      "jyutping": "san1 nin4 ngo5 maai5 zo2 jat1 deoi3 gam1 sik1 ji5 waan4",
-      "meaning": "I bought a pair of gold earrings for the New Year."
+      "sentence": "呢個獎盃係金色嘅。",
+      "jyutping": "ni1 go3 zoeng2bui1 hai6 gam1sik1 ge3.",
+      "meaning": "This trophy is gold-coloured."
     },
     {
       "id": "gam1sik1-gold-example-4",
-      "sentence": "屋企掛咗幅金色嘅畫。",
-      "jyutping": "uk1 kei2 gwaa3 zo2 fuk1 gam1 sik1 ge3 waa2",
-      "meaning": "There is a gold-colored painting hanging at home."
+      "sentence": "夕陽睇落好金色。",
+      "jyutping": "zik6joeng4 tai2 lok6 hou2 gam1sik1.",
+      "meaning": "The sunset looks very golden."
     }
   ],
   "audio": {
@@ -50,18 +48,17 @@
     ]
   },
   "tags": [
-    "color",
-    "style",
-    "fashion",
-    "accessories",
-    "clothing",
+    "colours",
+    "shades and tones",
+    "basic vocabulary",
+    "everyday speech",
+    "describing appearance",
     "level-1"
   ],
   "related": [
-    "黃色 (wong4 sik1) - yellow",
-    "銀色 (ngan4 sik1) - silver",
-    "紅色 (hung4 sik1) - red",
-    "衫 (saam1) - clothes",
-    "飾物 (sik1 mat6) - accessories"
+    "黃色",
+    "銀色",
+    "銅色",
+    "金"
   ]
 }

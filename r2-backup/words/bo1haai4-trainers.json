@@ -2,23 +2,21 @@
   "id": "bo1haai4-trainers",
   "word": "波鞋",
   "jyutping": "bo1 haai4",
-  "meaning": "trainers",
-  "pos": [
-    "noun"
-  ],
+  "meaning": "trainers; sneakers",
+  "pos": ["noun"],
   "usage": [
-    "波鞋 are commonly used to refer to casual sports shoes or trainers in Hong Kong Cantonese.",
-    "You can use 波鞋 to talk about the shoes you wear for running, exercising, or casual outings.",
-    "When asking about or buying 波鞋, people usually discuss style, comfort, and brand.",
-    "The word 波鞋 is a noun, so it can be used as the subject or object in a sentence.",
-    "You can add adjectives before 波鞋 to describe the type or color of trainers."
+    "波鞋 is a common Hong Kong Cantonese word for trainers or sneakers.",
+    "It usually refers to casual or sports shoes worn for walking, exercise, or everyday outings.",
+    "In conversation, people often talk about 波鞋 in terms of comfort, style, color, or brand.",
+    "波鞋 is a noun and can be used as either the subject or object of a sentence.",
+    "Measure words such as 對 are commonly used with 波鞋, for Example:  一對波鞋 (a pair of trainers)."
   ],
   "examples": [
     {
       "id": "bo1haai4-trainers-example-1",
-      "sentence": "我新買咗對波鞋，好舒服。",
-      "jyutping": "ngo5 san1 maai5 zo2 deoi3 bo1 haai4, hou2 syu1 fuk6.",
-      "meaning": "I bought a new pair of trainers, very comfortable."
+      "sentence": "我買咗對新波鞋，好舒服。",
+      "jyutping": "ngo5 maai5 zo2 deoi3 san1 bo1 haai4, hou2 syu1 fuk6.",
+      "meaning": "I bought a new pair of trainers. They're very comfortable."
     },
     {
       "id": "bo1haai4-trainers-example-2",
@@ -28,9 +26,9 @@
     },
     {
       "id": "bo1haai4-trainers-example-3",
-      "sentence": "佢成日著住波鞋去跑步。",
-      "jyutping": "keoi5 seng4 jat6 zoek3 zyu6 bo1 haai4 heoi3 paau2 bou6.",
-      "meaning": "He always wears trainers to go running."
+      "sentence": "佢成日著波鞋去跑步。",
+      "jyutping": "keoi5 seng4 jat6 zoek3 bo1 haai4 heoi3 paau2 bou6.",
+      "meaning": "He always wears trainers when going for a run."
     },
     {
       "id": "bo1haai4-trainers-example-4",
@@ -57,10 +55,10 @@
     "level-1"
   ],
   "related": [
+    "鞋 (haai4) - shoes",
     "衣服 (ji1 fuk6) - clothes",
-    "褲 (fu3) - pants",
-    "帽 (mou2) - hat",
     "襪 (mat6) - socks",
-    "手袋 (sau2 doi2) - handbag"
+    "拖鞋 (to1 haai4) - slippers",
+    "涼鞋 (loeng4 haai4) - sandals"
   ]
 }

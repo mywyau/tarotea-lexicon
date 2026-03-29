@@ -1,0 +1,59 @@
+{
+  "id": "ping4gwan1-average",
+  "word": "平均",
+  "jyutping": "ping4 gwan1",
+  "meaning": "average",
+  "pos": ["noun"],
+  "usage": [
+    "Use「平均」to talk about the average amount or rate of something.",
+    "It is common in math, school, and everyday data talk.",
+    "You can put「平均」before a noun to describe an average figure.",
+    "It can also be used when comparing results over time."
+  ],
+  "examples": [
+    {
+      "id": "ping4gwan1-average-example-1",
+      "sentence": "呢班人嘅平均年齡係二十歲。",
+      "jyutping": "ni1 baan1 jan4 ge3 ping4 gwan1 nin4 gei2 hai6 ji6 sap6 seoi3.",
+      "meaning": "The average age of this group is twenty."
+    },
+    {
+      "id": "ping4gwan1-average-example-2",
+      "sentence": "我哋睇平均分先。",
+      "jyutping": "ngo5 dei6 tai2 ping4 gwan1 fan1 sin1.",
+      "meaning": "Let’s look at the average score first."
+    },
+    {
+      "id": "ping4gwan1-average-example-3",
+      "sentence": "平均每個人分到兩個蘋果。",
+      "jyutping": "ping4 gwan1 mei5 go3 jan4 fan1 dou3 loeng5 go3 ping4 gwo2.",
+      "meaning": "On average, each person gets two apples."
+    },
+    {
+      "id": "ping4gwan1-average-example-4",
+      "sentence": "呢個月嘅平均溫度高過上個月。",
+      "jyutping": "ni1 go3 jyut6 ge3 ping4 gwan1 wan1 dou6 gou1 gwo3 soeng5 go3 jyut6.",
+      "meaning": "This month’s average temperature is higher than last month."
+    }
+  ],
+  "audio": {
+    "word": "ping4gwan1-average.mp3",
+    "examples": [
+      "ping4gwan1-average-example-1.mp3",
+      "ping4gwan1-average-example-2.mp3",
+      "ping4gwan1-average-example-3.mp3",
+      "ping4gwan1-average-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "arithmetic",
+    "average",
+    "school",
+    "data",
+    "statistics",
+    "beginner",
+    "level-1"
+  ],
+  "related": ["平均分", "平均數", "均勻", "每人"]
+}

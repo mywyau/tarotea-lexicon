@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word 黃色 (wong4 sik1) is used as a noun to refer to the color yellow.",
-    "You can use 黃色 to describe objects, clothes, and anything that is literally yellow in color.",
-    "In Cantonese, 黃色 can function like an adjective when placed before a noun, e.g., 黃色衫 means yellow shirt.",
-    "It is common to combine 黃色 with other nouns to specify the color of an item, especially in shopping or clothing contexts.",
-    "When describing colors, 黃色 usually stays the same regardless of singular or plural objects."
+    "Use 黃色 (wong4 sik1) to talk about the colour yellow. 例：呢條衫係黃色。",
+    "You can put 黃色 before a noun to describe its colour. 例：黃色巴士好易認。",
+    "黃色 is common in everyday speech for things like clothes, objects, and signs. 例：我鍾意黃色嘅波鞋。",
+    "You can use 黃色 when talking about colour choice or preference. 例：佢間房用咗黃色做主色。"
   ],
   "examples": [
     {
       "id": "wong4sik1-yellow-example-1",
-      "sentence": "我想買黃色衫。",
-      "jyutping": "ngo5 soeng2 maai5 wong4 sik1 saam1.",
-      "meaning": "I want to buy a yellow shirt."
+      "sentence": "呢條衫係黃色。",
+      "jyutping": "ni1 tiu4 saam1 hai6 wong4 sik1.",
+      "meaning": "This shirt is yellow."
     },
     {
       "id": "wong4sik1-yellow-example-2",
-      "sentence": "呢支筆係黃色嘅。",
-      "jyutping": "ni1 zi1 bat1 hai6 wong4 sik1 ge3.",
-      "meaning": "This pen is yellow."
+      "sentence": "黃色巴士好易認。",
+      "jyutping": "wong4 sik1 baa2 si6 hou2 ji6 jing6.",
+      "meaning": "Yellow buses are easy to recognize."
     },
     {
       "id": "wong4sik1-yellow-example-3",
-      "sentence": "你啱啱買嘅黃色袋好靚。",
-      "jyutping": "nei5 aam1 aam1 maai5 ge3 wong4 sik1 doi2 hou2 leng3.",
-      "meaning": "The yellow bag you just bought is very pretty."
+      "sentence": "我鍾意黃色嘅波鞋。",
+      "jyutping": "ngo5 zung1 ji3 wong4 sik1 ge3 bo1 haai4.",
+      "meaning": "I like yellow sneakers."
     },
     {
       "id": "wong4sik1-yellow-example-4",
-      "sentence": "黃色好容易襯其他顏色。",
-      "jyutping": "wong4 sik1 hou2 jung4 ji6 chan3 kei4 taa1 ngaan4 sik1.",
-      "meaning": "Yellow is easy to match with other colors."
+      "sentence": "佢間房用咗黃色做主色。",
+      "jyutping": "keoi5 gaan1 fong2 jung6 zo2 wong4 sik1 zou6 zyu2 sik1.",
+      "meaning": "They used yellow as the main colour in the room."
     }
   ],
   "audio": {
@@ -49,18 +48,17 @@
     ]
   },
   "tags": [
-    "color",
-    "clothing",
-    "shopping",
-    "basic",
-    "adjective-noun",
+    "basic colour",
+    "colour name",
+    "daily vocabulary",
+    "easy",
+    "A1",
     "level-1"
   ],
   "related": [
     "紅色",
     "藍色",
     "綠色",
-    "衣服",
-    "袋"
+    "白色"
   ]
 }

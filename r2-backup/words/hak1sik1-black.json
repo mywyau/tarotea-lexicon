@@ -1,42 +1,41 @@
 {
   "id": "hak1sik1-black",
   "word": "黑色",
-  "jyutping": "hak1 sik1",
+  "jyutping": "haak1 sik1",
   "meaning": "black",
   "pos": [
     "noun"
   ],
   "usage": [
-    "The word '黑色' hak1 sik1 is used as a noun to indicate the color black.",
-    "'黑色' can modify nouns to describe objects or clothes that are black in color.",
-    "In Cantonese, colors like '黑色' are often placed before the noun they describe.",
-    "'黑色' can also stand alone when talking about the color in general, without a noun.",
-    "The tone of '黑' is high level (1) and '色' is mid level (1), pronounced clearly to avoid confusion with similar words."
+    "黑色 is a noun for the colour black, and it can stand alone as a description, like 呢個袋係黑色。",
+    "You can put 黑色 before a noun to describe something, like 黑色衫好襯。",
+    "黑色 is also used in everyday comparisons or preferences, like 我鍾意黑色多啲。",
+    "When you want to say something is black in colour, use 係黑色 or 好黑色, like 佢對鞋係黑色。"
   ],
   "examples": [
     {
       "id": "hak1sik1-black-example-1",
-      "sentence": "我買咗件黑色衫。",
-      "jyutping": "ngo5 maai5 zo2 gin6 hak1 sik1 saam1.",
-      "meaning": "I bought a black shirt."
+      "sentence": "呢個袋係黑色。",
+      "jyutping": "ni1 go3 doi2 gei1 hai6 haak1 sik1.",
+      "meaning": "This bag is black."
     },
     {
       "id": "hak1sik1-black-example-2",
-      "sentence": "呢對鞋係黑色，好易配。",
-      "jyutping": "ni1 deoi3 haai4 hai6 hak1 sik1, hou2 ji6 pui3.",
-      "meaning": "These shoes are black and easy to match."
+      "sentence": "我鍾意黑色衫。",
+      "jyutping": "ngo5 zung1 ji3 haak1 sik1 saam1.",
+      "meaning": "I like black clothes."
     },
     {
       "id": "hak1sik1-black-example-3",
-      "sentence": "我鍾意黑色多過白色。",
-      "jyutping": "ngo5 zung1 ji3 hak1 sik1 do1 gwo3 baak6 sik1.",
-      "meaning": "I like black more than white."
+      "sentence": "佢對鞋係黑色。",
+      "jyutping": "keoi5 deoi3 haai4 hai6 haak1 sik1.",
+      "meaning": "His/Her shoes are black."
     },
     {
       "id": "hak1sik1-black-example-4",
-      "sentence": "黑色好襯衫裙。",
-      "jyutping": "hak1 sik1 hou2 jan3 saam1 kwan4.",
-      "meaning": "Black goes well with shirts and skirts."
+      "sentence": "黑色睇落好型。",
+      "jyutping": "haak1 sik1 tai2 lok6 hou2 jing4.",
+      "meaning": "Black looks stylish."
     }
   ],
   "audio": {
@@ -50,17 +49,17 @@
   },
   "tags": [
     "colour",
-    "clothing",
-    "style",
-    "shopping",
-    "basic",
+    "basic vocabulary",
+    "everyday",
+    "level 1",
+    "adjective use",
+    "common",
     "level-1"
   ],
   "related": [
-    "白色 baak6 sik1",
-    "紅色 hung4 sik1",
-    "藍色 laam4 sik1",
-    "綠色 luk6 sik1",
-    "衫 saam1"
+    "白色",
+    "灰色",
+    "藍色",
+    "紅色"
   ]
 }

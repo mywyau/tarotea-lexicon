@@ -1,0 +1,58 @@
+{
+  "id": "siu2jyu4-smaller",
+  "word": "小於",
+  "jyutping": "siu2 jyu1",
+  "meaning": "smaller",
+  "pos": ["comparative marker"],
+  "usage": [
+    "Use 小於 to compare numbers or amounts.",
+    "It is common in math, charts, and formal writing.",
+    "You can pair it with numbers, symbols, or measured amounts.",
+    "In spoken Cantonese, people often say 少過 more often, but 小於 is still common in school math."
+  ],
+  "examples": [
+    {
+      "id": "siu2jyu4-smaller-example-1",
+      "sentence": "3小於5。",
+      "jyutping": "saam1 siu2 jyu1 ng5.",
+      "meaning": "3 is smaller than 5."
+    },
+    {
+      "id": "siu2jyu4-smaller-example-2",
+      "sentence": "佢嘅分數小於平均分。",
+      "jyutping": "keoi5 ge3 fan1 sou3 siu2 jyu1 ping4 gwan1 fan1.",
+      "meaning": "His score is below the average."
+    },
+    {
+      "id": "siu2jyu4-smaller-example-3",
+      "sentence": "呢個數小於嗰個數。",
+      "jyutping": "ni1 go3 sou3 siu2 jyu1 go2 go3 sou3.",
+      "meaning": "This number is smaller than that one."
+    },
+    {
+      "id": "siu2jyu4-smaller-example-4",
+      "sentence": "十歲以下即係小於十歲。",
+      "jyutping": "sap6 seoi3 ji5 haa6 zik1 hai6 siu2 jyu1 sap6 seoi3.",
+      "meaning": "Under ten means smaller than ten years old."
+    }
+  ],
+  "audio": {
+    "word": "siu2jyu4-smaller.mp3",
+    "examples": [
+      "siu2jyu4-smaller-example-1.mp3",
+      "siu2jyu4-smaller-example-2.mp3",
+      "siu2jyu4-smaller-example-3.mp3",
+      "siu2jyu4-smaller-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "arithmetic",
+    "comparison",
+    "numbers",
+    "formal",
+    "level-1",
+    "level-1"
+  ],
+  "related": ["少過", "大過", "等於", "多過"]
+}
