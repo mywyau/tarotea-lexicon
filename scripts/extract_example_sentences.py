@@ -100,7 +100,7 @@ def main() -> None:
     parser.add_argument("input_dir", help="Directory containing word JSON files")
     parser.add_argument("output_file", help="Output JSON file")
     parser.add_argument(
-        "--dedupe",
+        "-dedupe",
         action="store_true",
         help="Remove duplicate sentences"
     )

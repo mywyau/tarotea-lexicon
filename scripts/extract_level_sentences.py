@@ -107,7 +107,7 @@ def main() -> None:
     parser.add_argument("level_file", help="Path to level JSON file, e.g. level-1.json")
     parser.add_argument("words_dir", help="Directory containing all word JSON files")
     parser.add_argument("output_file", help="Output JSON file")
-    parser.add_argument("--dedupe", action="store_true", help="Remove duplicate sentences")
+    parser.add_argument("-dedupe", action="store_true", help="Remove duplicate sentences")
     args = parser.parse_args()
 
     level_file = Path(args.level_file)

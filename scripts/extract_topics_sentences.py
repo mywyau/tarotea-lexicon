@@ -107,7 +107,7 @@ def main() -> None:
     parser.add_argument("topic_file", help="Path to topic JSON file, e.g. animals.json")
     parser.add_argument("words_dir", help="Directory containing all word JSON files")
     parser.add_argument("output_file", help="Output JSON file")
-    parser.add_argument("--dedupe", action="store_true", help="Remove duplicate sentences")
+    parser.add_argument("-dedupe", action="store_true", help="Remove duplicate sentences")
     args = parser.parse_args()
 
     topic_file = Path(args.topic_file)

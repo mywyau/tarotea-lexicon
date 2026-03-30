@@ -10,7 +10,7 @@ def normalize_jyutping(jyutping: str) -> str:
 
 
 def extract_id_prefix(word_id: str) -> str:
-    return word_id.split("-", 1)[0]
+    return word_id.split("", 1)[0]
 
 
 def main() -> None:
@@ -36,7 +36,7 @@ def main() -> None:
                     "jyutping": jyutping,
                     "expected_prefix": expected_prefix,
                     "actual_prefix": actual_prefix,
-                    "suggested_id": f"{expected_prefix}-{word_id.split('-', 1)[1]}" if "-" in word_id else expected_prefix
+                    "suggested_id": f"{expected_prefix}-{word_id.split('-', 1)[1]}" if "" in word_id else expected_prefix
                 })
 
     if not mismatches:
@@ -53,7 +53,7 @@ def main() -> None:
         print(f"Expected prefix: {m['expected_prefix']}")
         print(f"Actual prefix: {m['actual_prefix']}")
         print(f"Suggested ID: {m['suggested_id']}")
-        print("-" * 50)
+        print("" * 50)
 
 
 if __name__ == "__main__":

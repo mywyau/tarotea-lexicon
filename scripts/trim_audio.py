@@ -23,9 +23,9 @@ for audio_file in INPUT_DIR.glob("*.mp3"):
 
     cmd = [
         "ffmpeg",
-        "-y",
-        "-i", str(audio_file),
-        "-af", f"atrim=start={TRIM_START}",
+        "y",
+        "i", str(audio_file),
+        "af", f"atrim=start={TRIM_START}",
         str(out_file)
     ]
 

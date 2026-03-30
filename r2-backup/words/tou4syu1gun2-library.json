@@ -1,0 +1,67 @@
+{
+  "id": "tou4syu1gun2-library",
+  "word": "圖書館",
+  "jyutping": "tou4 syu1 gun2",
+  "meaning": "library",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 圖書館 as a countable place noun for a public library or school library.",
+    "It often appears with location words like 喺、去、入，for example to say where someone is or where they are going.",
+    "Very common in everyday speech when talking about studying, borrowing books, or reading quietly.",
+    "Register is neutral and natural in both spoken and written Cantonese."
+  ],
+  "examples": [
+    {
+      "id": "tou4syu1gun2-library-example-1",
+      "sentence": "我成日去圖書館溫書。",
+      "jyutping": "ngo5 sing4 jat6 heoi3 tou4 syu1 gun2 fan1 syu1.",
+      "meaning": "I often go to the library to study."
+    },
+    {
+      "id": "tou4syu1gun2-library-example-2",
+      "sentence": "學校有個圖書館。",
+      "jyutping": "hok6 haau6 jau5 go3 tou4 syu1 gun2.",
+      "meaning": "The school has a library."
+    },
+    {
+      "id": "tou4syu1gun2-library-example-3",
+      "sentence": "你可唔可以喺圖書館細聲啲？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 hai2 tou4 syu1 gun2 sai3 seng1 di1?",
+      "meaning": "Can you speak a bit more quietly in the library?"
+    },
+    {
+      "id": "tou4syu1gun2-library-example-4",
+      "sentence": "我想去圖書館借書。",
+      "jyutping": "ngo5 soeng2 heoi3 tou4 syu1 gun2 ze3 syu1.",
+      "meaning": "I want to go to the library to borrow books."
+    }
+  ],
+  "audio": {
+    "word": "tou4syu1gun2-library.mp3",
+    "examples": [
+      "tou4syu1gun2-library-example-1.mp3",
+      "tou4syu1gun2-library-example-2.mp3",
+      "tou4syu1gun2-library-example-3.mp3",
+      "tou4syu1gun2-library-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "community places",
+    "buildings",
+    "local services",
+    "education",
+    "reading",
+    "public place",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "書店",
+    "學校",
+    "公園",
+    "借書",
+    "溫書"
+  ]
+}
