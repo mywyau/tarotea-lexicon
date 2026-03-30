@@ -1,60 +1,60 @@
 {
-  "topic": "connectors",
-  "title": "Connectors",
+  "topic": "connectors-one",
+  "title": "Connectors One",
   "description": "Learn common Cantonese connectors used to join ideas, show contrast, give reasons, describe results, and organise speech.",
   "categories": {
     "basic_linking_words": [
-      { "id": "wo4-and", "word": "同", "jyutping": "tung4", "meaning": "and / with" },
-      { "id": "kap6-and-formal", "word": "及", "jyutping": "kap6", "meaning": "and (more formal / written)" },
-      { "id": "jau6-also-and-then", "word": "又", "jyutping": "jau6", "meaning": "again / also / both" },
-      { "id": "waa6-or", "word": "或者", "jyutping": "waak6 ze2", "meaning": "or / perhaps" },
-      { "id": "ding6hai6-or-question", "word": "定係", "jyutping": "ding6 hai6", "meaning": "or (in questions / choices)" },
-      { "id": "ji4-and-whereas", "word": "而", "jyutping": "ji4", "meaning": "and / while / whereas (more written)" }
+      { "id": "tung4-and", "word": "同", "jyutping": "tung4", "meaning": "and" },
+      { "id": "kap6-and-formal", "word": "及", "jyutping": "kap6", "meaning": "and" },
+      { "id": "jau6-also", "word": "又", "jyutping": "jau6", "meaning": "also" },
+      { "id": "waak6ze2-or", "word": "或者", "jyutping": "waak6 ze2", "meaning": "or" },
+      { "id": "ding6hai6-or-choice", "word": "定係", "jyutping": "ding6 hai6", "meaning": "or" },
+      { "id": "ji4-whereas", "word": "而", "jyutping": "ji4", "meaning": "whereas" }
     ],
 
     "reason_and_result": [
       { "id": "jan1wai6-because", "word": "因為", "jyutping": "jan1 wai6", "meaning": "because" },
-      { "id": "so2ji5-so", "word": "所以", "jyutping": "so2 ji5", "meaning": "so / therefore" },
-      { "id": "jan1wai6so2ji5-because-so", "word": "因為…所以…", "jyutping": "jan1 wai6 ... so2 ji5 ...", "meaning": "because... so..." },
-      { "id": "jan1ji4-as-a-result", "word": "因而", "jyutping": "jan1 ji4", "meaning": "as a result / thus (formal)" },
-      { "id": "gam2-so-like-that", "word": "噉", "jyutping": "gam2", "meaning": "so / in that case / like that" },
-      { "id": "gam2zi1hau6-after-that", "word": "噉之後", "jyutping": "gam2 zi1 hau6", "meaning": "after that / then" }
+      { "id": "so2ji5-therefore", "word": "所以", "jyutping": "so2 ji5", "meaning": "therefore" },
+      { "id": "jan1wai6so2ji5-because-therefore", "word": "因為…所以…", "jyutping": "jan1 wai6 ... so2 ji5 ...", "meaning": "cause result" },
+      { "id": "jan1ji4-thus", "word": "因而", "jyutping": "jan1 ji4", "meaning": "thus" },
+      { "id": "gam2-so", "word": "噉", "jyutping": "gam2", "meaning": "so" },
+      { "id": "gam2zi1hau6-after-that", "word": "噉之後", "jyutping": "gam2 zi1 hau6", "meaning": "afterward" }
     ],
 
     "contrast_and_concession": [
-      { "id": "daan6haa6-but", "word": "但係", "jyutping": "daan6 hai6", "meaning": "but / however" },
-      { "id": "bat1gwo3-however", "word": "不過", "jyutping": "bat1 gwo3", "meaning": "however / but" },
-      { "id": "tung4si4-at-the-same-time", "word": "同時", "jyutping": "tung4 si4", "meaning": "at the same time / meanwhile" },
-      { "id": "zik1si6-even-if-although", "word": "即使", "jyutping": "zik1 si2", "meaning": "even if / even though" },
-      { "id": "sui1jin4-although", "word": "雖然", "jyutping": "seoi1 jin4", "meaning": "although" },
-      { "id": "sui1jin4daan6hai6-although-but", "word": "雖然…但係…", "jyutping": "seoi1 jin4 ... daan6 hai6 ...", "meaning": "although... but..." }
+      { "id": "daan6hai6-but", "word": "但係", "jyutping": "daan6 hai6", "meaning": "but" },
+      { "id": "bat1gwo3-however", "word": "不過", "jyutping": "bat1 gwo3", "meaning": "however" },
+      { "id": "tung4si4-meanwhile", "word": "同時", "jyutping": "tung4 si4", "meaning": "meanwhile" },
+      { "id": "zik1si2-even-if", "word": "即使", "jyutping": "zik1 si2", "meaning": "even if" },
+      { "id": "seoi1jin4-although", "word": "雖然", "jyutping": "seoi1 jin4", "meaning": "although" },
+      { "id": "seoi1jin4daan6hai6-although-but", "word": "雖然…但係…", "jyutping": "seoi1 jin4 ... daan6 hai6 ...", "meaning": "although but" }
     ],
 
     "time_and_sequence": [
-      { "id": "sin1-first", "word": "先", "jyutping": "sin1", "meaning": "first / before that" },
-      { "id": "zi1hau6-afterwards", "word": "之後", "jyutping": "zi1 hau6", "meaning": "after / afterwards" },
-      { "id": "gan1zyu6-then", "word": "跟住", "jyutping": "gan1 zyu6", "meaning": "then / next / following that" },
-      { "id": "hau6lai4-later", "word": "後嚟", "jyutping": "hau6 lai4", "meaning": "later / afterwards" },
-      { "id": "zung1jyu1-finally", "word": "終於", "jyutping": "zung1 jyu1", "meaning": "finally / at last" },
-      { "id": "zi1cin4-before", "word": "之前", "jyutping": "zi1 cin4", "meaning": "before / previously" }
+      { "id": "sin1-first", "word": "先", "jyutping": "sin1", "meaning": "first" },
+      { "id": "zi1hau6-after", "word": "之後", "jyutping": "zi1 hau6", "meaning": "after" },
+      { "id": "gan1zyu6-next", "word": "跟住", "jyutping": "gan1 zyu6", "meaning": "next" },
+      { "id": "hau6lai4-later", "word": "後嚟", "jyutping": "hau6 lai4", "meaning": "later" },
+      { "id": "zung1jyu1-finally", "word": "終於", "jyutping": "zung1 jyu1", "meaning": "finally" },
+      { "id": "zi1cin4-before", "word": "之前", "jyutping": "zi1 cin4", "meaning": "before" }
     ],
 
     "condition_and_choice": [
       { "id": "jyu4gwo2-if", "word": "如果", "jyutping": "jyu4 gwo2", "meaning": "if" },
-      { "id": "jyu4gwo2...gam2-if-then", "word": "如果…咁…", "jyutping": "jyu4 gwo2 ... gam2 ...", "meaning": "if... then..." },
-      { "id": "bat1jyu4-rather-than", "word": "不如", "jyutping": "bat1 jyu4", "meaning": "how about / rather than / might as well" },
-      { "id": "zyu2jiu3-as-long-as", "word": "只要", "jyutping": "zi2 jiu3", "meaning": "as long as / provided that" },
-      { "id": "除非-unless", "word": "除非", "jyutping": "ceoi4 fei1", "meaning": "unless" },
-      { "id": "無論-no-matter", "word": "無論", "jyutping": "mou4 leon6", "meaning": "no matter / regardless of" }
+      { "id": "jyu4gwo2gam2-if-then", "word": "如果…咁…", "jyutping": "jyu4 gwo2 ... gam2 ...", "meaning": "if then" },
+      { "id": "bat1jyu4-how-about", "word": "不如", "jyutping": "bat1 jyu4", "meaning": "how about" },
+      { "id": "zi2jiu3-as-long-as", "word": "只要", "jyutping": "zi2 jiu3", "meaning": "as long as" },
+      { "id": "ceoi4fei1-unless", "word": "除非", "jyutping": "ceoi4 fei1", "meaning": "unless" },
+      { "id": "mou4leon6-no-matter", "word": "無論", "jyutping": "mou4 leon6", "meaning": "no matter" }
     ],
 
     "emphasis_and_explanation": [
-      { "id": "kei4sat6-actually", "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually / in fact" },
-      { "id": "jau6hai6-that-is", "word": "即係", "jyutping": "zik1 hai6", "meaning": "that is / meaning / in other words" },
-      { "id": "waa6jat1-in-other-words", "word": "換句話講", "jyutping": "wun6 geoi3 waa6 gong2", "meaning": "in other words" },
-      { "id": "dak6bit6-especially", "word": "特別", "jyutping": "dak6 bit6", "meaning": "especially / particularly" },
-      { "id": "jau4kei4-especially", "word": "尤其", "jyutping": "jau4 kei4", "meaning": "especially / particularly" },
-      { "id": "baak6ming4-clearly", "word": "明顯", "jyutping": "ming4 hin2", "meaning": "obviously / clearly" }
+      { "id": "kei4sat6-actually", "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually" },
+      { "id": "zik1hai6-meaning", "word": "即係", "jyutping": "zik1 hai6", "meaning": "meaning" },
+      { "id": "wun6geoi3waa6gong2-rephrasing", "word": "換句話講", "jyutping": "wun6 geoi3 waa6 gong2", "meaning": "rephrasing" },
+      { "id": "dak6bit6-especially", "word": "特別", "jyutping": "dak6 bit6", "meaning": "especially" },
+      { "id": "jau4kei4-particularly", "word": "尤其", "jyutping": "jau4 kei4", "meaning": "particularly" },
+      { "id": "ming4hin2-obviously", "word": "明顯", "jyutping": "ming4 hin2", "meaning": "obviously" }
     ]
   }
 }
