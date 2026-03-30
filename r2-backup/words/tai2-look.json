@@ -2,40 +2,48 @@
   "id": "tai2-look",
   "word": "睇",
   "jyutping": "tai2",
-  "meaning": "to look at; to watch; to see",
-
+  "meaning": "to look at; to watch; to read",
   "pos": ["verb"],
-
   "usage": [
-    "Used to describe looking at or watching something",
-    "Commonly used for watching TV, movies, or reading"
+    "Used to describe looking at, watching, or reading something.",
+    "Commonly used for watching TV, films, videos, and also for reading books, messages, or newspapers."
   ],
-
   "examples": [
     {
-      "id": "tai2-look-exmaple-1",
+      "id": "tai2-look-example-1",
       "sentence": "我睇緊電視。",
-      "jyutping": "ngo5 tai2 gan2 din6 si6",
-      "meaning": "I’m watching TV."
+      "jyutping": "ngo5 tai2 gan2 din6 si6.",
+      "meaning": "I'm watching TV."
     },
     {
-      "id": "tai2-look-exmaple-2",
+      "id": "tai2-look-example-2",
       "sentence": "你睇下呢個。",
-      "jyutping": "nei5 tai2 haa5 ni1 go3",
+      "jyutping": "nei5 tai2 haa5 ni1 go3.",
       "meaning": "Take a look at this."
+    },
+    {
+      "id": "tai2-look-example-3",
+      "sentence": "我想睇呢本書。",
+      "jyutping": "ngo5 soeng2 tai2 ni1 bun2 syu1.",
+      "meaning": "I want to read this book."
+    },
+    {
+      "id": "tai2-look-example-4",
+      "sentence": "今晚我哋睇戲啦。",
+      "jyutping": "gam1 maan5 ngo5 dei6 tai2 hei3 laa1.",
+      "meaning": "Let's watch a film tonight."
     }
   ],
-
   "audio": {
     "word": "tai2-look.mp3",
     "examples": [
-      "tai2-look-exmaple-1.mp3",
-      "tai2-look-exmaple-2.mp3"
+      "tai2-look-example-1.mp3",
+      "tai2-look-example-2.mp3",
+      "tai2-look-example-3.mp3",
+      "tai2-look-example-4.mp3"
     ]
   },
-
   "tags": ["verb", "level-1", "core", "action"],
-
   "related": [
     "zou6-do",
     "tai2-gan2-watching",

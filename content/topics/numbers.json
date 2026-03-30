@@ -1,0 +1,69 @@
+{
+  "topic": "numbers-counting",
+  "title": "Numbers & Counting",
+  "description": "Learn how to count, say numbers, and use them in everyday Cantonese situations like time, prices, and quantities.",
+  "categories": {
+    "basic_numbers_0_10": [
+      { "id": "ling4-zero", "word": "零", "jyutping": "ling4", "meaning": "zero" },
+      { "id": "jat1-one", "word": "一", "jyutping": "jat1", "meaning": "one" },
+      { "id": "ji6-two", "word": "二", "jyutping": "ji6", "meaning": "two" },
+      { "id": "saam1-three", "word": "三", "jyutping": "saam1", "meaning": "three" },
+      { "id": "sei3-four", "word": "四", "jyutping": "sei3", "meaning": "four" },
+      { "id": "ng5-five", "word": "五", "jyutping": "ng5", "meaning": "five" },
+      { "id": "luk6-six", "word": "六", "jyutping": "luk6", "meaning": "six" },
+      { "id": "cat1-seven", "word": "七", "jyutping": "cat1", "meaning": "seven" },
+      { "id": "baat3-eight", "word": "八", "jyutping": "baat3", "meaning": "eight" },
+      { "id": "gau2-nine", "word": "九", "jyutping": "gau2", "meaning": "nine" },
+      { "id": "sap6-ten", "word": "十", "jyutping": "sap6", "meaning": "ten" }
+    ],
+
+    "teens_11_19": [
+      { "id": "sap6jat1-eleven", "word": "十一", "jyutping": "sap6 jat1", "meaning": "eleven" },
+      { "id": "sap6ji6-twelve", "word": "十二", "jyutping": "sap6 ji6", "meaning": "twelve" },
+      { "id": "sap6saam1-thirteen", "word": "十三", "jyutping": "sap6 saam1", "meaning": "thirteen" },
+      { "id": "sap6sei3-fourteen", "word": "十四", "jyutping": "sap6 sei3", "meaning": "fourteen" },
+      { "id": "sap6ng5-fifteen", "word": "十五", "jyutping": "sap6 ng5", "meaning": "fifteen" },
+      { "id": "sap6luk6-sixteen", "word": "十六", "jyutping": "sap6 luk6", "meaning": "sixteen" },
+      { "id": "sap6cat1-seventeen", "word": "十七", "jyutping": "sap6 cat1", "meaning": "seventeen" },
+      { "id": "sap6baat3-eighteen", "word": "十八", "jyutping": "sap6 baat3", "meaning": "eighteen" },
+      { "id": "sap6gau2-nineteen", "word": "十九", "jyutping": "sap6 gau2", "meaning": "nineteen" }
+    ],
+
+    "tens": [
+      { "id": "ji6sap6-twenty", "word": "二十", "jyutping": "ji6 sap6", "meaning": "twenty" },
+      { "id": "saam1sap6-thirty", "word": "三十", "jyutping": "saam1 sap6", "meaning": "thirty" },
+      { "id": "sei3sap6-forty", "word": "四十", "jyutping": "sei3 sap6", "meaning": "forty" },
+      { "id": "ng5sap6-fifty", "word": "五十", "jyutping": "ng5 sap6", "meaning": "fifty" },
+      { "id": "luk6sap6-sixty", "word": "六十", "jyutping": "luk6 sap6", "meaning": "sixty" },
+      { "id": "cat1sap6-seventy", "word": "七十", "jyutping": "cat1 sap6", "meaning": "seventy" },
+      { "id": "baat3sap6-eighty", "word": "八十", "jyutping": "baat3 sap6", "meaning": "eighty" },
+      { "id": "gau2sap6-ninety", "word": "九十", "jyutping": "gau2 sap6", "meaning": "ninety" }
+    ],
+
+    "hundred_and_beyond": [
+      { "id": "baak3-one-hundred", "word": "百", "jyutping": "baak3", "meaning": "hundred" },
+      { "id": "cin1-one-thousand", "word": "千", "jyutping": "cin1", "meaning": "thousand" },
+      { "id": "maan6-ten-thousand", "word": "萬", "jyutping": "maan6", "meaning": "ten thousand" },
+      { "id": "sap6maan6-one-hundred-thousand", "word": "十萬", "jyutping": "sap6 maan6", "meaning": "one hundred thousand" },
+      { "id": "baak3maan6-one-million", "word": "百萬", "jyutping": "baak3 maan6", "meaning": "one million" },
+      { "id": "cin1maan6-ten-million", "word": "千萬", "jyutping": "cin1 maan6", "meaning": "ten million" },
+      { "id": "jik1-one-hundred-million", "word": "億", "jyutping": "jik1", "meaning": "one hundred million" },
+      { "id": "sap6jik1-one-billion", "word": "十億", "jyutping": "sap6 jik1", "meaning": "one billion" },
+      { "id": "siu3-one-trillion", "word": "兆", "jyutping": "siu6", "meaning": "one trillion" },
+      { "id": "ging1-ten-quadrillion", "word": "京", "jyutping": "ging1", "meaning": "ten quadrillion" }
+    ],
+
+    "decimals": [
+        { "id": "dim2-decimal-point", "word": "點", "jyutping": "dim2", "meaning": "decimal point" },
+        { "id": "ling4dim2jat1-0.1", "word": "零點一", "jyutping": "ling4 dim2 jat1", "meaning": "0.1" },
+        { "id": "ling4dim2ji6-0.2", "word": "零點二", "jyutping": "ling4 dim2 ji6", "meaning": "0.2" },
+        { "id": "ling4dim2saam1-0.3", "word": "零點三", "jyutping": "ling4 dim2 saam1", "meaning": "0.3" },
+        { "id": "jat1dim2ng5-1.5", "word": "一點五", "jyutping": "jat1 dim2 ng5", "meaning": "1.5" },
+        { "id": "jat1dim2baat3-1.8", "word": "一點八", "jyutping": "jat1 dim2 baat3", "meaning": "1.8" },
+        { "id": "ji6dim2ling4sam6-2.03", "word": "二點零三", "jyutping": "ji6 dim2 ling4 saam1", "meaning": "2.03" },
+        { "id": "saam1dim2jat1sei3-3.14", "word": "三點一四", "jyutping": "saam1 dim2 jat1 sei3", "meaning": "3.14" },
+        { "id": "sap6dim2ji6-10.2", "word": "十點二", "jyutping": "sap6 dim2 ji6", "meaning": "10.2" },
+        { "id": "ji6sap6dim2ng5-20.5", "word": "二十點五", "jyutping": "ji6 sap6 dim2 ng5", "meaning": "20.5" }
+    ]
+  }
+}

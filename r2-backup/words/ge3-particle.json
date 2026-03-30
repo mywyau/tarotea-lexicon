@@ -2,40 +2,49 @@
   "id": "ge3-particle",
   "word": "嘅",
   "jyutping": "ge3",
-  "meaning": "explanatory / possessive particle",
-
+  "meaning": "possessive / descriptive particle",
   "pos": ["particle"],
-
   "usage": [
-    "Used to explain or emphasise a statement",
-    "Also used to show possession or description"
+    "Used to show possession, similar to \"'s\" or \"of\" in English.",
+    "Also used to link nouns with descriptions, qualities, or attributes.",
+    "Often appears in common Cantonese sentence patterns such as 嚟嘅, but the exact function depends on the full sentence."
   ],
-
   "examples": [
     {
       "id": "ge3-particle-example-1",
       "sentence": "我係香港人嚟嘅。",
-      "jyutping": "ngo5 hai6 hoeng1 gong2 jan4 lei4 ge3",
-      "meaning": "I’m from Hong Kong."
+      "jyutping": "ngo5 hai6 hoeng1 gong2 jan4 lai4 ge3.",
+      "meaning": "I'm from Hong Kong."
     },
     {
       "id": "ge3-particle-example-2",
       "sentence": "呢個係我嘅。",
-      "jyutping": "ni1 go3 hai6 ngo5 ge3",
+      "jyutping": "ni1 go3 hai6 ngo5 ge3.",
       "meaning": "This is mine."
+    },
+    {
+      "id": "ge3-particle-example-3",
+      "sentence": "呢本書係妹妹嘅。",
+      "jyutping": "ni1 bun2 syu1 hai6 mui6 mui2 ge3.",
+      "meaning": "This book is my younger sister's."
+    },
+    {
+      "id": "ge3-particle-example-4",
+      "sentence": "佢係一個好聰明嘅學生。",
+      "jyutping": "keoi5 hai6 jat1 go3 hou2 cung1 ming4 ge3 hok6 saang1.",
+      "meaning": "He is a very smart student."
     }
   ],
-
   "audio": {
     "word": "ge3-particle.mp3",
     "examples": [
       "ge3-particle-example-1.mp3",
-      "ge3-particle-example-2.mp3"
+      "ge3-particle-example-2.mp3",
+      "ge3-particle-example-3.mp3",
+      "ge3-particle-example-4.mp3"
     ]
   },
-
   "tags": ["particle", "level-1", "core", "grammar"],
-
   "related": [
     "aa3-particle",
     "laa1-particle"
