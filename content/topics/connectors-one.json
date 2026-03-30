@@ -15,7 +15,6 @@
     "reason_and_result": [
       { "id": "jan1wai6-because", "word": "因為", "jyutping": "jan1 wai6", "meaning": "because" },
       { "id": "so2ji5-therefore", "word": "所以", "jyutping": "so2 ji5", "meaning": "therefore" },
-      { "id": "jan1wai6so2ji5-because-therefore", "word": "因為…所以…", "jyutping": "jan1 wai6 ... so2 ji5 ...", "meaning": "cause result" },
       { "id": "jan1ji4-thus", "word": "因而", "jyutping": "jan1 ji4", "meaning": "thus" },
       { "id": "gam2-so", "word": "噉", "jyutping": "gam2", "meaning": "so" },
       { "id": "gam2zi1hau6-after-that", "word": "噉之後", "jyutping": "gam2 zi1 hau6", "meaning": "afterward" }
@@ -41,7 +40,6 @@
 
     "condition_and_choice": [
       { "id": "jyu4gwo2-if", "word": "如果", "jyutping": "jyu4 gwo2", "meaning": "if" },
-      { "id": "jyu4gwo2gam2-if-then", "word": "如果…咁…", "jyutping": "jyu4 gwo2 ... gam2 ...", "meaning": "if then" },
       { "id": "bat1jyu4-how-about", "word": "不如", "jyutping": "bat1 jyu4", "meaning": "how about" },
       { "id": "zi2jiu3-as-long-as", "word": "只要", "jyutping": "zi2 jiu3", "meaning": "as long as" },
       { "id": "ceoi4fei1-unless", "word": "除非", "jyutping": "ceoi4 fei1", "meaning": "unless" },
