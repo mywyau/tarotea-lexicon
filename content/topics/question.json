@@ -1,0 +1,64 @@
+{
+  "topic": "question-words",
+  "title": "Question Words",
+  "description": "Learn common Cantonese question words used to ask about people, things, places, time, reasons, methods, and quantities in everyday conversation.",
+  "categories": {
+    "core_question_words": [
+      { "id": "bin1go3-who-which-one", "word": "邊個", "jyutping": "bin1 go3", "meaning": "who / which one" },
+      { "id": "mat1je5-what", "word": "乜嘢", "jyutping": "mat1 je5", "meaning": "what" },
+      { "id": "bin1dou6-where", "word": "邊度", "jyutping": "bin1 dou6", "meaning": "where" },
+      { "id": "gei2si4-when", "word": "幾時", "jyutping": "gei2 si4", "meaning": "when" },
+      { "id": "dim2joeng6-how", "word": "點樣", "jyutping": "dim2 joeng6", "meaning": "how / in what way" },
+      { "id": "dim2gaai2-why", "word": "點解", "jyutping": "dim2 gaai2", "meaning": "why / how come" }
+    ],
+
+    "people_and_identity": [
+      { "id": "bin1go3-who", "word": "邊個", "jyutping": "bin1 go3", "meaning": "who" },
+      { "id": "bin1wai2-who-polite", "word": "邊位", "jyutping": "bin1 wai2", "meaning": "who (more polite)" },
+      { "id": "hai6bin1go3-who-is-it", "word": "係邊個", "jyutping": "hai6 bin1 go3", "meaning": "who is it?" },
+      { "id": "nei5giu3mat1je5meng2-what-is-your-name", "word": "你叫乜嘢名", "jyutping": "nei5 giu3 mat1 je5 meng2", "meaning": "what is your name?" },
+      { "id": "keoi5hai6bin1go3-who-is-he-or-she", "word": "佢係邊個", "jyutping": "keoi5 hai6 bin1 go3", "meaning": "who is he / she?" }
+    ],
+
+    "things_and_choice": [
+      { "id": "mat1je5-what", "word": "乜嘢", "jyutping": "mat1 je5", "meaning": "what" },
+      { "id": "hai6mat1je5-what-is-it", "word": "係乜嘢", "jyutping": "hai6 mat1 je5", "meaning": "what is it?" },
+      { "id": "bin1go3-which-one", "word": "邊個", "jyutping": "bin1 go3", "meaning": "which one" },
+      { "id": "bin1di1-which-ones", "word": "邊啲", "jyutping": "bin1 di1", "meaning": "which ones" },
+      { "id": "naa1go3-which-that-one", "word": "邊樣", "jyutping": "bin1 joeng6", "meaning": "which kind / which type" }
+    ],
+
+    "place_and_direction": [
+      { "id": "bin1dou6-where", "word": "邊度", "jyutping": "bin1 dou6", "meaning": "where" },
+      { "id": "hai6bin1dou6-where-is-it", "word": "係邊度", "jyutping": "hai6 bin1 dou6", "meaning": "where is it?" },
+      { "id": "bin1dou6lai4-where-from", "word": "邊度嚟", "jyutping": "bin1 dou6 lai4", "meaning": "where are you from?" },
+      { "id": "heoi3bin1dou6-where-going", "word": "去邊度", "jyutping": "heoi3 bin1 dou6", "meaning": "where are you going?" },
+      { "id": "bin1min6-which-side", "word": "邊面", "jyutping": "bin1 min6", "meaning": "which side" }
+    ],
+
+    "time_and_frequency": [
+      { "id": "gei2si4-when", "word": "幾時", "jyutping": "gei2 si4", "meaning": "when" },
+      { "id": "gei2dim2-what-time", "word": "幾點", "jyutping": "gei2 dim2", "meaning": "what time" },
+      { "id": "gei2noi6-how-long", "word": "幾耐", "jyutping": "gei2 noi6", "meaning": "how long" },
+      { "id": "gei2ci3-how-many-times", "word": "幾次", "jyutping": "gei2 ci3", "meaning": "how many times" },
+      { "id": "gei2si4lai4-when-coming", "word": "幾時嚟", "jyutping": "gei2 si4 lai4", "meaning": "when are you coming?" }
+    ],
+
+    "quantity_and_amount": [
+      { "id": "gei2do1-how-many-how-much", "word": "幾多", "jyutping": "gei2 do1", "meaning": "how many / how much" },
+      { "id": "gei2-how-many-small-number", "word": "幾", "jyutping": "gei2", "meaning": "how many (often smaller numbers)" },
+      { "id": "gei2cin2-how-much-money", "word": "幾錢", "jyutping": "gei2 cin2", "meaning": "how much money / how much does it cost?" },
+      { "id": "gei2go3-how-many-general", "word": "幾個", "jyutping": "gei2 go3", "meaning": "how many (general classifier)" },
+      { "id": "gei2di1-how-many-more", "word": "幾多", "jyutping": "gei2 do1", "meaning": "how many / how much" }
+    ],
+
+    "manner_and_reason": [
+      { "id": "dim2joeng6-how", "word": "點樣", "jyutping": "dim2 joeng6", "meaning": "how / in what way" },
+      { "id": "dim2-how", "word": "點", "jyutping": "dim2", "meaning": "how" },
+      { "id": "dim2gaai2-why", "word": "點解", "jyutping": "dim2 gaai2", "meaning": "why / how come" },
+      { "id": "wai6mat1je5-why", "word": "為乜嘢", "jyutping": "wai6 mat1 je5", "meaning": "why" },
+      { "id": "dim2syun3-what-to-do", "word": "點算", "jyutping": "dim2 syun3", "meaning": "what should I do? / what now?" },
+      { "id": "dim2baan2-how-manage", "word": "點辦", "jyutping": "dim2 baan6", "meaning": "how to deal with it / what to do" }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "topic": "particles",
+  "title": "Particles",
+  "description": "Learn common Cantonese particles that add tone, mood, emphasis, questions, and grammar to everyday speech.",
+  "categories": {
+    "sentence_final_particles": [
+      { "id": "aa3-softening-particle", "word": "呀", "jyutping": "aa3", "meaning": "sentence-final particle for softening tone or adding friendliness" },
+      { "id": "laa1-suggestion-particle", "word": "啦", "jyutping": "laa1", "meaning": "sentence-final particle for suggestions, urging, or making tone lighter" },
+      { "id": "laa3-obvious-particle", "word": "啦", "jyutping": "laa3", "meaning": "sentence-final particle meaning 'obviously', 'then', or marking a natural conclusion" },
+      { "id": "wo3-hearsay-noticing-particle", "word": "喎", "jyutping": "wo3", "meaning": "sentence-final particle for hearsay, reminding, or pointing something out" },
+      { "id": "gaa3-emphasis-particle", "word": "㗎", "jyutping": "gaa3", "meaning": "sentence-final particle for emphasis or explanation" },
+      { "id": "ge3-assertion-particle", "word": "嘅", "jyutping": "ge3", "meaning": "sentence-final particle for emphasis, assertion, or explanation" },
+      { "id": "ze1-only-particle", "word": "啫", "jyutping": "ze1", "meaning": "sentence-final particle meaning 'only', 'just', or downplaying something" },
+      { "id": "lo1-obvious-reminder-particle", "word": "囉", "jyutping": "lo1", "meaning": "sentence-final particle for obviousness, resignation, or gentle explanation" },
+      { "id": "tim1-too-also-particle", "word": "添", "jyutping": "tim1", "meaning": "sentence-final particle meaning 'also', 'too', or 'in addition'" },
+      { "id": "maa3-question-softener", "word": "嘛", "jyutping": "maa3", "meaning": "sentence-final particle for stating something obvious, persuasive, or explanatory" }
+    ],
+
+    "question_particles": [
+      { "id": "maa3-question-particle", "word": "嗎", "jyutping": "maa3", "meaning": "question particle used mainly in written Chinese or more formal speech" },
+      { "id": "aa4-question-particle", "word": "呀", "jyutping": "aa4", "meaning": "question particle used in casual Cantonese yes-no questions" },
+      { "id": "me1-surprised-question-particle", "word": "咩", "jyutping": "me1", "meaning": "particle for surprised questions or 'what?'" },
+      { "id": "ho2m4ho2-can-or-not", "word": "可唔可以", "jyutping": "ho2 m4 ho2 ji5", "meaning": "can or not; may I; is it okay to" },
+      { "id": "hai6m4hai6-is-it", "word": "係唔係", "jyutping": "hai6 m4 hai6", "meaning": "is it?; whether or not" },
+      { "id": "ge3maa3-confirming-question", "word": "嘅嗎", "jyutping": "ge3 maa3", "meaning": "question ending used in more written or mixed-style Cantonese" }
+    ],
+
+    "aspect_and_grammar_particles": [
+      { "id": "zo2-completed-aspect", "word": "咗", "jyutping": "zo2", "meaning": "completed action marker; indicates something has happened" },
+      { "id": "gan2-progressive-aspect", "word": "緊", "jyutping": "gan2", "meaning": "progressive aspect marker; indicates an ongoing action" },
+      { "id": "gwo3-experiential-aspect", "word": "過", "jyutping": "gwo3", "meaning": "experiential aspect marker; indicates having done something before" },
+      { "id": "jyu6-continuative-aspect", "word": "住", "jyutping": "zyu6", "meaning": "continuative aspect marker; indicates a continuing state or action" },
+      { "id": "ge2-nominalizer-possessive", "word": "嘅", "jyutping": "ge2", "meaning": "possessive or descriptive particle, similar to 'of' or linking description to noun" },
+      { "id": "lei4-come-doing-purpose", "word": "嚟", "jyutping": "lai4", "meaning": "particle used with verbs to mean 'to come and do' or to show purpose" }
+    ],
+
+    "common_combined_particles": [
+      { "id": "gaa3laa1-emphatic-suggestion", "word": "㗎啦", "jyutping": "gaa3 laa1", "meaning": "combined particle adding emphasis plus softening or urging tone" },
+      { "id": "wo3aa3-reminding-softener", "word": "喎呀", "jyutping": "wo3 aa3", "meaning": "combined particle for pointing something out with a softer tone" },
+      { "id": "laa1wo3-suggestion-reminder", "word": "啦喎", "jyutping": "laa1 wo3", "meaning": "combined particle for soft suggestion plus reminder or realization" },
+      { "id": "ge3wo3-emphatic-reminder", "word": "嘅喎", "jyutping": "ge3 wo3", "meaning": "combined particle for emphasis plus pointing something out" },
+      { "id": "lo1wo3-obvious-reminder", "word": "囉喎", "jyutping": "lo1 wo3", "meaning": "combined particle for obvious explanation plus reminder" }
+    ],
+
+    "high_frequency_spoken_particles": [
+      { "id": "ne1-what-about-particle", "word": "呢", "jyutping": "ne1", "meaning": "particle used for topic marking, follow-up questions, or 'what about...?'" },
+      { "id": "bo3-denial-particle", "word": "噃", "jyutping": "bo3", "meaning": "particle used to contradict, deny, or correct something" },
+      { "id": "tim1-additional-particle", "word": "添", "jyutping": "tim1", "meaning": "particle meaning 'in addition', 'also', or 'even more'" },
+      { "id": "gaa4-current-state-particle", "word": "㗎", "jyutping": "gaa4", "meaning": "spoken particle often heard in casual explanation or emphasis" },
+      { "id": "zek1-just-only-particle", "word": "啫", "jyutping": "zek1", "meaning": "spoken variant meaning 'just', 'only', or downplaying something" }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "topic": "adjectives-one",
+  "title": "Adjectives One",
+  "description": "Learn common Cantonese adjectives for describing people, things, places, feelings, size, and quality in everyday conversation.",
+  "categories": {
+    "basic_descriptions": [
+      { "id": "hou2-good", "word": "好", "jyutping": "hou2", "meaning": "good" },
+      { "id": "caa1-bad", "word": "差", "jyutping": "caa1", "meaning": "bad" },
+      { "id": "leng3-pretty-beautiful", "word": "靚", "jyutping": "leng3", "meaning": "pretty" },
+      { "id": "cau2-ugly", "word": "醜", "jyutping": "cau2", "meaning": "ugly" },
+      { "id": "san1-new", "word": "新", "jyutping": "san1", "meaning": "new" },
+      { "id": "gau6-old", "word": "舊", "jyutping": "gau6", "meaning": "old" },
+      { "id": "hou2m4hou2-good-or-not", "word": "好唔好", "jyutping": "hou2 m4 hou2", "meaning": "good or not" }
+    ],
+
+    "size_and_shape": [
+      { "id": "daai6-big", "word": "大", "jyutping": "daai6", "meaning": "big" },
+      { "id": "sai3-small", "word": "細", "jyutping": "sai3", "meaning": "small" },
+      { "id": "coeng4-long", "word": "長", "jyutping": "coeng4", "meaning": "long" },
+      { "id": "dyun2-short", "word": "短", "jyutping": "dyun2", "meaning": "short in lenght" },
+      { "id": "gou1-tall-high", "word": "高", "jyutping": "gou1", "meaning": "tall" },
+      { "id": "ai2-short-height", "word": "矮", "jyutping": "ai2", "meaning": "short in height" },
+      { "id": "fut3-wide", "word": "闊", "jyutping": "fut3", "meaning": "wide" },
+      { "id": "zaak3-narrow", "word": "窄", "jyutping": "zaak3", "meaning": "narrow" },
+      { "id": "jyun4-round", "word": "圓", "jyutping": "jyun4", "meaning": "round" },
+      { "id": "zim1-pointed-sharp", "word": "尖", "jyutping": "zim1", "meaning": "pointed sharp" }
+    ],
+
+    "quality_and_condition": [
+      { "id": "gwai3-expensive", "word": "貴", "jyutping": "gwai3", "meaning": "expensive" },
+      { "id": "peng4-cheap", "word": "平", "jyutping": "peng4", "meaning": "cheap" },
+      { "id": "hing1-light", "word": "輕", "jyutping": "hing1", "meaning": "light (in weight)" },
+      { "id": "zung6-heavy", "word": "重", "jyutping": "zung6", "meaning": "heavy" },
+      { "id": "gan2-tight", "word": "緊", "jyutping": "gan2", "meaning": "tight" },
+      { "id": "sung1-loose", "word": "鬆", "jyutping": "sung1", "meaning": "loose" },
+      { "id": "gon1-dry", "word": "乾", "jyutping": "gon1", "meaning": "dry" },
+      { "id": "sap1-wet", "word": "濕", "jyutping": "sap1", "meaning": "wet" },
+      { "id": "gon1zeng6-clean", "word": "乾淨", "jyutping": "gon1 zeng6", "meaning": "clean" },
+      { "id": "wu1zou1-dirty", "word": "污糟", "jyutping": "wu1 zou1", "meaning": "dirty" }
+    ],
+
+    "temperature_and_texture": [
+      { "id": "jit6-hot", "word": "熱", "jyutping": "jit6", "meaning": "hot" },
+      { "id": "dung3-cold", "word": "凍", "jyutping": "dung3", "meaning": "cold" },
+      { "id": "nyun5-warm", "word": "暖", "jyutping": "nyun5", "meaning": "warm" },
+      { "id": "loeng4-cool", "word": "涼", "jyutping": "loeng4", "meaning": "cool" },
+      { "id": "waat6-smooth-slippery", "word": "滑", "jyutping": "waat6", "meaning": "smooth" },
+      { "id": "cou1-rough", "word": "粗", "jyutping": "cou1", "meaning": "rough" },
+      { "id": "jyun5-soft", "word": "軟", "jyutping": "jyun5", "meaning": "soft" },
+      { "id": "ngaang6-hard", "word": "硬", "jyutping": "ngaang6", "meaning": "hard" }
+    ],
+
+    "feelings_and_reactions": [
+      { "id": "hoi1sam1-happy", "word": "開心", "jyutping": "hoi1 sam1", "meaning": "happy" },
+      { "id": "m4hoi1sam1-unhappy", "word": "唔開心", "jyutping": "m4 hoi1 sam1", "meaning": "unhappy" },
+      { "id": "mun6-bored", "word": "悶", "jyutping": "mun6", "meaning": "boring" },
+      { "id": "jau5ceoi3-interesting", "word": "有趣", "jyutping": "jau5 ceoi3", "meaning": "interesting" },
+      { "id": "naan4-difficult", "word": "難", "jyutping": "naan4", "meaning": "difficult" },
+      { "id": "jung4ji6-easy", "word": "容易", "jyutping": "jung4 ji6", "meaning": "easy" },
+      { "id": "zeng3-great-awesome", "word": "正", "jyutping": "zeng3", "meaning": "great" },
+      { "id": "laan5-lazy", "word": "懶", "jyutping": "laan5", "meaning": "lazy" }
+    ],
+
+    "people_descriptions": [
+      { "id": "lek1-smart-capable", "word": "叻", "jyutping": "lek1", "meaning": "smart" },
+      { "id": "ban6-stupid-silly", "word": "笨", "jyutping": "ban6", "meaning": "stupid" },
+      { "id": "jau5lai5maau6-polite", "word": "有禮貌", "jyutping": "jau5 lai5 maau6", "meaning": "polite" },
+      { "id": "mou5lai5maau6-rude", "word": "冇禮貌", "jyutping": "mou5 lai5 maau6", "meaning": "rude" },
+      { "id": "siu2sam1-careful", "word": "小心", "jyutping": "siu2 sam1", "meaning": "careful" },
+      { "id": "sin6loeng4-kind", "word": "善良", "jyutping": "sin6 loeng4", "meaning": "kind" },
+      { "id": "jit6cing4-enthusiastic", "word": "熱情", "jyutping": "jit6 cing4", "meaning": "enthusiastic" },
+      { "id": "caam2-poor-pitiful", "word": "慘", "jyutping": "caam2", "meaning": "pitiful" }
+    ],
+
+    "taste_and_food_descriptions": [
+      { "id": "tim4-sweet", "word": "甜", "jyutping": "tim4", "meaning": "sweet" },
+      { "id": "syun1-sour", "word": "酸", "jyutping": "syun1", "meaning": "sour" },
+      { "id": "haam4-salty", "word": "鹹", "jyutping": "haam4", "meaning": "salty" },
+      { "id": "laat6-spicy", "word": "辣", "jyutping": "laat6", "meaning": "spicy" },
+      { "id": "fu2-bitter", "word": "苦", "jyutping": "fu2", "meaning": "bitter" },
+      { "id": "sin1-fresh-delicious", "word": "鮮", "jyutping": "sin1", "meaning": "fresh" },
+      { "id": "hou2mei6-delicious", "word": "好味", "jyutping": "hou2 mei6", "meaning": "tasty" },
+      { "id": "naan4sik6-not-tasty", "word": "難食", "jyutping": "naan4 sik6", "meaning": "not tasty" }
+    ]
+  }
+}

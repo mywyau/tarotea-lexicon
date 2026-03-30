@@ -1,0 +1,68 @@
+{
+  "topic": "jobs-professions",
+  "title": "Jobs & Professions",
+  "description": "Learn common Cantonese words for jobs, professions, and types of work used in everyday conversation.",
+  "categories": {
+    "common_jobs": [
+      { "id": "gung1jan4-worker", "word": "工人", "jyutping": "gung1 jan4", "meaning": "worker" },
+      { "id": "zung2lei5-manager", "word": "經理", "jyutping": "ging1 lei5", "meaning": "manager" },
+      { "id": "lou5baan2-boss", "word": "老闆", "jyutping": "lou5 baan2", "meaning": "boss" },
+      { "id": "syu1gei3-secretary", "word": "書記", "jyutping": "syu1 gei3", "meaning": "secretary / clerk" },
+      { "id": "si1gei1-driver", "word": "司機", "jyutping": "si1 gei1", "meaning": "driver" },
+      { "id": "zam1ceoi3-tailor", "word": "裁縫", "jyutping": "coi4 fung4", "meaning": "tailor" },
+      { "id": "soeng1jan4-businessperson", "word": "商人", "jyutping": "soeng1 jan4", "meaning": "businessperson / merchant" },
+      { "id": "gung1jan4-construction-worker", "word": "工人", "jyutping": "gung1 jan4", "meaning": "labourer / construction worker" }
+    ],
+
+    "office_and_business_jobs": [
+      { "id": "baan1gung1sat1jyun4-office-worker", "word": "辦公室職員", "jyutping": "baan6 gung1 sat1 zik1 jyun4", "meaning": "office worker" },
+      { "id": "wu6lei5-assistant-manager", "word": "助理", "jyutping": "zo6 lei5", "meaning": "assistant" },
+      { "id": "wui6gei3-accountant", "word": "會計", "jyutping": "wui6 gai3", "meaning": "accountant" },
+      { "id": "jin4syut3jyun4-salesperson", "word": "售貨員", "jyutping": "sau6 fo3 jyun4", "meaning": "salesperson / shop assistant" },
+      { "id": "haang4zing3jyun4-admin-staff", "word": "行政人員", "jyutping": "hang4 zing3 jan4 jyun4", "meaning": "administrative staff" },
+      { "id": "keoi4ngaam4gok3-consultant", "word": "顧問", "jyutping": "gu3 man6", "meaning": "consultant" },
+      { "id": "ci3mat6jyun4-secretarial-staff", "word": "文員", "jyutping": "man4 jyun4", "meaning": "office clerk" }
+    ],
+
+    "public_service_jobs": [
+      { "id": "lou5si1-teacher", "word": "老師", "jyutping": "lou5 si1", "meaning": "teacher" },
+      { "id": "ji1sang1-doctor", "word": "醫生", "jyutping": "ji1 sang1", "meaning": "doctor" },
+      { "id": "wu6si6-nurse", "word": "護士", "jyutping": "wu6 si6", "meaning": "nurse" },
+      { "id": "ging2caat3-police-officer", "word": "警察", "jyutping": "ging2 caat3", "meaning": "police officer" },
+      { "id": "siu1fong4jyun4-firefighter", "word": "消防員", "jyutping": "siu1 fong4 jyun4", "meaning": "firefighter" },
+      { "id": "gei3ze2-journalist", "word": "記者", "jyutping": "gei3 ze2", "meaning": "reporter / journalist" },
+      { "id": "se5gung1-social-worker", "word": "社工", "jyutping": "se5 gung1", "meaning": "social worker" }
+    ],
+
+    "skilled_and_specialist_jobs": [
+      { "id": "gung1cing4si1-engineer", "word": "工程師", "jyutping": "gung1 cing4 si1", "meaning": "engineer" },
+      { "id": "zing3si1-lawyer", "word": "律師", "jyutping": "leot6 si1", "meaning": "lawyer" },
+      { "id": "zin2cuk1si1-architect", "word": "建築師", "jyutping": "gin3 zuk1 si1", "meaning": "architect" },
+      { "id": "fo1hok6gaa1-scientist", "word": "科學家", "jyutping": "fo1 hok6 gaa1", "meaning": "scientist" },
+      { "id": "jik6jat6faan1jik6jyun4-translator", "word": "翻譯員", "jyutping": "faan1 jik6 jyun4", "meaning": "translator / interpreter" },
+      { "id": "cing4zoek3gaa1-writer", "word": "作家", "jyutping": "zok3 gaa1", "meaning": "writer / author" },
+      { "id": "ngok6gaa1-musician", "word": "音樂家", "jyutping": "jam1 ngok6 gaa1", "meaning": "musician" }
+    ],
+
+    "service_and_hospitality_jobs": [
+      { "id": "caan1teng1fuk6mou6jyun4-waiter", "word": "服務員", "jyutping": "fuk6 mou6 jyun4", "meaning": "server / waiter / service staff" },
+      { "id": "ceoi4si1-chef", "word": "廚師", "jyutping": "cyu4 si1", "meaning": "chef / cook" },
+      { "id": "bou2on1-security-guard", "word": "保安", "jyutping": "bou2 on1", "meaning": "security guard" },
+      { "id": "ceoi4faat3si1-hairdresser", "word": "髮型師", "jyutping": "faat3 jing4 si1", "meaning": "hairdresser / hairstylist" },
+      { "id": "cing1zit3gung1jan4-cleaner", "word": "清潔工人", "jyutping": "cing1 git3 gung1 jan4", "meaning": "cleaner / cleaning worker" },
+      { "id": "faat3si1-barber", "word": "理髮師", "jyutping": "lei5 faat3 si1", "meaning": "barber" },
+      { "id": "soeng2mun4fuk6mou6-home-service-worker", "word": "上門服務員", "jyutping": "soeng5 mun4 fuk6 mou6 jyun4", "meaning": "home service worker" }
+    ],
+
+    "work_and_employment_words": [
+      { "id": "gung1zok3-work", "word": "工作", "jyutping": "gung1 zok3", "meaning": "work / job" },
+      { "id": "haang4jip6-industry", "word": "行業", "jyutping": "hong4 jip6", "meaning": "industry / profession" },
+      { "id": "zik1jip6-occupation", "word": "職業", "jyutping": "zik1 jip6", "meaning": "occupation / profession" },
+      { "id": "soeng1baan1-go-to-work", "word": "返工", "jyutping": "faan1 gung1", "meaning": "to go to work" },
+      { "id": "haa5baan1-get-off-work", "word": "放工", "jyutping": "fong3 gung1", "meaning": "to finish work / get off work" },
+      { "id": "cam4gung1-look-for-work", "word": "搵工", "jyutping": "wan2 gung1", "meaning": "to look for a job" },
+      { "id": "sik1jip6-unemployed", "word": "失業", "jyutping": "sat1 jip6", "meaning": "unemployed / to lose one's job" },
+      { "id": "gung1zeoi2-wages-salary", "word": "人工", "jyutping": "jan4 gung1", "meaning": "salary / wages" }
+    ]
+  }
+}

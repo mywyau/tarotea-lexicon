@@ -1,0 +1,55 @@
+{
+  "topic": "news-media",
+  "title": "News & Media",
+  "description": "Learn common words used in news, media, and online content, including reporting, journalism, and digital platforms.",
+  "categories": {
+    "news_types": [
+      { "id": "san1man4-news", "word": "新聞", "jyutping": "san1 man4", "meaning": "news" },
+      { "id": "tau4tiu4-headlines", "word": "頭條", "jyutping": "tau4 tiu4", "meaning": "headline" },
+      { "id": "san1man4bou3-newspaper", "word": "新聞報", "jyutping": "san1 man4 bou3", "meaning": "newspaper" },
+      { "id": "zaap3zi2-magazine", "word": "雜誌", "jyutping": "zaap3 zi2", "meaning": "magazine" },
+      { "id": "din6si6san1man4-tv-news", "word": "電視新聞", "jyutping": "din6 si6 san1 man4", "meaning": "TV news" },
+      { "id": "wong5soeng6san1man4-online-news", "word": "網上新聞", "jyutping": "mong5 soeng6 san1 man4", "meaning": "online news" }
+    ],
+
+    "media_people": [
+      { "id": "gei3ze2-reporter", "word": "記者", "jyutping": "gei3 ze2", "meaning": "reporter / journalist" },
+      { "id": "bou3dou6jyun4-presenter", "word": "報導員", "jyutping": "bou3 dou6 jyun4", "meaning": "news presenter" },
+      { "id": "zit3zi2-editor", "word": "編輯", "jyutping": "pin1 zaap6", "meaning": "editor" },
+      { "id": "dang1bou3jan4-publisher", "word": "登報人", "jyutping": "dang1 bou3 jan4", "meaning": "publisher" },
+      { "id": "hok6ze2-analyst", "word": "學者", "jyutping": "hok6 ze2", "meaning": "scholar / analyst" }
+    ],
+
+    "reporting_actions": [
+      { "id": "bou3dou6-report", "word": "報導", "jyutping": "bou3 dou6", "meaning": "to report (news)" },
+      { "id": "san1bou3-announce", "word": "宣布", "jyutping": "syun1 bou3", "meaning": "to announce" },
+      { "id": "jing6ming4-confirm", "word": "證明", "jyutping": "zing3 ming4", "meaning": "to confirm / prove" },
+      { "id": "ji5wai4-claim", "word": "以為", "jyutping": "ji5 wai4", "meaning": "to believe / think (often incorrectly)" },
+      { "id": "jiu3kau4-request", "word": "要求", "jyutping": "jiu1 kau4", "meaning": "to request / demand" }
+    ],
+
+    "media_platforms": [
+      { "id": "din6si6-television", "word": "電視", "jyutping": "din6 si6", "meaning": "television" },
+      { "id": "mong5soeng6-internet-online", "word": "網上", "jyutping": "mong5 soeng6", "meaning": "online / on the internet" },
+      { "id": "soeng2pin3-video", "word": "影片", "jyutping": "jing2 pin3", "meaning": "video" },
+      { "id": "hei3cin2-podcast", "word": "播客", "jyutping": "bo3 haak3", "meaning": "podcast" },
+      { "id": "se2kau4ming4-social-media", "word": "社交媒體", "jyutping": "se5 gaau1 mui4 tai2", "meaning": "social media" }
+    ],
+
+    "digital_media": [
+      { "id": "faai3san1-updates", "word": "快訊", "jyutping": "faai3 seon3", "meaning": "breaking news / update" },
+      { "id": "zing3dik1-direct-live", "word": "直播", "jyutping": "zik6 bo3", "meaning": "live broadcast / livestream" },
+      { "id": "ping4lun6-comment", "word": "評論", "jyutping": "ping4 leon6", "meaning": "commentary / comment" },
+      { "id": "zan3zan3-viral", "word": "爆紅", "jyutping": "baau3 hung4", "meaning": "to go viral" },
+      { "id": "faan1fong1-share", "word": "分享", "jyutping": "fan1 heung2", "meaning": "to share (online)" }
+    ],
+
+    "common_news_terms": [
+      { "id": "si6gin6-incident", "word": "事件", "jyutping": "si6 gin6", "meaning": "incident / event" },
+      { "id": "si6cing4-situation", "word": "事情", "jyutping": "si6 cing4", "meaning": "situation / matter" },
+      { "id": "gaau1co3-mistake", "word": "搞錯", "jyutping": "gaau2 co3", "meaning": "mistake / misunderstanding" },
+      { "id": "jing4soeng4-normal", "word": "正常", "jyutping": "zing3 soeng4", "meaning": "normal / usual" },
+      { "id": "cung4-situation-follow", "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation / condition" }
+    ]
+  }
+}

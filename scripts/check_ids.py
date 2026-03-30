@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 
-TOPICS_FILE = Path("content/topics/buildings-local-services.json")
+TOPICS_FILE = Path("content/topics/adjectives-one.json")
 
 
 def normalize_jyutping(jyutping: str) -> str:
@@ -10,7 +10,7 @@ def normalize_jyutping(jyutping: str) -> str:
 
 
 def extract_id_prefix(word_id: str) -> str:
-    return word_id.split("", 1)[0]
+    return word_id.split("-", 1)[0]
 
 
 def main() -> None:

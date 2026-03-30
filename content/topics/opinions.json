@@ -1,0 +1,61 @@
+{
+  "topic": "opinions",
+  "title": "Opinions",
+  "description": "Learn how to express opinions, preferences, agreement, disagreement, and personal reactions in everyday Cantonese.",
+  "categories": {
+    "basic_opinions": [
+      { "id": "ngo5nam2-i-think", "word": "我諗", "jyutping": "ngo5 nam2", "meaning": "I think" },
+      { "id": "ngo5guei2dak1-i-remember-think", "word": "我記得", "jyutping": "ngo5 gei3 dak1", "meaning": "I remember / I think I remember" },
+      { "id": "ngo5goek3dak1-i-feel-think", "word": "我覺得", "jyutping": "ngo5 gok3 dak1", "meaning": "I think / I feel" },
+      { "id": "taai3hou2-very-good", "word": "太好", "jyutping": "taai3 hou2", "meaning": "very good" },
+      { "id": "m4hou2-not-good", "word": "唔好", "jyutping": "m4 hou2", "meaning": "not good / bad" },
+      { "id": "hou2-good", "word": "好", "jyutping": "hou2", "meaning": "good" },
+      { "id": "caa1-poor-bad", "word": "差", "jyutping": "caa1", "meaning": "bad / poor" }
+    ],
+
+    "likes_and_dislikes": [
+      { "id": "zung1ji3-like", "word": "鍾意", "jyutping": "zung1 ji3", "meaning": "to like" },
+      { "id": "m4zung1ji3-dislike", "word": "唔鍾意", "jyutping": "m4 zung1 ji3", "meaning": "to dislike / not like" },
+      { "id": "oi3-love", "word": "愛", "jyutping": "oi3", "meaning": "to love" },
+      { "id": "haan6-hate", "word": "恨", "jyutping": "han6", "meaning": "to hate" },
+      { "id": "jung6ji6-prefer", "word": "寧願", "jyutping": "ning4 jyun6", "meaning": "would rather / prefer" },
+      { "id": "bei2hei2-compared-to", "word": "比起", "jyutping": "bei2 hei2", "meaning": "compared with" }
+    ],
+
+    "agreement_and_disagreement": [
+      { "id": "hai6-yes-correct", "word": "係", "jyutping": "hai6", "meaning": "yes / is / correct" },
+      { "id": "m4hai6-no-not", "word": "唔係", "jyutping": "m4 hai6", "meaning": "no / not" },
+      { "id": "ngo5tung4ji3-i-agree", "word": "我同意", "jyutping": "ngo5 tung4 ji3", "meaning": "I agree" },
+      { "id": "ngo5m4tung4ji3-i-disagree", "word": "我唔同意", "jyutping": "ngo5 m4 tung4 ji3", "meaning": "I disagree" },
+      { "id": "dak1-okay-works", "word": "得", "jyutping": "dak1", "meaning": "okay / works / acceptable" },
+      { "id": "m4dak1-not-okay", "word": "唔得", "jyutping": "m4 dak1", "meaning": "not okay / won’t do" }
+    ],
+
+    "certainty_and_uncertainty": [
+      { "id": "ho2nang4-maybe-possible", "word": "可能", "jyutping": "ho2 nang4", "meaning": "maybe / possible" },
+      { "id": "jat1ding6-definitely", "word": "一定", "jyutping": "jat1 ding6", "meaning": "definitely / certainly" },
+      { "id": "daai3goi3-probably", "word": "大概", "jyutping": "daai6 koi3", "meaning": "probably / roughly" },
+      { "id": "jau5siu2siu2-maybe-a-bit", "word": "有少少", "jyutping": "jau5 siu2 siu2", "meaning": "a little / somewhat" },
+      { "id": "m4zi1-not-know", "word": "唔知", "jyutping": "m4 zi1", "meaning": "don’t know" },
+      { "id": "soeng2hai6-seems-like", "word": "好似", "jyutping": "hou2 ci5", "meaning": "seems like / looks like" }
+    ],
+
+    "personal_reactions": [
+      { "id": "hou2jiu3jat1-like-this", "word": "好正", "jyutping": "hou2 zeng3", "meaning": "great / awesome" },
+      { "id": "hou2jan2-boring", "word": "好悶", "jyutping": "hou2 mun6", "meaning": "very boring" },
+      { "id": "hou2jeng2-pretty", "word": "好靚", "jyutping": "hou2 leng3", "meaning": "very pretty / beautiful" },
+      { "id": "hou2ci2-interesting", "word": "好有趣", "jyutping": "hou2 jau5 ceoi3", "meaning": "very interesting" },
+      { "id": "hou2naan4-difficult", "word": "好難", "jyutping": "hou2 naan4", "meaning": "very difficult" },
+      { "id": "hou2jung6ji3-enjoyable", "word": "好好玩", "jyutping": "hou2 hou2 waan2", "meaning": "very fun" }
+    ],
+
+    "opinion_phrases": [
+      { "id": "ngo5goek3dak1-i-think-feel", "word": "我覺得", "jyutping": "ngo5 gok3 dak1", "meaning": "I think / I feel" },
+      { "id": "ngo5nam2zyu6-in-my-view", "word": "我諗住", "jyutping": "ngo5 nam2 zyu6", "meaning": "I’m thinking / I’m planning" },
+      { "id": "jau5dou6lei5-makes-sense", "word": "有道理", "jyutping": "jau5 dou6 lei5", "meaning": "makes sense / reasonable" },
+      { "id": "m4taai3hou2-not-so-good", "word": "唔太好", "jyutping": "m4 taai3 hou2", "meaning": "not very good" },
+      { "id": "kei4sat6-actually", "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually" },
+      { "id": "jan1wai6-because", "word": "因為", "jyutping": "jan1 wai6", "meaning": "because" }
+    ]
+  }
+}

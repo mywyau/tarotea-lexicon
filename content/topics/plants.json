@@ -1,0 +1,63 @@
+{
+  "topic": "plants",
+  "title": "Plants",
+  "description": "Learn common Cantonese words for plants, flowers, trees, leaves, and other nature-related vocabulary used in everyday life.",
+  "categories": {
+    "basic_plant_words": [
+      { "id": "zik6mat6-plant", "word": "植物", "jyutping": "zik6 mat6", "meaning": "plant" },
+      { "id": "faa1-flower", "word": "花", "jyutping": "faa1", "meaning": "flower" },
+      { "id": "syu6-tree", "word": "樹", "jyutping": "syu6", "meaning": "tree" },
+      { "id": "cou2-grass", "word": "草", "jyutping": "cou2", "meaning": "grass" },
+      { "id": "jip6-leaf", "word": "葉", "jyutping": "jip6", "meaning": "leaf" },
+      { "id": "gan1-root", "word": "根", "jyutping": "gan1", "meaning": "root" },
+      { "id": "zi2-seed", "word": "種子", "jyutping": "zung2 zi2", "meaning": "seed" },
+      { "id": "zi1-branch", "word": "枝", "jyutping": "zi1", "meaning": "branch" },
+      { "id": "faa1faat3-petal", "word": "花瓣", "jyutping": "faa1 faan6", "meaning": "petal" },
+      { "id": "gwo2sat6-fruit", "word": "果實", "jyutping": "gwo2 sat6", "meaning": "fruit (of a plant)" }
+    ],
+
+    "common_plants_and_flowers": [
+      { "id": "玫瑰-rose", "word": "玫瑰", "jyutping": "mui4 gwai3", "meaning": "rose" },
+      { "id": "laap6muk6-orchid", "word": "蘭花", "jyutping": "laan4 faa1", "meaning": "orchid" },
+      { "id": "guk1faa1-chrysanthemum", "word": "菊花", "jyutping": "guk1 faa1", "meaning": "chrysanthemum" },
+      { "id": "lin4faa1-lotus", "word": "蓮花", "jyutping": "lin4 faa1", "meaning": "lotus" },
+      { "id": "joeng4zi2-sunflower", "word": "向日葵", "jyutping": "hoeng3 jat6 kwai4", "meaning": "sunflower" },
+      { "id": "coi3faa1-vegetable-flower", "word": "菜花", "jyutping": "coi3 faa1", "meaning": "cauliflower / flower vegetable" },
+      { "id": "cing1toi4-moss", "word": "青苔", "jyutping": "cing1 toi4", "meaning": "moss" },
+      { "id": "teng4-ivy-vine", "word": "藤", "jyutping": "tang4", "meaning": "vine / creeper" }
+    ],
+
+    "trees_and_woodland": [
+      { "id": "muk6-tree-wood", "word": "木", "jyutping": "muk6", "meaning": "wood / tree" },
+      { "id": "zung1syu6-pine-tree", "word": "松樹", "jyutping": "cung4 syu6", "meaning": "pine tree" },
+      { "id": "lau4syu6-willow-tree", "word": "柳樹", "jyutping": "lau5 syu6", "meaning": "willow tree" },
+      { "id": "gwo2syu6-fruit-tree", "word": "果樹", "jyutping": "gwo2 syu6", "meaning": "fruit tree" },
+      { "id": "syu6gon3-tree-trunk", "word": "樹幹", "jyutping": "syu6 gon3", "meaning": "tree trunk" },
+      { "id": "syu6pei4-tree-bark", "word": "樹皮", "jyutping": "syu6 pei4", "meaning": "tree bark" },
+      { "id": "sam1lam4-forest", "word": "森林", "jyutping": "sam1 lam4", "meaning": "forest" },
+      { "id": "lam4-woods", "word": "林", "jyutping": "lam4", "meaning": "woods / grove" }
+    ],
+
+    "garden_and_growing": [
+      { "id": "faa1jyun4-garden", "word": "花園", "jyutping": "faa1 jyun4", "meaning": "garden" },
+      { "id": "zyun3zok3-to-plant-grow", "word": "種", "jyutping": "zung3", "meaning": "to plant / to grow" },
+      { "id": "seoi2-water-plants", "word": "淋水", "jyutping": "lam4 seoi2", "meaning": "to water plants" },
+      { "id": "faat3ngaa4-sprout", "word": "發芽", "jyutping": "faat3 ngaa4", "meaning": "to sprout" },
+      { "id": "sing1zoeng2-grow", "word": "生長", "jyutping": "sang1 zoeng2", "meaning": "to grow" },
+      { "id": "hoi1faa1-bloom", "word": "開花", "jyutping": "hoi1 faa1", "meaning": "to bloom / flower" },
+      { "id": "zit3jip6-fallen-leaf", "word": "落葉", "jyutping": "lok6 jip6", "meaning": "fallen leaf / leaves falling" },
+      { "id": "paang4jau5-potted-plant", "word": "盆栽", "jyutping": "pun4 zoi1", "meaning": "potted plant / bonsai" }
+    ],
+
+    "plant_descriptions": [
+      { "id": "cing1-green", "word": "青", "jyutping": "cing1", "meaning": "green" },
+      { "id": "luk6-green", "word": "綠", "jyutping": "luk6", "meaning": "green" },
+      { "id": "sin1-fresh", "word": "鮮", "jyutping": "sin1", "meaning": "fresh" },
+      { "id": "wiu1-withered", "word": "蔫", "jyutping": "jin1", "meaning": "withered" },
+      { "id": "gon1-dry", "word": "乾", "jyutping": "gon1", "meaning": "dry" },
+      { "id": "sap1-wet", "word": "濕", "jyutping": "sap1", "meaning": "wet" },
+      { "id": "mou5sang1hei3-not-lively", "word": "冇生氣", "jyutping": "mou5 sang1 hei3", "meaning": "lifeless / not thriving" },
+      { "id": "mou5noting6-lush", "word": "茂盛", "jyutping": "mau6 sing6", "meaning": "lush / thriving" }
+    ]
+  }
+}
