@@ -1,26 +1,26 @@
 {
   "topic": "gemstones-jewellery",
   "title": "Gemstones & Jewellery",
-  "description": "Learn common Cantonese words for jewellery, gemstones, precious materials, and accessories used in shopping and everyday conversation.",
+  "description": "Study jewellery, gemstones, precious materials, and accessories used in shopping and everyday conversation.",
   "categories": {
     "basic_jewellery_items": [
-      { "id": "sau2cyun3-bracelet", "word": "手串", "jyutping": "sau2 cyun3", "meaning": "bead bracelet" },
-      { "id": "sau2ling6-bracelet", "word": "手鏈", "jyutping": "sau2 lin2", "meaning": "chain bracelet" },
-      { "id": "gaa3zi2-ring", "word": "戒指", "jyutping": "gaai3 zi2", "meaning": "ring" },
-      { "id": "ji5waan6-earring", "word": "耳環", "jyutping": "ji5 waan4", "meaning": "earring" },
+      { "id": "sau2cyun3-bracelet", "word": "手串", "jyutping": "sau2 cyun3", "meaning": "bracelet" },
+      { "id": "sau2lin2-bracelet-chain", "word": "手鏈", "jyutping": "sau2 lin2", "meaning": "chain bracelet" },
+      { "id": "gaai3zi2-ring", "word": "戒指", "jyutping": "gaai3 zi2", "meaning": "ring" },
+      { "id": "ji5waan4-earring", "word": "耳環", "jyutping": "ji5 waan4", "meaning": "earring" },
       { "id": "geng2lin2-necklace", "word": "頸鏈", "jyutping": "geng2 lin2", "meaning": "necklace" },
       { "id": "hung1zam1-brooch", "word": "胸針", "jyutping": "hung1 zam1", "meaning": "brooch" },
-      { "id": "zap1sak1-ornament-jewellery", "word": "首飾", "jyutping": "sau2 sik1", "meaning": "jewellery / accessories" },
-      { "id": "mut6sek6-cufflink", "word": "袖口鈕", "jyutping": "zau6 hau2 nau2", "meaning": "cufflink" }
+      { "id": "sau2sik1-jewellery", "word": "首飾", "jyutping": "sau2 sik1", "meaning": "jewellery" },
+      { "id": "zau6hau2nau2-cufflink", "word": "袖口鈕", "jyutping": "zau6 hau2 nau2", "meaning": "cufflink" }
     ],
 
     "gemstones": [
-      { "id": "zuk1sek6-gemstone", "word": "寶石", "jyutping": "bou2 sek6", "meaning": "gemstone / precious stone" },
-      { "id": "dyun1sek6-diamond", "word": "鑽石", "jyutping": "zyun3 sek6", "meaning": "diamond" },
+      { "id": "bou2sek6-gemstone", "word": "寶石", "jyutping": "bou2 sek6", "meaning": "gemstone" },
+      { "id": "zyun3sek6-diamond", "word": "鑽石", "jyutping": "zyun3 sek6", "meaning": "diamond" },
       { "id": "hung4bou2sek6-ruby", "word": "紅寶石", "jyutping": "hung4 bou2 sek6", "meaning": "ruby" },
       { "id": "laam4bou2sek6-sapphire", "word": "藍寶石", "jyutping": "laam4 bou2 sek6", "meaning": "sapphire" },
       { "id": "luk6bou2sek6-emerald", "word": "綠寶石", "jyutping": "luk6 bou2 sek6", "meaning": "emerald" },
-      { "id": "ngaan6zau1-pearl", "word": "珍珠", "jyutping": "zan1 zyu1", "meaning": "pearl" },
+      { "id": "zan1zyu1-pearl", "word": "珍珠", "jyutping": "zan1 zyu1", "meaning": "pearl" },
       { "id": "juk6-jade", "word": "玉", "jyutping": "juk6", "meaning": "jade" },
       { "id": "seoi2zing1-crystal", "word": "水晶", "jyutping": "seoi2 zing1", "meaning": "crystal" }
     ],
@@ -28,40 +28,40 @@
     "precious_materials": [
       { "id": "gam1-gold", "word": "金", "jyutping": "gam1", "meaning": "gold" },
       { "id": "baak6ngan4-silver", "word": "白銀", "jyutping": "baak6 ngan4", "meaning": "silver" },
-      { "id": "paak3gam1-platinum", "word": "鉑金", "jyutping": "pak6 gam1", "meaning": "platinum" },
-      { "id": "tong4-copper", "word": "銅", "jyutping": "tung4", "meaning": "copper" },
+      { "id": "pak6gam1-platinum", "word": "鉑金", "jyutping": "pak6 gam1", "meaning": "platinum" },
+      { "id": "tung4-copper", "word": "銅", "jyutping": "tung4", "meaning": "copper" },
       { "id": "hap6gam1-alloy", "word": "合金", "jyutping": "hap6 gam1", "meaning": "alloy" },
-      { "id": "gam1sik1-golden-colour", "word": "金色", "jyutping": "gam1 sik1", "meaning": "golden colour" },
-      { "id": "ngan4sik1-silver-colour", "word": "銀色", "jyutping": "ngan4 sik1", "meaning": "silver colour" }
+      { "id": "gam1sik1-golden", "word": "金色", "jyutping": "gam1 sik1", "meaning": "golden" },
+      { "id": "ngan4sik1-silver-colour", "word": "銀色", "jyutping": "ngan4 sik1", "meaning": "silver-coloured" }
     ],
 
     "parts_and_features": [
-      { "id": "to1-setting-mount", "word": "托", "jyutping": "tok3", "meaning": "setting / mount" },
+      { "id": "tok3-setting", "word": "托", "jyutping": "tok3", "meaning": "setting" },
       { "id": "lin2-chain", "word": "鏈", "jyutping": "lin2", "meaning": "chain" },
-      { "id": "zoek3-hanging-ornament", "word": "吊墜", "jyutping": "diu3 zeoi6", "meaning": "pendant" },
-      { "id": "kau3-clasp-hook", "word": "扣", "jyutping": "kau3", "meaning": "clasp / fastening" },
-      { "id": "mong4polish-polished", "word": "拋光", "jyutping": "paau1 gwong1", "meaning": "polished / polishing" },
-      { "id": "faan1gwong1-shiny", "word": "反光", "jyutping": "faan2 gwong1", "meaning": "reflective / shiny" }
+      { "id": "diu3zeoi6-pendant", "word": "吊墜", "jyutping": "diu3 zeoi6", "meaning": "pendant" },
+      { "id": "kau3-clasp", "word": "扣", "jyutping": "kau3", "meaning": "clasp" },
+      { "id": "paau1gwong1-polishing", "word": "拋光", "jyutping": "paau1 gwong1", "meaning": "polishing" },
+      { "id": "faan2gwong1-reflective", "word": "反光", "jyutping": "faan2 gwong1", "meaning": "reflective" }
     ],
 
     "shopping_and_use": [
-      { "id": "maai5-buy", "word": "買", "jyutping": "maai5", "meaning": "to buy" },
-      { "id": "maai6-sell", "word": "賣", "jyutping": "maai6", "meaning": "to sell" },
+      { "id": "maai5-buy", "word": "買", "jyutping": "maai5", "meaning": "buy" },
+      { "id": "maai6-sell", "word": "賣", "jyutping": "maai6", "meaning": "sell" },
       { "id": "gwai3-expensive", "word": "貴", "jyutping": "gwai3", "meaning": "expensive" },
-      { "id": "ping4-cheap", "word": "平", "jyutping": "peng4", "meaning": "cheap" },
-      { "id": "zan1-real-genuine", "word": "真", "jyutping": "zan1", "meaning": "real / genuine" },
+      { "id": "peng4-cheap", "word": "平", "jyutping": "peng4", "meaning": "cheap" },
+      { "id": "zan1-genuine", "word": "真", "jyutping": "zan1", "meaning": "genuine" },
       { "id": "gaa2-fake", "word": "假", "jyutping": "gaa2", "meaning": "fake" },
-      { "id": "bou2jin3-maintain-care-for", "word": "保養", "jyutping": "bou2 joeng5", "meaning": "to maintain / take care of" },
-      { "id": "soeng2dai3-wear-put-on", "word": "戴", "jyutping": "daai3", "meaning": "to wear (accessories)" }
+      { "id": "bou2joeng5-maintain", "word": "保養", "jyutping": "bou2 joeng5", "meaning": "maintain" },
+      { "id": "daai3-wear", "word": "戴", "jyutping": "daai3", "meaning": "wear" }
     ],
 
     "special_types": [
-      { "id": "git3fan1gaa3zi2-wedding-ring", "word": "結婚戒指", "jyutping": "git3 fan1 gaai3 zi2", "meaning": "wedding ring" },
-      { "id": "zoek3sek6gaa3zi2-gemstone-ring", "word": "寶石戒指", "jyutping": "bou2 sek6 gaai3 zi2", "meaning": "gemstone ring" },
-      { "id": "dyun1sek6ji5waan6-diamond-earrings", "word": "鑽石耳環", "jyutping": "zyun3 sek6 ji5 waan4", "meaning": "diamond earrings" },
-      { "id": "ngaan6zau1geng2lin2-pearl-necklace", "word": "珍珠頸鏈", "jyutping": "zan1 zyu1 geng2 lin2", "meaning": "pearl necklace" },
-      { "id": "juk6pei3-jade-pendant", "word": "玉佩", "jyutping": "juk6 pui3", "meaning": "jade pendant" },
-      { "id": "sau2biu1-watch", "word": "手錶", "jyutping": "sau2 biu1", "meaning": "watch / wristwatch" }
+      { "id": "git3fan1gaai3zi2-wedding-ring", "word": "結婚戒指", "jyutping": "git3 fan1 gaai3 zi2", "meaning": "wedding ring" },
+      { "id": "bou2sek6gaai3zi2-gemstone-ring", "word": "寶石戒指", "jyutping": "bou2 sek6 gaai3 zi2", "meaning": "gemstone ring" },
+      { "id": "zyun3sek6ji5waan4-diamond-earrings", "word": "鑽石耳環", "jyutping": "zyun3 sek6 ji5 waan4", "meaning": "diamond earrings" },
+      { "id": "zan1zyu1geng2lin2-pearl-necklace", "word": "珍珠頸鏈", "jyutping": "zan1 zyu1 geng2 lin2", "meaning": "pearl necklace" },
+      { "id": "juk6pui3-jade-pendant", "word": "玉佩", "jyutping": "juk6 pui3", "meaning": "jade pendant" },
+      { "id": "sau2biu1-watch", "word": "手錶", "jyutping": "sau2 biu1", "meaning": "watch" }
     ]
   }
 }
