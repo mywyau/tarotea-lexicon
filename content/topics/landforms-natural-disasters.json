@@ -5,20 +5,20 @@
   "categories": {
     "landforms": [
       { "id": "saan1-mountain", "word": "山", "jyutping": "saan1", "meaning": "mountain" },
-      { "id": "saan1mak6-mountain-range", "word": "山脈", "jyutping": "saan1 mak6", "meaning": "mountain range" },
+      { "id": "saan1mak6-range", "word": "山脈", "jyutping": "saan1 mak6", "meaning": "range" },
       { "id": "guk1-valley", "word": "谷", "jyutping": "guk1", "meaning": "valley" },
       { "id": "ping4jyun4-plain", "word": "平原", "jyutping": "ping4 jyun4", "meaning": "plain" },
       { "id": "gou1jyun4-plateau", "word": "高原", "jyutping": "gou1 jyun4", "meaning": "plateau" },
       { "id": "saan1dung6-cave", "word": "山洞", "jyutping": "saan1 dung6", "meaning": "cave" },
-      { "id": "ngaam4-cliff-rock", "word": "岩", "jyutping": "ngaam4", "meaning": "cliff / rock face" },
+      { "id": "ngaam4-cliff", "word": "岩", "jyutping": "ngaam4", "meaning": "cliff" },
       { "id": "saa1mok6-desert", "word": "沙漠", "jyutping": "saa1 mok6", "meaning": "desert" }
     ],
 
     "water_features": [
       { "id": "ho4-river", "word": "河", "jyutping": "ho4", "meaning": "river" },
       { "id": "wu4-lake", "word": "湖", "jyutping": "wu4", "meaning": "lake" },
-      { "id": "cyun4-stream", "word": "泉", "jyutping": "cyun4", "meaning": "spring" },
-      { "id": "溪-stream-creek", "word": "溪", "jyutping": "kai1", "meaning": "stream / creek" },
+      { "id": "cyun4-spring", "word": "泉", "jyutping": "cyun4", "meaning": "spring" },
+      { "id": "kai1-creek", "word": "溪", "jyutping": "kai1", "meaning": "creek" },
       { "id": "ci4tong4-pond", "word": "池塘", "jyutping": "ci4 tong4", "meaning": "pond" },
       { "id": "buk6bou3-waterfall", "word": "瀑布", "jyutping": "buk6 bou3", "meaning": "waterfall" },
       { "id": "waan1-bay", "word": "灣", "jyutping": "waan1", "meaning": "bay" },
@@ -28,12 +28,12 @@
     "earth_features": [
       { "id": "fo2saan1-volcano", "word": "火山", "jyutping": "fo2 saan1", "meaning": "volcano" },
       { "id": "fo2saan1hau2-crater", "word": "火山口", "jyutping": "fo2 saan1 hau2", "meaning": "crater" },
-      { "id": "sek6tau4-rock", "word": "石頭", "jyutping": "sek6 tau4", "meaning": "rock / stone" },
-      { "id": "tou2dei6-land", "word": "土地", "jyutping": "tou2 dei6", "meaning": "land / ground" },
-      { "id": "dei6min6-ground-surface", "word": "地面", "jyutping": "dei6 min6", "meaning": "ground / surface" },
+      { "id": "sek6tau4-rock", "word": "石頭", "jyutping": "sek6 tau4", "meaning": "rock" },
+      { "id": "tou2dei6-land", "word": "土地", "jyutping": "tou2 dei6", "meaning": "land" },
+      { "id": "dei6min6-ground", "word": "地面", "jyutping": "dei6 min6", "meaning": "ground" },
       { "id": "syut3saan1-snow-mountain", "word": "雪山", "jyutping": "syut3 saan1", "meaning": "snow mountain" },
       { "id": "bing1cyun1-glacier", "word": "冰川", "jyutping": "bing1 cyun1", "meaning": "glacier" },
-      { "id": "fo2saan1ngaam4-lava", "word": "熔岩", "jyutping": "jung4 ngaam4", "meaning": "lava" }
+      { "id": "jung4ngaam4-lava", "word": "熔岩", "jyutping": "jung4 ngaam4", "meaning": "lava" }
     ],
 
     "natural_disasters": [
@@ -44,7 +44,7 @@
       { "id": "saan1nai4king1se3-landslide", "word": "山泥傾瀉", "jyutping": "saan1 nai4 king1 se3", "meaning": "landslide" },
       { "id": "hon6zoi1-drought", "word": "旱災", "jyutping": "hon6 zoi1", "meaning": "drought" },
       { "id": "hoi2siu3-tsunami", "word": "海嘯", "jyutping": "hoi2 siu3", "meaning": "tsunami" },
-      { "id": "baan6zoi1-natural-disaster", "word": "天災", "jyutping": "tin1 zoi1", "meaning": "natural disaster" }
+      { "id": "tin1zoi1-natural-disaster", "word": "天災", "jyutping": "tin1 zoi1", "meaning": "disaster" }
     ],
 
     "natural_events": [
@@ -52,10 +52,10 @@
       { "id": "syut3-snow", "word": "雪", "jyutping": "syut3", "meaning": "snow" },
       { "id": "fung1-wind", "word": "風", "jyutping": "fung1", "meaning": "wind" },
       { "id": "leoi4-thunder", "word": "雷", "jyutping": "leoi4", "meaning": "thunder" },
-      { "id": "sin3din6-lightning", "word": "閃電", "jyutping": "sim2 din6", "meaning": "lightning" },
+      { "id": "sim2din6-lightning", "word": "閃電", "jyutping": "sim2 din6", "meaning": "lightning" },
       { "id": "bing1bok6-hail", "word": "冰雹", "jyutping": "bing1 bok6", "meaning": "hail" },
       { "id": "mou6-fog", "word": "霧", "jyutping": "mou6", "meaning": "fog" },
-      { "id": "baau3faat3-eruption", "word": "爆發", "jyutping": "baau3 faat3", "meaning": "eruption / outbreak" }
+      { "id": "baau3faat3-eruption", "word": "爆發", "jyutping": "baau3 faat3", "meaning": "eruption" }
     ]
   }
 }
