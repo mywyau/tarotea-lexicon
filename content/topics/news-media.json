@@ -46,9 +46,10 @@
     "common_news_terms": [
       { "id": "si6gin6-incident", "word": "事件", "jyutping": "si6 gin6", "meaning": "incident" },
       { "id": "si6cing4-matter", "word": "事情", "jyutping": "si6 cing4", "meaning": "matter" },
-      { "id": "gaau2co3-get-wrong", "word": "搞錯", "jyutping": "gaau2 co3", "meaning": "make a mistake" },
+      { "id": "gaau2co3-make-a-mistake", "word": "搞錯", "jyutping": "gaau2 co3", "meaning": "make a mistake" },
       { "id": "zing3soeng4-normal", "word": "正常", "jyutping": "zing3 soeng4", "meaning": "normal" },
-      { "id": "cing4fong3-situation", "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation" }
+      { "id": "cing4fong3-situation", "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation" },
+      { "id": "sam2caa4-censorship", "word": "審查", "jyutping": "sam2 caa4", "meaning": "censorship" }
     ]
   }
 }
