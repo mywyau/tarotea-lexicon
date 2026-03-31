@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '颱風' is a noun that refers to a strong tropical storm commonly affecting coastal regions.",
-    "You can use '颱風' as the subject or object in a sentence to talk about weather conditions.",
-    "In Cantonese, '颱風' is often followed by verbs like '嚟' (come) or '嚟到' (arrive) to describe the arrival of a typhoon.",
-    "When giving warnings, '颱風' is frequently paired with adjectives such as '強' (strong) or '大' (big).",
-    "You can also use '颱風' in time expressions, for example, '颱風期間' (during the typhoon)."
+    "Used for a tropical cyclone/typhoon in Hong Kong weather talk; it is the standard, everyday word.",
+    "Commonly appears with weather phrases and warnings, such as when talking about a typhoon coming or leaving.",
+    "Can be used both for the storm itself and more broadly in news, school, and daily conversation about severe weather.",
+    "Very common in spoken Cantonese and written news; for learners, remember it is a countable noun in context, often with classifiers like 一個 when needed."
   ],
   "examples": [
     {
       "id": "toi4fung1-typhoon-example-1",
-      "sentence": "今個星期有颱風嚟。",
-      "jyutping": "gam1 go3 sing1 kei4 jau5 toi4 fung1 lai4.",
-      "meaning": "There is a typhoon coming this week."
+      "sentence": "颱風就嚟啦，你記得收好啲窗同埋晾喺出面嘅衫。",
+      "jyutping": "toi4 fung1 zau6 lei4 laa3, nei5 gei3 dak1 sau1 hou2 di1 coeng1 tung4 maai4 loeng6 hai2 ceot1 min6 ge3 saam1.",
+      "meaning": "The typhoon is coming soon, so remember to close the windows and bring in the clothes outside."
     },
     {
       "id": "toi4fung1-typhoon-example-2",
-      "sentence": "颱風令天氣好差。",
-      "jyutping": "toi4 fung1 ling6 tin1 hei3 hou2 caa1.",
-      "meaning": "The typhoon makes the weather very bad."
+      "sentence": "因為颱風關係，今日全日都停課。",
+      "jyutping": "jan1 wai6 toi4 fung1 gwaan1 hai6, gam1 jat6 cyun4 jat6 dou1 ting4 fo3.",
+      "meaning": "Because of the typhoon, classes are suspended all day today."
     },
     {
       "id": "toi4fung1-typhoon-example-3",
-      "sentence": "你應該準備颱風用品。",
-      "jyutping": "nei5 jing1 goi1 zeon2 bei6 toi4 fung1 jung6 ban2.",
-      "meaning": "You should prepare typhoon supplies."
+      "sentence": "昨晚個颱風好大風，吹到啲樹都郁晒。",
+      "jyutping": "zok6 maan5 go3 toi4 fung1 hou2 daai6 fung1, ceoi1 dou3 di1 syu6 dou1 juk1 saai3.",
+      "meaning": "Last night’s typhoon was very strong, and it blew the trees around."
     },
     {
       "id": "toi4fung1-typhoon-example-4",
-      "sentence": "颱風期間要留意安全。",
-      "jyutping": "toi4 fung1 kei4 gaan1 jiu3 lau4 ji3 ngon1 cyun4.",
-      "meaning": "You should pay attention to safety during the typhoon."
+      "sentence": "天文台話個颱風會喺聽日凌晨最接近香港。",
+      "jyutping": "tin1 man4 toi4 waa6 go3 toi4 fung1 wui5 hai2 ting1 jat6 ling4 san4 zeoi3 zip3 gwan6 Hoeng1 Gong2.",
+      "meaning": "The Observatory says the typhoon will be closest to Hong Kong early tomorrow morning."
     }
   ],
   "audio": {
@@ -50,17 +49,19 @@
   },
   "tags": [
     "weather",
-    "storm",
-    "rain",
-    "nature",
-    "safety",
+    "natural disaster",
+    "typhoon",
+    "Hong Kong news",
+    "daily life",
+    "beginner",
+    "Cantonese vocabulary",
     "level-1"
   ],
   "related": [
-    "風暴 (fung1 bou6) - storm",
-    "落雨 (lok6 jyu5) - to rain",
-    "雷暴 (leoi4 bou6) - thunderstorm",
-    "暴風雨 (bou6 fung1 jyu5) - gale, windstorm",
-    "避難 (bei6 naan6) - to evacuate"
+    "打風",
+    "風暴",
+    "暴雨",
+    "天文台",
+    "停課"
   ]
 }

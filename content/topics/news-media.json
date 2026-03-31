@@ -14,9 +14,9 @@
 
     "media_people": [
       { "id": "gei3ze2-reporter", "word": "記者", "jyutping": "gei3 ze2", "meaning": "reporter" },
-      { "id": "bou3dou6jyun4-presenter", "word": "報導員", "jyutping": "bou3 dou6 jyun4", "meaning": "presenter" },
+      { "id": "zyu3bo3-news-anchor", "word": "主播", "jyutping": "zyu3 bo3", "meaning": "news anchor" },
       { "id": "pin1zaap6-editor", "word": "編輯", "jyutping": "pin1 zaap6", "meaning": "editor" },
-      { "id": "gu3man6-commentator", "word": "顧問", "jyutping": "gu3 man6", "meaning": "commentator" },
+      { "id": "ping4leon6jyun4-commentator", "word": "評論員", "jyutping": "ping4 leon6 jyun4", "meaning": "commentator" },
       { "id": "hok6ze2-scholar", "word": "學者", "jyutping": "hok6 ze2", "meaning": "scholar" }
     ],
 
@@ -24,8 +24,8 @@
       { "id": "bou3dou6-report", "word": "報導", "jyutping": "bou3 dou6", "meaning": "report" },
       { "id": "syun1bou3-announce", "word": "宣布", "jyutping": "syun1 bou3", "meaning": "announce" },
       { "id": "zing3ming4-prove", "word": "證明", "jyutping": "zing3 ming4", "meaning": "prove" },
-      { "id": "jiu1kau4-demand", "word": "要求", "jyutping": "jiu1 kau4", "meaning": "demand" },
-      { "id": "ping4lun6-comment", "word": "評論", "jyutping": "ping4 leon6", "meaning": "comment" }
+      { "id": "jiu1kau4-request", "word": "要求", "jyutping": "jiu1 kau4", "meaning": "request" },
+      { "id": "ping4leon6-comment-on", "word": "評論", "jyutping": "ping4 leon6", "meaning": "comment on" }
     ],
 
     "media_platforms": [

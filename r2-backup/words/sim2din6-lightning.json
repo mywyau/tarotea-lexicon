@@ -1,0 +1,66 @@
+{
+  "id": "sim2din6-lightning",
+  "word": "閃電",
+  "jyutping": "sim2 din6",
+  "meaning": "lightning",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used as a countable or general noun for lightning, the bright electric flash during a storm.",
+    "Very common in weather talk and warnings; it often appears with rain, thunder, and typhoons.",
+    "Can be used on its own or in compounds like 閃電⚡-related descriptions; in everyday speech, it sounds neutral and natural.",
+    "Learners should note that the word refers to the light/flash itself, not the sound; for the sound, Cantonese uses 雷.",
+    "tags=["
+  ],
+  "examples": [
+    {
+      "id": "sim2din6-lightning-example-1",
+      "sentence": "今晚打風，成日都見到閃電。",
+      "jyutping": "gam1 maan5 daa2 fung1, sing4 jat6 dou1 gin3 dou2 sim2 din6.",
+      "meaning": "There was a typhoon tonight, and we kept seeing lightning."
+    },
+    {
+      "id": "sim2din6-lightning-example-2",
+      "sentence": "閃電之後就開始落大雨。",
+      "jyutping": "sim2 din6 zi1 hau6 zau6 hoi1 ci2 lok6 daai6 jyu5.",
+      "meaning": "After the lightning, it started to rain heavily."
+    },
+    {
+      "id": "sim2din6-lightning-example-3",
+      "sentence": "小朋友見到閃電都會有啲驚。",
+      "jyutping": "siu2 pang4 jau5 gin3 dou2 sim2 din6 dou1 wui5 jau5 di1 geng1.",
+      "meaning": "Children may feel a little scared when they see lightning."
+    },
+    {
+      "id": "sim2din6-lightning-example-4",
+      "sentence": "山頂夜晚好容易見到遠處嘅閃電。",
+      "jyutping": "saan1 ding2 je6 maan5 hou2 jung4 ji4 gin3 dou2 jyun5 cyu3 ge3 sim2 din6.",
+      "meaning": "On the mountain peak at night, it’s easy to see lightning in the distance."
+    }
+  ],
+  "audio": {
+    "word": "sim2din6-lightning.mp3",
+    "examples": [
+      "sim2din6-lightning-example-1.mp3",
+      "sim2din6-lightning-example-2.mp3",
+      "sim2din6-lightning-example-3.mp3",
+      "sim2din6-lightning-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "natural phenomena",
+    "storms",
+    "beginner",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "打雷",
+    "落雨",
+    "暴雨",
+    "大風",
+    "颱風"
+  ]
+}

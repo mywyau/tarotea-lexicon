@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '雨' (jyu5) is a noun that refers to rain or precipitation.",
-    "You can use '雨' alone or with other words to describe weather conditions.",
-    "'雨' often appears in phrases talking about rain intensity or type.",
-    "It can be combined with time expressions to indicate when rain occurs.",
-    "In spoken Cantonese, '雨' is very common when discussing daily weather."
+    "Use 雨 for rain as a weather noun. It is very common in everyday speech and writing.",
+    "It often appears with weather words and verbs like 落雨, 停雨, and 帶雨.",
+    "In Hong Kong Cantonese, people often use 雨 on its own when the context already makes the weather clear.",
+    "For a little rain or heavy rain, speakers usually add modifiers before 雨, such as 細 and 大."
   ],
   "examples": [
     {
       "id": "jyu5-rain-example-1",
-      "sentence": "今日落雨，好凍呀。",
-      "jyutping": "gam1 jat6 lok6 jyu5, hou2 dung3 aa3.",
-      "meaning": "It's raining today, very cold."
+      "sentence": "今日落雨。",
+      "jyutping": "gam1 jat6 lok6 jyu5.",
+      "meaning": "It is raining today."
     },
     {
       "id": "jyu5-rain-example-2",
-      "sentence": "我唔鍾意大雨，會淋濕晒。",
-      "jyutping": "ngo5 m4 zung1 ji3 daai6 jyu5, wui5 lam4 sap1 saai3.",
-      "meaning": "I don’t like heavy rain, it makes me all wet."
+      "sentence": "我鍾意聽雨聲。",
+      "jyutping": "ngo5 zung1 ji3 teng1 jyu5 seng1.",
+      "meaning": "I like listening to the sound of rain."
     },
     {
       "id": "jyu5-rain-example-3",
-      "sentence": "聽日有雨，記住帶傘。",
-      "jyutping": "ting1 jat6 jau5 jyu5, gei3 zyu6 daai3 saan3.",
-      "meaning": "It will rain tomorrow, remember to bring an umbrella."
+      "sentence": "呢場雨好大。",
+      "jyutping": "ni1 coeng4 jyu5 hou2 daai6.",
+      "meaning": "This rain is very heavy."
     },
     {
       "id": "jyu5-rain-example-4",
-      "sentence": "雨停咗，可以出街喇。",
-      "jyutping": "jyu5 ting4 zo2, ho2 ji5 ceot1 gaai1 laa3.",
-      "meaning": "The rain stopped, we can go out now."
+      "sentence": "落雨記得帶遮。",
+      "jyutping": "lok6 jyu5 gei3 dak1 daai3 ze1.",
+      "meaning": "If it rains, remember to bring an umbrella."
     }
   ],
   "audio": {
@@ -51,15 +50,15 @@
   "tags": [
     "weather",
     "rain",
-    "daily conversation",
-    "nouns",
-    "basic Cantonese",
+    "nature",
+    "basic vocabulary",
+    "natural events",
     "level-1"
   ],
   "related": [
     "落雨",
-    "天氣",
-    "雷雨",
+    "大雨",
+    "細雨",
     "雨傘",
     "雨天"
   ]

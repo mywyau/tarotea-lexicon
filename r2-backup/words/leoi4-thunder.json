@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '雷' (leoi4) is used as a noun to refer specifically to the sound or phenomenon of thunder during a storm.",
-    "'雷' is often used together with '雨' (rain) or '風' (wind) to describe weather conditions.",
-    "You can use '雷' to warn about a storm, for example, '要小心雷' means 'Be careful of the thunder'.",
-    "It does not typically refer to lightning itself, which is 雷電 (leoi4 din6), so be careful not to confuse the two.",
-    "'雷' can often be a standalone word in phrases or sentences describing weather or natural sounds."
+    "Used as a noun for the sound of thunder in a storm; it often appears with weather words like 雨, 天氣, and 打雷.",
+    "Common in everyday speech when talking about bad weather, thunderstorms, or hearing a loud sound from the sky.",
+    "You can say 雷 alone, or use it in compounds and set phrases such as 打雷 and 雷聲.",
+    "Natural in both spoken and written Cantonese, but in casual speech people often mention the action 打雷 more than the noun by itself."
   ],
   "examples": [
     {
       "id": "leoi4-thunder-example-1",
-      "sentence": "今晚會有雷同雨。",
-      "jyutping": "gam1 maan5 wui5 jau5 leoi4 tung4 jyu5.",
-      "meaning": "There will be thunder and rain tonight."
+      "sentence": "外面打雷，好似快要落雨。",
+      "jyutping": "ngoi6 min6 daa2 leoi4, hou2 ci5 faai3 jiu3 lok6 jyu5.",
+      "meaning": "It's thundering outside; it looks like it's going to rain soon."
     },
     {
       "id": "leoi4-thunder-example-2",
-      "sentence": "我聽到好大聲嘅雷。",
-      "jyutping": "ngo5 teng1 dou3 hou2 daai6 seng1 ge3 leoi4.",
-      "meaning": "I heard very loud thunder."
+      "sentence": "我細個成日驚雷聲。",
+      "jyutping": "ngo5 sai3 go3 seng4 jat6 geng1 leoi4 seng1.",
+      "meaning": "When I was little, I was often afraid of thunder."
     },
     {
       "id": "leoi4-thunder-example-3",
-      "sentence": "雷聲好似好驚。",
-      "jyutping": "leoi4 seng1 hou2 ci5 hou2 ging1.",
-      "meaning": "The sound of the thunder is quite scary."
+      "sentence": "今晚個雷聲好大，聽到都嚇親。",
+      "jyutping": "gam1 maan5 go3 leoi4 seng1 hou2 daai6, teng1 dou3 dou1 haak3 can1.",
+      "meaning": "The thunder tonight is very loud; even hearing it is scary."
     },
     {
       "id": "leoi4-thunder-example-4",
-      "sentence": "天黑晒，開始打雷喇。",
-      "jyutping": "tin1 hak1 saai3, hoi1 ci2 daa2 leoi4 laa3.",
-      "meaning": "It's dark now, the thunder has started."
+      "sentence": "天黑黑，又有雷又有雨。",
+      "jyutping": "tin1 hak1 hak1, jau6 jau5 leoi4 jau6 jau5 jyu5.",
+      "meaning": "It's very dark, with thunder and rain."
     }
   ],
   "audio": {
@@ -50,16 +49,17 @@
   },
   "tags": [
     "weather",
-    "thunder",
-    "rain_and_storms",
-    "nature_sounds",
+    "nature",
+    "natural disaster",
+    "beginner",
+    "everyday vocabulary",
+    "environment",
     "level-1"
   ],
   "related": [
-    "雨 (jyu5) - rain",
-    "閃電 (sim2 din6) - lightning",
-    "風 (fung1) - wind",
-    "雷雨 (leoi4 jyu5) - thunderstorm",
-    "暴風雨 (bou6 fung1 jyu5) - storm"
+    "打雷",
+    "雷聲",
+    "落雨",
+    "閃電"
   ]
 }
