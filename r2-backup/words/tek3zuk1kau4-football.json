@@ -3,12 +3,14 @@
   "word": "踢足球",
   "jyutping": "tek3 zuk1 kau4",
   "meaning": "football",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use 踢足球 as a noun phrase for the sport of football/soccer; it is common in everyday spoken Cantonese.",
-    "In Hong Kong, people often say 踢足球 when they mean playing football, not watching it.",
-    "It can work after verbs like 鍾意, 想, 去, or 學, for example in hobby or activity contexts.",
-    "For young learners, this is a very common sports word, and it sounds natural in both school and casual conversation."
+    "- Use 踢足球 as a noun phrase for the sport of football/soccer; it is common in everyday spoken Cantonese.",
+    "- In Hong Kong, people often say 踢足球 when they mean playing football, not watching it.",
+    "- It can work after verbs like 鍾意, 想, 去, or 學, for example in hobby or activity contexts.",
+    "- For young learners, this is a very common sports word, and it sounds natural in both school and casual conversation."
   ],
   "examples": [
     {
@@ -54,5 +56,11 @@
     "daily life",
     "level-1"
   ],
-  "related": ["足球", "波", "打波", "運動", "球場"]
+  "related": [
+    "足球",
+    "波",
+    "打波",
+    "運動",
+    "球場"
+  ]
 }

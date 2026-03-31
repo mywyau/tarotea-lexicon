@@ -3,40 +3,37 @@
   "word": "乾",
   "jyutping": "gon1",
   "meaning": "dry",
-  "pos": [
-    "adjective"
-  ],
+  "pos": ["adjective"],
   "usage": [
-    "乾 describes the state of something lacking moisture, often used to describe weather or objects.",
-    "It is commonly used to indicate a low level of humidity.",
-    "You can also use 乾 to describe food textures, like dry fruits or dry meat.",
-    "In conversation, 乾 can refer to weather conditions, like '今日好乾' meaning 'Today is very dry'.",
-    "Combine 乾 with nouns to describe the dryness of that noun, such as 乾天氣 (dry weather)."
+    "Used to describe something with little or no moisture, especially in everyday gardening and plant-care contexts.",
+    "Very common before nouns, e.g. describing soil, leaves, weather, or stored plant material; it sounds natural and simple.",
+    "Can also be used after verbs or in short descriptive phrases to say something has become dry; learners often hear it in speaking more than formal writing.",
+    "In plant care, this word is useful when checking whether soil, stems, or leaves need water; it is a basic, high-frequency word."
   ],
   "examples": [
     {
       "id": "gon1-dry-example-1",
-      "sentence": "今天天氣好乾。",
-      "jyutping": "gam1 tin1 tin1 hei3 hou2 gon1",
-      "meaning": "The weather is very dry today."
+      "sentence": "呢盆花啲泥已經乾晒，要快啲淋水。",
+      "jyutping": "ni1 pun4 faa1 di1 nai4 ji5 ging1 gon1 saai3, jiu3 faai3 di1 lam4 seoi2.",
+      "meaning": "The soil in this pot plant has already dried out; it needs watering soon."
     },
     {
       "id": "gon1-dry-example-2",
-      "sentence": "呢塊餅幾乾。",
-      "jyutping": "ni1 faai3 beng2 gei2 gon1",
-      "meaning": "This piece of cake is quite dry."
+      "sentence": "天氣太乾，葉尖開始變黃。",
+      "jyutping": "tin1 hei3 taai3 gon1, jip6 zim1 hoi1 ci2 bin3 wong4.",
+      "meaning": "The weather is too dry, and the leaf tips are starting to turn yellow."
     },
     {
       "id": "gon1-dry-example-3",
-      "sentence": "我屋企好乾燥。",
-      "jyutping": "ngo5 uk1 kei2 hou2 gon1 zou6",
-      "meaning": "My house is very dry."
+      "sentence": "你要等枝條乾咗先好剪。",
+      "jyutping": "nei5 jiu3 dang2 zi1 tiu4 gon1 zo2 sin1 hou2 zim2.",
+      "meaning": "You should wait until the stems are dry before trimming them."
     },
     {
       "id": "gon1-dry-example-4",
-      "sentence": "乾季唔係咁多雨。",
-      "jyutping": "gon1 gwai3 m4 hai6 gam3 do1 jyu5",
-      "meaning": "The dry season doesn’t have much rain."
+      "sentence": "晒乾啲種子之後，就可以收好。",
+      "jyutping": "saai3 gon1 di1 zung2 zi2 zi1 hau6, zau6 ho2 ji5 sau1 hou2.",
+      "meaning": "After drying the seeds in the sun, you can store them properly."
     }
   ],
   "audio": {
@@ -49,18 +46,13 @@
     ]
   },
   "tags": [
+    "basic vocabulary",
+    "plant care",
+    "gardening",
+    "adjective",
     "weather",
-    "humidity",
-    "dry",
-    "basic",
-    "everyday",
+    "soil moisture",
     "level-1"
   ],
-  "related": [
-    "潮濕",
-    "濕氣",
-    "乾燥",
-    "晴朗",
-    "雨"
-  ]
+  "related": ["乾燥", "乾咗", "晒乾", "乾身"]
 }

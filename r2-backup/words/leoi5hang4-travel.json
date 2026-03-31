@@ -3,12 +3,14 @@
   "word": "旅行",
   "jyutping": "leoi5 hang4",
   "meaning": "travel",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use 旅行 when you mean a trip or travel in a general sense. It is a very common everyday noun.",
-    "It often appears with verbs like 去 (go) and plan-related words like planning, booking, and taking leave.",
-    "For short trips or holiday travel, 旅行 is natural and neutral; it sounds more general than very specific transport words.",
-    "In spoken Cantonese, people also use it in compounds and fixed phrases related to travelling, holidays, and travel plans."
+    "- Use 旅行 when you mean a trip or travel in a general sense. It is a very common everyday noun.",
+    "- It often appears with verbs like 去 (go) and plan-related words like planning, booking, and taking leave.",
+    "- For short trips or holiday travel, 旅行 is natural and neutral; it sounds more general than very specific transport words.",
+    "- In spoken Cantonese, people also use it in compounds and fixed phrases related to travelling, holidays, and travel plans."
   ],
   "examples": [
     {
@@ -54,5 +56,11 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["去旅行", "旅遊", "行程", "機票", "酒店"]
+  "related": [
+    "去旅行",
+    "旅遊",
+    "行程",
+    "機票",
+    "酒店"
+  ]
 }

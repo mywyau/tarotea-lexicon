@@ -3,12 +3,14 @@
   "word": "冰川",
   "jyutping": "bing1 cyun1",
   "meaning": "glacier",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use 冰川 for a glacier, usually in geography, earth science, or travel writing.",
-    "It is a countable noun in English terms, but in Cantonese it often sounds like a general natural feature word rather than a technical term.",
-    "Commonly used with words like 移動, 融化, 保護, and 研究 when talking about climate and environmental changes.",
-    "In everyday speech, it is more likely to appear in school learning, documentaries, or news about global warming than in casual conversation."
+    "- Use 冰川 for a glacier, usually in geography, earth science, or travel writing.",
+    "- It is a countable noun in English terms, but in Cantonese it often sounds like a general natural feature word rather than a technical term.",
+    "- Commonly used with words like 移動, 融化, 保護, and 研究 when talking about climate and environmental changes.",
+    "- In everyday speech, it is more likely to appear in school learning, documentaries, or news about global warming than in casual conversation."
   ],
   "examples": [
     {
@@ -55,5 +57,11 @@
     "environment",
     "level-1"
   ],
-  "related": ["山", "河流", "海岸", "雪山", "地形"]
+  "related": [
+    "山",
+    "河流",
+    "海岸",
+    "雪山",
+    "地形"
+  ]
 }

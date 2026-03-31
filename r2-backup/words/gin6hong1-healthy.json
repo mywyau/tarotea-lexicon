@@ -4,40 +4,39 @@
   "jyutping": "gin6 hong1",
   "meaning": "healthy",
   "pos": [
-    "noun",
-    "adjective"
+    "adjective",
+    "noun"
   ],
   "usage": [
-    "The word '健康' (gin6 hong1) can be used as a noun to refer to the state of being healthy.",
-    "'健康' can also be used as an adjective to describe someone or something that is healthy.",
-    "When used as an adjective, '健康' usually appears before the noun it describes.",
-    "You can combine '健康' with verbs like '保持' (to keep) or '促進' (to promote) to talk about maintaining or improving health.",
-    "In questions, '健康' often appears as part of phrases like '你健康嗎？' (Are you healthy?)."
+    "Used to describe a plant, person, or living thing that is in good physical condition; for plants, it often means strong, not sick, and growing well.",
+    "Commonly placed before a noun, as in 健康的... in written Chinese; in spoken Cantonese, people often use it more flexibly as a descriptive word.",
+    "You can use it in gardening talk to describe leaves, stems, or overall plant condition after watering, sunlight, or care.",
+    "Register is neutral and very common; it is a basic everyday word for learners, and it works in both general conversation and simple garden descriptions."
   ],
   "examples": [
     {
       "id": "gin6hong1-healthy-example-1",
-      "sentence": "我想保持身體健康。",
-      "jyutping": "ngo5 soeng2 bou2 ci4 san1 tai2 gin6 hong1.",
-      "meaning": "I want to keep my body healthy."
+      "sentence": "呢棵盆栽睇落好健康。",
+      "jyutping": "ni1 fo2 pun4 zoi1 tai2 lok6 hou2 gin6 hong1",
+      "meaning": "This potted plant looks very healthy."
     },
     {
       "id": "gin6hong1-healthy-example-2",
-      "sentence": "飲食健康好重要。",
-      "jyutping": "jam2 sik6 gin6 hong1 hou2 zung6 jiu3.",
-      "meaning": "Healthy eating is very important."
+      "sentence": "如果土壤夠濕，植物會更加健康。",
+      "jyutping": "jyu4 gwo2 tou2 joeng5 gau3 sap1, zik6 mou6 wui5 gang3 gaa1 gin6 hong1",
+      "meaning": "If the soil is moist enough, the plant will be healthier."
     },
     {
       "id": "gin6hong1-healthy-example-3",
-      "sentence": "你最近健康嗎？",
-      "jyutping": "nei5 zeoi3 gan6 gin6 hong1 maa3?",
-      "meaning": "Are you healthy lately?"
+      "sentence": "我想買啲健康嘅花返屋企。",
+      "jyutping": "ngo5 soeng2 maai5 di1 gin6 hong1 ge3 faa1 faan1 uk1 hei2",
+      "meaning": "I want to buy some healthy flowers to bring home."
     },
     {
       "id": "gin6hong1-healthy-example-4",
-      "sentence": "運動對健康有益。",
-      "jyutping": "wan6 dung6 deoi3 gin6 hong1 jau5 jik1.",
-      "meaning": "Exercise is good for health."
+      "sentence": "定期施肥可以令植物保持健康。",
+      "jyutping": "ding6 kei4 si1 fei4 ho2 ji5 ling6 zik6 mou6 bou2 ci4 gin6 hong1",
+      "meaning": "Regular fertilising can help plants stay healthy."
     }
   ],
   "audio": {
@@ -50,18 +49,17 @@
     ]
   },
   "tags": [
-    "health",
-    "fitness",
-    "wellness",
-    "lifestyle",
-    "body",
+    "plants",
+    "gardening",
+    "plant health",
+    "basic vocabulary",
+    "describing condition",
     "level-1"
   ],
   "related": [
-    "身體 (san1 tai2) - body",
-    "運動 (wan6 dung6) - exercise",
-    "飲食 (jam2 sik6) - diet",
-    "健康檢查 (gin6 hong1 gim2 caa4) - health checkup",
-    "營養 (jing4 joeng5) - nutrition"
+    "茂盛",
+    "生猛",
+    "枯黃",
+    "病"
   ]
 }

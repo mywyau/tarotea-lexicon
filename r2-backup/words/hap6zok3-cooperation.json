@@ -3,12 +3,14 @@
   "word": "合作",
   "jyutping": "hap6 zok3",
   "meaning": "cooperation",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Used for working together toward the same goal; very common in business, teamwork, and project settings.",
-    "Often appears in the pattern 合作 + verb/noun, e.g. describing a business partnership or joint project.",
-    "Neutral and practical in tone, suitable for both spoken Cantonese and written business contexts.",
-    "As a noun, it can also imply a cooperative relationship between people, teams, or companies."
+    "- Used for working together toward the same goal; very common in business, teamwork, and project settings.",
+    "- Often appears in the pattern 合作 + verb/noun, e.g. describing a business partnership or joint project.",
+    "- Neutral and practical in tone, suitable for both spoken Cantonese and written business contexts.",
+    "- As a noun, it can also imply a cooperative relationship between people, teams, or companies."
   ],
   "examples": [
     {
@@ -53,5 +55,10 @@
     "workplace",
     "level-1"
   ],
-  "related": ["合作夥伴", "協作", "聯手", "配合"]
+  "related": [
+    "合作夥伴",
+    "協作",
+    "聯手",
+    "配合"
+  ]
 }

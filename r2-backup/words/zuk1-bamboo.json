@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '竹' is used as a noun referring to the bamboo plant.",
-    "'竹' can describe objects made from bamboo, often indicating natural or traditional materials.",
-    "In Cantonese, '竹' can serve as a measure word for bamboo sticks or poles.",
-    "It is commonly used in compound words related to bamboo products or bamboo-like shapes.",
-    "The word is often found in daily conversation about nature, crafts, and traditional construction."
+    "A common noun for bamboo, a plant with hard hollow stems that grows in clumps.",
+    "Used in everyday nature and gardening contexts, especially when talking about bamboo groves, garden plants, or materials made from bamboo.",
+    "Can appear before other words to form compounds and set phrases, so learners should treat it as a basic building block word.",
+    "Very common in written and spoken Cantonese, and easy to use in simple descriptions of plants and natural surroundings."
   ],
   "examples": [
     {
       "id": "zuk1-bamboo-example-1",
-      "sentence": "呢把傘係用竹做嘅。",
-      "jyutping": "ni1 baa2 saan3 hai6 jung6 zuk1 zou6 ge3.",
-      "meaning": "This umbrella is made of bamboo."
+      "sentence": "山邊有好多竹。",
+      "jyutping": "saan1 bin1 jau5 hou2 do1 zuk1.",
+      "meaning": "There are a lot of bamboo by the hillside."
     },
     {
       "id": "zuk1-bamboo-example-2",
-      "sentence": "屋企有一根長長嘅竹。",
-      "jyutping": "uk1 kei2 jau5 jat1 gan1 coeng4 coeng4 ge3 zuk1.",
-      "meaning": "There is a long bamboo stick at home."
+      "sentence": "佢屋企後園種咗幾棵竹。",
+      "jyutping": "keoi5 uk1 kei2 hau6 jyun2 zung3 zo2 gei2 fo1 zuk1.",
+      "meaning": "They planted a few bamboo plants in the backyard."
     },
     {
       "id": "zuk1-bamboo-example-3",
-      "sentence": "我鍾意坐竹椅。",
-      "jyutping": "ngo5 zung1 ji3 co5 zuk1 ji2.",
-      "meaning": "I like sitting on bamboo chairs."
+      "sentence": "呢張枱係竹做㗎。",
+      "jyutping": "ni1 zoeng1 toi2 hai6 zuk1 zou6 gaa3.",
+      "meaning": "This table is made of bamboo."
     },
     {
       "id": "zuk1-bamboo-example-4",
-      "sentence": "竹林入面好涼快。",
-      "jyutping": "zuk1 lam4 jap6 min6 hou2 loeng4 faai3.",
-      "meaning": "It's cool inside the bamboo forest."
+      "sentence": "熊貓最鍾意食竹。",
+      "jyutping": "hung4 maau1 zeoi3 zung1 ji3 sik6 zuk1.",
+      "meaning": "Pandas like eating bamboo the most."
     }
   ],
   "audio": {
@@ -49,18 +48,18 @@
     ]
   },
   "tags": [
-    "material",
-    "plant",
+    "plants",
+    "gardening",
     "nature",
-    "traditional",
-    "furniture",
+    "noun",
+    "basic vocabulary",
+    "bamboo",
     "level-1"
   ],
   "related": [
-    "樹",
-    "木",
-    "藤",
-    "紙",
-    "竹椅"
+    "竹林",
+    "竹筍",
+    "竹竿",
+    "竹製"
   ]
 }

@@ -3,12 +3,14 @@
   "word": "辦公",
   "jyutping": "baan6 gung1",
   "meaning": "office work",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Refers to work done in an office or by office staff; it sounds a bit formal and is usually used in workplace contexts.",
-    "Often appears in phrases like 辦公室, 辦公時間, or 辦公地點, where it describes office-related work or settings.",
-    "You can use it when talking about going to work, handling paperwork, or doing desk-based tasks at a company.",
-    "As a noun, it is commonly used in compounds rather than standing alone in casual speech."
+    "- Refers to work done in an office or by office staff; it sounds a bit formal and is usually used in workplace contexts.",
+    "- Often appears in phrases like 辦公室, 辦公時間, or 辦公地點, where it describes office-related work or settings.",
+    "- You can use it when talking about going to work, handling paperwork, or doing desk-based tasks at a company.",
+    "- As a noun, it is commonly used in compounds rather than standing alone in casual speech."
   ],
   "examples": [
     {
@@ -45,6 +47,18 @@
       "baan6gung1-office-work-example-4.mp3"
     ]
   },
-  "tags": ["business", "office", "workplace", "formal", "beginner", "level-1"],
-  "related": ["辦公室", "上班", "加班", "工作"]
+  "tags": [
+    "business",
+    "office",
+    "workplace",
+    "formal",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "辦公室",
+    "上班",
+    "加班",
+    "工作"
+  ]
 }

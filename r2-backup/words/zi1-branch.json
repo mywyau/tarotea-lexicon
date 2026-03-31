@@ -1,0 +1,58 @@
+{
+  "id": "zi1-branch",
+  "word": "枝",
+  "jyutping": "zi1",
+  "meaning": "branch",
+  "pos": ["noun"],
+  "usage": [
+    "A common noun for a tree branch or a branching part of a plant; very basic everyday vocabulary.",
+    "Can appear with measure words like 一枝 when counting long, stick-like things, but the core meaning here is the plant branch sense.",
+    "Often used in gardening and nature contexts, especially when talking about pruning, breaking, or touching branches.",
+    "Neutral and natural in spoken Cantonese; learners should remember that the same character can also be used in other meanings depending on context."
+  ],
+  "examples": [
+    {
+      "id": "zi1-branch-example-1",
+      "sentence": "棵樹上面有好多枝。",
+      "jyutping": "po1 syu6 soeng6 min6 jau5 hou2 do1 zi1",
+      "meaning": "There are many branches on the tree."
+    },
+    {
+      "id": "zi1-branch-example-2",
+      "sentence": "風太大，吹斷咗一枝。",
+      "jyutping": "fung1 taai3 daai6, ceoi1 tyun5 zo2 jat1 zi1",
+      "meaning": "The wind was too strong and broke off a branch."
+    },
+    {
+      "id": "zi1-branch-example-3",
+      "sentence": "我哋剪走咗啲枯枝。",
+      "jyutping": "ngo5 dei6 zim2 zau2 zo2 di1 fu1 zi1",
+      "meaning": "We cut away the dead branches."
+    },
+    {
+      "id": "zi1-branch-example-4",
+      "sentence": "佢用枝撐住盆花。",
+      "jyutping": "keoi5 jung6 zi1 caang3 zyu6 pun4 faa1",
+      "meaning": "He used a branch to support the flower pot."
+    }
+  ],
+  "audio": {
+    "word": "zi1-branch.mp3",
+    "examples": [
+      "zi1-branch-example-1.mp3",
+      "zi1-branch-example-2.mp3",
+      "zi1-branch-example-3.mp3",
+      "zi1-branch-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "plants",
+    "gardening",
+    "basic vocabulary",
+    "nature",
+    "noun",
+    "tree parts",
+    "level-1"
+  ],
+  "related": ["樹枝", "枝葉", "枯枝", "分枝"]
+}

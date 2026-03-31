@@ -3,12 +3,14 @@
   "word": "湖",
   "jyutping": "wu4",
   "meaning": "lake",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "A common noun for a natural body of still water. Use it when talking about geography, scenery, or places to visit.",
-    "It’s often used in compounds or place names, especially for named lakes and lake districts.",
-    "In everyday speech, it sounds neutral and simple; there’s no special formal or informal tone.",
-    "Learners should remember that 湖 is a countable place noun in Chinese, but English articles may not map one-to-one."
+    "- A common noun for a natural body of still water. Use it when talking about geography, scenery, or places to visit.",
+    "- It’s often used in compounds or place names, especially for named lakes and lake districts.",
+    "- In everyday speech, it sounds neutral and simple; there’s no special formal or informal tone.",
+    "- Learners should remember that 湖 is a countable place noun in Chinese, but English articles may not map one-to-one."
   ],
   "examples": [
     {
@@ -53,5 +55,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["河", "海", "池塘", "水庫"]
+  "related": [
+    "河",
+    "海",
+    "池塘",
+    "水庫"
+  ]
 }

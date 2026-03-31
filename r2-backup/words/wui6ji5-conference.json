@@ -3,12 +3,14 @@
   "word": "會議",
   "jyutping": "wui6 ji5",
   "meaning": "conference",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Common noun for a formal meeting or conference in business, school, or office settings.",
-    "Often used with verbs like 開、參加、出席、召開, e.g. 開會議 / 參加會議.",
-    "Sounds formal and organized; for casual workplace talk, people often say 開會 instead of using this word alone.",
-    "Good learner tip: this word usually refers to a scheduled meeting or conference, not a quick chat."
+    "- Common noun for a formal meeting or conference in business, school, or office settings.",
+    "- Often used with verbs like 開、參加、出席、召開, e.g. 開會議 / 參加會議.",
+    "- Sounds formal and organized; for casual workplace talk, people often say 開會 instead of using this word alone.",
+    "- Good learner tip: this word usually refers to a scheduled meeting or conference, not a quick chat."
   ],
   "examples": [
     {
@@ -56,5 +58,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["開會", "會面", "討論", "報告", "出席"]
+  "related": [
+    "開會",
+    "會面",
+    "討論",
+    "報告",
+    "出席"
+  ]
 }
