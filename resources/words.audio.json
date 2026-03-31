@@ -1,27 +1,1177 @@
 [
   {
-    "filename": "sat1mong6-disappointed",
-    "id": "sat1mong6-disappointed",
-    "text": "失望"
+    "filename": "baan6gung1-office-work",
+    "id": "baan6gung1-office-work",
+    "text": "辦公"
   },
   {
-    "filename": "sat1mong6-disappointed-example-1",
-    "id": "sat1mong6-disappointed-example-1",
-    "text": "我因為考試成績差而好失望。"
+    "filename": "baan6gung1-office-work-example-1",
+    "id": "baan6gung1-office-work-example-1",
+    "text": "我今日要去公司辦公。"
   },
   {
-    "filename": "sat1mong6-disappointed-example-2",
-    "id": "sat1mong6-disappointed-example-2",
-    "text": "佢對呢次約會感覺十分失望。"
+    "filename": "baan6gung1-office-work-example-2",
+    "id": "baan6gung1-office-work-example-2",
+    "text": "佢喺辦公室入面辦公。"
   },
   {
-    "filename": "sat1mong6-disappointed-example-3",
-    "id": "sat1mong6-disappointed-example-3",
-    "text": "我地唔好令朋友失望啦。"
+    "filename": "baan6gung1-office-work-example-3",
+    "id": "baan6gung1-office-work-example-3",
+    "text": "星期六唔使辦公。"
   },
   {
-    "filename": "sat1mong6-disappointed-example-4",
-    "id": "sat1mong6-disappointed-example-4",
-    "text": "失望嘅時候，我會同人傾訴。"
+    "filename": "baan6gung1-office-work-example-4",
+    "id": "baan6gung1-office-work-example-4",
+    "text": "老闆話今晚要加班辦公。"
+  },
+  {
+    "filename": "baan6gung1sat1-office",
+    "id": "baan6gung1sat1-office",
+    "text": "辦公室"
+  },
+  {
+    "filename": "baan6gung1sat1-office-example-1",
+    "id": "baan6gung1sat1-office-example-1",
+    "text": "我今日要返辦公室。"
+  },
+  {
+    "filename": "baan6gung1sat1-office-example-2",
+    "id": "baan6gung1sat1-office-example-2",
+    "text": "呢間公司嘅辦公室喺三樓。"
+  },
+  {
+    "filename": "baan6gung1sat1-office-example-3",
+    "id": "baan6gung1sat1-office-example-3",
+    "text": "老闆而家喺辦公室開會。"
+  },
+  {
+    "filename": "baan6gung1sat1-office-example-4",
+    "id": "baan6gung1sat1-office-example-4",
+    "text": "辦公室入面好靜。"
+  },
+  {
+    "filename": "bou3gaa3-quotation",
+    "id": "bou3gaa3-quotation",
+    "text": "報價"
+  },
+  {
+    "filename": "bou3gaa3-quotation-example-1",
+    "id": "bou3gaa3-quotation-example-1",
+    "text": "你可唔可以幫我報價？"
+  },
+  {
+    "filename": "bou3gaa3-quotation-example-2",
+    "id": "bou3gaa3-quotation-example-2",
+    "text": "呢份報價我哋今日會send畀客戶。"
+  },
+  {
+    "filename": "bou3gaa3-quotation-example-3",
+    "id": "bou3gaa3-quotation-example-3",
+    "text": "如果價錢有變，麻煩再報價。"
+  },
+  {
+    "filename": "bou3gaa3-quotation-example-4",
+    "id": "bou3gaa3-quotation-example-4",
+    "text": "佢哋嘅報價比其他公司平。"
+  },
+  {
+    "filename": "bou3gou3-report",
+    "id": "bou3gou3-report",
+    "text": "報告"
+  },
+  {
+    "filename": "bou3gou3-report-example-1",
+    "id": "bou3gou3-report-example-1",
+    "text": "我今日要交報告。"
+  },
+  {
+    "filename": "bou3gou3-report-example-2",
+    "id": "bou3gou3-report-example-2",
+    "text": "呢份報告幾詳細。"
+  },
+  {
+    "filename": "bou3gou3-report-example-3",
+    "id": "bou3gou3-report-example-3",
+    "text": "老細叫我哋星期一交報告。"
+  },
+  {
+    "filename": "bou3gou3-report-example-4",
+    "id": "bou3gou3-report-example-4",
+    "text": "佢喺會議入面講咗個簡短報告。"
+  },
+  {
+    "filename": "ceot1sau6-sell",
+    "id": "ceot1sau6-sell",
+    "text": "出售"
+  },
+  {
+    "filename": "ceot1sau6-sell-example-1",
+    "id": "ceot1sau6-sell-example-1",
+    "text": "公司計劃今年出售舊辦公室。"
+  },
+  {
+    "filename": "ceot1sau6-sell-example-2",
+    "id": "ceot1sau6-sell-example-2",
+    "text": "呢個單位已經出售。"
+  },
+  {
+    "filename": "ceot1sau6-sell-example-3",
+    "id": "ceot1sau6-sell-example-3",
+    "text": "佢想出售手上嘅股份。"
+  },
+  {
+    "filename": "ceot1sau6-sell-example-4",
+    "id": "ceot1sau6-sell-example-4",
+    "text": "商場內有多間店舖公開出售。"
+  },
+  {
+    "filename": "cim1joek3-sign",
+    "id": "cim1joek3-sign",
+    "text": "簽約"
+  },
+  {
+    "filename": "cim1joek3-sign-example-1",
+    "id": "cim1joek3-sign-example-1",
+    "text": "我哋下星期去公司簽約。"
+  },
+  {
+    "filename": "cim1joek3-sign-example-2",
+    "id": "cim1joek3-sign-example-2",
+    "text": "你簽約之前要睇清楚條款。"
+  },
+  {
+    "filename": "cim1joek3-sign-example-3",
+    "id": "cim1joek3-sign-example-3",
+    "text": "佢哋已經同客戶簽約。"
+  },
+  {
+    "filename": "cim1joek3-sign-example-4",
+    "id": "cim1joek3-sign-example-4",
+    "text": "新員工通常要先簽約先可以返工。"
+  },
+  {
+    "filename": "cin2-money",
+    "id": "cin2-money",
+    "text": "錢"
+  },
+  {
+    "filename": "cin2-money-example-1",
+    "id": "cin2-money-example-1",
+    "text": "我今日冇錢，唔好買咁多嘢啦。"
+  },
+  {
+    "filename": "cin2-money-example-2",
+    "id": "cin2-money-example-2",
+    "text": "你有冇帶錢呀？"
+  },
+  {
+    "filename": "cin2-money-example-3",
+    "id": "cin2-money-example-3",
+    "text": "搵錢唔容易，要慢慢儲。"
+  },
+  {
+    "filename": "cin2-money-example-4",
+    "id": "cin2-money-example-4",
+    "text": "呢間舖頭收現金，唔收電子錢。"
+  },
+  {
+    "filename": "ding3daan1-order",
+    "id": "ding3daan1-order",
+    "text": "訂單"
+  },
+  {
+    "filename": "ding3daan1-order-example-1",
+    "id": "ding3daan1-order-example-1",
+    "text": "我今日收到一張新訂單。"
+  },
+  {
+    "filename": "ding3daan1-order-example-2",
+    "id": "ding3daan1-order-example-2",
+    "text": "你落咗訂單未呀？"
+  },
+  {
+    "filename": "ding3daan1-order-example-3",
+    "id": "ding3daan1-order-example-3",
+    "text": "呢張訂單要盡快處理。"
+  },
+  {
+    "filename": "ding3daan1-order-example-4",
+    "id": "ding3daan1-order-example-4",
+    "text": "客戶要求修改訂單內容。"
+  },
+  {
+    "filename": "faat3piu3-invoice",
+    "id": "faat3piu3-invoice",
+    "text": "發票"
+  },
+  {
+    "filename": "faat3piu3-invoice-example-1",
+    "id": "faat3piu3-invoice-example-1",
+    "text": "請幫我出返張發票。"
+  },
+  {
+    "filename": "faat3piu3-invoice-example-2",
+    "id": "faat3piu3-invoice-example-2",
+    "text": "呢份發票已經寄咗俾客人。"
+  },
+  {
+    "filename": "faat3piu3-invoice-example-3",
+    "id": "faat3piu3-invoice-example-3",
+    "text": "報銷之前要先攞發票。"
+  },
+  {
+    "filename": "faat3piu3-invoice-example-4",
+    "id": "faat3piu3-invoice-example-4",
+    "text": "你可唔可以幫我改張發票抬頭？"
+  },
+  {
+    "filename": "faat3zin2-development",
+    "id": "faat3zin2-development",
+    "text": "發展"
+  },
+  {
+    "filename": "faat3zin2-development-example-1",
+    "id": "faat3zin2-development-example-1",
+    "text": "公司近年嘅發展好快。"
+  },
+  {
+    "filename": "faat3zin2-development-example-2",
+    "id": "faat3zin2-development-example-2",
+    "text": "我哋要計劃未來五年嘅發展。"
+  },
+  {
+    "filename": "faat3zin2-development-example-3",
+    "id": "faat3zin2-development-example-3",
+    "text": "呢個地區嘅發展潛力好大。"
+  },
+  {
+    "filename": "faat3zin2-development-example-4",
+    "id": "faat3zin2-development-example-4",
+    "text": "公司想喺海外市場尋求新發展。"
+  },
+  {
+    "filename": "gai3waak6-plan",
+    "id": "gai3waak6-plan",
+    "text": "計劃"
+  },
+  {
+    "filename": "gai3waak6-plan-example-1",
+    "id": "gai3waak6-plan-example-1",
+    "text": "我哋要重新諗吓呢個計劃。"
+  },
+  {
+    "filename": "gai3waak6-plan-example-2",
+    "id": "gai3waak6-plan-example-2",
+    "text": "公司嘅擴張計劃已經開始。"
+  },
+  {
+    "filename": "gai3waak6-plan-example-3",
+    "id": "gai3waak6-plan-example-3",
+    "text": "佢計劃下個月去香港出差。"
+  },
+  {
+    "filename": "gai3waak6-plan-example-4",
+    "id": "gai3waak6-plan-example-4",
+    "text": "呢份計劃書要交畀老細睇。"
+  },
+  {
+    "filename": "ging1jing4-management",
+    "id": "ging1jing4-management",
+    "text": "經營"
+  },
+  {
+    "filename": "ging1jing4-management-example-1",
+    "id": "ging1jing4-management-example-1",
+    "text": "呢間公司嘅經營做得好穩陣。"
+  },
+  {
+    "filename": "ging1jing4-management-example-2",
+    "id": "ging1jing4-management-example-2",
+    "text": "佢負責餐廳嘅經營。"
+  },
+  {
+    "filename": "ging1jing4-management-example-3",
+    "id": "ging1jing4-management-example-3",
+    "text": "小店經營得唔錯。"
+  },
+  {
+    "filename": "ging1jing4-management-example-4",
+    "id": "ging1jing4-management-example-4",
+    "text": "疫情之後，生意經營更加困難。"
+  },
+  {
+    "filename": "ging1lei5-manager",
+    "id": "ging1lei5-manager",
+    "text": "經理"
+  },
+  {
+    "filename": "ging1lei5-manager-example-1",
+    "id": "ging1lei5-manager-example-1",
+    "text": "我哋部門個經理今日開會。"
+  },
+  {
+    "filename": "ging1lei5-manager-example-2",
+    "id": "ging1lei5-manager-example-2",
+    "text": "新經理好有經驗。"
+  },
+  {
+    "filename": "ging1lei5-manager-example-3",
+    "id": "ging1lei5-manager-example-3",
+    "text": "你可以問經理攞批准。"
+  },
+  {
+    "filename": "ging1lei5-manager-example-4",
+    "id": "ging1lei5-manager-example-4",
+    "text": "呢間舖頭嘅經理好親切。"
+  },
+  {
+    "filename": "ging3zang1-competition",
+    "id": "ging3zang1-competition",
+    "text": "競爭"
+  },
+  {
+    "filename": "ging3zang1-competition-example-1",
+    "id": "ging3zang1-competition-example-1",
+    "text": "呢個行業競爭好大。"
+  },
+  {
+    "filename": "ging3zang1-competition-example-2",
+    "id": "ging3zang1-competition-example-2",
+    "text": "公司要提升產品質素，先可以喺競爭入面站穩陣腳。"
+  },
+  {
+    "filename": "ging3zang1-competition-example-3",
+    "id": "ging3zang1-competition-example-3",
+    "text": "新品牌加入市場之後，競爭即刻變得更激烈。"
+  },
+  {
+    "filename": "ging3zang1-competition-example-4",
+    "id": "ging3zang1-competition-example-4",
+    "text": "佢哋喺競爭中學到好多嘢。"
+  },
+  {
+    "filename": "gung1si1-company",
+    "id": "gung1si1-company",
+    "text": "公司"
+  },
+  {
+    "filename": "gung1si1-company-example-1",
+    "id": "gung1si1-company-example-1",
+    "text": "我喺一間大公司做文員。"
+  },
+  {
+    "filename": "gung1si1-company-example-2",
+    "id": "gung1si1-company-example-2",
+    "text": "呢間公司啱啱先開張。"
+  },
+  {
+    "filename": "gung1si1-company-example-3",
+    "id": "gung1si1-company-example-3",
+    "text": "佢想自己開公司。"
+  },
+  {
+    "filename": "gung1si1-company-example-4",
+    "id": "gung1si1-company-example-4",
+    "text": "我哋公司今日放假。"
+  },
+  {
+    "filename": "haak3-customer",
+    "id": "haak3-customer",
+    "text": "客"
+  },
+  {
+    "filename": "haak3-customer-example-1",
+    "id": "haak3-customer-example-1",
+    "text": "呢間舖頭啲客好多，成日都好忙。"
+  },
+  {
+    "filename": "haak3-customer-example-2",
+    "id": "haak3-customer-example-2",
+    "text": "老細話要對客好啲。"
+  },
+  {
+    "filename": "haak3-customer-example-3",
+    "id": "haak3-customer-example-3",
+    "text": "今日有幾個客嚟問價。"
+  },
+  {
+    "filename": "haak3-customer-example-4",
+    "id": "haak3-customer-example-4",
+    "text": "我哋要快啲回覆客嘅查詢。"
+  },
+  {
+    "filename": "haak3wu6-client",
+    "id": "haak3wu6-client",
+    "text": "客戶"
+  },
+  {
+    "filename": "haak3wu6-client-example-1",
+    "id": "haak3wu6-client-example-1",
+    "text": "呢間公司好重視每一個客戶。"
+  },
+  {
+    "filename": "haak3wu6-client-example-2",
+    "id": "haak3wu6-client-example-2",
+    "text": "我哋要同客戶保持聯絡。"
+  },
+  {
+    "filename": "haak3wu6-client-example-3",
+    "id": "haak3wu6-client-example-3",
+    "text": "佢係我哋公司嘅長期客戶。"
+  },
+  {
+    "filename": "haak3wu6-client-example-4",
+    "id": "haak3wu6-client-example-4",
+    "text": "如果客戶有問題，我哋會即刻跟進。"
+  },
+  {
+    "filename": "hap6fo2jan4-partner",
+    "id": "hap6fo2jan4-partner",
+    "text": "合夥人"
+  },
+  {
+    "filename": "hap6fo2jan4-partner-example-1",
+    "id": "hap6fo2jan4-partner-example-1",
+    "text": "我同我個合夥人一齊開公司。"
+  },
+  {
+    "filename": "hap6fo2jan4-partner-example-2",
+    "id": "hap6fo2jan4-partner-example-2",
+    "text": "呢個生意有三個合夥人。"
+  },
+  {
+    "filename": "hap6fo2jan4-partner-example-3",
+    "id": "hap6fo2jan4-partner-example-3",
+    "text": "佢係我嘅合夥人，負責銷售。"
+  },
+  {
+    "filename": "hap6fo2jan4-partner-example-4",
+    "id": "hap6fo2jan4-partner-example-4",
+    "text": "如果你想創業，最好搵一個可靠嘅合夥人。"
+  },
+  {
+    "filename": "hap6joek3-agreement",
+    "id": "hap6joek3-agreement",
+    "text": "合約"
+  },
+  {
+    "filename": "hap6joek3-agreement-example-1",
+    "id": "hap6joek3-agreement-example-1",
+    "text": "我哋今日簽咗份合約。"
+  },
+  {
+    "filename": "hap6joek3-agreement-example-2",
+    "id": "hap6joek3-agreement-example-2",
+    "text": "呢份合約要律師睇過先。"
+  },
+  {
+    "filename": "hap6joek3-agreement-example-3",
+    "id": "hap6joek3-agreement-example-3",
+    "text": "如果條款有問題，記得同對方改合約。"
+  },
+  {
+    "filename": "hap6joek3-agreement-example-4",
+    "id": "hap6joek3-agreement-example-4",
+    "text": "佢哋因為傾唔掂，所以最後冇簽合約。"
+  },
+  {
+    "filename": "hap6tung4-contract",
+    "id": "hap6tung4-contract",
+    "text": "合同"
+  },
+  {
+    "filename": "hap6tung4-contract-example-1",
+    "id": "hap6tung4-contract-example-1",
+    "text": "我今日要簽個合同。"
+  },
+  {
+    "filename": "hap6tung4-contract-example-2",
+    "id": "hap6tung4-contract-example-2",
+    "text": "呢份合同要睇清楚先好簽。"
+  },
+  {
+    "filename": "hap6tung4-contract-example-3",
+    "id": "hap6tung4-contract-example-3",
+    "text": "公司同供應商嘅合同已經定咗。"
+  },
+  {
+    "filename": "hap6tung4-contract-example-4",
+    "id": "hap6tung4-contract-example-4",
+    "text": "如果有問題，記得問律師睇合同。"
+  },
+  {
+    "filename": "hap6zok3-cooperation",
+    "id": "hap6zok3-cooperation",
+    "text": "合作"
+  },
+  {
+    "filename": "hap6zok3-cooperation-example-1",
+    "id": "hap6zok3-cooperation-example-1",
+    "text": "我哋今次同另一間公司合作做個新項目。"
+  },
+  {
+    "filename": "hap6zok3-cooperation-example-2",
+    "id": "hap6zok3-cooperation-example-2",
+    "text": "雙方合作得好順利。"
+  },
+  {
+    "filename": "hap6zok3-cooperation-example-3",
+    "id": "hap6zok3-cooperation-example-3",
+    "text": "如果你哋肯合作，件事會快好多。"
+  },
+  {
+    "filename": "hap6zok3-cooperation-example-4",
+    "id": "hap6zok3-cooperation-example-4",
+    "text": "呢次合作對我哋公司好有幫助。"
+  },
+  {
+    "filename": "hoi1wui6-meeting",
+    "id": "hoi1wui6-meeting",
+    "text": "開會"
+  },
+  {
+    "filename": "hoi1wui6-meeting-example-1",
+    "id": "hoi1wui6-meeting-example-1",
+    "text": "我哋今日下午三點開會。"
+  },
+  {
+    "filename": "hoi1wui6-meeting-example-2",
+    "id": "hoi1wui6-meeting-example-2",
+    "text": "老細叫我聽日去開會。"
+  },
+  {
+    "filename": "hoi1wui6-meeting-example-3",
+    "id": "hoi1wui6-meeting-example-3",
+    "text": "佢而家喺會議室開緊會。"
+  },
+  {
+    "filename": "hoi1wui6-meeting-example-4",
+    "id": "hoi1wui6-meeting-example-4",
+    "text": "星期一朝早通常要開會。"
+  },
+  {
+    "filename": "hong4jip6-industry",
+    "id": "hong4jip6-industry",
+    "text": "行業"
+  },
+  {
+    "filename": "hong4jip6-industry-example-1",
+    "id": "hong4jip6-industry-example-1",
+    "text": "呢個行業競爭好大。"
+  },
+  {
+    "filename": "hong4jip6-industry-example-2",
+    "id": "hong4jip6-industry-example-2",
+    "text": "我哋公司喺醫療行業做緊。"
+  },
+  {
+    "filename": "hong4jip6-industry-example-3",
+    "id": "hong4jip6-industry-example-3",
+    "text": "佢想轉去科技行業。"
+  },
+  {
+    "filename": "hong4jip6-industry-example-4",
+    "id": "hong4jip6-industry-example-4",
+    "text": "香港嘅旅遊行業近年恢復得幾快。"
+  },
+  {
+    "filename": "jing4jip6ngaak6-turnover",
+    "id": "jing4jip6ngaak6-turnover",
+    "text": "營業額"
+  },
+  {
+    "filename": "jing4jip6ngaak6-turnover-example-1",
+    "id": "jing4jip6ngaak6-turnover-example-1",
+    "text": "呢間舖頭上個月嘅營業額比以前高咗。"
+  },
+  {
+    "filename": "jing4jip6ngaak6-turnover-example-2",
+    "id": "jing4jip6ngaak6-turnover-example-2",
+    "text": "公司今年嘅營業額增長得好快。"
+  },
+  {
+    "filename": "jing4jip6ngaak6-turnover-example-3",
+    "id": "jing4jip6ngaak6-turnover-example-3",
+    "text": "如果想提高營業額，就要諗辦法吸引更多客人。"
+  },
+  {
+    "filename": "jing4jip6ngaak6-turnover-example-4",
+    "id": "jing4jip6ngaak6-turnover-example-4",
+    "text": "佢哋喺會議度討論緊點樣穩定營業額。"
+  },
+  {
+    "filename": "jip6zik1-performance",
+    "id": "jip6zik1-performance",
+    "text": "業績"
+  },
+  {
+    "filename": "jip6zik1-performance-example-1",
+    "id": "jip6zik1-performance-example-1",
+    "text": "公司今年嘅業績好過上年。"
+  },
+  {
+    "filename": "jip6zik1-performance-example-2",
+    "id": "jip6zik1-performance-example-2",
+    "text": "我哋要改善下季度嘅業績。"
+  },
+  {
+    "filename": "jip6zik1-performance-example-3",
+    "id": "jip6zik1-performance-example-3",
+    "text": "新產品推出之後，業績有明顯升幅。"
+  },
+  {
+    "filename": "jip6zik1-performance-example-4",
+    "id": "jip6zik1-performance-example-4",
+    "text": "佢哋部門嘅業績一直都幾穩定。"
+  },
+  {
+    "filename": "jyun4gung1-employee",
+    "id": "jyun4gung1-employee",
+    "text": "員工"
+  },
+  {
+    "filename": "jyun4gung1-employee-example-1",
+    "id": "jyun4gung1-employee-example-1",
+    "text": "我哋公司而家有一百個員工。"
+  },
+  {
+    "filename": "jyun4gung1-employee-example-2",
+    "id": "jyun4gung1-employee-example-2",
+    "text": "呢位員工好有禮貌。"
+  },
+  {
+    "filename": "jyun4gung1-employee-example-3",
+    "id": "jyun4gung1-employee-example-3",
+    "text": "新員工要先熟習公司規矩。"
+  },
+  {
+    "filename": "jyun4gung1-employee-example-4",
+    "id": "jyun4gung1-employee-example-4",
+    "text": "佢係超市做員工。"
+  },
+  {
+    "filename": "kei5jip6-enterprise",
+    "id": "kei5jip6-enterprise",
+    "text": "企業"
+  },
+  {
+    "filename": "kei5jip6-enterprise-example-1",
+    "id": "kei5jip6-enterprise-example-1",
+    "text": "呢間企業近年發展得好快。"
+  },
+  {
+    "filename": "kei5jip6-enterprise-example-2",
+    "id": "kei5jip6-enterprise-example-2",
+    "text": "政府鼓勵中小企業創新。"
+  },
+  {
+    "filename": "kei5jip6-enterprise-example-3",
+    "id": "kei5jip6-enterprise-example-3",
+    "text": "佢喺一間大型企業做市場經理。"
+  },
+  {
+    "filename": "kei5jip6-enterprise-example-4",
+    "id": "kei5jip6-enterprise-example-4",
+    "text": "呢個企業形象做得幾專業。"
+  },
+  {
+    "filename": "king1-negotiate",
+    "id": "king1-negotiate",
+    "text": "傾"
+  },
+  {
+    "filename": "king1-negotiate-example-1",
+    "id": "king1-negotiate-example-1",
+    "text": "我哋要同供應商傾下價。"
+  },
+  {
+    "filename": "king1-negotiate-example-2",
+    "id": "king1-negotiate-example-2",
+    "text": "佢今日去同客戶傾合作。"
+  },
+  {
+    "filename": "king1-negotiate-example-3",
+    "id": "king1-negotiate-example-3",
+    "text": "呢單生意仲未傾掂。"
+  },
+  {
+    "filename": "king1-negotiate-example-4",
+    "id": "king1-negotiate-example-4",
+    "text": "我哋慢慢傾，唔使咁急。"
+  },
+  {
+    "filename": "king1saang1ji3-negotiate-business",
+    "id": "king1saang1ji3-negotiate-business",
+    "text": "傾生意"
+  },
+  {
+    "filename": "king1saang1ji3-negotiate-business-example-1",
+    "id": "king1saang1ji3-negotiate-business-example-1",
+    "text": "我聽日要去同客人傾生意。"
+  },
+  {
+    "filename": "king1saang1ji3-negotiate-business-example-2",
+    "id": "king1saang1ji3-negotiate-business-example-2",
+    "text": "佢哋成日約埋一齊傾生意。"
+  },
+  {
+    "filename": "king1saang1ji3-negotiate-business-example-3",
+    "id": "king1saang1ji3-negotiate-business-example-3",
+    "text": "呢單傾生意傾咗成個鐘。"
+  },
+  {
+    "filename": "king1saang1ji3-negotiate-business-example-4",
+    "id": "king1saang1ji3-negotiate-business-example-4",
+    "text": "開會唔一定係傾生意，亦可能係傾合作計劃。"
+  },
+  {
+    "filename": "kwok3zoeng1-expansion",
+    "id": "kwok3zoeng1-expansion",
+    "text": "擴張"
+  },
+  {
+    "filename": "kwok3zoeng1-expansion-example-1",
+    "id": "kwok3zoeng1-expansion-example-1",
+    "text": "公司今年計劃擴張海外市場。"
+  },
+  {
+    "filename": "kwok3zoeng1-expansion-example-2",
+    "id": "kwok3zoeng1-expansion-example-2",
+    "text": "呢間連鎖店一直擴張得好快。"
+  },
+  {
+    "filename": "kwok3zoeng1-expansion-example-3",
+    "id": "kwok3zoeng1-expansion-example-3",
+    "text": "擴張業務之前，要先做好資金安排。"
+  },
+  {
+    "filename": "kwok3zoeng1-expansion-example-4",
+    "id": "kwok3zoeng1-expansion-example-4",
+    "text": "工廠擴張之後，員工人數多咗好多。"
+  },
+  {
+    "filename": "lei6jeon6-profit",
+    "id": "lei6jeon6-profit",
+    "text": "利潤"
+  },
+  {
+    "filename": "lei6jeon6-profit-example-1",
+    "id": "lei6jeon6-profit-example-1",
+    "text": "呢間公司上季利潤升咗好多。"
+  },
+  {
+    "filename": "lei6jeon6-profit-example-2",
+    "id": "lei6jeon6-profit-example-2",
+    "text": "生意好唔代表一定有利潤。"
+  },
+  {
+    "filename": "lei6jeon6-profit-example-3",
+    "id": "lei6jeon6-profit-example-3",
+    "text": "扣除成本之後，今個月利潤唔多。"
+  },
+  {
+    "filename": "lei6jeon6-profit-example-4",
+    "id": "lei6jeon6-profit-example-4",
+    "text": "老闆最關心嘅係公司嘅利潤。"
+  },
+  {
+    "filename": "lou5baan2-boss",
+    "id": "lou5baan2-boss",
+    "text": "老闆"
+  },
+  {
+    "filename": "lou5baan2-boss-example-1",
+    "id": "lou5baan2-boss-example-1",
+    "text": "老闆今日好忙，成日喺度開會。"
+  },
+  {
+    "filename": "lou5baan2-boss-example-2",
+    "id": "lou5baan2-boss-example-2",
+    "text": "我個老闆好嚴格，但係好公道。"
+  },
+  {
+    "filename": "lou5baan2-boss-example-3",
+    "id": "lou5baan2-boss-example-3",
+    "text": "請問老闆喺唔喺度？"
+  },
+  {
+    "filename": "lou5baan2-boss-example-4",
+    "id": "lou5baan2-boss-example-4",
+    "text": "佢係呢間舖頭嘅老闆。"
+  },
+  {
+    "filename": "man4gin2-document",
+    "id": "man4gin2-document",
+    "text": "文件"
+  },
+  {
+    "filename": "man4gin2-document-example-1",
+    "id": "man4gin2-document-example-1",
+    "text": "請你將份文件影印一份。"
+  },
+  {
+    "filename": "man4gin2-document-example-2",
+    "id": "man4gin2-document-example-2",
+    "text": "呢份文件要簽名先得。"
+  },
+  {
+    "filename": "man4gin2-document-example-3",
+    "id": "man4gin2-document-example-3",
+    "text": "我喺電郵入面收咗份文件。"
+  },
+  {
+    "filename": "man4gin2-document-example-4",
+    "id": "man4gin2-document-example-4",
+    "text": "你可唔可以幫我整理啲文件？"
+  },
+  {
+    "filename": "muk6biu1-target",
+    "id": "muk6biu1-target",
+    "text": "目標"
+  },
+  {
+    "filename": "muk6biu1-target-example-1",
+    "id": "muk6biu1-target-example-1",
+    "text": "公司今年嘅目標係擴大市場佔有率。"
+  },
+  {
+    "filename": "muk6biu1-target-example-2",
+    "id": "muk6biu1-target-example-2",
+    "text": "我哋要訂定一個清晰嘅目標。"
+  },
+  {
+    "filename": "muk6biu1-target-example-3",
+    "id": "muk6biu1-target-example-3",
+    "text": "呢個月嘅銷售目標已經達到。"
+  },
+  {
+    "filename": "muk6biu1-target-example-4",
+    "id": "muk6biu1-target-example-4",
+    "text": "團隊會根據目標去分配資源。"
+  },
+  {
+    "filename": "saang1caan2-production",
+    "id": "saang1caan2-production",
+    "text": "生產"
+  },
+  {
+    "filename": "saang1caan2-production-example-1",
+    "id": "saang1caan2-production-example-1",
+    "text": "呢間廠嘅生產效率今年提高咗。"
+  },
+  {
+    "filename": "saang1caan2-production-example-2",
+    "id": "saang1caan2-production-example-2",
+    "text": "公司要增加生產，先可以應付訂單。"
+  },
+  {
+    "filename": "saang1caan2-production-example-3",
+    "id": "saang1caan2-production-example-3",
+    "text": "原材料供應唔穩定，生產就會受影響。"
+  },
+  {
+    "filename": "saang1caan2-production-example-4",
+    "id": "saang1caan2-production-example-4",
+    "text": "呢款產品已經開始量產。"
+  },
+  {
+    "filename": "saang1ji3-trade",
+    "id": "saang1ji3-trade",
+    "text": "生意"
+  },
+  {
+    "filename": "saang1ji3-trade-example-1",
+    "id": "saang1ji3-trade-example-1",
+    "text": "呢排生意好好。"
+  },
+  {
+    "filename": "saang1ji3-trade-example-2",
+    "id": "saang1ji3-trade-example-2",
+    "text": "佢哋一家人做生意。"
+  },
+  {
+    "filename": "saang1ji3-trade-example-3",
+    "id": "saang1ji3-trade-example-3",
+    "text": "我想搵份同生意有關嘅工。"
+  },
+  {
+    "filename": "saang1ji3-trade-example-4",
+    "id": "saang1ji3-trade-example-4",
+    "text": "而家呢門生意唔易做。"
+  },
+  {
+    "filename": "sau1jap6-income",
+    "id": "sau1jap6-income",
+    "text": "收入"
+  },
+  {
+    "filename": "sau1jap6-income-example-1",
+    "id": "sau1jap6-income-example-1",
+    "text": "我嘅收入今個月高咗少少。"
+  },
+  {
+    "filename": "sau1jap6-income-example-2",
+    "id": "sau1jap6-income-example-2",
+    "text": "呢份工嘅收入唔算高，但好穩定。"
+  },
+  {
+    "filename": "sau1jap6-income-example-3",
+    "id": "sau1jap6-income-example-3",
+    "text": "公司嘅收入主要嚟自海外市場。"
+  },
+  {
+    "filename": "sau1jap6-income-example-4",
+    "id": "sau1jap6-income-example-4",
+    "text": "佢哋家庭收入夠用，但冇多餘錢。"
+  },
+  {
+    "filename": "si5coeng4-market",
+    "id": "si5coeng4-market",
+    "text": "市場"
+  },
+  {
+    "filename": "si5coeng4-market-example-1",
+    "id": "si5coeng4-market-example-1",
+    "text": "公司想喺東南亞市場擴展業務。"
+  },
+  {
+    "filename": "si5coeng4-market-example-2",
+    "id": "si5coeng4-market-example-2",
+    "text": "我哋要先了解市場需求。"
+  },
+  {
+    "filename": "si5coeng4-market-example-3",
+    "id": "si5coeng4-market-example-3",
+    "text": "呢個產品喺本地市場賣得幾好。"
+  },
+  {
+    "filename": "si5coeng4-market-example-4",
+    "id": "si5coeng4-market-example-4",
+    "text": "公司而家最關心嘅係新市場嘅發展。"
+  },
+  {
+    "filename": "soeng1jip6-commerce",
+    "id": "soeng1jip6-commerce",
+    "text": "商業"
+  },
+  {
+    "filename": "soeng1jip6-commerce-example-1",
+    "id": "soeng1jip6-commerce-example-1",
+    "text": "香港係亞洲重要嘅商業城市。"
+  },
+  {
+    "filename": "soeng1jip6-commerce-example-2",
+    "id": "soeng1jip6-commerce-example-2",
+    "text": "佢喺商業機構做會計。"
+  },
+  {
+    "filename": "soeng1jip6-commerce-example-3",
+    "id": "soeng1jip6-commerce-example-3",
+    "text": "呢個地區主要發展商業同旅遊。"
+  },
+  {
+    "filename": "soeng1jip6-commerce-example-4",
+    "id": "soeng1jip6-commerce-example-4",
+    "text": "我哋學校附近有好多商業大廈。"
+  },
+  {
+    "filename": "syun2sat1-loss",
+    "id": "syun2sat1-loss",
+    "text": "損失"
+  },
+  {
+    "filename": "syun2sat1-loss-example-1",
+    "id": "syun2sat1-loss-example-1",
+    "text": "公司今個月有損失。"
+  },
+  {
+    "filename": "syun2sat1-loss-example-2",
+    "id": "syun2sat1-loss-example-2",
+    "text": "呢次意外造成好大損失。"
+  },
+  {
+    "filename": "syun2sat1-loss-example-3",
+    "id": "syun2sat1-loss-example-3",
+    "text": "如果投資失敗，可能會有金錢損失。"
+  },
+  {
+    "filename": "syun2sat1-loss-example-4",
+    "id": "syun2sat1-loss-example-4",
+    "text": "我哋要盡量減少時間損失。"
+  },
+  {
+    "filename": "tau4zi1-investment",
+    "id": "tau4zi1-investment",
+    "text": "投資"
+  },
+  {
+    "filename": "tau4zi1-investment-example-1",
+    "id": "tau4zi1-investment-example-1",
+    "text": "我想學識點樣投資股票。"
+  },
+  {
+    "filename": "tau4zi1-investment-example-2",
+    "id": "tau4zi1-investment-example-2",
+    "text": "呢個項目要好多投資。"
+  },
+  {
+    "filename": "tau4zi1-investment-example-3",
+    "id": "tau4zi1-investment-example-3",
+    "text": "佢哋喺香港樓市投資咗唔少錢。"
+  },
+  {
+    "filename": "tau4zi1-investment-example-4",
+    "id": "tau4zi1-investment-example-4",
+    "text": "公司今年會加大投資研發。"
+  },
+  {
+    "filename": "teoi1gwong2-promotion",
+    "id": "teoi1gwong2-promotion",
+    "text": "推廣"
+  },
+  {
+    "filename": "teoi1gwong2-promotion-example-1",
+    "id": "teoi1gwong2-promotion-example-1",
+    "text": "公司今年加強產品推廣，吸引更多新客戶。"
+  },
+  {
+    "filename": "teoi1gwong2-promotion-example-2",
+    "id": "teoi1gwong2-promotion-example-2",
+    "text": "呢個品牌喺社交媒體做咗好多推廣。"
+  },
+  {
+    "filename": "teoi1gwong2-promotion-example-3",
+    "id": "teoi1gwong2-promotion-example-3",
+    "text": "政府希望透過教育推廣環保意識。"
+  },
+  {
+    "filename": "teoi1gwong2-promotion-example-4",
+    "id": "teoi1gwong2-promotion-example-4",
+    "text": "展覽期間，主辦單位會安排宣傳同推廣活動。"
+  },
+  {
+    "filename": "wui4fuk1-reply",
+    "id": "wui4fuk1-reply",
+    "text": "回覆"
+  },
+  {
+    "filename": "wui4fuk1-reply-example-1",
+    "id": "wui4fuk1-reply-example-1",
+    "text": "請盡快回覆我。"
+  },
+  {
+    "filename": "wui4fuk1-reply-example-2",
+    "id": "wui4fuk1-reply-example-2",
+    "text": "我今日收到你嘅回覆。"
+  },
+  {
+    "filename": "wui4fuk1-reply-example-3",
+    "id": "wui4fuk1-reply-example-3",
+    "text": "客戶嘅回覆好快。"
+  },
+  {
+    "filename": "wui4fuk1-reply-example-4",
+    "id": "wui4fuk1-reply-example-4",
+    "text": "多謝你詳細回覆呢封電郵。"
+  },
+  {
+    "filename": "wui6ji5-conference",
+    "id": "wui6ji5-conference",
+    "text": "會議"
+  },
+  {
+    "filename": "wui6ji5-conference-example-1",
+    "id": "wui6ji5-conference-example-1",
+    "text": "明早九點有個會議。"
+  },
+  {
+    "filename": "wui6ji5-conference-example-2",
+    "id": "wui6ji5-conference-example-2",
+    "text": "佢今日要參加公司會議。"
+  },
+  {
+    "filename": "wui6ji5-conference-example-3",
+    "id": "wui6ji5-conference-example-3",
+    "text": "請你喺會議前準備好份報告。"
+  },
+  {
+    "filename": "wui6ji5-conference-example-4",
+    "id": "wui6ji5-conference-example-4",
+    "text": "呢個會議會討論新產品。"
+  },
+  {
+    "filename": "zi1ceot1-expenses",
+    "id": "zi1ceot1-expenses",
+    "text": "支出"
+  },
+  {
+    "filename": "zi1ceot1-expenses-example-1",
+    "id": "zi1ceot1-expenses-example-1",
+    "text": "呢個月公司支出比上個月多咗。"
+  },
+  {
+    "filename": "zi1ceot1-expenses-example-2",
+    "id": "zi1ceot1-expenses-example-2",
+    "text": "買材料係我哋最大嘅支出之一。"
+  },
+  {
+    "filename": "zi1ceot1-expenses-example-3",
+    "id": "zi1ceot1-expenses-example-3",
+    "text": "你要記低所有支出，方便做預算。"
+  },
+  {
+    "filename": "zi1ceot1-expenses-example-4",
+    "id": "zi1ceot1-expenses-example-4",
+    "text": "呢單生意嘅支出控制得唔錯。"
+  },
+  {
+    "filename": "zi1liu2-information",
+    "id": "zi1liu2-information",
+    "text": "資料"
+  },
+  {
+    "filename": "zi1liu2-information-example-1",
+    "id": "zi1liu2-information-example-1",
+    "text": "請你俾啲資料我睇。"
+  },
+  {
+    "filename": "zi1liu2-information-example-2",
+    "id": "zi1liu2-information-example-2",
+    "text": "我哋要先收集客戶資料。"
+  },
+  {
+    "filename": "zi1liu2-information-example-3",
+    "id": "zi1liu2-information-example-3",
+    "text": "呢份資料好重要。"
+  },
+  {
+    "filename": "zi1liu2-information-example-4",
+    "id": "zi1liu2-information-example-4",
+    "text": "如果你有補充資料，請電郵畀我。"
+  },
+  {
+    "filename": "zo6lei5-assistant",
+    "id": "zo6lei5-assistant",
+    "text": "助理"
+  },
+  {
+    "filename": "zo6lei5-assistant-example-1",
+    "id": "zo6lei5-assistant-example-1",
+    "text": "佢係經理嘅助理。"
+  },
+  {
+    "filename": "zo6lei5-assistant-example-2",
+    "id": "zo6lei5-assistant-example-2",
+    "text": "我今日要幫助理處理文件。"
+  },
+  {
+    "filename": "zo6lei5-assistant-example-3",
+    "id": "zo6lei5-assistant-example-3",
+    "text": "新入職嘅助理要學好多嘢。"
+  },
+  {
+    "filename": "zo6lei5-assistant-example-4",
+    "id": "zo6lei5-assistant-example-4",
+    "text": "佢喺醫生助理嗰度做嘢。"
   }
 ]

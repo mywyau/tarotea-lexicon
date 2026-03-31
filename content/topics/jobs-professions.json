@@ -52,11 +52,41 @@
       { "id": "lei5faat3si1-barber", "word": "理髮師", "jyutping": "lei5 faat3 si1", "meaning": "barber" }
     ],
 
+    "tech_jobs": [
+      { "id": "cing4sik1jyun4-programmer", "word": "程式員", "jyutping": "cing4 sik1 jyun4", "meaning": "programmer" },
+      { "id": "jyun5gin2gung1cing4si1-software-engineer", "word": "軟件工程師", "jyutping": "jyun5 gin2 gung1 cing4 si1", "meaning": "software engineer" },
+      { "id": "cit3gai3si1-designer", "word": "設計師", "jyutping": "cit3 gai3 si1", "meaning": "designer" },
+      { "id": "mong5jip6cit3gai3si1-web-designer", "word": "網頁設計師", "jyutping": "mong5 jip6 cit3 gai3 si1", "meaning": "web designer" },
+      { "id": "sip3jing2si1-photographer", "word": "攝影師", "jyutping": "sip3 jing2 si1", "meaning": "photographer" },
+      { "id": "jin2jyun4-actor", "word": "演員", "jyutping": "jin2 jyun4", "meaning": "actor" }
+    ],
+
+    "corporate_professions": [
+      { "id": "teoi1gwong2jyun4-marketer", "word": "推廣員", "jyutping": "teoi1 gwong2 jyun4", "meaning": "marketer" },
+      { "id": "jan4si6-human-resources", "word": "人事", "jyutping": "jan4 si6", "meaning": "human resources" },
+      { "id": "ngan4hong4zik1jyun4-banker", "word": "銀行職員", "jyutping": "ngan4 hong4 zik1 jyun4", "meaning": "banker" },
+      { "id": "hat6sou3si1-auditor", "word": "核數師", "jyutping": "hat6 sou3 si1", "meaning": "auditor" },
+      { "id": "zip3doi6jyun4-receptionist", "word": "接待員", "jyutping": "zip3 doi6 jyun4", "meaning": "receptionist" }
+    ],
+
+    "healthcare_professions": [
+      { "id": "ngaa4ji1-dentist", "word": "牙醫", "jyutping": "ngaa4 ji1", "meaning": "dentist" },
+      { "id": "mat6lei5zi6liu4si1-physiotherapist", "word": "物理治療師", "jyutping": "mat6 lei5 zi6 liu4 si1", "meaning": "physiotherapist" },
+      { "id": "joek6zai1si1-pharmacist", "word": "藥劑師", "jyutping": "joek6 zai1 si1", "meaning": "pharmacist" },
+      { "id": "ziu3gu3jyun4-caregiver", "word": "照顧員", "jyutping": "ziu3 gu3 jyun4", "meaning": "caregiver" }
+    ],
+
+    "transport_professions": [
+      { "id": "baa1si2si1gei1-bus-driver", "word": "巴士司機", "jyutping": "baa1 si2 si1 gei1", "meaning": "bus driver" },
+      { "id": "dik1si2si1gei1-taxi-driver", "word": "的士司機", "jyutping": "dik1 si2 si1 gei1", "meaning": "taxi driver" },
+      { "id": "faai3dai6jyun4-courier", "word": "快遞員", "jyutping": "faai3 dai6 jyun4", "meaning": "courier" },
+      { "id": "sung3fo3jyun4-delivery-worker", "word": "送貨員", "jyutping": "sung3 fo3 jyun4", "meaning": "delivery worker" }
+    ],
+
     "work_and_employment_words": [
       { "id": "faan1gung1-go-to-work", "word": "返工", "jyutping": "faan1 gung1", "meaning": "go to work" },
       { "id": "hong4jip6-industry", "word": "行業", "jyutping": "hong4 jip6", "meaning": "industry" },
       { "id": "zik1jip6-occupation", "word": "職業", "jyutping": "zik1 jip6", "meaning": "occupation" },
-      { "id": "faan1gung1-go-to-work", "word": "返工", "jyutping": "faan1 gung1", "meaning": "go to work" },
       { "id": "fong3gung1-finish-work", "word": "放工", "jyutping": "fong3 gung1", "meaning": "finish work" },
       { "id": "wan2gung1-job-hunt", "word": "搵工", "jyutping": "wan2 gung1", "meaning": "job hunt" },
       { "id": "sat1jip6-unemployed", "word": "失業", "jyutping": "sat1 jip6", "meaning": "unemployed" },
