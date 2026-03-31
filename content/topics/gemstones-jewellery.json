@@ -34,12 +34,12 @@
 
     "precious_materials": [
       { "id": "gam1-gold", "word": "金", "jyutping": "gam1", "meaning": "gold" },
+      { "id": "mui4gwai3gam1-rose-gold", "word": "玫瑰金", "jyutping": "mui4 gwai3 gam1", "meaning": "rose gold" },
       { "id": "baak6ngan4-silver", "word": "白銀", "jyutping": "baak6 ngan4", "meaning": "fine silver" },
-      { "id": "pak6gam1-platinum", "word": "鉑金", "jyutping": "pak6 gam1", "meaning": "platinum" },
       { "id": "tung4-copper", "word": "銅", "jyutping": "tung4", "meaning": "copper" },
       { "id": "hap6gam1-alloy", "word": "合金", "jyutping": "hap6 gam1", "meaning": "alloy" },
       { "id": "ngan4-silver", "word": "銀", "jyutping": "ngan4", "meaning": "silver" },
-      { "id": "baak6gam1-white-gold", "word": "白金", "jyutping": "baak6 gam1", "meaning": "white gold" },
+      { "id": "baak6gam1-white-gold", "word": "白金", "jyutping": "baak6 gam1", "meaning": "platinum" },
       { "id": "bun3bou2sek6-semi-precious", "word": "半寶石", "jyutping": "bun3 bou2 sek6", "meaning": "semi-precious stone" }
     ],
 
