@@ -3,14 +3,12 @@
   "word": "立方",
   "jyutping": "laap6 fong1",
   "meaning": "cube",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "- Used in maths for the operation or result of cubing, as in power of 3: **立方**.",
-    "- Common in school math, science, and geometry; it sounds formal and standard, not casual slang.",
-    "- Can pair with measure words or numbers when talking about volume, e.g. a cube-shaped object or cubic units.",
-    "- For learners: **立方** is often linked to **平方** (square) and **次方** (power), so it usually appears in lessons about exponents and measurement."
+    "Used in maths for the operation or result of cubing, as in power of 3: **立方**.",
+    "Common in school math, science, and geometry; it sounds formal and standard, not casual slang.",
+    "Can pair with measure words or numbers when talking about volume, e.g. a cube-shaped object or cubic units.",
+    "For learners: **立方** is often linked to **平方** (square) and **次方** (power), so it usually appears in lessons about exponents and measurement."
   ],
   "examples": [
     {
@@ -56,11 +54,5 @@
     "elementary",
     "level-1"
   ],
-  "related": [
-    "平方",
-    "次方",
-    "立方體",
-    "開根號",
-    "冪"
-  ]
+  "related": ["平方", "次方", "立方體", "開根號", "冪"]
 }

@@ -3,14 +3,12 @@
   "word": "利潤",
   "jyutping": "lei6 jeon6",
   "meaning": "profit",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "- 利潤 is a noun for the money left after costs, expenses, and other deductions are paid.",
-    "- It is commonly used in business, accounting, and sales contexts, often with words like 毛利潤 and 淨利潤.",
-    "- The word is formal and neutral; it fits reports, meetings, and financial discussions more than casual chat.",
-    "- When talking about a company’s performance, 利潤 is often compared with 收入, 成本, and 虧損."
+    "利潤 is a noun for the money left after costs, expenses, and other deductions are paid.",
+    "It is commonly used in business, accounting, and sales contexts, often with words like 毛利潤 and 淨利潤.",
+    "The word is formal and neutral; it fits reports, meetings, and financial discussions more than casual chat.",
+    "When talking about a company’s performance, 利潤 is often compared with 收入, 成本, and 虧損."
   ],
   "examples": [
     {
@@ -56,11 +54,5 @@
     "formal",
     "level-1"
   ],
-  "related": [
-    "收入",
-    "成本",
-    "盈利",
-    "毛利",
-    "淨利"
-  ]
+  "related": ["收入", "成本", "盈利", "毛利", "淨利"]
 }

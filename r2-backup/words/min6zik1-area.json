@@ -3,14 +3,12 @@
   "word": "面積",
   "jyutping": "min6 zik1",
   "meaning": "area",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "- Used for the size of a flat 2D surface, like a room, a shape, or a piece of paper.",
-    "- Commonly appears with verbs like 計, 求, 比較, and with measure words or numbers when talking about math problems.",
-    "- In everyday speech, people often say 面積大 / 面積細 to describe how big or small a surface is.",
-    "- It is a normal school-math word, so learners will hear it often in geometry and word problems."
+    "Used for the size of a flat 2D surface, like a room, a shape, or a piece of paper.",
+    "Commonly appears with verbs like 計, 求, 比較, and with measure words or numbers when talking about math problems.",
+    "In everyday speech, people often say 面積大 / 面積細 to describe how big or small a surface is.",
+    "It is a normal school-math word, so learners will hear it often in geometry and word problems."
   ],
   "examples": [
     {
@@ -56,11 +54,5 @@
     "beginner",
     "level-1"
   ],
-  "related": [
-    "長度",
-    "闊度",
-    "形狀",
-    "周長",
-    "平方厘米"
-  ]
+  "related": ["長度", "闊度", "形狀", "周長", "平方厘米"]
 }

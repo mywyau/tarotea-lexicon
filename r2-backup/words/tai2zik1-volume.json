@@ -3,14 +3,12 @@
   "word": "體積",
   "jyutping": "tai2 zik1",
   "meaning": "volume",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "- Used to talk about how much space a 3D object takes up; common in math, science, and everyday measurement contexts.",
-    "- Often appears with verbs like 計, 求, 比較 when discussing calculation or comparison of size.",
-    "- In Hong Kong school math, it usually refers to the amount of space inside a solid, not the area of a flat shape.",
-    "- Learners should note that 體積 is a formal academic noun, so it sounds natural in classroom or technical talk."
+    "Used to talk about how much space a 3D object takes up; common in math, science, and everyday measurement contexts.",
+    "Often appears with verbs like 計, 求, 比較 when discussing calculation or comparison of size.",
+    "In Hong Kong school math, it usually refers to the amount of space inside a solid, not the area of a flat shape.",
+    "Learners should note that 體積 is a formal academic noun, so it sounds natural in classroom or technical talk."
   ],
   "examples": [
     {
@@ -58,11 +56,5 @@
     "noun",
     "level-1"
   ],
-  "related": [
-    "面積",
-    "長度",
-    "闊度",
-    "高度",
-    "空間"
-  ]
+  "related": ["面積", "長度", "闊度", "高度", "空間"]
 }
