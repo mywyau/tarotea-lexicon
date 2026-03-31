@@ -3,12 +3,14 @@
   "word": "地震",
   "jyutping": "dei6 zan3",
   "meaning": "earthquake",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "地震 is the everyday word for an earthquake. It is a common noun, so you can use it as the subject or object in a sentence.",
-    "It often appears with verbs like 發生, 來, or 引起 when talking about an earthquake happening or causing damage.",
-    "In news and safety talks, 地震 is usually used in a neutral, serious way. It is not slang or informal.",
-    "Learners often hear it with words for strength, damage, or emergency response, such as 大地震, 地震警報, or 地震後."
+    "- 地震 is the everyday word for an earthquake. It is a common noun, so you can use it as the subject or object in a sentence.",
+    "- It often appears with verbs like 發生, 來, or 引起 when talking about an earthquake happening or causing damage.",
+    "- In news and safety talks, 地震 is usually used in a neutral, serious way. It is not slang or informal.",
+    "- Learners often hear it with words for strength, damage, or emergency response, such as 大地震, 地震警報, or 地震後."
   ],
   "examples": [
     {
@@ -53,5 +55,11 @@
     "emergency",
     "level-1"
   ],
-  "related": ["大地震", "地震警報", "震動", "震級", "餘震"]
+  "related": [
+    "大地震",
+    "地震警報",
+    "震動",
+    "震級",
+    "餘震"
+  ]
 }

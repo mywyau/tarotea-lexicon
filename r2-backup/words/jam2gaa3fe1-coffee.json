@@ -3,12 +3,15 @@
   "word": "飲咖啡",
   "jyutping": "jam2 gaa3 fe1",
   "meaning": "coffee",
-  "pos": ["noun", "verb phrase"],
+  "pos": [
+    "noun",
+    "verb phrase"
+  ],
   "usage": [
-    "Used for the drink coffee, and in casual speech it can also refer to the act of drinking coffee.",
-    "Very common in everyday conversation and café settings; natural with verbs like 去、買、飲、沖.",
-    "In Cantonese, people often say 午飯後飲咖啡 or 朝早飲咖啡 to talk about routine habits.",
-    "This is a neutral, everyday phrase, suitable for both spoken Cantonese and informal writing."
+    "- Used for the drink coffee, and in casual speech it can also refer to the act of drinking coffee.",
+    "- Very common in everyday conversation and café settings; natural with verbs like 去、買、飲、沖.",
+    "- In Cantonese, people often say 午飯後飲咖啡 or 朝早飲咖啡 to talk about routine habits.",
+    "- This is a neutral, everyday phrase, suitable for both spoken Cantonese and informal writing."
   ],
   "examples": [
     {
@@ -53,5 +56,11 @@
     "socializing",
     "level-1"
   ],
-  "related": ["咖啡", "奶茶", "茶餐廳", "早餐", "下午茶"]
+  "related": [
+    "咖啡",
+    "奶茶",
+    "茶餐廳",
+    "早餐",
+    "下午茶"
+  ]
 }

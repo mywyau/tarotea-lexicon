@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '影片' refers to any recorded video content, such as films, clips, or home videos.",
-    "'影片' can be used as the object of a sentence, for example, '我睇咗個影片' means 'I watched a video.'",
-    "It can be combined with verbs related to media like 播放 (to play), 上載 (to upload), or 剪輯 (to edit).",
-    "'影片' is often used in digital contexts, but it can refer to traditional films as well.",
-    "In questions, you can ask '你有冇睇過呢個影片？' to mean 'Have you watched this video?'"
+    "影片 is the standard noun for a video, whether it is a short clip, a recorded program, or an online media file.",
+    "It is commonly used in more formal or written contexts, especially for news, media, and digital platforms.",
+    "You can pair 影片 with verbs like 上載, 睇, 睇返, 分享, or 製作 to talk about handling videos.",
+    "For beginners, 影片 is a safe, general word to use when you mean a video in Cantonese."
   ],
   "examples": [
     {
       "id": "jing2pin3-video-example-1",
-      "sentence": "我想睇啲搞笑嘅影片。",
-      "jyutping": "ngo5 soeng2 tai2 di1 gaau2 siu3 ge3 jing2 pin3.",
-      "meaning": "I want to watch some funny videos."
+      "sentence": "我喺新聞網站睇到一段影片。",
+      "jyutping": "ngo5 hai2 san1 man4 mong6 zaam6 tai2 dou3 jat1 dyun6 jing2 pin3.",
+      "meaning": "I saw a video on the news website."
     },
     {
       "id": "jing2pin3-video-example-2",
-      "sentence": "呢段影片好感人。",
-      "jyutping": "ni1 dyun6 jing2 pin3 hou2 gam2 jan4.",
-      "meaning": "This video is very touching."
+      "sentence": "呢段影片好清楚咁記錄咗現場情況。",
+      "jyutping": "ni1 dyun6 jing2 pin3 hou2 cing1 co2 gam2 gei3 luk6 zo2 jin6 coeng4 cing4 fong3.",
+      "meaning": "This video clearly recorded the scene on site."
     },
     {
       "id": "jing2pin3-video-example-3",
-      "sentence": "我啱啱上載咗一條新影片。",
-      "jyutping": "ngo5 aam1 aam1 soeng5 zoi6 zo2 jat1 tiu4 san1 jing2 pin3.",
-      "meaning": "I just uploaded a new video."
+      "sentence": "請將影片上載到公司平台。",
+      "jyutping": "cing2 zoeng1 jing2 pin3 soeng5 zoi3 dou3 gung1 si1 ping4 toi4.",
+      "meaning": "Please upload the video to the company platform."
     },
     {
       "id": "jing2pin3-video-example-4",
-      "sentence": "你可以用手機剪輯影片。",
-      "jyutping": "nei5 ho2 ji5 jung6 sau2 gei1 zin2 gip3 jing2 pin3.",
-      "meaning": "You can edit videos using your phone."
+      "sentence": "佢分享咗一條有趣嘅影片俾我哋睇。",
+      "jyutping": "keoi5 fan1 soeng2 zo2 jat1 tiu4 jau5 ceoi3 ge3 jing2 pin3 bei2 ngo5 dei6 tai2.",
+      "meaning": "He shared an interesting video for us to watch."
     }
   ],
   "audio": {
@@ -49,18 +48,18 @@
     ]
   },
   "tags": [
-    "technology",
-    "media",
-    "video",
-    "internet",
-    "digital content",
+    "news-media",
+    "media-platforms",
+    "noun",
+    "level-1",
+    "digital-media",
+    "online-content",
     "level-1"
   ],
   "related": [
-    "視頻 (si6 pin2) - video",
-    "電影 (din6 jing2) - movie",
-    "影片剪輯 (jing2 pin3 zin2 gip3) - video editing",
-    "上載 (soeng5 zoi6) - upload",
-    "播放 (bo3 fong3) - play (media)"
+    "短片",
+    "視頻",
+    "片段",
+    "錄像"
   ]
 }

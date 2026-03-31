@@ -3,12 +3,14 @@
   "word": "收藏",
   "jyutping": "sau1 cong4",
   "meaning": "collecting",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Used for the activity of collecting things as a hobby, like stamps, coins, figures, or records.",
-    "It is a noun, so it often appears after verbs like '鍾意', '做', or '有' when talking about hobbies and interests.",
-    "Common in contexts about personal interests, hobby groups, and keeping a set of items over time.",
-    "For beginner learners, think of it as the hobby itself, not the individual items being collected."
+    "- Used for the activity of collecting things as a hobby, like stamps, coins, figures, or records.",
+    "- It is a noun, so it often appears after verbs like '鍾意', '做', or '有' when talking about hobbies and interests.",
+    "- Common in contexts about personal interests, hobby groups, and keeping a set of items over time.",
+    "- For beginner learners, think of it as the hobby itself, not the individual items being collected."
   ],
   "examples": [
     {
@@ -54,5 +56,10 @@
     "noun",
     "level-1"
   ],
-  "related": ["收集", "珍藏", "儲", "藏品"]
+  "related": [
+    "收集",
+    "珍藏",
+    "儲",
+    "藏品"
+  ]
 }

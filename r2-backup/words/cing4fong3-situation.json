@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "情況 is a noun that means 'situation', 'condition', or 'circumstances'.",
-    "It is often used to describe the state of something, such as traffic, work, health, or what is happening in a place.",
-    "情況 can be used in both formal and informal Cantonese.",
-    "It can refer to both concrete and abstract situations, such as 交通情況 (traffic situation) or 工作情況 (work situation).",
-    "Common phrases include 情況好差 (the situation is very bad), 情況唔錯 (the situation is not bad), and 了解情況 (understand the situation)."
+    "Used for a situation, condition, or state of affairs; very common in news, daily talk, and formal writing.",
+    "Often appears in phrases like 睇情況, 根據情況, and 視乎情況 to mean 'depending on the situation'.",
+    "Can describe both concrete situations and general conditions, so it is broader than a single event or moment.",
+    "In speaking, it sounds natural and neutral; learners can use it in both everyday conversation and news reports."
   ],
   "examples": [
     {
       "id": "cing4fong3-situation-example-1",
-      "sentence": "今日路面情況唔錯，出去應該幾順利。",
-      "jyutping": "gam1 jat6 lou6 min6 cing4 fong3 m4 co3, ceot1 heoi3 jing1 goi1 gei2 seon6 lei6.",
-      "meaning": "The road conditions are not bad today, so going out should be quite smooth."
+      "sentence": "而家情況好似有啲麻煩。",
+      "jyutping": "ji4 gaa1 cing4 fong3 hou2 ci3 jau5 di1 maa4 faan4.",
+      "meaning": "The situation seems a bit troublesome now."
     },
     {
       "id": "cing4fong3-situation-example-2",
-      "sentence": "你嘅身體情況點呀？",
-      "jyutping": "nei5 ge3 san1 tai2 cing4 fong3 dim2 aa3?",
-      "meaning": "How is your physical condition?"
+      "sentence": "我哋要睇情況再決定。",
+      "jyutping": "ngo5 dei6 jiu3 tai2 cing4 fong3 zoi3 kyut3 ding6.",
+      "meaning": "We need to see how things go before deciding."
     },
     {
       "id": "cing4fong3-situation-example-3",
-      "sentence": "依家嘅交通情況好差。",
-      "jyutping": "ji1 gaa1 ge3 gaau1 tung1 cing4 fong3 hou2 caa1.",
-      "meaning": "The traffic situation is very bad right now."
+      "sentence": "醫生話佢嘅情況已經穩定咗。",
+      "jyutping": "ji1 saang1 waa6 keoi5 ge3 cing4 fong3 ji5 ging1 wan2 ding6 zo2.",
+      "meaning": "The doctor said his condition has stabilized."
     },
     {
       "id": "cing4fong3-situation-example-4",
-      "sentence": "我哋要了解現場情況先。",
-      "jyutping": "ngo5 dei6 jiu3 liu5 gaai2 jin6 coeng4 cing4 fong3 sin1.",
-      "meaning": "We need to understand the situation at the scene first."
+      "sentence": "根據天氣情況，今日可能會落雨。",
+      "jyutping": "gan1 geoi3 tin1 hei3 cing4 fong3, gam1 jat6 ho2 nang4 wui5 lok6 jyu5.",
+      "meaning": "Depending on the weather conditions, it may rain today."
     }
   ],
   "audio": {
@@ -49,16 +48,17 @@
     ]
   },
   "tags": [
-    "condition",
+    "common_news_terms",
+    "daily_use",
+    "formal_neutral",
     "situation",
-    "everyday use",
+    "condition",
     "level-1"
   ],
   "related": [
-    "狀況 (zong6 fong3)",
-    "狀態 (zong6 taai3)",
-    "環境 (waan4 ging2)",
-    "局勢 (guk6 sai3)",
-    "天氣 (tin1 hei3)"
+    "情形",
+    "狀況",
+    "環境",
+    "局面"
   ]
 }

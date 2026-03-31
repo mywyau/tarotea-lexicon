@@ -4,39 +4,38 @@
   "jyutping": "san1 man4",
   "meaning": "news",
   "pos": [
-    "phrase"
+    "noun"
   ],
   "usage": [
-    "The expression 'san1 man4' refers to 'news' and is commonly used in both everyday and formal contexts.",
-    "It can be used to talk about current events, updates, or information reported on television, radio, or online.",
-    "In Cantonese, 'san1 man4' functions mainly as a noun and can be combined with verbs like 'see', 'hear', or 'report'.",
-    "You can also use it to discuss the news media sector or sources that provide news content.",
-    "This term is often part of compound phrases describing different types of news, such as 'breaking news' or 'news report'."
+    "Use 新聞 for news as a topic or report. It is a very common everyday noun in both spoken and written Cantonese.",
+    "It often appears with verbs like 睇、聽、講、報道, for example when talking about watching news on TV or reading news online.",
+    "In Hong Kong, 新聞 can mean news in general, or a news report/item. The meaning depends on context.",
+    "This word is neutral and standard, so it works in casual conversation, media, and school settings."
   ],
   "examples": [
     {
       "id": "san1man4-news-example-1",
-      "sentence": "你今晚有冇睇新聞？",
-      "jyutping": "nei5 gam1 maan5 jau5 mou5 tai2 san1 man4?",
-      "meaning": "Did you watch the news tonight?"
+      "sentence": "我每日都會睇新聞。",
+      "jyutping": "ngo5 mui5 jat6 dou1 wui5 tai2 san1 man4.",
+      "meaning": "I watch the news every day."
     },
     {
       "id": "san1man4-news-example-2",
-      "sentence": "新聞講緊呢件事, 好多人都關心。",
-      "jyutping": "san1 man4 gong2 gan2 ni1 gin6 si6, hou2 do1 jan4 dou1 gwaan1 sam1.",
-      "meaning": "The news is talking about this matter; many people are concerned."
+      "sentence": "你聽咗今日嘅新聞未？",
+      "jyutping": "nei5 teng1 zo2 gam1 jat6 ge3 san1 man4 mei6?",
+      "meaning": "Have you heard today's news yet?"
     },
     {
       "id": "san1man4-news-example-3",
-      "sentence": "佢係新聞記者, 經常要出埠採訪。",
-      "jyutping": "keoi5 hai6 san1 man4 gei3 ze2, ging1 soeng4 jiu3 ceot1 fau6 coi2 fong2.",
-      "meaning": "He is a news reporter and often has to travel out of town to cover stories."
+      "sentence": "電視新聞成日報道本地消息。",
+      "jyutping": "din6 si6 san1 man4 sing4 jat6 bou3 dou6 bun2 dei6 siu1 sik1.",
+      "meaning": "TV news often reports local updates."
     },
     {
       "id": "san1man4-news-example-4",
-      "sentence": "我最鍾意睇國際新聞，了解世界狀況。",
-      "jyutping": "ngo5 zeoi3 zung1 ji3 tai2 gwok3 zai3 san1 man4, liu5 gaai2 sai3 gaai3 zong6 fong3.",
-      "meaning": "I like watching international news the most to understand the world situation."
+      "sentence": "呢單新聞好多人都好關心。",
+      "jyutping": "ni1 daan1 san1 man4 hou2 do1 jan4 dou1 hou2 gwaan1 sam1.",
+      "meaning": "A lot of people are concerned about this news item."
     }
   ],
   "audio": {
@@ -51,16 +50,17 @@
   "tags": [
     "news",
     "media",
-    "reporting",
-    "current events",
-    "journalism",
-    "level-9"
+    "daily-life",
+    "neutral",
+    "common-noun",
+    "beginner",
+    "level-1"
   ],
   "related": [
-    "資訊",
-    "報導",
-    "記者",
-    "新聞台",
-    "頭條"
+    "報道",
+    "消息",
+    "電視",
+    "報紙",
+    "記者"
   ]
 }

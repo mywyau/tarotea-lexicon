@@ -2,41 +2,38 @@
   "id": "ping4leon6-commentary",
   "word": "評論",
   "jyutping": "ping4 leon6",
-  "meaning": "commentary / to comment",
-  "pos": [
-    "expression"
-  ],
+  "meaning": "commentary",
+  "pos": ["noun"],
   "usage": [
-    "The word '評論' is commonly used to talk about giving opinions or critiques on various topics, such as news, art, or social events.",
-    "'評論' can function both as a noun referring to a commentary or a review, and as a verb meaning to comment or critique.",
-    "In conversation, '評論' is often used to introduce one's views or assessments, especially in formal or semi-formal settings.",
-    "It is frequently seen in news media when analysts or reporters provide their insights or evaluations on current affairs.",
-    "This expression is useful for discussing subjective viewpoints and is often paired with topics or objects being evaluated."
+    "評論 is used as a noun for an opinion piece or critical commentary, especially in news, media, and academic contexts.",
+    "It often appears in set phrases like 發表評論 or 政治評論, where it means to give an analysis or comment on a topic.",
+    "This word is more formal than casual talking; in everyday speech, people often say 講意見 or 講下 rather than use 評論.",
+    "As a noun, it can refer to the content itself or the act of commenting in a public, written, or broadcast setting."
   ],
   "examples": [
     {
       "id": "ping4leon6-commentary-example-1",
-      "sentence": "你對呢篇文章有咩評論？",
-      "jyutping": "nei5 deoi3 ni1 pin1 man4 zoeng1 jau5 me1 ping4 leon6?",
-      "meaning": "What is your commentary on this article?"
+      "sentence": "報紙頭版有一篇關於選舉嘅評論。",
+      "jyutping": "bou3zi2 tau4 baan2 jau5 jat1 zeon3 gwun1 ceoi3 gun1 ge3 ping4 leon6.",
+      "meaning": "There is a commentary on the election on the front page of the newspaper."
     },
     {
       "id": "ping4leon6-commentary-example-2",
-      "sentence": "記者喺節目上評論政治形勢。",
-      "jyutping": "gei3 ze2 hai2 zit3 muk6 soeng6 ping4 leon6 zing3 zi6 jing4 si6.",
-      "meaning": "The reporter commented on the political situation on the program."
+      "sentence": "佢喺電台做時事評論。",
+      "jyutping": "keoi5 hai2 din6 toi4 zou6 si4 si6 ping4 leon6.",
+      "meaning": "He does current affairs commentary on the radio."
     },
     {
       "id": "ping4leon6-commentary-example-3",
-      "sentence": "我覺得佢嘅評論好有見地。",
-      "jyutping": "ngo5 gok3 dak1 keoi5 ge3 ping4 leon6 hou2 jau5 gin3 dei6.",
-      "meaning": "I think his commentary is very insightful."
+      "sentence": "呢篇評論寫得幾中肯。",
+      "jyutping": "ni1 pin1 ping4 leon6 se2 dak1 gei2 zung1 hang2.",
+      "meaning": "This commentary is written quite objectively."
     },
     {
       "id": "ping4leon6-commentary-example-4",
-      "sentence": "評論員經常就社會問題發表意見。",
-      "jyutping": "ping4 leon6 jyun4 ging1 soeng4 zau6 se5 wui6 man6 tai4 faat3 biu2 ji3 gin3.",
-      "meaning": "Commentators often express opinions on social issues."
+      "sentence": "我想睇多啲專業評論先決定買唔買。",
+      "jyutping": "ngo5 soeng2 tai2 do1 di1 zyun1 jip6 ping4 leon6 sin1 kyut3 ding6 maai5 m4 maai5.",
+      "meaning": "I want to read more professional commentary before deciding whether to buy it."
     }
   ],
   "audio": {
@@ -49,18 +46,12 @@
     ]
   },
   "tags": [
-    "news",
-    "media",
-    "opinion",
-    "criticism",
-    "commentary",
-    "level-9"
+    "news and media",
+    "formal",
+    "writing",
+    "reporting",
+    "academic",
+    "level-1"
   ],
-  "related": [
-    "評論員 ping4 leon6 jyun4",
-    "報導 bou3 dou6",
-    "分析 fan1 sik1",
-    "意見 ji3 gin3",
-    "評論文章 ping4 leon6 man4 zoeng1"
-  ]
+  "related": ["報道", "評論員", "社論", "時事", "分析"]
 }

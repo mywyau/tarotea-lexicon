@@ -12,7 +12,7 @@ load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 
 DRY_RUN = False  # set to False to actually delete
 
-TOPIC_JSON_PATH = Path("./r2-backup/topics/gemstones-jewellery.json")
+TOPIC_JSON_PATH = Path("./r2-backup/topics/news-media.json")
 
 # Your local topic file only; deletions happen in R2
 R2_BUCKET = "tarotea-content"

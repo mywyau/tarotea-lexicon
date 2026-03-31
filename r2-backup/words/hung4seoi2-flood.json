@@ -3,12 +3,14 @@
   "word": "洪水",
   "jyutping": "hung4 seoi2",
   "meaning": "flood",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use 洪水 for a flood or major overflow of water. It is a common everyday noun, not literary.",
-    "It often appears in news, weather reports, and disaster talk, especially with words like 來襲, 淹沒, and 災情.",
-    "As a noun, it can be the subject or object in a sentence, and it usually does not need a classifier.",
-    "For learners, 洪水 is a neutral word. Use it when talking about real floods, heavy rain damage, or natural disasters."
+    "- Use 洪水 for a flood or major overflow of water. It is a common everyday noun, not literary.",
+    "- It often appears in news, weather reports, and disaster talk, especially with words like 來襲, 淹沒, and 災情.",
+    "- As a noun, it can be the subject or object in a sentence, and it usually does not need a classifier.",
+    "- For learners, 洪水 is a neutral word. Use it when talking about real floods, heavy rain damage, or natural disasters."
   ],
   "examples": [
     {
@@ -54,5 +56,10 @@
     "noun",
     "level-1"
   ],
-  "related": ["水災", "水浸", "暴雨", "颱風"]
+  "related": [
+    "水災",
+    "水浸",
+    "暴雨",
+    "颱風"
+  ]
 }

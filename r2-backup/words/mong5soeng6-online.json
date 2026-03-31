@@ -4,39 +4,39 @@
   "jyutping": "mong5 soeng6",
   "meaning": "online",
   "pos": [
-    "phrase"
+    "adjective",
+    "adverb"
   ],
   "usage": [
-    "The word 'mong5 soeng6' is commonly used to refer to activities or locations that are accessed via the internet.",
-    "'Mong5 soeng6' can function as an adverbial phrase, indicating that something is happening online rather than offline.",
-    "It can modify verbs related to communication, shopping, learning, or socializing to specify that these actions occur on the internet.",
-    "In Cantonese sentences, 'mong5 soeng6' typically precedes the verb it modifies to clarify the setting or medium of the action.",
-    "The phrase is widely used in both formal and informal contexts, especially in discussions about technology, media, and digital culture."
+    "Used before a noun to mean something happens on the internet or is internet-based, like online news, online shopping, or online registration.",
+    "Common in everyday Hong Kong Cantonese and very neutral in tone; it works well in both spoken and written language.",
+    "Often appears with verbs like 睇, 搵, 買, 登記, and 開會 to describe actions done through the internet.",
+    "If you want to sound natural, use 網上 for general internet context; for apps and platforms, people often also say 上網, 線上, or 喺網上 depending on the sentence."
   ],
   "examples": [
     {
       "id": "mong5soeng6-online-example-1",
-      "sentence": "我哋喺網上買咗啲嘢，快啲送到。",
-      "jyutping": "ngo5 dei6 hai2 mong5 soeng6 maai5 zo2 di1 je5, faai3 di1 sung3 dou3.",
-      "meaning": "We bought some stuff online, and it arrived quickly."
+      "sentence": "我今日喺網上睇新聞。",
+      "jyutping": "ngo5 gam1 jat6 hai2 mong5 soeng6 tai2 san1 man4.",
+      "meaning": "I read the news online today."
     },
     {
       "id": "mong5soeng6-online-example-2",
-      "sentence": "依家好多學校都提供網上課程。",
-      "jyutping": "ji1 gaa1 hou2 do1 hok6 haau6 dou1 tai4 gung1 mong5 soeng6 fo3 cing4.",
-      "meaning": "Nowadays, many schools offer online courses."
+      "sentence": "呢間公司有網上訂票服務。",
+      "jyutping": "ni1 gaan1 gung1 si1 jau5 mong5 soeng6 deng6 piu3 fuk6 mou6.",
+      "meaning": "This company has online ticket booking service."
     },
     {
       "id": "mong5soeng6-online-example-3",
-      "sentence": "你有冇試過喺網上搵工作？",
-      "jyutping": "nei5 jau5 mou5 si3 gwo3 hai2 mong5 soeng6 wan2 gung1 zok3?",
-      "meaning": "Have you ever looked for jobs online?"
+      "sentence": "老師叫我哋網上交功課。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 mong5 soeng6 gaau1 gung1 fo3.",
+      "meaning": "The teacher asked us to submit homework online."
     },
     {
       "id": "mong5soeng6-online-example-4",
-      "sentence": "網上新聞更新得好快，要緊貼住睇。",
-      "jyutping": "mong5 soeng6 san1 man4 gang1 san1 dak1 hou2 faai3, jiu3 gan2 tip3 zyu6 tai2.",
-      "meaning": "Online news updates very fast; it's important to keep up with it."
+      "sentence": "佢成日喺網上買嘢。",
+      "jyutping": "keoi5 sing4 jat6 hai2 mong5 soeng6 maai5 je5.",
+      "meaning": "He often buys things online."
     }
   ],
   "audio": {
@@ -49,18 +49,19 @@
     ]
   },
   "tags": [
-    "advanced",
     "media",
-    "technology",
     "internet",
     "digital",
-    "level-9"
+    "common",
+    "basic",
+    "news",
+    "level-1"
   ],
   "related": [
-    "互聯網 (wu6 lin4 mong5) - internet",
-    "網絡 (mong5 lok3) - network",
-    "在線 (zoi6 sin3) - online",
-    "數碼 (sou3 maa5) - digital",
-    "新聞 (san1 man4) - news"
+    "上網",
+    "線上",
+    "網站",
+    "網頁",
+    "網絡"
   ]
 }
