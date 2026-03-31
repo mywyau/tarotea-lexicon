@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 
-TOPICS_FILE = Path("content/topics/jobs-professions.json")
+TOPICS_FILE = Path("content/topics/gemstones-jewellery.json")
 
 
 def normalize_jyutping(jyutping: str) -> str:

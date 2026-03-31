@@ -12,9 +12,9 @@
       { "id": "hung1zam1-brooch", "word": "胸針", "jyutping": "hung1 zam1", "meaning": "brooch" },
       { "id": "sau2sik1-jewellery", "word": "首飾", "jyutping": "sau2 sik1", "meaning": "jewellery" },
       { "id": "zau6hau2nau2-cufflink", "word": "袖口鈕", "jyutping": "zau6 hau2 nau2", "meaning": "cufflink" },
-      { "id": "gwat1lin2-anklet", "word": "腳鏈", "jyutping": "goek3 lin2", "meaning": "anklet" },
+      { "id": "goek3lin2-anklet", "word": "腳鏈", "jyutping": "goek3 lin2", "meaning": "anklet" },
       { "id": "tau4zam1-hairpin", "word": "頭針", "jyutping": "tau4 zam1", "meaning": "hairpin" },
-      { "id": "sau2tou3-bangle", "word": "手鐲", "jyutping": "sau2 zuk6", "meaning": "bangle" }
+      { "id": "sau2zuk6-bangle", "word": "手鐲", "jyutping": "sau2 zuk6", "meaning": "bangle" }
     ],
 
     "gemstones": [
@@ -26,10 +26,10 @@
       { "id": "zan1zyu1-pearl", "word": "珍珠", "jyutping": "zan1 zyu1", "meaning": "pearl" },
       { "id": "juk6-jade", "word": "玉", "jyutping": "juk6", "meaning": "jade" },
       { "id": "seoi2zing1-crystal", "word": "水晶", "jyutping": "seoi2 zing1", "meaning": "crystal" },
-      { "id": "maau5ngaan5sek6-cat-eye", "word": "貓眼石", "jyutping": "maau1 ngaan5 sek6", "meaning": "cat's eye gemstone" },
-      { "id": "am3hung4sek6-garnet", "word": "石榴石", "jyutping": "sek6 lau4 sek6", "meaning": "garnet" },
-      { "id": "ngan4zing1sek6-amethyst", "word": "紫水晶", "jyutping": "zi2 seoi2 zing1", "meaning": "amethyst" },
-      { "id": "ngok6fui1sek6-amber", "word": "琥珀", "jyutping": "fu2 paak3", "meaning": "amber" }
+      { "id": "maau1ngaan5sek6-cat-eye", "word": "貓眼石", "jyutping": "maau1 ngaan5 sek6", "meaning": "cat's eye gemstone" },
+      { "id": "sek6lau4sek6-garnet", "word": "石榴石", "jyutping": "sek6 lau4 sek6", "meaning": "garnet" },
+      { "id": "zi2seoi2zing1-amethyst", "word": "紫水晶", "jyutping": "zi2 seoi2 zing1", "meaning": "amethyst" },
+      { "id": "fu2paak3-amber", "word": "琥珀", "jyutping": "fu2 paak3", "meaning": "amber" }
     ],
 
     "precious_materials": [
@@ -39,8 +39,8 @@
       { "id": "tung4-copper", "word": "銅", "jyutping": "tung4", "meaning": "copper" },
       { "id": "hap6gam1-alloy", "word": "合金", "jyutping": "hap6 gam1", "meaning": "alloy" },
       { "id": "ngan4-silver", "word": "銀", "jyutping": "ngan4", "meaning": "silver" },
-      { "id": "bak1gam1-white-gold", "word": "白金", "jyutping": "baak6 gam1", "meaning": "white gold" },
-      { "id": "ce4-semi-precious", "word": "半寶石", "jyutping": "bun3 bou2 sek6", "meaning": "semi-precious stone" }
+      { "id": "baak6gam1-white-gold", "word": "白金", "jyutping": "baak6 gam1", "meaning": "white gold" },
+      { "id": "bun3bou2sek6-semi-precious", "word": "半寶石", "jyutping": "bun3 bou2 sek6", "meaning": "semi-precious stone" }
     ],
 
     "parts_and_features": [
@@ -61,9 +61,9 @@
       { "id": "gaa2-fake", "word": "假", "jyutping": "gaa2", "meaning": "fake" },
       { "id": "bou2joeng5-maintain", "word": "保養", "jyutping": "bou2 joeng5", "meaning": "maintain" },
       { "id": "daai3-wear", "word": "戴", "jyutping": "daai3", "meaning": "wear" },
-      { "id": "bou3cing4-appraise", "word": "估價", "jyutping": "gu2 gaa3", "meaning": "appraise" },
-      { "id": "si2zing3-certificate", "word": "證書", "jyutping": "zing3 syu1", "meaning": "certificate" },
-      { "id": "caam2daan1-order-made", "word": "訂造", "jyutping": "ding3 zou6", "meaning": "custom-made" },
+      { "id": "gu2gaa3-appraise", "word": "估價", "jyutping": "gu2 gaa3", "meaning": "appraise" },
+      { "id": "zing3syu1-certificate", "word": "證書", "jyutping": "zing3 syu1", "meaning": "certificate" },
+      { "id": "ding3zou6-order-made", "word": "訂造", "jyutping": "ding3 zou6", "meaning": "custom-made" },
       { "id": "sik1hap6-fit", "word": "適合", "jyutping": "sik1 hap6", "meaning": "suitable" }
     ],
 
