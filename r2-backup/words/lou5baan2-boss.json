@@ -4,39 +4,38 @@
   "jyutping": "lou5 baan2",
   "meaning": "boss",
   "pos": [
-    "phrase"
+    "noun"
   ],
   "usage": [
-    "The term 老闆 is commonly used to refer to the boss or owner of a company or shop.",
-    "老闆 can be used in both formal and informal contexts when talking about someone in charge at a workplace.",
-    "It often implies authority and responsibility over employees and business decisions.",
-    "The phrase is straightforward and does not change form based on tense or number.",
-    "When addressing or referring to the boss respectfully, context and tone are important."
+    "Used for a boss, employer, or the person in charge at work. In everyday Cantonese, it can also mean the owner of a shop or business.",
+    "Often used with common work words like office, company, and colleague. It sounds natural in spoken Hong Kong Cantonese.",
+    "Can be used directly for someone who has authority over you, but the tone depends on context. In casual speech, it is very common.",
+    "Learner tip: when talking about your own boss, this is the safest and most natural word. It is not a verb and usually stands alone as a noun."
   ],
   "examples": [
     {
       "id": "lou5baan2-boss-example-1",
-      "sentence": "我聽日要同老闆開會。",
-      "jyutping": "ngo5 ting1 jat6 jiu3 tung4 lou5 baan2 hoi1 wui6.",
-      "meaning": "I have to have a meeting with the boss tomorrow."
+      "sentence": "我哋個老闆今日唔喺公司。",
+      "jyutping": "ngo5 dei6 go3 lou5 baan2 gam1 jat6 m4 hai2 gung1 si1.",
+      "meaning": "Our boss isn’t in the office today."
     },
     {
       "id": "lou5baan2-boss-example-2",
-      "sentence": "老闆話要加班，所以今晚要留多陣。",
-      "jyutping": "lou5 baan2 waa6 jiu3 gaa1 baan1, so2 ji5 gam1 maan5 jiu3 lau4 do1 zan6.",
-      "meaning": "The boss said we need to work overtime, so we have to stay a bit longer tonight."
+      "sentence": "佢係呢間舖頭嘅老闆。",
+      "jyutping": "keoi5 hai6 ni1 gaan1 pou3 tau4 ge3 lou5 baan2.",
+      "meaning": "He is the owner of this shop."
     },
     {
       "id": "lou5baan2-boss-example-3",
-      "sentence": "呢間公司個老闆好有人情味。",
-      "jyutping": "ni1 gaan1 gung1 si1 go3 lou5 baan2 hou2 jau5 jan4 cing4 mei6.",
-      "meaning": "The boss of this company is very humane."
+      "sentence": "老闆叫我哋聽日早啲返工。",
+      "jyutping": "lou5 baan2 giu3 ngo5 dei6 ting1 jat6 zou2 di1 faan1 gung1.",
+      "meaning": "The boss asked us to come to work earlier tomorrow."
     },
     {
       "id": "lou5baan2-boss-example-4",
-      "sentence": "你做咁多嘢，老闆都睇得到。",
-      "jyutping": "nei5 zou6 gam3 do1 je5, lou5 baan2 dou1 tai2 dak1 dou3.",
-      "meaning": "The boss can see that you are working so hard."
+      "sentence": "我同老闆傾過加人工嘅事。",
+      "jyutping": "ngo5 tung4 lou5 baan2 king1 gwo3 gaa1 jan4 gung1 ge3 si6.",
+      "meaning": "I talked with the boss about a pay raise."
     }
   ],
   "audio": {
@@ -49,18 +48,20 @@
     ]
   },
   "tags": [
-    "work",
+    "jobs",
+    "professions",
+    "workplace",
+    "common word",
+    "noun",
     "boss",
-    "authority",
     "business",
-    "professional",
-    "level-5"
+    "level-1"
   ],
   "related": [
-    "公司 gwo1 si1",
-    "職員 zik1 jyun4",
-    "上司 soeng5 si1",
-    "老細 lou5 sai3",
-    "經理 ging1 lei5"
+    "上司",
+    "老細",
+    "老板",
+    "員工",
+    "公司"
   ]
 }

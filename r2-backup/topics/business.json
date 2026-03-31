@@ -1,0 +1,76 @@
+{
+  "topic": "business",
+  "title": "Business",
+  "description": "Learn common words for business, companies, office work, meetings, sales, and professional communication.",
+  "categories": {
+    "core_business_words": [
+      { "id": "soeng1jip6-commerce", "word": "商業", "jyutping": "soeng1 jip6", "meaning": "commerce" },
+      { "id": "gung1si1-company", "word": "公司", "jyutping": "gung1 si1", "meaning": "company" },
+      { "id": "saang1ji3-trade", "word": "生意", "jyutping": "saang1 ji3", "meaning": "trade" },
+      { "id": "hong4jip6-industry", "word": "行業", "jyutping": "hong4 jip6", "meaning": "industry" },
+      { "id": "hap6zok3-cooperation", "word": "合作", "jyutping": "hap6 zok3", "meaning": "cooperation" },
+      { "id": "ging1jing4-management", "word": "經營", "jyutping": "ging1 jing4", "meaning": "management" },
+      { "id": "kei5jip6-enterprise", "word": "企業", "jyutping": "kei5 jip6", "meaning": "enterprise" }
+    ],
+
+    "people_and_roles": [
+      { "id": "lou5baan2-boss", "word": "老闆", "jyutping": "lou5 baan2", "meaning": "boss" },
+      { "id": "ging1lei5-manager", "word": "經理", "jyutping": "ging1 lei5", "meaning": "manager" },
+      { "id": "zo6lei5-assistant", "word": "助理", "jyutping": "zo6 lei5", "meaning": "assistant" },
+      { "id": "jyun4gung1-employee", "word": "員工", "jyutping": "jyun4 gung1", "meaning": "employee" },
+      { "id": "hap6fo2jan4-partner", "word": "合夥人", "jyutping": "hap6 fo2 jan4", "meaning": "partner" },
+      { "id": "haak3-customer", "word": "客", "jyutping": "haak3", "meaning": "customer" },
+      { "id": "haak3wu6-client", "word": "客戶", "jyutping": "haak3 wu6", "meaning": "client" }
+    ],
+
+    "office_and_workplace": [
+      { "id": "baan6gung1sat1-office", "word": "辦公室", "jyutping": "baan6 gung1 sat1", "meaning": "office" },
+      { "id": "hoi1wui6-meeting", "word": "開會", "jyutping": "hoi1 wui6", "meaning": "meeting" },
+      { "id": "wui6ji5-conference", "word": "會議", "jyutping": "wui6 ji5", "meaning": "conference" },
+      { "id": "baan6gung1-office-work", "word": "辦公", "jyutping": "baan6 gung1", "meaning": "office work" },
+      { "id": "zi1liu2-information", "word": "資料", "jyutping": "zi1 liu2", "meaning": "information" },
+      { "id": "bou3gou3-report", "word": "報告", "jyutping": "bou3 gou3", "meaning": "report" },
+      { "id": "wui6gai3-accounting", "word": "會計", "jyutping": "wui6 gai3", "meaning": "accounting" }
+    ],
+
+    "money_and_sales": [
+      { "id": "cin2-money", "word": "錢", "jyutping": "cin2", "meaning": "money" },
+      { "id": "sau1jap6-income", "word": "收入", "jyutping": "sau1 jap6", "meaning": "income" },
+      { "id": "zi1ceot1-expenses", "word": "支出", "jyutping": "zi1 ceot1", "meaning": "expenses" },
+      { "id": "lei6jeon6-profit", "word": "利潤", "jyutping": "lei6 jeon6", "meaning": "profit" },
+      { "id": "syun2sat1-loss", "word": "損失", "jyutping": "syun2 sat1", "meaning": "loss" },
+      { "id": "maai5maai6-trading", "word": "買賣", "jyutping": "maai5 maai6", "meaning": "trading" },
+      { "id": "jing4jip6ngaak6-turnover", "word": "營業額", "jyutping": "jing4 jip6 ngaak6", "meaning": "turnover" }
+    ],
+
+    "business_actions": [
+      { "id": "tau4zi1-investment", "word": "投資", "jyutping": "tau4 zi1", "meaning": "investment" },
+      { "id": "king1-negotiate", "word": "傾", "jyutping": "king1", "meaning": "negotiate" },
+      { "id": "king1saang1ji3-negotiate-business", "word": "傾生意", "jyutping": "king1 saang1 ji3", "meaning": "business talk" },
+      { "id": "saang1caan2-production", "word": "生產", "jyutping": "saang1 caan2", "meaning": "production" },
+      { "id": "ceot1sau6-sell", "word": "出售", "jyutping": "ceot1 sau6", "meaning": "sell" },
+      { "id": "teoi1gwong2-promotion", "word": "推廣", "jyutping": "teoi1 gwong2", "meaning": "promotion" },
+      { "id": "cim1joek3-sign", "word": "簽約", "jyutping": "cim1 joek3", "meaning": "sign" }
+    ],
+
+    "deals_and_documents": [
+      { "id": "hap6tung4-contract", "word": "合同", "jyutping": "hap6 tung4", "meaning": "contract" },
+      { "id": "hap6joek3-agreement", "word": "合約", "jyutping": "hap6 joek3", "meaning": "agreement" },
+      { "id": "faat3piu3-invoice", "word": "發票", "jyutping": "faat3 piu3", "meaning": "invoice" },
+      { "id": "ding3daan1-order", "word": "訂單", "jyutping": "ding3 daan1", "meaning": "order" },
+      { "id": "bou3gaa3-quotation", "word": "報價", "jyutping": "bou3 gaa3", "meaning": "quotation" },
+      { "id": "man4gin2-document", "word": "文件", "jyutping": "man4 gin2", "meaning": "document" },
+      { "id": "wui4fuk1-reply", "word": "回覆", "jyutping": "wui4 fuk1", "meaning": "reply" }
+    ],
+
+    "company_growth_and_planning": [
+      { "id": "gai3waak6-plan", "word": "計劃", "jyutping": "gai3 waak6", "meaning": "plan" },
+      { "id": "muk6biu1-target", "word": "目標", "jyutping": "muk6 biu1", "meaning": "target" },
+      { "id": "faat3zin2-development", "word": "發展", "jyutping": "faat3 zin2", "meaning": "development" },
+      { "id": "kwok3zoeng1-expansion", "word": "擴張", "jyutping": "kwok3 zoeng1", "meaning": "expansion" },
+      { "id": "ging3zang1-competition", "word": "競爭", "jyutping": "ging3 zang1", "meaning": "competition" },
+      { "id": "si5coeng4-market", "word": "市場", "jyutping": "si5 coeng4", "meaning": "market" },
+      { "id": "jip6zik1-performance", "word": "業績", "jyutping": "jip6 zik1", "meaning": "performance" }
+    ]
+  }
+}

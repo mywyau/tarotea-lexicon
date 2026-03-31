@@ -3,39 +3,37 @@
   "word": "放工",
   "jyutping": "fong3 gung1",
   "meaning": "finish work",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["verb", "noun"],
   "usage": [
-    "The term '放工' (fong3 gung1) is commonly used as a noun to refer to the time or event when work finishes.",
-    "'放工' can function as a standalone expression, often indicating the end of a workday.",
-    "In sentences, '放工' can be used with verbs like '去' (go) or '返' (return) to describe actions after finishing work.",
-    "The word is mostly used in spoken Cantonese and casual contexts to discuss daily routines related to work."
+    "Very common spoken Cantonese. Use 放工 for the moment you leave work, or for the action of finishing work for the day.",
+    "It is informal and everyday, so it sounds natural in conversation, messages, and workplace chat.",
+    "It often pairs with time words or movement: 放工後, 放工先, 啱啱放工.",
+    "In many contexts it means more than just \"finish work\" in English; it can also imply \"get off work\" or \"clock out\"."
   ],
   "examples": [
     {
       "id": "fong3gung1-finish-work-example-1",
-      "sentence": "我今晚六點放工。",
-      "jyutping": "ngo5 gam1 maan5 luk6 dim2 fong3 gung1.",
-      "meaning": "I finish work at six o'clock tonight."
+      "sentence": "我今日六點放工。",
+      "jyutping": "ngo5 gam1jat6 luk6 dim2 fong3 gung1.",
+      "meaning": "I finish work at 6 today."
     },
     {
       "id": "fong3gung1-finish-work-example-2",
-      "sentence": "你放工後想飲啲咩？",
-      "jyutping": "nei5 fong3 gung1 hau6 soeng2 jam2 di1 me1?",
-      "meaning": "What do you want to drink after finishing work?"
+      "sentence": "你幾點放工呀？",
+      "jyutping": "nei5 gei2 dim2 fong3 gung1 aa3?",
+      "meaning": "What time do you finish work?"
     },
     {
       "id": "fong3gung1-finish-work-example-3",
-      "sentence": "佢每日放工都好攰。",
-      "jyutping": "keoi5 mui5 jat6 fong3 gung1 dou1 hou2 gui6.",
-      "meaning": "He is very tired every day after finishing work."
+      "sentence": "我哋放工之後去食飯。",
+      "jyutping": "ngo5dei6 fong3 gung1 zi1 hau6 heoi3 sik6 faan6.",
+      "meaning": "We’re going to eat after work."
     },
     {
       "id": "fong3gung1-finish-work-example-4",
-      "sentence": "放工就去食飯啦！",
-      "jyutping": "fong3 gung1 zau6 heoi3 sik6 faan6 laa1!",
-      "meaning": "Let's go eat after finishing work!"
+      "sentence": "佢啱啱放工，仲未食飯。",
+      "jyutping": "keoi5 aam1 aam1 fong3 gung1, zung6 mei6 sik6 faan6.",
+      "meaning": "He just finished work and hasn’t eaten yet."
     }
   ],
   "audio": {
@@ -48,16 +46,12 @@
     ]
   },
   "tags": [
+    "work and employment",
     "daily life",
-    "work",
-    "routine",
-    "casual speech",
+    "spoken Cantonese",
+    "beginner",
+    "common phrase",
     "level-1"
   ],
-  "related": [
-    "返工 (faan1 gung1) - go to work",
-    "打工 (daa2 gung1) - work (usually manual or part-time)",
-    "加班 (gaa1 baan1) - work overtime",
-    "收工 (sau1 gung1) - finish work (similar to 放工)"
-  ]
+  "related": ["收工", "下班", "返工", "OT"]
 }

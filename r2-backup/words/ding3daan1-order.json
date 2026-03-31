@@ -1,0 +1,66 @@
+{
+  "id": "ding3daan1-order",
+  "word": "訂單",
+  "jyutping": "ding3 daan1",
+  "meaning": "order",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used for a business or shopping order; it refers to a request for goods or services, not a personal command.",
+    "Commonly appears with verbs like 落, 接, 攞, 跟 to talk about placing, taking, collecting, or following up an order.",
+    "Can be used in both written and spoken Cantonese, but it sounds a bit more businesslike than everyday買嘢 talk.",
+    "Often used in company, online shopping, restaurant, and logistics contexts; the word is very practical and neutral."
+  ],
+  "examples": [
+    {
+      "id": "ding3daan1-order-example-1",
+      "sentence": "我今日收到一張新訂單。",
+      "jyutping": "ngo5 gam1 jat6 sau1 dou3 jat1 zoeng1 san1 ding3 daan1.",
+      "meaning": "I received a new order today."
+    },
+    {
+      "id": "ding3daan1-order-example-2",
+      "sentence": "你落咗訂單未呀？",
+      "jyutping": "nei5 lok6 zo2 ding3 daan1 mei6 aa3?",
+      "meaning": "Have you placed the order yet?"
+    },
+    {
+      "id": "ding3daan1-order-example-3",
+      "sentence": "呢張訂單要盡快處理。",
+      "jyutping": "ni1 zoeng1 ding3 daan1 jiu3 zeon6 faai3 cyu2 lei5.",
+      "meaning": "This order needs to be handled as soon as possible."
+    },
+    {
+      "id": "ding3daan1-order-example-4",
+      "sentence": "客戶要求修改訂單內容。",
+      "jyutping": "haak3 fu6 jiu1 kau4 siu1 gik1 ding2 gaai2 ding3 daan1 noi6 jung4.",
+      "meaning": "The customer asked to change the order details."
+    }
+  ],
+  "audio": {
+    "word": "ding3daan1-order.mp3",
+    "examples": [
+      "ding3daan1-order-example-1.mp3",
+      "ding3daan1-order-example-2.mp3",
+      "ding3daan1-order-example-3.mp3",
+      "ding3daan1-order-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "business",
+    "shopping",
+    "e-commerce",
+    "logistics",
+    "noun",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "落單",
+    "接單",
+    "出貨",
+    "發票",
+    "合同"
+  ]
+}

@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word 醫生 (ji1 sang1) is a noun that refers to a medical professional, specifically a doctor.",
-    "It can be used in both formal and informal settings when talking about someone who treats illnesses or injuries.",
-    "You can use it in singular or plural form, though Cantonese does not change the word for plural; context or additional words clarify the number.",
-    "醫生 often appears before verbs related to medical actions, like 診斷 (diagnose) or 治療 (treat).",
-    "It can be combined with other words to specify types of doctors, such as 牙醫生 (dentist) or 兒科醫生 (pediatrician)."
+    "A very common everyday noun for a medical doctor. It is used in both spoken and written Cantonese.",
+    "You can use 醫生 when talking about seeing a doctor, visiting a clinic, or asking for medical help.",
+    "It is a neutral, standard word, so it fits formal and casual situations alike.",
+    "Commonly appears with verbs like 睇、搵、問, and with places like 診所 or 醫院."
   ],
   "examples": [
     {
       "id": "ji1sang1-doctor-example-1",
-      "sentence": "我今晚要睇醫生。",
-      "jyutping": "ngo5 gam1 maan5 jiu3 tai2 ji1 sang1.",
-      "meaning": "I need to see a doctor tonight."
+      "sentence": "我今日要去睇醫生。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 tai2 ji1 sang1.",
+      "meaning": "I need to go see a doctor today."
     },
     {
       "id": "ji1sang1-doctor-example-2",
-      "sentence": "醫生話我冇事。",
-      "jyutping": "ji1 sang1 waa6 ngo5 mou5 si6.",
-      "meaning": "The doctor said I'm fine."
+      "sentence": "呢位醫生好有耐性。",
+      "jyutping": "ni1 wai2 ji1 sang1 hou2 jau5 noi6 sing3.",
+      "meaning": "This doctor is very patient."
     },
     {
       "id": "ji1sang1-doctor-example-3",
-      "sentence": "你識唔識邊個醫生？",
-      "jyutping": "nei5 sik1 m4 sik1 bin1 go3 ji1 sang1?",
-      "meaning": "Do you know any doctor?"
+      "sentence": "阿媽叫我打電話問醫生。",
+      "jyutping": "aa3 maa1 giu3 ngo5 daa2 din6 waa2 man6 ji1 sang1.",
+      "meaning": "Mom told me to call and ask the doctor."
     },
     {
       "id": "ji1sang1-doctor-example-4",
-      "sentence": "醫生喺醫院做嘢。",
-      "jyutping": "ji1 sang1 hai2 ji1 jyun2 zou6 je5.",
-      "meaning": "The doctor works at the hospital."
+      "sentence": "醫生話我需要多休息。",
+      "jyutping": "ji1 sang1 waa6 ngo5 seoi1 jiu3 do1 jau1 sik1.",
+      "meaning": "The doctor said I need more rest."
     }
   ],
   "audio": {
@@ -49,18 +48,17 @@
     ]
   },
   "tags": [
-    "health",
-    "medicine",
-    "profession",
-    "hospital",
-    "doctor",
+    "jobs and professions",
+    "healthcare",
+    "public service",
+    "common noun",
+    "beginner",
     "level-1"
   ],
   "related": [
-    "護士",
-    "醫院",
-    "藥房",
-    "診所",
-    "牙醫生"
+    "診所 (can2 so2)",
+    "醫院 (ji1 jyun2)",
+    "護士 (ng5 si6)",
+    "病人 (beng6 jan4)"
   ]
 }

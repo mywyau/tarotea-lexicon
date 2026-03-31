@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '護士' (wu6 si6) is a noun used to refer to a person who provides nursing care in medical settings.",
-    "'護士' functions as a singular and plural noun without change in form.",
-    "You can use '護士' with a number or classifier to specify quantity, for example, '三個護士' means 'three nurses'.",
-    "It can be used as a subject or object in a sentence, like '護士幫我打針' (The nurse gave me an injection).",
-    "'護士' can be combined with titles or adjectives for more specific meaning, such as '資深護士' (senior nurse)."
+    "Used for a registered nurse or healthcare nurse in hospitals, clinics, and elderly care settings.",
+    "Very common in everyday speech; neutral and natural in both spoken and written Cantonese.",
+    "Can combine with role or place words, such as hospital work, ward staff, or senior care contexts.",
+    "When talking about a specific person, you can add classifiers or titles before it; as a profession word, it usually stands on its own."
   ],
   "examples": [
     {
       "id": "wu6si6-nurse-example-1",
-      "sentence": "護士今日冇嚟返工。",
-      "jyutping": "wu6 si6 gam1 jat6 mou5 lei4 faan1 gung1",
-      "meaning": "The nurse didn't come to work today."
+      "sentence": "我阿姨係護士。",
+      "jyutping": "ngo5 aa3 ji4 hai6 wu6 si6.",
+      "meaning": "My aunt is a nurse."
     },
     {
       "id": "wu6si6-nurse-example-2",
-      "sentence": "醫生同護士一齊幫患者。",
-      "jyutping": "ji1 sang1 tung4 wu6 si6 jat1 cai4 bong1 waan6 ze2",
-      "meaning": "The doctor and nurse work together to help the patient."
+      "sentence": "個護士好有耐性。",
+      "jyutping": "go3 wu6 si6 hou2 jau5 noi6 sing3.",
+      "meaning": "The nurse is very patient."
     },
     {
       "id": "wu6si6-nurse-example-3",
-      "sentence": "呢個護士好貼心。",
-      "jyutping": "ni1 go3 wu6 si6 hou2 tip3 sam1",
-      "meaning": "This nurse is very caring."
+      "sentence": "佢喺醫院做護士。",
+      "jyutping": "keoi5 hai2 ji1 jyun2 zou6 wu6 si6.",
+      "meaning": "He/She works as a nurse in a hospital."
     },
     {
       "id": "wu6si6-nurse-example-4",
-      "sentence": "我細個時候想做護士。",
-      "jyutping": "ngo5 sai3 go3 si4 hau6 soeng2 zou6 wu6 si6",
-      "meaning": "I wanted to be a nurse when I was young."
+      "sentence": "夜晚值班嗰個護士幫咗我好多。",
+      "jyutping": "je6 maan5 zik6 baan1 go2 go3 wu6 si6 bong1 zo2 ngo5 hou2 do1.",
+      "meaning": "The nurse on night duty helped me a lot."
     }
   ],
   "audio": {
@@ -49,18 +48,20 @@
     ]
   },
   "tags": [
-    "health",
-    "medicine",
+    "jobs",
+    "professions",
+    "public service",
+    "healthcare",
     "hospital",
-    "medical_staff",
-    "occupation",
+    "beginner",
+    "noun",
     "level-1"
   ],
   "related": [
     "醫生",
     "病人",
     "診所",
-    "藥房",
-    "護士長"
+    "醫院",
+    "看護"
   ]
 }
