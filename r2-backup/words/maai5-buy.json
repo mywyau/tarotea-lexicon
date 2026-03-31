@@ -3,40 +3,37 @@
   "word": "買",
   "jyutping": "maai5",
   "meaning": "buy",
-  "pos": [
-    "verb"
-  ],
+  "pos": ["verb"],
   "usage": [
-    "The verb '買' (maai5) means 'to buy' in Cantonese.",
-    "'買' is commonly used with the object that you intend to purchase following it directly.",
-    "It can be used in both past and future tenses by adding appropriate time words or context.",
-    "When asking questions, '買唔買?' (maai5 m4 maai5?) means 'Will you buy it?' or 'Do you want to buy?'.",
-    "You can combine '買' with measure words or quantities to be more specific, e.g., '買一個蘋果' (buy one apple)."
+    "Basic verb for purchasing something; very common in everyday speech.",
+    "Often followed by a noun or a phrase for the thing you want to get, and it can also appear with quantity words.",
+    "In shopping contexts, it sounds natural with items like clothes, food, jewelry, and gifts.",
+    "Very general and neutral in register, so learners can use it in most simple situations without sounding too formal."
   ],
   "examples": [
     {
       "id": "maai5-buy-example-1",
-      "sentence": "我想買杯咖啡。",
-      "jyutping": "ngo5 soeng2 maai5 bui1 gaa3 fe1.",
-      "meaning": "I want to buy a cup of coffee."
+      "sentence": "我想買一隻戒指。",
+      "jyutping": "ngo5 soeng2 maai5 jat1 zek3 gaai3 zi2.",
+      "meaning": "I want to buy a ring."
     },
     {
       "id": "maai5-buy-example-2",
-      "sentence": "佢喺市場買水果。",
-      "jyutping": "keoi5 hai2 si5 coeng4 maai5 seoi2 gwo2.",
-      "meaning": "He buys fruits at the market."
+      "sentence": "呢條手鏈幾多錢？我想買。",
+      "jyutping": "ni1 tiu4 sau2 lin2 gei2 do1 cin2? ngo5 soeng2 maai5.",
+      "meaning": "How much is this bracelet? I want to buy it."
     },
     {
       "id": "maai5-buy-example-3",
-      "sentence": "你今日買咗啲咩？",
-      "jyutping": "nei5 gam1 jat6 maai5 zo2 di1 me1?",
-      "meaning": "What did you buy today?"
+      "sentence": "佢喺金舖買咗一條項鏈。",
+      "jyutping": "keoi5 hai2 gam1 pou2 maai5 zo2 jat1 tiu4 hong6 lin2.",
+      "meaning": "He/She bought a necklace at the gold shop."
     },
     {
       "id": "maai5-buy-example-4",
-      "sentence": "我哋下星期去買新嘢。",
-      "jyutping": "ngo5 dei6 haa6 sing1 kei4 heoi3 maai5 san1 je5.",
-      "meaning": "We will go buy new things next week."
+      "sentence": "星期六我會同阿媽去旺角買禮物。",
+      "jyutping": "sing1 kei4 luk6 ngo5 wui5 tung4 aa3 maa1 heoi3 wong6 gok3 maai5 lai5 mat6.",
+      "meaning": "On Saturday I’ll go to Mong Kok with my mum to buy a gift."
     }
   ],
   "audio": {
@@ -49,18 +46,13 @@
     ]
   },
   "tags": [
-    "basic verbs",
-    "daily tasks",
     "shopping",
-    "common verbs",
-    "level 1",
+    "daily-use",
+    "beginner",
+    "verbs",
+    "buying",
+    "jewellery",
     "level-1"
   ],
-  "related": [
-    "賣 (maai6) sell",
-    "錢 (cin2) money",
-    "買嘢 (maai5 je5) shopping",
-    "市場 (si5 coeng4) market",
-    "選擇 (syun2 zaak6) choose"
-  ]
+  "related": ["購買", "買嘢", "買入", "買貴咗", "買手信"]
 }

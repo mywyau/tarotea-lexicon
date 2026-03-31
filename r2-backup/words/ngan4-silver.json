@@ -3,39 +3,37 @@
   "word": "銀",
   "jyutping": "ngan4",
   "meaning": "silver",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "The word '銀' refers to the metal silver, often used in jewelry and currency.",
-    "It can be used to talk about the color silver in certain contexts as well.",
-    "When used in a sentence, '銀' usually comes after a measure word if counting, such as '一銀' meaning one silver piece.",
-    "It can also be combined with other nouns to describe objects made of silver material, like '銀器' (silverware)."
+    "Commonly used as a material noun: 銀 refers to the metal silver, and it often appears in everyday shopping, jewellery, and material descriptions.",
+    "In Cantonese, 銀 is also used in compound words like 銀器 and 銀飾; it sounds natural in both spoken and written language.",
+    "When talking about colour, 銀 can describe a silver shade, as in silver-looking objects, cars, clothes, or accessories.",
+    "Be careful not to mix it up with 港幣銀錢 in old-style or slangy contexts; in modern speech, 銀 usually means the metal or the colour."
   ],
   "examples": [
     {
       "id": "ngan4-silver-example-1",
-      "sentence": "我買咗一條銀頸鏈。",
-      "jyutping": "ngo5 maai5 zo2 jat1 tiu4 ngan4 geng2 lin2.",
-      "meaning": "I bought a silver necklace."
+      "sentence": "呢隻戒指係銀做嘅。",
+      "jyutping": "ni1 zek3 gaai3 zi2 hai6 ngan4 zou6 ge3.",
+      "meaning": "This ring is made of silver."
     },
     {
       "id": "ngan4-silver-example-2",
-      "sentence": "呢個戒指係純銀做嘅。",
-      "jyutping": "ni1 go3 gaai3 zi2 hai6 seon4 ngan4 zou6 ge3.",
-      "meaning": "This ring is made of pure silver."
+      "sentence": "我鍾意銀色嘅手袋。",
+      "jyutping": "ngo5 zung1 ji3 ngan4 sik1 ge3 sau2 deoi2.",
+      "meaning": "I like silver handbags."
     },
     {
       "id": "ngan4-silver-example-3",
-      "sentence": "佢屋企收藏咗好多銀仔。",
-      "jyutping": "keoi5 uk1 kei2 soeng1 cong4 zo2 hou2 do1 ngan4 zai2.",
-      "meaning": "His family collects a lot of silver coins."
+      "sentence": "佢買咗一對銀耳環。",
+      "jyutping": "keoi5 maai5 zo2 jat1 deoi3 ngan4 ji5 waan4.",
+      "meaning": "She bought a pair of silver earrings."
     },
     {
       "id": "ngan4-silver-example-4",
-      "sentence": "個鐘面係銀色，好靚。",
-      "jyutping": "go3 zung1 min6 hai6 ngan4 sik1, hou2 leng3.",
-      "meaning": "The clock face is silver-colored, very pretty."
+      "sentence": "呢個銀碗好古老。",
+      "jyutping": "ni1 go3 ngan4 waan5 hou2 gu2 lou5.",
+      "meaning": "This silver bowl is very old."
     }
   ],
   "audio": {
@@ -48,18 +46,15 @@
     ]
   },
   "tags": [
+    "gemstones-jewellery",
+    "precious_materials",
     "metal",
-    "jewelry",
-    "color",
-    "currency",
-    "material",
+    "noun",
+    "basic-vocabulary",
+    "everyday",
+    "colour",
+    "shopping",
     "level-1"
   ],
-  "related": [
-    "錫 (sek3) - tin",
-    "銅 (tung4) - copper",
-    "金 (gam1) - gold",
-    "鋼 (gong3) - steel",
-    "珠寶 (zhu1 bou2) - jewelry"
-  ]
+  "related": ["銀器", "銀飾", "銀色", "銀包", "白銀"]
 }

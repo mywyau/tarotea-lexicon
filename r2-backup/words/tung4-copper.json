@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word 銅 (tung4) is used as a noun to refer to copper, a type of metal.",
-    "銅 is often used in compound words related to items or materials made of copper.",
-    "In Cantonese, 銅 can describe the material composition of objects, such as 銅線 (copper wire).",
-    "It can also appear in idiomatic expressions or phrases related to value or function.",
-    "When discussing metals in general, 銅 is one of the common metals mentioned alongside others like 鐵 (iron)."
+    "Refers to the metal copper. It is a common everyday noun and is used in both technical and general contexts.",
+    "Often appears in compounds and set phrases about materials, such as metal objects, wiring, alloys, and colors.",
+    "Can be used to describe a pure material or a component made mainly of copper; context usually makes the meaning clear.",
+    "In casual speech, 銅 is less common than more specific material words, so it sounds natural in shopping,工藝, science, and product descriptions."
   ],
   "examples": [
     {
       "id": "tung4-copper-example-1",
-      "sentence": "呢條銅線好有用。",
-      "jyutping": "ni1 tiu4 tung4 sin3 hou2 jau5 jung6.",
-      "meaning": "This copper wire is very useful."
+      "sentence": "呢條電線係銅線。",
+      "jyutping": "ni1 tiu4 din6 sin3 hai6 tung4 sin3.",
+      "meaning": "This wire is copper wire."
     },
     {
       "id": "tung4-copper-example-2",
-      "sentence": "我哋嘅杯係用銅做嘅。",
-      "jyutping": "ngo5 dei6 ge3 bui1 hai6 jung6 tung4 zou6 ge3.",
-      "meaning": "Our cup is made of copper."
+      "sentence": "佢買咗一個銅製嘅香爐。",
+      "jyutping": "keoi5 maai5 zo2 jat1 go3 tung4 zai3 ge3 hoeng1 lou4.",
+      "meaning": "He bought a copper incense burner."
     },
     {
       "id": "tung4-copper-example-3",
-      "sentence": "銅鐘響得幾正。",
-      "jyutping": "tung4 zung1 hoeng2 dak1 gei2 zing3.",
-      "meaning": "The copper bell rings very clearly."
+      "sentence": "呢隻錶殼用銅做。",
+      "jyutping": "ni1 zek3 biu1 ho2 jung6 tung4 zou6.",
+      "meaning": "This watch case is made of copper."
     },
     {
       "id": "tung4-copper-example-4",
-      "sentence": "佢鍾意收藏古銅器。",
-      "jyutping": "keoi5 zung1 ji3 sau1 cong4 gu2 tung4 hei3.",
-      "meaning": "He likes to collect antique copper items."
+      "sentence": "銅價最近升咗。",
+      "jyutping": "tung4 gaa3 zeoi3 gam3 sing1 zo2.",
+      "meaning": "The price of copper has risen recently."
     }
   ],
   "audio": {
@@ -49,18 +48,19 @@
     ]
   },
   "tags": [
-    "material",
-    "metal",
-    "copper",
-    "noun",
-    "everyday",
+    "materials",
+    "metals",
+    "jewellery",
+    "crafts",
+    "science",
+    "everyday vocabulary",
     "level-1"
   ],
   "related": [
-    "鐵 (tit3) - iron",
-    "銀 (ngan4) - silver",
-    "鋁 (leoi5) - aluminum",
-    "鋼 (gong3) - steel",
-    "金 (gam1) - gold"
+    "銅線",
+    "銅器",
+    "銅錢",
+    "銅鑼",
+    "黃銅"
   ]
 }

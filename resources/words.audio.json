@@ -1,27 +1,1377 @@
 [
   {
-    "filename": "bei3syu1-secretary",
-    "id": "bei3syu1-secretary",
-    "text": "秘書"
+    "filename": "baak6gam1-white-gold",
+    "id": "baak6gam1-white-gold",
+    "text": "白金"
   },
   {
-    "filename": "bei3syu1-secretary-example-1",
-    "id": "bei3syu1-secretary-example-1",
-    "text": "佢喺間公司做秘書。"
+    "filename": "baak6gam1-white-gold-example-1",
+    "id": "baak6gam1-white-gold-example-1",
+    "text": "呢隻戒指係白金嚟嘅。"
   },
   {
-    "filename": "bei3syu1-secretary-example-2",
-    "id": "bei3syu1-secretary-example-2",
-    "text": "秘書幫老闆安排會議。"
+    "filename": "baak6gam1-white-gold-example-2",
+    "id": "baak6gam1-white-gold-example-2",
+    "text": "我想買條白金頸鏈。"
   },
   {
-    "filename": "bei3syu1-secretary-example-3",
-    "id": "bei3syu1-secretary-example-3",
-    "text": "你可以打電話畀秘書。"
+    "filename": "baak6gam1-white-gold-example-3",
+    "id": "baak6gam1-white-gold-example-3",
+    "text": "佢隻錶殼係白金做嘅。"
   },
   {
-    "filename": "bei3syu1-secretary-example-4",
-    "id": "bei3syu1-secretary-example-4",
-    "text": "學校秘書負責處理文件。"
+    "filename": "baak6gam1-white-gold-example-4",
+    "id": "baak6gam1-white-gold-example-4",
+    "text": "白金比較貴，通常喺高級首飾見得多。"
+  },
+  {
+    "filename": "baak6ngan4-silver",
+    "id": "baak6ngan4-silver",
+    "text": "白銀"
+  },
+  {
+    "filename": "baak6ngan4-silver-example-1",
+    "id": "baak6ngan4-silver-example-1",
+    "text": "呢隻手鐲係白銀造嘅。"
+  },
+  {
+    "filename": "baak6ngan4-silver-example-2",
+    "id": "baak6ngan4-silver-example-2",
+    "text": "佢話想買啲白銀做首飾。"
+  },
+  {
+    "filename": "baak6ngan4-silver-example-3",
+    "id": "baak6ngan4-silver-example-3",
+    "text": "古代白銀好值錢。"
+  },
+  {
+    "filename": "baak6ngan4-silver-example-4",
+    "id": "baak6ngan4-silver-example-4",
+    "text": "老師講咗白銀同一般銀嘅分別。"
+  },
+  {
+    "filename": "bou2joeng5-maintain",
+    "id": "bou2joeng5-maintain",
+    "text": "保養"
+  },
+  {
+    "filename": "bou2joeng5-maintain-example-1",
+    "id": "bou2joeng5-maintain-example-1",
+    "text": "呢條頸鏈要定期保養，先至可以保持光澤。"
+  },
+  {
+    "filename": "bou2joeng5-maintain-example-2",
+    "id": "bou2joeng5-maintain-example-2",
+    "text": "呢隻戒指平時唔算難保養。"
+  },
+  {
+    "filename": "bou2joeng5-maintain-example-3",
+    "id": "bou2joeng5-maintain-example-3",
+    "text": "買金器嗰陣，店員會教你點樣保養。"
+  },
+  {
+    "filename": "bou2joeng5-maintain-example-4",
+    "id": "bou2joeng5-maintain-example-4",
+    "text": "如果保養得好，珍珠耳環可以戴好耐。"
+  },
+  {
+    "filename": "bou2sek6-gemstone",
+    "id": "bou2sek6-gemstone",
+    "text": "寶石"
+  },
+  {
+    "filename": "bou2sek6-gemstone-example-1",
+    "id": "bou2sek6-gemstone-example-1",
+    "text": "呢粒寶石好靚，啲光澤好出。"
+  },
+  {
+    "filename": "bou2sek6-gemstone-example-2",
+    "id": "bou2sek6-gemstone-example-2",
+    "text": "我想買一條鑲有寶石嘅頸鏈。"
+  },
+  {
+    "filename": "bou2sek6-gemstone-example-3",
+    "id": "bou2sek6-gemstone-example-3",
+    "text": "佢收藏咗好多珍貴嘅寶石。"
+  },
+  {
+    "filename": "bou2sek6-gemstone-example-4",
+    "id": "bou2sek6-gemstone-example-4",
+    "text": "呢顆寶石係真定假㗎？"
+  },
+  {
+    "filename": "bou2sek6gaai3zi2-gemstone-ring",
+    "id": "bou2sek6gaai3zi2-gemstone-ring",
+    "text": "寶石戒指"
+  },
+  {
+    "filename": "bou2sek6gaai3zi2-gemstone-ring-example-1",
+    "id": "bou2sek6gaai3zi2-gemstone-ring-example-1",
+    "text": "我想買一隻寶石戒指送畀女朋友。"
+  },
+  {
+    "filename": "bou2sek6gaai3zi2-gemstone-ring-example-2",
+    "id": "bou2sek6gaai3zi2-gemstone-ring-example-2",
+    "text": "呢隻寶石戒指好閃，好多人一見到就會留意。"
+  },
+  {
+    "filename": "bou2sek6gaai3zi2-gemstone-ring-example-3",
+    "id": "bou2sek6gaai3zi2-gemstone-ring-example-3",
+    "text": "佢戴住隻寶石戒指去晚宴，成個人都好高貴。"
+  },
+  {
+    "filename": "bou2sek6gaai3zi2-gemstone-ring-example-4",
+    "id": "bou2sek6gaai3zi2-gemstone-ring-example-4",
+    "text": "呢款寶石戒指係手工做，價錢比普通款貴啲。"
+  },
+  {
+    "filename": "bun3bou2sek6-semi-precious",
+    "id": "bun3bou2sek6-semi-precious",
+    "text": "半寶石"
+  },
+  {
+    "filename": "bun3bou2sek6-semi-precious-example-1",
+    "id": "bun3bou2sek6-semi-precious-example-1",
+    "text": "呢條頸鏈用咗好多半寶石，睇落好有氣質。"
+  },
+  {
+    "filename": "bun3bou2sek6-semi-precious-example-2",
+    "id": "bun3bou2sek6-semi-precious-example-2",
+    "text": "我想買啲半寶石耳環，平啲但係都幾靚。"
+  },
+  {
+    "filename": "bun3bou2sek6-semi-precious-example-3",
+    "id": "bun3bou2sek6-semi-precious-example-3",
+    "text": "佢做珠寶設計，特別鍾意用半寶石配金屬。"
+  },
+  {
+    "filename": "bun3bou2sek6-semi-precious-example-4",
+    "id": "bun3bou2sek6-semi-precious-example-4",
+    "text": "呢粒半寶石顏色好特別，成件飾物即刻醒神咗。"
+  },
+  {
+    "filename": "daai3-wear",
+    "id": "daai3-wear",
+    "text": "戴"
+  },
+  {
+    "filename": "daai3-wear-example-1",
+    "id": "daai3-wear-example-1",
+    "text": "我今日戴咗隻錶。"
+  },
+  {
+    "filename": "daai3-wear-example-2",
+    "id": "daai3-wear-example-2",
+    "text": "佢成日戴眼鏡。"
+  },
+  {
+    "filename": "daai3-wear-example-3",
+    "id": "daai3-wear-example-3",
+    "text": "阿媽買咗對新耳環，話想戴去飲宴。"
+  },
+  {
+    "filename": "daai3-wear-example-4",
+    "id": "daai3-wear-example-4",
+    "text": "冬天出街，最好戴頂帽。"
+  },
+  {
+    "filename": "ding3zou6-order-made",
+    "id": "ding3zou6-order-made",
+    "text": "訂造"
+  },
+  {
+    "filename": "ding3zou6-order-made-example-1",
+    "id": "ding3zou6-order-made-example-1",
+    "text": "呢隻戒指可以訂造成你想要嘅尺寸。"
+  },
+  {
+    "filename": "ding3zou6-order-made-example-2",
+    "id": "ding3zou6-order-made-example-2",
+    "text": "佢哋喺鋪頭訂造咗一條金頸鏈。"
+  },
+  {
+    "filename": "ding3zou6-order-made-example-3",
+    "id": "ding3zou6-order-made-example-3",
+    "text": "我想訂造一件旗袍。"
+  },
+  {
+    "filename": "ding3zou6-order-made-example-4",
+    "id": "ding3zou6-order-made-example-4",
+    "text": "呢張枱係訂造嘅，唔係現成貨。"
+  },
+  {
+    "filename": "diu3zeoi6-pendant",
+    "id": "diu3zeoi6-pendant",
+    "text": "吊墜"
+  },
+  {
+    "filename": "diu3zeoi6-pendant-example-1",
+    "id": "diu3zeoi6-pendant-example-1",
+    "text": "佢買咗一個好閃嘅吊墜。"
+  },
+  {
+    "filename": "diu3zeoi6-pendant-example-2",
+    "id": "diu3zeoi6-pendant-example-2",
+    "text": "呢個吊墜係水晶做嘅。"
+  },
+  {
+    "filename": "diu3zeoi6-pendant-example-3",
+    "id": "diu3zeoi6-pendant-example-3",
+    "text": "我想換條新頸鏈配個吊墜。"
+  },
+  {
+    "filename": "diu3zeoi6-pendant-example-4",
+    "id": "diu3zeoi6-pendant-example-4",
+    "text": "阿媽送咗個吊墜畀我做生日禮物。"
+  },
+  {
+    "filename": "faan2gwong1-reflective",
+    "id": "faan2gwong1-reflective",
+    "text": "反光"
+  },
+  {
+    "filename": "faan2gwong1-reflective-example-1",
+    "id": "faan2gwong1-reflective-example-1",
+    "text": "呢塊玻璃好反光。"
+  },
+  {
+    "filename": "faan2gwong1-reflective-example-2",
+    "id": "faan2gwong1-reflective-example-2",
+    "text": "呢件反光衫夜晚行路好安全。"
+  },
+  {
+    "filename": "faan2gwong1-reflective-example-3",
+    "id": "faan2gwong1-reflective-example-3",
+    "text": "呢粒寶石喺燈光下面好反光。"
+  },
+  {
+    "filename": "faan2gwong1-reflective-example-4",
+    "id": "faan2gwong1-reflective-example-4",
+    "text": "相機鏡頭表面太反光，影相會有影響。"
+  },
+  {
+    "filename": "fu2paak3-amber",
+    "id": "fu2paak3-amber",
+    "text": "琥珀"
+  },
+  {
+    "filename": "fu2paak3-amber-example-1",
+    "id": "fu2paak3-amber-example-1",
+    "text": "呢條琥珀頸鏈好靚。"
+  },
+  {
+    "filename": "fu2paak3-amber-example-2",
+    "id": "fu2paak3-amber-example-2",
+    "text": "佢買咗一粒琥珀戒指。"
+  },
+  {
+    "filename": "fu2paak3-amber-example-3",
+    "id": "fu2paak3-amber-example-3",
+    "text": "我喺舖頭見到好多琥珀手鏈。"
+  },
+  {
+    "filename": "fu2paak3-amber-example-4",
+    "id": "fu2paak3-amber-example-4",
+    "text": "呢塊琥珀顏色好溫暖。"
+  },
+  {
+    "filename": "gaa2-fake",
+    "id": "gaa2-fake",
+    "text": "假"
+  },
+  {
+    "filename": "gaa2-fake-example-1",
+    "id": "gaa2-fake-example-1",
+    "text": "呢條鏈係假嘅。"
+  },
+  {
+    "filename": "gaa2-fake-example-2",
+    "id": "gaa2-fake-example-2",
+    "text": "佢買咗對假耳環。"
+  },
+  {
+    "filename": "gaa2-fake-example-3",
+    "id": "gaa2-fake-example-3",
+    "text": "呢隻錶唔係真嘢，係假貨。"
+  },
+  {
+    "filename": "gaa2-fake-example-4",
+    "id": "gaa2-fake-example-4",
+    "text": "我唔想買假鑽石。"
+  },
+  {
+    "filename": "gaai3zi2-ring",
+    "id": "gaai3zi2-ring",
+    "text": "戒指"
+  },
+  {
+    "filename": "gaai3zi2-ring-example-1",
+    "id": "gaai3zi2-ring-example-1",
+    "text": "呢隻戒指幾靚呀。"
+  },
+  {
+    "filename": "gaai3zi2-ring-example-2",
+    "id": "gaai3zi2-ring-example-2",
+    "text": "我想買一隻銀戒指。"
+  },
+  {
+    "filename": "gaai3zi2-ring-example-3",
+    "id": "gaai3zi2-ring-example-3",
+    "text": "佢送咗隻戒指俾女朋友。"
+  },
+  {
+    "filename": "gaai3zi2-ring-example-4",
+    "id": "gaai3zi2-ring-example-4",
+    "text": "呢隻戒指係結婚戒指嚟㗎。"
+  },
+  {
+    "filename": "gam1-gold",
+    "id": "gam1-gold",
+    "text": "金"
+  },
+  {
+    "filename": "gam1-gold-example-1",
+    "id": "gam1-gold-example-1",
+    "text": "呢隻戒指係真金嚟㗎。"
+  },
+  {
+    "filename": "gam1-gold-example-2",
+    "id": "gam1-gold-example-2",
+    "text": "我阿媽鍾意戴金頸鏈。"
+  },
+  {
+    "filename": "gam1-gold-example-3",
+    "id": "gam1-gold-example-3",
+    "text": "佢買咗一隻金錶送畀爸爸。"
+  },
+  {
+    "filename": "gam1-gold-example-4",
+    "id": "gam1-gold-example-4",
+    "text": "婚禮上面，佢哋收咗好多金器。"
+  },
+  {
+    "filename": "geng2lin2-necklace",
+    "id": "geng2lin2-necklace",
+    "text": "頸鏈"
+  },
+  {
+    "filename": "geng2lin2-necklace-example-1",
+    "id": "geng2lin2-necklace-example-1",
+    "text": "佢今日戴咗條新頸鏈。"
+  },
+  {
+    "filename": "geng2lin2-necklace-example-2",
+    "id": "geng2lin2-necklace-example-2",
+    "text": "我想買一條銀頸鏈。"
+  },
+  {
+    "filename": "geng2lin2-necklace-example-3",
+    "id": "geng2lin2-necklace-example-3",
+    "text": "呢條頸鏈係阿媽送畀我嘅。"
+  },
+  {
+    "filename": "geng2lin2-necklace-example-4",
+    "id": "geng2lin2-necklace-example-4",
+    "text": "你小心啲，唔好整斷條頸鏈。"
+  },
+  {
+    "filename": "git3fan1gaai3zi2-wedding-ring",
+    "id": "git3fan1gaai3zi2-wedding-ring",
+    "text": "結婚戒指"
+  },
+  {
+    "filename": "git3fan1gaai3zi2-wedding-ring-example-1",
+    "id": "git3fan1gaai3zi2-wedding-ring-example-1",
+    "text": "佢哋喺婚禮上交換咗結婚戒指。"
+  },
+  {
+    "filename": "git3fan1gaai3zi2-wedding-ring-example-2",
+    "id": "git3fan1gaai3zi2-wedding-ring-example-2",
+    "text": "呢隻結婚戒指係佢老公送畀佢嘅。"
+  },
+  {
+    "filename": "git3fan1gaai3zi2-wedding-ring-example-3",
+    "id": "git3fan1gaai3zi2-wedding-ring-example-3",
+    "text": "我想搵一隻簡單啲嘅結婚戒指。"
+  },
+  {
+    "filename": "git3fan1gaai3zi2-wedding-ring-example-4",
+    "id": "git3fan1gaai3zi2-wedding-ring-example-4",
+    "text": "你記得戴返結婚戒指先好出門。"
+  },
+  {
+    "filename": "goek3lin2-anklet",
+    "id": "goek3lin2-anklet",
+    "text": "腳鏈"
+  },
+  {
+    "filename": "goek3lin2-anklet-example-1",
+    "id": "goek3lin2-anklet-example-1",
+    "text": "佢買咗條腳鏈送畀女朋友。"
+  },
+  {
+    "filename": "goek3lin2-anklet-example-2",
+    "id": "goek3lin2-anklet-example-2",
+    "text": "呢條腳鏈好閃，好啱夏天戴。"
+  },
+  {
+    "filename": "goek3lin2-anklet-example-3",
+    "id": "goek3lin2-anklet-example-3",
+    "text": "阿媽話我細個唔好戴腳鏈。"
+  },
+  {
+    "filename": "goek3lin2-anklet-example-4",
+    "id": "goek3lin2-anklet-example-4",
+    "text": "佢對腳鏈係銀做嘅。"
+  },
+  {
+    "filename": "gu2gaa3-appraise",
+    "id": "gu2gaa3-appraise",
+    "text": "估價"
+  },
+  {
+    "filename": "gu2gaa3-appraise-example-1",
+    "id": "gu2gaa3-appraise-example-1",
+    "text": "呢粒鑽石要攞去做估價。"
+  },
+  {
+    "filename": "gu2gaa3-appraise-example-2",
+    "id": "gu2gaa3-appraise-example-2",
+    "text": "佢幫我隻戒指估價。"
+  },
+  {
+    "filename": "gu2gaa3-appraise-example-3",
+    "id": "gu2gaa3-appraise-example-3",
+    "text": "買古董之前，最好先搵人估價。"
+  },
+  {
+    "filename": "gu2gaa3-appraise-example-4",
+    "id": "gu2gaa3-appraise-example-4",
+    "text": "呢條項鍊做咗估價之後，價值高咗好多。"
+  },
+  {
+    "filename": "gwai3-expensive",
+    "id": "gwai3-expensive",
+    "text": "貴"
+  },
+  {
+    "filename": "gwai3-expensive-example-1",
+    "id": "gwai3-expensive-example-1",
+    "text": "呢隻戒指好貴。"
+  },
+  {
+    "filename": "gwai3-expensive-example-2",
+    "id": "gwai3-expensive-example-2",
+    "text": "金器通常都幾貴。"
+  },
+  {
+    "filename": "gwai3-expensive-example-3",
+    "id": "gwai3-expensive-example-3",
+    "text": "呢間鋪頭啲耳環唔算貴。"
+  },
+  {
+    "filename": "gwai3-expensive-example-4",
+    "id": "gwai3-expensive-example-4",
+    "text": "你覺得邊隻鑽石最貴？"
+  },
+  {
+    "filename": "hap6gam1-alloy",
+    "id": "hap6gam1-alloy",
+    "text": "合金"
+  },
+  {
+    "filename": "hap6gam1-alloy-example-1",
+    "id": "hap6gam1-alloy-example-1",
+    "text": "呢隻戒指係合金做㗎。"
+  },
+  {
+    "filename": "hap6gam1-alloy-example-2",
+    "id": "hap6gam1-alloy-example-2",
+    "text": "佢買咗一個合金手鏈。"
+  },
+  {
+    "filename": "hap6gam1-alloy-example-3",
+    "id": "hap6gam1-alloy-example-3",
+    "text": "合金通常比純銀平啲。"
+  },
+  {
+    "filename": "hap6gam1-alloy-example-4",
+    "id": "hap6gam1-alloy-example-4",
+    "text": "呢種合金比較硬身，適合做飾物。"
+  },
+  {
+    "filename": "hung1zam1-brooch",
+    "id": "hung1zam1-brooch",
+    "text": "胸針"
+  },
+  {
+    "filename": "hung1zam1-brooch-example-1",
+    "id": "hung1zam1-brooch-example-1",
+    "text": "呢件外套襟頭有一個胸針。"
+  },
+  {
+    "filename": "hung1zam1-brooch-example-2",
+    "id": "hung1zam1-brooch-example-2",
+    "text": "佢買咗個銀色胸針送畀阿媽。"
+  },
+  {
+    "filename": "hung1zam1-brooch-example-3",
+    "id": "hung1zam1-brooch-example-3",
+    "text": "呢個胸針好襯件晚裝。"
+  },
+  {
+    "filename": "hung1zam1-brooch-example-4",
+    "id": "hung1zam1-brooch-example-4",
+    "text": "老師話呢個胸針係舊款，幾有特色。"
+  },
+  {
+    "filename": "hung4bou2sek6-ruby",
+    "id": "hung4bou2sek6-ruby",
+    "text": "紅寶石"
+  },
+  {
+    "filename": "hung4bou2sek6-ruby-example-1",
+    "id": "hung4bou2sek6-ruby-example-1",
+    "text": "呢隻戒指鑲咗一粒好靚嘅紅寶石。"
+  },
+  {
+    "filename": "hung4bou2sek6-ruby-example-2",
+    "id": "hung4bou2sek6-ruby-example-2",
+    "text": "佢送咗條紅寶石頸鏈俾太太。"
+  },
+  {
+    "filename": "hung4bou2sek6-ruby-example-3",
+    "id": "hung4bou2sek6-ruby-example-3",
+    "text": "紅寶石通常都好貴。"
+  },
+  {
+    "filename": "hung4bou2sek6-ruby-example-4",
+    "id": "hung4bou2sek6-ruby-example-4",
+    "text": "我喺珠寶店見到一顆好大嘅紅寶石。"
+  },
+  {
+    "filename": "ji5waan4-earring",
+    "id": "ji5waan4-earring",
+    "text": "耳環"
+  },
+  {
+    "filename": "ji5waan4-earring-example-1",
+    "id": "ji5waan4-earring-example-1",
+    "text": "呢對耳環好靚。"
+  },
+  {
+    "filename": "ji5waan4-earring-example-2",
+    "id": "ji5waan4-earring-example-2",
+    "text": "我想買一對銀耳環。"
+  },
+  {
+    "filename": "ji5waan4-earring-example-3",
+    "id": "ji5waan4-earring-example-3",
+    "text": "佢每日返工都會戴耳環。"
+  },
+  {
+    "filename": "ji5waan4-earring-example-4",
+    "id": "ji5waan4-earring-example-4",
+    "text": "你可唔可以幫我攞走啲耳環？"
+  },
+  {
+    "filename": "juk6-jade",
+    "id": "juk6-jade",
+    "text": "玉"
+  },
+  {
+    "filename": "juk6-jade-example-1",
+    "id": "juk6-jade-example-1",
+    "text": "呢塊玉好靚。"
+  },
+  {
+    "filename": "juk6-jade-example-2",
+    "id": "juk6-jade-example-2",
+    "text": "佢買咗一條玉頸鏈。"
+  },
+  {
+    "filename": "juk6-jade-example-3",
+    "id": "juk6-jade-example-3",
+    "text": "阿媽好鍾意戴玉鐲。"
+  },
+  {
+    "filename": "juk6-jade-example-4",
+    "id": "juk6-jade-example-4",
+    "text": "呢間舖頭專賣玉器。"
+  },
+  {
+    "filename": "juk6pui3-jade-pendant",
+    "id": "juk6pui3-jade-pendant",
+    "text": "玉佩"
+  },
+  {
+    "filename": "juk6pui3-jade-pendant-example-1",
+    "id": "juk6pui3-jade-pendant-example-1",
+    "text": "阿媽送咗個玉佩畀我做生日禮物。"
+  },
+  {
+    "filename": "juk6pui3-jade-pendant-example-2",
+    "id": "juk6pui3-jade-pendant-example-2",
+    "text": "呢塊玉佩係佢阿婆傳落嚟㗎。"
+  },
+  {
+    "filename": "juk6pui3-jade-pendant-example-3",
+    "id": "juk6pui3-jade-pendant-example-3",
+    "text": "佢今日戴住一個好靚嘅玉佩出街。"
+  },
+  {
+    "filename": "juk6pui3-jade-pendant-example-4",
+    "id": "juk6pui3-jade-pendant-example-4",
+    "text": "喺香港，唔少人會買玉佩嚟送禮。"
+  },
+  {
+    "filename": "kau3-clasp",
+    "id": "kau3-clasp",
+    "text": "扣"
+  },
+  {
+    "filename": "kau3-clasp-example-1",
+    "id": "kau3-clasp-example-1",
+    "text": "呢條頸鏈個扣鬆咗，要整返實。"
+  },
+  {
+    "filename": "kau3-clasp-example-2",
+    "id": "kau3-clasp-example-2",
+    "text": "你幫我睇下隻手鏈個扣有冇壞。"
+  },
+  {
+    "filename": "kau3-clasp-example-3",
+    "id": "kau3-clasp-example-3",
+    "text": "呢個袋個扣好難開。"
+  },
+  {
+    "filename": "kau3-clasp-example-4",
+    "id": "kau3-clasp-example-4",
+    "text": "件衫個扣跌咗落地。"
+  },
+  {
+    "filename": "laam4bou2sek6-sapphire",
+    "id": "laam4bou2sek6-sapphire",
+    "text": "藍寶石"
+  },
+  {
+    "filename": "laam4bou2sek6-sapphire-example-1",
+    "id": "laam4bou2sek6-sapphire-example-1",
+    "text": "呢隻戒指鑲咗一粒藍寶石，好靚。"
+  },
+  {
+    "filename": "laam4bou2sek6-sapphire-example-2",
+    "id": "laam4bou2sek6-sapphire-example-2",
+    "text": "佢買咗條藍寶石頸鏈送畀女朋友。"
+  },
+  {
+    "filename": "laam4bou2sek6-sapphire-example-3",
+    "id": "laam4bou2sek6-sapphire-example-3",
+    "text": "博物館入面有一顆好大嘅藍寶石展品。"
+  },
+  {
+    "filename": "laam4bou2sek6-sapphire-example-4",
+    "id": "laam4bou2sek6-sapphire-example-4",
+    "text": "呢隻手錶用咗藍寶石做錶面，好耐用。"
+  },
+  {
+    "filename": "lin2-chain",
+    "id": "lin2-chain",
+    "text": "鏈"
+  },
+  {
+    "filename": "lin2-chain-example-1",
+    "id": "lin2-chain-example-1",
+    "text": "我想買條金鏈送畀阿媽。"
+  },
+  {
+    "filename": "lin2-chain-example-2",
+    "id": "lin2-chain-example-2",
+    "text": "呢條銀鏈幾襯件衫。"
+  },
+  {
+    "filename": "lin2-chain-example-3",
+    "id": "lin2-chain-example-3",
+    "text": "佢成日戴住條鏈。"
+  },
+  {
+    "filename": "lin2-chain-example-4",
+    "id": "lin2-chain-example-4",
+    "text": "條鏈斷咗，要拎去整。"
+  },
+  {
+    "filename": "luk6bou2sek6-emerald",
+    "id": "luk6bou2sek6-emerald",
+    "text": "綠寶石"
+  },
+  {
+    "filename": "luk6bou2sek6-emerald-example-1",
+    "id": "luk6bou2sek6-emerald-example-1",
+    "text": "呢隻戒指鑲咗粒綠寶石，好靚。"
+  },
+  {
+    "filename": "luk6bou2sek6-emerald-example-2",
+    "id": "luk6bou2sek6-emerald-example-2",
+    "text": "博物館入面有一顆好大嘅綠寶石。"
+  },
+  {
+    "filename": "luk6bou2sek6-emerald-example-3",
+    "id": "luk6bou2sek6-emerald-example-3",
+    "text": "佢送咗條綠寶石頸鏈俾太太。"
+  },
+  {
+    "filename": "luk6bou2sek6-emerald-example-4",
+    "id": "luk6bou2sek6-emerald-example-4",
+    "text": "佢特登揀綠寶石做生日禮物。"
+  },
+  {
+    "filename": "maai5-buy",
+    "id": "maai5-buy",
+    "text": "買"
+  },
+  {
+    "filename": "maai5-buy-example-1",
+    "id": "maai5-buy-example-1",
+    "text": "我想買一隻戒指。"
+  },
+  {
+    "filename": "maai5-buy-example-2",
+    "id": "maai5-buy-example-2",
+    "text": "呢條手鏈幾多錢？我想買。"
+  },
+  {
+    "filename": "maai5-buy-example-3",
+    "id": "maai5-buy-example-3",
+    "text": "佢喺金舖買咗一條項鏈。"
+  },
+  {
+    "filename": "maai5-buy-example-4",
+    "id": "maai5-buy-example-4",
+    "text": "星期六我會同阿媽去旺角買禮物。"
+  },
+  {
+    "filename": "maai6-sell",
+    "id": "maai6-sell",
+    "text": "賣"
+  },
+  {
+    "filename": "maai6-sell-example-1",
+    "id": "maai6-sell-example-1",
+    "text": "呢間舖頭專門賣玉器同手鏈。"
+  },
+  {
+    "filename": "maai6-sell-example-2",
+    "id": "maai6-sell-example-2",
+    "text": "佢想賣隻戒指俾人。"
+  },
+  {
+    "filename": "maai6-sell-example-3",
+    "id": "maai6-sell-example-3",
+    "text": "呢件頸鏈幾靚，唔知幾多錢賣？"
+  },
+  {
+    "filename": "maai6-sell-example-4",
+    "id": "maai6-sell-example-4",
+    "text": "老闆話呢批寶石而家唔賣住。"
+  },
+  {
+    "filename": "maau1ngaan5sek6-cat-eye",
+    "id": "maau1ngaan5sek6-cat-eye",
+    "text": "貓眼石"
+  },
+  {
+    "filename": "maau1ngaan5sek6-cat-eye-example-1",
+    "id": "maau1ngaan5sek6-cat-eye-example-1",
+    "text": "呢粒貓眼石好靚，光線一照就好出色。"
+  },
+  {
+    "filename": "maau1ngaan5sek6-cat-eye-example-2",
+    "id": "maau1ngaan5sek6-cat-eye-example-2",
+    "text": "佢買咗一隻鑲住貓眼石嘅戒指。"
+  },
+  {
+    "filename": "maau1ngaan5sek6-cat-eye-example-3",
+    "id": "maau1ngaan5sek6-cat-eye-example-3",
+    "text": "呢間鋪頭專賣貓眼石同其他寶石。"
+  },
+  {
+    "filename": "maau1ngaan5sek6-cat-eye-example-4",
+    "id": "maau1ngaan5sek6-cat-eye-example-4",
+    "text": "如果你鍾意低調啲嘅首飾，貓眼石會幾啱你。"
+  },
+  {
+    "filename": "mui4gwai3gam1-rose-gold",
+    "id": "mui4gwai3gam1-rose-gold",
+    "text": "玫瑰金"
+  },
+  {
+    "filename": "mui4gwai3gam1-rose-gold-example-1",
+    "id": "mui4gwai3gam1-rose-gold-example-1",
+    "text": "佢隻戒指係玫瑰金嚟嘅。"
+  },
+  {
+    "filename": "mui4gwai3gam1-rose-gold-example-2",
+    "id": "mui4gwai3gam1-rose-gold-example-2",
+    "text": "我想買玫瑰金手錶。"
+  },
+  {
+    "filename": "mui4gwai3gam1-rose-gold-example-3",
+    "id": "mui4gwai3gam1-rose-gold-example-3",
+    "text": "呢隻電話有玫瑰金色。"
+  },
+  {
+    "filename": "mui4gwai3gam1-rose-gold-example-4",
+    "id": "mui4gwai3gam1-rose-gold-example-4",
+    "text": "玫瑰金同白金都好受歡迎。"
+  },
+  {
+    "filename": "ngan4-silver",
+    "id": "ngan4-silver",
+    "text": "銀"
+  },
+  {
+    "filename": "ngan4-silver-example-1",
+    "id": "ngan4-silver-example-1",
+    "text": "呢隻戒指係銀做嘅。"
+  },
+  {
+    "filename": "ngan4-silver-example-2",
+    "id": "ngan4-silver-example-2",
+    "text": "我鍾意銀色嘅手袋。"
+  },
+  {
+    "filename": "ngan4-silver-example-3",
+    "id": "ngan4-silver-example-3",
+    "text": "佢買咗一對銀耳環。"
+  },
+  {
+    "filename": "ngan4-silver-example-4",
+    "id": "ngan4-silver-example-4",
+    "text": "呢個銀碗好古老。"
+  },
+  {
+    "filename": "paau1gwong1-polishing",
+    "id": "paau1gwong1-polishing",
+    "text": "拋光"
+  },
+  {
+    "filename": "paau1gwong1-polishing-example-1",
+    "id": "paau1gwong1-polishing-example-1",
+    "text": "呢隻戒指拋光之後靚咗好多。"
+  },
+  {
+    "filename": "paau1gwong1-polishing-example-2",
+    "id": "paau1gwong1-polishing-example-2",
+    "text": "師傅幫我啲銀器做拋光。"
+  },
+  {
+    "filename": "paau1gwong1-polishing-example-3",
+    "id": "paau1gwong1-polishing-example-3",
+    "text": "塊表面要先打磨，再做拋光。"
+  },
+  {
+    "filename": "paau1gwong1-polishing-example-4",
+    "id": "paau1gwong1-polishing-example-4",
+    "text": "寶石切割之後，通常都要做拋光。"
+  },
+  {
+    "filename": "peng4-cheap",
+    "id": "peng4-cheap",
+    "text": "平"
+  },
+  {
+    "filename": "peng4-cheap-example-1",
+    "id": "peng4-cheap-example-1",
+    "text": "呢隻戒指幾平喎。"
+  },
+  {
+    "filename": "peng4-cheap-example-2",
+    "id": "peng4-cheap-example-2",
+    "text": "佢喺珠寶店買咗條好平嘅項鏈。"
+  },
+  {
+    "filename": "peng4-cheap-example-3",
+    "id": "peng4-cheap-example-3",
+    "text": "呢粒石唔平，應該係真嘅。"
+  },
+  {
+    "filename": "peng4-cheap-example-4",
+    "id": "peng4-cheap-example-4",
+    "text": "如果你想平啲，可以等折扣。"
+  },
+  {
+    "filename": "sau2biu1-watch",
+    "id": "sau2biu1-watch",
+    "text": "手錶"
+  },
+  {
+    "filename": "sau2biu1-watch-example-1",
+    "id": "sau2biu1-watch-example-1",
+    "text": "我今日帶咗隻手錶出街。"
+  },
+  {
+    "filename": "sau2biu1-watch-example-2",
+    "id": "sau2biu1-watch-example-2",
+    "text": "你隻手錶幾靚喎。"
+  },
+  {
+    "filename": "sau2biu1-watch-example-3",
+    "id": "sau2biu1-watch-example-3",
+    "text": "佢而家睇緊手錶。"
+  },
+  {
+    "filename": "sau2biu1-watch-example-4",
+    "id": "sau2biu1-watch-example-4",
+    "text": "我想買一隻新手錶送畀爸爸。"
+  },
+  {
+    "filename": "sau2cyun3-bracelet",
+    "id": "sau2cyun3-bracelet",
+    "text": "手串"
+  },
+  {
+    "filename": "sau2cyun3-bracelet-example-1",
+    "id": "sau2cyun3-bracelet-example-1",
+    "text": "呢條手串幾靚呀。"
+  },
+  {
+    "filename": "sau2cyun3-bracelet-example-2",
+    "id": "sau2cyun3-bracelet-example-2",
+    "text": "我想買一條黑曜石手串。"
+  },
+  {
+    "filename": "sau2cyun3-bracelet-example-3",
+    "id": "sau2cyun3-bracelet-example-3",
+    "text": "佢成日都戴住呢串手串。"
+  },
+  {
+    "filename": "sau2cyun3-bracelet-example-4",
+    "id": "sau2cyun3-bracelet-example-4",
+    "text": "送手串做生日禮物幾好。"
+  },
+  {
+    "filename": "sau2lin2-bracelet-chain",
+    "id": "sau2lin2-bracelet-chain",
+    "text": "手鏈"
+  },
+  {
+    "filename": "sau2lin2-bracelet-chain-example-1",
+    "id": "sau2lin2-bracelet-chain-example-1",
+    "text": "呢條手鏈幾靚呀。"
+  },
+  {
+    "filename": "sau2lin2-bracelet-chain-example-2",
+    "id": "sau2lin2-bracelet-chain-example-2",
+    "text": "我想買一條銀手鏈送畀阿媽。"
+  },
+  {
+    "filename": "sau2lin2-bracelet-chain-example-3",
+    "id": "sau2lin2-bracelet-chain-example-3",
+    "text": "佢成日戴住嗰條手鏈。"
+  },
+  {
+    "filename": "sau2lin2-bracelet-chain-example-4",
+    "id": "sau2lin2-bracelet-chain-example-4",
+    "text": "呢隻手鏈啱唔啱你呀？"
+  },
+  {
+    "filename": "sau2sik1-jewellery",
+    "id": "sau2sik1-jewellery",
+    "text": "首飾"
+  },
+  {
+    "filename": "sau2sik1-jewellery-example-1",
+    "id": "sau2sik1-jewellery-example-1",
+    "text": "呢間舖頭嘅首飾款式好多。"
+  },
+  {
+    "filename": "sau2sik1-jewellery-example-2",
+    "id": "sau2sik1-jewellery-example-2",
+    "text": "阿媽最鍾意戴金首飾。"
+  },
+  {
+    "filename": "sau2sik1-jewellery-example-3",
+    "id": "sau2sik1-jewellery-example-3",
+    "text": "佢生日，我送咗件首飾畀佢。"
+  },
+  {
+    "filename": "sau2sik1-jewellery-example-4",
+    "id": "sau2sik1-jewellery-example-4",
+    "text": "呢啲首飾好襯你套衫。"
+  },
+  {
+    "filename": "sau2zuk6-bangle",
+    "id": "sau2zuk6-bangle",
+    "text": "手鐲"
+  },
+  {
+    "filename": "sau2zuk6-bangle-example-1",
+    "id": "sau2zuk6-bangle-example-1",
+    "text": "呢隻手鐲幾靚。"
+  },
+  {
+    "filename": "sau2zuk6-bangle-example-2",
+    "id": "sau2zuk6-bangle-example-2",
+    "text": "佢買咗一隻金手鐲送畀阿媽。"
+  },
+  {
+    "filename": "sau2zuk6-bangle-example-3",
+    "id": "sau2zuk6-bangle-example-3",
+    "text": "我想睇吓呢隻玉手鐲。"
+  },
+  {
+    "filename": "sau2zuk6-bangle-example-4",
+    "id": "sau2zuk6-bangle-example-4",
+    "text": "細個嗰陣，婆婆成日戴住隻手鐲。"
+  },
+  {
+    "filename": "sek6lau4sek6-garnet",
+    "id": "sek6lau4sek6-garnet",
+    "text": "石榴石"
+  },
+  {
+    "filename": "sek6lau4sek6-garnet-example-1",
+    "id": "sek6lau4sek6-garnet-example-1",
+    "text": "呢粒石榴石好紅，好靚。"
+  },
+  {
+    "filename": "sek6lau4sek6-garnet-example-2",
+    "id": "sek6lau4sek6-garnet-example-2",
+    "text": "佢買咗一條石榴石頸鏈。"
+  },
+  {
+    "filename": "sek6lau4sek6-garnet-example-3",
+    "id": "sek6lau4sek6-garnet-example-3",
+    "text": "呢隻戒指鑲咗石榴石。"
+  },
+  {
+    "filename": "sek6lau4sek6-garnet-example-4",
+    "id": "sek6lau4sek6-garnet-example-4",
+    "text": "石榴石喺天然寶石入面都幾常見。"
+  },
+  {
+    "filename": "seoi2zing1-crystal",
+    "id": "seoi2zing1-crystal",
+    "text": "水晶"
+  },
+  {
+    "filename": "seoi2zing1-crystal-example-1",
+    "id": "seoi2zing1-crystal-example-1",
+    "text": "呢串水晶好靚。"
+  },
+  {
+    "filename": "seoi2zing1-crystal-example-2",
+    "id": "seoi2zing1-crystal-example-2",
+    "text": "佢買咗一粒水晶擺喺書枱。"
+  },
+  {
+    "filename": "seoi2zing1-crystal-example-3",
+    "id": "seoi2zing1-crystal-example-3",
+    "text": "我哋去睇下水晶店先。"
+  },
+  {
+    "filename": "seoi2zing1-crystal-example-4",
+    "id": "seoi2zing1-crystal-example-4",
+    "text": "呢條項鏈係用水晶做嘅。"
+  },
+  {
+    "filename": "sik1hap6-fit",
+    "id": "sik1hap6-fit",
+    "text": "適合"
+  },
+  {
+    "filename": "sik1hap6-fit-example-1",
+    "id": "sik1hap6-fit-example-1",
+    "text": "呢隻戒指好適合你。"
+  },
+  {
+    "filename": "sik1hap6-fit-example-2",
+    "id": "sik1hap6-fit-example-2",
+    "text": "呢條頸鏈唔適合返工戴。"
+  },
+  {
+    "filename": "sik1hap6-fit-example-3",
+    "id": "sik1hap6-fit-example-3",
+    "text": "佢覺得呢粒寶石最適合送畀媽媽。"
+  },
+  {
+    "filename": "sik1hap6-fit-example-4",
+    "id": "sik1hap6-fit-example-4",
+    "text": "如果你鍾意簡約風，呢款耳環會幾適合。"
+  },
+  {
+    "filename": "tau4zam1-hairpin",
+    "id": "tau4zam1-hairpin",
+    "text": "頭針"
+  },
+  {
+    "filename": "tau4zam1-hairpin-example-1",
+    "id": "tau4zam1-hairpin-example-1",
+    "text": "佢今日戴咗支頭針，成個髮型都好靚。"
+  },
+  {
+    "filename": "tau4zam1-hairpin-example-2",
+    "id": "tau4zam1-hairpin-example-2",
+    "text": "呢支頭針係阿媽送畀我嘅。"
+  },
+  {
+    "filename": "tau4zam1-hairpin-example-3",
+    "id": "tau4zam1-hairpin-example-3",
+    "text": "返工前，我會插好頭針先出門。"
+  },
+  {
+    "filename": "tau4zam1-hairpin-example-4",
+    "id": "tau4zam1-hairpin-example-4",
+    "text": "佢喺婚禮上用咗一支好精緻嘅頭針。"
+  },
+  {
+    "filename": "tok3-setting",
+    "id": "tok3-setting",
+    "text": "托"
+  },
+  {
+    "filename": "tok3-setting-example-1",
+    "id": "tok3-setting-example-1",
+    "text": "呢隻戒指個托做得好精緻。"
+  },
+  {
+    "filename": "tok3-setting-example-2",
+    "id": "tok3-setting-example-2",
+    "text": "佢幫我換咗粒鑽石個托。"
+  },
+  {
+    "filename": "tok3-setting-example-3",
+    "id": "tok3-setting-example-3",
+    "text": "呢個托太鬆，粒石好易甩。"
+  },
+  {
+    "filename": "tok3-setting-example-4",
+    "id": "tok3-setting-example-4",
+    "text": "金舖通常會先睇托，再睇石。"
+  },
+  {
+    "filename": "tung4-copper",
+    "id": "tung4-copper",
+    "text": "銅"
+  },
+  {
+    "filename": "tung4-copper-example-1",
+    "id": "tung4-copper-example-1",
+    "text": "呢條電線係銅線。"
+  },
+  {
+    "filename": "tung4-copper-example-2",
+    "id": "tung4-copper-example-2",
+    "text": "佢買咗一個銅製嘅香爐。"
+  },
+  {
+    "filename": "tung4-copper-example-3",
+    "id": "tung4-copper-example-3",
+    "text": "呢隻錶殼用銅做。"
+  },
+  {
+    "filename": "tung4-copper-example-4",
+    "id": "tung4-copper-example-4",
+    "text": "銅價最近升咗。"
+  },
+  {
+    "filename": "zan1-genuine",
+    "id": "zan1-genuine",
+    "text": "真"
+  },
+  {
+    "filename": "zan1-genuine-example-1",
+    "id": "zan1-genuine-example-1",
+    "text": "呢條鏈係真金嚟㗎。"
+  },
+  {
+    "filename": "zan1-genuine-example-2",
+    "id": "zan1-genuine-example-2",
+    "text": "佢話呢粒石係真嘅。"
+  },
+  {
+    "filename": "zan1-genuine-example-3",
+    "id": "zan1-genuine-example-3",
+    "text": "我想買真銀耳環。"
+  },
+  {
+    "filename": "zan1-genuine-example-4",
+    "id": "zan1-genuine-example-4",
+    "text": "呢隻表係真貨，唔係仿製品。"
+  },
+  {
+    "filename": "zan1zyu1-pearl",
+    "id": "zan1zyu1-pearl",
+    "text": "珍珠"
+  },
+  {
+    "filename": "zan1zyu1-pearl-example-1",
+    "id": "zan1zyu1-pearl-example-1",
+    "text": "呢條珍珠項鏈好靚。"
+  },
+  {
+    "filename": "zan1zyu1-pearl-example-2",
+    "id": "zan1zyu1-pearl-example-2",
+    "text": "佢送咗一對珍珠耳環畀媽媽。"
+  },
+  {
+    "filename": "zan1zyu1-pearl-example-3",
+    "id": "zan1zyu1-pearl-example-3",
+    "text": "呢粒珍珠好圓。"
+  },
+  {
+    "filename": "zan1zyu1-pearl-example-4",
+    "id": "zan1zyu1-pearl-example-4",
+    "text": "珍珠有時會被用嚟做首飾。"
+  },
+  {
+    "filename": "zan1zyu1geng2lin2-pearl-necklace",
+    "id": "zan1zyu1geng2lin2-pearl-necklace",
+    "text": "珍珠頸鏈"
+  },
+  {
+    "filename": "zan1zyu1geng2lin2-pearl-necklace-example-1",
+    "id": "zan1zyu1geng2lin2-pearl-necklace-example-1",
+    "text": "我想買條珍珠頸鏈送畀阿媽。"
+  },
+  {
+    "filename": "zan1zyu1geng2lin2-pearl-necklace-example-2",
+    "id": "zan1zyu1geng2lin2-pearl-necklace-example-2",
+    "text": "呢條珍珠頸鏈幾襯件衫。"
+  },
+  {
+    "filename": "zan1zyu1geng2lin2-pearl-necklace-example-3",
+    "id": "zan1zyu1geng2lin2-pearl-necklace-example-3",
+    "text": "佢結婚嗰陣戴咗條珍珠頸鏈。"
+  },
+  {
+    "filename": "zan1zyu1geng2lin2-pearl-necklace-example-4",
+    "id": "zan1zyu1geng2lin2-pearl-necklace-example-4",
+    "text": "珍珠頸鏈要小心收好，唔好整爛。"
+  },
+  {
+    "filename": "zau6hau2nau2-cufflink",
+    "id": "zau6hau2nau2-cufflink",
+    "text": "袖口鈕"
+  },
+  {
+    "filename": "zau6hau2nau2-cufflink-example-1",
+    "id": "zau6hau2nau2-cufflink-example-1",
+    "text": "呢對袖口鈕幾靚，襯你件西裝好啱。"
+  },
+  {
+    "filename": "zau6hau2nau2-cufflink-example-2",
+    "id": "zau6hau2nau2-cufflink-example-2",
+    "text": "我想買一對銀色袖口鈕送畀爸爸。"
+  },
+  {
+    "filename": "zau6hau2nau2-cufflink-example-3",
+    "id": "zau6hau2nau2-cufflink-example-3",
+    "text": "著正裝嘅時候，記得扣好袖口鈕。"
+  },
+  {
+    "filename": "zau6hau2nau2-cufflink-example-4",
+    "id": "zau6hau2nau2-cufflink-example-4",
+    "text": "佢間舖頭有好多男士飾物，包括袖口鈕。"
+  },
+  {
+    "filename": "zi2seoi2zing1-amethyst",
+    "id": "zi2seoi2zing1-amethyst",
+    "text": "紫水晶"
+  },
+  {
+    "filename": "zi2seoi2zing1-amethyst-example-1",
+    "id": "zi2seoi2zing1-amethyst-example-1",
+    "text": "呢條頸鏈係紫水晶做嘅。"
+  },
+  {
+    "filename": "zi2seoi2zing1-amethyst-example-2",
+    "id": "zi2seoi2zing1-amethyst-example-2",
+    "text": "佢好鍾意收集紫水晶。"
+  },
+  {
+    "filename": "zi2seoi2zing1-amethyst-example-3",
+    "id": "zi2seoi2zing1-amethyst-example-3",
+    "text": "我想買粒紫水晶戒指。"
+  },
+  {
+    "filename": "zi2seoi2zing1-amethyst-example-4",
+    "id": "zi2seoi2zing1-amethyst-example-4",
+    "text": "呢塊紫水晶睇落好靚。"
+  },
+  {
+    "filename": "zing3syu1-certificate",
+    "id": "zing3syu1-certificate",
+    "text": "證書"
+  },
+  {
+    "filename": "zing3syu1-certificate-example-1",
+    "id": "zing3syu1-certificate-example-1",
+    "text": "呢粒鑽石有證書。"
+  },
+  {
+    "filename": "zing3syu1-certificate-example-2",
+    "id": "zing3syu1-certificate-example-2",
+    "text": "買金飾最好睇吓有冇證書。"
+  },
+  {
+    "filename": "zing3syu1-certificate-example-3",
+    "id": "zing3syu1-certificate-example-3",
+    "text": "佢攞咗畢業證書。"
+  },
+  {
+    "filename": "zing3syu1-certificate-example-4",
+    "id": "zing3syu1-certificate-example-4",
+    "text": "店員話呢隻珍珠手鏈附有證書。"
+  },
+  {
+    "filename": "zyun3sek6-diamond",
+    "id": "zyun3sek6-diamond",
+    "text": "鑽石"
+  },
+  {
+    "filename": "zyun3sek6-diamond-example-1",
+    "id": "zyun3sek6-diamond-example-1",
+    "text": "呢隻鑽石戒指好閃。"
+  },
+  {
+    "filename": "zyun3sek6-diamond-example-2",
+    "id": "zyun3sek6-diamond-example-2",
+    "text": "佢買咗一粒鑽石送畀女朋友。"
+  },
+  {
+    "filename": "zyun3sek6-diamond-example-3",
+    "id": "zyun3sek6-diamond-example-3",
+    "text": "呢間舖啲鑽石款式好多。"
+  },
+  {
+    "filename": "zyun3sek6-diamond-example-4",
+    "id": "zyun3sek6-diamond-example-4",
+    "text": "鑽石通常都好貴。"
+  },
+  {
+    "filename": "zyun3sek6ji5waan4-diamond-earrings",
+    "id": "zyun3sek6ji5waan4-diamond-earrings",
+    "text": "鑽石耳環"
+  },
+  {
+    "filename": "zyun3sek6ji5waan4-diamond-earrings-example-1",
+    "id": "zyun3sek6ji5waan4-diamond-earrings-example-1",
+    "text": "佢今日戴咗一對鑽石耳環。"
+  },
+  {
+    "filename": "zyun3sek6ji5waan4-diamond-earrings-example-2",
+    "id": "zyun3sek6ji5waan4-diamond-earrings-example-2",
+    "text": "呢對鑽石耳環好閃呀。"
+  },
+  {
+    "filename": "zyun3sek6ji5waan4-diamond-earrings-example-3",
+    "id": "zyun3sek6ji5waan4-diamond-earrings-example-3",
+    "text": "我想買一對鑽石耳環送畀媽媽。"
+  },
+  {
+    "filename": "zyun3sek6ji5waan4-diamond-earrings-example-4",
+    "id": "zyun3sek6ji5waan4-diamond-earrings-example-4",
+    "text": "呢間舖有好多鑽石耳環款式。"
   }
 ]
