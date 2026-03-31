@@ -21,7 +21,6 @@
       { "id": "guk1faa1-chrysanthemum", "word": "菊花", "jyutping": "guk1 faa1", "meaning": "chrysanthemum" },
       { "id": "lin4faa1-lotus", "word": "蓮花", "jyutping": "lin4 faa1", "meaning": "lotus" },
       { "id": "hoeng3jat6kwai4-sunflower", "word": "向日葵", "jyutping": "hoeng3 jat6 kwai4", "meaning": "sunflower" },
-      { "id": "coi3faa1-cauliflower", "word": "菜花", "jyutping": "coi3 faa1", "meaning": "cauliflower" },
       { "id": "cing1toi4-moss", "word": "青苔", "jyutping": "cing1 toi4", "meaning": "moss" },
       { "id": "tang4-vine", "word": "藤", "jyutping": "tang4", "meaning": "vine" }
     ],
@@ -91,8 +90,8 @@
       { "id": "faa1pun4-flowerpot", "word": "花盆", "jyutping": "faa1 pun4", "meaning": "flowerpot" },
       { "id": "tou2joeng6-soil", "word": "土壤", "jyutping": "tou2 joeng6", "meaning": "soil" },
       { "id": "fei4liu6-fertilizer", "word": "肥料", "jyutping": "fei4 liu6", "meaning": "fertilizer" },
-      { "id": "zin2dou1-shears", "word": "剪刀", "jyutping": "zin2 dou1", "meaning": "scissors; shears" },
-      { "id": "seoi2wu4-watering-can", "word": "水壺", "jyutping": "seoi2 wu4", "meaning": "watering can; water jug" }
+      { "id": "zin2dou1-shears", "word": "剪刀", "jyutping": "zin2 dou1", "meaning": "shears" },
+      { "id": "seoi2wu4-watering-can", "word": "水壺", "jyutping": "seoi2 wu4", "meaning": "watering can" }
     ]
   }
 }
