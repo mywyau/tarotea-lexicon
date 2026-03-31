@@ -20,6 +20,7 @@ def generate_audio(text: str, output_path: Path, word_id:str):
             "Speak in natural Hong Kong Cantonese. "
             "Use native Hong Kong Cantonese pronunciation and intonation. "
             "Read only the text exactly as written. "
+            "Do not read in Mandarin"
             "Do not translate. "
             "Do not add extra words. "
             "Keep the delivery clear, steady, and slightly careful."
