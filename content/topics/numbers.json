@@ -54,16 +54,16 @@
     ],
 
     "decimals": [
-        { "id": "dim2-decimal-point", "word": "點", "jyutping": "dim2", "meaning": "decimal point" },
-        { "id": "ling4dim2jat1-0.1", "word": "零點一", "jyutping": "ling4 dim2 jat1", "meaning": "0.1" },
-        { "id": "ling4dim2ji6-0.2", "word": "零點二", "jyutping": "ling4 dim2 ji6", "meaning": "0.2" },
-        { "id": "ling4dim2saam1-0.3", "word": "零點三", "jyutping": "ling4 dim2 saam1", "meaning": "0.3" },
-        { "id": "jat1dim2ng5-1.5", "word": "一點五", "jyutping": "jat1 dim2 ng5", "meaning": "1.5" },
-        { "id": "jat1dim2baat3-1.8", "word": "一點八", "jyutping": "jat1 dim2 baat3", "meaning": "1.8" },
-        { "id": "ji6dim2ling4sam6-2.03", "word": "二點零三", "jyutping": "ji6 dim2 ling4 saam1", "meaning": "2.03" },
-        { "id": "saam1dim2jat1sei3-3.14", "word": "三點一四", "jyutping": "saam1 dim2 jat1 sei3", "meaning": "3.14" },
-        { "id": "sap6dim2ji6-10.2", "word": "十點二", "jyutping": "sap6 dim2 ji6", "meaning": "10.2" },
-        { "id": "ji6sap6dim2ng5-20.5", "word": "二十點五", "jyutping": "ji6 sap6 dim2 ng5", "meaning": "20.5" }
+     { "id": "dim2-decimal-point", "word": "點", "jyutping": "dim2", "meaning": "decimal point" },
+     { "id": "ling4dim2jat1-one-tenth", "word": "零點一", "jyutping": "ling4 dim2 jat1", "meaning": "one tenth" },
+     { "id": "ling4dim2ji6-two-tenths", "word": "零點二", "jyutping": "ling4 dim2 ji6", "meaning": "two tenths" },
+     { "id": "ling4dim2saam1-three-tenths", "word": "零點三", "jyutping": "ling4 dim2 saam1", "meaning": "three tenths" },
+     { "id": "jat1dim2ng5-one-point-five", "word": "一點五", "jyutping": "jat1 dim2 ng5", "meaning": "one point five" },
+     { "id": "jat1dim2baat3-one-point-eight", "word": "一點八", "jyutping": "jat1 dim2 baat3", "meaning": "one point eight" },
+     { "id": "ji6dim2ling4saam1-two-point-zero-three", "word": "二點零三", "jyutping": "ji6 dim2 ling4 saam1", "meaning": "two point zero three" },
+     { "id": "saam1dim2jat1sei3-three-point-one-four", "word": "三點一四", "jyutping": "saam1 dim2 jat1 sei3", "meaning": "three point one four" },
+     { "id": "sap6dim2ji6-ten-point-two", "word": "十點二", "jyutping": "sap6 dim2 ji6", "meaning": "ten point two" },
+     { "id": "ji6sap6dim2ng5-twenty-point-five", "word": "二十點五", "jyutping": "ji6 sap6 dim2 ng5", "meaning": "twenty point five" }
     ]
   }
 }

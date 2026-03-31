@@ -4,48 +4,48 @@
   "description": "Learn common Cantonese onomatopoeic expressions used for sounds, movement, feelings, and vivid everyday descriptions.",
   "categories": {
     "common_sounds": [
-      { "id": "dik1daap3-tick-tock", "word": "滴答", "jyutping": "dik1 daap3", "meaning": "tick-tock / dripping sound" },
-      { "id": "ding1dong1-bell-sound", "word": "叮噹", "jyutping": "ding1 dong1", "meaning": "ding-dong / bell sound" },
-      { "id": "paang1paang1-banging-sound", "word": "砰砰", "jyutping": "paang1 paang1", "meaning": "bang bang / repeated banging sound" },
-      { "id": "lung4lung4-rumbling", "word": "隆隆", "jyutping": "lung4 lung4", "meaning": "rumbling sound" },
-      { "id": "waa1laa1-splashing", "word": "嘩啦", "jyutping": "waa1 laa1", "meaning": "splashing / crashing water sound" },
-      { "id": "ung1ung1-buzzing", "word": "嗡嗡", "jyutping": "ung1 ung1", "meaning": "buzzing sound" }
+      { "id": "dik1daap3-ticking", "word": "滴答", "jyutping": "dik1 daap3", "meaning": "ticking" },
+      { "id": "ding1dong1-bell", "word": "叮噹", "jyutping": "ding1 dong1", "meaning": "bell" },
+      { "id": "paang1paang1-banging", "word": "砰砰", "jyutping": "paang1 paang1", "meaning": "banging" },
+      { "id": "lung4lung4-rumbling", "word": "隆隆", "jyutping": "lung4 lung4", "meaning": "rumbling" },
+      { "id": "waa1laa1-splashing", "word": "嘩啦", "jyutping": "waa1 laa1", "meaning": "splashing" },
+      { "id": "ung1ung1-buzzing", "word": "嗡嗡", "jyutping": "ung1 ung1", "meaning": "buzzing" }
     ],
 
     "animal_and_nature_sounds": [
-      { "id": "wong1wong1-dog-bark", "word": "汪汪", "jyutping": "wong1 wong1", "meaning": "woof woof" },
-      { "id": "miu1miu1-cat-meow", "word": "喵喵", "jyutping": "miu1 miu1", "meaning": "meow meow" },
-      { "id": "gaa1gaa1-crow-caw", "word": "嘎嘎", "jyutping": "gaa1 gaa1", "meaning": "caw caw / quacking-like sound" },
-      { "id": "zik1zik1-chirping", "word": "唧唧", "jyutping": "zik1 zik1", "meaning": "chirping / squeaking sound" },
-      { "id": "fu1fu1-wind-sound", "word": "呼呼", "jyutping": "fu1 fu1", "meaning": "whooshing / wind blowing sound" },
-      { "id": "saa1saa1-rustling", "word": "沙沙", "jyutping": "saa1 saa1", "meaning": "rustling / light rain sound" }
+      { "id": "wong1wong1-barking", "word": "汪汪", "jyutping": "wong1 wong1", "meaning": "barking" },
+      { "id": "miu1miu1-meowing", "word": "喵喵", "jyutping": "miu1 miu1", "meaning": "meowing" },
+      { "id": "gaa1gaa1-cawing", "word": "嘎嘎", "jyutping": "gaa1 gaa1", "meaning": "cawing" },
+      { "id": "zik1zik1-chirping", "word": "唧唧", "jyutping": "zik1 zik1", "meaning": "chirping" },
+      { "id": "fu1fu1-whooshing", "word": "呼呼", "jyutping": "fu1 fu1", "meaning": "whooshing" },
+      { "id": "saa1saa1-rustling", "word": "沙沙", "jyutping": "saa1 saa1", "meaning": "rustling" }
     ],
 
     "feelings_and_body_states": [
-      { "id": "sam1buk1buk1-heart-pounding", "word": "心卜卜", "jyutping": "sam1 buk1 buk1", "meaning": "heart pounding / nervous" },
-      { "id": "jit6laat6laat6-piping-hot", "word": "熱辣辣", "jyutping": "jit6 laat6 laat6", "meaning": "piping hot / burning hot" },
-      { "id": "dung3bing1bing1-icy-cold", "word": "凍冰冰", "jyutping": "dung3 bing1 bing1", "meaning": "icy cold" },
-      { "id": "jyun5m4laap6-soft-and-mushy", "word": "軟腍腍", "jyutping": "jyun5 nam4 nam4", "meaning": "soft and mushy" },
-      { "id": "laap6laap6-sticky", "word": "笠笠", "jyutping": "lap1 lap1", "meaning": "sticky / tacky" },
-      { "id": "sap1tap1tap1-soaking-wet", "word": "濕笠笠", "jyutping": "sap1 lap1 lap1", "meaning": "very wet / soggy" }
+      { "id": "sam1buk1buk1-nervous", "word": "心卜卜", "jyutping": "sam1 buk1 buk1", "meaning": "nervous" },
+      { "id": "jit6laat6laat6-hot", "word": "熱辣辣", "jyutping": "jit6 laat6 laat6", "meaning": "hot" },
+      { "id": "dung3bing1bing1-freezing", "word": "凍冰冰", "jyutping": "dung3 bing1 bing1", "meaning": "freezing" },
+      { "id": "jyun5nam4nam4-mushy", "word": "軟腍腍", "jyutping": "jyun5 nam4 nam4", "meaning": "mushy" },
+      { "id": "lap1lap1-sticky", "word": "笠笠", "jyutping": "lap1 lap1", "meaning": "sticky" },
+      { "id": "sap1lap1lap1-soggy", "word": "濕笠笠", "jyutping": "sap1 lap1 lap1", "meaning": "soggy" }
     ],
 
     "texture_and_appearance": [
-      { "id": "waat6lyut3lyut3-smooth", "word": "滑捋捋", "jyutping": "waat6 lyut3 lyut3", "meaning": "very smooth / slippery" },
-      { "id": "gon1baang1baang1-bone-dry", "word": "乾崩崩", "jyutping": "gon1 bang1 bang1", "meaning": "very dry / hard" },
-      { "id": "zing1zing1-sparkling", "word": "晶晶", "jyutping": "zing1 zing1", "meaning": "sparkling / glittering" },
-      { "id": "baak6caat3caat3-pale-white", "word": "白刷刷", "jyutping": "baak6 caat3 caat3", "meaning": "pale white / stark white" },
-      { "id": "hak1mou4mou4-pitch-black", "word": "黑漆漆", "jyutping": "hak1 cat1 cat1", "meaning": "pitch black" },
-      { "id": "gung6gung6-gleaming", "word": "光光", "jyutping": "gwong1 gwong1", "meaning": "bright / gleaming" }
+      { "id": "waat6lyut3lyut3-slippery", "word": "滑捋捋", "jyutping": "waat6 lyut3 lyut3", "meaning": "slippery" },
+      { "id": "gon1bang1bang1-dry", "word": "乾崩崩", "jyutping": "gon1 bang1 bang1", "meaning": "dry" },
+      { "id": "zing1zing1-sparkling", "word": "晶晶", "jyutping": "zing1 zing1", "meaning": "sparkling" },
+      { "id": "baak6caat3caat3-pale", "word": "白刷刷", "jyutping": "baak6 caat3 caat3", "meaning": "pale" },
+      { "id": "hak1cat1cat1-dark", "word": "黑漆漆", "jyutping": "hak1 cat1 cat1", "meaning": "dark" },
+      { "id": "gwong1gwong1-bright", "word": "光光", "jyutping": "gwong1 gwong1", "meaning": "bright" }
     ],
 
     "movement_and_activity": [
-      { "id": "gwan2gwan2-rolling", "word": "滾滾", "jyutping": "gwan2 gwan2", "meaning": "rolling / surging" },
-      { "id": "jiu4jiu4-swaying", "word": "搖搖", "jyutping": "jiu4 jiu4", "meaning": "swaying / rocking" },
-      { "id": "tiu3tiu3-bouncing", "word": "跳跳", "jyutping": "tiu3 tiu3", "meaning": "jumping / bouncing repeatedly" },
-      { "id": "cung1cung1-rushing", "word": "衝衝", "jyutping": "cung1 cung1", "meaning": "rushing / charging quickly" },
-      { "id": "fei1fei1-fluttering", "word": "飛飛", "jyutping": "fei1 fei1", "meaning": "fluttering / flying about" },
-      { "id": "laap6taap3taap3-messy-clumped", "word": "笠搭搭", "jyutping": "lap1 daap3 daap3", "meaning": "messy / clumped together" }
+      { "id": "gwan2gwan2-rolling", "word": "滾滾", "jyutping": "gwan2 gwan2", "meaning": "rolling" },
+      { "id": "jiu4jiu4-swaying", "word": "搖搖", "jyutping": "jiu4 jiu4", "meaning": "swaying" },
+      { "id": "tiu3tiu3-bouncing", "word": "跳跳", "jyutping": "tiu3 tiu3", "meaning": "bouncing" },
+      { "id": "cung1cung1-rushing", "word": "衝衝", "jyutping": "cung1 cung1", "meaning": "rushing" },
+      { "id": "fei1fei1-fluttering", "word": "飛飛", "jyutping": "fei1 fei1", "meaning": "fluttering" },
+      { "id": "lap1daap3daap3-clumped", "word": "笠搭搭", "jyutping": "lap1 daap3 daap3", "meaning": "clumped" }
     ]
   }
 }
