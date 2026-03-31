@@ -1,752 +1,1727 @@
 [
   {
-    "filename": "baau3hung4-go-viral",
-    "id": "baau3hung4-go-viral",
-    "text": "爆紅"
+    "filename": "bat6cou2-pull-weeds",
+    "id": "bat6cou2-pull-weeds",
+    "text": "拔草"
   },
   {
-    "filename": "baau3hung4-go-viral-example-1",
-    "id": "baau3hung4-go-viral-example-1",
-    "text": "佢條片喺幾日內就爆紅咗。"
+    "filename": "bat6cou2-pull-weeds-example-1",
+    "id": "bat6cou2-pull-weeds-example-1",
+    "text": "我今日要去後園拔草。"
   },
   {
-    "filename": "baau3hung4-go-viral-example-2",
-    "id": "baau3hung4-go-viral-example-2",
-    "text": "呢個新品牌因為廣告夠搞笑而爆紅。"
+    "filename": "bat6cou2-pull-weeds-example-2",
+    "id": "bat6cou2-pull-weeds-example-2",
+    "text": "雨後啲草生得好快，我成日都要拔草。"
   },
   {
-    "filename": "baau3hung4-go-viral-example-3",
-    "id": "baau3hung4-go-viral-example-3",
-    "text": "個網紅一夜之間爆紅，大家都識佢。"
+    "filename": "bat6cou2-pull-weeds-example-3",
+    "id": "bat6cou2-pull-weeds-example-3",
+    "text": "阿媽叫我幫手拔草，順便鬆下泥。"
   },
   {
-    "filename": "baau3hung4-go-viral-example-4",
-    "id": "baau3hung4-go-viral-example-4",
-    "text": "呢首歌上星期突然爆紅，成班人都識唱。"
+    "filename": "bat6cou2-pull-weeds-example-4",
+    "id": "bat6cou2-pull-weeds-example-4",
+    "text": "天氣唔太熱，我哋下晝去公園旁邊拔草。"
   },
   {
-    "filename": "bou3dou6-report",
-    "id": "bou3dou6-report",
-    "text": "報導"
+    "filename": "bin3wong4-turn-yellow",
+    "id": "bin3wong4-turn-yellow",
+    "text": "變黃"
   },
   {
-    "filename": "bou3dou6-report-example-1",
-    "id": "bou3dou6-report-example-1",
-    "text": "呢份報導寫得好清楚。"
+    "filename": "bin3wong4-turn-yellow-example-1",
+    "id": "bin3wong4-turn-yellow-example-1",
+    "text": "啲葉開始變黃，可能係水太多。"
   },
   {
-    "filename": "bou3dou6-report-example-2",
-    "id": "bou3dou6-report-example-2",
-    "text": "新聞報導話今晚會落雨。"
+    "filename": "bin3wong4-turn-yellow-example-2",
+    "id": "bin3wong4-turn-yellow-example-2",
+    "text": "呢盆花嘅葉點解變黃咗？"
   },
   {
-    "filename": "bou3dou6-report-example-3",
-    "id": "bou3dou6-report-example-3",
-    "text": "我睇過電視報導先知件事。"
+    "filename": "bin3wong4-turn-yellow-example-3",
+    "id": "bin3wong4-turn-yellow-example-3",
+    "text": "如果泥土太乾，枝葉都可能會變黃。"
   },
   {
-    "filename": "bou3dou6-report-example-4",
-    "id": "bou3dou6-report-example-4",
-    "text": "呢篇報導有好多資料。"
+    "filename": "bin3wong4-turn-yellow-example-4",
+    "id": "bin3wong4-turn-yellow-example-4",
+    "text": "佢種嘅番茄葉變黃，應該要檢查下肥料。"
   },
   {
-    "filename": "bou3zi2-newspaper",
-    "id": "bou3zi2-newspaper",
-    "text": "報紙"
+    "filename": "bo3zung2-sow-seeds",
+    "id": "bo3zung2-sow-seeds",
+    "text": "播種"
   },
   {
-    "filename": "bou3zi2-newspaper-example-1",
-    "id": "bou3zi2-newspaper-example-1",
-    "text": "我每日早上都會買一份報紙。"
+    "filename": "bo3zung2-sow-seeds-example-1",
+    "id": "bo3zung2-sow-seeds-example-1",
+    "text": "我哋喺春天播種。"
   },
   {
-    "filename": "bou3zi2-newspaper-example-2",
-    "id": "bou3zi2-newspaper-example-2",
-    "text": "阿爸喺茶餐廳睇報紙。"
+    "filename": "bo3zung2-sow-seeds-example-2",
+    "id": "bo3zung2-sow-seeds-example-2",
+    "text": "佢喺花盆入面播種。"
   },
   {
-    "filename": "bou3zi2-newspaper-example-3",
-    "id": "bou3zi2-newspaper-example-3",
-    "text": "呢份報紙頭版報導咗個大新聞。"
+    "filename": "bo3zung2-sow-seeds-example-3",
+    "id": "bo3zung2-sow-seeds-example-3",
+    "text": "老師教小朋友點樣播種。"
   },
   {
-    "filename": "bou3zi2-newspaper-example-4",
-    "id": "bou3zi2-newspaper-example-4",
-    "text": "你可唔可以幫我攞份報紙？"
+    "filename": "bo3zung2-sow-seeds-example-4",
+    "id": "bo3zung2-sow-seeds-example-4",
+    "text": "如果想種菜，就要先播種。"
   },
   {
-    "filename": "cing4fong3-situation",
-    "id": "cing4fong3-situation",
-    "text": "情況"
+    "filename": "cing1-greenish",
+    "id": "cing1-greenish",
+    "text": "青"
   },
   {
-    "filename": "cing4fong3-situation-example-1",
-    "id": "cing4fong3-situation-example-1",
-    "text": "而家情況好似有啲麻煩。"
+    "filename": "cing1-greenish-example-1",
+    "id": "cing1-greenish-example-1",
+    "text": "呢盆植物嘅葉好青。"
   },
   {
-    "filename": "cing4fong3-situation-example-2",
-    "id": "cing4fong3-situation-example-2",
-    "text": "我哋要睇情況再決定。"
+    "filename": "cing1-greenish-example-2",
+    "id": "cing1-greenish-example-2",
+    "text": "佢塊面有少少青。"
   },
   {
-    "filename": "cing4fong3-situation-example-3",
-    "id": "cing4fong3-situation-example-3",
-    "text": "醫生話佢嘅情況已經穩定咗。"
+    "filename": "cing1-greenish-example-3",
+    "id": "cing1-greenish-example-3",
+    "text": "雨後條草地睇落好青。"
   },
   {
-    "filename": "cing4fong3-situation-example-4",
-    "id": "cing4fong3-situation-example-4",
-    "text": "根據天氣情況，今日可能會落雨。"
+    "filename": "cing1-greenish-example-4",
+    "id": "cing1-greenish-example-4",
+    "text": "呢啲青瓜仲好新鮮。"
   },
   {
-    "filename": "din6si6-television",
-    "id": "din6si6-television",
-    "text": "電視"
+    "filename": "cing1toi4-moss",
+    "id": "cing1toi4-moss",
+    "text": "青苔"
   },
   {
-    "filename": "din6si6-television-example-1",
-    "id": "din6si6-television-example-1",
-    "text": "我夜晚通常喺屋企睇電視。"
+    "filename": "cing1toi4-moss-example-1",
+    "id": "cing1toi4-moss-example-1",
+    "text": "石牆上面長滿咗青苔。"
   },
   {
-    "filename": "din6si6-television-example-2",
-    "id": "din6si6-television-example-2",
-    "text": "你可唔可以開電視？"
+    "filename": "cing1toi4-moss-example-2",
+    "id": "cing1toi4-moss-example-2",
+    "text": "屋後個花盆底有好多青苔。"
   },
   {
-    "filename": "din6si6-television-example-3",
-    "id": "din6si6-television-example-3",
-    "text": "呢部電視畫面好清晰。"
+    "filename": "cing1toi4-moss-example-3",
+    "id": "cing1toi4-moss-example-3",
+    "text": "雨天之後，樓梯好容易生青苔。"
   },
   {
-    "filename": "din6si6-television-example-4",
-    "id": "din6si6-television-example-4",
-    "text": "我細個成日同阿爸阿媽一齊睇電視。"
+    "filename": "cing1toi4-moss-example-4",
+    "id": "cing1toi4-moss-example-4",
+    "text": "佢用刷仔刷走咗地磚上面嘅青苔。"
   },
   {
-    "filename": "din6si6san1man4-tv-news",
-    "id": "din6si6san1man4-tv-news",
-    "text": "電視新聞"
+    "filename": "coi3-greens",
+    "id": "coi3-greens",
+    "text": "菜"
   },
   {
-    "filename": "din6si6san1man4-tv-news-example-1",
-    "id": "din6si6san1man4-tv-news-example-1",
-    "text": "我今晚想睇電視新聞。"
+    "filename": "coi3-greens-example-1",
+    "id": "coi3-greens-example-1",
+    "text": "我今晚想食多啲菜。"
   },
   {
-    "filename": "din6si6san1man4-tv-news-example-2",
-    "id": "din6si6san1man4-tv-news-example-2",
-    "text": "佢每日都會準時收睇電視新聞。"
+    "filename": "coi3-greens-example-2",
+    "id": "coi3-greens-example-2",
+    "text": "呢棵菜好新鮮。"
   },
   {
-    "filename": "din6si6san1man4-tv-news-example-3",
-    "id": "din6si6san1man4-tv-news-example-3",
-    "text": "電視新聞講咗今日嘅天氣同交通情況。"
+    "filename": "coi3-greens-example-3",
+    "id": "coi3-greens-example-3",
+    "text": "媽媽喺街市買咗好多菜。"
   },
   {
-    "filename": "din6si6san1man4-tv-news-example-4",
-    "id": "din6si6san1man4-tv-news-example-4",
-    "text": "屋企人食飯嗰陣通常會開住電視新聞。"
+    "filename": "coi3-greens-example-4",
+    "id": "coi3-greens-example-4",
+    "text": "你記得洗菜先煮。"
   },
   {
-    "filename": "faai3seon3-news-flash",
-    "id": "faai3seon3-news-flash",
-    "text": "快訊"
+    "filename": "cou2-grass",
+    "id": "cou2-grass",
+    "text": "草"
   },
   {
-    "filename": "faai3seon3-news-flash-example-1",
-    "id": "faai3seon3-news-flash-example-1",
-    "text": "電視台而家出咗一則快訊，話天文台掛咗八號風球。"
+    "filename": "cou2-grass-example-1",
+    "id": "cou2-grass-example-1",
+    "text": "公園入面啲草幾高。"
   },
   {
-    "filename": "faai3seon3-news-flash-example-2",
-    "id": "faai3seon3-news-flash-example-2",
-    "text": "手機一彈出快訊，我即刻知有大事發生。"
+    "filename": "cou2-grass-example-2",
+    "id": "cou2-grass-example-2",
+    "text": "屋企後面有一片草地。"
   },
   {
-    "filename": "faai3seon3-news-flash-example-3",
-    "id": "faai3seon3-news-flash-example-3",
-    "text": "新聞App啱啱推送咗一條快訊，係關於交通意外。"
+    "filename": "cou2-grass-example-3",
+    "id": "cou2-grass-example-3",
+    "text": "落完雨，啲草好濕。"
   },
   {
-    "filename": "faai3seon3-news-flash-example-4",
-    "id": "faai3seon3-news-flash-example-4",
-    "text": "呢段快訊好短，只講咗地震最新情況。"
+    "filename": "cou2-grass-example-4",
+    "id": "cou2-grass-example-4",
+    "text": "呢隻羊成日食草。"
   },
   {
-    "filename": "fan1heung2-share",
-    "id": "fan1heung2-share",
-    "text": "分享"
+    "filename": "cung4syu6-pine-tree",
+    "id": "cung4syu6-pine-tree",
+    "text": "松樹"
   },
   {
-    "filename": "fan1heung2-share-example-1",
-    "id": "fan1heung2-share-example-1",
-    "text": "我喺IG分享咗啲旅行相。"
+    "filename": "cung4syu6-pine-tree-example-1",
+    "id": "cung4syu6-pine-tree-example-1",
+    "text": "山上有好多松樹。"
   },
   {
-    "filename": "fan1heung2-share-example-2",
-    "id": "fan1heung2-share-example-2",
-    "text": "呢篇文章有好多有用分享。"
+    "filename": "cung4syu6-pine-tree-example-2",
+    "id": "cung4syu6-pine-tree-example-2",
+    "text": "呢棵松樹好高。"
   },
   {
-    "filename": "fan1heung2-share-example-3",
-    "id": "fan1heung2-share-example-3",
-    "text": "你可唔可以同我分享你嘅睇法？"
+    "filename": "cung4syu6-pine-tree-example-3",
+    "id": "cung4syu6-pine-tree-example-3",
+    "text": "公園入面種咗幾棵松樹。"
   },
   {
-    "filename": "fan1heung2-share-example-4",
-    "id": "fan1heung2-share-example-4",
-    "text": "佢成日喺網上分享新聞連結。"
+    "filename": "cung4syu6-pine-tree-example-4",
+    "id": "cung4syu6-pine-tree-example-4",
+    "text": "冬天嘅松樹都係綠色。"
   },
   {
-    "filename": "gaau2co3-make-a-mistake",
-    "id": "gaau2co3-make-a-mistake",
-    "text": "搞錯"
+    "filename": "diu1ze6-wilt-fade",
+    "id": "diu1ze6-wilt-fade",
+    "text": "凋謝"
   },
   {
-    "filename": "gaau2co3-make-a-mistake-example-1",
-    "id": "gaau2co3-make-a-mistake-example-1",
-    "text": "我搞錯咗時間，遲到咗。"
+    "filename": "diu1ze6-wilt-fade-example-1",
+    "id": "diu1ze6-wilt-fade-example-1",
+    "text": "呢束花好快就凋謝咗。"
   },
   {
-    "filename": "gaau2co3-make-a-mistake-example-2",
-    "id": "gaau2co3-make-a-mistake-example-2",
-    "text": "你唔好搞錯，我冇講過呢句說話。"
+    "filename": "diu1ze6-wilt-fade-example-2",
+    "id": "diu1ze6-wilt-fade-example-2",
+    "text": "太陽太猛，啲葉都開始凋謝。"
   },
   {
-    "filename": "gaau2co3-make-a-mistake-example-3",
-    "id": "gaau2co3-make-a-mistake-example-3",
-    "text": "如果你搞錯咗地址，就打電話再問一次。"
+    "filename": "diu1ze6-wilt-fade-example-3",
+    "id": "diu1ze6-wilt-fade-example-3",
+    "text": "如果唔澆水，盆栽好容易凋謝。"
   },
   {
-    "filename": "gaau2co3-make-a-mistake-example-4",
-    "id": "gaau2co3-make-a-mistake-example-4",
-    "text": "佢成日搞錯人哋嘅名字。"
+    "filename": "diu1ze6-wilt-fade-example-4",
+    "id": "diu1ze6-wilt-fade-example-4",
+    "text": "青春好似花一樣，轉眼間就會凋謝。"
   },
   {
-    "filename": "gei3ze2-reporter",
-    "id": "gei3ze2-reporter",
-    "text": "記者"
+    "filename": "faa1-flower",
+    "id": "faa1-flower",
+    "text": "花"
   },
   {
-    "filename": "gei3ze2-reporter-example-1",
-    "id": "gei3ze2-reporter-example-1",
-    "text": "記者喺現場採訪緊。"
+    "filename": "faa1-flower-example-1",
+    "id": "faa1-flower-example-1",
+    "text": "呢朵花好靚。"
   },
   {
-    "filename": "gei3ze2-reporter-example-2",
-    "id": "gei3ze2-reporter-example-2",
-    "text": "佢係電視台嘅記者。"
+    "filename": "faa1-flower-example-2",
+    "id": "faa1-flower-example-2",
+    "text": "我買咗幾枝花送畀阿媽。"
   },
   {
-    "filename": "gei3ze2-reporter-example-3",
-    "id": "gei3ze2-reporter-example-3",
-    "text": "記者問咗好多問題。"
+    "filename": "faa1-flower-example-3",
+    "id": "faa1-flower-example-3",
+    "text": "花園入面開滿咗花。"
   },
   {
-    "filename": "gei3ze2-reporter-example-4",
-    "id": "gei3ze2-reporter-example-4",
-    "text": "我哋學校請咗個記者嚟分享。"
+    "filename": "faa1-flower-example-4",
+    "id": "faa1-flower-example-4",
+    "text": "佢鍾意影花。"
   },
   {
-    "filename": "hok6ze2-scholar",
-    "id": "hok6ze2-scholar",
-    "text": "學者"
+    "filename": "faa1faan6-petal",
+    "id": "faa1faan6-petal",
+    "text": "花瓣"
   },
   {
-    "filename": "hok6ze2-scholar-example-1",
-    "id": "hok6ze2-scholar-example-1",
-    "text": "呢位學者專門研究香港歷史。"
+    "filename": "faa1faan6-petal-example-1",
+    "id": "faa1faan6-petal-example-1",
+    "text": "玫瑰花瓣好香。"
   },
   {
-    "filename": "hok6ze2-scholar-example-2",
-    "id": "hok6ze2-scholar-example-2",
-    "text": "傳媒今日訪問咗一位學者。"
+    "filename": "faa1faan6-petal-example-2",
+    "id": "faa1faan6-petal-example-2",
+    "text": "呢朵花有五塊花瓣。"
   },
   {
-    "filename": "hok6ze2-scholar-example-3",
-    "id": "hok6ze2-scholar-example-3",
-    "text": "學者認為呢個政策有好大影響。"
+    "filename": "faa1faan6-petal-example-3",
+    "id": "faa1faan6-petal-example-3",
+    "text": "小朋友鍾意用花瓣砌圖案。"
   },
   {
-    "filename": "hok6ze2-scholar-example-4",
-    "id": "hok6ze2-scholar-example-4",
-    "text": "佢係大學入面好受尊重嘅學者。"
+    "filename": "faa1faan6-petal-example-4",
+    "id": "faa1faan6-petal-example-4",
+    "text": "風吹過，花瓣飄落地上。"
   },
   {
-    "filename": "jing2pin3-video",
-    "id": "jing2pin3-video",
-    "text": "影片"
+    "filename": "faa1ging3-stem",
+    "id": "faa1ging3-stem",
+    "text": "花莖"
   },
   {
-    "filename": "jing2pin3-video-example-1",
-    "id": "jing2pin3-video-example-1",
-    "text": "我喺新聞網站睇到一段影片。"
+    "filename": "faa1ging3-stem-example-1",
+    "id": "faa1ging3-stem-example-1",
+    "text": "呢棵花嘅花莖好幼。"
   },
   {
-    "filename": "jing2pin3-video-example-2",
-    "id": "jing2pin3-video-example-2",
-    "text": "呢段影片好清楚咁記錄咗現場情況。"
+    "filename": "faa1ging3-stem-example-2",
+    "id": "faa1ging3-stem-example-2",
+    "text": "剪花嗰陣要小心唔好整爛花莖。"
   },
   {
-    "filename": "jing2pin3-video-example-3",
-    "id": "jing2pin3-video-example-3",
-    "text": "請將影片上載到公司平台。"
+    "filename": "faa1ging3-stem-example-3",
+    "id": "faa1ging3-stem-example-3",
+    "text": "佢話呢種植物嘅花莖好長。"
   },
   {
-    "filename": "jing2pin3-video-example-4",
-    "id": "jing2pin3-video-example-4",
-    "text": "佢分享咗一條有趣嘅影片俾我哋睇。"
+    "filename": "faa1ging3-stem-example-4",
+    "id": "faa1ging3-stem-example-4",
+    "text": "花莖斷咗，朵花就好快謝。"
   },
   {
-    "filename": "jiu1kau4-request",
-    "id": "jiu1kau4-request",
-    "text": "要求"
+    "filename": "faa1jyun4-garden",
+    "id": "faa1jyun4-garden",
+    "text": "花園"
   },
   {
-    "filename": "jiu1kau4-request-example-1",
-    "id": "jiu1kau4-request-example-1",
-    "text": "政府向市民提出要求，希望大家留在家中。"
+    "filename": "faa1jyun4-garden-example-1",
+    "id": "faa1jyun4-garden-example-1",
+    "text": "我屋企後面有個花園。"
   },
   {
-    "filename": "jiu1kau4-request-example-2",
-    "id": "jiu1kau4-request-example-2",
-    "text": "記者要求發言人回應事件。"
+    "filename": "faa1jyun4-garden-example-2",
+    "id": "faa1jyun4-garden-example-2",
+    "text": "放工之後，我鍾意去花園行一陣。"
   },
   {
-    "filename": "jiu1kau4-request-example-3",
-    "id": "jiu1kau4-request-example-3",
-    "text": "公司收到好多客戶要求。"
+    "filename": "faa1jyun4-garden-example-3",
+    "id": "faa1jyun4-garden-example-3",
+    "text": "呢個花園種咗好多玫瑰。"
   },
   {
-    "filename": "jiu1kau4-request-example-4",
-    "id": "jiu1kau4-request-example-4",
-    "text": "我哋要求更清楚嘅解釋。"
+    "filename": "faa1jyun4-garden-example-4",
+    "id": "faa1jyun4-garden-example-4",
+    "text": "阿媽成日喺花園度打理啲植物。"
   },
   {
-    "filename": "mong5soeng6-online",
-    "id": "mong5soeng6-online",
-    "text": "網上"
+    "filename": "faa1pun4-flowerpot",
+    "id": "faa1pun4-flowerpot",
+    "text": "花盆"
   },
   {
-    "filename": "mong5soeng6-online-example-1",
-    "id": "mong5soeng6-online-example-1",
-    "text": "我今日喺網上睇新聞。"
+    "filename": "faa1pun4-flowerpot-example-1",
+    "id": "faa1pun4-flowerpot-example-1",
+    "text": "我想買個新花盆種多肉。"
   },
   {
-    "filename": "mong5soeng6-online-example-2",
-    "id": "mong5soeng6-online-example-2",
-    "text": "呢間公司有網上訂票服務。"
+    "filename": "faa1pun4-flowerpot-example-2",
+    "id": "faa1pun4-flowerpot-example-2",
+    "text": "呢個花盆太細，唔夠位。"
   },
   {
-    "filename": "mong5soeng6-online-example-3",
-    "id": "mong5soeng6-online-example-3",
-    "text": "老師叫我哋網上交功課。"
+    "filename": "faa1pun4-flowerpot-example-3",
+    "id": "faa1pun4-flowerpot-example-3",
+    "text": "佢將啲蘭花放喺窗邊個花盆度。"
   },
   {
-    "filename": "mong5soeng6-online-example-4",
-    "id": "mong5soeng6-online-example-4",
-    "text": "佢成日喺網上買嘢。"
+    "filename": "faa1pun4-flowerpot-example-4",
+    "id": "faa1pun4-flowerpot-example-4",
+    "text": "落完雨之後，花盆入面有好多水。"
   },
   {
-    "filename": "mong5soeng6san1man4-online-news",
-    "id": "mong5soeng6san1man4-online-news",
-    "text": "網上新聞"
+    "filename": "faat3ngaa4-sprout",
+    "id": "faat3ngaa4-sprout",
+    "text": "發芽"
   },
   {
-    "filename": "mong5soeng6san1man4-online-news-example-1",
-    "id": "mong5soeng6san1man4-online-news-example-1",
-    "text": "我每日起身第一件事就係睇網上新聞。"
+    "filename": "faat3ngaa4-sprout-example-1",
+    "id": "faat3ngaa4-sprout-example-1",
+    "text": "呢啲種子好快就發芽。"
   },
   {
-    "filename": "mong5soeng6san1man4-online-news-example-2",
-    "id": "mong5soeng6san1man4-online-news-example-2",
-    "text": "佢喺公司午飯時間成日開網上新聞睇。"
+    "filename": "faat3ngaa4-sprout-example-2",
+    "id": "faat3ngaa4-sprout-example-2",
+    "text": "落雨之後，啲豆開始發芽。"
   },
   {
-    "filename": "mong5soeng6san1man4-online-news-example-3",
-    "id": "mong5soeng6san1man4-online-news-example-3",
-    "text": "而家好多人都用手機睇網上新聞。"
+    "filename": "faat3ngaa4-sprout-example-3",
+    "id": "faat3ngaa4-sprout-example-3",
+    "text": "我哋等咗幾日，盆栽終於發芽。"
   },
   {
-    "filename": "mong5soeng6san1man4-online-news-example-4",
-    "id": "mong5soeng6san1man4-online-news-example-4",
-    "text": "呢個網站啲網上新聞更新得幾快。"
+    "filename": "faat3ngaa4-sprout-example-4",
+    "id": "faat3ngaa4-sprout-example-4",
+    "text": "春天係好多植物發芽嘅季節。"
   },
   {
-    "filename": "pin1zaap6-editor",
-    "id": "pin1zaap6-editor",
-    "text": "編輯"
+    "filename": "fei4liu6-fertilizer",
+    "id": "fei4liu6-fertilizer",
+    "text": "肥料"
   },
   {
-    "filename": "pin1zaap6-editor-example-1",
-    "id": "pin1zaap6-editor-example-1",
-    "text": "佢做雜誌編輯，日日都要睇稿。"
+    "filename": "fei4liu6-fertilizer-example-1",
+    "id": "fei4liu6-fertilizer-example-1",
+    "text": "我今日去花墟買咗包肥料。"
   },
   {
-    "filename": "pin1zaap6-editor-example-2",
-    "id": "pin1zaap6-editor-example-2",
-    "text": "新來嗰位編輯好細心。"
+    "filename": "fei4liu6-fertilizer-example-2",
+    "id": "fei4liu6-fertilizer-example-2",
+    "text": "呢盆植物要加少少肥料。"
   },
   {
-    "filename": "pin1zaap6-editor-example-3",
-    "id": "pin1zaap6-editor-example-3",
-    "text": "呢篇文章交俾編輯改。"
+    "filename": "fei4liu6-fertilizer-example-3",
+    "id": "fei4liu6-fertilizer-example-3",
+    "text": "阿媽叫我幫佢淋肥料。"
   },
   {
-    "filename": "pin1zaap6-editor-example-4",
-    "id": "pin1zaap6-editor-example-4",
-    "text": "新聞編輯要快手處理突發消息。"
+    "filename": "fei4liu6-fertilizer-example-4",
+    "id": "fei4liu6-fertilizer-example-4",
+    "text": "落太多肥料會傷到棵菜。"
   },
   {
-    "filename": "ping4leon6-commentary",
-    "id": "ping4leon6-commentary",
-    "text": "評論"
+    "filename": "fu1wai2-wither",
+    "id": "fu1wai2-wither",
+    "text": "枯萎"
   },
   {
-    "filename": "ping4leon6-commentary-example-1",
-    "id": "ping4leon6-commentary-example-1",
-    "text": "報紙頭版有一篇關於選舉嘅評論。"
+    "filename": "fu1wai2-wither-example-1",
+    "id": "fu1wai2-wither-example-1",
+    "text": "盆花因為冇淋水而枯萎咗。"
   },
   {
-    "filename": "ping4leon6-commentary-example-2",
-    "id": "ping4leon6-commentary-example-2",
-    "text": "佢喺電台做時事評論。"
+    "filename": "fu1wai2-wither-example-2",
+    "id": "fu1wai2-wither-example-2",
+    "text": "夏天太曬，啲葉好快就枯萎。"
   },
   {
-    "filename": "ping4leon6-commentary-example-3",
-    "id": "ping4leon6-commentary-example-3",
-    "text": "呢篇評論寫得幾中肯。"
+    "filename": "fu1wai2-wither-example-3",
+    "id": "fu1wai2-wither-example-3",
+    "text": "呢棵樹啲新葉開始枯萎。"
   },
   {
-    "filename": "ping4leon6-commentary-example-4",
-    "id": "ping4leon6-commentary-example-4",
-    "text": "我想睇多啲專業評論先決定買唔買。"
+    "filename": "fu1wai2-wither-example-4",
+    "id": "fu1wai2-wither-example-4",
+    "text": "如果土壤太乾，植物好容易枯萎。"
   },
   {
-    "filename": "ping4leon6jyun4-commentator",
-    "id": "ping4leon6jyun4-commentator",
-    "text": "評論員"
+    "filename": "gan1-root",
+    "id": "gan1-root",
+    "text": "根"
   },
   {
-    "filename": "ping4leon6jyun4-commentator-example-1",
-    "id": "ping4leon6jyun4-commentator-example-1",
-    "text": "呢位評論員喺電視台講時事，好有分析力。"
+    "filename": "gan1-root-example-1",
+    "id": "gan1-root-example-1",
+    "text": "呢棵樹嘅根好粗。"
   },
   {
-    "filename": "ping4leon6jyun4-commentator-example-2",
-    "id": "ping4leon6jyun4-commentator-example-2",
-    "text": "報紙請咗幾位評論員一齊講選舉。"
+    "filename": "gan1-root-example-2",
+    "id": "gan1-root-example-2",
+    "text": "你種嘅花已經生到根。"
   },
   {
-    "filename": "ping4leon6jyun4-commentator-example-3",
-    "id": "ping4leon6jyun4-commentator-example-3",
-    "text": "佢做咗好多年體育評論員。"
+    "filename": "gan1-root-example-3",
+    "id": "gan1-root-example-3",
+    "text": "小朋友用鏟仔輕輕掘開泥土，睇吓根。"
   },
   {
-    "filename": "ping4leon6jyun4-commentator-example-4",
-    "id": "ping4leon6jyun4-commentator-example-4",
-    "text": "網上好多評論員都會即時回應新聞。"
+    "filename": "gan1-root-example-4",
+    "id": "gan1-root-example-4",
+    "text": "啲蔬菜如果根生得健康，就會長得好。"
   },
   {
-    "filename": "sam2caa4-censorship",
-    "id": "sam2caa4-censorship",
-    "text": "審查"
+    "filename": "gin6hong1-healthy",
+    "id": "gin6hong1-healthy",
+    "text": "健康"
   },
   {
-    "filename": "sam2caa4-censorship-example-1",
-    "id": "sam2caa4-censorship-example-1",
-    "text": "政府加強咗對網上內容嘅審查。"
+    "filename": "gin6hong1-healthy-example-1",
+    "id": "gin6hong1-healthy-example-1",
+    "text": "呢棵盆栽睇落好健康。"
   },
   {
-    "filename": "sam2caa4-censorship-example-2",
-    "id": "sam2caa4-censorship-example-2",
-    "text": "呢套電影因為審查問題而被刪改。"
+    "filename": "gin6hong1-healthy-example-2",
+    "id": "gin6hong1-healthy-example-2",
+    "text": "如果土壤夠濕，植物會更加健康。"
   },
   {
-    "filename": "sam2caa4-censorship-example-3",
-    "id": "sam2caa4-censorship-example-3",
-    "text": "傳媒成日討論言論審查會唔會影響新聞自由。"
+    "filename": "gin6hong1-healthy-example-3",
+    "id": "gin6hong1-healthy-example-3",
+    "text": "我想買啲健康嘅花返屋企。"
   },
   {
-    "filename": "sam2caa4-censorship-example-4",
-    "id": "sam2caa4-censorship-example-4",
-    "text": "公司對員工發言都有嚴格審查。"
+    "filename": "gin6hong1-healthy-example-4",
+    "id": "gin6hong1-healthy-example-4",
+    "text": "定期施肥可以令植物保持健康。"
   },
   {
-    "filename": "san1man4-news",
-    "id": "san1man4-news",
-    "text": "新聞"
+    "filename": "gon1-dry",
+    "id": "gon1-dry",
+    "text": "乾"
   },
   {
-    "filename": "san1man4-news-example-1",
-    "id": "san1man4-news-example-1",
-    "text": "我每日都會睇新聞。"
+    "filename": "gon1-dry-example-1",
+    "id": "gon1-dry-example-1",
+    "text": "呢盆花啲泥已經乾晒，要快啲淋水。"
   },
   {
-    "filename": "san1man4-news-example-2",
-    "id": "san1man4-news-example-2",
-    "text": "你聽咗今日嘅新聞未？"
+    "filename": "gon1-dry-example-2",
+    "id": "gon1-dry-example-2",
+    "text": "天氣太乾，葉尖開始變黃。"
   },
   {
-    "filename": "san1man4-news-example-3",
-    "id": "san1man4-news-example-3",
-    "text": "電視新聞成日報道本地消息。"
+    "filename": "gon1-dry-example-3",
+    "id": "gon1-dry-example-3",
+    "text": "你要等枝條乾咗先好剪。"
   },
   {
-    "filename": "san1man4-news-example-4",
-    "id": "san1man4-news-example-4",
-    "text": "呢單新聞好多人都好關心。"
+    "filename": "gon1-dry-example-4",
+    "id": "gon1-dry-example-4",
+    "text": "晒乾啲種子之後，就可以收好。"
   },
   {
-    "filename": "se5gaau1mui4tai2-social-media",
-    "id": "se5gaau1mui4tai2-social-media",
-    "text": "社交媒體"
+    "filename": "guk1faa1-chrysanthemum",
+    "id": "guk1faa1-chrysanthemum",
+    "text": "菊花"
   },
   {
-    "filename": "se5gaau1mui4tai2-social-media-example-1",
-    "id": "se5gaau1mui4tai2-social-media-example-1",
-    "text": "我成日喺社交媒體睇新聞。"
+    "filename": "guk1faa1-chrysanthemum-example-1",
+    "id": "guk1faa1-chrysanthemum-example-1",
+    "text": "我屋企陽台種咗幾盆菊花。"
   },
   {
-    "filename": "se5gaau1mui4tai2-social-media-example-2",
-    "id": "se5gaau1mui4tai2-social-media-example-2",
-    "text": "佢喺社交媒體分享旅行相。"
+    "filename": "guk1faa1-chrysanthemum-example-2",
+    "id": "guk1faa1-chrysanthemum-example-2",
+    "text": "花墟今朝啲菊花好靚。"
   },
   {
-    "filename": "se5gaau1mui4tai2-social-media-example-3",
-    "id": "se5gaau1mui4tai2-social-media-example-3",
-    "text": "社交媒體上面有好多廣告。"
+    "filename": "guk1faa1-chrysanthemum-example-3",
+    "id": "guk1faa1-chrysanthemum-example-3",
+    "text": "阿媽鍾意買黃色菊花返屋企。"
   },
   {
-    "filename": "se5gaau1mui4tai2-social-media-example-4",
-    "id": "se5gaau1mui4tai2-social-media-example-4",
-    "text": "學校提醒學生唔好亂咁喺社交媒體留言。"
+    "filename": "guk1faa1-chrysanthemum-example-4",
+    "id": "guk1faa1-chrysanthemum-example-4",
+    "text": "秋天嘅時候，菊花通常會開得好盛。"
   },
   {
-    "filename": "si6cing4-matter",
-    "id": "si6cing4-matter",
-    "text": "事情"
+    "filename": "gun3muk6-shrub",
+    "id": "gun3muk6-shrub",
+    "text": "灌木"
   },
   {
-    "filename": "si6cing4-matter-example-1",
-    "id": "si6cing4-matter-example-1",
-    "text": "呢件事情要快啲處理。"
+    "filename": "gun3muk6-shrub-example-1",
+    "id": "gun3muk6-shrub-example-1",
+    "text": "花園入面種咗幾棵灌木。"
   },
   {
-    "filename": "si6cing4-matter-example-2",
-    "id": "si6cing4-matter-example-2",
-    "text": "佢講咗好多關於呢件事情嘅細節。"
+    "filename": "gun3muk6-shrub-example-2",
+    "id": "gun3muk6-shrub-example-2",
+    "text": "呢度嘅灌木生得好茂盛。"
   },
   {
-    "filename": "si6cing4-matter-example-3",
-    "id": "si6cing4-matter-example-3",
-    "text": "發生咩事情？"
+    "filename": "gun3muk6-shrub-example-3",
+    "id": "gun3muk6-shrub-example-3",
+    "text": "工人正在修剪灌木。"
   },
   {
-    "filename": "si6cing4-matter-example-4",
-    "id": "si6cing4-matter-example-4",
-    "text": "我哋唔想將事情搞大。"
+    "filename": "gun3muk6-shrub-example-4",
+    "id": "gun3muk6-shrub-example-4",
+    "text": "屋企門口種兩排灌木，睇落好整齊。"
   },
   {
-    "filename": "si6gin6-incident",
-    "id": "si6gin6-incident",
-    "text": "事件"
+    "filename": "gwo2juk6-fruit-flesh",
+    "id": "gwo2juk6-fruit-flesh",
+    "text": "果肉"
   },
   {
-    "filename": "si6gin6-incident-example-1",
-    "id": "si6gin6-incident-example-1",
-    "text": "呢件事件引起咗好多市民關注。"
+    "filename": "gwo2juk6-fruit-flesh-example-1",
+    "id": "gwo2juk6-fruit-flesh-example-1",
+    "text": "芒果嘅果肉好甜。"
   },
   {
-    "filename": "si6gin6-incident-example-2",
-    "id": "si6gin6-incident-example-2",
-    "text": "警方正調查呢宗事件。"
+    "filename": "gwo2juk6-fruit-flesh-example-2",
+    "id": "gwo2juk6-fruit-flesh-example-2",
+    "text": "呢個榴槤嘅果肉好香。"
   },
   {
-    "filename": "si6gin6-incident-example-3",
-    "id": "si6gin6-incident-example-3",
-    "text": "老師叫我哋唔好再提起上次嗰件事件。"
+    "filename": "gwo2juk6-fruit-flesh-example-3",
+    "id": "gwo2juk6-fruit-flesh-example-3",
+    "text": "我鍾意食西瓜果肉。"
   },
   {
-    "filename": "si6gin6-incident-example-4",
-    "id": "si6gin6-incident-example-4",
-    "text": "佢話呢件事件純粹係誤會。"
+    "filename": "gwo2juk6-fruit-flesh-example-4",
+    "id": "gwo2juk6-fruit-flesh-example-4",
+    "text": "佢將橙嘅果肉切細咗。"
   },
   {
-    "filename": "syun1bou3-announce",
-    "id": "syun1bou3-announce",
-    "text": "宣布"
+    "filename": "gwo2sat6-fruit",
+    "id": "gwo2sat6-fruit",
+    "text": "果實"
   },
   {
-    "filename": "syun1bou3-announce-example-1",
-    "id": "syun1bou3-announce-example-1",
-    "text": "政府宣布延長限聚令。"
+    "filename": "gwo2sat6-fruit-example-1",
+    "id": "gwo2sat6-fruit-example-1",
+    "text": "呢棵樹嘅果實好細粒。"
   },
   {
-    "filename": "syun1bou3-announce-example-2",
-    "id": "syun1bou3-announce-example-2",
-    "text": "公司宣布新產品下個月推出。"
+    "filename": "gwo2sat6-fruit-example-2",
+    "id": "gwo2sat6-fruit-example-2",
+    "text": "秋天係好多果實成熟嘅季節。"
   },
   {
-    "filename": "syun1bou3-announce-example-3",
-    "id": "syun1bou3-announce-example-3",
-    "text": "校方宣布考試改期。"
+    "filename": "gwo2sat6-fruit-example-3",
+    "id": "gwo2sat6-fruit-example-3",
+    "text": "呢種植物結出嘅果實可以食。"
   },
   {
-    "filename": "syun1bou3-announce-example-4",
-    "id": "syun1bou3-announce-example-4",
-    "text": "球會宣布新教練正式上任。"
+    "filename": "gwo2sat6-fruit-example-4",
+    "id": "gwo2sat6-fruit-example-4",
+    "text": "老師叫我哋觀察花同果實嘅分別。"
   },
   {
-    "filename": "tau4tiu4-headline",
-    "id": "tau4tiu4-headline",
-    "text": "頭條"
+    "filename": "gwo2syu6-fruit-tree",
+    "id": "gwo2syu6-fruit-tree",
+    "text": "果樹"
   },
   {
-    "filename": "tau4tiu4-headline-example-1",
-    "id": "tau4tiu4-headline-example-1",
-    "text": "今日《東方日報》嘅頭條係講樓價再升。"
+    "filename": "gwo2syu6-fruit-tree-example-1",
+    "id": "gwo2syu6-fruit-tree-example-1",
+    "text": "後山嗰度有幾棵果樹。"
   },
   {
-    "filename": "tau4tiu4-headline-example-2",
-    "id": "tau4tiu4-headline-example-2",
-    "text": "呢單新聞上咗頭條，大家都好關注。"
+    "filename": "gwo2syu6-fruit-tree-example-2",
+    "id": "gwo2syu6-fruit-tree-example-2",
+    "text": "呢棵果樹今年開咗好多花。"
   },
   {
-    "filename": "tau4tiu4-headline-example-3",
-    "id": "tau4tiu4-headline-example-3",
-    "text": "阿媽一睇頭條，就知發生咩事。"
+    "filename": "gwo2syu6-fruit-tree-example-3",
+    "id": "gwo2syu6-fruit-tree-example-3",
+    "text": "阿媽話想喺屋企後園種果樹。"
   },
   {
-    "filename": "tau4tiu4-headline-example-4",
-    "id": "tau4tiu4-headline-example-4",
-    "text": "你可唔可以幫我寫個更吸引嘅頭條？"
+    "filename": "gwo2syu6-fruit-tree-example-4",
+    "id": "gwo2syu6-fruit-tree-example-4",
+    "text": "我哋學校附近有一片果樹園。"
   },
   {
-    "filename": "zaap3zi2-magazine",
-    "id": "zaap3zi2-magazine",
-    "text": "雜誌"
+    "filename": "hoeng3jat6kwai4-sunflower",
+    "id": "hoeng3jat6kwai4-sunflower",
+    "text": "向日葵"
   },
   {
-    "filename": "zaap3zi2-magazine-example-1",
-    "id": "zaap3zi2-magazine-example-1",
-    "text": "我鍾意睇旅遊雜誌。"
+    "filename": "hoeng3jat6kwai4-sunflower-example-1",
+    "id": "hoeng3jat6kwai4-sunflower-example-1",
+    "text": "向日葵會跟住太陽郁。"
   },
   {
-    "filename": "zaap3zi2-magazine-example-2",
-    "id": "zaap3zi2-magazine-example-2",
-    "text": "呢本雜誌有好多新聞報道。"
+    "filename": "hoeng3jat6kwai4-sunflower-example-2",
+    "id": "hoeng3jat6kwai4-sunflower-example-2",
+    "text": "我喺花市買咗一盆向日葵。"
   },
   {
-    "filename": "zaap3zi2-magazine-example-3",
-    "id": "zaap3zi2-magazine-example-3",
-    "text": "佢喺書店買咗一本時尚雜誌。"
+    "filename": "hoeng3jat6kwai4-sunflower-example-3",
+    "id": "hoeng3jat6kwai4-sunflower-example-3",
+    "text": "後花園種咗好多向日葵。"
   },
   {
-    "filename": "zaap3zi2-magazine-example-4",
-    "id": "zaap3zi2-magazine-example-4",
-    "text": "我訂閱咗一份英文雜誌。"
+    "filename": "hoeng3jat6kwai4-sunflower-example-4",
+    "id": "hoeng3jat6kwai4-sunflower-example-4",
+    "text": "向日葵嘅花瓣好靚。"
   },
   {
-    "filename": "zik6bo3-livestream",
-    "id": "zik6bo3-livestream",
-    "text": "直播"
+    "filename": "hoi1faa1-bloom",
+    "id": "hoi1faa1-bloom",
+    "text": "開花"
   },
   {
-    "filename": "zik6bo3-livestream-example-1",
-    "id": "zik6bo3-livestream-example-1",
-    "text": "佢今晚會開直播同大家傾偈。"
+    "filename": "hoi1faa1-bloom-example-1",
+    "id": "hoi1faa1-bloom-example-1",
+    "text": "呢棵玫瑰今個月開始開花。"
   },
   {
-    "filename": "zik6bo3-livestream-example-2",
-    "id": "zik6bo3-livestream-example-2",
-    "text": "我成日睇佢個直播，幾好笑。"
+    "filename": "hoi1faa1-bloom-example-2",
+    "id": "hoi1faa1-bloom-example-2",
+    "text": "春天好多花都會開花。"
   },
   {
-    "filename": "zik6bo3-livestream-example-3",
-    "id": "zik6bo3-livestream-example-3",
-    "text": "呢個品牌會用直播介紹新產品。"
+    "filename": "hoi1faa1-bloom-example-3",
+    "id": "hoi1faa1-bloom-example-3",
+    "text": "我屋企樓下棵樹昨日開花喇。"
   },
   {
-    "filename": "zik6bo3-livestream-example-4",
-    "id": "zik6bo3-livestream-example-4",
-    "text": "你可唔可以錄低呢段直播？"
+    "filename": "hoi1faa1-bloom-example-4",
+    "id": "hoi1faa1-bloom-example-4",
+    "text": "如果天氣夠暖，啲植物就容易開花。"
   },
   {
-    "filename": "zing3ming4-prove",
-    "id": "zing3ming4-prove",
-    "text": "證明"
+    "filename": "je5cou2-weed",
+    "id": "je5cou2-weed",
+    "text": "野草"
   },
   {
-    "filename": "zing3ming4-prove-example-1",
-    "id": "zing3ming4-prove-example-1",
-    "text": "警方需要更多證據去證明疑犯有罪。"
+    "filename": "je5cou2-weed-example-1",
+    "id": "je5cou2-weed-example-1",
+    "text": "花園入面生咗好多野草。"
   },
   {
-    "filename": "zing3ming4-prove-example-2",
-    "id": "zing3ming4-prove-example-2",
-    "text": "呢份報告可以證明呢個政策有效。"
+    "filename": "je5cou2-weed-example-2",
+    "id": "je5cou2-weed-example-2",
+    "text": "我哋要快啲清走啲野草。"
   },
   {
-    "filename": "zing3ming4-prove-example-3",
-    "id": "zing3ming4-prove-example-3",
-    "text": "佢冇文件，唔可以證明自己係公司員工。"
+    "filename": "je5cou2-weed-example-3",
+    "id": "je5cou2-weed-example-3",
+    "text": "呢塊田啲野草好高。"
   },
   {
-    "filename": "zing3ming4-prove-example-4",
-    "id": "zing3ming4-prove-example-4",
-    "text": "科學家用實驗數據去證明佢哋嘅理論。"
+    "filename": "je5cou2-weed-example-4",
+    "id": "je5cou2-weed-example-4",
+    "text": "雨後，路邊啲野草長得特別快。"
   },
   {
-    "filename": "zing3soeng4-normal",
-    "id": "zing3soeng4-normal",
-    "text": "正常"
+    "filename": "je5faa1-wildflower",
+    "id": "je5faa1-wildflower",
+    "text": "野花"
   },
   {
-    "filename": "zing3soeng4-normal-example-1",
-    "id": "zing3soeng4-normal-example-1",
-    "text": "今朝地鐵服務正常。"
+    "filename": "je5faa1-wildflower-example-1",
+    "id": "je5faa1-wildflower-example-1",
+    "text": "山坡上開滿咗野花。"
   },
   {
-    "filename": "zing3soeng4-normal-example-2",
-    "id": "zing3soeng4-normal-example-2",
-    "text": "佢而家講嘢好正常，唔使擔心。"
+    "filename": "je5faa1-wildflower-example-2",
+    "id": "je5faa1-wildflower-example-2",
+    "text": "春天去行山，好容易見到好多野花。"
   },
   {
-    "filename": "zing3soeng4-normal-example-3",
-    "id": "zing3soeng4-normal-example-3",
-    "text": "呢個情況算正常，唔使太驚。"
+    "filename": "je5faa1-wildflower-example-3",
+    "id": "je5faa1-wildflower-example-3",
+    "text": "呢朵野花雖然細，但好靚。"
   },
   {
-    "filename": "zing3soeng4-normal-example-4",
-    "id": "zing3soeng4-normal-example-4",
-    "text": "你個電腦運作正常嗎？"
+    "filename": "je5faa1-wildflower-example-4",
+    "id": "je5faa1-wildflower-example-4",
+    "text": "佢影咗幾張野花相放上網。"
   },
   {
-    "filename": "zyu3bo3-news-anchor",
-    "id": "zyu3bo3-news-anchor",
-    "text": "主播"
+    "filename": "jim1jim1jat1sik1-barely-alive",
+    "id": "jim1jim1jat1sik1-barely-alive",
+    "text": "奄奄一息"
   },
   {
-    "filename": "zyu3bo3-news-anchor-example-1",
-    "id": "zyu3bo3-news-anchor-example-1",
-    "text": "呢位主播講嘢好清楚，口齒都好伶俐。"
+    "filename": "jim1jim1jat1sik1-barely-alive-example-1",
+    "id": "jim1jim1jat1sik1-barely-alive-example-1",
+    "text": "呢棵玫瑰俾人忘記咗澆水，依家睇落奄奄一息。"
   },
   {
-    "filename": "zyu3bo3-news-anchor-example-2",
-    "id": "zyu3bo3-news-anchor-example-2",
-    "text": "電視台今日請咗新主播。"
+    "filename": "jim1jim1jat1sik1-barely-alive-example-2",
+    "id": "jim1jim1jat1sik1-barely-alive-example-2",
+    "text": "落咗幾日大雨之後，盆仙人掌已經奄奄一息。"
   },
   {
-    "filename": "zyu3bo3-news-anchor-example-3",
-    "id": "zyu3bo3-news-anchor-example-3",
-    "text": "我每晚都習慣睇呢個新聞主播報新聞。"
+    "filename": "jim1jim1jat1sik1-barely-alive-example-3",
+    "id": "jim1jim1jat1sik1-barely-alive-example-3",
+    "text": "嗰隻流浪貓俾人救返嚟嗰陣，已經奄奄一息。"
   },
   {
-    "filename": "zyu3bo3-news-anchor-example-4",
-    "id": "zyu3bo3-news-anchor-example-4",
-    "text": "佢除咗做主播，仲會主持節目。"
+    "filename": "jim1jim1jat1sik1-barely-alive-example-4",
+    "id": "jim1jim1jat1sik1-barely-alive-example-4",
+    "text": "佢成晚冇瞓，返工嗰陣成個人都奄奄一息。"
+  },
+  {
+    "filename": "jip6-leaf",
+    "id": "jip6-leaf",
+    "text": "葉"
+  },
+  {
+    "filename": "jip6-leaf-example-1",
+    "id": "jip6-leaf-example-1",
+    "text": "啲葉好綠。"
+  },
+  {
+    "filename": "jip6-leaf-example-2",
+    "id": "jip6-leaf-example-2",
+    "text": "呢啲葉可以用嚟做堆肥。"
+  },
+  {
+    "filename": "jip6-leaf-example-3",
+    "id": "jip6-leaf-example-3",
+    "text": "秋天啲葉會變黃。"
+  },
+  {
+    "filename": "jip6-leaf-example-4",
+    "id": "jip6-leaf-example-4",
+    "text": "我想睇吓呢種植物嘅葉係點樣。"
+  },
+  {
+    "filename": "joek6cou2-herb",
+    "id": "joek6cou2-herb",
+    "text": "藥草"
+  },
+  {
+    "filename": "joek6cou2-herb-example-1",
+    "id": "joek6cou2-herb-example-1",
+    "text": "我屋企後園種咗啲藥草。"
+  },
+  {
+    "filename": "joek6cou2-herb-example-2",
+    "id": "joek6cou2-herb-example-2",
+    "text": "呢間舖頭有好多藥草賣。"
+  },
+  {
+    "filename": "joek6cou2-herb-example-3",
+    "id": "joek6cou2-herb-example-3",
+    "text": "阿媽成日用藥草煲湯。"
+  },
+  {
+    "filename": "joek6cou2-herb-example-4",
+    "id": "joek6cou2-herb-example-4",
+    "text": "你要睇吓呢種藥草有咩功效。"
+  },
+  {
+    "filename": "laan4faa1-orchid",
+    "id": "laan4faa1-orchid",
+    "text": "蘭花"
+  },
+  {
+    "filename": "laan4faa1-orchid-example-1",
+    "id": "laan4faa1-orchid-example-1",
+    "text": "我屋企窗台有一盆蘭花。"
+  },
+  {
+    "filename": "laan4faa1-orchid-example-2",
+    "id": "laan4faa1-orchid-example-2",
+    "text": "呢啲蘭花好靚。"
+  },
+  {
+    "filename": "laan4faa1-orchid-example-3",
+    "id": "laan4faa1-orchid-example-3",
+    "text": "花市入面有好多蘭花賣。"
+  },
+  {
+    "filename": "laan4faa1-orchid-example-4",
+    "id": "laan4faa1-orchid-example-4",
+    "text": "佢細個成日幫阿媽淋蘭花。"
+  },
+  {
+    "filename": "lam4-grove",
+    "id": "lam4-grove",
+    "text": "林"
+  },
+  {
+    "filename": "lam4-grove-example-1",
+    "id": "lam4-grove-example-1",
+    "text": "山坡下面有一片林。"
+  },
+  {
+    "filename": "lam4-grove-example-2",
+    "id": "lam4-grove-example-2",
+    "text": "呢度以前係一片林。"
+  },
+  {
+    "filename": "lam4-grove-example-3",
+    "id": "lam4-grove-example-3",
+    "text": "小鳥飛入林裡面。"
+  },
+  {
+    "filename": "lam4-grove-example-4",
+    "id": "lam4-grove-example-4",
+    "text": "村口有棵大樹，旁邊嗰片林好靜。"
+  },
+  {
+    "filename": "lam4seoi2-water-plants",
+    "id": "lam4seoi2-water-plants",
+    "text": "淋水"
+  },
+  {
+    "filename": "lam4seoi2-water-plants-example-1",
+    "id": "lam4seoi2-water-plants-example-1",
+    "text": "我朝早會幫啲盆栽淋水。"
+  },
+  {
+    "filename": "lam4seoi2-water-plants-example-2",
+    "id": "lam4seoi2-water-plants-example-2",
+    "text": "記得每日淋水，唔好等啲花乾晒。"
+  },
+  {
+    "filename": "lam4seoi2-water-plants-example-3",
+    "id": "lam4seoi2-water-plants-example-3",
+    "text": "屋企後花園啲菜要定時淋水。"
+  },
+  {
+    "filename": "lam4seoi2-water-plants-example-4",
+    "id": "lam4seoi2-water-plants-example-4",
+    "text": "老師叫小朋友返學前先去淋水。"
+  },
+  {
+    "filename": "lau5syu6-willow-tree",
+    "id": "lau5syu6-willow-tree",
+    "text": "柳樹"
+  },
+  {
+    "filename": "lau5syu6-willow-tree-example-1",
+    "id": "lau5syu6-willow-tree-example-1",
+    "text": "湖邊有一棵柳樹。"
+  },
+  {
+    "filename": "lau5syu6-willow-tree-example-2",
+    "id": "lau5syu6-willow-tree-example-2",
+    "text": "春天嘅柳樹好靚。"
+  },
+  {
+    "filename": "lau5syu6-willow-tree-example-3",
+    "id": "lau5syu6-willow-tree-example-3",
+    "text": "公園入面種咗幾棵柳樹。"
+  },
+  {
+    "filename": "lau5syu6-willow-tree-example-4",
+    "id": "lau5syu6-willow-tree-example-4",
+    "text": "河邊嗰棵柳樹隨風搖擺。"
+  },
+  {
+    "filename": "lin4faa1-lotus",
+    "id": "lin4faa1-lotus",
+    "text": "蓮花"
+  },
+  {
+    "filename": "lin4faa1-lotus-example-1",
+    "id": "lin4faa1-lotus-example-1",
+    "text": "公園入面有好多蓮花開得好靚。"
+  },
+  {
+    "filename": "lin4faa1-lotus-example-2",
+    "id": "lin4faa1-lotus-example-2",
+    "text": "佢喺蓮花池邊影相。"
+  },
+  {
+    "filename": "lin4faa1-lotus-example-3",
+    "id": "lin4faa1-lotus-example-3",
+    "text": "佛寺門口擺咗幾盆蓮花。"
+  },
+  {
+    "filename": "lin4faa1-lotus-example-4",
+    "id": "lin4faa1-lotus-example-4",
+    "text": "呢幅畫畫咗一朵大大嘅蓮花。"
+  },
+  {
+    "filename": "lok6jip6-fallen-leaf",
+    "id": "lok6jip6-fallen-leaf",
+    "text": "落葉"
+  },
+  {
+    "filename": "lok6jip6-fallen-leaf-example-1",
+    "id": "lok6jip6-fallen-leaf-example-1",
+    "text": "地上有好多落葉。"
+  },
+  {
+    "filename": "lok6jip6-fallen-leaf-example-2",
+    "id": "lok6jip6-fallen-leaf-example-2",
+    "text": "秋天一到，公園入面成地都係落葉。"
+  },
+  {
+    "filename": "lok6jip6-fallen-leaf-example-3",
+    "id": "lok6jip6-fallen-leaf-example-3",
+    "text": "小朋友喺落葉上面行來行去，好開心。"
+  },
+  {
+    "filename": "lok6jip6-fallen-leaf-example-4",
+    "id": "lok6jip6-fallen-leaf-example-4",
+    "text": "阿媽叫我哋清走後花園啲落葉。"
+  },
+  {
+    "filename": "luk6-green",
+    "id": "luk6-green",
+    "text": "綠"
+  },
+  {
+    "filename": "luk6-green-example-1",
+    "id": "luk6-green-example-1",
+    "text": "樹葉好綠。"
+  },
+  {
+    "filename": "luk6-green-example-2",
+    "id": "luk6-green-example-2",
+    "text": "呢盆植物啲葉係綠色。"
+  },
+  {
+    "filename": "luk6-green-example-3",
+    "id": "luk6-green-example-3",
+    "text": "春天嘅草地好綠。"
+  },
+  {
+    "filename": "luk6-green-example-4",
+    "id": "luk6-green-example-4",
+    "text": "我鍾意種綠色嘅植物。"
+  },
+  {
+    "filename": "mau6sing6-lush",
+    "id": "mau6sing6-lush",
+    "text": "茂盛"
+  },
+  {
+    "filename": "mau6sing6-lush-example-1",
+    "id": "mau6sing6-lush-example-1",
+    "text": "公園入面啲樹好茂盛。"
+  },
+  {
+    "filename": "mau6sing6-lush-example-2",
+    "id": "mau6sing6-lush-example-2",
+    "text": "佢屋企個後園種咗好多茂盛嘅花草。"
+  },
+  {
+    "filename": "mau6sing6-lush-example-3",
+    "id": "mau6sing6-lush-example-3",
+    "text": "呢棵芒果樹生得好茂盛。"
+  },
+  {
+    "filename": "mau6sing6-lush-example-4",
+    "id": "mau6sing6-lush-example-4",
+    "text": "夏天嗰陣，路邊啲草會變得更加茂盛。"
+  },
+  {
+    "filename": "mou5sang1hei3-lifeless",
+    "id": "mou5sang1hei3-lifeless",
+    "text": "冇生氣"
+  },
+  {
+    "filename": "mou5sang1hei3-lifeless-example-1",
+    "id": "mou5sang1hei3-lifeless-example-1",
+    "text": "呢盆花睇落好冇生氣。"
+  },
+  {
+    "filename": "mou5sang1hei3-lifeless-example-2",
+    "id": "mou5sang1hei3-lifeless-example-2",
+    "text": "佢成日對住部機，成個人都冇生氣。"
+  },
+  {
+    "filename": "mou5sang1hei3-lifeless-example-3",
+    "id": "mou5sang1hei3-lifeless-example-3",
+    "text": "落雨之後，啲葉變到冇生氣。"
+  },
+  {
+    "filename": "mou5sang1hei3-lifeless-example-4",
+    "id": "mou5sang1hei3-lifeless-example-4",
+    "text": "如果盆栽太耐唔淋水，就會睇落冇生氣。"
+  },
+  {
+    "filename": "mui4gwai3-rose",
+    "id": "mui4gwai3-rose",
+    "text": "玫瑰"
+  },
+  {
+    "filename": "mui4gwai3-rose-example-1",
+    "id": "mui4gwai3-rose-example-1",
+    "text": "我買咗一支玫瑰送畀佢。"
+  },
+  {
+    "filename": "mui4gwai3-rose-example-2",
+    "id": "mui4gwai3-rose-example-2",
+    "text": "呢棵玫瑰開花喇。"
+  },
+  {
+    "filename": "mui4gwai3-rose-example-3",
+    "id": "mui4gwai3-rose-example-3",
+    "text": "花店入面有好多紅色玫瑰。"
+  },
+  {
+    "filename": "mui4gwai3-rose-example-4",
+    "id": "mui4gwai3-rose-example-4",
+    "text": "佢鍾意種玫瑰同其他花。"
+  },
+  {
+    "filename": "muk6-wood",
+    "id": "muk6-wood",
+    "text": "木"
+  },
+  {
+    "filename": "muk6-wood-example-1",
+    "id": "muk6-wood-example-1",
+    "text": "呢張枱係木造嘅。"
+  },
+  {
+    "filename": "muk6-wood-example-2",
+    "id": "muk6-wood-example-2",
+    "text": "佢買咗一塊木去整手工。"
+  },
+  {
+    "filename": "muk6-wood-example-3",
+    "id": "muk6-wood-example-3",
+    "text": "公園入面有好多木凳。"
+  },
+  {
+    "filename": "muk6-wood-example-4",
+    "id": "muk6-wood-example-4",
+    "text": "呢棵樹啲木好硬。"
+  },
+  {
+    "filename": "ngaa4-shoot",
+    "id": "ngaa4-shoot",
+    "text": "芽"
+  },
+  {
+    "filename": "ngaa4-shoot-example-1",
+    "id": "ngaa4-shoot-example-1",
+    "text": "呢棵玫瑰出咗新芽。"
+  },
+  {
+    "filename": "ngaa4-shoot-example-2",
+    "id": "ngaa4-shoot-example-2",
+    "text": "春天嘅時候，樹枝上面好多芽。"
+  },
+  {
+    "filename": "ngaa4-shoot-example-3",
+    "id": "ngaa4-shoot-example-3",
+    "text": "你剪走啲枯葉，等啲芽可以生得好啲。"
+  },
+  {
+    "filename": "ngaa4-shoot-example-4",
+    "id": "ngaa4-shoot-example-4",
+    "text": "呢盆植物啲芽開始長出嚟喇。"
+  },
+  {
+    "filename": "nyun6jip6-young-leaf",
+    "id": "nyun6jip6-young-leaf",
+    "text": "嫩葉"
+  },
+  {
+    "filename": "nyun6jip6-young-leaf-example-1",
+    "id": "nyun6jip6-young-leaf-example-1",
+    "text": "佢棵玫瑰出咗好多嫩葉。"
+  },
+  {
+    "filename": "nyun6jip6-young-leaf-example-2",
+    "id": "nyun6jip6-young-leaf-example-2",
+    "text": "春天嘅嫩葉特別柔軟。"
+  },
+  {
+    "filename": "nyun6jip6-young-leaf-example-3",
+    "id": "nyun6jip6-young-leaf-example-3",
+    "text": "呢啲嫩葉可以用嚟做沙律。"
+  },
+  {
+    "filename": "nyun6jip6-young-leaf-example-4",
+    "id": "nyun6jip6-young-leaf-example-4",
+    "text": "細路仔好鍾意觀察植物嘅嫩葉。"
+  },
+  {
+    "filename": "pun4zoi1-potted-plant",
+    "id": "pun4zoi1-potted-plant",
+    "text": "盆栽"
+  },
+  {
+    "filename": "pun4zoi1-potted-plant-example-1",
+    "id": "pun4zoi1-potted-plant-example-1",
+    "text": "我屋企有幾盆栽擺喺窗邊。"
+  },
+  {
+    "filename": "pun4zoi1-potted-plant-example-2",
+    "id": "pun4zoi1-potted-plant-example-2",
+    "text": "佢買咗一盆栽送畀阿媽。"
+  },
+  {
+    "filename": "pun4zoi1-potted-plant-example-3",
+    "id": "pun4zoi1-potted-plant-example-3",
+    "text": "呢盆栽幾靚，不過要日日淋水。"
+  },
+  {
+    "filename": "pun4zoi1-potted-plant-example-4",
+    "id": "pun4zoi1-potted-plant-example-4",
+    "text": "店入面賣好多盆栽同花盆。"
+  },
+  {
+    "filename": "sam1lam4-forest",
+    "id": "sam1lam4-forest",
+    "text": "森林"
+  },
+  {
+    "filename": "sam1lam4-forest-example-1",
+    "id": "sam1lam4-forest-example-1",
+    "text": "我哋今個星期去森林行山。"
+  },
+  {
+    "filename": "sam1lam4-forest-example-2",
+    "id": "sam1lam4-forest-example-2",
+    "text": "森林入面有好多唔同嘅動物。"
+  },
+  {
+    "filename": "sam1lam4-forest-example-3",
+    "id": "sam1lam4-forest-example-3",
+    "text": "小朋友好鍾意聽森林故事。"
+  },
+  {
+    "filename": "sam1lam4-forest-example-4",
+    "id": "sam1lam4-forest-example-4",
+    "text": "我哋要保護森林同樹木。"
+  },
+  {
+    "filename": "sang1zoeng2-grow",
+    "id": "sang1zoeng2-grow",
+    "text": "生長"
+  },
+  {
+    "filename": "sang1zoeng2-grow-example-1",
+    "id": "sang1zoeng2-grow-example-1",
+    "text": "呢棵植物喺陽光充足嘅地方生長得好快。"
+  },
+  {
+    "filename": "sang1zoeng2-grow-example-2",
+    "id": "sang1zoeng2-grow-example-2",
+    "text": "小朋友嘅生長需要足夠睡眠同營養。"
+  },
+  {
+    "filename": "sang1zoeng2-grow-example-3",
+    "id": "sang1zoeng2-grow-example-3",
+    "text": "呢啲花喺春天會生長得特別旺盛。"
+  },
+  {
+    "filename": "sang1zoeng2-grow-example-4",
+    "id": "sang1zoeng2-grow-example-4",
+    "text": "如果土壤太乾，植物就唔容易生長。"
+  },
+  {
+    "filename": "sap1-wet",
+    "id": "sap1-wet",
+    "text": "濕"
+  },
+  {
+    "filename": "sap1-wet-example-1",
+    "id": "sap1-wet-example-1",
+    "text": "啲泥仲濕，唔好即刻種花。"
+  },
+  {
+    "filename": "sap1-wet-example-2",
+    "id": "sap1-wet-example-2",
+    "text": "落完雨之後，啲葉都仲好濕。"
+  },
+  {
+    "filename": "sap1-wet-example-3",
+    "id": "sap1-wet-example-3",
+    "text": "你記得幫盆栽抹乾，唔好咁濕。"
+  },
+  {
+    "filename": "sap1-wet-example-4",
+    "id": "sap1-wet-example-4",
+    "text": "呢棵植物鍾意微濕嘅土壤。"
+  },
+  {
+    "filename": "seoi2cou2-aquatic-plant",
+    "id": "seoi2cou2-aquatic-plant",
+    "text": "水草"
+  },
+  {
+    "filename": "seoi2cou2-aquatic-plant-example-1",
+    "id": "seoi2cou2-aquatic-plant-example-1",
+    "text": "魚缸入面種咗好多水草。"
+  },
+  {
+    "filename": "seoi2cou2-aquatic-plant-example-2",
+    "id": "seoi2cou2-aquatic-plant-example-2",
+    "text": "公園個池邊有啲水草。"
+  },
+  {
+    "filename": "seoi2cou2-aquatic-plant-example-3",
+    "id": "seoi2cou2-aquatic-plant-example-3",
+    "text": "佢買咗幾棵水草返屋企。"
+  },
+  {
+    "filename": "seoi2cou2-aquatic-plant-example-4",
+    "id": "seoi2cou2-aquatic-plant-example-4",
+    "text": "呢種水草好適合養蝦。"
+  },
+  {
+    "filename": "seoi2wu4-watering-can",
+    "id": "seoi2wu4-watering-can",
+    "text": "水壺"
+  },
+  {
+    "filename": "seoi2wu4-watering-can-example-1",
+    "id": "seoi2wu4-watering-can-example-1",
+    "text": "請你拎個水壺嚟淋花。"
+  },
+  {
+    "filename": "seoi2wu4-watering-can-example-2",
+    "id": "seoi2wu4-watering-can-example-2",
+    "text": "呢個水壺太細，淋唔到後面嗰盆植物。"
+  },
+  {
+    "filename": "seoi2wu4-watering-can-example-3",
+    "id": "seoi2wu4-watering-can-example-3",
+    "text": "屋企陽台種咗幾盆草，我買咗個新水壺。"
+  },
+  {
+    "filename": "seoi2wu4-watering-can-example-4",
+    "id": "seoi2wu4-watering-can-example-4",
+    "text": "你可唔可以幫我裝滿個水壺？"
+  },
+  {
+    "filename": "si1fei4-fertilize",
+    "id": "si1fei4-fertilize",
+    "text": "施肥"
+  },
+  {
+    "filename": "si1fei4-fertilize-example-1",
+    "id": "si1fei4-fertilize-example-1",
+    "text": "佢每個月都會幫盆栽施肥。"
+  },
+  {
+    "filename": "si1fei4-fertilize-example-2",
+    "id": "si1fei4-fertilize-example-2",
+    "text": "種菜之前，要先施肥。"
+  },
+  {
+    "filename": "si1fei4-fertilize-example-3",
+    "id": "si1fei4-fertilize-example-3",
+    "text": "呢棵玫瑰開花之前最好施肥。"
+  },
+  {
+    "filename": "si1fei4-fertilize-example-4",
+    "id": "si1fei4-fertilize-example-4",
+    "text": "阿媽話陽台啲植物要定期施肥。"
+  },
+  {
+    "filename": "sin1-fresh",
+    "id": "sin1-fresh",
+    "text": "鮮"
+  },
+  {
+    "filename": "sin1-fresh-example-1",
+    "id": "sin1-fresh-example-1",
+    "text": "呢束花好鮮，今日先買返嚟。"
+  },
+  {
+    "filename": "sin1-fresh-example-2",
+    "id": "sin1-fresh-example-2",
+    "text": "呢棵植物嘅葉幾鮮綠。"
+  },
+  {
+    "filename": "sin1-fresh-example-3",
+    "id": "sin1-fresh-example-3",
+    "text": "公園入面啲鮮花開得好靚。"
+  },
+  {
+    "filename": "sin1-fresh-example-4",
+    "id": "sin1-fresh-example-4",
+    "text": "擺喺窗邊嘅鮮草聞落好舒服。"
+  },
+  {
+    "filename": "sin1jan4zoeng2-cactus",
+    "id": "sin1jan4zoeng2-cactus",
+    "text": "仙人掌"
+  },
+  {
+    "filename": "sin1jan4zoeng2-cactus-example-1",
+    "id": "sin1jan4zoeng2-cactus-example-1",
+    "text": "我屋企窗台有一盆仙人掌。"
+  },
+  {
+    "filename": "sin1jan4zoeng2-cactus-example-2",
+    "id": "sin1jan4zoeng2-cactus-example-2",
+    "text": "呢棵仙人掌唔使成日淋水。"
+  },
+  {
+    "filename": "sin1jan4zoeng2-cactus-example-3",
+    "id": "sin1jan4zoeng2-cactus-example-3",
+    "text": "佢鍾意種仙人掌同多肉植物。"
+  },
+  {
+    "filename": "sin1jan4zoeng2-cactus-example-4",
+    "id": "sin1jan4zoeng2-cactus-example-4",
+    "text": "仙人掌開花嗰陣都幾靚。"
+  },
+  {
+    "filename": "sung1tou2-loosen-soil",
+    "id": "sung1tou2-loosen-soil",
+    "text": "鬆土"
+  },
+  {
+    "filename": "sung1tou2-loosen-soil-example-1",
+    "id": "sung1tou2-loosen-soil-example-1",
+    "text": "種花之前，先要鬆土。"
+  },
+  {
+    "filename": "sung1tou2-loosen-soil-example-2",
+    "id": "sung1tou2-loosen-soil-example-2",
+    "text": "啲泥太硬，落水都唔容易入。要先鬆土。"
+  },
+  {
+    "filename": "sung1tou2-loosen-soil-example-3",
+    "id": "sung1tou2-loosen-soil-example-3",
+    "text": "阿媽成日叫我幫佢喺菜盆度鬆土。"
+  },
+  {
+    "filename": "sung1tou2-loosen-soil-example-4",
+    "id": "sung1tou2-loosen-soil-example-4",
+    "text": "落完雨之後，花圃表面有少少結實，記得鬆土。"
+  },
+  {
+    "filename": "syu6-tree",
+    "id": "syu6-tree",
+    "text": "樹"
+  },
+  {
+    "filename": "syu6-tree-example-1",
+    "id": "syu6-tree-example-1",
+    "text": "公園入面有好多樹。"
+  },
+  {
+    "filename": "syu6-tree-example-2",
+    "id": "syu6-tree-example-2",
+    "text": "呢棵樹好高。"
+  },
+  {
+    "filename": "syu6-tree-example-3",
+    "id": "syu6-tree-example-3",
+    "text": "細路仔鍾意喺樹底乘涼。"
+  },
+  {
+    "filename": "syu6-tree-example-4",
+    "id": "syu6-tree-example-4",
+    "text": "我哋屋企前面種咗一棵樹。"
+  },
+  {
+    "filename": "syu6gon3-trunk",
+    "id": "syu6gon3-trunk",
+    "text": "樹幹"
+  },
+  {
+    "filename": "syu6gon3-trunk-example-1",
+    "id": "syu6gon3-trunk-example-1",
+    "text": "呢棵大樹幹好粗。"
+  },
+  {
+    "filename": "syu6gon3-trunk-example-2",
+    "id": "syu6gon3-trunk-example-2",
+    "text": "佢用手摸樹幹。"
+  },
+  {
+    "filename": "syu6gon3-trunk-example-3",
+    "id": "syu6gon3-trunk-example-3",
+    "text": "樹幹入面有蟲洞。"
+  },
+  {
+    "filename": "syu6gon3-trunk-example-4",
+    "id": "syu6gon3-trunk-example-4",
+    "text": "風太大，吹斷咗樹幹。"
+  },
+  {
+    "filename": "syu6pei4-bark",
+    "id": "syu6pei4-bark",
+    "text": "樹皮"
+  },
+  {
+    "filename": "syu6pei4-bark-example-1",
+    "id": "syu6pei4-bark-example-1",
+    "text": "呢棵樹嘅樹皮好粗糙。"
+  },
+  {
+    "filename": "syu6pei4-bark-example-2",
+    "id": "syu6pei4-bark-example-2",
+    "text": "小朋友唔好亂剝樹皮。"
+  },
+  {
+    "filename": "syu6pei4-bark-example-3",
+    "id": "syu6pei4-bark-example-3",
+    "text": "樹皮可以保護樹幹。"
+  },
+  {
+    "filename": "syu6pei4-bark-example-4",
+    "id": "syu6pei4-bark-example-4",
+    "text": "公園入面啲樹皮好厚。"
+  },
+  {
+    "filename": "tang4-vine",
+    "id": "tang4-vine",
+    "text": "藤"
+  },
+  {
+    "filename": "tang4-vine-example-1",
+    "id": "tang4-vine-example-1",
+    "text": "院入面棵藤爬到上棚頂。"
+  },
+  {
+    "filename": "tang4-vine-example-2",
+    "id": "tang4-vine-example-2",
+    "text": "呢種藤好快就包住晒條欄。"
+  },
+  {
+    "filename": "tang4-vine-example-3",
+    "id": "tang4-vine-example-3",
+    "text": "花棚種咗好多藤植物。"
+  },
+  {
+    "filename": "tang4-vine-example-4",
+    "id": "tang4-vine-example-4",
+    "text": "雨季一到，後園啲藤就長得好快。"
+  },
+  {
+    "filename": "tou2joeng6-soil",
+    "id": "tou2joeng6-soil",
+    "text": "土壤"
+  },
+  {
+    "filename": "tou2joeng6-soil-example-1",
+    "id": "tou2joeng6-soil-example-1",
+    "text": "呢盆花要換土壤先會長得好。"
+  },
+  {
+    "filename": "tou2joeng6-soil-example-2",
+    "id": "tou2joeng6-soil-example-2",
+    "text": "種菜之前，要先整鬆啲土壤。"
+  },
+  {
+    "filename": "tou2joeng6-soil-example-3",
+    "id": "tou2joeng6-soil-example-3",
+    "text": "呢度嘅土壤好肥沃，好適合種樹。"
+  },
+  {
+    "filename": "tou2joeng6-soil-example-4",
+    "id": "tou2joeng6-soil-example-4",
+    "text": "落雨之後，土壤會濕晒。"
+  },
+  {
+    "filename": "wun6pun4-repot",
+    "id": "wun6pun4-repot",
+    "text": "換盆"
+  },
+  {
+    "filename": "wun6pun4-repot-example-1",
+    "id": "wun6pun4-repot-example-1",
+    "text": "我諗呢棵龜背竹要換盆喇。"
+  },
+  {
+    "filename": "wun6pun4-repot-example-2",
+    "id": "wun6pun4-repot-example-2",
+    "text": "三個月前我幫佢換盆，依家長得好快。"
+  },
+  {
+    "filename": "wun6pun4-repot-example-3",
+    "id": "wun6pun4-repot-example-3",
+    "text": "盆太細喇，快啲換盆啦。"
+  },
+  {
+    "filename": "wun6pun4-repot-example-4",
+    "id": "wun6pun4-repot-example-4",
+    "text": "如果你想佢開花多啲，換盆之後記得加新泥。"
+  },
+  {
+    "filename": "zi1-branch",
+    "id": "zi1-branch",
+    "text": "枝"
+  },
+  {
+    "filename": "zi1-branch-example-1",
+    "id": "zi1-branch-example-1",
+    "text": "棵樹上面有好多枝。"
+  },
+  {
+    "filename": "zi1-branch-example-2",
+    "id": "zi1-branch-example-2",
+    "text": "風太大，吹斷咗一枝。"
+  },
+  {
+    "filename": "zi1-branch-example-3",
+    "id": "zi1-branch-example-3",
+    "text": "我哋剪走咗啲枯枝。"
+  },
+  {
+    "filename": "zi1-branch-example-4",
+    "id": "zi1-branch-example-4",
+    "text": "佢用枝撐住盆花。"
+  },
+  {
+    "filename": "zik6mat6-plant",
+    "id": "zik6mat6-plant",
+    "text": "植物"
+  },
+  {
+    "filename": "zik6mat6-plant-example-1",
+    "id": "zik6mat6-plant-example-1",
+    "text": "呢度嘅植物生得好茂盛。"
+  },
+  {
+    "filename": "zik6mat6-plant-example-2",
+    "id": "zik6mat6-plant-example-2",
+    "text": "我屋企有幾盆植物。"
+  },
+  {
+    "filename": "zik6mat6-plant-example-3",
+    "id": "zik6mat6-plant-example-3",
+    "text": "佢鍾意研究熱帶植物。"
+  },
+  {
+    "filename": "zik6mat6-plant-example-4",
+    "id": "zik6mat6-plant-example-4",
+    "text": "呢種植物好適合放喺窗邊。"
+  },
+  {
+    "filename": "zin2dou1-shears",
+    "id": "zin2dou1-shears",
+    "text": "剪刀"
+  },
+  {
+    "filename": "zin2dou1-shears-example-1",
+    "id": "zin2dou1-shears-example-1",
+    "text": "佢喺花園用剪刀修剪枝葉。"
+  },
+  {
+    "filename": "zin2dou1-shears-example-2",
+    "id": "zin2dou1-shears-example-2",
+    "text": "請借把剪刀俾我。"
+  },
+  {
+    "filename": "zin2dou1-shears-example-3",
+    "id": "zin2dou1-shears-example-3",
+    "text": "媽媽用剪刀剪開包裝。"
+  },
+  {
+    "filename": "zin2dou1-shears-example-4",
+    "id": "zin2dou1-shears-example-4",
+    "text": "園丁每日都會帶剪刀。"
+  },
+  {
+    "filename": "zin2zi1-prune-branches",
+    "id": "zin2zi1-prune-branches",
+    "text": "剪枝"
+  },
+  {
+    "filename": "zin2zi1-prune-branches-example-1",
+    "id": "zin2zi1-prune-branches-example-1",
+    "text": "園丁每個月都會做剪枝，保持棵樹生長得整齊。"
+  },
+  {
+    "filename": "zin2zi1-prune-branches-example-2",
+    "id": "zin2zi1-prune-branches-example-2",
+    "text": "呢棵玫瑰太密，要剪枝先至會出得靚。"
+  },
+  {
+    "filename": "zin2zi1-prune-branches-example-3",
+    "id": "zin2zi1-prune-branches-example-3",
+    "text": "如果你想植物健康啲，就要學識點樣剪枝。"
+  },
+  {
+    "filename": "zin2zi1-prune-branches-example-4",
+    "id": "zin2zi1-prune-branches-example-4",
+    "text": "佢喺後園幫阿媽剪枝，順便執埋啲枯葉。"
+  },
+  {
+    "filename": "zong3-vigorous",
+    "id": "zong3-vigorous",
+    "text": "壯"
+  },
+  {
+    "filename": "zong3-vigorous-example-1",
+    "id": "zong3-vigorous-example-1",
+    "text": "呢棵玫瑰生得好壯。"
+  },
+  {
+    "filename": "zong3-vigorous-example-2",
+    "id": "zong3-vigorous-example-2",
+    "text": "啲菜苗今日睇落幾壯。"
+  },
+  {
+    "filename": "zong3-vigorous-example-3",
+    "id": "zong3-vigorous-example-3",
+    "text": "佢啲蘭花開完之後都仲好壯。"
+  },
+  {
+    "filename": "zong3-vigorous-example-4",
+    "id": "zong3-vigorous-example-4",
+    "text": "落咗肥之後，棵樹即刻壯咗。"
+  },
+  {
+    "filename": "zuk1-bamboo",
+    "id": "zuk1-bamboo",
+    "text": "竹"
+  },
+  {
+    "filename": "zuk1-bamboo-example-1",
+    "id": "zuk1-bamboo-example-1",
+    "text": "山邊有好多竹。"
+  },
+  {
+    "filename": "zuk1-bamboo-example-2",
+    "id": "zuk1-bamboo-example-2",
+    "text": "佢屋企後園種咗幾棵竹。"
+  },
+  {
+    "filename": "zuk1-bamboo-example-3",
+    "id": "zuk1-bamboo-example-3",
+    "text": "呢張枱係竹做㗎。"
+  },
+  {
+    "filename": "zuk1-bamboo-example-4",
+    "id": "zuk1-bamboo-example-4",
+    "text": "熊貓最鍾意食竹。"
+  },
+  {
+    "filename": "zung2zi2-seed",
+    "id": "zung2zi2-seed",
+    "text": "種子"
+  },
+  {
+    "filename": "zung2zi2-seed-example-1",
+    "id": "zung2zi2-seed-example-1",
+    "text": "我買咗幾粒種子返嚟種。"
+  },
+  {
+    "filename": "zung2zi2-seed-example-2",
+    "id": "zung2zi2-seed-example-2",
+    "text": "呢啲種子好細粒。"
+  },
+  {
+    "filename": "zung2zi2-seed-example-3",
+    "id": "zung2zi2-seed-example-3",
+    "text": "春天係播種子嘅好時間。"
+  },
+  {
+    "filename": "zung2zi2-seed-example-4",
+    "id": "zung2zi2-seed-example-4",
+    "text": "佢將種子種喺花盆入面。"
+  },
+  {
+    "filename": "zung3-plant-grow",
+    "id": "zung3-plant-grow",
+    "text": "種"
+  },
+  {
+    "filename": "zung3-plant-grow-example-1",
+    "id": "zung3-plant-grow-example-1",
+    "text": "我喺屋企後園種咗幾棵番茄。"
+  },
+  {
+    "filename": "zung3-plant-grow-example-2",
+    "id": "zung3-plant-grow-example-2",
+    "text": "佢好鍾意種花，成個露台都係。"
+  },
+  {
+    "filename": "zung3-plant-grow-example-3",
+    "id": "zung3-plant-grow-example-3",
+    "text": "春天最啱種菜。"
+  },
+  {
+    "filename": "zung3-plant-grow-example-4",
+    "id": "zung3-plant-grow-example-4",
+    "text": "阿媽叫我落樓種啲葱。"
   }
 ]

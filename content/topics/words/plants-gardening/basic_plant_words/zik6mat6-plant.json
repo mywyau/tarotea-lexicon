@@ -1,0 +1,58 @@
+{
+  "id": "zik6mat6-plant",
+  "word": "植物",
+  "jyutping": "zik6 mat6",
+  "meaning": "plant",
+  "pos": ["noun"],
+  "usage": [
+    "Countable in everyday speech: use 植物 for a plant or plants in general.",
+    "Common in school, gardening, and nature contexts; it sounds neutral and natural.",
+    "Often appears with words like 種植, 花園, and 保護 when talking about growing or caring for plants.",
+    "In casual speech, people may also use more specific plant names when they know them, but 植物 is the general umbrella word."
+  ],
+  "examples": [
+    {
+      "id": "zik6mat6-plant-example-1",
+      "sentence": "呢度嘅植物生得好茂盛。",
+      "jyutping": "ni1 dou6 ge3 zik6 mat6 sang1 dak1 hou2 mau6 sing6.",
+      "meaning": "The plants here are growing very lushly."
+    },
+    {
+      "id": "zik6mat6-plant-example-2",
+      "sentence": "我細個好鍾意睇植物圖鑑。",
+      "jyutping": "ngo5 sai3 go3 hou2 zung1 ji3 tai2 zik6 mat6 tou4 gaan3.",
+      "meaning": "When I was little, I liked looking at plant books."
+    },
+    {
+      "id": "zik6mat6-plant-example-3",
+      "sentence": "陽台上面擺咗幾盆植物。",
+      "jyutping": "joeng4 toi4 soeng6 min6 baai2 zo2 gei2 pun4 zik6 mat6.",
+      "meaning": "There are a few potted plants on the balcony."
+    },
+    {
+      "id": "zik6mat6-plant-example-4",
+      "sentence": "呢種植物唔適合曬太陽。",
+      "jyutping": "ni1 zung2 zik6 mat6 m4 sik1 hap6 saai3 taai3 joeng4.",
+      "meaning": "This kind of plant is not suitable for strong sunlight."
+    }
+  ],
+  "audio": {
+    "word": "zik6mat6-plant.mp3",
+    "examples": [
+      "zik6mat6-plant-example-1.mp3",
+      "zik6mat6-plant-example-2.mp3",
+      "zik6mat6-plant-example-3.mp3",
+      "zik6mat6-plant-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "plants",
+    "gardening",
+    "nature",
+    "basic vocabulary",
+    "noun",
+    "school vocabulary",
+    "level-1"
+  ],
+  "related": ["花", "樹", "盆栽", "種植"]
+}

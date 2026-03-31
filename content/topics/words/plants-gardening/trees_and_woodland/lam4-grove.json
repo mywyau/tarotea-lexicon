@@ -1,0 +1,65 @@
+{
+  "id": "lam4-grove",
+  "word": "林",
+  "jyutping": "lam4",
+  "meaning": "grove",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 林 to mean a grove or a small wooded area. It sounds literary and a bit formal, so it is less common in everyday speech than 森林.",
+    "It often appears in place names, scenic descriptions, and written Cantonese/Chinese. For a general “forest” meaning, 森林 is more common.",
+    "林 can also be part of compounds and names, where it keeps its nature/woodland feel. In those cases, the exact meaning depends on the whole phrase.",
+    "As a noun, 林 can stand alone or be used with measure words like 一片林. It usually refers to a group of trees rather than one single tree."
+  ],
+  "examples": [
+    {
+      "id": "lam4-grove-example-1",
+      "sentence": "山腳有一片小林。",
+      "jyutping": "saan1 goek3 jau5 jat1 pin3 siu2 lam4",
+      "meaning": "There is a small grove at the foot of the hill."
+    },
+    {
+      "id": "lam4-grove-example-2",
+      "sentence": "呢度以前係一個竹林。",
+      "jyutping": "ni1 dou6 ji5 cin4 hai6 jat1 go3 zuk1 lam4",
+      "meaning": "This used to be a bamboo grove here."
+    },
+    {
+      "id": "lam4-grove-example-3",
+      "sentence": "佢哋喺果林入面行。",
+      "jyutping": "keoi5 dei6 hai2 gwo2 lam4 jap6 min6 hang4",
+      "meaning": "They walked inside the orchard/wooded grove."
+    },
+    {
+      "id": "lam4-grove-example-4",
+      "sentence": "清晨嘅林好安靜。",
+      "jyutping": "cing1 san4 ge3 lam4 hou2 on1 zing6",
+      "meaning": "The grove is very quiet in the early morning."
+    }
+  ],
+  "audio": {
+    "word": "lam4-grove.mp3",
+    "examples": [
+      "lam4-grove-example-1.mp3",
+      "lam4-grove-example-2.mp3",
+      "lam4-grove-example-3.mp3",
+      "lam4-grove-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "plants-gardening",
+    "trees",
+    "woodland",
+    "nature",
+    "scenery",
+    "basic-vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "森林",
+    "樹林",
+    "竹林",
+    "果林"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "coi3-greens",
+  "word": "菜",
+  "jyutping": "coi3",
+  "meaning": "greens; vegetable plant",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Common word for leafy vegetables or greens in everyday Cantonese; often used when talking about food, markets, and cooking.",
+    "Very often appears in compounds like 蔬菜 or before a specific type of vegetable, e.g. 菜心, 生菜.",
+    "Can refer to vegetables in general, but in daily speech it may sound a bit more like “greens” than the broad formal English “vegetable.”",
+    "Use it naturally in everyday conversation; it is neutral and very common in Hong Kong speech."
+  ],
+  "examples": [
+    {
+      "id": "coi3-greens-example-1",
+      "sentence": "我今日想買啲菜返屋企煮。",
+      "jyutping": "ngo5 gam1 jat6 soeng2 maai5 di1 coi3 faan1 uk1 hei2 zyu2.",
+      "meaning": "I want to buy some vegetables to cook at home today."
+    },
+    {
+      "id": "coi3-greens-example-2",
+      "sentence": "呢度啲菜好新鮮。",
+      "jyutping": "ni1 dou6 di1 coi3 hou2 san1 sin1.",
+      "meaning": "The vegetables here are very fresh."
+    },
+    {
+      "id": "coi3-greens-example-3",
+      "sentence": "阿媽叫我食多啲菜。",
+      "jyutping": "aa3 maa1 giu3 ngo5 sik6 do1 di1 coi3.",
+      "meaning": "Mom told me to eat more vegetables."
+    },
+    {
+      "id": "coi3-greens-example-4",
+      "sentence": "佢喺菜市場揀咗好多菜。",
+      "jyutping": "keoi5 hai2 coi3 si5 coeng4 gaan2 zo2 hou2 do1 coi3.",
+      "meaning": "He picked out a lot of vegetables at the market."
+    }
+  ],
+  "audio": {
+    "word": "coi3-greens.mp3",
+    "examples": [
+      "coi3-greens-example-1.mp3",
+      "coi3-greens-example-2.mp3",
+      "coi3-greens-example-3.mp3",
+      "coi3-greens-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "plants",
+    "gardening",
+    "vegetables",
+    "food",
+    "basic vocabulary",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": [
+    "蔬菜",
+    "菜心",
+    "生菜",
+    "芥蘭"
+  ]
+}

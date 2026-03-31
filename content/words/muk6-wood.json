@@ -1,0 +1,59 @@
+{
+  "id": "muk6-wood",
+  "word": "木",
+  "jyutping": "muk6",
+  "meaning": "wood",
+  "pos": ["noun"],
+  "usage": [
+    "木 is the basic noun for “wood” or “timber”; it often refers to the material, not the living tree.",
+    "It is commonly used in compounds about materials, furniture, buildings, and tools, such as wooden objects or wood products.",
+    "In everyday Cantonese, 木 sounds natural in simple, concrete contexts; for more specific meanings, people may use other words like 木頭 in some speech.",
+    "When talking about plants or gardening, 木 can describe the hard woody part of a plant or the wood material from trees; it is usually not used for the whole tree itself."
+  ],
+  "examples": [
+    {
+      "id": "muk6-wood-example-1",
+      "sentence": "呢張枱係木造嘅。",
+      "jyutping": "ni1 zoeng1 toi2 hai6 muk6 zou6 ge3.",
+      "meaning": "This table is made of wood."
+    },
+    {
+      "id": "muk6-wood-example-2",
+      "sentence": "佢買咗一塊木去整手工。",
+      "jyutping": "keoi5 maai5 zo2 jat1 faai3 muk6 heoi3 zing2 sau2 gung1.",
+      "meaning": "He bought a piece of wood to do crafts."
+    },
+    {
+      "id": "muk6-wood-example-3",
+      "sentence": "公園入面有好多木凳。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 hou2 do1 muk6 dang3.",
+      "meaning": "There are many wooden benches in the park."
+    },
+    {
+      "id": "muk6-wood-example-4",
+      "sentence": "呢棵樹啲木好硬。",
+      "jyutping": "ni1 po1 syu6 di1 muk6 hou2 ngaang6.",
+      "meaning": "The wood of this tree is very hard."
+    }
+  ],
+  "audio": {
+    "word": "muk6-wood.mp3",
+    "examples": [
+      "muk6-wood-example-1.mp3",
+      "muk6-wood-example-2.mp3",
+      "muk6-wood-example-3.mp3",
+      "muk6-wood-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "wood",
+    "timber",
+    "material",
+    "basic vocabulary",
+    "plants and gardening",
+    "trees and woodland",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": ["木頭", "木材", "木工", "木板", "樹木"]
+}

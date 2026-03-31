@@ -1,0 +1,66 @@
+{
+  "id": "muk6-wood",
+  "word": "木",
+  "jyutping": "muk6",
+  "meaning": "wood",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Countable or uncountable depending on meaning: 木 can mean \"wood\" as a material, and also a \"tree\" in some set phrases or older usage.",
+    "Common in everyday talk about furniture, construction, crafts, and nature. It often sits after a classifier when you mean a piece or type of wood.",
+    "Very neutral register. Easy learner word, but watch the context: if you mean a living tree, Cantonese often uses 樹 instead of 木.",
+    "Often appears in compounds and set phrases such as 木門, 木枱, 木頭, and 木工."
+  ],
+  "examples": [
+    {
+      "id": "muk6-wood-example-1",
+      "sentence": "呢張枱係木做嘅。",
+      "jyutping": "ni1 zoeng1 toi2 hai6 muk6 zou6 ge3",
+      "meaning": "This table is made of wood."
+    },
+    {
+      "id": "muk6-wood-example-2",
+      "sentence": "公園入面有好多大樹同木板路。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 hou2 do1 daai6 syu6 tung4 muk6 baan2 lou6",
+      "meaning": "There are many big trees and wooden boardwalks in the park."
+    },
+    {
+      "id": "muk6-wood-example-3",
+      "sentence": "佢鍾意用木砌模型。",
+      "jyutping": "keoi5 zung1 ji3 jung6 muk6 cai3 mou4 jing4",
+      "meaning": "He likes using wood to build models."
+    },
+    {
+      "id": "muk6-wood-example-4",
+      "sentence": "呢種木幾靚，適合做櫃。",
+      "jyutping": "ni1 zung2 muk6 gei2 leng3, sik1 hap6 zou6 gwai6",
+      "meaning": "This kind of wood is quite nice and suitable for making a cabinet."
+    }
+  ],
+  "audio": {
+    "word": "muk6-wood.mp3",
+    "examples": [
+      "muk6-wood-example-1.mp3",
+      "muk6-wood-example-2.mp3",
+      "muk6-wood-example-3.mp3",
+      "muk6-wood-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "plants-gardening",
+    "trees_and_woodland",
+    "beginner",
+    "material",
+    "nature",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": [
+    "木頭",
+    "木工",
+    "木板",
+    "木門",
+    "樹木"
+  ]
+}

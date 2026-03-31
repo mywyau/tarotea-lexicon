@@ -1,0 +1,65 @@
+{
+  "id": "syu6-tree",
+  "word": "樹",
+  "jyutping": "syu6",
+  "meaning": "tree",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used as a general noun for a tree. It is the everyday word in Hong Kong Cantonese and works in both speech and writing.",
+    "Commonly used with classifiers like 一棵樹, 呢棵樹, 嗰棵樹. The classifier 棵 is the natural choice for plants and trees.",
+    "Can refer to a single tree or trees in general, depending on context. For the plural idea, Cantonese often relies on context rather than adding a plural ending.",
+    "Very common in nature, gardening, and everyday descriptions. It is neutral in register and easy to use in basic sentences."
+  ],
+  "examples": [
+    {
+      "id": "syu6-tree-example-1",
+      "sentence": "公園入面有一棵大樹。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 jat1 fo2 daai6 syu6.",
+      "meaning": "There is a big tree in the park."
+    },
+    {
+      "id": "syu6-tree-example-2",
+      "sentence": "呢棵樹好高。",
+      "jyutping": "ni1 fo2 syu6 hou2 gou1.",
+      "meaning": "This tree is very tall."
+    },
+    {
+      "id": "syu6-tree-example-3",
+      "sentence": "風太大，樹都吹郁晒。",
+      "jyutping": "fung1 taai3 daai6, syu6 dou1 ceoi1 juk1 saai3.",
+      "meaning": "The wind was so strong that the trees were all swaying."
+    },
+    {
+      "id": "syu6-tree-example-4",
+      "sentence": "佢喺屋企後面種咗兩棵樹。",
+      "jyutping": "keoi5 hai2 uk1 kei2 hau6 min6 zung3 zo2 loeng5 fo2 syu6.",
+      "meaning": "He planted two trees behind the house."
+    }
+  ],
+  "audio": {
+    "word": "syu6-tree.mp3",
+    "examples": [
+      "syu6-tree-example-1.mp3",
+      "syu6-tree-example-2.mp3",
+      "syu6-tree-example-3.mp3",
+      "syu6-tree-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic vocabulary",
+    "plants",
+    "gardening",
+    "nature",
+    "noun",
+    "level 1",
+    "level-1"
+  ],
+  "related": [
+    "樹木",
+    "大樹",
+    "細樹",
+    "棵樹"
+  ]
+}
