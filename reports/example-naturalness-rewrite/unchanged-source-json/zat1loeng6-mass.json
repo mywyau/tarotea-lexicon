@@ -1,0 +1,65 @@
+{
+  "id": "zat1loeng6-mass",
+  "word": "質量",
+  "jyutping": "zat1 loeng6",
+  "meaning": "mass",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "質量 (zat1 loeng6) is a noun that refers to the property of matter related to the amount of substance; it is not the same as weight.",
+    "In sentences, 質量 typically takes measure words like '個' when referring to specific objects or amounts.",
+    "質量 can be used in both scientific and everyday contexts when talking about how heavy or substantial something is.",
+    "It generally appears as the subject or object in a sentence, such as 'The mass of this object is...' or 'This object’s mass is...'."
+  ],
+  "examples": [
+    {
+      "id": "zat1loeng6-mass-example-1",
+      "sentence": "呢個石頭嘅質量好重。",
+      "jyutping": "ni1 go3 sek6 tau4 ge3 zat1 loeng6 hou2 zung6.",
+      "meaning": "The mass of this stone is very heavy."
+    },
+    {
+      "id": "zat1loeng6-mass-example-2",
+      "sentence": "質量同體積係兩個唔同嘅概念。",
+      "jyutping": "zat1 loeng6 tung4 tai2 zik1 hai6 loeng5 go3 m4 tung4 ge3 koi3 nim6.",
+      "meaning": "Mass and volume are two different concepts."
+    },
+    {
+      "id": "zat1loeng6-mass-example-3",
+      "sentence": "喺物理學入面，質量係物體嘅基本特性。",
+      "jyutping": "hai2 mat6 lei5 hok6 jap6 min6, zat1 loeng6 hai6 mat6 tai2 ge3 gei1 bun2 dak6 sing3.",
+      "meaning": "In physics, mass is a fundamental property of an object."
+    },
+    {
+      "id": "zat1loeng6-mass-example-4",
+      "sentence": "努力運動唔會改變你嘅體重，但會影響你嘅質量。",
+      "jyutping": "nou5 lik6 wan6 dung6 m4 wui5 goi2 bin3 nei5 ge3 tai2 zung6, daan6 wui5 jing2 hoeng2 nei5 ge3 zat1 loeng6.",
+      "meaning": "Exercising hard may not change your weight, but it can affect your mass."
+    }
+  ],
+  "audio": {
+    "word": "zat1loeng6-mass.mp3",
+    "examples": [
+      "zat1loeng6-mass-example-1.mp3",
+      "zat1loeng6-mass-example-2.mp3",
+      "zat1loeng6-mass-example-3.mp3",
+      "zat1loeng6-mass-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "physics",
+    "science",
+    "mass",
+    "matter",
+    "basic vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "重量 (zung6 loeng6)",
+    "體積 (tai2 zik1)",
+    "物質 (mat6 zat1)",
+    "力 (lik6)",
+    "密度 (mat6 dou6)"
+  ]
+}

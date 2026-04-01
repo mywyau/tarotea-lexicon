@@ -1,0 +1,59 @@
+{
+  "id": "ling4gu2-tambourine",
+  "word": "鈴鼓",
+  "jyutping": "ling4 gu2",
+  "meaning": "tambourine",
+  "pos": ["noun"],
+  "usage": [
+    "A common noun for a tambourine, a small handheld percussion instrument used in music, singing, and dance.",
+    "Often appears in performance settings such as school shows, church music, band practice, and children’s songs.",
+    "Can refer to either the instrument itself or the rhythmic part played with it; context usually makes the meaning clear.",
+    "Learners should remember it is a countable noun in English-style usage, but in Cantonese it is typically used just like a normal object noun."
+  ],
+  "examples": [
+    {
+      "id": "ling4gu2-tambourine-example-1",
+      "sentence": "佢喺學校表演度打鈴鼓。",
+      "jyutping": "keoi5 hai2 hok6 haau6 biu2 jin2 dou6 daa2 ling4 gu2.",
+      "meaning": "He/she played the tambourine in a school performance."
+    },
+    {
+      "id": "ling4gu2-tambourine-example-2",
+      "sentence": "細路仔好鍾意跟住音樂搖鈴鼓。",
+      "jyutping": "sai3 lou6 zai2 hou2 zung1 ji3 gan1 zyu6 jam1 ngok6 jiu4 ling4 gu2.",
+      "meaning": "Children like to shake the tambourine along with the music."
+    },
+    {
+      "id": "ling4gu2-tambourine-example-3",
+      "sentence": "樂隊加咗鈴鼓，成首歌聽落更有節奏。",
+      "jyutping": "ngok6 deoi6 gaa1 zo2 ling4 gu2, sing4 sau2 go1 teng1 lok6 gang3 jau5 zit3 zau6.",
+      "meaning": "The band added a tambourine, and the whole song sounds more rhythmic."
+    },
+    {
+      "id": "ling4gu2-tambourine-example-4",
+      "sentence": "老師叫我哋輪流打鈴鼓。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 leon4 lau4 daa2 ling4 gu2.",
+      "meaning": "The teacher asked us to take turns playing the tambourine."
+    }
+  ],
+  "audio": {
+    "word": "ling4gu2-tambourine.mp3",
+    "examples": [
+      "ling4gu2-tambourine-example-1.mp3",
+      "ling4gu2-tambourine-example-2.mp3",
+      "ling4gu2-tambourine-example-3.mp3",
+      "ling4gu2-tambourine-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "music",
+    "instrument",
+    "percussion",
+    "performance",
+    "school",
+    "children",
+    "easy",
+    "level-1"
+  ],
+  "related": ["鼓", "樂器", "拍子", "節奏", "打鼓"]
+}

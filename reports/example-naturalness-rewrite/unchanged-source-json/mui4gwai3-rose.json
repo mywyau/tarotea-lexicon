@@ -1,0 +1,60 @@
+{
+  "id": "mui4gwai3-rose",
+  "word": "玫瑰",
+  "jyutping": "mui4 gwai3",
+  "meaning": "rose",
+  "pos": ["noun"],
+  "usage": [
+    "A common noun for the flower \"rose\"; in Cantonese it is usually used for the plant/flower itself.",
+    "Works naturally with color words and adjectives, like red, pink, fragrant, or fresh.",
+    "Often appears in gardening, flower-gift, and Valentine’s Day contexts.",
+    "For learners, this is a basic concrete noun, so it can be counted and modified with classifiers when needed."
+  ],
+  "examples": [
+    {
+      "id": "mui4gwai3-rose-example-1",
+      "sentence": "我買咗一支玫瑰送畀佢。",
+      "jyutping": "ngo5 maai5 zo2 jat1 zi1 mui4 gwai3 sung3 bei2 keoi5.",
+      "meaning": "I bought a rose to give to her/him."
+    },
+    {
+      "id": "mui4gwai3-rose-example-2",
+      "sentence": "呢棵玫瑰開花喇。",
+      "jyutping": "ni1 po1 mui4 gwai3 hoi1 faa1 laa3.",
+      "meaning": "This rose plant is blooming."
+    },
+    {
+      "id": "mui4gwai3-rose-example-3",
+      "sentence": "花店入面有好多紅色玫瑰。",
+      "jyutping": "faa1 dim3 jap6 min6 jau5 hou2 do1 hung4 sik1 mui4 gwai3.",
+      "meaning": "There are lots of red roses in the flower shop."
+    },
+    {
+      "id": "mui4gwai3-rose-example-4",
+      "sentence": "佢鍾意種玫瑰同其他花。",
+      "jyutping": "keoi5 zung1 ji3 zung3 mui4 gwai3 tung4 kei4 taa1 faa1.",
+      "meaning": "He/She likes growing roses and other flowers."
+    }
+  ],
+  "audio": {
+    "word": "mui4gwai3-rose.mp3",
+    "examples": [
+      "mui4gwai3-rose-example-1.mp3",
+      "mui4gwai3-rose-example-2.mp3",
+      "mui4gwai3-rose-example-3.mp3",
+      "mui4gwai3-rose-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "plants-gardening",
+    "common_plants_and_flowers",
+    "Level 1",
+    "noun",
+    "flower",
+    "garden",
+    "gift",
+    "Valentine's Day",
+    "level-1"
+  ],
+  "related": ["花", "花店", "花束", "園藝", "植物"]
+}

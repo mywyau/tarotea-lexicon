@@ -1,0 +1,66 @@
+{
+  "id": "waai6zo2-malfunction",
+  "word": "壞咗",
+  "jyutping": "waai6 zo2",
+  "meaning": "it’s broken",
+
+  "pos": ["verb phrase"],
+
+  "usage": [
+    "Used to say that something is broken or no longer functioning",
+    "Very common when reporting problems with objects or machines",
+    "Often follows the object that is broken"
+  ],
+
+  "examples": [
+    {
+      "id": "waai6zo2-malfunction-example-1",
+      "sentence": "部電話壞咗。",
+      "jyutping": "bou6 din6 waa2 waai6 zo2",
+      "meaning": "The phone is broken."
+    },
+    {
+      "id": "waai6zo2-malfunction-example-2",
+      "sentence": "部電腦壞咗。",
+      "jyutping": "bou6 din6 nou5 waai6 zo2",
+      "meaning": "The computer is broken."
+    },
+    {
+      "id": "waai6zo2-malfunction-example-3",
+      "sentence": "部升降機壞咗。",
+      "jyutping": "bou6 sing1 gong1 gei1 waai6 zo2",
+      "meaning": "The lift is broken."
+    },
+    {
+      "id": "waai6zo2-malfunction-example-4",
+      "sentence": "呢個遙控器壞咗。",
+      "jyutping": "ni1 go3 jiu4 hung3 hei3 waai6 zo2",
+      "meaning": "This remote control is broken."
+    },
+    {
+      "id": "waai6zo2-malfunction-example-5",
+      "sentence": "架車壞咗。",
+      "jyutping": "gaa3 ce1 waai6 zo2",
+      "meaning": "The car is broken."
+    }
+  ],
+
+  "audio": {
+    "word": "waai6zo2-malfunction.mp3",
+    "examples": [
+      "waai6zo2-malfunction-example-1.mp3",
+      "waai6zo2-malfunction-example-2.mp3",
+      "waai6zo2-malfunction-example-3.mp3",
+      "waai6zo2-malfunction-example-4.mp3",
+      "waai6zo2-malfunction-example-5.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-1", "core", "problems", "survival"],
+
+  "related": [
+    "m4gin3zo2-lost",
+    "m4dak1-not-working",
+    "jau5man6tai4-problem"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "jin4ng6-delay",
+  "word": "延誤",
+  "jyutping": "jin4 ng6",
+  "meaning": "delay",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '延誤' functions primarily as a noun meaning 'delay'.",
+    "It is often used to describe something being postponed or late, especially in contexts like travel and schedules.",
+    "'延誤' can be followed by verbs like '發生' (to happen), '導致' (to cause), or a noun specifying the type of delay.",
+    "It is common to use '因為延誤' to explain the reason for something being late.",
+    "You can also use '延誤時間' to specify how long the delay lasted."
+  ],
+  "examples": [
+    {
+      "id": "jin4ng6-delay-example-1",
+      "sentence": "今朝班機有延誤，要等多半個鐘。",
+      "jyutping": "gam1 ziu1 baan1 gei1 jau5 jin4 ng6, jiu3 dang2 do1 bun3 go3 zung1.",
+      "meaning": "The flight was delayed this morning, we have to wait for over half an hour."
+    },
+    {
+      "id": "jin4ng6-delay-example-2",
+      "sentence": "因為地鐵延誤，我遲到了。",
+      "jyutping": "jan1 wai6 dei6 tit3 jin4 ng6, ngo5 ci4 dou3 liu5.",
+      "meaning": "Because of the subway delay, I arrived late."
+    },
+    {
+      "id": "jin4ng6-delay-example-3",
+      "sentence": "航班延誤會影響好多乘客。",
+      "jyutping": "hong4 baan1 jin4 ng6 wui5 jing2 hoeng2 hou2 do1 sing4 haak3.",
+      "meaning": "Flight delays affect many passengers."
+    },
+    {
+      "id": "jin4ng6-delay-example-4",
+      "sentence": "延誤時間長，大家都好唔開心。",
+      "jyutping": "jin4 ng6 si4 gaan3 coeng4, daai6 gaa1 dou1 hou2 m4 hoi1 sam1.",
+      "meaning": "The delay was long, everyone was unhappy."
+    }
+  ],
+  "audio": {
+    "word": "jin4ng6-delay.mp3",
+    "examples": [
+      "jin4ng6-delay-example-1.mp3",
+      "jin4ng6-delay-example-2.mp3",
+      "jin4ng6-delay-example-3.mp3",
+      "jin4ng6-delay-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "travel",
+    "airport",
+    "flights",
+    "delay",
+    "public transport",
+    "level-1"
+  ],
+  "related": [
+    "航班 (hong4 baan1) - flight",
+    "班機 (baan1 gei1) - flight",
+    "誤點 (ng6 dim2) - delayed (arriving late)",
+    "地鐵 (dei6 tit3) - subway",
+    "時間表 (si4 gaan3 biu2) - timetable/schedule"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ping4fong1-square",
+  "word": "平方",
+  "jyutping": "ping4 fong1",
+  "meaning": "square",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used in math to mean the square of a number or shape-related square measurement. It often appears after a number, like X and then 平方.",
+    "Common in school, textbooks, and everyday maths talk. Very neutral and standard.",
+    "When talking about area, 平方 is often paired with units such as 平方厘米, 平方米, or 平方公里.",
+    "Learners should remember that 平方 is a fixed math term, not the same as ordinary words for \"square\" in shape or design contexts."
+  ],
+  "examples": [
+    {
+      "id": "ping4fong1-square-example-1",
+      "sentence": "二的平方係四。",
+      "jyutping": "ji6 dik1 ping4 fong1 hai6 sei3.",
+      "meaning": "2 squared is 4."
+    },
+    {
+      "id": "ping4fong1-square-example-2",
+      "sentence": "呢塊地有一百平方米。",
+      "jyutping": "ni1 faai3 dei6 jau5 jat1 baak3 ping4 fong1 mai5.",
+      "meaning": "This plot of land is 100 square metres."
+    },
+    {
+      "id": "ping4fong1-square-example-3",
+      "sentence": "你要先計平方，再開根號。",
+      "jyutping": "nei5 jiu3 sin1 gai3 ping4 fong1, zoi3 hoi1 gan1 hou6.",
+      "meaning": "You need to square it first, then take the square root."
+    },
+    {
+      "id": "ping4fong1-square-example-4",
+      "sentence": "老師叫我哋寫平方同立方。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 se2 ping4 fong1 tung4 laap6 fong1.",
+      "meaning": "The teacher asked us to write the square and cube forms."
+    }
+  ],
+  "audio": {
+    "word": "ping4fong1-square.mp3",
+    "examples": [
+      "ping4fong1-square-example-1.mp3",
+      "ping4fong1-square-example-2.mp3",
+      "ping4fong1-square-example-3.mp3",
+      "ping4fong1-square-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "square",
+    "power",
+    "algebra",
+    "school vocabulary",
+    "measurements",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "開根號",
+    "立方",
+    "次方",
+    "平方根",
+    "面積"
+  ]
+}

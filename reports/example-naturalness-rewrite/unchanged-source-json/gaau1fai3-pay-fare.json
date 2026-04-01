@@ -1,0 +1,66 @@
+{
+  "id": "gaau1fai3-pay-fare",
+  "word": "交費",
+  "jyutping": "gaau1 fai3",
+  "meaning": "pay fare",
+  "pos": [
+    "verb phrase"
+  ],
+  "usage": [
+    "The phrase '交費' (gaau1 fai3) is used as a verb phrase meaning 'to pay fare' in transportation contexts.",
+    "It typically appears when talking about the action of giving money for travel, such as bus or train fares.",
+    "'交費' can be used in both formal and informal situations related to transport payments.",
+    "It is often combined with mode-specific words like '巴士交費' (bus fare payment) or '地鐵交費' (MTR fare payment).",
+    "The phrase can be used independently or with objects, for example, 交費幾多錢? (How much is the fare payment?)."
+  ],
+  "examples": [
+    {
+      "id": "gaau1fai3-pay-fare-example-1",
+      "sentence": "我坐巴士之前要交費。",
+      "jyutping": "ngo5 co5 baa1 si2 zi1 cin4 jiu3 gaau1 fai3.",
+      "meaning": "I need to pay the fare before taking the bus."
+    },
+    {
+      "id": "gaau1fai3-pay-fare-example-2",
+      "sentence": "你記得交費先喇！",
+      "jyutping": "nei5 gei3 dak1 gaau1 fai3 sin1 laa3!",
+      "meaning": "Remember to pay the fare first!"
+    },
+    {
+      "id": "gaau1fai3-pay-fare-example-3",
+      "sentence": "地鐵口有自動交費機。",
+      "jyutping": "dei6 tit3 hau2 jau5 zi6 dung6 gaau1 fai3 gei1.",
+      "meaning": "There is an automatic fare payment machine at the MTR exit."
+    },
+    {
+      "id": "gaau1fai3-pay-fare-example-4",
+      "sentence": "交費完就可以上車。",
+      "jyutping": "gaau1 fai3 yun4 zau6 ho2 ji5 soeng5 ce1.",
+      "meaning": "After paying the fare, you can get on the vehicle."
+    }
+  ],
+  "audio": {
+    "word": "gaau1fai3-pay-fare.mp3",
+    "examples": [
+      "gaau1fai3-pay-fare-example-1.mp3",
+      "gaau1fai3-pay-fare-example-2.mp3",
+      "gaau1fai3-pay-fare-example-3.mp3",
+      "gaau1fai3-pay-fare-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "payment",
+    "fare",
+    "bus",
+    "MTR",
+    "level-1"
+  ],
+  "related": [
+    "巴士 (baa1 si2)",
+    "地鐵 (dei6 tit3)",
+    "車票 (ce1 piu3)",
+    "八達通 (baat3 daat6 tung1)",
+    "自動售票機 (zi6 dung6 sau6 piu3 gei1)"
+  ]
+}

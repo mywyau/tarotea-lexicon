@@ -1,9 +1,10 @@
 {
-  "rootDir": "r2-backup/words",
-  "model": "gpt-5.4",
-  "totalFiles": 10,
-  "okFiles": 6,
-  "needsReview": 4,
-  "parseErrors": 0,
-  "apiErrors": 0
+  "rootDir": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words",
+  "model": "gpt-5.4-mini",
+  "batchId": "batch_69cd47a67f8081909b085442cbc6f422",
+  "totalFiles": 2626,
+  "okFiles": 1269,
+  "needsReview": 1350,
+  "parseErrors": 1,
+  "apiErrors": 6
 }

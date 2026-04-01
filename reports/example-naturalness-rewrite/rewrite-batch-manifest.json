@@ -1,0 +1,43 @@
+{
+  "rewrite-000001-baa1sai1-brazil.json": {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baa1sai1-brazil.json",
+    "relativeFile": "baa1sai1-brazil.json",
+    "status": "queued",
+    "targetExampleIds": [
+      "baa1sai1-brazil-example-4"
+    ]
+  },
+  "rewrite-000002-baak3baak3-older-paternal-uncle.json": {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak3baak3-older-paternal-uncle.json",
+    "relativeFile": "baak3baak3-older-paternal-uncle.json",
+    "status": "queued",
+    "targetExampleIds": [
+      "baak3baak3-older-paternal-uncle-example-2"
+    ]
+  },
+  "rewrite-000003-baak3fan1bei2-percentage.json": {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak3fan1bei2-percentage.json",
+    "relativeFile": "baak3fan1bei2-percentage.json",
+    "status": "queued",
+    "targetExampleIds": [
+      "baak3fan1bei2-percentage-example-2"
+    ]
+  },
+  "rewrite-000004-baak3fo3gung1si1-department-store.json": {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak3fo3gung1si1-department-store.json",
+    "relativeFile": "baak3fo3gung1si1-department-store.json",
+    "status": "queued",
+    "targetExampleIds": [
+      "baak3fo3gung1si1-department-store-example-3"
+    ]
+  },
+  "rewrite-000005-baak6ngai5-termite.json": {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak6ngai5-termite.json",
+    "relativeFile": "baak6ngai5-termite.json",
+    "status": "queued",
+    "targetExampleIds": [
+      "baak6ngai5-termite-example-2",
+      "baak6ngai5-termite-example-4"
+    ]
+  }
+}

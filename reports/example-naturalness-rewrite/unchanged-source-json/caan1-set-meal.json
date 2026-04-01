@@ -1,0 +1,66 @@
+{
+  "id": "caan1-set-meal",
+  "word": "套餐",
+  "jyutping": "tou3 caan1",
+  "meaning": "set meal",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '套餐' (tou3 caan1) is a noun and refers to a set meal offered in restaurants.",
+    "It is often used when ordering food to specify a pre-arranged meal package.",
+    "You can use '套餐' with numbers to indicate the specific set like '三號套餐' which means 'set meal number three'.",
+    "It can be combined with verbs like '叫' (to order) or '食' (to eat) in everyday conversation.",
+    "In spoken Cantonese, people sometimes shorten '套餐' to '套'"
+  ],
+  "examples": [
+    {
+      "id": "caan1-set-meal-example-1",
+      "sentence": "我想叫一個套餐。",
+      "jyutping": "ngo5 soeng2 giu3 jat1 go3 tou3 caan1.",
+      "meaning": "I want to order a set meal."
+    },
+    {
+      "id": "caan1-set-meal-example-2",
+      "sentence": "呢個套餐好抵食。",
+      "jyutping": "ni1 go3 tou3 caan1 hou2 dai2 sik6.",
+      "meaning": "This set meal is good value."
+    },
+    {
+      "id": "caan1-set-meal-example-3",
+      "sentence": "食套餐通常會有湯同埋飯。",
+      "jyutping": "sik6 tou3 caan1 tung1 soeng4 wui5 jau5 tong1 tung4 maai4 faan6.",
+      "meaning": "Set meals usually come with soup and rice."
+    },
+    {
+      "id": "caan1-set-meal-example-4",
+      "sentence": "你想要咩套餐？",
+      "jyutping": "nei5 soeng2 jiu3 me1 tou3 caan1?",
+      "meaning": "Which set meal do you want?"
+    }
+  ],
+  "audio": {
+    "word": "caan1-set-meal.mp3",
+    "examples": [
+      "caan1-set-meal-example-1.mp3",
+      "caan1-set-meal-example-2.mp3",
+      "caan1-set-meal-example-3.mp3",
+      "caan1-set-meal-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "restaurant",
+    "ordering food",
+    "meal",
+    "menu",
+    "set meal",
+    "level-1"
+  ],
+  "related": [
+    "菜單 (coi3 daan1)",
+    "飯 (faan6)",
+    "點餐 (dim2 caan1)",
+    "餐牌 (caan1 paai4)",
+    "湯 (tong1)"
+  ]
+}

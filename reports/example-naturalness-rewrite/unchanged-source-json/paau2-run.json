@@ -1,0 +1,66 @@
+{
+  "id": "paau2-run",
+  "word": "跑",
+  "jyutping": "paau2",
+  "meaning": "run",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word 跑 (paau2) is used as a verb to describe the action of running.",
+    "It can be used in simple present, past, and future tense by adding time expressions or auxiliary verbs.",
+    "跑 can be followed by location words to indicate where the running happens.",
+    "It is often used with subject pronouns or animals to show who is running.",
+    "跑 can also appear in phrases to describe different kinds of running, like running fast or running for exercise."
+  ],
+  "examples": [
+    {
+      "id": "paau2-run-example-1",
+      "sentence": "我每日去公園跑。",
+      "jyutping": "ngo5 mui5 jat6 heoi3 gung1 jyun4 paau2.",
+      "meaning": "I run in the park every day."
+    },
+    {
+      "id": "paau2-run-example-2",
+      "sentence": "隻狗快啲跑喇！",
+      "jyutping": "zek3 gau2 faai3 di1 paau2 laa3!",
+      "meaning": "The dog, run faster!"
+    },
+    {
+      "id": "paau2-run-example-3",
+      "sentence": "佢昨晚跑咗五公里。",
+      "jyutping": "keoi5 zok6 maan5 paau2 zo2 ng5 gung1 lei5.",
+      "meaning": "He ran five kilometers last night."
+    },
+    {
+      "id": "paau2-run-example-4",
+      "sentence": "我哋一齊去跑步啦！",
+      "jyutping": "ngo5 dei6 jat1 cai4 heoi3 paau2 bou6 laa1!",
+      "meaning": "Let's go running together!"
+    }
+  ],
+  "audio": {
+    "word": "paau2-run.mp3",
+    "examples": [
+      "paau2-run-example-1.mp3",
+      "paau2-run-example-2.mp3",
+      "paau2-run-example-3.mp3",
+      "paau2-run-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal_actions",
+    "verbs",
+    "exercise",
+    "daily_life",
+    "movement",
+    "level-1"
+  ],
+  "related": [
+    "走 (zau2) - walk",
+    "跳 (tiu3) - jump",
+    "跑步 (paau2 bou6) - jogging",
+    "飛 (fei1) - fly",
+    "行 (haang4) - stroll"
+  ]
+}

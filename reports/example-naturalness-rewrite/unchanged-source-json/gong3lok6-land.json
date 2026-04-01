@@ -1,0 +1,66 @@
+{
+  "id": "gong3lok6-land",
+  "word": "降落",
+  "jyutping": "gong3 lok6",
+  "meaning": "land",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "1. '降落' (gong3 lok6) is used as a verb meaning 'to land', mainly for airplanes or helicopters.",
+    "2. It can describe the action when a flight finishes its journey and touches down on the ground.",
+    "3. The verb '降落' follows the subject and is commonly followed by a preposition or location, like '喺機場' (at the airport).",
+    "4. In questions or negations, standard Cantonese particles can be used around it, e.g., '有冇降落?' (Has it landed?).",
+    "5. It is not used for landing of vehicles like cars or bicycles, only for aircraft or similar flying objects."
+  ],
+  "examples": [
+    {
+      "id": "gong3lok6-land-example-1",
+      "sentence": "飛機就快要降落喇。",
+      "jyutping": "fei1 gei1 zau6 faai3 jiu3 gong3 lok6 laa3.",
+      "meaning": "The airplane is about to land soon."
+    },
+    {
+      "id": "gong3lok6-land-example-2",
+      "sentence": "航班因天氣問題遲咗啲先降落。",
+      "jyutping": "hong4 baan1 jan1 tin1 hei3 man6 tai4 ci4 zo2 di1 sin1 gong3 lok6.",
+      "meaning": "The flight landed a bit late because of weather problems."
+    },
+    {
+      "id": "gong3lok6-land-example-3",
+      "sentence": "直升機降落喺山頂。",
+      "jyutping": "zik6 sing1 gei1 gong3 lok6 hai2 saan1 deng2.",
+      "meaning": "The helicopter landed on the mountaintop."
+    },
+    {
+      "id": "gong3lok6-land-example-4",
+      "sentence": "你嘅航班幾點降落？",
+      "jyutping": "nei5 ge3 hong4 baan1 gei2 dim2 gong3 lok6?",
+      "meaning": "What time does your flight land?"
+    }
+  ],
+  "audio": {
+    "word": "gong3lok6-land.mp3",
+    "examples": [
+      "gong3lok6-land-example-1.mp3",
+      "gong3lok6-land-example-2.mp3",
+      "gong3lok6-land-example-3.mp3",
+      "gong3lok6-land-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "airport",
+    "flight",
+    "landing",
+    "travel",
+    "transport",
+    "level-1"
+  ],
+  "related": [
+    "起飛",
+    "機場",
+    "航班",
+    "飛機",
+    "登機"
+  ]
+}

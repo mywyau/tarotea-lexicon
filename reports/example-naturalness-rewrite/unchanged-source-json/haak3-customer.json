@@ -1,0 +1,66 @@
+{
+  "id": "haak3-customer",
+  "word": "客",
+  "jyutping": "haak3",
+  "meaning": "customer",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Usually refers to a customer in shops, restaurants, or service settings. It is a very common everyday noun.",
+    "Can be used on its own or in compounds like 訪客 or 顧客, but 客 is the shorter, more casual form in spoken Cantonese.",
+    "Often appears with words about serving people, such as 招呼客, 留住客, or 接客, depending on the business context.",
+    "Neutral and widely used in business talk. In Hong Kong speech, it is natural when talking about customers in retail, dining, and service work."
+  ],
+  "examples": [
+    {
+      "id": "haak3-customer-example-1",
+      "sentence": "呢間舖頭啲客好多，成日都好忙。",
+      "jyutping": "ni1 gaan1 pou2 tau4 di1 haak3 hou2 do1, sing4 jat6 dou1 hou2 mong4.",
+      "meaning": "This shop has a lot of customers, so it’s busy all the time."
+    },
+    {
+      "id": "haak3-customer-example-2",
+      "sentence": "老細話要對客好啲。",
+      "jyutping": "lou5 sai3 waa6 jiu3 deoi3 haak3 hou2 di1.",
+      "meaning": "The boss said we should treat customers better."
+    },
+    {
+      "id": "haak3-customer-example-3",
+      "sentence": "今日有幾個客嚟問價。",
+      "jyutping": "gam1 jat6 jau5 gei2 go3 haak3 lai4 man6 gaa3.",
+      "meaning": "Today, a few customers came to ask for a price."
+    },
+    {
+      "id": "haak3-customer-example-4",
+      "sentence": "我哋要快啲回覆客嘅查詢。",
+      "jyutping": "ngo5 dei6 jiu3 faai3 di1 wui4 fuk1 haak3 ge3 caa4 seon1.",
+      "meaning": "We need to reply to customers’ enquiries quickly."
+    }
+  ],
+  "audio": {
+    "word": "haak3-customer.mp3",
+    "examples": [
+      "haak3-customer-example-1.mp3",
+      "haak3-customer-example-2.mp3",
+      "haak3-customer-example-3.mp3",
+      "haak3-customer-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "business",
+    "people",
+    "roles",
+    "customer",
+    "service",
+    "retail",
+    "daily Cantonese",
+    "level-1"
+  ],
+  "related": [
+    "顧客",
+    "訪客",
+    "生客",
+    "熟客"
+  ]
+}

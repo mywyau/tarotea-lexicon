@@ -1,0 +1,66 @@
+{
+  "id": "ci3-wing",
+  "word": "翅",
+  "jyutping": "ci3",
+  "meaning": "wing",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '翅' refers to 'wing' and is usually a noun.",
+    "It is often used to describe the wings of birds, insects, or flying animals.",
+    "'翅' can be used on its own or as part of compound words.",
+    "When describing possession, it can be combined with a possessive particle, e.g., '隻鳥嘅翅'.",
+    "It's a countable noun, so you can say '一對翅' to mean 'a pair of wings'."
+  ],
+  "examples": [
+    {
+      "id": "ci3-wing-example-1",
+      "sentence": "隻雀展開咗佢嘅翅。",
+      "jyutping": "zek3 zoek3 zin2 hoi1 zo2 keoi5 ge3 ci3.",
+      "meaning": "The bird spread its wings."
+    },
+    {
+      "id": "ci3-wing-example-2",
+      "sentence": "蚊仔用翅飛得好快。",
+      "jyutping": "man1 zai2 jung6 ci3 fei1 dak1 hou2 faai3.",
+      "meaning": "Mosquitoes use their wings to fly fast."
+    },
+    {
+      "id": "ci3-wing-example-3",
+      "sentence": "翅膀受傷咗，飛唔到。",
+      "jyutping": "ci3 bong2 sau6 soeng1 zo2, fei1 m4 dou3.",
+      "meaning": "The wing is injured, can't fly."
+    },
+    {
+      "id": "ci3-wing-example-4",
+      "sentence": "我買咗一對雞翅當晚餐。",
+      "jyutping": "ngo5 maai5 zo2 jat1 deoi3 gai1 ci3 dong3 maan5 caan1.",
+      "meaning": "I bought a pair of chicken wings for dinner."
+    }
+  ],
+  "audio": {
+    "word": "ci3-wing.mp3",
+    "examples": [
+      "ci3-wing-example-1.mp3",
+      "ci3-wing-example-2.mp3",
+      "ci3-wing-example-3.mp3",
+      "ci3-wing-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal_body_parts",
+    "flying",
+    "birds",
+    "insects",
+    "basic_vocab",
+    "level-1"
+  ],
+  "related": [
+    "翅膀",
+    "雞翅",
+    "翼",
+    "飛",
+    "鳥"
+  ]
+}

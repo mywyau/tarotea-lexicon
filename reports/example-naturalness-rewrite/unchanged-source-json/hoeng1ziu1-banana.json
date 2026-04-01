@@ -1,0 +1,68 @@
+{
+  "id": "hoeng1ziu1-banana",
+  "word": "香蕉",
+  "jyutping": "hoeng1 ziu1",
+  "meaning": "banana",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "A very common fruit eaten fresh as a snack",
+    "Often bought by the piece or in small bunches",
+    "Commonly used in daily speech and casual food conversations",
+    "Frequently described by ripeness and sweetness",
+    "Popular with all age groups"
+  ],
+  "examples": [
+    {
+      "id": "hoeng1ziu1-banana-example-1",
+      "sentence": "我想買一條香蕉。",
+      "jyutping": "ngo5 soeng2 maai5 jat1 tiu4 hoeng1 ziu1",
+      "meaning": "I want to buy one banana."
+    },
+    {
+      "id": "hoeng1ziu1-banana-example-2",
+      "sentence": "呢啲香蕉好甜。",
+      "jyutping": "ni1 di1 hoeng1 ziu1 hou2 tim4",
+      "meaning": "These bananas are very sweet."
+    },
+    {
+      "id": "hoeng1ziu1-banana-example-3",
+      "sentence": "呢啲香蕉幾熟？",
+      "jyutping": "ni1 di1 hoeng1 ziu1 gei2 suk6",
+      "meaning": "How ripe are these bananas?"
+    },
+    {
+      "id": "hoeng1ziu1-banana-example-4",
+      "sentence": "我朝早食一條香蕉。",
+      "jyutping": "ngo5 ziu1 zou2 sik6 jat1 tiu4 hoeng1 ziu1",
+      "meaning": "I eat a banana in the morning."
+    }
+  ],
+  "audio": {
+    "word": "hoeng1ziu1-banana.mp3",
+    "examples": [
+      "hoeng1ziu1-banana-example-1.mp3",
+      "hoeng1ziu1-banana-example-2.mp3",
+      "hoeng1ziu1-banana-example-3.mp3",
+      "hoeng1ziu1-banana-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "fruit",
+    "banana",
+    "snack",
+    "daily",
+    "shopping",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "seoi2gwo2-fruit",
+    "ping4gwo2-apple",
+    "mong1gwo2-mango",
+    "tim4-sweet",
+    "suk6-ripe"
+  ]
+}

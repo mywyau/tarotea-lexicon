@@ -1,0 +1,66 @@
+{
+  "id": "hang4sing1-planet",
+  "word": "行星",
+  "jyutping": "hang4 sing1",
+  "meaning": "planet",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "行星 is a noun referring to a planet in space.",
+    "You can use 行星 to talk about any planet, including Earth and Mars.",
+    "In sentences, 行星 often comes after a classifier or a preposition related to space or astronomy.",
+    "It can be the subject or object in a sentence when discussing celestial bodies.",
+    "行星 is not used to refer to stars or moons; those have different words in Cantonese."
+  ],
+  "examples": [
+    {
+      "id": "hang4sing1-planet-example-1",
+      "sentence": "地球係我哋嘅行星。",
+      "jyutping": "dei6 kau4 hai6 ngo5 dei6 ge3 hang4 sing1.",
+      "meaning": "Earth is our planet."
+    },
+    {
+      "id": "hang4sing1-planet-example-2",
+      "sentence": "太陽系入面有好多行星。",
+      "jyutping": "taai3 joeng4 hai6 jap6 min6 jau5 hou2 do1 hang4 sing1.",
+      "meaning": "There are many planets in the solar system."
+    },
+    {
+      "id": "hang4sing1-planet-example-3",
+      "sentence": "我鍾意研究行星嘅運行。",
+      "jyutping": "ngo5 zung1 ji3 jin4 gau3 hang4 sing1 ge3 wan6 hang4.",
+      "meaning": "I like to study the orbits of planets."
+    },
+    {
+      "id": "hang4sing1-planet-example-4",
+      "sentence": "火星係最近嘅紅色行星。",
+      "jyutping": "fo2 sing1 hai6 zeoi3 gan6 ge3 hung4 sik1 hang4 sing1.",
+      "meaning": "Mars is the nearby red planet."
+    }
+  ],
+  "audio": {
+    "word": "hang4sing1-planet.mp3",
+    "examples": [
+      "hang4sing1-planet-example-1.mp3",
+      "hang4sing1-planet-example-2.mp3",
+      "hang4sing1-planet-example-3.mp3",
+      "hang4sing1-planet-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "science",
+    "astronomy",
+    "space",
+    "earth_and_space",
+    "planet",
+    "level-1"
+  ],
+  "related": [
+    "恒星 (hang4 sing1) star",
+    "衛星 (wai6 sing1) satellite",
+    "太陽 (taai3 joeng4) sun",
+    "月亮 (jyut6 loeng6) moon",
+    "宇宙 (jyu5 zau3) universe"
+  ]
+}

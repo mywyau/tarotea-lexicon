@@ -1,0 +1,68 @@
+{
+  "id": "ning4mung1-lemon",
+  "word": "檸檬",
+  "jyutping": "ning4 mung1",
+  "meaning": "lemon",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "A sour citrus fruit commonly used for flavouring and drinks",
+    "Often sliced and added to water, tea, or dishes",
+    "Frequently described by sourness rather than sweetness",
+    "Common in both home cooking and restaurant contexts",
+    "Appears in everyday food, drink, and shopping conversations"
+  ],
+  "examples": [
+    {
+      "id": "ning4mung1-lemon-example-1",
+      "sentence": "我想買一個檸檬。",
+      "jyutping": "ngo5 soeng2 maai5 jat1 go3 ning4 mung1",
+      "meaning": "I want to buy one lemon."
+    },
+    {
+      "id": "ning4mung1-lemon-example-2",
+      "sentence": "檸檬好酸。",
+      "jyutping": "ning4 mung1 hou2 syun1",
+      "meaning": "The lemon is very sour."
+    },
+    {
+      "id": "ning4mung1-lemon-example-3",
+      "sentence": "我飲水會加檸檬。",
+      "jyutping": "ngo5 jam2 seoi2 wui5 gaa1 ning4 mung1",
+      "meaning": "I add lemon to my water."
+    },
+    {
+      "id": "ning4mung1-lemon-example-4",
+      "sentence": "檸檬可以切片用。",
+      "jyutping": "ning4 mung1 ho2 ji5 cit3 pin3 jung6",
+      "meaning": "Lemon can be sliced and used."
+    }
+  ],
+  "audio": {
+    "word": "ning4mung1-lemon.mp3",
+    "examples": [
+      "ning4mung1-lemon-example-1.mp3",
+      "ning4mung1-lemon-example-2.mp3",
+      "ning4mung1-lemon-example-3.mp3",
+      "ning4mung1-lemon-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "fruit",
+    "citrus",
+    "lemon",
+    "drink",
+    "cooking",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "seoi2gwo2-fruit",
+    "cing4gwo2-orange",
+    "syun1-sour",
+    "cit3-cut",
+    "jam2-drink"
+  ]
+}

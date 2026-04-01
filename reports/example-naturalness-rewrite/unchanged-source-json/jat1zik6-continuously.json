@@ -1,0 +1,41 @@
+{
+  "id": "jat1zik6-continuously",
+  "word": "一直",
+  "jyutping": "jat1 zik6",
+  "meaning": "all along; always; continuously",
+
+  "pos": ["adverb"],
+
+  "usage": [
+    "Used to describe something continuing without interruption"
+  ],
+
+  "examples": [
+    {
+      "id": "jat1zik6-continuously-example-1",
+      "sentence": "我一直等你。",
+      "jyutping": "ngo5 jat1 zik6 dang2 nei5",
+      "meaning": "I’ve been waiting for you all along."
+    },
+    {
+      "id": "jat1zik6-continuously-example-2",
+      "sentence": "佢一直努力工作。",
+      "jyutping": "keoi5 jat1 zik6 nou5 lik6 gung1 zok3",
+      "meaning": "He has been working hard continuously."
+    }
+  ],
+
+  "audio": {
+    "word": "jat1zik6-continuously.mp3",
+    "examples": [
+      "jat1zik6-continuously-example-1.mp3",
+      "jat1zik6-continuously-example-2.mp3"
+    ]
+  },
+
+  "tags": ["adverb", "level-2", "time"],
+
+  "related": [
+    "maan6maan6-slowly"
+  ]
+}

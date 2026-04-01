@@ -1,0 +1,66 @@
+{
+  "id": "wan1dou6-temperature",
+  "word": "溫度",
+  "jyutping": "wan1 dou6",
+  "meaning": "temperature",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 溫度 (wan1 dou6) is used as a noun to refer to the measurement of heat or cold in an object or environment.",
+    "It can describe both physical temperature, like weather or water, and metaphorical temperature, like the mood or atmosphere.",
+    "You can use it with verbs like 測量 (to measure), 調節 (to adjust), or 下降 (to drop) to talk about actions related to temperature.",
+    "It is often paired with numbers and units like '度' or 'Celsius' to give specific temperature values.",
+    "The word usually comes after a determiner or is the subject/object of a temperature-related sentence."
+  ],
+  "examples": [
+    {
+      "id": "wan1dou6-temperature-example-1",
+      "sentence": "室內嘅溫度好舒服。",
+      "jyutping": "sat1 noi6 ge3 wan1 dou6 hou2 syu1 fuk6.",
+      "meaning": "The temperature inside is very comfortable."
+    },
+    {
+      "id": "wan1dou6-temperature-example-2",
+      "sentence": "你可以測量水嘅溫度嗎？",
+      "jyutping": "nei5 ho2 ji5 cak1 loeng6 seoi2 ge3 wan1 dou6 maa3?",
+      "meaning": "Can you measure the temperature of the water?"
+    },
+    {
+      "id": "wan1dou6-temperature-example-3",
+      "sentence": "今朝外面嘅溫度好低。",
+      "jyutping": "gam1 ziu1 ngoi6 min6 ge3 wan1 dou6 hou2 dai1.",
+      "meaning": "The temperature outside this morning is very low."
+    },
+    {
+      "id": "wan1dou6-temperature-example-4",
+      "sentence": "廚房入面嘅溫度要高啲先好。",
+      "jyutping": "cyu4 fong4 jap6 min6 ge3 wan1 dou6 jiu3 gou1 di1 sin1 hou2.",
+      "meaning": "The temperature in the kitchen needs to be a bit higher."
+    }
+  ],
+  "audio": {
+    "word": "wan1dou6-temperature.mp3",
+    "examples": [
+      "wan1dou6-temperature-example-1.mp3",
+      "wan1dou6-temperature-example-2.mp3",
+      "wan1dou6-temperature-example-3.mp3",
+      "wan1dou6-temperature-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "science",
+    "measurement",
+    "weather",
+    "home",
+    "temperature",
+    "level-1"
+  ],
+  "related": [
+    "氣溫 (hei3 wan1) - air temperature",
+    "冷度 (laang5 dou6) - coldness",
+    "熱度 (jit6 dou6) - heat level",
+    "濕度 (sap1 dou6) - humidity",
+    "度數 (dou6 sou3) - degrees/measurements"
+  ]
+}

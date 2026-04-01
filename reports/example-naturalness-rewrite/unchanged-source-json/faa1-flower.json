@@ -1,0 +1,57 @@
+{
+  "id": "faa1-flower",
+  "word": "花",
+  "jyutping": "faa1",
+  "meaning": "flower",
+  "pos": ["noun"],
+  "usage": [
+    "花 is the common word for a flower or blossom in everyday Cantonese.",
+    "It is a very neutral word and works in both spoken and written language.",
+    "Common collocations include 花園, 花店, and 插花.",
+    "As a noun, it usually comes after a classifier when counting, such as 一朵花."
+  ],
+  "examples": [
+    {
+      "id": "faa1-flower-example-1",
+      "sentence": "呢朵花好靚。",
+      "jyutping": "ni1 do2 faa1 hou2 leng3.",
+      "meaning": "This flower is very pretty."
+    },
+    {
+      "id": "faa1-flower-example-2",
+      "sentence": "我買咗幾枝花送畀阿媽。",
+      "jyutping": "ngo5 maai5 zo2 gei2 zi1 faa1 sung3 bei2 aa3 maa1.",
+      "meaning": "I bought a few flowers to give to Mum."
+    },
+    {
+      "id": "faa1-flower-example-3",
+      "sentence": "花園入面開滿咗花。",
+      "jyutping": "faa1 jyun4 jap6 min6 hoi1 mun5 zo2 faa1.",
+      "meaning": "The garden is full of flowers."
+    },
+    {
+      "id": "faa1-flower-example-4",
+      "sentence": "佢鍾意影花。",
+      "jyutping": "keoi5 zung1 ji3 jing2 faa1.",
+      "meaning": "He/She likes taking photos of flowers."
+    }
+  ],
+  "audio": {
+    "word": "faa1-flower.mp3",
+    "examples": [
+      "faa1-flower-example-1.mp3",
+      "faa1-flower-example-2.mp3",
+      "faa1-flower-example-3.mp3",
+      "faa1-flower-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic vocabulary",
+    "plants",
+    "gardening",
+    "noun",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": ["花朵", "花園", "花店", "花草", "開花"]
+}

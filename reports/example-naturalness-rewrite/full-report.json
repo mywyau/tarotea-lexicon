@@ -1,0 +1,137 @@
+[
+  {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baa1sai1-brazil.json",
+    "rewrittenFile": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-rewrite/rewritten-json/baa1sai1-brazil.json",
+    "status": "ok",
+    "summary": "Rewrote 1 example(s)",
+    "rewrittenCount": 1,
+    "changes": [
+      {
+        "id": "baa1sai1-brazil-example-4",
+        "before": {
+          "sentence": "啲飛機直飛巴西。",
+          "jyutping": "di1 fei1 gei1 zik6 fei1 baa1 sai1.",
+          "meaning": "The planes fly directly to Brazil."
+        },
+        "after": {
+          "sentence": "班機直飛巴西。",
+          "jyutping": "baan1 gei1 zik6 fei1 baa1 sai1.",
+          "meaning": "The flight flies directly to Brazil."
+        },
+        "changeSummary": "Replaced the unnatural subject with a flight.",
+        "confidence": 0.96
+      }
+    ]
+  },
+  {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak3baak3-older-paternal-uncle.json",
+    "rewrittenFile": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-rewrite/rewritten-json/baak3baak3-older-paternal-uncle.json",
+    "status": "ok",
+    "summary": "Rewrote 1 example(s)",
+    "rewrittenCount": 1,
+    "changes": [
+      {
+        "id": "baak3baak3-older-paternal-uncle-example-2",
+        "before": {
+          "sentence": "伯伯教我點樣釣魚。",
+          "jyutping": "baak3 baak3 gaau3 ngo5 dim2 joeng6 diu3 jyu4.",
+          "meaning": "My paternal uncle teaches me how to fish."
+        },
+        "after": {
+          "sentence": "我伯伯教我點樣釣魚。",
+          "jyutping": "ngo5 baak3 baak3 gaau3 ngo5 dim2 joeng6 diu3 jyu4.",
+          "meaning": "My paternal uncle teaches me how to fish."
+        },
+        "changeSummary": "Made the subject explicit.",
+        "confidence": 0.98
+      }
+    ]
+  },
+  {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak3fan1bei2-percentage.json",
+    "rewrittenFile": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-rewrite/rewritten-json/baak3fan1bei2-percentage.json",
+    "status": "ok",
+    "summary": "Rewrote 1 example(s)",
+    "rewrittenCount": 1,
+    "changes": [
+      {
+        "id": "baak3fan1bei2-percentage-example-2",
+        "before": {
+          "sentence": "我想知呢個數嘅百分比。",
+          "jyutping": "ngo5 soeng2 zi1 ni1 go3 sou3 ge3 baak3 fan6 bei2",
+          "meaning": "I want to know the percentage of this number."
+        },
+        "after": {
+          "sentence": "我想知呢個數字嘅百分比係幾多。",
+          "jyutping": "ngo5 soeng2 zi1 ni1 go3 sou3 zi6 ge3 baak3 fan1 bei2 hai6 gei2 do1",
+          "meaning": "I want to know what the percentage of this number is."
+        },
+        "changeSummary": "Made the sentence more natural and complete.",
+        "confidence": 0.97
+      }
+    ]
+  },
+  {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak3fo3gung1si1-department-store.json",
+    "rewrittenFile": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-rewrite/rewritten-json/baak3fo3gung1si1-department-store.json",
+    "status": "ok",
+    "summary": "Rewrote 1 example(s)",
+    "rewrittenCount": 1,
+    "changes": [
+      {
+        "id": "baak3fo3gung1si1-department-store-example-3",
+        "before": {
+          "sentence": "放工之後，我會去百貨公司食晚飯。",
+          "jyutping": "fong3 gung1 zi1 hau6, ngo5 wui5 heoi3 baak3 fo3 gung1 si1 sik6 maan5 faan6.",
+          "meaning": "After work, I’ll go to the department store for dinner."
+        },
+        "after": {
+          "sentence": "放工之後，我會去百貨公司嘅食肆食晚飯。",
+          "jyutping": "fong3 gung1 zi1 hau6, ngo5 wui5 heoi3 baak3 fo3 gung1 si1 ge3 sik6 coeoi4 sik6 maan5 faan6.",
+          "meaning": "After work, I’ll go to the department store’s restaurant for dinner."
+        },
+        "changeSummary": "Made the dining location more natural in Cantonese.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baak6ngai5-termite.json",
+    "rewrittenFile": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-rewrite/rewritten-json/baak6ngai5-termite.json",
+    "status": "ok",
+    "summary": "Rewrote 2 example(s)",
+    "rewrittenCount": 2,
+    "changes": [
+      {
+        "id": "baak6ngai5-termite-example-2",
+        "before": {
+          "sentence": "白蟻會食木，搞到你要搵人修理。",
+          "jyutping": "baak6 ngai5 wui5 sik6 muk6, gaau2 dou3 nei5 jiu3 wan2 jan4 sau1 lei5.",
+          "meaning": "Termites eat wood and make you have to get someone to repair it."
+        },
+        "after": {
+          "sentence": "白蟻會食木，搞到啲木爛晒。",
+          "jyutping": "baak6 ngai5 wui5 sik6 muk6, gaau2 dou3 di1 muk6 laan6 saai3.",
+          "meaning": "Termites eat wood and make it rot."
+        },
+        "changeSummary": "Made the damage wording more natural in Cantonese.",
+        "confidence": 0.67
+      },
+      {
+        "id": "baak6ngai5-termite-example-4",
+        "before": {
+          "sentence": "平時要留意有冇白蟻喺樹度。",
+          "jyutping": "ping4 si4 jiu3 lau4 ji3 jau5 mou5 baak6 ngai5 hai2 syu6 dou6.",
+          "meaning": "You should usually watch out for termites in trees."
+        },
+        "after": {
+          "sentence": "平時要留意有冇白蟻喺啲木度。",
+          "jyutping": "ping4 si4 jiu3 lau4 ji3 jau5 mou5 baak6 ngai5 hai2 di1 muk6 dou6.",
+          "meaning": "You should usually watch out for termites in the wood."
+        },
+        "changeSummary": "Adjusted the location to a more natural context for termites.",
+        "confidence": 0.62
+      }
+    ]
+  }
+]

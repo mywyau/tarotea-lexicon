@@ -1,0 +1,65 @@
+{
+  "id": "to1baa2-mop",
+  "word": "拖把",
+  "jyutping": "to1 baa2",
+  "meaning": "mop",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '拖把' is a noun used to describe a cleaning tool for wiping floors.",
+    "'拖把' typically requires a classifier when counting, such as '一把拖把'.",
+    "You can use '拖把' as the object of a sentence when talking about cleaning actions.",
+    "'拖把' is commonly paired with verbs like '用' (to use) and '洗' (to wash)."
+  ],
+  "examples": [
+    {
+      "id": "to1baa2-mop-example-1",
+      "sentence": "我用拖把拖地。",
+      "jyutping": "ngo5 jung6 to1 baa2 to1 dei6.",
+      "meaning": "I use a mop to clean the floor."
+    },
+    {
+      "id": "to1baa2-mop-example-2",
+      "sentence": "拖把洗咗未？",
+      "jyutping": "to1 baa2 sai2 zo2 mei6?",
+      "meaning": "Have you washed the mop yet?"
+    },
+    {
+      "id": "to1baa2-mop-example-3",
+      "sentence": "買一把新拖把啦。",
+      "jyutping": "maai5 jat1 baa2 san1 to1 baa2 laa1.",
+      "meaning": "Buy a new mop."
+    },
+    {
+      "id": "to1baa2-mop-example-4",
+      "sentence": "拖把擺喺廚房入面。",
+      "jyutping": "to1 baa2 baai2 hai2 ceoi4 fong4 jap6 min6.",
+      "meaning": "The mop is placed inside the kitchen."
+    }
+  ],
+  "audio": {
+    "word": "to1baa2-mop.mp3",
+    "examples": [
+      "to1baa2-mop-example-1.mp3",
+      "to1baa2-mop-example-2.mp3",
+      "to1baa2-mop-example-3.mp3",
+      "to1baa2-mop-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "cleaning",
+    "household",
+    "furniture",
+    "daily use",
+    "home",
+    "level-1"
+  ],
+  "related": [
+    "掃把",
+    "拖把桶",
+    "抹布",
+    "掃帚",
+    "掃地機"
+  ]
+}

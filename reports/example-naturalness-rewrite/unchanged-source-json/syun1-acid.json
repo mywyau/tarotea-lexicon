@@ -1,0 +1,66 @@
+{
+  "id": "syun1-acid",
+  "word": "酸",
+  "jyutping": "syun1",
+  "meaning": "acid",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "酸 is a noun that refers to a chemical substance with sour taste commonly used in chemistry.",
+    "It is often used to describe substances that have a pH less than 7 in scientific contexts.",
+    "酸 can be combined with other words to specify different types of acids, like '硫酸' (sulfuric acid).",
+    "When describing food or flavor, 酸 refers to sourness.",
+    "In sentences, 酸 usually acts as a subject or object when talking about acids or sour taste."
+  ],
+  "examples": [
+    {
+      "id": "syun1-acid-example-1",
+      "sentence": "呢個酸好刺激。",
+      "jyutping": "ni1 go3 syun1 hou2 cik1 gik1",
+      "meaning": "This acid is very strong."
+    },
+    {
+      "id": "syun1-acid-example-2",
+      "sentence": "檸檬嘅味道好酸。",
+      "jyutping": "ning4 mung1 ge3 mei6 dou6 hou2 syun1",
+      "meaning": "The lemon tastes very sour."
+    },
+    {
+      "id": "syun1-acid-example-3",
+      "sentence": "化學課要學酸同鹼。",
+      "jyutping": "faa3 hok6 fo3 jiu3 hok6 syun1 tung4 gaan3",
+      "meaning": "The chemistry class will learn about acids and bases."
+    },
+    {
+      "id": "syun1-acid-example-4",
+      "sentence": "硫酸用嚟清潔工業設備。",
+      "jyutping": "lau4 syun1 jung6 lai4 cing1 git3 gung1 jip6 seot1 bei6",
+      "meaning": "Sulfuric acid is used to clean industrial equipment."
+    }
+  ],
+  "audio": {
+    "word": "syun1-acid.mp3",
+    "examples": [
+      "syun1-acid-example-1.mp3",
+      "syun1-acid-example-2.mp3",
+      "syun1-acid-example-3.mp3",
+      "syun1-acid-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "chemistry",
+    "taste",
+    "acid",
+    "science",
+    "basic vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "鹼 gaam3 - base",
+    "溶液 jung4 jik6 - solution",
+    "反應 faan2 jing3 - reaction",
+    "酸味 syun1 mei6 - sour taste",
+    "分子 fan1 zi2 - molecule"
+  ]
+}

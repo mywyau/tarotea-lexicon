@@ -1,0 +1,58 @@
+{
+  "id": "go1sau2-singer",
+  "word": "歌手",
+  "jyutping": "go1 sau2",
+  "meaning": "singer",
+  "pos": ["noun"],
+  "usage": [
+    "歌手 is the normal word for a singer; it is used for both male and female singers.",
+    "It often refers to a professional singer or a performer on stage, but you can also use it for an amateur singer in a casual context.",
+    "In Cantonese, you can say a person is a 歌手 without adding extra classifier words in everyday speech.",
+    "Commonly used with words like famous, pop, live performance, and concert when talking about music careers or performances."
+  ],
+  "examples": [
+    {
+      "id": "go1sau2-singer-example-1",
+      "sentence": "佢係一個好出名嘅歌手。",
+      "jyutping": "keoi5 hai6 jat1 go3 hou2 ceoi1 ming4 ge3 go1 sau2.",
+      "meaning": "He/She is a very famous singer."
+    },
+    {
+      "id": "go1sau2-singer-example-2",
+      "sentence": "我細個嗰陣已經鍾意聽呢個歌手嘅歌。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 ji5 ging1 zung1 ji3 teng1 ni1 go3 go1 sau2 ge3 go1.",
+      "meaning": "I already liked listening to this singer’s songs when I was young."
+    },
+    {
+      "id": "go1sau2-singer-example-3",
+      "sentence": "佢今日喺演唱會做嘉賓歌手。",
+      "jyutping": "keoi5 gam1 jat6 hai2 jin5 coeng3 wui2 zou6 gaa1 ban1 go1 sau2.",
+      "meaning": "He/She is a guest singer at the concert today."
+    },
+    {
+      "id": "go1sau2-singer-example-4",
+      "sentence": "做歌手唔一定容易，要練聲同保持狀態。",
+      "jyutping": "zou6 go1 sau2 m4 jat1 ding6 jung4 ji6, jiu3 lin6 seng1 tung4 bou2 ci4 zong6 taai3.",
+      "meaning": "Being a singer is not necessarily easy; you need to practise your voice and stay in good condition."
+    }
+  ],
+  "audio": {
+    "word": "go1sau2-singer.mp3",
+    "examples": [
+      "go1sau2-singer-example-1.mp3",
+      "go1sau2-singer-example-2.mp3",
+      "go1sau2-singer-example-3.mp3",
+      "go1sau2-singer-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "music",
+    "singer",
+    "person",
+    "noun",
+    "performance",
+    "vocabulary_level_1",
+    "level-1"
+  ],
+  "related": ["唱歌人", "歌星", "歌唱", "樂隊主音"]
+}

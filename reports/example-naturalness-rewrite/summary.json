@@ -1,0 +1,14 @@
+{
+  "rootDir": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words",
+  "reviewReportPath": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-review/full-report.json",
+  "model": "gpt-5.4-mini",
+  "batchId": "batch_69cd58b346c4819084336dc53a168c00",
+  "totalFiles": 5,
+  "rewrittenFiles": 5,
+  "skippedFiles": 0,
+  "parseErrors": 0,
+  "apiErrors": 0,
+  "patchedRootDir": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-rewrite/rewritten-json",
+  "unchangedSourceRootDir": "/Users/michaelyau/tarotea/openai-tts/reports/example-naturalness-rewrite/unchanged-source-json",
+  "unchangedSourceFiles": 2621
+}

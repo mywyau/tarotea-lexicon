@@ -1,0 +1,59 @@
+{
+  "id": "zi6dung6gwai6jyun4gei1-atm",
+  "word": "自動櫃員機",
+  "jyutping": "zi6 dung6 gwai6 jyun4 gei1",
+  "meaning": "ATM",
+  "pos": ["noun"],
+  "usage": [
+    "A common everyday noun for an ATM or cash machine; in Hong Kong people also often say **提款機** in speech.",
+    "Use it when talking about withdrawing cash, checking a bank card, or finding a machine at a bank, MTR station, or convenience store.",
+    "It is neutral and very natural in daily errands; the full form **自動櫃員機** sounds slightly more formal than shorter alternatives.",
+    "Usually used with verbs like **撳錢** and **提款**; for beginners, **去自動櫃員機撳錢** is a very common pattern."
+  ],
+  "examples": [
+    {
+      "id": "zi6dung6gwai6jyun4gei1-atm-example-1",
+      "sentence": "我去自動櫃員機撳錢。",
+      "jyutping": "ngo5 heoi3 zi6 dung6 gwai6 jyun4 gei1 gam3 cin2.",
+      "meaning": "I’m going to the ATM to withdraw cash."
+    },
+    {
+      "id": "zi6dung6gwai6jyun4gei1-atm-example-2",
+      "sentence": "呢部自動櫃員機壞咗。",
+      "jyutping": "ni1 bou6 zi6 dung6 gwai6 jyun4 gei1 waai6 zo2.",
+      "meaning": "This ATM is broken."
+    },
+    {
+      "id": "zi6dung6gwai6jyun4gei1-atm-example-3",
+      "sentence": "佢喺銀行門口用自動櫃員機入數。",
+      "jyutping": "keoi5 hai2 ngan4 hong4 mun4 hau2 jung6 zi6 dung6 gwai6 jyun4 gei1 jap6 sou3.",
+      "meaning": "He/she used the ATM at the bank entrance to deposit money."
+    },
+    {
+      "id": "zi6dung6gwai6jyun4gei1-atm-example-4",
+      "sentence": "超市入面有自動櫃員機。",
+      "jyutping": "ciu1 si5 jap6 min6 jau5 zi6 dung6 gwai6 jyun4 gei1.",
+      "meaning": "There is an ATM inside the supermarket."
+    }
+  ],
+  "audio": {
+    "word": "zi6dung6gwai6jyun4gei1-atm.mp3",
+    "examples": [
+      "zi6dung6gwai6jyun4gei1-atm-example-1.mp3",
+      "zi6dung6gwai6jyun4gei1-atm-example-2.mp3",
+      "zi6dung6gwai6jyun4gei1-atm-example-3.mp3",
+      "zi6dung6gwai6jyun4gei1-atm-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "daily errands",
+    "banking",
+    "money",
+    "everyday noun",
+    "HK Cantonese",
+    "formal-neutral",
+    "common",
+    "level-1"
+  ],
+  "related": ["提款機", "撳錢機", "提款", "入數", "銀行卡"]
+}

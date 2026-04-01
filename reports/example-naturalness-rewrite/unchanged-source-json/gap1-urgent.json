@@ -1,0 +1,66 @@
+{
+  "id": "gap1-urgent",
+  "word": "急",
+  "jyutping": "gap1",
+  "meaning": "urgent / in a hurry",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe urgency or being in a hurry",
+    "Often combined with intensifiers like 好 (very) or used to explain a situation",
+    "Common in everyday speech when something cannot wait"
+  ],
+
+  "examples": [
+    {
+      "id": "gap1-urgent-example-1",
+      "sentence": "有啲急。",
+      "jyutping": "jau5 di1 gap1",
+      "meaning": "It’s a bit urgent."
+    },
+    {
+      "id": "gap1-urgent-example-2",
+      "sentence": "我好急。",
+      "jyutping": "ngo5 hou2 gap1",
+      "meaning": "I’m in a real hurry."
+    },
+    {
+      "id": "gap1-urgent-example-3",
+      "sentence": "我有急事。",
+      "jyutping": "ngo5 jau5 gap1 si6",
+      "meaning": "I have an urgent matter."
+    },
+    {
+      "id": "gap1-urgent-example-4",
+      "sentence": "好急，要即刻走。",
+      "jyutping": "hou2 gap1, jiu3 zik1 hak1 zau2",
+      "meaning": "It’s very urgent, I need to go right now."
+    },
+    {
+      "id": "gap1-urgent-example-5",
+      "sentence": "唔好意思，我好急。",
+      "jyutping": "m4 hou2 ji3 si3, ngo5 hou2 gap1",
+      "meaning": "Sorry, I’m in a real hurry."
+    }
+  ],
+
+  "audio": {
+    "word": "gap1-urgent.mp3",
+    "examples": [
+      "gap1-urgent-example-1.mp3",
+      "gap1-urgent-example-2.mp3",
+      "gap1-urgent-example-3.mp3",
+      "gap1-urgent-example-4.mp3",
+      "gap1-urgent-example-5.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-1", "core", "survival"],
+
+  "related": [
+    "gap1si6-urgent-matter",
+    "ci3so2-toilet",
+    "m4hou2ji3si3-excuse-me"
+  ]
+}
