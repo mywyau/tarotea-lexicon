@@ -1,0 +1,58 @@
+{
+  "id": "go1kuk1-musical-piece",
+  "word": "歌曲",
+  "jyutping": "go1 kuk1",
+  "meaning": "musical piece",
+  "pos": ["noun"],
+  "usage": [
+    "A neutral, common noun for a song or musical piece. It sounds natural in both everyday conversation and media contexts.",
+    "It can refer to a single song, or to a piece of music more generally, depending on context.",
+    "Often used with classifiers like 一首歌曲 when counting individual songs.",
+    "More formal or written than the everyday word 歌; for casual speech, people often just say 歌."
+  ],
+  "examples": [
+    {
+      "id": "go1kuk1-musical-piece-example-1",
+      "sentence": "呢首歌曲好好聽。",
+      "jyutping": "ni1 zau2 go1 kuk1 hou2 hou2 teng1.",
+      "meaning": "This song sounds very nice."
+    },
+    {
+      "id": "go1kuk1-musical-piece-example-2",
+      "sentence": "佢寫咗一首歌曲。",
+      "jyutping": "keoi5 se2 zo2 jat1 sau2 go1 kuk1.",
+      "meaning": "He/She wrote a song."
+    },
+    {
+      "id": "go1kuk1-musical-piece-example-3",
+      "sentence": "我鍾意聽舊歌曲。",
+      "jyutping": "ngo5 zung1 ji3 teng1 gau6 go1 kuk1.",
+      "meaning": "I like listening to old songs."
+    },
+    {
+      "id": "go1kuk1-musical-piece-example-4",
+      "sentence": "呢張專輯入面有好多歌曲。",
+      "jyutping": "ni1 zoeng1 zyun1 zaap6 jap6 min6 jau5 hou2 do1 go1 kuk1.",
+      "meaning": "There are many songs in this album."
+    }
+  ],
+  "audio": {
+    "word": "go1kuk1-musical-piece.mp3",
+    "examples": [
+      "go1kuk1-musical-piece-example-1.mp3",
+      "go1kuk1-musical-piece-example-2.mp3",
+      "go1kuk1-musical-piece-example-3.mp3",
+      "go1kuk1-musical-piece-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "music",
+    "noun",
+    "formal",
+    "song",
+    "countable",
+    "beginner",
+    "level-1"
+  ],
+  "related": ["歌", "音樂", "旋律", "專輯"]
+}

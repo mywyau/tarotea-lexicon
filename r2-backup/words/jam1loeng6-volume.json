@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '音量' is a noun that refers to the level of sound produced by a device or in an environment.",
-    "'音量' can be used with verbs like 調節 (to adjust) or 增加 (to increase) when talking about controlling sound.",
-    "You can specify the '音量' for different devices such as phones, TVs, or computers.",
-    "'音量' often appears in instructions or settings where you need to control how loud or soft the sound is.",
-    "In conversation, '音量' is commonly used when discussing preferences or problems with sound levels."
+    "Common noun for audio volume, especially on phones, TVs, speakers, and other devices.",
+    "Usually used with verbs like 調高, 調低, 開大, 收細, or set the volume.",
+    "Natural in everyday speech; very common in tech, music, and media settings.",
+    "Can refer to sound level in general, not just music playback."
   ],
   "examples": [
     {
       "id": "jam1loeng6-volume-example-1",
-      "sentence": "你可唔可以調低啲音量？",
-      "jyutping": "nei5 ho2 m4 ho2 ji5 tiu4 dai1 di1 jam1 loeng6?",
-      "meaning": "Can you turn down the volume a bit?"
+      "sentence": "你可唔可以將音量調低少少？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 zoeng1 jam1 loeng6 tiu4 dai1 siu2 siu2?",
+      "meaning": "Can you turn the volume down a little?"
     },
     {
       "id": "jam1loeng6-volume-example-2",
-      "sentence": "我手機嘅音量唔夠大。",
-      "jyutping": "ngo5 sau2 gei1 ge3 jam1 loeng6 m4 gau3 daai6.",
-      "meaning": "My phone's volume is not loud enough."
+      "sentence": "我聽歌嗰陣會將音量開大啲。",
+      "jyutping": "ngo5 teng1 go1 go2 zaan6 wui5 zoeng1 jam1 loeng6 hoi1 daai6 di1.",
+      "meaning": "When I listen to music, I turn the volume up a bit."
     },
     {
       "id": "jam1loeng6-volume-example-3",
-      "sentence": "電視嘅音量太大聲，鄰居抱怨晒。",
-      "jyutping": "din6 si6 ge3 jam1 loeng6 taai3 daai6 seng1, leon4 geoi1 pou5 jyun3 saai3.",
-      "meaning": "The TV volume is too loud; the neighbors have complained."
+      "sentence": "部電視個音量太大，聽到好嘈。",
+      "jyutping": "bou6 din6 si6 go3 jam1 loeng6 taai3 daai6, teng1 dou3 hou2 cou4.",
+      "meaning": "The TV volume is too loud; it's really noisy."
     },
     {
       "id": "jam1loeng6-volume-example-4",
-      "sentence": "放歌之前記得先調好音量。",
-      "jyutping": "fong3 go1 zi1 cin4 gei3 dak1 sin1 tiu4 hou2 jam1 loeng6.",
-      "meaning": "Remember to adjust the volume before playing songs."
+      "sentence": "夜晚聽歌最好將音量收細啲。",
+      "jyutping": "je6 maan5 teng1 go1 zeoi3 hou2 zoeng1 jam1 loeng6 sau1 sai3 di1.",
+      "meaning": "It's best to lower the volume a bit when listening to music at night."
     }
   ],
   "audio": {
@@ -49,18 +48,19 @@
     ]
   },
   "tags": [
+    "music",
+    "listening_and_audio",
+    "audio settings",
+    "common noun",
+    "everyday speech",
     "technology",
-    "settings",
-    "sound",
-    "devices",
-    "control",
     "level-1"
   ],
   "related": [
-    "調節",
-    "聲音",
-    "靜音",
-    "喇叭",
-    "播放"
+    "音",
+    "聲量",
+    "大細聲",
+    "開大",
+    "收細"
   ]
 }

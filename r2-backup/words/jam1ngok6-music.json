@@ -7,36 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word 音樂 (jam1 ngok6) is a noun, referring to music as a form of art or entertainment.",
-    "You can use 音樂 to talk about different genres, like classical or pop music.",
-    "When describing what type of 音樂 you like, you can put adjectives before it, like 好嘅音樂 (good music).",
-    "音樂 can also be used as part of compound words like 音樂會 (music concert).",
-    "It is common to use the verb 聽 (to listen) with 音樂, e.g., 聽音樂."
+    "Use 音樂 as a general noun for music in everyday speech and writing.",
+    "It is often used with verbs like 聽, 播, and 做 to talk about listening to, playing, or making music.",
+    "The word is neutral and very common, so it fits both casual conversation and formal contexts.",
+    "It can refer to music as a subject, an activity, or the whole music industry depending on the sentence."
   ],
   "examples": [
     {
       "id": "jam1ngok6-music-example-1",
-      "sentence": "我每日都聽音樂放鬆。",
-      "jyutping": "ngo5 mui5 jat6 dou1 teng1 jam1 ngok6 fong3 sung1.",
-      "meaning": "I listen to music every day to relax."
+      "sentence": "我好鍾意聽音樂。",
+      "jyutping": "ngo5 hou2 zung1ji3 teng1 jam1 ngok6.",
+      "meaning": "I really like listening to music."
     },
     {
       "id": "jam1ngok6-music-example-2",
-      "sentence": "你鍾意咩類型嘅音樂？",
-      "jyutping": "nei5 zung1 ji3 me1 leoi6 jing4 ge3 jam1 ngok6?",
-      "meaning": "What type of music do you like?"
+      "sentence": "佢成日喺車上面播音樂。",
+      "jyutping": "keoi5 sing4 jat6 hai2 ce1 soeng6 min6 bo3 jam1 ngok6.",
+      "meaning": "He/She often plays music in the car."
     },
     {
       "id": "jam1ngok6-music-example-3",
-      "sentence": "呢首音樂好舒服。",
-      "jyutping": "ni1 sau2 jam1 ngok6 hou2 syu1 fuk6.",
-      "meaning": "This piece of music is very pleasant."
+      "sentence": "呢間學校有好多音樂課。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 hou2 do1 jam1 ngok6 fo3.",
+      "meaning": "This school has a lot of music classes."
     },
     {
       "id": "jam1ngok6-music-example-4",
-      "sentence": "聽呢個歌手嘅音樂好開心。",
-      "jyutping": "teng1 ni1 go3 go1 sau2 ge3 jam1 ngok6 hou2 hoi1 sam1.",
-      "meaning": "Listening to this singer's music makes me happy."
+      "sentence": "呢首歌嘅音樂好柔和。",
+      "jyutping": "ni1 sau2 go1 ge3 jam1 ngok6 hou2 jau4 wo4.",
+      "meaning": "The music of this song is very gentle."
     }
   ],
   "audio": {
@@ -50,17 +49,17 @@
   },
   "tags": [
     "music",
-    "media",
-    "entertainment",
-    "nouns",
-    "listening",
+    "general vocabulary",
+    "noun",
+    "common",
+    "beginner",
     "level-1"
   ],
   "related": [
     "歌",
-    "歌曲",
-    "唱歌",
     "樂器",
-    "音響"
+    "唱歌",
+    "演唱會",
+    "節奏"
   ]
 }

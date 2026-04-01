@@ -2,41 +2,40 @@
   "id": "lin6zaap6-practise",
   "word": "練習",
   "jyutping": "lin6 zaap6",
-  "meaning": "practise",
+  "meaning": "to practise",
   "pos": [
     "noun"
   ],
   "usage": [
-    "The word 練習 (lin6 zaap6) is commonly used to describe the act of practicing a skill or activity.",
-    "It can function as a noun meaning 'practice' or as a verb meaning 'to practise'.",
-    "In sentences, it often appears before or after verbs to indicate the action of rehearsing or training.",
-    "練習 can refer to physical training, learning sessions, or rehearsal for performances.",
-    "When using 練習, the object of what is being practised can follow directly after the word."
+    "Use 練習 for a practice session or exercise, especially in music, study, sports, or skill-building.",
+    "It often pairs naturally with verbs like 做練習, 進行練習, or repeated-action ideas; it can mean both the act of practising and a practice exercise.",
+    "In music learning, 練習 is very common for daily routine practice, e.g. scales, pieces, timing, and finger control.",
+    "Register is neutral and very common in spoken and written Cantonese; learners should note that it is a noun, while the verb idea is usually expressed with 做/去/試下 + 練習 context."
   ],
   "examples": [
     {
       "id": "lin6zaap6-practise-example-1",
-      "sentence": "我每日都會練習打籃球。",
-      "jyutping": "ngo5 mui5 jat6 dou1 wui5 lin6 zaap6 daa2 laam4 kau4.",
-      "meaning": "I practise playing basketball every day."
+      "sentence": "我每晚都要練習鋼琴。",
+      "jyutping": "ngo5 me5 maan5 dou1 jiu3 lin6 zaap6 gong1 kam4.",
+      "meaning": "I have to practise the piano every night."
     },
     {
       "id": "lin6zaap6-practise-example-2",
-      "sentence": "佢去咗排練習舞蹈。",
-      "jyutping": "keoi5 heoi3 zo2 paai4 lin6 zaap6 mou5 dou3.",
-      "meaning": "He went to practise dance rehearsal."
+      "sentence": "呢首歌我仲要練習多幾次。",
+      "jyutping": "ni1 sau2 go1 ngo5 zung6 jiu3 lin6 zaap6 do1 gei2 ci3.",
+      "meaning": "I still need to practise this song a few more times."
     },
     {
       "id": "lin6zaap6-practise-example-3",
-      "sentence": "我哋要多啲練習先可以做好。",
-      "jyutping": "ngo5 dei6 jiu3 do1 di1 lin6 zaap6 sin1 ho2 ji5 zou6 hou2.",
-      "meaning": "We need more practice to do it well."
+      "sentence": "老師叫我哋返屋企做練習。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 faan1 uk1 hei2 zou6 lin6 zaap6.",
+      "meaning": "The teacher told us to go home and do the exercise."
     },
     {
       "id": "lin6zaap6-practise-example-4",
-      "sentence": "練習係進步嘅關鍵。",
-      "jyutping": "lin6 zaap6 hai6 zeon3 bou6 ge3 gwaan1 gin3.",
-      "meaning": "Practice is the key to progress."
+      "sentence": "演出前最好先做聲音練習。",
+      "jyutping": "jin2 ceot1 cin4 zeoi3 hou2 sin1 zou6 sing1 jam1 lin6 zaap6.",
+      "meaning": "Before a performance, it’s best to do vocal practice first."
     }
   ],
   "audio": {
@@ -49,18 +48,19 @@
     ]
   },
   "tags": [
-    "fitness",
-    "sports",
-    "training",
-    "rehearsal",
-    "improvement",
+    "music",
+    "music_learning",
+    "practice",
+    "study",
+    "beginner",
+    "common",
     "level-1"
   ],
   "related": [
-    "運動 (wan6 dung6)",
-    "訓練 (fan3 lin6)",
-    "熱身 (jit6 san1)",
-    "技巧 (gei6 haau2)",
-    "比賽 (bei2 coi3)"
+    "做練習",
+    "操練",
+    "預習",
+    "複習",
+    "練琴"
   ]
 }

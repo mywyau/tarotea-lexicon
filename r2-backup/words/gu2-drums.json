@@ -1,0 +1,57 @@
+{
+  "id": "gu2-drums",
+  "word": "鼓",
+  "jyutping": "gu2",
+  "meaning": "drums",
+  "pos": ["noun"],
+  "usage": [
+    "Refers to drums as a musical instrument; in Cantonese, 鼓 is the general noun for a drum or drum set in music talk.",
+    "Commonly used with size or type words, such as 一個鼓, 大鼓, 細鼓, when counting or describing different drums.",
+    "Often appears in compound words and set phrases related to percussion and rhythm, so it’s very natural in band, school, and music contexts.",
+    "Neutral and everyday in register; beginners can use it freely when talking about instruments, performances, or learning music."
+  ],
+  "examples": [
+    {
+      "id": "gu2-drums-example-1",
+      "sentence": "佢學打鼓學咗兩年。",
+      "jyutping": "keoi5 hok6 daa2 gu2 hok6 zo2 loeng5 nin4.",
+      "meaning": "He has studied drumming for two years."
+    },
+    {
+      "id": "gu2-drums-example-2",
+      "sentence": "呢個樂隊有兩個鼓手。",
+      "jyutping": "ni1 go3 ngok6 deoi2 jau5 loeng5 go3 gu2 sau2.",
+      "meaning": "This band has two drummers."
+    },
+    {
+      "id": "gu2-drums-example-3",
+      "sentence": "我哋學校買咗一套新鼓。",
+      "jyutping": "ngo5 dei6 hok6 haau6 maai5 zo2 jat1 tou3 san1 gu2.",
+      "meaning": "Our school bought a new drum set."
+    },
+    {
+      "id": "gu2-drums-example-4",
+      "sentence": "小朋友好鍾意敲鼓。",
+      "jyutping": "siu2 pang4 jau5 hou2 zung1 ji3 haau1 gu2.",
+      "meaning": "The children really like to beat drums."
+    }
+  ],
+  "audio": {
+    "word": "gu2-drums.mp3",
+    "examples": [
+      "gu2-drums-example-1.mp3",
+      "gu2-drums-example-2.mp3",
+      "gu2-drums-example-3.mp3",
+      "gu2-drums-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "music",
+    "instrument",
+    "percussion",
+    "beginner",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": ["鼓手", "打鼓", "鼓聲", "大鼓", "細鼓"]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ji6wu4-erhu",
+  "word": "二胡",
+  "jyutping": "ji6 wu4",
+  "meaning": "erhu",
+  "pos": ["noun"],
+  "usage": [
+    "A common noun for the Chinese bowed string instrument erhu; usually used as a countable noun with classifiers like 一把.",
+    "Sounds natural in music, lessons, performances, and instrument-buying contexts.",
+    "Can refer to the instrument itself, or by extension to erhu playing in general.",
+    "Neutral register: suitable for everyday speech, school contexts, and media coverage."
+  ],
+  "examples": [
+    {
+      "id": "ji6wu4-erhu-example-1",
+      "sentence": "佢識拉二胡。",
+      "jyutping": "keoi5 sik1 laa1 ji6 wu4.",
+      "meaning": "He/she knows how to play the erhu."
+    },
+    {
+      "id": "ji6wu4-erhu-example-2",
+      "sentence": "我哋學校有二胡班。",
+      "jyutping": "ngo5 dei6 hok6 haau6 jau5 ji6 wu4 baan1.",
+      "meaning": "Our school has an erhu class."
+    },
+    {
+      "id": "ji6wu4-erhu-example-3",
+      "sentence": "呢把二胡好靚聲。",
+      "jyutping": "ni1 baa2 ji6 wu4 hou2 leng3 sing1.",
+      "meaning": "This erhu has a beautiful sound."
+    },
+    {
+      "id": "ji6wu4-erhu-example-4",
+      "sentence": "老師今日教我哋拉二胡。",
+      "jyutping": "lou5 si1 gam1 jat6 gaau3 ngo5 dei6 laa1 ji6 wu4.",
+      "meaning": "The teacher taught us to play the erhu today."
+    }
+  ],
+  "audio": {
+    "word": "ji6wu4-erhu.mp3",
+    "examples": [
+      "ji6wu4-erhu-example-1.mp3",
+      "ji6wu4-erhu-example-2.mp3",
+      "ji6wu4-erhu-example-3.mp3",
+      "ji6wu4-erhu-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "music",
+    "instrument",
+    "string instrument",
+    "Chinese traditional music",
+    "beginner",
+    "level-1"
+  ],
+  "related": ["一把", "拉二胡", "樂器", "小提琴"]
+}

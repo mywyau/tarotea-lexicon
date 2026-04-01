@@ -7,35 +7,35 @@
     "noun"
   ],
   "usage": [
-    "The word '耳機' is a noun and refers to a device used to listen to audio privately.",
-    "'耳機' can be used with measure words like '對' when counting pairs of headphones.",
-    "You can use '耳機' in both singular and plural contexts without changing the form.",
-    "It commonly appears after verbs like '戴' (to wear) or '插' (to plug in)."
+    "Use 耳機 for headphones or earphones you wear over or in your ears. It is a very common everyday noun.",
+    "It often appears with verbs like 戴、用、插、買. For example, you can say you wear, use, plug in, or buy 耳機.",
+    "In Hong Kong Cantonese, 耳機 can refer to both over-ear headphones and in-ear earphones depending on context.",
+    "For a clearer distinction, people may say 無線耳機 for wireless headphones or 耳塞式耳機 for earbuds."
   ],
   "examples": [
     {
       "id": "ji5gei1-headphones-example-1",
-      "sentence": "我戴住耳機聽歌。",
-      "jyutping": "ngo5 daai3 zyu6 ji5 gei1 teng1 go1.",
-      "meaning": "I am listening to music with headphones on."
+      "sentence": "我今日搭車要戴耳機聽歌。",
+      "jyutping": "ngo5 gam1 jat6 daap3 ce1 jiu3 daai3 ji5 gei1 teng1 go1.",
+      "meaning": "I need to wear headphones to listen to music on the bus today."
     },
     {
       "id": "ji5gei1-headphones-example-2",
-      "sentence": "你有冇借我對耳機？",
-      "jyutping": "nei5 jau5 mou5 ze3 ngo5 deoi3 ji5 gei1?",
-      "meaning": "Do you have a pair of headphones I can borrow?"
+      "sentence": "你可唔可以借對耳機畀我？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 ze3 deoi3 ji5 gei1 bei2 ngo5?",
+      "meaning": "Can you lend me a pair of headphones?"
     },
     {
       "id": "ji5gei1-headphones-example-3",
-      "sentence": "呢部電話冇耳機插口。",
-      "jyutping": "ni1 bou6 din6 waa2 mou5 ji5 gei1 caap3 hau2.",
-      "meaning": "This phone doesn't have a headphone jack."
+      "sentence": "佢成日一邊做嘢一邊用耳機聽podcast。",
+      "jyutping": "keoi5 sing4 jat6 jat1 bin1 zou6 je5 jat1 bin1 jung6 ji5 gei1 teng1 podcast.",
+      "meaning": "He always listens to podcasts with headphones while working."
     },
     {
       "id": "ji5gei1-headphones-example-4",
-      "sentence": "我啲耳機壞咗，要買新嘅。",
-      "jyutping": "ngo5 di1 ji5 gei1 waai6 zo2, jiu3 maai5 san1 ge3.",
-      "meaning": "My headphones are broken, need to buy new ones."
+      "sentence": "我新買嗰對耳機音質好好。",
+      "jyutping": "ngo5 san1 maai5 go2 deoi3 ji5 gei1 jam1 zat1 hou2 hou2.",
+      "meaning": "The sound quality of the new headphones I bought is very good."
     }
   ],
   "audio": {
@@ -48,18 +48,19 @@
     ]
   },
   "tags": [
-    "technology",
-    "devices",
-    "audio",
+    "music",
     "listening",
-    "personal",
+    "audio",
+    "everyday nouns",
+    "electronics",
+    "beginner",
     "level-1"
   ],
   "related": [
-    "手機 (sau2 gei1) - mobile phone",
-    "充電器 (cung1 din6 hei3) - charger",
-    "藍牙 (laam4 ngaa4) - Bluetooth",
-    "耳筒 (ji5 tung4) - earphones",
-    "音響 (jam1 hoeng2) - speaker"
+    "頭戴式耳機",
+    "無線耳機",
+    "耳塞",
+    "喇叭",
+    "咪高風"
   ]
 }
