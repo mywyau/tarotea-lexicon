@@ -1,0 +1,102 @@
+{
+  "topic": "music",
+  "title": "Music",
+  "description": "Learn common Cantonese words for music, instruments, singing, performance, and listening.",
+  "categories": {
+    "general_music_words": [
+      { "id": "jam1ngok6-music", "word": "音樂", "jyutping": "jam1 ngok6", "meaning": "music" },
+      { "id": "go1-song", "word": "歌", "jyutping": "go1", "meaning": "song" },
+      { "id": "go1kuk1-song", "word": "歌曲", "jyutping": "go1 kuk1", "meaning": "song" },
+      { "id": "syun4leot6-melody", "word": "旋律", "jyutping": "syun4 leot6", "meaning": "melody" },
+      { "id": "zit3zau3-rhythm", "word": "節奏", "jyutping": "zit3 zau3", "meaning": "rhythm" },
+      { "id": "coeng3pin2-record", "word": "唱片", "jyutping": "coeng3 pin2", "meaning": "record" }
+    ],
+
+    "singing_and_voice": [
+      { "id": "coeng3go1-sing", "word": "唱歌", "jyutping": "coeng3 go1", "meaning": "to sing" },
+      { "id": "go1sau2-singer", "word": "歌手", "jyutping": "go1 sau2", "meaning": "singer" },
+      { "id": "wo4sing1-harmony", "word": "和聲", "jyutping": "wo4 sing1", "meaning": "harmony" },
+      { "id": "duk6coeng3-solo-singing", "word": "獨唱", "jyutping": "duk6 coeng3", "meaning": "solo singing" },
+      { "id": "hap6coeng3-chorus", "word": "合唱", "jyutping": "hap6 coeng3", "meaning": "chorus" },
+      { "id": "go1sing1-singing-voice", "word": "歌聲", "jyutping": "go1 sing1", "meaning": "singing voice" }
+    ],
+
+    "musical_instruments": [
+      { "id": "git3taa1-guitar", "word": "結他", "jyutping": "git3 taa1", "meaning": "guitar" },
+      { "id": "gong3kam4-piano", "word": "鋼琴", "jyutping": "gong3 kam4", "meaning": "piano" },
+      { "id": "siu2tai4kam4-violin", "word": "小提琴", "jyutping": "siu2 tai4 kam4", "meaning": "violin" },
+      { "id": "gu2-drums", "word": "鼓", "jyutping": "gu2", "meaning": "drums" },
+      { "id": "sik1si6fung1-saxophone", "word": "色士風", "jyutping": "sik1 si6 fung1", "meaning": "saxophone" },
+      { "id": "coeng4dek6-flute", "word": "長笛", "jyutping": "coeng4 dek6", "meaning": "flute" },
+      { "id": "daai6tai4kam4-cello", "word": "大提琴", "jyutping": "daai6 tai4 kam4", "meaning": "cello" },
+      { "id": "zung1tai4kam4-viola", "word": "中提琴", "jyutping": "zung1 tai4 kam4", "meaning": "viola" },
+      { "id": "dai1jam1git3taa1-bass-guitar", "word": "低音結他", "jyutping": "dai1 jam1 git3 taa1", "meaning": "bass guitar" },
+      { "id": "din6git3taa1-electric-guitar", "word": "電結他", "jyutping": "din6 git3 taa1", "meaning": "electric guitar" },
+      { "id": "muk6git3taa1-acoustic-guitar", "word": "木結他", "jyutping": "muk6 git3 taa1", "meaning": "acoustic guitar" },
+      { "id": "siu2hou4-trumpet", "word": "小號", "jyutping": "siu2 hou4", "meaning": "trumpet" },
+      { "id": "coeng4hou4-trombone", "word": "長號", "jyutping": "coeng4 hou4", "meaning": "trombone" },
+      { "id": "jyun4hou4-french-horn", "word": "圓號", "jyutping": "jyun4 hou4", "meaning": "French horn" },
+      { "id": "daai6hou4-tuba", "word": "大號", "jyutping": "daai6 hou4", "meaning": "tuba" },
+      { "id": "hak1gun2-clarinet", "word": "黑管", "jyutping": "hak1 gun2", "meaning": "clarinet" },
+      { "id": "soeng1wong4gun2-oboe", "word": "雙簧管", "jyutping": "soeng1 wong4 gun2", "meaning": "oboe" },
+      { "id": "daai6gun2-bassoon", "word": "大管", "jyutping": "daai6 gun2", "meaning": "bassoon" },
+      { "id": "din6zi2kam4-keyboard", "word": "電子琴", "jyutping": "din6 zi2 kam4", "meaning": "keyboard" },
+      { "id": "fung1kam4-organ", "word": "風琴", "jyutping": "fung1 kam4", "meaning": "organ" },
+      { "id": "syu6kam4-harp", "word": "豎琴", "jyutping": "syu6 kam4", "meaning": "harp" },
+      { "id": "wu1hak1lai6lai6-ukulele", "word": "烏克麗麗", "jyutping": "wu1 hak1 lai6 lai6", "meaning": "ukulele" },
+      { "id": "bat6-cymbals", "word": "鈸", "jyutping": "bat6", "meaning": "cymbals" },
+      { "id": "muk6kam4-xylophone", "word": "木琴", "jyutping": "muk6 kam4", "meaning": "xylophone" },
+      { "id": "maa5lam4baa1kam4-marimba", "word": "馬林巴琴", "jyutping": "maa5 lam4 baa1 kam4", "meaning": "marimba" },
+      { "id": "siu2gu2-snare-drum", "word": "小鼓", "jyutping": "siu2 gu2", "meaning": "snare drum" },
+      { "id": "daai6gu2-bass-drum", "word": "大鼓", "jyutping": "daai6 gu2", "meaning": "bass drum" },
+      { "id": "ling4gu2-tambourine", "word": "鈴鼓", "jyutping": "ling4 gu2", "meaning": "tambourine" },
+      { "id": "saam1gok3tit3-triangle", "word": "三角鐵", "jyutping": "saam1 gok3 tit3", "meaning": "triangle" },
+      { "id": "ji6wu4-erhu", "word": "二胡", "jyutping": "ji6 wu4", "meaning": "erhu" },
+      { "id": "gu2zang1-guzheng", "word": "古箏", "jyutping": "gu2 zang1", "meaning": "guzheng" },
+      { "id": "pei4paa4-pipa", "word": "琵琶", "jyutping": "pei4 paa4", "meaning": "pipa" },
+      { "id": "dek6zi2-bamboo-flute", "word": "笛子", "jyutping": "dek6 zi2", "meaning": "bamboo flute" }
+    ],
+
+    "performance_and_events": [
+      { "id": "jin2zau3-perform-music", "word": "演奏", "jyutping": "jin2 zau3", "meaning": "to perform music" },
+      { "id": "jam1ngok6wui2-concert", "word": "音樂會", "jyutping": "jam1 ngok6 wui2", "meaning": "concert" },
+      { "id": "mou5toi4-stage", "word": "舞台", "jyutping": "mou5 toi4", "meaning": "stage" },
+      { "id": "gun1zung3-audience", "word": "觀眾", "jyutping": "gun1 zung3", "meaning": "audience" },
+      { "id": "jin2zau3wui2-recital", "word": "演奏會", "jyutping": "jin2 zau3 wui2", "meaning": "recital" },
+      { "id": "bun6zau3-accompaniment", "word": "伴奏", "jyutping": "bun6 zau3", "meaning": "accompaniment" }
+    ],
+
+    "listening_and_audio": [
+      { "id": "teng1go1-listen-to-songs", "word": "聽歌", "jyutping": "teng1 go1", "meaning": "to listen to songs" },
+      { "id": "ji5gei1-headphones", "word": "耳機", "jyutping": "ji5 gei1", "meaning": "headphones" },
+      { "id": "jam1loeng6-volume", "word": "音量", "jyutping": "jam1 loeng6", "meaning": "volume" },
+      { "id": "fong3jam1ngok6-play-music", "word": "放音樂", "jyutping": "fong3 jam1 ngok6", "meaning": "to play music" },
+      { "id": "luk6jam1-audio-recording", "word": "錄音", "jyutping": "luk6 jam1", "meaning": "audio recording" },
+      { "id": "laa3baa1-speaker", "word": "喇叭", "jyutping": "laa3 baa1", "meaning": "speaker" }
+    ],
+
+    "music_styles_and_learning": [
+      { "id": "lau4hang4jam1ngok6-pop-music", "word": "流行音樂", "jyutping": "lau4 hang4 jam1 ngok6", "meaning": "pop music" },
+      { "id": "gu2din2jam1ngok6-classical-music", "word": "古典音樂", "jyutping": "gu2 din2 jam1 ngok6", "meaning": "classical music" },
+      { "id": "ngok6pou2-sheet-music", "word": "樂譜", "jyutping": "ngok6 pou2", "meaning": "sheet music" },
+      { "id": "hok6jam1ngok6-learn-music", "word": "學音樂", "jyutping": "hok6 jam1 ngok6", "meaning": "to learn music" },
+      { "id": "lin6zaap6-practise", "word": "練習", "jyutping": "lin6 zaap6", "meaning": "to practise" },
+      { "id": "zi2fai1-conductor", "word": "指揮", "jyutping": "zi2 fai1", "meaning": "conductor" }
+    ],
+
+    "music_genres": [
+      { "id": "lau4hang4jam1ngok6-pop-music", "word": "流行音樂", "jyutping": "lau4 hang4 jam1 ngok6", "meaning": "pop music" },
+      { "id": "jiu4gwan2ngok6-rock-music", "word": "搖滾樂", "jyutping": "jiu4 gwan2 ngok6", "meaning": "rock music" },
+      { "id": "zoek3si6ngok6-jazz", "word": "爵士樂", "jyutping": "zoek3 si6 ngok6", "meaning": "jazz" },
+      { "id": "syut3coeng3-rap", "word": "說唱", "jyutping": "syut3 coeng3", "meaning": "rap" },
+      { "id": "hip-hop-hip-hop", "word": "Hip Hop", "jyutping": "hip1 hop1", "meaning": "hip-hop" },
+      { "id": "din6zi2jam1ngok6-electronic-music", "word": "電子音樂", "jyutping": "din6 zi2 jam1 ngok6", "meaning": "electronic music" },
+      { "id": "mou5kuk1-dance-music", "word": "舞曲", "jyutping": "mou5 kuk1", "meaning": "dance music" },
+      { "id": "gu2din2jam1ngok6-classical-music", "word": "古典音樂", "jyutping": "gu2 din2 jam1 ngok6", "meaning": "classical music" },
+      { "id": "man4go1-folk-music", "word": "民歌", "jyutping": "man4 go1", "meaning": "folk music" },
+      { "id": "laam4diu6-blues", "word": "藍調", "jyutping": "laam4 diu6", "meaning": "blues" },
+      { "id": "leoi4gwai2jam1ngok6-reggae", "word": "雷鬼音樂", "jyutping": "leoi4 gwai2 jam1 ngok6", "meaning": "reggae" },
+      { "id": "fuk1jam1jam1ngok6-gospel-music", "word": "福音音樂", "jyutping": "fuk1 jam1 jam1 ngok6", "meaning": "gospel music" }
+    ]
+  }
+}
