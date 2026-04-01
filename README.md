@@ -204,3 +204,6 @@ python3 scripts/review_naturalness.py run
 ```
 
 python3 scripts/rewrite_word_unnatural_sentences.py run
+
+
+python3 scripts/delete_audio_local_from_r2.py
