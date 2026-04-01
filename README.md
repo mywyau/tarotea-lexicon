@@ -200,5 +200,5 @@ python3 scripts/delete_topic_from_r2.py
 ```
 
 ```
-python3 scripts/review_naturalness.py
+python3 scripts/review_naturalness.py run
 ```

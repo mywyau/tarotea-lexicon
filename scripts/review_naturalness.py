@@ -12,13 +12,14 @@ from openai import OpenAI
 # Config
 # ----------------------------
 
+ROOT_DIR = Path(os.getenv("ROOT_DIR", "./r2-backup/words")).resolve()
+OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./reports/example-naturalness-review")).resolve()
+
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4")
-OPENAI_REASONING_EFFORT = os.getenv("OPENAI_REASONING_EFFORT", "high")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4-mini")
+OPENAI_REASONING_EFFORT = os.getenv("OPENAI_REASONING_EFFORT", "low")
 MAX_OUTPUT_TOKENS = int(os.getenv("MAX_OUTPUT_TOKENS", "1200"))
 
-ROOT_DIR = Path(os.getenv("ROOT_DIR", "./r2-backup/words"))
-OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./reports/example-naturalness-review"))
 MAX_FILES = int(os.getenv("MAX_FILES", "3000"))
 SKIP_COPY_FILES = os.getenv("SKIP_COPY_FILES", "true").lower() == "true"
 
