@@ -37,10 +37,12 @@ MAX_OUTPUT_TOKENS = int(os.getenv("MAX_OUTPUT_TOKENS", "1400"))
 # TEMPERATURE = float(os.getenv("TEMPERATURE", "0.2"))
 
 MAX_FILES = int(os.getenv("MAX_FILES", "5"))
+
 REWRITE_DECISIONS = {
     value.strip()
     for value in os.getenv(
-        "REWRITE_DECISIONS", "likely_unnatural,needs_manual_review"
+        # "REWRITE_DECISIONS", "likely_unnatural, needs_manual_review"
+        "REWRITE_DECISIONS", "likely_unnatural"
     ).split(",")
     if value.strip()
 }
@@ -62,22 +64,33 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 # ----------------------------
 
 SYSTEM_PROMPT = (
-    "You are an expert Hong Kong Cantonese editor.\n\n"
-    "Rewrite only the flagged example sentences for a Cantonese vocabulary entry.\n\n"
-    "Rules:\n"
-    "- Make each example sound natural in everyday Hong Kong Cantonese.\n"
+    "You are an expert Hong Kong Cantonese editor for learner materials.\n\n"
+    "You will receive flagged example sentences for a Cantonese vocabulary entry.\n\n"
+    "Your job is conservative editing, not creative rewriting.\n\n"
+    "Main rule:\n"
+    "- Only change a sentence if something is clearly wrong, unnatural, misleading, or noticeably awkward.\n"
+    "- If the Chinese sentence is acceptable, keep it unchanged.\n"
+    "- Do not rewrite just because you can think of a more polished or more colloquial version.\n"
+    "- Prefer the smallest possible fix.\n\n"
+    "Chinese rules:\n"
+    "- Make the Chinese natural in everyday Hong Kong Cantonese.\n"
     "- Preserve the original meaning and scenario as closely as possible.\n"
-    "- Prefer the smallest possible edit.\n"
     "- Do not invent a new context unless the original context is clearly unnatural or misleading.\n"
+    "- Do not add important new information.\n"
+    "- Do not remove important original information unless needed to fix the sentence.\n"
     "- Keep the headword clearly relevant.\n"
-    "- Keep examples short, practical, and plausible.\n"
-    "- Fix the Jyutping so it exactly matches the rewritten Chinese sentence.\n"
-    "- Fix the English meaning so it exactly matches the rewritten Chinese sentence.\n"
-    "- Do not rewrite examples that were not provided.\n\n"
+    "- Keep examples short, practical, and plausible.\n\n"
+    "Jyutping and English rules:\n"
+    "- If the Chinese changes, update the Jyutping to match exactly.\n"
+    "- If the Chinese is fine but the Jyutping is wrong, fix only the Jyutping.\n"
+    "- If the English is awkward or inaccurate, fix only the English.\n"
+    "- The English should be accurate, natural, and fluent, not word-for-word unless natural.\n\n"
     "Output rules:\n"
     "- Return exactly one result for each input example id.\n"
     "- Preserve each example id exactly.\n"
-    "- Write changeSummary in English only and keep it brief.\n"
+    "- It is allowed to return the original Chinese sentence unchanged when no Chinese rewrite is needed.\n"
+    "- Write changeSummary in English only.\n"
+    "- In changeSummary, say one of: 'No Chinese rewrite needed', 'Fixed Chinese', 'Fixed Jyutping only', 'Fixed English only', or 'Fixed Chinese and English'.\n"
     "- Return strict JSON only.\n"
 )
 
