@@ -6,7 +6,7 @@
     "general_music_words": [
       { "id": "jam1ngok6-music", "word": "音樂", "jyutping": "jam1 ngok6", "meaning": "music" },
       { "id": "go1-song", "word": "歌", "jyutping": "go1", "meaning": "song" },
-      { "id": "go1kuk1-song", "word": "歌曲", "jyutping": "go1 kuk1", "meaning": "song" },
+      { "id": "go1kuk1-musical-piece", "word": "歌曲", "jyutping": "go1 kuk1", "meaning": "musical piece" },
       { "id": "syun4leot6-melody", "word": "旋律", "jyutping": "syun4 leot6", "meaning": "melody" },
       { "id": "zit3zau3-rhythm", "word": "節奏", "jyutping": "zit3 zau3", "meaning": "rhythm" },
       { "id": "coeng3pin2-record", "word": "唱片", "jyutping": "coeng3 pin2", "meaning": "record" }
@@ -17,7 +17,7 @@
       { "id": "go1sau2-singer", "word": "歌手", "jyutping": "go1 sau2", "meaning": "singer" },
       { "id": "wo4sing1-harmony", "word": "和聲", "jyutping": "wo4 sing1", "meaning": "harmony" },
       { "id": "duk6coeng3-solo-singing", "word": "獨唱", "jyutping": "duk6 coeng3", "meaning": "solo singing" },
-      { "id": "hap6coeng3-chorus", "word": "合唱", "jyutping": "hap6 coeng3", "meaning": "chorus" },
+      { "id": "hap6coeng3-choral-singing", "word": "合唱", "jyutping": "hap6 coeng3", "meaning": "choral singing" },
       { "id": "go1sing1-singing-voice", "word": "歌聲", "jyutping": "go1 sing1", "meaning": "singing voice" }
     ],
 
@@ -76,12 +76,12 @@
     ],
 
     "music_styles_and_learning": [
-      { "id": "lau4hang4jam1ngok6-pop-music", "word": "流行音樂", "jyutping": "lau4 hang4 jam1 ngok6", "meaning": "pop music" },
-      { "id": "gu2din2jam1ngok6-classical-music", "word": "古典音樂", "jyutping": "gu2 din2 jam1 ngok6", "meaning": "classical music" },
       { "id": "ngok6pou2-sheet-music", "word": "樂譜", "jyutping": "ngok6 pou2", "meaning": "sheet music" },
       { "id": "hok6jam1ngok6-learn-music", "word": "學音樂", "jyutping": "hok6 jam1 ngok6", "meaning": "to learn music" },
       { "id": "lin6zaap6-practise", "word": "練習", "jyutping": "lin6 zaap6", "meaning": "to practise" },
-      { "id": "zi2fai1-conductor", "word": "指揮", "jyutping": "zi2 fai1", "meaning": "conductor" }
+      { "id": "zi2fai1-conductor", "word": "指揮", "jyutping": "zi2 fai1", "meaning": "conductor" },
+      { "id": "ngok6lei5-music-theory", "word": "樂理", "jyutping": "ngok6 lei5", "meaning": "music theory" },
+      { "id": "zok3kuk1-compose-music", "word": "作曲", "jyutping": "zok3 kuk1", "meaning": "to compose music" }
     ],
 
     "music_genres": [
@@ -89,7 +89,6 @@
       { "id": "jiu4gwan2ngok6-rock-music", "word": "搖滾樂", "jyutping": "jiu4 gwan2 ngok6", "meaning": "rock music" },
       { "id": "zoek3si6ngok6-jazz", "word": "爵士樂", "jyutping": "zoek3 si6 ngok6", "meaning": "jazz" },
       { "id": "syut3coeng3-rap", "word": "說唱", "jyutping": "syut3 coeng3", "meaning": "rap" },
-      { "id": "hip-hop-hip-hop", "word": "Hip Hop", "jyutping": "hip1 hop1", "meaning": "hip-hop" },
       { "id": "din6zi2jam1ngok6-electronic-music", "word": "電子音樂", "jyutping": "din6 zi2 jam1 ngok6", "meaning": "electronic music" },
       { "id": "mou5kuk1-dance-music", "word": "舞曲", "jyutping": "mou5 kuk1", "meaning": "dance music" },
       { "id": "gu2din2jam1ngok6-classical-music", "word": "古典音樂", "jyutping": "gu2 din2 jam1 ngok6", "meaning": "classical music" },
