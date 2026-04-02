@@ -14,8 +14,15 @@ from openai import OpenAI
 # Config
 # ----------------------------
 
+
+
+
 ROOT_DIR = Path(os.getenv("ROOT_DIR", "./r2-backup/words")).resolve()
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./lexicon/lexicon-build")).resolve()
+
+UNKNOWN_REPORT_PATH = Path(
+    os.getenv("UNKNOWN_REPORT_PATH", str(OUTPUT_DIR / "unknown-chunk-report.json"))
+).resolve()
 
 MERGE_EXISTING = os.getenv("MERGE_EXISTING", "true").lower() == "true"
 
@@ -35,6 +42,12 @@ CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "40"))
 
 # How many example sentences to include per entry for context
 MAX_EXAMPLES_PER_ENTRY = int(os.getenv("MAX_EXAMPLES_PER_ENTRY", "2"))
+
+
+MIN_CANDIDATE_FREQUENCY = int(os.getenv("MIN_CANDIDATE_FREQUENCY", "2"))
+
+MIN_CANDIDATE_CHUNK_LEN = 1
+MAX_CANDIDATE_CHUNK_LEN = int(os.getenv("MAX_CANDIDATE_CHUNK_LEN", "1"))
 
 # Sharding mode for compiled runtime output:
 # - none
@@ -141,6 +154,114 @@ WHITESPACE_RE = re.compile(r"\s+")
 NON_ID_SAFE_RE = re.compile(r"[^a-zA-Z0-9._-]+")
 # LATIN_PREFIX_RE = re.compile(r"^[a-z]+")
 
+
+LATIN_OR_DIGIT_RE = re.compile(r"[A-Za-z0-9]")
+
+
+def build_auto_candidate_id(chunk: str) -> str:
+    digest = hashlib.sha1(chunk.encode("utf-8")).hexdigest()[:12]
+    return f"auto-{digest}"
+
+
+def is_good_unknown_candidate(
+    chunk: str,
+    *,
+    min_len: int = 1,
+    max_len: int = 2,
+    exclude_latin: bool = True,
+) -> bool:
+    chunk = normalize_hanzi(chunk)
+    if not chunk:
+        return False
+    if len(chunk) < min_len or len(chunk) > max_len:
+        return False
+    if exclude_latin and LATIN_OR_DIGIT_RE.search(chunk):
+        return False
+    return True
+
+
+def load_unknown_chunk_report(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        raise RuntimeError(f"Missing unknown chunk report: {path}")
+
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(raw, list):
+        raise ValueError("unknown-chunk-report.json must contain a top-level array")
+
+    return raw
+
+
+def build_candidate_entries_from_unknown_report(
+    report_path: Path,
+    *,
+    min_frequency: int,
+    min_len: int,
+    max_len: int,
+    max_examples_per_entry: int,
+    exclude_latin: bool = True,
+) -> list[dict[str, Any]]:
+    rows = load_unknown_chunk_report(report_path)
+    out: list[dict[str, Any]] = []
+
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+
+        hanzi = normalize_hanzi(row.get("hanzi"))
+        count = row.get("count", 0)
+        occurrences = row.get("occurrences", [])
+
+        if not isinstance(count, int):
+            continue
+        if count < min_frequency:
+            continue
+        if not is_good_unknown_candidate(
+            hanzi,
+            min_len=min_len,
+            max_len=max_len,
+            exclude_latin=exclude_latin,
+        ):
+            continue
+
+        examples: list[dict[str, str]] = []
+        seen_example_keys: set[tuple[str, str]] = set()
+
+        if isinstance(occurrences, list):
+            for occ in occurrences:
+                if not isinstance(occ, dict):
+                    continue
+
+                sentence = normalize_hanzi(occ.get("sentence"))
+                jyutping = normalize_jyutping(occ.get("jyutping"))
+
+                if not sentence:
+                    continue
+
+                key = (sentence, jyutping)
+                if key in seen_example_keys:
+                    continue
+
+                seen_example_keys.add(key)
+                examples.append({
+                    "sentence": sentence,
+                    "jyutping": jyutping,
+                })
+
+                if len(examples) >= max_examples_per_entry:
+                    break
+
+        out.append({
+            "id": build_auto_candidate_id(hanzi),
+            "hanzi": hanzi,
+            "existingJyutping": None,
+            "meaning": None,
+            "examples": examples,
+            "sourceFile": None,
+            "frequency": count,
+            "entryType": "candidate_unknown_chunk",
+        })
+
+    return out
 
 def get_json_files(root: Path) -> list[Path]:
     seen: set[Path] = set()
@@ -1088,6 +1209,58 @@ def collect_results(batch_id: str) -> None:
 # Commands
 # ----------------------------
 
+# def command_submit() -> None:
+#     print("Preparing candidate lexicon Batch API input...")
+#     print(f"Using ROOT_DIR: {ROOT_DIR}")
+
+#     files = get_json_files(ROOT_DIR)[:MAX_FILES]
+#     if not files:
+#         print(f"No JSON files found under: {ROOT_DIR}")
+#         return
+
+#     print(f"Found {len(files)} JSON files")
+#     print(f"Using model: {OPENAI_MODEL}")
+#     print(f"Output dir: {OUTPUT_DIR}")
+
+#     known_hanzi = load_known_hanzi_from_lexicon_map(OUTPUT_DIR / "lexicon-map.json")
+
+
+#     seed_entries, seed_parse_errors = load_seed_entries(files)
+#     chunk_counts, examples_by_chunk, chunk_parse_errors = collect_candidate_chunk_data(files, known_hanzi)
+
+#     candidate_entries = build_candidate_entries_from_counts(
+#         counts=chunk_counts,
+#         examples_by_chunk=examples_by_chunk,
+#         min_frequency=MIN_CANDIDATE_FREQUENCY,
+#         max_chunk_len=MAX_CANDIDATE_CHUNK_LEN,
+#     )
+
+#     extracted = seed_entries + candidate_entries
+#     parse_errors = seed_parse_errors + chunk_parse_errors
+
+#     deduped, dedupe_conflicts = dedupe_entries(extracted)
+
+#     print(f"Loaded known lexicon hanzi: {len(known_hanzi)}")
+#     print(f"Seed entries: {len(seed_entries)}")
+#     print(f"Unique unknown chunks counted: {len(chunk_counts)}")
+#     print(f"Candidate entries after frequency filter: {len(candidate_entries)}")
+#     print(f"Combined entries before dedupe: {len(extracted)}")
+#     print(f"Deduped entries: {len(deduped)}")
+#     print(f"Parse errors: {len(parse_errors)}")
+#     print(f"Duplicate-id conflicts: {len(dedupe_conflicts)}")
+
+#     batch_input_path, _manifest_path = prepare_batch_files(
+#         deduped,
+#         parse_errors,
+#         dedupe_conflicts,
+#     )
+#     batch_id = submit_batch(batch_input_path)
+
+#     print("\nSubmitted.")
+#     print(f"Batch ID: {batch_id}")
+#     print(f"Check status with: python {Path(__file__).name} status {batch_id}")
+#     print(f"Collect with:      python {Path(__file__).name} collect {batch_id}")
+
 def command_submit() -> None:
     print("Preparing candidate lexicon Batch API input...")
     print(f"Using ROOT_DIR: {ROOT_DIR}")
@@ -1100,33 +1273,30 @@ def command_submit() -> None:
     print(f"Found {len(files)} JSON files")
     print(f"Using model: {OPENAI_MODEL}")
     print(f"Output dir: {OUTPUT_DIR}")
-
-    known_hanzi = load_known_hanzi_from_lexicon_map(OUTPUT_DIR / "lexicon-map.json")
-
+    print(f"Unknown report path: {UNKNOWN_REPORT_PATH}")
 
     seed_entries, seed_parse_errors = load_seed_entries(files)
-    chunk_counts, examples_by_chunk, chunk_parse_errors = collect_candidate_chunk_data(files, known_hanzi)
 
-    candidate_entries = build_candidate_entries_from_counts(
-        counts=chunk_counts,
-        examples_by_chunk=examples_by_chunk,
-        min_frequency=5,
-        max_chunk_len=2,
+    candidate_entries = build_candidate_entries_from_unknown_report(
+        report_path=UNKNOWN_REPORT_PATH,
+        min_frequency=MIN_CANDIDATE_FREQUENCY,
+        min_len=MIN_CANDIDATE_CHUNK_LEN,
+        max_len=MAX_CANDIDATE_CHUNK_LEN,
+        max_examples_per_entry=MAX_EXAMPLES_PER_ENTRY,
     )
 
     extracted = seed_entries + candidate_entries
-    parse_errors = seed_parse_errors + chunk_parse_errors
+    parse_errors = seed_parse_errors
 
     deduped, dedupe_conflicts = dedupe_entries(extracted)
 
-    print(f"Loaded known lexicon hanzi: {len(known_hanzi)}")
     print(f"Seed entries: {len(seed_entries)}")
-    print(f"Unique unknown chunks counted: {len(chunk_counts)}")
-    print(f"Candidate entries after frequency filter: {len(candidate_entries)}")
+    print(f"Candidate entries from Scala report: {len(candidate_entries)}")
     print(f"Combined entries before dedupe: {len(extracted)}")
     print(f"Deduped entries: {len(deduped)}")
     print(f"Parse errors: {len(parse_errors)}")
     print(f"Duplicate-id conflicts: {len(dedupe_conflicts)}")
+    print(f"Candidate filters: min_frequency={MIN_CANDIDATE_FREQUENCY}, min_len={MIN_CANDIDATE_CHUNK_LEN}, max_len={MAX_CANDIDATE_CHUNK_LEN}")
 
     batch_input_path, _manifest_path = prepare_batch_files(
         deduped,
@@ -1154,6 +1324,64 @@ def command_collect(batch_id: str | None) -> None:
     collect_results(get_batch_id(batch_id))
 
 
+# def command_run() -> None:
+#     print("Preparing candidate lexicon Batch API input...")
+#     print(f"Using ROOT_DIR: {ROOT_DIR}")
+
+#     files = get_json_files(ROOT_DIR)[:MAX_FILES]
+#     if not files:
+#         print(f"No JSON files found under: {ROOT_DIR}")
+#         return
+
+#     print(f"Found {len(files)} JSON files")
+#     print(f"Using model: {OPENAI_MODEL}")
+#     print(f"Output dir: {OUTPUT_DIR}")
+
+#     known_hanzi = load_known_hanzi_from_lexicon_map(OUTPUT_DIR / "lexicon-map.json")
+
+#     seed_entries, seed_parse_errors = load_seed_entries(files)
+#     chunk_counts, examples_by_chunk, chunk_parse_errors = collect_candidate_chunk_data(files, known_hanzi)
+
+#     candidate_entries = build_candidate_entries_from_counts(
+#         counts=chunk_counts,
+#         examples_by_chunk=examples_by_chunk,
+#         min_frequency=5,
+#         max_chunk_len=2,
+#     )
+
+#     extracted = seed_entries + candidate_entries
+#     parse_errors = seed_parse_errors + chunk_parse_errors
+
+#     deduped, dedupe_conflicts = dedupe_entries(extracted)
+
+#     print(f"Loaded known lexicon hanzi: {len(known_hanzi)}")
+#     print(f"Seed entries: {len(seed_entries)}")
+#     print(f"Unique unknown chunks counted: {len(chunk_counts)}")
+#     print(f"Candidate entries after frequency filter: {len(candidate_entries)}")
+#     print(f"Combined entries before dedupe: {len(extracted)}")
+#     print(f"Deduped entries: {len(deduped)}")
+#     print(f"Parse errors: {len(parse_errors)}")
+#     print(f"Duplicate-id conflicts: {len(dedupe_conflicts)}")
+
+#     batch_input_path, _manifest_path = prepare_batch_files(
+#         deduped,
+#         parse_errors,
+#         dedupe_conflicts,
+#     )
+#     batch_id = submit_batch(batch_input_path)
+
+#     print("\nWaiting for batch to finish...")
+#     final_status = wait_for_batch(batch_id)
+
+#     print("\nBatch finished:")
+#     print(json.dumps(final_status, ensure_ascii=False, indent=2))
+
+#     if final_status["status"] in {"completed", "expired"}:
+#         print("\nCollecting available results...")
+#         collect_results(batch_id)
+#     else:
+#         print(f"\nNot collecting because batch status is {final_status['status']}.")
+
 def command_run() -> None:
     print("Preparing candidate lexicon Batch API input...")
     print(f"Using ROOT_DIR: {ROOT_DIR}")
@@ -1166,32 +1394,30 @@ def command_run() -> None:
     print(f"Found {len(files)} JSON files")
     print(f"Using model: {OPENAI_MODEL}")
     print(f"Output dir: {OUTPUT_DIR}")
-
-    known_hanzi = load_known_hanzi_from_lexicon_map(OUTPUT_DIR / "lexicon-map.json")
+    print(f"Unknown report path: {UNKNOWN_REPORT_PATH}")
 
     seed_entries, seed_parse_errors = load_seed_entries(files)
-    chunk_counts, examples_by_chunk, chunk_parse_errors = collect_candidate_chunk_data(files, known_hanzi)
 
-    candidate_entries = build_candidate_entries_from_counts(
-        counts=chunk_counts,
-        examples_by_chunk=examples_by_chunk,
-        min_frequency=5,
-        max_chunk_len=2,
+    candidate_entries = build_candidate_entries_from_unknown_report(
+        report_path=UNKNOWN_REPORT_PATH,
+        min_frequency=MIN_CANDIDATE_FREQUENCY,
+        min_len=MIN_CANDIDATE_CHUNK_LEN,
+        max_len=MAX_CANDIDATE_CHUNK_LEN,
+        max_examples_per_entry=MAX_EXAMPLES_PER_ENTRY,
     )
 
     extracted = seed_entries + candidate_entries
-    parse_errors = seed_parse_errors + chunk_parse_errors
+    parse_errors = seed_parse_errors
 
     deduped, dedupe_conflicts = dedupe_entries(extracted)
 
-    print(f"Loaded known lexicon hanzi: {len(known_hanzi)}")
     print(f"Seed entries: {len(seed_entries)}")
-    print(f"Unique unknown chunks counted: {len(chunk_counts)}")
-    print(f"Candidate entries after frequency filter: {len(candidate_entries)}")
+    print(f"Candidate entries from Scala report: {len(candidate_entries)}")
     print(f"Combined entries before dedupe: {len(extracted)}")
     print(f"Deduped entries: {len(deduped)}")
     print(f"Parse errors: {len(parse_errors)}")
     print(f"Duplicate-id conflicts: {len(dedupe_conflicts)}")
+    print(f"Candidate filters: min_frequency={MIN_CANDIDATE_FREQUENCY}, min_len={MIN_CANDIDATE_CHUNK_LEN}, max_len={MAX_CANDIDATE_CHUNK_LEN}")
 
     batch_input_path, _manifest_path = prepare_batch_files(
         deduped,
@@ -1332,7 +1558,7 @@ def find_unknown_chunks(sentence: str, known_hanzi: set[str]) -> list[str]:
     for chunk in chunks:
         if not chunk:
             continue
-        if len(chunk) > 1:
+        if len(chunk) > 4:
             continue
         if re.search(r"[A-Za-z0-9]", chunk):
             continue
