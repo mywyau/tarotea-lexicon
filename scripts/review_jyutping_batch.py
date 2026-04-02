@@ -20,7 +20,7 @@ OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4-mini")
 OPENAI_REASONING_EFFORT = os.getenv("OPENAI_REASONING_EFFORT", "low")
 MAX_OUTPUT_TOKENS = int(os.getenv("MAX_OUTPUT_TOKENS", "2000"))
 
-MAX_FILES = int(os.getenv("MAX_FILES", "3000"))
+MAX_FILES = int(os.getenv("MAX_FILES", "5"))
 SKIP_COPY_FILES = os.getenv("SKIP_COPY_FILES", "true").lower() == "true"
 
 BATCH_COMPLETION_WINDOW = os.getenv("BATCH_COMPLETION_WINDOW", "24h")

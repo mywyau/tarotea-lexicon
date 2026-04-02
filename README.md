@@ -207,3 +207,9 @@ python3 scripts/rewrite_word_unnatural_sentences.py run
 
 
 python3 scripts/delete_audio_local_from_r2.py
+
+
+
+mkdir -p /Users/michaelyau/self_projects/ibm/resources/r2-backup
+cp -R /Users/michaelyau/tarotea/openai-tts/r2-backup/words /Users/michaelyau/self_projects/ibm/resources/r2-backup/
+
