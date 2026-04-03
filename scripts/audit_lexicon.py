@@ -26,7 +26,7 @@ AUTO_KEEP_MANUAL_REVIEW_MIN_CONFIDENCE = float(
     os.getenv("AUTO_KEEP_MANUAL_REVIEW_MIN_CONFIDENCE", "0.65")
 )
 AUTO_ACCEPT_CORRECTED_MIN_CONFIDENCE = float(
-    os.getenv("AUTO_ACCEPT_CORRECTED_MIN_CONFIDENCE", "0.85")
+    os.getenv("AUTO_ACCEPT_CORRECTED_MIN_CONFIDENCE", "0.90")
 )
 
 if not OPENAI_API_KEY:
@@ -504,8 +504,12 @@ def extract_output_text_from_batch_response_body(response_body: dict[str, Any]) 
     return "".join(chunks).strip()
 
 
-def parse_batch_output_file(output_text: str, chunk_count: int) -> dict[str, list[dict[str, Any]]]:
+def parse_batch_output_file(
+    output_text: str,
+    chunk_count: int,
+) -> tuple[dict[str, list[dict[str, Any]]], dict[str, str]]:
     rows_by_custom_id: dict[str, list[dict[str, Any]]] = {}
+    parse_errors_by_custom_id: dict[str, str] = {}
 
     for line in output_text.splitlines():
         line = line.strip()
@@ -517,23 +521,39 @@ def parse_batch_output_file(output_text: str, chunk_count: int) -> dict[str, lis
         response = item.get("response", {})
         body = response.get("body", {})
 
-        model_text = extract_output_text_from_batch_response_body(body)
-        if not model_text:
-            raise RuntimeError(f"Missing output_text for batch item {custom_id}")
+        if not isinstance(custom_id, str):
+            continue
 
-        parsed = json.loads(model_text)
-        entries = parsed.get("entries")
-        if not isinstance(entries, list):
-            raise RuntimeError(f"Batch item {custom_id} missing entries array")
+        try:
+            model_text = extract_output_text_from_batch_response_body(body)
+            if not model_text:
+                parse_errors_by_custom_id[custom_id] = "Missing output_text for batch item"
+                continue
 
-        rows_by_custom_id[custom_id] = entries
+            parsed = json.loads(model_text)
+            entries = parsed.get("entries")
+            if not isinstance(entries, list):
+                parse_errors_by_custom_id[custom_id] = "Batch item missing entries array"
+                continue
+
+            rows_by_custom_id[custom_id] = entries
+
+        except Exception as e:
+            preview = ""
+            try:
+                preview = model_text[:500]
+            except Exception:
+                pass
+
+            parse_errors_by_custom_id[custom_id] = (
+                f"Failed to parse model JSON: {e}. Preview: {preview}"
+            )
 
     expected_ids = {f"chunk-{i:05d}" for i in range(1, chunk_count + 1)}
-    missing = sorted(expected_ids - set(rows_by_custom_id.keys()))
-    if missing:
-        raise RuntimeError(f"Missing completed batch results for chunks: {missing[:10]}")
+    for missing_id in sorted(expected_ids - set(rows_by_custom_id.keys()) - set(parse_errors_by_custom_id.keys())):
+        parse_errors_by_custom_id[missing_id] = "Missing completed batch result for chunk"
 
-    return rows_by_custom_id
+    return rows_by_custom_id, parse_errors_by_custom_id
 
 
 def parse_batch_error_file(error_text: str) -> list[dict[str, Any]]:
@@ -560,11 +580,11 @@ def chunk_fallback_rows(chunk: list[dict[str, Any]], reason: str) -> list[dict[s
         for entry in chunk
     ]
 
-
 def build_results_from_batch(
     chunks: list[list[dict[str, Any]]],
     rows_by_custom_id: dict[str, list[dict[str, Any]]],
     batch_errors: list[dict[str, Any]],
+    parse_errors_by_custom_id: dict[str, str],
 ) -> list[dict[str, Any]]:
     error_by_custom_id: dict[str, dict[str, Any]] = {}
     for row in batch_errors:
@@ -581,6 +601,15 @@ def build_results_from_batch(
             err = error_by_custom_id[custom_id]
             message = json.dumps(err, ensure_ascii=False)
             all_results.extend(chunk_fallback_rows(chunk, f"Batch item failed: {message}"))
+            continue
+
+        if custom_id in parse_errors_by_custom_id:
+            all_results.extend(
+                chunk_fallback_rows(
+                    chunk,
+                    f"Batch item parse failed: {parse_errors_by_custom_id[custom_id]}",
+                )
+            )
             continue
 
         returned_rows = rows_by_custom_id.get(custom_id)
@@ -602,7 +631,6 @@ def build_results_from_batch(
         all_results.extend(softened_rows)
 
     return all_results
-
 
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -634,13 +662,18 @@ def main() -> None:
 
     error_rows: list[dict[str, Any]] = []
     output_rows_by_custom_id: dict[str, list[dict[str, Any]]] = {}
+    parse_errors_by_custom_id: dict[str, str] = {}
 
     if getattr(final_batch, "output_file_id", None):
         output_file_id = final_batch.output_file_id
         output_path = OUTPUT_DIR / "batch-output.jsonl"
         output_text = download_file_text(output_file_id, output_path)
         print(f"Downloaded batch output: {output_path}")
-        output_rows_by_custom_id = parse_batch_output_file(output_text, len(chunks))
+
+        output_rows_by_custom_id, parse_errors_by_custom_id = parse_batch_output_file(
+            output_text,
+            len(chunks),
+        )
 
     if getattr(final_batch, "error_file_id", None):
         error_file_id = final_batch.error_file_id
@@ -654,7 +687,12 @@ def main() -> None:
 
     if chunks:
         all_results.extend(
-            build_results_from_batch(chunks, output_rows_by_custom_id, error_rows)
+            build_results_from_batch(
+                chunks,
+                output_rows_by_custom_id,
+                error_rows,
+                parse_errors_by_custom_id,
+            )
         )
 
     accepted_entries = [
@@ -736,7 +774,6 @@ def main() -> None:
     print(json.dumps(summary, ensure_ascii=False, indent=2))
     print(f"Fixed lexicon entries: {len(fixed_lexicon_map)}")
     print(f"Remapped ids: {len(id_remap)}")
-
 
 if __name__ == "__main__":
     main()
