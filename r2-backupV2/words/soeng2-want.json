@@ -1,0 +1,66 @@
+{
+  "id": "soeng2-want",
+  "word": "想",
+  "jyutping": "soeng2",
+  "meaning": "want",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word '想' (soeng2) commonly means 'to want' or 'to think about' and is used to express desire or intention.",
+    "'想' can be used before verbs to indicate wanting to do something, like '我想食嘢' (I want to eat).",
+    "It can also be used to express thoughts or considerations, for example, '我想今晚去睇戲' (I am thinking of going to watch a movie tonight).",
+    "When combined with questions, '想唔想' means 'do you want to…?', such as '你想唔想飲茶?' (Do you want to drink tea?).",
+    "'想' can also soften requests when used politely, e.g., '我想問你一啲嘢' (I want to ask you something)."
+  ],
+  "examples": [
+    {
+      "id": "soeng2-want-example-1",
+      "sentence": "我想買杯咖啡。",
+      "jyutping": "ngo5 soeng2 maai5 bui1 gaa3 fe1.",
+      "meaning": "I want to buy a cup of coffee."
+    },
+    {
+      "id": "soeng2-want-example-2",
+      "sentence": "你想唔想去行街？",
+      "jyutping": "nei5 soeng2 m4 soeng2 heoi3 haang4 gaai1?",
+      "meaning": "Do you want to go shopping?"
+    },
+    {
+      "id": "soeng2-want-example-3",
+      "sentence": "我想休息一陣。",
+      "jyutping": "ngo5 soeng2 jau1 sik1 jat1 zan6.",
+      "meaning": "I want to rest for a while."
+    },
+    {
+      "id": "soeng2-want-example-4",
+      "sentence": "佢想改變工作。",
+      "jyutping": "keoi5 soeng2 goi2 bin3 gung1 zok3.",
+      "meaning": "He wants to change jobs."
+    }
+  ],
+  "audio": {
+    "word": "soeng2-want.mp3",
+    "examples": [
+      "soeng2-want-example-1.mp3",
+      "soeng2-want-example-2.mp3",
+      "soeng2-want-example-3.mp3",
+      "soeng2-want-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic",
+    "verbs",
+    "thinking",
+    "desire",
+    "intention",
+    "level-1"
+  ],
+  "related": [
+    "要 (jiu3)",
+    "諗 (nam2)",
+    "唔想 (m4 soeng2)",
+    "希望 (hei1 mong6)",
+    "打算 (daa2 syun3)"
+  ]
+}

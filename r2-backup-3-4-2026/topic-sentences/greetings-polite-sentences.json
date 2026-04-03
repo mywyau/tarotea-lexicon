@@ -1,0 +1,2016 @@
+{
+  "topic": "greetings_and_polite_interactions",
+  "title": "Greetings & Polite Interactions",
+  "totalWords": 24,
+  "totalSentences": 105,
+  "items": [
+    {
+      "sentenceId": "nei5hou2-hello-example-1",
+      "sentence": "你好。",
+      "jyutping": "nei5 hou2",
+      "meaning": "Hello.",
+      "sourceWordId": "nei5hou2-hello",
+      "sourceWord": "你好",
+      "sourceWordJyutping": "nei5 hou2",
+      "sourceWordMeaning": "hello",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "polite",
+        "daily"
+      ],
+      "sourceFile": "r2-backup/words/nei5hou2-hello.json"
+    },
+    {
+      "sentenceId": "nei5hou2-hello-example-2",
+      "sentence": "你好呀！",
+      "jyutping": "nei5 hou2 aa3",
+      "meaning": "Hi! (friendly)",
+      "sourceWordId": "nei5hou2-hello",
+      "sourceWord": "你好",
+      "sourceWordJyutping": "nei5 hou2",
+      "sourceWordMeaning": "hello",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "polite",
+        "daily"
+      ],
+      "sourceFile": "r2-backup/words/nei5hou2-hello.json"
+    },
+    {
+      "sentenceId": "nei5hou2-hello-example-3",
+      "sentence": "你好，點呀？",
+      "jyutping": "nei5 hou2, dim2 aa3",
+      "meaning": "Hello, how are you?",
+      "sourceWordId": "nei5hou2-hello",
+      "sourceWord": "你好",
+      "sourceWordJyutping": "nei5 hou2",
+      "sourceWordMeaning": "hello",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "polite",
+        "daily"
+      ],
+      "sourceFile": "r2-backup/words/nei5hou2-hello.json"
+    },
+    {
+      "sentenceId": "nei5hou2-hello-example-4",
+      "sentence": "你好，好耐冇見。",
+      "jyutping": "nei5 hou2, hou2 noi6 mou5 gin3",
+      "meaning": "Hello, long time no see.",
+      "sourceWordId": "nei5hou2-hello",
+      "sourceWord": "你好",
+      "sourceWordJyutping": "nei5 hou2",
+      "sourceWordMeaning": "hello",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "polite",
+        "daily"
+      ],
+      "sourceFile": "r2-backup/words/nei5hou2-hello.json"
+    },
+    {
+      "sentenceId": "nei5hou2-hello-example-5",
+      "sentence": "你好，請問你係邊位？",
+      "jyutping": "nei5 hou2, ceng2 man6 nei5 hai6 bin1 wai2",
+      "meaning": "Hello, may I ask who you are?",
+      "sourceWordId": "nei5hou2-hello",
+      "sourceWord": "你好",
+      "sourceWordJyutping": "nei5 hou2",
+      "sourceWordMeaning": "hello",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "polite",
+        "daily"
+      ],
+      "sourceFile": "r2-backup/words/nei5hou2-hello.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-1",
+      "sentence": "早晨呀！",
+      "jyutping": "zou2 san4 aa3",
+      "meaning": "Morning! (friendly)",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-2",
+      "sentence": "早晨，你食咗飯未？",
+      "jyutping": "zou2 san4, nei5 sik6 zo2 faan6 mei6",
+      "meaning": "Good morning, have you eaten yet?",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-3",
+      "sentence": "早晨，今日點呀？",
+      "jyutping": "zou2 san4, gam1 jat6 dim2 aa3",
+      "meaning": "Good morning, how’s today going?",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-4",
+      "sentence": "我每日返工都會同同事講早晨。",
+      "jyutping": "ngo5 mui5 jat6 faan1 gung1 dou1 wui5 tung4 tung4si6 gong2 zou2 san4",
+      "meaning": "Every day when I go to work, I say good morning to my colleagues.",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "maan6on1-good-night-example-1",
+      "sentence": "我瞓覺喇，晚安。",
+      "jyutping": "ngo5 fan3 gaau3 laa3, maan6 on1",
+      "meaning": "I’m going to sleep, good night.",
+      "sourceWordId": "maan6on1-good-night",
+      "sourceWord": "晚安",
+      "sourceWordJyutping": "maan6 on1",
+      "sourceWordMeaning": "good night",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "night"
+      ],
+      "sourceFile": "r2-backup/words/maan6on1-good-night.json"
+    },
+    {
+      "sentenceId": "maan6on1-good-night-example-2",
+      "sentence": "今晚辛苦晒，晚安。",
+      "jyutping": "gam1 maan5 san1 fu2 saai3, maan6 on1",
+      "meaning": "You worked hard tonight, good night.",
+      "sourceWordId": "maan6on1-good-night",
+      "sourceWord": "晚安",
+      "sourceWordJyutping": "maan6 on1",
+      "sourceWordMeaning": "good night",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "night"
+      ],
+      "sourceFile": "r2-backup/words/maan6on1-good-night.json"
+    },
+    {
+      "sentenceId": "maan6on1-good-night-example-3",
+      "sentence": "聽日見啦，晚安。",
+      "jyutping": "ting1 jat6 gin3 laa1, maan6 on1",
+      "meaning": "See you tomorrow, good night.",
+      "sourceWordId": "maan6on1-good-night",
+      "sourceWord": "晚安",
+      "sourceWordJyutping": "maan6 on1",
+      "sourceWordMeaning": "good night",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "night"
+      ],
+      "sourceFile": "r2-backup/words/maan6on1-good-night.json"
+    },
+    {
+      "sentenceId": "nei5dim2aa3-how-are-you-example-1",
+      "sentence": "你好呀，你點呀？",
+      "jyutping": "nei5 hou2 aa3, nei5 dim2 aa3",
+      "meaning": "Hi! How are you?",
+      "sourceWordId": "nei5dim2aa3-how-are-you",
+      "sourceWord": "你點呀？",
+      "sourceWordJyutping": "nei5 dim2 aa3",
+      "sourceWordMeaning": "how are you?",
+      "tags": [
+        "greeting",
+        "question",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/nei5dim2aa3-how-are-you.json"
+    },
+    {
+      "sentenceId": "nei5dim2aa3-how-are-you-example-2",
+      "sentence": "最近你好似好忙，你點呀？",
+      "jyutping": "zeoi3 gan6 nei5 hou2 ci5 hou2 mong4, nei5 dim2 aa3",
+      "meaning": "You seem really busy lately, how are you?",
+      "sourceWordId": "nei5dim2aa3-how-are-you",
+      "sourceWord": "你點呀？",
+      "sourceWordJyutping": "nei5 dim2 aa3",
+      "sourceWordMeaning": "how are you?",
+      "tags": [
+        "greeting",
+        "question",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/nei5dim2aa3-how-are-you.json"
+    },
+    {
+      "sentenceId": "nei5dim2aa3-how-are-you-example-3",
+      "sentence": "好耐冇見，你點呀？",
+      "jyutping": "hou2 noi6 mou5 gin3, nei5 dim2 aa3",
+      "meaning": "Long time no see, how have you been?",
+      "sourceWordId": "nei5dim2aa3-how-are-you",
+      "sourceWord": "你點呀？",
+      "sourceWordJyutping": "nei5 dim2 aa3",
+      "sourceWordMeaning": "how are you?",
+      "tags": [
+        "greeting",
+        "question",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/nei5dim2aa3-how-are-you.json"
+    },
+    {
+      "sentenceId": "hou2maa3-hows-it-going-example-1",
+      "sentence": "你最近好嗎？",
+      "jyutping": "nei5 zeoi3 gan6 hou2 maa3?",
+      "meaning": "How have you been lately?",
+      "sourceWordId": "hou2maa3-hows-it-going",
+      "sourceWord": "好嗎？",
+      "sourceWordJyutping": "hou2 maa3",
+      "sourceWordMeaning": "how’s it going?",
+      "tags": [
+        "greetings",
+        "casual",
+        "daily conversation",
+        "checking in",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hou2maa3-hows-it-going.json"
+    },
+    {
+      "sentenceId": "hou2maa3-hows-it-going-example-2",
+      "sentence": "工作忙，但都好嗎？",
+      "jyutping": "gung1 zok3 mong4, daan6 dou1 hou2 maa3?",
+      "meaning": "Work is busy, but is everything okay?",
+      "sourceWordId": "hou2maa3-hows-it-going",
+      "sourceWord": "好嗎？",
+      "sourceWordJyutping": "hou2 maa3",
+      "sourceWordMeaning": "how’s it going?",
+      "tags": [
+        "greetings",
+        "casual",
+        "daily conversation",
+        "checking in",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hou2maa3-hows-it-going.json"
+    },
+    {
+      "sentenceId": "hou2maa3-hows-it-going-example-3",
+      "sentence": "見面啦，你好嗎？",
+      "jyutping": "gin3 min6 laa3, nei5 hou2 maa3?",
+      "meaning": "Let's meet, how’s it going",
+      "sourceWordId": "hou2maa3-hows-it-going",
+      "sourceWord": "好嗎？",
+      "sourceWordJyutping": "hou2 maa3",
+      "sourceWordMeaning": "how’s it going?",
+      "tags": [
+        "greetings",
+        "casual",
+        "daily conversation",
+        "checking in",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hou2maa3-hows-it-going.json"
+    },
+    {
+      "sentenceId": "hou2maa3-hows-it-going-example-4",
+      "sentence": "今晚食飯，好嗎？",
+      "jyutping": "gam1 maan5 sik6 faan6, hou2 maa3?",
+      "meaning": "Dinner tonight, is that okay?",
+      "sourceWordId": "hou2maa3-hows-it-going",
+      "sourceWord": "好嗎？",
+      "sourceWordJyutping": "hou2 maa3",
+      "sourceWordMeaning": "how’s it going?",
+      "tags": [
+        "greetings",
+        "casual",
+        "daily conversation",
+        "checking in",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hou2maa3-hows-it-going.json"
+    },
+    {
+      "sentenceId": "hou2aa3-im-good-example-1",
+      "sentence": "我好呀。",
+      "jyutping": "ngo5 hou2 aa3",
+      "meaning": "I’m good.",
+      "sourceWordId": "hou2aa3-im-good",
+      "sourceWord": "好呀",
+      "sourceWordJyutping": "hou2 aa3",
+      "sourceWordMeaning": "I’m good / Good! / okay",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/hou2aa3-im-good.json"
+    },
+    {
+      "sentenceId": "hou2aa3-im-good-example-2",
+      "sentence": "你點呀？我好呀。",
+      "jyutping": "nei5 dim2 aa3? ngo5 hou2 aa3",
+      "meaning": "How are you? I’m good.",
+      "sourceWordId": "hou2aa3-im-good",
+      "sourceWord": "好呀",
+      "sourceWordJyutping": "hou2 aa3",
+      "sourceWordMeaning": "I’m good / Good! / okay",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/hou2aa3-im-good.json"
+    },
+    {
+      "sentenceId": "hou2aa3-im-good-example-3",
+      "sentence": "好呀，多謝你。",
+      "jyutping": "hou2 aa3, do1 ze6 nei5",
+      "meaning": "Okay, thank you.",
+      "sourceWordId": "hou2aa3-im-good",
+      "sourceWord": "好呀",
+      "sourceWordJyutping": "hou2 aa3",
+      "sourceWordMeaning": "I’m good / Good! / okay",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/hou2aa3-im-good.json"
+    },
+    {
+      "sentenceId": "hou2aa3-im-good-example-4",
+      "sentence": "今日幾好，我好呀。",
+      "jyutping": "gam1 jat6 gei2 hou2, ngo5 hou2 aa3",
+      "meaning": "Today’s pretty good, I’m doing fine.",
+      "sourceWordId": "hou2aa3-im-good",
+      "sourceWord": "好呀",
+      "sourceWordJyutping": "hou2 aa3",
+      "sourceWordMeaning": "I’m good / Good! / okay",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/hou2aa3-im-good.json"
+    },
+    {
+      "sentenceId": "hou2aa3-im-good-example-5",
+      "sentence": "放心啦，我好呀。",
+      "jyutping": "fong3 sam1 laa1, ngo5 hou2 aa3",
+      "meaning": "Don’t worry, I’m okay.",
+      "sourceWordId": "hou2aa3-im-good",
+      "sourceWord": "好呀",
+      "sourceWordJyutping": "hou2 aa3",
+      "sourceWordMeaning": "I’m good / Good! / okay",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/hou2aa3-im-good.json"
+    },
+    {
+      "sentenceId": "gei2hou2-pretty-good-example-1",
+      "sentence": "我幾好。",
+      "jyutping": "ngo5 gei2 hou2",
+      "meaning": "I’m pretty good.",
+      "sourceWordId": "gei2hou2-pretty-good",
+      "sourceWord": "幾好",
+      "sourceWordJyutping": "gei2 hou2",
+      "sourceWordMeaning": "pretty good / not bad",
+      "tags": [
+        "response",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/gei2hou2-pretty-good.json"
+    },
+    {
+      "sentenceId": "gei2hou2-pretty-good-example-2",
+      "sentence": "你點呀？我幾好。",
+      "jyutping": "nei5 dim2 aa3? ngo5 gei2 hou2",
+      "meaning": "How are you? I’m pretty good.",
+      "sourceWordId": "gei2hou2-pretty-good",
+      "sourceWord": "幾好",
+      "sourceWordJyutping": "gei2 hou2",
+      "sourceWordMeaning": "pretty good / not bad",
+      "tags": [
+        "response",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/gei2hou2-pretty-good.json"
+    },
+    {
+      "sentenceId": "gei2hou2-pretty-good-example-3",
+      "sentence": "今日天氣幾好。",
+      "jyutping": "gam1 jat6 tin1 hei3 gei2 hou2",
+      "meaning": "The weather is pretty nice today.",
+      "sourceWordId": "gei2hou2-pretty-good",
+      "sourceWord": "幾好",
+      "sourceWordJyutping": "gei2 hou2",
+      "sourceWordMeaning": "pretty good / not bad",
+      "tags": [
+        "response",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/gei2hou2-pretty-good.json"
+    },
+    {
+      "sentenceId": "gei2hou2-pretty-good-example-4",
+      "sentence": "呢間餐廳幾好食。",
+      "jyutping": "ni1 gaan1 caan1 teng1 gei2 hou2 sik6",
+      "meaning": "This restaurant is pretty tasty.",
+      "sourceWordId": "gei2hou2-pretty-good",
+      "sourceWord": "幾好",
+      "sourceWordJyutping": "gei2 hou2",
+      "sourceWordMeaning": "pretty good / not bad",
+      "tags": [
+        "response",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/gei2hou2-pretty-good.json"
+    },
+    {
+      "sentenceId": "gei2hou2-pretty-good-example-5",
+      "sentence": "最近我忙，但都幾好。",
+      "jyutping": "zeoi3 gan6 ngo5 mong4, daan6 dou1 gei2 hou2",
+      "meaning": "I’ve been busy lately, but I’m doing pretty well.",
+      "sourceWordId": "gei2hou2-pretty-good",
+      "sourceWord": "幾好",
+      "sourceWordJyutping": "gei2 hou2",
+      "sourceWordMeaning": "pretty good / not bad",
+      "tags": [
+        "response",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/gei2hou2-pretty-good.json"
+    },
+    {
+      "sentenceId": "maa4maa4dei2-decent-example-1",
+      "sentence": "我麻麻哋。",
+      "jyutping": "ngo5 maa4 maa4 dei2",
+      "meaning": "I’m so-so.",
+      "sourceWordId": "maa4maa4dei2-decent",
+      "sourceWord": "麻麻哋",
+      "sourceWordJyutping": "maa4 maa4 dei2",
+      "sourceWordMeaning": "so-so / not great",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/maa4maa4dei2-decent.json"
+    },
+    {
+      "sentenceId": "maa4maa4dei2-decent-example-2",
+      "sentence": "你點呀？我麻麻哋。",
+      "jyutping": "nei5 dim2 aa3? ngo5 maa4 maa4 dei2",
+      "meaning": "How are you? I’m so-so.",
+      "sourceWordId": "maa4maa4dei2-decent",
+      "sourceWord": "麻麻哋",
+      "sourceWordJyutping": "maa4 maa4 dei2",
+      "sourceWordMeaning": "so-so / not great",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/maa4maa4dei2-decent.json"
+    },
+    {
+      "sentenceId": "maa4maa4dei2-decent-example-3",
+      "sentence": "今日精神麻麻哋。",
+      "jyutping": "gam1 jat6 zing1 san4 maa4 maa4 dei2",
+      "meaning": "I don’t feel very energetic today.",
+      "sourceWordId": "maa4maa4dei2-decent",
+      "sourceWord": "麻麻哋",
+      "sourceWordJyutping": "maa4 maa4 dei2",
+      "sourceWordMeaning": "so-so / not great",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/maa4maa4dei2-decent.json"
+    },
+    {
+      "sentenceId": "maa4maa4dei2-decent-example-4",
+      "sentence": "呢套戲麻麻哋，好普通。",
+      "jyutping": "ni1 tou3 hei3 maa4 maa4 dei2, hou2 pou2 tung1",
+      "meaning": "This movie is so-so, pretty ordinary.",
+      "sourceWordId": "maa4maa4dei2-decent",
+      "sourceWord": "麻麻哋",
+      "sourceWordJyutping": "maa4 maa4 dei2",
+      "sourceWordMeaning": "so-so / not great",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/maa4maa4dei2-decent.json"
+    },
+    {
+      "sentenceId": "maa4maa4dei2-decent-example-5",
+      "sentence": "最近忙咗啲，所以麻麻哋。",
+      "jyutping": "zeoi3 gan6 mong4 zo2 di1, so2 ji5 maa4 maa4 dei2",
+      "meaning": "I’ve been a bit busy lately, so I’m doing just so-so.",
+      "sourceWordId": "maa4maa4dei2-decent",
+      "sourceWord": "麻麻哋",
+      "sourceWordJyutping": "maa4 maa4 dei2",
+      "sourceWordMeaning": "so-so / not great",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/maa4maa4dei2-decent.json"
+    },
+    {
+      "sentenceId": "m4taai3hou2-not-great-example-1",
+      "sentence": "我唔太好。",
+      "jyutping": "ngo5 m4 taai3 hou2",
+      "meaning": "I’m not too good.",
+      "sourceWordId": "m4taai3hou2-not-great",
+      "sourceWord": "唔太好",
+      "sourceWordJyutping": "m4 taai3 hou2",
+      "sourceWordMeaning": "not too good / not very well",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "feelings"
+      ],
+      "sourceFile": "r2-backup/words/m4taai3hou2-not-great.json"
+    },
+    {
+      "sentenceId": "m4taai3hou2-not-great-example-2",
+      "sentence": "你點呀？我唔太好。",
+      "jyutping": "nei5 dim2 aa3? ngo5 m4 taai3 hou2",
+      "meaning": "How are you? I’m not doing too well.",
+      "sourceWordId": "m4taai3hou2-not-great",
+      "sourceWord": "唔太好",
+      "sourceWordJyutping": "m4 taai3 hou2",
+      "sourceWordMeaning": "not too good / not very well",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "feelings"
+      ],
+      "sourceFile": "r2-backup/words/m4taai3hou2-not-great.json"
+    },
+    {
+      "sentenceId": "m4taai3hou2-not-great-example-3",
+      "sentence": "我今日有啲唔舒服，所以唔太好。",
+      "jyutping": "ngo5 gam1 jat6 jau5 di1 m4 syu1 fuk6, so2 ji5 m4 taai3 hou2",
+      "meaning": "I’m not feeling well today, so I’m not too good.",
+      "sourceWordId": "m4taai3hou2-not-great",
+      "sourceWord": "唔太好",
+      "sourceWordJyutping": "m4 taai3 hou2",
+      "sourceWordMeaning": "not too good / not very well",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "feelings"
+      ],
+      "sourceFile": "r2-backup/words/m4taai3hou2-not-great.json"
+    },
+    {
+      "sentenceId": "m4taai3hou2-not-great-example-4",
+      "sentence": "最近工作壓力大，我唔太好。",
+      "jyutping": "zeoi3 gan6 gung1 zok3 aat3 lik6 daai6, ngo5 m4 taai3 hou2",
+      "meaning": "Work has been stressful lately, so I’m not doing too well.",
+      "sourceWordId": "m4taai3hou2-not-great",
+      "sourceWord": "唔太好",
+      "sourceWordJyutping": "m4 taai3 hou2",
+      "sourceWordMeaning": "not too good / not very well",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "feelings"
+      ],
+      "sourceFile": "r2-backup/words/m4taai3hou2-not-great.json"
+    },
+    {
+      "sentenceId": "m4taai3hou2-not-great-example-5",
+      "sentence": "唔好意思，我而家唔太好，遲啲再講。",
+      "jyutping": "m4 hou2 ji3 si3, ngo5 ji4 gaa1 m4 taai3 hou2, ci4 di1 zoi3 gong2",
+      "meaning": "Sorry, I’m not doing too well right now. Let’s talk later.",
+      "sourceWordId": "m4taai3hou2-not-great",
+      "sourceWord": "唔太好",
+      "sourceWordJyutping": "m4 taai3 hou2",
+      "sourceWordMeaning": "not too good / not very well",
+      "tags": [
+        "response",
+        "adjective",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "feelings"
+      ],
+      "sourceFile": "r2-backup/words/m4taai3hou2-not-great.json"
+    },
+    {
+      "sentenceId": "m4hai6m4hai6-rejection-polite-example-1",
+      "sentence": "多謝你幫手，唔係唔係，我自己做到。",
+      "jyutping": "do1 ze6 nei5 bong1 sau2, m4 hai6 m4 hai6, ngo5 zi6 gei2 zou6 dou3.",
+      "meaning": "Thank you for helping, (polite rejection), I can do it myself.",
+      "sourceWordId": "m4hai6m4hai6-rejection-polite",
+      "sourceWord": "唔係唔係",
+      "sourceWordJyutping": "m4 hai6 m4 hai6",
+      "sourceWordMeaning": "polite rejection or disagreement",
+      "tags": [
+        "polite",
+        "common phrase",
+        "spoken Cantonese",
+        "informal",
+        "friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6m4hai6-rejection-polite.json"
+    },
+    {
+      "sentenceId": "m4hai6m4hai6-rejection-polite-example-2",
+      "sentence": "你唔使客氣，唔係唔係。",
+      "jyutping": "nei5 m4 sai2 haak3 hei3, m4 hai6 m4 hai6.",
+      "meaning": "You don't need to be polite, (polite rejection).",
+      "sourceWordId": "m4hai6m4hai6-rejection-polite",
+      "sourceWord": "唔係唔係",
+      "sourceWordJyutping": "m4 hai6 m4 hai6",
+      "sourceWordMeaning": "polite rejection or disagreement",
+      "tags": [
+        "polite",
+        "common phrase",
+        "spoken Cantonese",
+        "informal",
+        "friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6m4hai6-rejection-polite.json"
+    },
+    {
+      "sentenceId": "m4hai6m4hai6-rejection-polite-example-3",
+      "sentence": "唔使擔心，唔係唔係，我會準時返。",
+      "jyutping": "m4 sai2 daam1 sam1, m4 hai6 m4 hai6, ngo5 wui5 zeon2 si4 faan1.",
+      "meaning": "Don’t worry, (polite disagreement), I will be on time.",
+      "sourceWordId": "m4hai6m4hai6-rejection-polite",
+      "sourceWord": "唔係唔係",
+      "sourceWordJyutping": "m4 hai6 m4 hai6",
+      "sourceWordMeaning": "polite rejection or disagreement",
+      "tags": [
+        "polite",
+        "common phrase",
+        "spoken Cantonese",
+        "informal",
+        "friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6m4hai6-rejection-polite.json"
+    },
+    {
+      "sentenceId": "m4hai6m4hai6-rejection-polite-example-4",
+      "sentence": "你唔好意思，唔係唔係，我真係唔介意。",
+      "jyutping": "nei5 m4 hou2 ji3 si1, m4 hai6 m4 hai6, ngo5 zan1 hai6 m4 gaai3 ji3.",
+      "meaning": "Don't be embarrassed, (polite disagreement), I really don’t mind.",
+      "sourceWordId": "m4hai6m4hai6-rejection-polite",
+      "sourceWord": "唔係唔係",
+      "sourceWordJyutping": "m4 hai6 m4 hai6",
+      "sourceWordMeaning": "polite rejection or disagreement",
+      "tags": [
+        "polite",
+        "common phrase",
+        "spoken Cantonese",
+        "informal",
+        "friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/m4hai6m4hai6-rejection-polite.json"
+    },
+    {
+      "sentenceId": "m4gan1jiu3-no-problem-example-1",
+      "sentence": "唔緊要。",
+      "jyutping": "m4 gan1 jiu3",
+      "meaning": "It’s okay.",
+      "sourceWordId": "m4gan1jiu3-no-problem",
+      "sourceWord": "唔緊要",
+      "sourceWordJyutping": "m4 gan1 jiu3",
+      "sourceWordMeaning": "it’s okay / no problem",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "polite",
+        "daily",
+        "conversation",
+        "reassurance"
+      ],
+      "sourceFile": "r2-backup/words/m4gan1jiu3-no-problem.json"
+    },
+    {
+      "sentenceId": "m4gan1jiu3-no-problem-example-2",
+      "sentence": "對唔住！",
+      "jyutping": "deoi3 m4 zyu6",
+      "meaning": "Sorry!",
+      "sourceWordId": "m4gan1jiu3-no-problem",
+      "sourceWord": "唔緊要",
+      "sourceWordJyutping": "m4 gan1 jiu3",
+      "sourceWordMeaning": "it’s okay / no problem",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "polite",
+        "daily",
+        "conversation",
+        "reassurance"
+      ],
+      "sourceFile": "r2-backup/words/m4gan1jiu3-no-problem.json"
+    },
+    {
+      "sentenceId": "m4gan1jiu3-no-problem-example-3",
+      "sentence": "唔緊要，冇事。",
+      "jyutping": "m4 gan1 jiu3, mou5 si6",
+      "meaning": "No problem, it’s fine.",
+      "sourceWordId": "m4gan1jiu3-no-problem",
+      "sourceWord": "唔緊要",
+      "sourceWordJyutping": "m4 gan1 jiu3",
+      "sourceWordMeaning": "it’s okay / no problem",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "polite",
+        "daily",
+        "conversation",
+        "reassurance"
+      ],
+      "sourceFile": "r2-backup/words/m4gan1jiu3-no-problem.json"
+    },
+    {
+      "sentenceId": "m4gan1jiu3-no-problem-example-4",
+      "sentence": "唔好意思，遲咗。",
+      "jyutping": "m4 hou2 ji3 si3, ci4 zo2",
+      "meaning": "Sorry, I’m late.",
+      "sourceWordId": "m4gan1jiu3-no-problem",
+      "sourceWord": "唔緊要",
+      "sourceWordJyutping": "m4 gan1 jiu3",
+      "sourceWordMeaning": "it’s okay / no problem",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "polite",
+        "daily",
+        "conversation",
+        "reassurance"
+      ],
+      "sourceFile": "r2-backup/words/m4gan1jiu3-no-problem.json"
+    },
+    {
+      "sentenceId": "m4gan1jiu3-no-problem-example-5",
+      "sentence": "唔緊要，慢慢嚟。",
+      "jyutping": "m4 gan1 jiu3, maan6 maan6 lei4",
+      "meaning": "It’s okay, take your time.",
+      "sourceWordId": "m4gan1jiu3-no-problem",
+      "sourceWord": "唔緊要",
+      "sourceWordJyutping": "m4 gan1 jiu3",
+      "sourceWordMeaning": "it’s okay / no problem",
+      "tags": [
+        "response",
+        "level-1",
+        "core",
+        "polite",
+        "daily",
+        "conversation",
+        "reassurance"
+      ],
+      "sourceFile": "r2-backup/words/m4gan1jiu3-no-problem.json"
+    },
+    {
+      "sentenceId": "m4goi1-please-example-1",
+      "sentence": "唔該晒。",
+      "jyutping": "m4 goi1 saai3",
+      "meaning": "Thanks a lot.",
+      "sourceWordId": "m4goi1-please",
+      "sourceWord": "唔該",
+      "sourceWordJyutping": "m4 goi1",
+      "sourceWordMeaning": "please / thanks (for services)",
+      "tags": [
+        "politeness",
+        "level-1",
+        "core",
+        "daily-life"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1-please.json"
+    },
+    {
+      "sentenceId": "m4goi1-please-example-2",
+      "sentence": "唔該幫我開門。",
+      "jyutping": "m4 goi1 bong1 ngo5 hoi1 mun4",
+      "meaning": "Please help me open the door.",
+      "sourceWordId": "m4goi1-please",
+      "sourceWord": "唔該",
+      "sourceWordJyutping": "m4 goi1",
+      "sourceWordMeaning": "please / thanks (for services)",
+      "tags": [
+        "politeness",
+        "level-1",
+        "core",
+        "daily-life"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1-please.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-1",
+      "sentence": "多謝你。",
+      "jyutping": "do1 ze6 nei5",
+      "meaning": "Thank you.",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-2",
+      "sentence": "多謝晒！",
+      "jyutping": "do1 ze6 saai3",
+      "meaning": "Thanks a lot!",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-3",
+      "sentence": "多謝你幫我。",
+      "jyutping": "do1 ze6 nei5 bong1 ngo5",
+      "meaning": "Thank you for helping me.",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "do1ze6-thank-you-example-4",
+      "sentence": "呢份禮物好靚，多謝你。",
+      "jyutping": "ni1 fan6 lai5 mat6 hou2 leng3, do1 ze6 nei5",
+      "meaning": "This gift is really nice, thank you.",
+      "sourceWordId": "do1ze6-thank-you",
+      "sourceWord": "多謝",
+      "sourceWordJyutping": "do1 ze6",
+      "sourceWordMeaning": "thank you (for gifts / kindness)",
+      "tags": [
+        "polite",
+        "level-1",
+        "core",
+        "daily",
+        "gratitude",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/do1ze6-thank-you.json"
+    },
+    {
+      "sentenceId": "ceng2-please-invite-example-1",
+      "sentence": "請坐。",
+      "jyutping": "ceng2 co5",
+      "meaning": "Please sit.",
+      "sourceWordId": "ceng2-please-invite",
+      "sourceWord": "請",
+      "sourceWordJyutping": "ceng2",
+      "sourceWordMeaning": "please / to invite / to treat (someone)",
+      "tags": [
+        "polite",
+        "verb",
+        "social",
+        "core",
+        "daily",
+        "multi-meaning"
+      ],
+      "sourceFile": "r2-backup/words/ceng2-please-invite.json"
+    },
+    {
+      "sentenceId": "ceng2-please-invite-example-2",
+      "sentence": "請問，地鐵站喺邊度？",
+      "jyutping": "ceng2 man6, dei6 tit3 zaam6 hai2 bin1 dou6",
+      "meaning": "Excuse me, where is the MTR station?",
+      "sourceWordId": "ceng2-please-invite",
+      "sourceWord": "請",
+      "sourceWordJyutping": "ceng2",
+      "sourceWordMeaning": "please / to invite / to treat (someone)",
+      "tags": [
+        "polite",
+        "verb",
+        "social",
+        "core",
+        "daily",
+        "multi-meaning"
+      ],
+      "sourceFile": "r2-backup/words/ceng2-please-invite.json"
+    },
+    {
+      "sentenceId": "ceng2-please-invite-example-3",
+      "sentence": "我想請你食飯。",
+      "jyutping": "ngo5 soeng2 ceng2 nei5 sik6 faan6",
+      "meaning": "I want to treat you to a meal.",
+      "sourceWordId": "ceng2-please-invite",
+      "sourceWord": "請",
+      "sourceWordJyutping": "ceng2",
+      "sourceWordMeaning": "please / to invite / to treat (someone)",
+      "tags": [
+        "polite",
+        "verb",
+        "social",
+        "core",
+        "daily",
+        "multi-meaning"
+      ],
+      "sourceFile": "r2-backup/words/ceng2-please-invite.json"
+    },
+    {
+      "sentenceId": "ceng2-please-invite-example-4",
+      "sentence": "佢請我去佢屋企。",
+      "jyutping": "keoi5 ceng2 ngo5 heoi3 keoi5 uk1 kei2",
+      "meaning": "He invited me to his home.",
+      "sourceWordId": "ceng2-please-invite",
+      "sourceWord": "請",
+      "sourceWordJyutping": "ceng2",
+      "sourceWordMeaning": "please / to invite / to treat (someone)",
+      "tags": [
+        "polite",
+        "verb",
+        "social",
+        "core",
+        "daily",
+        "multi-meaning"
+      ],
+      "sourceFile": "r2-backup/words/ceng2-please-invite.json"
+    },
+    {
+      "sentenceId": "ceng2-please-invite-example-5",
+      "sentence": "今晚我請。",
+      "jyutping": "gam1 maan5 ngo5 ceng2",
+      "meaning": "Tonight, it's my treat.",
+      "sourceWordId": "ceng2-please-invite",
+      "sourceWord": "請",
+      "sourceWordJyutping": "ceng2",
+      "sourceWordMeaning": "please / to invite / to treat (someone)",
+      "tags": [
+        "polite",
+        "verb",
+        "social",
+        "core",
+        "daily",
+        "multi-meaning"
+      ],
+      "sourceFile": "r2-backup/words/ceng2-please-invite.json"
+    },
+    {
+      "sentenceId": "m4goi1aa3-thanks-friendly-example-1",
+      "sentence": "唔該呀。",
+      "jyutping": "m4 goi1 aa3",
+      "meaning": "Thanks! (friendly)",
+      "sourceWordId": "m4goi1aa3-thanks-friendly",
+      "sourceWord": "唔該呀",
+      "sourceWordJyutping": "m4 goi1 aa3",
+      "sourceWordMeaning": "thanks (friendly)",
+      "tags": [
+        "polite",
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "friendly"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1aa3-thanks-friendly.json"
+    },
+    {
+      "sentenceId": "m4goi1aa3-thanks-friendly-example-2",
+      "sentence": "唔該呀，幫咗我好多。",
+      "jyutping": "m4 goi1 aa3, bong1 zo2 ngo5 hou2 do1",
+      "meaning": "Thanks, you helped me a lot.",
+      "sourceWordId": "m4goi1aa3-thanks-friendly",
+      "sourceWord": "唔該呀",
+      "sourceWordJyutping": "m4 goi1 aa3",
+      "sourceWordMeaning": "thanks (friendly)",
+      "tags": [
+        "polite",
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "friendly"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1aa3-thanks-friendly.json"
+    },
+    {
+      "sentenceId": "m4goi1aa3-thanks-friendly-example-3",
+      "sentence": "唔該呀，我自己嚟就得。",
+      "jyutping": "m4 goi1 aa3, ngo5 zi6 gei2 lei4 zau6 dak1",
+      "meaning": "Thanks, I can do it myself.",
+      "sourceWordId": "m4goi1aa3-thanks-friendly",
+      "sourceWord": "唔該呀",
+      "sourceWordJyutping": "m4 goi1 aa3",
+      "sourceWordMeaning": "thanks (friendly)",
+      "tags": [
+        "polite",
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "friendly"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1aa3-thanks-friendly.json"
+    },
+    {
+      "sentenceId": "m4goi1aa3-thanks-friendly-example-4",
+      "sentence": "唔該呀，麻煩你喇。",
+      "jyutping": "m4 goi1 aa3, maa4 fan4 nei5 laa3",
+      "meaning": "Thanks, sorry to trouble you.",
+      "sourceWordId": "m4goi1aa3-thanks-friendly",
+      "sourceWord": "唔該呀",
+      "sourceWordJyutping": "m4 goi1 aa3",
+      "sourceWordMeaning": "thanks (friendly)",
+      "tags": [
+        "polite",
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "friendly"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1aa3-thanks-friendly.json"
+    },
+    {
+      "sentenceId": "m4goi1aa3-thanks-friendly-example-5",
+      "sentence": "唔該呀，遲啲再傾。",
+      "jyutping": "m4 goi1 aa3, ci4 di1 zoi3 king1",
+      "meaning": "Thanks, we’ll chat later.",
+      "sourceWordId": "m4goi1aa3-thanks-friendly",
+      "sourceWord": "唔該呀",
+      "sourceWordJyutping": "m4 goi1 aa3",
+      "sourceWordMeaning": "thanks (friendly)",
+      "tags": [
+        "polite",
+        "response",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "friendly"
+      ],
+      "sourceFile": "r2-backup/words/m4goi1aa3-thanks-friendly.json"
+    },
+    {
+      "sentenceId": "deoi3m4zyu6-sorry-example-1",
+      "sentence": "對唔住，我遲咗。",
+      "jyutping": "deoi3 m4 zyu6, ngo5 ci4 zo2",
+      "meaning": "Sorry, I’m late.",
+      "sourceWordId": "deoi3m4zyu6-sorry",
+      "sourceWord": "對唔住",
+      "sourceWordJyutping": "deoi3 m4 zyu6",
+      "sourceWordMeaning": "sorry",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/deoi3m4zyu6-sorry.json"
+    },
+    {
+      "sentenceId": "deoi3m4zyu6-sorry-example-2",
+      "sentence": "對唔住，我唔小心。",
+      "jyutping": "deoi3 m4 zyu6, ngo5 m4 siu2 sam1",
+      "meaning": "Sorry, I wasn’t careful.",
+      "sourceWordId": "deoi3m4zyu6-sorry",
+      "sourceWord": "對唔住",
+      "sourceWordJyutping": "deoi3 m4 zyu6",
+      "sourceWordMeaning": "sorry",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/deoi3m4zyu6-sorry.json"
+    },
+    {
+      "sentenceId": "deoi3m4zyu6-sorry-example-3",
+      "sentence": "真係對唔住，麻煩到你。",
+      "jyutping": "zan1 hai6 deoi3 m4 zyu6, maa4 fan4 dou3 nei5",
+      "meaning": "I’m really sorry for troubling you.",
+      "sourceWordId": "deoi3m4zyu6-sorry",
+      "sourceWord": "對唔住",
+      "sourceWordJyutping": "deoi3 m4 zyu6",
+      "sourceWordMeaning": "sorry",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/deoi3m4zyu6-sorry.json"
+    },
+    {
+      "sentenceId": "deoi3m4zyu6-sorry-example-4",
+      "sentence": "對唔住，我下次會注意。",
+      "jyutping": "deoi3 m4 zyu6, ngo5 haa6 ci3 wui5 zyu3 ji3",
+      "meaning": "Sorry, I’ll be more careful next time.",
+      "sourceWordId": "deoi3m4zyu6-sorry",
+      "sourceWord": "對唔住",
+      "sourceWordJyutping": "deoi3 m4 zyu6",
+      "sourceWordMeaning": "sorry",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/deoi3m4zyu6-sorry.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si3-excuse-me-example-1",
+      "sentence": "唔好意思，請問呢度點行？",
+      "jyutping": "m4 hou2 ji3 si3, ceng2 man6 ni1 dou6 dim2 haang4",
+      "meaning": "Excuse me, how do I get there from here?",
+      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si3",
+      "sourceWordMeaning": "excuse me / sorry (polite)",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "excuse"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si3-excuse-me-example-2",
+      "sentence": "唔好意思，我打擾你一下。",
+      "jyutping": "m4 hou2 ji3 si3, ngo5 daa2 jiu2 nei5 jat1 haa5",
+      "meaning": "Sorry to bother you for a moment.",
+      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si3",
+      "sourceWordMeaning": "excuse me / sorry (polite)",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "excuse"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si3-excuse-me-example-3",
+      "sentence": "唔好意思，我唔記得咗。",
+      "jyutping": "m4 hou2 ji3 si3, ngo5 m4 gei3 dak1 zo2",
+      "meaning": "Sorry, I forgot.",
+      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si3",
+      "sourceWordMeaning": "excuse me / sorry (polite)",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "excuse"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si3-excuse-me-example-4",
+      "sentence": "唔好意思，麻煩你幫幫手。",
+      "jyutping": "m4 hou2 ji3 si3, maa4 fan4 nei5 bong1 bong1 sau2",
+      "meaning": "Excuse me, sorry to trouble you — could you help?",
+      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si3",
+      "sourceWordMeaning": "excuse me / sorry (polite)",
+      "tags": [
+        "polite",
+        "apology",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "excuse"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+    },
+    {
+      "sentenceId": "ze3ze3-excuse-me-pass-example-1",
+      "sentence": "唔該，借借。",
+      "jyutping": "m4 goi1, ze3 ze3",
+      "meaning": "Excuse me, coming through.",
+      "sourceWordId": "ze3ze3-excuse-me-pass",
+      "sourceWord": "借借",
+      "sourceWordJyutping": "ze3 ze3",
+      "sourceWordMeaning": "excuse me (passing through)",
+      "tags": [
+        "polite",
+        "level-1",
+        "daily",
+        "spoken",
+        "hong-kong",
+        "travel",
+        "crowds"
+      ],
+      "sourceFile": "r2-backup/words/ze3ze3-excuse-me-pass.json"
+    },
+    {
+      "sentenceId": "ze3ze3-excuse-me-pass-example-2",
+      "sentence": "借借呀，我想行過去。",
+      "jyutping": "ze3 ze3 aa3, ngo5 soeng2 haang4 gwo3 heoi3",
+      "meaning": "Excuse me, I want to walk over there.",
+      "sourceWordId": "ze3ze3-excuse-me-pass",
+      "sourceWord": "借借",
+      "sourceWordJyutping": "ze3 ze3",
+      "sourceWordMeaning": "excuse me (passing through)",
+      "tags": [
+        "polite",
+        "level-1",
+        "daily",
+        "spoken",
+        "hong-kong",
+        "travel",
+        "crowds"
+      ],
+      "sourceFile": "r2-backup/words/ze3ze3-excuse-me-pass.json"
+    },
+    {
+      "sentenceId": "ze3ze3-excuse-me-pass-example-3",
+      "sentence": "人好多，借借先。",
+      "jyutping": "jan4 hou2 do1, ze3 ze3 sin1",
+      "meaning": "There are lots of people — excuse me first.",
+      "sourceWordId": "ze3ze3-excuse-me-pass",
+      "sourceWord": "借借",
+      "sourceWordJyutping": "ze3 ze3",
+      "sourceWordMeaning": "excuse me (passing through)",
+      "tags": [
+        "polite",
+        "level-1",
+        "daily",
+        "spoken",
+        "hong-kong",
+        "travel",
+        "crowds"
+      ],
+      "sourceFile": "r2-backup/words/ze3ze3-excuse-me-pass.json"
+    },
+    {
+      "sentenceId": "ze3ze3-excuse-me-pass-example-4",
+      "sentence": "唔好意思，借借，我趕時間。",
+      "jyutping": "m4 hou2 ji3 si3, ze3 ze3, ngo5 gon2 si4 gaan3",
+      "meaning": "Sorry, excuse me — I’m in a hurry.",
+      "sourceWordId": "ze3ze3-excuse-me-pass",
+      "sourceWord": "借借",
+      "sourceWordJyutping": "ze3 ze3",
+      "sourceWordMeaning": "excuse me (passing through)",
+      "tags": [
+        "polite",
+        "level-1",
+        "daily",
+        "spoken",
+        "hong-kong",
+        "travel",
+        "crowds"
+      ],
+      "sourceFile": "r2-backup/words/ze3ze3-excuse-me-pass.json"
+    },
+    {
+      "sentenceId": "zoi3gin3-goodbye-example-1",
+      "sentence": "再見。",
+      "jyutping": "zoi3 gin3",
+      "meaning": "Goodbye.",
+      "sourceWordId": "zoi3gin3-goodbye",
+      "sourceWord": "再見",
+      "sourceWordJyutping": "zoi3 gin3",
+      "sourceWordMeaning": "goodbye",
+      "tags": [
+        "greeting",
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zoi3gin3-goodbye.json"
+    },
+    {
+      "sentenceId": "zoi3gin3-goodbye-example-2",
+      "sentence": "再見喇！",
+      "jyutping": "zoi3 gin3 laa3",
+      "meaning": "Bye then!",
+      "sourceWordId": "zoi3gin3-goodbye",
+      "sourceWord": "再見",
+      "sourceWordJyutping": "zoi3 gin3",
+      "sourceWordMeaning": "goodbye",
+      "tags": [
+        "greeting",
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zoi3gin3-goodbye.json"
+    },
+    {
+      "sentenceId": "zoi3gin3-goodbye-example-3",
+      "sentence": "我走先，再見。",
+      "jyutping": "ngo5 zau2 sin1, zoi3 gin3",
+      "meaning": "I’ll go first, goodbye.",
+      "sourceWordId": "zoi3gin3-goodbye",
+      "sourceWord": "再見",
+      "sourceWordJyutping": "zoi3 gin3",
+      "sourceWordMeaning": "goodbye",
+      "tags": [
+        "greeting",
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zoi3gin3-goodbye.json"
+    },
+    {
+      "sentenceId": "zoi3gin3-goodbye-example-4",
+      "sentence": "遲啲再見。",
+      "jyutping": "ci4 di1 zoi3 gin3",
+      "meaning": "See you later.",
+      "sourceWordId": "zoi3gin3-goodbye",
+      "sourceWord": "再見",
+      "sourceWordJyutping": "zoi3 gin3",
+      "sourceWordMeaning": "goodbye",
+      "tags": [
+        "greeting",
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zoi3gin3-goodbye.json"
+    },
+    {
+      "sentenceId": "zoi3gin3-goodbye-example-5",
+      "sentence": "聽日再見啦。",
+      "jyutping": "ting1 jat6 zoi3 gin3 laa1",
+      "meaning": "See you tomorrow.",
+      "sourceWordId": "zoi3gin3-goodbye",
+      "sourceWord": "再見",
+      "sourceWordJyutping": "zoi3 gin3",
+      "sourceWordMeaning": "goodbye",
+      "tags": [
+        "greeting",
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zoi3gin3-goodbye.json"
+    },
+    {
+      "sentenceId": "haang4sin1-leave-first-example-1",
+      "sentence": "我行先。",
+      "jyutping": "ngo5 haang4 sin1",
+      "meaning": "I’ll go first.",
+      "sourceWordId": "haang4sin1-leave-first",
+      "sourceWord": "行先",
+      "sourceWordJyutping": "haang4 sin1",
+      "sourceWordMeaning": "I’ll go first / I’ll head off",
+      "tags": [
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/haang4sin1-leave-first.json"
+    },
+    {
+      "sentenceId": "haang4sin1-leave-first-example-2",
+      "sentence": "好喇，我行先喇。",
+      "jyutping": "hou2 laa3, ngo5 haang4 sin1 laa3",
+      "meaning": "Alright then, I’m heading off.",
+      "sourceWordId": "haang4sin1-leave-first",
+      "sourceWord": "行先",
+      "sourceWordJyutping": "haang4 sin1",
+      "sourceWordMeaning": "I’ll go first / I’ll head off",
+      "tags": [
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/haang4sin1-leave-first.json"
+    },
+    {
+      "sentenceId": "haang4sin1-leave-first-example-3",
+      "sentence": "我趕時間，行先啦。",
+      "jyutping": "ngo5 gon2 si4 gaan3, haang4 sin1 laa1",
+      "meaning": "I’m in a hurry, I’ll go first.",
+      "sourceWordId": "haang4sin1-leave-first",
+      "sourceWord": "行先",
+      "sourceWordJyutping": "haang4 sin1",
+      "sourceWordMeaning": "I’ll go first / I’ll head off",
+      "tags": [
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/haang4sin1-leave-first.json"
+    },
+    {
+      "sentenceId": "haang4sin1-leave-first-example-4",
+      "sentence": "你哋慢慢食，我行先。",
+      "jyutping": "nei5 dei6 maan6 maan6 sik6, ngo5 haang4 sin1",
+      "meaning": "You all take your time eating, I’ll go first.",
+      "sourceWordId": "haang4sin1-leave-first",
+      "sourceWord": "行先",
+      "sourceWordJyutping": "haang4 sin1",
+      "sourceWordMeaning": "I’ll go first / I’ll head off",
+      "tags": [
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/haang4sin1-leave-first.json"
+    },
+    {
+      "sentenceId": "haang4sin1-leave-first-example-5",
+      "sentence": "再見啦，我行先。",
+      "jyutping": "zoi3 gin3 laa1, ngo5 haang4 sin1",
+      "meaning": "Bye, I’ll head off first.",
+      "sourceWordId": "haang4sin1-leave-first",
+      "sourceWord": "行先",
+      "sourceWordJyutping": "haang4 sin1",
+      "sourceWordMeaning": "I’ll go first / I’ll head off",
+      "tags": [
+        "farewell",
+        "level-1",
+        "core",
+        "daily",
+        "conversation",
+        "spoken"
+      ],
+      "sourceFile": "r2-backup/words/haang4sin1-leave-first.json"
+    },
+    {
+      "sentenceId": "ci4di1-later-example-1",
+      "sentence": "遲啲。",
+      "jyutping": "ci4 di1",
+      "meaning": "Later.",
+      "sourceWordId": "ci4di1-later",
+      "sourceWord": "遲啲",
+      "sourceWordJyutping": "ci4 di1",
+      "sourceWordMeaning": "later / in a while",
+      "tags": [
+        "time",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/ci4di1-later.json"
+    },
+    {
+      "sentenceId": "ci4di1-later-example-3",
+      "sentence": "遲啲再講啦。",
+      "jyutping": "ci4 di1 zoi3 gong2 laa1",
+      "meaning": "Let’s talk later.",
+      "sourceWordId": "ci4di1-later",
+      "sourceWord": "遲啲",
+      "sourceWordJyutping": "ci4 di1",
+      "sourceWordMeaning": "later / in a while",
+      "tags": [
+        "time",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/ci4di1-later.json"
+    },
+    {
+      "sentenceId": "ci4di1-later-example-4",
+      "sentence": "我而家忙，遲啲先做。",
+      "jyutping": "ngo5 ji4 gaa1 mong4, ci4 di1 sin1 zou6",
+      "meaning": "I’m busy right now, I’ll do it later.",
+      "sourceWordId": "ci4di1-later",
+      "sourceWord": "遲啲",
+      "sourceWordJyutping": "ci4 di1",
+      "sourceWordMeaning": "later / in a while",
+      "tags": [
+        "time",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/ci4di1-later.json"
+    },
+    {
+      "sentenceId": "ci4di1-later-example-5",
+      "sentence": "唔使急，遲啲都得。",
+      "jyutping": "m4 sai2 gap1, ci4 di1 dou1 dak1",
+      "meaning": "No need to rush, later is fine too.",
+      "sourceWordId": "ci4di1-later",
+      "sourceWord": "遲啲",
+      "sourceWordJyutping": "ci4 di1",
+      "sourceWordMeaning": "later / in a while",
+      "tags": [
+        "time",
+        "adverb",
+        "level-1",
+        "core",
+        "daily",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/ci4di1-later.json"
+    },
+    {
+      "sentenceId": "zo2-bother-example-1",
+      "sentence": "唔好阻住。",
+      "jyutping": "m4 hou2 zo2 zyu6",
+      "meaning": "Don’t block the way.",
+      "sourceWordId": "zo2-bother",
+      "sourceWord": "阻",
+      "sourceWordJyutping": "zo2",
+      "sourceWordMeaning": "to disturb / bother / block",
+      "tags": [
+        "verb",
+        "level-2",
+        "core",
+        "daily",
+        "polite",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zo2-bother.json"
+    },
+    {
+      "sentenceId": "zo2-bother-example-2",
+      "sentence": "唔阻你喇。",
+      "jyutping": "m4 zo2 nei5 laa3",
+      "meaning": "I won’t bother you anymore.",
+      "sourceWordId": "zo2-bother",
+      "sourceWord": "阻",
+      "sourceWordJyutping": "zo2",
+      "sourceWordMeaning": "to disturb / bother / block",
+      "tags": [
+        "verb",
+        "level-2",
+        "core",
+        "daily",
+        "polite",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zo2-bother.json"
+    },
+    {
+      "sentenceId": "zo2-bother-example-3",
+      "sentence": "對唔住，阻到你。",
+      "jyutping": "deoi3 m4 zyu6, zo2 dou3 nei5",
+      "meaning": "Sorry for bothering you.",
+      "sourceWordId": "zo2-bother",
+      "sourceWord": "阻",
+      "sourceWordJyutping": "zo2",
+      "sourceWordMeaning": "to disturb / bother / block",
+      "tags": [
+        "verb",
+        "level-2",
+        "core",
+        "daily",
+        "polite",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zo2-bother.json"
+    },
+    {
+      "sentenceId": "zo2-bother-example-4",
+      "sentence": "呢度好多人，行路會阻住。",
+      "jyutping": "ni1 dou6 hou2 do1 jan4, haang4 lou6 wui5 zo2 zyu6",
+      "meaning": "There are lots of people here, walking will block the way.",
+      "sourceWordId": "zo2-bother",
+      "sourceWord": "阻",
+      "sourceWordJyutping": "zo2",
+      "sourceWordMeaning": "to disturb / bother / block",
+      "tags": [
+        "verb",
+        "level-2",
+        "core",
+        "daily",
+        "polite",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zo2-bother.json"
+    },
+    {
+      "sentenceId": "zo2-bother-example-5",
+      "sentence": "唔好意思，打擾你一下，冇阻到你呀？",
+      "jyutping": "m4 hou2 ji3 si3, daa2 jiu2 nei5 jat1 haa5, mou5 zo2 dou3 nei5 aa3?",
+      "meaning": "Sorry to disturb you for a moment — am I bothering you?",
+      "sourceWordId": "zo2-bother",
+      "sourceWord": "阻",
+      "sourceWordJyutping": "zo2",
+      "sourceWordMeaning": "to disturb / bother / block",
+      "tags": [
+        "verb",
+        "level-2",
+        "core",
+        "daily",
+        "polite",
+        "conversation"
+      ],
+      "sourceFile": "r2-backup/words/zo2-bother.json"
+    },
+    {
+      "sentenceId": "m4faan4nei5laa3-wont-trouble-example-1",
+      "sentence": "唔煩你喇。",
+      "jyutping": "m4 faan4 nei5 laa3",
+      "meaning": "I won’t trouble you anymore.",
+      "sourceWordId": "m4faan4nei5laa3-wont-trouble",
+      "sourceWord": "唔煩你喇",
+      "sourceWordJyutping": "m4 faan4 nei5 laa3",
+      "sourceWordMeaning": "I won’t trouble you anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "respectful"
+      ],
+      "sourceFile": "r2-backup/words/m4faan4nei5laa3-wont-trouble.json"
+    },
+    {
+      "sentenceId": "m4faan4nei5laa3-wont-trouble-example-2",
+      "sentence": "多謝你幫手，唔煩你喇。",
+      "jyutping": "do1 ze6 nei5 bong1 sau2, m4 faan4 nei5 laa3",
+      "meaning": "Thanks for helping, I won’t trouble you anymore.",
+      "sourceWordId": "m4faan4nei5laa3-wont-trouble",
+      "sourceWord": "唔煩你喇",
+      "sourceWordJyutping": "m4 faan4 nei5 laa3",
+      "sourceWordMeaning": "I won’t trouble you anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "respectful"
+      ],
+      "sourceFile": "r2-backup/words/m4faan4nei5laa3-wont-trouble.json"
+    },
+    {
+      "sentenceId": "m4faan4nei5laa3-wont-trouble-example-3",
+      "sentence": "你忙緊就算啦，唔煩你喇。",
+      "jyutping": "nei5 mong4 gan2 zau6 syun3 laa1, m4 faan4 nei5 laa3",
+      "meaning": "If you’re busy, never mind — I won’t trouble you.",
+      "sourceWordId": "m4faan4nei5laa3-wont-trouble",
+      "sourceWord": "唔煩你喇",
+      "sourceWordJyutping": "m4 faan4 nei5 laa3",
+      "sourceWordMeaning": "I won’t trouble you anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "respectful"
+      ],
+      "sourceFile": "r2-backup/words/m4faan4nei5laa3-wont-trouble.json"
+    },
+    {
+      "sentenceId": "m4faan4nei5laa3-wont-trouble-example-4",
+      "sentence": "唔好意思，問咗你咁多，唔煩你喇。",
+      "jyutping": "m4 hou2 ji3 si3, man6 zo2 nei5 gam3 do1, m4 faan4 nei5 laa3",
+      "meaning": "Sorry, I asked you so much — I won’t trouble you anymore.",
+      "sourceWordId": "m4faan4nei5laa3-wont-trouble",
+      "sourceWord": "唔煩你喇",
+      "sourceWordJyutping": "m4 faan4 nei5 laa3",
+      "sourceWordMeaning": "I won’t trouble you anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "respectful"
+      ],
+      "sourceFile": "r2-backup/words/m4faan4nei5laa3-wont-trouble.json"
+    },
+    {
+      "sentenceId": "m4faan4nei5laa3-wont-trouble-example-5",
+      "sentence": "好喇，我唔煩你喇，遲啲再講。",
+      "jyutping": "hou2 laa3, ngo5 m4 faan4 nei5 laa3, ci4 di1 zoi3 gong2",
+      "meaning": "Alright then, I won’t trouble you anymore — we’ll talk later.",
+      "sourceWordId": "m4faan4nei5laa3-wont-trouble",
+      "sourceWord": "唔煩你喇",
+      "sourceWordJyutping": "m4 faan4 nei5 laa3",
+      "sourceWordMeaning": "I won’t trouble you anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "respectful"
+      ],
+      "sourceFile": "r2-backup/words/m4faan4nei5laa3-wont-trouble.json"
+    },
+    {
+      "sentenceId": "m4zo2nei5gam3do1laa3-wont-bother-much-example-1",
+      "sentence": "唔阻你咁多喇。",
+      "jyutping": "m4 zo2 nei5 gam3 do1 laa3",
+      "meaning": "I won’t bother you so much anymore.",
+      "sourceWordId": "m4zo2nei5gam3do1laa3-wont-bother-much",
+      "sourceWord": "唔阻你咁多喇",
+      "sourceWordJyutping": "m4 zo2 nei5 gam3 do1 laa3",
+      "sourceWordMeaning": "I won’t bother you so much anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "humble"
+      ],
+      "sourceFile": "r2-backup/words/m4zo2nei5gam3do1laa3-wont-bother-much.json"
+    },
+    {
+      "sentenceId": "m4zo2nei5gam3do1laa3-wont-bother-much-example-2",
+      "sentence": "唔好意思，唔阻你咁多喇。",
+      "jyutping": "m4 hou2 ji3 si3, m4 zo2 nei5 gam3 do1 laa3",
+      "meaning": "Sorry, I won’t bother you so much anymore.",
+      "sourceWordId": "m4zo2nei5gam3do1laa3-wont-bother-much",
+      "sourceWord": "唔阻你咁多喇",
+      "sourceWordJyutping": "m4 zo2 nei5 gam3 do1 laa3",
+      "sourceWordMeaning": "I won’t bother you so much anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "humble"
+      ],
+      "sourceFile": "r2-backup/words/m4zo2nei5gam3do1laa3-wont-bother-much.json"
+    },
+    {
+      "sentenceId": "m4zo2nei5gam3do1laa3-wont-bother-much-example-3",
+      "sentence": "問咗你咁多問題，唔阻你咁多喇。",
+      "jyutping": "man6 zo2 nei5 gam3 do1 man6 tai4, m4 zo2 nei5 gam3 do1 laa3",
+      "meaning": "I asked you so many questions — I won’t bother you so much anymore.",
+      "sourceWordId": "m4zo2nei5gam3do1laa3-wont-bother-much",
+      "sourceWord": "唔阻你咁多喇",
+      "sourceWordJyutping": "m4 zo2 nei5 gam3 do1 laa3",
+      "sourceWordMeaning": "I won’t bother you so much anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "humble"
+      ],
+      "sourceFile": "r2-backup/words/m4zo2nei5gam3do1laa3-wont-bother-much.json"
+    },
+    {
+      "sentenceId": "m4zo2nei5gam3do1laa3-wont-bother-much-example-4",
+      "sentence": "你忙緊，我唔阻你咁多喇，遲啲再講。",
+      "jyutping": "nei5 mong4 gan2, ngo5 m4 zo2 nei5 gam3 do1 laa3, ci4 di1 zoi3 gong2",
+      "meaning": "You’re busy — I won’t bother you so much. We’ll talk later.",
+      "sourceWordId": "m4zo2nei5gam3do1laa3-wont-bother-much",
+      "sourceWord": "唔阻你咁多喇",
+      "sourceWordJyutping": "m4 zo2 nei5 gam3 do1 laa3",
+      "sourceWordMeaning": "I won’t bother you so much anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "humble"
+      ],
+      "sourceFile": "r2-backup/words/m4zo2nei5gam3do1laa3-wont-bother-much.json"
+    },
+    {
+      "sentenceId": "m4zo2nei5gam3do1laa3-wont-bother-much-example-5",
+      "sentence": "多謝你幫我，我唔阻你咁多喇，再見。",
+      "jyutping": "do1 ze6 nei5 bong1 ngo5, ngo5 m4 zo2 nei5 gam3 do1 laa3, zoi3 gin3",
+      "meaning": "Thanks for helping me — I won’t bother you so much anymore. Goodbye.",
+      "sourceWordId": "m4zo2nei5gam3do1laa3-wont-bother-much",
+      "sourceWord": "唔阻你咁多喇",
+      "sourceWordJyutping": "m4 zo2 nei5 gam3 do1 laa3",
+      "sourceWordMeaning": "I won’t bother you so much anymore",
+      "tags": [
+        "polite",
+        "farewell",
+        "level-2",
+        "daily",
+        "conversation",
+        "hong-kong",
+        "humble"
+      ],
+      "sourceFile": "r2-backup/words/m4zo2nei5gam3do1laa3-wont-bother-much.json"
+    }
+  ],
+  "missingWordFiles": []
+}

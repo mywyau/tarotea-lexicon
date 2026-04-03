@@ -1,0 +1,66 @@
+{
+  "id": "dang1gei3-register",
+  "word": "登記",
+  "jyutping": "dang1 gei3",
+  "meaning": "register",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word '登記' is commonly used as a verb meaning 'to register' or 'to sign up' for something.",
+    "It can be used in contexts such as registering for appointments, events, or official documents.",
+    "'登記' usually requires an object that indicates what is being registered, e.g., '登記健康檢查' (register for a health check).",
+    "It can refer to both physical in-person registrations and digital/online registrations.",
+    "When asking someone if they have registered, you can use a question form like '你登記咗未？' meaning 'Have you registered yet?'."
+  ],
+  "examples": [
+    {
+      "id": "dang1gei3-register-example-1",
+      "sentence": "我去診所登記睇醫生。",
+      "jyutping": "ngo5 heoi3 zan2 so2 dang1 gei3 tai2 ji1 sang1.",
+      "meaning": "I went to the clinic to register to see a doctor."
+    },
+    {
+      "id": "dang1gei3-register-example-2",
+      "sentence": "你記得登記疫苗未？",
+      "jyutping": "nei5 gei3 dak1 dang1 gei3 jik6 miu4 mei6?",
+      "meaning": "Did you remember to register for the vaccine?"
+    },
+    {
+      "id": "dang1gei3-register-example-3",
+      "sentence": "登記個過程好簡單，只要填張表。",
+      "jyutping": "dang1 gei3 go3 gwo3 cing4 hou2 gaan2 daan1, zi2 jiu3 tin4 zoeng1 biu2.",
+      "meaning": "The registration process is very simple, just need to fill out a form."
+    },
+    {
+      "id": "dang1gei3-register-example-4",
+      "sentence": "如果未登記，要盡快去辦理。",
+      "jyutping": "jyu4 gwo2 mei6 dang1 gei3, jiu3 zeon6 faai3 heoi3 baan6 lei5.",
+      "meaning": "If you haven’t registered yet, you need to handle it as soon as possible."
+    }
+  ],
+  "audio": {
+    "word": "dang1gei3-register.mp3",
+    "examples": [
+      "dang1gei3-register-example-1.mp3",
+      "dang1gei3-register-example-2.mp3",
+      "dang1gei3-register-example-3.mp3",
+      "dang1gei3-register-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "health",
+    "medicine",
+    "clinic",
+    "appointment",
+    "registration",
+    "level-1"
+  ],
+  "related": [
+    "醫生 (ji1 sang1) - doctor",
+    "診所 (zan2 so2) - clinic",
+    "預約 (jyu6 joek3) - appointment",
+    "報名 (bou3 ming4) - sign up",
+    "表格 (biu2 gaak3) - form"
+  ]
+}

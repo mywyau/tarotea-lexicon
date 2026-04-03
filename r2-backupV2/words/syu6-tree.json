@@ -1,0 +1,64 @@
+{
+  "id": "syu6-tree",
+  "word": "樹",
+  "jyutping": "syu6",
+  "meaning": "tree",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Common everyday word for a tree; very neutral and widely used in spoken Cantonese.",
+    "Use it for trees in parks, streets, gardens, forests, and nature contexts.",
+    "Often appears with classifiers like 一棵樹 when counting a single tree.",
+    "Can also be part of compound words and place descriptions related to plants and landscaping."
+  ],
+  "examples": [
+    {
+      "id": "syu6-tree-example-1",
+      "sentence": "公園入面有好多樹。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 hou2 do1 syu6",
+      "meaning": "There are many trees in the park."
+    },
+    {
+      "id": "syu6-tree-example-2",
+      "sentence": "呢棵樹好高。",
+      "jyutping": "ni1 fo1 syu6 hou2 gou1",
+      "meaning": "This tree is very tall."
+    },
+    {
+      "id": "syu6-tree-example-3",
+      "sentence": "細路仔鍾意喺樹底乘涼。",
+      "jyutping": "sai3 lou6 zai2 zung1 ji3 hai2 syu6 dai2 sing4 loeng4",
+      "meaning": "Children like to cool off under the tree."
+    },
+    {
+      "id": "syu6-tree-example-4",
+      "sentence": "我哋屋企前面種咗一棵樹。",
+      "jyutping": "ngo5 dei6 uk1 kei2 cin4 min6 zung3 zo2 jat1 fo1 syu6",
+      "meaning": "We planted a tree in front of our home."
+    }
+  ],
+  "audio": {
+    "word": "syu6-tree.mp3",
+    "examples": [
+      "syu6-tree-example-1.mp3",
+      "syu6-tree-example-2.mp3",
+      "syu6-tree-example-3.mp3",
+      "syu6-tree-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic noun",
+    "plants",
+    "gardening",
+    "nature",
+    "common word",
+    "level-1"
+  ],
+  "related": [
+    "樹木",
+    "大樹",
+    "樹葉",
+    "樹幹"
+  ]
+}

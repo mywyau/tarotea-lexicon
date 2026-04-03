@@ -1,0 +1,57 @@
+{
+  "id": "sou3hok6-math",
+  "word": "數學",
+  "jyutping": "sou3 hok6",
+  "meaning": "math",
+  "pos": ["noun"],
+  "usage": [
+    "Use 「數學」 as a noun for the subject or field of mathematics.",
+    "It can refer to school math or math-related topics in daily conversation.",
+    "You can use it after words like 「學」, 「教」, or 「做」 when talking about learning or teaching math.",
+    "It is also common in phrases about tests, homework, and grades."
+  ],
+  "examples": [
+    {
+      "id": "sou3hok6-math-example-1",
+      "sentence": "我今日有數學堂。",
+      "jyutping": "ngo5 gam1 jat6 jau5 sou3 hok6 tong4.",
+      "meaning": "I have math class today."
+    },
+    {
+      "id": "sou3hok6-math-example-2",
+      "sentence": "佢數學好叻。",
+      "jyutping": "keoi5 sou3 hok6 hou2 lek1.",
+      "meaning": "He/She is very good at math."
+    },
+    {
+      "id": "sou3hok6-math-example-3",
+      "sentence": "我想學數學。",
+      "jyutping": "ngo5 soeng2 hok6 sou3 hok6.",
+      "meaning": "I want to learn math."
+    },
+    {
+      "id": "sou3hok6-math-example-4",
+      "sentence": "呢份數學功課好難。",
+      "jyutping": "ni1 fan6 sou3 hok6 gung1 fo3 hou2 naan4.",
+      "meaning": "This math homework is hard."
+    }
+  ],
+  "audio": {
+    "word": "sou3hok6-math.mp3",
+    "examples": [
+      "sou3hok6-math-example-1.mp3",
+      "sou3hok6-math-example-2.mp3",
+      "sou3hok6-math-example-3.mp3",
+      "sou3hok6-math-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "school subject",
+    "basic vocabulary",
+    "academic",
+    "classroom",
+    "beginner",
+    "level-1"
+  ],
+  "related": ["算術", "幾何", "功課", "考試"]
+}

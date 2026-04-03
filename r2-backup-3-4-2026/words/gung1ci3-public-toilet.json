@@ -1,0 +1,64 @@
+{
+  "id": "gung1ci3-public-toilet",
+  "word": "公廁",
+  "jyutping": "gung1 ci3",
+  "meaning": "public toilet",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used for a toilet that anyone can use, usually in a park, MTR station, shopping area, or government building.",
+    "Common in everyday speech; very natural in Hong Kong Cantonese when asking where the nearest public toilet is.",
+    "Often appears with location words like 附近, 嗰邊, or 喺邊度 to talk about where it is.",
+    "Neutral and simple in register; good for practical travel and daily-life vocabulary."
+  ],
+  "examples": [
+    {
+      "id": "gung1ci3-public-toilet-example-1",
+      "sentence": "請問最近嘅公廁喺邊度？",
+      "jyutping": "cing2 man6 zeoi3 gan6 ge3 gung1 ci3 hai2 bin1 dou6?",
+      "meaning": "Excuse me, where is the nearest public toilet?"
+    },
+    {
+      "id": "gung1ci3-public-toilet-example-2",
+      "sentence": "呢個公園入面有公廁。",
+      "jyutping": "ni1 go3 gung1 jyun4 jap6 min6 jau5 gung1 ci3.",
+      "meaning": "There is a public toilet inside this park."
+    },
+    {
+      "id": "gung1ci3-public-toilet-example-3",
+      "sentence": "我哋先去公廁洗手。",
+      "jyutping": "ngo5 dei6 sin1 heoi3 gung1 ci3 sai2 sau2.",
+      "meaning": "Let's go to the public toilet to wash our hands first."
+    },
+    {
+      "id": "gung1ci3-public-toilet-example-4",
+      "sentence": "地鐵站附近通常都有公廁。",
+      "jyutping": "dei6 tit3 zaam6 fu6 ban1 tung1 soeng4 dou1 jau5 gung1 ci3.",
+      "meaning": "There is usually a public toilet near the MTR station."
+    }
+  ],
+  "audio": {
+    "word": "gung1ci3-public-toilet.mp3",
+    "examples": [
+      "gung1ci3-public-toilet-example-1.mp3",
+      "gung1ci3-public-toilet-example-2.mp3",
+      "gung1ci3-public-toilet-example-3.mp3",
+      "gung1ci3-public-toilet-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "community places",
+    "daily life",
+    "public facilities",
+    "travel",
+    "basic vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "廁所",
+    "洗手間",
+    "公園",
+    "地鐵站"
+  ]
+}

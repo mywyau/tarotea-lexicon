@@ -1,0 +1,74 @@
+{
+  "id": "ci4di1-later-in-a-while",
+  "word": "遲啲",
+  "jyutping": "ci4 di1",
+  "meaning": "later / in a while",
+  "pos": [
+    "adverb",
+    "time_expression"
+  ],
+  "usage": [
+    "A very common Cantonese time expression meaning 'later' or 'in a while'",
+    "Used when postponing something or referring to a future time soon",
+    "Often paired with 再 to mean 'again later' (遲啲再…)",
+    "Extremely common in casual daily conversation",
+    "Can be used for both plans and polite farewells"
+  ],
+  "examples": [
+    {
+      "id": "ci4di1-later-in-a-while-example-1",
+      "sentence": "遲啲。",
+      "jyutping": "ci4 di1",
+      "meaning": "Later."
+    },
+    {
+      "id": "ci4di1-later-in-a-while-example-2",
+      "sentence": "遲啲再見。",
+      "jyutping": "ci4 di1 zoi3 gin3",
+      "meaning": "See you later."
+    },
+    {
+      "id": "ci4di1-later-in-a-while-example-3",
+      "sentence": "遲啲再講啦。",
+      "jyutping": "ci4 di1 zoi3 gong2 laa1",
+      "meaning": "Let’s talk later."
+    },
+    {
+      "id": "ci4di1-later-in-a-while-example-4",
+      "sentence": "我而家忙，遲啲先做。",
+      "jyutping": "ngo5 ji4 gaa1 mong4, ci4 di1 sin1 zou6",
+      "meaning": "I’m busy right now, I’ll do it later."
+    },
+    {
+      "id": "ci4di1-later-in-a-while-example-5",
+      "sentence": "唔使急，遲啲都得。",
+      "jyutping": "m4 sai2 gap1, ci4 di1 dou1 dak1",
+      "meaning": "No need to rush, later is fine too."
+    }
+  ],
+  "audio": {
+    "word": "ci4di1-later-in-a-while.mp3",
+    "examples": [
+      "ci4di1-later-in-a-while-example-1.mp3",
+      "ci4di1-later-in-a-while-example-2.mp3",
+      "ci4di1-later-in-a-while-example-3.mp3",
+      "ci4di1-later-in-a-while-example-4.mp3",
+      "ci4di1-later-in-a-while-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "time",
+    "adverb",
+    "level-1",
+    "core",
+    "daily",
+    "conversation"
+  ],
+  "related": [
+    "zoi3-again",
+    "zoi3gin3-goodbye",
+    "gong2-speak",
+    "sin1-first",
+    "dak1-ok"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "faan1ke2-tomato",
+  "word": "番茄",
+  "jyutping": "faan1 ke2",
+  "meaning": "tomato",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "A common vegetable used in everyday Cantonese cooking",
+    "Often eaten fresh, stir-fried with eggs, or added to soups",
+    "Commonly described by freshness and juiciness",
+    "Used in both home cooking and restaurant dishes",
+    "Appears frequently in shopping and meal conversations"
+  ],
+  "examples": [
+    {
+      "id": "faan1ke2-tomato-example-1",
+      "sentence": "我想買啲番茄。",
+      "jyutping": "ngo5 soeng2 maai5 di1 faan1 ke2",
+      "meaning": "I want to buy some tomatoes."
+    },
+    {
+      "id": "faan1ke2-tomato-example-2",
+      "sentence": "呢啲番茄好新鮮。",
+      "jyutping": "ni1 di1 faan1 ke2 hou2 san1 sin1",
+      "meaning": "These tomatoes are very fresh."
+    },
+    {
+      "id": "faan1ke2-tomato-example-3",
+      "sentence": "番茄炒蛋係好常見嘅菜。",
+      "jyutping": "faan1 ke2 caau2 daan2 hai6 hou2 soeng4 gin3 ge3 coi3",
+      "meaning": "Tomato and egg stir-fry is a very common dish."
+    },
+    {
+      "id": "faan1ke2-tomato-example-4",
+      "sentence": "番茄可以生食。",
+      "jyutping": "faan1 ke2 ho2 ji5 saang1 sik6",
+      "meaning": "Tomatoes can be eaten raw."
+    }
+  ],
+  "audio": {
+    "word": "faan1ke2-tomato.mp3",
+    "examples": [
+      "faan1ke2-tomato-example-1.mp3",
+      "faan1ke2-tomato-example-2.mp3",
+      "faan1ke2-tomato-example-3.mp3",
+      "faan1ke2-tomato-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "vegetables",
+    "tomato",
+    "cooking",
+    "daily",
+    "shopping",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "coi3-vegetables",
+    "daan2-egg",
+    "caau2-stir-fry",
+    "san1sin1-fresh",
+    "saang1-raw"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nei5dei6-you-plural",
+  "word": "你哋",
+  "jyutping": "nei5 dei6",
+  "meaning": "you (plural)",
+  "pos": [
+    "pronoun"
+  ],
+  "usage": [
+    "Second-person plural pronoun",
+    "Used when addressing more than one person"
+  ],
+  "examples": [
+    {
+      "id": "nei5dei6-you-plural-example-1",
+      "sentence": "你哋幾點到？",
+      "jyutping": "nei5 dei6 gei2 dim2 dou3",
+      "meaning": "What time are you all arriving?"
+    },
+    {
+      "id": "nei5dei6-you-plural-example-2",
+      "sentence": "我等緊你哋。",
+      "jyutping": "ngo5 dang2 gan2 nei5 dei6",
+      "meaning": "I’m waiting for you guys."
+    }
+  ],
+  "audio": {
+    "word": "nei5dei6-you-plural.mp3",
+    "examples": [
+      "nei5dei6-you-plural-example-1.mp3",
+      "nei5dei6-you-plural-example-2.mp3"
+    ]
+  },
+  "tags": [
+    "pronoun",
+    "plural",
+    "level-1",
+    "spoken"
+  ],
+  "related": [
+    "nei5-you",
+    "ngo5-dei6-we"
+  ]
+}

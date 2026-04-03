@@ -1,0 +1,66 @@
+{
+  "id": "gaan1-interval",
+  "word": "間",
+  "jyutping": "gaan1",
+  "meaning": "interval",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '間' (gaan1) is used as a noun that means 'interval' or 'space' between two points in time or place.",
+    "It can refer to a break or period between events, like an interval between classes or meetings.",
+    "'間' can also describe a physical space or room between walls, expressing a small unit of area.",
+    "When used in time context, it indicates how long something lasts or the gap between activities.",
+    "It often pairs with measure words and time expressions to specify duration or spatial extent."
+  ],
+  "examples": [
+    {
+      "id": "gaan1-interval-example-1",
+      "sentence": "我哋有十五分鐘嘅間休息。",
+      "jyutping": "ngo5 dei6 jau5 sap6 ng5 fan1 zung1 ge3 gaan1 jau1 sik1.",
+      "meaning": "We have a fifteen-minute interval for rest."
+    },
+    {
+      "id": "gaan1-interval-example-2",
+      "sentence": "兩堂課之間有個細細嘅間。",
+      "jyutping": "loeng5 tong4 fo3 zi1 gaan1 jau5 go3 sai3 sai3 ge3 gaan1.",
+      "meaning": "There is a short interval between two classes."
+    },
+    {
+      "id": "gaan1-interval-example-3",
+      "sentence": "我屋企有三間房。",
+      "jyutping": "ngo5 uk1 kei2 jau5 saam1 gaan1 fong4.",
+      "meaning": "My home has three rooms."
+    },
+    {
+      "id": "gaan1-interval-example-4",
+      "sentence": "你哋之間嘅關係好好。",
+      "jyutping": "nei5 dei6 zi1 gaan1 ge3 gwaan1 hai6 hou2 hou2.",
+      "meaning": "The relationship between you is very good."
+    }
+  ],
+  "audio": {
+    "word": "gaan1-interval.mp3",
+    "examples": [
+      "gaan1-interval-example-1.mp3",
+      "gaan1-interval-example-2.mp3",
+      "gaan1-interval-example-3.mp3",
+      "gaan1-interval-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "time",
+    "interval",
+    "duration",
+    "space",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "時間 (si4 gaan1) - time",
+    "空間 (hung1 gaan1) - space",
+    "時間表 (si4 gaan1 biu2) - timetable",
+    "休息 (jau1 sik1) - rest",
+    "距離 (geoi6 lei6) - distance"
+  ]
+}

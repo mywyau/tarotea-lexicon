@@ -1,0 +1,57 @@
+{
+  "id": "daai6tai4kam4-cello",
+  "word": "大提琴",
+  "jyutping": "daai6 tai4 kam4",
+  "meaning": "cello",
+  "pos": ["noun"],
+  "usage": [
+    "Refers to the cello, a string instrument in the violin family, usually played sitting down with a bow.",
+    "Common in music lessons, orchestra settings, and instrument shops; the short form \"大提\" is also heard in speech.",
+    "Use it as a normal noun: it can take measure words like \"一把\" when talking about one instrument.",
+    "Sounding quite neutral and standard; good for both formal writing and everyday conversation when talking about the instrument."
+  ],
+  "examples": [
+    {
+      "id": "daai6tai4kam4-cello-example-1",
+      "sentence": "我學緊大提琴。",
+      "jyutping": "ngo5 hok6 gan2 daai6 tai4 kam4.",
+      "meaning": "I’m learning the cello."
+    },
+    {
+      "id": "daai6tai4kam4-cello-example-2",
+      "sentence": "佢喺學校管弦樂團拉大提琴。",
+      "jyutping": "keoi5 hai2 hok6 haau6 gun2 jin4 ngok6 tyun4 laai1 daai6 tai4 kam4.",
+      "meaning": "He plays the cello in the school orchestra."
+    },
+    {
+      "id": "daai6tai4kam4-cello-example-3",
+      "sentence": "呢把大提琴聲音好溫暖。",
+      "jyutping": "ni1 baa2 daai6 tai4 kam4 sing1 jam1 hou2 wan1 nyun5.",
+      "meaning": "This cello has a very warm sound."
+    },
+    {
+      "id": "daai6tai4kam4-cello-example-4",
+      "sentence": "老師話我哋要先調好大提琴嘅弦。",
+      "jyutping": "lou5 si1 waa6 ngo5 dei6 jiu3 sin1 tiu4 hou2 daai6 tai4 kam4 ge3 jin4.",
+      "meaning": "The teacher said we should tune the cello strings first."
+    }
+  ],
+  "audio": {
+    "word": "daai6tai4kam4-cello.mp3",
+    "examples": [
+      "daai6tai4kam4-cello-example-1.mp3",
+      "daai6tai4kam4-cello-example-2.mp3",
+      "daai6tai4kam4-cello-example-3.mp3",
+      "daai6tai4kam4-cello-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "music",
+    "musical instrument",
+    "string instrument",
+    "orchestra",
+    "beginner",
+    "level-1"
+  ],
+  "related": ["小提琴", "中提琴", "低音大提琴", "弓"]
+}

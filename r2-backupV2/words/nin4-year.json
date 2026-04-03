@@ -1,0 +1,66 @@
+{
+  "id": "nin4-year",
+  "word": "年",
+  "jyutping": "nin4",
+  "meaning": "year",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '年' (nin4) is used to specify the year in dates.",
+    "'年' can be combined with numbers to express specific years, like '2024年'.",
+    "When talking about age, '年' indicates how many years old someone is.",
+    "You can use '年' to refer to a duration or period of one year.",
+    "'年' usually appears before units like 月 (month) and 日 (day) in full dates."
+  ],
+  "examples": [
+    {
+      "id": "nin4-year-example-1",
+      "sentence": "我今年二十五年。",
+      "jyutping": "ngo5 gam1 nin4 ji6 sap6 ng5 nin4.",
+      "meaning": "I am 25 years old this year."
+    },
+    {
+      "id": "nin4-year-example-2",
+      "sentence": "新年快樂！",
+      "jyutping": "san1 nin4 faai3 lok6!",
+      "meaning": "Happy New Year!"
+    },
+    {
+      "id": "nin4-year-example-3",
+      "sentence": "我地下年去旅行。",
+      "jyutping": "ngo5 dei6 haa6 nin4 heoi3 leoi5 hang4.",
+      "meaning": "We will travel next year."
+    },
+    {
+      "id": "nin4-year-example-4",
+      "sentence": "呢本書係2023年出版。",
+      "jyutping": "ni1 bun2 syu1 hai6 ji6 ling4 ji6 saam1 nin4 ceot1 baan2.",
+      "meaning": "This book was published in 2023."
+    }
+  ],
+  "audio": {
+    "word": "nin4-year.mp3",
+    "examples": [
+      "nin4-year-example-1.mp3",
+      "nin4-year-example-2.mp3",
+      "nin4-year-example-3.mp3",
+      "nin4-year-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "time",
+    "date",
+    "year",
+    "age",
+    "calendar",
+    "level-1"
+  ],
+  "related": [
+    "月 (jyut6) - month",
+    "日 (jat6) - day",
+    "時 (si4) - hour/time",
+    "生日 (sang1 jat6) - birthday",
+    "年齡 (nin4 ling4) - age"
+  ]
+}

@@ -1,0 +1,5853 @@
+{
+  "topic": "hobbies-interests",
+  "title": "Hobbies & Interests",
+  "totalWords": 73,
+  "totalSentences": 292,
+  "items": [
+    {
+      "sentenceId": "hing3ceoi3-interest-example-1",
+      "sentence": "我嘅興趣係聽歌同打波。",
+      "jyutping": "ngo5 ge3 hing3 ceoi3 hai6 teng1 go1 tung4 daa2 bo1.",
+      "meaning": "My hobbies are listening to music and playing sports.",
+      "sourceWordId": "hing3ceoi3-interest",
+      "sourceWord": "興趣",
+      "sourceWordJyutping": "hing3 ceoi3",
+      "sourceWordMeaning": "interest",
+      "tags": [
+        "hobbies",
+        "interests",
+        "daily life",
+        "beginner",
+        "noun",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hing3ceoi3-interest.json"
+    },
+    {
+      "sentenceId": "hing3ceoi3-interest-example-2",
+      "sentence": "你有咩興趣呀？",
+      "jyutping": "nei5 jau5 me1 hing3 ceoi3 aa3?",
+      "meaning": "What are your interests?",
+      "sourceWordId": "hing3ceoi3-interest",
+      "sourceWord": "興趣",
+      "sourceWordJyutping": "hing3 ceoi3",
+      "sourceWordMeaning": "interest",
+      "tags": [
+        "hobbies",
+        "interests",
+        "daily life",
+        "beginner",
+        "noun",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hing3ceoi3-interest.json"
+    },
+    {
+      "sentenceId": "hing3ceoi3-interest-example-3",
+      "sentence": "佢對畫畫好有興趣。",
+      "jyutping": "keoi5 deoi3 waa2 waa2 hou2 jau5 hing3 ceoi3.",
+      "meaning": "He/She is very interested in drawing.",
+      "sourceWordId": "hing3ceoi3-interest",
+      "sourceWord": "興趣",
+      "sourceWordJyutping": "hing3 ceoi3",
+      "sourceWordMeaning": "interest",
+      "tags": [
+        "hobbies",
+        "interests",
+        "daily life",
+        "beginner",
+        "noun",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hing3ceoi3-interest.json"
+    },
+    {
+      "sentenceId": "hing3ceoi3-interest-example-4",
+      "sentence": "我最近開始學煮飯，慢慢培養緊興趣。",
+      "jyutping": "ngo5 zeoi3 gan6 hoi1 ci2 hok6 zyu2 faan6, maan6 maan6 pui4 joeng5 gan2 hing3 ceoi3.",
+      "meaning": "I recently started learning to cook and am gradually developing an interest in it.",
+      "sourceWordId": "hing3ceoi3-interest",
+      "sourceWord": "興趣",
+      "sourceWordJyutping": "hing3 ceoi3",
+      "sourceWordMeaning": "interest",
+      "tags": [
+        "hobbies",
+        "interests",
+        "daily life",
+        "beginner",
+        "noun",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hing3ceoi3-interest.json"
+    },
+    {
+      "sentenceId": "si3hou3-hobby-example-1",
+      "sentence": "我嘅嗜好係睇書同聽歌。",
+      "jyutping": "ngo5 ge3 si3 hou3 hai6 tai2 syu1 tung4 teng1 go1.",
+      "meaning": "My hobbies are reading and listening to music.",
+      "sourceWordId": "si3hou3-hobby",
+      "sourceWord": "嗜好",
+      "sourceWordJyutping": "si3 hou3",
+      "sourceWordMeaning": "hobby",
+      "tags": [
+        "hobbies",
+        "interests",
+        "free time",
+        "everyday vocabulary",
+        "neutral",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si3hou3-hobby.json"
+    },
+    {
+      "sentenceId": "si3hou3-hobby-example-2",
+      "sentence": "佢有好多嗜好，最鍾意行山。",
+      "jyutping": "keoi5 jau5 hou2 do1 si3 hou3, zeoi3 zung1 ji3 haang4 saan1.",
+      "meaning": "He has a lot of hobbies, and he likes hiking the most.",
+      "sourceWordId": "si3hou3-hobby",
+      "sourceWord": "嗜好",
+      "sourceWordJyutping": "si3 hou3",
+      "sourceWordMeaning": "hobby",
+      "tags": [
+        "hobbies",
+        "interests",
+        "free time",
+        "everyday vocabulary",
+        "neutral",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si3hou3-hobby.json"
+    },
+    {
+      "sentenceId": "si3hou3-hobby-example-3",
+      "sentence": "我想培養一個新嗜好。",
+      "jyutping": "ngo5 soeng2 pui4 joeng5 jat1 go3 san1 si3 hou3.",
+      "meaning": "I want to develop a new hobby.",
+      "sourceWordId": "si3hou3-hobby",
+      "sourceWord": "嗜好",
+      "sourceWordJyutping": "si3 hou3",
+      "sourceWordMeaning": "hobby",
+      "tags": [
+        "hobbies",
+        "interests",
+        "free time",
+        "everyday vocabulary",
+        "neutral",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si3hou3-hobby.json"
+    },
+    {
+      "sentenceId": "si3hou3-hobby-example-4",
+      "sentence": "畫畫係佢由細到大嘅嗜好。",
+      "jyutping": "waa2 waa2 hai6 keoi5 jau4 sai3 dou3 daai6 ge3 si3 hou3.",
+      "meaning": "Drawing has been his hobby since childhood.",
+      "sourceWordId": "si3hou3-hobby",
+      "sourceWord": "嗜好",
+      "sourceWordJyutping": "si3 hou3",
+      "sourceWordMeaning": "hobby",
+      "tags": [
+        "hobbies",
+        "interests",
+        "free time",
+        "everyday vocabulary",
+        "neutral",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si3hou3-hobby.json"
+    },
+    {
+      "sentenceId": "oi3hou3-pastime-example-1",
+      "sentence": "佢嘅愛好係睇書同聽歌。",
+      "jyutping": "keoi5 ge3 oi3 hou3 hai6 tai2 syu1 tung4 teng1 go1.",
+      "meaning": "His hobbies are reading and listening to music.",
+      "sourceWordId": "oi3hou3-pastime",
+      "sourceWord": "愛好",
+      "sourceWordJyutping": "oi3 hou3",
+      "sourceWordMeaning": "pastime",
+      "tags": [
+        "hobbies",
+        "interests",
+        "leisure",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/oi3hou3-pastime.json"
+    },
+    {
+      "sentenceId": "oi3hou3-pastime-example-2",
+      "sentence": "我嘅愛好係打波同游水。",
+      "jyutping": "ngo5 ge3 oi3 hou3 hai6 daa2 bo1 tung4 jau4 seoi2.",
+      "meaning": "My pastimes are playing sports and swimming.",
+      "sourceWordId": "oi3hou3-pastime",
+      "sourceWord": "愛好",
+      "sourceWordJyutping": "oi3 hou3",
+      "sourceWordMeaning": "pastime",
+      "tags": [
+        "hobbies",
+        "interests",
+        "leisure",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/oi3hou3-pastime.json"
+    },
+    {
+      "sentenceId": "oi3hou3-pastime-example-3",
+      "sentence": "呢間公司好重視員工嘅愛好。",
+      "jyutping": "ni1 gaan1 gung1 si1 hou2 zung6 si6 jyun4 gung1 ge3 oi3 hou3.",
+      "meaning": "This company values employees’ interests a lot.",
+      "sourceWordId": "oi3hou3-pastime",
+      "sourceWord": "愛好",
+      "sourceWordJyutping": "oi3 hou3",
+      "sourceWordMeaning": "pastime",
+      "tags": [
+        "hobbies",
+        "interests",
+        "leisure",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/oi3hou3-pastime.json"
+    },
+    {
+      "sentenceId": "oi3hou3-pastime-example-4",
+      "sentence": "佢由細到大都有畫畫嘅愛好。",
+      "jyutping": "keoi5 jau4 sai3 dou3 daai6 dou1 jau5 waa2 waa2 ge3 oi3 hou3.",
+      "meaning": "He has had a pastime of drawing since childhood.",
+      "sourceWordId": "oi3hou3-pastime",
+      "sourceWord": "愛好",
+      "sourceWordJyutping": "oi3 hou3",
+      "sourceWordMeaning": "pastime",
+      "tags": [
+        "hobbies",
+        "interests",
+        "leisure",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/oi3hou3-pastime.json"
+    },
+    {
+      "sentenceId": "jyu4lok6-entertainment-example-1",
+      "sentence": "睇電視係我嘅娛樂之一。",
+      "jyutping": "tai2 din6 si6 hai6 ngo5 ge3 jyu4 lok6 zi1 jat1.",
+      "meaning": "Watching TV is one of my entertainments.",
+      "sourceWordId": "jyu4lok6-entertainment",
+      "sourceWord": "娛樂",
+      "sourceWordJyutping": "jyu4 lok6",
+      "sourceWordMeaning": "entertainment",
+      "tags": [
+        "hobbies and leisure",
+        "general vocabulary",
+        "noun",
+        "everyday",
+        "media",
+        "fun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4lok6-entertainment.json"
+    },
+    {
+      "sentenceId": "jyu4lok6-entertainment-example-2",
+      "sentence": "週末我鍾意去郊外，唔係淨係留喺屋企娛樂。",
+      "jyutping": "zau1 mat6 ngo5 zung1 ji3 heoi3 gaau1 ngoi6, m4 hai6 zing6 hai6 lau4 hai2 uk1 kei2 jyu4 lok6.",
+      "meaning": "On weekends I like going outdoors, not just staying home for entertainment.",
+      "sourceWordId": "jyu4lok6-entertainment",
+      "sourceWord": "娛樂",
+      "sourceWordJyutping": "jyu4 lok6",
+      "sourceWordMeaning": "entertainment",
+      "tags": [
+        "hobbies and leisure",
+        "general vocabulary",
+        "noun",
+        "everyday",
+        "media",
+        "fun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4lok6-entertainment.json"
+    },
+    {
+      "sentenceId": "jyu4lok6-entertainment-example-3",
+      "sentence": "呢個節目好有娛樂性。",
+      "jyutping": "ni1 go3 zit3 muk6 hou2 jau5 jyu4 lok6 sing3.",
+      "meaning": "This programme is very entertaining.",
+      "sourceWordId": "jyu4lok6-entertainment",
+      "sourceWord": "娛樂",
+      "sourceWordJyutping": "jyu4 lok6",
+      "sourceWordMeaning": "entertainment",
+      "tags": [
+        "hobbies and leisure",
+        "general vocabulary",
+        "noun",
+        "everyday",
+        "media",
+        "fun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4lok6-entertainment.json"
+    },
+    {
+      "sentenceId": "jyu4lok6-entertainment-example-4",
+      "sentence": "公司安排咗一啲娛樂活動畀員工。",
+      "jyutping": "gung1 si1 aan1 paai4 zo2 jat1 di1 jyu4 lok6 wut6 dung6 bei2 jyun4 gung1.",
+      "meaning": "The company arranged some entertainment activities for employees.",
+      "sourceWordId": "jyu4lok6-entertainment",
+      "sourceWord": "娛樂",
+      "sourceWordJyutping": "jyu4 lok6",
+      "sourceWordMeaning": "entertainment",
+      "tags": [
+        "hobbies and leisure",
+        "general vocabulary",
+        "noun",
+        "everyday",
+        "media",
+        "fun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4lok6-entertainment.json"
+    },
+    {
+      "sentenceId": "fong3sung1-relax-example-1",
+      "sentence": "我放工之後鍾意聽歌放鬆一下。",
+      "jyutping": "ngo5 fong3 gung1 zi1 hau6 zung1 ji3 teng1 go1 fong3 sung1 jat1 haa6.",
+      "meaning": "After work, I like listening to music to relax a bit.",
+      "sourceWordId": "fong3sung1-relax",
+      "sourceWord": "放鬆",
+      "sourceWordJyutping": "fong3 sung1",
+      "sourceWordMeaning": "relax",
+      "tags": [
+        "hobbies",
+        "interests",
+        "self-care",
+        "stress relief",
+        "everyday",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3sung1-relax.json"
+    },
+    {
+      "sentenceId": "fong3sung1-relax-example-2",
+      "sentence": "周末我會去行山，順便放鬆心情。",
+      "jyutping": "zau1 mat6 ngo5 wui5 heoi3 haang4 saan1, seon6 bin6 fong3 sung1 sam1 cing4.",
+      "meaning": "On weekends I go hiking and relax my mind at the same time.",
+      "sourceWordId": "fong3sung1-relax",
+      "sourceWord": "放鬆",
+      "sourceWordJyutping": "fong3 sung1",
+      "sourceWordMeaning": "relax",
+      "tags": [
+        "hobbies",
+        "interests",
+        "self-care",
+        "stress relief",
+        "everyday",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3sung1-relax.json"
+    },
+    {
+      "sentenceId": "fong3sung1-relax-example-3",
+      "sentence": "你做完功課，可以休息一下，放鬆啲。",
+      "jyutping": "nei5 zou6 jyun4 gung1 fo3, ho2 ji5 jau1 sik1 jat1 haa6, fong3 sung1 di1.",
+      "meaning": "After finishing your homework, you can rest a bit and relax more.",
+      "sourceWordId": "fong3sung1-relax",
+      "sourceWord": "放鬆",
+      "sourceWordJyutping": "fong3 sung1",
+      "sourceWordMeaning": "relax",
+      "tags": [
+        "hobbies",
+        "interests",
+        "self-care",
+        "stress relief",
+        "everyday",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3sung1-relax.json"
+    },
+    {
+      "sentenceId": "fong3sung1-relax-example-4",
+      "sentence": "佢一聽到假期就即刻放鬆晒。",
+      "jyutping": "keoi5 jat1 teng1 dou3 gaa2 kei4 zau6 zik1 haak1 fong3 sung1 saai3.",
+      "meaning": "As soon as he heard about the holiday, he immediately relaxed.",
+      "sourceWordId": "fong3sung1-relax",
+      "sourceWord": "放鬆",
+      "sourceWordJyutping": "fong3 sung1",
+      "sourceWordMeaning": "relax",
+      "tags": [
+        "hobbies",
+        "interests",
+        "self-care",
+        "stress relief",
+        "everyday",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3sung1-relax.json"
+    },
+    {
+      "sentenceId": "jip6jyu4-amateur-example-1",
+      "sentence": "佢係業餘攝影師，平時放工先影相。",
+      "jyutping": "keoi5 hai6 jip6 jyu4 sip3 jing2 si1, ping4 si4 fong3 gung1 sin1 jing2 soeng2.",
+      "meaning": "He is an amateur photographer, and he takes photos after work.",
+      "sourceWordId": "jip6jyu4-amateur",
+      "sourceWord": "業餘",
+      "sourceWordJyutping": "jip6 jyu4",
+      "sourceWordMeaning": "amateur",
+      "tags": [
+        "hobbies",
+        "interests",
+        "amateur",
+        "non-professional",
+        "sports",
+        "photography",
+        "music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6jyu4-amateur.json"
+    },
+    {
+      "sentenceId": "jip6jyu4-amateur-example-2",
+      "sentence": "呢個比賽有業餘組同專業組。",
+      "jyutping": "ni1 go3 bei2 coi3 jau5 jip6 jyu4 zou2 tung4 zyun1 jip6 zou2.",
+      "meaning": "This competition has an amateur division and a professional division.",
+      "sourceWordId": "jip6jyu4-amateur",
+      "sourceWord": "業餘",
+      "sourceWordJyutping": "jip6 jyu4",
+      "sourceWordMeaning": "amateur",
+      "tags": [
+        "hobbies",
+        "interests",
+        "amateur",
+        "non-professional",
+        "sports",
+        "photography",
+        "music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6jyu4-amateur.json"
+    },
+    {
+      "sentenceId": "jip6jyu4-amateur-example-3",
+      "sentence": "我只係業餘學下結他，唔係正式學。",
+      "jyutping": "ngo5 zi2 hai6 jip6 jyu4 hok6 haa5 git3 taa1, m4 hai6 zing3 sik1 hok6.",
+      "meaning": "I’m only learning guitar as a hobby, not studying formally.",
+      "sourceWordId": "jip6jyu4-amateur",
+      "sourceWord": "業餘",
+      "sourceWordJyutping": "jip6 jyu4",
+      "sourceWordMeaning": "amateur",
+      "tags": [
+        "hobbies",
+        "interests",
+        "amateur",
+        "non-professional",
+        "sports",
+        "photography",
+        "music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6jyu4-amateur.json"
+    },
+    {
+      "sentenceId": "jip6jyu4-amateur-example-4",
+      "sentence": "佢做運動好認真，不過都係業餘水平。",
+      "jyutping": "keoi5 zou6 wan6 dung6 hou2 jing6 zan1, bat1 gwo3 dou1 hai6 jip6 jyu4 seoi6 ping4.",
+      "meaning": "He takes sports seriously, but he is still at amateur level.",
+      "sourceWordId": "jip6jyu4-amateur",
+      "sourceWord": "業餘",
+      "sourceWordJyutping": "jip6 jyu4",
+      "sourceWordMeaning": "amateur",
+      "tags": [
+        "hobbies",
+        "interests",
+        "amateur",
+        "non-professional",
+        "sports",
+        "photography",
+        "music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6jyu4-amateur.json"
+    },
+    {
+      "sentenceId": "hung1haan4-free-time-example-1",
+      "sentence": "我今日有空閒，可以去打波。",
+      "jyutping": "ngo5 gam1 jat6 jau5 hung1 haan4, ho2 ji5 heoi3 daa2 bo1.",
+      "meaning": "I have free time today, so I can go play ball.",
+      "sourceWordId": "hung1haan4-free-time",
+      "sourceWord": "空閒",
+      "sourceWordJyutping": "hung1 haan4",
+      "sourceWordMeaning": "free time",
+      "tags": [
+        "free time",
+        "hobbies",
+        "daily life",
+        "time",
+        "schedule",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung1haan4-free-time.json"
+    },
+    {
+      "sentenceId": "hung1haan4-free-time-example-2",
+      "sentence": "佢成日都冇空閒陪屋企人。",
+      "jyutping": "keoi5 sing4 jat6 dou1 mou5 hung1 haan4 pui4 uk1 kei2 jan4.",
+      "meaning": "He is always too busy to spend time with family.",
+      "sourceWordId": "hung1haan4-free-time",
+      "sourceWord": "空閒",
+      "sourceWordJyutping": "hung1 haan4",
+      "sourceWordMeaning": "free time",
+      "tags": [
+        "free time",
+        "hobbies",
+        "daily life",
+        "time",
+        "schedule",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung1haan4-free-time.json"
+    },
+    {
+      "sentenceId": "hung1haan4-free-time-example-3",
+      "sentence": "放假嗰陣，我最鍾意用空閒睇書。",
+      "jyutping": "fong3 gaa3 go2 zan6, ngo5 zeoi3 zung1 ji3 jung6 hung1 haan4 tai2 syu1.",
+      "meaning": "During holidays, I like using my free time to read.",
+      "sourceWordId": "hung1haan4-free-time",
+      "sourceWord": "空閒",
+      "sourceWordJyutping": "hung1 haan4",
+      "sourceWordMeaning": "free time",
+      "tags": [
+        "free time",
+        "hobbies",
+        "daily life",
+        "time",
+        "schedule",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung1haan4-free-time.json"
+    },
+    {
+      "sentenceId": "hung1haan4-free-time-example-4",
+      "sentence": "你有空閒就覆我啦。",
+      "jyutping": "nei5 jau5 hung1 haan4 zau6 fuk1 ngo5 laa1.",
+      "meaning": "Reply to me when you have time.",
+      "sourceWordId": "hung1haan4-free-time",
+      "sourceWord": "空閒",
+      "sourceWordJyutping": "hung1 haan4",
+      "sourceWordMeaning": "free time",
+      "tags": [
+        "free time",
+        "hobbies",
+        "daily life",
+        "time",
+        "schedule",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung1haan4-free-time.json"
+    },
+    {
+      "sentenceId": "jau5ceoi3-interesting-example-1",
+      "sentence": "呢本書幾有趣。",
+      "jyutping": "ni1 bun2 syu1 gei2 jau5 ceoi3.",
+      "meaning": "This book is quite interesting.",
+      "sourceWordId": "jau5ceoi3-interesting",
+      "sourceWord": "有趣",
+      "sourceWordJyutping": "jau5 ceoi3",
+      "sourceWordMeaning": "interesting",
+      "tags": [
+        "beginner",
+        "hobbies",
+        "interests",
+        "describing things",
+        "opinions",
+        "everyday speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau5ceoi3-interesting.json"
+    },
+    {
+      "sentenceId": "jau5ceoi3-interesting-example-2",
+      "sentence": "佢講嘢好有趣。",
+      "jyutping": "keoi5 gong2 je5 hou2 jau5 ceoi3.",
+      "meaning": "The way he talks is very interesting.",
+      "sourceWordId": "jau5ceoi3-interesting",
+      "sourceWord": "有趣",
+      "sourceWordJyutping": "jau5 ceoi3",
+      "sourceWordMeaning": "interesting",
+      "tags": [
+        "beginner",
+        "hobbies",
+        "interests",
+        "describing things",
+        "opinions",
+        "everyday speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau5ceoi3-interesting.json"
+    },
+    {
+      "sentenceId": "jau5ceoi3-interesting-example-3",
+      "sentence": "我覺得呢個話題好有趣。",
+      "jyutping": "ngo5 gok3 dak1 ni1 go3 waa6 toi4 hou2 jau5 ceoi3.",
+      "meaning": "I think this topic is very interesting.",
+      "sourceWordId": "jau5ceoi3-interesting",
+      "sourceWord": "有趣",
+      "sourceWordJyutping": "jau5 ceoi3",
+      "sourceWordMeaning": "interesting",
+      "tags": [
+        "beginner",
+        "hobbies",
+        "interests",
+        "describing things",
+        "opinions",
+        "everyday speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau5ceoi3-interesting.json"
+    },
+    {
+      "sentenceId": "jau5ceoi3-interesting-example-4",
+      "sentence": "呢個遊戲幾有趣，想再玩。",
+      "jyutping": "ni1 go3 jau4 hei3 gei2 jau5 ceoi3, soeng2 zoi3 waan2.",
+      "meaning": "This game is quite interesting; I want to play again.",
+      "sourceWordId": "jau5ceoi3-interesting",
+      "sourceWord": "有趣",
+      "sourceWordJyutping": "jau5 ceoi3",
+      "sourceWordMeaning": "interesting",
+      "tags": [
+        "beginner",
+        "hobbies",
+        "interests",
+        "describing things",
+        "opinions",
+        "everyday speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau5ceoi3-interesting.json"
+    },
+    {
+      "sentenceId": "mou4liu4-boring-example-1",
+      "sentence": "呢套戲真係好無聊。",
+      "jyutping": "ni1 tou3 hei3 zan1 hai6 hou2 mou4 liu4",
+      "meaning": "This movie is really boring.",
+      "sourceWordId": "mou4liu4-boring",
+      "sourceWord": "無聊",
+      "sourceWordJyutping": "mou4 liu4",
+      "sourceWordMeaning": "boring",
+      "tags": [
+        "hobbies and interests",
+        "everyday vocabulary",
+        "describing feelings",
+        "casual speech",
+        "basic adjectives",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou4liu4-boring.json"
+    },
+    {
+      "sentenceId": "mou4liu4-boring-example-2",
+      "sentence": "我今日喺屋企太無聊喇。",
+      "jyutping": "ngo5 gam1 jat6 hai2 uk1 kei2 taai3 mou4 liu4 laa3",
+      "meaning": "I’m too bored at home today.",
+      "sourceWordId": "mou4liu4-boring",
+      "sourceWord": "無聊",
+      "sourceWordJyutping": "mou4 liu4",
+      "sourceWordMeaning": "boring",
+      "tags": [
+        "hobbies and interests",
+        "everyday vocabulary",
+        "describing feelings",
+        "casual speech",
+        "basic adjectives",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou4liu4-boring.json"
+    },
+    {
+      "sentenceId": "mou4liu4-boring-example-3",
+      "sentence": "你成日講呢啲無聊嘢。",
+      "jyutping": "nei5 sing4 jat6 gong2 ni1 di1 mou4 liu4 je5",
+      "meaning": "You always talk about these boring things.",
+      "sourceWordId": "mou4liu4-boring",
+      "sourceWord": "無聊",
+      "sourceWordJyutping": "mou4 liu4",
+      "sourceWordMeaning": "boring",
+      "tags": [
+        "hobbies and interests",
+        "everyday vocabulary",
+        "describing feelings",
+        "casual speech",
+        "basic adjectives",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou4liu4-boring.json"
+    },
+    {
+      "sentenceId": "mou4liu4-boring-example-4",
+      "sentence": "等車嗰陣最無聊。",
+      "jyutping": "dang2 ce1 go2 zan6 zeoi3 mou4 liu4",
+      "meaning": "Waiting for the bus is the most boring part.",
+      "sourceWordId": "mou4liu4-boring",
+      "sourceWord": "無聊",
+      "sourceWordJyutping": "mou4 liu4",
+      "sourceWordMeaning": "boring",
+      "tags": [
+        "hobbies and interests",
+        "everyday vocabulary",
+        "describing feelings",
+        "casual speech",
+        "basic adjectives",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou4liu4-boring.json"
+    },
+    {
+      "sentenceId": "zik1gik6-active-example-1",
+      "sentence": "佢喺班上好積極，成日舉手答問題。",
+      "jyutping": "keoi5 hai2 baan1 soeng6 hou2 zik1 gik6, seng4 jat6 geoi2 sau2 daap3 man6 tai4.",
+      "meaning": "He is very active in class and often puts up his hand to answer questions.",
+      "sourceWordId": "zik1gik6-active",
+      "sourceWord": "積極",
+      "sourceWordJyutping": "zik1 gik6",
+      "sourceWordMeaning": "active",
+      "tags": [
+        "hobbies",
+        "interests",
+        "general-vocabulary",
+        "positive-description",
+        "personality",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1gik6-active.json"
+    },
+    {
+      "sentenceId": "zik1gik6-active-example-2",
+      "sentence": "我最近想做得積極啲，去學畫畫。",
+      "jyutping": "ngo5 zeoi3 gan6 soeng2 zou6 dak1 zik1 gik6 di1, heoi3 hok6 waa2 waa2.",
+      "meaning": "Recently I want to be more proactive and learn painting.",
+      "sourceWordId": "zik1gik6-active",
+      "sourceWord": "積極",
+      "sourceWordJyutping": "zik1 gik6",
+      "sourceWordMeaning": "active",
+      "tags": [
+        "hobbies",
+        "interests",
+        "general-vocabulary",
+        "positive-description",
+        "personality",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1gik6-active.json"
+    },
+    {
+      "sentenceId": "zik1gik6-active-example-3",
+      "sentence": "呢個興趣班好適合積極參與嘅人。",
+      "jyutping": "ni1 go3 hing3 ceoi3 baan1 hou2 sik1 hap6 zik1 gik6 cyun4 jyu5 ge3 jan4.",
+      "meaning": "This interest class is suitable for people who like to take part actively.",
+      "sourceWordId": "zik1gik6-active",
+      "sourceWord": "積極",
+      "sourceWordJyutping": "zik1 gik6",
+      "sourceWordMeaning": "active",
+      "tags": [
+        "hobbies",
+        "interests",
+        "general-vocabulary",
+        "positive-description",
+        "personality",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1gik6-active.json"
+    },
+    {
+      "sentenceId": "zik1gik6-active-example-4",
+      "sentence": "佢對搵新嗜好好積極，乜都想試。",
+      "jyutping": "keoi5 deoi3 wan2 san1 si3 hou6 hou2 zik1 gik6, mat1 dou1 soeng2 si3.",
+      "meaning": "He is very proactive about finding new hobbies and wants to try everything.",
+      "sourceWordId": "zik1gik6-active",
+      "sourceWord": "積極",
+      "sourceWordJyutping": "zik1 gik6",
+      "sourceWordMeaning": "active",
+      "tags": [
+        "hobbies",
+        "interests",
+        "general-vocabulary",
+        "positive-description",
+        "personality",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1gik6-active.json"
+    },
+    {
+      "sentenceId": "wan6dung6-sport-example-1",
+      "sentence": "我鍾意做運動。",
+      "jyutping": "ngo5 zung1 ji3 zou6 wan6 dung6.",
+      "meaning": "I like doing sports/exercise.",
+      "sourceWordId": "wan6dung6-sport",
+      "sourceWord": "運動",
+      "sourceWordJyutping": "wan6 dung6",
+      "sourceWordMeaning": "sport",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "exercise",
+        "common noun",
+        "daily life",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan6dung6-sport.json"
+    },
+    {
+      "sentenceId": "wan6dung6-sport-example-2",
+      "sentence": "星期六我同朋友去打波做運動。",
+      "jyutping": "sing1 kei4 luk6 ngo5 tung4 pang4 jau5 heoi3 daa2 bo1 zou6 wan6 dung6.",
+      "meaning": "On Saturday I go play ball and exercise with friends.",
+      "sourceWordId": "wan6dung6-sport",
+      "sourceWord": "運動",
+      "sourceWordJyutping": "wan6 dung6",
+      "sourceWordMeaning": "sport",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "exercise",
+        "common noun",
+        "daily life",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan6dung6-sport.json"
+    },
+    {
+      "sentenceId": "wan6dung6-sport-example-3",
+      "sentence": "醫生叫我多啲做運動。",
+      "jyutping": "ji1 sang1 giu3 ngo5 do1 di1 zou6 wan6 dung6.",
+      "meaning": "The doctor told me to exercise more.",
+      "sourceWordId": "wan6dung6-sport",
+      "sourceWord": "運動",
+      "sourceWordJyutping": "wan6 dung6",
+      "sourceWordMeaning": "sport",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "exercise",
+        "common noun",
+        "daily life",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan6dung6-sport.json"
+    },
+    {
+      "sentenceId": "wan6dung6-sport-example-4",
+      "sentence": "學校每個禮拜都有運動堂。",
+      "jyutping": "hok6 haau6 mui5 go3 lai5 baai3 dou1 jau5 wan6 dung6 tong4.",
+      "meaning": "The school has sports/PE classes every week.",
+      "sourceWordId": "wan6dung6-sport",
+      "sourceWord": "運動",
+      "sourceWordJyutping": "wan6 dung6",
+      "sourceWordMeaning": "sport",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "exercise",
+        "common noun",
+        "daily life",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan6dung6-sport.json"
+    },
+    {
+      "sentenceId": "gin6san1-fitness-example-1",
+      "sentence": "我而家每個禮拜都去健身。",
+      "jyutping": "ngo5 ji1 gaa1 mui5 go3 lai5 baai3 dou1 heoi3 gin6 san1.",
+      "meaning": "I go to the gym every week now.",
+      "sourceWordId": "gin6san1-fitness",
+      "sourceWord": "健身",
+      "sourceWordJyutping": "gin6 san1",
+      "sourceWordMeaning": "fitness",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "health",
+        "gym",
+        "exercise",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6san1-fitness.json"
+    },
+    {
+      "sentenceId": "gin6san1-fitness-example-2",
+      "sentence": "佢好重視健身同飲食。",
+      "jyutping": "keoi5 hou2 cung5 si6 gin6 san1 tung4 jam2 sik6.",
+      "meaning": "He/She really values fitness and diet.",
+      "sourceWordId": "gin6san1-fitness",
+      "sourceWord": "健身",
+      "sourceWordJyutping": "gin6 san1",
+      "sourceWordMeaning": "fitness",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "health",
+        "gym",
+        "exercise",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6san1-fitness.json"
+    },
+    {
+      "sentenceId": "gin6san1-fitness-example-3",
+      "sentence": "呢間健身室幾新淨。",
+      "jyutping": "ni1 gaan1 gin6 san1 sat1 gei2 san1 zing6.",
+      "meaning": "This gym is quite new and clean.",
+      "sourceWordId": "gin6san1-fitness",
+      "sourceWord": "健身",
+      "sourceWordJyutping": "gin6 san1",
+      "sourceWordMeaning": "fitness",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "health",
+        "gym",
+        "exercise",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6san1-fitness.json"
+    },
+    {
+      "sentenceId": "gin6san1-fitness-example-4",
+      "sentence": "放工之後我想去健身。",
+      "jyutping": "fong3 gung1 zi1 hau6 ngo5 soeng2 heoi3 gin6 san1.",
+      "meaning": "After work, I want to go work out.",
+      "sourceWordId": "gin6san1-fitness",
+      "sourceWord": "健身",
+      "sourceWordJyutping": "gin6 san1",
+      "sourceWordMeaning": "fitness",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "health",
+        "gym",
+        "exercise",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6san1-fitness.json"
+    },
+    {
+      "sentenceId": "paau2bou6-running-example-1",
+      "sentence": "我每日朝早都會跑步。",
+      "jyutping": "ngo5 mui5 jat6 ciu4 zou2 dou1 wui5 paau2 bou6.",
+      "meaning": "I run every morning.",
+      "sourceWordId": "paau2bou6-running",
+      "sourceWord": "跑步",
+      "sourceWordJyutping": "paau2 bou6",
+      "sourceWordMeaning": "running",
+      "tags": [
+        "hobbies and interests",
+        "sports and fitness",
+        "exercise",
+        "everyday vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/paau2bou6-running.json"
+    },
+    {
+      "sentenceId": "paau2bou6-running-example-2",
+      "sentence": "星期六我同朋友去公園跑步。",
+      "jyutping": "sing1 kei4 luk6 ngo5 tung4 pang4 jau5 heoi3 gung1 jyun4 paau2 bou6.",
+      "meaning": "On Saturday, I go jogging in the park with friends.",
+      "sourceWordId": "paau2bou6-running",
+      "sourceWord": "跑步",
+      "sourceWordJyutping": "paau2 bou6",
+      "sourceWordMeaning": "running",
+      "tags": [
+        "hobbies and interests",
+        "sports and fitness",
+        "exercise",
+        "everyday vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/paau2bou6-running.json"
+    },
+    {
+      "sentenceId": "paau2bou6-running-example-3",
+      "sentence": "跑步對身體好。",
+      "jyutping": "paau2 bou6 deoi3 san1 tai2 hou2.",
+      "meaning": "Running is good for your health.",
+      "sourceWordId": "paau2bou6-running",
+      "sourceWord": "跑步",
+      "sourceWordJyutping": "paau2 bou6",
+      "sourceWordMeaning": "running",
+      "tags": [
+        "hobbies and interests",
+        "sports and fitness",
+        "exercise",
+        "everyday vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/paau2bou6-running.json"
+    },
+    {
+      "sentenceId": "paau2bou6-running-example-4",
+      "sentence": "佢而家喺操場跑步。",
+      "jyutping": "keoi5 ji4 gaa1 hai2 cou1 coeng4 paau2 bou6.",
+      "meaning": "He/She is running on the sports field now.",
+      "sourceWordId": "paau2bou6-running",
+      "sourceWord": "跑步",
+      "sourceWordJyutping": "paau2 bou6",
+      "sourceWordMeaning": "running",
+      "tags": [
+        "hobbies and interests",
+        "sports and fitness",
+        "exercise",
+        "everyday vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/paau2bou6-running.json"
+    },
+    {
+      "sentenceId": "jau4seoi2-swimming-example-1",
+      "sentence": "我今個星期日想去游水。",
+      "jyutping": "ngo5 gam1 go3 sing1 kei4 jat6 soeng2 heoi3 jau4 seoi2.",
+      "meaning": "I want to go swimming this Sunday.",
+      "sourceWordId": "jau4seoi2-swimming",
+      "sourceWord": "游水",
+      "sourceWordJyutping": "jau4 seoi2",
+      "sourceWordMeaning": "swimming",
+      "tags": [
+        "hobby",
+        "sport",
+        "exercise",
+        "water activity",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau4seoi2-swimming.json"
+    },
+    {
+      "sentenceId": "jau4seoi2-swimming-example-2",
+      "sentence": "夏天好多人都鍾意游水。",
+      "jyutping": "haa6 tin1 hou2 do1 jan4 dou1 zung1 ji3 jau4 seoi2.",
+      "meaning": "Many people like swimming in summer.",
+      "sourceWordId": "jau4seoi2-swimming",
+      "sourceWord": "游水",
+      "sourceWordJyutping": "jau4 seoi2",
+      "sourceWordMeaning": "swimming",
+      "tags": [
+        "hobby",
+        "sport",
+        "exercise",
+        "water activity",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau4seoi2-swimming.json"
+    },
+    {
+      "sentenceId": "jau4seoi2-swimming-example-3",
+      "sentence": "阿媽叫我學游水。",
+      "jyutping": "aa3 maa1 giu3 ngo5 hok6 jau4 seoi2.",
+      "meaning": "My mom told me to learn swimming.",
+      "sourceWordId": "jau4seoi2-swimming",
+      "sourceWord": "游水",
+      "sourceWordJyutping": "jau4 seoi2",
+      "sourceWordMeaning": "swimming",
+      "tags": [
+        "hobby",
+        "sport",
+        "exercise",
+        "water activity",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau4seoi2-swimming.json"
+    },
+    {
+      "sentenceId": "jau4seoi2-swimming-example-4",
+      "sentence": "佢成日放工之後去游水放鬆。",
+      "jyutping": "keoi5 seng4 jat6 fong3 gung1 zi1 hau6 heoi3 jau4 seoi2 fong3 sung1.",
+      "meaning": "He often goes swimming after work to relax.",
+      "sourceWordId": "jau4seoi2-swimming",
+      "sourceWord": "游水",
+      "sourceWordJyutping": "jau4 seoi2",
+      "sourceWordMeaning": "swimming",
+      "tags": [
+        "hobby",
+        "sport",
+        "exercise",
+        "water activity",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau4seoi2-swimming.json"
+    },
+    {
+      "sentenceId": "caai2daan1ce1-cycling-example-1",
+      "sentence": "我星期日最鍾意去踩單車。",
+      "jyutping": "ngo5 sing1 kei4 jat6 zeoi3 zung1 ji3 heoi3 caai2 daan1 ce1.",
+      "meaning": "I like going cycling the most on Sundays.",
+      "sourceWordId": "caai2daan1ce1-cycling",
+      "sourceWord": "踩單車",
+      "sourceWordJyutping": "caai2 daan1 ce1",
+      "sourceWordMeaning": "cycling",
+      "tags": [
+        "hobbies",
+        "sports",
+        "fitness",
+        "cycling",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
+    },
+    {
+      "sentenceId": "caai2daan1ce1-cycling-example-2",
+      "sentence": "佢每日放學都踩單車返屋企。",
+      "jyutping": "keoi5 mui5 jat6 fong3 hok6 dou1 caai2 daan1 ce1 faan1 uk1 kei2.",
+      "meaning": "He cycles home every day after school.",
+      "sourceWordId": "caai2daan1ce1-cycling",
+      "sourceWord": "踩單車",
+      "sourceWordJyutping": "caai2 daan1 ce1",
+      "sourceWordMeaning": "cycling",
+      "tags": [
+        "hobbies",
+        "sports",
+        "fitness",
+        "cycling",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
+    },
+    {
+      "sentenceId": "caai2daan1ce1-cycling-example-3",
+      "sentence": "呢個公園好多人喺度踩單車。",
+      "jyutping": "ni1 go3 gung1 jyun4 hou2 do1 jan4 hai2 dou6 caai2 daan1 ce1.",
+      "meaning": "A lot of people cycle in this park.",
+      "sourceWordId": "caai2daan1ce1-cycling",
+      "sourceWord": "踩單車",
+      "sourceWordJyutping": "caai2 daan1 ce1",
+      "sourceWordMeaning": "cycling",
+      "tags": [
+        "hobbies",
+        "sports",
+        "fitness",
+        "cycling",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
+    },
+    {
+      "sentenceId": "caai2daan1ce1-cycling-example-4",
+      "sentence": "我想學踩單車，但係未識。",
+      "jyutping": "ngo5 soeng2 hok6 caai2 daan1 ce1, daan6 hai6 mei6 sik1.",
+      "meaning": "I want to learn to ride a bicycle, but I still can't.",
+      "sourceWordId": "caai2daan1ce1-cycling",
+      "sourceWord": "踩單車",
+      "sourceWordJyutping": "caai2 daan1 ce1",
+      "sourceWordMeaning": "cycling",
+      "tags": [
+        "hobbies",
+        "sports",
+        "fitness",
+        "cycling",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
+    },
+    {
+      "sentenceId": "haang4saan1-hiking-example-1",
+      "sentence": "我聽日同朋友去行山。",
+      "jyutping": "ngo5 ting1 jat6 tung4 pang4 jau5 heoi3 haang4 saan1.",
+      "meaning": "I’m going hiking with friends tomorrow.",
+      "sourceWordId": "haang4saan1-hiking",
+      "sourceWord": "行山",
+      "sourceWordJyutping": "haang4 saan1",
+      "sourceWordMeaning": "hiking",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
+    },
+    {
+      "sentenceId": "haang4saan1-hiking-example-2",
+      "sentence": "週末你好鍾意行山呀？",
+      "jyutping": "zau1 mut6 nei5 hou2 zung1 ji3 haang4 saan1 aa3?",
+      "meaning": "Do you like hiking a lot on weekends?",
+      "sourceWordId": "haang4saan1-hiking",
+      "sourceWord": "行山",
+      "sourceWordJyutping": "haang4 saan1",
+      "sourceWordMeaning": "hiking",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
+    },
+    {
+      "sentenceId": "haang4saan1-hiking-example-3",
+      "sentence": "佢成日去行山，身體好好。",
+      "jyutping": "keoi5 seng4 jat6 heoi3 haang4 saan1, san1 tai2 hou2 hou2.",
+      "meaning": "He/She goes hiking often, so they’re in great shape.",
+      "sourceWordId": "haang4saan1-hiking",
+      "sourceWord": "行山",
+      "sourceWordJyutping": "haang4 saan1",
+      "sourceWordMeaning": "hiking",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
+    },
+    {
+      "sentenceId": "haang4saan1-hiking-example-4",
+      "sentence": "天氣咁好，我哋不如去行山啦。",
+      "jyutping": "tin1 hei3 gam3 hou2, ngo5 dei6 bat1 jyu4 heoi3 haang4 saan1 laa1.",
+      "meaning": "The weather is so nice, let’s go hiking.",
+      "sourceWordId": "haang4saan1-hiking",
+      "sourceWord": "行山",
+      "sourceWordJyutping": "haang4 saan1",
+      "sourceWordMeaning": "hiking",
+      "tags": [
+        "hobbies",
+        "interests",
+        "sports",
+        "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
+    },
+    {
+      "sentenceId": "daa2bo1-ball-games-example-1",
+      "sentence": "我哋今晚去打波呀。",
+      "jyutping": "ngo5 de2 gam1 maan5 heoi3 daa2 bo1 aa3.",
+      "meaning": "We’re going to play ball tonight.",
+      "sourceWordId": "daa2bo1-ball-games",
+      "sourceWord": "打波",
+      "sourceWordJyutping": "daa2 bo1",
+      "sourceWordMeaning": "ball games",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "spoken Cantonese",
+        "everyday vocabulary",
+        "ball sports",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2bo1-ball-games.json"
+    },
+    {
+      "sentenceId": "daa2bo1-ball-games-example-2",
+      "sentence": "佢每個星期都會同朋友打波。",
+      "jyutping": "keoi5 mui5 go3 sing1 kei4 dou1 wui5 tung4 pang4 jau5 daa2 bo1.",
+      "meaning": "He/She plays ball with friends every week.",
+      "sourceWordId": "daa2bo1-ball-games",
+      "sourceWord": "打波",
+      "sourceWordJyutping": "daa2 bo1",
+      "sourceWordMeaning": "ball games",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "spoken Cantonese",
+        "everyday vocabulary",
+        "ball sports",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2bo1-ball-games.json"
+    },
+    {
+      "sentenceId": "daa2bo1-ball-games-example-3",
+      "sentence": "你鍾唔鍾意打波？",
+      "jyutping": "nei5 zung1 m4 zung1 ji3 daa2 bo1?",
+      "meaning": "Do you like playing ball?",
+      "sourceWordId": "daa2bo1-ball-games",
+      "sourceWord": "打波",
+      "sourceWordJyutping": "daa2 bo1",
+      "sourceWordMeaning": "ball games",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "spoken Cantonese",
+        "everyday vocabulary",
+        "ball sports",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2bo1-ball-games.json"
+    },
+    {
+      "sentenceId": "daa2bo1-ball-games-example-4",
+      "sentence": "放學之後，我哋一齊打波啦。",
+      "jyutping": "fong3 hok6 zi1 hau6, ngo5 dei2 jat1 cai4 daa2 bo1 laa1.",
+      "meaning": "After school, let’s go play ball together.",
+      "sourceWordId": "daa2bo1-ball-games",
+      "sourceWord": "打波",
+      "sourceWordJyutping": "daa2 bo1",
+      "sourceWordMeaning": "ball games",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "spoken Cantonese",
+        "everyday vocabulary",
+        "ball sports",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2bo1-ball-games.json"
+    },
+    {
+      "sentenceId": "daa2paang5kau4-baseball-example-1",
+      "sentence": "我鍾意打棒球。",
+      "jyutping": "ngo5 zung1 ji3 daa2 paang5 kau4.",
+      "meaning": "I like playing baseball.",
+      "sourceWordId": "daa2paang5kau4-baseball",
+      "sourceWord": "打棒球",
+      "sourceWordJyutping": "daa2 paang5 kau4",
+      "sourceWordMeaning": "baseball",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "ball sports",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2paang5kau4-baseball.json"
+    },
+    {
+      "sentenceId": "daa2paang5kau4-baseball-example-2",
+      "sentence": "星期六我同朋友去公園打棒球。",
+      "jyutping": "sing1 kei4 luk6 ngo5 tung4 pang4 jau5 heoi3 gung1 jyun4 daa2 paang5 kau4.",
+      "meaning": "On Saturday I go to the park to play baseball with my friends.",
+      "sourceWordId": "daa2paang5kau4-baseball",
+      "sourceWord": "打棒球",
+      "sourceWordJyutping": "daa2 paang5 kau4",
+      "sourceWordMeaning": "baseball",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "ball sports",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2paang5kau4-baseball.json"
+    },
+    {
+      "sentenceId": "daa2paang5kau4-baseball-example-3",
+      "sentence": "佢喺學校棒球隊打棒球。",
+      "jyutping": "keoi5 hai2 hok6 haau6 paang5 kau4 deoi2 daa2 paang5 kau4.",
+      "meaning": "He/She plays baseball on the school baseball team.",
+      "sourceWordId": "daa2paang5kau4-baseball",
+      "sourceWord": "打棒球",
+      "sourceWordJyutping": "daa2 paang5 kau4",
+      "sourceWordMeaning": "baseball",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "ball sports",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2paang5kau4-baseball.json"
+    },
+    {
+      "sentenceId": "daa2paang5kau4-baseball-example-4",
+      "sentence": "打棒球之前，要先熱身。",
+      "jyutping": "daa2 paang5 kau4 zhi1 cin4, jiu3 sin1 jit6 san1.",
+      "meaning": "Before playing baseball, you need to warm up first.",
+      "sourceWordId": "daa2paang5kau4-baseball",
+      "sourceWord": "打棒球",
+      "sourceWordJyutping": "daa2 paang5 kau4",
+      "sourceWordMeaning": "baseball",
+      "tags": [
+        "hobbies and interests",
+        "sports",
+        "fitness",
+        "ball sports",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2paang5kau4-baseball.json"
+    },
+    {
+      "sentenceId": "daa2laam4kau4-basketball-example-1",
+      "sentence": "我星期六成日同朋友去打籃球。",
+      "jyutping": "ngo5 sing1 kei4 luk6 seng4 jat6 tung4 pang4 jau5 heoi3 daa2 laam4 kau4.",
+      "meaning": "I often go play basketball with friends on Saturdays.",
+      "sourceWordId": "daa2laam4kau4-basketball",
+      "sourceWord": "打籃球",
+      "sourceWordJyutping": "daa2 laam4 kau4",
+      "sourceWordMeaning": "basketball",
+      "tags": [
+        "hobby",
+        "sport",
+        "fitness",
+        "everyday",
+        "beginner",
+        "activity",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
+    },
+    {
+      "sentenceId": "daa2laam4kau4-basketball-example-2",
+      "sentence": "佢細個已經好鍾意打籃球。",
+      "jyutping": "keoi5 sai3 go3 ji5 ging1 hou2 zung1 ji3 daa2 laam4 kau4.",
+      "meaning": "He has liked basketball since he was young.",
+      "sourceWordId": "daa2laam4kau4-basketball",
+      "sourceWord": "打籃球",
+      "sourceWordJyutping": "daa2 laam4 kau4",
+      "sourceWordMeaning": "basketball",
+      "tags": [
+        "hobby",
+        "sport",
+        "fitness",
+        "everyday",
+        "beginner",
+        "activity",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
+    },
+    {
+      "sentenceId": "daa2laam4kau4-basketball-example-3",
+      "sentence": "學校放學之後有籃球訓練。",
+      "jyutping": "hok6 haau6 fong3 hok6 zi1 hau6 jau5 laam4 kau4 fan3 leon6.",
+      "meaning": "There is basketball training after school.",
+      "sourceWordId": "daa2laam4kau4-basketball",
+      "sourceWord": "打籃球",
+      "sourceWordJyutping": "daa2 laam4 kau4",
+      "sourceWordMeaning": "basketball",
+      "tags": [
+        "hobby",
+        "sport",
+        "fitness",
+        "everyday",
+        "beginner",
+        "activity",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
+    },
+    {
+      "sentenceId": "daa2laam4kau4-basketball-example-4",
+      "sentence": "你今晚想唔想去打籃球？",
+      "jyutping": "nei5 gam1 maan5 soeng2 m4 soeng2 heoi3 daa2 laam4 kau4?",
+      "meaning": "Do you want to go play basketball tonight?",
+      "sourceWordId": "daa2laam4kau4-basketball",
+      "sourceWord": "打籃球",
+      "sourceWordJyutping": "daa2 laam4 kau4",
+      "sourceWordMeaning": "basketball",
+      "tags": [
+        "hobby",
+        "sport",
+        "fitness",
+        "everyday",
+        "beginner",
+        "activity",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
+    },
+    {
+      "sentenceId": "tek3zuk1kau4-football-example-1",
+      "sentence": "我星期六最鍾意踢足球。",
+      "jyutping": "ngo5 sing1 kei4 luk6 zeoi3 zung1 ji3 tek3 zuk1 kau4.",
+      "meaning": "I like playing football best on Saturdays.",
+      "sourceWordId": "tek3zuk1kau4-football",
+      "sourceWord": "踢足球",
+      "sourceWordJyutping": "tek3 zuk1 kau4",
+      "sourceWordMeaning": "football",
+      "tags": [
+        "sports",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
+    },
+    {
+      "sentenceId": "tek3zuk1kau4-football-example-2",
+      "sentence": "佢成日同朋友踢足球。",
+      "jyutping": "keoi5 sing4 jat6 tung4 pang4 jau5 tek3 zuk1 kau4.",
+      "meaning": "He often plays football with friends.",
+      "sourceWordId": "tek3zuk1kau4-football",
+      "sourceWord": "踢足球",
+      "sourceWordJyutping": "tek3 zuk1 kau4",
+      "sourceWordMeaning": "football",
+      "tags": [
+        "sports",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
+    },
+    {
+      "sentenceId": "tek3zuk1kau4-football-example-3",
+      "sentence": "你想唔想一齊去踢足球？",
+      "jyutping": "nei5 soeng2 m4 soeng2 jat1 cai4 heoi3 tek3 zuk1 kau4?",
+      "meaning": "Do you want to go play football together?",
+      "sourceWordId": "tek3zuk1kau4-football",
+      "sourceWord": "踢足球",
+      "sourceWordJyutping": "tek3 zuk1 kau4",
+      "sourceWordMeaning": "football",
+      "tags": [
+        "sports",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
+    },
+    {
+      "sentenceId": "tek3zuk1kau4-football-example-4",
+      "sentence": "學校操場可以踢足球。",
+      "jyutping": "hok6 haau6 cou1 coeng4 ho2 ji5 tek3 zuk1 kau4.",
+      "meaning": "You can play football on the school playground.",
+      "sourceWordId": "tek3zuk1kau4-football",
+      "sourceWord": "踢足球",
+      "sourceWordJyutping": "tek3 zuk1 kau4",
+      "sourceWordMeaning": "football",
+      "tags": [
+        "sports",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
+    },
+    {
+      "sentenceId": "daa2jyu5mou4kau4-badminton-example-1",
+      "sentence": "我每個星期六都會打羽毛球。",
+      "jyutping": "ngo5 mui5 go3 sing1 kei4 luk6 dou1 wui5 daa2 jyu5 mou4 kau4.",
+      "meaning": "I play badminton every Saturday.",
+      "sourceWordId": "daa2jyu5mou4kau4-badminton",
+      "sourceWord": "打羽毛球",
+      "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
+      "sourceWordMeaning": "badminton",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
+    },
+    {
+      "sentenceId": "daa2jyu5mou4kau4-badminton-example-2",
+      "sentence": "放工之後，我同朋友去打羽毛球。",
+      "jyutping": "fong3 gung1 zi1 hau6, ngo5 tung4 pang4 jau5 heoi3 daa2 jyu5 mou4 kau4.",
+      "meaning": "After work, I go play badminton with friends.",
+      "sourceWordId": "daa2jyu5mou4kau4-badminton",
+      "sourceWord": "打羽毛球",
+      "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
+      "sourceWordMeaning": "badminton",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
+    },
+    {
+      "sentenceId": "daa2jyu5mou4kau4-badminton-example-3",
+      "sentence": "你鍾唔鍾意打羽毛球？",
+      "jyutping": "nei5 zung1 m4 zung1 ji3 daa2 jyu5 mou4 kau4?",
+      "meaning": "Do you like playing badminton?",
+      "sourceWordId": "daa2jyu5mou4kau4-badminton",
+      "sourceWord": "打羽毛球",
+      "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
+      "sourceWordMeaning": "badminton",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
+    },
+    {
+      "sentenceId": "daa2jyu5mou4kau4-badminton-example-4",
+      "sentence": "學校個羽毛球隊好多人打羽毛球。",
+      "jyutping": "hok6 haau6 go3 jyu5 mou4 kau4 deoi2 hou2 do1 jan4 daa2 jyu5 mou4 kau4.",
+      "meaning": "There are many people playing badminton on the school badminton team.",
+      "sourceWordId": "daa2jyu5mou4kau4-badminton",
+      "sourceWord": "打羽毛球",
+      "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
+      "sourceWordMeaning": "badminton",
+      "tags": [
+        "sports",
+        "fitness",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
+    },
+    {
+      "sentenceId": "jyu4gaa1-yoga-example-1",
+      "sentence": "我星期六去學瑜伽。",
+      "jyutping": "ngo5 sing1kei4luk6 heoi3 hok6 jyu4 gaa1.",
+      "meaning": "I’m going to learn yoga on Saturday.",
+      "sourceWordId": "jyu4gaa1-yoga",
+      "sourceWord": "瑜伽",
+      "sourceWordJyutping": "jyu4 gaa1",
+      "sourceWordMeaning": "yoga",
+      "tags": [
+        "hobbies",
+        "fitness",
+        "exercise",
+        "wellness",
+        "beginner-friendly",
+        "classroom",
+        "daily-life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gaa1-yoga.json"
+    },
+    {
+      "sentenceId": "jyu4gaa1-yoga-example-2",
+      "sentence": "阿媽每日朝早都做瑜伽。",
+      "jyutping": "aa3 maa1 mui5jat6 ciu4zou2 dou1 zou6 jyu4 gaa1.",
+      "meaning": "My mom does yoga every morning.",
+      "sourceWordId": "jyu4gaa1-yoga",
+      "sourceWord": "瑜伽",
+      "sourceWordJyutping": "jyu4 gaa1",
+      "sourceWordMeaning": "yoga",
+      "tags": [
+        "hobbies",
+        "fitness",
+        "exercise",
+        "wellness",
+        "beginner-friendly",
+        "classroom",
+        "daily-life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gaa1-yoga.json"
+    },
+    {
+      "sentenceId": "jyu4gaa1-yoga-example-3",
+      "sentence": "呢間健身中心有瑜伽班。",
+      "jyutping": "ni1 gaan1 gin6san1 zung1sam1 jau5 jyu4 gaa1 baan1.",
+      "meaning": "This fitness center has yoga classes.",
+      "sourceWordId": "jyu4gaa1-yoga",
+      "sourceWord": "瑜伽",
+      "sourceWordJyutping": "jyu4 gaa1",
+      "sourceWordMeaning": "yoga",
+      "tags": [
+        "hobbies",
+        "fitness",
+        "exercise",
+        "wellness",
+        "beginner-friendly",
+        "classroom",
+        "daily-life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gaa1-yoga.json"
+    },
+    {
+      "sentenceId": "jyu4gaa1-yoga-example-4",
+      "sentence": "佢話瑜伽可以幫佢放鬆。",
+      "jyutping": "keoi5 waa6 jyu4 gaa1 ho2ji5 bong1 keoi5 fong3sung1.",
+      "meaning": "He says yoga can help him relax.",
+      "sourceWordId": "jyu4gaa1-yoga",
+      "sourceWord": "瑜伽",
+      "sourceWordJyutping": "jyu4 gaa1",
+      "sourceWordMeaning": "yoga",
+      "tags": [
+        "hobbies",
+        "fitness",
+        "exercise",
+        "wellness",
+        "beginner-friendly",
+        "classroom",
+        "daily-life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu4gaa1-yoga.json"
+    },
+    {
+      "sentenceId": "lou6jing4-camping-example-1",
+      "sentence": "我哋下個星期去露營。",
+      "jyutping": "ngo5 dei6 haa6 go3 sing1 kei4 heoi3 lou6 jing4.",
+      "meaning": "We’re going camping next week.",
+      "sourceWordId": "lou6jing4-camping",
+      "sourceWord": "露營",
+      "sourceWordJyutping": "lou6 jing4",
+      "sourceWordMeaning": "camping",
+      "tags": [
+        "outdoor activities",
+        "hobbies",
+        "nature",
+        "travel",
+        "weekend plans",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou6jing4-camping.json"
+    },
+    {
+      "sentenceId": "lou6jing4-camping-example-2",
+      "sentence": "佢好鍾意同朋友去露營。",
+      "jyutping": "keoi5 hou2 zung1 ji3 tung4 pang4 jau5 heoi3 lou6 jing4.",
+      "meaning": "He/she really likes going camping with friends.",
+      "sourceWordId": "lou6jing4-camping",
+      "sourceWord": "露營",
+      "sourceWordJyutping": "lou6 jing4",
+      "sourceWordMeaning": "camping",
+      "tags": [
+        "outdoor activities",
+        "hobbies",
+        "nature",
+        "travel",
+        "weekend plans",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou6jing4-camping.json"
+    },
+    {
+      "sentenceId": "lou6jing4-camping-example-3",
+      "sentence": "週末我想喺郊外露營。",
+      "jyutping": "zau1 mat6 ngo5 soeng2 hai2 gaau1 ngoi6 lou6 jing4.",
+      "meaning": "I want to go camping in the countryside this weekend.",
+      "sourceWordId": "lou6jing4-camping",
+      "sourceWord": "露營",
+      "sourceWordJyutping": "lou6 jing4",
+      "sourceWordMeaning": "camping",
+      "tags": [
+        "outdoor activities",
+        "hobbies",
+        "nature",
+        "travel",
+        "weekend plans",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou6jing4-camping.json"
+    },
+    {
+      "sentenceId": "lou6jing4-camping-example-4",
+      "sentence": "呢個公園附近有露營場地。",
+      "jyutping": "ni1 go3 gung1 jyun4 fu6 gan6 jau5 lou6 jing4 coeng4 dei6.",
+      "meaning": "There is a camping area near this park.",
+      "sourceWordId": "lou6jing4-camping",
+      "sourceWord": "露營",
+      "sourceWordJyutping": "lou6 jing4",
+      "sourceWordMeaning": "camping",
+      "tags": [
+        "outdoor activities",
+        "hobbies",
+        "nature",
+        "travel",
+        "weekend plans",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou6jing4-camping.json"
+    },
+    {
+      "sentenceId": "diu3jyu4-fishing-example-1",
+      "sentence": "我星期日去釣魚。",
+      "jyutping": "ngo5 sing1 kei4 jat6 heoi3 diu3 jyu4.",
+      "meaning": "I’m going fishing on Sunday.",
+      "sourceWordId": "diu3jyu4-fishing",
+      "sourceWord": "釣魚",
+      "sourceWordJyutping": "diu3 jyu4",
+      "sourceWordMeaning": "fishing",
+      "tags": [
+        "hobby",
+        "outdoor activity",
+        "leisure",
+        "nature",
+        "water activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu3jyu4-fishing.json"
+    },
+    {
+      "sentenceId": "diu3jyu4-fishing-example-2",
+      "sentence": "佢好鍾意釣魚。",
+      "jyutping": "keoi5 hou2 zung1 ji3 diu3 jyu4.",
+      "meaning": "He/She really likes fishing.",
+      "sourceWordId": "diu3jyu4-fishing",
+      "sourceWord": "釣魚",
+      "sourceWordJyutping": "diu3 jyu4",
+      "sourceWordMeaning": "fishing",
+      "tags": [
+        "hobby",
+        "outdoor activity",
+        "leisure",
+        "nature",
+        "water activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu3jyu4-fishing.json"
+    },
+    {
+      "sentenceId": "diu3jyu4-fishing-example-3",
+      "sentence": "爸爸同朋友一齊去釣魚。",
+      "jyutping": "baa4 baa1 tung4 pang4 jau5 jat1 cai4 heoi3 diu3 jyu4.",
+      "meaning": "Dad went fishing with friends.",
+      "sourceWordId": "diu3jyu4-fishing",
+      "sourceWord": "釣魚",
+      "sourceWordJyutping": "diu3 jyu4",
+      "sourceWordMeaning": "fishing",
+      "tags": [
+        "hobby",
+        "outdoor activity",
+        "leisure",
+        "nature",
+        "water activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu3jyu4-fishing.json"
+    },
+    {
+      "sentenceId": "diu3jyu4-fishing-example-4",
+      "sentence": "呢度好多人成日嚟釣魚。",
+      "jyutping": "ni1 dou6 hou2 do1 jan4 seng4 jat6 lai4 diu3 jyu4.",
+      "meaning": "A lot of people come here to fish all the time.",
+      "sourceWordId": "diu3jyu4-fishing",
+      "sourceWord": "釣魚",
+      "sourceWordJyutping": "diu3 jyu4",
+      "sourceWordMeaning": "fishing",
+      "tags": [
+        "hobby",
+        "outdoor activity",
+        "leisure",
+        "nature",
+        "water activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu3jyu4-fishing.json"
+    },
+    {
+      "sentenceId": "leoi5hang4-travel-example-1",
+      "sentence": "我下個月去日本旅行。",
+      "jyutping": "ngo5 haa6 go3 jyut6 go3 jyut6 heoi3 jat6 bun2 leoi5 hang4.",
+      "meaning": "I’m going to Japan next month for a trip.",
+      "sourceWordId": "leoi5hang4-travel",
+      "sourceWord": "旅行",
+      "sourceWordJyutping": "leoi5 hang4",
+      "sourceWordMeaning": "travel",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "holiday",
+        "common noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
+    },
+    {
+      "sentenceId": "leoi5hang4-travel-example-2",
+      "sentence": "佢好鍾意同朋友一齊旅行。",
+      "jyutping": "keoi5 hou2 zung1 ji3 tung4 pang4 jau5 jat1 cai4 leoi5 hang4.",
+      "meaning": "He really likes travelling with friends.",
+      "sourceWordId": "leoi5hang4-travel",
+      "sourceWord": "旅行",
+      "sourceWordJyutping": "leoi5 hang4",
+      "sourceWordMeaning": "travel",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "holiday",
+        "common noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
+    },
+    {
+      "sentenceId": "leoi5hang4-travel-example-3",
+      "sentence": "暑假我哋計劃去歐洲旅行。",
+      "jyutping": "syu2 gaa3 ngo5 dei6 gai3 waak6 heoi3 au1 zau1 leoi5 hang4.",
+      "meaning": "We’re planning to travel to Europe during the summer holiday.",
+      "sourceWordId": "leoi5hang4-travel",
+      "sourceWord": "旅行",
+      "sourceWordJyutping": "leoi5 hang4",
+      "sourceWordMeaning": "travel",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "holiday",
+        "common noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
+    },
+    {
+      "sentenceId": "leoi5hang4-travel-example-4",
+      "sentence": "長途旅行最好早啲準備。",
+      "jyutping": "coeng4 tou4 leoi5 hang4 zeoi3 hou2 zou2 di1 zeon2 bei6.",
+      "meaning": "For long-distance travel, it’s best to prepare early.",
+      "sourceWordId": "leoi5hang4-travel",
+      "sourceWord": "旅行",
+      "sourceWordJyutping": "leoi5 hang4",
+      "sourceWordMeaning": "travel",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "holiday",
+        "common noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
+    },
+    {
+      "sentenceId": "saan3bou6-walking-example-1",
+      "sentence": "我哋食完飯去散步。",
+      "jyutping": "ngo5 dei6 sik6 jyun4 faan6 heoi3 saan3 bou6.",
+      "meaning": "We went for a walk after dinner.",
+      "sourceWordId": "saan3bou6-walking",
+      "sourceWord": "散步",
+      "sourceWordJyutping": "saan3 bou6",
+      "sourceWordMeaning": "walking",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "daily life",
+        "light exercise",
+        "beginner friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan3bou6-walking.json"
+    },
+    {
+      "sentenceId": "saan3bou6-walking-example-2",
+      "sentence": "佢每日黃昏都會落樓下散步。",
+      "jyutping": "keoi5 mui5 jat6 wong4 fan1 dou1 wui5 lok6 lau4 haa6 saan3 bou6.",
+      "meaning": "He goes downstairs for a walk every evening.",
+      "sourceWordId": "saan3bou6-walking",
+      "sourceWord": "散步",
+      "sourceWordJyutping": "saan3 bou6",
+      "sourceWordMeaning": "walking",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "daily life",
+        "light exercise",
+        "beginner friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan3bou6-walking.json"
+    },
+    {
+      "sentenceId": "saan3bou6-walking-example-3",
+      "sentence": "天氣咁好，最啱去海旁散步。",
+      "jyutping": "tin1 hei3 gam3 hou2, zeoi3 ngaam1 heoi3 hoi2 pong4 saan3 bou6.",
+      "meaning": "The weather is so nice; it’s perfect for a walk along the waterfront.",
+      "sourceWordId": "saan3bou6-walking",
+      "sourceWord": "散步",
+      "sourceWordJyutping": "saan3 bou6",
+      "sourceWordMeaning": "walking",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "daily life",
+        "light exercise",
+        "beginner friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan3bou6-walking.json"
+    },
+    {
+      "sentenceId": "saan3bou6-walking-example-4",
+      "sentence": "周末我鍾意同屋企人一齊散步。",
+      "jyutping": "zau1 mat6 ngo5 zung1 ji3 tung4 uk1 kei2 jan4 jat1 cai4 saan3 bou6.",
+      "meaning": "I like going for walks with my family on weekends.",
+      "sourceWordId": "saan3bou6-walking",
+      "sourceWord": "散步",
+      "sourceWordJyutping": "saan3 bou6",
+      "sourceWordMeaning": "walking",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "daily life",
+        "light exercise",
+        "beginner friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan3bou6-walking.json"
+    },
+    {
+      "sentenceId": "gun1niu5-birdwatching-example-1",
+      "sentence": "我假日成日去觀鳥。",
+      "jyutping": "ngo5 gaa2jat6 sing4 jat6 heoi3 gun1 niu5.",
+      "meaning": "I often go birdwatching on my days off.",
+      "sourceWordId": "gun1niu5-birdwatching",
+      "sourceWord": "觀鳥",
+      "sourceWordJyutping": "gun1 niu5",
+      "sourceWordMeaning": "birdwatching",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "nature",
+        "leisure",
+        "animal watching",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1niu5-birdwatching.json"
+    },
+    {
+      "sentenceId": "gun1niu5-birdwatching-example-2",
+      "sentence": "佢鍾意喺濕地公園觀鳥。",
+      "jyutping": "keoi5 zung1ji3 hai2 sap1dei6 gung1jyun4 gun1 niu5.",
+      "meaning": "He/She likes birdwatching at the wetland park.",
+      "sourceWordId": "gun1niu5-birdwatching",
+      "sourceWord": "觀鳥",
+      "sourceWordJyutping": "gun1 niu5",
+      "sourceWordMeaning": "birdwatching",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "nature",
+        "leisure",
+        "animal watching",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1niu5-birdwatching.json"
+    },
+    {
+      "sentenceId": "gun1niu5-birdwatching-example-3",
+      "sentence": "春天係觀鳥嘅好季節。",
+      "jyutping": "ceon1tin1 hai6 gun1 niu5 ge3 hou2 gwai3zit3.",
+      "meaning": "Spring is a good season for birdwatching.",
+      "sourceWordId": "gun1niu5-birdwatching",
+      "sourceWord": "觀鳥",
+      "sourceWordJyutping": "gun1 niu5",
+      "sourceWordMeaning": "birdwatching",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "nature",
+        "leisure",
+        "animal watching",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1niu5-birdwatching.json"
+    },
+    {
+      "sentenceId": "gun1niu5-birdwatching-example-4",
+      "sentence": "老師帶學生去郊外觀鳥。",
+      "jyutping": "laau5si1 daai3 hok6saang1 heoi3 gaau1ngoi6 gun1 niu5.",
+      "meaning": "The teacher took the students birdwatching in the countryside.",
+      "sourceWordId": "gun1niu5-birdwatching",
+      "sourceWord": "觀鳥",
+      "sourceWordJyutping": "gun1 niu5",
+      "sourceWordMeaning": "birdwatching",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "nature",
+        "leisure",
+        "animal watching",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1niu5-birdwatching.json"
+    },
+    {
+      "sentenceId": "jyun4ngai6-gardening-example-1",
+      "sentence": "我細個開始就好鍾意園藝。",
+      "jyutping": "ngo5 sai3 go3 hoi2 si2 zau6 hou2 zung1 ji3 jyun4 ngai6.",
+      "meaning": "I’ve liked gardening since I was young.",
+      "sourceWordId": "jyun4ngai6-gardening",
+      "sourceWord": "園藝",
+      "sourceWordJyutping": "jyun4 ngai6",
+      "sourceWordMeaning": "gardening",
+      "tags": [
+        "hobbies",
+        "outdoor activities",
+        "home and garden",
+        "plants",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4ngai6-gardening.json"
+    },
+    {
+      "sentenceId": "jyun4ngai6-gardening-example-2",
+      "sentence": "佢周末成日喺屋企後園做園藝。",
+      "jyutping": "keoi5 zau1 mak6 sing4 jat6 hai2 uk1 kei4 hau6 jyun4 zou6 jyun4 ngai6.",
+      "meaning": "He often does gardening in the backyard on weekends.",
+      "sourceWordId": "jyun4ngai6-gardening",
+      "sourceWord": "園藝",
+      "sourceWordJyutping": "jyun4 ngai6",
+      "sourceWordMeaning": "gardening",
+      "tags": [
+        "hobbies",
+        "outdoor activities",
+        "home and garden",
+        "plants",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4ngai6-gardening.json"
+    },
+    {
+      "sentenceId": "jyun4ngai6-gardening-example-3",
+      "sentence": "呢間學校有園藝班。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 jyun4 ngai6 baan1.",
+      "meaning": "This school has a gardening class.",
+      "sourceWordId": "jyun4ngai6-gardening",
+      "sourceWord": "園藝",
+      "sourceWordJyutping": "jyun4 ngai6",
+      "sourceWordMeaning": "gardening",
+      "tags": [
+        "hobbies",
+        "outdoor activities",
+        "home and garden",
+        "plants",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4ngai6-gardening.json"
+    },
+    {
+      "sentenceId": "jyun4ngai6-gardening-example-4",
+      "sentence": "阿媽退休之後迷上咗園藝。",
+      "jyutping": "aa3 maa1 tui3 jau1 zi1 hau6 mai4 soeng6 zo2 jyun4 ngai6.",
+      "meaning": "My mom became obsessed with gardening after retirement.",
+      "sourceWordId": "jyun4ngai6-gardening",
+      "sourceWord": "園藝",
+      "sourceWordJyutping": "jyun4 ngai6",
+      "sourceWordMeaning": "gardening",
+      "tags": [
+        "hobbies",
+        "outdoor activities",
+        "home and garden",
+        "plants",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4ngai6-gardening.json"
+    },
+    {
+      "sentenceId": "jing2soeng2-taking-photos-example-1",
+      "sentence": "我鍾意去公園影相。",
+      "jyutping": "ngo5 zung1 ji3 heoi3 gung1 jyun4 jing2 soeng2.",
+      "meaning": "I like going to the park to take photos.",
+      "sourceWordId": "jing2soeng2-taking-photos",
+      "sourceWord": "影相",
+      "sourceWordJyutping": "jing2 soeng2",
+      "sourceWordMeaning": "taking photos",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "photography",
+        "daily conversation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2soeng2-taking-photos.json"
+    },
+    {
+      "sentenceId": "jing2soeng2-taking-photos-example-2",
+      "sentence": "你可唔可以幫我影相？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 jing2 soeng2?",
+      "meaning": "Can you help me take a photo?",
+      "sourceWordId": "jing2soeng2-taking-photos",
+      "sourceWord": "影相",
+      "sourceWordJyutping": "jing2 soeng2",
+      "sourceWordMeaning": "taking photos",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "photography",
+        "daily conversation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2soeng2-taking-photos.json"
+    },
+    {
+      "sentenceId": "jing2soeng2-taking-photos-example-3",
+      "sentence": "佢成日用手機影相。",
+      "jyutping": "keoi5 seng4 jat6 jung6 sau2 gei1 jing2 soeng2.",
+      "meaning": "He/she often takes photos with a phone.",
+      "sourceWordId": "jing2soeng2-taking-photos",
+      "sourceWord": "影相",
+      "sourceWordJyutping": "jing2 soeng2",
+      "sourceWordMeaning": "taking photos",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "photography",
+        "daily conversation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2soeng2-taking-photos.json"
+    },
+    {
+      "sentenceId": "jing2soeng2-taking-photos-example-4",
+      "sentence": "去旅行最啱影相。",
+      "jyutping": "heoi3 leoi5 hang4 zeoi3 aam1 jing2 soeng2.",
+      "meaning": "Taking photos is best when travelling.",
+      "sourceWordId": "jing2soeng2-taking-photos",
+      "sourceWord": "影相",
+      "sourceWordJyutping": "jing2 soeng2",
+      "sourceWordMeaning": "taking photos",
+      "tags": [
+        "hobbies",
+        "interests",
+        "outdoor activities",
+        "photography",
+        "daily conversation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2soeng2-taking-photos.json"
+    },
+    {
+      "sentenceId": "caam1gun1-visit-example-1",
+      "sentence": "我哋聽日去參觀博物館。",
+      "jyutping": "ngo5 de2 ting1 jat6 heoi3 caam1 gun1 bok3 mat6 gun2.",
+      "meaning": "We are going to visit the museum tomorrow.",
+      "sourceWordId": "caam1gun1-visit",
+      "sourceWord": "參觀",
+      "sourceWordJyutping": "caam1 gun1",
+      "sourceWordMeaning": "visit",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "sightseeing",
+        "education",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caam1gun1-visit.json"
+    },
+    {
+      "sentenceId": "caam1gun1-visit-example-2",
+      "sentence": "老師帶我哋參觀學校。",
+      "jyutping": "lou5 si1 daai3 ngo5 dei2 caam1 gun1 hok6 haau6.",
+      "meaning": "The teacher took us on a visit around the school.",
+      "sourceWordId": "caam1gun1-visit",
+      "sourceWord": "參觀",
+      "sourceWordJyutping": "caam1 gun1",
+      "sourceWordMeaning": "visit",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "sightseeing",
+        "education",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caam1gun1-visit.json"
+    },
+    {
+      "sentenceId": "caam1gun1-visit-example-3",
+      "sentence": "佢好鍾意參觀歷史古蹟。",
+      "jyutping": "keoi5 hou2 zung1 ji3 caam1 gun1 lik6 si2 gu2 zik1.",
+      "meaning": "He/She likes visiting historical sites.",
+      "sourceWordId": "caam1gun1-visit",
+      "sourceWord": "參觀",
+      "sourceWordJyutping": "caam1 gun1",
+      "sourceWordMeaning": "visit",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "sightseeing",
+        "education",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caam1gun1-visit.json"
+    },
+    {
+      "sentenceId": "caam1gun1-visit-example-4",
+      "sentence": "周末我哋會去參觀展覽。",
+      "jyutping": "zau1 mat6 ngo5 dei2 wui5 heoi3 caam1 gun1 zin2 laan6.",
+      "meaning": "We will go visit the exhibition on the weekend.",
+      "sourceWordId": "caam1gun1-visit",
+      "sourceWord": "參觀",
+      "sourceWordJyutping": "caam1 gun1",
+      "sourceWordMeaning": "visit",
+      "tags": [
+        "hobbies and interests",
+        "outdoor activities",
+        "travel",
+        "sightseeing",
+        "education",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caam1gun1-visit.json"
+    },
+    {
+      "sentenceId": "waa2waa2-drawing-example-1",
+      "sentence": "我細個好鍾意畫畫。",
+      "jyutping": "ngo5 sai3 go3 hou2 zung1 ji3 waa2 waa2.",
+      "meaning": "I liked drawing a lot when I was young.",
+      "sourceWordId": "waa2waa2-drawing",
+      "sourceWord": "畫畫",
+      "sourceWordJyutping": "waa2 waa2",
+      "sourceWordMeaning": "drawing",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "beginner",
+        "everyday Cantonese",
+        "spoken language",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waa2waa2-drawing.json"
+    },
+    {
+      "sentenceId": "waa2waa2-drawing-example-2",
+      "sentence": "佢喺屋企成日畫畫。",
+      "jyutping": "keoi5 hai2 uk1 kei2 sing4 jat6 waa2 waa2.",
+      "meaning": "He/she draws at home all the time.",
+      "sourceWordId": "waa2waa2-drawing",
+      "sourceWord": "畫畫",
+      "sourceWordJyutping": "waa2 waa2",
+      "sourceWordMeaning": "drawing",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "beginner",
+        "everyday Cantonese",
+        "spoken language",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waa2waa2-drawing.json"
+    },
+    {
+      "sentenceId": "waa2waa2-drawing-example-3",
+      "sentence": "放學之後，我會去上畫畫班。",
+      "jyutping": "fong3 hok6 zi1 hau6, ngo5 wui5 heoi3 soeng6 waa2 waa2 baan1.",
+      "meaning": "After school, I go to drawing class.",
+      "sourceWordId": "waa2waa2-drawing",
+      "sourceWord": "畫畫",
+      "sourceWordJyutping": "waa2 waa2",
+      "sourceWordMeaning": "drawing",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "beginner",
+        "everyday Cantonese",
+        "spoken language",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waa2waa2-drawing.json"
+    },
+    {
+      "sentenceId": "waa2waa2-drawing-example-4",
+      "sentence": "呢幅畫係阿女自己畫畫學返嚟嘅。",
+      "jyutping": "ni1 fuk1 waa2 hai6 aa3 neoi5 zi6 gei2 waa2 waa2 hok6 faan1 lai4 ge3.",
+      "meaning": "This picture was learned by my daughter herself through drawing lessons.",
+      "sourceWordId": "waa2waa2-drawing",
+      "sourceWord": "畫畫",
+      "sourceWordJyutping": "waa2 waa2",
+      "sourceWordMeaning": "drawing",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "beginner",
+        "everyday Cantonese",
+        "spoken language",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waa2waa2-drawing.json"
+    },
+    {
+      "sentenceId": "se2zok3-writing-example-1",
+      "sentence": "我對寫作好有興趣。",
+      "jyutping": "ngo5 deoi3 se2 zok3 hou2 jau5 hing3 ceoi3.",
+      "meaning": "I’m really interested in writing.",
+      "sourceWordId": "se2zok3-writing",
+      "sourceWord": "寫作",
+      "sourceWordJyutping": "se2 zok3",
+      "sourceWordMeaning": "writing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts",
+        "creative",
+        "school",
+        "writing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se2zok3-writing.json"
+    },
+    {
+      "sentenceId": "se2zok3-writing-example-2",
+      "sentence": "佢喺學校參加咗寫作比賽。",
+      "jyutping": "keoi5 hai2 hok6 haau6 caam1 gaa1 zo2 se2 zok3 bei2 coi3.",
+      "meaning": "He/She joined a writing competition at school.",
+      "sourceWordId": "se2zok3-writing",
+      "sourceWord": "寫作",
+      "sourceWordJyutping": "se2 zok3",
+      "sourceWordMeaning": "writing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts",
+        "creative",
+        "school",
+        "writing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se2zok3-writing.json"
+    },
+    {
+      "sentenceId": "se2zok3-writing-example-3",
+      "sentence": "寫作可以訓練我哋嘅表達能力。",
+      "jyutping": "se2 zok3 ho2 ji5 fan3 lin6 ngo5 dei6 ge3 biu2 dat6 nang4 lik6.",
+      "meaning": "Writing can train our ability to express ourselves.",
+      "sourceWordId": "se2zok3-writing",
+      "sourceWord": "寫作",
+      "sourceWordJyutping": "se2 zok3",
+      "sourceWordMeaning": "writing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts",
+        "creative",
+        "school",
+        "writing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se2zok3-writing.json"
+    },
+    {
+      "sentenceId": "se2zok3-writing-example-4",
+      "sentence": "佢成日夜晚都會做寫作練習。",
+      "jyutping": "keoi5 sing4 jat6 je6 maan5 dou1 wui5 zou6 se2 zok3 lin6 zaap6.",
+      "meaning": "He/She often does writing अभ्यास/practice at night.",
+      "sourceWordId": "se2zok3-writing",
+      "sourceWord": "寫作",
+      "sourceWordJyutping": "se2 zok3",
+      "sourceWordMeaning": "writing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts",
+        "creative",
+        "school",
+        "writing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se2zok3-writing.json"
+    },
+    {
+      "sentenceId": "sip3jing2-photography-example-1",
+      "sentence": "我細個已經對攝影好有興趣。",
+      "jyutping": "ngo5 sai3 go2 ji5 ging1 deoi3 sip3 jing2 hou2 jau5 hing3 ceoi3.",
+      "meaning": "I’ve been interested in photography since I was young.",
+      "sourceWordId": "sip3jing2-photography",
+      "sourceWord": "攝影",
+      "sourceWordJyutping": "sip3 jing2",
+      "sourceWordMeaning": "photography",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "noun",
+        "everyday",
+        "neutral",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2-photography.json"
+    },
+    {
+      "sentenceId": "sip3jing2-photography-example-2",
+      "sentence": "呢間學校有攝影班。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 sip3 jing2 baan1.",
+      "meaning": "This school has a photography class.",
+      "sourceWordId": "sip3jing2-photography",
+      "sourceWord": "攝影",
+      "sourceWordJyutping": "sip3 jing2",
+      "sourceWordMeaning": "photography",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "noun",
+        "everyday",
+        "neutral",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2-photography.json"
+    },
+    {
+      "sentenceId": "sip3jing2-photography-example-3",
+      "sentence": "佢平時鍾意影風景相，尤其係攝影。",
+      "jyutping": "keoi5 ping4 si4 zung1 ji3 jing2 fung1 ging2 soeng1, jau4 kei4 hai6 sip3 jing2.",
+      "meaning": "He usually likes taking landscape photos, especially photography.",
+      "sourceWordId": "sip3jing2-photography",
+      "sourceWord": "攝影",
+      "sourceWordJyutping": "sip3 jing2",
+      "sourceWordMeaning": "photography",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "noun",
+        "everyday",
+        "neutral",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2-photography.json"
+    },
+    {
+      "sentenceId": "sip3jing2-photography-example-4",
+      "sentence": "我想買部新相機，認真學攝影。",
+      "jyutping": "ngo5 soeng2 maai5 bou6 san1 soeng2 gei1, jing6 zan1 hok6 sip3 jing2.",
+      "meaning": "I want to buy a new camera and seriously learn photography.",
+      "sourceWordId": "sip3jing2-photography",
+      "sourceWord": "攝影",
+      "sourceWordJyutping": "sip3 jing2",
+      "sourceWordMeaning": "photography",
+      "tags": [
+        "hobbies",
+        "arts",
+        "creative",
+        "noun",
+        "everyday",
+        "neutral",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2-photography.json"
+    },
+    {
+      "sentenceId": "sau2gung1-crafts-example-1",
+      "sentence": "我細個成日喺屋企做手工。",
+      "jyutping": "ngo5 sai3 go3 sing4 jat6 hai2 uk1 kei2 zou6 sau2 gung1.",
+      "meaning": "I used to do crafts at home all the time when I was young.",
+      "sourceWordId": "sau2gung1-crafts",
+      "sourceWord": "手工",
+      "sourceWordJyutping": "sau2 gung1",
+      "sourceWordMeaning": "crafts",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "DIY",
+        "creative activities",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau2gung1-crafts.json"
+    },
+    {
+      "sentenceId": "sau2gung1-crafts-example-2",
+      "sentence": "呢個手工卡片係我自己整嘅。",
+      "jyutping": "ni1 go3 sau2 gung1 kaa1 pin2 hai6 ngo5 zi6 gei2 zing2 ge3.",
+      "meaning": "This handmade card was made by me.",
+      "sourceWordId": "sau2gung1-crafts",
+      "sourceWord": "手工",
+      "sourceWordJyutping": "sau2 gung1",
+      "sourceWordMeaning": "crafts",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "DIY",
+        "creative activities",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau2gung1-crafts.json"
+    },
+    {
+      "sentenceId": "sau2gung1-crafts-example-3",
+      "sentence": "星期六我會帶小朋友去上手工班。",
+      "jyutping": "sing1 kei4 luk6 ngo5 wui5 daai3 siu2 pang4 jau4 heoi3 soeng5 sau2 gung1 baan1.",
+      "meaning": "On Saturday I’ll take the kids to a craft class.",
+      "sourceWordId": "sau2gung1-crafts",
+      "sourceWord": "手工",
+      "sourceWordJyutping": "sau2 gung1",
+      "sourceWordMeaning": "crafts",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "DIY",
+        "creative activities",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau2gung1-crafts.json"
+    },
+    {
+      "sentenceId": "sau2gung1-crafts-example-4",
+      "sentence": "佢最鍾意嘅興趣係摺紙同做手工。",
+      "jyutping": "keoi5 zeoi3 zung1 ji3 ge3 hing3 ceoi3 hai6 zip3 zi2 tung4 zou6 sau2 gung1.",
+      "meaning": "His favorite hobby is paper folding and crafts.",
+      "sourceWordId": "sau2gung1-crafts",
+      "sourceWord": "手工",
+      "sourceWordJyutping": "sau2 gung1",
+      "sourceWordMeaning": "crafts",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "DIY",
+        "creative activities",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau2gung1-crafts.json"
+    },
+    {
+      "sentenceId": "pin1zik1-knitting-example-1",
+      "sentence": "我阿媽成日喺屋企編織頸巾。",
+      "jyutping": "ngo5 aa3 maa1 sing4 jat6 hai2 uk1 kei2 pin1 zik1 geng2 gan1.",
+      "meaning": "My mom often knits scarves at home.",
+      "sourceWordId": "pin1zik1-knitting",
+      "sourceWord": "編織",
+      "sourceWordJyutping": "pin1 zik1",
+      "sourceWordMeaning": "knitting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts and crafts",
+        "creative",
+        "beginner-friendly",
+        "noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zik1-knitting.json"
+    },
+    {
+      "sentenceId": "pin1zik1-knitting-example-2",
+      "sentence": "佢最近學編織，覺得幾有趣。",
+      "jyutping": "keoi5 zeoi3 gan6 hok6 pin1 zik1, gok3 dak1 gei2 jau5 ceoi3.",
+      "meaning": "He has recently started learning knitting and finds it quite interesting.",
+      "sourceWordId": "pin1zik1-knitting",
+      "sourceWord": "編織",
+      "sourceWordJyutping": "pin1 zik1",
+      "sourceWordMeaning": "knitting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts and crafts",
+        "creative",
+        "beginner-friendly",
+        "noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zik1-knitting.json"
+    },
+    {
+      "sentenceId": "pin1zik1-knitting-example-3",
+      "sentence": "呢間舖頭有賣編織用嘅毛線同工具。",
+      "jyutping": "ni1 gaan1 pou3 tau4 jau5 maai6 pin1 zik1 jung6 ge3 mou4 sin3 tung4 gung1 geoi6.",
+      "meaning": "This shop sells yarn and tools for knitting.",
+      "sourceWordId": "pin1zik1-knitting",
+      "sourceWord": "編織",
+      "sourceWordJyutping": "pin1 zik1",
+      "sourceWordMeaning": "knitting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts and crafts",
+        "creative",
+        "beginner-friendly",
+        "noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zik1-knitting.json"
+    },
+    {
+      "sentenceId": "pin1zik1-knitting-example-4",
+      "sentence": "編織對我嚟講係一種好放鬆嘅興趣。",
+      "jyutping": "pin1 zik1 deoi3 ngo5 lai4 gong2 hai6 jat1 zung2 hou2 fong3 sung1 ge3 hing3 ceoi3.",
+      "meaning": "For me, knitting is a very relaxing hobby.",
+      "sourceWordId": "pin1zik1-knitting",
+      "sourceWord": "編織",
+      "sourceWordJyutping": "pin1 zik1",
+      "sourceWordMeaning": "knitting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "arts and crafts",
+        "creative",
+        "beginner-friendly",
+        "noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zik1-knitting.json"
+    },
+    {
+      "sentenceId": "tou4sik1-colouring-example-1",
+      "sentence": "小朋友好鍾意塗色。",
+      "jyutping": "siu2 pang4 jau5 hou2 zung1 ji3 tou4 sik1",
+      "meaning": "Children really like colouring.",
+      "sourceWordId": "tou4sik1-colouring",
+      "sourceWord": "塗色",
+      "sourceWordJyutping": "tou4 sik1",
+      "sourceWordMeaning": "colouring",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "school",
+        "children's activities",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou4sik1-colouring.json"
+    },
+    {
+      "sentenceId": "tou4sik1-colouring-example-2",
+      "sentence": "老師派咗塗色工作紙俾我哋。",
+      "jyutping": "lou5 si1 paai3 zo2 tou4 sik1 gung1 zok3 zi2 bei2 ngo5 dei6",
+      "meaning": "The teacher handed out a colouring worksheet to us.",
+      "sourceWordId": "tou4sik1-colouring",
+      "sourceWord": "塗色",
+      "sourceWordJyutping": "tou4 sik1",
+      "sourceWordMeaning": "colouring",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "school",
+        "children's activities",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou4sik1-colouring.json"
+    },
+    {
+      "sentenceId": "tou4sik1-colouring-example-3",
+      "sentence": "你可唔可以幫我塗色呀？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 tou4 sik1 aa3",
+      "meaning": "Can you help me colour it?",
+      "sourceWordId": "tou4sik1-colouring",
+      "sourceWord": "塗色",
+      "sourceWordJyutping": "tou4 sik1",
+      "sourceWordMeaning": "colouring",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "school",
+        "children's activities",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou4sik1-colouring.json"
+    },
+    {
+      "sentenceId": "tou4sik1-colouring-example-4",
+      "sentence": "佢用咗蠟筆嚟塗色。",
+      "jyutping": "keoi5 jung6 zo2 laap6 ban2 lai4 tou4 sik1",
+      "meaning": "He/She used crayons to colour.",
+      "sourceWordId": "tou4sik1-colouring",
+      "sourceWord": "塗色",
+      "sourceWordJyutping": "tou4 sik1",
+      "sourceWordMeaning": "colouring",
+      "tags": [
+        "hobbies",
+        "arts and crafts",
+        "school",
+        "children's activities",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou4sik1-colouring.json"
+    },
+    {
+      "sentenceId": "cai3mou4jing4-models-example-1",
+      "sentence": "我細個好鍾意砌模型。",
+      "jyutping": "ngo5 sai3 go3 hou2 zung1 ji3 cai3 mou4 jing4.",
+      "meaning": "I loved building models when I was young.",
+      "sourceWordId": "cai3mou4jing4-models",
+      "sourceWord": "砌模型",
+      "sourceWordJyutping": "cai3 mou4 jing4",
+      "sourceWordMeaning": "models",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "toy building",
+        "beginner-friendly",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cai3mou4jing4-models.json"
+    },
+    {
+      "sentenceId": "cai3mou4jing4-models-example-2",
+      "sentence": "佢周末成日喺屋企砌模型。",
+      "jyutping": "keoi5 zau1 mat6 sing4 jat6 hai2 uk1 kei2 cai3 mou4 jing4.",
+      "meaning": "He often builds models at home on weekends.",
+      "sourceWordId": "cai3mou4jing4-models",
+      "sourceWord": "砌模型",
+      "sourceWordJyutping": "cai3 mou4 jing4",
+      "sourceWordMeaning": "models",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "toy building",
+        "beginner-friendly",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cai3mou4jing4-models.json"
+    },
+    {
+      "sentenceId": "cai3mou4jing4-models-example-3",
+      "sentence": "呢盒砌模型好難，不過好有滿足感。",
+      "jyutping": "ni1 hap6 cai3 mou4 jing4 hou2 naan4, bat1 gwo3 hou2 jau5 mun5 zuk1 gam2.",
+      "meaning": "This model kit is difficult, but very satisfying.",
+      "sourceWordId": "cai3mou4jing4-models",
+      "sourceWord": "砌模型",
+      "sourceWordJyutping": "cai3 mou4 jing4",
+      "sourceWordMeaning": "models",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "toy building",
+        "beginner-friendly",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cai3mou4jing4-models.json"
+    },
+    {
+      "sentenceId": "cai3mou4jing4-models-example-4",
+      "sentence": "阿爸買咗一套新嘅砌模型俾我。",
+      "jyutping": "aa3 baa4 maai5 zo2 jat1 tou3 san1 ge3 cai3 mou4 jing4 bei2 ngo5.",
+      "meaning": "Dad bought me a new model kit.",
+      "sourceWordId": "cai3mou4jing4-models",
+      "sourceWord": "砌模型",
+      "sourceWordJyutping": "cai3 mou4 jing4",
+      "sourceWordMeaning": "models",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "toy building",
+        "beginner-friendly",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cai3mou4jing4-models.json"
+    },
+    {
+      "sentenceId": "caap3faa1-flower-arranging-example-1",
+      "sentence": "我近排開始學插花。",
+      "jyutping": "ngo5 gan6 paai4 hoi1 ci2 hok6 caap3 faa1.",
+      "meaning": "I recently started learning flower arranging.",
+      "sourceWordId": "caap3faa1-flower-arranging",
+      "sourceWord": "插花",
+      "sourceWordJyutping": "caap3 faa1",
+      "sourceWordMeaning": "flower arranging",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "creative",
+        "home decoration",
+        "beginner-friendly",
+        "classes",
+        "workshop",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caap3faa1-flower-arranging.json"
+    },
+    {
+      "sentenceId": "caap3faa1-flower-arranging-example-2",
+      "sentence": "阿媽週末最鍾意插花。",
+      "jyutping": "a3 maa1 zau1 mat6 zeoi3 zung1 ji3 caap3 faa1.",
+      "meaning": "My mum likes flower arranging most on weekends.",
+      "sourceWordId": "caap3faa1-flower-arranging",
+      "sourceWord": "插花",
+      "sourceWordJyutping": "caap3 faa1",
+      "sourceWordMeaning": "flower arranging",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "creative",
+        "home decoration",
+        "beginner-friendly",
+        "classes",
+        "workshop",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caap3faa1-flower-arranging.json"
+    },
+    {
+      "sentenceId": "caap3faa1-flower-arranging-example-3",
+      "sentence": "呢間社區中心有插花班。",
+      "jyutping": "ni1 gaan1 so2 keoi1 zung1 sam1 jau5 caap3 faa1 baan1.",
+      "meaning": "This community centre has a flower-arranging class.",
+      "sourceWordId": "caap3faa1-flower-arranging",
+      "sourceWord": "插花",
+      "sourceWordJyutping": "caap3 faa1",
+      "sourceWordMeaning": "flower arranging",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "creative",
+        "home decoration",
+        "beginner-friendly",
+        "classes",
+        "workshop",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caap3faa1-flower-arranging.json"
+    },
+    {
+      "sentenceId": "caap3faa1-flower-arranging-example-4",
+      "sentence": "佢喺屋企整咗一盆插花。",
+      "jyutping": "keoi5 hai2 uk1 kei2 zing2 zo2 jat1 bun4 caap3 faa1.",
+      "meaning": "He/She made a flower arrangement at home.",
+      "sourceWordId": "caap3faa1-flower-arranging",
+      "sourceWord": "插花",
+      "sourceWordJyutping": "caap3 faa1",
+      "sourceWordMeaning": "flower arranging",
+      "tags": [
+        "hobby",
+        "arts and crafts",
+        "creative",
+        "home decoration",
+        "beginner-friendly",
+        "classes",
+        "workshop",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caap3faa1-flower-arranging.json"
+    },
+    {
+      "sentenceId": "luk6jing2-filming-example-1",
+      "sentence": "今日我哋去公園做錄影。",
+      "jyutping": "gam1 jat6 ngo5dei6 heoi3 gung1 jyun4 zou6 luk6 jing2.",
+      "meaning": "Today we went to the park to do filming.",
+      "sourceWordId": "luk6jing2-filming",
+      "sourceWord": "錄影",
+      "sourceWordJyutping": "luk6 jing2",
+      "sourceWordMeaning": "filming",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "media",
+        "video recording",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jing2-filming.json"
+    },
+    {
+      "sentenceId": "luk6jing2-filming-example-2",
+      "sentence": "呢段錄影好清楚，睇得好舒服。",
+      "jyutping": "ni1 dyun6 luk6 jing2 hou2 cing1 co2, tai2 dak1 hou2 syu1 fuk6.",
+      "meaning": "This recording is very clear and easy to watch.",
+      "sourceWordId": "luk6jing2-filming",
+      "sourceWord": "錄影",
+      "sourceWordJyutping": "luk6 jing2",
+      "sourceWordMeaning": "filming",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "media",
+        "video recording",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jing2-filming.json"
+    },
+    {
+      "sentenceId": "luk6jing2-filming-example-3",
+      "sentence": "我想學錄影，將來可以自己拍片。",
+      "jyutping": "ngo5 soeng2 hok6 luk6 jing2, zoeng1 loi4 ho2 ji5 zi6 gei2 paak3 pin2.",
+      "meaning": "I want to learn filming so I can make my own videos in the future.",
+      "sourceWordId": "luk6jing2-filming",
+      "sourceWord": "錄影",
+      "sourceWordJyutping": "luk6 jing2",
+      "sourceWordMeaning": "filming",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "media",
+        "video recording",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jing2-filming.json"
+    },
+    {
+      "sentenceId": "luk6jing2-filming-example-4",
+      "sentence": "比賽完之後，老師叫我哋睇返啲錄影。",
+      "jyutping": "bei2 coi3 jyun4 zi1 hau6, lou5 si1 giu3 ngo5dei6 tai2 faan1 di1 luk6 jing2.",
+      "meaning": "After the competition, the teacher asked us to watch the recording again.",
+      "sourceWordId": "luk6jing2-filming",
+      "sourceWord": "錄影",
+      "sourceWordJyutping": "luk6 jing2",
+      "sourceWordMeaning": "filming",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "media",
+        "video recording",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jing2-filming.json"
+    },
+    {
+      "sentenceId": "ceot1baan2-publishing-example-1",
+      "sentence": "呢本書由一間本地出版社出版。",
+      "jyutping": "ni1 bun2 syu1 jyu4 jat1 gaan1 bun2 dei6 ceot1 baan2 cin4 soeng2 ceot1 baan2.",
+      "meaning": "This book was published by a local publisher.",
+      "sourceWordId": "ceot1baan2-publishing",
+      "sourceWord": "出版",
+      "sourceWordJyutping": "ceot1 baan2",
+      "sourceWordMeaning": "publishing",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "books and media",
+        "formal vocabulary",
+        "publishing industry",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ceot1baan2-publishing.json"
+    },
+    {
+      "sentenceId": "ceot1baan2-publishing-example-2",
+      "sentence": "佢想喺大學畢業之後做出版工作。",
+      "jyutping": "keoi5 soeng2 hai2 daai6 hok6 bat1 jip6 zi1 hau6 zou6 ceot1 baan2 gung1 zok3.",
+      "meaning": "He wants to work in publishing after graduating from university.",
+      "sourceWordId": "ceot1baan2-publishing",
+      "sourceWord": "出版",
+      "sourceWordJyutping": "ceot1 baan2",
+      "sourceWordMeaning": "publishing",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "books and media",
+        "formal vocabulary",
+        "publishing industry",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ceot1baan2-publishing.json"
+    },
+    {
+      "sentenceId": "ceot1baan2-publishing-example-3",
+      "sentence": "呢間公司專做兒童讀物出版。",
+      "jyutping": "ni1 gaan1 gung1 si1 zyun1 zou6 ji4 tung4 duk6 mat6 ceot1 baan2.",
+      "meaning": "This company specializes in publishing children's books.",
+      "sourceWordId": "ceot1baan2-publishing",
+      "sourceWord": "出版",
+      "sourceWordJyutping": "ceot1 baan2",
+      "sourceWordMeaning": "publishing",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "books and media",
+        "formal vocabulary",
+        "publishing industry",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ceot1baan2-publishing.json"
+    },
+    {
+      "sentenceId": "ceot1baan2-publishing-example-4",
+      "sentence": "新版出版之後，好多人都去買。",
+      "jyutping": "san1 baan2 ceot1 baan2 zi1 hau6, hou2 do1 jan4 dou1 heoi3 maai5.",
+      "meaning": "After the new edition was published, many people went to buy it.",
+      "sourceWordId": "ceot1baan2-publishing",
+      "sourceWord": "出版",
+      "sourceWordJyutping": "ceot1 baan2",
+      "sourceWordMeaning": "publishing",
+      "tags": [
+        "hobbies and interests",
+        "arts and creative",
+        "books and media",
+        "formal vocabulary",
+        "publishing industry",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ceot1baan2-publishing.json"
+    },
+    {
+      "sentenceId": "coeng3go1-singing-example-1",
+      "sentence": "我細個已經好鍾意唱歌。",
+      "jyutping": "ngo5 sai3 go3 ji5 ging1 hou2 zung1 ji3 coeng3 go1.",
+      "meaning": "I’ve liked singing since I was little.",
+      "sourceWordId": "coeng3go1-singing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "singing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "vocal",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-singing.json"
+    },
+    {
+      "sentenceId": "coeng3go1-singing-example-2",
+      "sentence": "佢成日喺屋企唱歌。",
+      "jyutping": "keoi5 sing4 jat6 hai2 uk1 kei2 coeng3 go1.",
+      "meaning": "He/She sings at home all the time.",
+      "sourceWordId": "coeng3go1-singing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "singing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "vocal",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-singing.json"
+    },
+    {
+      "sentenceId": "coeng3go1-singing-example-3",
+      "sentence": "老師話我唱歌有進步。",
+      "jyutping": "lou5 si1 waa6 ngo5 coeng3 go1 jau5 zeon3 bou6.",
+      "meaning": "The teacher said my singing has improved.",
+      "sourceWordId": "coeng3go1-singing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "singing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "vocal",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-singing.json"
+    },
+    {
+      "sentenceId": "coeng3go1-singing-example-4",
+      "sentence": "佢哋一齊唱歌慶祝生日。",
+      "jyutping": "keoi5 dei6 jat1 cai4 coeng3 go1 hing3 zuk1 sang1 jat6.",
+      "meaning": "They sang together to celebrate a birthday.",
+      "sourceWordId": "coeng3go1-singing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "singing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "vocal",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-singing.json"
+    },
+    {
+      "sentenceId": "teng1jam1ngok6-listening-to-music-example-1",
+      "sentence": "我每日都會聽音樂放鬆吓。",
+      "jyutping": "ngo5 mei5 jat6 dou1 wui5 teng1 jam1 ngok6 fong3 sung1 haa5",
+      "meaning": "I listen to music every day to relax a bit.",
+      "sourceWordId": "teng1jam1ngok6-listening-to-music",
+      "sourceWord": "聽音樂",
+      "sourceWordJyutping": "teng1 jam1 ngok6",
+      "sourceWordMeaning": "listening to music",
+      "tags": [
+        "hobby",
+        "music",
+        "daily activity",
+        "beginner",
+        "noun phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1jam1ngok6-listening-to-music.json"
+    },
+    {
+      "sentenceId": "teng1jam1ngok6-listening-to-music-example-2",
+      "sentence": "佢搭車返工嗰陣好鍾意聽音樂。",
+      "jyutping": "keoi5 daap3 ce1 faan1 gung1 go2 zan6 hou2 zung1 ji3 teng1 jam1 ngok6",
+      "meaning": "He likes listening to music a lot when commuting to work.",
+      "sourceWordId": "teng1jam1ngok6-listening-to-music",
+      "sourceWord": "聽音樂",
+      "sourceWordJyutping": "teng1 jam1 ngok6",
+      "sourceWordMeaning": "listening to music",
+      "tags": [
+        "hobby",
+        "music",
+        "daily activity",
+        "beginner",
+        "noun phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1jam1ngok6-listening-to-music.json"
+    },
+    {
+      "sentenceId": "teng1jam1ngok6-listening-to-music-example-3",
+      "sentence": "做功課嘅時候，我唔會聽音樂。",
+      "jyutping": "zou6 gung1 fo3 ge3 si4 hau6, ngo5 m4 wui5 teng1 jam1 ngok6",
+      "meaning": "When doing homework, I don’t listen to music.",
+      "sourceWordId": "teng1jam1ngok6-listening-to-music",
+      "sourceWord": "聽音樂",
+      "sourceWordJyutping": "teng1 jam1 ngok6",
+      "sourceWordMeaning": "listening to music",
+      "tags": [
+        "hobby",
+        "music",
+        "daily activity",
+        "beginner",
+        "noun phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1jam1ngok6-listening-to-music.json"
+    },
+    {
+      "sentenceId": "teng1jam1ngok6-listening-to-music-example-4",
+      "sentence": "星期日喺屋企聽音樂，真係好舒服。",
+      "jyutping": "sing1 kei4 jat6 hai2 uk1 kei2 teng1 jam1 ngok6, zan1 hai6 hou2 syu1 fuk6",
+      "meaning": "Listening to music at home on Sunday is really comfortable.",
+      "sourceWordId": "teng1jam1ngok6-listening-to-music",
+      "sourceWord": "聽音樂",
+      "sourceWordJyutping": "teng1 jam1 ngok6",
+      "sourceWordMeaning": "listening to music",
+      "tags": [
+        "hobby",
+        "music",
+        "daily activity",
+        "beginner",
+        "noun phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1jam1ngok6-listening-to-music.json"
+    },
+    {
+      "sentenceId": "taan4git3taa1-guitar-example-1",
+      "sentence": "我鍾意喺屋企彈結他。",
+      "jyutping": "ngo5 zung1 ji3 hai2 uk1 kei2 taan4 git3 taa1.",
+      "meaning": "I like playing guitar at home.",
+      "sourceWordId": "taan4git3taa1-guitar",
+      "sourceWord": "彈結他",
+      "sourceWordJyutping": "taan4 git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "hobbies",
+        "music",
+        "instruments",
+        "performance",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "taan4git3taa1-guitar-example-2",
+      "sentence": "佢學咗幾個月彈結他。",
+      "jyutping": "keoi5 hok6 zo2 gei2 go3 jyut6 taan4 git3 taa1.",
+      "meaning": "He/She has been learning guitar for a few months.",
+      "sourceWordId": "taan4git3taa1-guitar",
+      "sourceWord": "彈結他",
+      "sourceWordJyutping": "taan4 git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "hobbies",
+        "music",
+        "instruments",
+        "performance",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "taan4git3taa1-guitar-example-3",
+      "sentence": "星期六我哋去聽佢彈結他。",
+      "jyutping": "sing1 kei4 luk6 ngo5 dei6 heoi3 teng1 keoi5 taan4 git3 taa1.",
+      "meaning": "On Saturday, we’re going to listen to him/her play guitar.",
+      "sourceWordId": "taan4git3taa1-guitar",
+      "sourceWord": "彈結他",
+      "sourceWordJyutping": "taan4 git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "hobbies",
+        "music",
+        "instruments",
+        "performance",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "taan4git3taa1-guitar-example-4",
+      "sentence": "阿哥成日喺公園彈結他。",
+      "jyutping": "aa3 go1 sing4 jat6 hai2 gung1 jyun4 taan4 git3 taa1.",
+      "meaning": "My older brother often plays guitar in the park.",
+      "sourceWordId": "taan4git3taa1-guitar",
+      "sourceWord": "彈結他",
+      "sourceWordJyutping": "taan4 git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "hobbies",
+        "music",
+        "instruments",
+        "performance",
+        "everyday speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "taan4gong3kam4-piano-example-1",
+      "sentence": "我細個開始學彈鋼琴。",
+      "jyutping": "ngo5 sai3 go3 hoi1 ci2 hok6 taan4 gong3 kam4.",
+      "meaning": "I started learning piano when I was young.",
+      "sourceWordId": "taan4gong3kam4-piano",
+      "sourceWord": "彈鋼琴",
+      "sourceWordJyutping": "taan4 gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "hobby",
+        "beginner",
+        "family",
+        "children",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "taan4gong3kam4-piano-example-2",
+      "sentence": "佢屋企有部好大嘅彈鋼琴。",
+      "jyutping": "keoi5 uk1 kei2 jau5 bou6 hou2 daai6 ge3 taan4 gong3 kam4.",
+      "meaning": "His/Her home has a big piano.",
+      "sourceWordId": "taan4gong3kam4-piano",
+      "sourceWord": "彈鋼琴",
+      "sourceWordJyutping": "taan4 gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "hobby",
+        "beginner",
+        "family",
+        "children",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "taan4gong3kam4-piano-example-3",
+      "sentence": "星期六我會去琴房練彈鋼琴。",
+      "jyutping": "sing1 kei4 luk6 ngo5 wui5 heoi3 kam4 fong4 lin6 taan4 gong3 kam4.",
+      "meaning": "I will go to the music room to practise piano on Saturday.",
+      "sourceWordId": "taan4gong3kam4-piano",
+      "sourceWord": "彈鋼琴",
+      "sourceWordJyutping": "taan4 gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "hobby",
+        "beginner",
+        "family",
+        "children",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "taan4gong3kam4-piano-example-4",
+      "sentence": "阿仔好鐘意聽人彈鋼琴。",
+      "jyutping": "aa3 zai2 hou2 zung1 ji3 teng1 jan4 taan4 gong3 kam4.",
+      "meaning": "The kid really likes listening to people play the piano.",
+      "sourceWordId": "taan4gong3kam4-piano",
+      "sourceWord": "彈鋼琴",
+      "sourceWordJyutping": "taan4 gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "hobby",
+        "beginner",
+        "family",
+        "children",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/taan4gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "laai1ji6wu4-erhu-example-1",
+      "sentence": "佢細個已經開始學拉二胡。",
+      "jyutping": "keoi5 sai3 go3 ji5 ging1 hoi1 ci2 hok6 laai1 ji6 wu4",
+      "meaning": "He started learning to play the erhu when he was young.",
+      "sourceWordId": "laai1ji6wu4-erhu",
+      "sourceWord": "拉二胡",
+      "sourceWordJyutping": "laai1 ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional",
+        "hobby",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laai1ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "laai1ji6wu4-erhu-example-2",
+      "sentence": "星期六我去文化中心睇人拉二胡。",
+      "jyutping": "sing1 kei4 luk6 ngo5 heoi3 man4 faa2 zung1 sam1 tai2 jan4 laai1 ji6 wu4",
+      "meaning": "On Saturday I went to the cultural centre to watch someone play the erhu.",
+      "sourceWordId": "laai1ji6wu4-erhu",
+      "sourceWord": "拉二胡",
+      "sourceWordJyutping": "laai1 ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional",
+        "hobby",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laai1ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "laai1ji6wu4-erhu-example-3",
+      "sentence": "婆婆最鍾意喺公園拉二胡。",
+      "jyutping": "po4 po4 zeoi3 zung1 ji3 hai2 gung1 jyun4 laai1 ji6 wu4",
+      "meaning": "Grandma likes playing the erhu in the park the most.",
+      "sourceWordId": "laai1ji6wu4-erhu",
+      "sourceWord": "拉二胡",
+      "sourceWordJyutping": "laai1 ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional",
+        "hobby",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laai1ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "laai1ji6wu4-erhu-example-4",
+      "sentence": "我哋學校有個同學拉二胡拉得好好。",
+      "jyutping": "ngo5 dei6 hok6 haau6 jau5 go3 tung4 hok6 laai1 ji6 wu4 laai1 dak1 hou2 hou2",
+      "meaning": "There is a classmate in our school who plays the erhu very well.",
+      "sourceWordId": "laai1ji6wu4-erhu",
+      "sourceWord": "拉二胡",
+      "sourceWordJyutping": "laai1 ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional",
+        "hobby",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laai1ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "tiu3mou5-dancing-example-1",
+      "sentence": "我鍾意跳舞。",
+      "jyutping": "ngo5 zung1 ji3 tiu3 mou5.",
+      "meaning": "I like dancing.",
+      "sourceWordId": "tiu3mou5-dancing",
+      "sourceWord": "跳舞",
+      "sourceWordJyutping": "tiu3 mou5",
+      "sourceWordMeaning": "dancing",
+      "tags": [
+        "hobbies",
+        "music and performance",
+        "everyday vocabulary",
+        "activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tiu3mou5-dancing.json"
+    },
+    {
+      "sentenceId": "tiu3mou5-dancing-example-2",
+      "sentence": "佢喺學校學跳舞。",
+      "jyutping": "keoi5 hai2 hok6 haau6 hok6 tiu3 mou5.",
+      "meaning": "She is learning dancing at school.",
+      "sourceWordId": "tiu3mou5-dancing",
+      "sourceWord": "跳舞",
+      "sourceWordJyutping": "tiu3 mou5",
+      "sourceWordMeaning": "dancing",
+      "tags": [
+        "hobbies",
+        "music and performance",
+        "everyday vocabulary",
+        "activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tiu3mou5-dancing.json"
+    },
+    {
+      "sentenceId": "tiu3mou5-dancing-example-3",
+      "sentence": "星期六我哋去跳舞。",
+      "jyutping": "sing1 kei4 luk6 ngo5 dei6 heoi3 tiu3 mou5.",
+      "meaning": "We are going dancing on Saturday.",
+      "sourceWordId": "tiu3mou5-dancing",
+      "sourceWord": "跳舞",
+      "sourceWordJyutping": "tiu3 mou5",
+      "sourceWordMeaning": "dancing",
+      "tags": [
+        "hobbies",
+        "music and performance",
+        "everyday vocabulary",
+        "activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tiu3mou5-dancing.json"
+    },
+    {
+      "sentenceId": "tiu3mou5-dancing-example-4",
+      "sentence": "舞會入面好多人跳舞。",
+      "jyutping": "mou5 wui2 jap6 min6 hou2 do1 jan4 tiu3 mou5.",
+      "meaning": "A lot of people are dancing at the ball.",
+      "sourceWordId": "tiu3mou5-dancing",
+      "sourceWord": "跳舞",
+      "sourceWordJyutping": "tiu3 mou5",
+      "sourceWordMeaning": "dancing",
+      "tags": [
+        "hobbies",
+        "music and performance",
+        "everyday vocabulary",
+        "activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tiu3mou5-dancing.json"
+    },
+    {
+      "sentenceId": "biu2jin2-performing-example-1",
+      "sentence": "佢今晚喺學校表演唱歌。",
+      "jyutping": "keoi5 gam1 maan5 hai2 hok6 haau6 biu2 jin2 coeng3 go1.",
+      "meaning": "He/She is performing a song at school tonight.",
+      "sourceWordId": "biu2jin2-performing",
+      "sourceWord": "表演",
+      "sourceWordJyutping": "biu2 jin2",
+      "sourceWordMeaning": "performing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "stage",
+        "school event",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin2-performing.json"
+    },
+    {
+      "sentenceId": "biu2jin2-performing-example-2",
+      "sentence": "呢個表演好精彩。",
+      "jyutping": "ni1 go3 biu2 jin2 hou2 zing1 coi2.",
+      "meaning": "This performance is wonderful.",
+      "sourceWordId": "biu2jin2-performing",
+      "sourceWord": "表演",
+      "sourceWordJyutping": "biu2 jin2",
+      "sourceWordMeaning": "performing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "stage",
+        "school event",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin2-performing.json"
+    },
+    {
+      "sentenceId": "biu2jin2-performing-example-3",
+      "sentence": "小朋友好鍾意喺台上表演。",
+      "jyutping": "siu2 pang4 jau5 hou2 zung1 ji3 hai2 toi4 soeng6 biu2 jin2.",
+      "meaning": "Children like performing on stage.",
+      "sourceWordId": "biu2jin2-performing",
+      "sourceWord": "表演",
+      "sourceWordJyutping": "biu2 jin2",
+      "sourceWordMeaning": "performing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "stage",
+        "school event",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin2-performing.json"
+    },
+    {
+      "sentenceId": "biu2jin2-performing-example-4",
+      "sentence": "老師叫我哋表演一段舞。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 biu2 jin2 jat1 dyun6 mou5.",
+      "meaning": "The teacher asked us to perform a dance piece.",
+      "sourceWordId": "biu2jin2-performing",
+      "sourceWord": "表演",
+      "sourceWordJyutping": "biu2 jin2",
+      "sourceWordMeaning": "performing",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "performance",
+        "stage",
+        "school event",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin2-performing.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-music-lessons-example-1",
+      "sentence": "我細個有上學音樂。",
+      "jyutping": "ngo5 sai3 go3 jau5 soeng5 hok6 jam1 ngok6.",
+      "meaning": "I took music lessons when I was young.",
+      "sourceWordId": "hok6jam1ngok6-music-lessons",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "music lessons",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "lessons",
+        "education",
+        "beginner",
+        "children",
+        "classes",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-music-lessons.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-music-lessons-example-2",
+      "sentence": "佢放學之後去學音樂。",
+      "jyutping": "keoi5 fong3 hok6 zi1 hau6 heoi3 hok6 jam1 ngok6.",
+      "meaning": "He/she goes to music lessons after school.",
+      "sourceWordId": "hok6jam1ngok6-music-lessons",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "music lessons",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "lessons",
+        "education",
+        "beginner",
+        "children",
+        "classes",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-music-lessons.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-music-lessons-example-3",
+      "sentence": "你想學音樂定係學畫畫？",
+      "jyutping": "nei5 soeng2 hok6 jam1 ngok6 ding6 hai6 hok6 waa2 waa2?",
+      "meaning": "Do you want to learn music or painting?",
+      "sourceWordId": "hok6jam1ngok6-music-lessons",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "music lessons",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "lessons",
+        "education",
+        "beginner",
+        "children",
+        "classes",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-music-lessons.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-music-lessons-example-4",
+      "sentence": "學音樂可以培養興趣。",
+      "jyutping": "hok6 jam1 ngok6 ho2 ji5 pui4 joeng5 hing3 ceoi3.",
+      "meaning": "Music lessons can help develop an interest.",
+      "sourceWordId": "hok6jam1ngok6-music-lessons",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "music lessons",
+      "tags": [
+        "hobbies",
+        "interests",
+        "music",
+        "lessons",
+        "education",
+        "beginner",
+        "children",
+        "classes",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-music-lessons.json"
+    },
+    {
+      "sentenceId": "daa2gei1-gaming-example-1",
+      "sentence": "我今晚想留喺屋企打機。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 lau4 hai2 uk1 kei2 daa2 gei1.",
+      "meaning": "I want to stay home and game tonight.",
+      "sourceWordId": "daa2gei1-gaming",
+      "sourceWord": "打機",
+      "sourceWordJyutping": "daa2 gei1",
+      "sourceWordMeaning": "gaming",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "informal",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2gei1-gaming.json"
+    },
+    {
+      "sentenceId": "daa2gei1-gaming-example-2",
+      "sentence": "佢放工之後成日打機。",
+      "jyutping": "keoi5 fong3 gung1 zi1 hau6 seng4 jat6 daa2 gei1.",
+      "meaning": "He games all the time after work.",
+      "sourceWordId": "daa2gei1-gaming",
+      "sourceWord": "打機",
+      "sourceWordJyutping": "daa2 gei1",
+      "sourceWordMeaning": "gaming",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "informal",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2gei1-gaming.json"
+    },
+    {
+      "sentenceId": "daa2gei1-gaming-example-3",
+      "sentence": "你鍾唔鍾意打機呀？",
+      "jyutping": "nei5 zung1 m4 zung1 ji3 daa2 gei1 aa3?",
+      "meaning": "Do you like gaming?",
+      "sourceWordId": "daa2gei1-gaming",
+      "sourceWord": "打機",
+      "sourceWordJyutping": "daa2 gei1",
+      "sourceWordMeaning": "gaming",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "informal",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2gei1-gaming.json"
+    },
+    {
+      "sentenceId": "daa2gei1-gaming-example-4",
+      "sentence": "細路仔唔好打機打到咁夜。",
+      "jyutping": "sai3 lou6 zai2 m4 hou2 daa2 gei1 daa2 dou3 gam3 je6.",
+      "meaning": "Kids shouldn’t game so late.",
+      "sourceWordId": "daa2gei1-gaming",
+      "sourceWord": "打機",
+      "sourceWordJyutping": "daa2 gei1",
+      "sourceWordMeaning": "gaming",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "informal",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daa2gei1-gaming.json"
+    },
+    {
+      "sentenceId": "haa6kei4-chess-example-1",
+      "sentence": "我細個成日同阿爺下棋。",
+      "jyutping": "ngo5 sai3 go2 seng4 jat6 tung4 aa3 je4 haa6 kei4.",
+      "meaning": "When I was young, I often played chess with my grandpa.",
+      "sourceWordId": "haa6kei4-chess",
+      "sourceWord": "下棋",
+      "sourceWordJyutping": "haa6 kei4",
+      "sourceWordMeaning": "chess",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "everyday",
+        "noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6kei4-chess.json"
+    },
+    {
+      "sentenceId": "haa6kei4-chess-example-2",
+      "sentence": "你識唔識下棋呀？",
+      "jyutping": "nei5 sik1 m4 sik1 haa6 kei4 aa3?",
+      "meaning": "Do you know how to play chess?",
+      "sourceWordId": "haa6kei4-chess",
+      "sourceWord": "下棋",
+      "sourceWordJyutping": "haa6 kei4",
+      "sourceWordMeaning": "chess",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "everyday",
+        "noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6kei4-chess.json"
+    },
+    {
+      "sentenceId": "haa6kei4-chess-example-3",
+      "sentence": "放工之後，我哋一齊下棋放鬆吓。",
+      "jyutping": "fong3 gung1 zi1 hau6, ngo5 dei6 jat1 cai4 haa6 kei4 fong3 sung1 haa2.",
+      "meaning": "After work, let’s play chess together and relax.",
+      "sourceWordId": "haa6kei4-chess",
+      "sourceWord": "下棋",
+      "sourceWordJyutping": "haa6 kei4",
+      "sourceWordMeaning": "chess",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "everyday",
+        "noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6kei4-chess.json"
+    },
+    {
+      "sentenceId": "haa6kei4-chess-example-4",
+      "sentence": "佢喺圖書館學下棋，學得好快。",
+      "jyutping": "keoi5 hai2 tou4 syu1 gun2 hok6 haa6 kei4, hok6 dak1 hou2 faai3.",
+      "meaning": "He is learning chess at the library and learning very quickly.",
+      "sourceWordId": "haa6kei4-chess",
+      "sourceWord": "下棋",
+      "sourceWordJyutping": "haa6 kei4",
+      "sourceWordMeaning": "chess",
+      "tags": [
+        "hobbies",
+        "interests",
+        "games",
+        "technology",
+        "everyday",
+        "noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6kei4-chess.json"
+    },
+    {
+      "sentenceId": "coek3jau4-board-games-example-1",
+      "sentence": "我星期六鍾意同朋友玩桌遊。",
+      "jyutping": "ngo5 sing1 kei4 luk6 zung1 ji3 tung4 pang4 jau5 waan2 coek3 jau4.",
+      "meaning": "I like playing board games with friends on Saturdays.",
+      "sourceWordId": "coek3jau4-board-games",
+      "sourceWord": "桌遊",
+      "sourceWordJyutping": "coek3 jau4",
+      "sourceWordMeaning": "board games",
+      "tags": [
+        "hobbies",
+        "games",
+        "technology",
+        "leisure",
+        "beginner",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coek3jau4-board-games.json"
+    },
+    {
+      "sentenceId": "coek3jau4-board-games-example-2",
+      "sentence": "呢間 cafe 逢星期五都有桌遊活動。",
+      "jyutping": "ni1 gaan1 cafe fung4 sing1 kei4 ng5 dou1 jau5 coek3 jau4 wut6 dung6.",
+      "meaning": "This cafe has board-game activities every Friday.",
+      "sourceWordId": "coek3jau4-board-games",
+      "sourceWord": "桌遊",
+      "sourceWordJyutping": "coek3 jau4",
+      "sourceWordMeaning": "board games",
+      "tags": [
+        "hobbies",
+        "games",
+        "technology",
+        "leisure",
+        "beginner",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coek3jau4-board-games.json"
+    },
+    {
+      "sentenceId": "coek3jau4-board-games-example-3",
+      "sentence": "佢買咗好多桌遊返屋企。",
+      "jyutping": "keoi5 maai5 zo2 hou2 do1 coek3 jau4 faan1 uk1 kai2.",
+      "meaning": "He bought a lot of board games home.",
+      "sourceWordId": "coek3jau4-board-games",
+      "sourceWord": "桌遊",
+      "sourceWordJyutping": "coek3 jau4",
+      "sourceWordMeaning": "board games",
+      "tags": [
+        "hobbies",
+        "games",
+        "technology",
+        "leisure",
+        "beginner",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coek3jau4-board-games.json"
+    },
+    {
+      "sentenceId": "coek3jau4-board-games-example-4",
+      "sentence": "我哋今晚不如玩桌遊。",
+      "jyutping": "ngo5 dei6 gam1 maan5 bat1 jyu4 waan2 coek3 jau4.",
+      "meaning": "How about we play board games tonight?",
+      "sourceWordId": "coek3jau4-board-games",
+      "sourceWord": "桌遊",
+      "sourceWordJyutping": "coek3 jau4",
+      "sourceWordMeaning": "board games",
+      "tags": [
+        "hobbies",
+        "games",
+        "technology",
+        "leisure",
+        "beginner",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coek3jau4-board-games.json"
+    },
+    {
+      "sentenceId": "pin1cing4-coding-example-1",
+      "sentence": "我而家學編程。",
+      "jyutping": "ngo5 ji4gaai1 hok6 pin1 cing4.",
+      "meaning": "I’m learning coding now.",
+      "sourceWordId": "pin1cing4-coding",
+      "sourceWord": "編程",
+      "sourceWordJyutping": "pin1 cing4",
+      "sourceWordMeaning": "coding",
+      "tags": [
+        "hobby",
+        "technology",
+        "programming",
+        "IT",
+        "beginner-friendly",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1cing4-coding.json"
+    },
+    {
+      "sentenceId": "pin1cing4-coding-example-2",
+      "sentence": "佢對編程好有興趣。",
+      "jyutping": "keoi5 deoi3 pin1 cing4 hou2 jau5 hing3 cyu3.",
+      "meaning": "He/She is very interested in coding.",
+      "sourceWordId": "pin1cing4-coding",
+      "sourceWord": "編程",
+      "sourceWordJyutping": "pin1 cing4",
+      "sourceWordMeaning": "coding",
+      "tags": [
+        "hobby",
+        "technology",
+        "programming",
+        "IT",
+        "beginner-friendly",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1cing4-coding.json"
+    },
+    {
+      "sentenceId": "pin1cing4-coding-example-3",
+      "sentence": "編程唔算易，但幾有趣。",
+      "jyutping": "pin1 cing4 m4 syun3 ji6, daan6 gei2 jau5 ceoi3.",
+      "meaning": "Coding isn’t easy, but it’s quite interesting.",
+      "sourceWordId": "pin1cing4-coding",
+      "sourceWord": "編程",
+      "sourceWordJyutping": "pin1 cing4",
+      "sourceWordMeaning": "coding",
+      "tags": [
+        "hobby",
+        "technology",
+        "programming",
+        "IT",
+        "beginner-friendly",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1cing4-coding.json"
+    },
+    {
+      "sentenceId": "pin1cing4-coding-example-4",
+      "sentence": "呢間學校有編程班。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 pin1 cing4 baan1.",
+      "meaning": "This school has coding classes.",
+      "sourceWordId": "pin1cing4-coding",
+      "sourceWord": "編程",
+      "sourceWordJyutping": "pin1 cing4",
+      "sourceWordMeaning": "coding",
+      "tags": [
+        "hobby",
+        "technology",
+        "programming",
+        "IT",
+        "beginner-friendly",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1cing4-coding.json"
+    },
+    {
+      "sentenceId": "cit3gai3-design-example-1",
+      "sentence": "呢個手機 app 嘅設計好簡單，老人家都易用。",
+      "jyutping": "ni1 go3 sau2 gei2 app ge3 cit3 gai3 hou2 gaan2 daan1, lou5 jan4 gaa1 dou1 ji5 jung6.",
+      "meaning": "This mobile app’s design is very simple, so even elderly people can use it easily.",
+      "sourceWordId": "cit3gai3-design",
+      "sourceWord": "設計",
+      "sourceWordJyutping": "cit3 gai3",
+      "sourceWordMeaning": "design",
+      "tags": [
+        "hobbies and interests",
+        "games and technology",
+        "design",
+        "creative work",
+        "school and work",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3-design.json"
+    },
+    {
+      "sentenceId": "cit3gai3-design-example-2",
+      "sentence": "佢讀緊平面設計，平時好鍾意畫圖。",
+      "jyutping": "keoi5 duk6 gan2 peng4 min6 cit3 gai3, ping4 si4 hou2 zung1 ji3 waa2 tou4.",
+      "meaning": "He is studying graphic design and usually really likes drawing.",
+      "sourceWordId": "cit3gai3-design",
+      "sourceWord": "設計",
+      "sourceWordJyutping": "cit3 gai3",
+      "sourceWordMeaning": "design",
+      "tags": [
+        "hobbies and interests",
+        "games and technology",
+        "design",
+        "creative work",
+        "school and work",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3-design.json"
+    },
+    {
+      "sentenceId": "cit3gai3-design-example-3",
+      "sentence": "我哋公司要重新整個網站設計。",
+      "jyutping": "ngo5 dei6 gung1 si1 jiu3 cung4 san1 zing2 go3 mong5 zin6 cit3 gai3.",
+      "meaning": "Our company needs to redesign the website.",
+      "sourceWordId": "cit3gai3-design",
+      "sourceWord": "設計",
+      "sourceWordJyutping": "cit3 gai3",
+      "sourceWordMeaning": "design",
+      "tags": [
+        "hobbies and interests",
+        "games and technology",
+        "design",
+        "creative work",
+        "school and work",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3-design.json"
+    },
+    {
+      "sentenceId": "cit3gai3-design-example-4",
+      "sentence": "呢款櫈嘅設計好特別，放喺客廳好襯。",
+      "jyutping": "ni1 fun2 dang3 ge3 cit3 gai3 hou2 dak6 bit6, fong3 hai2 haak3 ting1 hou2 can3.",
+      "meaning": "The design of this chair is very special and it matches the living room well.",
+      "sourceWordId": "cit3gai3-design",
+      "sourceWord": "設計",
+      "sourceWordJyutping": "cit3 gai3",
+      "sourceWordMeaning": "design",
+      "tags": [
+        "hobbies and interests",
+        "games and technology",
+        "design",
+        "creative work",
+        "school and work",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3-design.json"
+    },
+    {
+      "sentenceId": "zing2jing3jung6cing4sik1-app-making-example-1",
+      "sentence": "我而家學緊整應用程式。",
+      "jyutping": "ngo5 ji4 gaa1 hok6 gan2 zing2 jing3 jung6 cing4 sik1.",
+      "meaning": "I’m learning app making right now.",
+      "sourceWordId": "zing2jing3jung6cing4sik1-app-making",
+      "sourceWord": "整應用程式",
+      "sourceWordJyutping": "zing2 jing3 jung6 cing4 sik1",
+      "sourceWordMeaning": "app making",
+      "tags": [
+        "hobbies",
+        "technology",
+        "games",
+        "coding",
+        "software",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing2jing3jung6cing4sik1-app-making.json"
+    },
+    {
+      "sentenceId": "zing2jing3jung6cing4sik1-app-making-example-2",
+      "sentence": "佢成日喺屋企整應用程式。",
+      "jyutping": "keoi5 sing4 jat6 hai2 uk1 kei4 zing2 jing3 jung6 cing4 sik1.",
+      "meaning": "He’s always making apps at home.",
+      "sourceWordId": "zing2jing3jung6cing4sik1-app-making",
+      "sourceWord": "整應用程式",
+      "sourceWordJyutping": "zing2 jing3 jung6 cing4 sik1",
+      "sourceWordMeaning": "app making",
+      "tags": [
+        "hobbies",
+        "technology",
+        "games",
+        "coding",
+        "software",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing2jing3jung6cing4sik1-app-making.json"
+    },
+    {
+      "sentenceId": "zing2jing3jung6cing4sik1-app-making-example-3",
+      "sentence": "你識唔識整應用程式呀？",
+      "jyutping": "nei5 sik1 m4 sik1 zing2 jing3 jung6 cing4 sik1 aa3?",
+      "meaning": "Do you know how to make apps?",
+      "sourceWordId": "zing2jing3jung6cing4sik1-app-making",
+      "sourceWord": "整應用程式",
+      "sourceWordJyutping": "zing2 jing3 jung6 cing4 sik1",
+      "sourceWordMeaning": "app making",
+      "tags": [
+        "hobbies",
+        "technology",
+        "games",
+        "coding",
+        "software",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing2jing3jung6cing4sik1-app-making.json"
+    },
+    {
+      "sentenceId": "zing2jing3jung6cing4sik1-app-making-example-4",
+      "sentence": "呢個課程教整應用程式同埋寫程式。",
+      "jyutping": "ni1 go3 fo3 cing4 gaau3 zing2 jing3 jung6 cing4 sik1 tung4 maai4 se2 cing4 sik1.",
+      "meaning": "This course teaches app making and programming.",
+      "sourceWordId": "zing2jing3jung6cing4sik1-app-making",
+      "sourceWord": "整應用程式",
+      "sourceWordJyutping": "zing2 jing3 jung6 cing4 sik1",
+      "sourceWordMeaning": "app making",
+      "tags": [
+        "hobbies",
+        "technology",
+        "games",
+        "coding",
+        "software",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing2jing3jung6cing4sik1-app-making.json"
+    },
+    {
+      "sentenceId": "soeng5mong5-go-online-example-1",
+      "sentence": "我而家想上網睇新聞。",
+      "jyutping": "ngo5 ji4gaa1 soeng2 soeng5 mong5 tai2 san1 man4.",
+      "meaning": "I want to go online to read the news now.",
+      "sourceWordId": "soeng5mong5-go-online",
+      "sourceWord": "上網",
+      "sourceWordJyutping": "soeng5 mong5",
+      "sourceWordMeaning": "go online",
+      "tags": [
+        "internet",
+        "technology",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
+    },
+    {
+      "sentenceId": "soeng5mong5-go-online-example-2",
+      "sentence": "你部電話可唔可以上網？",
+      "jyutping": "nei5 bou6 din6 waa2 ho2 m4 ho2 ji5 soeng5 mong5?",
+      "meaning": "Can your phone go online?",
+      "sourceWordId": "soeng5mong5-go-online",
+      "sourceWord": "上網",
+      "sourceWordJyutping": "soeng5 mong5",
+      "sourceWordMeaning": "go online",
+      "tags": [
+        "internet",
+        "technology",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
+    },
+    {
+      "sentenceId": "soeng5mong5-go-online-example-3",
+      "sentence": "呢間咖啡店可以免費上網。",
+      "jyutping": "ni1 gaan1 gaa3 fe1 dim3 ho2 ji5 min5fei3 soeng5 mong5.",
+      "meaning": "This café has free internet access.",
+      "sourceWordId": "soeng5mong5-go-online",
+      "sourceWord": "上網",
+      "sourceWordJyutping": "soeng5 mong5",
+      "sourceWordMeaning": "go online",
+      "tags": [
+        "internet",
+        "technology",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
+    },
+    {
+      "sentenceId": "soeng5mong5-go-online-example-4",
+      "sentence": "佢成日喺屋企上網打機。",
+      "jyutping": "keoi5 sing4 jat6 hai2 uk1 kei2 soeng5 mong5 daa2 gei1.",
+      "meaning": "He often goes online at home to play games.",
+      "sourceWordId": "soeng5mong5-go-online",
+      "sourceWord": "上網",
+      "sourceWordJyutping": "soeng5 mong5",
+      "sourceWordMeaning": "go online",
+      "tags": [
+        "internet",
+        "technology",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
+    },
+    {
+      "sentenceId": "jyut6duk6-reading-example-1",
+      "sentence": "我每日都會閱讀半個鐘。",
+      "jyutping": "ngo5 jat6 mui5 jat6 dou1 wui5 jyut6 duk6 bun3 go3 zung1.",
+      "meaning": "I read for half an hour every day.",
+      "sourceWordId": "jyut6duk6-reading",
+      "sourceWord": "閱讀",
+      "sourceWordJyutping": "jyut6 duk6",
+      "sourceWordMeaning": "reading",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "education",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6duk6-reading.json"
+    },
+    {
+      "sentenceId": "jyut6duk6-reading-example-2",
+      "sentence": "學校鼓勵學生多做閱讀。",
+      "jyutping": "hok6 haau6 gu2 lai6 hok6 saang1 do1 zou6 jyut6 duk6.",
+      "meaning": "The school encourages students to read more.",
+      "sourceWordId": "jyut6duk6-reading",
+      "sourceWord": "閱讀",
+      "sourceWordJyutping": "jyut6 duk6",
+      "sourceWordMeaning": "reading",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "education",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6duk6-reading.json"
+    },
+    {
+      "sentenceId": "jyut6duk6-reading-example-3",
+      "sentence": "呢本書好適合初學者閱讀。",
+      "jyutping": "ni1 bun2 syu1 hou2 sik1 hop6 co1 hok6 ze2 jyut6 duk6.",
+      "meaning": "This book is very suitable for beginners to read.",
+      "sourceWordId": "jyut6duk6-reading",
+      "sourceWord": "閱讀",
+      "sourceWordJyutping": "jyut6 duk6",
+      "sourceWordMeaning": "reading",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "education",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6duk6-reading.json"
+    },
+    {
+      "sentenceId": "jyut6duk6-reading-example-4",
+      "sentence": "佢平時鍾意閱讀歷史書。",
+      "jyutping": "keoi5 ping4 si4 zung1 ji3 jyut6 duk6 lik6 si2 syu1.",
+      "meaning": "He/She likes reading history books in daily life.",
+      "sourceWordId": "jyut6duk6-reading",
+      "sourceWord": "閱讀",
+      "sourceWordJyutping": "jyut6 duk6",
+      "sourceWordMeaning": "reading",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "education",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6duk6-reading.json"
+    },
+    {
+      "sentenceId": "tai2syu1-reading-books-example-1",
+      "sentence": "我鍾意睇書。",
+      "jyutping": "ngo5 zung1 ji3 tai2 syu1.",
+      "meaning": "I like reading books.",
+      "sourceWordId": "tai2syu1-reading-books",
+      "sourceWord": "睇書",
+      "sourceWordJyutping": "tai2 syu1",
+      "sourceWordMeaning": "reading books",
+      "tags": [
+        "hobbies",
+        "interests",
+        "reading",
+        "books",
+        "beginner",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2syu1-reading-books.json"
+    },
+    {
+      "sentenceId": "tai2syu1-reading-books-example-2",
+      "sentence": "佢放假成日都喺屋企睇書。",
+      "jyutping": "keoi5 fong3 gaa3 sing4 jat6 dou1 hai2 uk1 kei2 tai2 syu1.",
+      "meaning": "He/She reads books at home all day on holidays.",
+      "sourceWordId": "tai2syu1-reading-books",
+      "sourceWord": "睇書",
+      "sourceWordJyutping": "tai2 syu1",
+      "sourceWordMeaning": "reading books",
+      "tags": [
+        "hobbies",
+        "interests",
+        "reading",
+        "books",
+        "beginner",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2syu1-reading-books.json"
+    },
+    {
+      "sentenceId": "tai2syu1-reading-books-example-3",
+      "sentence": "細路仔夜晚瞓覺前會睇書。",
+      "jyutping": "sai3 lou6 zai2 je6 maan5 fan3 gaau3 cin4 wui5 tai2 syu1.",
+      "meaning": "Children read books before going to bed at night.",
+      "sourceWordId": "tai2syu1-reading-books",
+      "sourceWord": "睇書",
+      "sourceWordJyutping": "tai2 syu1",
+      "sourceWordMeaning": "reading books",
+      "tags": [
+        "hobbies",
+        "interests",
+        "reading",
+        "books",
+        "beginner",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2syu1-reading-books.json"
+    },
+    {
+      "sentenceId": "tai2syu1-reading-books-example-4",
+      "sentence": "我而家想買本新書返去睇書。",
+      "jyutping": "ngo5 ji4 gaa1 soeng2 maai5 bun2 san1 syu1 faan1 heoi3 tai2 syu1.",
+      "meaning": "I want to buy a new book to read now.",
+      "sourceWordId": "tai2syu1-reading-books",
+      "sourceWord": "睇書",
+      "sourceWordJyutping": "tai2 syu1",
+      "sourceWordMeaning": "reading books",
+      "tags": [
+        "hobbies",
+        "interests",
+        "reading",
+        "books",
+        "beginner",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2syu1-reading-books.json"
+    },
+    {
+      "sentenceId": "hok6jyu5jin4-languages-example-1",
+      "sentence": "我鍾意學語言。",
+      "jyutping": "ngo5 zung1 ji3 hok6 jyu5 jin4.",
+      "meaning": "I like learning languages.",
+      "sourceWordId": "hok6jyu5jin4-languages",
+      "sourceWord": "學語言",
+      "sourceWordJyutping": "hok6 jyu5 jin4",
+      "sourceWordMeaning": "languages",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "reading",
+        "education",
+        "language learning",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jyu5jin4-languages.json"
+    },
+    {
+      "sentenceId": "hok6jyu5jin4-languages-example-2",
+      "sentence": "佢而家喺大學學語言。",
+      "jyutping": "keoi5 ji4 gaa1 hai2 daai6 hok6 hok6 jyu5 jin4.",
+      "meaning": "He/She is studying languages at university now.",
+      "sourceWordId": "hok6jyu5jin4-languages",
+      "sourceWord": "學語言",
+      "sourceWordJyutping": "hok6 jyu5 jin4",
+      "sourceWordMeaning": "languages",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "reading",
+        "education",
+        "language learning",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jyu5jin4-languages.json"
+    },
+    {
+      "sentenceId": "hok6jyu5jin4-languages-example-3",
+      "sentence": "學語言可以幫助你認識唔同文化。",
+      "jyutping": "hok6 jyu5 jin4 ho2 ji5 bong1 zo6 nei5 jing6 sik1 m4 tung4 man4 faa3.",
+      "meaning": "Learning languages can help you understand different cultures.",
+      "sourceWordId": "hok6jyu5jin4-languages",
+      "sourceWord": "學語言",
+      "sourceWordJyutping": "hok6 jyu5 jin4",
+      "sourceWordMeaning": "languages",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "reading",
+        "education",
+        "language learning",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jyu5jin4-languages.json"
+    },
+    {
+      "sentenceId": "hok6jyu5jin4-languages-example-4",
+      "sentence": "阿女而家學語言學得好開心。",
+      "jyutping": "aa3 neoi5 ji4 gaa1 hok6 jyu5 jin4 hok6 dak1 hou2 hoi1 sam1.",
+      "meaning": "My daughter is enjoying learning languages very much now.",
+      "sourceWordId": "hok6jyu5jin4-languages",
+      "sourceWord": "學語言",
+      "sourceWordJyutping": "hok6 jyu5 jin4",
+      "sourceWordMeaning": "languages",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "reading",
+        "education",
+        "language learning",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jyu5jin4-languages.json"
+    },
+    {
+      "sentenceId": "hok6je5-studying-example-1",
+      "sentence": "佢而家喺圖書館學嘢。",
+      "jyutping": "keoi5 ji1gaa1 hai2 tou4syu1gun2 hok6 je5.",
+      "meaning": "He is studying at the library right now.",
+      "sourceWordId": "hok6je5-studying",
+      "sourceWord": "學嘢",
+      "sourceWordJyutping": "hok6 je5",
+      "sourceWordMeaning": "studying",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "studying",
+        "school life",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6je5-studying.json"
+    },
+    {
+      "sentenceId": "hok6je5-studying-example-2",
+      "sentence": "我今晚唔得閒，要學嘢。",
+      "jyutping": "ngo5 gam1maan5 m4 dak1haan4, jiu3 hok6 je5.",
+      "meaning": "I’m not free tonight; I need to study.",
+      "sourceWordId": "hok6je5-studying",
+      "sourceWord": "學嘢",
+      "sourceWordJyutping": "hok6 je5",
+      "sourceWordMeaning": "studying",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "studying",
+        "school life",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6je5-studying.json"
+    },
+    {
+      "sentenceId": "hok6je5-studying-example-3",
+      "sentence": "你鍾意喺屋企學嘢定去補習社？",
+      "jyutping": "nei5 zung1ji3 hai2 uk1kei2 hok6 je5 ding6 heoi3 bou2zaap6 se5?",
+      "meaning": "Do you like studying at home or going to a tutoring center?",
+      "sourceWordId": "hok6je5-studying",
+      "sourceWord": "學嘢",
+      "sourceWordJyutping": "hok6 je5",
+      "sourceWordMeaning": "studying",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "studying",
+        "school life",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6je5-studying.json"
+    },
+    {
+      "sentenceId": "hok6je5-studying-example-4",
+      "sentence": "放假我都會抽時間學嘢。",
+      "jyutping": "fong3gaa3 ngo5 dou1 wui5 cau1 si4gaan3 hok6 je5.",
+      "meaning": "Even on holidays, I’ll make time to study.",
+      "sourceWordId": "hok6je5-studying",
+      "sourceWord": "學嘢",
+      "sourceWordJyutping": "hok6 je5",
+      "sourceWordMeaning": "studying",
+      "tags": [
+        "hobbies and interests",
+        "learning",
+        "studying",
+        "school life",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6je5-studying.json"
+    },
+    {
+      "sentenceId": "gin3sik1-knowledge-example-1",
+      "sentence": "佢去過好多地方，見識真係唔同晒。",
+      "jyutping": "keoi5 heoi3 gwo3 hou2 do1 dei6 fong1, gin3 sik1 zan1 hai6 bat1 tung4 saai3.",
+      "meaning": "He has travelled to many places, so his knowledge and outlook are really different now.",
+      "sourceWordId": "gin3sik1-knowledge",
+      "sourceWord": "見識",
+      "sourceWordJyutping": "gin3 sik1",
+      "sourceWordMeaning": "knowledge",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "formal noun",
+        "knowledge",
+        "book language",
+        "general education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3sik1-knowledge.json"
+    },
+    {
+      "sentenceId": "gin3sik1-knowledge-example-2",
+      "sentence": "多啲閱讀可以擴闊你嘅見識。",
+      "jyutping": "do1 di1 yuet6 dok6 ho2 ji5 kwong3 fut3 nei5 ge3 gin3 sik1.",
+      "meaning": "Reading more can broaden your knowledge.",
+      "sourceWordId": "gin3sik1-knowledge",
+      "sourceWord": "見識",
+      "sourceWordJyutping": "gin3 sik1",
+      "sourceWordMeaning": "knowledge",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "formal noun",
+        "knowledge",
+        "book language",
+        "general education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3sik1-knowledge.json"
+    },
+    {
+      "sentenceId": "gin3sik1-knowledge-example-3",
+      "sentence": "老人家嘅見識有時仲實用過書本知識。",
+      "jyutping": "lou5 jan4 gaa1 ge3 gin3 sik1 jau5 si4 zung6 sat6 jung6 gwo3 syu1 bun2 zi1 sik1.",
+      "meaning": "An older person’s experience can sometimes be more practical than textbook knowledge.",
+      "sourceWordId": "gin3sik1-knowledge",
+      "sourceWord": "見識",
+      "sourceWordJyutping": "gin3 sik1",
+      "sourceWordMeaning": "knowledge",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "formal noun",
+        "knowledge",
+        "book language",
+        "general education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3sik1-knowledge.json"
+    },
+    {
+      "sentenceId": "gin3sik1-knowledge-example-4",
+      "sentence": "呢本書好適合初學者，因為可以增長見識。",
+      "jyutping": "ni1 bun2 syu1 hou2 sik1 hap6 co1 hok6 ze2, jan1 wai6 ho2 ji5 zang1 zoeng2 gin3 sik1.",
+      "meaning": "This book is good for beginners because it helps expand their knowledge.",
+      "sourceWordId": "gin3sik1-knowledge",
+      "sourceWord": "見識",
+      "sourceWordJyutping": "gin3 sik1",
+      "sourceWordMeaning": "knowledge",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "learning",
+        "formal noun",
+        "knowledge",
+        "book language",
+        "general education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3sik1-knowledge.json"
+    },
+    {
+      "sentenceId": "jin4gau3-research-example-1",
+      "sentence": "我想研究廣東話拼音。",
+      "jyutping": "ngo5 soeng2 jin4gau3 gwong2 dung1 waa2 ping3 jam1.",
+      "meaning": "I want to research Cantonese romanization.",
+      "sourceWordId": "jin4gau3-research",
+      "sourceWord": "研究",
+      "sourceWordJyutping": "jin4 gau3",
+      "sourceWordMeaning": "research",
+      "tags": [
+        "academic",
+        "school",
+        "study",
+        "formal",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin4gau3-research.json"
+    },
+    {
+      "sentenceId": "jin4gau3-research-example-2",
+      "sentence": "呢個題目值得研究。",
+      "jyutping": "ni1 go3 tai4 muk6 zik1 dak1 jin4gau3.",
+      "meaning": "This topic is worth researching.",
+      "sourceWordId": "jin4gau3-research",
+      "sourceWord": "研究",
+      "sourceWordJyutping": "jin4 gau3",
+      "sourceWordMeaning": "research",
+      "tags": [
+        "academic",
+        "school",
+        "study",
+        "formal",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin4gau3-research.json"
+    },
+    {
+      "sentenceId": "jin4gau3-research-example-3",
+      "sentence": "佢喺大學做研究。",
+      "jyutping": "keoi5 hai2 daai6 hok6 zou6 jin4gau3.",
+      "meaning": "He/She does research at a university.",
+      "sourceWordId": "jin4gau3-research",
+      "sourceWord": "研究",
+      "sourceWordJyutping": "jin4 gau3",
+      "sourceWordMeaning": "research",
+      "tags": [
+        "academic",
+        "school",
+        "study",
+        "formal",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin4gau3-research.json"
+    },
+    {
+      "sentenceId": "jin4gau3-research-example-4",
+      "sentence": "老師叫我哋先做資料研究。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 sin1 zou6 zi1 liu2 jin4gau3.",
+      "meaning": "The teacher told us to do source research first.",
+      "sourceWordId": "jin4gau3-research",
+      "sourceWord": "研究",
+      "sourceWordJyutping": "jin4 gau3",
+      "sourceWordMeaning": "research",
+      "tags": [
+        "academic",
+        "school",
+        "study",
+        "formal",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin4gau3-research.json"
+    },
+    {
+      "sentenceId": "tai2san1man4-news-example-1",
+      "sentence": "我每日朝早都會睇新聞。",
+      "jyutping": "ngo5 mui5 jat6 ciu4 zou2 dou1 wui5 tai2 san1 man4.",
+      "meaning": "I watch/read the news every morning.",
+      "sourceWordId": "tai2san1man4-news",
+      "sourceWord": "睇新聞",
+      "sourceWordJyutping": "tai2 san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "media",
+        "daily life",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2san1man4-news.json"
+    },
+    {
+      "sentenceId": "tai2san1man4-news-example-2",
+      "sentence": "今晚冇時間，遲啲先睇新聞。",
+      "jyutping": "gam1 maan5 mou5 si4 gaan3, ci4 di1 sin1 tai2 san1 man4.",
+      "meaning": "I don’t have time tonight; I’ll watch/read the news later.",
+      "sourceWordId": "tai2san1man4-news",
+      "sourceWord": "睇新聞",
+      "sourceWordJyutping": "tai2 san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "media",
+        "daily life",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2san1man4-news.json"
+    },
+    {
+      "sentenceId": "tai2san1man4-news-example-3",
+      "sentence": "阿媽成日睇新聞，留意天氣同交通。",
+      "jyutping": "aa3 maa1 sing4 jat6 tai2 san1 man4, lau4 ji3 tin1 hei3 tung4 gaau1 tung1.",
+      "meaning": "My mum often watches/reads the news and keeps an eye on the weather and traffic.",
+      "sourceWordId": "tai2san1man4-news",
+      "sourceWord": "睇新聞",
+      "sourceWordJyutping": "tai2 san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "media",
+        "daily life",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2san1man4-news.json"
+    },
+    {
+      "sentenceId": "tai2san1man4-news-example-4",
+      "sentence": "你有冇睇今日嘅新聞？",
+      "jyutping": "nei5 jau5 mou5 tai2 gam1 jat6 ge3 san1 man4?",
+      "meaning": "Have you seen today’s news?",
+      "sourceWordId": "tai2san1man4-news",
+      "sourceWord": "睇新聞",
+      "sourceWordJyutping": "tai2 san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "hobbies and interests",
+        "reading",
+        "media",
+        "daily life",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tai2san1man4-news.json"
+    },
+    {
+      "sentenceId": "hok6san1je5-new-skills-example-1",
+      "sentence": "我想學新嘢，所以上咗個煮嘢食班。",
+      "jyutping": "ngo5 soeng2 hok6 san1 je5, so2 ji5 soeng5 zo3 go3 zyu2 je5 sik6 baan1.",
+      "meaning": "I want to learn new skills, so I joined a cooking class.",
+      "sourceWordId": "hok6san1je5-new-skills",
+      "sourceWord": "學新嘢",
+      "sourceWordJyutping": "hok6 san1 je5",
+      "sourceWordMeaning": "new skills",
+      "tags": [
+        "hobbies",
+        "learning",
+        "self-improvement",
+        "skills",
+        "beginner",
+        "spoken Cantonese",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6san1je5-new-skills.json"
+    },
+    {
+      "sentenceId": "hok6san1je5-new-skills-example-2",
+      "sentence": "佢成日都學新嘢，尤其係電腦方面。",
+      "jyutping": "keoi5 seng4 jat6 dou1 hok6 san1 je5, jau4 kei4 hai6 din6 nou5 fong1 min6.",
+      "meaning": "He always learns new skills, especially in computers.",
+      "sourceWordId": "hok6san1je5-new-skills",
+      "sourceWord": "學新嘢",
+      "sourceWordJyutping": "hok6 san1 je5",
+      "sourceWordMeaning": "new skills",
+      "tags": [
+        "hobbies",
+        "learning",
+        "self-improvement",
+        "skills",
+        "beginner",
+        "spoken Cantonese",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6san1je5-new-skills.json"
+    },
+    {
+      "sentenceId": "hok6san1je5-new-skills-example-3",
+      "sentence": "返工之後，我開始學新嘢去提升自己。",
+      "jyutping": "faan1 gung1 zi1 hau6, ngo5 hoi1 ci2 hok6 san1 je5 heoi3 tai4 sing1 zi6 gei2.",
+      "meaning": "After work, I started learning new skills to improve myself.",
+      "sourceWordId": "hok6san1je5-new-skills",
+      "sourceWord": "學新嘢",
+      "sourceWordJyutping": "hok6 san1 je5",
+      "sourceWordMeaning": "new skills",
+      "tags": [
+        "hobbies",
+        "learning",
+        "self-improvement",
+        "skills",
+        "beginner",
+        "spoken Cantonese",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6san1je5-new-skills.json"
+    },
+    {
+      "sentenceId": "hok6san1je5-new-skills-example-4",
+      "sentence": "暑假我想學新嘢，例如彈結他。",
+      "jyutping": "syu2 gaa3 ngo5 soeng2 hok6 san1 je5, juk6 jyu4 taan4 git3 taa1.",
+      "meaning": "During the summer holiday, I want to learn new skills, such as playing guitar.",
+      "sourceWordId": "hok6san1je5-new-skills",
+      "sourceWord": "學新嘢",
+      "sourceWordJyutping": "hok6 san1 je5",
+      "sourceWordMeaning": "new skills",
+      "tags": [
+        "hobbies",
+        "learning",
+        "self-improvement",
+        "skills",
+        "beginner",
+        "spoken Cantonese",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6san1je5-new-skills.json"
+    },
+    {
+      "sentenceId": "sau1cong4-collecting-example-1",
+      "sentence": "我有收藏郵票嘅習慣。",
+      "jyutping": "ngo5 jau5 sau1 cong4 jau4 piu3 ge3 zaap6 gwaan3",
+      "meaning": "I have the habit of collecting stamps.",
+      "sourceWordId": "sau1cong4-collecting",
+      "sourceWord": "收藏",
+      "sourceWordJyutping": "sau1 cong4",
+      "sourceWordMeaning": "collecting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collection",
+        "daily-life",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau1cong4-collecting.json"
+    },
+    {
+      "sentenceId": "sau1cong4-collecting-example-2",
+      "sentence": "佢對收藏公仔好有興趣。",
+      "jyutping": "keoi5 deoi3 sau1 cong4 gung1 zai2 hou2 jau5 hing3 ceoi3",
+      "meaning": "He is very interested in collecting figures.",
+      "sourceWordId": "sau1cong4-collecting",
+      "sourceWord": "收藏",
+      "sourceWordJyutping": "sau1 cong4",
+      "sourceWordMeaning": "collecting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collection",
+        "daily-life",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau1cong4-collecting.json"
+    },
+    {
+      "sentenceId": "sau1cong4-collecting-example-3",
+      "sentence": "呢個博物館有好多古董收藏。",
+      "jyutping": "ni1 go3 bok3 mat6 gun2 jau5 hou2 do1 gu2 dung2 sau1 cong4",
+      "meaning": "This museum has many antique collections.",
+      "sourceWordId": "sau1cong4-collecting",
+      "sourceWord": "收藏",
+      "sourceWordJyutping": "sau1 cong4",
+      "sourceWordMeaning": "collecting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collection",
+        "daily-life",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau1cong4-collecting.json"
+    },
+    {
+      "sentenceId": "sau1cong4-collecting-example-4",
+      "sentence": "我細個嗰陣已經開始收藏卡片。",
+      "jyutping": "ngo5 sai3 go3 go2 zaan6 ji5 ging1 hoi1 ci2 sau1 cong4 kaa1 pin2",
+      "meaning": "I started collecting cards when I was little.",
+      "sourceWordId": "sau1cong4-collecting",
+      "sourceWord": "收藏",
+      "sourceWordJyutping": "sau1 cong4",
+      "sourceWordMeaning": "collecting",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collection",
+        "daily-life",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau1cong4-collecting.json"
+    },
+    {
+      "sentenceId": "zaap6jau4-stamps-example-1",
+      "sentence": "我細個嗰陣好鍾意集郵。",
+      "jyutping": "ngo5 sai3 go3 gwo2 zan6 hou2 zung1 ji3 zaap6 jau4.",
+      "meaning": "I really liked stamp collecting when I was young.",
+      "sourceWordId": "zaap6jau4-stamps",
+      "sourceWord": "集郵",
+      "sourceWordJyutping": "zaap6 jau4",
+      "sourceWordMeaning": "stamps",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collecting",
+        "everyday Cantonese",
+        "beginner",
+        "lifestyle",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6jau4-stamps.json"
+    },
+    {
+      "sentenceId": "zaap6jau4-stamps-example-2",
+      "sentence": "佢而家仲有集郵。",
+      "jyutping": "keoi5 ji4 gaa1 zung6 jau5 zaap6 jau4.",
+      "meaning": "He/She still collects stamps now.",
+      "sourceWordId": "zaap6jau4-stamps",
+      "sourceWord": "集郵",
+      "sourceWordJyutping": "zaap6 jau4",
+      "sourceWordMeaning": "stamps",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collecting",
+        "everyday Cantonese",
+        "beginner",
+        "lifestyle",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6jau4-stamps.json"
+    },
+    {
+      "sentenceId": "zaap6jau4-stamps-example-3",
+      "sentence": "呢個集郵冊好靚。",
+      "jyutping": "ni1 go3 zaap6 jau4 cek3 hou2 leng3.",
+      "meaning": "This stamp album is very nice.",
+      "sourceWordId": "zaap6jau4-stamps",
+      "sourceWord": "集郵",
+      "sourceWordJyutping": "zaap6 jau4",
+      "sourceWordMeaning": "stamps",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collecting",
+        "everyday Cantonese",
+        "beginner",
+        "lifestyle",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6jau4-stamps.json"
+    },
+    {
+      "sentenceId": "zaap6jau4-stamps-example-4",
+      "sentence": "學校有個集郵興趣班。",
+      "jyutping": "hok6 haau6 jau5 go3 zaap6 jau4 hing3 ceoi3 baan1.",
+      "meaning": "The school has a stamp-collecting interest class.",
+      "sourceWordId": "zaap6jau4-stamps",
+      "sourceWord": "集郵",
+      "sourceWordJyutping": "zaap6 jau4",
+      "sourceWordMeaning": "stamps",
+      "tags": [
+        "hobbies",
+        "interests",
+        "collecting",
+        "everyday Cantonese",
+        "beginner",
+        "lifestyle",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6jau4-stamps.json"
+    },
+    {
+      "sentenceId": "zaap6kaat1-cards-example-1",
+      "sentence": "我細個好鍾意集卡。",
+      "jyutping": "ngo5 sai3 go3 hou2 zung1 ji3 zaap6 kaat1.",
+      "meaning": "I loved collecting cards when I was young.",
+      "sourceWordId": "zaap6kaat1-cards",
+      "sourceWord": "集卡",
+      "sourceWordJyutping": "zaap6 kaat1",
+      "sourceWordMeaning": "cards",
+      "tags": [
+        "hobbies",
+        "collecting",
+        "trading cards",
+        "youth culture",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6kaat1-cards.json"
+    },
+    {
+      "sentenceId": "zaap6kaat1-cards-example-2",
+      "sentence": "佢成日去文具舖買集卡。",
+      "jyutping": "keoi5 sing4 jat6 heoi3 man4 geoi6 pou2 maai5 zaap6 kaat1.",
+      "meaning": "He often goes to the stationery shop to buy collectible cards.",
+      "sourceWordId": "zaap6kaat1-cards",
+      "sourceWord": "集卡",
+      "sourceWordJyutping": "zaap6 kaat1",
+      "sourceWordMeaning": "cards",
+      "tags": [
+        "hobbies",
+        "collecting",
+        "trading cards",
+        "youth culture",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6kaat1-cards.json"
+    },
+    {
+      "sentenceId": "zaap6kaat1-cards-example-3",
+      "sentence": "呢套動畫啲集卡好受歡迎。",
+      "jyutping": "ni1 tou3 dung6 waa2 di1 zaap6 kaat1 hou2 sau6 fun1 jing4.",
+      "meaning": "The collectible cards for this anime are very popular.",
+      "sourceWordId": "zaap6kaat1-cards",
+      "sourceWord": "集卡",
+      "sourceWordJyutping": "zaap6 kaat1",
+      "sourceWordMeaning": "cards",
+      "tags": [
+        "hobbies",
+        "collecting",
+        "trading cards",
+        "youth culture",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6kaat1-cards.json"
+    },
+    {
+      "sentenceId": "zaap6kaat1-cards-example-4",
+      "sentence": "你有冇多餘嘅集卡可以同我交換？",
+      "jyutping": "nei5 jau5 mou5 do1 jyu4 ge3 zaap6 kaat1 ho2 ji5 tung4 ngo5 gaau1 wun2?",
+      "meaning": "Do you have any spare cards that you can swap with me?",
+      "sourceWordId": "zaap6kaat1-cards",
+      "sourceWord": "集卡",
+      "sourceWordJyutping": "zaap6 kaat1",
+      "sourceWordMeaning": "cards",
+      "tags": [
+        "hobbies",
+        "collecting",
+        "trading cards",
+        "youth culture",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap6kaat1-cards.json"
+    },
+    {
+      "sentenceId": "maai5je5-shopping-example-1",
+      "sentence": "我聽日想去買嘢。",
+      "jyutping": "ngo5 ting1jat6 soeng2 heoi3 maai5 je5.",
+      "meaning": "I want to go shopping tomorrow.",
+      "sourceWordId": "maai5je5-shopping",
+      "sourceWord": "買嘢",
+      "sourceWordJyutping": "maai5 je5",
+      "sourceWordMeaning": "shopping",
+      "tags": [
+        "shopping",
+        "daily life",
+        "hobbies and interests",
+        "basic vocabulary",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5je5-shopping.json"
+    },
+    {
+      "sentenceId": "maai5je5-shopping-example-2",
+      "sentence": "佢放工之後成日去買嘢。",
+      "jyutping": "keoi5 fong3 gung1 zhi1 hau6 sing4jat6 heoi3 maai5 je5.",
+      "meaning": "He/She often goes shopping after work.",
+      "sourceWordId": "maai5je5-shopping",
+      "sourceWord": "買嘢",
+      "sourceWordJyutping": "maai5 je5",
+      "sourceWordMeaning": "shopping",
+      "tags": [
+        "shopping",
+        "daily life",
+        "hobbies and interests",
+        "basic vocabulary",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5je5-shopping.json"
+    },
+    {
+      "sentenceId": "maai5je5-shopping-example-3",
+      "sentence": "我同阿媽一齊去街市買嘢。",
+      "jyutping": "ngo5 tung4 aa3 maa1 jat1cai4 heoi3 gaai1si5 maai5 je5.",
+      "meaning": "I go shopping at the wet market with my mom.",
+      "sourceWordId": "maai5je5-shopping",
+      "sourceWord": "買嘢",
+      "sourceWordJyutping": "maai5 je5",
+      "sourceWordMeaning": "shopping",
+      "tags": [
+        "shopping",
+        "daily life",
+        "hobbies and interests",
+        "basic vocabulary",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5je5-shopping.json"
+    },
+    {
+      "sentenceId": "maai5je5-shopping-example-4",
+      "sentence": "網上買嘢好方便。",
+      "jyutping": "mong5 soeng6 maai5 je5 hou2 fong1 bin6.",
+      "meaning": "Shopping online is very convenient.",
+      "sourceWordId": "maai5je5-shopping",
+      "sourceWord": "買嘢",
+      "sourceWordJyutping": "maai5 je5",
+      "sourceWordMeaning": "shopping",
+      "tags": [
+        "shopping",
+        "daily life",
+        "hobbies and interests",
+        "basic vocabulary",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5je5-shopping.json"
+    },
+    {
+      "sentenceId": "zyu2faan6-cooking-example-1",
+      "sentence": "我今晚要煮飯。",
+      "jyutping": "ngo5 gam1 maan5 jiu3 zyu2 faan6.",
+      "meaning": "I have to cook dinner tonight.",
+      "sourceWordId": "zyu2faan6-cooking",
+      "sourceWord": "煮飯",
+      "sourceWordJyutping": "zyu2 faan6",
+      "sourceWordMeaning": "cooking",
+      "tags": [
+        "hobbies and interests",
+        "daily life",
+        "household",
+        "beginner",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu2faan6-cooking.json"
+    },
+    {
+      "sentenceId": "zyu2faan6-cooking-example-2",
+      "sentence": "佢好鍾意煮飯。",
+      "jyutping": "keoi5 hou2 zung1ji3 zyu2 faan6.",
+      "meaning": "He/She really likes cooking.",
+      "sourceWordId": "zyu2faan6-cooking",
+      "sourceWord": "煮飯",
+      "sourceWordJyutping": "zyu2 faan6",
+      "sourceWordMeaning": "cooking",
+      "tags": [
+        "hobbies and interests",
+        "daily life",
+        "household",
+        "beginner",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu2faan6-cooking.json"
+    },
+    {
+      "sentenceId": "zyu2faan6-cooking-example-3",
+      "sentence": "阿媽日日都煮飯畀我哋食。",
+      "jyutping": "aa3 maa1 jat6 jat6 dou1 zyu2 faan6 bei2 ngo5dei6 sik6.",
+      "meaning": "My mum cooks for us every day.",
+      "sourceWordId": "zyu2faan6-cooking",
+      "sourceWord": "煮飯",
+      "sourceWordJyutping": "zyu2 faan6",
+      "sourceWordMeaning": "cooking",
+      "tags": [
+        "hobbies and interests",
+        "daily life",
+        "household",
+        "beginner",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu2faan6-cooking.json"
+    },
+    {
+      "sentenceId": "zyu2faan6-cooking-example-4",
+      "sentence": "你識唔識煮飯？",
+      "jyutping": "nei5 sik1 m4 sik1 zyu2 faan6?",
+      "meaning": "Can you cook?",
+      "sourceWordId": "zyu2faan6-cooking",
+      "sourceWord": "煮飯",
+      "sourceWordJyutping": "zyu2 faan6",
+      "sourceWordMeaning": "cooking",
+      "tags": [
+        "hobbies and interests",
+        "daily life",
+        "household",
+        "beginner",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu2faan6-cooking.json"
+    },
+    {
+      "sentenceId": "guk6je5sik6-baking-example-1",
+      "sentence": "我最近開始學焗嘢食。",
+      "jyutping": "ngo5 zeoi3 gan6 hoi1 ci2 hok6 guk6 je5 sik6.",
+      "meaning": "I recently started learning to bake.",
+      "sourceWordId": "guk6je5sik6-baking",
+      "sourceWord": "焗嘢食",
+      "sourceWordJyutping": "guk6 je5 sik6",
+      "sourceWordMeaning": "baking",
+      "tags": [
+        "hobbies",
+        "food",
+        "cooking",
+        "home activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk6je5sik6-baking.json"
+    },
+    {
+      "sentenceId": "guk6je5sik6-baking-example-2",
+      "sentence": "佢好鍾意焗嘢食，特別係曲奇。",
+      "jyutping": "keoi5 hou2 zung1 ji3 guk6 je5 sik6, dak6 bit6 hai6 kuk1 kei4.",
+      "meaning": "She really likes baking, especially cookies.",
+      "sourceWordId": "guk6je5sik6-baking",
+      "sourceWord": "焗嘢食",
+      "sourceWordJyutping": "guk6 je5 sik6",
+      "sourceWordMeaning": "baking",
+      "tags": [
+        "hobbies",
+        "food",
+        "cooking",
+        "home activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk6je5sik6-baking.json"
+    },
+    {
+      "sentenceId": "guk6je5sik6-baking-example-3",
+      "sentence": "星期六我哋一齊焗嘢食啦。",
+      "jyutping": "sing1 kei4 luk6 ngo5 dei6 jat1 cai4 guk6 je5 sik6 laa3.",
+      "meaning": "Let’s bake together on Saturday.",
+      "sourceWordId": "guk6je5sik6-baking",
+      "sourceWord": "焗嘢食",
+      "sourceWordJyutping": "guk6 je5 sik6",
+      "sourceWordMeaning": "baking",
+      "tags": [
+        "hobbies",
+        "food",
+        "cooking",
+        "home activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk6je5sik6-baking.json"
+    },
+    {
+      "sentenceId": "guk6je5sik6-baking-example-4",
+      "sentence": "屋企有焗爐，焗嘢食方便好多。",
+      "jyutping": "uk1 kei2 jau5 guk1 lou4, guk6 je5 sik6 fong1 bin6 hou2 do1.",
+      "meaning": "With an oven at home, baking is much more convenient.",
+      "sourceWordId": "guk6je5sik6-baking",
+      "sourceWord": "焗嘢食",
+      "sourceWordJyutping": "guk6 je5 sik6",
+      "sourceWordMeaning": "baking",
+      "tags": [
+        "hobbies",
+        "food",
+        "cooking",
+        "home activity",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk6je5sik6-baking.json"
+    },
+    {
+      "sentenceId": "ji6gung1-volunteer-example-1",
+      "sentence": "佢喺社區中心做義工。",
+      "jyutping": "keoi5 hai2 sin6keoi1 zung1sam1 zou6 ji6gung1.",
+      "meaning": "He/She volunteers at the community centre.",
+      "sourceWordId": "ji6gung1-volunteer",
+      "sourceWord": "義工",
+      "sourceWordJyutping": "ji6 gung1",
+      "sourceWordMeaning": "volunteer",
+      "tags": [
+        "hobbies and interests",
+        "community service",
+        "charity",
+        "social life",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6gung1-volunteer.json"
+    },
+    {
+      "sentenceId": "ji6gung1-volunteer-example-2",
+      "sentence": "我想暑假去做義工。",
+      "jyutping": "ngo5 soeng2 syu2gaa3 heoi3 zou6 ji6gung1.",
+      "meaning": "I want to do volunteer work during the summer holiday.",
+      "sourceWordId": "ji6gung1-volunteer",
+      "sourceWord": "義工",
+      "sourceWordJyutping": "ji6 gung1",
+      "sourceWordMeaning": "volunteer",
+      "tags": [
+        "hobbies and interests",
+        "community service",
+        "charity",
+        "social life",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6gung1-volunteer.json"
+    },
+    {
+      "sentenceId": "ji6gung1-volunteer-example-3",
+      "sentence": "學校搵咗幾個義工幫手。",
+      "jyutping": "hok6haau6 wan2 zo2 gei2 go3 ji6gung1 bong1 sau2.",
+      "meaning": "The school found a few volunteers to help out.",
+      "sourceWordId": "ji6gung1-volunteer",
+      "sourceWord": "義工",
+      "sourceWordJyutping": "ji6 gung1",
+      "sourceWordMeaning": "volunteer",
+      "tags": [
+        "hobbies and interests",
+        "community service",
+        "charity",
+        "social life",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6gung1-volunteer.json"
+    },
+    {
+      "sentenceId": "ji6gung1-volunteer-example-4",
+      "sentence": "呢個活動需要好多義工。",
+      "jyutping": "ni1 go3 wut6dung6 seoi1jiu1 hou2 do1 ji6gung1.",
+      "meaning": "This event needs a lot of volunteers.",
+      "sourceWordId": "ji6gung1-volunteer",
+      "sourceWord": "義工",
+      "sourceWordJyutping": "ji6 gung1",
+      "sourceWordMeaning": "volunteer",
+      "tags": [
+        "hobbies and interests",
+        "community service",
+        "charity",
+        "social life",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6gung1-volunteer.json"
+    },
+    {
+      "sentenceId": "gaau1pang4jau5-making-friends-example-1",
+      "sentence": "我喺新學校好想交朋友。",
+      "jyutping": "ngo5 hai2 san1 hok6 haau6 hou2 soeng2 gaau1 pang4 jau5.",
+      "meaning": "I want to make friends at the new school.",
+      "sourceWordId": "gaau1pang4jau5-making-friends",
+      "sourceWord": "交朋友",
+      "sourceWordJyutping": "gaau1 pang4 jau5",
+      "sourceWordMeaning": "making friends",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "making friends",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau1pang4jau5-making-friends.json"
+    },
+    {
+      "sentenceId": "gaau1pang4jau5-making-friends-example-2",
+      "sentence": "佢好鍾意參加活動嚟交朋友。",
+      "jyutping": "keoi5 hou2 zung1 ji3 caam1 gaa1 joeng4 dung6 lai4 gaau1 pang4 jau5.",
+      "meaning": "He/She likes joining activities to make friends.",
+      "sourceWordId": "gaau1pang4jau5-making-friends",
+      "sourceWord": "交朋友",
+      "sourceWordJyutping": "gaau1 pang4 jau5",
+      "sourceWordMeaning": "making friends",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "making friends",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau1pang4jau5-making-friends.json"
+    },
+    {
+      "sentenceId": "gaau1pang4jau5-making-friends-example-3",
+      "sentence": "上網都可以交朋友，不過要小心。",
+      "jyutping": "soeng5 mong5 dou1 ho2 ji5 gaau1 pang4 jau5, bat1 gwo3 jiu3 siu2 sam1.",
+      "meaning": "You can make friends online too, but you have to be careful.",
+      "sourceWordId": "gaau1pang4jau5-making-friends",
+      "sourceWord": "交朋友",
+      "sourceWordJyutping": "gaau1 pang4 jau5",
+      "sourceWordMeaning": "making friends",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "making friends",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau1pang4jau5-making-friends.json"
+    },
+    {
+      "sentenceId": "gaau1pang4jau5-making-friends-example-4",
+      "sentence": "大家一齊做功課，好容易交朋友。",
+      "jyutping": "daai6 gaa1 jat1 cai4 zou6 gung1 fo3, hou2 jung4 ji3 gaau1 pang4 jau5.",
+      "meaning": "Doing homework together makes it easy to make friends.",
+      "sourceWordId": "gaau1pang4jau5-making-friends",
+      "sourceWord": "交朋友",
+      "sourceWordJyutping": "gaau1 pang4 jau5",
+      "sourceWordMeaning": "making friends",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "making friends",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau1pang4jau5-making-friends.json"
+    },
+    {
+      "sentenceId": "zeoi6wui6-meetup-example-1",
+      "sentence": "我哋聽日有個小型聚會。",
+      "jyutping": "ngo5 dei6 ting1 jat6 jau5 go3 siu2 jing4 geoi6 wui6.",
+      "meaning": "We have a small meetup tomorrow.",
+      "sourceWordId": "zeoi6wui6-meetup",
+      "sourceWord": "聚會",
+      "sourceWordJyutping": "zeoi6 wui6",
+      "sourceWordMeaning": "meetup",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "meetup",
+        "gathering",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeoi6wui6-meetup.json"
+    },
+    {
+      "sentenceId": "zeoi6wui6-meetup-example-2",
+      "sentence": "呢個聚會好適合鍾意攝影嘅朋友。",
+      "jyutping": "ni1 go3 geoi6 wui6 hou2 sik1 hap6 zung1 ji3 sip3 jing2 ge3 pang4 jau5.",
+      "meaning": "This meetup is very suitable for friends who like photography.",
+      "sourceWordId": "zeoi6wui6-meetup",
+      "sourceWord": "聚會",
+      "sourceWordJyutping": "zeoi6 wui6",
+      "sourceWordMeaning": "meetup",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "meetup",
+        "gathering",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeoi6wui6-meetup.json"
+    },
+    {
+      "sentenceId": "zeoi6wui6-meetup-example-3",
+      "sentence": "佢成日參加讀書聚會。",
+      "jyutping": "keoi5 sing4 jat6 caam1 gaa1 duk6 syu1 geoi6 wui6.",
+      "meaning": "He often joins book meetups.",
+      "sourceWordId": "zeoi6wui6-meetup",
+      "sourceWord": "聚會",
+      "sourceWordJyutping": "zeoi6 wui6",
+      "sourceWordMeaning": "meetup",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "meetup",
+        "gathering",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeoi6wui6-meetup.json"
+    },
+    {
+      "sentenceId": "zeoi6wui6-meetup-example-4",
+      "sentence": "我哋喺咖啡店搞咗個聚會。",
+      "jyutping": "ngo5 dei6 hai2 kaa3 fe1 dim3 gaau2 zo2 go3 geoi6 wui6.",
+      "meaning": "We held a meetup at a café.",
+      "sourceWordId": "zeoi6wui6-meetup",
+      "sourceWord": "聚會",
+      "sourceWordJyutping": "zeoi6 wui6",
+      "sourceWordMeaning": "meetup",
+      "tags": [
+        "hobbies and interests",
+        "social life",
+        "meetup",
+        "gathering",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeoi6wui6-meetup.json"
+    },
+    {
+      "sentenceId": "jam2gaa3fe1-coffee-example-1",
+      "sentence": "我朝早一定要飲咖啡。",
+      "jyutping": "ngo5 ciu4 zou2 jat1 ding6 jiu3 jam2 gaa3 fe1.",
+      "meaning": "I must drink coffee in the morning.",
+      "sourceWordId": "jam2gaa3fe1-coffee",
+      "sourceWord": "飲咖啡",
+      "sourceWordJyutping": "jam2 gaa3 fe1",
+      "sourceWordMeaning": "coffee",
+      "tags": [
+        "beginner",
+        "food and drinks",
+        "daily life",
+        "hobbies and interests",
+        "socializing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-coffee.json"
+    },
+    {
+      "sentenceId": "jam2gaa3fe1-coffee-example-2",
+      "sentence": "佢成日去呢間咖啡店飲咖啡。",
+      "jyutping": "keoi5 sing4 jat6 heoi3 ni1 gaan1 kaa1 fe1 dim3 jam2 gaa3 fe1.",
+      "meaning": "He often goes to this café to drink coffee.",
+      "sourceWordId": "jam2gaa3fe1-coffee",
+      "sourceWord": "飲咖啡",
+      "sourceWordJyutping": "jam2 gaa3 fe1",
+      "sourceWordMeaning": "coffee",
+      "tags": [
+        "beginner",
+        "food and drinks",
+        "daily life",
+        "hobbies and interests",
+        "socializing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-coffee.json"
+    },
+    {
+      "sentenceId": "jam2gaa3fe1-coffee-example-3",
+      "sentence": "食完午飯，我哋一齊飲咖啡。",
+      "jyutping": "sik6 jyun4 ng5 faan6, ngo5 dei6 jat1 cai4 jam2 gaa3 fe1.",
+      "meaning": "After lunch, we drink coffee together.",
+      "sourceWordId": "jam2gaa3fe1-coffee",
+      "sourceWord": "飲咖啡",
+      "sourceWordJyutping": "jam2 gaa3 fe1",
+      "sourceWordMeaning": "coffee",
+      "tags": [
+        "beginner",
+        "food and drinks",
+        "daily life",
+        "hobbies and interests",
+        "socializing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-coffee.json"
+    },
+    {
+      "sentenceId": "jam2gaa3fe1-coffee-example-4",
+      "sentence": "你鍾唔鍾意飲咖啡定飲茶？",
+      "jyutping": "nei5 zung1 m4 zung1 ji3 jam2 gaa3 fe1 ding6 jam2 caa4?",
+      "meaning": "Do you like drinking coffee or tea?",
+      "sourceWordId": "jam2gaa3fe1-coffee",
+      "sourceWord": "飲咖啡",
+      "sourceWordJyutping": "jam2 gaa3 fe1",
+      "sourceWordMeaning": "coffee",
+      "tags": [
+        "beginner",
+        "food and drinks",
+        "daily life",
+        "hobbies and interests",
+        "socializing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-coffee.json"
+    }
+  ],
+  "missingWordFiles": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mou6-fog",
+  "word": "霧",
+  "jyutping": "mou6",
+  "meaning": "fog",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '霧' (mou6) is used as a noun to describe fog or mist in the atmosphere.",
+    "It commonly appears in weather descriptions to indicate low visibility conditions caused by fog.",
+    "You can use '霧' with verbs like '有' (jau5, to have) or '起' (hei2, to rise) when talking about fog appearing or existing.",
+    "'霧' can also be combined with other weather terms to describe specific types of fog, such as '濃霧' (nung4 mou6, thick fog)."
+  ],
+  "examples": [
+    {
+      "id": "mou6-fog-example-1",
+      "sentence": "今朝有好重嘅霧。",
+      "jyutping": "gam1 ziu1 jau5 hou2 cung5 ge3 mou6.",
+      "meaning": "There is very thick fog this morning."
+    },
+    {
+      "id": "mou6-fog-example-2",
+      "sentence": "開車小心，因為有霧。",
+      "jyutping": "hoi1 ce1 siu2 sam1, jan1 wai6 jau5 mou6.",
+      "meaning": "Drive carefully because there is fog."
+    },
+    {
+      "id": "mou6-fog-example-3",
+      "sentence": "霧起咗，要攞把傘。",
+      "jyutping": "mou6 hei2 zo2, jiu3 lo2 baa2 saan3.",
+      "meaning": "The fog has come up, need to take an umbrella."
+    },
+    {
+      "id": "mou6-fog-example-4",
+      "sentence": "山上經常有濃霧。",
+      "jyutping": "saan1 soeng6 ging1 soeng4 jau5 nung4 mou6.",
+      "meaning": "The mountain often has thick fog."
+    }
+  ],
+  "audio": {
+    "word": "mou6-fog.mp3",
+    "examples": [
+      "mou6-fog-example-1.mp3",
+      "mou6-fog-example-2.mp3",
+      "mou6-fog-example-3.mp3",
+      "mou6-fog-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "humidity",
+    "visibility",
+    "nature",
+    "daily conversation",
+    "level-1"
+  ],
+  "related": [
+    "霧散 mou6 saan3 (fog disperses)",
+    "霾 ma4 (haze)",
+    "雲 wan4 (cloud)",
+    "雨 jyu5 (rain)",
+    "天氣 tin1 hei3 (weather)"
+  ]
+}

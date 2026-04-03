@@ -1,0 +1,65 @@
+{
+  "id": "cing1-clear",
+  "word": "清",
+  "jyutping": "cing1",
+  "meaning": "clear",
+  "pos": [
+    "adjective"
+  ],
+  "usage": [
+    "The word 清 (cing1) is an adjective used to describe something that is clear, pure, or distinct.",
+    "In weather contexts, 清 often refers to clear skies without clouds or fog.",
+    "It can also describe clarity in water or vision, indicating no obstruction.",
+    "清 is often used with nouns like 天 (sky), 水 (water), or 眼 (eye) to specify what is clear."
+  ],
+  "examples": [
+    {
+      "id": "cing1-clear-example-1",
+      "sentence": "今日啲天氣好清。",
+      "jyutping": "gam1 jat6 di1 tin1 hei3 hou2 cing1.",
+      "meaning": "The weather is very clear today."
+    },
+    {
+      "id": "cing1-clear-example-2",
+      "sentence": "呢個水塘嘅水好清。",
+      "jyutping": "ni1 go3 seoi2 tong4 ge3 seoi2 hou2 cing1.",
+      "meaning": "The water in this pond is very clear."
+    },
+    {
+      "id": "cing1-clear-example-3",
+      "sentence": "佢嘅眼睛睇得好清楚。",
+      "jyutping": "keoi5 ge3 ngaan5 zing1 tai2 dak1 hou2 cing1 co2.",
+      "meaning": "His/Her eyesight is very clear."
+    },
+    {
+      "id": "cing1-clear-example-4",
+      "sentence": "早晨嘅空氣好清新。",
+      "jyutping": "zou2 san4 ge3 hung1 hei3 hou2 cing1 san1.",
+      "meaning": "The morning air is very fresh and clear."
+    }
+  ],
+  "audio": {
+    "word": "cing1-clear.mp3",
+    "examples": [
+      "cing1-clear-example-1.mp3",
+      "cing1-clear-example-2.mp3",
+      "cing1-clear-example-3.mp3",
+      "cing1-clear-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "adjective",
+    "clarity",
+    "nature",
+    "visibility",
+    "level-1"
+  ],
+  "related": [
+    "天氣 (tin1 hei3) - weather",
+    "霧 (mou6) - fog",
+    "晴天 (cing4 tin1) - sunny day",
+    "潮濕 (ciu4 sap1) - humid",
+    "視野 (si6 je5) - visual field"
+  ]
+}

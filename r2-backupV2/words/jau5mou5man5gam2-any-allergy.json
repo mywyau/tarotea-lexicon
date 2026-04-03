@@ -1,0 +1,65 @@
+{
+  "id": "jau5mou5man5gam2-any-allergy",
+  "word": "有冇敏感",
+  "jyutping": "jau5 mou5 man5 gam2",
+  "meaning": "any allergy",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "This phrase is used to ask if someone has any allergies, typically before medical treatment or consuming new foods.",
+    "It can function as a stand-alone question or be part of a longer sentence.",
+    "The phrase literally means 'have or not sensitive' indicating the presence or absence of allergies or sensitivities.",
+    "This is often asked by doctors or pharmacists to ensure safety with medication or dietary choices."
+  ],
+  "examples": [
+    {
+      "id": "jau5mou5man5gam2-any-allergy-example-1",
+      "sentence": "醫生問我有冇敏感。",
+      "jyutping": "ji1 sang1 man6 ngo5 jau5 mou5 man5 gam2",
+      "meaning": "The doctor asked me if I have any allergies."
+    },
+    {
+      "id": "jau5mou5man5gam2-any-allergy-example-2",
+      "sentence": "你有冇敏感對海鮮？",
+      "jyutping": "nei5 jau5 mou5 man5 gam2 deoi3 hoi2 sin1?",
+      "meaning": "Do you have any allergy to seafood?"
+    },
+    {
+      "id": "jau5mou5man5gam2-any-allergy-example-3",
+      "sentence": "食藥之前，有冇敏感要講清楚。",
+      "jyutping": "sik6 joek6 zi1 cin4, jau5 mou5 man5 gam2 jiu3 gong2 cing1 co2",
+      "meaning": "Before taking medicine, you must say clearly if you have any allergies."
+    },
+    {
+      "id": "jau5mou5man5gam2-any-allergy-example-4",
+      "sentence": "藥劑師問我有冇敏感。",
+      "jyutping": "joek6 zai2 si1 man6 ngo5 jau5 mou5 man5 gam2",
+      "meaning": "The pharmacist asked me if I have any allergies."
+    }
+  ],
+  "audio": {
+    "word": "jau5mou5man5gam2-any-allergy.mp3",
+    "examples": [
+      "jau5mou5man5gam2-any-allergy-example-1.mp3",
+      "jau5mou5man5gam2-any-allergy-example-2.mp3",
+      "jau5mou5man5gam2-any-allergy-example-3.mp3",
+      "jau5mou5man5gam2-any-allergy-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "health",
+    "doctor visit",
+    "allergy",
+    "medicine",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "敏感症 (man5 gam2 zing3) - allergy",
+    "藥物 (joek6 mat6) - medicine",
+    "食物敏感 (sik6 mat6 man5 gam2) - food allergy",
+    "醫生 (ji1 sang1) - doctor",
+    "藥劑師 (joek6 zai2 si1) - pharmacist"
+  ]
+}

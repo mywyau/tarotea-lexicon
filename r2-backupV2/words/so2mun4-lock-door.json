@@ -1,0 +1,66 @@
+{
+  "id": "so2mun4-lock-door",
+  "word": "鎖門",
+  "jyutping": "so2 mun4",
+  "meaning": "lock door",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word '鎖門' is a verb that means to lock the door.",
+    "You can use '鎖門' to describe the action of securing a door with a lock.",
+    "'鎖門' usually appears in everyday conversations about leaving or securing a place.",
+    "It is commonly used in the present or past tense to indicate locking or having locked a door.",
+    "'鎖門' can be followed by the object, the door, explicitly or implied."
+  ],
+  "examples": [
+    {
+      "id": "so2mun4-lock-door-example-1",
+      "sentence": "我出門前記得鎖門。",
+      "jyutping": "ngo5 ceot1 mun4 cin4 gei3 dak1 so2 mun4.",
+      "meaning": "I remember to lock the door before leaving."
+    },
+    {
+      "id": "so2mun4-lock-door-example-2",
+      "sentence": "佢哋鎖門之後先走。",
+      "jyutping": "keoi5 dei6 so2 mun4 zi1 hau6 sin1 zau2.",
+      "meaning": "They locked the door before they left."
+    },
+    {
+      "id": "so2mun4-lock-door-example-3",
+      "sentence": "你應該每晚鎖門保安。",
+      "jyutping": "nei5 jing1 goi1 mui5 maan5 so2 mun4 bou2 on1.",
+      "meaning": "You should lock the door every night for security."
+    },
+    {
+      "id": "so2mun4-lock-door-example-4",
+      "sentence": "我唔記得鎖門，所以返去鎖。",
+      "jyutping": "ngo5 m4 gei3 dak1 so2 mun4, so2 ji5 faan1 heoi3 so2.",
+      "meaning": "I forgot to lock the door, so I went back to lock it."
+    }
+  ],
+  "audio": {
+    "word": "so2mun4-lock-door.mp3",
+    "examples": [
+      "so2mun4-lock-door-example-1.mp3",
+      "so2mun4-lock-door-example-2.mp3",
+      "so2mun4-lock-door-example-3.mp3",
+      "so2mun4-lock-door-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "security",
+    "daily actions",
+    "living_actions",
+    "verbs",
+    "level-1"
+  ],
+  "related": [
+    "開門",
+    "關門",
+    "鎖匙",
+    "門鎖",
+    "上鎖"
+  ]
+}

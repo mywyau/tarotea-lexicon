@@ -1,0 +1,67 @@
+{
+  "id": "jam1-cloudy",
+  "word": "陰",
+  "jyutping": "jam1",
+  "meaning": "cloudy",
+  "pos": [
+    "noun",
+    "adjective"
+  ],
+  "usage": [
+    "The word 陰 (jam1) is used to describe the weather when the sky is covered by clouds and the sun is not visible.",
+    "It can be used as a noun referring to cloudy weather or as an adjective describing something as cloudy.",
+    "In conversation, 陰 can describe both the general weather condition and a specific time during the day when it becomes cloudy.",
+    "It is often contrasted with 晴 (cing4), which means 'sunny'.",
+    "You can combine 陰 with other words to specify the type of cloudiness, like 陰天 (jam1 tin1) meaning a cloudy day."
+  ],
+  "examples": [
+    {
+      "id": "jam1-cloudy-example-1",
+      "sentence": "今日天空好陰，唔多日都唔會落雨。",
+      "jyutping": "gam1 jat6 tin1 hung1 hou2 jam1, m4 do1 jat6 dou1 m4 wui5 lok6 jyu5.",
+      "meaning": "The sky is very cloudy today, but it probably won't rain soon."
+    },
+    {
+      "id": "jam1-cloudy-example-2",
+      "sentence": "你今日心情好陰喎？",
+      "jyutping": "nei5 gam1 jat6 sam1 cing4 hou2 jam1 wo3?",
+      "meaning": "Are you feeling gloomy today?"
+    },
+    {
+      "id": "jam1-cloudy-example-3",
+      "sentence": "聽日預報話會陰天，要帶傘。",
+      "jyutping": "ting1 jat6 jyu6 bou3 waa6 wui5 jam1 tin1, jiu3 daai3 saan3.",
+      "meaning": "The forecast says it will be cloudy tomorrow, bring an umbrella."
+    },
+    {
+      "id": "jam1-cloudy-example-4",
+      "sentence": "三點開始變陰，唔適合去行山。",
+      "jyutping": "saam1 dim2 hoi1 ci2 bin3 jam1, m4 sik1 hap6 heoi3 haang4 saan1.",
+      "meaning": "It started getting cloudy at three o'clock, not good for hiking."
+    }
+  ],
+  "audio": {
+    "word": "jam1-cloudy.mp3",
+    "examples": [
+      "jam1-cloudy-example-1.mp3",
+      "jam1-cloudy-example-2.mp3",
+      "jam1-cloudy-example-3.mp3",
+      "jam1-cloudy-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "cloudy",
+    "sky",
+    "daytime",
+    "mood",
+    "level-1"
+  ],
+  "related": [
+    "晴 (cing4)",
+    "多雲 (do1 wan4)",
+    "雨 (jyu5)",
+    "陰天 (jam1 tin1)",
+    "雲 (wan4)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "si3-to-try",
+  "word": "試",
+  "jyutping": "si3",
+  "meaning": "to try",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "Used to try doing something",
+    "Often paired with 下 for a softer tone"
+  ],
+  "examples": [
+    {
+      "id": "si3-to-try-example-1",
+      "sentence": "我試下先。",
+      "jyutping": "ngo5 si3 haa5 sin1",
+      "meaning": "I’ll try first."
+    },
+    {
+      "id": "si3-to-try-example-2",
+      "sentence": "你試過未？",
+      "jyutping": "nei5 si3 gwo3 mei6",
+      "meaning": "Have you tried it before?"
+    }
+  ],
+  "audio": {
+    "word": "si3-to-try.mp3",
+    "examples": [
+      "si3-to-try-example-1.mp3",
+      "si3-to-try-example-2.mp3"
+    ]
+  },
+  "tags": [
+    "verb",
+    "level-2",
+    "action"
+  ],
+  "related": [
+    "si3haa5-try-casual",
+    "gok3dak1-think"
+  ]
+}

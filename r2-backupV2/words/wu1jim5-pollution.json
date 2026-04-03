@@ -1,0 +1,66 @@
+{
+  "id": "wu1jim5-pollution",
+  "word": "污染",
+  "jyutping": "wu1 jim5",
+  "meaning": "pollution",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word \"污染\" is used primarily as a noun to refer to pollution, usually of the environment.",
+    "It can describe various types of pollution, such as air, water, or soil pollution.",
+    "In sentences, it usually functions as the subject or object.",
+    "You can pair it with verbs like '有' (have) or '減少' (reduce) to say things like '有污染' or '減少污染'.",
+    "It is often used when discussing environmental issues and ecology."
+  ],
+  "examples": [
+    {
+      "id": "wu1jim5-pollution-example-1",
+      "sentence": "呢條河有嚴重嘅污染。",
+      "jyutping": "ni1 tiu4 ho4 jau5 jim4 zung6 ge3 wu1 jim5",
+      "meaning": "This river has serious pollution."
+    },
+    {
+      "id": "wu1jim5-pollution-example-2",
+      "sentence": "我哋要保護環境，減少污染。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 waan4 ging2, gam2 siu2 wu1 jim5",
+      "meaning": "We need to protect the environment and reduce pollution."
+    },
+    {
+      "id": "wu1jim5-pollution-example-3",
+      "sentence": "工廠嘅污染影響住居民嘅健康。",
+      "jyutping": "gung1 cong2 ge3 wu1 jim5 jing2 hoeng2 zyu6 geoi1 gwan1 ge3 gin6 hong1",
+      "meaning": "Factory pollution affects the health of residents."
+    },
+    {
+      "id": "wu1jim5-pollution-example-4",
+      "sentence": "政府出台新政策應付污染問題。",
+      "jyutping": "zing3 fu2 ceot1 toi4 san1 zing3 caak3 jing3 fu6 wu1 jim5 man6 tai4",
+      "meaning": "The government introduced new policies to address pollution problems."
+    }
+  ],
+  "audio": {
+    "word": "wu1jim5-pollution.mp3",
+    "examples": [
+      "wu1jim5-pollution-example-1.mp3",
+      "wu1jim5-pollution-example-2.mp3",
+      "wu1jim5-pollution-example-3.mp3",
+      "wu1jim5-pollution-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "environment",
+    "ecology",
+    "pollution",
+    "nature",
+    "health",
+    "level-1"
+  ],
+  "related": [
+    "空氣污染",
+    "水污染",
+    "環境保護",
+    "減少",
+    "工廠"
+  ]
+}

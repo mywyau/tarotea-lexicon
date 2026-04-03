@@ -1,0 +1,66 @@
+{
+  "id": "beng6duk6-virus",
+  "word": "病毒",
+  "jyutping": "beng6 duk6",
+  "meaning": "virus",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 病毒 is a noun meaning 'virus', a tiny infectious agent that can cause disease.",
+    "It is commonly used in discussions about health, medicine, biology, and disease prevention.",
+    "病毒 often appears with words like 種 when referring to a type of virus, for example '一種病毒' (a type of virus).",
+    "It often appears in compound phrases about health or disease, such as '病毒感染' (viral infection) or '病毒傳播' (virus transmission).",
+    "The noun can be the subject or object in a sentence, for example, '病毒傳播得好快' (The virus spreads very quickly)."
+  ],
+  "examples": [
+    {
+      "id": "beng6duk6-virus-example-1",
+      "sentence": "醫生話呢種病毒好危險。",
+      "jyutping": "ji1 sang1 waa6 ni1 zung2 beng6 duk6 hou2 ngai4 him2.",
+      "meaning": "The doctor said this virus is very dangerous."
+    },
+    {
+      "id": "beng6duk6-virus-example-2",
+      "sentence": "我哋要戴口罩防止病毒傳播。",
+      "jyutping": "ngo5 dei6 jiu3 daai3 hau2 zaau3 fong4 zi2 beng6 duk6 cyun4 bo3.",
+      "meaning": "We need to wear masks to prevent the virus from spreading."
+    },
+    {
+      "id": "beng6duk6-virus-example-3",
+      "sentence": "呢種病毒喺空氣中可以傳播。",
+      "jyutping": "ni1 zung2 beng6 duk6 hai2 hung1 hei3 zung1 ho2 ji5 cyun4 bo3.",
+      "meaning": "This type of virus can spread through the air."
+    },
+    {
+      "id": "beng6duk6-virus-example-4",
+      "sentence": "呢個疫苗可以保護你免受病毒感染。",
+      "jyutping": "ni1 go3 jik6 miu4 ho2 ji5 bou2 wu6 nei5 min5 sau6 beng6 duk6 gam2 jim5.",
+      "meaning": "This vaccine can protect you against viral infection."
+    }
+  ],
+  "audio": {
+    "word": "beng6duk6-virus.mp3",
+    "examples": [
+      "beng6duk6-virus-example-1.mp3",
+      "beng6duk6-virus-example-2.mp3",
+      "beng6duk6-virus-example-3.mp3",
+      "beng6duk6-virus-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "biology",
+    "health",
+    "infection",
+    "virus",
+    "medicine",
+    "level-1"
+  ],
+  "related": [
+    "疫情 (jik6 cing4 - epidemic)",
+    "疫苗 (jik6 miu4 - vaccine)",
+    "傳染 (cyun4 jim5 - infect / infection)",
+    "免疫 (min5 jik6 - immunity)",
+    "感染 (gam2 jim5 - infection)"
+  ]
+}

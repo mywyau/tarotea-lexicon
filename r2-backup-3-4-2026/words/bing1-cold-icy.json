@@ -1,0 +1,66 @@
+{
+  "id": "bing1-cold-icy",
+  "word": "冰",
+  "jyutping": "bing1",
+  "meaning": "ice",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '冰' (bing1) is mainly used as a noun meaning 'ice'.",
+    "It can refer to frozen water in various forms, such as ice cubes or natural ice.",
+    "You can use it to describe something cold or covered with ice.",
+    "'冰' is often combined with other words to specify types of ice or cold conditions.",
+    "In everyday conversation, '冰' is commonly mentioned when talking about drinks, weather, or temperature."
+  ],
+  "examples": [
+    {
+      "id": "bing1-cold-icy-example-1",
+      "sentence": "我想飲凍飲，攞啲冰嚟。",
+      "jyutping": "ngo5 soeng2 jam2 dung3 jam2, lo2 di1 bing1 lai4.",
+      "meaning": "I want a cold drink, bring some ice."
+    },
+    {
+      "id": "bing1-cold-icy-example-2",
+      "sentence": "冬天啲路面冇冰好安全。",
+      "jyutping": "dung1 tin1 di1 lou6 min6 mou5 bing1 hou2 on1 cyun4.",
+      "meaning": "It's safer if there's no ice on the road in winter."
+    },
+    {
+      "id": "bing1-cold-icy-example-3",
+      "sentence": "冰箱入面有啲冰丟左。",
+      "jyutping": "bing1 soeng1 jap6 min6 jau5 di1 bing1 diu1 zo2.",
+      "meaning": "There is some ice left inside the freezer."
+    },
+    {
+      "id": "bing1-cold-icy-example-4",
+      "sentence": "夏天飲啲加冰水好舒服。",
+      "jyutping": "haa6 tin1 jam2 di1 gaa1 bing1 seoi2 hou2 syu1 fuk6.",
+      "meaning": "Drinking water with ice in summer is very refreshing."
+    }
+  ],
+  "audio": {
+    "word": "bing1-cold-icy.mp3",
+    "examples": [
+      "bing1-cold-icy-example-1.mp3",
+      "bing1-cold-icy-example-2.mp3",
+      "bing1-cold-icy-example-3.mp3",
+      "bing1-cold-icy-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "temperature",
+    "cold",
+    "ice",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "雪 (syut3) - snow",
+    "凍 (dung3) - cold",
+    "冰水 (bing1 seoi2) - iced water",
+    "冰箱 (bing1 soeng1) - freezer",
+    "寒冷 (hon4 laang5) - chilly"
+  ]
+}

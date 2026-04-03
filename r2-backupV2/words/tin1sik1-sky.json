@@ -1,0 +1,66 @@
+{
+  "id": "tin1sik1-sky",
+  "word": "天色",
+  "jyutping": "tin1 sik1",
+  "meaning": "sky",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '天色' refers to the color or appearance of the sky.",
+    "It is typically used to describe weather or time of day based on the sky's look.",
+    "You can use '天色' to comment on whether it's bright, cloudy, or dark outside.",
+    "In conversations, '天色' helps people know if it's morning, afternoon, evening, or if rain might come.",
+    "It's a noun and often appears in sentences talking about the environment or weather conditions."
+  ],
+  "examples": [
+    {
+      "id": "tin1sik1-sky-example-1",
+      "sentence": "今日嘅天色好靚。",
+      "jyutping": "gam1 jat6 ge3 tin1 sik1 hou2 leng3.",
+      "meaning": "Today's sky is very beautiful."
+    },
+    {
+      "id": "tin1sik1-sky-example-2",
+      "sentence": "你覺得而家嘅天色係咩嘢？",
+      "jyutping": "nei5 gok3 dak1 ji4 gaa1 ge3 tin1 sik1 hai6 me1 je5?",
+      "meaning": "What do you think the sky looks like now?"
+    },
+    {
+      "id": "tin1sik1-sky-example-3",
+      "sentence": "天色唔好，可能落雨。",
+      "jyutping": "tin1 sik1 m4 hou2, ho2 nang4 lok6 jyu5.",
+      "meaning": "The sky doesn't look good; it might rain."
+    },
+    {
+      "id": "tin1sik1-sky-example-4",
+      "sentence": "我哋快啲出去，天色要暗咗。",
+      "jyutping": "ngo5 dei6 faai3 di1 ceot1 heoi3, tin1 sik1 jiu3 aam3 zo2.",
+      "meaning": "Let's go out quickly; the sky is getting dark."
+    }
+  ],
+  "audio": {
+    "word": "tin1sik1-sky.mp3",
+    "examples": [
+      "tin1sik1-sky-example-1.mp3",
+      "tin1sik1-sky-example-2.mp3",
+      "tin1sik1-sky-example-3.mp3",
+      "tin1sik1-sky-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weather",
+    "sky",
+    "time_of_day",
+    "appearance",
+    "common_noun",
+    "level-1"
+  ],
+  "related": [
+    "天氣 (tin1 hei3)",
+    "晴天 (cing4 tin1)",
+    "陰天 (jam1 tin1)",
+    "落雨 (lok6 jyu5)",
+    "日頭 (jat6 tau4)"
+  ]
+}

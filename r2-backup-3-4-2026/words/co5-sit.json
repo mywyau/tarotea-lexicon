@@ -1,0 +1,66 @@
+{
+  "id": "co5-sit",
+  "word": "坐",
+  "jyutping": "co5",
+  "meaning": "sit",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "坐 means to sit or be seated.",
+    "It is used to describe the physical action of sitting down or remaining seated.",
+    "You can use '坐' with a location to indicate where someone is sitting, e.g., '坐喺張椅度'.",
+    "It can also be used in commands or requests like '坐低' meaning 'sit down'.",
+    "Sometimes '坐' is part of compound verbs or phrases concerning body posture.",
+    "In Cantonese, 坐 can also mean 'take' or 'ride' a form of transport, but that is a separate usage from the basic meaning 'sit'."
+  ],
+  "examples": [
+    {
+      "id": "co5-sit-example-1",
+      "sentence": "你坐喺度休息吓。",
+      "jyutping": "nei5 co5 hai2 dou6 jau1 sik1 haa5.",
+      "meaning": "Sit here and rest a bit."
+    },
+    {
+      "id": "co5-sit-example-2",
+      "sentence": "我坐地鐵去返工。",
+      "jyutping": "ngo5 co5 dei6 tit3 heoi3 faan1 gung1.",
+      "meaning": "I take the subway to go to work."
+    },
+    {
+      "id": "co5-sit-example-3",
+      "sentence": "請坐低，我哋傾吓計。",
+      "jyutping": "cing2 co5 dai1, ngo5 dei6 king1 haa5 gai2.",
+      "meaning": "Please sit down, let's chat."
+    },
+    {
+      "id": "co5-sit-example-4",
+      "sentence": "細路仔唔識得坐定啲。",
+      "jyutping": "sai3 lou6 zai2 m4 sik1 dak1 co5 ding6 di1.",
+      "meaning": "The kid doesn’t know how to sit still."
+    }
+  ],
+  "audio": {
+    "word": "co5-sit.mp3",
+    "examples": [
+      "co5-sit-example-1.mp3",
+      "co5-sit-example-2.mp3",
+      "co5-sit-example-3.mp3",
+      "co5-sit-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic",
+    "verb",
+    "body actions",
+    "daily use",
+    "level-1"
+  ],
+  "related": [
+    "起身 (hei2 san1) - stand up",
+    "企 (kei5) - stand",
+    "坐低 (co5 dai1) - sit down",
+    "瞓 (fan3) - lie down",
+    "休息 (jau1 sik1) - rest"
+  ]
+}

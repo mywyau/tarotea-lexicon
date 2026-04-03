@@ -1,0 +1,39 @@
+{
+  "id": "zing1soeng4-normal",
+  "word": "正常",
+  "jyutping": "zing1 soeng4",
+  "meaning": "normal",
+
+  "pos": ["adjective"],
+
+  "usage": [
+    "Used to describe something usual or expected"
+  ],
+
+  "examples": [
+    {
+      "sentence": "呢個情況好正常。",
+      "jyutping": "ni1 go3 cing4 fong3 hou2 zing1 soeng4",
+      "meaning": "This situation is normal."
+    },
+    {
+      "sentence": "遲少少係正常嘅。",
+      "jyutping": "ci4 siu2 siu2 hai6 zing1 soeng4 ge3",
+      "meaning": "Being a little late is normal."
+    }
+  ],
+
+  "audio": {
+    "word": "zing1soeng4-normal.mp3",
+    "examples": [
+      "zing1soeng4-normal-example-1.mp3",
+      "zing1soeng4-normal-example-2.mp3"
+    ]
+  },
+
+  "tags": ["adjective", "level-2", "description"],
+
+  "related": [
+    "kei4gwaai3-strange"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "zung1-clock",
+  "word": "鐘",
+  "jyutping": "zung1",
+  "meaning": "clock",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 鐘 (zung1) is used to refer to a clock or timepiece.",
+    "It can be used on its own or combined with other words to specify types of clocks, such as 鬧鐘 (alarm clock).",
+    "鐘 is countable and can be used with measure words like 個 (go3) for general objects.",
+    "You can use 鐘 in time expressions, for example, 三點鍾 (3 o'clock).",
+    "It frequently appears in daily conversation related to telling time or household furniture."
+  ],
+  "examples": [
+    {
+      "id": "zung1-clock-example-1",
+      "sentence": "我屋企有一個大鐘。",
+      "jyutping": "ngo5 uk1 kei2 jau5 jat1 go3 daai6 zung1.",
+      "meaning": "I have a big clock at home."
+    },
+    {
+      "id": "zung1-clock-example-2",
+      "sentence": "你幾點鐘起身？",
+      "jyutping": "nei5 gei2 dim2 zung1 hei2 san1?",
+      "meaning": "What time do you get up?"
+    },
+    {
+      "id": "zung1-clock-example-3",
+      "sentence": "廳度掛住個鐘。",
+      "jyutping": "teng1 dou6 gwaa3 zyu6 go3 zung1.",
+      "meaning": "There is a clock hanging in the living room."
+    },
+    {
+      "id": "zung1-clock-example-4",
+      "sentence": "我用鬧鐘叫自己起身。",
+      "jyutping": "ngo5 jung6 naaau6 zung1 giu3 zi6 gei2 hei2 san1.",
+      "meaning": "I use an alarm clock to wake myself up."
+    }
+  ],
+  "audio": {
+    "word": "zung1-clock.mp3",
+    "examples": [
+      "zung1-clock-example-1.mp3",
+      "zung1-clock-example-2.mp3",
+      "zung1-clock-example-3.mp3",
+      "zung1-clock-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "time",
+    "household",
+    "bedroom",
+    "clock",
+    "furniture",
+    "level-1"
+  ],
+  "related": [
+    "鬧鐘 (naaau6 zung1) - alarm clock",
+    "時鐘 (si4 zung1) - clock",
+    "鐘錶 (zung1 biu2) - watch/clock",
+    "掛鐘 (gwaa3 zung1) - wall clock",
+    "手錶 (sau2 biu2) - wristwatch"
+  ]
+}

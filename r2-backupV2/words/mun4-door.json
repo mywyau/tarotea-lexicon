@@ -1,0 +1,65 @@
+{
+  "id": "mun4-door",
+  "word": "門",
+  "jyutping": "mun4",
+  "meaning": "door",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '門' functions as a noun meaning 'door' and is used to refer to physical doors in various contexts.",
+    "'門' can be used on its own or combined with other words to specify types of doors or entrances, such as '大門' (main door).",
+    "It can serve as a countable noun, so it is normal to use measure words with it, like '一扇門' (one door).",
+    "In some phrases, '門' can metaphorically refer to a division or category (e.g., '學問的門' meaning a field of study).",
+    "The word remains the same regardless of tense because nouns in Cantonese do not conjugate."
+  ],
+  "examples": [
+    {
+      "id": "mun4-door-example-1",
+      "sentence": "你記得鎖門未？",
+      "jyutping": "nei5 gei3 dak1 so3 mun4 mei6?",
+      "meaning": "Did you remember to lock the door?"
+    },
+    {
+      "id": "mun4-door-example-2",
+      "sentence": "我哋公司嘅大門好新淨。",
+      "jyutping": "ngo5 dei6 gung1 si1 ge3 daai6 mun4 hou2 san1 zing6.",
+      "meaning": "Our company's main door is very clean."
+    },
+    {
+      "id": "mun4-door-example-3",
+      "sentence": "門口有一張椅。",
+      "jyutping": "mun4 hau2 jau5 jat1 zoeng1 ji2.",
+      "meaning": "There is a chair at the door entrance."
+    },
+    {
+      "id": "mun4-door-example-4",
+      "sentence": "呢座屋嘅門壞咗，要修理。",
+      "jyutping": "ni1 zo6 uk1 ge3 mun4 waai6 zo2, jiu3 sau1 lei5.",
+      "meaning": "The door of this house is broken and needs repair."
+    }
+  ],
+  "audio": {
+    "word": "mun4-door.mp3",
+    "examples": [
+      "mun4-door-example-1.mp3",
+      "mun4-door-example-2.mp3",
+      "mun4-door-example-3.mp3",
+      "mun4-door-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "house_parts",
+    "basic_nouns",
+    "everyday_use",
+    "level-1"
+  ],
+  "related": [
+    "窗 (coeng1) - window",
+    "牆 (coeng4) - wall",
+    "鎖 (so3) - lock",
+    "門口 (mun4 hau2) - doorway",
+    "門鈴 (mun4 ling4) - doorbell"
+  ]
+}

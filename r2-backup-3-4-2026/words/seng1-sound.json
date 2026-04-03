@@ -1,0 +1,66 @@
+{
+  "id": "seng1-sound",
+  "word": "聲",
+  "jyutping": "seng1",
+  "meaning": "sound",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '聲' (seng1) is used to refer to any kind of sound or noise.",
+    "'聲' can describe sounds made by people, animals, or objects.",
+    "It is often used to discuss the source or quality of a sound.",
+    "'聲' can also appear in compound words related to sound.",
+    "When talking about different sounds, '聲' is a basic and common noun."
+  ],
+  "examples": [
+    {
+      "id": "seng1-sound-example-1",
+      "sentence": "外面有好大嘅聲。",
+      "jyutping": "ngoi6 min6 jau5 hou2 daai6 ge3 seng1",
+      "meaning": "There is a very loud sound outside."
+    },
+    {
+      "id": "seng1-sound-example-2",
+      "sentence": "你聽到啲鳥嘅聲未？",
+      "jyutping": "nei5 teng1 dou3 di1 niu5 ge3 seng1 mei6?",
+      "meaning": "Have you heard the birds' sound?"
+    },
+    {
+      "id": "seng1-sound-example-3",
+      "sentence": "電視嘅聲開大啲。",
+      "jyutping": "din6 si6 ge3 seng1 hoi1 daai6 di1",
+      "meaning": "Turn up the TV sound."
+    },
+    {
+      "id": "seng1-sound-example-4",
+      "sentence": "呢個聲好舒服。",
+      "jyutping": "ni1 go3 seng1 hou2 syu1 fuk6",
+      "meaning": "This sound is very comfortable."
+    }
+  ],
+  "audio": {
+    "word": "seng1-sound.mp3",
+    "examples": [
+      "seng1-sound-example-1.mp3",
+      "seng1-sound-example-2.mp3",
+      "seng1-sound-example-3.mp3",
+      "seng1-sound-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "sound",
+    "audio",
+    "physics",
+    "everyday",
+    "basic noun",
+    "level-1"
+  ],
+  "related": [
+    "聲音 (seng1 jam1) sound",
+    "噪音 (zou3 jam1) noise",
+    "音響 (jam1 hoeng2) audio",
+    "回聲 (wui4 seng1) echo",
+    "音量 (jam1 loeng6) volume"
+  ]
+}

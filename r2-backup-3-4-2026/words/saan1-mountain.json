@@ -1,0 +1,64 @@
+{
+  "id": "saan1-mountain",
+  "word": "山",
+  "jyutping": "saan1",
+  "meaning": "mountain",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 山 when talking about a mountain or a hill-like natural landform. It is a very common everyday noun.",
+    "山 can stand alone, or it can be used in compounds and place names. It often appears in geography, travel, and nature talk.",
+    "When speaking casually, people may say 上山 / 落山 for going up or down a mountain. This is very natural in Hong Kong Cantonese.",
+    "山 is also used in fixed expressions and descriptions, so learners should treat it as a basic content noun with broad everyday use."
+  ],
+  "examples": [
+    {
+      "id": "saan1-mountain-example-1",
+      "sentence": "我哋週末去行山睇山景。",
+      "jyutping": "ngo5 dei6 zau1 mat6 heoi3 haang4 saan1 tai2 saan1 ging2.",
+      "meaning": "We go hiking on weekends to see mountain scenery."
+    },
+    {
+      "id": "saan1-mountain-example-2",
+      "sentence": "嗰座山好高，遠遠都見到。",
+      "jyutping": "go2 zoh6 saan1 hou2 gou1, jyun5 jyun5 dou1 gin3 dou2.",
+      "meaning": "That mountain is very tall, and you can see it from far away."
+    },
+    {
+      "id": "saan1-mountain-example-3",
+      "sentence": "佢屋企後面有一座山。",
+      "jyutping": "keoi5 uk1 kei4 hau6 min6 jau5 jat1 zoh6 saan1.",
+      "meaning": "There is a mountain behind his home."
+    },
+    {
+      "id": "saan1-mountain-example-4",
+      "sentence": "下雨之後，山路會比較濕滑。",
+      "jyutping": "haa6 jyu5 zi1 hau6, saan1 lou6 wui5 bei2 gaau3 sap1 waat6.",
+      "meaning": "After it rains, mountain paths can be quite slippery."
+    }
+  ],
+  "audio": {
+    "word": "saan1-mountain.mp3",
+    "examples": [
+      "saan1-mountain-example-1.mp3",
+      "saan1-mountain-example-2.mp3",
+      "saan1-mountain-example-3.mp3",
+      "saan1-mountain-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic vocabulary",
+    "landforms",
+    "nature",
+    "geography",
+    "hk-cantonese",
+    "level-1"
+  ],
+  "related": [
+    "山坡",
+    "山路",
+    "行山",
+    "高山"
+  ]
+}

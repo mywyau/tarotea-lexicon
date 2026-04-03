@@ -1,0 +1,66 @@
+{
+  "id": "min6zik1-area",
+  "word": "面積",
+  "jyutping": "min6 zik1",
+  "meaning": "area",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "- Used for the size of a flat 2D surface, like a room, a shape, or a piece of paper.",
+    "- Commonly appears with verbs like 計, 求, 比較, and with measure words or numbers when talking about math problems.",
+    "- In everyday speech, people often say 面積大 / 面積細 to describe how big or small a surface is.",
+    "- It is a normal school-math word, so learners will hear it often in geometry and word problems."
+  ],
+  "examples": [
+    {
+      "id": "min6zik1-area-example-1",
+      "sentence": "呢個長方形嘅面積係二十平方厘米。",
+      "jyutping": "ni1 go3 coeng4 fong1 sing4 ge3 min6 zik1 hai6 ji6 sap6 ping4 fong1 cin1 lei5.",
+      "meaning": "The area of this rectangle is 20 square centimetres."
+    },
+    {
+      "id": "min6zik1-area-example-2",
+      "sentence": "老師叫我哋計下個圖形嘅面積。",
+      "jyutping": "lou5si1 giu3 ngo5dei6 gai3 haa5 go3 tou4jing4 ge3 min6 zik1.",
+      "meaning": "The teacher asked us to calculate the area of the shape."
+    },
+    {
+      "id": "min6zik1-area-example-3",
+      "sentence": "張枱嘅面積唔大，不過好夠用。",
+      "jyutping": "zoeng1 toi2 ge3 min6 zik1 m4 daai6, bat1 gwo3 hou2 gau3 jung6.",
+      "meaning": "The table isn’t large in area, but it’s still enough to use."
+    },
+    {
+      "id": "min6zik1-area-example-4",
+      "sentence": "如果塊地嘅面積再大啲，就可以起多一間屋。",
+      "jyutping": "jyu4 gwo2 faai3 dei6 ge3 min6 zik1 zoi3 daai6 di1, zau6 ho2 ji5 hei2 do1 jat1 gaan1 uk1.",
+      "meaning": "If the land area were bigger, we could build one more house."
+    }
+  ],
+  "audio": {
+    "word": "min6zik1-area.mp3",
+    "examples": [
+      "min6zik1-area-example-1.mp3",
+      "min6zik1-area-example-2.mp3",
+      "min6zik1-area-example-3.mp3",
+      "min6zik1-area-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "geometry",
+    "shapes",
+    "school",
+    "measurement",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "長度",
+    "闊度",
+    "形狀",
+    "周長",
+    "平方厘米"
+  ]
+}

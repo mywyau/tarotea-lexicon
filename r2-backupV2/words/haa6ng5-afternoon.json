@@ -1,0 +1,66 @@
+{
+  "id": "haa6ng5-afternoon",
+  "word": "下午",
+  "jyutping": "haa6 ng5",
+  "meaning": "afternoon",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "下午 (haa6 ng5) is used to refer to the time period after noon until evening.",
+    "It often comes after the morning (早上) when talking about parts of the day.",
+    "You can use 下午 before a specific time to indicate 'in the afternoon,' like 下午三點 (haa6 ng5 saam1 dim2) meaning '3 PM.'",
+    "It is common to say 下晝 (haa6 zau3) in casual conversation, but 下午 is more formal and written.",
+    "下午 can also be used as a time marker when making plans: 我哋下午見 (ngo5 dei6 haa6 ng5 gin3) means 'Let's meet in the afternoon.'"
+  ],
+  "examples": [
+    {
+      "id": "haa6ng5-afternoon-example-1",
+      "sentence": "我下午有堂。",
+      "jyutping": "ngo5 haa6 ng5 jau5 tong4.",
+      "meaning": "I have class in the afternoon."
+    },
+    {
+      "id": "haa6ng5-afternoon-example-2",
+      "sentence": "下午天氣好熱。",
+      "jyutping": "haa6 ng5 tin1 hei3 hou2 jit6.",
+      "meaning": "The afternoon weather is very hot."
+    },
+    {
+      "id": "haa6ng5-afternoon-example-3",
+      "sentence": "你下午幾點放工？",
+      "jyutping": "nei5 haa6 ng5 gei2 dim2 fong3 gung1?",
+      "meaning": "What time do you finish work in the afternoon?"
+    },
+    {
+      "id": "haa6ng5-afternoon-example-4",
+      "sentence": "我哋下午去飲茶。",
+      "jyutping": "ngo5 dei6 haa6 ng5 heoi3 jam2 caa4.",
+      "meaning": "We will go for dim sum in the afternoon."
+    }
+  ],
+  "audio": {
+    "word": "haa6ng5-afternoon.mp3",
+    "examples": [
+      "haa6ng5-afternoon-example-1.mp3",
+      "haa6ng5-afternoon-example-2.mp3",
+      "haa6ng5-afternoon-example-3.mp3",
+      "haa6ng5-afternoon-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "time",
+    "day",
+    "afternoon",
+    "daily life",
+    "time of day",
+    "level-1"
+  ],
+  "related": [
+    "早上",
+    "晚上",
+    "中午",
+    "下晝",
+    "時間"
+  ]
+}

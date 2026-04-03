@@ -1,0 +1,65 @@
+{
+  "id": "sat1jip6-unemployed",
+  "word": "失業",
+  "jyutping": "sat1 jip6",
+  "meaning": "unemployed",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used to describe a person who does not currently have a job; in Hong Kong Cantonese this is a very common everyday term.",
+    "Often appears with verbs like \"成為\" or \"陷入\" when talking about job loss or unemployment status.",
+    "Can refer to a temporary situation after leaving a job, or a longer-term condition if someone has been out of work for a while.",
+    "Neutral in tone and suitable for news, conversation, and social topics about work and employment."
+  ],
+  "examples": [
+    {
+      "id": "sat1jip6-unemployed-example-1",
+      "sentence": "佢而家失業，正搵緊工。",
+      "jyutping": "keoi5 ji4 gaa1 sat1 jip6, zing3 wan2 gan2 gung1.",
+      "meaning": "He is unemployed now and is looking for a job."
+    },
+    {
+      "id": "sat1jip6-unemployed-example-2",
+      "sentence": "失業率上升咗。",
+      "jyutping": "sat1 jip6 leot2 soeng5 sing1 zo2.",
+      "meaning": "The unemployment rate has gone up."
+    },
+    {
+      "id": "sat1jip6-unemployed-example-3",
+      "sentence": "疫情之後，好多人一度失業。",
+      "jyutping": "jap6 cing4 zi1 hau6, hou2 do1 jan4 jat1 dou6 sat1 jip6.",
+      "meaning": "After the pandemic, many people were unemployed for a period of time."
+    },
+    {
+      "id": "sat1jip6-unemployed-example-4",
+      "sentence": "如果你失業，可以申請綜援。",
+      "jyutping": "jyu4 gwo2 nei5 sat1 jip6, ho2 ji5 san1 cing2 zung3 wun4.",
+      "meaning": "If you are unemployed, you can apply for social welfare assistance."
+    }
+  ],
+  "audio": {
+    "word": "sat1jip6-unemployed.mp3",
+    "examples": [
+      "sat1jip6-unemployed-example-1.mp3",
+      "sat1jip6-unemployed-example-2.mp3",
+      "sat1jip6-unemployed-example-3.mp3",
+      "sat1jip6-unemployed-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "jobs",
+    "employment",
+    "unemployment",
+    "work",
+    "beginner",
+    "common",
+    "level-1"
+  ],
+  "related": [
+    "搵工",
+    "工人",
+    "僱員",
+    "失業率"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "topic": "news-media",
+  "title": "News & Media",
+  "description": "Learn common words used in news, media, and online content, including reporting, journalism, and digital platforms.",
+  "categories": {
+    "news_types": [
+      { "id": "san1man4-news", "word": "新聞", "jyutping": "san1 man4", "meaning": "news" },
+      { "id": "tau4tiu4-headline", "word": "頭條", "jyutping": "tau4 tiu4", "meaning": "headline" },
+      { "id": "bou3zi2-newspaper", "word": "報紙", "jyutping": "bou3 zi2", "meaning": "newspaper" },
+      { "id": "zaap3zi2-magazine", "word": "雜誌", "jyutping": "zaap3 zi2", "meaning": "magazine" },
+      { "id": "din6si6san1man4-tv-news", "word": "電視新聞", "jyutping": "din6 si6 san1 man4", "meaning": "tv news" },
+      { "id": "mong5soeng6san1man4-online-news", "word": "網上新聞", "jyutping": "mong5 soeng6 san1 man4", "meaning": "online news" }
+    ],
+
+    "media_people": [
+      { "id": "gei3ze2-reporter", "word": "記者", "jyutping": "gei3 ze2", "meaning": "reporter" },
+      { "id": "zyu3bo3-news-anchor", "word": "主播", "jyutping": "zyu3 bo3", "meaning": "news anchor" },
+      { "id": "pin1zaap6-editor", "word": "編輯", "jyutping": "pin1 zaap6", "meaning": "editor" },
+      { "id": "ping4leon6jyun4-commentator", "word": "評論員", "jyutping": "ping4 leon6 jyun4", "meaning": "commentator" },
+      { "id": "hok6ze2-scholar", "word": "學者", "jyutping": "hok6 ze2", "meaning": "scholar" }
+    ],
+
+    "reporting_actions": [
+      { "id": "bou3dou6-report", "word": "報導", "jyutping": "bou3 dou6", "meaning": "report" },
+      { "id": "syun1bou3-announce", "word": "宣布", "jyutping": "syun1 bou3", "meaning": "announce" },
+      { "id": "zing3ming4-prove", "word": "證明", "jyutping": "zing3 ming4", "meaning": "prove" },
+      { "id": "jiu1kau4-request", "word": "要求", "jyutping": "jiu1 kau4", "meaning": "request" },
+      { "id": "ping4leon6-commentary", "word": "評論", "jyutping": "ping4 leon6", "meaning": "commentary" }
+    ],
+
+    "media_platforms": [
+      { "id": "din6si6-television", "word": "電視", "jyutping": "din6 si6", "meaning": "television" },
+      { "id": "mong5soeng6-online", "word": "網上", "jyutping": "mong5 soeng6", "meaning": "online" },
+      { "id": "jing2pin3-video", "word": "影片", "jyutping": "jing2 pin3", "meaning": "video" },
+      { "id": "se5gaau1mui4tai2-social-media", "word": "社交媒體", "jyutping": "se5 gaau1 mui4 tai2", "meaning": "social media" }
+    ],
+
+    "digital_media": [
+      { "id": "faai3seon3-news-flash", "word": "快訊", "jyutping": "faai3 seon3", "meaning": "news flash" },
+      { "id": "zik6bo3-livestream", "word": "直播", "jyutping": "zik6 bo3", "meaning": "livestream" },
+      { "id": "baau3hung4-go-viral", "word": "爆紅", "jyutping": "baau3 hung4", "meaning": "go viral" },
+      { "id": "fan1heung2-share", "word": "分享", "jyutping": "fan1 heung2", "meaning": "share" }
+    ],
+
+    "common_news_terms": [
+      { "id": "si6gin6-incident", "word": "事件", "jyutping": "si6 gin6", "meaning": "incident" },
+      { "id": "si6cing4-matter", "word": "事情", "jyutping": "si6 cing4", "meaning": "matter" },
+      { "id": "gaau2co3-make-a-mistake", "word": "搞錯", "jyutping": "gaau2 co3", "meaning": "make a mistake" },
+      { "id": "zing3soeng4-normal", "word": "正常", "jyutping": "zing3 soeng4", "meaning": "normal" },
+      { "id": "cing4fong3-situation", "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation" },
+      { "id": "sam2caa4-censorship", "word": "審查", "jyutping": "sam2 caa4", "meaning": "censorship" }
+    ]
+  }
+}

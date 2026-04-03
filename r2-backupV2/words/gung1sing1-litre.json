@@ -1,0 +1,66 @@
+{
+  "id": "gung1sing1-litre",
+  "word": "公升",
+  "jyutping": "gung1 sing1",
+  "meaning": "litre",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "‘公升’ is used to measure liquid volume, especially for beverages and liquids in containers.",
+    "It often appears with numbers to indicate quantity, for example, '一公升' means one litre.",
+    "‘公升’ can be combined with classifiers like '樽' (bottle) to specify packaging.",
+    "In sentences, it usually follows the quantity and precedes the noun or unit container.",
+    "It is a standard unit in metric volume measurement, and it is commonly used in daily life for cooking, shopping, and measurements."
+  ],
+  "examples": [
+    {
+      "id": "gung1sing1-litre-example-1",
+      "sentence": "我買咗兩公升水。",
+      "jyutping": "ngo5 maai5 zo2 loeng5 gung1 sing1 seoi2.",
+      "meaning": "I bought two litres of water."
+    },
+    {
+      "id": "gung1sing1-litre-example-2",
+      "sentence": "呢支汽水係一公升裝。",
+      "jyutping": "ni1 zi1 hei3 seoi2 hai6 jat1 gung1 sing1 zong1.",
+      "meaning": "This soda is one litre."
+    },
+    {
+      "id": "gung1sing1-litre-example-3",
+      "sentence": "你要幾多公升牛奶？",
+      "jyutping": "nei5 jiu3 gei2 do1 gung1 sing1 ngau4 naai5?",
+      "meaning": "How many litres of milk do you want?"
+    },
+    {
+      "id": "gung1sing1-litre-example-4",
+      "sentence": "煲湯時要加三公升水。",
+      "jyutping": "bou1 tong1 si4 jiu3 gaa1 saam1 gung1 sing1 seoi2.",
+      "meaning": "You need to add three litres of water when making soup."
+    }
+  ],
+  "audio": {
+    "word": "gung1sing1-litre.mp3",
+    "examples": [
+      "gung1sing1-litre-example-1.mp3",
+      "gung1sing1-litre-example-2.mp3",
+      "gung1sing1-litre-example-3.mp3",
+      "gung1sing1-litre-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "volume",
+    "measurement",
+    "liquid",
+    "everyday",
+    "shopping",
+    "level-1"
+  ],
+  "related": [
+    "毫升 (hou4 sing1)",
+    "公克 (gung1 hak1)",
+    "升 (sing1)",
+    "容量 (jung4 loeng6)",
+    "公斤 (gung1 gan1)"
+  ]
+}

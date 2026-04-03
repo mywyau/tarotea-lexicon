@@ -1,0 +1,65 @@
+{
+  "id": "gei2dim2-what-time",
+  "word": "幾點",
+  "jyutping": "gei2 dim2",
+  "meaning": "what time?",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The phrase '幾點' asks about the specific time and is often used to inquire about the hour or the exact moment.",
+    "It can be placed at the beginning or end of a question depending on the sentence structure.",
+    "When responding, you usually state the number of the hour followed by '點'.",
+    "It is informal and commonly used in everyday conversation to ask 'what time is it?' or 'what time?'"
+  ],
+  "examples": [
+    {
+      "id": "gei2dim2-what-time-example-1",
+      "sentence": "依家幾點？",
+      "jyutping": "ji1 gaa1 gei2 dim2?",
+      "meaning": "What time is it now?"
+    },
+    {
+      "id": "gei2dim2-what-time-example-2",
+      "sentence": "我哋幾點開會？",
+      "jyutping": "ngo5 dei6 gei2 dim2 hoi1 wui6?",
+      "meaning": "What time do we start the meeting?"
+    },
+    {
+      "id": "gei2dim2-what-time-example-3",
+      "sentence": "你今日幾點返屋企？",
+      "jyutping": "nei5 gam1 jat6 gei2 dim2 faan1 uk1 kei2?",
+      "meaning": "What time are you going home today?"
+    },
+    {
+      "id": "gei2dim2-what-time-example-4",
+      "sentence": "飛機幾點起飛？",
+      "jyutping": "fei1 gei1 gei2 dim2 hei2 fei1?",
+      "meaning": "What time does the plane take off?"
+    }
+  ],
+  "audio": {
+    "word": "gei2dim2-what-time.mp3",
+    "examples": [
+      "gei2dim2-what-time-example-1.mp3",
+      "gei2dim2-what-time-example-2.mp3",
+      "gei2dim2-what-time-example-3.mp3",
+      "gei2dim2-what-time-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "time",
+    "question",
+    "daily life",
+    "asking time",
+    "informal",
+    "level-1"
+  ],
+  "related": [
+    "點鐘 dim2 zung1 (o'clock)",
+    "鐘 si4 (clock, hour)",
+    "幾時 gei2 si4 (when)",
+    "而家 ji4 gaa1 (now)",
+    "幾多 gei2 do1 (how many/much)"
+  ]
+}

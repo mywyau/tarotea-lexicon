@@ -3,16 +3,14 @@
   "word": "加",
   "jyutping": "gaa1",
   "meaning": "add",
-  "pos": [
-    "verb"
+  "pos": ["verb"],
+  "usage": [
+    "The word 「加」 is a verb meaning 'to add'. It is commonly used in maths when combining numbers or amounts.",
+    "In arithmetic, 「加」 can be used to describe addition, for example adding one number to another.",
+    "In everyday speech, 「加」 can also mean to put in or add something extra, such as sugar, water, or other ingredients.",
+    "「加」 can also be used more broadly to mean adding an extra person, item, or amount to something.",
+    "Common related words include 「加法」 (addition), 「相加」 (to add together), and 「加埋」 (add together / include as well)."
   ],
-"usage": [
-  "The word 「加」 is a verb meaning 'to add'. It is commonly used in maths when combining numbers or amounts.",
-  "In arithmetic, 「加」 can be used to describe addition, for example adding one number to another.",
-  "In everyday speech, 「加」 can also mean to put in or add something extra, such as sugar, water, or other ingredients.",
-  "「加」 can also be used more broadly to mean adding an extra person, item, or amount to something.",
-  "Common related words include 「加法」 (addition), 「相加」 (to add together), and 「加埋」 (add together / include as well)."
-]
   "examples": [
     {
       "id": "gaa1-add-example-1",
@@ -56,11 +54,5 @@
     "everyday use",
     "level-1"
   ],
-  "related": [
-    "加法",
-    "加數",
-    "相加",
-    "加減",
-    "加埋"
-  ]
+  "related": ["加法", "加數", "相加", "加減", "加埋"]
 }

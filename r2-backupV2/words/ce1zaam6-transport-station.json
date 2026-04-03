@@ -1,0 +1,66 @@
+{
+  "id": "ce1zaam6-transport-station",
+  "word": "車站",
+  "jyutping": "ce1 zaam6",
+  "meaning": "transport station",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '車站' refers to any kind of transport station, like train stations, bus stops, or subway stations.",
+    "'車站' is typically used as a noun in sentences.",
+    "You can use '車站' before indicating the type of transport, for example, '地鐵車站' means 'MTR station'.",
+    "It often appears after a location name to specify which station is meant.",
+    "'車站' can be pluralised to talk about multiple stations by adding context, as Cantonese nouns don't change form."
+  ],
+  "examples": [
+    {
+      "id": "ce1zaam6-transport-station-example-1",
+      "sentence": "我喺上水車站等你。",
+      "jyutping": "Ngo5 hai2 Soeng5 Seoi2 ce1zaam6 dang2 nei5.",
+      "meaning": "I'm waiting for you at Sheung Shui station."
+    },
+    {
+      "id": "ce1zaam6-transport-station-example-2",
+      "sentence": "巴士車站喺馬路對面。",
+      "jyutping": "Baa1si2 ce1zaam6 hai2 maa5lou6 deoi3min6.",
+      "meaning": "The bus stop is across the road."
+    },
+    {
+      "id": "ce1zaam6-transport-station-example-3",
+      "sentence": "下一個地鐵車站係旺角。",
+      "jyutping": "Haa6 jat1 go3 dei6tit3 ce1zaam6 hai6 Wong6 Gok3.",
+      "meaning": "The next MTR station is Mong Kok."
+    },
+    {
+      "id": "ce1zaam6-transport-station-example-4",
+      "sentence": "我唔記得點去車站。",
+      "jyutping": "Ngo5 m4 gei3dak1 dim2 heoi3 ce1zaam6.",
+      "meaning": "I forgot how to get to the station."
+    }
+  ],
+  "audio": {
+    "word": "ce1zaam6-transport-station.mp3",
+    "examples": [
+      "ce1zaam6-transport-station-example-1.mp3",
+      "ce1zaam6-transport-station-example-2.mp3",
+      "ce1zaam6-transport-station-example-3.mp3",
+      "ce1zaam6-transport-station-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "public transport",
+    "places",
+    "travel",
+    "station",
+    "level-1"
+  ],
+  "related": [
+    "巴士 (baa1si2 - bus)",
+    "地鐵 (dei6tit3 - MTR/subway)",
+    "的士 (dik1si2 - taxi)",
+    "碼頭 (maa5tau4 - pier)",
+    "月台 (jyut6toi4 - platform)"
+  ]
+}

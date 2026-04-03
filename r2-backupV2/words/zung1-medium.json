@@ -1,0 +1,66 @@
+{
+  "id": "zung1-medium",
+  "word": "中",
+  "jyutping": "zung1",
+  "meaning": "medium",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '中' (zung1) is used as a noun to indicate a medium size, commonly in clothing and shoes.",
+    "'中' is often placed after the noun it describes, for example, '衫中' means 'medium shirt'.",
+    "It can be used alone to answer questions about size, such as 'What size do you want?' — '中' means medium.",
+    "When shopping, '中' helps to specify the size clearly between small and large.",
+    "It is a neutral size term and does not change form regardless of context."
+  ],
+  "examples": [
+    {
+      "id": "zung1-medium-example-1",
+      "sentence": "呢件衫有冇中碼？",
+      "jyutping": "ni1 gin6 saam1 jau5 mou5 zung1 maa5?",
+      "meaning": "Does this shirt have a medium size?"
+    },
+    {
+      "id": "zung1-medium-example-2",
+      "sentence": "我想買雙中碼嘅鞋。",
+      "jyutping": "ngo5 soeng2 maai5 soeng1 zung1 maa5 ge3 haai4.",
+      "meaning": "I want to buy a pair of medium size shoes."
+    },
+    {
+      "id": "zung1-medium-example-3",
+      "sentence": "中碼啱我嘅身形。",
+      "jyutping": "zung1 maa5 ngaam1 ngo5 ge3 san1 jing4.",
+      "meaning": "Medium size fits my body shape."
+    },
+    {
+      "id": "zung1-medium-example-4",
+      "sentence": "你嘅T恤係中碼定大碼？",
+      "jyutping": "nei5 ge3 T-seot1 hai6 zung1 maa5 ding6 daai6 maa5?",
+      "meaning": "Is your T-shirt medium or large size?"
+    }
+  ],
+  "audio": {
+    "word": "zung1-medium.mp3",
+    "examples": [
+      "zung1-medium-example-1.mp3",
+      "zung1-medium-example-2.mp3",
+      "zung1-medium-example-3.mp3",
+      "zung1-medium-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "sizes",
+    "shopping",
+    "clothing",
+    "fit",
+    "medium",
+    "level-1"
+  ],
+  "related": [
+    "大 (daai6) - large",
+    "細 (sai3) - small",
+    "碼 (maa5) - size",
+    "試身 (si3 san1) - try on",
+    "合身 (hap6 san1) - fit"
+  ]
+}

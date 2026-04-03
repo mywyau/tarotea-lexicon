@@ -1,0 +1,66 @@
+{
+  "id": "jyut6toi4-platform",
+  "word": "月台",
+  "jyutping": "jyut6 toi4",
+  "meaning": "platform",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '月台' refers to the platform at a train or subway station where passengers wait for the train.",
+    "'月台' is a noun, so it can act as the subject or object in a sentence.",
+    "You can use '月台' with location verbs like 去 (go), 喺 (at), or 係 (is).",
+    "It can be combined with numbers or directions to specify a particular platform, for example, 第一月台 (platform 1).",
+    "In conversation, '月台' is often used when giving directions or talking about catching trains."
+  ],
+  "examples": [
+    {
+      "id": "jyut6toi4-platform-example-1",
+      "sentence": "我喺月台等緊火車。",
+      "jyutping": "ngo5 hai2 jyut6 toi4 dang2 gan2 fo2 ce1",
+      "meaning": "I am waiting for the train on the platform."
+    },
+    {
+      "id": "jyut6toi4-platform-example-2",
+      "sentence": "月台上有人買嘢食。",
+      "jyutping": "jyut6 toi4 soeng6 jau5 jan4 maai5 je5 sik6",
+      "meaning": "There are people buying food on the platform."
+    },
+    {
+      "id": "jyut6toi4-platform-example-3",
+      "sentence": "你要去第三月台搭車。",
+      "jyutping": "nei5 jiu3 heoi3 dai6 saam1 jyut6 toi4 daap3 ce1",
+      "meaning": "You need to go to platform 3 to catch the train."
+    },
+    {
+      "id": "jyut6toi4-platform-example-4",
+      "sentence": "月台幾點鐘關門？",
+      "jyutping": "jyut6 toi4 gei2 dim2 zung1 gwaan1 mun4?",
+      "meaning": "What time does the platform close?"
+    }
+  ],
+  "audio": {
+    "word": "jyut6toi4-platform.mp3",
+    "examples": [
+      "jyut6toi4-platform-example-1.mp3",
+      "jyut6toi4-platform-example-2.mp3",
+      "jyut6toi4-platform-example-3.mp3",
+      "jyut6toi4-platform-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "train",
+    "subway",
+    "station",
+    "travel",
+    "level-1"
+  ],
+  "related": [
+    "火車",
+    "地鐵",
+    "車票",
+    "候車室",
+    "路線"
+  ]
+}

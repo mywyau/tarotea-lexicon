@@ -1,0 +1,68 @@
+{
+  "id": "gau3ming6-help-save-me",
+  "word": "救命",
+  "jyutping": "gau3 ming6",
+  "meaning": "help! / save me!",
+  "pos": [
+    "exclamation"
+  ],
+  "usage": [
+    "Used as a loud emergency cry when immediate help is needed",
+    "Common in dangerous, medical, or panic situations",
+    "Often shouted on its own or followed by a brief explanation"
+  ],
+  "examples": [
+    {
+      "id": "gau3ming6-help-save-me-example-1",
+      "sentence": "救命！",
+      "jyutping": "gau3 ming6",
+      "meaning": "Help!"
+    },
+    {
+      "id": "gau3ming6-help-save-me-example-2",
+      "sentence": "救命呀！",
+      "jyutping": "gau3 ming6 aa3",
+      "meaning": "Help!"
+    },
+    {
+      "id": "gau3ming6-help-save-me-example-3",
+      "sentence": "救命！我受傷！",
+      "jyutping": "gau3 ming6, ngo5 sau6 zoeng1",
+      "meaning": "Help! I’m injured!"
+    },
+    {
+      "id": "gau3ming6-help-save-me-example-4",
+      "sentence": "救命！好緊急！",
+      "jyutping": "gau3 ming6, hou2 gan2 gap1",
+      "meaning": "Help! It’s an emergency!"
+    },
+    {
+      "id": "gau3ming6-help-save-me-example-5",
+      "sentence": "救命！快啲叫救護車！",
+      "jyutping": "gau3 ming6, faai3 di1 giu3 gau3 wu6 ce1",
+      "meaning": "Help! Call an ambulance!"
+    }
+  ],
+  "audio": {
+    "word": "gau3ming6-help-save-me.mp3",
+    "examples": [
+      "gau3ming6-help-save-me-example-1.mp3",
+      "gau3ming6-help-save-me-example-2.mp3",
+      "gau3ming6-help-save-me-example-3.mp3",
+      "gau3ming6-help-save-me-example-4.mp3",
+      "gau3ming6-help-save-me-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "exclamation",
+    "level-1",
+    "core",
+    "emergency",
+    "survival"
+  ],
+  "related": [
+    "gan2gap1-emergency",
+    "sau6zoeng1-injured",
+    "bong1-help"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "topic": "daily_life_routine",
+  "title": "Daily Life Routine",
+  "description": "Talk about everyday routines like waking up, brushing teeth, eating meals, going out, resting, and sleeping.",
+  "categories": {
+    "morning_routine": [
+      { "id": "hei2san1-wake-up", "word": "起身", "jyutping": "hei2 san1", "meaning": "wake up" },
+      { "id": "caat3ngaa4-brush-teeth", "word": "刷牙", "jyutping": "caat3 ngaa4", "meaning": "brush teeth" },
+      { "id": "sai2min6-wash-face", "word": "洗面", "jyutping": "sai2 min6", "meaning": "wash face" },
+      { "id": "cung1loeng4-take-a-shower", "word": "沖涼", "jyutping": "cung1 loeng4", "meaning": "take a shower" },
+      { "id": "wun6saam1-change-clothes", "word": "換衫", "jyutping": "wun6 saam1", "meaning": "change clothes" },
+      { "id": "so1tau4-comb-hair", "word": "梳頭", "jyutping": "so1 tau4", "meaning": "comb hair" },
+      { "id": "sik6zou2caan1-eat-breakfast", "word": "食早餐", "jyutping": "sik6 zou2 caan1", "meaning": "eat breakfast" },
+      { "id": "jam2gaa3fe1-drink-coffee", "word": "飲咖啡", "jyutping": "jam2 gaa3 fe1", "meaning": "drink coffee" }
+    ],
+
+    "work_and_school": [
+      { "id": "ceot1mun4-leave-home", "word": "出門", "jyutping": "ceot1 mun4", "meaning": "go out" },
+      { "id": "daap3ce1-take-transport", "word": "搭車", "jyutping": "daap3 ce1", "meaning": "take transport" },
+      { "id": "faan1gung1-go-to-work", "word": "返工", "jyutping": "faan1 gung1", "meaning": "go to work" },
+      { "id": "faan1hok6-go-to-school", "word": "返學", "jyutping": "faan1 hok6", "meaning": "go to school" },
+      { "id": "fong3gung1-finish-work", "word": "放工", "jyutping": "fong3 gung1", "meaning": "finish work" },
+      { "id": "fong3hok6-finish-school", "word": "放學", "jyutping": "fong3 hok6", "meaning": "finish school" },
+      { "id": "faan1uk1kei2-go-home", "word": "返屋企", "jyutping": "faan1 uk1 kei2", "meaning": "go home" },
+      { "id": "zou6gung1fo3-do-homework", "word": "做功課", "jyutping": "zou6 gung1 fo3", "meaning": "do homework" }
+    ],
+
+    "meals_and_food": [
+      { "id": "sik6ng5caan1-eat-lunch", "word": "食午餐", "jyutping": "sik6 ng5 caan1", "meaning": "eat lunch" },
+      { "id": "sik6maan5faan6-eat-dinner", "word": "食晚飯", "jyutping": "sik6 maan5 faan6", "meaning": "eat dinner" },
+      { "id": "jam2seoi2-drink-water", "word": "飲水", "jyutping": "jam2 seoi2", "meaning": "drink water" },
+      { "id": "jam2caa4-drink-tea", "word": "飲茶", "jyutping": "jam2 caa4", "meaning": "have tea" },
+      { "id": "sik6ling4sik6-have-snack", "word": "食零食", "jyutping": "sik6 ling4 sik6", "meaning": "have a snack" },
+      { "id": "zyu2faan6-cook", "word": "煮飯", "jyutping": "zyu2 faan6", "meaning": "cook a meal" },
+      { "id": "sai2wun2-wash-dishes", "word": "洗碗", "jyutping": "sai2 wun2", "meaning": "wash dishes" },
+      { "id": "maai5sung3-buy-groceries", "word": "買餸", "jyutping": "maai5 sung3", "meaning": "buy ingredients" }
+    ],
+
+    "housework_and_chores": [
+      { "id": "zap1uk1-tidy-house", "word": "執屋", "jyutping": "zap1 uk1", "meaning": "tidy the house" },
+      { "id": "sou3dei6-sweep-floor", "word": "掃地", "jyutping": "sou3 dei6", "meaning": "sweep floor" },
+      { "id": "to1dei6-mop-floor", "word": "拖地", "jyutping": "to1 dei6", "meaning": "mop floor" },
+      { "id": "sai2saam1-wash-clothes", "word": "洗衫", "jyutping": "sai2 saam1", "meaning": "wash clothes" },
+      { "id": "long6saam1-hang-clothes", "word": "晾衫", "jyutping": "long6 saam1", "meaning": "hang clothes to dry" },
+      { "id": "zip3saam1-fold-clothes", "word": "摺衫", "jyutping": "zip3 saam1", "meaning": "fold clothes" },
+      { "id": "dou3laap6saap3-take-out-trash", "word": "倒垃圾", "jyutping": "dou3 laap6 saap3", "meaning": "take out trash" },
+      { "id": "sau1sap6-tidy-up", "word": "收拾", "jyutping": "sau1 sap6", "meaning": "tidy up" }
+    ],
+
+    "rest_and_leisure": [
+      { "id": "jau1sik1-rest", "word": "休息", "jyutping": "jau1 sik1", "meaning": "rest" },
+      { "id": "saan3bou6-take-walk", "word": "散步", "jyutping": "saan3 bou6", "meaning": "take a walk" },
+      { "id": "zou6wan6dung6-exercise", "word": "做運動", "jyutping": "zou6 wan6 dung6", "meaning": "exercise" },
+      { "id": "tai2din6si6-watch-tv", "word": "睇電視", "jyutping": "tai2 din6 si6", "meaning": "watch tv" },
+      { "id": "teng1go1-listen-music", "word": "聽歌", "jyutping": "teng1 go1", "meaning": "listen to music" },
+      { "id": "tai2syu1-read-book", "word": "睇書", "jyutping": "tai2 syu1", "meaning": "read" },
+      { "id": "soeng5mong5-go-online", "word": "上網", "jyutping": "soeng5 mong5", "meaning": "go online" },
+      { "id": "fan3ngaan3gaau3-take-nap", "word": "瞓晏覺", "jyutping": "fan3 ngaan3 gaau3", "meaning": "take a nap" }
+    ],
+
+    "bedtime_routine": [
+      { "id": "gwaan1dang1-turn-off-light", "word": "關燈", "jyutping": "gwaan1 dang1", "meaning": "turn off the light" },
+      { "id": "soeng5cong4-go-to-bed", "word": "上床", "jyutping": "soeng5 cong4", "meaning": "go to bed" },
+      { "id": "fan3gaau3-sleep", "word": "瞓覺", "jyutping": "fan3 gaau3", "meaning": "sleep" },
+      { "id": "zou2di1fan3-sleep-early", "word": "早啲瞓", "jyutping": "zou2 di1 fan3", "meaning": "go to bed early" },
+      { "id": "gwaan1mun4-close-door", "word": "關門", "jyutping": "gwaan1 mun4", "meaning": "close door" },
+      { "id": "fong3sung1-relax", "word": "放鬆", "jyutping": "fong3 sung1", "meaning": "relax" }
+    ]
+  }
+}

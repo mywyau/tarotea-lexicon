@@ -1,0 +1,66 @@
+{
+  "id": "zing2sou3-integer",
+  "word": "整數",
+  "jyutping": "zing2 sou3",
+  "meaning": "integer",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 整數 when you mean a whole number with no decimal part or fraction.",
+    "It is often used in math lessons, exams, and basic number talk.",
+    "整數 can be contrasted with 小數 and 分數.",
+    "It can also be used in more formal writing about numbers and data."
+  ],
+  "examples": [
+    {
+      "id": "zing2sou3-integer-example-1",
+      "sentence": "5 係整數。",
+      "jyutping": "5 hai6 zing2 sou3.",
+      "meaning": "5 is an integer."
+    },
+    {
+      "id": "zing2sou3-integer-example-2",
+      "sentence": "呢條題目要填整數。",
+      "jyutping": "ni1 tiu4 tai4 muk6 jiu3 tim4 zing2 sou3.",
+      "meaning": "This question needs an integer answer."
+    },
+    {
+      "id": "zing2sou3-integer-example-3",
+      "sentence": "3.5 唔係整數。",
+      "jyutping": "3.5 m4 hai6 zing2 sou3.",
+      "meaning": "3.5 is not an integer."
+    },
+    {
+      "id": "zing2sou3-integer-example-4",
+      "sentence": "呢組數據全部都係整數。",
+      "jyutping": "ni1 zou2 sou3 geoi3 cyu3 cyun4 bou6 dou1 hai6 zing2 sou3.",
+      "meaning": "All the data in this set are integers."
+    }
+  ],
+  "audio": {
+    "word": "zing2sou3-integer.mp3",
+    "examples": [
+      "zing2sou3-integer-example-1.mp3",
+      "zing2sou3-integer-example-2.mp3",
+      "zing2sou3-integer-example-3.mp3",
+      "zing2sou3-integer-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "numbers",
+    "number types",
+    "beginner",
+    "school",
+    "whole number",
+    "level-1"
+  ],
+  "related": [
+    "小數",
+    "分數",
+    "正數",
+    "負數",
+    "有理數"
+  ]
+}

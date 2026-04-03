@@ -1,0 +1,66 @@
+{
+  "id": "dim2sam1-dim-sum",
+  "word": "點心",
+  "jyutping": "dim2 sam1",
+  "meaning": "dim sum",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word \"點心\" is a noun and refers to the small dishes served mainly during yum cha.",
+    "\"點心\" can be used to talk about both the food itself and the dining style where these dishes are eaten.",
+    "When talking about eating \"點心\", it often implies sharing multiple small plates with others.",
+    "\"點心\" is generally uncountable, so you don’t say one 點心 but rather one plate or type of 點心.",
+    "\"點心\" can be modified by adjectives to describe different varieties like steamed or fried."
+  ],
+  "examples": [
+    {
+      "id": "dim2sam1-dim-sum-example-1",
+      "sentence": "我哋今晚去飲茶食點心。",
+      "jyutping": "ngo5 dei6 gam1 maan5 heoi3 jam2 caa4 sik6 dim2 sam1",
+      "meaning": "We are going to yum cha to eat dim sum tonight."
+    },
+    {
+      "id": "dim2sam1-dim-sum-example-2",
+      "sentence": "呢碟蝦餃係我最鍾意嘅點心。",
+      "jyutping": "ni1 dip6 haa1 gaau2 hai6 ngo5 zeoi3 zung1 ji3 ge3 dim2 sam1",
+      "meaning": "This plate of shrimp dumplings is my favorite dim sum."
+    },
+    {
+      "id": "dim2sam1-dim-sum-example-3",
+      "sentence": "點心通常喺早上或者午餐時間食。",
+      "jyutping": "dim2 sam1 tung1 soeng4 hai6 zou2 soeng6 waak6 ze2 ng5 caan1 si4 gaan3 sik6",
+      "meaning": "Dim sum is usually eaten in the morning or during lunch."
+    },
+    {
+      "id": "dim2sam1-dim-sum-example-4",
+      "sentence": "飲茶嘅時候，我哋會叫好多唔同嘅點心。",
+      "jyutping": "jam2 caa4 ge3 si4 hau6, ngo5 dei6 wui5 giu3 hou2 do1 m4 tung4 ge3 dim2 sam1",
+      "meaning": "When drinking tea, we order many different kinds of dim sum."
+    }
+  ],
+  "audio": {
+    "word": "dim2sam1-dim-sum.mp3",
+    "examples": [
+      "dim2sam1-dim-sum-example-1.mp3",
+      "dim2sam1-dim-sum-example-2.mp3",
+      "dim2sam1-dim-sum-example-3.mp3",
+      "dim2sam1-dim-sum-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "yum cha",
+    "bite-sized",
+    "traditional",
+    "eating out",
+    "level-1"
+  ],
+  "related": [
+    "飲茶 (jam2 caa4)",
+    "蝦餃 (haa1 gaau2)",
+    "燒賣 (siu1 mai2)",
+    "腸粉 (coeng4 fan2)",
+    "蓮蓉包 (lin4 jung4 baau1)"
+  ]
+}

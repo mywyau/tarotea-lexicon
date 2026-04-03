@@ -1,0 +1,66 @@
+{
+  "id": "hak1-gram",
+  "word": "克",
+  "jyutping": "hak1",
+  "meaning": "gram",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '克' is a noun which refers to the unit of weight 'gram'.",
+    "'克' is used to measure small weights, often in cooking or grocery shopping.",
+    "When using '克', it usually appears after the number indicating how many grams.",
+    "You can combine '克' with specific quantities, e.g., 十克 (10 grams), 五十克 (50 grams).",
+    "'克' can be used alone or with other units for compound weights, but it always follows the number."
+  ],
+  "examples": [
+    {
+      "id": "hak1-gram-example-1",
+      "sentence": "呢包米有一百克。",
+      "jyutping": "ni1 baau1 mai5 jau5 jat1 baak3 hak1.",
+      "meaning": "This bag of rice has 100 grams."
+    },
+    {
+      "id": "hak1-gram-example-2",
+      "sentence": "我要買五十克牛肉。",
+      "jyutping": "ngo5 jiu3 maai5 ng5 sap6 hak1 ngau4 juk6.",
+      "meaning": "I want to buy 50 grams of beef."
+    },
+    {
+      "id": "hak1-gram-example-3",
+      "sentence": "呢啲糖每粒十二克。",
+      "jyutping": "ni1 di1 tong4 mui5 lap1 sap6 ji6 hak1.",
+      "meaning": "Each of these candies weighs 12 grams."
+    },
+    {
+      "id": "hak1-gram-example-4",
+      "sentence": "你應該用克嚟秤重。",
+      "jyutping": "nei5 jing1 goi1 jung6 hak1 lai4 caang3 zung6.",
+      "meaning": "You should use grams to weigh."
+    }
+  ],
+  "audio": {
+    "word": "hak1-gram.mp3",
+    "examples": [
+      "hak1-gram-example-1.mp3",
+      "hak1-gram-example-2.mp3",
+      "hak1-gram-example-3.mp3",
+      "hak1-gram-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "weight",
+    "measurement",
+    "kitchen",
+    "food",
+    "units",
+    "level-1"
+  ],
+  "related": [
+    "公斤",
+    "毫克",
+    "磅",
+    "重量",
+    "克拉"
+  ]
+}

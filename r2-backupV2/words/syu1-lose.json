@@ -1,0 +1,67 @@
+{
+  "id": "syu1-lose",
+  "word": "輸",
+  "jyutping": "syu1",
+  "meaning": "lose",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word '輸' (syu1) is used as a verb meaning 'to lose', especially in games, sports, or competitions.",
+    "'輸' can be used alone or with an object, such as 輸比賽 (lose a match).",
+    "You can combine '輸' with 得 (dak1) or 咗 (zo2) in phrases like 輸咗 (lost) to indicate past results.",
+    "'輸' sometimes appears in phrases with 俾 (bei2) to express losing against someone, e.g. 俾人輸.",
+    "It is often contrasted with 贏 (jing4), which means 'to win'."
+  ],
+  "examples": [
+    {
+      "id": "syu1-lose-example-1",
+      "sentence": "我今次比賽輸咗。",
+      "jyutping": "ngo5 gam1 ci3 bei2 coi3 syu1 zo2",
+      "meaning": "I lost this competition."
+    },
+    {
+      "id": "syu1-lose-example-2",
+      "sentence": "你唔好驚輸，繼續努力。",
+      "jyutping": "nei5 m4 hou2 geng1 syu1, gai3 zuk6 nou5 lik6",
+      "meaning": "Don’t be afraid of losing, keep trying hard."
+    },
+    {
+      "id": "syu1-lose-example-3",
+      "sentence": "足球隊輸咗三比零。",
+      "jyutping": "zuk1 kau4 deoi2 syu1 zo2 saam1 bei2 ling4",
+      "meaning": "The football team lost 3-0."
+    },
+    {
+      "id": "syu1-lose-example-4",
+      "sentence": "佢唔想輸比人。",
+      "jyutping": "keoi5 m4 soeng2 syu1 bei2 jan4",
+      "meaning": "He doesn’t want to lose to others."
+    }
+  ],
+  "audio": {
+    "word": "syu1-lose.mp3",
+    "examples": [
+      "syu1-lose-example-1.mp3",
+      "syu1-lose-example-2.mp3",
+      "syu1-lose-example-3.mp3",
+      "syu1-lose-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "sports",
+    "competitions",
+    "games",
+    "results",
+    "verb",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "贏 (jing4) - win",
+    "比賽 (bei2 coi3) - competition",
+    "輸咗 (syu1 zo2) - lost",
+    "失敗 (sat1 baai6) - fail",
+    "挑戰 (tiu1 zin3) - challenge"
+  ]
+}

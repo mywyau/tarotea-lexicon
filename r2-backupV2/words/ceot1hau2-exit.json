@@ -1,0 +1,66 @@
+{
+  "id": "ceot1hau2-exit",
+  "word": "出口",
+  "jyutping": "ceot1 hau2",
+  "meaning": "exit",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "‘出口’ is a noun meaning ‘exit’, commonly used to indicate a way out from a place like a building or station.",
+    "It is often found on signs in public transport facilities to help passengers find their way.",
+    "You can use ‘出口’ to refer to physical exits as well as metaphorical exits in some cases, though mostly it is literal.",
+    "It is usually followed by the location or direction to specify which exit, e.g., ‘A出口’ for Exit A.",
+    "‘出口’ can be placed before or after a classifier when counting exits, for example, ‘兩個出口’ means ‘two exits’."
+  ],
+  "examples": [
+    {
+      "id": "ceot1hau2-exit-example-1",
+      "sentence": "你喺邊度出嚟？出口喺邊？",
+      "jyutping": "nei5 hai2 bin1 dou6 ceot1 lai4? ceot1 hau2 hai2 bin1?",
+      "meaning": "Where did you come out? Where is the exit?"
+    },
+    {
+      "id": "ceot1hau2-exit-example-2",
+      "sentence": "地鐵站嘅A出口好容易搵。",
+      "jyutping": "dei6 tit3 zaam6 ge3 A ceot1 hau2 hou2 jung4 ji6 wan2.",
+      "meaning": "Exit A of the MTR station is easy to find."
+    },
+    {
+      "id": "ceot1hau2-exit-example-3",
+      "sentence": "請沿住標示行去出口。",
+      "jyutping": "cing2 jyun4 zyu6 biu1 si6 haang4 heoi3 ceot1 hau2.",
+      "meaning": "Please follow the signs to the exit."
+    },
+    {
+      "id": "ceot1hau2-exit-example-4",
+      "sentence": "呢度有兩個出口，一個係北邊，一個係南邊。",
+      "jyutping": "ni1 dou6 jau5 loeng5 go3 ceot1 hau2, jat1 go3 hai6 bak1 bin1, jat1 go3 hai6 naam4 bin1.",
+      "meaning": "There are two exits here, one is on the north side and one is on the south side."
+    }
+  ],
+  "audio": {
+    "word": "ceot1hau2-exit.mp3",
+    "examples": [
+      "ceot1hau2-exit-example-1.mp3",
+      "ceot1hau2-exit-example-2.mp3",
+      "ceot1hau2-exit-example-3.mp3",
+      "ceot1hau2-exit-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "public_transport",
+    "direction",
+    "location",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "入口 (jap6 hau2)",
+    "地鐵 (dei6 tit3)",
+    "巴士 (baa1 si2)",
+    "標示 (biu1 si6)",
+    "站 (zaam6)"
+  ]
+}

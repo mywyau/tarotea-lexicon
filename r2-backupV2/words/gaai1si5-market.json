@@ -1,0 +1,65 @@
+{
+  "id": "gaai1si5-market",
+  "word": "街市",
+  "jyutping": "gaai1 si5",
+  "meaning": "market",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "A common everyday noun for a neighborhood market; use it when talking about shopping for fresh food and household basics.",
+    "It often refers to a wet market in Hong Kong, so it feels more local than a supermarket.",
+    "Common collocations include 去街市, 落街市, and 街市買餸.",
+    "Natural in daily-errand contexts, especially when describing where you go to buy vegetables, meat, seafood, or fruit."
+  ],
+  "examples": [
+    {
+      "id": "gaai1si5-market-example-1",
+      "sentence": "我今朝去街市買菜。",
+      "jyutping": "ngo5 gam1 ziu1 heoi3 gaai1 si5 maai5 coi3.",
+      "meaning": "I went to the market this morning to buy vegetables."
+    },
+    {
+      "id": "gaai1si5-market-example-2",
+      "sentence": "阿媽成日喺街市揀魚。",
+      "jyutping": "aa3 ma1 sing4 jat6 hai2 gaai1 si5 gaan2 jyu4.",
+      "meaning": "Mom often picks fish at the market."
+    },
+    {
+      "id": "gaai1si5-market-example-3",
+      "sentence": "呢個街市好多熟食檔。",
+      "jyutping": "ni1 go3 gaai1 si5 hou2 do1 suk6 sik6 dong3.",
+      "meaning": "This market has many cooked-food stalls."
+    },
+    {
+      "id": "gaai1si5-market-example-4",
+      "sentence": "放工之後，我會順便去街市。",
+      "jyutping": "fong3 gung1 zi1 hau6, ngo5 wui5 seon6 bin6 heoi3 gaai1 si5.",
+      "meaning": "After work, I’ll go to the market on the way."
+    }
+  ],
+  "audio": {
+    "word": "gaai1si5-market.mp3",
+    "examples": [
+      "gaai1si5-market-example-1.mp3",
+      "gaai1si5-market-example-2.mp3",
+      "gaai1si5-market-example-3.mp3",
+      "gaai1si5-market-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "daily errands",
+    "shopping",
+    "local services",
+    "food market",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": [
+    "菜市場",
+    "超級市場",
+    "買餸",
+    "街市檔",
+    "熟食檔"
+  ]
+}

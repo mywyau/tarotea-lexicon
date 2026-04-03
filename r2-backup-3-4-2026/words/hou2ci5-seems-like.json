@@ -1,0 +1,40 @@
+{
+  "id": "hou2ci5-seems-like",
+  "word": "好似",
+  "jyutping": "hou2 ci5",
+  "meaning": "seems like; appears to be; similar to",
+
+  "pos": ["verb", "adverb"],
+
+  "usage": [
+    "Used to express an impression or guess based on what you observe",
+    "Can mean ‘it seems like…’ or ‘it looks like…’",
+    "Also used to mean ‘similar to’ when comparing things",
+    "Very common in everyday spoken Cantonese"
+  ],
+
+  "examples": [
+    {
+      "id": "hou2ci5-seems-like-example-1",
+      "sentence": "好似就快落雨喇。",
+      "jyutping": "hou2 ci5 zau6 faai3 lok6 jyu5 laa3",
+      "meaning": "It seems like it’s about to rain."
+    },
+    {
+      "id": "hou2ci5-seems-like-example-2",
+      "sentence": "佢好似唔係好開心。",
+      "jyutping": "keoi5 hou2 ci5 m4 hai6 hou2 hoi1 sam1",
+      "meaning": "He seems not very happy."
+    }
+  ],
+
+  "audio": {
+    "word": "hou2ci5-seems-like.mp3",
+    "examples": [
+      "hou2ci5-seems-like-example-1.mp3",
+      "hou2ci5-seems-like-example-2.mp3"
+    ]
+  },
+
+  "tags": ["level-2", "perception", "comparison", "common"]
+}

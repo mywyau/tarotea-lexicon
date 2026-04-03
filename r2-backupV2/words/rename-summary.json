@@ -1,0 +1,10 @@
+{
+  "rootDir": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words",
+  "outputDir": "/Users/michaelyau/tarotea/openai-tts/r2-backupV2/words",
+  "fileGlob": "*.json",
+  "idMode": "jyutping-meaning",
+  "renameFiles": true,
+  "processedCount": 2627,
+  "skippedCount": 1,
+  "remapCount": 2627
+}

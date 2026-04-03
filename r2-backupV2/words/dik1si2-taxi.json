@@ -1,0 +1,66 @@
+{
+  "id": "dik1si2-taxi",
+  "word": "的士",
+  "jyutping": "dik1 si2",
+  "meaning": "taxi",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '的士' is a noun used to refer to a taxi, a common mode of transportation in Hong Kong.",
+    "'的士' can be used as the subject or object in a sentence to talk about taking a taxi or riding in one.",
+    "You can use '的士' together with verbs like '搭' (to take) or '搵' (to find) to form common expressions.",
+    "When asking for a taxi, you can say '搵的士' meaning 'to find a taxi'.",
+    "The word '的士' does not change form between singular and plural; context clarifies if more than one taxi is meant."
+  ],
+  "examples": [
+    {
+      "id": "dik1si2-taxi-example-1",
+      "sentence": "我今晚搭的士返屋企。",
+      "jyutping": "ngo5 gam1 maan5 daap3 dik1 si2 faan1 uk1 kei2",
+      "meaning": "I will take a taxi home tonight."
+    },
+    {
+      "id": "dik1si2-taxi-example-2",
+      "sentence": "附近好難揾的士。",
+      "jyutping": "fu6 gan6 hou2 naan4 wan2 dik1 si2",
+      "meaning": "It's hard to find a taxi nearby."
+    },
+    {
+      "id": "dik1si2-taxi-example-3",
+      "sentence": "你想坐的士定巴士？",
+      "jyutping": "nei5 soeng2 co5 dik1 si2 ding6 baa1 si2?",
+      "meaning": "Do you want to take a taxi or a bus?"
+    },
+    {
+      "id": "dik1si2-taxi-example-4",
+      "sentence": "的士司機好好人。",
+      "jyutping": "dik1 si2 si1 gei1 hou2 hou2 jan4",
+      "meaning": "The taxi driver is very kind."
+    }
+  ],
+  "audio": {
+    "word": "dik1si2-taxi.mp3",
+    "examples": [
+      "dik1si2-taxi-example-1.mp3",
+      "dik1si2-taxi-example-2.mp3",
+      "dik1si2-taxi-example-3.mp3",
+      "dik1si2-taxi-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "taxi",
+    "travel",
+    "everyday",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "巴士",
+    "地鐵",
+    "轎車",
+    "的士司機",
+    "公路"
+  ]
+}

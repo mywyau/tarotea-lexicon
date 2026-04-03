@@ -1,0 +1,67 @@
+{
+  "id": "au3-vomit",
+  "word": "嘔",
+  "jyutping": "au3",
+  "meaning": "vomit",
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "usage": [
+    "嘔 can be used as a verb meaning 'to vomit'.",
+    "嘔 can also function as a noun referring to the act or instance of vomiting.",
+    "As a verb, 嘔 often appears with objects, like 嘔嘢 (vomit things).",
+    "When used as a noun, it can be preceded by a measure word, for example 一次嘔 (one vomiting episode).",
+    "嘔 can be used in different tenses by adding particles or auxiliary verbs, e.g., 我想嘔 (I feel like vomiting)."
+  ],
+  "examples": [
+    {
+      "id": "au3-vomit-example-1",
+      "sentence": "我覺得好唔舒服，想嘔。",
+      "jyutping": "ngo5 gok3 dak1 hou2 m4 syu1 fuk6, soeng2 au3.",
+      "meaning": "I feel very uncomfortable and want to vomit."
+    },
+    {
+      "id": "au3-vomit-example-2",
+      "sentence": "佢突然嘔咗出嚟。",
+      "jyutping": "keoi5 dat6 jin4 au3 zo2 ceot1 lai4.",
+      "meaning": "He suddenly vomited."
+    },
+    {
+      "id": "au3-vomit-example-3",
+      "sentence": "醫生話我嘔係因為食錯嘢。",
+      "jyutping": "ji1 sang1 waa6 ngo5 au3 hai6 jan1 wai6 sik6 co3 je5.",
+      "meaning": "The doctor said I vomited because I ate something wrong."
+    },
+    {
+      "id": "au3-vomit-example-4",
+      "sentence": "喺旅行期間，如果有嘔嘅情況，要即刻搵醫生。",
+      "jyutping": "hai2 leoi5 hang4 kei4 gaan1, jyu4 gwo2 jau5 au3 ge3 cing4 fong3, jiu3 zik1 hak1 wan2 ji1 sang1.",
+      "meaning": "During the trip, if there is vomiting, immediately find a doctor."
+    }
+  ],
+  "audio": {
+    "word": "au3-vomit.mp3",
+    "examples": [
+      "au3-vomit-example-1.mp3",
+      "au3-vomit-example-2.mp3",
+      "au3-vomit-example-3.mp3",
+      "au3-vomit-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "health",
+    "common symptoms",
+    "sickness",
+    "vomiting",
+    "body reaction",
+    "level-1"
+  ],
+  "related": [
+    "頭暈",
+    "發燒",
+    "肚痛",
+    "拉肚",
+    "嘔心"
+  ]
+}

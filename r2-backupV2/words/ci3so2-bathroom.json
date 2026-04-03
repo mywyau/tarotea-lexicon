@@ -1,0 +1,66 @@
+{
+  "id": "ci3so2-bathroom",
+  "word": "廁所",
+  "jyutping": "ci3 so2",
+  "meaning": "bathroom",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "廁所 (bathroom) is a noun used to refer to the place where you go to use the toilet or wash up.",
+    "You can use 廁所 to ask for the location of the bathroom, for example, '廁所喺邊？' means 'Where is the bathroom?'.",
+    "The word 廁所 can appear as the subject or object in a sentence, for example, '我去廁所。' means 'I am going to the bathroom.'",
+    "廁所 is commonly used in both formal and informal speech when talking about homes, restaurants, or public places.",
+    "To use 廁所 politely, you can add a question particle like 吖 (aa3) or 呀 (aa3) when asking for directions."
+  ],
+  "examples": [
+    {
+      "id": "ci3so2-bathroom-example-1",
+      "sentence": "我想去廁所。",
+      "jyutping": "ngo5 soeng2 heoi3 ci3 so2",
+      "meaning": "I want to go to the bathroom."
+    },
+    {
+      "id": "ci3so2-bathroom-example-2",
+      "sentence": "廁所喺邊度？",
+      "jyutping": "ci3 so2 hai2 bin1 dou6",
+      "meaning": "Where is the bathroom?"
+    },
+    {
+      "id": "ci3so2-bathroom-example-3",
+      "sentence": "呢度嘅廁所好乾淨。",
+      "jyutping": "ni1 dou6 ge3 ci3 so2 hou2 gon1 zing6",
+      "meaning": "The bathroom here is very clean."
+    },
+    {
+      "id": "ci3so2-bathroom-example-4",
+      "sentence": "你用唔用廁所？",
+      "jyutping": "nei5 jung6 m4 jung6 ci3 so2",
+      "meaning": "Do you want to use the bathroom?"
+    }
+  ],
+  "audio": {
+    "word": "ci3so2-bathroom.mp3",
+    "examples": [
+      "ci3so2-bathroom-example-1.mp3",
+      "ci3so2-bathroom-example-2.mp3",
+      "ci3so2-bathroom-example-3.mp3",
+      "ci3so2-bathroom-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "rooms",
+    "bathroom",
+    "home",
+    "common nouns",
+    "level-1"
+  ],
+  "related": [
+    "洗手間",
+    "房間",
+    "廚房",
+    "客廳",
+    "臥室"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "pin1fuk1-bat",
+  "word": "蝙蝠",
+  "jyutping": "pin1 fuk1",
+  "meaning": "bat",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "蝙蝠 (bat) is a noun used to identify the flying mammal known for echolocation.",
+    "You can use 蝙蝠 in singular or plural contexts without changing its form.",
+    "蝙蝠 can appear in sentences describing animals, nature, or Halloween themes.",
+    "In casual speech, 蝙蝠 can sometimes be used metaphorically, but primarily it refers to the animal."
+  ],
+  "examples": [
+    {
+      "id": "pin1fuk1-bat-example-1",
+      "sentence": "我見到一隻蝙蝠喺樹上飛。",
+      "jyutping": "ngo5 gin3 dou3 jat1 zek3 pin1 fuk1 hai2 syu6 soeng6 fei1.",
+      "meaning": "I saw a bat flying on the tree."
+    },
+    {
+      "id": "pin1fuk1-bat-example-2",
+      "sentence": "蝙蝠夜晚先出去搵食。",
+      "jyutping": "pin1 fuk1 je6 maan5 sin1 ceot1 heoi3 wan2 sik6.",
+      "meaning": "Bats only go out at night to look for food."
+    },
+    {
+      "id": "pin1fuk1-bat-example-3",
+      "sentence": "細佬好驚蝙蝠。",
+      "jyutping": "sai3 lou2 hou2 geng1 pin1 fuk1.",
+      "meaning": "My little brother is very scared of bats."
+    },
+    {
+      "id": "pin1fuk1-bat-example-4",
+      "sentence": "蝙蝠用聲波嚟搵方向。",
+      "jyutping": "pin1 fuk1 jung6 seng1 bo1 lai4 wan2 fong1 hoeng3.",
+      "meaning": "Bats use sound waves to find direction."
+    }
+  ],
+  "audio": {
+    "word": "pin1fuk1-bat.mp3",
+    "examples": [
+      "pin1fuk1-bat-example-1.mp3",
+      "pin1fuk1-bat-example-2.mp3",
+      "pin1fuk1-bat-example-3.mp3",
+      "pin1fuk1-bat-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animals",
+    "small_animals",
+    "noun",
+    "nature",
+    "nocturnal",
+    "level-1"
+  ],
+  "related": [
+    "老鼠",
+    "蚊",
+    "甲蟲",
+    "青蛙",
+    "蜜蜂"
+  ]
+}

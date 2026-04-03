@@ -1,0 +1,66 @@
+{
+  "id": "san1man4-news",
+  "word": "新聞",
+  "jyutping": "san1 man4",
+  "meaning": "news",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 新聞 for news as a topic or report. It is a very common everyday noun in both spoken and written Cantonese.",
+    "It often appears with verbs like 睇、聽、講、報道, for example when talking about watching news on TV or reading news online.",
+    "In Hong Kong, 新聞 can mean news in general, or a news report/item. The meaning depends on context.",
+    "This word is neutral and standard, so it works in casual conversation, media, and school settings."
+  ],
+  "examples": [
+    {
+      "id": "san1man4-news-example-1",
+      "sentence": "我每日都會睇新聞。",
+      "jyutping": "ngo5 mui5 jat6 dou1 wui5 tai2 san1 man4.",
+      "meaning": "I watch the news every day."
+    },
+    {
+      "id": "san1man4-news-example-2",
+      "sentence": "你聽咗今日嘅新聞未？",
+      "jyutping": "nei5 teng1 zo2 gam1 jat6 ge3 san1 man4 mei6?",
+      "meaning": "Have you heard today's news yet?"
+    },
+    {
+      "id": "san1man4-news-example-3",
+      "sentence": "電視新聞成日報道本地消息。",
+      "jyutping": "din6 si6 san1 man4 sing4 jat6 bou3 dou6 bun2 dei6 siu1 sik1.",
+      "meaning": "TV news often reports local updates."
+    },
+    {
+      "id": "san1man4-news-example-4",
+      "sentence": "呢單新聞好多人都好關心。",
+      "jyutping": "ni1 daan1 san1 man4 hou2 do1 jan4 dou1 hou2 gwaan1 sam1.",
+      "meaning": "A lot of people are concerned about this news item."
+    }
+  ],
+  "audio": {
+    "word": "san1man4-news.mp3",
+    "examples": [
+      "san1man4-news-example-1.mp3",
+      "san1man4-news-example-2.mp3",
+      "san1man4-news-example-3.mp3",
+      "san1man4-news-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "news",
+    "media",
+    "daily-life",
+    "neutral",
+    "common-noun",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "報道",
+    "消息",
+    "電視",
+    "報紙",
+    "記者"
+  ]
+}

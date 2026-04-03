@@ -1,0 +1,66 @@
+{
+  "id": "seon3soeng1-mailbox",
+  "word": "信箱",
+  "jyutping": "seon3 soeng1",
+  "meaning": "mailbox",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '信箱' means a physical box where mail is received.",
+    "It is commonly used to refer to the mailbox outside one’s home or building.",
+    "'信箱' can also mean an email inbox in digital contexts, but here it refers to the physical object.",
+    "In a sentence, it usually comes after words like '放' (to put) or '檢查' (to check).",
+    "You can talk about the '信箱' being full, empty, or to check the '信箱' for letters."
+  ],
+  "examples": [
+    {
+      "id": "seon3soeng1-mailbox-example-1",
+      "sentence": "我啱啱去信箱攞咗信。",
+      "jyutping": "ngo5 aam1 aam1 heoi3 seon3 soeng1 lo2 zo2 seon3",
+      "meaning": "I just went to the mailbox to get the mail."
+    },
+    {
+      "id": "seon3soeng1-mailbox-example-2",
+      "sentence": "信箱裏面有封信畀你。",
+      "jyutping": "seon3 soeng1 leoi5 min6 jau5 fung1 seon3 bei2 nei5",
+      "meaning": "There is a letter for you inside the mailbox."
+    },
+    {
+      "id": "seon3soeng1-mailbox-example-3",
+      "sentence": "記得每日檢查信箱呀！",
+      "jyutping": "gei3 dak1 mui5 jat6 gim2 caa4 seon3 soeng1 aa3",
+      "meaning": "Remember to check the mailbox every day!"
+    },
+    {
+      "id": "seon3soeng1-mailbox-example-4",
+      "sentence": "佢哋換咗個大啲嘅信箱。",
+      "jyutping": "keoi5 dei6 wun6 zo2 go3 daai6 di1 ge3 seon3 soeng1",
+      "meaning": "They changed to a bigger mailbox."
+    }
+  ],
+  "audio": {
+    "word": "seon3soeng1-mailbox.mp3",
+    "examples": [
+      "seon3soeng1-mailbox-example-1.mp3",
+      "seon3soeng1-mailbox-example-2.mp3",
+      "seon3soeng1-mailbox-example-3.mp3",
+      "seon3soeng1-mailbox-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "building",
+    "mail",
+    "daily use",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "屋企 (uk1 kei2 - home)",
+    "郵局 (jau4 guk6 - post office)",
+    "信 (seon3 - letter)",
+    "包裹 (baau1 gwo2 - parcel)",
+    "郵件 (jau4 gin6 - mail)"
+  ]
+}

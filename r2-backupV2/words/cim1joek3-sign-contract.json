@@ -1,0 +1,66 @@
+{
+  "id": "cim1joek3-sign-contract",
+  "word": "簽約",
+  "jyutping": "cim1 joek3",
+  "meaning": "sign contract",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "簽約 is usually used as a verb meaning to sign a contract or agreement.",
+    "It often appears after a subject and before the object, e.g., '我哋今日簽約' (We sign the contract today).",
+    "簽約 can be used in formal situations like renting a flat, employment, or business deals.",
+    "You can add objects like '租約' (rental agreement) or '合約' (contract) after 簽約 to specify what is being signed.",
+    "In negative sentences, add 唔 (m4) before 簽約 to express 'not sign a contract'."
+  ],
+  "examples": [
+    {
+      "id": "cim1joek3-sign-contract-example-1",
+      "sentence": "我哋下星期要簽約。",
+      "jyutping": "ngo5 dei6 haa6 sing1 kei4 jiu3 cim1 joek3",
+      "meaning": "We have to sign the contract next week."
+    },
+    {
+      "id": "cim1joek3-sign-contract-example-2",
+      "sentence": "簽約之前要睇清楚條款。",
+      "jyutping": "cim1 joek3 zi1 cin4 jiu3 tai2 cing1 co2 tiu4 fun2",
+      "meaning": "You need to carefully read the terms before signing the contract."
+    },
+    {
+      "id": "cim1joek3-sign-contract-example-3",
+      "sentence": "佢唔肯簽約，仲諗緊。",
+      "jyutping": "keoi5 m4 hang2 cim1 joek3, zung6 nam2 gan2",
+      "meaning": "He refuses to sign the contract and is still thinking."
+    },
+    {
+      "id": "cim1joek3-sign-contract-example-4",
+      "sentence": "屋主終於同我哋簽約啦！",
+      "jyutping": "uk1 zyu2 zung1 jyu1 tung4 ngo5 dei6 cim1 joek3 laa1",
+      "meaning": "The landlord finally signed the contract with us!"
+    }
+  ],
+  "audio": {
+    "word": "cim1joek3-sign-contract.mp3",
+    "examples": [
+      "cim1joek3-sign-contract-example-1.mp3",
+      "cim1joek3-sign-contract-example-2.mp3",
+      "cim1joek3-sign-contract-example-3.mp3",
+      "cim1joek3-sign-contract-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "renting",
+    "agreements",
+    "contracts",
+    "housing",
+    "formal",
+    "level-1"
+  ],
+  "related": [
+    "租約",
+    "合約",
+    "租客",
+    "押金",
+    "租金"
+  ]
+}

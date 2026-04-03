@@ -1,0 +1,66 @@
+{
+  "id": "ce1piu3-transport-ticket",
+  "word": "車票",
+  "jyutping": "ce1 piu3",
+  "meaning": "transport ticket",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '車票' refers to a physical or digital ticket used for transportation.",
+    "It can be used when talking about tickets for buses, trains, ferries, or any public transport.",
+    "'車票' often appears with quantity words like '張' (zoeng1) to count tickets.",
+    "You can use it in sentences asking about buying, showing, or checking tickets.",
+    "It typically acts as the object in a sentence but can also appear after a verb like '買' (maai5 - buy) or '攞' (lo2 - take)."
+  ],
+  "examples": [
+    {
+      "id": "ce1piu3-transport-ticket-example-1",
+      "sentence": "我買咗兩張車票去旺角。",
+      "jyutping": "ngo5 maai5 zo2 loeng5 zoeng1 ce1 piu3 heoi3 wong6 gok3",
+      "meaning": "I bought two transport tickets to Mong Kok."
+    },
+    {
+      "id": "ce1piu3-transport-ticket-example-2",
+      "sentence": "你帶咗車票未？",
+      "jyutping": "nei5 daai3 zo2 ce1 piu3 mei6?",
+      "meaning": "Did you bring your ticket?"
+    },
+    {
+      "id": "ce1piu3-transport-ticket-example-3",
+      "sentence": "車票幾錢？",
+      "jyutping": "ce1 piu3 gei2 cin2?",
+      "meaning": "How much is the ticket?"
+    },
+    {
+      "id": "ce1piu3-transport-ticket-example-4",
+      "sentence": "地鐵車票要喺入閘口畀職員睇。",
+      "jyutping": "dei6 tit3 ce1 piu3 jiu3 hai2 jap6 zaat6 hau2 bei2 zik1 jyun4 tai2",
+      "meaning": "You need to show your subway ticket to the staff at the gate."
+    }
+  ],
+  "audio": {
+    "word": "ce1piu3-transport-ticket.mp3",
+    "examples": [
+      "ce1piu3-transport-ticket-example-1.mp3",
+      "ce1piu3-transport-ticket-example-2.mp3",
+      "ce1piu3-transport-ticket-example-3.mp3",
+      "ce1piu3-transport-ticket-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "ticket",
+    "payment",
+    "public_transport",
+    "travel",
+    "level-1"
+  ],
+  "related": [
+    "八達通",
+    "票價",
+    "入閘機",
+    "巴士",
+    "地鐵"
+  ]
+}

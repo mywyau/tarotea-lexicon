@@ -1,0 +1,59 @@
+{
+  "id": "baat3-eight",
+  "word": "八",
+  "jyutping": "baat3",
+  "meaning": "eight",
+  "pos": [
+    "number"
+  ],
+  "usage": [
+    "Used as the number eight",
+    "Commonly used in counting, times, dates, ages, and quantities",
+    "Often appears in everyday expressions involving numbers",
+    "Considered a lucky number in Chinese culture"
+  ],
+  "examples": [
+    {
+      "id": "baat3-eight-example-1",
+      "sentence": "八點鐘開始。",
+      "jyutping": "baat3 dim2 zung1 hoi1 ci2",
+      "meaning": "It starts at eight o’clock."
+    },
+    {
+      "id": "baat3-eight-example-2",
+      "sentence": "我買咗八樣嘢。",
+      "jyutping": "ngo5 maai5 zo2 baat3 joeng6 je5",
+      "meaning": "I bought eight things."
+    },
+    {
+      "id": "baat3-eight-example-3",
+      "sentence": "佢今年八歲。",
+      "jyutping": "keoi5 gam1 nin4 baat3 seoi3",
+      "meaning": "He is eight years old this year."
+    },
+    {
+      "id": "baat3-eight-example-4",
+      "sentence": "今日係八號。",
+      "jyutping": "gam1 jat6 hai6 baat3 hou6",
+      "meaning": "Today is the eighth."
+    }
+  ],
+  "audio": {
+    "word": "baat3-eight.mp3",
+    "examples": [
+      "baat3-eight-example-1.mp3",
+      "baat3-eight-example-2.mp3",
+      "baat3-eight-example-3.mp3",
+      "baat3-eight-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
+  "related": [
+    "cat1-seven",
+    "gau2-nine"
+  ]
+}

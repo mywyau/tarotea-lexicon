@@ -1,0 +1,52 @@
+{
+  "id": "gap1si6-urgent-matter",
+  "word": "急事",
+  "jyutping": "gap1 si6",
+  "meaning": "urgent matter",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used to refer to something important that needs immediate attention",
+    "Often used as a reason for leaving or interrupting something",
+    "Common in polite explanations"
+  ],
+  "examples": [
+    {
+      "id": "gap1si6-urgent-matter-example-1",
+      "sentence": "我有急事。",
+      "jyutping": "ngo5 jau5 gap1 si6",
+      "meaning": "I have an urgent matter."
+    },
+    {
+      "id": "gap1si6-urgent-matter-example-2",
+      "sentence": "有急事要走。",
+      "jyutping": "jau5 gap1 si6 jiu3 zau2",
+      "meaning": "There’s an urgent matter, I need to leave."
+    },
+    {
+      "id": "gap1si6-urgent-matter-example-3",
+      "sentence": "唔好意思，我有急事。",
+      "jyutping": "m4 hou2 ji3 si3, ngo5 jau5 gap1 si6",
+      "meaning": "Sorry, I have something urgent."
+    }
+  ],
+  "audio": {
+    "word": "gap1si6-urgent-matter.mp3",
+    "examples": [
+      "gap1si6-urgent-matter-example-1.mp3",
+      "gap1si6-urgent-matter-example-2.mp3",
+      "gap1si6-urgent-matter-example-3.mp3"
+    ]
+  },
+  "tags": [
+    "noun",
+    "level-1",
+    "core",
+    "survival"
+  ],
+  "related": [
+    "gap1-urgent",
+    "m4hou2ji3si3-excuse-me"
+  ]
+}

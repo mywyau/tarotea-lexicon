@@ -1,0 +1,66 @@
+{
+  "id": "piu3-ticket",
+  "word": "票",
+  "jyutping": "piu3",
+  "meaning": "ticket",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '票' (piu3) is used as a noun meaning 'ticket' for transport or events.",
+    "'票' can be used with different types of transport like train, bus, or plane tickets.",
+    "You can use '買票' (maai5 piu3) to say 'buy a ticket'.",
+    "'票' can also be combined with classifiers, for example: '一張票' (jat1 zoeng1 piu3) meaning 'one ticket'.",
+    "'票' is a common word to ask or talk about tickets in daily conversations."
+  ],
+  "examples": [
+    {
+      "id": "piu3-ticket-example-1",
+      "sentence": "我想買火車票。",
+      "jyutping": "ngo5 soeng2 maai5 fo2 ce1 piu3.",
+      "meaning": "I want to buy a train ticket."
+    },
+    {
+      "id": "piu3-ticket-example-2",
+      "sentence": "嗰張票幾錢？",
+      "jyutping": "go2 zoeng1 piu3 gei2 cin2?",
+      "meaning": "How much is that ticket?"
+    },
+    {
+      "id": "piu3-ticket-example-3",
+      "sentence": "巴士票喺咩地方買？",
+      "jyutping": "baa1 si2 piu3 hai2 me1 dei6 fong1 maai5?",
+      "meaning": "Where can I buy the bus ticket?"
+    },
+    {
+      "id": "piu3-ticket-example-4",
+      "sentence": "我忘記帶票入場。",
+      "jyutping": "ngo5 mong4 gei3 daai3 piu3 jap6 coeng4.",
+      "meaning": "I forgot to bring the ticket to enter."
+    }
+  ],
+  "audio": {
+    "word": "piu3-ticket.mp3",
+    "examples": [
+      "piu3-ticket-example-1.mp3",
+      "piu3-ticket-example-2.mp3",
+      "piu3-ticket-example-3.mp3",
+      "piu3-ticket-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "travel",
+    "ticket",
+    "payment",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "火車票",
+    "飛機票",
+    "巴士票",
+    "買票",
+    "票價"
+  ]
+}

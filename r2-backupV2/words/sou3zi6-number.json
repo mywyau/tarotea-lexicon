@@ -1,0 +1,65 @@
+{
+  "id": "sou3zi6-number",
+  "word": "數字",
+  "jyutping": "sou3 zi6",
+  "meaning": "number",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "數字 is the general word for a number, like 1, 2, 10, or 100.",
+    "Use 數字 when you want to talk about a specific digit or number in everyday life.",
+    "It is often used with things like 電話號碼, 密碼, or 價錢.",
+    "In casual Cantonese, people also use 數字 when asking for or checking a number."
+  ],
+  "examples": [
+    {
+      "id": "sou3zi6-number-example-1",
+      "sentence": "你可唔可以寫低你個電話數字？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 se2 di1 nei5 go3 din6 waa2 sou3 zi6?",
+      "meaning": "Can you write down your phone number?"
+    },
+    {
+      "id": "sou3zi6-number-example-2",
+      "sentence": "呢個數字好大。",
+      "jyutping": "ni1 go3 sou3 zi6 hou2 daai6.",
+      "meaning": "This number is very big."
+    },
+    {
+      "id": "sou3zi6-number-example-3",
+      "sentence": "我唔記得個密碼尾三個數字。",
+      "jyutping": "ngo5 m4 gei3 dak1 go3 mat6 maa5 mei5 saam1 go3 sou3 zi6.",
+      "meaning": "I forgot the last three digits of the password."
+    },
+    {
+      "id": "sou3zi6-number-example-4",
+      "sentence": "請你幫我對一對呢堆數字。",
+      "jyutping": "cing2 nei5 bong1 ngo5 deoi3 jat1 deoi3 ni1 deoi1 sou3 zi6.",
+      "meaning": "Please help me check these numbers."
+    }
+  ],
+  "audio": {
+    "word": "sou3zi6-number.mp3",
+    "examples": [
+      "sou3zi6-number-example-1.mp3",
+      "sou3zi6-number-example-2.mp3",
+      "sou3zi6-number-example-3.mp3",
+      "sou3zi6-number-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "basic vocabulary",
+    "numbers",
+    "everyday Cantonese",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "號碼",
+    "數學",
+    "位數",
+    "密碼",
+    "電話號碼"
+  ]
+}

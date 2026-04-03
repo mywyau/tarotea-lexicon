@@ -1,0 +1,68 @@
+{
+  "id": "ze3ze3-excuse-me-pass",
+  "word": "借借",
+  "jyutping": "ze3 ze3",
+  "meaning": "excuse me (passing through)",
+  "pos": [
+    "phrase",
+    "polite_expression"
+  ],
+  "usage": [
+    "A very common spoken Cantonese phrase used when squeezing past someone",
+    "Often said quickly in crowded places like the MTR, shops, or restaurants",
+    "Means 'excuse me, let me pass' in a casual and friendly way",
+    "Usually paired with 唔該 for extra politeness (唔該，借借)",
+    "Mostly used in Hong Kong-style everyday speech"
+  ],
+  "examples": [
+    {
+      "id": "ze3ze3-excuse-me-pass-example-1",
+      "sentence": "唔該，借借。",
+      "jyutping": "m4 goi1, ze3 ze3",
+      "meaning": "Excuse me, coming through."
+    },
+    {
+      "id": "ze3ze3-excuse-me-pass-example-2",
+      "sentence": "借借呀，我想行過去。",
+      "jyutping": "ze3 ze3 aa3, ngo5 soeng2 haang4 gwo3 heoi3",
+      "meaning": "Excuse me, I want to walk over there."
+    },
+    {
+      "id": "ze3ze3-excuse-me-pass-example-3",
+      "sentence": "人好多，借借先。",
+      "jyutping": "jan4 hou2 do1, ze3 ze3 sin1",
+      "meaning": "There are lots of people — excuse me first."
+    },
+    {
+      "id": "ze3ze3-excuse-me-pass-example-4",
+      "sentence": "唔好意思，借借，我趕時間。",
+      "jyutping": "m4 hou2 ji3 si3, ze3 ze3, ngo5 gon2 si4 gaan3",
+      "meaning": "Sorry, excuse me — I’m in a hurry."
+    }
+  ],
+  "audio": {
+    "word": "ze3ze3-excuse-me-pass.mp3",
+    "examples": [
+      "ze3ze3-excuse-me-pass-example-1.mp3",
+      "ze3ze3-excuse-me-pass-example-2.mp3",
+      "ze3ze3-excuse-me-pass-example-3.mp3",
+      "ze3ze3-excuse-me-pass-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "polite",
+    "level-1",
+    "daily",
+    "spoken",
+    "hong-kong",
+    "travel",
+    "crowds"
+  ],
+  "related": [
+    "m4goi1-please-thanks",
+    "m4hou2ji3si3-excuse-me",
+    "sin1-first",
+    "haang4-walk",
+    "gon2si4gaan3-in-a-hurry"
+  ]
+}

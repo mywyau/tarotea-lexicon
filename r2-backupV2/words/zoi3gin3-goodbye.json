@@ -1,0 +1,74 @@
+{
+  "id": "zoi3gin3-goodbye",
+  "word": "再見",
+  "jyutping": "zoi3 gin3",
+  "meaning": "goodbye",
+  "pos": [
+    "phrase",
+    "greeting"
+  ],
+  "usage": [
+    "A very common Cantonese farewell meaning 'goodbye'",
+    "Literally means 'see you again', so it can imply meeting again later",
+    "Used in both formal and casual situations",
+    "Often followed by particles like 喇 for a softer, more natural tone (再見喇)",
+    "Can be combined with time words like 聽日再見 (see you tomorrow)"
+  ],
+  "examples": [
+    {
+      "id": "zoi3gin3-goodbye-example-1",
+      "sentence": "再見。",
+      "jyutping": "zoi3 gin3",
+      "meaning": "Goodbye."
+    },
+    {
+      "id": "zoi3gin3-goodbye-example-2",
+      "sentence": "再見喇！",
+      "jyutping": "zoi3 gin3 laa3",
+      "meaning": "Bye then!"
+    },
+    {
+      "id": "zoi3gin3-goodbye-example-3",
+      "sentence": "我走先，再見。",
+      "jyutping": "ngo5 zau2 sin1, zoi3 gin3",
+      "meaning": "I’ll go first, goodbye."
+    },
+    {
+      "id": "zoi3gin3-goodbye-example-4",
+      "sentence": "遲啲再見。",
+      "jyutping": "ci4 di1 zoi3 gin3",
+      "meaning": "See you later."
+    },
+    {
+      "id": "zoi3gin3-goodbye-example-5",
+      "sentence": "聽日再見啦。",
+      "jyutping": "ting1 jat6 zoi3 gin3 laa1",
+      "meaning": "See you tomorrow."
+    }
+  ],
+  "audio": {
+    "word": "zoi3gin3-goodbye.mp3",
+    "examples": [
+      "zoi3gin3-goodbye-example-1.mp3",
+      "zoi3gin3-goodbye-example-2.mp3",
+      "zoi3gin3-goodbye-example-3.mp3",
+      "zoi3gin3-goodbye-example-4.mp3",
+      "zoi3gin3-goodbye-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "greeting",
+    "farewell",
+    "level-1",
+    "core",
+    "daily",
+    "conversation"
+  ],
+  "related": [
+    "nei5hou2-hello",
+    "maan6on1-good-night",
+    "zoi3-again",
+    "laa3-particle-final",
+    "ci4di1-later"
+  ]
+}

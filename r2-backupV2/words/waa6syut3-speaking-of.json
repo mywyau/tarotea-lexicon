@@ -1,0 +1,68 @@
+{
+  "id": "waa6syut3-speaking-of",
+  "word": "話說",
+  "jyutping": "waa6 syut3",
+  "meaning": "speaking of",
+  "pos": [
+    "phrase",
+    "connector",
+    "expression"
+  ],
+  "usage": [
+    "The expression is commonly used in spoken Cantonese to introduce a new topic related to the current conversation.",
+    "It functions similarly to the English phrase 'speaking of', serving as a conversational pivot.",
+    "It is often placed at the beginning of a sentence to smoothly change the subject or draw a connection between ideas.",
+    "The phrase helps maintain the flow of dialogue by linking topics naturally without abrupt transitions.",
+    "It can signal that the speaker is about to provide relevant information, reminders, or anecdotes related to the mentioned subject."
+  ],
+  "examples": [
+    {
+      "id": "waa6syut3-speaking-of-example-1",
+      "sentence": "話說你最近點呀？",
+      "jyutping": "waa6 syut3 nei5 zeoi3 gan6 dim2 aa3?",
+      "meaning": "Speaking of you, how have you been lately?"
+    },
+    {
+      "id": "waa6syut3-speaking-of-example-2",
+      "sentence": "話說我上星期去咗旅行，好開心！",
+      "jyutping": "waa6 syut3 ngo5 soeng6 sing1 kei4 heoi3 zo2 leoi5 hang4, hou2 hoi1 sam1!",
+      "meaning": "Speaking of which, I went on a trip last week and it was so fun!"
+    },
+    {
+      "id": "waa6syut3-speaking-of-example-3",
+      "sentence": "話說你聽日有冇空？我哋約下。",
+      "jyutping": "waa6 syut3 nei5 teng1 jat6 jau5 mou5 hung1? ngo5 dei6 joek3 haa5.",
+      "meaning": "Speaking of that, do you have free time tomorrow? Let's make plans."
+    },
+    {
+      "id": "waa6syut3-speaking-of-example-4",
+      "sentence": "話說佢最近換工啦。",
+      "jyutping": "waa6 syut3 keoi5 zeoi3 gan6 wun6 gung1 laa1.",
+      "meaning": "Speaking of him, he recently changed jobs."
+    }
+  ],
+  "audio": {
+    "word": "waa6syut3-speaking-of.mp3",
+    "examples": [
+      "waa6syut3-speaking-of-example-1.mp3",
+      "waa6syut3-speaking-of-example-2.mp3",
+      "waa6syut3-speaking-of-example-3.mp3",
+      "waa6syut3-speaking-of-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "spoken",
+    "conversation",
+    "topic change",
+    "discourse marker",
+    "colloquial",
+    "level-8"
+  ],
+  "related": [
+    "講起",
+    "順便提一提",
+    "談到",
+    "提起",
+    "講到"
+  ]
+}

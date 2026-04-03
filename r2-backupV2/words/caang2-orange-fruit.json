@@ -1,0 +1,68 @@
+{
+  "id": "caang2-orange-fruit",
+  "word": "橙",
+  "jyutping": "caang2",
+  "meaning": "orange (fruit)",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "A common citrus fruit that is often eaten fresh or made into juice.",
+    "Frequently bought in markets and supermarkets.",
+    "Often described by sweetness or sourness.",
+    "Commonly used with quantity words such as 一個 or 幾個.",
+    "Very common in everyday food and shopping conversations."
+  ],
+  "examples": [
+    {
+      "id": "caang2-orange-fruit-example-1",
+      "sentence": "我想買一個橙。",
+      "jyutping": "ngo5 soeng2 maai5 jat1 go3 caang2.",
+      "meaning": "I want to buy one orange."
+    },
+    {
+      "id": "caang2-orange-fruit-example-2",
+      "sentence": "呢啲橙好甜。",
+      "jyutping": "ni1 di1 caang2 hou2 tim4.",
+      "meaning": "These oranges are very sweet."
+    },
+    {
+      "id": "caang2-orange-fruit-example-3",
+      "sentence": "呢啲橙酸唔酸？",
+      "jyutping": "ni1 di1 caang2 syun1 m4 syun1?",
+      "meaning": "Are these oranges sour?"
+    },
+    {
+      "id": "caang2-orange-fruit-example-4",
+      "sentence": "我朝早飲橙汁。",
+      "jyutping": "ngo5 ziu1 zou2 jam2 caang2 zap1.",
+      "meaning": "I drink orange juice in the morning."
+    }
+  ],
+  "audio": {
+    "word": "caang2-orange-fruit.mp3",
+    "examples": [
+      "caang2-orange-fruit-example-1.mp3",
+      "caang2-orange-fruit-example-2.mp3",
+      "caang2-orange-fruit-example-3.mp3",
+      "caang2-orange-fruit-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "food",
+    "fruit",
+    "orange",
+    "citrus",
+    "shopping",
+    "daily",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "橙汁 (caang2 zap1) - orange juice",
+    "檸檬 (ning4 mung1) - lemon",
+    "酸 (syun1) - sour",
+    "甜 (tim4) - sweet",
+    "水果 (seoi2 gwo2) - fruit"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "cat1-seven",
+  "word": "七",
+  "jyutping": "cat1",
+  "meaning": "seven",
+  "pos": [
+    "number"
+  ],
+  "usage": [
+    "Used as the number seven in counting, dates, ages, times, and quantities.",
+    "Often appears before classifiers, for example 七個人 (seven people).",
+    "It is also commonly used in dates and months, for example 七月 (July)."
+  ],
+  "examples": [
+    {
+      "id": "cat1-seven-example-1",
+      "sentence": "我七月去旅行。",
+      "jyutping": "ngo5 cat1 jyut6 heoi3 leoi5 hang4",
+      "meaning": "I’m going travelling in July."
+    },
+    {
+      "id": "cat1-seven-example-2",
+      "sentence": "七個人一齊食飯。",
+      "jyutping": "cat1 go3 jan4 jat1 cai4 sik6 faan6",
+      "meaning": "Seven people are eating together."
+    },
+    {
+      "id": "cat1-seven-example-3",
+      "sentence": "我有七本書。",
+      "jyutping": "ngo5 jau5 cat1 bun2 syu1",
+      "meaning": "I have seven books."
+    },
+    {
+      "id": "cat1-seven-example-4",
+      "sentence": "今日七點鐘開會。",
+      "jyutping": "gam1 jat6 cat1 dim2 zung1 hoi1 wui2",
+      "meaning": "The meeting starts at seven o’clock today."
+    }
+  ],
+  "audio": {
+    "word": "cat1-seven.mp3",
+    "examples": [
+      "cat1-seven-example-1.mp3",
+      "cat1-seven-example-2.mp3",
+      "cat1-seven-example-3.mp3",
+      "cat1-seven-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
+  "related": [
+    "luk6-six",
+    "baat3-eight"
+  ]
+}

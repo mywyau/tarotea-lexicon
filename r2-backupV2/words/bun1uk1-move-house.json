@@ -1,0 +1,66 @@
+{
+  "id": "bun1uk1-move-house",
+  "word": "搬屋",
+  "jyutping": "bun1 uk1",
+  "meaning": "move house",
+  "pos": [
+    "verb phrase",
+    "noun"
+  ],
+  "usage": [
+    "搬屋 as a verb phrase usually means the action of moving from one house or flat to another.",
+    "It can also be used as a noun to refer to the act or process of moving house.",
+    "You can say 搬屋 alone or with a subject and object, e.g. 我哋要搬屋 (We have to move house).",
+    "It often appears in daily conversations related to housing or relocating.",
+    "It is commonly used in informal spoken Cantonese."
+  ],
+  "examples": [
+    {
+      "id": "bun1uk1-move-house-example-1",
+      "sentence": "我下個月要搬屋。",
+      "jyutping": "ngo5 haa6 go3 jyut6 jiu3 bun1 uk1.",
+      "meaning": "I have to move house next month."
+    },
+    {
+      "id": "bun1uk1-move-house-example-2",
+      "sentence": "搬屋好辛苦，要整好多嘢。",
+      "jyutping": "bun1 uk1 hou2 san1 fu2, jiu3 zing2 hou2 do1 je5.",
+      "meaning": "Moving house is tiring, you have to organize a lot of things."
+    },
+    {
+      "id": "bun1uk1-move-house-example-3",
+      "sentence": "你幫我搬屋得唔得？",
+      "jyutping": "nei5 bong1 ngo5 bun1 uk1 dak1 m4 dak1?",
+      "meaning": "Can you help me move house?"
+    },
+    {
+      "id": "bun1uk1-move-house-example-4",
+      "sentence": "搬屋完成，好開心。",
+      "jyutping": "bun1 uk1 jyun4 sing4, hou2 hoi1 sam1.",
+      "meaning": "Finished moving house, very happy."
+    }
+  ],
+  "audio": {
+    "word": "bun1uk1-move-house.mp3",
+    "examples": [
+      "bun1uk1-move-house-example-1.mp3",
+      "bun1uk1-move-house-example-2.mp3",
+      "bun1uk1-move-house-example-3.mp3",
+      "bun1uk1-move-house-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "housing",
+    "moving",
+    "daily life",
+    "action",
+    "level-1"
+  ],
+  "related": [
+    "租屋",
+    "買樓",
+    "裝修",
+    "入伙",
+    "行李"
+  ]
+}

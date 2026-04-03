@@ -1,0 +1,42 @@
+{
+  "id": "ting4-stop",
+  "word": "停",
+  "jyutping": "ting4",
+  "meaning": "to stop",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to indicate stopping an action or movement"
+  ],
+
+  "examples": [
+    {
+      "id": "ting4-stop-example-1",
+      "sentence": "停一停。",
+      "jyutping": "ting4 jat1 ting4",
+      "meaning": "Stop for a moment."
+    },
+    {
+      "id": "ting4-stop-example-2",
+      "sentence": "巴士喺度停。",
+      "jyutping": "baa1 si2 hai2 dou6 ting4",
+      "meaning": "The bus stops here."
+    }
+  ],
+
+  "audio": {
+    "word": "ting4-stop.mp3",
+    "examples": [
+      "ting4-stop-example-1.mp3",
+      "ting4-stop-example-2.mp3"
+    ]
+  },
+
+  "tags": ["verb", "level-2", "action"],
+
+  "related": [
+    "gai3zuk6-continue",
+    "git3cuk1-end"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fo2ce1-train",
+  "word": "火車",
+  "jyutping": "fo2 ce1",
+  "meaning": "train",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 火車 (fo2 ce1) is a noun representing a train, a common means of transportation.",
+    "It is typically used to talk about travel, schedules, and modes of transport.",
+    "In sentences, 火車 can be the subject or object, like 'The train arrives' or 'I take the train.'",
+    "You can combine 火車 with time words or destinations to specify travel plans, e.g., 'The train leaves at 5pm.'",
+    "Fire (火) and vehicle (車) together literally describe train in Cantonese, which helps remember the word."
+  ],
+  "examples": [
+    {
+      "id": "fo2ce1-train-example-1",
+      "sentence": "我朝早搭火車返工。",
+      "jyutping": "ngo5 ziu1 zou2 daap3 fo2 ce1 faan1 gung1.",
+      "meaning": "I take the train to work in the morning."
+    },
+    {
+      "id": "fo2ce1-train-example-2",
+      "sentence": "你坐火車定坐巴士？",
+      "jyutping": "nei5 co5 fo2 ce1 ding6 co5 baa1 si2?",
+      "meaning": "Do you take the train or the bus?"
+    },
+    {
+      "id": "fo2ce1-train-example-3",
+      "sentence": "火車遲咗，等咗好耐。",
+      "jyutping": "fo2 ce1 ci4 zo2, dang2 zo2 hou2 noi6.",
+      "meaning": "The train was late; I waited for a long time."
+    },
+    {
+      "id": "fo2ce1-train-example-4",
+      "sentence": "我哋坐火車去旅行。",
+      "jyutping": "ngo5 dei6 co5 fo2 ce1 heoi3 leoi5 hang4.",
+      "meaning": "We travel by train."
+    }
+  ],
+  "audio": {
+    "word": "fo2ce1-train.mp3",
+    "examples": [
+      "fo2ce1-train-example-1.mp3",
+      "fo2ce1-train-example-2.mp3",
+      "fo2ce1-train-example-3.mp3",
+      "fo2ce1-train-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "train",
+    "travel",
+    "commute",
+    "public transportation",
+    "level-1"
+  ],
+  "related": [
+    "地鐵",
+    "巴士",
+    "飛機",
+    "輪船",
+    "交通"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "dung3-cold",
+  "word": "凍",
+  "jyutping": "dung3",
+  "meaning": "cold",
+  "pos": [
+    "adjective"
+  ],
+  "usage": [
+    "The word '凍' is used as an adjective to describe cold temperature.",
+    "It usually comes before nouns or after the verb '係' (to be) to say it is cold.",
+    "You can use '凍' with '好' (very) to emphasize how cold something is.",
+    "'凍' can also describe sensations, like feeling cold.",
+    "In questions, it can be used with particles like '吖' to ask if something is cold."
+  ],
+  "examples": [
+    {
+      "id": "dung3-cold-example-1",
+      "sentence": "今日好凍，我要著多件衫。",
+      "jyutping": "gam1 jat6 hou2 dung3, ngo5 jiu3 zoek3 do1 gin6 saam1.",
+      "meaning": "It is cold today, I need to wear more clothes."
+    },
+    {
+      "id": "dung3-cold-example-2",
+      "sentence": "雪水凍凍哋，好醒神。",
+      "jyutping": "syut3 seoi2 dung3 dung3 dei1, hou2 seng2 san4.",
+      "meaning": "The snow water is very cold and refreshing."
+    },
+    {
+      "id": "dung3-cold-example-3",
+      "sentence": "開冷氣，唔好覺得凍吖。",
+      "jyutping": "hoi1 laang5 hei3, m4 hou2 gok3 dak1 dung3 a1.",
+      "meaning": "Turn on the aircon, don’t feel cold."
+    },
+    {
+      "id": "dung3-cold-example-4",
+      "sentence": "冬天嘅早晨好凍，要飲熱茶。",
+      "jyutping": "dung1 tin1 ge3 zou2 san4 hou2 dung3, jiu3 jam2 jit6 caa4.",
+      "meaning": "Winter mornings are cold, need to drink hot tea."
+    }
+  ],
+  "audio": {
+    "word": "dung3-cold.mp3",
+    "examples": [
+      "dung3-cold-example-1.mp3",
+      "dung3-cold-example-2.mp3",
+      "dung3-cold-example-3.mp3",
+      "dung3-cold-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "temperature",
+    "weather",
+    "adjective",
+    "daily speech",
+    "seasonal",
+    "level-1"
+  ],
+  "related": [
+    "熱 (jit6)",
+    "涼 (loeng4)",
+    "風 (fung1)",
+    "冷氣 (laang5 hei3)",
+    "天氣 (tin1 hei3)"
+  ]
+}

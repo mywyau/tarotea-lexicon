@@ -1,0 +1,57 @@
+{
+  "id": "maan6on1-good-night",
+  "word": "晚安",
+  "jyutping": "maan6 on1",
+  "meaning": "good night",
+  "pos": [
+    "phrase",
+    "greeting"
+  ],
+  "usage": [
+    "A common phrase used when saying good night or before going to sleep",
+    "Often said at the end of the day when parting with someone",
+    "Used in both casual and polite situations",
+    "Can be made warmer with particles like 呀 or 喇"
+  ],
+  "examples": [
+    {
+      "id": "maan6on1-good-night-example-1",
+      "sentence": "我瞓覺喇，晚安。",
+      "jyutping": "ngo5 fan3 gaau3 laa3, maan6 on1",
+      "meaning": "I’m going to sleep, good night."
+    },
+    {
+      "id": "maan6on1-good-night-example-2",
+      "sentence": "今晚辛苦晒，晚安。",
+      "jyutping": "gam1 maan5 san1 fu2 saai3, maan6 on1",
+      "meaning": "You worked hard tonight, good night."
+    },
+    {
+      "id": "maan6on1-good-night-example-3",
+      "sentence": "聽日見啦，晚安。",
+      "jyutping": "ting1 jat6 gin3 laa1, maan6 on1",
+      "meaning": "See you tomorrow, good night."
+    }
+  ],
+  "audio": {
+    "word": "maan6on1-good-night.mp3",
+    "examples": [
+      "maan6on1-good-night-example-1.mp3",
+      "maan6on1-good-night-example-2.mp3",
+      "maan6on1-good-night-example-3.mp3"
+    ]
+  },
+  "tags": [
+    "greeting",
+    "level-1",
+    "core",
+    "daily",
+    "night"
+  ],
+  "related": [
+    "zou2san4-good-morning",
+    "nei5hou2-hello",
+    "zoi3gin3-goodbye",
+    "ting1jat6-tomorrow"
+  ]
+}

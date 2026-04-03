@@ -1,0 +1,66 @@
+{
+  "id": "bun2-book-counter",
+  "word": "本",
+  "jyutping": "bun2",
+  "meaning": "book counter",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '本' (bun2) is a measure word specifically used for books or book-like items.",
+    "It comes before the noun to indicate the quantity of books.",
+    "Unlike general counters, '本' is not used for loose papers or magazines, only bound materials like books or notebooks.",
+    "When counting books, put the number before '本' and then the noun, for example, '三本書' (three books).",
+    "'本' can also be used as a classifier for some magazines or notebooks."
+  ],
+  "examples": [
+    {
+      "id": "bun2-book-counter-example-1",
+      "sentence": "我買咗兩本書。",
+      "jyutping": "ngo5 maai5 zo2 loeng5 bun2 syu1.",
+      "meaning": "I bought two books."
+    },
+    {
+      "id": "bun2-book-counter-example-2",
+      "sentence": "呢本書幾錢？",
+      "jyutping": "ni1 bun2 syu1 gei2 cin2?",
+      "meaning": "How much is this book?"
+    },
+    {
+      "id": "bun2-book-counter-example-3",
+      "sentence": "老師發咗三本練習簿。",
+      "jyutping": "lou5 si1 faat3 zo2 saam1 bun2 lin6 zaap6 bou2.",
+      "meaning": "The teacher gave out three exercise books."
+    },
+    {
+      "id": "bun2-book-counter-example-4",
+      "sentence": "佢有十一本雜誌。",
+      "jyutping": "keoi5 jau5 sap6 jat1 bun2 zaap6 zi6.",
+      "meaning": "He has eleven magazines."
+    }
+  ],
+  "audio": {
+    "word": "bun2-book-counter.mp3",
+    "examples": [
+      "bun2-book-counter-example-1.mp3",
+      "bun2-book-counter-example-2.mp3",
+      "bun2-book-counter-example-3.mp3",
+      "bun2-book-counter-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measure word",
+    "books",
+    "quantities",
+    "daily use",
+    "counting",
+    "level-1"
+  ],
+  "related": [
+    "張 (zoeng1) - paper counter",
+    "枝 (zi1) - pen counter",
+    "杯 (bui1) - cup counter",
+    "隻 (zek3) - animal counter",
+    "個 (go3) - general counter"
+  ]
+}

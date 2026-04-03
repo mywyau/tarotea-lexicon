@@ -1,0 +1,64 @@
+{
+  "id": "gong3kam4-piano",
+  "word": "鋼琴",
+  "jyutping": "gong3 kam4",
+  "meaning": "piano",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "A common everyday noun for a piano; it is used for both upright piano and grand piano unless you need to be more specific.",
+    "Often appears with verbs like 彈 and 學, for example when talking about playing or learning the piano.",
+    "Neutral and standard in Hong Kong Cantonese, suitable for both spoken and written Chinese.",
+    "When referring to a piano lesson, exam, or performance, 鋼琴 is the natural word to use in music contexts."
+  ],
+  "examples": [
+    {
+      "id": "gong3kam4-piano-example-1",
+      "sentence": "我細個已經開始學鋼琴。",
+      "jyutping": "ngo5 sai3 go3 ji5 ging1 hoi2 ci2 hok6 gong3 kam4.",
+      "meaning": "I started learning piano when I was young."
+    },
+    {
+      "id": "gong3kam4-piano-example-2",
+      "sentence": "佢今日要去上鋼琴堂。",
+      "jyutping": "keoi5 gam1 jat6 jiu3 heoi3 soeng6 gong3 kam4 tong4.",
+      "meaning": "He/She has to go to a piano lesson today."
+    },
+    {
+      "id": "gong3kam4-piano-example-3",
+      "sentence": "呢間屋有一部鋼琴。",
+      "jyutping": "ni1 gaan1 uk1 jau5 jat1 bou6 gong3 kam4.",
+      "meaning": "This house has a piano."
+    },
+    {
+      "id": "gong3kam4-piano-example-4",
+      "sentence": "姐姐彈鋼琴彈得好好聽。",
+      "jyutping": "ze3 ze2 taan4 gong3 kam4 taan4 dak1 hou2 hou2 teng1.",
+      "meaning": "My older sister plays the piano very beautifully."
+    }
+  ],
+  "audio": {
+    "word": "gong3kam4-piano.mp3",
+    "examples": [
+      "gong3kam4-piano-example-1.mp3",
+      "gong3kam4-piano-example-2.mp3",
+      "gong3kam4-piano-example-3.mp3",
+      "gong3kam4-piano-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "music",
+    "instrument",
+    "noun",
+    "beginner",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": [
+    "琴",
+    "彈琴",
+    "琴譜",
+    "鋼琴家"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "zing3sou3-positive",
+  "word": "正數",
+  "jyutping": "zing3 sou3",
+  "meaning": "positive",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 正數 to talk about a number that is above zero.",
+    "正數 can be used after a verb like 係 to state a value clearly.",
+    "You can use 正數 when comparing numbers in math class or homework.",
+    "In everyday talk, 正數 often appears with 數字 or 數學 words."
+  ],
+  "examples": [
+    {
+      "id": "zing3sou3-positive-example-1",
+      "sentence": "呢個數係正數。",
+      "jyutping": "ni1 go3 sou3 si6 zing3 sou3",
+      "meaning": "This number is positive."
+    },
+    {
+      "id": "zing3sou3-positive-example-2",
+      "sentence": "五係正數。",
+      "jyutping": "ng5 hai6 zing3 sou3",
+      "meaning": "Five is positive."
+    },
+    {
+      "id": "zing3sou3-positive-example-3",
+      "sentence": "一同二都係正數。",
+      "jyutping": "jat1 tung4 ji6 dou1 hai6 zing3 sou3",
+      "meaning": "One and two are both positive."
+    },
+    {
+      "id": "zing3sou3-positive-example-4",
+      "sentence": "老師叫我分正數同負數。",
+      "jyutping": "lou5 si1 giu3 ngo5 fan1 zing3 sou3 tung4 fu6 sou3",
+      "meaning": "The teacher asked me to separate positive and negative numbers."
+    }
+  ],
+  "audio": {
+    "word": "zing3sou3-positive.mp3",
+    "examples": [
+      "zing3sou3-positive-example-1.mp3",
+      "zing3sou3-positive-example-2.mp3",
+      "zing3sou3-positive-example-3.mp3",
+      "zing3sou3-positive-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "number",
+    "basic math",
+    "positive number",
+    "numbers",
+    "elementary",
+    "level-1"
+  ],
+  "related": [
+    "負數",
+    "零",
+    "數字",
+    "數學"
+  ]
+}

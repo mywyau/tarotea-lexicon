@@ -1,0 +1,65 @@
+{
+  "id": "king1-negotiate",
+  "word": "傾",
+  "jyutping": "king1",
+  "meaning": "negotiate",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "Common spoken word for 'negotiate', especially in business or deal-making contexts.",
+    "Often used with objects like deal, terms, price, contract, or business arrangements.",
+    "Very casual and conversational; in formal writing or legal settings, people often prefer more standard terms.",
+    "Can also mean 'chat' in everyday Cantonese, so context is important to avoid confusion."
+  ],
+  "examples": [
+    {
+      "id": "king1-negotiate-example-1",
+      "sentence": "我哋要同供應商傾下價。",
+      "jyutping": "ngo5 dei6 jiu3 tung4 gung1 jing3 soeng1 king1 haa5 gaai3.",
+      "meaning": "We need to negotiate the price with the supplier."
+    },
+    {
+      "id": "king1-negotiate-example-2",
+      "sentence": "佢今日去同客戶傾合作。",
+      "jyutping": "keoi5 gam1 jat6 heoi3 tung4 haak3 wu6 king1 hap6 zok3.",
+      "meaning": "He is going to discuss a partnership with the client today."
+    },
+    {
+      "id": "king1-negotiate-example-3",
+      "sentence": "呢單生意仲未傾掂。",
+      "jyutping": "ni1 daan1 sang1 ji3 zung6 mei6 king1 dim6.",
+      "meaning": "This deal still hasn’t been negotiated/sorted out."
+    },
+    {
+      "id": "king1-negotiate-example-4",
+      "sentence": "我哋慢慢傾，唔使咁急。",
+      "jyutping": "ngo5 dei6 maan6 maan6 king1, m4 sai2 gam3 gap1.",
+      "meaning": "Let’s negotiate slowly; no need to rush."
+    }
+  ],
+  "audio": {
+    "word": "king1-negotiate.mp3",
+    "examples": [
+      "king1-negotiate-example-1.mp3",
+      "king1-negotiate-example-2.mp3",
+      "king1-negotiate-example-3.mp3",
+      "king1-negotiate-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "business",
+    "negotiation",
+    "spoken Cantonese",
+    "informal",
+    "deals",
+    "level-1"
+  ],
+  "related": [
+    "傾價",
+    "傾掂",
+    "商量",
+    "談判",
+    "傾偈"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "fuk1zai3-copy",
+  "word": "複製",
+  "jyutping": "fuk1 zai3",
+  "meaning": "copy",
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "usage": [
+    "As a verb, 複製 means to copy text, files, or objects from one place to another.",
+    "複製 can also be used as a noun, referring to the copied item itself.",
+    "In commands or instructions, 複製 is often used to tell someone to make a duplicate.",
+    "It is commonly paired with 貼上 (paste) to describe copying and pasting actions.",
+    "複製 is mostly used with digital content but can also refer to physical copying."
+  ],
+  "examples": [
+    {
+      "id": "fuk1zai3-copy-example-1",
+      "sentence": "我想複製呢段文字。",
+      "jyutping": "ngo5 soeng2 fuk1 zai3 ni1 dyun6 man4 zi6",
+      "meaning": "I want to copy this piece of text."
+    },
+    {
+      "id": "fuk1zai3-copy-example-2",
+      "sentence": "你可以複製呢個文件去USB。",
+      "jyutping": "nei5 ho2 ji5 fuk1 zai3 ni1 go3 man4 gin2 heoi3 USB",
+      "meaning": "You can copy this file to the USB."
+    },
+    {
+      "id": "fuk1zai3-copy-example-3",
+      "sentence": "複製咗嘅相片喺度。",
+      "jyutping": "fuk1 zai3 zo2 ge3 soeng2 pin3 hai2 dou6",
+      "meaning": "The copied photo is here."
+    },
+    {
+      "id": "fuk1zai3-copy-example-4",
+      "sentence": "點樣先可以複製啲資料？",
+      "jyutping": "dim2 joeng6 sin1 ho2 ji5 fuk1 zai3 di1 zi1 liu2",
+      "meaning": "How can I copy the data?"
+    }
+  ],
+  "audio": {
+    "word": "fuk1zai3-copy.mp3",
+    "examples": [
+      "fuk1zai3-copy-example-1.mp3",
+      "fuk1zai3-copy-example-2.mp3",
+      "fuk1zai3-copy-example-3.mp3",
+      "fuk1zai3-copy-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "technology",
+    "computers",
+    "editing",
+    "copy_paste",
+    "digital",
+    "level-1"
+  ],
+  "related": [
+    "貼上",
+    "剪切",
+    "儲存",
+    "刪除",
+    "備份"
+  ]
+}

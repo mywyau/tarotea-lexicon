@@ -1,0 +1,37 @@
+{
+  "id": "teoi1dyun6-infer",
+  "word": "推斷",
+  "jyutping": "teoi1 dyun6",
+  "meaning": "to infer / to deduce / to draw a conclusion",
+
+  "pos": ["verb"],
+
+  "usage": [
+    "Used to describe making a conclusion based on evidence or available information",
+    "Common in explanations, analysis, and reasoning",
+    "Often paired with 根據 / 從…推斷 to show the basis of the inference"
+  ],
+
+  "examples": [
+    {
+      "id": "teoi1dyun6-infer-example-1",
+      "sentence": "根據現有資料，我哋可以推斷事情嘅發展方向。",
+      "jyutping": "gan1 geoi3 jin6 jau5 zi1 liu2, ngo5 dei6 ho2 ji5 teoi1 dyun6 si6 cing4 ge3 faat3 zin2 fong1 hoeng3",
+      "meaning": "Based on the available information, we can infer the direction of the situation."
+    },
+    {
+      "id": "teoi1dyun6-infer-example-2",
+      "sentence": "佢從對方嘅反應推斷結果未必樂觀。",
+      "jyutping": "keoi5 cung4 deoi3 fong1 ge3 faan2 jing3 teoi1 dyun6 git3 gwo2 mei6 bit1 lok6 gun1",
+      "meaning": "He inferred from the other person’s reaction that the outcome might not be optimistic."
+    }
+  ],
+
+  "audio": {
+    "word": "teoi1dyun6-infer.mp3",
+    "examples": [
+      "teoi1dyun6-infer-example-1.mp3",
+      "teoi1dyun6-infer-example-2.mp3"
+    ]
+  }
+}

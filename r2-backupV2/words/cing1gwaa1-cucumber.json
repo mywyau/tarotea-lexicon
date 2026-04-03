@@ -1,0 +1,66 @@
+{
+  "id": "cing1gwaa1-cucumber",
+  "word": "青瓜",
+  "jyutping": "cing1 gwaa1",
+  "meaning": "cucumber",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "青瓜 is a common vegetable used in salads and cooking.",
+    "It is usually green and crunchy when fresh.",
+    "You can eat 青瓜 raw or cooked.",
+    "In Cantonese, 青瓜 refers specifically to cucumber, not any melon.",
+    "青瓜 is often found in markets and grocery stores year-round."
+  ],
+  "examples": [
+    {
+      "id": "cing1gwaa1-cucumber-example-1",
+      "sentence": "我想買啲新鮮青瓜。",
+      "jyutping": "ngo5 soeng2 maai5 di1 san1 sin1 cing1 gwaa1.",
+      "meaning": "I want to buy some fresh cucumbers."
+    },
+    {
+      "id": "cing1gwaa1-cucumber-example-2",
+      "sentence": "呢啲青瓜好脆又新鮮。",
+      "jyutping": "ni1 di1 cing1 gwaa1 hou2 ceoi3 jau6 san1 sin1.",
+      "meaning": "These cucumbers are crunchy and fresh."
+    },
+    {
+      "id": "cing1gwaa1-cucumber-example-3",
+      "sentence": "我鍾意用青瓜做沙律。",
+      "jyutping": "ngo5 zung1 ji3 jung6 cing1 gwaa1 zou6 saa1 leot6.",
+      "meaning": "I like to use cucumber to make salad."
+    },
+    {
+      "id": "cing1gwaa1-cucumber-example-4",
+      "sentence": "青瓜係一種普通嘅蔬菜。",
+      "jyutping": "cing1 gwaa1 hai6 jat1 zung2 pou2 tung1 ge3 so1 coi3.",
+      "meaning": "Cucumber is a common type of vegetable."
+    }
+  ],
+  "audio": {
+    "word": "cing1gwaa1-cucumber.mp3",
+    "examples": [
+      "cing1gwaa1-cucumber-example-1.mp3",
+      "cing1gwaa1-cucumber-example-2.mp3",
+      "cing1gwaa1-cucumber-example-3.mp3",
+      "cing1gwaa1-cucumber-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "vegetables",
+    "food",
+    "fresh",
+    "cooking",
+    "shopping",
+    "level-1"
+  ],
+  "related": [
+    "萵苣 (wo1 geoi2) - lettuce",
+    "西芹 (sai1 can4) - celery",
+    "番茄 (faan1 ke2) - tomato",
+    "紅蘿蔔 (hung4 lo4 baak6) - carrot",
+    "苦瓜 (fu2 gwaa1) - bitter melon"
+  ]
+}

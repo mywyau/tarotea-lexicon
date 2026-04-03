@@ -1,0 +1,64 @@
+{
+  "id": "bui1-for-cups",
+  "word": "杯",
+  "jyutping": "bui1",
+  "meaning": "cupful",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '杯' (bui1) is used as a measure word specifically for cups or glasses of liquid.",
+    "'杯' often comes before the noun to indicate the quantity, like a cup of tea or coffee.",
+    "It can be used to describe any container or serving size that fits in a cupable amount, not just traditional cups.",
+    "When counting, '杯' is placed after the number and before the noun, for example '三杯水' means 'three cups of water'."
+  ],
+  "examples": [
+    {
+      "id": "bui1-for-cups-example-1",
+      "sentence": "我想飲一杯水。",
+      "jyutping": "ngo5 soeng2 jam2 jat1 bui1 seoi2.",
+      "meaning": "I want to drink a cup of water."
+    },
+    {
+      "id": "bui1-for-cups-example-2",
+      "sentence": "呢杯咖啡幾好飲。",
+      "jyutping": "ni1 bui1 gaa3 fe1 gei2 hou2 jam2.",
+      "meaning": "This cup of coffee tastes good."
+    },
+    {
+      "id": "bui1-for-cups-example-3",
+      "sentence": "佢買咗兩杯果汁。",
+      "jyutping": "keoi5 maai5 zo2 loeng5 bui1 gwo2 zap1.",
+      "meaning": "He bought two cups of juice."
+    },
+    {
+      "id": "bui1-for-cups-example-4",
+      "sentence": "請畀我杯茶。",
+      "jyutping": "cing2 bei2 ngo5 bui1 caa4.",
+      "meaning": "Please give me a cup of tea."
+    }
+  ],
+  "audio": {
+    "word": "bui1-for-cups.mp3",
+    "examples": [
+      "bui1-for-cups-example-1.mp3",
+      "bui1-for-cups-example-2.mp3",
+      "bui1-for-cups-example-3.mp3",
+      "bui1-for-cups-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measure word",
+    "liquid measure",
+    "everyday use",
+    "beverages",
+    "level-1"
+  ],
+  "related": [
+    "樽 (cyun4) - bottle",
+    "碗 (wun2) - bowl",
+    "杯 (bui1) - cup",
+    "罐 (gun3) - can",
+    "袋 (doi2) - bag"
+  ]
+}

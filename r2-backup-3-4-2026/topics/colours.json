@@ -1,0 +1,56 @@
+{
+  "topic": "colours",
+  "title": "Colours",
+  "description": "Learn common colours and simple words for describing shades, brightness and colour style.",
+  "categories": {
+    "basic_colours": [
+      { "id": "ngaan4sik1-colour", "word": "顏色", "jyutping": "ngaan4 sik1", "meaning": "colour" },
+      { "id": "hak1sik1-black", "word": "黑色", "jyutping": "haak1 sik1", "meaning": "black" },
+      { "id": "baak6sik1-white", "word": "白色", "jyutping": "baak6 sik1", "meaning": "white" },
+      { "id": "hung4sik1-red", "word": "紅色", "jyutping": "hung4 sik1", "meaning": "red" },
+      { "id": "laam4sik1-blue", "word": "藍色", "jyutping": "laam4 sik1", "meaning": "blue" },
+      { "id": "wong4sik1-yellow", "word": "黃色", "jyutping": "wong4 sik1", "meaning": "yellow" },
+      { "id": "luk6sik1-green", "word": "綠色", "jyutping": "luk6 sik1", "meaning": "green" },
+      { "id": "zi2sik1-purple", "word": "紫色", "jyutping": "zi2 sik1", "meaning": "purple" },
+      { "id": "fan2hung4sik1-pink", "word": "粉紅色", "jyutping": "fan2 hung4 sik1", "meaning": "pink" },
+      { "id": "caang2sik1-orange", "word": "橙色", "jyutping": "caang2 sik1", "meaning": "orange" },
+      { "id": "fe1sik1-brown", "word": "啡色", "jyutping": "fe1 sik1", "meaning": "brown" },
+      { "id": "fui1sik1-grey", "word": "灰色", "jyutping": "fui1 sik1", "meaning": "grey" }
+    ],
+    "shades_and_tones": [
+      { "id": "sam1sik1-dark-colour", "word": "深色", "jyutping": "sam1 sik1", "meaning": "dark colour" },
+      { "id": "cin2sik1-light-colour", "word": "淺色", "jyutping": "cin2 sik1", "meaning": "light colour" },
+      { "id": "daam6sik1-pale-colour", "word": "淡色", "jyutping": "daam6 sik1", "meaning": "pale colour" },
+      { "id": "sin1jim6-bright", "word": "鮮艷", "jyutping": "sin1 jim6", "meaning": "bright" },
+      { "id": "am3-dull", "word": "暗", "jyutping": "am3", "meaning": "dull" },
+      { "id": "gam1sik1-gold", "word": "金色", "jyutping": "gam1 sik1", "meaning": "gold" },
+      { "id": "ngan4sik1-silver", "word": "銀色", "jyutping": "ngan4 sik1", "meaning": "silver" },
+      { "id": "mai5sik1-beige", "word": "米色", "jyutping": "mai5 sik1", "meaning": "beige" }
+    ],
+    "light_and_dark_variants": [
+      { "id": "sam1laam4sik1-dark-blue", "word": "深藍色", "jyutping": "sam1 laam4 sik1", "meaning": "dark blue" },
+      { "id": "cin2laam4sik1-light-blue", "word": "淺藍色", "jyutping": "cin2 laam4 sik1", "meaning": "light blue" },
+      { "id": "samhung4sik1-dark-red", "word": "深紅色", "jyutping": "sam1 hung4 sik1", "meaning": "dark red" },
+      { "id": "cin2hung4sik1-light-red", "word": "淺紅色", "jyutping": "cin2 hung4 sik1", "meaning": "light red" },
+      { "id": "samluk6sik1-dark-green", "word": "深綠色", "jyutping": "sam1 luk6 sik1", "meaning": "dark green" },
+      { "id": "cin2luk6sik1-light-green", "word": "淺綠色", "jyutping": "cin2 luk6 sik1", "meaning": "light green" },
+      { "id": "samwong4sik1-dark-yellow", "word": "深黃色", "jyutping": "sam1 wong4 sik1", "meaning": "dark yellow" },
+      { "id": "cin2wong4sik1-light-yellow", "word": "淺黃色", "jyutping": "cin2 wong4 sik1", "meaning": "light yellow" },
+      { "id": "samzi2sik1-dark-purple", "word": "深紫色", "jyutping": "sam1 zi2 sik1", "meaning": "dark purple" },
+      { "id": "cin2zi2sik1-light-purple", "word": "淺紫色", "jyutping": "cin2 zi2 sik1", "meaning": "light purple" },
+      { "id": "samfe1sik1-dark-brown", "word": "深啡色", "jyutping": "sam1 fe1 sik1", "meaning": "dark brown" },
+      { "id": "cin2fe1sik1-light-brown", "word": "淺啡色", "jyutping": "cin2 fe1 sik1", "meaning": "light brown" },
+      { "id": "samfui1sik1-dark-grey", "word": "深灰色", "jyutping": "sam1 fui1 sik1", "meaning": "dark grey" },
+      { "id": "cin2fui1sik1-light-grey", "word": "淺灰色", "jyutping": "cin2 fui1 sik1", "meaning": "light grey" },
+      { "id": "samfan2hung4sik1-dark-pink", "word": "深粉紅色", "jyutping": "sam1 fan2 hung4 sik1", "meaning": "dark pink" },
+      { "id": "cin2fan2hung4sik1-light-pink", "word": "淺粉紅色", "jyutping": "cin2 fan2 hung4 sik1", "meaning": "light pink" }
+    ],
+    "colour_styles": [
+      { "id": "coi2sik1-colourful", "word": "彩色", "jyutping": "coi2 sik1", "meaning": "colourful" },
+      { "id": "sou3sik1-plain-colour", "word": "素色", "jyutping": "sou3 sik1", "meaning": "plain colour" },
+      { "id": "daan1jat1sik1-single-colour", "word": "單一色", "jyutping": "daan1 jat1 sik1", "meaning": "single colour" },
+      { "id": "zim6bin3sik1-gradient", "word": "漸變色", "jyutping": "zim6 bin3 sik1", "meaning": "gradient colour" },
+      { "id": "tau3ming4-transparent", "word": "透明", "jyutping": "tau3 ming4", "meaning": "transparent" }
+    ]
+  }
+}

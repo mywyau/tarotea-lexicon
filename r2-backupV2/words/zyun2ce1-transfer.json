@@ -1,0 +1,66 @@
+{
+  "id": "zyun2ce1-transfer",
+  "word": "轉車",
+  "jyutping": "zyun2 ce1",
+  "meaning": "transfer",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '轉車' is used primarily as a noun to refer to the act of changing vehicles during a journey.",
+    "'轉車' typically appears after verbs like '要' (need) or '唔使' (don't need) to express whether a transfer is required.",
+    "When asking about travel routes, '轉車' helps clarify if you need to switch trains, buses, or other transport.",
+    "'轉車' can be combined with numbers to specify how many transfers there are, e.g., 一次轉車 (one transfer).",
+    "In conversation, '轉車' is often used without extra particles to keep communication quick and clear."
+  ],
+  "examples": [
+    {
+      "id": "zyun2ce1-transfer-example-1",
+      "sentence": "我坐地鐵去嗰度要唔要轉車？",
+      "jyutping": "ngo5 co5 dei6tit3 heoi3 go2dou6 jiu3 m4 jiu3 zyun2 ce1?",
+      "meaning": "Do I need to transfer trains to get there?"
+    },
+    {
+      "id": "zyun2ce1-transfer-example-2",
+      "sentence": "搭巴士要一個轉車。",
+      "jyutping": "daap3 baa1si2 jiu3 jat1 go3 zyun2 ce1.",
+      "meaning": "Taking the bus requires one transfer."
+    },
+    {
+      "id": "zyun2ce1-transfer-example-3",
+      "sentence": "轉車時記得攞定張票。",
+      "jyutping": "zyun2 ce1 si4 gei3dak1 lo2 ding6 zoeng1 piu3.",
+      "meaning": "Remember to prepare your ticket when transferring."
+    },
+    {
+      "id": "zyun2ce1-transfer-example-4",
+      "sentence": "我唔鍾意頻密嘅轉車。",
+      "jyutping": "ngo5 m4 zung1 ji3 pan4 mat6 ge3 zyun2 ce1.",
+      "meaning": "I don't like frequent transfers."
+    }
+  ],
+  "audio": {
+    "word": "zyun2ce1-transfer.mp3",
+    "examples": [
+      "zyun2ce1-transfer-example-1.mp3",
+      "zyun2ce1-transfer-example-2.mp3",
+      "zyun2ce1-transfer-example-3.mp3",
+      "zyun2ce1-transfer-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "transport",
+    "travel",
+    "transfer",
+    "Hong Kong",
+    "commuting",
+    "level-1"
+  ],
+  "related": [
+    "地鐵 dei6tit3 (MTR/subway)",
+    "巴士 baa1si2 (bus)",
+    "車站 ce1zaam6 (station)",
+    "票 piu3 (ticket)",
+    "路線 lou6sin3 (route)"
+  ]
+}

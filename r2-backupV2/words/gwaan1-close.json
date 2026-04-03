@@ -1,0 +1,66 @@
+{
+  "id": "gwaan1-close",
+  "word": "關",
+  "jyutping": "gwaan1",
+  "meaning": "close",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "The word '關' (gwaan1) is mainly used as a verb meaning 'to close' or 'to turn off.'",
+    "'關' can be used with devices like 電燈 (light), 電腦 (computer) to mean turning them off.",
+    "It is often combined with objects to specify what is being closed, e.g., 關門 (close the door).",
+    "'關' can appear in imperative sentences to give commands or suggestions like '關灯' (turn off the light).",
+    "It can also be used metaphorically, such as 關心 (care for) but here we focus on the physical action of closing."
+  ],
+  "examples": [
+    {
+      "id": "gwaan1-close-example-1",
+      "sentence": "請你關燈。",
+      "jyutping": "cing2 nei5 gwaan1 dang1.",
+      "meaning": "Please turn off the light."
+    },
+    {
+      "id": "gwaan1-close-example-2",
+      "sentence": "記得關電腦先。",
+      "jyutping": "gei3 dak1 gwaan1 din6 nou5 sin1.",
+      "meaning": "Remember to turn off the computer first."
+    },
+    {
+      "id": "gwaan1-close-example-3",
+      "sentence": "佢自己關左門。",
+      "jyutping": "keoi5 zi6 gei2 gwaan1 zo2 mun4.",
+      "meaning": "He/She closed the door by themselves."
+    },
+    {
+      "id": "gwaan1-close-example-4",
+      "sentence": "番嚟就要關電話。",
+      "jyutping": "faan1 lai4 zau6 jiu3 gwaan1 din6 waa2.",
+      "meaning": "Turn off the phone as soon as you come back."
+    }
+  ],
+  "audio": {
+    "word": "gwaan1-close.mp3",
+    "examples": [
+      "gwaan1-close-example-1.mp3",
+      "gwaan1-close-example-2.mp3",
+      "gwaan1-close-example-3.mp3",
+      "gwaan1-close-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "daily conversation",
+    "technology",
+    "verbs",
+    "commands",
+    "devices",
+    "level-1"
+  ],
+  "related": [
+    "開 (hoi1 - open/turn on)",
+    "燈 (dang1 - light)",
+    "電腦 (din6 nou5 - computer)",
+    "電話 (din6 waa2 - phone)",
+    "門 (mun4 - door)"
+  ]
+}

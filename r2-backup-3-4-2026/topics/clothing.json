@@ -1,0 +1,67 @@
+{
+  "topic": "clothing_and_shopping",
+  "title": "Clothing & Shopping",
+  "description": "Browse clothes, ask about sizes and colours and trying items on.",
+  "categories": {
+
+    "clothing_items" :[
+      { "id": "saam1-clothes", "word": "衫", "jyutping": "saam1", "meaning": "clothes" },
+      { "id": "ti1seot1-t-shirt", "word": "T恤", "jyutping": "ti1 seot1", "meaning": "t-shirt" },
+      { "id": "seot1saam1-shirt", "word": "恤衫", "jyutping": "seot1 saam1", "meaning": "shirt" },
+      { "id": "fu3-trousers", "word": "褲", "jyutping": "fu3", "meaning": "trousers" },
+      { "id": "ngau4zai2fu3-jeans", "word": "牛仔褲", "jyutping": "ngau4 zai2 fu3", "meaning": "jeans" },
+      { "id": "dyun2fu3-shorts", "word": "短褲", "jyutping": "dyun2 fu3", "meaning": "shorts" },
+      { "id": "kwan2-skirt", "word": "裙", "jyutping": "kwan2", "meaning": "skirt" },
+      { "id": "lin4san1kwan2-dress", "word": "連身裙", "jyutping": "lin4 san1 kwan2", "meaning": "dress" },
+      { "id": "ngoi6tou3-outerwear", "word": "外套", "jyutping": "ngoi6 tou3", "meaning": "outerwear" },
+      { "id": "lau1-coat", "word": "褸", "jyutping": "lau1", "meaning": "coat"},
+      { "id": "jyun4ling5saam1-jumper", "word": "圓領衫", "jyutping": "jyun4 ling5 saam1", "meaning": "jumper" },
+      { "id": "haai4-shoes", "word": "鞋", "jyutping": "haai4", "meaning": "shoes" },
+      { "id": "bo1haai4-trainers", "word": "波鞋", "jyutping": "bo1 haai4", "meaning": "trainers" },
+      { "id": "to1haai4-slippers", "word": "拖鞋", "jyutping": "to1 haai4", "meaning": "slippers" },
+      { "id": "mou6-hat", "word": "帽", "jyutping": "mou6", "meaning": "hat" },
+      { "id": "wai4gan1-scarf", "word": "圍巾", "jyutping": "wai4 gan1", "meaning": "scarf" },
+      { "id": "pei4daai3-belt", "word": "皮帶", "jyutping": "pei4 daai3", "meaning": "belt" },
+      { "id": "sau2tou3-gloves", "word": "手套", "jyutping": "sau2 tou3", "meaning": "gloves" },
+      { "id": "mat6-socks", "word": "襪", "jyutping": "mat6", "meaning": "socks" },
+      { "id": "noi6ji1-underwear", "word": "內衣", "jyutping": "noi6 ji1", "meaning": "underwear" },
+      { "id": "sai1zong1-suit", "word": "西裝", "jyutping": "sai1 zong1", "meaning": "suit" }
+    ],
+
+    "sizes_and_fit":
+      [
+        { "id": "daai6-big", "word": "大", "jyutping": "daai6", "meaning": "big" },
+        { "id": "sai3-small", "word": "細", "jyutping": "sai3", "meaning": "small" },
+        { "id": "zung1-medium", "word": "中", "jyutping": "zung1", "meaning": "medium" },
+        { "id": "maa5-size", "word": "碼", "jyutping": "maa5", "meaning": "size" },
+        { "id": "gei2maa5-what-size", "word": "幾碼", "jyutping": "gei2 maa5", "meaning": "what size?" },
+        { "id": "hou2hap6san1-fits-well", "word": "好合身", "jyutping": "hou2 hap6 san1", "meaning": "fits well" },
+        { "id": "hou2sung1-too-loose", "word": "好鬆", "jyutping": "hou2 sung1", "meaning": "too loose" },
+        { "id": "taai3gan2-too-tight", "word": "太緊", "jyutping": "taai3 gan2", "meaning": "too tight" }
+      ],
+
+    "colours_and_style": [
+      { "id": "hak1sik1-black", "word": "黑色", "jyutping": "hak1 sik1", "meaning": "black" },
+      { "id": "baak6sik1-white", "word": "白色", "jyutping": "baak6 sik1", "meaning": "white" },
+      { "id": "hung4sik1-red", "word": "紅色", "jyutping": "hung4 sik1", "meaning": "red" },
+      { "id": "laam4sik1-blue", "word": "藍色", "jyutping": "laam4 sik1", "meaning": "blue" },
+      { "id": "wong4sik1-yellow", "word": "黃色", "jyutping": "wong4 sik1", "meaning": "yellow" },
+      { "id": "luk6sik1-green", "word": "綠色", "jyutping": "luk6 sik1", "meaning": "green" },
+      { "id": "zi2sik1-purple", "word": "紫色", "jyutping": "zi2 sik1", "meaning": "purple" },
+      { "id": "fan2hung4sik1-pink", "word": "粉紅色", "jyutping": "fan2 hung4 sik1", "meaning": "pink" },
+      { "id": "caang2sik1-orange", "word": "橙色", "jyutping": "caang2 sik1", "meaning": "orange" },
+      { "id": "gam1sik1-gold", "word": "金色", "jyutping": "gam1 sik1", "meaning": "gold" },
+      { "id": "ngan4sik1-silver", "word": "銀色", "jyutping": "ngan4 sik1", "meaning": "silver" },
+      { "id": "sam1sik1-dark-colour", "word": "深色", "jyutping": "sam1 sik1", "meaning": "dark colour" },
+      { "id": "cin2sik1-light-colour", "word": "淺色", "jyutping": "cin2 sik1", "meaning": "light colour" },
+      { "id": "hou2leng3-looks-nice", "word": "好靚", "jyutping": "hou2 leng3", "meaning": "looks nice" },
+      { "id": "hou2jing4-stylish", "word": "好型", "jyutping": "hou2 jing4", "meaning": "stylish" }
+    ],
+
+    "trying_on": [
+      { "id": "ho2m4ho2ji5si3-can-I-try-it-on", "word": "可唔可以試", "jyutping": "ho2 m4 ho2 ji5 si3", "meaning": "can I try it on?" },
+      { "id": "si3saam1-try-clothes", "word": "試衫", "jyutping": "si3 saam1", "meaning": "try on clothes" },
+      { "id": "gang1ji1sat1-fitting-room", "word": "更衣室", "jyutping": "gang1 ji1 sat1", "meaning": "fitting room" }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fan3-sleep",
+  "word": "瞓",
+  "jyutping": "fan3",
+  "meaning": "sleep",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "瞓 is used as a verb meaning 'to sleep'.",
+    "You can use 瞓 to talk about going to bed or sleeping at night.",
+    "It can be used in questions to ask if someone is sleeping.",
+    "瞓 is informal and common in spoken Cantonese.",
+    "It can also appear in commands or suggestions, like telling someone to get some sleep."
+  ],
+  "examples": [
+    {
+      "id": "fan3-sleep-example-1",
+      "sentence": "我而家想瞓覺。",
+      "jyutping": "ngo5 ji4 gaa1 soeng2 fan3 gaau3.",
+      "meaning": "I want to sleep now."
+    },
+    {
+      "id": "fan3-sleep-example-2",
+      "sentence": "你瞓咗未？",
+      "jyutping": "nei5 fan3 zo2 mei6?",
+      "meaning": "Have you slept yet?"
+    },
+    {
+      "id": "fan3-sleep-example-3",
+      "sentence": "小朋友該去瞓啦。",
+      "jyutping": "siu2 pang4 jau5 goi1 heoi3 fan3 laa1.",
+      "meaning": "Kids should go to sleep."
+    },
+    {
+      "id": "fan3-sleep-example-4",
+      "sentence": "今晚唔好瞓得太遲。",
+      "jyutping": "gam1 maan5 m4 hou2 fan3 dak1 taai3 ci4.",
+      "meaning": "Don’t sleep too late tonight."
+    }
+  ],
+  "audio": {
+    "word": "fan3-sleep.mp3",
+    "examples": [
+      "fan3-sleep-example-1.mp3",
+      "fan3-sleep-example-2.mp3",
+      "fan3-sleep-example-3.mp3",
+      "fan3-sleep-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic verbs",
+    "body actions",
+    "daily life",
+    "informal",
+    "spoken Cantonese",
+    "level-1"
+  ],
+  "related": [
+    "訓覺",
+    "瞓覺",
+    "瞓醒",
+    "瞓過頭",
+    "起身"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "caa4joek6-apply-medicine",
+  "word": "搽藥",
+  "jyutping": "caa4 joek6",
+  "meaning": "apply medicine",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "搽藥 is a verb used to describe the action of putting medicine on the skin.",
+    "It often involves cream, ointment, or lotion that needs to be spread on the affected area.",
+    "搽藥 can be used in both formal and informal contexts when talking about treating wounds or skin problems.",
+    "The verb 搽藥 usually takes a direct object, which is the medicine or the place on the body where the medicine is applied.",
+    "In daily conversations, 搽藥 can be combined with words indicating the body part, like 搽藥喺手臂 (apply medicine on the arm)."
+  ],
+  "examples": [
+    {
+      "id": "caa4joek6-apply-medicine-example-1",
+      "sentence": "你記住要搽藥先。",
+      "jyutping": "nei5 gei3 zyu6 jiu3 caa4 joek6 sin1.",
+      "meaning": "Remember to apply the medicine first."
+    },
+    {
+      "id": "caa4joek6-apply-medicine-example-2",
+      "sentence": "傷口要保持乾淨，搽藥唔可以唔洗手。",
+      "jyutping": "soeng1 hau2 jiu3 bou2 ci4 gon1 zeng6, caa4 joek6 m4 ho2 ji5 m4 sai2 sau2.",
+      "meaning": "The wound should be kept clean, don’t apply medicine without washing your hands."
+    },
+    {
+      "id": "caa4joek6-apply-medicine-example-3",
+      "sentence": "醫生話每日三次要搽藥。",
+      "jyutping": "ji1 sang1 waa6 mui5 jat6 saam1 ci3 jiu3 caa4 joek6.",
+      "meaning": "The doctor says to apply medicine three times a day."
+    },
+    {
+      "id": "caa4joek6-apply-medicine-example-4",
+      "sentence": "我唔記得搽藥，所以痕癢得好嚴重。",
+      "jyutping": "ngo5 m4 gei3 dak1 caa4 joek6, so2 ji5 han4 joeng5 dak1 hou2 jim4 zung6.",
+      "meaning": "I forgot to apply the medicine, so the itchiness is very bad."
+    }
+  ],
+  "audio": {
+    "word": "caa4joek6-apply-medicine.mp3",
+    "examples": [
+      "caa4joek6-apply-medicine-example-1.mp3",
+      "caa4joek6-apply-medicine-example-2.mp3",
+      "caa4joek6-apply-medicine-example-3.mp3",
+      "caa4joek6-apply-medicine-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "health",
+    "medicine",
+    "treatment",
+    "skin care",
+    "daily usage",
+    "level-1"
+  ],
+  "related": [
+    "敷藥",
+    "塗藥",
+    "藥膏",
+    "創口貼",
+    "消毒"
+  ]
+}

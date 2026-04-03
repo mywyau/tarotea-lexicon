@@ -1,0 +1,57 @@
+{
+  "id": "ziu3gu3jyun4-caregiver",
+  "word": "照顧員",
+  "jyutping": "ziu3 gu3 jyun4",
+  "meaning": "caregiver",
+  "pos": ["noun"],
+  "usage": [
+    "A common noun for a paid care worker or caregiver, especially in hospitals, elderly homes, or rehabilitation settings.",
+    "Usually refers to someone who provides day-to-day personal care, such as helping with mobility, meals, hygiene, and basic support.",
+    "It is neutral and practical in tone, and is often used in workplace, social service, or healthcare contexts.",
+    "Often appears with terms related to care services, staff roles, and elderly/disabled support; the person does the caregiving work, not medical treatment."
+  ],
+  "examples": [
+    {
+      "id": "ziu3gu3jyun4-caregiver-example-1",
+      "sentence": "照顧員今日要幫院友洗澡同換片。",
+      "jyutping": "ziu3 gu3 jyun4 gam1 jat6 jiu3 bong1 jyun2 jau5 sai2 zou2 tung4 wun6 pin3.",
+      "meaning": "The caregiver needs to help the residents bathe and change diapers today."
+    },
+    {
+      "id": "ziu3gu3jyun4-caregiver-example-2",
+      "sentence": "呢間安老院有幾位照顧員輪流當值。",
+      "jyutping": "ni1 gaan1 on1 lou5 jyun2 jau5 gei2 wai2 ziu3 gu3 jyun4 leon4 lau4 dong1 zik6.",
+      "meaning": "This elderly home has several caregivers on rotating duty."
+    },
+    {
+      "id": "ziu3gu3jyun4-caregiver-example-3",
+      "sentence": "如果你屋企有長者，可以考慮請一個照顧員。",
+      "jyutping": "jyu4 gwo2 nei5 uk1 kei2 jau5 coeng4 ze2, ho2 ji5 haau2 leoi6 ceng2 jat1 go3 ziu3 gu3 jyun4.",
+      "meaning": "If your family has an elderly person, you can consider hiring a caregiver."
+    },
+    {
+      "id": "ziu3gu3jyun4-caregiver-example-4",
+      "sentence": "照顧員唔只要有耐性，仲要好細心。",
+      "jyutping": "ziu3 gu3 jyun4 m4 zi2 jiu3 jau5 noi6 sing3, zung6 jiu3 hou2 sai3 sam1.",
+      "meaning": "A caregiver needs not only patience but also careful attention."
+    }
+  ],
+  "audio": {
+    "word": "ziu3gu3jyun4-caregiver.mp3",
+    "examples": [
+      "ziu3gu3jyun4-caregiver-example-1.mp3",
+      "ziu3gu3jyun4-caregiver-example-2.mp3",
+      "ziu3gu3jyun4-caregiver-example-3.mp3",
+      "ziu3gu3jyun4-caregiver-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "healthcare",
+    "care work",
+    "elderly care",
+    "support staff",
+    "beginner",
+    "level-1"
+  ],
+  "related": ["看護", "護理員", "院友", "安老院", "長者"]
+}

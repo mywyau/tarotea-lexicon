@@ -1,0 +1,66 @@
+{
+  "id": "cit3-cut",
+  "word": "切",
+  "jyutping": "cit3",
+  "meaning": "cut",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "Use '切' to talk about cutting fruits or vegetables into pieces.",
+    "Commonly used in cooking instructions to tell how to prepare ingredients.",
+    "Can describe slicing, chopping, or dicing depending on context.",
+    "Often comes with tools like knives (刀).",
+    "Can also be used metaphorically in other contexts, but focus here is food prep."
+  ],
+  "examples": [
+    {
+      "id": "cit3-cut-example-1",
+      "sentence": "我要切啲蘋果。",
+      "jyutping": "ngo5 jiu3 cit3 di1 ping4 gwo2.",
+      "meaning": "I want to cut some apples."
+    },
+    {
+      "id": "cit3-cut-example-2",
+      "sentence": "呢啲蔬菜好新鮮，切得幾靚。",
+      "jyutping": "ni1 di1 so1 coi3 hou2 san1 sin1, cit3 dak1 gei2 leng3.",
+      "meaning": "These vegetables are fresh and cut nicely."
+    },
+    {
+      "id": "cit3-cut-example-3",
+      "sentence": "通常我哋切細啲薯仔煮薯蓉。",
+      "jyutping": "tung1 soeng4 ngo5 dei6 cit3 sai3 di1 syu4 zai2 zyu2 syu4 jung4.",
+      "meaning": "Usually we cut the potatoes into small pieces to make mashed potatoes."
+    },
+    {
+      "id": "cit3-cut-example-4",
+      "sentence": "切喺廣東話入面係'cut'嘅意思。",
+      "jyutping": "cit3 hai2 gwong2 dung1 waa2 jap6 min6 hai6 'cut' ge3 ji3 si1.",
+      "meaning": "'切' means 'cut' in Cantonese."
+    }
+  ],
+  "audio": {
+    "word": "cit3-cut.mp3",
+    "examples": [
+      "cit3-cut-example-1.mp3",
+      "cit3-cut-example-2.mp3",
+      "cit3-cut-example-3.mp3",
+      "cit3-cut-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "fruits",
+    "vegetables",
+    "cooking",
+    "preparation",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "刀 dou1 (knife)",
+    "剁 do2 (chop)",
+    "切片 cit3 pin3 (slice)",
+    "攪拌 gaau2 baan6 (mix)",
+    "洗 sai2 (wash)"
+  ]
+}
