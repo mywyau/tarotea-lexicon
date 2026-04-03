@@ -1,0 +1,355 @@
+{
+  "level": 10,
+  "title": "Level 10 – Advanced Cantonese Expressions",
+  "description": "Master commonly used idioms, fixed phrases, and expressive Cantonese expressions.",
+  "categories": {
+    "crowds_and_scale": [
+      {
+        "id": "jan4saan1jan4hoi2-huge-crowd",
+        "word": "人山人海",
+        "jyutping": "jan4 saan1 jan4 hoi2",
+        "meaning": "huge crowd"
+      },
+      {
+        "id": "seoi2sit3bat1tung1-packed-tightly",
+        "word": "水洩不通",
+        "jyutping": "seoi2 sit3 bat1 tung1",
+        "meaning": "jammed"
+      },
+      {
+        "id": "jan4coi4zai3zai3-full-of-talent",
+        "word": "人才濟濟",
+        "jyutping": "jan4 coi4 zai3 zai3",
+        "meaning": "full of talent"
+      },
+      {
+        "id": "geoi2zuk1hing1zung6-of-great-importance",
+        "word": "舉足輕重",
+        "jyutping": "geoi2 zuk1 hing1 zung6",
+        "meaning": "influential"
+      },
+      {
+        "id": "hei3sai3pong4bok6-grand-and-imposing-majestic-and-powerful",
+        "word": "氣勢磅礴",
+        "jyutping": "hei3 sai3 pong4 bok6",
+        "meaning": "majestic"
+      }
+    ],
+    "cause_and_consequence": [
+      {
+        "id": "zi6zok3zi6sau6-self-inflicted",
+        "word": "自作自受",
+        "jyutping": "zi6 zok3 zi6 sau6",
+        "meaning": "self-inflicted"
+      },
+      {
+        "id": "jat1sek6ji6niu5-two-birds-one-stone",
+        "word": "一石二鳥",
+        "jyutping": "jat1 sek6 ji6 niu5",
+        "meaning": "two-for-one"
+      },
+      {
+        "id": "jan1siu2sat1daai6-to-suffer-a-big-loss-for-the-sake-of-a-small-gain-to-lose-more-by-trying-to-gain-less",
+        "word": "因小失大",
+        "jyutping": "jan1 siu2 sat1 daai6",
+        "meaning": "shortsighted"
+      },
+      {
+        "id": "hok6ji5zi3jung6-apply-what-you-learned",
+        "word": "學以致用",
+        "jyutping": "hok6 ji5 zi3 jung6",
+        "meaning": "apply learning"
+      },
+      {
+        "id": "seoi2dou3keoi4sing4-natural-outcome",
+        "word": "水到渠成",
+        "jyutping": "seoi2 dou3 keoi4 sing4",
+        "meaning": "fall into place"
+      }
+    ],
+    "emotions_and_state": [
+      {
+        "id": "mou4ho2noi6ho4-utterly-helpless",
+        "word": "無可奈何",
+        "jyutping": "mou4 ho2 noi6 ho4",
+        "meaning": "helpless"
+      },
+      {
+        "id": "bun3seon3bun3ji4-skeptical",
+        "word": "半信半疑",
+        "jyutping": "bun3 seon3 bun3 ji4",
+        "meaning": "skeptical"
+      },
+      {
+        "id": "sam1jyu4dou1got3-deeply-heartbroken",
+        "word": "心如刀割",
+        "jyutping": "sam1 jyu4 dou1 got3",
+        "meaning": "heartbroken"
+      },
+      {
+        "id": "hoi1sam1dou3fei1hei2-overjoyed",
+        "word": "開心到飛起",
+        "jyutping": "hoi1 sam1 dou3 fei1 hei2",
+        "meaning": "ecstatic"
+      },
+      {
+        "id": "hing1sung1zi6zoi6-relaxed-and-free",
+        "word": "輕鬆自在",
+        "jyutping": "hing1 sung1 zi6 zoi6",
+        "meaning": "carefree"
+      }
+    ],
+    "skill_and_quality": [
+      {
+        "id": "tin1ji1mou4fung6-flawless",
+        "word": "天衣無縫",
+        "jyutping": "tin1 ji1 mou4 fung6",
+        "meaning": "flawless"
+      },
+      {
+        "id": "jat1cing1ji6co2-crystal-clear",
+        "word": "一清二楚",
+        "jyutping": "jat1 cing1 ji6 co2",
+        "meaning": "perfectly clear"
+      },
+      {
+        "id": "loeng5cyun4kei4mei5-win-win",
+        "word": "兩全其美",
+        "jyutping": "loeng5 cyun4 kei4 mei5",
+        "meaning": "win-win"
+      },
+      {
+        "id": "faat3zin2jau5wai4-promising-future",
+        "word": "發展有為",
+        "jyutping": "faat3 zin2 jau5 wai4",
+        "meaning": "high-potential"
+      },
+      {
+        "id": "soeng6soeng6zi1syun2-best-possible-choice",
+        "word": "上上之選",
+        "jyutping": "soeng6 soeng6 zi1 syun2",
+        "meaning": "top choice"
+      }
+    ],
+    "behaviour_and_character": [
+      {
+        "id": "gin3gwaai3bat1gwaai3-unfazed",
+        "word": "見怪不怪",
+        "jyutping": "gin3 gwaai3 bat1 gwaai3",
+        "meaning": "unfazed"
+      },
+      {
+        "id": "zi6ji5wai4si6-self-righteous",
+        "word": "自以為是",
+        "jyutping": "zi6 ji5 wai4 si6",
+        "meaning": "self-righteous"
+      },
+      {
+        "id": "tiu1saam1gaan2sei3-overly-picky",
+        "word": "挑三揀四",
+        "jyutping": "tiu1 saam1 gaan2 sei3",
+        "meaning": "nitpicky"
+      },
+      {
+        "id": "hok6m4sik1fuk1-ungrateful",
+        "word": "學唔識福",
+        "jyutping": "hok6 m4 sik1 fuk1",
+        "meaning": "ungrateful"
+      },
+      {
+        "id": "cin4gung1zeon6fai3-effort-wasted",
+        "word": "前功盡廢",
+        "jyutping": "cin4 gung1 zeon6 fai3",
+        "meaning": "wasted effort"
+      }
+    ],
+    "time_and_change": [
+      {
+        "id": "si4gwo3ging2cin1-times-change",
+        "word": "時過境遷",
+        "jyutping": "si4 gwo3 ging2 cin1",
+        "meaning": "times have changed"
+      },
+      {
+        "id": "jat1jat6cin1lei5-rapid-progress",
+        "word": "一日千里",
+        "jyutping": "jat1 jat6 cin1 lei5",
+        "meaning": "fast progress"
+      },
+      {
+        "id": "soeng6mei6ho2zi1-not-yet-known-still-uncertain-remains-to-be-seen",
+        "word": "尚未可知",
+        "jyutping": "soeng6 mei6 ho2 zi1",
+        "meaning": "uncertain"
+      },
+      {
+        "id": "jat1zik6zi1gaan1-overnight",
+        "word": "一夕之間",
+        "jyutping": "jat1 zik6 zi1 gaan1",
+        "meaning": "overnight"
+      },
+      {
+        "id": "sang1sang1bat1sik1-endless-continuous",
+        "word": "生生不息",
+        "jyutping": "sang1 sang1 bat1 sik1",
+        "meaning": "unending"
+      }
+    ],
+    "speech_and_thinking": [
+      {
+        "id": "jat1min6zi1ci4-one-sided-story",
+        "word": "一面之詞",
+        "jyutping": "jat1 min6 zi1 ci4",
+        "meaning": "one-sided account"
+      },
+      {
+        "id": "gong2bat1cing1co2-unclear-explanation",
+        "word": "講不清楚",
+        "jyutping": "gong2 bat1 cing1 co2",
+        "meaning": "unclear explanation"
+      },
+      {
+        "id": "cung1zi1jau5lei5-logically-sound",
+        "word": "充之有理",
+        "jyutping": "cung1 zi1 jau5 lei5",
+        "meaning": "logically sound"
+      },
+      {
+        "id": "sam1zung1jau5sou3-know-it-well-inside",
+        "word": "心中有數",
+        "jyutping": "sam1 zung1 jau5 sou3",
+        "meaning": "well aware"
+      },
+      {
+        "id": "jat1zam1gin3hyut3-hit-the-nail-on-the-head",
+        "word": "一針見血",
+        "jyutping": "jat1 zam1 gin3 hyut3",
+        "meaning": "hit the nail on the head"
+      },
+      {
+        "id": "zi6soeng1mau4teon5-self-contradictory",
+        "word": "自相矛盾",
+        "jyutping": "zi6 soeng1 mau4 teon5",
+        "meaning": "self-contradictory"
+      },
+      {
+        "id": "zaam2ding1zit6tit3-firm-and-decisive",
+        "word": "斬釘截鐵",
+        "jyutping": "zaam2 ding1 zit6 tit3",
+        "meaning": "unequivocal"
+      }
+    ],
+    "money_and_success": [
+      {
+        "id": "jat1bou6dang1tin1-overnight-success",
+        "word": "一步登天",
+        "jyutping": "jat1 bou6 dang1 tin1",
+        "meaning": "meteoric rise"
+      },
+      {
+        "id": "cin4tou4mou4loeng6-bright-future",
+        "word": "前途無量",
+        "jyutping": "cin4 tou4 mou4 loeng6",
+        "meaning": "bright future"
+      },
+      {
+        "id": "bou6bou6goeng1sing1-rise-steadily",
+        "word": "步步高升",
+        "jyutping": "bou6 bou6 gou1 sing1",
+        "meaning": "rise step by step"
+      },
+      {
+        "id": "hoi1mun4hung4lei6-an-auspicious-start",
+        "word": "開門紅利",
+        "jyutping": "hoi1 mun4 hung4 lei6",
+        "meaning": "auspicious opening"
+      }
+    ],
+    "strategy_and_conflict": [
+      {
+        "id": "ming4zang1am3dau3-open-and-secret-fighting",
+        "word": "明爭暗鬥",
+        "jyutping": "ming4 zang1 am3 dau3",
+        "meaning": "open and secret fighting"
+      },
+      {
+        "id": "soeng1syu1guk6min6-lose-lose-situation",
+        "word": "雙輸局面",
+        "jyutping": "soeng1 syu1 guk6 min6",
+        "meaning": "lose-lose"
+      },
+      {
+        "id": "jat1baai6tou4dei6-total-defeat",
+        "word": "一敗塗地",
+        "jyutping": "jat1 baai6 tou4 dei6",
+        "meaning": "crushing defeat"
+      }
+    ],
+    "relationships_and_social": [
+      {
+        "id": "cyun4sam1jat1ji3-wholeheartedly",
+        "word": "全心一意",
+        "jyutping": "cyun4 sam1 jat1 ji3",
+        "meaning": "wholeheartedly"
+      },
+      {
+        "id": "jat1gin3jyu4gu3-instant-connection",
+        "word": "一見如故",
+        "jyutping": "jat1 gin3 jyu4 gu3",
+        "meaning": "instant rapport"
+      },
+      {
+        "id": "soeng1jyu4ji5mut6-support-each-other",
+        "word": "相濡以沫",
+        "jyutping": "soeng1 jyu4 ji5 mut6",
+        "meaning": "mutual support"
+      }
+    ],
+    "luck_and_fate": [
+      {
+        "id": "tin1zyu3ding6-fated",
+        "word": "天注定",
+        "jyutping": "tin1 zyu3 ding6",
+        "meaning": "fated"
+      },
+      {
+        "id": "zung3gwaa1dak1gwaa1-you-reap-what-you-sow",
+        "word": "種瓜得瓜",
+        "jyutping": "zung3 gwaa1 dak1 gwaa1",
+        "meaning": "reap what you sow"
+      },
+      {
+        "id": "ho2jyu6bat1ho2kau4-hard-to-come-by-can-be-encountered-but-not-sought-rare-and-not-obtainable-by-force",
+        "word": "可遇不可求",
+        "jyutping": "ho2 jyu6 bat1 ho2 kau4",
+        "meaning": "rare chance"
+      }
+    ],
+    "work_and_effort": [
+      {
+        "id": "san1fu2dak1loi4-hard-earned-obtained-through-hard-work",
+        "word": "辛苦得來",
+        "jyutping": "san1 fu2 dak1 loi4",
+        "meaning": "hard-earned"
+      },
+      {
+        "id": "si6bun3gung1pui5-double-result-half-effort",
+        "word": "事半功倍",
+        "jyutping": "si6 bun3 gung1 pui5",
+        "meaning": "efficient"
+      },
+      {
+        "id": "mai4tau4fu2gon3-work-hard-quietly",
+        "word": "埋頭苦幹",
+        "jyutping": "mai4 tau4 fu2 gon3",
+        "meaning": "work tirelessly"
+      },
+      {
+        "id": "mei6jyu5cau4mau4-to-prepare-in-advance-to-take-precautions-before-problems-arise",
+        "word": "未雨綢繆",
+        "jyutping": "mei6 jyu5 cau4 mau4",
+        "meaning": "prepare early"
+      }
+    ]
+  }
+}

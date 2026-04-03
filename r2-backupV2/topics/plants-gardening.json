@@ -1,0 +1,429 @@
+{
+  "topic": "plants-gardening",
+  "title": "Plants and Gardening",
+  "description": "Learn common Cantonese words for plants, flowers, trees, leaves, and other nature-related vocabulary.",
+  "categories": {
+    "basic_plant_words": [
+      {
+        "id": "zik6mat6-plant",
+        "word": "植物",
+        "jyutping": "zik6 mat6",
+        "meaning": "plant"
+      },
+      {
+        "id": "faa1-flower",
+        "word": "花",
+        "jyutping": "faa1",
+        "meaning": "flower"
+      },
+      {
+        "id": "syu6-tree",
+        "word": "樹",
+        "jyutping": "syu6",
+        "meaning": "tree"
+      },
+      {
+        "id": "cou2-grass",
+        "word": "草",
+        "jyutping": "cou2",
+        "meaning": "grass"
+      },
+      {
+        "id": "jip6-leaf",
+        "word": "葉",
+        "jyutping": "jip6",
+        "meaning": "leaf"
+      },
+      {
+        "id": "gan1-root",
+        "word": "根",
+        "jyutping": "gan1",
+        "meaning": "root"
+      },
+      {
+        "id": "zung2zi2-seed",
+        "word": "種子",
+        "jyutping": "zung2 zi2",
+        "meaning": "seed"
+      },
+      {
+        "id": "zi1-branch",
+        "word": "枝",
+        "jyutping": "zi1",
+        "meaning": "branch"
+      },
+      {
+        "id": "faa1faan6-petal",
+        "word": "花瓣",
+        "jyutping": "faa1 faan6",
+        "meaning": "petal"
+      },
+      {
+        "id": "gwo2sat6-fruit",
+        "word": "果實",
+        "jyutping": "gwo2 sat6",
+        "meaning": "fruit"
+      }
+    ],
+    "common_plants_and_flowers": [
+      {
+        "id": "mui4gwai3-rose",
+        "word": "玫瑰",
+        "jyutping": "mui4 gwai3",
+        "meaning": "rose"
+      },
+      {
+        "id": "laan4faa1-orchid",
+        "word": "蘭花",
+        "jyutping": "laan4 faa1",
+        "meaning": "orchid"
+      },
+      {
+        "id": "guk1faa1-chrysanthemum",
+        "word": "菊花",
+        "jyutping": "guk1 faa1",
+        "meaning": "chrysanthemum"
+      },
+      {
+        "id": "lin4faa1-lotus",
+        "word": "蓮花",
+        "jyutping": "lin4 faa1",
+        "meaning": "lotus"
+      },
+      {
+        "id": "hoeng3jat6kwai4-sunflower",
+        "word": "向日葵",
+        "jyutping": "hoeng3 jat6 kwai4",
+        "meaning": "sunflower"
+      },
+      {
+        "id": "tang4-vine",
+        "word": "藤",
+        "jyutping": "tang4",
+        "meaning": "vine"
+      }
+    ],
+    "trees_and_woodland": [
+      {
+        "id": "muk6-wood",
+        "word": "木",
+        "jyutping": "muk6",
+        "meaning": "wood"
+      },
+      {
+        "id": "cung4syu6-pine-tree",
+        "word": "松樹",
+        "jyutping": "cung4 syu6",
+        "meaning": "pine tree"
+      },
+      {
+        "id": "lau5syu6-willow-tree",
+        "word": "柳樹",
+        "jyutping": "lau5 syu6",
+        "meaning": "willow tree"
+      },
+      {
+        "id": "gwo2syu6-fruit-tree",
+        "word": "果樹",
+        "jyutping": "gwo2 syu6",
+        "meaning": "fruit tree"
+      },
+      {
+        "id": "syu6gon3-trunk",
+        "word": "樹幹",
+        "jyutping": "syu6 gon3",
+        "meaning": "trunk"
+      },
+      {
+        "id": "syu6pei4-bark",
+        "word": "樹皮",
+        "jyutping": "syu6 pei4",
+        "meaning": "bark"
+      },
+      {
+        "id": "sam1lam4-forest",
+        "word": "森林",
+        "jyutping": "sam1 lam4",
+        "meaning": "forest"
+      },
+      {
+        "id": "lam4-grove",
+        "word": "林",
+        "jyutping": "lam4",
+        "meaning": "grove"
+      }
+    ],
+    "garden_and_growing": [
+      {
+        "id": "faa1jyun4-garden",
+        "word": "花園",
+        "jyutping": "faa1 jyun4",
+        "meaning": "garden"
+      },
+      {
+        "id": "zung3-to-plant-to-grow",
+        "word": "種",
+        "jyutping": "zung3",
+        "meaning": "to plant; to grow"
+      },
+      {
+        "id": "lam4seoi2-to-water-plants",
+        "word": "淋水",
+        "jyutping": "lam4 seoi2",
+        "meaning": "to water plants"
+      },
+      {
+        "id": "faat3ngaa4-sprout",
+        "word": "發芽",
+        "jyutping": "faat3 ngaa4",
+        "meaning": "sprout"
+      },
+      {
+        "id": "sang1zoeng2-grow",
+        "word": "生長",
+        "jyutping": "sang1 zoeng2",
+        "meaning": "grow"
+      },
+      {
+        "id": "hoi1faa1-bloom",
+        "word": "開花",
+        "jyutping": "hoi1 faa1",
+        "meaning": "bloom"
+      },
+      {
+        "id": "lok6jip6-fallen-leaf",
+        "word": "落葉",
+        "jyutping": "lok6 jip6",
+        "meaning": "fallen leaf"
+      },
+      {
+        "id": "pun4zoi1-potted-plant",
+        "word": "盆栽",
+        "jyutping": "pun4 zoi1",
+        "meaning": "potted plant"
+      }
+    ],
+    "plant_descriptions": [
+      {
+        "id": "cing1-greenish",
+        "word": "青",
+        "jyutping": "cing1",
+        "meaning": "greenish"
+      },
+      {
+        "id": "luk6-green",
+        "word": "綠",
+        "jyutping": "luk6",
+        "meaning": "green"
+      },
+      {
+        "id": "sin1-fresh",
+        "word": "鮮",
+        "jyutping": "sin1",
+        "meaning": "fresh"
+      },
+      {
+        "id": "gon1-dry",
+        "word": "乾",
+        "jyutping": "gon1",
+        "meaning": "dry"
+      },
+      {
+        "id": "sap1-wet",
+        "word": "濕",
+        "jyutping": "sap1",
+        "meaning": "wet"
+      },
+      {
+        "id": "mou5sang1hei3-lifeless",
+        "word": "冇生氣",
+        "jyutping": "mou5 sang1 hei3",
+        "meaning": "lifeless"
+      },
+      {
+        "id": "mau6sing6-lush",
+        "word": "茂盛",
+        "jyutping": "mau6 sing6",
+        "meaning": "lush"
+      }
+    ],
+    "types_of_plants": [
+      {
+        "id": "joek6cou2-herb",
+        "word": "藥草",
+        "jyutping": "joek6 cou2",
+        "meaning": "herb"
+      },
+      {
+        "id": "coi3-greens-vegetable-plant",
+        "word": "菜",
+        "jyutping": "coi3",
+        "meaning": "greens; vegetable plant"
+      },
+      {
+        "id": "gun3muk6-shrub",
+        "word": "灌木",
+        "jyutping": "gun3 muk6",
+        "meaning": "shrub"
+      },
+      {
+        "id": "je5faa1-wildflower",
+        "word": "野花",
+        "jyutping": "je5 faa1",
+        "meaning": "wildflower"
+      },
+      {
+        "id": "je5cou2-weed-wild-grass",
+        "word": "野草",
+        "jyutping": "je5 cou2",
+        "meaning": "weed; wild grass"
+      },
+      {
+        "id": "seoi2cou2-aquatic-plant",
+        "word": "水草",
+        "jyutping": "seoi2 cou2",
+        "meaning": "aquatic plant"
+      },
+      {
+        "id": "sin1jan4zoeng2-cactus",
+        "word": "仙人掌",
+        "jyutping": "sin1 jan4 zoeng2",
+        "meaning": "cactus"
+      },
+      {
+        "id": "zuk1-bamboo",
+        "word": "竹",
+        "jyutping": "zuk1",
+        "meaning": "bamboo"
+      }
+    ],
+    "plant_parts": [
+      {
+        "id": "ngaa4-shoot-bud",
+        "word": "芽",
+        "jyutping": "ngaa4",
+        "meaning": "shoot; bud"
+      },
+      {
+        "id": "nyun6jip6-young-leaf",
+        "word": "嫩葉",
+        "jyutping": "nyun6 jip6",
+        "meaning": "young leaf"
+      },
+      {
+        "id": "faa1ging3-stem",
+        "word": "花莖",
+        "jyutping": "faa1 ging3",
+        "meaning": "stem"
+      },
+      {
+        "id": "gwo2juk6-fruit-flesh",
+        "word": "果肉",
+        "jyutping": "gwo2 juk6",
+        "meaning": "fruit flesh"
+      }
+    ],
+    "gardening_actions": [
+      {
+        "id": "si1fei4-fertilize",
+        "word": "施肥",
+        "jyutping": "si1 fei4",
+        "meaning": "fertilize"
+      },
+      {
+        "id": "zin2zi1-prune-branches",
+        "word": "剪枝",
+        "jyutping": "zin2 zi1",
+        "meaning": "prune branches"
+      },
+      {
+        "id": "bat6cou2-pull-weeds",
+        "word": "拔草",
+        "jyutping": "bat6 cou2",
+        "meaning": "pull weeds"
+      },
+      {
+        "id": "sung1tou2-loosen-soil",
+        "word": "鬆土",
+        "jyutping": "sung1 tou2",
+        "meaning": "loosen soil"
+      },
+      {
+        "id": "wun6pun4-repot",
+        "word": "換盆",
+        "jyutping": "wun6 pun4",
+        "meaning": "repot"
+      },
+      {
+        "id": "bo3zung2-sow-seeds",
+        "word": "播種",
+        "jyutping": "bo3 zung2",
+        "meaning": "sow seeds"
+      }
+    ],
+    "plant_conditions": [
+      {
+        "id": "bin3wong4-turn-yellow",
+        "word": "變黃",
+        "jyutping": "bin3 wong4",
+        "meaning": "turn yellow"
+      },
+      {
+        "id": "diu1ze6-wilt-fade",
+        "word": "凋謝",
+        "jyutping": "diu1 ze6",
+        "meaning": "wilt; fade"
+      },
+      {
+        "id": "jim1jim1jat1sik1-barely-alive",
+        "word": "奄奄一息",
+        "jyutping": "jim1 jim1 jat1 sik1",
+        "meaning": "barely alive"
+      },
+      {
+        "id": "gin6hong1-healthy",
+        "word": "健康",
+        "jyutping": "gin6 hong1",
+        "meaning": "healthy"
+      },
+      {
+        "id": "zong3-strong-vigorous",
+        "word": "壯",
+        "jyutping": "zong3",
+        "meaning": "strong; vigorous"
+      }
+    ],
+    "gardening_objects": [
+      {
+        "id": "faa1pun4-flowerpot",
+        "word": "花盆",
+        "jyutping": "faa1 pun4",
+        "meaning": "flowerpot"
+      },
+      {
+        "id": "tou2joeng6-soil",
+        "word": "土壤",
+        "jyutping": "tou2 joeng6",
+        "meaning": "soil"
+      },
+      {
+        "id": "fei4liu6-fertilizer",
+        "word": "肥料",
+        "jyutping": "fei4 liu6",
+        "meaning": "fertilizer"
+      },
+      {
+        "id": "zin2dou1-shears",
+        "word": "剪刀",
+        "jyutping": "zin2 dou1",
+        "meaning": "shears"
+      },
+      {
+        "id": "seoi2wu4-watering-can",
+        "word": "水壺",
+        "jyutping": "seoi2 wu4",
+        "meaning": "watering can"
+      }
+    ]
+  }
+}

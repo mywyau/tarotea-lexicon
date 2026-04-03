@@ -1,0 +1,311 @@
+{
+  "topic": "fruits_and_vegetables",
+  "title": "Fruits & Vegetables – Buying and Talking About Produce",
+  "description": "Talk about fruits, vegetables, freshness, and buying produce.",
+  "categories": {
+    "common_fruits": [
+      {
+        "id": "seoi2gwo2-fruit-collective",
+        "word": "水果",
+        "jyutping": "seoi2 gwo2",
+        "meaning": "fruit"
+      },
+      {
+        "id": "ping4gwo2-apple",
+        "word": "蘋果",
+        "jyutping": "ping4 gwo2",
+        "meaning": "apple"
+      },
+      {
+        "id": "lei2-pear",
+        "word": "梨",
+        "jyutping": "lei2",
+        "meaning": "pear"
+      },
+      {
+        "id": "caang2-orange-fruit",
+        "word": "橙",
+        "jyutping": "caang2",
+        "meaning": "orange"
+      },
+      {
+        "id": "lai6zi1-lychee",
+        "word": "荔枝",
+        "jyutping": "lai6 zi1",
+        "meaning": "lychee"
+      },
+      {
+        "id": "lung4ngaan5-longan",
+        "word": "龍眼",
+        "jyutping": "lung4 ngaan5",
+        "meaning": "longan"
+      },
+      {
+        "id": "mong1gwo2-mango",
+        "word": "芒果",
+        "jyutping": "mong1 gwo2",
+        "meaning": "mango"
+      },
+      {
+        "id": "hoeng1ziu1-banana",
+        "word": "香蕉",
+        "jyutping": "hoeng1 ziu1",
+        "meaning": "banana"
+      },
+      {
+        "id": "bo1lo4-pineapple",
+        "word": "菠蘿",
+        "jyutping": "bo1 lo4",
+        "meaning": "pineapple"
+      },
+      {
+        "id": "sai1gwaa1-watermelon",
+        "word": "西瓜",
+        "jyutping": "sai1 gwaa1",
+        "meaning": "watermelon"
+      },
+      {
+        "id": "tai4zi2-grape",
+        "word": "提子",
+        "jyutping": "tai4zi2",
+        "meaning": "grape"
+      },
+      {
+        "id": "si6do1be1lei4-strawberry",
+        "word": "士多啤梨",
+        "jyutping": "si6 do1 be1 lei4",
+        "meaning": "strawberry"
+      },
+      {
+        "id": "gwat1zi2-tangerine",
+        "word": "橘子",
+        "jyutping": "gwat1 zi2",
+        "meaning": "tangerine"
+      },
+      {
+        "id": "muk6gwaa1-papaya",
+        "word": "木瓜",
+        "jyutping": "muk6 gwaa1",
+        "meaning": "papaya"
+      },
+      {
+        "id": "ning4mung1-lemon",
+        "word": "檸檬",
+        "jyutping": "ning4 mung1",
+        "meaning": "lemon"
+      },
+      {
+        "id": "cing1ning4-lime",
+        "word": "青檸",
+        "jyutping": "cing1 ning4",
+        "meaning": "lime"
+      },
+      {
+        "id": "ngau4jau4gwo2-avocado",
+        "word": "牛油果",
+        "jyutping": "ngau4 jau4 gwo2",
+        "meaning": "avocado"
+      }
+    ],
+    "common_vegetables": [
+      {
+        "id": "coi3-vegetables-dishes-context-dependent",
+        "word": "菜",
+        "jyutping": "coi3",
+        "meaning": "vegetables"
+      },
+      {
+        "id": "baak6coi3-bok-choy-chinese-cabbage",
+        "word": "白菜",
+        "jyutping": "baak6 coi3",
+        "meaning": "chinese cabbage"
+      },
+      {
+        "id": "coi3sam1-choi-sum",
+        "word": "菜心",
+        "jyutping": "coi3 sam1",
+        "meaning": "choi sum"
+      },
+      {
+        "id": "bo1coi3-spinach",
+        "word": "菠菜",
+        "jyutping": "bo1 coi3",
+        "meaning": "spinach"
+      },
+      {
+        "id": "faan1ke2-tomato",
+        "word": "番茄",
+        "jyutping": "faan1 ke2",
+        "meaning": "tomato"
+      },
+      {
+        "id": "cing1gwaa1-cucumber",
+        "word": "青瓜",
+        "jyutping": "cing1 gwaa1",
+        "meaning": "cucumber"
+      },
+      {
+        "id": "lo4baak6-radish",
+        "word": "蘿蔔",
+        "jyutping": "lo4 baak6",
+        "meaning": "radish"
+      },
+      {
+        "id": "joeng4cung1-onion",
+        "word": "洋蔥",
+        "jyutping": "joeng4 cung1",
+        "meaning": "onion"
+      },
+      {
+        "id": "saang1coi3-lettuce",
+        "word": "生菜",
+        "jyutping": "saang1 coi3",
+        "meaning": "lettuce"
+      },
+      {
+        "id": "sai1kan4-celery",
+        "word": "西芹",
+        "jyutping": "sai1 kan4",
+        "meaning": "celery"
+      },
+      {
+        "id": "tim4ziu1-bell-pepper",
+        "word": "甜椒",
+        "jyutping": "tim4 ziu1",
+        "meaning": "bell pepper"
+      },
+      {
+        "id": "ke1zi2-eggplant",
+        "word": "茄子",
+        "jyutping": "ke1 zi2",
+        "meaning": "eggplant"
+      },
+      {
+        "id": "cau1kwai4-okra",
+        "word": "秋葵",
+        "jyutping": "cau1 kwai4",
+        "meaning": "okra"
+      },
+      {
+        "id": "sai1laan4faa1-broccoli",
+        "word": "西蘭花",
+        "jyutping": "sai1 laan4 faa1",
+        "meaning": "broccoli"
+      },
+      {
+        "id": "je4coi3faa1-cauliflower",
+        "word": "椰菜花",
+        "jyutping": "je4 coi3 faa1",
+        "meaning": "cauliflower"
+      }
+    ],
+    "herbs_and_others": [
+      {
+        "id": "laat6ziu1-chilli",
+        "word": "辣椒",
+        "jyutping": "laat6 ziu1",
+        "meaning": "chilli"
+      },
+      {
+        "id": "goeng1-ginger",
+        "word": "薑",
+        "jyutping": "goeng1",
+        "meaning": "ginger"
+      },
+      {
+        "id": "syun3tau4-garlic",
+        "word": "蒜頭",
+        "jyutping": "syun3 tau4",
+        "meaning": "garlic"
+      },
+      {
+        "id": "hoeng1maau4-lemongrass",
+        "word": "香茅",
+        "jyutping": "hoeng1 maau4",
+        "meaning": "lemongrass"
+      },
+      {
+        "id": "jyun4seoi1-coriander-cilantro",
+        "word": "芫荽",
+        "jyutping": "jyun4 seoi1",
+        "meaning": "coriander"
+      },
+      {
+        "id": "cung1-spring-onion",
+        "word": "蔥",
+        "jyutping": "cung1",
+        "meaning": "spring onion"
+      },
+      {
+        "id": "gau2coi3-chinese-chives",
+        "word": "韭菜",
+        "jyutping": "gau2 coi3",
+        "meaning": "chinese chives"
+      },
+      {
+        "id": "gau2cang4taap3-thai-basil",
+        "word": "九層塔",
+        "jyutping": "gau2 cang4 taap3",
+        "meaning": "thai basil"
+      }
+    ],
+    "quantity_and_preparation": [
+      {
+        "id": "jat1go3-one-piece",
+        "word": "一個",
+        "jyutping": "jat1 go3",
+        "meaning": "one piece"
+      },
+      {
+        "id": "loeng5go3-two-pieces",
+        "word": "兩個",
+        "jyutping": "loeng5 go3",
+        "meaning": "two pieces"
+      },
+      {
+        "id": "bun3-half",
+        "word": "半",
+        "jyutping": "bun3",
+        "meaning": "half"
+      },
+      {
+        "id": "jat1gan1-one-catty",
+        "word": "一斤",
+        "jyutping": "jat1 gan1",
+        "meaning": "one catty"
+      },
+      {
+        "id": "cit3-cut",
+        "word": "切",
+        "jyutping": "cit3",
+        "meaning": "cut"
+      }
+    ],
+    "taste_and_quality": [
+      {
+        "id": "tim4-sweet",
+        "word": "甜",
+        "jyutping": "tim4",
+        "meaning": "sweet"
+      },
+      {
+        "id": "syun1-sour",
+        "word": "酸",
+        "jyutping": "syun1",
+        "meaning": "sour"
+      },
+      {
+        "id": "san1sin1-fresh",
+        "word": "新鮮",
+        "jyutping": "san1 sin1",
+        "meaning": "fresh"
+      },
+      {
+        "id": "m4san1sin1-not-fresh",
+        "word": "唔新鮮",
+        "jyutping": "m4 san1 sin1",
+        "meaning": "not fresh"
+      }
+    ]
+  }
+}

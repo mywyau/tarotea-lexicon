@@ -213,3 +213,26 @@ python3 scripts/delete_audio_local_from_r2.py
 mkdir -p /Users/michaelyau/self_projects/ibm/resources/r2-backup
 cp -R /Users/michaelyau/tarotea/openai-tts/r2-backup/words /Users/michaelyau/self_projects/ibm/resources/r2-backup/
 
+cp -R /Users/michaelyau/tarotea/openai-tts/r2-backupV2/audio /Users/michaelyau/tarotea/openai-tts/audio/words
+
+
+### delete and sync new audio
+
+aws s3 sync ./r2-backupV2/audio \
+s3://tarotea-content/audio \
+--delete \
+--endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
+--profile r2
+
+
+aws s3 sync ./r2-backupV2/words \
+s3://tarotea-content/words \
+--delete \
+--endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
+--profile r2
+
+aws s3 sync ./r2-backupV2/levels \
+s3://tarotea-content/levels \
+--delete \
+--endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
+--profile r2

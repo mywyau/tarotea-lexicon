@@ -1,0 +1,229 @@
+{
+  "level": 13,
+  "title": "Level 13 – Humour, sarcasm, irony, and implied meaning",
+  "description": "Understand jokes, sarcasm, teasing, and implied meaning in natural Hong Kong Cantonese conversations.",
+  "categories": {
+    "sarcasm_and_irony": [
+      {
+        "id": "gong2siu3ze1-just-joking",
+        "word": "講笑啫",
+        "jyutping": "gong2 siu3 ze1",
+        "meaning": "just joking"
+      },
+      {
+        "id": "m4hou2dong3zan1-dont-take-seriously",
+        "word": "唔好當真",
+        "jyutping": "m4 hou2 dong3 zan1",
+        "meaning": "don’t take it seriously"
+      },
+      {
+        "id": "jing6zan1nei5zau6syu1laa3-serious-you-lose",
+        "word": "認真你就輸喇",
+        "jyutping": "jing6 zan1 nei5 zau6 syu1 laa3",
+        "meaning": "if you take it seriously, you’ve lost"
+      },
+      {
+        "id": "nei5waa6ne1-what-do-you-think-sarcastic",
+        "word": "你話呢",
+        "jyutping": "nei5 waa6 ne1",
+        "meaning": "what do you think? (often sarcastic)"
+      },
+      {
+        "id": "hou2laa1hou2laa1-alright-dismissive",
+        "word": "好啦好啦",
+        "jyutping": "hou2 laa1 hou2 laa1",
+        "meaning": "alright alright (dismissive / ironic)"
+      },
+      {
+        "id": "zan1hai6do1ze6saai3wo3-thanks-a-lot-sarcastic",
+        "word": "真係多謝晒喎",
+        "jyutping": "zan1 hai6 do1 ze6 saai3 wo3",
+        "meaning": "thanks a lot (often sarcastic)"
+      },
+      {
+        "id": "nei5zau6hou2laa1-sure-sure",
+        "word": "你就好啦",
+        "jyutping": "nei5 zau6 hou2 laa1",
+        "meaning": "must be nice for you (slightly sarcastic)"
+      }
+    ],
+    "teasing_and_playfulness": [
+      {
+        "id": "waan4haa5ze1-just-teasing",
+        "word": "玩吓啫",
+        "jyutping": "waan4 haa5 ze1",
+        "meaning": "just teasing"
+      },
+      {
+        "id": "nei5jau6lei4laa3-there-you-go-again",
+        "word": "你又嚟喇",
+        "jyutping": "nei5 jau6 lei4 laa3",
+        "meaning": "there you go again"
+      },
+      {
+        "id": "m4hou2gam3kwaa1zoeng1-dont-exaggerate-playful",
+        "word": "唔好咁誇張",
+        "jyutping": "m4 hou2 gam3 kwaa1 zoeng1",
+        "meaning": "don’t exaggerate (playfully)"
+      },
+      {
+        "id": "dak1nei5sin1zi3gam3nam2-only-you-would-think-that",
+        "word": "得你先至會咁諗",
+        "jyutping": "dak1 nei5 sin1 zi3 wui5 gam3 nam2",
+        "meaning": "only you would think that"
+      },
+      {
+        "id": "nei5jau6wan2daan6-showing-off-again",
+        "word": "你又搵蛋",
+        "jyutping": "nei5 jau6 wan2 daan6",
+        "meaning": "you’re messing around again (playful)"
+      },
+      {
+        "id": "nei5jau6baan6lek1laa3-stop-acting-smart",
+        "word": "你又扮叻喇",
+        "jyutping": "nei5 jau6 baan6 lek1 laa3",
+        "meaning": "there you go acting smart again (teasing)"
+      },
+      {
+        "id": "baan6saai3je5-showing-off",
+        "word": "扮晒嘢",
+        "jyutping": "baan6 saai3 je5",
+        "meaning": "showing off / acting cool"
+      }
+    ],
+    "implied_disagreement_and_doubt": [
+      {
+        "id": "jau6m4hai6m4dak1-not-that-it-cant",
+        "word": "又唔係唔得",
+        "jyutping": "jau6 m4 hai6 m4 dak1",
+        "meaning": "it’s not that it won’t work (soft disagreement)"
+      },
+      {
+        "id": "ho2ji5zoi3nam2nam2-think-again",
+        "word": "可以再諗諗",
+        "jyutping": "ho2 ji5 zoi3 nam2 nam2",
+        "meaning": "we can think about it again (hesitation)"
+      },
+      {
+        "id": "mei6bit1seoi1jiu3-might-not-be-needed",
+        "word": "未必需要",
+        "jyutping": "mei6 bit1 seoi1 jiu3",
+        "meaning": "might not be necessary"
+      },
+      {
+        "id": "nei5cing4maan6lai4-dont-rush",
+        "word": "你請慢嚟",
+        "jyutping": "nei5 cing2 maan6 lai4",
+        "meaning": "easy there (implied doubt)"
+      },
+      {
+        "id": "dak1gaa3laa1nei5-yeah-sure-you",
+        "word": "得㗎喇你",
+        "jyutping": "dak1 gaa3 laa1 nei5",
+        "meaning": "yeah yeah sure (playful dismissal)"
+      }
+    ],
+    "polite_sarcasm_and_face_saving": [
+      {
+        "id": "nei5zan1hai6hou2jau5soeng2faat3-very-imaginative",
+        "word": "你真係好有想法",
+        "jyutping": "nei5 zan1 hai6 hou2 jau5 soeng2 faat3",
+        "meaning": "you’re very imaginative (polite sarcasm)"
+      },
+      {
+        "id": "dou1gei2dak6bit6-quite-special-ambiguous",
+        "word": "都幾特別",
+        "jyutping": "dou1 gei2 dak6 bit6",
+        "meaning": "quite… special (ambiguous praise)"
+      },
+      {
+        "id": "syun3hai6gam3laa1-acceptable-lukewarm",
+        "word": "算係咁啦",
+        "jyutping": "syun3 hai6 gam3 laa1",
+        "meaning": "it’s acceptable (lukewarm praise)"
+      },
+      {
+        "id": "nei5hoi1sam1zau6hou2-as-long-as-youre-happy",
+        "word": "你開心就好",
+        "jyutping": "nei5 hoi1 sam1 zau6 hou2",
+        "meaning": "as long as you’re happy (face-saving dismissal)"
+      },
+      {
+        "id": "m4hai6soeng2mou6lai5-not-trying-to-be-rude",
+        "word": "唔係想冇禮",
+        "jyutping": "m4 hai6 soeng2 mou5 lai5",
+        "meaning": "I’m not trying to be rude"
+      },
+      {
+        "id": "m4gong2gam3do1laa3-lets-drop-it",
+        "word": "唔講咁多喇",
+        "jyutping": "m4 gong2 gam3 do1 laa3",
+        "meaning": "let’s not talk about it anymore"
+      }
+    ],
+    "humour_and_laughter_reactions": [
+      {
+        "id": "siu3sei2ngo5laa3-hilarious-killing-me",
+        "word": "笑死我喇",
+        "jyutping": "siu3 sei2 ngo5 laa3",
+        "meaning": "you’re killing me (that’s hilarious)"
+      },
+      {
+        "id": "teng1dou3dou1soeng2siu3-just-hearing-makes-me-laugh",
+        "word": "聽到都想笑",
+        "jyutping": "teng1 dou3 dou1 soeng2 siu3",
+        "meaning": "just hearing it makes me laugh"
+      },
+      {
+        "id": "nei5gei2hou2siu3-youre-so-funny",
+        "word": "你幾好笑",
+        "jyutping": "nei5 gei2 hou2 siu3",
+        "meaning": "you’re really funny"
+      },
+      {
+        "id": "nei5dou1gong2dak1ceot1hau2-you-can-even-say-that",
+        "word": "呢啲都講得出口",
+        "jyutping": "ni1 di1 dou1 gong2 dak1 ceot1 hau2",
+        "meaning": "you can even say something like that?"
+      },
+      {
+        "id": "sai3gaai3zan1hai6hou2sai3-world-so-small",
+        "word": "世界真係好細",
+        "jyutping": "sai3 gaai3 zan1 hai6 hou2 sai3",
+        "meaning": "the world is really small (often ironic)"
+      }
+    ],
+    "reading_between_the_lines": [
+      {
+        "id": "waa6zau6waa6-they-say-but",
+        "word": "話就話",
+        "jyutping": "waa6 zau6 waa6",
+        "meaning": "they say so, but…"
+      },
+      {
+        "id": "biu2min6soeng6-on-the-surface",
+        "word": "表面上",
+        "jyutping": "biu2 min6 soeng6",
+        "meaning": "on the surface"
+      },
+      {
+        "id": "gong2jat1tou3zou6jat1tou3-say-one-do-another",
+        "word": "講一套，做一套",
+        "jyutping": "gong2 jat1 tou3, zou6 jat1 tou3",
+        "meaning": "say one thing, do another"
+      },
+      {
+        "id": "nei5ming4ngo5ji3si1laa1-you-know-what-i-mean",
+        "word": "你明我意思啦",
+        "jyutping": "nei5 ming4 ngo5 ji3 si1 laa1",
+        "meaning": "you know what I mean"
+      },
+      {
+        "id": "m4sai2gong2ming4-understood-without-saying",
+        "word": "唔使講明",
+        "jyutping": "m4 sai2 gong2 ming4",
+        "meaning": "no need to spell it out (implied meaning)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "level": 4,
+  "title": "Level 4 – Reasoning, experiences, and natural expression",
+  "description": "Express opinions, explain situations, discuss experiences, and handle real-life problems.",
+  "categories": {
+    "opinions_and_judgement": [
+      {
+        "id": "tai2faat3-viewpoint-way-of-seeing-something",
+        "word": "睇法",
+        "jyutping": "tai2 faat3",
+        "meaning": "view"
+      },
+      {
+        "id": "taai3dou6-attitude",
+        "word": "態度",
+        "jyutping": "taai3 dou6",
+        "meaning": "attitude"
+      },
+      {
+        "id": "gam2gok3soeng6-from-a-feeling-standpoint-in-terms-of-feeling",
+        "word": "感覺上",
+        "jyutping": "gam2 gok3 soeng6",
+        "meaning": "subjectively"
+      },
+      {
+        "id": "lap6coeng4-stance-standpoint-position-opinion",
+        "word": "立場",
+        "jyutping": "lap6 coeng4",
+        "meaning": "stance"
+      },
+      {
+        "id": "gok3dou6-angle-perspective-point-of-view",
+        "word": "角度",
+        "jyutping": "gok3 dou6",
+        "meaning": "angle"
+      }
+    ],
+    "reasoning_and_explanation": [
+      {
+        "id": "gaai2sik1-to-explain",
+        "word": "解釋",
+        "jyutping": "gaai2 sik1",
+        "meaning": "explain"
+      },
+      {
+        "id": "lei5gaai2-to-understand",
+        "word": "理解",
+        "jyutping": "lei5 gaai2",
+        "meaning": "grasp"
+      },
+      {
+        "id": "teoi1dyun6-to-infer-to-deduce-to-draw-a-conclusion",
+        "word": "推斷",
+        "jyutping": "teoi1 dyun6",
+        "meaning": "infer"
+      },
+      {
+        "id": "pun3dyun6-to-judge-to-assess-to-make-a-judgment",
+        "word": "判斷",
+        "jyutping": "pun3 dyun6",
+        "meaning": "judge"
+      }
+    ],
+    "experience_and_memory": [
+      {
+        "id": "ging1jim6-experience",
+        "word": "經驗",
+        "jyutping": "ging1 jim6",
+        "meaning": "experience"
+      },
+      {
+        "id": "wui4jik1-memory-recollection",
+        "word": "回憶",
+        "jyutping": "wui4 jik1",
+        "meaning": "recollection"
+      },
+      {
+        "id": "si3gwo3-have-tried-have-experienced",
+        "word": "試過",
+        "jyutping": "si3 gwo3",
+        "meaning": "tried"
+      },
+      {
+        "id": "jan3zoeng6-impression",
+        "word": "印象",
+        "jyutping": "jan3 zoeng6",
+        "meaning": "impression"
+      },
+      {
+        "id": "tai2wui6-to-personally-realise-to-deeply-appreciate-through-experience",
+        "word": "體會",
+        "jyutping": "tai2 wui6",
+        "meaning": "appreciate"
+      },
+      {
+        "id": "ji3sik1dou3-to-realise-to-become-aware-of",
+        "word": "意識到",
+        "jyutping": "ji3 sik1 dou3",
+        "meaning": "realize"
+      }
+    ],
+    "problems_and_solutions": [
+      {
+        "id": "man6tai4-problem",
+        "word": "問題",
+        "jyutping": "man6 tai4",
+        "meaning": "problem"
+      },
+      {
+        "id": "cyu2lei5-to-handle-deal-with",
+        "word": "處理",
+        "jyutping": "cyu2 lei5",
+        "meaning": "handle"
+      },
+      {
+        "id": "gaai2kyut3-to-solve-to-resolve",
+        "word": "解決",
+        "jyutping": "gaai2 kyut3",
+        "meaning": "solve"
+      },
+      {
+        "id": "to5hip3-to-compromise",
+        "word": "妥協",
+        "jyutping": "to5 hip3",
+        "meaning": "compromise"
+      },
+      {
+        "id": "gaai2kyut3fong1on3-solution-resolution-plan",
+        "word": "解決方案",
+        "jyutping": "gaai2 kyut3 fong1 on3",
+        "meaning": "remedy"
+      }
+    ],
+    "planning_and_decisions": [
+      {
+        "id": "goi2bin3-to-change",
+        "word": "改變",
+        "jyutping": "goi2 bin3",
+        "meaning": "change"
+      },
+      {
+        "id": "zi3dak1-worth-doing",
+        "word": "值得",
+        "jyutping": "zi3 dak1",
+        "meaning": "worthwhile"
+      },
+      {
+        "id": "hap6lei5-reasonable-justified",
+        "word": "合理",
+        "jyutping": "hap6 lei5",
+        "meaning": "reasonable"
+      }
+    ],
+    "social_interaction": [
+      {
+        "id": "gwaan1hai6-relationship-connection",
+        "word": "關係",
+        "jyutping": "gwaan1 hai6",
+        "meaning": "relationship"
+      },
+      {
+        "id": "kau1tung1-to-communicate-communication",
+        "word": "溝通",
+        "jyutping": "kau1 tung1",
+        "meaning": "communicate"
+      },
+      {
+        "id": "soeng1cyu2-to-get-along-to-interact-with",
+        "word": "相處",
+        "jyutping": "soeng1 cyu2",
+        "meaning": "get along"
+      },
+      {
+        "id": "hap6zok3-to-cooperate-to-work-together",
+        "word": "合作",
+        "jyutping": "hap6 zok3",
+        "meaning": "cooperate"
+      },
+      {
+        "id": "zeon1zung6-to-respect",
+        "word": "尊重",
+        "jyutping": "zeon1 zung6",
+        "meaning": "respect"
+      },
+      {
+        "id": "baau1jung4-to-tolerate-to-be-inclusive-to-be-accepting",
+        "word": "包容",
+        "jyutping": "baau1 jung4",
+        "meaning": "accepting"
+      }
+    ],
+    "nuance_and_softeners": [
+      {
+        "id": "jyun4loi4-it-turns-out-originally-realisation",
+        "word": "原來",
+        "jyutping": "jyun4 loi4",
+        "meaning": "turns out"
+      },
+      {
+        "id": "mei6bit1-not-necessarily",
+        "word": "未必",
+        "jyutping": "mei6 bit1",
+        "meaning": "not necessarily"
+      },
+      {
+        "id": "siu2sam1di1-carefully-gently-softener",
+        "word": "小心啲",
+        "jyutping": "siu2 sam1 di1",
+        "meaning": "carefully"
+      },
+      {
+        "id": "ho2nang4-possibly-might-likely",
+        "word": "可能",
+        "jyutping": "ho2 nang4",
+        "meaning": "maybe"
+      }
+    ],
+    "comparison_and_evaluation": [
+      {
+        "id": "caa1bit6-difference",
+        "word": "差別",
+        "jyutping": "caa1 bit6",
+        "meaning": "difference"
+      },
+      {
+        "id": "gaai3bit6-distinction-category-sector",
+        "word": "界別",
+        "jyutping": "gaai3 bit6",
+        "meaning": "category"
+      },
+      {
+        "id": "ping4gaa3-to-evaluate-to-assess-evaluation",
+        "word": "評價",
+        "jyutping": "ping4 gaa3",
+        "meaning": "evaluate"
+      }
+    ]
+  }
+}

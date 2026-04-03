@@ -1,0 +1,173 @@
+{
+  "level": 15,
+  "title": "Level 15 – Personal voice, spontaneity, and native-level mastery",
+  "description": "Develop a natural personal voice in Cantonese, handle spontaneous speech smoothly, and express emotion, intent, and identity like a native speaker.",
+  "categories": {
+    "personal_voice_and_selfhood": [
+      {
+        "id": "ngo5zi6gei2hai6gam3nam2-geu3-my-own-view",
+        "word": "我自己係咁諗嘅",
+        "jyutping": "ngo5 zi6 gei2 hai6 gam3 nam2 ge3",
+        "meaning": "that’s just how I personally see it"
+      },
+      {
+        "id": "ngo5jat1lou6dou1gok3dak1-ive-always-felt",
+        "word": "我一路都覺得",
+        "jyutping": "ngo5 jat1 lou6 dou1 gok3 dak1",
+        "meaning": "I’ve always felt that..."
+      },
+      {
+        "id": "ngo5zan1sam1gam2soeng2-truly-from-heart",
+        "word": "我真心咁想",
+        "jyutping": "ngo5 zan1 sam1 gam2 soeng2",
+        "meaning": "I genuinely want to..."
+      },
+      {
+        "id": "ngo5m4hai6soeng2baan6mat1-not-trying-to-act",
+        "word": "我唔係想扮乜",
+        "jyutping": "ngo5 m4 hai6 soeng2 baan6 mat1",
+        "meaning": "I’m not trying to pretend anything"
+      },
+      {
+        "id": "deoi3ngo5lei4gong2zan1hai6-important-to-me",
+        "word": "對我嚟講真係好重要",
+        "jyutping": "deoi3 ngo5 lei4 gong2 zan1 hai6 hou2 zung6 jiu3",
+        "meaning": "for me, it really matters"
+      }
+    ],
+    "thinking_out_loud_and_spontaneity": [
+      {
+        "id": "ng6dim2gong2ne1-hmm-how-to-say",
+        "word": "嗯…點講呢",
+        "jyutping": "ng6… dim2 gong2 ne1",
+        "meaning": "hmm… how should I say it"
+      },
+      {
+        "id": "ngo5deon6jan4soeng2hei2-suddenly-remember",
+        "word": "我突然諗起",
+        "jyutping": "ngo5 deon6 jan4 nam2 hei2",
+        "meaning": "I suddenly remembered..."
+      },
+      {
+        "id": "kei4sat6ne1-actually-opening-pause",
+        "word": "其實呢…",
+        "jyutping": "kei4 sat6 ne1…",
+        "meaning": "actually… (natural opening pause)"
+      },
+      {
+        "id": "ngo5zan1hai6m4zi1dim2gong2-honestly-dont-know-how-to-say",
+        "word": "我真係唔知點講",
+        "jyutping": "ngo5 zan1 hai6 m4 zi1 dim2 gong2",
+        "meaning": "I honestly don’t know how to put it"
+      },
+      {
+        "id": "syun3laa1m4soeng2soeng2laa3-nevermind-drop-it",
+        "word": "算啦…唔想諗喇",
+        "jyutping": "syun3 laa1… m4 soeng2 nam2 laa3",
+        "meaning": "forget it… I don’t want to think about it"
+      }
+    ],
+    "emotional_truth_and_vulnerability": [
+      {
+        "id": "ngo5jau5di1m4zi1dim2syun3-feeling-lost",
+        "word": "我有啲唔知點算",
+        "jyutping": "ngo5 jau5 di1 m4 zi1 dim2 syun3",
+        "meaning": "I’m kind of not sure what to do"
+      },
+      {
+        "id": "ngo5zan1hai6hou2gai6-really-tired-inside",
+        "word": "我真係好攰",
+        "jyutping": "ngo5 zan1 hai6 hou2 gui6",
+        "meaning": "I’m really exhausted"
+      },
+      {
+        "id": "ngo5dou1m4soeng2gam3-I-didnt-want-this",
+        "word": "我都唔想咁",
+        "jyutping": "ngo5 dou1 m4 soeng2 gam3",
+        "meaning": "I didn’t want it to be like this"
+      },
+      {
+        "id": "jau5si4zan1hai6wui5soeng2haau2-sometimes-it-hits",
+        "word": "有時真係會想喊",
+        "jyutping": "jau5 si4 zan1 hai6 wui5 soeng2 haam3",
+        "meaning": "sometimes I really feel like crying"
+      },
+      {
+        "id": "ni1go3cam4gan6zan1hai6m4hou2gwo3-this-hasnt-been-easy",
+        "word": "呢排真係唔好過",
+        "jyutping": "ni1 paai4 zan1 hai6 m4 hou2 gwo3",
+        "meaning": "lately it really hasn’t been easy"
+      }
+    ],
+    "native_particles_and_pragmatic_rhythm": [
+      {
+        "id": "gong2siu3ze1-just-joking-particle",
+        "word": "講笑啫",
+        "jyutping": "gong2 siu3 ze1",
+        "meaning": "just joking (啫 softens tone)"
+      },
+      {
+        "id": "hai6gam3gaa3laa1-thats-how-it-is",
+        "word": "係咁㗎啦",
+        "jyutping": "hai6 gam3 gaa3 laa1",
+        "meaning": "that’s just how it is (native acceptance)"
+      },
+      {
+        "id": "m4hai6gam3aa3maa3-no-way-right",
+        "word": "唔係咁呀嘛？",
+        "jyutping": "m4 hai6 gam3 aa3 maa3",
+        "meaning": "no way, seriously? (呀嘛 expressive)"
+      },
+      {
+        "id": "ngo5dou1zi1wo3-i-know-already",
+        "word": "我都知喎",
+        "jyutping": "ngo5 dou1 zi1 wo3",
+        "meaning": "I know, you know (喎 adds feeling)"
+      },
+      {
+        "id": "nei5m4hai6m4zi1aa3maa3-you-dont-know-seriously",
+        "word": "你唔係唔知呀嘛？",
+        "jyutping": "nei5 m4 hai6 m4 zi1 aa3 maa3",
+        "meaning": "you do know that, right? (shared assumption)"
+      },
+      {
+        "id": "hai6lo1-obvious-confirmation",
+        "word": "係囉",
+        "jyutping": "hai6 lo1",
+        "meaning": "exactly / that’s what I mean (very native)"
+      }
+    ],
+    "natural_closings_and_unsaid_endings": [
+      {
+        "id": "gam3zau6hai6gam3laa1-thats-about-it",
+        "word": "咁就係咁啦",
+        "jyutping": "gam3 zau6 hai6 gam3 laa1",
+        "meaning": "so… that’s basically it"
+      },
+      {
+        "id": "m4gong2zyu6laa3-stop-here",
+        "word": "唔講住啦",
+        "jyutping": "m4 gong2 zyu6 laa3",
+        "meaning": "let’s stop talking about it for now"
+      },
+      {
+        "id": "syun3laa1m4tai4laa3-drop-the-topic",
+        "word": "算啦…唔提喇",
+        "jyutping": "syun3 laa1… m4 tai4 laa3",
+        "meaning": "forget it… let’s not bring it up"
+      },
+      {
+        "id": "nei5ming4laa1-you-know-what-i-mean",
+        "word": "你明啦",
+        "jyutping": "nei5 ming4 laa1",
+        "meaning": "you get it (shared understanding ending)"
+      },
+      {
+        "id": "hou2laa1gam3laa1-ok-then",
+        "word": "好啦咁啦",
+        "jyutping": "hou2 laa1 gam3 laa1",
+        "meaning": "alright then (casual wrap-up)"
+      }
+    ]
+  }
+}

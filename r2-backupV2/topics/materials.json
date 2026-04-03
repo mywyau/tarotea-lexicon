@@ -1,0 +1,317 @@
+{
+  "topic": "materials",
+  "title": "Materials",
+  "description": "Talk about what things are made of, including everyday materials, fabrics, building materials, and common material properties.",
+  "categories": {
+    "basic_materials": [
+      {
+        "id": "coi4liu6-material",
+        "word": "材料",
+        "jyutping": "coi4 liu6",
+        "meaning": "material"
+      },
+      {
+        "id": "muk6-wood",
+        "word": "木",
+        "jyutping": "muk6",
+        "meaning": "wood"
+      },
+      {
+        "id": "sou3gaau1-plastic",
+        "word": "塑膠",
+        "jyutping": "sou3 gaau1",
+        "meaning": "plastic"
+      },
+      {
+        "id": "gaau1-plastic",
+        "word": "膠",
+        "jyutping": "gaau1",
+        "meaning": "plastic"
+      },
+      {
+        "id": "bo1lei4-glass",
+        "word": "玻璃",
+        "jyutping": "bo1 lei4",
+        "meaning": "glass"
+      },
+      {
+        "id": "zi2-paper",
+        "word": "紙",
+        "jyutping": "zi2",
+        "meaning": "paper"
+      },
+      {
+        "id": "bou3-cloth",
+        "word": "布",
+        "jyutping": "bou3",
+        "meaning": "cloth"
+      },
+      {
+        "id": "pei4-leather",
+        "word": "皮",
+        "jyutping": "pei4",
+        "meaning": "leather"
+      },
+      {
+        "id": "gam1suk6-metal",
+        "word": "金屬",
+        "jyutping": "gam1 suk6",
+        "meaning": "metal"
+      },
+      {
+        "id": "zoeng6gaau1-rubber",
+        "word": "橡膠",
+        "jyutping": "zoeng6 gaau1",
+        "meaning": "rubber"
+      }
+    ],
+    "fabric_and_clothing_materials": [
+      {
+        "id": "min4-cotton",
+        "word": "棉",
+        "jyutping": "min4",
+        "meaning": "cotton"
+      },
+      {
+        "id": "min4faa1-cotton-wool",
+        "word": "棉花",
+        "jyutping": "min4 faa1",
+        "meaning": "cotton wool"
+      },
+      {
+        "id": "joeng4mou4-wool",
+        "word": "羊毛",
+        "jyutping": "joeng4 mou4",
+        "meaning": "wool"
+      },
+      {
+        "id": "si1cau4-silk-silk-fabric",
+        "word": "絲綢",
+        "jyutping": "si1 cau4",
+        "meaning": "silk"
+      },
+      {
+        "id": "nei4lung4-nylon",
+        "word": "尼龍",
+        "jyutping": "nei4 lung4",
+        "meaning": "nylon"
+      },
+      {
+        "id": "ngau4zai2bou3-denim",
+        "word": "牛仔布",
+        "jyutping": "ngau4 zai2 bou3",
+        "meaning": "denim"
+      },
+      {
+        "id": "faan4bou3-canvas",
+        "word": "帆布",
+        "jyutping": "faan4 bou3",
+        "meaning": "canvas"
+      },
+      {
+        "id": "maa4-linen",
+        "word": "麻",
+        "jyutping": "maa4",
+        "meaning": "linen"
+      },
+      {
+        "id": "pei4gaak3-leather",
+        "word": "皮革",
+        "jyutping": "pei4 gaak3",
+        "meaning": "leather"
+      },
+      {
+        "id": "bou3liu6-fabric",
+        "word": "布料",
+        "jyutping": "bou3 liu6",
+        "meaning": "fabric"
+      }
+    ],
+    "building_and_home_materials": [
+      {
+        "id": "zyun1-brick",
+        "word": "磚",
+        "jyutping": "zyun1",
+        "meaning": "brick"
+      },
+      {
+        "id": "seoi2nai4-cement",
+        "word": "水泥",
+        "jyutping": "seoi2 nai4",
+        "meaning": "cement"
+      },
+      {
+        "id": "wan6jing4tou2-concrete",
+        "word": "混凝土",
+        "jyutping": "wan6 jing4 tou2",
+        "meaning": "concrete"
+      },
+      {
+        "id": "tou4ci4-ceramic",
+        "word": "陶瓷",
+        "jyutping": "tou4 ci4",
+        "meaning": "ceramic"
+      },
+      {
+        "id": "ci4zyun1-tile",
+        "word": "瓷磚",
+        "jyutping": "ci4 zyun1",
+        "meaning": "tile"
+      },
+      {
+        "id": "muk6baan2-wooden-board",
+        "word": "木板",
+        "jyutping": "muk6 baan2",
+        "meaning": "wooden board"
+      },
+      {
+        "id": "jau4cat1-paint",
+        "word": "油漆",
+        "jyutping": "jau4 cat1",
+        "meaning": "paint"
+      },
+      {
+        "id": "bo1lei4mun4-glass-door",
+        "word": "玻璃門",
+        "jyutping": "bo1 lei4 mun4",
+        "meaning": "glass door"
+      },
+      {
+        "id": "coeng4-wall",
+        "word": "牆",
+        "jyutping": "coeng4",
+        "meaning": "wall"
+      },
+      {
+        "id": "dei6baan2-floorboard",
+        "word": "地板",
+        "jyutping": "dei6 baan2",
+        "meaning": "floorboard"
+      }
+    ],
+    "metal_and_natural_materials": [
+      {
+        "id": "tit3-iron",
+        "word": "鐵",
+        "jyutping": "tit3",
+        "meaning": "iron"
+      },
+      {
+        "id": "gong3-steel",
+        "word": "鋼",
+        "jyutping": "gong3",
+        "meaning": "steel"
+      },
+      {
+        "id": "tung4-copper",
+        "word": "銅",
+        "jyutping": "tung4",
+        "meaning": "copper"
+      },
+      {
+        "id": "leoi5-aluminium",
+        "word": "鋁",
+        "jyutping": "leoi5",
+        "meaning": "aluminium"
+      },
+      {
+        "id": "gam1-gold",
+        "word": "金",
+        "jyutping": "gam1",
+        "meaning": "gold"
+      },
+      {
+        "id": "ngan4-silver",
+        "word": "銀",
+        "jyutping": "ngan4",
+        "meaning": "silver"
+      },
+      {
+        "id": "sek6-stone",
+        "word": "石",
+        "jyutping": "sek6",
+        "meaning": "stone"
+      },
+      {
+        "id": "zuk1-bamboo",
+        "word": "竹",
+        "jyutping": "zuk1",
+        "meaning": "bamboo"
+      },
+      {
+        "id": "hoi2min4-sponge",
+        "word": "海綿",
+        "jyutping": "hoi2 min4",
+        "meaning": "sponge"
+      },
+      {
+        "id": "zi2pei4-cardboard",
+        "word": "紙皮",
+        "jyutping": "zi2 pei4",
+        "meaning": "cardboard"
+      }
+    ],
+    "material_properties": [
+      {
+        "id": "jyun5-soft",
+        "word": "軟",
+        "jyutping": "jyun5",
+        "meaning": "soft"
+      },
+      {
+        "id": "ngaang6-hard",
+        "word": "硬",
+        "jyutping": "ngaang6",
+        "meaning": "hard"
+      },
+      {
+        "id": "hau5-thick",
+        "word": "厚",
+        "jyutping": "hau5",
+        "meaning": "thick"
+      },
+      {
+        "id": "bok6-thin",
+        "word": "薄",
+        "jyutping": "bok6",
+        "meaning": "thin"
+      },
+      {
+        "id": "hing1-light-2",
+        "word": "輕",
+        "jyutping": "hing1",
+        "meaning": "light"
+      },
+      {
+        "id": "cung5-heavy",
+        "word": "重",
+        "jyutping": "cung5",
+        "meaning": "heavy"
+      },
+      {
+        "id": "waat6-smooth",
+        "word": "滑",
+        "jyutping": "waat6",
+        "meaning": "smooth"
+      },
+      {
+        "id": "cou1cou3-rough",
+        "word": "粗糙",
+        "jyutping": "cou1 cou3",
+        "meaning": "rough"
+      },
+      {
+        "id": "fong4seoi2-waterproof",
+        "word": "防水",
+        "jyutping": "fong4 seoi2",
+        "meaning": "waterproof"
+      },
+      {
+        "id": "tau3ming4-transparent",
+        "word": "透明",
+        "jyutping": "tau3 ming4",
+        "meaning": "transparent"
+      }
+    ]
+  }
+}

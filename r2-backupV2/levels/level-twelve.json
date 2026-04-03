@@ -1,0 +1,211 @@
+{
+  "level": 12,
+  "title": "Level 12 – Real-world variation and adaptive fluency",
+  "description": "Understand and adapt to real-world Cantonese across different speakers, speeds, accents, and social contexts.",
+  "categories": {
+    "speech_variation_awareness": [
+      {
+        "id": "hau2jam1-accent",
+        "word": "口音",
+        "jyutping": "hau2 jam1",
+        "meaning": "accent"
+      },
+      {
+        "id": "nei5gong2dak1hou2faai3-you-speak-fast",
+        "word": "你講得好快",
+        "jyutping": "nei5 gong2 dak1 hou2 faai3",
+        "meaning": "you’re speaking really fast"
+      },
+      {
+        "id": "ngo5deoi3ni1zung2gong2faat3m4taai3suk6-not-familiar-way",
+        "word": "我對呢種講法唔太熟",
+        "jyutping": "ngo5 deoi3 ni1 zung2 gong2 faat3 m4 taai3 suk6",
+        "meaning": "I’m not too familiar with that way of speaking"
+      },
+      {
+        "id": "ni1go3si3hou2hou2hong1kong2waa2-very-hk-style",
+        "word": "呢個好香港話",
+        "jyutping": "ni1 go3 hou2 hoeng1 gong2 waa2",
+        "meaning": "that’s very Hong Kong-style Cantonese"
+      },
+      {
+        "id": "ta1dei6jung6ci4hou2m4tung4-their-wording-different",
+        "word": "佢哋用詞好唔同",
+        "jyutping": "keoi5 dei6 jung6 ci4 hou2 m4 tung4",
+        "meaning": "their word choice is really different"
+      }
+    ],
+    "spoken_reduction_and_flow": [
+      {
+        "id": "m4hai6waa6-not-that",
+        "word": "唔係話…",
+        "jyutping": "m4 hai6 waa6",
+        "meaning": "it’s not that… (soft correction)"
+      },
+      {
+        "id": "gong2dou3mei5-at-the-end-of-day",
+        "word": "講到尾",
+        "jyutping": "gong2 dou3 mei5",
+        "meaning": "at the end of the day"
+      },
+      {
+        "id": "caa1m4do1zau6dak1-more-or-less-enough",
+        "word": "差唔多就得",
+        "jyutping": "caa1 m4 do1 zau6 dak1",
+        "meaning": "more or less is enough"
+      },
+      {
+        "id": "gaan2daan1di1lei4gong2-put-it-simply",
+        "word": "簡單啲嚟講",
+        "jyutping": "gaan2 daan1 di1 lei4 gong2",
+        "meaning": "to put it simply"
+      },
+      {
+        "id": "ngo5ji3si1hai6-what-i-mean-is",
+        "word": "我意思係…",
+        "jyutping": "ngo5 ji3 si1 hai6",
+        "meaning": "what I mean is…"
+      }
+    ],
+    "register_blending": [
+      {
+        "id": "zing3sik1dak1lei4m4saang1ngaang6-formal-not-stiff",
+        "word": "正式得嚟唔生硬",
+        "jyutping": "zing3 sik1 dak1 lei4 m4 saang1 ngaang6",
+        "meaning": "formal but not stiff"
+      },
+      {
+        "id": "hing1sung1di1gong2-say-it-more-casually",
+        "word": "輕鬆啲講",
+        "jyutping": "hing1 sung1 di1 gong2",
+        "meaning": "to say it more casually"
+      },
+      {
+        "id": "bun3zing3sik1-semi-formal",
+        "word": "半正式",
+        "jyutping": "bun3 zing3 sik1",
+        "meaning": "semi-formal"
+      },
+      {
+        "id": "faan1gung1joeng6gong2-workplace-tone",
+        "word": "返工咁講",
+        "jyutping": "faan1 gung1 gam3 gong2",
+        "meaning": "the way you’d say it at work"
+      },
+      {
+        "id": "pang4jau5gaan1joeng6gong2-friends-tone",
+        "word": "朋友間咁講",
+        "jyutping": "pang4 jau5 gaan1 gam3 gong2",
+        "meaning": "the way you’d say it with friends"
+      }
+    ],
+    "listening_repair_strategies": [
+      {
+        "id": "ho2m4ho2ji5maan6di1gong2-could-you-slow-down",
+        "word": "可唔可以慢啲講？",
+        "jyutping": "ho2 m4 ho2 ji5 maan6 di1 gong2",
+        "meaning": "could you speak more slowly?"
+      },
+      {
+        "id": "ho2m4ho2ji5zoi3gong2jat1ci3-say-again",
+        "word": "可唔可以再講一次？",
+        "jyutping": "ho2 m4 ho2 ji5 zoi3 gong2 jat1 ci3",
+        "meaning": "could you say that again?"
+      },
+      {
+        "id": "ngo5mei6teng1cing1co2-didnt-hear-clearly",
+        "word": "我未聽清楚",
+        "jyutping": "ngo5 mei6 teng1 cing1 co2",
+        "meaning": "I didn’t hear clearly"
+      },
+      {
+        "id": "nei5ji3si1hai6mai6-do-you-mean",
+        "word": "你意思係咪…？",
+        "jyutping": "nei5 ji3 si1 hai6 mai6",
+        "meaning": "do you mean…?"
+      },
+      {
+        "id": "ngo5lei5gaai2hai6gam3-correct-me",
+        "word": "我理解係咁，啱唔啱？",
+        "jyutping": "ngo5 lei5 gaai2 hai6 gam3, ngaam1 m4 ngaam1",
+        "meaning": "this is how I understand it, right?"
+      },
+      {
+        "id": "dang2ngo5siu1faa3haa5-let-me-process",
+        "word": "等我消化下先",
+        "jyutping": "dang2 ngo5 siu1 faa3 haa5 sin1",
+        "meaning": "let me process that for a moment"
+      }
+    ],
+    "social_and_generational_difference": [
+      {
+        "id": "hau6saang1di1gong2faat3-younger-slang",
+        "word": "後生啲講法",
+        "jyutping": "hau6 saang1 di1 gong2 faat3",
+        "meaning": "younger generation phrasing"
+      },
+      {
+        "id": "cyun4tung2gong2faat3-traditional-way",
+        "word": "傳統講法",
+        "jyutping": "cyun4 tung2 gong2 faat3",
+        "meaning": "traditional phrasing"
+      },
+      {
+        "id": "syu1min6di1-more-written-style",
+        "word": "書面啲",
+        "jyutping": "syu1 min6 di1",
+        "meaning": "more written-style"
+      },
+      {
+        "id": "hau2jyu5di1-more-spoken-style",
+        "word": "口語啲",
+        "jyutping": "hau2 jyu5 di1",
+        "meaning": "more spoken-style"
+      },
+      {
+        "id": "tai2jan4lei4jung6-depends-who-you-talk-to",
+        "word": "睇人嚟用",
+        "jyutping": "tai2 jan4 lei4 jung6",
+        "meaning": "depends on who you’re talking to"
+      }
+    ],
+    "adaptive_speaking": [
+      {
+        "id": "ngo5gwong2dung1waa2mei6saan6hou2-not-perfect-cantonese",
+        "word": "我廣東話未算好",
+        "jyutping": "ngo5 gwong2 dung1 waa2 mei6 syun3 hou2",
+        "meaning": "my Cantonese isn’t perfect yet"
+      },
+      {
+        "id": "ngo5ho2ji5maan6di1gong2-ill-speak-slower",
+        "word": "我可以慢啲講",
+        "jyutping": "ngo5 ho2 ji5 maan6 di1 gong2",
+        "meaning": "I can speak more slowly"
+      },
+      {
+        "id": "zyun3faan1gaan2daan1di1-switch-simpler",
+        "word": "我轉返簡單啲",
+        "jyutping": "ngo5 zyun3 faan1 gaan2 daan1 di1",
+        "meaning": "I’ll switch back to simpler speech"
+      },
+      {
+        "id": "jung6faan1ping4si4ge3gong2faat3-use-everyday-phrasing",
+        "word": "用返平時嘅講法",
+        "jyutping": "jung6 faan1 ping4 si4 ge3 gong2 faat3",
+        "meaning": "use everyday phrasing"
+      },
+      {
+        "id": "deoi3fong1ming4zau6dak1-as-long-as-understood",
+        "word": "對方明就得",
+        "jyutping": "deoi3 fong1 ming4 zau6 dak1",
+        "meaning": "as long as the other person understands"
+      },
+      {
+        "id": "m4sai2gei3soeng2taai3do1-dont-overthink",
+        "word": "唔使記上太多",
+        "jyutping": "m4 sai2 gei3 soeng2 taai3 do1",
+        "meaning": "no need to overthink it"
+      }
+    ]
+  }
+}

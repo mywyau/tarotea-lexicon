@@ -1,0 +1,525 @@
+{
+  "topic": "science",
+  "title": "Science",
+  "description": "Learn common Cantonese words for science, biology, chemistry, physics, and space.",
+  "categories": {
+    "general_science_words": [
+      {
+        "id": "fo1hok6-science",
+        "word": "科學",
+        "jyutping": "fo1 hok6",
+        "meaning": "science"
+      },
+      {
+        "id": "fo1hok6gaa1-scientist",
+        "word": "科學家",
+        "jyutping": "fo1 hok6 gaa1",
+        "meaning": "scientist"
+      },
+      {
+        "id": "jin4gau3-research",
+        "word": "研究",
+        "jyutping": "jin4 gau3",
+        "meaning": "research"
+      },
+      {
+        "id": "faat3jin6-discovery",
+        "word": "發現",
+        "jyutping": "faat3 jin6",
+        "meaning": "discovery"
+      },
+      {
+        "id": "lei5leon6-theory",
+        "word": "理論",
+        "jyutping": "lei5 leon6",
+        "meaning": "theory"
+      },
+      {
+        "id": "zing3ming4-proof-certificate-to-prove",
+        "word": "證明",
+        "jyutping": "zing3 ming4",
+        "meaning": "proof"
+      },
+      {
+        "id": "sat6jim6-experiment",
+        "word": "實驗",
+        "jyutping": "sat6 jim6",
+        "meaning": "experiment"
+      },
+      {
+        "id": "git3gwo2-result-outcome",
+        "word": "結果",
+        "jyutping": "git3 gwo2",
+        "meaning": "result"
+      },
+      {
+        "id": "sou3geoi3-data",
+        "word": "數據",
+        "jyutping": "sou3 geoi3",
+        "meaning": "data"
+      },
+      {
+        "id": "gun1caat3-observe",
+        "word": "觀察",
+        "jyutping": "gun1 caat3",
+        "meaning": "observe"
+      }
+    ],
+    "lab_and_measurement": [
+      {
+        "id": "sat6jim6sat1-laboratory",
+        "word": "實驗室",
+        "jyutping": "sat6 jim6 sat1",
+        "meaning": "laboratory"
+      },
+      {
+        "id": "hin2mei4geng3-microscope",
+        "word": "顯微鏡",
+        "jyutping": "hin2 mei4 geng3",
+        "meaning": "microscope"
+      },
+      {
+        "id": "mong6jyun5geng3-telescope",
+        "word": "望遠鏡",
+        "jyutping": "mong6 jyun5 geng3",
+        "meaning": "telescope"
+      },
+      {
+        "id": "loeng4tung2-measuring-cylinder",
+        "word": "量筒",
+        "jyutping": "loeng4 tung2",
+        "meaning": "measuring cylinder"
+      },
+      {
+        "id": "tin1ping4-balance",
+        "word": "天平",
+        "jyutping": "tin1 ping4",
+        "meaning": "balance"
+      },
+      {
+        "id": "wan1dou6-temperature",
+        "word": "溫度",
+        "jyutping": "wan1 dou6",
+        "meaning": "temperature"
+      },
+      {
+        "id": "cuk1dou6-speed",
+        "word": "速度",
+        "jyutping": "cuk1 dou6",
+        "meaning": "speed"
+      },
+      {
+        "id": "zung6loeng6-weight-2",
+        "word": "重量",
+        "jyutping": "zung6 loeng6",
+        "meaning": "weight"
+      },
+      {
+        "id": "keoi1lei4-distance",
+        "word": "距離",
+        "jyutping": "keoi1 lei4",
+        "meaning": "distance"
+      },
+      {
+        "id": "gaa2cit3-hypothesis",
+        "word": "假設",
+        "jyutping": "gaa2 cit3",
+        "meaning": "hypothesis"
+      }
+    ],
+    "biology": [
+      {
+        "id": "sang1mat6-organism",
+        "word": "生物",
+        "jyutping": "sang1 mat6",
+        "meaning": "organism"
+      },
+      {
+        "id": "sai3baau1-cell",
+        "word": "細胞",
+        "jyutping": "sai3 baau1",
+        "meaning": "cell"
+      },
+      {
+        "id": "zan1kwan2-fungus",
+        "word": "真菌",
+        "jyutping": "zan1 kwan2",
+        "meaning": "fungus"
+      },
+      {
+        "id": "sai3kwan2-bacteria",
+        "word": "細菌",
+        "jyutping": "sai3 kwan2",
+        "meaning": "bacteria"
+      },
+      {
+        "id": "beng6duk6-virus",
+        "word": "病毒",
+        "jyutping": "beng6 duk6",
+        "meaning": "virus"
+      },
+      {
+        "id": "gei1jan1-gene",
+        "word": "基因",
+        "jyutping": "gei1 jan1",
+        "meaning": "gene"
+      },
+      {
+        "id": "zeon3faa3-evolution",
+        "word": "進化",
+        "jyutping": "zeon3 faa3",
+        "meaning": "evolution"
+      },
+      {
+        "id": "mat6zung2-species",
+        "word": "物種",
+        "jyutping": "mat6 zung2",
+        "meaning": "species"
+      },
+      {
+        "id": "hei3gun1-organ",
+        "word": "器官",
+        "jyutping": "hei3 gun1",
+        "meaning": "organ"
+      },
+      {
+        "id": "gwat1gaak3-skeleton",
+        "word": "骨骼",
+        "jyutping": "gwat1 gaak3",
+        "meaning": "skeleton"
+      },
+      {
+        "id": "gei1juk6-muscle",
+        "word": "肌肉",
+        "jyutping": "gei1 juk6",
+        "meaning": "muscle"
+      },
+      {
+        "id": "fu1kap1-respiration",
+        "word": "呼吸",
+        "jyutping": "fu1 kap1",
+        "meaning": "respiration"
+      }
+    ],
+    "chemistry": [
+      {
+        "id": "faa3hok6-chemistry",
+        "word": "化學",
+        "jyutping": "faa3 hok6",
+        "meaning": "chemistry"
+      },
+      {
+        "id": "jyun4zi2-atom",
+        "word": "原子",
+        "jyutping": "jyun4 zi2",
+        "meaning": "atom"
+      },
+      {
+        "id": "fan1zi2-molecule",
+        "word": "分子",
+        "jyutping": "fan1 zi2",
+        "meaning": "molecule"
+      },
+      {
+        "id": "jyun4sou3-element",
+        "word": "元素",
+        "jyutping": "jyun4 sou3",
+        "meaning": "element"
+      },
+      {
+        "id": "faa3hok6mat6zat1-chemical-substance",
+        "word": "化學物質",
+        "jyutping": "faa3 hok6 mat6 zat1",
+        "meaning": "chemical substance"
+      },
+      {
+        "id": "syun1-acid",
+        "word": "酸",
+        "jyutping": "syun1",
+        "meaning": "acid"
+      },
+      {
+        "id": "hei3tai2-gas",
+        "word": "氣體",
+        "jyutping": "hei3 tai2",
+        "meaning": "gas"
+      },
+      {
+        "id": "jik6tai2-liquid",
+        "word": "液體",
+        "jyutping": "jik6 tai2",
+        "meaning": "liquid"
+      },
+      {
+        "id": "gu3tai2-solid",
+        "word": "固體",
+        "jyutping": "gu3 tai2",
+        "meaning": "solid"
+      },
+      {
+        "id": "faa3hok6faan2jing3-chemical-reaction",
+        "word": "化學反應",
+        "jyutping": "faa3 hok6 faan2 jing3",
+        "meaning": "chemical reaction"
+      },
+      {
+        "id": "jung4gaai2-dissolve",
+        "word": "溶解",
+        "jyutping": "jung4 gaai2",
+        "meaning": "dissolve"
+      },
+      {
+        "id": "joeng5hei3-oxygen",
+        "word": "氧氣",
+        "jyutping": "joeng5 hei3",
+        "meaning": "oxygen"
+      }
+    ],
+    "physics": [
+      {
+        "id": "mat6lei5hok6-physics",
+        "word": "物理學",
+        "jyutping": "mat6 lei5 hok6",
+        "meaning": "physics"
+      },
+      {
+        "id": "lik6-force",
+        "word": "力",
+        "jyutping": "lik6",
+        "meaning": "force"
+      },
+      {
+        "id": "jan5lik6-gravity",
+        "word": "引力",
+        "jyutping": "jan5 lik6",
+        "meaning": "gravity"
+      },
+      {
+        "id": "nang4loeng6-energy",
+        "word": "能量",
+        "jyutping": "nang4 loeng6",
+        "meaning": "energy"
+      },
+      {
+        "id": "jit6loeng6-heat",
+        "word": "熱量",
+        "jyutping": "jit6 loeng6",
+        "meaning": "heat"
+      },
+      {
+        "id": "gwong1-light",
+        "word": "光",
+        "jyutping": "gwong1",
+        "meaning": "light"
+      },
+      {
+        "id": "jam1-sound",
+        "word": "音",
+        "jyutping": "jam1",
+        "meaning": "sound"
+      },
+      {
+        "id": "din6-electricity",
+        "word": "電",
+        "jyutping": "din6",
+        "meaning": "electricity"
+      },
+      {
+        "id": "ci4tit3-magnet",
+        "word": "磁鐵",
+        "jyutping": "ci4 tit3",
+        "meaning": "magnet"
+      },
+      {
+        "id": "din6lou6-electric-circuit",
+        "word": "電路",
+        "jyutping": "din6 lou6",
+        "meaning": "electric circuit"
+      },
+      {
+        "id": "zat1loeng6-mass",
+        "word": "質量",
+        "jyutping": "zat1 loeng6",
+        "meaning": "mass"
+      },
+      {
+        "id": "dung6lik6-power",
+        "word": "動力",
+        "jyutping": "dung6 lik6",
+        "meaning": "power"
+      },
+      {
+        "id": "wan6dung6-motion",
+        "word": "運動",
+        "jyutping": "wan6 dung6",
+        "meaning": "motion"
+      },
+      {
+        "id": "seng1-sound",
+        "word": "聲",
+        "jyutping": "seng1",
+        "meaning": "sound"
+      }
+    ],
+    "earth_and_space": [
+      {
+        "id": "dei6kau4-earth",
+        "word": "地球",
+        "jyutping": "dei6 kau4",
+        "meaning": "earth"
+      },
+      {
+        "id": "jyut6kau4-moon",
+        "word": "月球",
+        "jyutping": "jyut6 kau4",
+        "meaning": "moon"
+      },
+      {
+        "id": "taai3joeng4-sun",
+        "word": "太陽",
+        "jyutping": "taai3 joeng4",
+        "meaning": "sun"
+      },
+      {
+        "id": "hang4sing1-planet",
+        "word": "行星",
+        "jyutping": "hang4 sing1",
+        "meaning": "planet"
+      },
+      {
+        "id": "sing1-star",
+        "word": "星",
+        "jyutping": "sing1",
+        "meaning": "star"
+      },
+      {
+        "id": "ngan4ho4-galaxy",
+        "word": "銀河",
+        "jyutping": "ngan4 ho4",
+        "meaning": "galaxy"
+      },
+      {
+        "id": "jyu5zau6-universe",
+        "word": "宇宙",
+        "jyutping": "jyu5 zau6",
+        "meaning": "universe"
+      },
+      {
+        "id": "wai6sing1-satellite",
+        "word": "衛星",
+        "jyutping": "wai6 sing1",
+        "meaning": "satellite"
+      },
+      {
+        "id": "taai3hung1-space",
+        "word": "太空",
+        "jyutping": "taai3 hung1",
+        "meaning": "space"
+      },
+      {
+        "id": "taai3hung1jan4-astronaut",
+        "word": "太空人",
+        "jyutping": "taai3 hung1 jan4",
+        "meaning": "astronaut"
+      },
+      {
+        "id": "fo2zin3-rocket",
+        "word": "火箭",
+        "jyutping": "fo2 zin3",
+        "meaning": "rocket"
+      },
+      {
+        "id": "seoi6sing1-comet",
+        "word": "彗星",
+        "jyutping": "seoi6 sing1",
+        "meaning": "comet"
+      }
+    ],
+    "environment_and_ecology": [
+      {
+        "id": "waan4ging2-environment",
+        "word": "環境",
+        "jyutping": "waan4 ging2",
+        "meaning": "environment"
+      },
+      {
+        "id": "sang1taai3-ecology",
+        "word": "生態",
+        "jyutping": "sang1 taai3",
+        "meaning": "ecology"
+      },
+      {
+        "id": "wu1jim5-pollution",
+        "word": "污染",
+        "jyutping": "wu1 jim5",
+        "meaning": "pollution"
+      },
+      {
+        "id": "hung1hei3-air",
+        "word": "空氣",
+        "jyutping": "hung1 hei3",
+        "meaning": "air"
+      },
+      {
+        "id": "seoi2zi1jyun4-water-resources",
+        "word": "水資源",
+        "jyutping": "seoi2 zi1 jyun4",
+        "meaning": "water resources"
+      },
+      {
+        "id": "sam1lam4-forest",
+        "word": "森林",
+        "jyutping": "sam1 lam4",
+        "meaning": "forest"
+      },
+      {
+        "id": "laap6saap3-rubbish",
+        "word": "垃圾",
+        "jyutping": "laap6 saap3",
+        "meaning": "rubbish"
+      },
+      {
+        "id": "wui4sau1-recycling",
+        "word": "回收",
+        "jyutping": "wui4 sau1",
+        "meaning": "recycling"
+      },
+      {
+        "id": "hei3hau6-climate",
+        "word": "氣候",
+        "jyutping": "hei3 hau6",
+        "meaning": "climate"
+      },
+      {
+        "id": "cyun4kau4nyun5faa3-global-warming",
+        "word": "全球暖化",
+        "jyutping": "cyun4 kau4 nyun5 faa3",
+        "meaning": "global warming"
+      },
+      {
+        "id": "zoi3sang1nang4jyun4-renewable-energy",
+        "word": "再生能源",
+        "jyutping": "zoi3 sang1 nang4 jyun4",
+        "meaning": "renewable energy"
+      },
+      {
+        "id": "taai3joeng4nang4-solar-power",
+        "word": "太陽能",
+        "jyutping": "taai3 joeng4 nang4",
+        "meaning": "solar power"
+      },
+      {
+        "id": "fung1lik6-wind-power",
+        "word": "風力",
+        "jyutping": "fung1 lik6",
+        "meaning": "wind power"
+      },
+      {
+        "id": "bou2juk6-conservation",
+        "word": "保育",
+        "jyutping": "bou2 juk6",
+        "meaning": "conservation"
+      }
+    ]
+  }
+}
