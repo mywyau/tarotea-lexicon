@@ -2,14 +2,14 @@
   "inputPath": "/Users/michaelyau/tarotea/openai-tts/lexicon/lexicon-build/lexicon-map.json",
   "model": "gpt-5.4-mini",
   "totalEntries": 4350,
-  "auditedEntries": 4120,
-  "okCount": 360,
-  "needsReviewCount": 3760,
+  "auditedEntries": 4350,
+  "acceptedCount": 362,
+  "manualReviewCount": 3960,
+  "nonChineseCount": 28,
   "statusBreakdown": {
     "non_chinese": 28,
-    "needs_manual_review": 3720,
-    "duplicate_conflict": 8,
-    "suspicious": 4,
-    "ok": 360
+    "manual_review": 3960,
+    "keep_existing": 359,
+    "corrected": 3
   }
 }

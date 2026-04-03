@@ -1,0 +1,254 @@
+[
+  {
+    "id": "wai1faai1-wifi",
+    "hanzi": "Wi-Fi",
+    "existingJyutping": "wai1 faai1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-1",
+    "hanzi": "1",
+    "existingJyutping": "jat1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-10",
+    "hanzi": "10",
+    "existingJyutping": "sap6",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-100",
+    "hanzi": "100",
+    "existingJyutping": "jat1 baak3",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-11",
+    "hanzi": "11",
+    "existingJyutping": "sap6 jat1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-12",
+    "hanzi": "12",
+    "existingJyutping": "sap6 ji6",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-16",
+    "hanzi": "16",
+    "existingJyutping": "sap6 luk6",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-2",
+    "hanzi": "2",
+    "existingJyutping": "ji6",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-20",
+    "hanzi": "20",
+    "existingJyutping": "ji6 sap6",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-2023",
+    "hanzi": "2023",
+    "existingJyutping": "ji6 ling4 ji6 saam1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-25",
+    "hanzi": "25",
+    "existingJyutping": "ji6 sap6 ng5",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-3",
+    "hanzi": "3",
+    "existingJyutping": "saam1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-30",
+    "hanzi": "30",
+    "existingJyutping": "saam1 sap6",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-4",
+    "hanzi": "4",
+    "existingJyutping": "sei3",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-5",
+    "hanzi": "5",
+    "existingJyutping": "ng5",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-7",
+    "hanzi": "7",
+    "existingJyutping": "cat1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-8",
+    "hanzi": "8",
+    "existingJyutping": "baat3",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-9",
+    "hanzi": "9",
+    "existingJyutping": "gau2",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-A",
+    "hanzi": "A",
+    "existingJyutping": "ei1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-ABC",
+    "hanzi": "ABC",
+    "existingJyutping": "ei1 bi1 si1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-Email",
+    "hanzi": "Email",
+    "existingJyutping": "ji1 mei1 lou4",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-USB",
+    "hanzi": "USB",
+    "existingJyutping": "jyu1 es1 bi1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-a",
+    "hanzi": "a",
+    "existingJyutping": "a1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-app",
+    "hanzi": "app",
+    "existingJyutping": "aap1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-check",
+    "hanzi": "check",
+    "existingJyutping": "cek1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-cut",
+    "hanzi": "cut",
+    "existingJyutping": "kat1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-facial",
+    "hanzi": "facial",
+    "existingJyutping": "fei1 siu4",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  },
+  {
+    "id": "auto-x",
+    "hanzi": "x",
+    "existingJyutping": "eks1",
+    "status": "non_chinese",
+    "finalJyutping": null,
+    "reason": "No CJK Hanzi detected in entry",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,3260 @@
+[
+  {
+    "id": "auto-2ad574bdbfa2",
+    "hanzi": "例",
+    "existingJyutping": "lai6",
+    "status": "keep_existing",
+    "finalJyutping": "lai6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2afe6ed6c3a2",
+    "hanzi": "久",
+    "existingJyutping": "gau2",
+    "status": "keep_existing",
+    "finalJyutping": "gau2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2b2f8ec0330e",
+    "hanzi": "夾",
+    "existingJyutping": "gaap3",
+    "status": "keep_existing",
+    "finalJyutping": "gaap3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2b3db13931f3",
+    "hanzi": "菇",
+    "existingJyutping": "gu1",
+    "status": "keep_existing",
+    "finalJyutping": "gu1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2b687d48ab03",
+    "hanzi": "繳",
+    "existingJyutping": "giu2",
+    "status": "keep_existing",
+    "finalJyutping": "giu2",
+    "reason": "Common Cantonese reading for 'to submit/pay'.",
+    "confidence": 0.97
+  },
+  {
+    "id": "auto-2bce594a1a6b",
+    "hanzi": "援",
+    "existingJyutping": "jyun4",
+    "status": "keep_existing",
+    "finalJyutping": "jyun4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2c2a46075fa0",
+    "hanzi": "死",
+    "existingJyutping": "sei2",
+    "status": "keep_existing",
+    "finalJyutping": "sei2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2cffdb150535",
+    "hanzi": "抵",
+    "existingJyutping": "dai2",
+    "status": "keep_existing",
+    "finalJyutping": "dai2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2d06cc508136",
+    "hanzi": "極",
+    "existingJyutping": "gik6",
+    "status": "keep_existing",
+    "finalJyutping": "gik6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2d4f5882b000",
+    "hanzi": "寒",
+    "existingJyutping": "hon4",
+    "status": "keep_existing",
+    "finalJyutping": "hon4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2d5eaba3ba19",
+    "hanzi": "摩",
+    "existingJyutping": "mo1",
+    "status": "keep_existing",
+    "finalJyutping": "mo1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2d808ebf1e5c",
+    "hanzi": "馬",
+    "existingJyutping": "maa5",
+    "status": "keep_existing",
+    "finalJyutping": "maa5",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2e5a7a109c2c",
+    "hanzi": "逆",
+    "existingJyutping": "jik6",
+    "status": "keep_existing",
+    "finalJyutping": "jik6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2eb8ebf6c33c",
+    "hanzi": "公",
+    "existingJyutping": "gung1",
+    "status": "keep_existing",
+    "finalJyutping": "gung1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2ee73fb7aeb5",
+    "hanzi": "迷",
+    "existingJyutping": "mai4",
+    "status": "keep_existing",
+    "finalJyutping": "mai4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2f64b5a67e10",
+    "hanzi": "西",
+    "existingJyutping": "sai1",
+    "status": "keep_existing",
+    "finalJyutping": "sai1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2f901a94b1e2",
+    "hanzi": "售",
+    "existingJyutping": "sau6",
+    "status": "keep_existing",
+    "finalJyutping": "sau6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-2ff77bfea32f",
+    "hanzi": "砝",
+    "existingJyutping": "faat3",
+    "status": "corrected",
+    "finalJyutping": "fat3",
+    "reason": "Common Cantonese reading is fat3, as in 砝碼.",
+    "confidence": 0.94
+  },
+  {
+    "id": "auto-30160a21b92a",
+    "hanzi": "是",
+    "existingJyutping": "si6",
+    "status": "keep_existing",
+    "finalJyutping": "si6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3048f1b030e7",
+    "hanzi": "症",
+    "existingJyutping": "zing3",
+    "status": "keep_existing",
+    "finalJyutping": "zing3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-30d46019d486",
+    "hanzi": "掌",
+    "existingJyutping": "zoeng2",
+    "status": "keep_existing",
+    "finalJyutping": "zoeng2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-311367187619",
+    "hanzi": "淹",
+    "existingJyutping": "jim1",
+    "status": "keep_existing",
+    "finalJyutping": "jim1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3119c5cf5e18",
+    "hanzi": "粹",
+    "existingJyutping": "seoi6",
+    "status": "keep_existing",
+    "finalJyutping": "seoi6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-317130441b2a",
+    "hanzi": "揾",
+    "existingJyutping": "wan2",
+    "status": "keep_existing",
+    "finalJyutping": "wan2",
+    "reason": "Standard colloquial Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-321b9558401a",
+    "hanzi": "值",
+    "existingJyutping": "zik6",
+    "status": "keep_existing",
+    "finalJyutping": "zik6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-325ee265edc2",
+    "hanzi": "嘈",
+    "existingJyutping": "cou4",
+    "status": "keep_existing",
+    "finalJyutping": "cou4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-327f08279be9",
+    "hanzi": "噎",
+    "existingJyutping": "jit3",
+    "status": "keep_existing",
+    "finalJyutping": "jit3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-3334f1e85637",
+    "hanzi": "污",
+    "existingJyutping": "wu1",
+    "status": "keep_existing",
+    "finalJyutping": "wu1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3350da940d59",
+    "hanzi": "婆",
+    "existingJyutping": "po4",
+    "status": "keep_existing",
+    "finalJyutping": "po4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3372db2effeb",
+    "hanzi": "智",
+    "existingJyutping": "zi3",
+    "status": "keep_existing",
+    "finalJyutping": "zi3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-339782a43238",
+    "hanzi": "終",
+    "existingJyutping": "zung1",
+    "status": "keep_existing",
+    "finalJyutping": "zung1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-339da8242daf",
+    "hanzi": "缺",
+    "existingJyutping": "kyut3",
+    "status": "keep_existing",
+    "finalJyutping": "kyut3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-33dda9d445d7",
+    "hanzi": "池",
+    "existingJyutping": "ci4",
+    "status": "keep_existing",
+    "finalJyutping": "ci4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3439a0fcc404",
+    "hanzi": "咖",
+    "existingJyutping": "gaa3",
+    "status": "keep_existing",
+    "finalJyutping": "gaa3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-34401aa0836c",
+    "hanzi": "濃",
+    "existingJyutping": "nung4",
+    "status": "keep_existing",
+    "finalJyutping": "nung4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-344bc5902c13",
+    "hanzi": "像",
+    "existingJyutping": "zoeng6",
+    "status": "keep_existing",
+    "finalJyutping": "zoeng6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3461bcb731bf",
+    "hanzi": "翠",
+    "existingJyutping": "ceoi3",
+    "status": "keep_existing",
+    "finalJyutping": "ceoi3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3467159904f3",
+    "hanzi": "崩",
+    "existingJyutping": "bang1",
+    "status": "keep_existing",
+    "finalJyutping": "bang1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-348968405982",
+    "hanzi": "膏",
+    "existingJyutping": "gou1",
+    "status": "keep_existing",
+    "finalJyutping": "gou1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-34a9345a38b1",
+    "hanzi": "紗",
+    "existingJyutping": "saa1",
+    "status": "keep_existing",
+    "finalJyutping": "saa1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-34bb48d3b91f",
+    "hanzi": "國",
+    "existingJyutping": "gwok3",
+    "status": "keep_existing",
+    "finalJyutping": "gwok3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-34ddea8d8503",
+    "hanzi": "積",
+    "existingJyutping": "zik1",
+    "status": "keep_existing",
+    "finalJyutping": "zik1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-35235ea1f37d",
+    "hanzi": "史",
+    "existingJyutping": "si2",
+    "status": "keep_existing",
+    "finalJyutping": "si2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-35a8ed02127d",
+    "hanzi": "惑",
+    "existingJyutping": "waak6",
+    "status": "keep_existing",
+    "finalJyutping": "waak6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-35eb35bdb520",
+    "hanzi": "罩",
+    "existingJyutping": "zaau3",
+    "status": "keep_existing",
+    "finalJyutping": "zaau3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3602656e896c",
+    "hanzi": "陸",
+    "existingJyutping": "luk6",
+    "status": "keep_existing",
+    "finalJyutping": "luk6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3633f98f9541",
+    "hanzi": "幕",
+    "existingJyutping": "mok6",
+    "status": "keep_existing",
+    "finalJyutping": "mok6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3756d168052f",
+    "hanzi": "誕",
+    "existingJyutping": "daan3",
+    "status": "keep_existing",
+    "finalJyutping": "daan3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3789f7fecd8a",
+    "hanzi": "檢",
+    "existingJyutping": "gim2",
+    "status": "keep_existing",
+    "finalJyutping": "gim2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-37c1bbfa6cc0",
+    "hanzi": "罰",
+    "existingJyutping": "fat6",
+    "status": "keep_existing",
+    "finalJyutping": "fat6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-37cb27a33baa",
+    "hanzi": "准",
+    "existingJyutping": "zeon2",
+    "status": "keep_existing",
+    "finalJyutping": "zeon2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-388959f742ac",
+    "hanzi": "驗",
+    "existingJyutping": "jim6",
+    "status": "keep_existing",
+    "finalJyutping": "jim6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-389d474afa85",
+    "hanzi": "兒",
+    "existingJyutping": "ji4",
+    "status": "keep_existing",
+    "finalJyutping": "ji4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3955785dea35",
+    "hanzi": "士",
+    "existingJyutping": "si6",
+    "status": "keep_existing",
+    "finalJyutping": "si6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-396fddaec67c",
+    "hanzi": "夕",
+    "existingJyutping": "zik6",
+    "status": "keep_existing",
+    "finalJyutping": "zik6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3974c81bc141",
+    "hanzi": "栽",
+    "existingJyutping": "zoi1",
+    "status": "keep_existing",
+    "finalJyutping": "zoi1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3980322b9d68",
+    "hanzi": "顏",
+    "existingJyutping": "ngaan4",
+    "status": "keep_existing",
+    "finalJyutping": "ngaan4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3a4da9717470",
+    "hanzi": "巢",
+    "existingJyutping": "caau4",
+    "status": "keep_existing",
+    "finalJyutping": "caau4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3a6a5b74471f",
+    "hanzi": "郁",
+    "existingJyutping": "juk1",
+    "status": "keep_existing",
+    "finalJyutping": "juk1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3a74f4cd3034",
+    "hanzi": "圖",
+    "existingJyutping": "tou4",
+    "status": "keep_existing",
+    "finalJyutping": "tou4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3af6ec04e666",
+    "hanzi": "刷",
+    "existingJyutping": "caat3",
+    "status": "keep_existing",
+    "finalJyutping": "caat3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3b13d97e8f3e",
+    "hanzi": "唇",
+    "existingJyutping": "seon4",
+    "status": "keep_existing",
+    "finalJyutping": "seon4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3b6ef811b85a",
+    "hanzi": "共",
+    "existingJyutping": "gung6",
+    "status": "keep_existing",
+    "finalJyutping": "gung6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3b88cce536d1",
+    "hanzi": "棒",
+    "existingJyutping": "pong5",
+    "status": "keep_existing",
+    "finalJyutping": "pong5",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3b99b57025c2",
+    "hanzi": "刻",
+    "existingJyutping": "hak1",
+    "status": "keep_existing",
+    "finalJyutping": "hak1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3bb3a9d2f19c",
+    "hanzi": "威",
+    "existingJyutping": "wai1",
+    "status": "keep_existing",
+    "finalJyutping": "wai1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3c1feb03c276",
+    "hanzi": "勤",
+    "existingJyutping": "kan4",
+    "status": "keep_existing",
+    "finalJyutping": "kan4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3c36f8bdf6f2",
+    "hanzi": "豉",
+    "existingJyutping": "si6",
+    "status": "keep_existing",
+    "finalJyutping": "si6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3c4a51be1bc5",
+    "hanzi": "寬",
+    "existingJyutping": "fun1",
+    "status": "keep_existing",
+    "finalJyutping": "fun1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3c874dbf45d8",
+    "hanzi": "蔭",
+    "existingJyutping": "jam3",
+    "status": "keep_existing",
+    "finalJyutping": "jam3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3c9c0a7f2e9c",
+    "hanzi": "失",
+    "existingJyutping": "sat1",
+    "status": "keep_existing",
+    "finalJyutping": "sat1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3ccd1c6ae119",
+    "hanzi": "箏",
+    "existingJyutping": "zeng1",
+    "status": "keep_existing",
+    "finalJyutping": "zeng1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3ccf70742f62",
+    "hanzi": "童",
+    "existingJyutping": "tung4",
+    "status": "keep_existing",
+    "finalJyutping": "tung4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3d4edff07989",
+    "hanzi": "哈",
+    "existingJyutping": "haa1",
+    "status": "keep_existing",
+    "finalJyutping": "haa1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3da4ed2a6f90",
+    "hanzi": "版",
+    "existingJyutping": "baan2",
+    "status": "keep_existing",
+    "finalJyutping": "baan2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3ddf489e9be3",
+    "hanzi": "哎",
+    "existingJyutping": "aai1",
+    "status": "keep_existing",
+    "finalJyutping": "aai1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-3df894a11230",
+    "hanzi": "般",
+    "existingJyutping": "bun1",
+    "status": "keep_existing",
+    "finalJyutping": "bun1",
+    "reason": "Common Cantonese reading in words like 一般.",
+    "confidence": 0.96
+  },
+  {
+    "id": "auto-3dfa9ea3c4ee",
+    "hanzi": "安",
+    "existingJyutping": "on1",
+    "status": "keep_existing",
+    "finalJyutping": "on1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3e450648252d",
+    "hanzi": "春",
+    "existingJyutping": "ceon1",
+    "status": "keep_existing",
+    "finalJyutping": "ceon1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3e87af4859f5",
+    "hanzi": "麗",
+    "existingJyutping": "lai6",
+    "status": "keep_existing",
+    "finalJyutping": "lai6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3f392f289545",
+    "hanzi": "覽",
+    "existingJyutping": "laam5",
+    "status": "keep_existing",
+    "finalJyutping": "laam5",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3fc06d4f6f16",
+    "hanzi": "芝",
+    "existingJyutping": "zi1",
+    "status": "keep_existing",
+    "finalJyutping": "zi1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-3fff4574a4e1",
+    "hanzi": "膩",
+    "existingJyutping": "nei6",
+    "status": "keep_existing",
+    "finalJyutping": "nei6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-402bee559cfb",
+    "hanzi": "誇",
+    "existingJyutping": "kwaa1",
+    "status": "keep_existing",
+    "finalJyutping": "kwaa1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-40f7c8444741",
+    "hanzi": "漲",
+    "existingJyutping": "zoeng3",
+    "status": "keep_existing",
+    "finalJyutping": "zoeng3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-414f66c99ba1",
+    "hanzi": "匠",
+    "existingJyutping": "zoeng6",
+    "status": "keep_existing",
+    "finalJyutping": "zoeng6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-41a0f38b53d1",
+    "hanzi": "緣",
+    "existingJyutping": "jyun4",
+    "status": "keep_existing",
+    "finalJyutping": "jyun4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-421b14631d01",
+    "hanzi": "舒",
+    "existingJyutping": "syu1",
+    "status": "keep_existing",
+    "finalJyutping": "syu1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4231eb42ecd7",
+    "hanzi": "標",
+    "existingJyutping": "biu1",
+    "status": "keep_existing",
+    "finalJyutping": "biu1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-43401e739ef4",
+    "hanzi": "至",
+    "existingJyutping": "zi3",
+    "status": "keep_existing",
+    "finalJyutping": "zi3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-43bcaa8ad863",
+    "hanzi": "拆",
+    "existingJyutping": "caak3",
+    "status": "keep_existing",
+    "finalJyutping": "caak3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-43bd88ad5a0e",
+    "hanzi": "園",
+    "existingJyutping": "jyun4",
+    "status": "keep_existing",
+    "finalJyutping": "jyun4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4421c784f91c",
+    "hanzi": "偶",
+    "existingJyutping": "ngau5",
+    "status": "keep_existing",
+    "finalJyutping": "ngau5",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-44de0d02e3f8",
+    "hanzi": "擴",
+    "existingJyutping": "kwok3",
+    "status": "keep_existing",
+    "finalJyutping": "kwok3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-44e56992d1d5",
+    "hanzi": "萬",
+    "existingJyutping": "maan6",
+    "status": "keep_existing",
+    "finalJyutping": "maan6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-44f85853da2d",
+    "hanzi": "挑",
+    "existingJyutping": "tiu1",
+    "status": "keep_existing",
+    "finalJyutping": "tiu1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4504f7d4cd0a",
+    "hanzi": "謹",
+    "existingJyutping": "gan2",
+    "status": "keep_existing",
+    "finalJyutping": "gan2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-451b86707b5a",
+    "hanzi": "周",
+    "existingJyutping": "zau1",
+    "status": "keep_existing",
+    "finalJyutping": "zau1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-45400ed06c54",
+    "hanzi": "鑼",
+    "existingJyutping": "lo4",
+    "status": "keep_existing",
+    "finalJyutping": "lo4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-457808916249",
+    "hanzi": "削",
+    "existingJyutping": "soek3",
+    "status": "keep_existing",
+    "finalJyutping": "soek3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-45ad4f70b62e",
+    "hanzi": "省",
+    "existingJyutping": "saang2",
+    "status": "keep_existing",
+    "finalJyutping": "saang2",
+    "reason": "Common Cantonese reading for 'save, frugal'.",
+    "confidence": 0.97
+  },
+  {
+    "id": "auto-45e4bc999326",
+    "hanzi": "幸",
+    "existingJyutping": "hang6",
+    "status": "keep_existing",
+    "finalJyutping": "hang6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-460363f30f4b",
+    "hanzi": "環",
+    "existingJyutping": "waan4",
+    "status": "keep_existing",
+    "finalJyutping": "waan4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-461be0440496",
+    "hanzi": "哂",
+    "existingJyutping": "saai3",
+    "status": "keep_existing",
+    "finalJyutping": "saai3",
+    "reason": "Standard Cantonese reading in colloquial usage.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-46429897e00b",
+    "hanzi": "扭",
+    "existingJyutping": "nau2",
+    "status": "keep_existing",
+    "finalJyutping": "nau2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-46aaaecaad64",
+    "hanzi": "編",
+    "existingJyutping": "pin1",
+    "status": "keep_existing",
+    "finalJyutping": "pin1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-46bcef0347e5",
+    "hanzi": "桶",
+    "existingJyutping": "tung2",
+    "status": "keep_existing",
+    "finalJyutping": "tung2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4743fba15d83",
+    "hanzi": "汗",
+    "existingJyutping": "hon6",
+    "status": "keep_existing",
+    "finalJyutping": "hon6",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4766b83dd2ae",
+    "hanzi": "顆",
+    "existingJyutping": "fo2",
+    "status": "keep_existing",
+    "finalJyutping": "fo2",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-47b57ae549dc",
+    "hanzi": "番",
+    "existingJyutping": "faan1",
+    "status": "keep_existing",
+    "finalJyutping": "faan1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-47ca4059515a",
+    "hanzi": "既",
+    "existingJyutping": "gei3",
+    "status": "keep_existing",
+    "finalJyutping": "gei3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-47cd46798bbc",
+    "hanzi": "融",
+    "existingJyutping": "jung4",
+    "status": "keep_existing",
+    "finalJyutping": "jung4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-47d745a87891",
+    "hanzi": "羅",
+    "existingJyutping": "lo4",
+    "status": "keep_existing",
+    "finalJyutping": "lo4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4808636383c2",
+    "hanzi": "妥",
+    "existingJyutping": "to5",
+    "status": "keep_existing",
+    "finalJyutping": "to5",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-48a72e6a669a",
+    "hanzi": "讚",
+    "existingJyutping": "zaan3",
+    "status": "keep_existing",
+    "finalJyutping": "zaan3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-48c146223173",
+    "hanzi": "北",
+    "existingJyutping": "bak1",
+    "status": "keep_existing",
+    "finalJyutping": "bak1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4a676b435809",
+    "hanzi": "需",
+    "existingJyutping": "seoi1",
+    "status": "keep_existing",
+    "finalJyutping": "seoi1",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4a96fa4ec620",
+    "hanzi": "脾",
+    "existingJyutping": "pei4",
+    "status": "keep_existing",
+    "finalJyutping": "pei4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4a9efaa77fc2",
+    "hanzi": "何",
+    "existingJyutping": "ho4",
+    "status": "keep_existing",
+    "finalJyutping": "ho4",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-4aa51c7d4a62",
+    "hanzi": "障",
+    "existingJyutping": "zoeng3",
+    "status": "keep_existing",
+    "finalJyutping": "zoeng3",
+    "reason": "Standard Cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-695aad811ab9",
+    "hanzi": "朝",
+    "existingJyutping": "ziu1",
+    "status": "corrected",
+    "finalJyutping": "ciu4",
+    "reason": "Common hong kong cantonese reading for 朝 as a standalone character is ciu4; ziu1 is not the standard learner-friendly reading here.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-69fdf6afd75e",
+    "hanzi": "犧",
+    "existingJyutping": "hei1",
+    "status": "keep_existing",
+    "finalJyutping": "hei1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6a0cc66d4644",
+    "hanzi": "叢",
+    "existingJyutping": "cung4",
+    "status": "keep_existing",
+    "finalJyutping": "cung4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6a530afaadfc",
+    "hanzi": "匆",
+    "existingJyutping": "cung1",
+    "status": "keep_existing",
+    "finalJyutping": "cung1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6b5b29b96cd3",
+    "hanzi": "伏",
+    "existingJyutping": "fuk6",
+    "status": "keep_existing",
+    "finalJyutping": "fuk6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6b6d7ffa9860",
+    "hanzi": "伶",
+    "existingJyutping": "ling4",
+    "status": "keep_existing",
+    "finalJyutping": "ling4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6ba5c708b034",
+    "hanzi": "劑",
+    "existingJyutping": "zai3",
+    "status": "keep_existing",
+    "finalJyutping": "zai3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6bb6d7779990",
+    "hanzi": "溶",
+    "existingJyutping": "jung4",
+    "status": "keep_existing",
+    "finalJyutping": "jung4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6bdad31f8341",
+    "hanzi": "砌",
+    "existingJyutping": "cai3",
+    "status": "keep_existing",
+    "finalJyutping": "cai3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6c2f88bb192a",
+    "hanzi": "普",
+    "existingJyutping": "pou2",
+    "status": "keep_existing",
+    "finalJyutping": "pou2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6cca7a3ec067",
+    "hanzi": "友",
+    "existingJyutping": "jau5",
+    "status": "keep_existing",
+    "finalJyutping": "jau5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6d19ac2077e0",
+    "hanzi": "柱",
+    "existingJyutping": "cyu5",
+    "status": "keep_existing",
+    "finalJyutping": "cyu5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6d4dff01283a",
+    "hanzi": "遇",
+    "existingJyutping": "jyu6",
+    "status": "keep_existing",
+    "finalJyutping": "jyu6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6d7aac9afc3e",
+    "hanzi": "折",
+    "existingJyutping": "zit3",
+    "status": "keep_existing",
+    "finalJyutping": "zit3",
+    "reason": "Acceptable common cantonese reading for this standalone character.",
+    "confidence": 0.9
+  },
+  {
+    "id": "auto-6d7b75f92d0f",
+    "hanzi": "貌",
+    "existingJyutping": "maau6",
+    "status": "keep_existing",
+    "finalJyutping": "maau6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6dea7a12bcdc",
+    "hanzi": "墊",
+    "existingJyutping": "dim3",
+    "status": "keep_existing",
+    "finalJyutping": "dim3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6deb4840be18",
+    "hanzi": "診",
+    "existingJyutping": "can2",
+    "status": "keep_existing",
+    "finalJyutping": "can2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6dfd108390f3",
+    "hanzi": "隨",
+    "existingJyutping": "ceoi4",
+    "status": "keep_existing",
+    "finalJyutping": "ceoi4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6e38a9adcb74",
+    "hanzi": "則",
+    "existingJyutping": "zak1",
+    "status": "keep_existing",
+    "finalJyutping": "zak1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6ea0d7cf1aa2",
+    "hanzi": "貼",
+    "existingJyutping": "tip3",
+    "status": "keep_existing",
+    "finalJyutping": "tip3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6ea40de0710d",
+    "hanzi": "氫",
+    "existingJyutping": "hing1",
+    "status": "keep_existing",
+    "finalJyutping": "hing1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6efa9db76fa1",
+    "hanzi": "痠",
+    "existingJyutping": "syun1",
+    "status": "keep_existing",
+    "finalJyutping": "syun1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6f001cf2c54c",
+    "hanzi": "限",
+    "existingJyutping": "haan6",
+    "status": "keep_existing",
+    "finalJyutping": "haan6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6f0b3224aca8",
+    "hanzi": "抖",
+    "existingJyutping": "dau2",
+    "status": "keep_existing",
+    "finalJyutping": "dau2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6f143c8fe201",
+    "hanzi": "獨",
+    "existingJyutping": "duk6",
+    "status": "keep_existing",
+    "finalJyutping": "duk6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6f1910e9caef",
+    "hanzi": "渠",
+    "existingJyutping": "keoi4",
+    "status": "keep_existing",
+    "finalJyutping": "keoi4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-6f96741c2562",
+    "hanzi": "黃",
+    "existingJyutping": "wong4",
+    "status": "keep_existing",
+    "finalJyutping": "wong4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7010a80dc9e5",
+    "hanzi": "蛀",
+    "existingJyutping": "zyu3",
+    "status": "keep_existing",
+    "finalJyutping": "zyu3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-701b1c39ecab",
+    "hanzi": "昆",
+    "existingJyutping": "kwan1",
+    "status": "keep_existing",
+    "finalJyutping": "kwan1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-70bad15cf142",
+    "hanzi": "缸",
+    "existingJyutping": "gong1",
+    "status": "keep_existing",
+    "finalJyutping": "gong1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-70e501d57bb1",
+    "hanzi": "顧",
+    "existingJyutping": "gu3",
+    "status": "keep_existing",
+    "finalJyutping": "gu3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-70f125a7a570",
+    "hanzi": "墟",
+    "existingJyutping": "heoi1",
+    "status": "keep_existing",
+    "finalJyutping": "heoi1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-710f92155bd0",
+    "hanzi": "丟",
+    "existingJyutping": "diu1",
+    "status": "keep_existing",
+    "finalJyutping": "diu1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-711a96b475f3",
+    "hanzi": "磨",
+    "existingJyutping": "mo4",
+    "status": "keep_existing",
+    "finalJyutping": "mo4",
+    "reason": "Common standalone cantonese reading.",
+    "confidence": 0.95
+  },
+  {
+    "id": "auto-71a55ba7988c",
+    "hanzi": "爵",
+    "existingJyutping": "zoek3",
+    "status": "keep_existing",
+    "finalJyutping": "zoek3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-71c4204c9f07",
+    "hanzi": "廣",
+    "existingJyutping": "gwong2",
+    "status": "keep_existing",
+    "finalJyutping": "gwong2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-71f0e523268c",
+    "hanzi": "距",
+    "existingJyutping": "keoi5",
+    "status": "keep_existing",
+    "finalJyutping": "keoi5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-720d6e9833da",
+    "hanzi": "鏟",
+    "existingJyutping": "caan2",
+    "status": "keep_existing",
+    "finalJyutping": "caan2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-72148ee1076c",
+    "hanzi": "癢",
+    "existingJyutping": "joeng5",
+    "status": "keep_existing",
+    "finalJyutping": "joeng5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-723b593b40ed",
+    "hanzi": "庭",
+    "existingJyutping": "ting4",
+    "status": "keep_existing",
+    "finalJyutping": "ting4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7279a9c87573",
+    "hanzi": "含",
+    "existingJyutping": "ham4",
+    "status": "keep_existing",
+    "finalJyutping": "ham4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-72d148251eae",
+    "hanzi": "財",
+    "existingJyutping": "coi4",
+    "status": "keep_existing",
+    "finalJyutping": "coi4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-72e94b485542",
+    "hanzi": "框",
+    "existingJyutping": "kwaang1",
+    "status": "keep_existing",
+    "finalJyutping": "kwaang1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-73041a6d56d7",
+    "hanzi": "宜",
+    "existingJyutping": "ji4",
+    "status": "keep_existing",
+    "finalJyutping": "ji4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-734208cda945",
+    "hanzi": "領",
+    "existingJyutping": "ling5",
+    "status": "keep_existing",
+    "finalJyutping": "ling5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-737c389c6bfa",
+    "hanzi": "拔",
+    "existingJyutping": "bat6",
+    "status": "keep_existing",
+    "finalJyutping": "bat6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-73a8b0de5167",
+    "hanzi": "拾",
+    "existingJyutping": "sap6",
+    "status": "keep_existing",
+    "finalJyutping": "sap6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-74528066f42b",
+    "hanzi": "宗",
+    "existingJyutping": "zung1",
+    "status": "keep_existing",
+    "finalJyutping": "zung1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-748084ff6509",
+    "hanzi": "拼",
+    "existingJyutping": "ping3",
+    "status": "keep_existing",
+    "finalJyutping": "ping3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-74bfac974691",
+    "hanzi": "秩",
+    "existingJyutping": "dit6",
+    "status": "keep_existing",
+    "finalJyutping": "dit6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-74e1ccdcb546",
+    "hanzi": "廂",
+    "existingJyutping": "soeng1",
+    "status": "keep_existing",
+    "finalJyutping": "soeng1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-755dfd435b4d",
+    "hanzi": "還",
+    "existingJyutping": "waan4",
+    "status": "keep_existing",
+    "finalJyutping": "waan4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-75c085d8dd08",
+    "hanzi": "陌",
+    "existingJyutping": "mak6",
+    "status": "keep_existing",
+    "finalJyutping": "mak6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-75ec37f6b369",
+    "hanzi": "犀",
+    "existingJyutping": "sai1",
+    "status": "keep_existing",
+    "finalJyutping": "sai1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-75fa2eb9a137",
+    "hanzi": "們",
+    "existingJyutping": "mun4",
+    "status": "keep_existing",
+    "finalJyutping": "mun4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-763dfc04c57c",
+    "hanzi": "窩",
+    "existingJyutping": "wo1",
+    "status": "keep_existing",
+    "finalJyutping": "wo1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-764b31010c12",
+    "hanzi": "緩",
+    "existingJyutping": "wun6",
+    "status": "keep_existing",
+    "finalJyutping": "wun6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-766b3a1a8b65",
+    "hanzi": "竟",
+    "existingJyutping": "ging2",
+    "status": "keep_existing",
+    "finalJyutping": "ging2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-779860a9f913",
+    "hanzi": "訴",
+    "existingJyutping": "sou3",
+    "status": "keep_existing",
+    "finalJyutping": "sou3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-77a0c88d4eac",
+    "hanzi": "詞",
+    "existingJyutping": "ci4",
+    "status": "keep_existing",
+    "finalJyutping": "ci4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-786d2af5912c",
+    "hanzi": "坑",
+    "existingJyutping": "haang1",
+    "status": "keep_existing",
+    "finalJyutping": "haang1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-78a0512ec7aa",
+    "hanzi": "透",
+    "existingJyutping": "tau3",
+    "status": "keep_existing",
+    "finalJyutping": "tau3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-78ce0b021c44",
+    "hanzi": "母",
+    "existingJyutping": "mou5",
+    "status": "keep_existing",
+    "finalJyutping": "mou5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-79064d8f759e",
+    "hanzi": "冊",
+    "existingJyutping": "caak3",
+    "status": "keep_existing",
+    "finalJyutping": "caak3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-793ca69fd695",
+    "hanzi": "螂",
+    "existingJyutping": "long4",
+    "status": "keep_existing",
+    "finalJyutping": "long4",
+    "reason": "Acceptable standalone reading in cantonese.",
+    "confidence": 0.88
+  },
+  {
+    "id": "auto-797daec620d6",
+    "hanzi": "判",
+    "existingJyutping": "pun3",
+    "status": "keep_existing",
+    "finalJyutping": "pun3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-79950b30309f",
+    "hanzi": "賴",
+    "existingJyutping": "laai6",
+    "status": "keep_existing",
+    "finalJyutping": "laai6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-79b38a8ca7b9",
+    "hanzi": "夫",
+    "existingJyutping": "fu1",
+    "status": "keep_existing",
+    "finalJyutping": "fu1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7a69225aa9a7",
+    "hanzi": "肝",
+    "existingJyutping": "gon1",
+    "status": "keep_existing",
+    "finalJyutping": "gon1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7a7d1dbce241",
+    "hanzi": "廊",
+    "existingJyutping": "long4",
+    "status": "keep_existing",
+    "finalJyutping": "long4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7a8a08a87847",
+    "hanzi": "引",
+    "existingJyutping": "jan5",
+    "status": "keep_existing",
+    "finalJyutping": "jan5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7b062e288fc7",
+    "hanzi": "狀",
+    "existingJyutping": "zong6",
+    "status": "keep_existing",
+    "finalJyutping": "zong6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7b40fc240cbe",
+    "hanzi": "復",
+    "existingJyutping": "fuk6",
+    "status": "keep_existing",
+    "finalJyutping": "fuk6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7bc1e4b27e80",
+    "hanzi": "怪",
+    "existingJyutping": "gwaai3",
+    "status": "keep_existing",
+    "finalJyutping": "gwaai3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7c0465d5fb90",
+    "hanzi": "駛",
+    "existingJyutping": "sai2",
+    "status": "keep_existing",
+    "finalJyutping": "sai2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7c80bd29962e",
+    "hanzi": "榮",
+    "existingJyutping": "wing4",
+    "status": "keep_existing",
+    "finalJyutping": "wing4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7c80e8a340ae",
+    "hanzi": "兼",
+    "existingJyutping": "gim1",
+    "status": "keep_existing",
+    "finalJyutping": "gim1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7c852e1d837c",
+    "hanzi": "车",
+    "existingJyutping": "ce1",
+    "status": "keep_existing",
+    "finalJyutping": "ce1",
+    "reason": "Standard cantonese reading for simplified 車.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7d55c8abbf7b",
+    "hanzi": "埃",
+    "existingJyutping": "oi1",
+    "status": "keep_existing",
+    "finalJyutping": "oi1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-7d7af2df7fe5",
+    "hanzi": "溜",
+    "existingJyutping": "lau1",
+    "status": "keep_existing",
+    "finalJyutping": "lau1",
+    "reason": "Acceptable common cantonese reading.",
+    "confidence": 0.9
+  },
+  {
+    "id": "auto-7da87f5554b8",
+    "hanzi": "淆",
+    "existingJyutping": "ngaau4",
+    "status": "keep_existing",
+    "finalJyutping": "ngaau4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7dbe873740c7",
+    "hanzi": "擦",
+    "existingJyutping": "caat3",
+    "status": "keep_existing",
+    "finalJyutping": "caat3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7dbf2f9b3b65",
+    "hanzi": "悲",
+    "existingJyutping": "bei1",
+    "status": "keep_existing",
+    "finalJyutping": "bei1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7e0b929aefc5",
+    "hanzi": "佛",
+    "existingJyutping": "fat6",
+    "status": "keep_existing",
+    "finalJyutping": "fat6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7e9f48d83827",
+    "hanzi": "仿",
+    "existingJyutping": "fong2",
+    "status": "keep_existing",
+    "finalJyutping": "fong2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7edfe55241e1",
+    "hanzi": "攪",
+    "existingJyutping": "gaau2",
+    "status": "keep_existing",
+    "finalJyutping": "gaau2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-7f739c40259c",
+    "hanzi": "眾",
+    "existingJyutping": "zung3",
+    "status": "keep_existing",
+    "finalJyutping": "zung3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-80192421e2d7",
+    "hanzi": "珍",
+    "existingJyutping": "zan1",
+    "status": "keep_existing",
+    "finalJyutping": "zan1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-807de926bfe8",
+    "hanzi": "悔",
+    "existingJyutping": "fui3",
+    "status": "keep_existing",
+    "finalJyutping": "fui3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-8086735b6242",
+    "hanzi": "粵",
+    "existingJyutping": "jyut6",
+    "status": "keep_existing",
+    "finalJyutping": "jyut6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-80e6fb1182b4",
+    "hanzi": "惠",
+    "existingJyutping": "wai6",
+    "status": "keep_existing",
+    "finalJyutping": "wai6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-811438c0ee85",
+    "hanzi": "故",
+    "existingJyutping": "gu3",
+    "status": "keep_existing",
+    "finalJyutping": "gu3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-811f90874adb",
+    "hanzi": "究",
+    "existingJyutping": "gau3",
+    "status": "keep_existing",
+    "finalJyutping": "gau3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-8189ef345512",
+    "hanzi": "叮",
+    "existingJyutping": "ding1",
+    "status": "keep_existing",
+    "finalJyutping": "ding1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-8268942825a4",
+    "hanzi": "吵",
+    "existingJyutping": "caau2",
+    "status": "keep_existing",
+    "finalJyutping": "caau2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-82d139b570bb",
+    "hanzi": "搖",
+    "existingJyutping": "jiu4",
+    "status": "keep_existing",
+    "finalJyutping": "jiu4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-82e2c395d499",
+    "hanzi": "捕",
+    "existingJyutping": "bou6",
+    "status": "keep_existing",
+    "finalJyutping": "bou6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-8368d89879f9",
+    "hanzi": "爲",
+    "existingJyutping": "wai4",
+    "status": "keep_existing",
+    "finalJyutping": "wai4",
+    "reason": "Standard cantonese reading for traditional 為.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-83708e28733a",
+    "hanzi": "制",
+    "existingJyutping": "zai3",
+    "status": "keep_existing",
+    "finalJyutping": "zai3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-838bb0eb5917",
+    "hanzi": "沉",
+    "existingJyutping": "cam4",
+    "status": "keep_existing",
+    "finalJyutping": "cam4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-83c1b15b593b",
+    "hanzi": "響",
+    "existingJyutping": "hoeng2",
+    "status": "keep_existing",
+    "finalJyutping": "hoeng2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-840fa49342f8",
+    "hanzi": "恐",
+    "existingJyutping": "hung2",
+    "status": "keep_existing",
+    "finalJyutping": "hung2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-846b2c68221a",
+    "hanzi": "選",
+    "existingJyutping": "syun2",
+    "status": "keep_existing",
+    "finalJyutping": "syun2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-8481effa10a7",
+    "hanzi": "耳",
+    "existingJyutping": "ji5",
+    "status": "keep_existing",
+    "finalJyutping": "ji5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-851b54bd81cb",
+    "hanzi": "籽",
+    "existingJyutping": "zi2",
+    "status": "keep_existing",
+    "finalJyutping": "zi2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-857d7add4dda",
+    "hanzi": "輛",
+    "existingJyutping": "loeng5",
+    "status": "keep_existing",
+    "finalJyutping": "loeng5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-85e5e0a82201",
+    "hanzi": "象",
+    "existingJyutping": "zoeng6",
+    "status": "keep_existing",
+    "finalJyutping": "zoeng6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-867939de0ea5",
+    "hanzi": "累",
+    "existingJyutping": "leoi6",
+    "status": "keep_existing",
+    "finalJyutping": "leoi6",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-867aa96f32f8",
+    "hanzi": "祈",
+    "existingJyutping": "kei4",
+    "status": "keep_existing",
+    "finalJyutping": "kei4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-869fd80b7f2f",
+    "hanzi": "吸",
+    "existingJyutping": "kap1",
+    "status": "keep_existing",
+    "finalJyutping": "kap1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-86f0dd3ebd24",
+    "hanzi": "殊",
+    "existingJyutping": "syu4",
+    "status": "keep_existing",
+    "finalJyutping": "syu4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-86f97df46e42",
+    "hanzi": "鹼",
+    "existingJyutping": "gaan2",
+    "status": "keep_existing",
+    "finalJyutping": "gaan2",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-8721e01b941b",
+    "hanzi": "黎",
+    "existingJyutping": "lai4",
+    "status": "keep_existing",
+    "finalJyutping": "lai4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-873c53142889",
+    "hanzi": "舞",
+    "existingJyutping": "mou5",
+    "status": "keep_existing",
+    "finalJyutping": "mou5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-87a94db45b3b",
+    "hanzi": "神",
+    "existingJyutping": "san4",
+    "status": "keep_existing",
+    "finalJyutping": "san4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-87dd7573c412",
+    "hanzi": "措",
+    "existingJyutping": "cou3",
+    "status": "keep_existing",
+    "finalJyutping": "cou3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-882ad273cf22",
+    "hanzi": "絲",
+    "existingJyutping": "si1",
+    "status": "keep_existing",
+    "finalJyutping": "si1",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-8857ed6880cc",
+    "hanzi": "敬",
+    "existingJyutping": "ging3",
+    "status": "keep_existing",
+    "finalJyutping": "ging3",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-88583a5ba07c",
+    "hanzi": "美",
+    "existingJyutping": "mei5",
+    "status": "keep_existing",
+    "finalJyutping": "mei5",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-886db1366ef5",
+    "hanzi": "痕",
+    "existingJyutping": "han4",
+    "status": "keep_existing",
+    "finalJyutping": "han4",
+    "reason": "Standard cantonese reading.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-afd09a85c114",
+    "hanzi": "碩",
+    "existingJyutping": "soek6",
+    "status": "keep_existing",
+    "finalJyutping": "soek6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-aff607792fce",
+    "hanzi": "縮",
+    "existingJyutping": "suk1",
+    "status": "keep_existing",
+    "finalJyutping": "suk1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b02e272d6419",
+    "hanzi": "簡",
+    "existingJyutping": "gaan2",
+    "status": "keep_existing",
+    "finalJyutping": "gaan2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b03ada325f7f",
+    "hanzi": "械",
+    "existingJyutping": "haai6",
+    "status": "keep_existing",
+    "finalJyutping": "haai6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b0bb39476b91",
+    "hanzi": "澄",
+    "existingJyutping": "cing4",
+    "status": "keep_existing",
+    "finalJyutping": "cing4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.97
+  },
+  {
+    "id": "auto-b0c3a3f503d1",
+    "hanzi": "司",
+    "existingJyutping": "si1",
+    "status": "keep_existing",
+    "finalJyutping": "si1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b0f7ac698c6a",
+    "hanzi": "局",
+    "existingJyutping": "guk6",
+    "status": "keep_existing",
+    "finalJyutping": "guk6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b12d5d1b1a28",
+    "hanzi": "腰",
+    "existingJyutping": "jiu1",
+    "status": "keep_existing",
+    "finalJyutping": "jiu1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b18f7e36ec09",
+    "hanzi": "納",
+    "existingJyutping": "naap6",
+    "status": "keep_existing",
+    "finalJyutping": "naap6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b19a24e17bbc",
+    "hanzi": "泡",
+    "existingJyutping": "paau3",
+    "status": "keep_existing",
+    "finalJyutping": "paau3",
+    "reason": "Learner-friendly Hong Kong Cantonese reading; keep existing.",
+    "confidence": 0.93
+  },
+  {
+    "id": "auto-b20268a217c3",
+    "hanzi": "際",
+    "existingJyutping": "zai3",
+    "status": "keep_existing",
+    "finalJyutping": "zai3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b25fa9ac2520",
+    "hanzi": "啄",
+    "existingJyutping": "doek3",
+    "status": "keep_existing",
+    "finalJyutping": "doek3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b28bd16d2ac5",
+    "hanzi": "豬",
+    "existingJyutping": "zyu1",
+    "status": "keep_existing",
+    "finalJyutping": "zyu1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b3ca41f9b018",
+    "hanzi": "諾",
+    "existingJyutping": "nok6",
+    "status": "keep_existing",
+    "finalJyutping": "nok6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b45adf09ab07",
+    "hanzi": "享",
+    "existingJyutping": "hoeng2",
+    "status": "keep_existing",
+    "finalJyutping": "hoeng2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b48e9d30fb4e",
+    "hanzi": "師",
+    "existingJyutping": "si1",
+    "status": "keep_existing",
+    "finalJyutping": "si1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b4a7bb16c059",
+    "hanzi": "致",
+    "existingJyutping": "zi3",
+    "status": "keep_existing",
+    "finalJyutping": "zi3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b4f7dfceada1",
+    "hanzi": "治",
+    "existingJyutping": "zi6",
+    "status": "keep_existing",
+    "finalJyutping": "zi6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b502f0a8ad22",
+    "hanzi": "閉",
+    "existingJyutping": "bai3",
+    "status": "keep_existing",
+    "finalJyutping": "bai3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b5140a9fc3b0",
+    "hanzi": "服",
+    "existingJyutping": "fuk6",
+    "status": "keep_existing",
+    "finalJyutping": "fuk6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b54b871d5bf0",
+    "hanzi": "護",
+    "existingJyutping": "wu6",
+    "status": "keep_existing",
+    "finalJyutping": "wu6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b563885f6e2f",
+    "hanzi": "夷",
+    "existingJyutping": "ji4",
+    "status": "keep_existing",
+    "finalJyutping": "ji4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-b58c20718bf4",
+    "hanzi": "巡",
+    "existingJyutping": "ceon4",
+    "status": "keep_existing",
+    "finalJyutping": "ceon4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b6dafd8f079d",
+    "hanzi": "絨",
+    "existingJyutping": "jung4",
+    "status": "keep_existing",
+    "finalJyutping": "jung4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b705e4c06ab7",
+    "hanzi": "餘",
+    "existingJyutping": "jyu4",
+    "status": "keep_existing",
+    "finalJyutping": "jyu4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b74953770a33",
+    "hanzi": "硫",
+    "existingJyutping": "lau4",
+    "status": "keep_existing",
+    "finalJyutping": "lau4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b7b486b7b1dc",
+    "hanzi": "繩",
+    "existingJyutping": "sing4",
+    "status": "keep_existing",
+    "finalJyutping": "sing4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b7d6ad71261c",
+    "hanzi": "猛",
+    "existingJyutping": "maang5",
+    "status": "keep_existing",
+    "finalJyutping": "maang5",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b7fd12789fff",
+    "hanzi": "較",
+    "existingJyutping": "gaau3",
+    "status": "keep_existing",
+    "finalJyutping": "gaau3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b80271ccf4b9",
+    "hanzi": "蘸",
+    "existingJyutping": "zaam3",
+    "status": "keep_existing",
+    "finalJyutping": "zaam3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b85ea94b5b4a",
+    "hanzi": "疫",
+    "existingJyutping": "jik6",
+    "status": "keep_existing",
+    "finalJyutping": "jik6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b88bfb8adc54",
+    "hanzi": "爺",
+    "existingJyutping": "je4",
+    "status": "keep_existing",
+    "finalJyutping": "je4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b8ea9f0e5dbb",
+    "hanzi": "慘",
+    "existingJyutping": "caam2",
+    "status": "keep_existing",
+    "finalJyutping": "caam2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b8ee3f70dcaa",
+    "hanzi": "邀",
+    "existingJyutping": "jiu1",
+    "status": "keep_existing",
+    "finalJyutping": "jiu1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b911875904c6",
+    "hanzi": "飄",
+    "existingJyutping": "piu1",
+    "status": "keep_existing",
+    "finalJyutping": "piu1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b923a8dc3cf7",
+    "hanzi": "飾",
+    "existingJyutping": "sik1",
+    "status": "keep_existing",
+    "finalJyutping": "sik1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b93c279d5747",
+    "hanzi": "憑",
+    "existingJyutping": "pang4",
+    "status": "keep_existing",
+    "finalJyutping": "pang4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b96eff336973",
+    "hanzi": "證",
+    "existingJyutping": "zing3",
+    "status": "keep_existing",
+    "finalJyutping": "zing3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-b97f23cf7fdb",
+    "hanzi": "喱",
+    "existingJyutping": "lei1",
+    "status": "keep_existing",
+    "finalJyutping": "lei1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-b9ab27b66e0a",
+    "hanzi": "囑",
+    "existingJyutping": "zuk1",
+    "status": "keep_existing",
+    "finalJyutping": "zuk1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ba5e508fd01f",
+    "hanzi": "醫",
+    "existingJyutping": "ji1",
+    "status": "keep_existing",
+    "finalJyutping": "ji1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ba96bf8c2982",
+    "hanzi": "藍",
+    "existingJyutping": "laam4",
+    "status": "keep_existing",
+    "finalJyutping": "laam4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-baf3298273a6",
+    "hanzi": "陷",
+    "existingJyutping": "haam6",
+    "status": "keep_existing",
+    "finalJyutping": "haam6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bb34897e6d6a",
+    "hanzi": "晃",
+    "existingJyutping": "fong2",
+    "status": "keep_existing",
+    "finalJyutping": "fong2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.93
+  },
+  {
+    "id": "auto-bb51caea3496",
+    "hanzi": "螢",
+    "existingJyutping": "jing4",
+    "status": "keep_existing",
+    "finalJyutping": "jing4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.96
+  },
+  {
+    "id": "auto-bbbf0d01f225",
+    "hanzi": "招",
+    "existingJyutping": "ziu1",
+    "status": "keep_existing",
+    "finalJyutping": "ziu1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bbc2a0520ca0",
+    "hanzi": "此",
+    "existingJyutping": "ci2",
+    "status": "keep_existing",
+    "finalJyutping": "ci2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bc30bf6b96de",
+    "hanzi": "止",
+    "existingJyutping": "zi2",
+    "status": "keep_existing",
+    "finalJyutping": "zi2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bcaae47837aa",
+    "hanzi": "散",
+    "existingJyutping": "saan3",
+    "status": "keep_existing",
+    "finalJyutping": "saan3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bcef6376cf06",
+    "hanzi": "層",
+    "existingJyutping": "cang4",
+    "status": "keep_existing",
+    "finalJyutping": "cang4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bd438ea94d33",
+    "hanzi": "晾",
+    "existingJyutping": "loeng6",
+    "status": "keep_existing",
+    "finalJyutping": "loeng6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bd55ff5ff352",
+    "hanzi": "侵",
+    "existingJyutping": "cam1",
+    "status": "keep_existing",
+    "finalJyutping": "cam1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bd72f9ef4bf0",
+    "hanzi": "咭",
+    "existingJyutping": "kat1",
+    "status": "keep_existing",
+    "finalJyutping": "kat1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bd8dd3270578",
+    "hanzi": "歪",
+    "existingJyutping": "waai1",
+    "status": "keep_existing",
+    "finalJyutping": "waai1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bdb67d8cfde6",
+    "hanzi": "闊",
+    "existingJyutping": "fut3",
+    "status": "keep_existing",
+    "finalJyutping": "fut3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bdf70b2bec5d",
+    "hanzi": "刮",
+    "existingJyutping": "gwaat3",
+    "status": "keep_existing",
+    "finalJyutping": "gwaat3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-be04bcfb3389",
+    "hanzi": "荷",
+    "existingJyutping": "ho4",
+    "status": "keep_existing",
+    "finalJyutping": "ho4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-be706b81627d",
+    "hanzi": "批",
+    "existingJyutping": "pai1",
+    "status": "keep_existing",
+    "finalJyutping": "pai1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-be91992430f6",
+    "hanzi": "緻",
+    "existingJyutping": "zi3",
+    "status": "keep_existing",
+    "finalJyutping": "zi3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-be9a473ef7c3",
+    "hanzi": "附",
+    "existingJyutping": "fu6",
+    "status": "keep_existing",
+    "finalJyutping": "fu6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-be9eae2ba7bc",
+    "hanzi": "賞",
+    "existingJyutping": "soeng2",
+    "status": "keep_existing",
+    "finalJyutping": "soeng2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bea0dc897011",
+    "hanzi": "殺",
+    "existingJyutping": "saat3",
+    "status": "keep_existing",
+    "finalJyutping": "saat3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-beba537ece11",
+    "hanzi": "澡",
+    "existingJyutping": "zou2",
+    "status": "keep_existing",
+    "finalJyutping": "zou2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bef21932fe01",
+    "hanzi": "通",
+    "existingJyutping": "tung1",
+    "status": "keep_existing",
+    "finalJyutping": "tung1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bf49f96bb17b",
+    "hanzi": "俐",
+    "existingJyutping": "lei6",
+    "status": "keep_existing",
+    "finalJyutping": "lei6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-bf9b3e9c32c4",
+    "hanzi": "牛",
+    "existingJyutping": "ngau4",
+    "status": "keep_existing",
+    "finalJyutping": "ngau4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-bfb7267ecf2c",
+    "hanzi": "伸",
+    "existingJyutping": "san1",
+    "status": "keep_existing",
+    "finalJyutping": "san1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c010838dd8fa",
+    "hanzi": "灰",
+    "existingJyutping": "fui1",
+    "status": "keep_existing",
+    "finalJyutping": "fui1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c04a99181760",
+    "hanzi": "剔",
+    "existingJyutping": "tik1",
+    "status": "keep_existing",
+    "finalJyutping": "tik1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c05247fc6c51",
+    "hanzi": "賓",
+    "existingJyutping": "ban1",
+    "status": "keep_existing",
+    "finalJyutping": "ban1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c055c88f4671",
+    "hanzi": "傅",
+    "existingJyutping": "fu6",
+    "status": "keep_existing",
+    "finalJyutping": "fu6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c10bb787d211",
+    "hanzi": "撳",
+    "existingJyutping": "gam2",
+    "status": "keep_existing",
+    "finalJyutping": "gam2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c14905ca86df",
+    "hanzi": "睡",
+    "existingJyutping": "seoi6",
+    "status": "keep_existing",
+    "finalJyutping": "seoi6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c1c72485f326",
+    "hanzi": "悉",
+    "existingJyutping": "sat1",
+    "status": "keep_existing",
+    "finalJyutping": "sat1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c1ca361b8b0e",
+    "hanzi": "熄",
+    "existingJyutping": "sik1",
+    "status": "keep_existing",
+    "finalJyutping": "sik1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c2379799d54f",
+    "hanzi": "奇",
+    "existingJyutping": "kei4",
+    "status": "keep_existing",
+    "finalJyutping": "kei4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c295a9ec2f06",
+    "hanzi": "災",
+    "existingJyutping": "zoi1",
+    "status": "keep_existing",
+    "finalJyutping": "zoi1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c31ca5e175b2",
+    "hanzi": "寶",
+    "existingJyutping": "bou2",
+    "status": "keep_existing",
+    "finalJyutping": "bou2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c359f2b18393",
+    "hanzi": "亦",
+    "existingJyutping": "jik6",
+    "status": "keep_existing",
+    "finalJyutping": "jik6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c3f84956e8d3",
+    "hanzi": "殖",
+    "existingJyutping": "zik6",
+    "status": "keep_existing",
+    "finalJyutping": "zik6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c419cc153b9a",
+    "hanzi": "鎚",
+    "existingJyutping": "ceoi4",
+    "status": "keep_existing",
+    "finalJyutping": "ceoi4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.94
+  },
+  {
+    "id": "auto-c55731c217c5",
+    "hanzi": "仍",
+    "existingJyutping": "jing4",
+    "status": "keep_existing",
+    "finalJyutping": "jing4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c5a8f40bc028",
+    "hanzi": "里",
+    "existingJyutping": "lei5",
+    "status": "keep_existing",
+    "finalJyutping": "lei5",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c5ac905befe1",
+    "hanzi": "瘡",
+    "existingJyutping": "cong1",
+    "status": "keep_existing",
+    "finalJyutping": "cong1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c5b36f6bc2c7",
+    "hanzi": "靈",
+    "existingJyutping": "ling4",
+    "status": "keep_existing",
+    "finalJyutping": "ling4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c67a1f44d0c1",
+    "hanzi": "枯",
+    "existingJyutping": "fu1",
+    "status": "keep_existing",
+    "finalJyutping": "fu1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c6a2d6af2f00",
+    "hanzi": "婿",
+    "existingJyutping": "sai3",
+    "status": "keep_existing",
+    "finalJyutping": "sai3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c6c4eea937ef",
+    "hanzi": "屯",
+    "existingJyutping": "tyun4",
+    "status": "keep_existing",
+    "finalJyutping": "tyun4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c73ba16a5f28",
+    "hanzi": "裂",
+    "existingJyutping": "lit6",
+    "status": "keep_existing",
+    "finalJyutping": "lit6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c73cfc42e71f",
+    "hanzi": "槽",
+    "existingJyutping": "cou4",
+    "status": "keep_existing",
+    "finalJyutping": "cou4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c77427d30206",
+    "hanzi": "黐",
+    "existingJyutping": "ci1",
+    "status": "keep_existing",
+    "finalJyutping": "ci1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c7927698a75c",
+    "hanzi": "福",
+    "existingJyutping": "fuk1",
+    "status": "keep_existing",
+    "finalJyutping": "fuk1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c7b16c7c468c",
+    "hanzi": "王",
+    "existingJyutping": "wong4",
+    "status": "keep_existing",
+    "finalJyutping": "wong4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c855b53e5580",
+    "hanzi": "以",
+    "existingJyutping": "ji5",
+    "status": "keep_existing",
+    "finalJyutping": "ji5",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c865b5b0bc00",
+    "hanzi": "段",
+    "existingJyutping": "dyun6",
+    "status": "keep_existing",
+    "finalJyutping": "dyun6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c867c3e4276e",
+    "hanzi": "逢",
+    "existingJyutping": "fung4",
+    "status": "keep_existing",
+    "finalJyutping": "fung4",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c884d5bf7f93",
+    "hanzi": "奧",
+    "existingJyutping": "ou3",
+    "status": "keep_existing",
+    "finalJyutping": "ou3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c937af97a948",
+    "hanzi": "政",
+    "existingJyutping": "zing3",
+    "status": "keep_existing",
+    "finalJyutping": "zing3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-c96fd61666af",
+    "hanzi": "趁",
+    "existingJyutping": "can3",
+    "status": "keep_existing",
+    "finalJyutping": "can3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ca1d12f25fb6",
+    "hanzi": "撕",
+    "existingJyutping": "si1",
+    "status": "keep_existing",
+    "finalJyutping": "si1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ca1df3c4ff83",
+    "hanzi": "譜",
+    "existingJyutping": "pou2",
+    "status": "keep_existing",
+    "finalJyutping": "pou2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ca305877dbda",
+    "hanzi": "鏽",
+    "existingJyutping": "sau3",
+    "status": "keep_existing",
+    "finalJyutping": "sau3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ca49e01ddf43",
+    "hanzi": "差",
+    "existingJyutping": "caa1",
+    "status": "keep_existing",
+    "finalJyutping": "caa1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-caabedc353b4",
+    "hanzi": "倉",
+    "existingJyutping": "cong1",
+    "status": "keep_existing",
+    "finalJyutping": "cong1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-caeaea172648",
+    "hanzi": "經",
+    "existingJyutping": "ging1",
+    "status": "keep_existing",
+    "finalJyutping": "ging1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-caf3447b27cc",
+    "hanzi": "亮",
+    "existingJyutping": "loeng6",
+    "status": "keep_existing",
+    "finalJyutping": "loeng6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cb6d35842549",
+    "hanzi": "衣",
+    "existingJyutping": "ji1",
+    "status": "keep_existing",
+    "finalJyutping": "ji1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cb76c11dabd4",
+    "hanzi": "管",
+    "existingJyutping": "gun2",
+    "status": "keep_existing",
+    "finalJyutping": "gun2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cbc51f1ccd3e",
+    "hanzi": "拜",
+    "existingJyutping": "baai3",
+    "status": "keep_existing",
+    "finalJyutping": "baai3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cbd692ee2c72",
+    "hanzi": "餒",
+    "existingJyutping": "neoi5",
+    "status": "keep_existing",
+    "finalJyutping": "neoi5",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cbda0e68669c",
+    "hanzi": "血",
+    "existingJyutping": "hyut3",
+    "status": "keep_existing",
+    "finalJyutping": "hyut3",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ccd32ac29607",
+    "hanzi": "築",
+    "existingJyutping": "zuk1",
+    "status": "keep_existing",
+    "finalJyutping": "zuk1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cce50af7893a",
+    "hanzi": "警",
+    "existingJyutping": "ging2",
+    "status": "keep_existing",
+    "finalJyutping": "ging2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cd0bd6a68bf9",
+    "hanzi": "罪",
+    "existingJyutping": "zeoi6",
+    "status": "keep_existing",
+    "finalJyutping": "zeoi6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cd6d2710c98d",
+    "hanzi": "餃",
+    "existingJyutping": "gaau2",
+    "status": "keep_existing",
+    "finalJyutping": "gaau2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cdb1d49b8e77",
+    "hanzi": "可",
+    "existingJyutping": "ho2",
+    "status": "keep_existing",
+    "finalJyutping": "ho2",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-ce0a21de8541",
+    "hanzi": "夏",
+    "existingJyutping": "haa6",
+    "status": "keep_existing",
+    "finalJyutping": "haa6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cf03c2f52bc7",
+    "hanzi": "往",
+    "existingJyutping": "wong5",
+    "status": "keep_existing",
+    "finalJyutping": "wong5",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cf18c242752b",
+    "hanzi": "劇",
+    "existingJyutping": "kek6",
+    "status": "keep_existing",
+    "finalJyutping": "kek6",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-cfb7d38956c8",
+    "hanzi": "規",
+    "existingJyutping": "kwai1",
+    "status": "keep_existing",
+    "finalJyutping": "kwai1",
+    "reason": "Standard Cantonese reading; keep existing.",
+    "confidence": 0.99
+  },
+  {
+    "id": "auto-d7a8c1e4b259",
+    "hanzi": "咪",
+    "existingJyutping": "mai5",
+    "status": "corrected",
+    "finalJyutping": "mai1",
+    "reason": "Common standalone Cantonese reading of 咪 is mai1; mai5 is not the standard learner-friendly pronunciation.",
+    "confidence": 0.98
+  },
+  {
+    "id": "auto-e8b3d1f7a420",
+    "hanzi": "螫",
+    "existingJyutping": "sik1",
+    "status": "keep_existing",
+    "finalJyutping": "sik1",
+    "reason": "sik1 is a plausible standard Cantonese reading for 螫 and is acceptable for learner use.",
+    "confidence": 0.87
+  }
+]

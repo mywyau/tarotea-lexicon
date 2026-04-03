@@ -11,7 +11,7 @@ from openai import OpenAI
 # Config
 # ----------------------------
 INPUT_PATH = Path(os.getenv("INPUT_PATH", "./lexicon/lexicon-build/lexicon-map.json")).resolve()
-OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./lexicon/audit-output")).resolve()
+OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "./lexicon/audit-batch-output")).resolve()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4-mini")
@@ -19,7 +19,15 @@ OPENAI_REASONING_EFFORT = os.getenv("OPENAI_REASONING_EFFORT", "medium")
 MAX_OUTPUT_TOKENS = int(os.getenv("MAX_OUTPUT_TOKENS", "8000"))
 
 CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "120"))
-SLEEP_SECONDS = float(os.getenv("SLEEP_SECONDS", "0.2"))
+POLL_SECONDS = int(os.getenv("POLL_SECONDS", "20"))
+COMPLETION_WINDOW = os.getenv("COMPLETION_WINDOW", "24h")
+
+AUTO_KEEP_MANUAL_REVIEW_MIN_CONFIDENCE = float(
+    os.getenv("AUTO_KEEP_MANUAL_REVIEW_MIN_CONFIDENCE", "0.60")
+)
+AUTO_ACCEPT_CORRECTED_MIN_CONFIDENCE = float(
+    os.getenv("AUTO_ACCEPT_CORRECTED_MIN_CONFIDENCE", "0.75")
+)
 
 if not OPENAI_API_KEY:
     raise RuntimeError("Missing OPENAI_API_KEY")
@@ -31,27 +39,25 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 # ----------------------------
 SYSTEM_PROMPT = (
     "You are auditing a Cantonese learner lexicon.\n\n"
-    "You will receive a batch of lexicon entries. Each entry includes:\n"
+    "Each entry contains:\n"
     "- id\n"
     "- hanzi\n"
     "- existingJyutping\n\n"
-    "Your task:\n"
-    "Review each entry and decide whether the current jyutping looks acceptable.\n\n"
-    "Rules:\n"
-    "- Focus on standard Hong Kong Cantonese learner-friendly Jyutping.\n"
+    "Your task is to decide the best learner-friendly Hong Kong Cantonese Jyutping for each entry.\n\n"
+    "Important decision policy:\n"
+    "- Prefer making a decision rather than escalating.\n"
+    "- If the existing jyutping is plausible and standard enough, keep it.\n"
+    "- If the existing jyutping is likely wrong, provide a corrected jyutping.\n"
+    "- For single-character entries, prefer the most common standalone learner-friendly reading.\n"
+    "- Only use manual_review when the text is corrupted, non-Chinese, or genuinely impossible to resolve confidently.\n"
+    "- Do not overuse manual_review.\n"
     "- Use lowercase letters, tones 1-6, and spaces between syllables.\n"
-    "- If the existing jyutping looks fine, keep it.\n"
-    "- If it looks wrong and you are reasonably confident, suggest a corrected jyutping.\n"
-    "- If the entry is not meaningful Chinese lexicon content (e.g. Latin letters, punctuation, corrupted text), mark it non_chinese.\n"
-    "- If the entry is Chinese but too ambiguous or uncertain, mark it needs_manual_review.\n"
-    "- Do not invent meanings.\n"
     "- Return strict JSON only.\n\n"
-    "Statuses:\n"
-    "- ok\n"
-    "- suspicious\n"
-    "- duplicate_conflict\n"
+    "Allowed statuses:\n"
+    "- keep_existing\n"
+    "- corrected\n"
     "- non_chinese\n"
-    "- needs_manual_review\n"
+    "- manual_review\n"
 )
 
 AUDIT_SCHEMA = {
@@ -72,14 +78,13 @@ AUDIT_SCHEMA = {
                     "status": {
                         "type": "string",
                         "enum": [
-                            "ok",
-                            "suspicious",
-                            "duplicate_conflict",
+                            "keep_existing",
+                            "corrected",
                             "non_chinese",
-                            "needs_manual_review",
+                            "manual_review",
                         ],
                     },
-                    "suggestedJyutping": {
+                    "finalJyutping": {
                         "anyOf": [{"type": "string"}, {"type": "null"}]
                     },
                     "reason": {"type": "string"},
@@ -90,7 +95,7 @@ AUDIT_SCHEMA = {
                     "hanzi",
                     "existingJyutping",
                     "status",
-                    "suggestedJyutping",
+                    "finalJyutping",
                     "reason",
                     "confidence",
                 ],
@@ -118,6 +123,12 @@ def normalize_jyutping(value: str | None) -> str:
     if not value:
         return ""
     return WHITESPACE_RE.sub(" ", value.strip().lower())
+
+
+def normalize_reason(value: str | None) -> str:
+    if not value:
+        return ""
+    return WHITESPACE_RE.sub(" ", value.strip())
 
 
 def is_plausible_jyutping(value: str | None) -> bool:
@@ -174,10 +185,13 @@ def load_entries(path: Path) -> list[dict[str, Any]]:
         for entry_id, value in raw.items():
             if not isinstance(entry_id, str) or not isinstance(value, dict):
                 continue
+
             hanzi = normalize_hanzi(value.get("hanzi"))
             jyutping = normalize_jyutping(value.get("jyutping"))
+
             if not hanzi:
                 continue
+
             entries.append({
                 "id": entry_id,
                 "hanzi": hanzi,
@@ -189,11 +203,14 @@ def load_entries(path: Path) -> list[dict[str, Any]]:
         for item in raw:
             if not isinstance(item, dict):
                 continue
+
             entry_id = item.get("id")
             hanzi = normalize_hanzi(item.get("hanzi"))
             jyutping = normalize_jyutping(item.get("jyutping"))
+
             if not isinstance(entry_id, str) or not hanzi:
                 continue
+
             entries.append({
                 "id": entry_id,
                 "hanzi": hanzi,
@@ -202,24 +219,6 @@ def load_entries(path: Path) -> list[dict[str, Any]]:
         return entries
 
     raise RuntimeError("Unsupported lexicon JSON shape")
-
-
-def extract_output_text_from_response(response: Any) -> str:
-    output_text = getattr(response, "output_text", None)
-    if isinstance(output_text, str) and output_text.strip():
-        return output_text
-
-    chunks: list[str] = []
-    for item in getattr(response, "output", []) or []:
-        if getattr(item, "type", None) != "message":
-            continue
-        for part in getattr(item, "content", []) or []:
-            if getattr(part, "type", None) == "output_text":
-                text = getattr(part, "text", None)
-                if isinstance(text, str):
-                    chunks.append(text)
-
-    return "".join(chunks).strip()
 
 
 def build_request_payload(chunk: list[dict[str, Any]]) -> dict[str, Any]:
@@ -235,40 +234,9 @@ def build_request_payload(chunk: list[dict[str, Any]]) -> dict[str, Any]:
     }
 
 
-def audit_chunk(chunk: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    payload = build_request_payload(chunk)
-
-    response = client.responses.create(
-        model=OPENAI_MODEL,
-        reasoning={"effort": OPENAI_REASONING_EFFORT},
-        max_output_tokens=MAX_OUTPUT_TOKENS,
-        input=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": json.dumps(payload, ensure_ascii=False, indent=2)},
-        ],
-        text={
-            "format": {
-                "type": "json_schema",
-                "name": "lexicon_audit",
-                "strict": True,
-                "schema": AUDIT_SCHEMA,
-            }
-        },
-    )
-
-    output_text = extract_output_text_from_response(response)
-    if not output_text:
-        raise RuntimeError("Empty model response")
-
-    parsed = json.loads(output_text)
-    returned_entries = parsed.get("entries")
-    if not isinstance(returned_entries, list):
-        raise RuntimeError("Model response missing entries array")
-
-    return returned_entries
-
-
-def prefilter_obvious_noise(entries: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+def prefilter_obvious_noise(
+    entries: list[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     clean: list[dict[str, Any]] = []
     obvious_noise: list[dict[str, Any]] = []
 
@@ -282,7 +250,7 @@ def prefilter_obvious_noise(entries: list[dict[str, Any]]) -> tuple[list[dict[st
                 "hanzi": hanzi,
                 "existingJyutping": jyutping,
                 "status": "non_chinese",
-                "suggestedJyutping": None,
+                "finalJyutping": None,
                 "reason": "No CJK Hanzi detected in entry",
                 "confidence": 1.0,
             })
@@ -291,6 +259,90 @@ def prefilter_obvious_noise(entries: list[dict[str, Any]]) -> tuple[list[dict[st
         clean.append(entry)
 
     return clean, obvious_noise
+
+
+def validate_model_row(row: dict[str, Any]) -> dict[str, Any]:
+    normalized = dict(row)
+
+    normalized["id"] = normalized.get("id")
+    normalized["hanzi"] = normalize_hanzi(normalized.get("hanzi"))
+    normalized["existingJyutping"] = normalize_jyutping(normalized.get("existingJyutping")) or None
+    normalized["finalJyutping"] = normalize_jyutping(normalized.get("finalJyutping")) or None
+    normalized["reason"] = normalize_reason(normalized.get("reason"))
+
+    status = normalized.get("status")
+    hanzi = normalized.get("hanzi")
+    existing = normalized.get("existingJyutping")
+    final = normalized.get("finalJyutping")
+
+    try:
+        normalized["confidence"] = float(normalized.get("confidence", 0.0) or 0.0)
+    except Exception:
+        normalized["confidence"] = 0.0
+
+    if status not in {"keep_existing", "corrected", "non_chinese", "manual_review"}:
+        normalized["status"] = "manual_review"
+        normalized["finalJyutping"] = existing
+        normalized["reason"] = f"Invalid status returned by model: {status}"
+        normalized["confidence"] = 0.0
+        return normalized
+
+    if status != "non_chinese" and not is_chinese_like(hanzi):
+        normalized["status"] = "non_chinese"
+        normalized["finalJyutping"] = None
+        normalized["reason"] = "No CJK Hanzi detected in entry"
+        normalized["confidence"] = 1.0
+        return normalized
+
+    if status in {"keep_existing", "corrected"}:
+        if not final or not is_plausible_jyutping(final):
+            normalized["status"] = "manual_review"
+            normalized["finalJyutping"] = existing
+            normalized["reason"] = f"Invalid finalJyutping format from model: {final}"
+            normalized["confidence"] = 0.0
+            return normalized
+
+    if status == "keep_existing" and existing and final and existing != final:
+        normalized["status"] = "corrected"
+        normalized["reason"] = normalized["reason"] or "Model changed jyutping, so row was treated as corrected."
+
+    if status == "corrected" and existing and final and existing == final:
+        normalized["status"] = "keep_existing"
+        normalized["reason"] = normalized["reason"] or "Model returned same jyutping, so row was treated as keep_existing."
+
+    if status == "non_chinese":
+        normalized["finalJyutping"] = None
+
+    return normalized
+
+
+def soften_manual_review(row: dict[str, Any]) -> dict[str, Any]:
+    softened = dict(row)
+
+    status = softened.get("status")
+    existing = normalize_jyutping(softened.get("existingJyutping")) or None
+    final = normalize_jyutping(softened.get("finalJyutping")) or None
+    confidence = float(softened.get("confidence", 0.0) or 0.0)
+
+    if status == "manual_review":
+        if existing and is_plausible_jyutping(existing) and confidence >= AUTO_KEEP_MANUAL_REVIEW_MIN_CONFIDENCE:
+            softened["status"] = "keep_existing"
+            softened["finalJyutping"] = existing
+            softened["reason"] = (
+                f"Auto-kept existing jyutping after validation. Original reason: {softened.get('reason', '')}"
+            ).strip()
+
+    elif status == "corrected":
+        if final and is_plausible_jyutping(final) and confidence >= AUTO_ACCEPT_CORRECTED_MIN_CONFIDENCE:
+            pass
+        elif not final or not is_plausible_jyutping(final):
+            softened["status"] = "manual_review"
+            softened["finalJyutping"] = existing
+            softened["reason"] = (
+                f"Correction failed post-validation. Original reason: {softened.get('reason', '')}"
+            ).strip()
+
+    return softened
 
 
 def build_fixed_lexicon_map_and_remap(
@@ -307,7 +359,6 @@ def build_fixed_lexicon_map_and_remap(
     fixed_map: dict[str, dict[str, str]] = {}
     remap: list[dict[str, str]] = []
 
-    # Reserve existing non-auto ids first
     for entry in original_entries:
         entry_id = entry["id"]
         if not is_auto_id(entry_id):
@@ -320,8 +371,7 @@ def build_fixed_lexicon_map_and_remap(
 
         audit = audit_by_id.get(old_id, {})
         status = audit.get("status")
-        suggested = normalize_jyutping(audit.get("suggestedJyutping"))
-        final_jyutping = suggested or existing_jyutping
+        final_jyutping = normalize_jyutping(audit.get("finalJyutping")) or existing_jyutping
 
         if status == "non_chinese":
             continue
@@ -352,6 +402,208 @@ def build_fixed_lexicon_map_and_remap(
     return fixed_map, remap
 
 
+# ----------------------------
+# Batch helpers
+# ----------------------------
+def build_batch_request_line(chunk: list[dict[str, Any]], chunk_index: int) -> dict[str, Any]:
+    payload = build_request_payload(chunk)
+    custom_id = f"chunk-{chunk_index:05d}"
+
+    return {
+        "custom_id": custom_id,
+        "method": "POST",
+        "url": "/v1/responses",
+        "body": {
+            "model": OPENAI_MODEL,
+            "reasoning": {"effort": OPENAI_REASONING_EFFORT},
+            "max_output_tokens": MAX_OUTPUT_TOKENS,
+            "input": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": json.dumps(payload, ensure_ascii=False, indent=2)},
+            ],
+            "text": {
+                "format": {
+                    "type": "json_schema",
+                    "name": "lexicon_audit",
+                    "strict": True,
+                    "schema": AUDIT_SCHEMA,
+                }
+            },
+        },
+    }
+
+
+def write_batch_jsonl(chunks: list[list[dict[str, Any]]], path: Path) -> None:
+    with path.open("w", encoding="utf-8") as f:
+        for idx, chunk in enumerate(chunks, start=1):
+            line = build_batch_request_line(chunk, idx)
+            f.write(json.dumps(line, ensure_ascii=False) + "\n")
+
+
+def upload_batch_input_file(path: Path) -> str:
+    with path.open("rb") as f:
+        uploaded = client.files.create(file=f, purpose="batch")
+    return uploaded.id
+
+
+def create_batch_job(input_file_id: str) -> Any:
+    return client.batches.create(
+        input_file_id=input_file_id,
+        endpoint="/v1/responses",
+        completion_window=COMPLETION_WINDOW,
+        metadata={
+            "job": "lexicon_audit",
+            "model": OPENAI_MODEL,
+        },
+    )
+
+
+def poll_batch(batch_id: str) -> Any:
+    while True:
+        batch = client.batches.retrieve(batch_id)
+        status = batch.status
+        counts = getattr(batch, "request_counts", None)
+
+        completed = getattr(counts, "completed", None) if counts else None
+        failed = getattr(counts, "failed", None) if counts else None
+        total = getattr(counts, "total", None) if counts else None
+
+        print(
+            f"Batch {batch_id}: status={status}, "
+            f"completed={completed}, failed={failed}, total={total}"
+        )
+
+        if status in {"completed", "failed", "expired", "cancelled"}:
+            return batch
+
+        time.sleep(POLL_SECONDS)
+
+
+def download_file_text(file_id: str, path: Path) -> str:
+    content = client.files.content(file_id)
+    text = content.text
+    path.write_text(text, encoding="utf-8")
+    return text
+
+
+def extract_output_text_from_batch_response_body(response_body: dict[str, Any]) -> str:
+    output_text = response_body.get("output_text")
+    if isinstance(output_text, str) and output_text.strip():
+        return output_text
+
+    chunks: list[str] = []
+    for item in response_body.get("output", []) or []:
+        if item.get("type") != "message":
+            continue
+        for part in item.get("content", []) or []:
+            if part.get("type") == "output_text":
+                text = part.get("text")
+                if isinstance(text, str):
+                    chunks.append(text)
+
+    return "".join(chunks).strip()
+
+
+def parse_batch_output_file(output_text: str, chunk_count: int) -> dict[str, list[dict[str, Any]]]:
+    rows_by_custom_id: dict[str, list[dict[str, Any]]] = {}
+
+    for line in output_text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+
+        item = json.loads(line)
+        custom_id = item.get("custom_id")
+        response = item.get("response", {})
+        body = response.get("body", {})
+
+        model_text = extract_output_text_from_batch_response_body(body)
+        if not model_text:
+            raise RuntimeError(f"Missing output_text for batch item {custom_id}")
+
+        parsed = json.loads(model_text)
+        entries = parsed.get("entries")
+        if not isinstance(entries, list):
+            raise RuntimeError(f"Batch item {custom_id} missing entries array")
+
+        rows_by_custom_id[custom_id] = entries
+
+    expected_ids = {f"chunk-{i:05d}" for i in range(1, chunk_count + 1)}
+    missing = sorted(expected_ids - set(rows_by_custom_id.keys()))
+    if missing:
+        raise RuntimeError(f"Missing completed batch results for chunks: {missing[:10]}")
+
+    return rows_by_custom_id
+
+
+def parse_batch_error_file(error_text: str) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for line in error_text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        rows.append(json.loads(line))
+    return rows
+
+
+def chunk_fallback_rows(chunk: list[dict[str, Any]], reason: str) -> list[dict[str, Any]]:
+    return [
+        {
+            "id": entry["id"],
+            "hanzi": entry["hanzi"],
+            "existingJyutping": entry.get("existingJyutping"),
+            "status": "manual_review",
+            "finalJyutping": entry.get("existingJyutping"),
+            "reason": reason,
+            "confidence": 0.0,
+        }
+        for entry in chunk
+    ]
+
+
+def build_results_from_batch(
+    chunks: list[list[dict[str, Any]]],
+    rows_by_custom_id: dict[str, list[dict[str, Any]]],
+    batch_errors: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    error_by_custom_id: dict[str, dict[str, Any]] = {}
+    for row in batch_errors:
+        custom_id = row.get("custom_id")
+        if isinstance(custom_id, str):
+            error_by_custom_id[custom_id] = row
+
+    all_results: list[dict[str, Any]] = []
+
+    for idx, chunk in enumerate(chunks, start=1):
+        custom_id = f"chunk-{idx:05d}"
+
+        if custom_id in error_by_custom_id:
+            err = error_by_custom_id[custom_id]
+            message = json.dumps(err, ensure_ascii=False)
+            all_results.extend(chunk_fallback_rows(chunk, f"Batch item failed: {message}"))
+            continue
+
+        returned_rows = rows_by_custom_id.get(custom_id)
+        if returned_rows is None:
+            all_results.extend(chunk_fallback_rows(chunk, "Batch item missing from output"))
+            continue
+
+        if len(returned_rows) != len(chunk):
+            all_results.extend(
+                chunk_fallback_rows(
+                    chunk,
+                    f"Batch item returned {len(returned_rows)} rows for chunk of {len(chunk)}",
+                )
+            )
+            continue
+
+        validated_rows = [validate_model_row(row) for row in returned_rows]
+        softened_rows = [soften_manual_review(row) for row in validated_rows]
+        all_results.extend(softened_rows)
+
+    return all_results
+
+
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -361,43 +613,74 @@ def main() -> None:
 
     clean_entries, obvious_noise = prefilter_obvious_noise(entries)
     print(f"Prefiltered obvious non-Chinese entries: {len(obvious_noise)}")
-    print(f"Entries to audit with model: {len(clean_entries)}")
-
-    all_results: list[dict[str, Any]] = []
-    all_results.extend(obvious_noise)
+    print(f"Entries to audit with batch model run: {len(clean_entries)}")
 
     chunks = chunked(clean_entries, CHUNK_SIZE)
     print(f"Chunk size: {CHUNK_SIZE}")
     print(f"Total chunks: {len(chunks)}")
 
-    for idx, chunk in enumerate(chunks, start=1):
-        print(f"Auditing chunk {idx}/{len(chunks)} ({len(chunk)} entries)")
-        try:
-            result_entries = audit_chunk(chunk)
-            all_results.extend(result_entries)
-        except Exception as e:
-            for entry in chunk:
-                all_results.append({
-                    "id": entry["id"],
-                    "hanzi": entry["hanzi"],
-                    "existingJyutping": entry.get("existingJyutping"),
-                    "status": "needs_manual_review",
-                    "suggestedJyutping": None,
-                    "reason": f"Chunk audit failed: {e}",
-                    "confidence": 0.0,
-                })
-        time.sleep(SLEEP_SECONDS)
+    batch_input_path = OUTPUT_DIR / "batch-input.jsonl"
+    write_batch_jsonl(chunks, batch_input_path)
+    print(f"Wrote batch input: {batch_input_path}")
 
-    ok_entries = [e for e in all_results if e["status"] == "ok"]
-    needs_review_entries = [e for e in all_results if e["status"] != "ok"]
+    input_file_id = upload_batch_input_file(batch_input_path)
+    print(f"Uploaded batch input file: {input_file_id}")
+
+    batch = create_batch_job(input_file_id)
+    batch_id = batch.id
+    print(f"Created batch: {batch_id}")
+
+    final_batch = poll_batch(batch_id)
+
+    error_rows: list[dict[str, Any]] = []
+    output_rows_by_custom_id: dict[str, list[dict[str, Any]]] = {}
+
+    if getattr(final_batch, "output_file_id", None):
+        output_file_id = final_batch.output_file_id
+        output_path = OUTPUT_DIR / "batch-output.jsonl"
+        output_text = download_file_text(output_file_id, output_path)
+        print(f"Downloaded batch output: {output_path}")
+        output_rows_by_custom_id = parse_batch_output_file(output_text, len(chunks))
+
+    if getattr(final_batch, "error_file_id", None):
+        error_file_id = final_batch.error_file_id
+        error_path = OUTPUT_DIR / "batch-errors.jsonl"
+        error_text = download_file_text(error_file_id, error_path)
+        print(f"Downloaded batch errors: {error_path}")
+        error_rows = parse_batch_error_file(error_text)
+
+    all_results: list[dict[str, Any]] = []
+    all_results.extend(obvious_noise)
+
+    if chunks:
+        all_results.extend(
+            build_results_from_batch(chunks, output_rows_by_custom_id, error_rows)
+        )
+
+    accepted_entries = [
+        e for e in all_results
+        if e["status"] in {"keep_existing", "corrected"}
+    ]
+    manual_review_entries = [
+        e for e in all_results
+        if e["status"] == "manual_review"
+    ]
+    non_chinese_entries = [
+        e for e in all_results
+        if e["status"] == "non_chinese"
+    ]
 
     summary = {
         "inputPath": str(INPUT_PATH),
         "model": OPENAI_MODEL,
+        "batchId": batch_id,
+        "inputFileId": input_file_id,
+        "batchStatus": getattr(final_batch, "status", None),
         "totalEntries": len(entries),
         "auditedEntries": len(all_results),
-        "okCount": len(ok_entries),
-        "needsReviewCount": len(needs_review_entries),
+        "acceptedCount": len(accepted_entries),
+        "manualReviewCount": len(manual_review_entries),
+        "nonChineseCount": len(non_chinese_entries),
         "statusBreakdown": {},
     }
 
@@ -420,12 +703,16 @@ def main() -> None:
         json.dumps(all_results, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    (OUTPUT_DIR / "audit-ok.json").write_text(
-        json.dumps(ok_entries, ensure_ascii=False, indent=2),
+    (OUTPUT_DIR / "audit-accepted.json").write_text(
+        json.dumps(accepted_entries, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    (OUTPUT_DIR / "audit-needs-review.json").write_text(
-        json.dumps(needs_review_entries, ensure_ascii=False, indent=2),
+    (OUTPUT_DIR / "audit-manual-review.json").write_text(
+        json.dumps(manual_review_entries, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    (OUTPUT_DIR / "audit-non-chinese.json").write_text(
+        json.dumps(non_chinese_entries, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     (OUTPUT_DIR / "audit-summary.json").write_text(
