@@ -1,12 +1,12 @@
 {
   "rootDir": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words",
   "model": "gpt-5.4-mini",
-  "currentRunEntries": 2627,
-  "approvedCurrentRunEntries": 2599,
-  "mergedTotalEntries": 3304,
+  "currentRunEntries": 2642,
+  "approvedCurrentRunEntries": 2527,
+  "mergedTotalEntries": 4294,
   "parseErrors": 1,
-  "apiErrors": 2,
+  "apiErrors": 6,
   "dedupeConflicts": 0,
   "overrideEntries": 0,
-  "existingEntriesBeforeMerge": 3303
+  "existingEntriesBeforeMerge": 4290
 }

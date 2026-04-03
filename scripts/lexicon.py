@@ -41,10 +41,9 @@ BATCH_STATUS_POLL_SECONDS = int(os.getenv("BATCH_STATUS_POLL_SECONDS", "20"))
 CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "40"))
 
 # How many example sentences to include per entry for context
-MAX_EXAMPLES_PER_ENTRY = int(os.getenv("MAX_EXAMPLES_PER_ENTRY", "2"))
+MAX_EXAMPLES_PER_ENTRY = int(os.getenv("MAX_EXAMPLES_PER_ENTRY", "3"))
 
-
-MIN_CANDIDATE_FREQUENCY = int(os.getenv("MIN_CANDIDATE_FREQUENCY", "2"))
+MIN_CANDIDATE_FREQUENCY = int(os.getenv("MIN_CANDIDATE_FREQUENCY", "1"))
 
 MIN_CANDIDATE_CHUNK_LEN = 1
 MAX_CANDIDATE_CHUNK_LEN = int(os.getenv("MAX_CANDIDATE_CHUNK_LEN", "1"))
