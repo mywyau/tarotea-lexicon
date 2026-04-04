@@ -3,7 +3,9 @@
   "word": "玫瑰",
   "jyutping": "mui4 gwai3",
   "meaning": "rose",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common noun for the flower \"rose\"; in Cantonese it is usually used for the plant/flower itself.",
     "Works naturally with color words and adjectives, like red, pink, fragrant, or fresh.",
@@ -56,5 +58,11 @@
     "Valentine's Day",
     "level-1"
   ],
-  "related": ["花", "花店", "花束", "園藝", "植物"]
+  "related": [
+    "花",
+    "花店",
+    "花束",
+    "園藝",
+    "植物"
+  ]
 }

@@ -3,7 +3,9 @@
   "word": "買",
   "jyutping": "maai5",
   "meaning": "buy",
-  "pos": ["verb"],
+  "pos": [
+    "verb"
+  ],
   "usage": [
     "Basic verb for purchasing something; very common in everyday speech.",
     "Often followed by a noun or a phrase for the thing you want to get, and it can also appear with quantity words.",
@@ -54,5 +56,11 @@
     "jewellery",
     "level-1"
   ],
-  "related": ["購買", "買嘢", "買入", "買貴咗", "買手信"]
+  "related": [
+    "購買",
+    "買嘢",
+    "買入",
+    "買貴咗",
+    "買手信"
+  ]
 }

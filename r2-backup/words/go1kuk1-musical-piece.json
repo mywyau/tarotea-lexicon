@@ -3,7 +3,9 @@
   "word": "歌曲",
   "jyutping": "go1 kuk1",
   "meaning": "musical piece",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A neutral, common noun for a song or musical piece. It sounds natural in both everyday conversation and media contexts.",
     "It can refer to a single song, or to a piece of music more generally, depending on context.",
@@ -54,5 +56,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["歌", "音樂", "旋律", "專輯"]
+  "related": [
+    "歌",
+    "音樂",
+    "旋律",
+    "專輯"
+  ]
 }

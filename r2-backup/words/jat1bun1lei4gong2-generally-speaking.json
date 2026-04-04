@@ -4,39 +4,41 @@
   "jyutping": "jat1 bun1 lei4 gong2",
   "meaning": "generally speaking",
   "pos": [
+    "phrase",
     "expression",
     "connector"
   ],
   "usage": [
-    "The phrase 'jat1 bun1 lei4 gong2' is used to introduce a general statement or overview, often before providing more specific details.",
-    "It functions similarly to 'generally speaking' or 'on the whole' in English, signaling that the speaker is giving a broad perspective rather than a detailed one.",
-    "This expression is commonly used in conversations or presentations to soften conclusions or to avoid making overly strong claims.",
-    "It helps the speaker frame statements in a more tentative or balanced way, which is especially useful when discussing varied or complex topics."
+    "The phrase 'jat1 bun1 lei4 gong2' is used to introduce a general statement or an overall opinion.",
+    "It can help the speaker to frame what follows as a common or typical viewpoint rather than a specific or absolute fact.",
+    "This expression often appears at the beginning of a sentence to signal that the comment is a broad generalization.",
+    "It is useful in both formal and informal conversations when giving summaries or overarching observations.",
+    "Using this phrase can soften statements, making them less direct and more polite by indicating that exceptions might exist."
   ],
   "examples": [
     {
       "id": "jat1bun1lei4gong2-generally-speaking-example-1",
-      "sentence": "一般嚟講，香港嘅公共交通系統非常方便。",
-      "jyutping": "jat1 bun1 lei4 gong2, hoeng1 gong2 ge3 gung1 gung6 gaau1 tung1 hai6 tung2 fei1 soeng4 fong1 bin6.",
-      "meaning": "Generally speaking, Hong Kong's public transportation system is very convenient."
+      "sentence": "一般嚟講，香港夏天好熱。",
+      "jyutping": "jat1 bun1 lei4 gong2, hoeng1 gong2 haa6 tin1 hou2 jit6.",
+      "meaning": "Generally speaking, summers in Hong Kong are very hot."
     },
     {
       "id": "jat1bun1lei4gong2-generally-speaking-example-2",
-      "sentence": "一般嚟講，年輕人會比較接受新科技。",
-      "jyutping": "jat1 bun1 lei4 gong2, nin4 heng1 jan4 wui5 bei2 gaau3 zip3 sau6 san1 fo1 gei6.",
-      "meaning": "Generally speaking, young people tend to be more accepting of new technology."
+      "sentence": "一般嚟講，學生嘅壓力都好大。",
+      "jyutping": "jat1 bun1 lei4 gong2, hok6 saang1 ge3 ngaat3 lik6 dou1 hou2 daai6.",
+      "meaning": "Generally speaking, students experience a lot of pressure."
     },
     {
       "id": "jat1bun1lei4gong2-generally-speaking-example-3",
-      "sentence": "一般嚟講，冬天香港會比較濕冷。",
-      "jyutping": "jat1 bun1 lei4 gong2, dung1 tin1 hoeng1 gong2 wui5 bei2 gaau3 sap1 laang5.",
-      "meaning": "Generally speaking, winters in Hong Kong are comparatively damp and cold."
+      "sentence": "一般嚟講，大家對新政策有唔同意見。",
+      "jyutping": "jat1 bun1 lei4 gong2, daai6 gaa1 deoi3 san1 zing3 caak3 jau5 m4 tung4 ji3 gin3.",
+      "meaning": "Generally speaking, people have different opinions about the new policy."
     },
     {
       "id": "jat1bun1lei4gong2-generally-speaking-example-4",
-      "sentence": "一般嚟講，考試前做緊準備嘅學生會表現得更好。",
-      "jyutping": "jat1 bun1 lei4 gong2, haau2 si3 cin4 zou6 gan2 zeon2 bei6 ge3 hok6 saang1 wui5 biu2 jin2 dak1 gang3 hou2.",
-      "meaning": "Generally speaking, students who prepare before exams tend to perform better."
+      "sentence": "一般嚟講，網上購物比去實體店方便。",
+      "jyutping": "jat1 bun1 lei4 gong2, mong5 soeng6 kau3 mat6 bei2 heoi3 sat6 tai2 dim3 fong1 bin6.",
+      "meaning": "Generally speaking, online shopping is more convenient than going to physical stores."
     }
   ],
   "audio": {
@@ -49,17 +51,18 @@
     ]
   },
   "tags": [
-    "advanced",
-    "expression",
-    "connector",
+    "level 6",
+    "phrase",
+    "discourse marker",
     "generalization",
-    "conversation",
-    "level-9"
+    "background framing",
+    "level-6"
   ],
   "related": [
-    "通常嚟講",
+    "大體上",
+    "通常",
+    "大概",
     "整體嚟講",
-    "大致上",
-    "一般話"
+    "總括嚟講"
   ]
 }

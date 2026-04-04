@@ -3,7 +3,9 @@
   "word": "負數",
   "jyutping": "fu6 sou3",
   "meaning": "negative",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used as a noun for a negative number in math.",
     "Often used when comparing numbers with a minus sign.",
@@ -54,5 +56,10 @@
     "numbers",
     "level-1"
   ],
-  "related": ["正數", "數字", "整數", "小數"]
+  "related": [
+    "正數",
+    "數字",
+    "整數",
+    "小數"
+  ]
 }

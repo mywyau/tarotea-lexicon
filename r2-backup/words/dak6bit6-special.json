@@ -3,13 +3,12 @@
   "word": "特別",
   "jyutping": "dak6 bit6",
   "meaning": "special",
-
-  "pos": ["adjective"],
-
+  "pos": [
+    "adjective"
+  ],
   "usage": [
     "Used to describe something unusual or different"
   ],
-
   "examples": [
     {
       "id": "dak6bit6-special-example-1",
@@ -24,7 +23,6 @@
       "meaning": "This restaurant isn’t very special."
     }
   ],
-
   "audio": {
     "word": "dak6bit6-special.mp3",
     "examples": [
@@ -32,9 +30,11 @@
       "dak6bit6-special-example-2.mp3"
     ]
   },
-
-  "tags": ["adjective", "level-2", "description"],
-
+  "tags": [
+    "adjective",
+    "level-2",
+    "description"
+  ],
   "related": [
     "kei4gwaai3-strange"
   ]

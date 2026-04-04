@@ -3,7 +3,9 @@
   "word": "答案",
   "jyutping": "daap3 on3",
   "meaning": "answer",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used as a noun for the final result or response to a question.",
     "Common in school and homework situations when talking about right or wrong solutions.",
@@ -53,5 +55,10 @@
     "basic vocabulary",
     "level-1"
   ],
-  "related": ["解答", "答案紙", "答案書", "正確答案"]
+  "related": [
+    "解答",
+    "答案紙",
+    "答案書",
+    "正確答案"
+  ]
 }

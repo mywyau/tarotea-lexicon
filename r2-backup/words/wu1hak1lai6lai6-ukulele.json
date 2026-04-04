@@ -3,7 +3,9 @@
   "word": "烏克麗麗",
   "jyutping": "wu1 hak1 lai6 lai6",
   "meaning": "ukulele",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common loanword used for the small four-string instrument; it is a normal everyday noun in Hong Kong Cantonese.",
     "Often used with verbs like 彈 and learners may hear it in music lessons, performance talk, and hobby contexts.",
@@ -54,5 +56,10 @@
     "performance",
     "level-1"
   ],
-  "related": ["結他", "吉他", "彈琴", "樂器"]
+  "related": [
+    "結他",
+    "吉他",
+    "彈琴",
+    "樂器"
+  ]
 }

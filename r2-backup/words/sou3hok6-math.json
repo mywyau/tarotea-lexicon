@@ -3,7 +3,9 @@
   "word": "數學",
   "jyutping": "sou3 hok6",
   "meaning": "math",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use 「數學」 as a noun for the subject or field of mathematics.",
     "It can refer to school math or math-related topics in daily conversation.",
@@ -53,5 +55,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["算術", "幾何", "功課", "考試"]
+  "related": [
+    "算術",
+    "幾何",
+    "功課",
+    "考試"
+  ]
 }

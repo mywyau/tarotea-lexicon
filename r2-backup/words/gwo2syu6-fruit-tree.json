@@ -3,7 +3,9 @@
   "word": "果樹",
   "jyutping": "gwo2 syu6",
   "meaning": "fruit tree",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to a tree that produces fruit; use it for both wild and cultivated trees in gardens, farms, or parks.",
     "Commonly used in everyday speech and simple descriptions of plants, orchards, and seasonal fruit.",
@@ -55,5 +57,11 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["樹", "果", "種樹", "樹木", "果園"]
+  "related": [
+    "樹",
+    "果",
+    "種樹",
+    "樹木",
+    "果園"
+  ]
 }

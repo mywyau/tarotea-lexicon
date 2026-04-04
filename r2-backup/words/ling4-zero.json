@@ -3,15 +3,14 @@
   "word": "零",
   "jyutping": "ling4",
   "meaning": "zero",
-
-  "pos": ["number"],
-
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number zero",
     "Common in phone numbers, scores, prices, and temperatures",
     "Often used when reading digits in longer numbers aloud"
   ],
-
   "examples": [
     {
       "id": "ling4-zero-example-1",
@@ -44,7 +43,6 @@
       "meaning": "This number starts with zero."
     }
   ],
-
   "audio": {
     "word": "ling4-zero.mp3",
     "examples": [
@@ -55,14 +53,12 @@
       "ling4-zero-example-5.mp3"
     ]
   },
-
   "tags": [
     "number",
     "core",
     "level-1",
     "spoken"
   ],
-
   "related": [
     "jat1-one",
     "ji6-two",

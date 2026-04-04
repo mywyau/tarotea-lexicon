@@ -3,7 +3,9 @@
   "word": "結他",
   "jyutping": "git3 taa1",
   "meaning": "guitar",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "結他 is the everyday Cantonese word for “guitar”. It is a very common, neutral noun in spoken Hong Kong Cantonese.",
     "Use it with verbs like 彈 when talking about playing the instrument. For example, learners often say they play the guitar, buy a guitar, or learn guitar.",
@@ -53,5 +55,10 @@
     "spoken Cantonese",
     "level-1"
   ],
-  "related": ["彈結他", "結他手", "結他聲", "結他班"]
+  "related": [
+    "彈結他",
+    "結他手",
+    "結他聲",
+    "結他班"
+  ]
 }

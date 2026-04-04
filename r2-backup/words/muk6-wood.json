@@ -3,7 +3,9 @@
   "word": "木",
   "jyutping": "muk6",
   "meaning": "wood",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "木 is the basic noun for “wood” or “timber”; it often refers to the material, not the living tree.",
     "It is commonly used in compounds about materials, furniture, buildings, and tools, such as wooden objects or wood products.",
@@ -55,5 +57,11 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["木頭", "木材", "木工", "木板", "樹木"]
+  "related": [
+    "木頭",
+    "木材",
+    "木工",
+    "木板",
+    "樹木"
+  ]
 }

@@ -3,7 +3,9 @@
   "word": "雙簧管",
   "jyutping": "soeng1 wong4 gun2",
   "meaning": "oboe",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A **雙簧管** is the oboe, a woodwind instrument often heard in classical music and orchestras.",
     "It is usually used as a countable noun: **一支雙簧管** when you mean one oboe.",
@@ -54,5 +56,10 @@
     "learner level 1",
     "level-1"
   ],
-  "related": ["單簧管", "長笛", "小號", "管弦樂團"]
+  "related": [
+    "單簧管",
+    "長笛",
+    "小號",
+    "管弦樂團"
+  ]
 }

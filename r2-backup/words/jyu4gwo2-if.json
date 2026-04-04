@@ -3,14 +3,13 @@
   "word": "如果",
   "jyutping": "jyu4 gwo2",
   "meaning": "if",
-
-  "pos": ["conjunction"],
-
+  "pos": [
+    "conjunction"
+  ],
   "usage": [
     "Used to introduce a condition or hypothetical situation",
     "Commonly used at the beginning of a conditional sentence"
   ],
-
   "examples": [
     {
       "id": "jyu4gwo2-if-example-1",
@@ -25,7 +24,6 @@
       "meaning": "If you’re free, give me a call."
     }
   ],
-
   "audio": {
     "word": "jyu4gwo2-if.mp3",
     "examples": [
@@ -33,9 +31,12 @@
       "jyu4gwo2-if-example-2.mp3"
     ]
   },
-
-  "tags": ["conjunction", "level-2", "grammar", "condition"],
-
+  "tags": [
+    "conjunction",
+    "level-2",
+    "grammar",
+    "condition"
+  ],
   "related": [
     "jau6-then",
     "gaa3kei4-holiday"

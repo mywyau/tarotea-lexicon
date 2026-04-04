@@ -3,16 +3,15 @@
   "word": "二",
   "jyutping": "ji6",
   "meaning": "two",
-
-  "pos": ["number"],
-
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number two",
     "Often used in counting, dates, floors, and ordinal expressions",
     "In spoken Cantonese, 兩 (loeng5) is usually used before measure words",
     "Common in forms such as 第二 (second) and 二樓 (second floor)"
   ],
-
   "examples": [
     {
       "id": "ji6-two-example-1",
@@ -39,7 +38,6 @@
       "meaning": "The second question is very difficult."
     }
   ],
-
   "audio": {
     "word": "ji6-two.mp3",
     "examples": [
@@ -49,9 +47,11 @@
       "ji6-two-example-4.mp3"
     ]
   },
-
-  "tags": ["number", "level-1", "core"],
-
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
   "related": [
     "loeng5-two-alt",
     "jat1-one",

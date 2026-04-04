@@ -3,7 +3,9 @@
   "word": "茄子",
   "jyutping": "ke1 zi2",
   "meaning": "eggplant",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Eggplant is a common type of vegetable.",
     "It is often used for cooking or steaming.",
@@ -46,6 +48,18 @@
       "ke1zi2-eggplant-example-4.mp3"
     ]
   },
-  "tags": ["vegetable", "eggplant", "fresh", "cooking", "market", "level-1"],
-  "related": ["青瓜", "蕃茄", "西蘭花", "紅蘿蔔"]
+  "tags": [
+    "vegetable",
+    "eggplant",
+    "fresh",
+    "cooking",
+    "market",
+    "level-1"
+  ],
+  "related": [
+    "青瓜",
+    "蕃茄",
+    "西蘭花",
+    "紅蘿蔔"
+  ]
 }

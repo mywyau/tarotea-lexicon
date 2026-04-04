@@ -3,16 +3,15 @@
   "word": "去",
   "jyutping": "heoi3",
   "meaning": "go",
-
-  "pos": ["verb"],
-
+  "pos": [
+    "verb"
+  ],
   "usage": [
     "Used to indicate going from one place to another",
     "Often appears before a destination to show where someone is going",
     "Can be followed by another verb, as in 去買嘢 (go buy things)",
     "Very common in everyday spoken Cantonese"
   ],
-
   "examples": [
     {
       "id": "heoi3-go-example-1",
@@ -39,7 +38,6 @@
       "meaning": "Let’s go get a drink!"
     }
   ],
-
   "audio": {
     "word": "heoi3-go.mp3",
     "examples": [
@@ -49,7 +47,6 @@
       "heoi3-go-example-4.mp3"
     ]
   },
-
   "tags": [
     "verb",
     "movement",
@@ -57,7 +54,6 @@
     "core",
     "spoken"
   ],
-
   "related": [
     "faan1-return",
     "haang4-walk",

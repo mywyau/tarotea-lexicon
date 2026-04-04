@@ -3,7 +3,9 @@
   "word": "玫瑰金",
   "jyutping": "mui4 gwai3 gam1",
   "meaning": "rose gold",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Usually refers to the pinkish metal finish used in rings, watches, phones, and accessories; it sounds natural in everyday shopping and fashion talk.",
     "Often used as an attributive noun before another noun, so it commonly describes the item’s material or color tone rather than standing alone.",
@@ -53,5 +55,11 @@
     "materials",
     "level-1"
   ],
-  "related": ["黃金", "白金", "銀", "戒指", "手錶"]
+  "related": [
+    "黃金",
+    "白金",
+    "銀",
+    "戒指",
+    "手錶"
+  ]
 }

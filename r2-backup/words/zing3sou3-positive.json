@@ -3,7 +3,9 @@
   "word": "正數",
   "jyutping": "zing3 sou3",
   "meaning": "positive",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use 正數 to talk about a number that is above zero.",
     "正數 can be used after a verb like 係 to state a value clearly.",
@@ -54,5 +56,10 @@
     "elementary",
     "level-1"
   ],
-  "related": ["負數", "零", "數字", "數學"]
+  "related": [
+    "負數",
+    "零",
+    "數字",
+    "數學"
+  ]
 }

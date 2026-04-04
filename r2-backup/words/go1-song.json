@@ -3,7 +3,9 @@
   "word": "歌",
   "jyutping": "go1",
   "meaning": "song",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A very common noun meaning a song; it is used for both Cantonese and non-Cantonese songs.",
     "Often appears in phrases like 唱歌 (to sing), 聽歌 (to listen to music/songs), and 首歌 (a song; with a measure word).",
@@ -54,5 +56,11 @@
     "common word",
     "level-1"
   ],
-  "related": ["唱歌", "聽歌", "首歌", "歌詞", "廣東歌"]
+  "related": [
+    "唱歌",
+    "聽歌",
+    "首歌",
+    "歌詞",
+    "廣東歌"
+  ]
 }

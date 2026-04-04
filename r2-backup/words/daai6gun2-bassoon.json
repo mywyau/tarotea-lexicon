@@ -3,7 +3,9 @@
   "word": "大管",
   "jyutping": "daai6 gun2",
   "meaning": "bassoon",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to the bassoon, a low double-reed orchestral woodwind; use it as a normal countable noun in music contexts.",
     "Very common in formal or school music settings, especially when talking about orchestras, bands, or instrument classes.",
@@ -54,5 +56,10 @@
     "school music",
     "level-1"
   ],
-  "related": ["單簧管", "長笛", "雙簧管", "小號"]
+  "related": [
+    "單簧管",
+    "長笛",
+    "雙簧管",
+    "小號"
+  ]
 }

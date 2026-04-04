@@ -3,7 +3,9 @@
   "word": "鑽石",
   "jyutping": "zyun3 sek6",
   "meaning": "diamond",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Common noun for a diamond, usually the gemstone in jewellery, not the shape or the ranking system in sports.",
     "Often used in compounds and product names, especially in shopping, jewellery, and luxury goods contexts.",
@@ -45,6 +47,19 @@
       "zyun3sek6-diamond-example-4.mp3"
     ]
   },
-  "tags": ["gemstone", "jewellery", "noun", "luxury", "shopping", "level-1"],
-  "related": ["戒指", "項鍊", "寶石", "珠寶", "天然鑽石"]
+  "tags": [
+    "gemstone",
+    "jewellery",
+    "noun",
+    "luxury",
+    "shopping",
+    "level-1"
+  ],
+  "related": [
+    "戒指",
+    "項鍊",
+    "寶石",
+    "珠寶",
+    "天然鑽石"
+  ]
 }

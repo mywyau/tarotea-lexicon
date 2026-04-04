@@ -3,15 +3,14 @@
   "word": "女廁",
   "jyutping": "neoi5 ci3",
   "meaning": "women’s toilet",
-
-  "pos": ["noun"],
-
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used to refer specifically to the women’s toilet",
     "Common on signs, in public buildings, malls, stations, and restaurants",
     "Often paired with 男廁 (men’s toilet)"
   ],
-
   "examples": [
     {
       "id": "neoi5ci3-womens-toilet-example-1",
@@ -44,7 +43,6 @@
       "meaning": "The men’s and women’s toilets are inside."
     }
   ],
-
   "audio": {
     "word": "neoi5ci3-womens-toilet.mp3",
     "examples": [
@@ -55,9 +53,12 @@
       "neoi5ci3-womens-toilet-example-5.mp3"
     ]
   },
-
-  "tags": ["noun", "level-1", "core", "survival"],
-
+  "tags": [
+    "noun",
+    "level-1",
+    "core",
+    "survival"
+  ],
   "related": [
     "naam4ci3-mens-toilet",
     "ci3so2-toilet",

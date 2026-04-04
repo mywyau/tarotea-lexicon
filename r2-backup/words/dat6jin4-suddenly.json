@@ -3,13 +3,12 @@
   "word": "突然",
   "jyutping": "dat6 jin4",
   "meaning": "suddenly",
-
-  "pos": ["adverb"],
-
+  "pos": [
+    "adverb"
+  ],
   "usage": [
     "Used to describe something happening unexpectedly"
   ],
-
   "examples": [
     {
       "id": "dat6jin4-suddenly-example-1",
@@ -24,7 +23,6 @@
       "meaning": "He suddenly disappeared."
     }
   ],
-
   "audio": {
     "word": "dat6jin4-suddenly.mp3",
     "examples": [
@@ -32,9 +30,11 @@
       "dat6jin4-suddenly-example-2.mp3"
     ]
   },
-
-  "tags": ["adverb", "level-2", "time"],
-
+  "tags": [
+    "adverb",
+    "level-2",
+    "time"
+  ],
   "related": [
     "maan6maan6-slowly"
   ]

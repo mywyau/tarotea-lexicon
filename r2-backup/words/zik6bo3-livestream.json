@@ -3,7 +3,9 @@
   "word": "直播",
   "jyutping": "zik6 bo3",
   "meaning": "livestream",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A noun for a live video stream or real-time broadcast; it is commonly used in online media, gaming, shopping, and event coverage.",
     "Often paired with verbs like 開、睇、做, e.g. 開直播 / 睇直播 / 做直播, to talk about starting, watching, or hosting a livestream.",
@@ -54,5 +56,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["直播主", "開直播", "睇直播", "直播間", "網上節目"]
+  "related": [
+    "直播主",
+    "開直播",
+    "睇直播",
+    "直播間",
+    "網上節目"
+  ]
 }

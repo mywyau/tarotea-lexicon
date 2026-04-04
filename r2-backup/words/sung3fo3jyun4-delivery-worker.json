@@ -3,7 +3,9 @@
   "word": "送貨員",
   "jyutping": "sung3 fo3 jyun4",
   "meaning": "delivery worker",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to a person whose job is to deliver goods, parcels, or food to customers.",
     "Commonly used with service jobs and everyday delivery contexts, such as shopping apps, courier services, and warehouse work.",
@@ -55,5 +57,11 @@
     "people",
     "level-1"
   ],
-  "related": ["送貨", "派件", "快遞員", "貨車", "物流"]
+  "related": [
+    "送貨",
+    "派件",
+    "快遞員",
+    "貨車",
+    "物流"
+  ]
 }

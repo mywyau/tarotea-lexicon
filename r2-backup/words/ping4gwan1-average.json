@@ -3,7 +3,9 @@
   "word": "平均",
   "jyutping": "ping4 gwan1",
   "meaning": "average",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use「平均」to talk about the average amount or rate of something.",
     "It is common in math, school, and everyday data talk.",
@@ -55,5 +57,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["平均分", "平均數", "均勻", "每人"]
+  "related": [
+    "平均分",
+    "平均數",
+    "均勻",
+    "每人"
+  ]
 }

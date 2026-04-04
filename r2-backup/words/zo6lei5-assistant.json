@@ -3,7 +3,9 @@
   "word": "助理",
   "jyutping": "zo6 lei5",
   "meaning": "assistant",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Usually means a person who helps someone in a job, office, shop, or project. It often sounds neutral and is very common in workplace settings.",
     "Can be used with a role name before it, like a title or job description, to show what kind of assistant it is.",
@@ -56,5 +58,11 @@
     "common",
     "level-1"
   ],
-  "related": ["秘書", "同事", "經理", "職員", "幫手"]
+  "related": [
+    "秘書",
+    "同事",
+    "經理",
+    "職員",
+    "幫手"
+  ]
 }

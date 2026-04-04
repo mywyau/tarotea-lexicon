@@ -3,7 +3,9 @@
   "word": "節奏",
   "jyutping": "zit3 zau3",
   "meaning": "rhythm",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to the beat or rhythmic pattern in music; very common in everyday music talk.",
     "Often used with verbs like 跟、夾、捉 to talk about keeping time or playing in sync.",
@@ -55,5 +57,11 @@
     "common",
     "level-1"
   ],
-  "related": ["拍子", "節拍", "音樂", "鼓點", "跟拍"]
+  "related": [
+    "拍子",
+    "節拍",
+    "音樂",
+    "鼓點",
+    "跟拍"
+  ]
 }

@@ -3,7 +3,9 @@
   "word": "手鏈",
   "jyutping": "sau2 lin2",
   "meaning": "bracelet chain",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Common noun for a bracelet worn on the wrist; in everyday Cantonese it is often used for metal, beaded, or decorative bracelets.",
     "Works naturally as a standalone noun, and can also appear after numerals/classifiers such as 一條手鏈 or 呢條手鏈.",
@@ -54,5 +56,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["手鐲", "項鏈", "戒指", "耳環", "吊墜"]
+  "related": [
+    "手鐲",
+    "項鏈",
+    "戒指",
+    "耳環",
+    "吊墜"
+  ]
 }

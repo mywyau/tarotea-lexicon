@@ -3,7 +3,9 @@
   "word": "分數",
   "jyutping": "fan1 sou3",
   "meaning": "fraction",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "「分數」 is a noun that usually means a mathematical fraction, such as 1/2 or 3/4.",
     "When talking about grades, 「分數」 can also mean a test or exam score, for example: 'I got 90 marks.'",
@@ -45,6 +47,19 @@
       "fan1sou3-fraction-example-4.mp3"
     ]
   },
-  "tags": ["math", "number", "fraction", "exam score", "beginner", "level-1"],
-  "related": ["百分比", "小數", "比例", "分子", "分母"]
+  "tags": [
+    "math",
+    "number",
+    "fraction",
+    "exam score",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "百分比",
+    "小數",
+    "比例",
+    "分子",
+    "分母"
+  ]
 }

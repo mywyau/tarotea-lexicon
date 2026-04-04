@@ -3,7 +3,9 @@
   "word": "編輯",
   "jyutping": "pin1 zaap6",
   "meaning": "editor",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Usually refers to the person who edits news, articles, magazines, or online content.",
     "Common in workplace and media settings; it sounds neutral and standard.",
@@ -53,5 +55,11 @@
     "common noun",
     "level-1"
   ],
-  "related": ["記者", "編採", "編修", "總編", "校對"]
+  "related": [
+    "記者",
+    "編採",
+    "編修",
+    "總編",
+    "校對"
+  ]
 }

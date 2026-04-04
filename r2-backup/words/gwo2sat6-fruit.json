@@ -3,7 +3,9 @@
   "word": "果實",
   "jyutping": "gwo2 sat6",
   "meaning": "fruit",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use **果實 (gwo2 sat6)** for the fruit of a plant or tree, especially in a more general or formal way.",
     "It is a countable noun when you talk about different fruits or one fruit from a plant.",
@@ -55,5 +57,11 @@
     "fruit",
     "level-1"
   ],
-  "related": ["生果", "樹", "種子", "花", "植物"]
+  "related": [
+    "生果",
+    "樹",
+    "種子",
+    "花",
+    "植物"
+  ]
 }

@@ -3,7 +3,9 @@
   "word": "警察",
   "jyutping": "ging2 caat3",
   "meaning": "police officer",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common everyday noun for a police officer; use it when talking about law enforcement in general.",
     "Can be used on its own or with a measure word when referring to one officer, e.g. 一位警察 is a natural polite choice.",
@@ -53,5 +55,11 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["公安", "差人", "警員", "巡警", "警局"]
+  "related": [
+    "公安",
+    "差人",
+    "警員",
+    "巡警",
+    "警局"
+  ]
 }

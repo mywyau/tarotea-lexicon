@@ -1,0 +1,68 @@
+{
+  "id": "m4gin3zo2-its-lost-missing",
+  "word": "唔見咗",
+  "jyutping": "m4 gin3 zo2",
+  "meaning": "it’s lost / missing",
+  "pos": [
+    "verb phrase"
+  ],
+  "usage": [
+    "Used to say that something is missing or cannot be found",
+    "Very common in daily life when reporting lost items",
+    "Often used with a noun before it to specify what is missing"
+  ],
+  "examples": [
+    {
+      "id": "m4gin3zo2-its-lost-missing-example-1",
+      "sentence": "我個銀包唔見咗。",
+      "jyutping": "ngo5 go3 ngan4 baau1 m4 gin3 zo2",
+      "meaning": "My wallet is missing."
+    },
+    {
+      "id": "m4gin3zo2-its-lost-missing-example-2",
+      "sentence": "條鎖匙唔見咗。",
+      "jyutping": "tiu4 so2 si4 m4 gin3 zo2",
+      "meaning": "The keys are lost."
+    },
+    {
+      "id": "m4gin3zo2-its-lost-missing-example-3",
+      "sentence": "我啲錢唔見咗。",
+      "jyutping": "ngo5 di1 cin2 m4 gin3 zo2",
+      "meaning": "My money is gone."
+    },
+    {
+      "id": "m4gin3zo2-its-lost-missing-example-4",
+      "sentence": "張車票唔見咗。",
+      "jyutping": "zoeng1 ce1 piu3 m4 gin3 zo2",
+      "meaning": "The ticket is missing."
+    },
+    {
+      "id": "m4gin3zo2-its-lost-missing-example-5",
+      "sentence": "部電話唔見咗。",
+      "jyutping": "bou6 din6 waa2 m4 gin3 zo2",
+      "meaning": "The phone is lost."
+    }
+  ],
+  "audio": {
+    "word": "m4gin3zo2-its-lost-missing.mp3",
+    "examples": [
+      "m4gin3zo2-its-lost-missing-example-1.mp3",
+      "m4gin3zo2-its-lost-missing-example-2.mp3",
+      "m4gin3zo2-its-lost-missing-example-3.mp3",
+      "m4gin3zo2-its-lost-missing-example-4.mp3",
+      "m4gin3zo2-its-lost-missing-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "verb",
+    "level-1",
+    "core",
+    "problems",
+    "survival"
+  ],
+  "related": [
+    "waai6zo2-broken",
+    "jau5man6tai4-problem",
+    "mai4lou6-lost"
+  ]
+}

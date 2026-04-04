@@ -3,7 +3,9 @@
   "word": "服務員",
   "jyutping": "fuk6 mou6 jyun4",
   "meaning": "server",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Common noun for a person who serves customers in a restaurant, cafe, bar, or similar place.",
     "Very natural in service settings; it is more general than some job-specific labels like waiter or waitress.",
@@ -55,5 +57,10 @@
     "neutral term",
     "level-1"
   ],
-  "related": ["侍應", "店員", "員工", "餐廳"]
+  "related": [
+    "侍應",
+    "店員",
+    "員工",
+    "餐廳"
+  ]
 }

@@ -3,16 +3,15 @@
   "word": "十",
   "jyutping": "sap6",
   "meaning": "ten",
-
-  "pos": ["number"],
-
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number ten",
     "Forms the base of teen numbers such as 十一 and 十二",
     "Commonly used in counting, time durations, dates, and quantities",
     "Often appears in rounded numbers and everyday expressions involving numbers"
   ],
-
   "examples": [
     {
       "id": "sap6-ten-example-1",
@@ -39,7 +38,6 @@
       "meaning": "Today is the tenth."
     }
   ],
-
   "audio": {
     "word": "sap6-ten.mp3",
     "examples": [
@@ -49,9 +47,11 @@
       "sap6-ten-example-4.mp3"
     ]
   },
-
-  "tags": ["number", "level-1", "core"],
-
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
   "related": [
     "gau2-nine",
     "sap6-jat1-eleven"

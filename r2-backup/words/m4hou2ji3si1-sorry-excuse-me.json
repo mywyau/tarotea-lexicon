@@ -4,40 +4,39 @@
   "jyutping": "m4 hou2 ji3 si1",
   "meaning": "sorry / excuse me",
   "pos": [
-    "phrase",
     "expression"
   ],
   "usage": [
-    "The phrase is commonly used to apologize for minor inconveniences or mistakes.",
-    "It is also used to politely get someone's attention, similar to 'excuse me' in English.",
-    "The expression can soften requests or refusals, showing politeness and consideration.",
-    "It is appropriate in both formal and informal contexts, making it very versatile.",
-    "When used in conversation, it can express empathy or regret without implying serious fault."
+    "This phrase is commonly used to politely apologize or get someone's attention in a courteous way.",
+    "It can be used to express regret for minor mistakes or inconveniences without sounding too formal.",
+    "It’s also frequently employed when interrupting someone or when trying to pass through a crowd.",
+    "The phrase conveys politeness and respect, making everyday social interactions smoother.",
+    "It can soften requests or statements, helping to avoid sounding too direct or rude."
   ],
   "examples": [
     {
       "id": "m4hou2ji3si1-sorry-excuse-me-example-1",
-      "sentence": "唔好意思，我唔係好明白你講咩。",
-      "jyutping": "m4 hou2 ji3 si1, ngo5 m4 hai6 hou2 ming4 baak6 nei5 gong2 me1.",
-      "meaning": "Sorry, I don't really understand what you're saying."
+      "sentence": "唔好意思，借過一下。",
+      "jyutping": "m4 hou2 ji3 si1, ze3 gwo3 jat1 haa5.",
+      "meaning": "Excuse me, may I pass through?"
     },
     {
       "id": "m4hou2ji3si1-sorry-excuse-me-example-2",
-      "sentence": "唔好意思，可唔可以借過一陣？",
-      "jyutping": "m4 hou2 ji3 si1, ho2 m4 ho2 ji5 ze3 gwo3 jat1 zan6?",
-      "meaning": "Excuse me, could you please let me pass for a moment?"
+      "sentence": "唔好意思，我遲咗啲。",
+      "jyutping": "m4 hou2 ji3 si1, ngo5 ci4 zo2 di1.",
+      "meaning": "Sorry, I am a bit late."
     },
     {
       "id": "m4hou2ji3si1-sorry-excuse-me-example-3",
-      "sentence": "唔好意思，我遲咗少少先嚟到。",
-      "jyutping": "m4 hou2 ji3 si1, ngo5 ci4 zo2 siu2 siu2 sin1 lai4 dou3.",
-      "meaning": "Sorry, I arrived a little late."
+      "sentence": "唔好意思，可以借我支筆嗎？",
+      "jyutping": "m4 hou2 ji3 si1, ho2 ji5 ze3 ngo5 zi1 bat1 maa3?",
+      "meaning": "Excuse me, can I borrow your pen?"
     },
     {
       "id": "m4hou2ji3si1-sorry-excuse-me-example-4",
-      "sentence": "唔好意思，我想問你一個問題。",
-      "jyutping": "m4 hou2 ji3 si1, ngo5 soeng2 man6 nei5 jat1 go3 man6 tai4.",
-      "meaning": "Excuse me, I want to ask you a question."
+      "sentence": "唔好意思，呢度唔可以泊車。",
+      "jyutping": "m4 hou2 ji3 si1, ni1 dou6 m4 ho2 ji5 paak3 ce1.",
+      "meaning": "Sorry, you can’t park here."
     }
   ],
   "audio": {
@@ -52,16 +51,16 @@
   "tags": [
     "politeness",
     "apology",
-    "attention",
-    "requests",
-    "everyday",
-    "level-7"
+    "courtesy",
+    "everyday speech",
+    "interruption",
+    "level-5"
   ],
   "related": [
     "對唔住",
-    "唔使客氣",
+    "唔緊要",
     "請問",
-    "借過",
-    "多謝"
+    "麻煩你",
+    "唔該"
   ]
 }

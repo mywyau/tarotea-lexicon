@@ -3,7 +3,9 @@
   "word": "餘數",
   "jyutping": "jyu4 sou3",
   "meaning": "remainder",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use 餘數 to mean the amount left after division.",
     "It often appears in simple math talk, especially with numbers and division problems.",
@@ -53,5 +55,11 @@
     "school",
     "level-1"
   ],
-  "related": ["除法", "商", "分數", "剩餘", "數學"]
+  "related": [
+    "除法",
+    "商",
+    "分數",
+    "剩餘",
+    "數學"
+  ]
 }

@@ -1,0 +1,66 @@
+{
+  "id": "tin1ping4-balance",
+  "word": "天平",
+  "jyutping": "tin1 ping4",
+  "meaning": "balance",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '天平' is a noun used to refer to a type of balance scale.",
+    "It is commonly used in scientific and laboratory contexts when measuring weight.",
+    "You can use '天平' as the subject or object in a sentence.",
+    "It often comes with measure words like '架' when referring to the physical scale device.",
+    "'天平' is not used for digital or electronic scales; it specifically points to traditional balance scales."
+  ],
+  "examples": [
+    {
+      "id": "tin1ping4-balance-example-1",
+      "sentence": "呢架天平幾準㗎。",
+      "jyutping": "ni1 gaa3 tin1 ping4 gei2 zeon2 gaa3.",
+      "meaning": "This balance scale is very accurate."
+    },
+    {
+      "id": "tin1ping4-balance-example-2",
+      "sentence": "你用天平量吓啲材料嘅重量。",
+      "jyutping": "nei5 jung6 tin1 ping4 loeng4 haa5 di1 coi4 liu6 ge3 zung6 loeng6.",
+      "meaning": "Use the balance scale to measure the weight of the materials."
+    },
+    {
+      "id": "tin1ping4-balance-example-3",
+      "sentence": "實驗室入面放咗部新天平。",
+      "jyutping": "sat6 jim6 sat1 jap6 min6 fong3 zo2 bou6 san1 tin1 ping4.",
+      "meaning": "They put a new balance scale in the laboratory."
+    },
+    {
+      "id": "tin1ping4-balance-example-4",
+      "sentence": "天平上擺住幾個砝碼。",
+      "jyutping": "tin1 ping4 soeng5 baai2 zyu6 gei2 go3 faa3 maa5.",
+      "meaning": "There are several weights placed on the balance scale."
+    }
+  ],
+  "audio": {
+    "word": "tin1ping4-balance.mp3",
+    "examples": [
+      "tin1ping4-balance-example-1.mp3",
+      "tin1ping4-balance-example-2.mp3",
+      "tin1ping4-balance-example-3.mp3",
+      "tin1ping4-balance-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "science",
+    "measurement",
+    "laboratory",
+    "equipment",
+    "weight",
+    "level-1"
+  ],
+  "related": [
+    "砝碼 (faa3 maa5) - weight",
+    "電子磅 (din6 zi2 bong6) - electronic scale",
+    "量度 (loeng4 dou6) - to measure",
+    "實驗室 (sat6 jim6 sat1) - laboratory",
+    "測量 (cak1 loeng4) - measurement"
+  ]
+}

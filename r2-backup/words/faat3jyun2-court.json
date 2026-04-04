@@ -3,7 +3,9 @@
   "word": "法院",
   "jyutping": "faat3 jyun2",
   "meaning": "court",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to a court as a legal institution or the court building; use it when talking about legal cases, judges, hearings, or criminal/civil proceedings.",
     "Commonly used in formal public-service and legal contexts; it sounds neutral and standard, not colloquial.",
@@ -54,5 +56,11 @@
     "buildings",
     "level-1"
   ],
-  "related": ["法庭", "法官", "案件", "出庭", "入稟"]
+  "related": [
+    "法庭",
+    "法官",
+    "案件",
+    "出庭",
+    "入稟"
+  ]
 }

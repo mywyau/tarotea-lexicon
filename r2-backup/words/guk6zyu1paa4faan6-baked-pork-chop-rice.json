@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "‘焗豬扒飯’ is a noun referring to a specific dish featuring baked pork chop served with rice.",
-    "You can use ‘焗豬扒飯’ as the object of a sentence when ordering or talking about food.",
-    "It is uncountable in most cases, so you typically don’t add plural or measure words directly before it without a classifier.",
-    "You can combine it with verbs related to eating or ordering, such as ‘食’ (eat) or ‘叫’ (order).",
-    "It can also be part of a phrase describing a meal or a menu item."
+    "焗豬扒飯 is a noun used to refer to a dish consisting of baked pork chop served with rice.",
+    "You can use 焗豬扒飯 when ordering food or talking about meal preferences.",
+    "This noun is countable, so you can say '一份焗豬扒飯' to mean 'one serving of baked pork chop rice'.",
+    "焗豬扒飯 often appears as a menu item in restaurants and cafes.",
+    "It can be used in both formal and informal contexts related to dining."
   ],
   "examples": [
     {
       "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-1",
-      "sentence": "我今日食咗焗豬扒飯，好好味。",
-      "jyutping": "ngo5 gam1 jat6 sik6 zo2 guk6 zyu1 paa4 faan6, hou2 hou2 mei6.",
-      "meaning": "I ate baked pork chop rice today; it was very tasty."
+      "sentence": "我今晚想食焗豬扒飯。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 sik6 guk6 zyu1 paa4 faan6.",
+      "meaning": "I want to eat baked pork chop rice tonight."
     },
     {
       "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-2",
-      "sentence": "餐廳有焗豬扒飯，你想唔想試吓？",
-      "jyutping": "caan1 teng1 jau5 guk6 zyu1 paa4 faan6, nei5 soeng2 m4 soeng2 si3 ha5?",
-      "meaning": "The restaurant has baked pork chop rice, do you want to try it?"
+      "sentence": "餐廳嘅焗豬扒飯好好味。",
+      "jyutping": "caan1 teng1 ge3 guk6 zyu1 paa4 faan6 hou2 hou2 mei6.",
+      "meaning": "The baked pork chop rice at the restaurant is very tasty."
     },
     {
       "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-3",
-      "sentence": "佢每次來都叫焗豬扒飯。",
-      "jyutping": "keoi5 mui5 ci3 loi4 dou1 giu3 guk6 zyu1 paa4 faan6.",
-      "meaning": "He orders baked pork chop rice every time he comes."
+      "sentence": "我叫咗一份焗豬扒飯同埋飲品。",
+      "jyutping": "ngo5 giu3 zo2 jat1 fan6 guk6 zyu1 paa4 faan6 tung4 maai4 jam2 ban2.",
+      "meaning": "I ordered a serving of baked pork chop rice and a drink."
     },
     {
       "id": "guk6zyu1paa4faan6-baked-pork-chop-rice-example-4",
-      "sentence": "焗豬扒飯配埋沙律更加正。",
-      "jyutping": "guk6 zyu1 paa4 faan6 pui3 maai4 saa1 leot6 gang1 gaa1 zeng3.",
-      "meaning": "Baked pork chop rice tastes even better with salad."
+      "sentence": "你試過焗豬扒飯未？",
+      "jyutping": "nei5 si3 gwo3 guk6 zyu1 paa4 faan6 mei6?",
+      "meaning": "Have you tried baked pork chop rice?"
     }
   ],
   "audio": {
@@ -49,18 +49,17 @@
     ]
   },
   "tags": [
-    "food",
-    "restaurant",
-    "rice dish",
-    "pork",
-    "meal",
+    "rice dishes",
+    "Hong Kong food",
+    "restaurant menu",
+    "comfort food",
     "level-1"
   ],
   "related": [
-    "豬扒",
-    "飯",
-    "焗",
-    "咖喱雞飯",
-    "燒味飯"
+    "白飯 baak6 faan6",
+    "豬扒 zyu1 paa4",
+    "焗飯 guk6 faan6",
+    "燒味 siu1 mei6",
+    "餐廳 caan1 teng1"
   ]
 }

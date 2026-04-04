@@ -3,7 +3,9 @@
   "word": "網頁設計師",
   "jyutping": "mong5 jip6 cit3 gai3 si1",
   "meaning": "web designer",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to a person who designs the look and layout of websites; the usual Cantonese term is 網頁設計師.",
     "Common in office, freelance, and tech-company contexts; it sounds neutral and professional.",
@@ -53,5 +55,11 @@
     "career",
     "level-1"
   ],
-  "related": ["程序員", "UI設計師", "網站", "設計師", "前端工程師"]
+  "related": [
+    "程序員",
+    "UI設計師",
+    "網站",
+    "設計師",
+    "前端工程師"
+  ]
 }

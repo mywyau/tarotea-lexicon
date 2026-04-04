@@ -3,7 +3,9 @@
   "word": "歌手",
   "jyutping": "go1 sau2",
   "meaning": "singer",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "歌手 is the normal word for a singer; it is used for both male and female singers.",
     "It often refers to a professional singer or a performer on stage, but you can also use it for an amateur singer in a casual context.",
@@ -54,5 +56,10 @@
     "vocabulary_level_1",
     "level-1"
   ],
-  "related": ["唱歌人", "歌星", "歌唱", "樂隊主音"]
+  "related": [
+    "唱歌人",
+    "歌星",
+    "歌唱",
+    "樂隊主音"
+  ]
 }

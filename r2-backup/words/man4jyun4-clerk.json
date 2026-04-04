@@ -3,7 +3,9 @@
   "word": "文員",
   "jyutping": "man4 jyun4",
   "meaning": "clerk",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Common noun for an office worker or administrative staff member; very often used in workplaces, companies, and government offices.",
     "It is a neutral, everyday word. For a more specific job title, Cantonese may use other nouns like '會計' or '秘書' instead of this general term.",
@@ -54,5 +56,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["秘書", "會計", "職員", "辦公室", "公司"]
+  "related": [
+    "秘書",
+    "會計",
+    "職員",
+    "辦公室",
+    "公司"
+  ]
 }

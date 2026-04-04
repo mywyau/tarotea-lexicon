@@ -4,82 +4,366 @@
   "description": "Learn common Cantonese words for school math, numbers, shapes, and measurement.",
   "categories": {
     "general_math_words": [
-      { "id": "sou3hok6-math", "word": "數學", "jyutping": "sou3 hok6", "meaning": "math" },
-      { "id": "sou3zi6-number", "word": "數字", "jyutping": "sou3 zi6", "meaning": "number" },
-      { "id": "gai3sou3-calculate", "word": "計數", "jyutping": "gai3 sou3", "meaning": "calculate" },
-      { "id": "syun3sik1-calculation", "word": "算式", "jyutping": "syun3 sik1", "meaning": "calculation" },
-      { "id": "gung1sik1-formula", "word": "公式", "jyutping": "gung1 sik1", "meaning": "formula" },
-      { "id": "fong1cing4sik1-equation", "word": "方程式", "jyutping": "fong1 cing4 sik1", "meaning": "equation" },
-      { "id": "man6tai4-problem", "word": "問題", "jyutping": "man6 tai4", "meaning": "problem" },
-      { "id": "daap3on3-answer", "word": "答案", "jyutping": "daap3 on3", "meaning": "answer" }
+      {
+        "id": "sou3hok6-math",
+        "word": "數學",
+        "jyutping": "sou3 hok6",
+        "meaning": "math"
+      },
+      {
+        "id": "sou3zi6-number",
+        "word": "數字",
+        "jyutping": "sou3 zi6",
+        "meaning": "number"
+      },
+      {
+        "id": "gai3sou3-calculate",
+        "word": "計數",
+        "jyutping": "gai3 sou3",
+        "meaning": "calculate"
+      },
+      {
+        "id": "syun3sik1-calculation",
+        "word": "算式",
+        "jyutping": "syun3 sik1",
+        "meaning": "calculation"
+      },
+      {
+        "id": "gung1sik1-formula",
+        "word": "公式",
+        "jyutping": "gung1 sik1",
+        "meaning": "formula"
+      },
+      {
+        "id": "fong1cing4sik1-equation",
+        "word": "方程式",
+        "jyutping": "fong1 cing4 sik1",
+        "meaning": "equation"
+      },
+      {
+        "id": "man6tai4-problem",
+        "word": "問題",
+        "jyutping": "man6 tai4",
+        "meaning": "problem"
+      },
+      {
+        "id": "daap3on3-answer",
+        "word": "答案",
+        "jyutping": "daap3 on3",
+        "meaning": "answer"
+      }
     ],
-
     "arithmetic": [
-      { "id": "gaa1-add", "word": "加", "jyutping": "gaa1", "meaning": "add" },
-      { "id": "gaam2-subtract", "word": "減", "jyutping": "gaam2", "meaning": "subtract" },
-      { "id": "sing4-multiply", "word": "乘", "jyutping": "sing4", "meaning": "multiply" },
-      { "id": "ceoi4-divide", "word": "除", "jyutping": "ceoi4", "meaning": "divide" },
-      { "id": "dang2jyu4-equal", "word": "等於", "jyutping": "dang2 jyu1", "meaning": "equal" },
-      { "id": "daai6jyu4-greater", "word": "大於", "jyutping": "daai6 jyu1", "meaning": "greater" },
-      { "id": "siu2jyu4-smaller", "word": "小於", "jyutping": "siu2 jyu1", "meaning": "smaller" },
-      { "id": "zung2sou3-total", "word": "總數", "jyutping": "zung2 sou3", "meaning": "total" },
-      { "id": "ping4gwan1-average", "word": "平均", "jyutping": "ping4 gwan1", "meaning": "average" },
-      { "id": "jyu4sou3-remainder", "word": "餘數", "jyutping": "jyu4 sou3", "meaning": "remainder" }
+      {
+        "id": "gaa1-add",
+        "word": "加",
+        "jyutping": "gaa1",
+        "meaning": "add"
+      },
+      {
+        "id": "gaam2-subtract",
+        "word": "減",
+        "jyutping": "gaam2",
+        "meaning": "subtract"
+      },
+      {
+        "id": "sing4-multiply",
+        "word": "乘",
+        "jyutping": "sing4",
+        "meaning": "multiply"
+      },
+      {
+        "id": "ceoi4-divide",
+        "word": "除",
+        "jyutping": "ceoi4",
+        "meaning": "divide"
+      },
+      {
+        "id": "dang2jyu1-equal",
+        "word": "等於",
+        "jyutping": "dang2 jyu1",
+        "meaning": "equal"
+      },
+      {
+        "id": "daai6jyu1-greater",
+        "word": "大於",
+        "jyutping": "daai6 jyu1",
+        "meaning": "greater"
+      },
+      {
+        "id": "siu2jyu1-smaller",
+        "word": "小於",
+        "jyutping": "siu2 jyu1",
+        "meaning": "smaller"
+      },
+      {
+        "id": "zung2sou3-total",
+        "word": "總數",
+        "jyutping": "zung2 sou3",
+        "meaning": "total"
+      },
+      {
+        "id": "ping4gwan1-average",
+        "word": "平均",
+        "jyutping": "ping4 gwan1",
+        "meaning": "average"
+      },
+      {
+        "id": "jyu4sou3-remainder",
+        "word": "餘數",
+        "jyutping": "jyu4 sou3",
+        "meaning": "remainder"
+      }
     ],
-
     "number_types": [
-      { "id": "zing2sou3-integer", "word": "整數", "jyutping": "zing2 sou3", "meaning": "integer" },
-      { "id": "fan1sou3-fraction", "word": "分數", "jyutping": "fan1 sou3", "meaning": "fraction" },
-      { "id": "siu2sou3-decimal", "word": "小數", "jyutping": "siu2 sou3", "meaning": "decimal" },
-      { "id": "baak3fan1bei2-percentage", "word": "百分比", "jyutping": "baak3 fan6 bei2", "meaning": "percentage" },
-      { "id": "zing3sou3-positive", "word": "正數", "jyutping": "zing3 sou3", "meaning": "positive" },
-      { "id": "fu6sou3-negative", "word": "負數", "jyutping": "fu6 sou3", "meaning": "negative" },
-      { "id": "daan1sou3-odd", "word": "單數", "jyutping": "daan1 sou3", "meaning": "odd" },
-      { "id": "soeng1sou3-even", "word": "雙數", "jyutping": "soeng1 sou3", "meaning": "even" }
+      {
+        "id": "zing2sou3-integer",
+        "word": "整數",
+        "jyutping": "zing2 sou3",
+        "meaning": "integer"
+      },
+      {
+        "id": "fan1sou3-fraction",
+        "word": "分數",
+        "jyutping": "fan1 sou3",
+        "meaning": "fraction"
+      },
+      {
+        "id": "siu2sou3-decimal",
+        "word": "小數",
+        "jyutping": "siu2 sou3",
+        "meaning": "decimal"
+      },
+      {
+        "id": "baak3fan6bei2-percentage",
+        "word": "百分比",
+        "jyutping": "baak3 fan6 bei2",
+        "meaning": "percentage"
+      },
+      {
+        "id": "zing3sou3-positive",
+        "word": "正數",
+        "jyutping": "zing3 sou3",
+        "meaning": "positive"
+      },
+      {
+        "id": "fu6sou3-negative",
+        "word": "負數",
+        "jyutping": "fu6 sou3",
+        "meaning": "negative"
+      },
+      {
+        "id": "daan1sou3-odd",
+        "word": "單數",
+        "jyutping": "daan1 sou3",
+        "meaning": "odd"
+      },
+      {
+        "id": "soeng1sou3-even",
+        "word": "雙數",
+        "jyutping": "soeng1 sou3",
+        "meaning": "even"
+      }
     ],
-
     "shapes": [
-      { "id": "jing4zong6-shape", "word": "形狀", "jyutping": "jing4 zong6", "meaning": "shape" },
-      { "id": "jyun4jing4-circle", "word": "圓形", "jyutping": "jyun4 jing4", "meaning": "circle" },
-      { "id": "zing3fong1jing4-square", "word": "正方形", "jyutping": "zing3 fong1 jing4", "meaning": "square" },
-      { "id": "coeng4fong1jing4-rectangle", "word": "長方形", "jyutping": "coeng4 fong1 jing4", "meaning": "rectangle" },
-      { "id": "saam1gok3jing4-triangle", "word": "三角形", "jyutping": "saam1 gok3 jing4", "meaning": "triangle" },
-      { "id": "gok3-angle", "word": "角", "jyutping": "gok3", "meaning": "angle" },
-      { "id": "bin1-side", "word": "邊", "jyutping": "bin1", "meaning": "side" },
-      { "id": "zik6sin3-line", "word": "直線", "jyutping": "zik6 sin3", "meaning": "line" },
-      { "id": "min6zik1-area", "word": "面積", "jyutping": "min6 zik1", "meaning": "area" },
-      { "id": "zau1coeng4-perimeter", "word": "周長", "jyutping": "zau1 coeng4", "meaning": "perimeter" },
-      { "id": "tai2zik1-volume", "word": "體積", "jyutping": "tai2 zik1", "meaning": "volume" }
+      {
+        "id": "jing4zong6-shape",
+        "word": "形狀",
+        "jyutping": "jing4 zong6",
+        "meaning": "shape"
+      },
+      {
+        "id": "jyun4jing4-circle",
+        "word": "圓形",
+        "jyutping": "jyun4 jing4",
+        "meaning": "circle"
+      },
+      {
+        "id": "zing3fong1jing4-square",
+        "word": "正方形",
+        "jyutping": "zing3 fong1 jing4",
+        "meaning": "square"
+      },
+      {
+        "id": "coeng4fong1jing4-rectangle",
+        "word": "長方形",
+        "jyutping": "coeng4 fong1 jing4",
+        "meaning": "rectangle"
+      },
+      {
+        "id": "saam1gok3jing4-triangle",
+        "word": "三角形",
+        "jyutping": "saam1 gok3 jing4",
+        "meaning": "triangle"
+      },
+      {
+        "id": "gok3-angle",
+        "word": "角",
+        "jyutping": "gok3",
+        "meaning": "angle"
+      },
+      {
+        "id": "bin1-side",
+        "word": "邊",
+        "jyutping": "bin1",
+        "meaning": "side"
+      },
+      {
+        "id": "zik6sin3-line",
+        "word": "直線",
+        "jyutping": "zik6 sin3",
+        "meaning": "line"
+      },
+      {
+        "id": "min6zik1-area",
+        "word": "面積",
+        "jyutping": "min6 zik1",
+        "meaning": "area"
+      },
+      {
+        "id": "zau1coeng4-perimeter",
+        "word": "周長",
+        "jyutping": "zau1 coeng4",
+        "meaning": "perimeter"
+      },
+      {
+        "id": "tai2zik1-volume",
+        "word": "體積",
+        "jyutping": "tai2 zik1",
+        "meaning": "volume"
+      }
     ],
-
     "measurement": [
-      { "id": "coeng4dou6-length", "word": "長度", "jyutping": "coeng4 dou6", "meaning": "length" },
-      { "id": "gou1dou6-height", "word": "高度", "jyutping": "gou1 dou6", "meaning": "height" },
-      { "id": "fut3dou6-width", "word": "闊度", "jyutping": "fut3 dou6", "meaning": "width" },
-      { "id": "zung6loeng6-weight", "word": "重量", "jyutping": "zung6 loeng6", "meaning": "weight" },
-      { "id": "lei4mai5-centimetre", "word": "厘米", "jyutping": "lei4 mai5", "meaning": "centimetre" },
-      { "id": "mai5-metre", "word": "米", "jyutping": "mai5", "meaning": "metre" },
-      { "id": "gung1lei5-kilometre", "word": "公里", "jyutping": "gung1 lei5", "meaning": "kilometre" },
-      { "id": "gung1gan1-kilogram", "word": "公斤", "jyutping": "gung1 gan1", "meaning": "kilogram" },
-      { "id": "gung1sing1-litre", "word": "公升", "jyutping": "gung1 sing1", "meaning": "litre" }
+      {
+        "id": "coeng4dou6-length",
+        "word": "長度",
+        "jyutping": "coeng4 dou6",
+        "meaning": "length"
+      },
+      {
+        "id": "gou1dou6-height",
+        "word": "高度",
+        "jyutping": "gou1 dou6",
+        "meaning": "height"
+      },
+      {
+        "id": "fut3dou6-width",
+        "word": "闊度",
+        "jyutping": "fut3 dou6",
+        "meaning": "width"
+      },
+      {
+        "id": "zung6loeng6-weight-2",
+        "word": "重量",
+        "jyutping": "zung6 loeng6",
+        "meaning": "weight"
+      },
+      {
+        "id": "lei4mai5-centimetre",
+        "word": "厘米",
+        "jyutping": "lei4 mai5",
+        "meaning": "centimetre"
+      },
+      {
+        "id": "mai5-metre",
+        "word": "米",
+        "jyutping": "mai5",
+        "meaning": "metre"
+      },
+      {
+        "id": "gung1lei5-kilometre",
+        "word": "公里",
+        "jyutping": "gung1 lei5",
+        "meaning": "kilometre"
+      },
+      {
+        "id": "gung1gan1-kilogram",
+        "word": "公斤",
+        "jyutping": "gung1 gan1",
+        "meaning": "kilogram"
+      },
+      {
+        "id": "gung1sing1-litre",
+        "word": "公升",
+        "jyutping": "gung1 sing1",
+        "meaning": "litre"
+      }
     ],
-
     "algebra": [
-      { "id": "doi6sou3-algebra", "word": "代數", "jyutping": "doi6 sou3", "meaning": "algebra" },
-      { "id": "mei6zi1sou3-variable", "word": "未知數", "jyutping": "mei6 zi1 sou3", "meaning": "variable" },
-      { "id": "hai6sou3-coefficient", "word": "係數", "jyutping": "hai6 sou3", "meaning": "coefficient" },
-      { "id": "gaan2faa3-simplify", "word": "簡化", "jyutping": "gaan2 faa3", "meaning": "simplify" },
-      { "id": "doi6jap6faat3-substitution", "word": "代入法", "jyutping": "doi6 jap6 faat3", "meaning": "substitution" }
+      {
+        "id": "doi6sou3-algebra",
+        "word": "代數",
+        "jyutping": "doi6 sou3",
+        "meaning": "algebra"
+      },
+      {
+        "id": "mei6zi1sou3-variable",
+        "word": "未知數",
+        "jyutping": "mei6 zi1 sou3",
+        "meaning": "variable"
+      },
+      {
+        "id": "hai6sou3-coefficient",
+        "word": "係數",
+        "jyutping": "hai6 sou3",
+        "meaning": "coefficient"
+      },
+      {
+        "id": "gaan2faa3-simplify",
+        "word": "簡化",
+        "jyutping": "gaan2 faa3",
+        "meaning": "simplify"
+      },
+      {
+        "id": "doi6jap6faat3-substitution",
+        "word": "代入法",
+        "jyutping": "doi6 jap6 faat3",
+        "meaning": "substitution"
+      }
     ],
-
     "powers_and_roots": [
-      { "id": "zi2sou3-exponent", "word": "指數", "jyutping": "zi2 sou3", "meaning": "exponent" },
-      { "id": "ci3fong1-power", "word": "次方", "jyutping": "ci3 fong1", "meaning": "power" },
-      { "id": "ping4fong1-square", "word": "平方", "jyutping": "ping4 fong1", "meaning": "square" },
-      { "id": "laap6fong1-cube", "word": "立方", "jyutping": "laap6 fong1", "meaning": "cube" },
-      { "id": "ping4fong1gan1-square-root", "word": "平方根", "jyutping": "ping4 fong1 gan1", "meaning": "square root" },
-      { "id": "laap6fong1gan1-cube-root", "word": "立方根", "jyutping": "laap6 fong1 gan1", "meaning": "cube root" },
-      { "id": "ping4fong1sou3-square-number", "word": "平方數", "jyutping": "ping4 fong1 sou3", "meaning": "square number" }
+      {
+        "id": "zi2sou3-exponent",
+        "word": "指數",
+        "jyutping": "zi2 sou3",
+        "meaning": "exponent"
+      },
+      {
+        "id": "ci3fong1-power",
+        "word": "次方",
+        "jyutping": "ci3 fong1",
+        "meaning": "power"
+      },
+      {
+        "id": "ping4fong1-square",
+        "word": "平方",
+        "jyutping": "ping4 fong1",
+        "meaning": "square"
+      },
+      {
+        "id": "laap6fong1-cube",
+        "word": "立方",
+        "jyutping": "laap6 fong1",
+        "meaning": "cube"
+      },
+      {
+        "id": "ping4fong1gan1-square-root",
+        "word": "平方根",
+        "jyutping": "ping4 fong1 gan1",
+        "meaning": "square root"
+      },
+      {
+        "id": "laap6fong1gan1-cube-root",
+        "word": "立方根",
+        "jyutping": "laap6 fong1 gan1",
+        "meaning": "cube root"
+      },
+      {
+        "id": "ping4fong1sou3-square-number",
+        "word": "平方數",
+        "jyutping": "ping4 fong1 sou3",
+        "meaning": "square number"
+      }
     ]
   }
 }

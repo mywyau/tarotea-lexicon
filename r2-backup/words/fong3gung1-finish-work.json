@@ -3,7 +3,10 @@
   "word": "放工",
   "jyutping": "fong3 gung1",
   "meaning": "finish work",
-  "pos": ["verb", "noun"],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "usage": [
     "Very common spoken Cantonese. Use 放工 for the moment you leave work, or for the action of finishing work for the day.",
     "It is informal and everyday, so it sounds natural in conversation, messages, and workplace chat.",
@@ -53,5 +56,10 @@
     "common phrase",
     "level-1"
   ],
-  "related": ["收工", "下班", "返工", "OT"]
+  "related": [
+    "收工",
+    "下班",
+    "返工",
+    "OT"
+  ]
 }

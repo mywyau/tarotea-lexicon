@@ -3,7 +3,9 @@
   "word": "風琴",
   "jyutping": "fung1 kam4",
   "meaning": "organ",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "風琴 is the standard noun for an organ, especially a church organ or a keyboard instrument with organ sounds.",
     "It is a countable noun in English teaching terms: you can refer to one 風琴, but in real speech people often talk about the instrument as a general class.",
@@ -55,5 +57,10 @@
     "church",
     "level-1"
   ],
-  "related": ["鋼琴", "電子琴", "風琴聲", "管風琴"]
+  "related": [
+    "鋼琴",
+    "電子琴",
+    "風琴聲",
+    "管風琴"
+  ]
 }

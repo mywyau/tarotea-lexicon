@@ -3,7 +3,9 @@
   "word": "律師",
   "jyutping": "leot6 si1",
   "meaning": "lawyer",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common, everyday noun for a legal professional; use it when talking about someone who works in law.",
     "Usually refers to a person who gives legal advice, handles court cases, or helps with contracts and disputes.",
@@ -53,5 +55,10 @@
     "beginner-friendly",
     "level-1"
   ],
-  "related": ["律師樓", "法律", "法庭", "打官司"]
+  "related": [
+    "律師樓",
+    "法律",
+    "法庭",
+    "打官司"
+  ]
 }

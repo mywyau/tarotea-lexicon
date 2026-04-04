@@ -3,16 +3,15 @@
   "word": "八",
   "jyutping": "baat3",
   "meaning": "eight",
-
-  "pos": ["number"],
-
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number eight",
     "Commonly used in counting, times, dates, ages, and quantities",
     "Often appears in everyday expressions involving numbers",
     "Considered a lucky number in Chinese culture"
   ],
-
   "examples": [
     {
       "id": "baat3-eight-example-1",
@@ -39,7 +38,6 @@
       "meaning": "Today is the eighth."
     }
   ],
-
   "audio": {
     "word": "baat3-eight.mp3",
     "examples": [
@@ -49,9 +47,11 @@
       "baat3-eight-example-4.mp3"
     ]
   },
-
-  "tags": ["number", "level-1", "core"],
-
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
   "related": [
     "cat1-seven",
     "gau2-nine"

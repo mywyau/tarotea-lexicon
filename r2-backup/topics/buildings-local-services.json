@@ -4,103 +4,528 @@
   "description": "Learn common places, buildings, shops, and local services you find in a town or city.",
   "categories": {
     "public_services": [
-      { "id": "ging2cyu5-police-station", "word": "警署", "jyutping": "ging2 cyu5", "meaning": "police station" },
-      { "id": "siu1fong4guk6-fire-station", "word": "消防局", "jyutping": "siu1 fong4 guk6", "meaning": "fire station" },
-      { "id": "ji1jyun2-hospital", "word": "醫院", "jyutping": "ji1 jyun2", "meaning": "hospital" },
-      { "id": "can2so2-clinic", "word": "診所", "jyutping": "can2 so2", "meaning": "clinic" },
-      { "id": "joek6fong2-pharmacy", "word": "藥房", "jyutping": "joek6 fong2", "meaning": "pharmacy" },
-      { "id": "jau4guk2-post-office", "word": "郵局", "jyutping": "jau4 guk2", "meaning": "post office" },
-      { "id": "faat3jyun2-court", "word": "法院", "jyutping": "faat3 jyun2", "meaning": "court" },
-      { "id": "zing3fu2baan6si6cyu3-government-office", "word": "政府辦事處", "jyutping": "zing3 fu2 baan6 si6 cyu3", "meaning": "government office" },
-      { "id": "gau3wu6zaam6-ambulance-station", "word": "救護站", "jyutping": "gau3 wu6 zaam6", "meaning": "ambulance station" },
-      { "id": "wai6sang1cyu5-health-department", "word": "衛生署", "jyutping": "wai6 sang1 cyu5", "meaning": "department of health" },
-      { "id": "se5wui6fuk1lei6cyu5-social-welfare-department", "word": "社會福利署", "jyutping": "se5 wui6 fuk1 lei6 cyu5", "meaning": "social welfare department" },
-      { "id": "lou4gung1cyu3-labour-department", "word": "勞工處", "jyutping": "lou4 gung1 cyu3", "meaning": "labour department" },
-      { "id": "dang1gei3cyu3-registry-office", "word": "登記處", "jyutping": "dang1 gei3 cyu3", "meaning": "registry office" },
-      { "id": "jap6ging2si6mou6cyu3-immigration-department", "word": "入境事務處", "jyutping": "jap6 ging2 si6 mou6 cyu3", "meaning": "immigration department" },
-      { "id": "fong4uk1cyu5-housing-department", "word": "房屋署", "jyutping": "fong4 uk1 cyu5", "meaning": "housing department" }
+      {
+        "id": "ging2cyu5-police-station",
+        "word": "警署",
+        "jyutping": "ging2 cyu5",
+        "meaning": "police station"
+      },
+      {
+        "id": "siu1fong4guk6-fire-station",
+        "word": "消防局",
+        "jyutping": "siu1 fong4 guk6",
+        "meaning": "fire station"
+      },
+      {
+        "id": "ji1jyun2-hospital",
+        "word": "醫院",
+        "jyutping": "ji1 jyun2",
+        "meaning": "hospital"
+      },
+      {
+        "id": "can2so2-clinic",
+        "word": "診所",
+        "jyutping": "can2 so2",
+        "meaning": "clinic"
+      },
+      {
+        "id": "joek6fong2-pharmacy",
+        "word": "藥房",
+        "jyutping": "joek6 fong2",
+        "meaning": "pharmacy"
+      },
+      {
+        "id": "jau4guk2-post-office",
+        "word": "郵局",
+        "jyutping": "jau4 guk2",
+        "meaning": "post office"
+      },
+      {
+        "id": "faat3jyun2-court",
+        "word": "法院",
+        "jyutping": "faat3 jyun2",
+        "meaning": "court"
+      },
+      {
+        "id": "zing3fu2baan6si6cyu3-government-office",
+        "word": "政府辦事處",
+        "jyutping": "zing3 fu2 baan6 si6 cyu3",
+        "meaning": "government office"
+      },
+      {
+        "id": "gau3wu6zaam6-ambulance-station",
+        "word": "救護站",
+        "jyutping": "gau3 wu6 zaam6",
+        "meaning": "ambulance station"
+      },
+      {
+        "id": "wai6sang1cyu5-department-of-health",
+        "word": "衛生署",
+        "jyutping": "wai6 sang1 cyu5",
+        "meaning": "department of health"
+      },
+      {
+        "id": "se5wui6fuk1lei6cyu5-social-welfare-department",
+        "word": "社會福利署",
+        "jyutping": "se5 wui6 fuk1 lei6 cyu5",
+        "meaning": "social welfare department"
+      },
+      {
+        "id": "lou4gung1cyu3-labour-department",
+        "word": "勞工處",
+        "jyutping": "lou4 gung1 cyu3",
+        "meaning": "labour department"
+      },
+      {
+        "id": "dang1gei3cyu3-registry-office",
+        "word": "登記處",
+        "jyutping": "dang1 gei3 cyu3",
+        "meaning": "registry office"
+      },
+      {
+        "id": "jap6ging2si6mou6cyu3-immigration-department",
+        "word": "入境事務處",
+        "jyutping": "jap6 ging2 si6 mou6 cyu3",
+        "meaning": "immigration department"
+      },
+      {
+        "id": "fong4uk1cyu5-housing-department",
+        "word": "房屋署",
+        "jyutping": "fong4 uk1 cyu5",
+        "meaning": "housing department"
+      }
     ],
     "community_places": [
-      { "id": "tou4syu1gun2-library", "word": "圖書館", "jyutping": "tou4 syu1 gun2", "meaning": "library" },
-      { "id": "bok3mat6gun2-museum", "word": "博物館", "jyutping": "bok3 mat6 gun2", "meaning": "museum" },
-      { "id": "gung1jyun4-park", "word": "公園", "jyutping": "gung1 jyun4", "meaning": "park" },
-      { "id": "jau4lok6coeng4-playground", "word": "遊樂場", "jyutping": "jau4 lok6 coeng4", "meaning": "playground" },
-      { "id": "se5keoi1zung1sam1-community-centre", "word": "社區中心", "jyutping": "se5 keoi1 zung1 sam1", "meaning": "community centre" },
-      { "id": "tai2juk6gun2-sports-centre", "word": "體育館", "jyutping": "tai2 juk6 gun2", "meaning": "gymnasium" },
-      { "id": "jau4wing6ci4-swimming-pool", "word": "游泳池", "jyutping": "jau4 wing6 ci4", "meaning": "swimming pool" },
-      { "id": "gung1ci3-public-toilet", "word": "公廁", "jyutping": "gung1 ci3", "meaning": "public toilet" },
-      { "id": "zin2laam5gun2-exhibition-hall", "word": "展覽館", "jyutping": "zin2 laam5 gun2", "meaning": "exhibition hall" },
-      { "id": "man4faa3zung1sam1-cultural-centre", "word": "文化中心", "jyutping": "man4 faa3 zung1 sam1", "meaning": "cultural centre" },
-      { "id": "din6jing2jyun2-cinema", "word": "電影院", "jyutping": "din6 jing2 jyun2", "meaning": "cinema" },
-      { "id": "tai2juk6coeng4-stadium", "word": "體育場", "jyutping": "tai2 juk6 coeng4", "meaning": "stadium" },
-      { "id": "bou6hang4ging3-walking-trail", "word": "步行徑", "jyutping": "bou6 hang4 ging3", "meaning": "walking trail" },
-      { "id": "jau4lok6jyun4-amusement-park", "word": "遊樂園", "jyutping": "jau4 lok6 jyun4", "meaning": "amusement park" },
-      { "id": "gun1ging2toi4-observation-deck", "word": "觀景台", "jyutping": "gun1 ging2 toi4", "meaning": "observation deck" },
-      { "id": "faa1jyun4-garden", "word": "花園", "jyutping": "faa1 jyun4", "meaning": "garden" },
-      { "id": "jau1hei3cyu3-rest-area", "word": "休憩處", "jyutping": "jau1 hei3 cyu3", "meaning": "rest area" },
-      { "id": "gwong2coeng4-public-square", "word": "廣場", "jyutping": "gwong2 coeng4", "meaning": "public square" },
-      { "id": "dung6mat6jyun4-zoo", "word": "動物園", "jyutping": "dung6 mat6 jyun4", "meaning": "zoo" }
+      {
+        "id": "tou4syu1gun2-library",
+        "word": "圖書館",
+        "jyutping": "tou4 syu1 gun2",
+        "meaning": "library"
+      },
+      {
+        "id": "bok3mat6gun2-museum",
+        "word": "博物館",
+        "jyutping": "bok3 mat6 gun2",
+        "meaning": "museum"
+      },
+      {
+        "id": "gung1jyun4-park",
+        "word": "公園",
+        "jyutping": "gung1 jyun4",
+        "meaning": "park"
+      },
+      {
+        "id": "jau4lok6coeng4-playground",
+        "word": "遊樂場",
+        "jyutping": "jau4 lok6 coeng4",
+        "meaning": "playground"
+      },
+      {
+        "id": "se5keoi1zung1sam1-community-centre",
+        "word": "社區中心",
+        "jyutping": "se5 keoi1 zung1 sam1",
+        "meaning": "community centre"
+      },
+      {
+        "id": "tai2juk6gun2-gymnasium",
+        "word": "體育館",
+        "jyutping": "tai2 juk6 gun2",
+        "meaning": "gymnasium"
+      },
+      {
+        "id": "jau4wing6ci4-swimming-pool",
+        "word": "游泳池",
+        "jyutping": "jau4 wing6 ci4",
+        "meaning": "swimming pool"
+      },
+      {
+        "id": "gung1ci3-public-toilet",
+        "word": "公廁",
+        "jyutping": "gung1 ci3",
+        "meaning": "public toilet"
+      },
+      {
+        "id": "zin2laam5gun2-exhibition-hall",
+        "word": "展覽館",
+        "jyutping": "zin2 laam5 gun2",
+        "meaning": "exhibition hall"
+      },
+      {
+        "id": "man4faa3zung1sam1-cultural-centre",
+        "word": "文化中心",
+        "jyutping": "man4 faa3 zung1 sam1",
+        "meaning": "cultural centre"
+      },
+      {
+        "id": "din6jing2jyun2-cinema",
+        "word": "電影院",
+        "jyutping": "din6 jing2 jyun2",
+        "meaning": "cinema"
+      },
+      {
+        "id": "tai2juk6coeng4-stadium",
+        "word": "體育場",
+        "jyutping": "tai2 juk6 coeng4",
+        "meaning": "stadium"
+      },
+      {
+        "id": "bou6hang4ging3-walking-trail",
+        "word": "步行徑",
+        "jyutping": "bou6 hang4 ging3",
+        "meaning": "walking trail"
+      },
+      {
+        "id": "jau4lok6jyun4-amusement-park",
+        "word": "遊樂園",
+        "jyutping": "jau4 lok6 jyun4",
+        "meaning": "amusement park"
+      },
+      {
+        "id": "gun1ging2toi4-observation-deck",
+        "word": "觀景台",
+        "jyutping": "gun1 ging2 toi4",
+        "meaning": "observation deck"
+      },
+      {
+        "id": "faa1jyun4-garden",
+        "word": "花園",
+        "jyutping": "faa1 jyun4",
+        "meaning": "garden"
+      },
+      {
+        "id": "jau1hei3cyu3-rest-area",
+        "word": "休憩處",
+        "jyutping": "jau1 hei3 cyu3",
+        "meaning": "rest area"
+      },
+      {
+        "id": "gwong2coeng4-public-square",
+        "word": "廣場",
+        "jyutping": "gwong2 coeng4",
+        "meaning": "public square"
+      },
+      {
+        "id": "dung6mat6jyun4-zoo",
+        "word": "動物園",
+        "jyutping": "dung6 mat6 jyun4",
+        "meaning": "zoo"
+      }
     ],
     "daily_errands": [
-      { "id": "ngan4hong4-bank", "word": "銀行", "jyutping": "ngan4 hong4", "meaning": "bank" },
-      { "id": "zi6dung6gwai6jyun4gei1-atm", "word": "自動櫃員機", "jyutping": "zi6 dung6 gwai6 jyun4 gei1", "meaning": "ATM" },
-      { "id": "ciu1si5-supermarket", "word": "超市", "jyutping": "ciu1 si5", "meaning": "supermarket" },
-      { "id": "bin6lei6dim3-convenience-store", "word": "便利店", "jyutping": "bin6 lei6 dim3", "meaning": "convenience store" },
-      { "id": "gaai1si5-market", "word": "街市", "jyutping": "gaai1 si5", "meaning": "market" },
-      { "id": "min6baau1pou2-bakery", "word": "麵包舖", "jyutping": "min6 baau1 pou2", "meaning": "bakery" },
-      { "id": "sai2ji1dim3-laundrette", "word": "洗衣店", "jyutping": "sai2 ji1 dim3", "meaning": "laundrette" },
-      { "id": "ng5gam1pou2-hardware-store", "word": "五金舖", "jyutping": "ng5 gam1 pou2", "meaning": "hardware store" },
-      { "id": "seoi2gwo2dim3-fruit-shop", "word": "水果店", "jyutping": "seoi2 gwo2 dim3", "meaning": "fruit shop" },
-      { "id": "zaap6fo3dim3-grocery-store", "word": "雜貨店", "jyutping": "zaap6 fo3 dim3", "meaning": "grocery store" },
-      { "id": "man4geoi6dim3-stationery-shop", "word": "文具店", "jyutping": "man4 geoi6 dim3", "meaning": "stationery shop" },
-      { "id": "fuk6sik1dim3-clothing-shop", "word": "服飾店", "jyutping": "fuk6 sik1 dim3", "meaning": "clothing shop" },
-      { "id": "gaa1geoi1dim3-housewares-shop", "word": "家居店", "jyutping": "gaa1 geoi1 dim3", "meaning": "housewares shop" },
-      { "id": "cung2mat6dim3-pet-shop", "word": "寵物店", "jyutping": "cung2 mat6 dim3", "meaning": "pet shop" }
+      {
+        "id": "ngan4hong4-bank",
+        "word": "銀行",
+        "jyutping": "ngan4 hong4",
+        "meaning": "bank"
+      },
+      {
+        "id": "zi6dung6gwai6jyun4gei1-atm",
+        "word": "自動櫃員機",
+        "jyutping": "zi6 dung6 gwai6 jyun4 gei1",
+        "meaning": "ATM"
+      },
+      {
+        "id": "ciu1si5-supermarket",
+        "word": "超市",
+        "jyutping": "ciu1 si5",
+        "meaning": "supermarket"
+      },
+      {
+        "id": "bin6lei6dim3-convenience-store",
+        "word": "便利店",
+        "jyutping": "bin6 lei6 dim3",
+        "meaning": "convenience store"
+      },
+      {
+        "id": "gaai1si5-market",
+        "word": "街市",
+        "jyutping": "gaai1 si5",
+        "meaning": "market"
+      },
+      {
+        "id": "min6baau1pou2-bakery",
+        "word": "麵包舖",
+        "jyutping": "min6 baau1 pou2",
+        "meaning": "bakery"
+      },
+      {
+        "id": "sai2ji1dim3-laundrette",
+        "word": "洗衣店",
+        "jyutping": "sai2 ji1 dim3",
+        "meaning": "laundrette"
+      },
+      {
+        "id": "ng5gam1pou2-hardware-store",
+        "word": "五金舖",
+        "jyutping": "ng5 gam1 pou2",
+        "meaning": "hardware store"
+      },
+      {
+        "id": "seoi2gwo2dim3-fruit-shop",
+        "word": "水果店",
+        "jyutping": "seoi2 gwo2 dim3",
+        "meaning": "fruit shop"
+      },
+      {
+        "id": "zaap6fo3dim3-grocery-store",
+        "word": "雜貨店",
+        "jyutping": "zaap6 fo3 dim3",
+        "meaning": "grocery store"
+      },
+      {
+        "id": "man4geoi6dim3-stationery-shop",
+        "word": "文具店",
+        "jyutping": "man4 geoi6 dim3",
+        "meaning": "stationery shop"
+      },
+      {
+        "id": "fuk6sik1dim3-clothing-shop",
+        "word": "服飾店",
+        "jyutping": "fuk6 sik1 dim3",
+        "meaning": "clothing shop"
+      },
+      {
+        "id": "gaa1geoi1dim3-housewares-shop",
+        "word": "家居店",
+        "jyutping": "gaa1 geoi1 dim3",
+        "meaning": "housewares shop"
+      },
+      {
+        "id": "cung2mat6dim3-pet-shop",
+        "word": "寵物店",
+        "jyutping": "cung2 mat6 dim3",
+        "meaning": "pet shop"
+      }
     ],
     "personal_care": [
-      { "id": "lei5faat3dim3-barber-shop", "word": "理髮店", "jyutping": "lei5 faat3 dim3", "meaning": "barber shop" },
-      { "id": "faat3jing4uk1-hair-salon", "word": "髮型屋", "jyutping": "faat3 jing4 uk1", "meaning": "hair salon" },
-      { "id": "mei5jung4jyun2-beauty-salon", "word": "美容院", "jyutping": "mei5 jung4 jyun2", "meaning": "beauty salon" },
-      { "id": "ngaa4ji1can2so2-dentist-clinic", "word": "牙醫診所", "jyutping": "ngaa4 ji1 can2 so2", "meaning": "dentist clinic" },
-      { "id": "ngaan5geng3pou2-optician", "word": "眼鏡舖", "jyutping": "ngaan5 geng3 pou2", "meaning": "optician" },
-      { "id": "aan3mo1dim3-massage-shop", "word": "按摩店", "jyutping": "aan3 mo1 dim3", "meaning": "massage shop" },
-      { "id": "mat6lei5zi6liu4so2-physiotherapy-clinic", "word": "物理治療所", "jyutping": "mat6 lei5 zi6 liu4 so2", "meaning": "physiotherapy clinic" },
-      { "id": "zung1ji1can2so2-chinese-medicine-clinic", "word": "中醫診所", "jyutping": "zung1 ji1 can2 so2", "meaning": "chinese medicine clinic" },
-      { "id": "faa3zong1ban2dim3-cosmetics-shop", "word": "化妝品店", "jyutping": "faa3 zong1 ban2 dim3", "meaning": "cosmetics shop" },
-      { "id": "wu6fu1ban2dim3-skincare-shop", "word": "護膚品店", "jyutping": "wu6 fu1 ban2 dim3", "meaning": "skincare shop" },
-      { "id": "mei5gaap3dim3-nail-salon", "word": "美甲店", "jyutping": "mei5 gaap3 dim3", "meaning": "nail salon" },
-      { "id": "man4san1dim3-tattoo-shop", "word": "紋身店", "jyutping": "man4 san1 dim3", "meaning": "tattoo shop" },
-      { "id": "ngaan5fo1can2so2-eye-clinic", "word": "眼科診所", "jyutping": "ngaan5 fo1 can2 so2", "meaning": "eye clinic" },
-      { "id": "pei4fu1fo1can2so2-skin-clinic", "word": "皮膚科診所", "jyutping": "pei4 fu1 fo1 can2 so2", "meaning": "skin clinic" }
+      {
+        "id": "lei5faat3dim3-barber-shop",
+        "word": "理髮店",
+        "jyutping": "lei5 faat3 dim3",
+        "meaning": "barber shop"
+      },
+      {
+        "id": "faat3jing4uk1-hair-salon",
+        "word": "髮型屋",
+        "jyutping": "faat3 jing4 uk1",
+        "meaning": "hair salon"
+      },
+      {
+        "id": "mei5jung4jyun2-beauty-salon",
+        "word": "美容院",
+        "jyutping": "mei5 jung4 jyun2",
+        "meaning": "beauty salon"
+      },
+      {
+        "id": "ngaa4ji1can2so2-dentist-clinic",
+        "word": "牙醫診所",
+        "jyutping": "ngaa4 ji1 can2 so2",
+        "meaning": "dentist clinic"
+      },
+      {
+        "id": "ngaan5geng3pou2-optician",
+        "word": "眼鏡舖",
+        "jyutping": "ngaan5 geng3 pou2",
+        "meaning": "optician"
+      },
+      {
+        "id": "aan3mo1dim3-massage-shop",
+        "word": "按摩店",
+        "jyutping": "aan3 mo1 dim3",
+        "meaning": "massage shop"
+      },
+      {
+        "id": "mat6lei5zi6liu4so2-physiotherapy-clinic",
+        "word": "物理治療所",
+        "jyutping": "mat6 lei5 zi6 liu4 so2",
+        "meaning": "physiotherapy clinic"
+      },
+      {
+        "id": "zung1ji1can2so2-chinese-medicine-clinic",
+        "word": "中醫診所",
+        "jyutping": "zung1 ji1 can2 so2",
+        "meaning": "chinese medicine clinic"
+      },
+      {
+        "id": "faa3zong1ban2dim3-cosmetics-shop",
+        "word": "化妝品店",
+        "jyutping": "faa3 zong1 ban2 dim3",
+        "meaning": "cosmetics shop"
+      },
+      {
+        "id": "wu6fu1ban2dim3-skincare-shop",
+        "word": "護膚品店",
+        "jyutping": "wu6 fu1 ban2 dim3",
+        "meaning": "skincare shop"
+      },
+      {
+        "id": "mei5gaap3dim3-nail-salon",
+        "word": "美甲店",
+        "jyutping": "mei5 gaap3 dim3",
+        "meaning": "nail salon"
+      },
+      {
+        "id": "man4san1dim3-tattoo-shop",
+        "word": "紋身店",
+        "jyutping": "man4 san1 dim3",
+        "meaning": "tattoo shop"
+      },
+      {
+        "id": "ngaan5fo1can2so2-eye-clinic",
+        "word": "眼科診所",
+        "jyutping": "ngaan5 fo1 can2 so2",
+        "meaning": "eye clinic"
+      },
+      {
+        "id": "pei4fu1fo1can2so2-skin-clinic",
+        "word": "皮膚科診所",
+        "jyutping": "pei4 fu1 fo1 can2 so2",
+        "meaning": "skin clinic"
+      }
     ],
     "transport_places": [
-      { "id": "baa1si2zaam6-bus-stop", "word": "巴士站", "jyutping": "baa1 si2 zaam6", "meaning": "bus stop" },
-      { "id": "gong2tit3zaam6-mtr-station", "word": "港鐵站", "jyutping": "gong2 tit3 zaam6", "meaning": "MTR station" },
-      { "id": "fo2ce1zaam6-train-station", "word": "火車站", "jyutping": "fo2 ce1 zaam6", "meaning": "train station" },
-      { "id": "dik1si2zaam6-taxi-stand", "word": "的士站", "jyutping": "dik1 si2 zaam6", "meaning": "taxi stand" },
-      { "id": "ting4ce1coeng4-car-park", "word": "停車場", "jyutping": "ting4 ce1 coeng4", "meaning": "car park" },
-      { "id": "jau4zaam6-petrol-station", "word": "油站", "jyutping": "jau4 zaam6", "meaning": "petrol station" },
-      { "id": "hung4luk6dang1-traffic-lights", "word": "紅綠燈", "jyutping": "hung4 luk6 dang1", "meaning": "traffic lights" },
-      { "id": "tin1kiu4-footbridge", "word": "天橋", "jyutping": "tin1 kiu4", "meaning": "footbridge" }
+      {
+        "id": "baa1si2zaam6-bus-stop",
+        "word": "巴士站",
+        "jyutping": "baa1 si2 zaam6",
+        "meaning": "bus stop"
+      },
+      {
+        "id": "gong2tit3zaam6-mtr-station",
+        "word": "港鐵站",
+        "jyutping": "gong2 tit3 zaam6",
+        "meaning": "MTR station"
+      },
+      {
+        "id": "fo2ce1zaam6-train-station",
+        "word": "火車站",
+        "jyutping": "fo2 ce1 zaam6",
+        "meaning": "train station"
+      },
+      {
+        "id": "dik1si2zaam6-taxi-stand",
+        "word": "的士站",
+        "jyutping": "dik1 si2 zaam6",
+        "meaning": "taxi stand"
+      },
+      {
+        "id": "ting4ce1coeng4-car-park",
+        "word": "停車場",
+        "jyutping": "ting4 ce1 coeng4",
+        "meaning": "car park"
+      },
+      {
+        "id": "jau4zaam6-petrol-station",
+        "word": "油站",
+        "jyutping": "jau4 zaam6",
+        "meaning": "petrol station"
+      },
+      {
+        "id": "hung4luk6dang1-traffic-lights",
+        "word": "紅綠燈",
+        "jyutping": "hung4 luk6 dang1",
+        "meaning": "traffic lights"
+      },
+      {
+        "id": "tin1kiu4-footbridge",
+        "word": "天橋",
+        "jyutping": "tin1 kiu4",
+        "meaning": "footbridge"
+      }
     ],
     "shopping_and_food_places": [
-      { "id": "soeng1coeng4-shopping-centre", "word": "商場", "jyutping": "soeng1 coeng4", "meaning": "shopping centre" },
-      { "id": "caan1teng1-restaurant", "word": "餐廳", "jyutping": "caan1 teng1", "meaning": "restaurant" },
-      { "id": "gaa3fe1dim3-cafe", "word": "咖啡店", "jyutping": "gaa3 fe1 dim3", "meaning": "cafe" },
-      { "id": "baak3fo3gung1si1-department-store", "word": "百貨公司", "jyutping": "baak3 fo3 gung1 si1", "meaning": "department store" },
-      { "id": "syu1dim3-bookshop", "word": "書店", "jyutping": "syu1 dim3", "meaning": "bookshop" },
-      { "id": "faa1dim3-florist", "word": "花店", "jyutping": "faa1 dim3", "meaning": "florist" },
-      { "id": "zau2dim3-hotel", "word": "酒店", "jyutping": "zau2 dim3", "meaning": "hotel" }
+      {
+        "id": "soeng1coeng4-shopping-centre",
+        "word": "商場",
+        "jyutping": "soeng1 coeng4",
+        "meaning": "shopping centre"
+      },
+      {
+        "id": "caan1teng1-restaurant",
+        "word": "餐廳",
+        "jyutping": "caan1 teng1",
+        "meaning": "restaurant"
+      },
+      {
+        "id": "gaa3fe1dim3-cafe",
+        "word": "咖啡店",
+        "jyutping": "gaa3 fe1 dim3",
+        "meaning": "cafe"
+      },
+      {
+        "id": "baak3fo3gung1si1-department-store",
+        "word": "百貨公司",
+        "jyutping": "baak3 fo3 gung1 si1",
+        "meaning": "department store"
+      },
+      {
+        "id": "syu1dim3-bookshop",
+        "word": "書店",
+        "jyutping": "syu1 dim3",
+        "meaning": "bookshop"
+      },
+      {
+        "id": "faa1dim3-florist",
+        "word": "花店",
+        "jyutping": "faa1 dim3",
+        "meaning": "florist"
+      },
+      {
+        "id": "zau2dim3-hotel",
+        "word": "酒店",
+        "jyutping": "zau2 dim3",
+        "meaning": "hotel"
+      }
     ],
     "education_and_work_places": [
-      { "id": "hok6haau6-school", "word": "學校", "jyutping": "hok6 haau6", "meaning": "school" },
-      { "id": "daai6hok6-university", "word": "大學", "jyutping": "daai6 hok6", "meaning": "university" },
-      { "id": "zung1hok6-secondary-school", "word": "中學", "jyutping": "zung1 hok6", "meaning": "secondary school" },
-      { "id": "siu2hok6-primary-school", "word": "小學", "jyutping": "siu2 hok6", "meaning": "primary school" },
-      { "id": "gung1si1-company", "word": "公司", "jyutping": "gung1 si1", "meaning": "company" },
-      { "id": "baan6gung1sat1-office", "word": "辦公室", "jyutping": "baan6 gung1 sat1", "meaning": "office" },
-      { "id": "ngan4hong4fan1hong2-bank-branch", "word": "銀行分行", "jyutping": "ngan4 hong4 fan1 hong2", "meaning": "bank branch" },
-      { "id": "wui6ji5sat1-meeting-room", "word": "會議室", "jyutping": "wui6 ji5 sat1", "meaning": "meeting room" }
+      {
+        "id": "hok6haau6-school",
+        "word": "學校",
+        "jyutping": "hok6 haau6",
+        "meaning": "school"
+      },
+      {
+        "id": "daai6hok6-university",
+        "word": "大學",
+        "jyutping": "daai6 hok6",
+        "meaning": "university"
+      },
+      {
+        "id": "zung1hok6-secondary-school",
+        "word": "中學",
+        "jyutping": "zung1 hok6",
+        "meaning": "secondary school"
+      },
+      {
+        "id": "siu2hok6-primary-school",
+        "word": "小學",
+        "jyutping": "siu2 hok6",
+        "meaning": "primary school"
+      },
+      {
+        "id": "gung1si1-company",
+        "word": "公司",
+        "jyutping": "gung1 si1",
+        "meaning": "company"
+      },
+      {
+        "id": "baan6gung1sat1-office",
+        "word": "辦公室",
+        "jyutping": "baan6 gung1 sat1",
+        "meaning": "office"
+      },
+      {
+        "id": "ngan4hong4fan1hong2-bank-branch",
+        "word": "銀行分行",
+        "jyutping": "ngan4 hong4 fan1 hong2",
+        "meaning": "bank branch"
+      },
+      {
+        "id": "wui6ji5sat1-meeting-room",
+        "word": "會議室",
+        "jyutping": "wui6 ji5 sat1",
+        "meaning": "meeting room"
+      }
     ]
   }
 }

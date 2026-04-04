@@ -1,0 +1,65 @@
+{
+  "id": "jat1di1-some",
+  "word": "一啲",
+  "jyutping": "jat1 di1",
+  "meaning": "some",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 一啲 is used to mean 'some' or 'a little bit' of something.",
+    "It can be used to indicate an unspecified small quantity.",
+    "一啲 can be used before nouns to specify a small amount.",
+    "It can also be used with verbs to mean 'a bit more' of an action or state.",
+    "When used alone, it can function as a noun meaning 'some (amount)'."
+  ],
+  "examples": [
+    {
+      "id": "jat1di1-some-example-1",
+      "sentence": "我要一啲水。",
+      "jyutping": "ngo5 jiu3 jat1 di1 seoi2.",
+      "meaning": "I want some water."
+    },
+    {
+      "id": "jat1di1-some-example-2",
+      "sentence": "聽日一啲時間都冇？",
+      "jyutping": "teng1 jat6 jat1 di1 si4 gaan3 dou1 mou5?",
+      "meaning": "Do you have some time tomorrow?"
+    },
+    {
+      "id": "jat1di1-some-example-3",
+      "sentence": "再加一啲鹽啦。",
+      "jyutping": "zoi3 gaa1 jat1 di1 jim4 laa1.",
+      "meaning": "Add a bit more salt."
+    },
+    {
+      "id": "jat1di1-some-example-4",
+      "sentence": "佢只係做咗一啲工作。",
+      "jyutping": "keoi5 zi2 hai6 zou6 zo2 jat1 di1 gung1 zok3.",
+      "meaning": "He only did some work."
+    }
+  ],
+  "audio": {
+    "word": "jat1di1-some.mp3",
+    "examples": [
+      "jat1di1-some-example-1.mp3",
+      "jat1di1-some-example-2.mp3",
+      "jat1di1-some-example-3.mp3",
+      "jat1di1-some-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "quantity",
+    "basic",
+    "measurements",
+    "everyday",
+    "level-1"
+  ],
+  "related": [
+    "啲",
+    "少少",
+    "啲嘢",
+    "啲人",
+    "一啲嘢"
+  ]
+}

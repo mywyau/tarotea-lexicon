@@ -3,7 +3,9 @@
   "word": "扣",
   "jyutping": "kau3",
   "meaning": "clasp",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A small fastening part on jewellery, bags, belts, or clothing. In everyday speech, 扣 is usually the little piece that opens and closes something securely.",
     "Very common with jewellery items like 頸鏈、手鏈、腳鏈. It is the hardware part, not the decoration itself.",
@@ -53,5 +55,11 @@
     "beginner-friendly",
     "level-1"
   ],
-  "related": ["扣環", "扣針", "鎖扣", "扣鏈", "搭扣"]
+  "related": [
+    "扣環",
+    "扣針",
+    "鎖扣",
+    "扣鏈",
+    "搭扣"
+  ]
 }

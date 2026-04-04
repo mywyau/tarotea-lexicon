@@ -3,7 +3,9 @@
   "word": "枝",
   "jyutping": "zi1",
   "meaning": "branch",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common noun for a tree branch or a branching part of a plant; very basic everyday vocabulary.",
     "Can appear with measure words like 一枝 when counting long, stick-like things, but the core meaning here is the plant branch sense.",
@@ -54,5 +56,10 @@
     "tree parts",
     "level-1"
   ],
-  "related": ["樹枝", "枝葉", "枯枝", "分枝"]
+  "related": [
+    "樹枝",
+    "枝葉",
+    "枯枝",
+    "分枝"
+  ]
 }

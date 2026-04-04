@@ -4,67 +4,276 @@
   "description": "Expressing thoughts, reasons, and everyday abstract concepts naturally.",
   "categories": {
     "thinking_and_opinions": [
-      { "id": "jing6wai4-opinion", "word": "認為", "jyutping": "jing6 wai4", "meaning": "think" },
-      { "id": "gam2gok3-feeling", "word": "感覺", "jyutping": "gam2 gok3", "meaning": "impression" },
-      { "id": "faat3jin6-discovery", "word": "發現", "jyutping": "faat3 jin6", "meaning": "discovery" },
-      { "id": "liu5gaai2-understand", "word": "了解", "jyutping": "liu5 gaai2", "meaning": "comprehend" },
-      { "id": "nam2faat3-idea", "word": "諗法", "jyutping": "nam2 faat3", "meaning": "mindset" },
-      { "id": "ji3gin3-opinion", "word": "意見", "jyutping": "ji3 gin3", "meaning": "view" }
+      {
+        "id": "jing6wai4-to-think-believe-opinion",
+        "word": "認為",
+        "jyutping": "jing6 wai4",
+        "meaning": "think"
+      },
+      {
+        "id": "gam2gok3-feeling-impression",
+        "word": "感覺",
+        "jyutping": "gam2 gok3",
+        "meaning": "impression"
+      },
+      {
+        "id": "faat3jin6-discovery",
+        "word": "發現",
+        "jyutping": "faat3 jin6",
+        "meaning": "discovery"
+      },
+      {
+        "id": "liu5gaai2-to-understand-clearly",
+        "word": "了解",
+        "jyutping": "liu5 gaai2",
+        "meaning": "comprehend"
+      },
+      {
+        "id": "nam2faat3-way-of-thinking-idea",
+        "word": "諗法",
+        "jyutping": "nam2 faat3",
+        "meaning": "mindset"
+      },
+      {
+        "id": "ji3gin3-opinion",
+        "word": "意見",
+        "jyutping": "ji3 gin3",
+        "meaning": "view"
+      }
     ],
-
     "situations_and_causes": [
-      { "id": "cing4fong3-situation", "word": "情況", "jyutping": "cing4 fong3", "meaning": "situation" },
-      { "id": "jyun4jan1-reason", "word": "原因", "jyutping": "jyun4 jan1", "meaning": "cause" },
-      { "id": "git3gwo2-result", "word": "結果", "jyutping": "git3 gwo2", "meaning": "outcome" },
-      { "id": "jing2hoeng2-affect", "word": "影響", "jyutping": "jing2 hoeng2", "meaning": "impact" },
-      { "id": "faat3sang1-happen", "word": "發生", "jyutping": "faat3 sang1", "meaning": "occur" },
-      { "id": "cyu2lei5-handle", "word": "處理", "jyutping": "cyu2 lei5", "meaning": "handle" },
-      { "id": "min6deoi3-face", "word": "面對", "jyutping": "min6 deoi3", "meaning": "confront" }
+      {
+        "id": "cing4fong3-situation",
+        "word": "情況",
+        "jyutping": "cing4 fong3",
+        "meaning": "situation"
+      },
+      {
+        "id": "jyun4jan1-reason",
+        "word": "原因",
+        "jyutping": "jyun4 jan1",
+        "meaning": "cause"
+      },
+      {
+        "id": "git3gwo2-result-outcome",
+        "word": "結果",
+        "jyutping": "git3 gwo2",
+        "meaning": "outcome"
+      },
+      {
+        "id": "jing2hoeng2-to-affect-influence",
+        "word": "影響",
+        "jyutping": "jing2 hoeng2",
+        "meaning": "impact"
+      },
+      {
+        "id": "faat3sang1-to-happen",
+        "word": "發生",
+        "jyutping": "faat3 sang1",
+        "meaning": "occur"
+      },
+      {
+        "id": "cyu2lei5-to-handle-deal-with",
+        "word": "處理",
+        "jyutping": "cyu2 lei5",
+        "meaning": "handle"
+      },
+      {
+        "id": "min6deoi3-to-face-a-situation",
+        "word": "面對",
+        "jyutping": "min6 deoi3",
+        "meaning": "confront"
+      }
     ],
-
     "decisions_and_actions": [
-      { "id": "gei1wui6-opportunity", "word": "機會", "jyutping": "gei1 wui6", "meaning": "chance" },
-      { "id": "fong1faat3-method", "word": "方法", "jyutping": "fong1 faat3", "meaning": "method" },
-      { "id": "gai3waak6-plan", "word": "計劃", "jyutping": "gai3 waak6", "meaning": "plan" },
-      { "id": "syun2zaak6-choose", "word": "選擇", "jyutping": "syun2 zaak6", "meaning": "choice" },
-      { "id": "kyut3ding6-decide", "word": "決定", "jyutping": "kyut3 ding6", "meaning": "decision" },
-      { "id": "zeon2bei6-prepare", "word": "準備", "jyutping": "zeon2 bei6", "meaning": "prepare" },
-      { "id": "on1paai4-arrange", "word": "安排", "jyutping": "on1 paai4", "meaning": "arrange" }
+      {
+        "id": "gei1wui6-opportunity-chance",
+        "word": "機會",
+        "jyutping": "gei1 wui6",
+        "meaning": "chance"
+      },
+      {
+        "id": "fong1faat3-method-way",
+        "word": "方法",
+        "jyutping": "fong1 faat3",
+        "meaning": "method"
+      },
+      {
+        "id": "gai3waak6-plan",
+        "word": "計劃",
+        "jyutping": "gai3 waak6",
+        "meaning": "plan"
+      },
+      {
+        "id": "syun2zaak6-to-choose-choice",
+        "word": "選擇",
+        "jyutping": "syun2 zaak6",
+        "meaning": "choice"
+      },
+      {
+        "id": "kyut3ding6-to-decide-decision",
+        "word": "決定",
+        "jyutping": "kyut3 ding6",
+        "meaning": "decision"
+      },
+      {
+        "id": "zeon2bei6-to-prepare",
+        "word": "準備",
+        "jyutping": "zeon2 bei6",
+        "meaning": "prepare"
+      },
+      {
+        "id": "on1paai4-to-arrange-schedule",
+        "word": "安排",
+        "jyutping": "on1 paai4",
+        "meaning": "arrange"
+      }
     ],
-
     "comparison_and_degree": [
-      { "id": "bei2gaau3-compare", "word": "比較", "jyutping": "bei2 gaau3", "meaning": "rather" },
-      { "id": "gang3gaa1-more", "word": "更加", "jyutping": "gang3 gaa1", "meaning": "further" },
-      { "id": "caa1m4do1-almost", "word": "差唔多", "jyutping": "caa1 m4 do1", "meaning": "nearly" },
-      { "id": "jat1joeng6-same", "word": "一樣", "jyutping": "jat1 joeng6", "meaning": "identical" },
-      { "id": "m4tung4-different", "word": "唔同", "jyutping": "m4 tung4", "meaning": "different" },
-      { "id": "daai6koi3-probably", "word": "大概", "jyutping": "daai6 koi3", "meaning": "roughly" }
+      {
+        "id": "bei2gaau3-to-compare-relatively",
+        "word": "比較",
+        "jyutping": "bei2 gaau3",
+        "meaning": "rather"
+      },
+      {
+        "id": "gang3gaa1-even-more-to-a-greater-extent-all-the-more",
+        "word": "更加",
+        "jyutping": "gang3 gaa1",
+        "meaning": "further"
+      },
+      {
+        "id": "caa1m4do1-almost-nearly-about-the-same",
+        "word": "差唔多",
+        "jyutping": "caa1 m4 do1",
+        "meaning": "nearly"
+      },
+      {
+        "id": "jat1joeng6-same-alike-identical",
+        "word": "一樣",
+        "jyutping": "jat1 joeng6",
+        "meaning": "identical"
+      },
+      {
+        "id": "m4tung4-different",
+        "word": "唔同",
+        "jyutping": "m4 tung4",
+        "meaning": "different"
+      },
+      {
+        "id": "daai6koi3-probably-roughly",
+        "word": "大概",
+        "jyutping": "daai6 koi3",
+        "meaning": "roughly"
+      }
     ],
-
     "emotions_and_states": [
-      { "id": "daam1sam1-worry", "word": "擔心", "jyutping": "daam1 sam1", "meaning": "worry" },
-      { "id": "fong3sam1-relieved", "word": "放心", "jyutping": "fong3 sam1", "meaning": "reassured" },
-      { "id": "sat1mong6-disappointed", "word": "失望", "jyutping": "sat1 mong6", "meaning": "disappointed" },
-      { "id": "mun5ji3-satisfied", "word": "滿意", "jyutping": "mun5 ji3", "meaning": "satisfied" },
-      { "id": "gan2zoeng1-nervous", "word": "緊張", "jyutping": "gan2 zoeng1", "meaning": "nervous" },
-      { "id": "zaap6gwaan3-habit", "word": "習慣", "jyutping": "zaap6 gwaan3", "meaning": "accustomed" }
+      {
+        "id": "daam1sam1-to-worry",
+        "word": "擔心",
+        "jyutping": "daam1 sam1",
+        "meaning": "worry"
+      },
+      {
+        "id": "fong3sam1-to-feel-relieved-to-be-at-ease",
+        "word": "放心",
+        "jyutping": "fong3 sam1",
+        "meaning": "reassured"
+      },
+      {
+        "id": "sat1mong6-disappointed",
+        "word": "失望",
+        "jyutping": "sat1 mong6",
+        "meaning": "disappointed"
+      },
+      {
+        "id": "mun5ji3-satisfied",
+        "word": "滿意",
+        "jyutping": "mun5 ji3",
+        "meaning": "satisfied"
+      },
+      {
+        "id": "gan2zoeng1-nervous-tense",
+        "word": "緊張",
+        "jyutping": "gan2 zoeng1",
+        "meaning": "nervous"
+      },
+      {
+        "id": "zaap6gwaan3-habit",
+        "word": "習慣",
+        "jyutping": "zaap6 gwaan3",
+        "meaning": "accustomed"
+      }
     ],
-
     "connectors_and_flow": [
-      { "id": "jyu4gwo2-if", "word": "如果", "jyutping": "jyu4 gwo2", "meaning": "if" },
-      { "id": "daan6hai6-but", "word": "但係", "jyutping": "daan6 hai6", "meaning": "but" },
-      { "id": "jan1wai6-because", "word": "因為", "jyutping": "jan1 wai6", "meaning": "because" },
-      { "id": "so2ji5-therefore", "word": "所以", "jyutping": "so2 ji5", "meaning": "therefore" },
-      { "id": "kei4sat6-actually", "word": "其實", "jyutping": "kei4 sat6", "meaning": "actually" },
-      { "id": "zik1hai6-that-is", "word": "即係", "jyutping": "zik1 hai6", "meaning": "namely" }
+      {
+        "id": "jyu4gwo2-if",
+        "word": "如果",
+        "jyutping": "jyu4 gwo2",
+        "meaning": "if"
+      },
+      {
+        "id": "daan6hai6-but-however-spoken",
+        "word": "但係",
+        "jyutping": "daan6 hai6",
+        "meaning": "but"
+      },
+      {
+        "id": "jan1wai6-because-due-to",
+        "word": "因為",
+        "jyutping": "jan1 wai6",
+        "meaning": "because"
+      },
+      {
+        "id": "so2ji5-therefore-so",
+        "word": "所以",
+        "jyutping": "so2 ji5",
+        "meaning": "therefore"
+      },
+      {
+        "id": "kei4sat6-actually",
+        "word": "其實",
+        "jyutping": "kei4 sat6",
+        "meaning": "actually"
+      },
+      {
+        "id": "zik1hai6-that-is-meaning",
+        "word": "即係",
+        "jyutping": "zik1 hai6",
+        "meaning": "namely"
+      }
     ],
-    
     "time_and_progression": [
-      { "id": "jat1zik6-continuously", "word": "一直", "jyutping": "jat1 zik6", "meaning": "throughout" },
-      { "id": "zung1jyu1-finally", "word": "終於", "jyutping": "zung1 jyu1", "meaning": "finally" },
-      { "id": "maan6maan6-slowly", "word": "慢慢", "jyutping": "maan6 maan6", "meaning": "gradually" },
-      { "id": "dat6jin4-suddenly", "word": "突然", "jyutping": "dat6 jin4", "meaning": "suddenly" },
-      { "id": "bun2loi4-originally", "word": "本來", "jyutping": "bun2 loi4", "meaning": "originally" }
+      {
+        "id": "jat1zik6-all-along-always-continuously",
+        "word": "一直",
+        "jyutping": "jat1 zik6",
+        "meaning": "throughout"
+      },
+      {
+        "id": "zung1jyu1-finally",
+        "word": "終於",
+        "jyutping": "zung1 jyu1",
+        "meaning": "finally"
+      },
+      {
+        "id": "maan6maan6-slowly",
+        "word": "慢慢",
+        "jyutping": "maan6 maan6",
+        "meaning": "gradually"
+      },
+      {
+        "id": "dat6jin4-suddenly",
+        "word": "突然",
+        "jyutping": "dat6 jin4",
+        "meaning": "suddenly"
+      },
+      {
+        "id": "bun2loi4-originally-originally-intended",
+        "word": "本來",
+        "jyutping": "bun2 loi4",
+        "meaning": "originally"
+      }
     ]
   }
 }

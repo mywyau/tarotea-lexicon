@@ -3,7 +3,9 @@
   "word": "公式",
   "jyutping": "gung1 sik1",
   "meaning": "formula",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use 公式 to mean a mathematical formula or rule for calculation.",
     "It is often used in school math, science, and problem solving.",
@@ -45,6 +47,18 @@
       "gung1sik1-formula-example-4.mp3"
     ]
   },
-  "tags": ["math", "school", "calculation", "formula", "beginner", "level-1"],
-  "related": ["數學", "算式", "方程式", "計法"]
+  "tags": [
+    "math",
+    "school",
+    "calculation",
+    "formula",
+    "beginner",
+    "level-1"
+  ],
+  "related": [
+    "數學",
+    "算式",
+    "方程式",
+    "計法"
+  ]
 }

@@ -1,0 +1,66 @@
+{
+  "id": "faan6-rice-meal-with-rice",
+  "word": "飯",
+  "jyutping": "faan6",
+  "meaning": "rice / meal with rice",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word '飯' (faan6) generally refers to cooked rice or a meal that includes rice.",
+    "It can be used alone to mean 'rice' or combined with other words to specify meal types, like '晚飯' for dinner.",
+    "In questions, it often appears when asking about meals, such as '食咗飯未？' (Have you eaten?).",
+    "飯 can also be part of verbs or phrases indicating eating a meal, e.g., '食飯' means 'to eat a meal'.",
+    "'飯' is a countable noun when referring to a specific portion or type of meal."
+  ],
+  "examples": [
+    {
+      "id": "faan6-rice-meal-with-rice-example-1",
+      "sentence": "我今晚想食白飯。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 sik6 baak6 faan6.",
+      "meaning": "I want to eat plain rice tonight."
+    },
+    {
+      "id": "faan6-rice-meal-with-rice-example-2",
+      "sentence": "佢哋啱啱食咗晚飯。",
+      "jyutping": "keoi5 dei6 aap3 aap3 sik6 zo2 maan5 faan6.",
+      "meaning": "They just ate dinner."
+    },
+    {
+      "id": "faan6-rice-meal-with-rice-example-3",
+      "sentence": "你食咗飯未？",
+      "jyutping": "nei5 sik6 zo2 faan6 mei6?",
+      "meaning": "Have you eaten yet?"
+    },
+    {
+      "id": "faan6-rice-meal-with-rice-example-4",
+      "sentence": "呢度嘅飯好好味。",
+      "jyutping": "ni1 dou6 ge3 faan6 hou2 hou2 mei6.",
+      "meaning": "The rice here is very tasty."
+    }
+  ],
+  "audio": {
+    "word": "faan6-rice-meal-with-rice.mp3",
+    "examples": [
+      "faan6-rice-meal-with-rice-example-1.mp3",
+      "faan6-rice-meal-with-rice-example-2.mp3",
+      "faan6-rice-meal-with-rice-example-3.mp3",
+      "faan6-rice-meal-with-rice-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "meal",
+    "food",
+    "rice",
+    "eating",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "晚飯",
+    "早餐",
+    "食飯",
+    "白飯",
+    "炒飯"
+  ]
+}

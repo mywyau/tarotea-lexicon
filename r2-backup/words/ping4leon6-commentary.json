@@ -3,7 +3,9 @@
   "word": "評論",
   "jyutping": "ping4 leon6",
   "meaning": "commentary",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "評論 is used as a noun for an opinion piece or critical commentary, especially in news, media, and academic contexts.",
     "It often appears in set phrases like 發表評論 or 政治評論, where it means to give an analysis or comment on a topic.",
@@ -53,5 +55,11 @@
     "academic",
     "level-1"
   ],
-  "related": ["報道", "評論員", "社論", "時事", "分析"]
+  "related": [
+    "報道",
+    "評論員",
+    "社論",
+    "時事",
+    "分析"
+  ]
 }

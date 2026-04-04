@@ -1,0 +1,67 @@
+{
+  "id": "sai2sau2-to-wash-hands",
+  "word": "洗手",
+  "jyutping": "sai2 sau2",
+  "meaning": "to wash hands",
+  "pos": [
+    "verb"
+  ],
+  "usage": [
+    "Used to describe washing one’s hands",
+    "Common before eating, after using the toilet, or when hygiene is needed",
+    "Often used in short statements or reminders"
+  ],
+  "examples": [
+    {
+      "id": "sai2sau2-to-wash-hands-example-1",
+      "sentence": "去洗手。",
+      "jyutping": "heoi3 sai2 sau2",
+      "meaning": "Go wash your hands."
+    },
+    {
+      "id": "sai2sau2-to-wash-hands-example-2",
+      "sentence": "洗完手未？",
+      "jyutping": "sai2 jyun4 sau2 mei6",
+      "meaning": "Have you finished washing your hands?"
+    },
+    {
+      "id": "sai2sau2-to-wash-hands-example-3",
+      "sentence": "用洗手液洗手。",
+      "jyutping": "jung6 sai2 sau2 jik6 sai2 sau2",
+      "meaning": "Wash your hands with hand soap."
+    },
+    {
+      "id": "sai2sau2-to-wash-hands-example-4",
+      "sentence": "食飯前記得洗手。",
+      "jyutping": "sik6 faan6 cin4 gei3 dak1 sai2 sau2",
+      "meaning": "Remember to wash your hands before eating."
+    },
+    {
+      "id": "sai2sau2-to-wash-hands-example-5",
+      "sentence": "洗手間喺入面，可以去洗手。",
+      "jyutping": "sai2 sau2 gaan1 hai2 jap6 min6, ho2 ji5 heoi3 sai2 sau2",
+      "meaning": "The bathroom is inside, you can go wash your hands."
+    }
+  ],
+  "audio": {
+    "word": "sai2sau2-to-wash-hands.mp3",
+    "examples": [
+      "sai2sau2-to-wash-hands-example-1.mp3",
+      "sai2sau2-to-wash-hands-example-2.mp3",
+      "sai2sau2-to-wash-hands-example-3.mp3",
+      "sai2sau2-to-wash-hands-example-4.mp3",
+      "sai2sau2-to-wash-hands-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "verb",
+    "level-1",
+    "core",
+    "survival"
+  ],
+  "related": [
+    "sai2sau2jik6-hand-soap",
+    "ci3so2-toilet",
+    "sai2sau2gaan1-bathroom"
+  ]
+}

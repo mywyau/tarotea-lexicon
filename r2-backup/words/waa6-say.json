@@ -2,41 +2,42 @@
   "id": "waa6-say",
   "word": "話",
   "jyutping": "waa6",
-  "meaning": "to say",
+  "meaning": "say",
   "pos": [
-    "expression"
+    "noun",
+    "verb"
   ],
   "usage": [
-    "The word functions as a common verb meaning 'to say' or 'to tell' in Cantonese conversations.",
-    "It is often used to report speech indirectly in dialogues, similar to 'say that' in English.",
-    "When combined with other particles, it can form various colloquial sentence endings to soften statements or add emphasis.",
-    "It frequently appears in both formal and informal speech, making it an essential connector in everyday communication.",
-    "The word can introduce quotations or paraphrased speech, linking the speaker's words with the reported content."
+    "話 (waa6) can be used as a noun to mean 'words' or 'speech'.",
+    "As a verb, 話 (waa6) means 'to say' or 'to speak'.",
+    "It's commonly used in everyday conversations for reporting what someone said.",
+    "話 (waa6) can also function as a prefix in phrases related to communication.",
+    "When used as a verb, it often needs a direct object, such as what is being said or told."
   ],
   "examples": [
     {
       "id": "waa6-say-example-1",
-      "sentence": "佢話今晚有派對，你要唔要去？",
-      "jyutping": "keoi5 waa6 gam1 maan5 jau5 paai4 deoi3, nei5 jiu3 m4 jiu3 heoi3?",
-      "meaning": "He says there is a party tonight, do you want to go?"
+      "sentence": "佢話我今日唔返工。",
+      "jyutping": "Keoi5 waa6 ngo5 gam1 jat6 m4 faan1 gung1.",
+      "meaning": "He said he is not going to work today."
     },
     {
       "id": "waa6-say-example-2",
-      "sentence": "我唔信佢話嘅喇。",
-      "jyutping": "ngo5 m4 seon3 keoi5 waa6 ge3 laa3.",
-      "meaning": "I don't believe what he said."
+      "sentence": "呢句話好有意思。",
+      "jyutping": "Ni1 geoi3 waa6 hou2 jau5 ji3 si1.",
+      "meaning": "This phrase is very meaningful."
     },
     {
       "id": "waa6-say-example-3",
-      "sentence": "老師話，下星期會有考試。",
-      "jyutping": "lou5 si1 waa6, haa6 sing1 kei4 wui5 jau5 haau2 si3.",
-      "meaning": "The teacher said there will be an exam next week."
+      "sentence": "你話咩呀？",
+      "jyutping": "Nei5 waa6 me1 aa3?",
+      "meaning": "What did you say?"
     },
     {
       "id": "waa6-say-example-4",
-      "sentence": "佢話咁做係啱嘅。",
-      "jyutping": "keoi5 waa6 gam2 zou6 hai6 aam1 ge3.",
-      "meaning": "He said that doing it this way is correct."
+      "sentence": "講多啲話好啲。",
+      "jyutping": "Gong2 do1 di1 waa6 hou2 di1.",
+      "meaning": "It's better to say more words."
     }
   ],
   "audio": {
@@ -49,18 +50,18 @@
     ]
   },
   "tags": [
-    "verb",
-    "reporting speech",
-    "colloquial",
-    "connective",
-    "dialogue",
-    "level-6"
+    "basic verbs",
+    "communication",
+    "everyday speech",
+    "conversation",
+    "common",
+    "level-1"
   ],
   "related": [
     "講 (gong2)",
-    "話晒 (waa6 saai3)",
-    "同話 (tung4 waa6)",
-    "話咁快 (waa6 gam2 faai3)",
-    "咁話 (gam2 waa6)"
+    "聽 (teng1)",
+    "問 (man6)",
+    "答 (daap3)",
+    "叫 (giu3)"
   ]
 }

@@ -3,16 +3,15 @@
   "word": "四",
   "jyutping": "sei3",
   "meaning": "four",
-
-  "pos": ["number"],
-
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number four",
     "Commonly used in counting, times, dates, floors, and quantities",
     "Often appears in everyday expressions involving numbers",
     "Sometimes avoided culturally in certain contexts because it is associated with bad luck"
   ],
-
   "examples": [
     {
       "id": "sei3-four-example-1",
@@ -39,7 +38,6 @@
       "meaning": "He has four books."
     }
   ],
-
   "audio": {
     "word": "sei3-four.mp3",
     "examples": [
@@ -49,9 +47,11 @@
       "sei3-four-example-4.mp3"
     ]
   },
-
-  "tags": ["number", "level-1", "core"],
-
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
   "related": [
     "saam1-three",
     "ng5-five"

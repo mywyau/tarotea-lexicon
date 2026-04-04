@@ -3,13 +3,12 @@
   "word": "慢慢",
   "jyutping": "maan6 maan6",
   "meaning": "slowly",
-
-  "pos": ["adverb"],
-
+  "pos": [
+    "adverb"
+  ],
   "usage": [
     "Used to describe an action happening slowly or gradually"
   ],
-
   "examples": [
     {
       "id": "maan6maan6-slowly-example-1",
@@ -24,7 +23,6 @@
       "meaning": "He slowly came to understand."
     }
   ],
-
   "audio": {
     "word": "maan6maan6-slowly.mp3",
     "examples": [
@@ -32,9 +30,11 @@
       "maan6maan6-slowly-example-2.mp3"
     ]
   },
-
-  "tags": ["adverb", "level-2", "time"],
-
+  "tags": [
+    "adverb",
+    "level-2",
+    "time"
+  ],
   "related": [
     "dat6jin4-suddenly"
   ]

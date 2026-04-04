@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "椒鹽魷魚 is used as a dish name and refers specifically to salt and pepper squid, a popular fried dim sum item.",
-    "As a noun, 椒鹽魷魚 can act as the subject or object of a sentence when talking about food.",
-    "You can ask questions about 椒鹽魷魚, such as whether it is spicy or how it tastes.",
-    "It can be combined with adjectives to describe the dish, like 好味 (delicious) or 辣 (spicy).",
-    "You can use 椒鹽魷魚 in recommendations or ordering food in a restaurant."
+    "椒鹽魷魚 can be used as the subject of a sentence when talking about food.",
+    "You can use 椒鹽魷魚 as the object if you are ordering or expressing a desire to eat it.",
+    "椒鹽魷魚 works well with verbs related to cooking or eating, like 食 (to eat) or 煮 (to cook).",
+    "You can describe 椒鹽魷魚 with adjectives to talk about taste or texture, for example, 好味 (delicious) or 香口 (fragrant).",
+    "When offering or recommending food, 椒鹽魷魚 often appears with phrases like 推介 (recommend) or 想試 (want to try)."
   ],
   "examples": [
     {
       "id": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-1",
-      "sentence": "我想叫椒鹽魷魚。",
-      "jyutping": "ngo5 soeng2 giu3 ziu1 jim4 jau4 jyu4.",
-      "meaning": "I want to order salt and pepper squid."
+      "sentence": "我想叫一份椒鹽魷魚。",
+      "jyutping": "ngo5 soeng2 giu3 jat1 fan6 ziu1 jim4 jau4 jyu4.",
+      "meaning": "I want to order a portion of salt and pepper squid."
     },
     {
       "id": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-2",
-      "sentence": "呢碟椒鹽魷魚好好味。",
-      "jyutping": "ni1 dip6 ziu1 jim4 jau4 jyu4 hou2 hou2 mei6.",
-      "meaning": "This plate of salt and pepper squid is very delicious."
+      "sentence": "呢間店嘅椒鹽魷魚好好味。",
+      "jyutping": "ni1 gaan1 dim3 ge3 ziu1 jim4 jau4 jyu4 hou2 hou2 mei6.",
+      "meaning": "The salt and pepper squid at this restaurant is very tasty."
     },
     {
       "id": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-3",
-      "sentence": "你鍾意唔鍾意椒鹽魷魚？",
-      "jyutping": "nei5 zung1 ji3 m4 zung1 ji3 ziu1 jim4 jau4 jyu4?",
-      "meaning": "Do you like salt and pepper squid?"
+      "sentence": "椒鹽魷魚炸得好香口。",
+      "jyutping": "ziu1 jim4 jau4 jyu4 zaa3 dak1 hou2 hoeng1 hau2.",
+      "meaning": "The salt and pepper squid is fried to be very crispy and fragrant."
     },
     {
       "id": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-4",
-      "sentence": "椒鹽魷魚有啲辣喎。",
-      "jyutping": "ziu1 jim4 jau4 jyu4 jau5 di1 laat6 wo3.",
-      "meaning": "Salt and pepper squid is a bit spicy."
+      "sentence": "你想唔想試下椒鹽魷魚？",
+      "jyutping": "nei5 soeng2 m4 soeng2 si3 haa5 ziu1 jim4 jau4 jyu4?",
+      "meaning": "Do you want to try the salt and pepper squid?"
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "food",
-    "dim_sum",
-    "fried_dim_sum",
     "seafood",
-    "casual",
+    "fried",
+    "snack",
+    "spicy",
+    "restaurant",
     "level-1"
   ],
   "related": [
-    "炸雲吞 (zaa3 wan4 tan1)",
-    "春卷 (ceon1 gyun2)",
-    "牛肉丸 (ngau4 juk6 jyun4)",
-    "蝦餃 (haa1 gaau2)",
-    "蘿蔔糕 (lo4 baak6 gou1)"
+    "炸魷魚 (zaa3 jau4 jyu4) fried squid",
+    "椒鹽 (ziu1 jim4) salt and pepper",
+    "魷魚 (jau4 jyu4) squid",
+    "炸蝦 (zaa3 haa1) fried shrimp",
+    "炸春卷 (zaa3 ceon1 gyun2) fried spring roll"
   ]
 }

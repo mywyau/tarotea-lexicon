@@ -3,7 +3,9 @@
   "word": "角",
   "jyutping": "gok3",
   "meaning": "angle",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used as a noun meaning an angle in geometry.",
     "Can refer to a sharp corner or pointy part of a shape.",
@@ -55,5 +57,10 @@
     "angles",
     "level-1"
   ],
-  "related": ["三角形", "直角", "銳角", "轉角"]
+  "related": [
+    "三角形",
+    "直角",
+    "銳角",
+    "轉角"
+  ]
 }

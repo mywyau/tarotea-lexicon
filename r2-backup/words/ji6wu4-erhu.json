@@ -3,7 +3,9 @@
   "word": "二胡",
   "jyutping": "ji6 wu4",
   "meaning": "erhu",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common noun for the Chinese bowed string instrument erhu; usually used as a countable noun with classifiers like 一把.",
     "Sounds natural in music, lessons, performances, and instrument-buying contexts.",
@@ -53,5 +55,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["一把", "拉二胡", "樂器", "小提琴"]
+  "related": [
+    "一把",
+    "拉二胡",
+    "樂器",
+    "小提琴"
+  ]
 }

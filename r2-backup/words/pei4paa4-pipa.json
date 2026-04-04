@@ -3,7 +3,9 @@
   "word": "琵琶",
   "jyutping": "pei4 paa4",
   "meaning": "pipa",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A countable noun for the Chinese lute-like instrument; in Cantonese it most often refers to the traditional string instrument.",
     "Common in formal or cultural contexts, such as music lessons, concerts, traditional music, and historical writing.",
@@ -54,5 +56,10 @@
     "cultural vocabulary",
     "level-1"
   ],
-  "related": ["古箏", "二胡", "彈", "樂器"]
+  "related": [
+    "古箏",
+    "二胡",
+    "彈",
+    "樂器"
+  ]
 }

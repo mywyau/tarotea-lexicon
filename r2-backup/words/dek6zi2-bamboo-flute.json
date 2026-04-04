@@ -3,7 +3,9 @@
   "word": "笛子",
   "jyutping": "dek6 zi2",
   "meaning": "bamboo flute",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use **笛子** for the bamboo flute as an instrument, especially in traditional Chinese music.",
     "It is a common countable noun, so you can say one instrument, a few instruments, or talk about playing the instrument.",
@@ -54,5 +56,10 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["長笛", "口琴", "二胡", "樂器"]
+  "related": [
+    "長笛",
+    "口琴",
+    "二胡",
+    "樂器"
+  ]
 }

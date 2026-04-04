@@ -3,7 +3,9 @@
   "word": "銅鈸",
   "jyutping": "tung4 bat6",
   "meaning": "cymbals",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to cymbals as a percussion instrument, usually in a band, orchestra, or school music group.",
     "Compared with bare 鈸, 銅鈸 is clearer and more natural for learners when talking about the instrument itself.",
@@ -54,5 +56,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["鼓", "鑼", "小鼓", "大鼓"]
+  "related": [
+    "鼓",
+    "鑼",
+    "小鼓",
+    "大鼓"
+  ]
 }

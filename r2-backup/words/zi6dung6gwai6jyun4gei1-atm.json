@@ -3,7 +3,9 @@
   "word": "自動櫃員機",
   "jyutping": "zi6 dung6 gwai6 jyun4 gei1",
   "meaning": "ATM",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common everyday noun for an ATM or cash machine; in Hong Kong people also often say **提款機** in speech.",
     "Use it when talking about withdrawing cash, checking a bank card, or finding a machine at a bank, MTR station, or convenience store.",
@@ -55,5 +57,11 @@
     "common",
     "level-1"
   ],
-  "related": ["提款機", "撳錢機", "提款", "入數", "銀行卡"]
+  "related": [
+    "提款機",
+    "撳錢機",
+    "提款",
+    "入數",
+    "銀行卡"
+  ]
 }

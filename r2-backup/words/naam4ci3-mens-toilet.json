@@ -3,15 +3,14 @@
   "word": "男廁",
   "jyutping": "naam4 ci3",
   "meaning": "men’s toilet",
-
-  "pos": ["noun"],
-
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used to refer specifically to the men’s toilet",
     "Common on signs, in public buildings, malls, stations, and restaurants",
     "Often used together with 女廁 (women’s toilet)"
   ],
-
   "examples": [
     {
       "id": "naam4ci3-mens-toilet-example-1",
@@ -44,7 +43,6 @@
       "meaning": "The men’s and women’s toilets are inside."
     }
   ],
-
   "audio": {
     "word": "naam4ci3-mens-toilet.mp3",
     "examples": [
@@ -55,9 +53,12 @@
       "naam4ci3-mens-toilet-example-5.mp3"
     ]
   },
-
-  "tags": ["noun", "level-1", "core", "survival"],
-
+  "tags": [
+    "noun",
+    "level-1",
+    "core",
+    "survival"
+  ],
   "related": [
     "neoi5ci3-womens-toilet",
     "ci3so2-toilet",

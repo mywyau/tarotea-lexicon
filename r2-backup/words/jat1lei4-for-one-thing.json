@@ -1,0 +1,67 @@
+{
+  "id": "jat1lei4-for-one-thing",
+  "word": "一嚟",
+  "jyutping": "jat1 lei4",
+  "meaning": "for one thing",
+  "pos": [
+    "expression",
+    "connector"
+  ],
+  "usage": [
+    "The phrase 'jat1 lei4' is used to introduce the first reason or point in a list of arguments or explanations.",
+    "It functions similarly to 'for one thing' or 'firstly' in English, often appearing at the beginning of a sentence or clause.",
+    "'jat1 lei4' helps organize speech by clearly marking the start of a reason among possibly several others.",
+    "It is primarily used in spoken Cantonese to make the speaker's reasoning clearer and more structured.",
+    "This expression is often followed by a comma or a pause in natural speech before continuing with the explanation."
+  ],
+  "examples": [
+    {
+      "id": "jat1lei4-for-one-thing-example-1",
+      "sentence": "一嚟，我哋嘅預算唔夠，二嚟，時間又太短。",
+      "jyutping": "Jat1 lei4, ngo5 dei6 ge3 jyu6 syun3 m4 gau3, ji6 lei4, si4 gaan3 jau6 taai3 dyun2.",
+      "meaning": "For one thing, our budget is not enough; for another, the time is too short."
+    },
+    {
+      "id": "jat1lei4-for-one-thing-example-2",
+      "sentence": "你唔好咁快決定，一嚟唔夠資料，二嚟未諗清楚。",
+      "jyutping": "Nei5 m4 hou2 gam2 faai3 kyut3 ding6, jat1 lei4 m4 gau3 zi1 liu2, ji6 lei4 mei6 lam2 cing1 co2.",
+      "meaning": "Don't decide so quickly; for one thing, there's not enough information, and for another, you haven't thought it through."
+    },
+    {
+      "id": "jat1lei4-for-one-thing-example-3",
+      "sentence": "一嚟呢度唔方便坐車，二嚟附近冇咩飲食地方。",
+      "jyutping": "Jat1 lei4 ni1 dou6 m4 fong1 bin6 co5 ce1, ji6 lei4 fu6 gan6 mou5 me1 jam2 sik6 dei6 fong1.",
+      "meaning": "For one thing, it’s not convenient to take a bus here; for another, there are not many places to eat nearby."
+    },
+    {
+      "id": "jat1lei4-for-one-thing-example-4",
+      "sentence": "佢唔想去，一嚟天氣唔好，二嚟佢要做嘅嘢太多。",
+      "jyutping": "Keoi5 m4 soeng2 heoi3, jat1 lei4 tin1 hei3 m4 hou2, ji6 lei4 keoi5 jiu3 zou6 ge3 je5 taai3 do1.",
+      "meaning": "He doesn’t want to go; for one thing, the weather is bad, and for another, he has too much to do."
+    }
+  ],
+  "audio": {
+    "word": "jat1lei4-for-one-thing.mp3",
+    "examples": [
+      "jat1lei4-for-one-thing-example-1.mp3",
+      "jat1lei4-for-one-thing-example-2.mp3",
+      "jat1lei4-for-one-thing-example-3.mp3",
+      "jat1lei4-for-one-thing-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "advanced",
+    "spoken",
+    "connector",
+    "reasoning",
+    "discourse_marker",
+    "level-8"
+  ],
+  "related": [
+    "二嚟 ji6 lei4 (for another thing)",
+    "因此 jan1 ci2 (therefore)",
+    "因為 jan1 wai6 (because)",
+    "所以 so2 ji5 (so)",
+    "首先 sau2 sin1 (first)"
+  ]
+}

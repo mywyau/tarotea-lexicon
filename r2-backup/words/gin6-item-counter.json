@@ -1,0 +1,66 @@
+{
+  "id": "gin6-item-counter",
+  "word": "件",
+  "jyutping": "gin6",
+  "meaning": "item counter",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The measure word '件' is used to count items or pieces of clothing.",
+    "'件' is placed between the number and the noun it modifies.",
+    "It can be used with various items like shirts, jackets, or even tasks and matters.",
+    "'件' is usually used with singular items that can be seen as separate pieces.",
+    "When asking about quantity or specifying an item, '件' helps clarify the count."
+  ],
+  "examples": [
+    {
+      "id": "gin6-item-counter-example-1",
+      "sentence": "我有三件衫。",
+      "jyutping": "ngo5 jau5 saam1 gin6 saam1.",
+      "meaning": "I have three pieces of clothing."
+    },
+    {
+      "id": "gin6-item-counter-example-2",
+      "sentence": "呢件事好重要。",
+      "jyutping": "ni1 gin6 si6 hou2 zung6 jiu3.",
+      "meaning": "This matter is very important."
+    },
+    {
+      "id": "gin6-item-counter-example-3",
+      "sentence": "佢買咗一件褸。",
+      "jyutping": "keoi5 maai5 zo2 jat1 gin6 leoi1.",
+      "meaning": "He bought a jacket."
+    },
+    {
+      "id": "gin6-item-counter-example-4",
+      "sentence": "我哋需唔需要多件嘢？",
+      "jyutping": "ngo5 dei6 seoi1 m4 seoi1 jiu3 do1 gin6 je5?",
+      "meaning": "Do we need more items?"
+    }
+  ],
+  "audio": {
+    "word": "gin6-item-counter.mp3",
+    "examples": [
+      "gin6-item-counter-example-1.mp3",
+      "gin6-item-counter-example-2.mp3",
+      "gin6-item-counter-example-3.mp3",
+      "gin6-item-counter-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measure word",
+    "clothing",
+    "counting",
+    "basic",
+    "daily conversation",
+    "level-1"
+  ],
+  "related": [
+    "個 (go3)",
+    "張 (zoeng1)",
+    "枝 (zi1)",
+    "本 (bun2)",
+    "雙 (soeng1)"
+  ]
+}

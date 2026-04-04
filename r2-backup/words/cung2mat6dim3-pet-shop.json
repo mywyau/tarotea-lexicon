@@ -3,7 +3,9 @@
   "word": "寵物店",
   "jyutping": "cung2 mat6 dim3",
   "meaning": "pet shop",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common everyday noun for a place that sells pets, pet food, toys, and other animal supplies.",
     "Often used with verbs like 去, 開, or 幫襯 when talking about going to or shopping at a pet shop.",
@@ -53,5 +55,11 @@
     "everyday vocabulary",
     "level-1"
   ],
-  "related": ["寵物", "狗糧", "貓糧", "店舖", "買嘢"]
+  "related": [
+    "寵物",
+    "狗糧",
+    "貓糧",
+    "店舖",
+    "買嘢"
+  ]
 }

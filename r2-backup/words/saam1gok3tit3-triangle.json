@@ -3,7 +3,9 @@
   "word": "三角鐵",
   "jyutping": "saam1 gok3 tit3",
   "meaning": "triangle",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common word for the percussion instrument triangle; in casual speech, people often just say 三角鐵.",
     "Usually used when talking about school music classes, band practice, or orchestra instruments.",
@@ -53,5 +55,10 @@
     "easy vocabulary",
     "level-1"
   ],
-  "related": ["樂器", "鼓", "鈴鼓", "鋼琴"]
+  "related": [
+    "樂器",
+    "鼓",
+    "鈴鼓",
+    "鋼琴"
+  ]
 }

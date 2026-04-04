@@ -3,7 +3,9 @@
   "word": "小數",
   "jyutping": "siu2 sou3",
   "meaning": "decimal",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Use 小數 to talk about decimal numbers in math.",
     "It can also refer to a decimal point and the number after it.",
@@ -45,6 +47,18 @@
       "siu2sou3-decimal-example-4.mp3"
     ]
   },
-  "tags": ["math", "number", "decimal", "school", "basic", "level-1"],
-  "related": ["分數", "整數", "百分比", "小數點"]
+  "tags": [
+    "math",
+    "number",
+    "decimal",
+    "school",
+    "basic",
+    "level-1"
+  ],
+  "related": [
+    "分數",
+    "整數",
+    "百分比",
+    "小數點"
+  ]
 }

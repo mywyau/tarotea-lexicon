@@ -3,7 +3,9 @@
   "word": "核數師",
   "jyutping": "hat6 sou3 si1",
   "meaning": "auditor",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A formal job title for a professional who checks financial records, accounts, and compliance.",
     "Common in business, finance, and company contexts; you’ll often hear it with words like 公司, 帳目, and 審計.",
@@ -54,5 +56,11 @@
     "business",
     "level-1"
   ],
-  "related": ["審計", "會計師", "財務", "報表", "公司"]
+  "related": [
+    "審計",
+    "會計師",
+    "財務",
+    "報表",
+    "公司"
+  ]
 }

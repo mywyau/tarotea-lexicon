@@ -3,7 +3,9 @@
   "word": "補茶",
   "jyutping": "bou2 caa4",
   "meaning": "refill tea",
-  "pos": ["verb"],
+  "pos": [
+    "verb"
+  ],
   "usage": [
     "'補茶' is a verb phrase meaning 'to refill the tea' or 'to top up the tea.'",
     "It is commonly used in yum cha and restaurant settings when tea is replenished.",
@@ -45,7 +47,14 @@
       "bou2caa4-refill-tea-example-4.mp3"
     ]
   },
-  "tags": ["yum cha", "tea", "dining", "restaurant", "service", "level-1"],
+  "tags": [
+    "yum cha",
+    "tea",
+    "dining",
+    "restaurant",
+    "service",
+    "level-1"
+  ],
   "related": [
     "飲茶 jam2 caa4",
     "茶樓 caa4 lau4",

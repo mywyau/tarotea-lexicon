@@ -3,7 +3,9 @@
   "word": "合金",
   "jyutping": "hap6 gam1",
   "meaning": "alloy",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common noun for a metal blend; in everyday Cantonese, it often shows up in product descriptions, manufacturing, and material labels.",
     "It is usually used before another noun to describe what something is made of, especially jewelry, tools, parts, and industrial materials.",
@@ -54,5 +56,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["金屬", "銀", "銅", "飾物", "材料"]
+  "related": [
+    "金屬",
+    "銀",
+    "銅",
+    "飾物",
+    "材料"
+  ]
 }

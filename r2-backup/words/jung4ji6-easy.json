@@ -3,13 +3,12 @@
   "word": "容易",
   "jyutping": "jung4 ji6",
   "meaning": "easy",
-
-  "pos": ["adjective"],
-
+  "pos": [
+    "adjective"
+  ],
   "usage": [
     "Used to describe something that is not difficult"
   ],
-
   "examples": [
     {
       "id": "jung4ji6-easy-example-1",
@@ -24,7 +23,6 @@
       "meaning": "Learning Cantonese is not easy."
     }
   ],
-
   "audio": {
     "word": "jung4ji6-easy.mp3",
     "examples": [
@@ -32,9 +30,11 @@
       "jung4ji6-easy-example-2.mp3"
     ]
   },
-
-  "tags": ["adjective", "level-2", "difficulty"],
-
+  "tags": [
+    "adjective",
+    "level-2",
+    "difficulty"
+  ],
   "related": [
     "naan4-difficult"
   ]

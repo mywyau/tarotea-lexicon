@@ -3,7 +3,9 @@
   "word": "銀",
   "jyutping": "ngan4",
   "meaning": "silver",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Commonly used as a material noun: 銀 refers to the metal silver, and it often appears in everyday shopping, jewellery, and material descriptions.",
     "In Cantonese, 銀 is also used in compound words like 銀器 and 銀飾; it sounds natural in both spoken and written language.",
@@ -56,5 +58,11 @@
     "shopping",
     "level-1"
   ],
-  "related": ["銀器", "銀飾", "銀色", "銀包", "白銀"]
+  "related": [
+    "銀器",
+    "銀飾",
+    "銀色",
+    "銀包",
+    "白銀"
+  ]
 }

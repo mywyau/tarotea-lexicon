@@ -3,7 +3,9 @@
   "word": "觀眾",
   "jyutping": "gun1 zung3",
   "meaning": "audience",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to the people watching a performance, event, or show; it is the neutral everyday word for \"audience\".",
     "Can be used for a small group or a large crowd, depending on the context.",
@@ -54,5 +56,11 @@
     "audience",
     "level-1"
   ],
-  "related": ["聽眾", "歌迷", "觀眾席", "舞台", "演出"]
+  "related": [
+    "聽眾",
+    "歌迷",
+    "觀眾席",
+    "舞台",
+    "演出"
+  ]
 }

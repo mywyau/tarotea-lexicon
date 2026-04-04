@@ -3,7 +3,9 @@
   "word": "辣椒",
   "jyutping": "laat6 ziu1",
   "meaning": "chilli",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Chilli is a seasoning used to add spiciness to food.",
     "People in Hong Kong often eat food with chilli sauce.",
@@ -46,6 +48,19 @@
       "laat6ziu1-chilli-example-4.mp3"
     ]
   },
-  "tags": ["food", "shopping", "spice", "freshness", "cooking", "level-1"],
-  "related": ["蒜頭", "薑", "蔥", "胡椒", "辣椒醬"]
+  "tags": [
+    "food",
+    "shopping",
+    "spice",
+    "freshness",
+    "cooking",
+    "level-1"
+  ],
+  "related": [
+    "蒜頭",
+    "薑",
+    "蔥",
+    "胡椒",
+    "辣椒醬"
+  ]
 }

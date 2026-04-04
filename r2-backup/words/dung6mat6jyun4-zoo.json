@@ -3,7 +3,9 @@
   "word": "動物園",
   "jyutping": "dung6 mat6 jyun4",
   "meaning": "zoo",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to a place where animals are kept for public viewing; in everyday Cantonese, 動物園 is the normal word for \"zoo\".",
     "It is a common countable noun, so you can say 去動物園, 喺動物園, or 大型動物園 depending on context.",
@@ -53,5 +55,11 @@
     "beginner vocabulary",
     "level-1"
   ],
-  "related": ["公園", "海洋公園", "博物館", "飼養", "動物"]
+  "related": [
+    "公園",
+    "海洋公園",
+    "博物館",
+    "飼養",
+    "動物"
+  ]
 }

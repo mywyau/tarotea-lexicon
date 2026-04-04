@@ -3,7 +3,9 @@
   "word": "顧問",
   "jyutping": "gu3 man6",
   "meaning": "consultant",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Usually refers to a professional who gives advice or specialized opinions, often on business, management, finance, IT, or education.",
     "Can be used after a field or company name, like a role title: X 顧問.",
@@ -56,5 +58,11 @@
     "company life",
     "level-1"
   ],
-  "related": ["律師", "經理", "專家", "分析員", "顧問公司"]
+  "related": [
+    "律師",
+    "經理",
+    "專家",
+    "分析員",
+    "顧問公司"
+  ]
 }

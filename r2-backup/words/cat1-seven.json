@@ -3,7 +3,9 @@
   "word": "七",
   "jyutping": "cat1",
   "meaning": "seven",
-  "pos": ["number"],
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number seven in counting, dates, ages, times, and quantities.",
     "Often appears before classifiers, for example 七個人 (seven people).",
@@ -44,7 +46,11 @@
       "cat1-seven-example-4.mp3"
     ]
   },
-  "tags": ["number", "level-1", "core"],
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
   "related": [
     "luk6-six",
     "baat3-eight"

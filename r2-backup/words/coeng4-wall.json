@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "The word '牆' (coeng4) refers to a vertical structure that divides or encloses spaces within buildings.",
-    "'牆' can be used to describe both indoor and outdoor walls.",
-    "It is often combined with measurement words like '面' (min6) when talking about walls, e.g., '一面牆' means one wall.",
-    "'牆' can be used in phrases to describe actions related to walls, such as painting or building.",
-    "In spoken Cantonese, '牆' is a basic term widely used in daily life related to housing or room descriptions."
+    "The word '牆' (coeng4) is a noun and refers to a vertical structure that forms the side of a building or room, usually for support or division.",
+    "It can be used to describe both interior and exterior walls.",
+    "You can use '牆' with adjectives or classifiers to specify the type or part of the wall, for example, '石牆' (stone wall).",
+    "It is often combined with verbs describing actions on walls, such as '畫牆' (paint the wall) or '拆牆' (tear down the wall).",
+    "In conversation, it is common to use '牆' metaphorically, like in expressions talking about barriers or obstacles."
   ],
   "examples": [
     {
       "id": "coeng4-wall-example-1",
-      "sentence": "我哋要重新油牆。",
-      "jyutping": "ngo5 dei6 jiu3 cung4 san1 jau4 coeng4.",
-      "meaning": "We need to repaint the wall."
+      "sentence": "呢面牆好高。",
+      "jyutping": "ni1 min6 coeng4 hou2 gou1.",
+      "meaning": "This wall is very tall."
     },
     {
       "id": "coeng4-wall-example-2",
-      "sentence": "呢面牆好厚。",
-      "jyutping": "ni1 min6 coeng4 hou2 hau5.",
-      "meaning": "This wall is very thick."
+      "sentence": "我唔小心撞咗牆。",
+      "jyutping": "ngo5 m4 siu2 sam1 zong6 zo2 coeng4.",
+      "meaning": "I accidentally bumped into the wall."
     },
     {
       "id": "coeng4-wall-example-3",
-      "sentence": "佢響牆上掛咗幅畫。",
-      "jyutping": "keoi5 hoeng2 coeng4 soeng5 gwaa3 zo2 fuk1 waa2.",
-      "meaning": "He hung a painting on the wall."
+      "sentence": "佢哋拆咗嗰面牆。",
+      "jyutping": "keoi5 dei6 caak3 zo2 go2 min6 coeng4.",
+      "meaning": "They tore down that wall."
     },
     {
       "id": "coeng4-wall-example-4",
-      "sentence": "牆嘅顏色好靚。",
-      "jyutping": "coeng4 ge3 ngaan4 sik1 hou2 leng3.",
-      "meaning": "The color of the wall is very nice."
+      "sentence": "牆上掛住幅畫。",
+      "jyutping": "coeng4 soeng6 gwaa3 zyu6 fuk1 waa2.",
+      "meaning": "There is a painting hanging on the wall."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
-    "housing",
-    "building_parts",
-    "rooms",
+    "building",
     "home",
-    "interior",
+    "construction",
+    "structures",
+    "noun",
     "level-1"
   ],
   "related": [
-    "樓層 lau2 cang4",
-    "窗牖 coeng1 jau5",
-    "門 mun4",
-    "天花 tin1 faa1",
-    "地板 dei6 baan2"
+    "地板",
+    "門",
+    "窗",
+    "天花板",
+    "磚"
   ]
 }

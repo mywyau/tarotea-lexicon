@@ -3,7 +3,9 @@
   "word": "職業",
   "jyutping": "zik1 jip6",
   "meaning": "occupation",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common noun for someone’s job or profession; it sounds neutral and everyday.",
     "Often used in questions like asking what someone does for work, or in formal forms and profiles.",
@@ -53,5 +55,11 @@
     "noun",
     "level-1"
   ],
-  "related": ["工作", "行業", "職位", "工種", "做嘢"]
+  "related": [
+    "工作",
+    "行業",
+    "職位",
+    "工種",
+    "做嘢"
+  ]
 }

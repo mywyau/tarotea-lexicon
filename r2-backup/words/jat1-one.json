@@ -3,16 +3,16 @@
   "word": "一",
   "jyutping": "jat1",
   "meaning": "one",
-
-  "pos": ["number", "determiner"],
-
+  "pos": [
+    "number",
+    "determiner"
+  ],
   "usage": [
     "Used as the number one",
     "Commonly used before measure words",
     "Can imply ‘a / one single’ depending on context",
     "Often pronounced quickly in natural speech"
   ],
-
   "examples": [
     {
       "id": "jat1-one-example-1",
@@ -39,7 +39,6 @@
       "meaning": "Let’s go together."
     }
   ],
-
   "audio": {
     "word": "jat1-one.mp3",
     "examples": [
@@ -49,7 +48,6 @@
       "jat1-one-example-4.mp3"
     ]
   },
-
   "tags": [
     "number",
     "core",
@@ -57,7 +55,6 @@
     "level-1",
     "spoken"
   ],
-
   "related": [
     "ling4-zero",
     "ji6-two",

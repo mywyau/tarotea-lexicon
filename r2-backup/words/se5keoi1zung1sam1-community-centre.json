@@ -3,7 +3,9 @@
   "word": "社區中心",
   "jyutping": "se5 keoi1 zung1 sam1",
   "meaning": "community centre",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A general noun for a neighbourhood public facility where people join activities, use services, or attend classes; it is common in everyday speech.",
     "Usually used with verbs like 去, 喺, 開, or 搵 when talking about going to, meeting at, or using the place.",
@@ -53,5 +55,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["街坊福利會", "社區會堂", "圖書館", "活動中心", "鄰舍中心"]
+  "related": [
+    "街坊福利會",
+    "社區會堂",
+    "圖書館",
+    "活動中心",
+    "鄰舍中心"
+  ]
 }

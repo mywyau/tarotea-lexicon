@@ -1,0 +1,65 @@
+{
+  "id": "zoeng1-flat-item-counter",
+  "word": "張",
+  "jyutping": "zoeng1",
+  "meaning": "flat-item counter",
+  "pos": [
+    "classifier",
+    "measure word"
+  ],
+  "usage": [
+    "「張」 is a measure word used for flat objects like paper, tickets, and photos.",
+    "In Cantonese, it can also be used with some objects that have a flat surface, such as tables.",
+    "When counting, it is used after a number or demonstrative and before the noun, for example: 「一張紙」.",
+    "It is commonly used in everyday phrases like 「一張飛」, 「一張相」, and 「一張枱」.",
+    "「張」 is normally used together with a noun rather than on its own in beginner-level counting patterns."
+  ],
+  "examples": [
+    {
+      "id": "zoeng1-flat-item-counter-example-1",
+      "sentence": "我要一張紙。",
+      "jyutping": "ngo5 jiu3 jat1 zoeng1 zi2.",
+      "meaning": "I want a sheet of paper."
+    },
+    {
+      "id": "zoeng1-flat-item-counter-example-2",
+      "sentence": "你有幾張飛呀？",
+      "jyutping": "nei5 jau5 gei2 zoeng1 fei1 aa3?",
+      "meaning": "How many tickets do you have?"
+    },
+    {
+      "id": "zoeng1-flat-item-counter-example-3",
+      "sentence": "飯廳有一張大枱。",
+      "jyutping": "faan6 teng1 jau5 jat1 zoeng1 daai6 toi2.",
+      "meaning": "There is a big table in the dining room."
+    },
+    {
+      "id": "zoeng1-flat-item-counter-example-4",
+      "sentence": "我噚日睇咗一張相。",
+      "jyutping": "ngo5 cam4 jat6 tai2 zo2 jat1 zoeng1 soeng2.",
+      "meaning": "I looked at a photo yesterday."
+    }
+  ],
+  "audio": {
+    "word": "zoeng1-flat-item-counter.mp3",
+    "examples": [
+      "zoeng1-flat-item-counter-example-1.mp3",
+      "zoeng1-flat-item-counter-example-2.mp3",
+      "zoeng1-flat-item-counter-example-3.mp3",
+      "zoeng1-flat-item-counter-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measure word",
+    "flat objects",
+    "counting",
+    "basic vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "本 (for books)",
+    "個 (general measure word)",
+    "件 (for clothes and some items)",
+    "條 (for long objects)"
+  ]
+}

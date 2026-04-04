@@ -3,7 +3,9 @@
   "word": "洋蔥",
   "jyutping": "joeng4 cung1",
   "meaning": "onion",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Onion is a commonly used vegetable with a slightly pungent taste.",
     "When buying onions, choose ones with a dry surface and no damage.",
@@ -46,6 +48,18 @@
       "joeng4cung1-onion-example-4.mp3"
     ]
   },
-  "tags": ["vegetables", "common", "cooking", "shopping", "flavor", "level-1"],
-  "related": ["生薑", "蒜頭", "紅蘿蔔", "菜心"]
+  "tags": [
+    "vegetables",
+    "common",
+    "cooking",
+    "shopping",
+    "flavor",
+    "level-1"
+  ],
+  "related": [
+    "生薑",
+    "蒜頭",
+    "紅蘿蔔",
+    "菜心"
+  ]
 }

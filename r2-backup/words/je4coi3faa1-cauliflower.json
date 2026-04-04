@@ -3,7 +3,9 @@
   "word": "椰菜花",
   "jyutping": "je4 coi3 faa1",
   "meaning": "cauliflower",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "椰菜花 is a common vegetable.",
     "It can be used for stir-frying or steaming.",
@@ -46,6 +48,19 @@
       "je4coi3faa1-cauliflower-example-4.mp3"
     ]
   },
-  "tags": ["vegetables", "common", "fresh", "cooking", "healthy", "level-1"],
-  "related": ["椰菜", "西蘭花", "甘筍", "菜心", "番茄"]
+  "tags": [
+    "vegetables",
+    "common",
+    "fresh",
+    "cooking",
+    "healthy",
+    "level-1"
+  ],
+  "related": [
+    "椰菜",
+    "西蘭花",
+    "甘筍",
+    "菜心",
+    "番茄"
+  ]
 }

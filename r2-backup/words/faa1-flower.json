@@ -3,7 +3,9 @@
   "word": "花",
   "jyutping": "faa1",
   "meaning": "flower",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "花 is the common word for a flower or blossom in everyday Cantonese.",
     "It is a very neutral word and works in both spoken and written language.",
@@ -53,5 +55,11 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["花朵", "花園", "花店", "花草", "開花"]
+  "related": [
+    "花朵",
+    "花園",
+    "花店",
+    "花草",
+    "開花"
+  ]
 }

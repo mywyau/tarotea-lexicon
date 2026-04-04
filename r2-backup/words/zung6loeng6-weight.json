@@ -7,36 +7,36 @@
     "noun"
   ],
   "usage": [
-    "重量 (zung6 loeng6) is a noun that refers to the measure of how heavy an object is.",
-    "It is often used when talking about scales, bags, or any items where knowing the weight is important.",
-    "You can say '呢個嘢嘅重量係三公斤' (This item's weight is three kilograms).",
-    "重量 does not change form for singular or plural nouns; it remains the same.",
-    "You can use 重量 with verbs like 測量 (to measure) or 增加 (to increase)."
+    "The word '重量' (zung6 loeng6) is used as a noun to indicate the weight of an object or person.",
+    "'重量' can refer to physical weight in sports contexts like bodybuilding or lifting.",
+    "It often appears with numbers and measurement units, e.g., kilograms or pounds.",
+    "In Cantonese, '重量' can modify other nouns, like '重量訓練' (weight training).",
+    "It is common to ask about or describe '重量' when discussing fitness and strength progress."
   ],
   "examples": [
     {
       "id": "zung6loeng6-weight-example-1",
-      "sentence": "呢個箱嘅重量好重，搬唔動。",
-      "jyutping": "ni1 go3 soeng1 ge3 zung6 loeng6 hou2 zung6, bun1 m4 dung6.",
-      "meaning": "This box's weight is very heavy; I can't move it."
+      "sentence": "我今日舉起咗好重嘅重量。",
+      "jyutping": "ngo5 gam1 jat6 geoi2 hei2 zo2 hou2 zung6 ge3 zung6 loeng6.",
+      "meaning": "I lifted a very heavy weight today."
     },
     {
       "id": "zung6loeng6-weight-example-2",
-      "sentence": "請你測量呢包米嘅重量。",
-      "jyutping": "cing2 nei5 cak1 loeng6 ni1 baau1 mai5 ge3 zung6 loeng6.",
-      "meaning": "Please measure the weight of this bag of rice."
+      "sentence": "呢個啞鈴嘅重量係十公斤。",
+      "jyutping": "ni1 go3 ngaa5 ling4 ge3 zung6 loeng6 hai6 sap6 gung1 gan1.",
+      "meaning": "The weight of this dumbbell is ten kilograms."
     },
     {
       "id": "zung6loeng6-weight-example-3",
-      "sentence": "運動可以幫助你控制體重。",
-      "jyutping": "wan6 dung6 ho2 ji5 bong1 zo6 nei5 hung3 zi3 tai2 zung6.",
-      "meaning": "Exercise can help you control your body weight."
+      "sentence": "增加重量可以幫助增肌。",
+      "jyutping": "zang1 gaa1 zung6 loeng6 ho2 ji5 bong1 zo6 zang1 gei1.",
+      "meaning": "Increasing weight can help build muscle."
     },
     {
       "id": "zung6loeng6-weight-example-4",
-      "sentence": "呢件行李重量超過航空公司嘅限制。",
-      "jyutping": "ni1 gin6 hang4 lei5 zung6 loeng6 ciu1 gwo3 hong4 hung1 gung1 si1 ge3 haan6 zi3.",
-      "meaning": "This luggage's weight exceeds the airline's limit."
+      "sentence": "你應該注意自己嘅重量訓練計劃。",
+      "jyutping": "nei5 jing1 goi1 zyu3 ji3 zi6 gei2 ge3 zung6 loeng6 fan3 lin6 gai3 waak6.",
+      "meaning": "You should pay attention to your weight training plan."
     }
   ],
   "audio": {
@@ -49,18 +49,18 @@
     ]
   },
   "tags": [
+    "fitness",
+    "weightlifting",
+    "bodybuilding",
     "measurement",
-    "lab",
-    "daily use",
-    "weight",
-    "science",
+    "strength",
     "level-1"
   ],
   "related": [
-    "體重 (tai2 zung6) - body weight",
-    "容量 (jung4 loeng6) - volume/capacity",
-    "質量 (zat1 loeng6) - mass/quality",
-    "高度 (gou1 dou6) - height",
-    "長度 (coeng4 dou6) - length"
+    "啞鈴 ngaa5 ling4",
+    "舉重 geoi2 zung6",
+    "肌肉 gei1 juk6",
+    "訓練 fan3 lin6",
+    "增肌 zang1 gei1"
   ]
 }

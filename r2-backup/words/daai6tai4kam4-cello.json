@@ -3,7 +3,9 @@
   "word": "大提琴",
   "jyutping": "daai6 tai4 kam4",
   "meaning": "cello",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to the cello, a string instrument in the violin family, usually played sitting down with a bow.",
     "Common in music lessons, orchestra settings, and instrument shops; the short form \"大提\" is also heard in speech.",
@@ -53,5 +55,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["小提琴", "中提琴", "低音大提琴", "弓"]
+  "related": [
+    "小提琴",
+    "中提琴",
+    "低音大提琴",
+    "弓"
+  ]
 }

@@ -3,7 +3,9 @@
   "word": "嫩葉",
   "jyutping": "nyun6 jip6",
   "meaning": "young leaf",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to a leaf that is still new, soft, and not fully grown yet. It is often used in gardening, botany, and nature descriptions.",
     "Commonly used with plants, tea, vegetables, and tree growth when talking about fresh new foliage rather than mature leaves.",
@@ -56,5 +58,10 @@
     "common",
     "level-1"
   ],
-  "related": ["葉", "新葉", "嫩芽", "葉片"]
+  "related": [
+    "葉",
+    "新葉",
+    "嫩芽",
+    "葉片"
+  ]
 }

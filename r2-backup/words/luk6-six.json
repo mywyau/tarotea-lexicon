@@ -3,16 +3,15 @@
   "word": "六",
   "jyutping": "luk6",
   "meaning": "six",
-
-  "pos": ["number"],
-
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number six",
     "Commonly used in counting, times, dates, ages, and quantities",
     "Often appears in everyday expressions involving numbers",
     "Used in both spoken and written Cantonese"
   ],
-
   "examples": [
     {
       "id": "luk6-six-example-1",
@@ -39,7 +38,6 @@
       "meaning": "Today is June 6th."
     }
   ],
-
   "audio": {
     "word": "luk6-six.mp3",
     "examples": [
@@ -49,9 +47,11 @@
       "luk6-six-example-4.mp3"
     ]
   },
-
-  "tags": ["number", "level-1", "core"],
-
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
   "related": [
     "ng5-five",
     "cat1-seven"

@@ -3,7 +3,9 @@
   "word": "長笛",
   "jyutping": "coeng4 dek6",
   "meaning": "flute",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common everyday noun for the Western concert flute; it is used for the instrument itself, not for playing technique.",
     "Often appears with verbs like 學, 吹, 讀, or 彈 only when talking about learning or performing music; for flute, 吹 is the most natural match.",
@@ -53,5 +55,11 @@
     "beginner-friendly",
     "level-1"
   ],
-  "related": ["吹長笛", "樂器", "管弦樂團", "音樂課", "笛聲"]
+  "related": [
+    "吹長笛",
+    "樂器",
+    "管弦樂團",
+    "音樂課",
+    "笛聲"
+  ]
 }

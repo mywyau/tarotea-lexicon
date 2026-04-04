@@ -3,7 +3,9 @@
   "word": "中提琴",
   "jyutping": "zung1 tai4 kam4",
   "meaning": "viola",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Noun; use 中提琴 when you mean the viola, a string instrument in the violin family.",
     "It is a neutral, formal term and is common in music lessons, orchestras, and instrument listings.",
@@ -53,5 +55,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["小提琴", "大提琴", "樂器", "樂團"]
+  "related": [
+    "小提琴",
+    "大提琴",
+    "樂器",
+    "樂團"
+  ]
 }

@@ -3,16 +3,15 @@
   "word": "五",
   "jyutping": "ng5",
   "meaning": "five",
-
-  "pos": ["number"],
-
+  "pos": [
+    "number"
+  ],
   "usage": [
     "Used as the number five",
     "Commonly used in counting, times, dates, prices, and quantities",
     "Often appears in everyday expressions involving numbers",
     "Used in both spoken and written Cantonese"
   ],
-
   "examples": [
     {
       "id": "ng5-five-example-1",
@@ -39,7 +38,6 @@
       "meaning": "He has five books."
     }
   ],
-
   "audio": {
     "word": "ng5-five.mp3",
     "examples": [
@@ -49,9 +47,11 @@
       "ng5-five-example-4.mp3"
     ]
   },
-
-  "tags": ["number", "level-1", "core"],
-
+  "tags": [
+    "number",
+    "level-1",
+    "core"
+  ],
   "related": [
     "sei3-four",
     "luk6-six"

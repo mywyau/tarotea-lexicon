@@ -3,7 +3,9 @@
   "word": "藤",
   "jyutping": "tang4",
   "meaning": "vine",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to a vine, creeper, or climbing plant that grows by trailing or climbing over supports.",
     "Commonly used in gardening and nature descriptions; it can sound a bit more general than the English word \"vine\".",
@@ -54,5 +56,10 @@
     "level-1",
     "level-1"
   ],
-  "related": ["爬藤", "蔓", "花棚", "攀援植物"]
+  "related": [
+    "爬藤",
+    "蔓",
+    "花棚",
+    "攀援植物"
+  ]
 }

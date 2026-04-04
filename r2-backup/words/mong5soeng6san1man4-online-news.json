@@ -3,7 +3,9 @@
   "word": "網上新聞",
   "jyutping": "mong5 soeng6 san1 man4",
   "meaning": "online news",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Commonly used as a general noun for news you read or watch on the internet; it fits both formal and everyday speech.",
     "Often appears with verbs like 睇, 睇到, 搵, or follow-up phrases about browsing, checking, or sharing information online.",
@@ -54,5 +56,10 @@
     "reading",
     "level-1"
   ],
-  "related": ["新聞", "報紙", "電視新聞", "新聞網站"]
+  "related": [
+    "新聞",
+    "報紙",
+    "電視新聞",
+    "新聞網站"
+  ]
 }

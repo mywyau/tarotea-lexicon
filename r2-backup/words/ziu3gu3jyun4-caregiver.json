@@ -3,7 +3,9 @@
   "word": "照顧員",
   "jyutping": "ziu3 gu3 jyun4",
   "meaning": "caregiver",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common noun for a paid care worker or caregiver, especially in hospitals, elderly homes, or rehabilitation settings.",
     "Usually refers to someone who provides day-to-day personal care, such as helping with mobility, meals, hygiene, and basic support.",
@@ -53,5 +55,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["看護", "護理員", "院友", "安老院", "長者"]
+  "related": [
+    "看護",
+    "護理員",
+    "院友",
+    "安老院",
+    "長者"
+  ]
 }

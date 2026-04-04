@@ -3,7 +3,9 @@
   "word": "圓形",
   "jyutping": "jyun4 jing4",
   "meaning": "circle",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "The word 「圓形」 is a noun meaning a circular or round shape.",
     "It is commonly used to describe the shape of objects, patterns, or drawings.",
@@ -55,5 +57,11 @@
     "geometry",
     "level-1"
   ],
-  "related": ["圓", "圓圈", "圓點", "三角形", "方形"]
+  "related": [
+    "圓",
+    "圓圈",
+    "圓點",
+    "三角形",
+    "方形"
+  ]
 }

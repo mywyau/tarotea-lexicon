@@ -3,7 +3,9 @@
   "word": "花莖",
   "jyutping": "faa1 ging3",
   "meaning": "stem",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A noun for the main stalk of a plant; it is the part that supports the leaves, flowers, or fruit.",
     "Common in gardening and science talk; you will often hear it when people describe how a plant grows or where to cut it.",
@@ -54,5 +56,11 @@
     "nature",
     "level-1"
   ],
-  "related": ["花", "葉", "根", "枝", "植物"]
+  "related": [
+    "花",
+    "葉",
+    "根",
+    "枝",
+    "植物"
+  ]
 }

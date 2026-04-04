@@ -3,7 +3,9 @@
   "word": "鋼琴",
   "jyutping": "gong3 kam4",
   "meaning": "piano",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common everyday noun for a piano; it is used for both upright piano and grand piano unless you need to be more specific.",
     "Often appears with verbs like 彈 and 學, for example when talking about playing or learning the piano.",
@@ -53,5 +55,10 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["琴", "彈琴", "琴譜", "鋼琴家"]
+  "related": [
+    "琴",
+    "彈琴",
+    "琴譜",
+    "鋼琴家"
+  ]
 }

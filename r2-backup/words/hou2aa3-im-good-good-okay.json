@@ -1,0 +1,72 @@
+{
+  "id": "hou2aa3-im-good-good-okay",
+  "word": "好呀",
+  "jyutping": "hou2 aa3",
+  "meaning": "I’m good / Good! / okay",
+  "pos": [
+    "phrase",
+    "response"
+  ],
+  "usage": [
+    "A common casual response meaning 'good' or 'okay'",
+    "Often used when replying to greetings like 你點呀？",
+    "Can also be used to agree to something, like 'sure!'",
+    "The particle 呀 makes the tone friendly and natural",
+    "Very common in everyday spoken Cantonese"
+  ],
+  "examples": [
+    {
+      "id": "hou2aa3-im-good-good-okay-example-1",
+      "sentence": "我好呀。",
+      "jyutping": "ngo5 hou2 aa3",
+      "meaning": "I’m good."
+    },
+    {
+      "id": "hou2aa3-im-good-good-okay-example-2",
+      "sentence": "你點呀？我好呀。",
+      "jyutping": "nei5 dim2 aa3? ngo5 hou2 aa3",
+      "meaning": "How are you? I’m good."
+    },
+    {
+      "id": "hou2aa3-im-good-good-okay-example-3",
+      "sentence": "好呀，多謝你。",
+      "jyutping": "hou2 aa3, do1 ze6 nei5",
+      "meaning": "Okay, thank you."
+    },
+    {
+      "id": "hou2aa3-im-good-good-okay-example-4",
+      "sentence": "今日幾好，我好呀。",
+      "jyutping": "gam1 jat6 gei2 hou2, ngo5 hou2 aa3",
+      "meaning": "Today’s pretty good, I’m doing fine."
+    },
+    {
+      "id": "hou2aa3-im-good-good-okay-example-5",
+      "sentence": "放心啦，我好呀。",
+      "jyutping": "fong3 sam1 laa1, ngo5 hou2 aa3",
+      "meaning": "Don’t worry, I’m okay."
+    }
+  ],
+  "audio": {
+    "word": "hou2aa3-im-good-good-okay.mp3",
+    "examples": [
+      "hou2aa3-im-good-good-okay-example-1.mp3",
+      "hou2aa3-im-good-good-okay-example-2.mp3",
+      "hou2aa3-im-good-good-okay-example-3.mp3",
+      "hou2aa3-im-good-good-okay-example-4.mp3",
+      "hou2aa3-im-good-good-okay-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "response",
+    "level-1",
+    "core",
+    "daily",
+    "conversation"
+  ],
+  "related": [
+    "nei5dim2aa3-how-are-you",
+    "gei2hou2-pretty-good",
+    "maa4maa4-decent",
+    "do1ze6-thank-you"
+  ]
+}

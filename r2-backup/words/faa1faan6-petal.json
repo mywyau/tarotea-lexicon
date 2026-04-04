@@ -3,7 +3,9 @@
   "word": "花瓣",
   "jyutping": "faa1 faan6",
   "meaning": "petal",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to one of the soft, colorful parts of a flower; in Cantonese, 花瓣 is the natural word for a petal.",
     "Commonly used with flower names or phrases about shapes, colors, and count, especially in simple nature descriptions.",
@@ -54,5 +56,11 @@
     "countable noun",
     "level-1"
   ],
-  "related": ["花", "花蕾", "花芯", "花朵", "花枝"]
+  "related": [
+    "花",
+    "花蕾",
+    "花芯",
+    "花朵",
+    "花枝"
+  ]
 }

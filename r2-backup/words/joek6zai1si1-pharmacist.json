@@ -3,7 +3,9 @@
   "word": "藥劑師",
   "jyutping": "joek6 zai1 si1",
   "meaning": "pharmacist",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "藥劑師 is a common everyday noun for a licensed pharmacist. Use it when talking about a person who prepares, checks, and explains medicines.",
     "It is a job title, so it often appears after 係, 做, or 搵: for example, to say someone is a pharmacist or works as one.",
@@ -54,5 +56,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["醫生", "護士", "藥房", "藥物"]
+  "related": [
+    "醫生",
+    "護士",
+    "藥房",
+    "藥物"
+  ]
 }

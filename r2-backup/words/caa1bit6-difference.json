@@ -3,16 +3,15 @@
   "word": "差別",
   "jyutping": "caa1 bit6",
   "meaning": "difference",
-
-  "pos": ["noun"],
-
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used to describe a difference between two or more things",
     "Often paired with 有 / 冇 to state whether a difference exists",
     "Commonly used in comparisons, evaluations, and explanations",
     "Frequently appears with 之間 to indicate what is being compared"
   ],
-
   "examples": [
     {
       "id": "caa1bit6-difference-example-1",
@@ -27,7 +26,6 @@
       "meaning": "The price difference will affect the choice."
     }
   ],
-
   "audio": {
     "word": "caa1bit6-difference.mp3",
     "examples": [

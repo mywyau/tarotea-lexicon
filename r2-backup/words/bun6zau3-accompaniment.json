@@ -3,7 +3,9 @@
   "word": "伴奏",
   "jyutping": "bun6 zau3",
   "meaning": "accompaniment",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "伴奏 means the backing part that supports a melody or a singer. In Cantonese, it is commonly used for music performance, rehearsals, and school events.",
     "It often appears with words like 樂器、鋼琴、結他, or verbs like 做、負責, when talking about someone providing accompaniment.",
@@ -55,5 +57,11 @@
     "accompaniment",
     "level-1"
   ],
-  "related": ["伴唱", "樂器", "鋼琴", "結他", "演奏"]
+  "related": [
+    "伴唱",
+    "樂器",
+    "鋼琴",
+    "結他",
+    "演奏"
+  ]
 }

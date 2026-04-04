@@ -1,0 +1,61 @@
+{
+  "id": "nei5-you-singular",
+  "word": "你",
+  "jyutping": "nei5",
+  "meaning": "you (singular)",
+  "pos": [
+    "pronoun"
+  ],
+  "usage": [
+    "Used as the second-person singular pronoun",
+    "Very common in everyday spoken Cantonese",
+    "Used in questions, statements, and direct address",
+    "Can also combine with 嘅 to show possession, as in 你嘅書 (your book)"
+  ],
+  "examples": [
+    {
+      "id": "nei5-you-singular-example-1",
+      "sentence": "你點呀？",
+      "jyutping": "nei5 dim2 aa3",
+      "meaning": "How are you?"
+    },
+    {
+      "id": "nei5-you-singular-example-2",
+      "sentence": "我想問你一樣嘢。",
+      "jyutping": "ngo5 soeng2 man6 nei5 jat1 joeng6 je5",
+      "meaning": "I want to ask you something."
+    },
+    {
+      "id": "nei5-you-singular-example-3",
+      "sentence": "你今日返唔返工呀？",
+      "jyutping": "nei5 gam1 jat6 faan1 m4 faan1 gung1 aa3",
+      "meaning": "Are you going to work today?"
+    },
+    {
+      "id": "nei5-you-singular-example-4",
+      "sentence": "你想食咩呀？",
+      "jyutping": "nei5 soeng2 sik6 me1 aa3",
+      "meaning": "What do you want to eat?"
+    }
+  ],
+  "audio": {
+    "word": "nei5-you-singular.mp3",
+    "examples": [
+      "nei5-you-singular-example-1.mp3",
+      "nei5-you-singular-example-2.mp3",
+      "nei5-you-singular-example-3.mp3",
+      "nei5-you-singular-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "pronoun",
+    "core",
+    "level-1",
+    "spoken"
+  ],
+  "related": [
+    "ngo5-me",
+    "keoi5-he-she",
+    "nei5dei6-you-plural"
+  ]
+}

@@ -3,7 +3,9 @@
   "word": "林",
   "jyutping": "lam4",
   "meaning": "grove",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A very general noun for a grove or wooded area. In Cantonese, 林 sounds natural in place names, writing, and literary-style descriptions more than in casual speech.",
     "It often appears as a place element or in compounds. On its own, it is mainly a noun, but the meaning can feel broader than just a small cluster of trees.",
@@ -56,5 +58,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["樹", "森林", "樹林", "山林"]
+  "related": [
+    "樹",
+    "森林",
+    "樹林",
+    "山林"
+  ]
 }

@@ -3,15 +3,14 @@
   "word": "急事",
   "jyutping": "gap1 si6",
   "meaning": "urgent matter",
-
-  "pos": ["noun"],
-
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used to refer to something important that needs immediate attention",
     "Often used as a reason for leaving or interrupting something",
     "Common in polite explanations"
   ],
-
   "examples": [
     {
       "id": "gap1si6-urgent-matter-example-1",
@@ -32,7 +31,6 @@
       "meaning": "Sorry, I have something urgent."
     }
   ],
-
   "audio": {
     "word": "gap1si6-urgent-matter.mp3",
     "examples": [
@@ -41,9 +39,12 @@
       "gap1si6-urgent-matter-example-3.mp3"
     ]
   },
-
-  "tags": ["noun", "level-1", "core", "survival"],
-
+  "tags": [
+    "noun",
+    "level-1",
+    "core",
+    "survival"
+  ],
   "related": [
     "gap1-urgent",
     "m4hou2ji3si3-excuse-me"

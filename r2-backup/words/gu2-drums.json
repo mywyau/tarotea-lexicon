@@ -3,7 +3,9 @@
   "word": "鼓",
   "jyutping": "gu2",
   "meaning": "drums",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Refers to drums as a musical instrument; in Cantonese, 鼓 is the general noun for a drum or drum set in music talk.",
     "Commonly used with size or type words, such as 一個鼓, 大鼓, 細鼓, when counting or describing different drums.",
@@ -53,5 +55,11 @@
     "everyday Cantonese",
     "level-1"
   ],
-  "related": ["鼓手", "打鼓", "鼓聲", "大鼓", "細鼓"]
+  "related": [
+    "鼓手",
+    "打鼓",
+    "鼓聲",
+    "大鼓",
+    "細鼓"
+  ]
 }

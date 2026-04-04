@@ -3,7 +3,9 @@
   "word": "鈴鼓",
   "jyutping": "ling4 gu2",
   "meaning": "tambourine",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "A common noun for a tambourine, a small handheld percussion instrument used in music, singing, and dance.",
     "Often appears in performance settings such as school shows, church music, band practice, and children’s songs.",
@@ -55,5 +57,11 @@
     "easy",
     "level-1"
   ],
-  "related": ["鼓", "樂器", "拍子", "節奏", "打鼓"]
+  "related": [
+    "鼓",
+    "樂器",
+    "拍子",
+    "節奏",
+    "打鼓"
+  ]
 }

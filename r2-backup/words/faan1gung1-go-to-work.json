@@ -3,7 +3,9 @@
   "word": "返工",
   "jyutping": "faan1 gung1",
   "meaning": "go to work",
-  "pos": ["verb"],
+  "pos": [
+    "verb"
+  ],
   "usage": [
     "Very common everyday word for going to work; it is much more natural in spoken Cantonese than a formal expression.",
     "Often used with time words like 返工前, 返工後, and 啱啱返工 to talk about work routines and schedules.",
@@ -53,5 +55,11 @@
     "common verb",
     "level-1"
   ],
-  "related": ["上班", "開工", "收工", "返嚟", "請假"]
+  "related": [
+    "上班",
+    "開工",
+    "收工",
+    "返嚟",
+    "請假"
+  ]
 }

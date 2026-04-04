@@ -3,13 +3,12 @@
   "word": "難",
   "jyutping": "naan4",
   "meaning": "difficult",
-
-  "pos": ["adjective"],
-
+  "pos": [
+    "adjective"
+  ],
   "usage": [
     "Used to describe something that is hard to do or understand"
   ],
-
   "examples": [
     {
       "id": "naan4-difficult-example-1",
@@ -24,7 +23,6 @@
       "meaning": "It’s a bit difficult for me."
     }
   ],
-
   "audio": {
     "word": "naan4-difficult.mp3",
     "examples": [
@@ -32,9 +30,11 @@
       "naan4-difficult-example-2.mp3"
     ]
   },
-
-  "tags": ["adjective", "level-2", "difficulty"],
-
+  "tags": [
+    "adjective",
+    "level-2",
+    "difficulty"
+  ],
   "related": [
     "jung4ji6-easy"
   ]
