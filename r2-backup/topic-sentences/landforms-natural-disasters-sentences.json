@@ -2,7 +2,7 @@
   "topic": "landforms-natural-disasters",
   "title": "Landforms & Natural Disasters",
   "totalWords": 40,
-  "totalSentences": 152,
+  "totalSentences": 160,
   "items": [
     {
       "sentenceId": "saan1-mountain-example-1",
@@ -2921,6 +2921,86 @@
       "sourceFile": "r2-backup/words/sim2din6-lightning.json"
     },
     {
+      "sentenceId": "bing1bok6-hail-example-1",
+      "sentence": "今日突然落冰雹。",
+      "jyutping": "gam1 jat6 tyun4 jin4 lok6 bing1 bok6.",
+      "meaning": "It suddenly hailed today.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
+      "sentenceId": "bing1bok6-hail-example-2",
+      "sentence": "天文台話聽日有冰雹警告。",
+      "jyutping": "tin1 man4 toi4 waa6 ting1 jat6 jau5 bing1 bok6 ging2 gou3.",
+      "meaning": "The Observatory says there will be a hail warning tomorrow.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
+      "sentenceId": "bing1bok6-hail-example-3",
+      "sentence": "啲冰雹好大粒，打到地下都彈起。",
+      "jyutping": "di1 bing1 bok6 hou2 daai6 nap1, daa2 dou3 dei6 haa6 dou1 daan6 hei2.",
+      "meaning": "The hailstones were so big that they bounced off the ground.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
+      "sentenceId": "bing1bok6-hail-example-4",
+      "sentence": "打風嗰陣有時會落冰雹。",
+      "jyutping": "daa2 fung1 go2 zaan6 jau5 si4 wui5 lok6 bing1 bok6.",
+      "meaning": "When there is a typhoon, it sometimes hails.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
       "sentenceId": "mou6-fog-example-1",
       "sentence": "今朝有好重嘅霧。",
       "jyutping": "gam1 ziu1 jau5 hou2 cung5 ge3 mou6.",
@@ -2995,10 +3075,87 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/mou6-fog.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-1",
+      "sentence": "夏威夷嘅火山爆發吸引咗好多遊客。",
+      "jyutping": "Haa6 wai1 ji1 ge3 fo2 saan1 baau3 faat3 kap1 jan5 haa5 go3 dou1 haak3 jau4.",
+      "meaning": "The volcanic eruption in Hawaii attracted many tourists.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-2",
+      "sentence": "專家話呢次火山爆發可能會影響附近嘅空氣質素。",
+      "jyutping": "Zyun1 gaa1 waa6 ni1 ci3 fo2 saan1 baau3 faat3 ho2 nang4 wui5 jing2 hoeng2 fu6 gan6 ge3 hung1 hei3 zat1 sou3.",
+      "meaning": "Experts said this eruption may affect the air quality nearby.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-3",
+      "sentence": "如果火山爆發，居民要即刻撤離。",
+      "jyutping": "Jyu4 gwo2 fo2 saan1 baau3 faat3, geoi1 man4 jiu3 zik1 haak3 cit3 lei4.",
+      "meaning": "If a volcano erupts, residents need to evacuate immediately.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-4",
+      "sentence": "科學課提到火山爆發同板塊活動有關。",
+      "jyutping": "Fo1 hok6 fo3 tai4 dou3 fo2 saan1 baau3 faat3 tung4 baan2 faai3 wut6 dung6 jau5 gwaan1.",
+      "meaning": "The science lesson mentioned that volcanic eruptions are related to plate activity.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
     }
   ],
-  "missingWordFiles": [
-    "bing1bok6-hail",
-    "fo2saan1baau3faat3-volcanic-eruption"
-  ]
+  "missingWordFiles": []
 }

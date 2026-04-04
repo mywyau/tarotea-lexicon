@@ -2,7 +2,7 @@
   "topic": "animals",
   "title": "Animals",
   "totalWords": 105,
-  "totalSentences": 392,
+  "totalSentences": 420,
   "items": [
     {
       "sentenceId": "dung6mat6-animal-example-1",
@@ -987,6 +987,554 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gwai1-turtle.json"
+    },
+    {
+      "sentenceId": "ngau4-cow-example-1",
+      "sentence": "農場入面有一隻牛。",
+      "jyutping": "nung4 coeng4 jap6 min6 jau5 jat1 zek3 ngau4",
+      "meaning": "There is a cow on the farm.",
+      "sourceWordId": "ngau4-cow",
+      "sourceWord": "牛",
+      "sourceWordJyutping": "ngau4",
+      "sourceWordMeaning": "cow",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngau4-cow.json"
+    },
+    {
+      "sentenceId": "ngau4-cow-example-2",
+      "sentence": "呢隻牛好大隻。",
+      "jyutping": "ni1 zek3 ngau4 hou2 daai6 zek3",
+      "meaning": "This cow is very big.",
+      "sourceWordId": "ngau4-cow",
+      "sourceWord": "牛",
+      "sourceWordJyutping": "ngau4",
+      "sourceWordMeaning": "cow",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngau4-cow.json"
+    },
+    {
+      "sentenceId": "ngau4-cow-example-3",
+      "sentence": "小朋友睇住牛食草。",
+      "jyutping": "siu2 pang4 jau5 tai2 zyu6 ngau4 sik6 cou2",
+      "meaning": "The children watch the cow eat grass.",
+      "sourceWordId": "ngau4-cow",
+      "sourceWord": "牛",
+      "sourceWordJyutping": "ngau4",
+      "sourceWordMeaning": "cow",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngau4-cow.json"
+    },
+    {
+      "sentenceId": "ngau4-cow-example-4",
+      "sentence": "阿媽話牛奶好有營養。",
+      "jyutping": "aa3 maa1 waa6 ngau4 naai5 hou2 jau5 jing4 joeng5",
+      "meaning": "Mum said milk is very nutritious.",
+      "sourceWordId": "ngau4-cow",
+      "sourceWord": "牛",
+      "sourceWordJyutping": "ngau4",
+      "sourceWordMeaning": "cow",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngau4-cow.json"
+    },
+    {
+      "sentenceId": "zyu1-pig-example-1",
+      "sentence": "豬係農場常見嘅動物。",
+      "jyutping": "zyu1 hai6 nung4 coeng4 soeng4 gin3 ge3 dung6 mat6.",
+      "meaning": "A pig is a common animal on farms.",
+      "sourceWordId": "zyu1-pig",
+      "sourceWord": "豬",
+      "sourceWordJyutping": "zyu1",
+      "sourceWordMeaning": "pig",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu1-pig.json"
+    },
+    {
+      "sentenceId": "zyu1-pig-example-2",
+      "sentence": "佢屋企養咗兩隻豬。",
+      "jyutping": "keoi5 uk1 kei2 joeng5 zo2 loeng5 zek3 zyu1.",
+      "meaning": "Their family raised two pigs.",
+      "sourceWordId": "zyu1-pig",
+      "sourceWord": "豬",
+      "sourceWordJyutping": "zyu1",
+      "sourceWordMeaning": "pig",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu1-pig.json"
+    },
+    {
+      "sentenceId": "zyu1-pig-example-3",
+      "sentence": "我哋今日食豬肉。",
+      "jyutping": "ngo5 dei6 gam1 jat6 sik6 zyu1 juk6.",
+      "meaning": "We are eating pork today.",
+      "sourceWordId": "zyu1-pig",
+      "sourceWord": "豬",
+      "sourceWordJyutping": "zyu1",
+      "sourceWordMeaning": "pig",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu1-pig.json"
+    },
+    {
+      "sentenceId": "zyu1-pig-example-4",
+      "sentence": "呢隻豬好肥。",
+      "jyutping": "ni1 zek3 zyu1 hou2 fei4.",
+      "meaning": "This pig is very fat.",
+      "sourceWordId": "zyu1-pig",
+      "sourceWord": "豬",
+      "sourceWordJyutping": "zyu1",
+      "sourceWordMeaning": "pig",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu1-pig.json"
+    },
+    {
+      "sentenceId": "gai1-chicken-example-1",
+      "sentence": "呢隻雞好大隻。",
+      "jyutping": "ni1 zek3 gai1 hou2 daai6 zek3.",
+      "meaning": "This chicken is very big.",
+      "sourceWordId": "gai1-chicken",
+      "sourceWord": "雞",
+      "sourceWordJyutping": "gai1",
+      "sourceWordMeaning": "chicken",
+      "tags": [
+        "animal noun",
+        "farm animal",
+        "basic vocabulary",
+        "countable noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gai1-chicken.json"
+    },
+    {
+      "sentenceId": "gai1-chicken-example-2",
+      "sentence": "農場入面有好多雞。",
+      "jyutping": "nung4 coeng4 jap6 min6 jau5 hou2 do1 gai1.",
+      "meaning": "There are many chickens on the farm.",
+      "sourceWordId": "gai1-chicken",
+      "sourceWord": "雞",
+      "sourceWordJyutping": "gai1",
+      "sourceWordMeaning": "chicken",
+      "tags": [
+        "animal noun",
+        "farm animal",
+        "basic vocabulary",
+        "countable noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gai1-chicken.json"
+    },
+    {
+      "sentenceId": "gai1-chicken-example-3",
+      "sentence": "我哋今晚食白切雞。",
+      "jyutping": "ngo5 dei6 gam1 maan5 sik6 baak6 cit3 gai1.",
+      "meaning": "We’re eating poached chicken tonight.",
+      "sourceWordId": "gai1-chicken",
+      "sourceWord": "雞",
+      "sourceWordJyutping": "gai1",
+      "sourceWordMeaning": "chicken",
+      "tags": [
+        "animal noun",
+        "farm animal",
+        "basic vocabulary",
+        "countable noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gai1-chicken.json"
+    },
+    {
+      "sentenceId": "gai1-chicken-example-4",
+      "sentence": "隻雞喺雞舍裡面瞓緊。",
+      "jyutping": "zek3 gai1 hai2 gai1 se2 leoi5 min6 fan3 gan2.",
+      "meaning": "The chicken is sleeping in the coop.",
+      "sourceWordId": "gai1-chicken",
+      "sourceWord": "雞",
+      "sourceWordJyutping": "gai1",
+      "sourceWordMeaning": "chicken",
+      "tags": [
+        "animal noun",
+        "farm animal",
+        "basic vocabulary",
+        "countable noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gai1-chicken.json"
+    },
+    {
+      "sentenceId": "joeng4-sheep-example-1",
+      "sentence": "牧場入面有幾隻羊。",
+      "jyutping": "muk6 coeng4 jap6 min6 jau5 gei2 zik1 joeng4.",
+      "meaning": "There are several sheep on the farm.",
+      "sourceWordId": "joeng4-sheep",
+      "sourceWord": "羊",
+      "sourceWordJyutping": "joeng4",
+      "sourceWordMeaning": "sheep",
+      "tags": [
+        "farm-animal",
+        "animal",
+        "beginner",
+        "noun",
+        "common-word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joeng4-sheep.json"
+    },
+    {
+      "sentenceId": "joeng4-sheep-example-2",
+      "sentence": "呢隻羊好似好細隻。",
+      "jyutping": "ni1 zek3 joeng4 hou2 ci5 hou2 sai3 zek3.",
+      "meaning": "This sheep seems very small.",
+      "sourceWordId": "joeng4-sheep",
+      "sourceWord": "羊",
+      "sourceWordJyutping": "joeng4",
+      "sourceWordMeaning": "sheep",
+      "tags": [
+        "farm-animal",
+        "animal",
+        "beginner",
+        "noun",
+        "common-word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joeng4-sheep.json"
+    },
+    {
+      "sentenceId": "joeng4-sheep-example-3",
+      "sentence": "小朋友最鍾意睇羊。",
+      "jyutping": "siu2 pang4 jau5 zeoi3 zung1 ji3 tai2 joeng4.",
+      "meaning": "Children like looking at sheep the most.",
+      "sourceWordId": "joeng4-sheep",
+      "sourceWord": "羊",
+      "sourceWordJyutping": "joeng4",
+      "sourceWordMeaning": "sheep",
+      "tags": [
+        "farm-animal",
+        "animal",
+        "beginner",
+        "noun",
+        "common-word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joeng4-sheep.json"
+    },
+    {
+      "sentenceId": "joeng4-sheep-example-4",
+      "sentence": "我哋去動物園見到白色嘅羊。",
+      "jyutping": "ngo5 dei6 heoi3 dung6 mat6 jyun4 gin3 dou2 baak6 sik1 ge3 joeng4.",
+      "meaning": "We saw white sheep at the zoo.",
+      "sourceWordId": "joeng4-sheep",
+      "sourceWord": "羊",
+      "sourceWordJyutping": "joeng4",
+      "sourceWordMeaning": "sheep",
+      "tags": [
+        "farm-animal",
+        "animal",
+        "beginner",
+        "noun",
+        "common-word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joeng4-sheep.json"
+    },
+    {
+      "sentenceId": "maa5-horse-example-1",
+      "sentence": "我細個好鍾意睇馬。",
+      "jyutping": "ngo5 sai3 go3 hou2 zung1 ji3 tai2 maa5.",
+      "meaning": "I liked watching horses when I was little.",
+      "sourceWordId": "maa5-horse",
+      "sourceWord": "馬",
+      "sourceWordJyutping": "maa5",
+      "sourceWordMeaning": "horse",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5-horse.json"
+    },
+    {
+      "sentenceId": "maa5-horse-example-2",
+      "sentence": "農場入面有一匹馬。",
+      "jyutping": "nung4 coeng4 jap6 min6 jau5 jat1 pat1 maa5.",
+      "meaning": "There is one horse on the farm.",
+      "sourceWordId": "maa5-horse",
+      "sourceWord": "馬",
+      "sourceWordJyutping": "maa5",
+      "sourceWordMeaning": "horse",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5-horse.json"
+    },
+    {
+      "sentenceId": "maa5-horse-example-3",
+      "sentence": "佢每日都會去餵馬。",
+      "jyutping": "keoi5 mui5 jat6 dou1 wui5 heoi3 wai3 maa5.",
+      "meaning": "He/She feeds the horse every day.",
+      "sourceWordId": "maa5-horse",
+      "sourceWord": "馬",
+      "sourceWordJyutping": "maa5",
+      "sourceWordMeaning": "horse",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5-horse.json"
+    },
+    {
+      "sentenceId": "maa5-horse-example-4",
+      "sentence": "呢隻馬跑得好快。",
+      "jyutping": "ni1 zek3 maa5 paau2 dak1 hou2 faai3.",
+      "meaning": "This horse runs very fast.",
+      "sourceWordId": "maa5-horse",
+      "sourceWord": "馬",
+      "sourceWordJyutping": "maa5",
+      "sourceWordMeaning": "horse",
+      "tags": [
+        "animals",
+        "farm animals",
+        "basic vocabulary",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5-horse.json"
+    },
+    {
+      "sentenceId": "aap3-farm-duck-example-1",
+      "sentence": "我見到一隻鴨喺塘邊游水。",
+      "jyutping": "ngo5 gin3 dou3 jat1 zek3 aap3 hai2 tong4 bin1 jau4 seoi2.",
+      "meaning": "I saw a duck swimming by the pond.",
+      "sourceWordId": "aap3-farm-duck",
+      "sourceWord": "鴨",
+      "sourceWordJyutping": "aap3",
+      "sourceWordMeaning": "duck",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common word",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/aap3-farm-duck.json"
+    },
+    {
+      "sentenceId": "aap3-farm-duck-example-2",
+      "sentence": "農場入面有好多鴨。",
+      "jyutping": "nung4 coeng4 jap6 min6 jau5 hou2 do1 aap3.",
+      "meaning": "There are many ducks on the farm.",
+      "sourceWordId": "aap3-farm-duck",
+      "sourceWord": "鴨",
+      "sourceWordJyutping": "aap3",
+      "sourceWordMeaning": "duck",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common word",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/aap3-farm-duck.json"
+    },
+    {
+      "sentenceId": "aap3-farm-duck-example-3",
+      "sentence": "隻鴨行得好快。",
+      "jyutping": "zek3 aap3 haang4 dak1 hou2 faai3.",
+      "meaning": "The duck walks very fast.",
+      "sourceWordId": "aap3-farm-duck",
+      "sourceWord": "鴨",
+      "sourceWordJyutping": "aap3",
+      "sourceWordMeaning": "duck",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common word",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/aap3-farm-duck.json"
+    },
+    {
+      "sentenceId": "aap3-farm-duck-example-4",
+      "sentence": "媽媽今晚煮鴨俾我哋食。",
+      "jyutping": "maa1 maa1 gam2 maan5 zyu2 aap3 bei2 ngo5 dei6 sik6.",
+      "meaning": "Mom is cooking duck for us tonight.",
+      "sourceWordId": "aap3-farm-duck",
+      "sourceWord": "鴨",
+      "sourceWordJyutping": "aap3",
+      "sourceWordMeaning": "duck",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "common word",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/aap3-farm-duck.json"
+    },
+    {
+      "sentenceId": "ngo4-farm-goose-example-1",
+      "sentence": "隻鵝喺草地上面行嚟行去。",
+      "jyutping": "zek3 ngo4 hai2 cou2 dei6 soeng6 min6 hang4 lai4 hang4 heoi3.",
+      "meaning": "The goose walks around on the grass.",
+      "sourceWordId": "ngo4-farm-goose",
+      "sourceWord": "鵝",
+      "sourceWordJyutping": "ngo4",
+      "sourceWordMeaning": "goose",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "bird",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngo4-farm-goose.json"
+    },
+    {
+      "sentenceId": "ngo4-farm-goose-example-2",
+      "sentence": "農場入面養咗幾隻鵝。",
+      "jyutping": "nung4 coeng4 jap6 min6 joeng5 zo2 gei2 zek3 ngo4.",
+      "meaning": "There are a few geese raised on the farm.",
+      "sourceWordId": "ngo4-farm-goose",
+      "sourceWord": "鵝",
+      "sourceWordJyutping": "ngo4",
+      "sourceWordMeaning": "goose",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "bird",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngo4-farm-goose.json"
+    },
+    {
+      "sentenceId": "ngo4-farm-goose-example-3",
+      "sentence": "嗰隻鵝好大聲。",
+      "jyutping": "go2 zek3 ngo4 hou2 daai6 seng1.",
+      "meaning": "That goose is very loud.",
+      "sourceWordId": "ngo4-farm-goose",
+      "sourceWord": "鵝",
+      "sourceWordJyutping": "ngo4",
+      "sourceWordMeaning": "goose",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "bird",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngo4-farm-goose.json"
+    },
+    {
+      "sentenceId": "ngo4-farm-goose-example-4",
+      "sentence": "小朋友望住鵝游水。",
+      "jyutping": "siu2 pang4 jau5 mong6 zyu6 ngo4 jau4 seoi2.",
+      "meaning": "The child watches the goose swimming.",
+      "sourceWordId": "ngo4-farm-goose",
+      "sourceWord": "鵝",
+      "sourceWordJyutping": "ngo4",
+      "sourceWordMeaning": "goose",
+      "tags": [
+        "animals",
+        "farm animals",
+        "beginner",
+        "noun",
+        "bird",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngo4-farm-goose.json"
     },
     {
       "sentenceId": "lou5fu2-tiger-example-1",
@@ -7429,13 +7977,5 @@
       "sourceFile": "r2-backup/words/paa4-climb.json"
     }
   ],
-  "missingWordFiles": [
-    "ngau4-cow",
-    "zyu1-pig",
-    "gai1-chicken",
-    "joeng4-sheep",
-    "maa5-horse",
-    "aap3-farm-duck",
-    "ngo4-farm-goose"
-  ]
+  "missingWordFiles": []
 }

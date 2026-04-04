@@ -2,7 +2,7 @@
   "topic": "math",
   "title": "Math 數學",
   "totalWords": 58,
-  "totalSentences": 228,
+  "totalSentences": 232,
   "items": [
     {
       "sentenceId": "sou3hok6-math-example-1",
@@ -623,6 +623,82 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daap3on3-answer.json"
+    },
+    {
+      "sentenceId": "gaa1-add-example-1",
+      "sentence": "我哋要加二加三。",
+      "jyutping": "ngo5 dei6 jiu3 gaa1 ji6 gaa1 saam1.",
+      "meaning": "We need to add 2 and 3.",
+      "sourceWordId": "gaa1-add",
+      "sourceWord": "加",
+      "sourceWordJyutping": "gaa1",
+      "sourceWordMeaning": "add",
+      "tags": [
+        "math",
+        "arithmetic",
+        "basic verb",
+        "addition",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaa1-add.json"
+    },
+    {
+      "sentenceId": "gaa1-add-example-2",
+      "sentence": "呢條題要加埋個零。",
+      "jyutping": "ni1 tiu4 tai4 jiu3 gaa1 maai4 go3 ling4.",
+      "meaning": "This problem needs the zero added in.",
+      "sourceWordId": "gaa1-add",
+      "sourceWord": "加",
+      "sourceWordJyutping": "gaa1",
+      "sourceWordMeaning": "add",
+      "tags": [
+        "math",
+        "arithmetic",
+        "basic verb",
+        "addition",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaa1-add.json"
+    },
+    {
+      "sentenceId": "gaa1-add-example-3",
+      "sentence": "你幫我加少少糖。",
+      "jyutping": "nei5 bong1 ngo5 gaa1 siu2 siu2 tong4.",
+      "meaning": "Help me add a little sugar.",
+      "sourceWordId": "gaa1-add",
+      "sourceWord": "加",
+      "sourceWordJyutping": "gaa1",
+      "sourceWordMeaning": "add",
+      "tags": [
+        "math",
+        "arithmetic",
+        "basic verb",
+        "addition",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaa1-add.json"
+    },
+    {
+      "sentenceId": "gaa1-add-example-4",
+      "sentence": "開會前先加多個人。",
+      "jyutping": "hoi1 wui2 cin4 sin1 gaa1 do1 go3 jan4.",
+      "meaning": "Add one more person before the meeting.",
+      "sourceWordId": "gaa1-add",
+      "sourceWord": "加",
+      "sourceWordJyutping": "gaa1",
+      "sourceWordMeaning": "add",
+      "tags": [
+        "math",
+        "arithmetic",
+        "basic verb",
+        "addition",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaa1-add.json"
     },
     {
       "sentenceId": "gaam2-subtract-example-1",
@@ -4505,7 +4581,5 @@
       "sourceFile": "r2-backup/words/ping4fong1sou3-square-number.json"
     }
   ],
-  "missingWordFiles": [
-    "gaa1-add"
-  ]
+  "missingWordFiles": []
 }

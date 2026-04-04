@@ -2,7 +2,7 @@
   "topic": "furniture_and_home",
   "title": "Furniture & Home",
   "totalWords": 173,
-  "totalSentences": 620,
+  "totalSentences": 628,
   "items": [
     {
       "sentenceId": "toi4-table-example-1",
@@ -3255,6 +3255,86 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/mei4bo1lou4-microwave.json"
+    },
+    {
+      "sentenceId": "faan6wun2-rice-bowl-example-1",
+      "sentence": "我攞咗個飯碗去洗。",
+      "jyutping": "ngo5 lo2 zo2 go3 faan6 wun2 heoi3 sai2.",
+      "meaning": "I took the rice bowl to wash it.",
+      "sourceWordId": "faan6wun2-rice-bowl",
+      "sourceWord": "飯碗",
+      "sourceWordJyutping": "faan6 wun2",
+      "sourceWordMeaning": "rice bowl",
+      "tags": [
+        "furniture_and_home",
+        "dining_and_kitchen",
+        "basic vocabulary",
+        "noun",
+        "household items",
+        "food-related",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan6wun2-rice-bowl.json"
+    },
+    {
+      "sentenceId": "faan6wun2-rice-bowl-example-2",
+      "sentence": "阿媽幫我裝飯落飯碗。",
+      "jyutping": "aa3 maa1 bong1 ngo5 zong1 faan6 lok6 faan6 wun2.",
+      "meaning": "Mom helped me put rice into the bowl.",
+      "sourceWordId": "faan6wun2-rice-bowl",
+      "sourceWord": "飯碗",
+      "sourceWordJyutping": "faan6 wun2",
+      "sourceWordMeaning": "rice bowl",
+      "tags": [
+        "furniture_and_home",
+        "dining_and_kitchen",
+        "basic vocabulary",
+        "noun",
+        "household items",
+        "food-related",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan6wun2-rice-bowl.json"
+    },
+    {
+      "sentenceId": "faan6wun2-rice-bowl-example-3",
+      "sentence": "呢個飯碗好細。",
+      "jyutping": "ni1 go3 faan6 wun2 hou2 sai3.",
+      "meaning": "This rice bowl is very small.",
+      "sourceWordId": "faan6wun2-rice-bowl",
+      "sourceWord": "飯碗",
+      "sourceWordJyutping": "faan6 wun2",
+      "sourceWordMeaning": "rice bowl",
+      "tags": [
+        "furniture_and_home",
+        "dining_and_kitchen",
+        "basic vocabulary",
+        "noun",
+        "household items",
+        "food-related",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan6wun2-rice-bowl.json"
+    },
+    {
+      "sentenceId": "faan6wun2-rice-bowl-example-4",
+      "sentence": "食完飯記得將飯碗擺好。",
+      "jyutping": "sik6 jyun4 faan6 gei3 dak1 zoeng1 faan6 wun2 baai2 hou2.",
+      "meaning": "After eating, remember to put the rice bowl away properly.",
+      "sourceWordId": "faan6wun2-rice-bowl",
+      "sourceWord": "飯碗",
+      "sourceWordJyutping": "faan6 wun2",
+      "sourceWordMeaning": "rice bowl",
+      "tags": [
+        "furniture_and_home",
+        "dining_and_kitchen",
+        "basic vocabulary",
+        "noun",
+        "household items",
+        "food-related",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan6wun2-rice-bowl.json"
     },
     {
       "sentenceId": "dip6-plate-example-1",
@@ -6695,6 +6775,82 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/seoi6fong2-bedroom.json"
+    },
+    {
+      "sentenceId": "cyu1fong4-kitchen-example-1",
+      "sentence": "我喺廚房煮飯。",
+      "jyutping": "ngo5 hai2 cyu1 fong4 zyu2 faan6.",
+      "meaning": "I’m cooking in the kitchen.",
+      "sourceWordId": "cyu1fong4-kitchen",
+      "sourceWord": "廚房",
+      "sourceWordJyutping": "cyu1 fong4",
+      "sourceWordMeaning": "kitchen",
+      "tags": [
+        "home",
+        "rooms",
+        "house",
+        "daily life",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu1fong4-kitchen.json"
+    },
+    {
+      "sentenceId": "cyu1fong4-kitchen-example-2",
+      "sentence": "媽媽喺廚房切菜。",
+      "jyutping": "maa1 maa1 hai2 cyu1 fong4 cit3 coi3.",
+      "meaning": "Mum is cutting vegetables in the kitchen.",
+      "sourceWordId": "cyu1fong4-kitchen",
+      "sourceWord": "廚房",
+      "sourceWordJyutping": "cyu1 fong4",
+      "sourceWordMeaning": "kitchen",
+      "tags": [
+        "home",
+        "rooms",
+        "house",
+        "daily life",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu1fong4-kitchen.json"
+    },
+    {
+      "sentenceId": "cyu1fong4-kitchen-example-3",
+      "sentence": "廚房有好多碗碟。",
+      "jyutping": "cyu1 fong4 jau5 ho2 do1 wun2 dip6.",
+      "meaning": "There are lots of bowls and plates in the kitchen.",
+      "sourceWordId": "cyu1fong4-kitchen",
+      "sourceWord": "廚房",
+      "sourceWordJyutping": "cyu1 fong4",
+      "sourceWordMeaning": "kitchen",
+      "tags": [
+        "home",
+        "rooms",
+        "house",
+        "daily life",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu1fong4-kitchen.json"
+    },
+    {
+      "sentenceId": "cyu1fong4-kitchen-example-4",
+      "sentence": "我哋一齊去廚房睇吓。",
+      "jyutping": "ngo5 dei6 jat1 cai4 heoi3 cyu1 fong4 tai2 haa5.",
+      "meaning": "Let’s go to the kitchen and have a look.",
+      "sourceWordId": "cyu1fong4-kitchen",
+      "sourceWord": "廚房",
+      "sourceWordJyutping": "cyu1 fong4",
+      "sourceWordMeaning": "kitchen",
+      "tags": [
+        "home",
+        "rooms",
+        "house",
+        "daily life",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu1fong4-kitchen.json"
     },
     {
       "sentenceId": "ci3so2-bathroom-example-1",
@@ -11693,8 +11849,5 @@
       "sourceFile": "r2-backup/words/sak1-blocked-clogged.json"
     }
   ],
-  "missingWordFiles": [
-    "faan6wun2-rice-bowl",
-    "cyu1fong4-kitchen"
-  ]
+  "missingWordFiles": []
 }

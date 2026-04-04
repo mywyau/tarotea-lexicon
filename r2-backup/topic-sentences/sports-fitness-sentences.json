@@ -2,7 +2,7 @@
   "topic": "sports_and_fitness",
   "title": "Sports & Fitness",
   "totalWords": 86,
-  "totalSentences": 340,
+  "totalSentences": 344,
   "items": [
     {
       "sentenceId": "wan6dung6-exercise-example-1",
@@ -2315,6 +2315,82 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/tiu3mou5-dance.json"
+    },
+    {
+      "sentenceId": "caai2waat6baan2-skateboard-example-1",
+      "sentence": "我鍾意踩滑板。",
+      "jyutping": "ngo5 zung1 ji3 caai2 waat6 baan2.",
+      "meaning": "I like skateboarding.",
+      "sourceWordId": "caai2waat6baan2-skateboard",
+      "sourceWord": "踩滑板",
+      "sourceWordJyutping": "caai2 waat6 baan2",
+      "sourceWordMeaning": "to skateboard; skateboarding",
+      "tags": [
+        "sports",
+        "outdoor",
+        "recreation",
+        "youth",
+        "exercise",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
+    },
+    {
+      "sentenceId": "caai2waat6baan2-skateboard-example-2",
+      "sentence": "你識唔識踩滑板？",
+      "jyutping": "nei5 sik1 m4 sik1 caai2 waat6 baan2?",
+      "meaning": "Do you know how to skateboard?",
+      "sourceWordId": "caai2waat6baan2-skateboard",
+      "sourceWord": "踩滑板",
+      "sourceWordJyutping": "caai2 waat6 baan2",
+      "sourceWordMeaning": "to skateboard; skateboarding",
+      "tags": [
+        "sports",
+        "outdoor",
+        "recreation",
+        "youth",
+        "exercise",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
+    },
+    {
+      "sentenceId": "caai2waat6baan2-skateboard-example-3",
+      "sentence": "佢哋每日去滑板場踩滑板。",
+      "jyutping": "keoi5 dei6 mui5 jat6 heoi3 waat6 baan2 coeng4 caai2 waat6 baan2.",
+      "meaning": "They go to the skateboard park every day to skateboard.",
+      "sourceWordId": "caai2waat6baan2-skateboard",
+      "sourceWord": "踩滑板",
+      "sourceWordJyutping": "caai2 waat6 baan2",
+      "sourceWordMeaning": "to skateboard; skateboarding",
+      "tags": [
+        "sports",
+        "outdoor",
+        "recreation",
+        "youth",
+        "exercise",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
+    },
+    {
+      "sentenceId": "caai2waat6baan2-skateboard-example-4",
+      "sentence": "踩滑板要戴安全帽。",
+      "jyutping": "caai2 waat6 baan2 jiu3 daai3 ngon1 cyun4 mou6.",
+      "meaning": "You need to wear a helmet when skateboarding.",
+      "sourceWordId": "caai2waat6baan2-skateboard",
+      "sourceWord": "踩滑板",
+      "sourceWordJyutping": "caai2 waat6 baan2",
+      "sourceWordMeaning": "to skateboard; skateboarding",
+      "tags": [
+        "sports",
+        "outdoor",
+        "recreation",
+        "youth",
+        "exercise",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
     },
     {
       "sentenceId": "waat6syut3-ski-example-1",
@@ -6509,7 +6585,5 @@
       "sourceFile": "r2-backup/words/lai6hoi6-impressive.json"
     }
   ],
-  "missingWordFiles": [
-    "caai2waat6baan2-skateboard"
-  ]
+  "missingWordFiles": []
 }

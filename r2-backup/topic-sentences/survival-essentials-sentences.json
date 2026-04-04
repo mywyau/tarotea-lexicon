@@ -932,32 +932,14 @@
       "sourceFile": "r2-backup/words/bong1sau2-to-help-give-a-hand.json"
     },
     {
-      "sentenceId": "gau3ming6-help-save-me-example-1",
-      "sentence": "救命！",
-      "jyutping": "gau3 ming6",
-      "meaning": "Help!",
-      "sourceWordId": "gau3ming6-help-save-me",
-      "sourceWord": "救命",
-      "sourceWordJyutping": "gau3 ming6",
-      "sourceWordMeaning": "help! / save me!",
-      "tags": [
-        "exclamation",
-        "level-1",
-        "core",
-        "emergency",
-        "survival"
-      ],
-      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
-    },
-    {
-      "sentenceId": "gau3ming6-help-save-me-example-2",
+      "sentenceId": "gau3meng6-save-me-example-1",
       "sentence": "救命呀！",
-      "jyutping": "gau3 ming6 aa3",
+      "jyutping": "gau3 meng6 aa3",
       "meaning": "Help!",
-      "sourceWordId": "gau3ming6-help-save-me",
+      "sourceWordId": "gau3meng6-save-me",
       "sourceWord": "救命",
-      "sourceWordJyutping": "gau3 ming6",
-      "sourceWordMeaning": "help! / save me!",
+      "sourceWordJyutping": "gau3 meng6",
+      "sourceWordMeaning": "Help! / Save me!",
       "tags": [
         "exclamation",
         "level-1",
@@ -965,17 +947,17 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
+      "sourceFile": "r2-backup/words/gau3meng6-save-me.json"
     },
     {
-      "sentenceId": "gau3ming6-help-save-me-example-3",
-      "sentence": "救命！我受傷！",
-      "jyutping": "gau3 ming6, ngo5 sau6 zoeng1",
-      "meaning": "Help! I’m injured!",
-      "sourceWordId": "gau3ming6-help-save-me",
+      "sentenceId": "gau3meng6-save-me-example-2",
+      "sentence": "救命！有人跌咗落水呀！",
+      "jyutping": "gau3 meng6! jau5 jan4 dit3 zo2 lok6 seoi2 aa3!",
+      "meaning": "Help! Someone fell into the water!",
+      "sourceWordId": "gau3meng6-save-me",
       "sourceWord": "救命",
-      "sourceWordJyutping": "gau3 ming6",
-      "sourceWordMeaning": "help! / save me!",
+      "sourceWordJyutping": "gau3 meng6",
+      "sourceWordMeaning": "Help! / Save me!",
       "tags": [
         "exclamation",
         "level-1",
@@ -983,17 +965,17 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
+      "sourceFile": "r2-backup/words/gau3meng6-save-me.json"
     },
     {
-      "sentenceId": "gau3ming6-help-save-me-example-4",
-      "sentence": "救命！好緊急！",
-      "jyutping": "gau3 ming6, hou2 gan2 gap1",
-      "meaning": "Help! It’s an emergency!",
-      "sourceWordId": "gau3ming6-help-save-me",
+      "sentenceId": "gau3meng6-save-me-example-3",
+      "sentence": "救命！我隻腳流緊血呀！",
+      "jyutping": "gau3 meng6! ngo5 zek3 goek3 lau4 gan2 hyut3 aa3!",
+      "meaning": "Help! My leg is bleeding!",
+      "sourceWordId": "gau3meng6-save-me",
       "sourceWord": "救命",
-      "sourceWordJyutping": "gau3 ming6",
-      "sourceWordMeaning": "help! / save me!",
+      "sourceWordJyutping": "gau3 meng6",
+      "sourceWordMeaning": "Help! / Save me!",
       "tags": [
         "exclamation",
         "level-1",
@@ -1001,17 +983,17 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
+      "sourceFile": "r2-backup/words/gau3meng6-save-me.json"
     },
     {
-      "sentenceId": "gau3ming6-help-save-me-example-5",
-      "sentence": "救命！快啲叫救護車！",
-      "jyutping": "gau3 ming6, faai3 di1 giu3 gau3 wu6 ce1",
-      "meaning": "Help! Call an ambulance!",
-      "sourceWordId": "gau3ming6-help-save-me",
+      "sentenceId": "gau3meng6-save-me-example-4",
+      "sentence": "救命！快啲幫我報警呀！",
+      "jyutping": "gau3 meng6! faai3 di1 bong1 ngo5 bou3 ging2 aa3!",
+      "meaning": "Help! Please call the police for me quickly!",
+      "sourceWordId": "gau3meng6-save-me",
       "sourceWord": "救命",
-      "sourceWordJyutping": "gau3 ming6",
-      "sourceWordMeaning": "help! / save me!",
+      "sourceWordJyutping": "gau3 meng6",
+      "sourceWordMeaning": "Help! / Save me!",
       "tags": [
         "exclamation",
         "level-1",
@@ -1019,7 +1001,25 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
+      "sourceFile": "r2-backup/words/gau3meng6-save-me.json"
+    },
+    {
+      "sentenceId": "gau3meng6-save-me-example-5",
+      "sentence": "救命！可唔可以叫救護車呀？",
+      "jyutping": "gau3 meng6! ho2 m4 ho2 ji5 giu3 gau3 wu6 ce1 aa3?",
+      "meaning": "Help! Can you call an ambulance?",
+      "sourceWordId": "gau3meng6-save-me",
+      "sourceWord": "救命",
+      "sourceWordJyutping": "gau3 meng6",
+      "sourceWordMeaning": "Help! / Save me!",
+      "tags": [
+        "exclamation",
+        "level-1",
+        "core",
+        "emergency",
+        "survival"
+      ],
+      "sourceFile": "r2-backup/words/gau3meng6-save-me.json"
     },
     {
       "sentenceId": "gan2gap1-emergency-example-1",

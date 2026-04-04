@@ -2,7 +2,7 @@
   "topic": "business",
   "title": "Business",
   "totalWords": 49,
-  "totalSentences": 188,
+  "totalSentences": 196,
   "items": [
     {
       "sentenceId": "soeng1jip6-commerce-example-1",
@@ -1621,6 +1621,86 @@
       "sourceFile": "r2-backup/words/bou3gou3-report-2.json"
     },
     {
+      "sentenceId": "wui6gai3-accounting-example-1",
+      "sentence": "佢讀會計。",
+      "jyutping": "keoi5 duk6 wui6 gai3.",
+      "meaning": "He/She is studying accounting.",
+      "sourceWordId": "wui6gai3-accounting",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accounting",
+      "tags": [
+        "business",
+        "office",
+        "workplace",
+        "finance",
+        "job",
+        "study",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accounting.json"
+    },
+    {
+      "sentenceId": "wui6gai3-accounting-example-2",
+      "sentence": "公司個會計部好忙。",
+      "jyutping": "gung1 si1 go3 wui6 gai3 bou6 hou2 mong4.",
+      "meaning": "The accounting department of the company is very busy.",
+      "sourceWordId": "wui6gai3-accounting",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accounting",
+      "tags": [
+        "business",
+        "office",
+        "workplace",
+        "finance",
+        "job",
+        "study",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accounting.json"
+    },
+    {
+      "sentenceId": "wui6gai3-accounting-example-3",
+      "sentence": "我想搵一份會計嘅工。",
+      "jyutping": "ngo5 soeng2 wan2 jat1 fan6 wui6 gai3 ge3 gung1.",
+      "meaning": "I want to find an accounting job.",
+      "sourceWordId": "wui6gai3-accounting",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accounting",
+      "tags": [
+        "business",
+        "office",
+        "workplace",
+        "finance",
+        "job",
+        "study",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accounting.json"
+    },
+    {
+      "sentenceId": "wui6gai3-accounting-example-4",
+      "sentence": "呢間舖頭嘅會計做得好清楚。",
+      "jyutping": "ni1 gaan1 pou2 tau4 ge3 wui6 gai3 zou6 dak1 hou2 cing1 co2.",
+      "meaning": "The accounting in this shop is done very clearly.",
+      "sourceWordId": "wui6gai3-accounting",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accounting",
+      "tags": [
+        "business",
+        "office",
+        "workplace",
+        "finance",
+        "job",
+        "study",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accounting.json"
+    },
+    {
       "sentenceId": "cin2-money-example-1",
       "sentence": "我今日冇錢，唔好買咁多嘢啦。",
       "jyutping": "ngo5 gam1 jat6 mou5 cin2, m4 hou2 maai5 gam3 do1 je5 laa1.",
@@ -2039,6 +2119,86 @@
         "level-1"
       ],
       "sourceFile": "r2-backup/words/syun2sat1-loss.json"
+    },
+    {
+      "sentenceId": "maai5maai6-trading-example-1",
+      "sentence": "呢度做買賣好講信用。",
+      "jyutping": "ni1 dou6 zou6 maai5 maai6 hou2 gong2 seon3 jung6.",
+      "meaning": "Doing business here depends a lot on trust.",
+      "sourceWordId": "maai5maai6-trading",
+      "sourceWord": "買賣",
+      "sourceWordJyutping": "maai5 maai6",
+      "sourceWordMeaning": "trading",
+      "tags": [
+        "business",
+        "money and sales",
+        "trade",
+        "commerce",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5maai6-trading.json"
+    },
+    {
+      "sentenceId": "maai5maai6-trading-example-2",
+      "sentence": "佢專門做電子零件買賣。",
+      "jyutping": "keoi5 zyun1 mun4 zou6 din6 ze2 ling4 cin2 maai5 maai6.",
+      "meaning": "He specializes in trading electronic parts.",
+      "sourceWordId": "maai5maai6-trading",
+      "sourceWord": "買賣",
+      "sourceWordJyutping": "maai5 maai6",
+      "sourceWordMeaning": "trading",
+      "tags": [
+        "business",
+        "money and sales",
+        "trade",
+        "commerce",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5maai6-trading.json"
+    },
+    {
+      "sentenceId": "maai5maai6-trading-example-3",
+      "sentence": "魚市場啲買賣好旺。",
+      "jyutping": "jyu4 si5 coeng4 di1 maai5 maai6 hou2 wong6.",
+      "meaning": "Business is very busy at the fish market.",
+      "sourceWordId": "maai5maai6-trading",
+      "sourceWord": "買賣",
+      "sourceWordJyutping": "maai5 maai6",
+      "sourceWordMeaning": "trading",
+      "tags": [
+        "business",
+        "money and sales",
+        "trade",
+        "commerce",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5maai6-trading.json"
+    },
+    {
+      "sentenceId": "maai5maai6-trading-example-4",
+      "sentence": "兩邊公司嘅買賣已經傾好。",
+      "jyutping": "loeng5 bin1 gung1 si1 ge3 maai5 maai6 ji5 ging1 king1 hou2.",
+      "meaning": "The deal between the two companies has already been agreed.",
+      "sourceWordId": "maai5maai6-trading",
+      "sourceWord": "買賣",
+      "sourceWordJyutping": "maai5 maai6",
+      "sourceWordMeaning": "trading",
+      "tags": [
+        "business",
+        "money and sales",
+        "trade",
+        "commerce",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maai5maai6-trading.json"
     },
     {
       "sentenceId": "jing4jip6ngaak6-turnover-example-1",
@@ -3821,8 +3981,5 @@
       "sourceFile": "r2-backup/words/jip6zik1-performance.json"
     }
   ],
-  "missingWordFiles": [
-    "wui6gai3-accounting",
-    "maai5maai6-trading"
-  ]
+  "missingWordFiles": []
 }
