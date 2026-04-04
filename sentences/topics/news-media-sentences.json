@@ -1,0 +1,2377 @@
+{
+  "topic": "news-media",
+  "title": "News & Media",
+  "totalWords": 30,
+  "totalSentences": 120,
+  "items": [
+    {
+      "sentenceId": "san1man4-news-example-1",
+      "sentence": "我每日都會睇新聞。",
+      "jyutping": "ngo5 mui5 jat6 dou1 wui5 tai2 san1 man4.",
+      "meaning": "I watch the news every day.",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "san1man4-news-example-2",
+      "sentence": "你聽咗今日嘅新聞未？",
+      "jyutping": "nei5 teng1 zo2 gam1 jat6 ge3 san1 man4 mei6?",
+      "meaning": "Have you heard today's news yet?",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "san1man4-news-example-3",
+      "sentence": "電視新聞成日報道本地消息。",
+      "jyutping": "din6 si6 san1 man4 sing4 jat6 bou3 dou6 bun2 dei6 siu1 sik1.",
+      "meaning": "TV news often reports local updates.",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "san1man4-news-example-4",
+      "sentence": "呢單新聞好多人都好關心。",
+      "jyutping": "ni1 daan1 san1 man4 hou2 do1 jan4 dou1 hou2 gwaan1 sam1.",
+      "meaning": "A lot of people are concerned about this news item.",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "tau4tiu4-headline-example-1",
+      "sentence": "今日《東方日報》嘅頭條係講樓價再升。",
+      "jyutping": "gam1 jat6 dung1 fong1 jat6 bou3 ge3 tau4 tiu4 hai6 gong2 lau4 gaa3 zoi3 sing1.",
+      "meaning": "Today’s headline in the Oriental Daily is about property prices rising again.",
+      "sourceWordId": "tau4tiu4-headline",
+      "sourceWord": "頭條",
+      "sourceWordJyutping": "tau4 tiu4",
+      "sourceWordMeaning": "headline",
+      "tags": [
+        "news-media",
+        "news types",
+        "headline",
+        "newspaper",
+        "TV news",
+        "media vocabulary",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tau4tiu4-headline.json"
+    },
+    {
+      "sentenceId": "tau4tiu4-headline-example-2",
+      "sentence": "呢單新聞上咗頭條，大家都好關注。",
+      "jyutping": "ni1 daan1 san1 man4 soeng6 zo2 tau4 tiu4, daai6 gaa1 dou1 hou2 gwaan1 zyu3.",
+      "meaning": "This news story made the headline, and everyone is paying attention.",
+      "sourceWordId": "tau4tiu4-headline",
+      "sourceWord": "頭條",
+      "sourceWordJyutping": "tau4 tiu4",
+      "sourceWordMeaning": "headline",
+      "tags": [
+        "news-media",
+        "news types",
+        "headline",
+        "newspaper",
+        "TV news",
+        "media vocabulary",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tau4tiu4-headline.json"
+    },
+    {
+      "sentenceId": "tau4tiu4-headline-example-3",
+      "sentence": "阿媽一睇頭條，就知發生咩事。",
+      "jyutping": "aa3 maa1 jat1 tai2 tau4 tiu4, zau6 zi1 faat3 sang1 me1 si6.",
+      "meaning": "My mum can tell what happened just by looking at the headline.",
+      "sourceWordId": "tau4tiu4-headline",
+      "sourceWord": "頭條",
+      "sourceWordJyutping": "tau4 tiu4",
+      "sourceWordMeaning": "headline",
+      "tags": [
+        "news-media",
+        "news types",
+        "headline",
+        "newspaper",
+        "TV news",
+        "media vocabulary",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tau4tiu4-headline.json"
+    },
+    {
+      "sentenceId": "tau4tiu4-headline-example-4",
+      "sentence": "你可唔可以幫我寫個更吸引嘅頭條？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 se2 go3 gang3 cik1 jan5 ge3 tau4 tiu4?",
+      "meaning": "Can you help me write a more eye-catching headline?",
+      "sourceWordId": "tau4tiu4-headline",
+      "sourceWord": "頭條",
+      "sourceWordJyutping": "tau4 tiu4",
+      "sourceWordMeaning": "headline",
+      "tags": [
+        "news-media",
+        "news types",
+        "headline",
+        "newspaper",
+        "TV news",
+        "media vocabulary",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tau4tiu4-headline.json"
+    },
+    {
+      "sentenceId": "bou3zi2-newspaper-example-1",
+      "sentence": "我每日早上都會買一份報紙。",
+      "jyutping": "ngo5 mei5 jat6 zou2 soeng5 soeng6 dou1 wui5 maai5 jat1 fan6 bou3 zi2.",
+      "meaning": "I buy a newspaper every morning.",
+      "sourceWordId": "bou3zi2-newspaper",
+      "sourceWord": "報紙",
+      "sourceWordJyutping": "bou3 zi2",
+      "sourceWordMeaning": "newspaper",
+      "tags": [
+        "news media",
+        "daily life",
+        "reading",
+        "printed media",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3zi2-newspaper.json"
+    },
+    {
+      "sentenceId": "bou3zi2-newspaper-example-2",
+      "sentence": "阿爸喺茶餐廳睇報紙。",
+      "jyutping": "aa3 baa1 hai2 caa4 caan1 teng1 tai2 bou3 zi2.",
+      "meaning": "Dad is reading a newspaper in the cha chaan teng.",
+      "sourceWordId": "bou3zi2-newspaper",
+      "sourceWord": "報紙",
+      "sourceWordJyutping": "bou3 zi2",
+      "sourceWordMeaning": "newspaper",
+      "tags": [
+        "news media",
+        "daily life",
+        "reading",
+        "printed media",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3zi2-newspaper.json"
+    },
+    {
+      "sentenceId": "bou3zi2-newspaper-example-3",
+      "sentence": "呢份報紙頭版報導咗個大新聞。",
+      "jyutping": "ni1 fan6 bou3 zi2 tau4 baan2 bou3 dou6 zo2 go3 daai6 san1 man4.",
+      "meaning": "This newspaper’s front page reported a big news story.",
+      "sourceWordId": "bou3zi2-newspaper",
+      "sourceWord": "報紙",
+      "sourceWordJyutping": "bou3 zi2",
+      "sourceWordMeaning": "newspaper",
+      "tags": [
+        "news media",
+        "daily life",
+        "reading",
+        "printed media",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3zi2-newspaper.json"
+    },
+    {
+      "sentenceId": "bou3zi2-newspaper-example-4",
+      "sentence": "你可唔可以幫我攞份報紙？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 lo2 fan6 bou3 zi2?",
+      "meaning": "Can you help me get a newspaper?",
+      "sourceWordId": "bou3zi2-newspaper",
+      "sourceWord": "報紙",
+      "sourceWordJyutping": "bou3 zi2",
+      "sourceWordMeaning": "newspaper",
+      "tags": [
+        "news media",
+        "daily life",
+        "reading",
+        "printed media",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3zi2-newspaper.json"
+    },
+    {
+      "sentenceId": "zaap3zi2-magazine-example-1",
+      "sentence": "我鍾意睇旅遊雜誌。",
+      "jyutping": "ngo5 zung1ji3 tai2 leoi5jau4 zaap3zi2.",
+      "meaning": "I like reading travel magazines.",
+      "sourceWordId": "zaap3zi2-magazine",
+      "sourceWord": "雜誌",
+      "sourceWordJyutping": "zaap3 zi2",
+      "sourceWordMeaning": "magazine",
+      "tags": [
+        "news media",
+        "news types",
+        "print media",
+        "reading",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap3zi2-magazine.json"
+    },
+    {
+      "sentenceId": "zaap3zi2-magazine-example-2",
+      "sentence": "呢本雜誌有好多新聞報道。",
+      "jyutping": "ni1 bun2 zaap3zi2 jau5 hou2 do1 san1man4 bou3dou6.",
+      "meaning": "This magazine has a lot of news reports.",
+      "sourceWordId": "zaap3zi2-magazine",
+      "sourceWord": "雜誌",
+      "sourceWordJyutping": "zaap3 zi2",
+      "sourceWordMeaning": "magazine",
+      "tags": [
+        "news media",
+        "news types",
+        "print media",
+        "reading",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap3zi2-magazine.json"
+    },
+    {
+      "sentenceId": "zaap3zi2-magazine-example-3",
+      "sentence": "佢喺書店買咗一本時尚雜誌。",
+      "jyutping": "keoi5 hai2 syu1dim3 maai5 zo2 jat1 bun2 si4soeng6 zaap3zi2.",
+      "meaning": "He/She bought a fashion magazine at the bookstore.",
+      "sourceWordId": "zaap3zi2-magazine",
+      "sourceWord": "雜誌",
+      "sourceWordJyutping": "zaap3 zi2",
+      "sourceWordMeaning": "magazine",
+      "tags": [
+        "news media",
+        "news types",
+        "print media",
+        "reading",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap3zi2-magazine.json"
+    },
+    {
+      "sentenceId": "zaap3zi2-magazine-example-4",
+      "sentence": "我訂閱咗一份英文雜誌。",
+      "jyutping": "ngo5 din3jyut6 zo2 jat1 fan6 jing1man4 zaap3zi2.",
+      "meaning": "I subscribed to an English magazine.",
+      "sourceWordId": "zaap3zi2-magazine",
+      "sourceWord": "雜誌",
+      "sourceWordJyutping": "zaap3 zi2",
+      "sourceWordMeaning": "magazine",
+      "tags": [
+        "news media",
+        "news types",
+        "print media",
+        "reading",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zaap3zi2-magazine.json"
+    },
+    {
+      "sentenceId": "din6si6san1man4-tv-news-example-1",
+      "sentence": "我今晚想睇電視新聞。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 tai2 din6 si6 san1 man4.",
+      "meaning": "I want to watch the TV news tonight.",
+      "sourceWordId": "din6si6san1man4-tv-news",
+      "sourceWord": "電視新聞",
+      "sourceWordJyutping": "din6 si6 san1 man4",
+      "sourceWordMeaning": "tv news",
+      "tags": [
+        "news media",
+        "tv",
+        "daily life",
+        "basic vocabulary",
+        "broadcast news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6san1man4-tv-news.json"
+    },
+    {
+      "sentenceId": "din6si6san1man4-tv-news-example-2",
+      "sentence": "佢每日都會準時收睇電視新聞。",
+      "jyutping": "keoi5 mui5 jat6 dou1 wui5 zeon2 si4 sau1 tai2 din6 si6 san1 man4.",
+      "meaning": "He watches the TV news on time every day.",
+      "sourceWordId": "din6si6san1man4-tv-news",
+      "sourceWord": "電視新聞",
+      "sourceWordJyutping": "din6 si6 san1 man4",
+      "sourceWordMeaning": "tv news",
+      "tags": [
+        "news media",
+        "tv",
+        "daily life",
+        "basic vocabulary",
+        "broadcast news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6san1man4-tv-news.json"
+    },
+    {
+      "sentenceId": "din6si6san1man4-tv-news-example-3",
+      "sentence": "電視新聞講咗今日嘅天氣同交通情況。",
+      "jyutping": "din6 si6 san1 man4 gong2 zo2 gam1 jat6 ge3 tin1 hei3 tung4 gaau1 tung1 cing4 fong3.",
+      "meaning": "The TV news covered today’s weather and traffic situation.",
+      "sourceWordId": "din6si6san1man4-tv-news",
+      "sourceWord": "電視新聞",
+      "sourceWordJyutping": "din6 si6 san1 man4",
+      "sourceWordMeaning": "tv news",
+      "tags": [
+        "news media",
+        "tv",
+        "daily life",
+        "basic vocabulary",
+        "broadcast news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6san1man4-tv-news.json"
+    },
+    {
+      "sentenceId": "din6si6san1man4-tv-news-example-4",
+      "sentence": "屋企人食飯嗰陣通常會開住電視新聞。",
+      "jyutping": "uk1 kei2 jan4 sik6 faan6 go2 zan6 tung1 soeng4 wui5 hoi1 zyu6 din6 si6 san1 man4.",
+      "meaning": "My family usually has the TV news on while eating dinner.",
+      "sourceWordId": "din6si6san1man4-tv-news",
+      "sourceWord": "電視新聞",
+      "sourceWordJyutping": "din6 si6 san1 man4",
+      "sourceWordMeaning": "tv news",
+      "tags": [
+        "news media",
+        "tv",
+        "daily life",
+        "basic vocabulary",
+        "broadcast news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6san1man4-tv-news.json"
+    },
+    {
+      "sentenceId": "mong5soeng6san1man4-online-news-example-1",
+      "sentence": "我每日起身第一件事就係睇網上新聞。",
+      "jyutping": "ngo5 mei6 jat6 hei2 san1 dai6 jat1 gin6 si6 zau6 hai6 tai2 mong5 soeng6 san1 man4.",
+      "meaning": "I check online news first thing every morning.",
+      "sourceWordId": "mong5soeng6san1man4-online-news",
+      "sourceWord": "網上新聞",
+      "sourceWordJyutping": "mong5 soeng6 san1 man4",
+      "sourceWordMeaning": "online news",
+      "tags": [
+        "news",
+        "media",
+        "internet",
+        "daily life",
+        "beginner",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6san1man4-online-news.json"
+    },
+    {
+      "sentenceId": "mong5soeng6san1man4-online-news-example-2",
+      "sentence": "佢喺公司午飯時間成日開網上新聞睇。",
+      "jyutping": "keoi5 hai2 gung1 si1 ng5 faan6 si4 gaan3 seng4 jat6 hoi1 mong5 soeng6 san1 man4 tai2.",
+      "meaning": "He often opens online news during lunch break at work.",
+      "sourceWordId": "mong5soeng6san1man4-online-news",
+      "sourceWord": "網上新聞",
+      "sourceWordJyutping": "mong5 soeng6 san1 man4",
+      "sourceWordMeaning": "online news",
+      "tags": [
+        "news",
+        "media",
+        "internet",
+        "daily life",
+        "beginner",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6san1man4-online-news.json"
+    },
+    {
+      "sentenceId": "mong5soeng6san1man4-online-news-example-3",
+      "sentence": "而家好多人都用手機睇網上新聞。",
+      "jyutping": "ji4 gaa1 hou2 do1 jan4 dou1 jung6 zau2 gei1 tai2 mong5 soeng6 san1 man4.",
+      "meaning": "Nowadays a lot of people read online news on their phones.",
+      "sourceWordId": "mong5soeng6san1man4-online-news",
+      "sourceWord": "網上新聞",
+      "sourceWordJyutping": "mong5 soeng6 san1 man4",
+      "sourceWordMeaning": "online news",
+      "tags": [
+        "news",
+        "media",
+        "internet",
+        "daily life",
+        "beginner",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6san1man4-online-news.json"
+    },
+    {
+      "sentenceId": "mong5soeng6san1man4-online-news-example-4",
+      "sentence": "呢個網站啲網上新聞更新得幾快。",
+      "jyutping": "ni1 go3 mong5 zaam6 hon2 dik1 mong5 soeng6 san1 man4 gam1 san1 dak1 gei2 faai3.",
+      "meaning": "This website updates its online news quite quickly.",
+      "sourceWordId": "mong5soeng6san1man4-online-news",
+      "sourceWord": "網上新聞",
+      "sourceWordJyutping": "mong5 soeng6 san1 man4",
+      "sourceWordMeaning": "online news",
+      "tags": [
+        "news",
+        "media",
+        "internet",
+        "daily life",
+        "beginner",
+        "reading",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6san1man4-online-news.json"
+    },
+    {
+      "sentenceId": "gei3ze2-reporter-example-1",
+      "sentence": "記者喺現場採訪緊。",
+      "jyutping": "gei3 ze2 hai2 jin6 coeng4 coi2 fong2 gan2.",
+      "meaning": "The reporter is interviewing at the scene.",
+      "sourceWordId": "gei3ze2-reporter",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "reporter",
+      "tags": [
+        "news media",
+        "profession",
+        "journalism",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-reporter.json"
+    },
+    {
+      "sentenceId": "gei3ze2-reporter-example-2",
+      "sentence": "佢係電視台嘅記者。",
+      "jyutping": "keoi5 hai6 din6 si6 toi4 ge3 gei3 ze2.",
+      "meaning": "He/She is a TV reporter.",
+      "sourceWordId": "gei3ze2-reporter",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "reporter",
+      "tags": [
+        "news media",
+        "profession",
+        "journalism",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-reporter.json"
+    },
+    {
+      "sentenceId": "gei3ze2-reporter-example-3",
+      "sentence": "記者問咗好多問題。",
+      "jyutping": "gei3 ze2 man6 zo2 hou2 do1 man6 tai4.",
+      "meaning": "The reporter asked a lot of questions.",
+      "sourceWordId": "gei3ze2-reporter",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "reporter",
+      "tags": [
+        "news media",
+        "profession",
+        "journalism",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-reporter.json"
+    },
+    {
+      "sentenceId": "gei3ze2-reporter-example-4",
+      "sentence": "我哋學校請咗個記者嚟分享。",
+      "jyutping": "ngo5 dei6 hok6 haau6 ceng2 zo2 go3 gei3 ze2 lai4 fan1 soeng2.",
+      "meaning": "Our school invited a reporter to come and share.",
+      "sourceWordId": "gei3ze2-reporter",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "reporter",
+      "tags": [
+        "news media",
+        "profession",
+        "journalism",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-reporter.json"
+    },
+    {
+      "sentenceId": "zyu3bo3-news-anchor-example-1",
+      "sentence": "呢位主播講嘢好清楚，口齒都好伶俐。",
+      "jyutping": "ni1 wai6 zyu3 bo3 gong2 je5 hou2 cing1 co2, hau2 ci2 dou1 hou2 ling4 lai6.",
+      "meaning": "This news anchor speaks very clearly and is very articulate.",
+      "sourceWordId": "zyu3bo3-news-anchor",
+      "sourceWord": "主播",
+      "sourceWordJyutping": "zyu3 bo3",
+      "sourceWordMeaning": "news anchor",
+      "tags": [
+        "news",
+        "media",
+        "TV",
+        "job",
+        "profession",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu3bo3-news-anchor.json"
+    },
+    {
+      "sentenceId": "zyu3bo3-news-anchor-example-2",
+      "sentence": "電視台今日請咗新主播。",
+      "jyutping": "din6 si6 toi4 gam1 jat6 cing2 zo2 san1 zyu3 bo3.",
+      "meaning": "The TV station hired a new news anchor today.",
+      "sourceWordId": "zyu3bo3-news-anchor",
+      "sourceWord": "主播",
+      "sourceWordJyutping": "zyu3 bo3",
+      "sourceWordMeaning": "news anchor",
+      "tags": [
+        "news",
+        "media",
+        "TV",
+        "job",
+        "profession",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu3bo3-news-anchor.json"
+    },
+    {
+      "sentenceId": "zyu3bo3-news-anchor-example-3",
+      "sentence": "我每晚都習慣睇呢個新聞主播報新聞。",
+      "jyutping": "ngo5 mui5 maan5 dou1 zaap6 gwaan3 tai2 ni1 go3 san1 man4 zyu3 bo3 bou3 san1 man4.",
+      "meaning": "I’m used to watching this news anchor report the news every night.",
+      "sourceWordId": "zyu3bo3-news-anchor",
+      "sourceWord": "主播",
+      "sourceWordJyutping": "zyu3 bo3",
+      "sourceWordMeaning": "news anchor",
+      "tags": [
+        "news",
+        "media",
+        "TV",
+        "job",
+        "profession",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu3bo3-news-anchor.json"
+    },
+    {
+      "sentenceId": "zyu3bo3-news-anchor-example-4",
+      "sentence": "佢除咗做主播，仲會主持節目。",
+      "jyutping": "keoi5 ceoi4 zo2 zou6 zyu3 bo3, zung6 wui5 zyu2 ci4 zit3 muk6.",
+      "meaning": "Besides being a news anchor, she also hosts programmes.",
+      "sourceWordId": "zyu3bo3-news-anchor",
+      "sourceWord": "主播",
+      "sourceWordJyutping": "zyu3 bo3",
+      "sourceWordMeaning": "news anchor",
+      "tags": [
+        "news",
+        "media",
+        "TV",
+        "job",
+        "profession",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zyu3bo3-news-anchor.json"
+    },
+    {
+      "sentenceId": "pin1zaap6-editor-example-1",
+      "sentence": "佢做雜誌編輯，日日都要睇稿。",
+      "jyutping": "keoi5 zou6 zaat6 zi2 pin1 zaap6, jat6 jat6 dou1 jiu3 tai2 gou2.",
+      "meaning": "He works as a magazine editor and has to check manuscripts every day.",
+      "sourceWordId": "pin1zaap6-editor",
+      "sourceWord": "編輯",
+      "sourceWordJyutping": "pin1 zaap6",
+      "sourceWordMeaning": "editor",
+      "tags": [
+        "news media",
+        "media people",
+        "job titles",
+        "formal",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zaap6-editor.json"
+    },
+    {
+      "sentenceId": "pin1zaap6-editor-example-2",
+      "sentence": "新來嗰位編輯好細心。",
+      "jyutping": "san1 loi4 go2 wai6 pin1 zaap6 hou2 sai3 sam1.",
+      "meaning": "The new editor is very careful.",
+      "sourceWordId": "pin1zaap6-editor",
+      "sourceWord": "編輯",
+      "sourceWordJyutping": "pin1 zaap6",
+      "sourceWordMeaning": "editor",
+      "tags": [
+        "news media",
+        "media people",
+        "job titles",
+        "formal",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zaap6-editor.json"
+    },
+    {
+      "sentenceId": "pin1zaap6-editor-example-3",
+      "sentence": "呢篇文章交俾編輯改。",
+      "jyutping": "ni1 pin1 man4 zoeng1 gaau1 bei2 pin1 zaap6 goi2.",
+      "meaning": "This article is handed to the editor for revision.",
+      "sourceWordId": "pin1zaap6-editor",
+      "sourceWord": "編輯",
+      "sourceWordJyutping": "pin1 zaap6",
+      "sourceWordMeaning": "editor",
+      "tags": [
+        "news media",
+        "media people",
+        "job titles",
+        "formal",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zaap6-editor.json"
+    },
+    {
+      "sentenceId": "pin1zaap6-editor-example-4",
+      "sentence": "新聞編輯要快手處理突發消息。",
+      "jyutping": "san1 man4 pin1 zaap6 jiu3 faai3 sau2 cyu2 lei5 dat6 faat3 siu1 sik1.",
+      "meaning": "A news editor needs to deal with breaking news quickly.",
+      "sourceWordId": "pin1zaap6-editor",
+      "sourceWord": "編輯",
+      "sourceWordJyutping": "pin1 zaap6",
+      "sourceWordMeaning": "editor",
+      "tags": [
+        "news media",
+        "media people",
+        "job titles",
+        "formal",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pin1zaap6-editor.json"
+    },
+    {
+      "sentenceId": "ping4leon6jyun4-commentator-example-1",
+      "sentence": "呢位評論員喺電視台講時事，好有分析力。",
+      "jyutping": "ni1 wai6 ping4 leon6 jyun4 hai2 din6 si6 toi4 gong2 si4 si6, hou2 jau5 fan1 sik1 lik6.",
+      "meaning": "This commentator gives very insightful analysis on TV.",
+      "sourceWordId": "ping4leon6jyun4-commentator",
+      "sourceWord": "評論員",
+      "sourceWordJyutping": "ping4 leon6 jyun4",
+      "sourceWordMeaning": "commentator",
+      "tags": [
+        "news-media",
+        "media people",
+        "profession",
+        "formal",
+        "public role",
+        "Level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6jyun4-commentator.json"
+    },
+    {
+      "sentenceId": "ping4leon6jyun4-commentator-example-2",
+      "sentence": "報紙請咗幾位評論員一齊講選舉。",
+      "jyutping": "bou3 zi2 cing2 zo2 gei2 wai2 ping4 leon6 jyun4 jat1 cai4 gong2 syun2 geoi2.",
+      "meaning": "The newspaper invited several commentators to talk about the election together.",
+      "sourceWordId": "ping4leon6jyun4-commentator",
+      "sourceWord": "評論員",
+      "sourceWordJyutping": "ping4 leon6 jyun4",
+      "sourceWordMeaning": "commentator",
+      "tags": [
+        "news-media",
+        "media people",
+        "profession",
+        "formal",
+        "public role",
+        "Level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6jyun4-commentator.json"
+    },
+    {
+      "sentenceId": "ping4leon6jyun4-commentator-example-3",
+      "sentence": "佢做咗好多年體育評論員。",
+      "jyutping": "keoi5 zou6 zo2 hou2 do1 nin4 tai2 juk6 ping4 leon6 jyun4.",
+      "meaning": "He has worked as a sports commentator for many years.",
+      "sourceWordId": "ping4leon6jyun4-commentator",
+      "sourceWord": "評論員",
+      "sourceWordJyutping": "ping4 leon6 jyun4",
+      "sourceWordMeaning": "commentator",
+      "tags": [
+        "news-media",
+        "media people",
+        "profession",
+        "formal",
+        "public role",
+        "Level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6jyun4-commentator.json"
+    },
+    {
+      "sentenceId": "ping4leon6jyun4-commentator-example-4",
+      "sentence": "網上好多評論員都會即時回應新聞。",
+      "jyutping": "mong5 soeng6 hou2 do1 ping4 leon6 jyun4 dou1 wui5 zik1 si4 wui4 jing3 san1 man4.",
+      "meaning": "Many online commentators respond to the news in real time.",
+      "sourceWordId": "ping4leon6jyun4-commentator",
+      "sourceWord": "評論員",
+      "sourceWordJyutping": "ping4 leon6 jyun4",
+      "sourceWordMeaning": "commentator",
+      "tags": [
+        "news-media",
+        "media people",
+        "profession",
+        "formal",
+        "public role",
+        "Level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6jyun4-commentator.json"
+    },
+    {
+      "sentenceId": "hok6ze2-scholar-example-1",
+      "sentence": "呢位學者專門研究香港歷史。",
+      "jyutping": "nei5 wai6 hok6 ze2 zyun1 mun4 jau4 gau3 hoeng1 gong2 lik6 si2.",
+      "meaning": "This scholar specializes in researching Hong Kong history.",
+      "sourceWordId": "hok6ze2-scholar",
+      "sourceWord": "學者",
+      "sourceWordJyutping": "hok6 ze2",
+      "sourceWordMeaning": "scholar",
+      "tags": [
+        "news",
+        "media",
+        "academic",
+        "formal",
+        "person",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6ze2-scholar.json"
+    },
+    {
+      "sentenceId": "hok6ze2-scholar-example-2",
+      "sentence": "傳媒今日訪問咗一位學者。",
+      "jyutping": "cyun4 mui4 gam1 jat6 fong2 man6 zo2 jat1 wai2 hok6 ze2.",
+      "meaning": "The media interviewed a scholar today.",
+      "sourceWordId": "hok6ze2-scholar",
+      "sourceWord": "學者",
+      "sourceWordJyutping": "hok6 ze2",
+      "sourceWordMeaning": "scholar",
+      "tags": [
+        "news",
+        "media",
+        "academic",
+        "formal",
+        "person",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6ze2-scholar.json"
+    },
+    {
+      "sentenceId": "hok6ze2-scholar-example-3",
+      "sentence": "學者認為呢個政策有好大影響。",
+      "jyutping": "hok6 ze2 jing6 wai4 ni1 go3 zing3 caak1 jau5 hou2 daai6 jing2 hoeng2.",
+      "meaning": "Scholars think this policy will have a major impact.",
+      "sourceWordId": "hok6ze2-scholar",
+      "sourceWord": "學者",
+      "sourceWordJyutping": "hok6 ze2",
+      "sourceWordMeaning": "scholar",
+      "tags": [
+        "news",
+        "media",
+        "academic",
+        "formal",
+        "person",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6ze2-scholar.json"
+    },
+    {
+      "sentenceId": "hok6ze2-scholar-example-4",
+      "sentence": "佢係大學入面好受尊重嘅學者。",
+      "jyutping": "keoi5 hai6 daai6 hok6 jap6 min6 hou2 sau6 zyun1 zung6 ge3 hok6 ze2.",
+      "meaning": "He is a highly respected scholar at the university.",
+      "sourceWordId": "hok6ze2-scholar",
+      "sourceWord": "學者",
+      "sourceWordJyutping": "hok6 ze2",
+      "sourceWordMeaning": "scholar",
+      "tags": [
+        "news",
+        "media",
+        "academic",
+        "formal",
+        "person",
+        "education",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6ze2-scholar.json"
+    },
+    {
+      "sentenceId": "bou3dou6-report-example-1",
+      "sentence": "呢份報導寫得好清楚。",
+      "jyutping": "ni1 fan6 bou3 dou6 se2 dak1 hou2 cing1 co2.",
+      "meaning": "This report is written very clearly.",
+      "sourceWordId": "bou3dou6-report",
+      "sourceWord": "報導",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "news media",
+        "reporting",
+        "countable noun",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-report.json"
+    },
+    {
+      "sentenceId": "bou3dou6-report-example-2",
+      "sentence": "新聞報導話今晚會落雨。",
+      "jyutping": "san1 man4 bou3 dou6 waa6 gam1 maan5 wui5 lok6 jyu5.",
+      "meaning": "The news report says it will rain tonight.",
+      "sourceWordId": "bou3dou6-report",
+      "sourceWord": "報導",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "news media",
+        "reporting",
+        "countable noun",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-report.json"
+    },
+    {
+      "sentenceId": "bou3dou6-report-example-3",
+      "sentence": "我睇過電視報導先知件事。",
+      "jyutping": "ngo5 tai2 gwo3 din6 si6 bou3 dou6 sin1 zi1 gin6 si6.",
+      "meaning": "I only found out about it after watching the TV report.",
+      "sourceWordId": "bou3dou6-report",
+      "sourceWord": "報導",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "news media",
+        "reporting",
+        "countable noun",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-report.json"
+    },
+    {
+      "sentenceId": "bou3dou6-report-example-4",
+      "sentence": "呢篇報導有好多資料。",
+      "jyutping": "ni1 pin1 bou3 dou6 jau5 hou2 do1 zi1 liu2.",
+      "meaning": "This report contains a lot of information.",
+      "sourceWordId": "bou3dou6-report",
+      "sourceWord": "報導",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "news media",
+        "reporting",
+        "countable noun",
+        "formal",
+        "everyday use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-report.json"
+    },
+    {
+      "sentenceId": "syun1bou3-announce-example-1",
+      "sentence": "政府宣布延長限聚令。",
+      "jyutping": "zing3 fu2 syun1 bou3 jin4 coeng4 haan6 zeoi3 ling6.",
+      "meaning": "The government announced an extension of the gathering limit.",
+      "sourceWordId": "syun1bou3-announce",
+      "sourceWord": "宣布",
+      "sourceWordJyutping": "syun1 bou3",
+      "sourceWordMeaning": "announce",
+      "tags": [
+        "formal",
+        "news",
+        "public announcement",
+        "reporting",
+        "announcement",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun1bou3-announce.json"
+    },
+    {
+      "sentenceId": "syun1bou3-announce-example-2",
+      "sentence": "公司宣布新產品下個月推出。",
+      "jyutping": "gung1 si1 syun1 bou3 san1 caan2 ban2 haa6 go3 jyut6 ceoi1 ceot1.",
+      "meaning": "The company announced that the new product will be launched next month.",
+      "sourceWordId": "syun1bou3-announce",
+      "sourceWord": "宣布",
+      "sourceWordJyutping": "syun1 bou3",
+      "sourceWordMeaning": "announce",
+      "tags": [
+        "formal",
+        "news",
+        "public announcement",
+        "reporting",
+        "announcement",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun1bou3-announce.json"
+    },
+    {
+      "sentenceId": "syun1bou3-announce-example-3",
+      "sentence": "校方宣布考試改期。",
+      "jyutping": "haau6 fong1 syun1 bou3 haau2 si3 goi2 kei4.",
+      "meaning": "The school announced a change in the exam date.",
+      "sourceWordId": "syun1bou3-announce",
+      "sourceWord": "宣布",
+      "sourceWordJyutping": "syun1 bou3",
+      "sourceWordMeaning": "announce",
+      "tags": [
+        "formal",
+        "news",
+        "public announcement",
+        "reporting",
+        "announcement",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun1bou3-announce.json"
+    },
+    {
+      "sentenceId": "syun1bou3-announce-example-4",
+      "sentence": "球會宣布新教練正式上任。",
+      "jyutping": "kau4 wui2 syun1 bou3 san1 gaau3 lin6 zing3 sik1 soeng5 jam6.",
+      "meaning": "The club announced that the new coach has officially taken office.",
+      "sourceWordId": "syun1bou3-announce",
+      "sourceWord": "宣布",
+      "sourceWordJyutping": "syun1 bou3",
+      "sourceWordMeaning": "announce",
+      "tags": [
+        "formal",
+        "news",
+        "public announcement",
+        "reporting",
+        "announcement",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun1bou3-announce.json"
+    },
+    {
+      "sentenceId": "zing3ming4-prove-example-1",
+      "sentence": "警方需要更多證據去證明疑犯有罪。",
+      "jyutping": "zing1 fong2 seoi1 jiu3 geng3 do1 zing3 geoi3 heoi3 zing3 ming4 ji5 faan6 jau5 zeoi6.",
+      "meaning": "The police need more evidence to prove the suspect is guilty.",
+      "sourceWordId": "zing3ming4-prove",
+      "sourceWord": "證明",
+      "sourceWordJyutping": "zing3 ming4",
+      "sourceWordMeaning": "prove",
+      "tags": [
+        "reporting",
+        "evidence",
+        "formal",
+        "verb usage",
+        "news vocabulary",
+        "proof",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3ming4-prove.json"
+    },
+    {
+      "sentenceId": "zing3ming4-prove-example-2",
+      "sentence": "呢份報告可以證明呢個政策有效。",
+      "jyutping": "ni1 fan6 bou3 gou3 ho2 ji5 zing3 ming4 ni1 go3 zing3 caak1 jau5 haau6.",
+      "meaning": "This report can prove that this policy is effective.",
+      "sourceWordId": "zing3ming4-prove",
+      "sourceWord": "證明",
+      "sourceWordJyutping": "zing3 ming4",
+      "sourceWordMeaning": "prove",
+      "tags": [
+        "reporting",
+        "evidence",
+        "formal",
+        "verb usage",
+        "news vocabulary",
+        "proof",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3ming4-prove.json"
+    },
+    {
+      "sentenceId": "zing3ming4-prove-example-3",
+      "sentence": "佢冇文件，唔可以證明自己係公司員工。",
+      "jyutping": "keoi5 mou5 man4 gin2, m4 ho2 ji5 zing3 ming4 zi6 gei2 hai6 gung1 si1 jyun4 gung1.",
+      "meaning": "He has no documents and cannot prove that he works for the company.",
+      "sourceWordId": "zing3ming4-prove",
+      "sourceWord": "證明",
+      "sourceWordJyutping": "zing3 ming4",
+      "sourceWordMeaning": "prove",
+      "tags": [
+        "reporting",
+        "evidence",
+        "formal",
+        "verb usage",
+        "news vocabulary",
+        "proof",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3ming4-prove.json"
+    },
+    {
+      "sentenceId": "zing3ming4-prove-example-4",
+      "sentence": "科學家用實驗數據去證明佢哋嘅理論。",
+      "jyutping": "fo1 hok6 gaa1 jung6 sat6 jim6 sou3 geoi3 heoi3 zing3 ming4 keoi5 dei6 ge3 lei5 leon6.",
+      "meaning": "Scientists use experimental data to prove their theory.",
+      "sourceWordId": "zing3ming4-prove",
+      "sourceWord": "證明",
+      "sourceWordJyutping": "zing3 ming4",
+      "sourceWordMeaning": "prove",
+      "tags": [
+        "reporting",
+        "evidence",
+        "formal",
+        "verb usage",
+        "news vocabulary",
+        "proof",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3ming4-prove.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-request-example-1",
+      "sentence": "政府向市民提出要求，希望大家留在家中。",
+      "jyutping": "gang1 fau2 hoeng3 si5 man4 tau4 ceot1 jiu1 kau4, hei1 mong6 daai6 gaa1 lau4 zoi6 uk1 keoi1 zung1.",
+      "meaning": "The government made a request to the public, hoping everyone would stay at home.",
+      "sourceWordId": "jiu1kau4-request",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "request",
+      "tags": [
+        "news reporting",
+        "formal language",
+        "business",
+        "everyday vocabulary",
+        "request",
+        "verb noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-request.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-request-example-2",
+      "sentence": "記者要求發言人回應事件。",
+      "jyutping": "gei3 ze2 jiu1 kau4 faat3 jin4 jan4 wui4 jing3 si6 gin6.",
+      "meaning": "The reporter requested a response from the spokesperson about the incident.",
+      "sourceWordId": "jiu1kau4-request",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "request",
+      "tags": [
+        "news reporting",
+        "formal language",
+        "business",
+        "everyday vocabulary",
+        "request",
+        "verb noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-request.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-request-example-3",
+      "sentence": "公司收到好多客戶要求。",
+      "jyutping": "gung1 si1 sau1 dou3 hou2 do1 haak3 fu6 jiu1 kau4.",
+      "meaning": "The company received many customer requests.",
+      "sourceWordId": "jiu1kau4-request",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "request",
+      "tags": [
+        "news reporting",
+        "formal language",
+        "business",
+        "everyday vocabulary",
+        "request",
+        "verb noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-request.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-request-example-4",
+      "sentence": "我哋要求更清楚嘅解釋。",
+      "jyutping": "ngo5 dei6 jiu1 kau4 gang3 cing1 co2 ge3 gaai2 sik1.",
+      "meaning": "We are asking for a clearer explanation.",
+      "sourceWordId": "jiu1kau4-request",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "request",
+      "tags": [
+        "news reporting",
+        "formal language",
+        "business",
+        "everyday vocabulary",
+        "request",
+        "verb noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-request.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-1",
+      "sentence": "報紙頭版有一篇關於選舉嘅評論。",
+      "jyutping": "bou3zi2 tau4 baan2 jau5 jat1 zeon3 gwun1 ceoi3 gun1 ge3 ping4 leon6.",
+      "meaning": "There is a commentary on the election on the front page of the newspaper.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-2",
+      "sentence": "佢喺電台做時事評論。",
+      "jyutping": "keoi5 hai2 din6 toi4 zou6 si4 si6 ping4 leon6.",
+      "meaning": "He does current affairs commentary on the radio.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-3",
+      "sentence": "呢篇評論寫得幾中肯。",
+      "jyutping": "ni1 pin1 ping4 leon6 se2 dak1 gei2 zung1 hang2.",
+      "meaning": "This commentary is written quite objectively.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-4",
+      "sentence": "我想睇多啲專業評論先決定買唔買。",
+      "jyutping": "ngo5 soeng2 tai2 do1 di1 zyun1 jip6 ping4 leon6 sin1 kyut3 ding6 maai5 m4 maai5.",
+      "meaning": "I want to read more professional commentary before deciding whether to buy it.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "din6si6-television-example-1",
+      "sentence": "我夜晚通常喺屋企睇電視。",
+      "jyutping": "ngo5 je6 maan5 tung1 soeng4 hai2 uk1 keoi2 tai2 din6 si6.",
+      "meaning": "I usually watch TV at home at night.",
+      "sourceWordId": "din6si6-television",
+      "sourceWord": "電視",
+      "sourceWordJyutping": "din6 si6",
+      "sourceWordMeaning": "television",
+      "tags": [
+        "media",
+        "home",
+        "everyday-vocabulary",
+        "basic-noun",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6-television.json"
+    },
+    {
+      "sentenceId": "din6si6-television-example-2",
+      "sentence": "你可唔可以開電視？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 hoi1 din6 si6?",
+      "meaning": "Can you turn on the TV?",
+      "sourceWordId": "din6si6-television",
+      "sourceWord": "電視",
+      "sourceWordJyutping": "din6 si6",
+      "sourceWordMeaning": "television",
+      "tags": [
+        "media",
+        "home",
+        "everyday-vocabulary",
+        "basic-noun",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6-television.json"
+    },
+    {
+      "sentenceId": "din6si6-television-example-3",
+      "sentence": "呢部電視畫面好清晰。",
+      "jyutping": "ni1 bou6 din6 si6 waa2 min6 hou2 cing1 sik1.",
+      "meaning": "This TV has a very clear picture.",
+      "sourceWordId": "din6si6-television",
+      "sourceWord": "電視",
+      "sourceWordJyutping": "din6 si6",
+      "sourceWordMeaning": "television",
+      "tags": [
+        "media",
+        "home",
+        "everyday-vocabulary",
+        "basic-noun",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6-television.json"
+    },
+    {
+      "sentenceId": "din6si6-television-example-4",
+      "sentence": "我細個成日同阿爸阿媽一齊睇電視。",
+      "jyutping": "ngo5 sai3 go3 seng4 jat6 tung4 aa3 ba4 aa3 maa1 jat1 cai4 tai2 din6 si6.",
+      "meaning": "When I was young, I often watched TV with my parents.",
+      "sourceWordId": "din6si6-television",
+      "sourceWord": "電視",
+      "sourceWordJyutping": "din6 si6",
+      "sourceWordMeaning": "television",
+      "tags": [
+        "media",
+        "home",
+        "everyday-vocabulary",
+        "basic-noun",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6si6-television.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-1",
+      "sentence": "我今日喺網上睇新聞。",
+      "jyutping": "ngo5 gam1 jat6 hai2 mong5 soeng6 tai2 san1 man4.",
+      "meaning": "I read the news online today.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-2",
+      "sentence": "呢間公司有網上訂票服務。",
+      "jyutping": "ni1 gaan1 gung1 si1 jau5 mong5 soeng6 deng6 piu3 fuk6 mou6.",
+      "meaning": "This company has online ticket booking service.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-3",
+      "sentence": "老師叫我哋網上交功課。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 mong5 soeng6 gaau1 gung1 fo3.",
+      "meaning": "The teacher asked us to submit homework online.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-4",
+      "sentence": "佢成日喺網上買嘢。",
+      "jyutping": "keoi5 sing4 jat6 hai2 mong5 soeng6 maai5 je5.",
+      "meaning": "He often buys things online.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "jing2pin3-video-example-1",
+      "sentence": "我喺新聞網站睇到一段影片。",
+      "jyutping": "ngo5 hai2 san1 man4 mong6 zaam6 tai2 dou3 jat1 dyun6 jing2 pin3.",
+      "meaning": "I saw a video on the news website.",
+      "sourceWordId": "jing2pin3-video",
+      "sourceWord": "影片",
+      "sourceWordJyutping": "jing2 pin3",
+      "sourceWordMeaning": "video",
+      "tags": [
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2pin3-video.json"
+    },
+    {
+      "sentenceId": "jing2pin3-video-example-2",
+      "sentence": "呢段影片好清楚咁記錄咗現場情況。",
+      "jyutping": "ni1 dyun6 jing2 pin3 hou2 cing1 co2 gam2 gei3 luk6 zo2 jin6 coeng4 cing4 fong3.",
+      "meaning": "This video clearly recorded the scene on site.",
+      "sourceWordId": "jing2pin3-video",
+      "sourceWord": "影片",
+      "sourceWordJyutping": "jing2 pin3",
+      "sourceWordMeaning": "video",
+      "tags": [
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2pin3-video.json"
+    },
+    {
+      "sentenceId": "jing2pin3-video-example-3",
+      "sentence": "請將影片上載到公司平台。",
+      "jyutping": "cing2 zoeng1 jing2 pin3 soeng5 zoi3 dou3 gung1 si1 ping4 toi4.",
+      "meaning": "Please upload the video to the company platform.",
+      "sourceWordId": "jing2pin3-video",
+      "sourceWord": "影片",
+      "sourceWordJyutping": "jing2 pin3",
+      "sourceWordMeaning": "video",
+      "tags": [
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2pin3-video.json"
+    },
+    {
+      "sentenceId": "jing2pin3-video-example-4",
+      "sentence": "佢分享咗一條有趣嘅影片俾我哋睇。",
+      "jyutping": "keoi5 fan1 soeng2 zo2 jat1 tiu4 jau5 ceoi3 ge3 jing2 pin3 bei2 ngo5 dei6 tai2.",
+      "meaning": "He shared an interesting video for us to watch.",
+      "sourceWordId": "jing2pin3-video",
+      "sourceWord": "影片",
+      "sourceWordJyutping": "jing2 pin3",
+      "sourceWordMeaning": "video",
+      "tags": [
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jing2pin3-video.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui4tai2-social-media-example-1",
+      "sentence": "我成日喺社交媒體睇新聞。",
+      "jyutping": "ngo5 sing4 jat6 hai2 se5 gaau1 mui4 tai2 tai2 san1 man4.",
+      "meaning": "I often read news on social media.",
+      "sourceWordId": "se5gaau1mui4tai2-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui4 tai2",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "media",
+        "internet",
+        "technology",
+        "daily life",
+        "communication",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui4tai2-social-media.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui4tai2-social-media-example-2",
+      "sentence": "佢喺社交媒體分享旅行相。",
+      "jyutping": "keoi5 hai2 se5 gaau1 mui4 tai2 fan1 soeng2 leoi5 hang4 soeng2.",
+      "meaning": "He/she shares travel photos on social media.",
+      "sourceWordId": "se5gaau1mui4tai2-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui4 tai2",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "media",
+        "internet",
+        "technology",
+        "daily life",
+        "communication",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui4tai2-social-media.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui4tai2-social-media-example-3",
+      "sentence": "社交媒體上面有好多廣告。",
+      "jyutping": "se5 gaau1 mui4 tai2 soeng6 min6 jau5 hou2 do1 gwong2 gou3.",
+      "meaning": "There are lots of ads on social media.",
+      "sourceWordId": "se5gaau1mui4tai2-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui4 tai2",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "media",
+        "internet",
+        "technology",
+        "daily life",
+        "communication",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui4tai2-social-media.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui4tai2-social-media-example-4",
+      "sentence": "學校提醒學生唔好亂咁喺社交媒體留言。",
+      "jyutping": "hok6 haau6 tai4 sing2 hok6 saang1 m4 hou2 lyun6 gam3 hai2 se5 gaau1 mui4 tai2 lau6 jin4.",
+      "meaning": "The school reminds students not to leave comments carelessly on social media.",
+      "sourceWordId": "se5gaau1mui4tai2-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui4 tai2",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "media",
+        "internet",
+        "technology",
+        "daily life",
+        "communication",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui4tai2-social-media.json"
+    },
+    {
+      "sentenceId": "faai3seon3-news-flash-example-1",
+      "sentence": "電視台而家出咗一則快訊，話天文台掛咗八號風球。",
+      "jyutping": "din6 si6 toi4 ji4 gaa1 ceot1 zo2 jat1 zek3 faai3 seon3, waa6 tin1 man4 toi4 gwaa3 zo2 baat3 hou6 fung1 kau4.",
+      "meaning": "The TV station has just issued a news flash saying the Observatory has hoisted the No. 8 signal.",
+      "sourceWordId": "faai3seon3-news-flash",
+      "sourceWord": "快訊",
+      "sourceWordJyutping": "faai3 seon3",
+      "sourceWordMeaning": "news flash",
+      "tags": [
+        "news",
+        "media",
+        "digital-media",
+        "breaking-news",
+        "formal",
+        "headline",
+        "app-notification",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3seon3-news-flash.json"
+    },
+    {
+      "sentenceId": "faai3seon3-news-flash-example-2",
+      "sentence": "手機一彈出快訊，我即刻知有大事發生。",
+      "jyutping": "sau2 gei1 jat1 taan3 ceot1 faai3 seon3, ngo5 zik1 hak1 zi1 jau5 daai6 si6 faat3 sang1.",
+      "meaning": "When a news flash popped up on my phone, I immediately knew something major had happened.",
+      "sourceWordId": "faai3seon3-news-flash",
+      "sourceWord": "快訊",
+      "sourceWordJyutping": "faai3 seon3",
+      "sourceWordMeaning": "news flash",
+      "tags": [
+        "news",
+        "media",
+        "digital-media",
+        "breaking-news",
+        "formal",
+        "headline",
+        "app-notification",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3seon3-news-flash.json"
+    },
+    {
+      "sentenceId": "faai3seon3-news-flash-example-3",
+      "sentence": "新聞App啱啱推送咗一條快訊，係關於交通意外。",
+      "jyutping": "san1 man4 App ngaam1 ngaam1 teoi1 sung3 zo2 jat1 tiu4 faai3 seon3, hai6 gwaan1 jyu1 gaau1 tung1 ji3 ngoi6 wui6.",
+      "meaning": "The news app just pushed a news flash about a traffic accident.",
+      "sourceWordId": "faai3seon3-news-flash",
+      "sourceWord": "快訊",
+      "sourceWordJyutping": "faai3 seon3",
+      "sourceWordMeaning": "news flash",
+      "tags": [
+        "news",
+        "media",
+        "digital-media",
+        "breaking-news",
+        "formal",
+        "headline",
+        "app-notification",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3seon3-news-flash.json"
+    },
+    {
+      "sentenceId": "faai3seon3-news-flash-example-4",
+      "sentence": "呢段快訊好短，只講咗地震最新情況。",
+      "jyutping": "ni1 dyun6 faai3 seon3 hou2 dyun2, zi2 gong2 zo2 dei6 zan3 zeoi3 san1 cing4 fong3.",
+      "meaning": "This news flash is very short and only covers the latest situation about the earthquake.",
+      "sourceWordId": "faai3seon3-news-flash",
+      "sourceWord": "快訊",
+      "sourceWordJyutping": "faai3 seon3",
+      "sourceWordMeaning": "news flash",
+      "tags": [
+        "news",
+        "media",
+        "digital-media",
+        "breaking-news",
+        "formal",
+        "headline",
+        "app-notification",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3seon3-news-flash.json"
+    },
+    {
+      "sentenceId": "zik6bo3-livestream-example-1",
+      "sentence": "佢今晚會開直播同大家傾偈。",
+      "jyutping": "keoi5 gam1 maan5 wui5 hoi1 zik6 bo3 tung4 daai6 gaa1 king1 gai2.",
+      "meaning": "He will start a livestream tonight to chat with everyone.",
+      "sourceWordId": "zik6bo3-livestream",
+      "sourceWord": "直播",
+      "sourceWordJyutping": "zik6 bo3",
+      "sourceWordMeaning": "livestream",
+      "tags": [
+        "digital media",
+        "news media",
+        "online video",
+        "social media",
+        "broadcasting",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6bo3-livestream.json"
+    },
+    {
+      "sentenceId": "zik6bo3-livestream-example-2",
+      "sentence": "我成日睇佢個直播，幾好笑。",
+      "jyutping": "ngo5 sing4 jat6 tai2 keoi5 go3 zik6 bo3, gei2 hou2 siu3.",
+      "meaning": "I always watch his livestream; it’s pretty funny.",
+      "sourceWordId": "zik6bo3-livestream",
+      "sourceWord": "直播",
+      "sourceWordJyutping": "zik6 bo3",
+      "sourceWordMeaning": "livestream",
+      "tags": [
+        "digital media",
+        "news media",
+        "online video",
+        "social media",
+        "broadcasting",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6bo3-livestream.json"
+    },
+    {
+      "sentenceId": "zik6bo3-livestream-example-3",
+      "sentence": "呢個品牌會用直播介紹新產品。",
+      "jyutping": "ni1 go3 ze2ng1 paai4 wui5 jung6 zik6 bo3 gaai3 siu6 san1 caan2 ban2.",
+      "meaning": "This brand will use a livestream to introduce new products.",
+      "sourceWordId": "zik6bo3-livestream",
+      "sourceWord": "直播",
+      "sourceWordJyutping": "zik6 bo3",
+      "sourceWordMeaning": "livestream",
+      "tags": [
+        "digital media",
+        "news media",
+        "online video",
+        "social media",
+        "broadcasting",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6bo3-livestream.json"
+    },
+    {
+      "sentenceId": "zik6bo3-livestream-example-4",
+      "sentence": "你可唔可以錄低呢段直播？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 luk6 dai1 ni1 dyun6 zik6 bo3?",
+      "meaning": "Can you record this livestream?",
+      "sourceWordId": "zik6bo3-livestream",
+      "sourceWord": "直播",
+      "sourceWordJyutping": "zik6 bo3",
+      "sourceWordMeaning": "livestream",
+      "tags": [
+        "digital media",
+        "news media",
+        "online video",
+        "social media",
+        "broadcasting",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6bo3-livestream.json"
+    },
+    {
+      "sentenceId": "baau3hung4-go-viral-example-1",
+      "sentence": "佢條片喺幾日內就爆紅咗。",
+      "jyutping": "keoi5 tiu4 pin3 hai2 gei2 jat6 noi6 zau6 baau3 hung4 zo2.",
+      "meaning": "His video went viral in just a few days.",
+      "sourceWordId": "baau3hung4-go-viral",
+      "sourceWord": "爆紅",
+      "sourceWordJyutping": "baau3 hung4",
+      "sourceWordMeaning": "go viral",
+      "tags": [
+        "social media",
+        "internet",
+        "trendy",
+        "informal",
+        "media",
+        "popular culture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baau3hung4-go-viral.json"
+    },
+    {
+      "sentenceId": "baau3hung4-go-viral-example-2",
+      "sentence": "呢個新品牌因為廣告夠搞笑而爆紅。",
+      "jyutping": "ni1 go3 san1 paai4 baan2 jan1 wai6 gwong2 gou3 gau3 gaau2 siu3 ji5 baau3 hung4.",
+      "meaning": "This new brand went viral because the ad was funny enough.",
+      "sourceWordId": "baau3hung4-go-viral",
+      "sourceWord": "爆紅",
+      "sourceWordJyutping": "baau3 hung4",
+      "sourceWordMeaning": "go viral",
+      "tags": [
+        "social media",
+        "internet",
+        "trendy",
+        "informal",
+        "media",
+        "popular culture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baau3hung4-go-viral.json"
+    },
+    {
+      "sentenceId": "baau3hung4-go-viral-example-3",
+      "sentence": "個網紅一夜之間爆紅，大家都識佢。",
+      "jyutping": "go3 mong5 hung4 jat1 je6 zi1 gaan1 baau3 hung4, daai6 gaa1 dou1 sik1 keoi5.",
+      "meaning": "The influencer went viral overnight, and everyone knew them.",
+      "sourceWordId": "baau3hung4-go-viral",
+      "sourceWord": "爆紅",
+      "sourceWordJyutping": "baau3 hung4",
+      "sourceWordMeaning": "go viral",
+      "tags": [
+        "social media",
+        "internet",
+        "trendy",
+        "informal",
+        "media",
+        "popular culture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baau3hung4-go-viral.json"
+    },
+    {
+      "sentenceId": "baau3hung4-go-viral-example-4",
+      "sentence": "呢首歌上星期突然爆紅，成班人都識唱。",
+      "jyutping": "ni1 sau2 go1 soeng5 sing1 kei4 tau4 jin4 baau3 hung4, sing4 baan1 jan4 dou1 sik1 coeng3.",
+      "meaning": "This song suddenly went viral last week, and everyone could sing it.",
+      "sourceWordId": "baau3hung4-go-viral",
+      "sourceWord": "爆紅",
+      "sourceWordJyutping": "baau3 hung4",
+      "sourceWordMeaning": "go viral",
+      "tags": [
+        "social media",
+        "internet",
+        "trendy",
+        "informal",
+        "media",
+        "popular culture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baau3hung4-go-viral.json"
+    },
+    {
+      "sentenceId": "fan1heung2-share-example-1",
+      "sentence": "我喺IG分享咗啲旅行相。",
+      "jyutping": "ngo5 hai2 IG fan1 heung2 zo2 di1 leoi5 hang4 soeng2.",
+      "meaning": "I shared some travel photos on Instagram.",
+      "sourceWordId": "fan1heung2-share",
+      "sourceWord": "分享",
+      "sourceWordJyutping": "fan1 heung2",
+      "sourceWordMeaning": "share",
+      "tags": [
+        "digital media",
+        "social media",
+        "online sharing",
+        "everyday Cantonese",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1heung2-share.json"
+    },
+    {
+      "sentenceId": "fan1heung2-share-example-2",
+      "sentence": "呢篇文章有好多有用分享。",
+      "jyutping": "ni1 pin1 man4 zeung1 jau5 hou2 do1 jau5 jung6 fan1 heung2.",
+      "meaning": "This article has lots of useful sharing.",
+      "sourceWordId": "fan1heung2-share",
+      "sourceWord": "分享",
+      "sourceWordJyutping": "fan1 heung2",
+      "sourceWordMeaning": "share",
+      "tags": [
+        "digital media",
+        "social media",
+        "online sharing",
+        "everyday Cantonese",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1heung2-share.json"
+    },
+    {
+      "sentenceId": "fan1heung2-share-example-3",
+      "sentence": "你可唔可以同我分享你嘅睇法？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 tung4 ngo5 fan1 heung2 nei5 ge3 tai2 faat3?",
+      "meaning": "Can you share your opinion with me?",
+      "sourceWordId": "fan1heung2-share",
+      "sourceWord": "分享",
+      "sourceWordJyutping": "fan1 heung2",
+      "sourceWordMeaning": "share",
+      "tags": [
+        "digital media",
+        "social media",
+        "online sharing",
+        "everyday Cantonese",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1heung2-share.json"
+    },
+    {
+      "sentenceId": "fan1heung2-share-example-4",
+      "sentence": "佢成日喺網上分享新聞連結。",
+      "jyutping": "keoi5 seng4 jat6 hai2 mong5 soeng6 fan1 heung2 san1 man4 lin4 kek3.",
+      "meaning": "He often shares news links online.",
+      "sourceWordId": "fan1heung2-share",
+      "sourceWord": "分享",
+      "sourceWordJyutping": "fan1 heung2",
+      "sourceWordMeaning": "share",
+      "tags": [
+        "digital media",
+        "social media",
+        "online sharing",
+        "everyday Cantonese",
+        "beginner",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1heung2-share.json"
+    },
+    {
+      "sentenceId": "si6gin6-incident-example-1",
+      "sentence": "呢件事件引起咗好多市民關注。",
+      "jyutping": "ni1 gin6 si6 gin6 jan5 hei2 zo2 hou2 do1 si5 man4 gwaan1 zyu3",
+      "meaning": "This incident drew a lot of public attention.",
+      "sourceWordId": "si6gin6-incident",
+      "sourceWord": "事件",
+      "sourceWordJyutping": "si6 gin6",
+      "sourceWordMeaning": "incident",
+      "tags": [
+        "news",
+        "common",
+        "basic",
+        "formal",
+        "incident",
+        "event",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6gin6-incident.json"
+    },
+    {
+      "sentenceId": "si6gin6-incident-example-2",
+      "sentence": "警方正調查呢宗事件。",
+      "jyutping": "ging2 fong1 zing3 diu6 caa4 ni1 zung1 si6 gin6",
+      "meaning": "The police are investigating this incident.",
+      "sourceWordId": "si6gin6-incident",
+      "sourceWord": "事件",
+      "sourceWordJyutping": "si6 gin6",
+      "sourceWordMeaning": "incident",
+      "tags": [
+        "news",
+        "common",
+        "basic",
+        "formal",
+        "incident",
+        "event",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6gin6-incident.json"
+    },
+    {
+      "sentenceId": "si6gin6-incident-example-3",
+      "sentence": "老師叫我哋唔好再提起上次嗰件事件。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 m4 hou2 zoi3 tai4 hei2 soeng6 ci3 go2 gin6 si6 gin6",
+      "meaning": "The teacher told us not to bring up that incident from last time again.",
+      "sourceWordId": "si6gin6-incident",
+      "sourceWord": "事件",
+      "sourceWordJyutping": "si6 gin6",
+      "sourceWordMeaning": "incident",
+      "tags": [
+        "news",
+        "common",
+        "basic",
+        "formal",
+        "incident",
+        "event",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6gin6-incident.json"
+    },
+    {
+      "sentenceId": "si6gin6-incident-example-4",
+      "sentence": "佢話呢件事件純粹係誤會。",
+      "jyutping": "keoi5 waa6 ni1 gin6 si6 gin6 seon4 seoi5 hai6 ng6 wui6",
+      "meaning": "He said this incident was just a misunderstanding.",
+      "sourceWordId": "si6gin6-incident",
+      "sourceWord": "事件",
+      "sourceWordJyutping": "si6 gin6",
+      "sourceWordMeaning": "incident",
+      "tags": [
+        "news",
+        "common",
+        "basic",
+        "formal",
+        "incident",
+        "event",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6gin6-incident.json"
+    },
+    {
+      "sentenceId": "si6cing4-matter-example-1",
+      "sentence": "呢件事情要快啲處理。",
+      "jyutping": "ni1 gin6 si6 cing4 jiu3 faai3 di1 cyu2 lei5.",
+      "meaning": "This matter needs to be handled quickly.",
+      "sourceWordId": "si6cing4-matter",
+      "sourceWord": "事情",
+      "sourceWordJyutping": "si6 cing4",
+      "sourceWordMeaning": "matter",
+      "tags": [
+        "common",
+        "news",
+        "formal",
+        "everyday",
+        "noun",
+        "beginner",
+        "neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6cing4-matter.json"
+    },
+    {
+      "sentenceId": "si6cing4-matter-example-2",
+      "sentence": "佢講咗好多關於呢件事情嘅細節。",
+      "jyutping": "keoi5 gong2 zo2 hou2 do1 gwaan1 jyu1 ni1 gin6 si6 cing4 ge3 sai3 zit3.",
+      "meaning": "He talked about many details of this matter.",
+      "sourceWordId": "si6cing4-matter",
+      "sourceWord": "事情",
+      "sourceWordJyutping": "si6 cing4",
+      "sourceWordMeaning": "matter",
+      "tags": [
+        "common",
+        "news",
+        "formal",
+        "everyday",
+        "noun",
+        "beginner",
+        "neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6cing4-matter.json"
+    },
+    {
+      "sentenceId": "si6cing4-matter-example-3",
+      "sentence": "發生咩事情？",
+      "jyutping": "faat3 sang1 me1 si6 cing4?",
+      "meaning": "What happened?",
+      "sourceWordId": "si6cing4-matter",
+      "sourceWord": "事情",
+      "sourceWordJyutping": "si6 cing4",
+      "sourceWordMeaning": "matter",
+      "tags": [
+        "common",
+        "news",
+        "formal",
+        "everyday",
+        "noun",
+        "beginner",
+        "neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6cing4-matter.json"
+    },
+    {
+      "sentenceId": "si6cing4-matter-example-4",
+      "sentence": "我哋唔想將事情搞大。",
+      "jyutping": "ngo5 dei6 m4 soeng2 zoeng1 si6 cing4 gaau2 daai6.",
+      "meaning": "We don’t want to make the matter bigger.",
+      "sourceWordId": "si6cing4-matter",
+      "sourceWord": "事情",
+      "sourceWordJyutping": "si6 cing4",
+      "sourceWordMeaning": "matter",
+      "tags": [
+        "common",
+        "news",
+        "formal",
+        "everyday",
+        "noun",
+        "beginner",
+        "neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si6cing4-matter.json"
+    },
+    {
+      "sentenceId": "gaau2co3-make-a-mistake-example-1",
+      "sentence": "我搞錯咗時間，遲到咗。",
+      "jyutping": "ngo5 gaau2 co3 zo2 si4 gaan3, ci4 dou3 zo2.",
+      "meaning": "I got the time wrong and was late.",
+      "sourceWordId": "gaau2co3-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "make a mistake",
+      "tags": [
+        "common",
+        "spoken",
+        "everyday",
+        "news",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "gaau2co3-make-a-mistake-example-2",
+      "sentence": "你唔好搞錯，我冇講過呢句說話。",
+      "jyutping": "nei5 m4 hou2 gaau2 co3, ngo5 mou5 gong2 gwo3 ni1 ge3 syut3 waa2.",
+      "meaning": "Don’t get it wrong — I never said that.",
+      "sourceWordId": "gaau2co3-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "make a mistake",
+      "tags": [
+        "common",
+        "spoken",
+        "everyday",
+        "news",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "gaau2co3-make-a-mistake-example-3",
+      "sentence": "如果你搞錯咗地址，就打電話再問一次。",
+      "jyutping": "jyu4 gwo2 nei5 gaau2 co3 zo2 dei6 zi2, zau6 daa2 din6 waa2 zoi3 man6 jat1 ci3.",
+      "meaning": "If you got the address wrong, call and ask again.",
+      "sourceWordId": "gaau2co3-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "make a mistake",
+      "tags": [
+        "common",
+        "spoken",
+        "everyday",
+        "news",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "gaau2co3-make-a-mistake-example-4",
+      "sentence": "佢成日搞錯人哋嘅名字。",
+      "jyutping": "keoi5 sing4 jat6 gaau2 co3 jan4 dei6 ge3 meng2 zi6.",
+      "meaning": "He often gets other people’s names wrong.",
+      "sourceWordId": "gaau2co3-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "make a mistake",
+      "tags": [
+        "common",
+        "spoken",
+        "everyday",
+        "news",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "zing3soeng4-normal-example-1",
+      "sentence": "今朝地鐵服務正常。",
+      "jyutping": "gam1 ziu1 dei6 tit3 fuk6 mou6 zing3 soeng4.",
+      "meaning": "The MTR service is normal this morning.",
+      "sourceWordId": "zing3soeng4-normal",
+      "sourceWord": "正常",
+      "sourceWordJyutping": "zing3 soeng4",
+      "sourceWordMeaning": "normal",
+      "tags": [
+        "beginner",
+        "common",
+        "news",
+        "daily conversation",
+        "describing states",
+        "formal-neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3soeng4-normal.json"
+    },
+    {
+      "sentenceId": "zing3soeng4-normal-example-2",
+      "sentence": "佢而家講嘢好正常，唔使擔心。",
+      "jyutping": "keoi5 ji4 gaa1 gong2 je5 hou2 zing3 soeng4, m4 sai2 daam1 sam1.",
+      "meaning": "He is talking normally now, so no need to worry.",
+      "sourceWordId": "zing3soeng4-normal",
+      "sourceWord": "正常",
+      "sourceWordJyutping": "zing3 soeng4",
+      "sourceWordMeaning": "normal",
+      "tags": [
+        "beginner",
+        "common",
+        "news",
+        "daily conversation",
+        "describing states",
+        "formal-neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3soeng4-normal.json"
+    },
+    {
+      "sentenceId": "zing3soeng4-normal-example-3",
+      "sentence": "呢個情況算正常，唔使太驚。",
+      "jyutping": "ni1 go3 cing4 fong3 syun3 zing3 soeng4, m4 sai2 taai3 geng1.",
+      "meaning": "This situation is considered normal, so don’t worry too much.",
+      "sourceWordId": "zing3soeng4-normal",
+      "sourceWord": "正常",
+      "sourceWordJyutping": "zing3 soeng4",
+      "sourceWordMeaning": "normal",
+      "tags": [
+        "beginner",
+        "common",
+        "news",
+        "daily conversation",
+        "describing states",
+        "formal-neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3soeng4-normal.json"
+    },
+    {
+      "sentenceId": "zing3soeng4-normal-example-4",
+      "sentence": "你個電腦運作正常嗎？",
+      "jyutping": "nei5 go3 din6 nou5 wan6 zok3 zing3 soeng4 maa1?",
+      "meaning": "Is your computer working properly?",
+      "sourceWordId": "zing3soeng4-normal",
+      "sourceWord": "正常",
+      "sourceWordJyutping": "zing3 soeng4",
+      "sourceWordMeaning": "normal",
+      "tags": [
+        "beginner",
+        "common",
+        "news",
+        "daily conversation",
+        "describing states",
+        "formal-neutral",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3soeng4-normal.json"
+    },
+    {
+      "sentenceId": "cing4fong3-situation-example-1",
+      "sentence": "而家情況好似有啲麻煩。",
+      "jyutping": "ji4 gaa1 cing4 fong3 hou2 ci3 jau5 di1 maa4 faan4.",
+      "meaning": "The situation seems a bit troublesome now.",
+      "sourceWordId": "cing4fong3-situation",
+      "sourceWord": "情況",
+      "sourceWordJyutping": "cing4 fong3",
+      "sourceWordMeaning": "situation",
+      "tags": [
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
+        "situation",
+        "condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
+    },
+    {
+      "sentenceId": "cing4fong3-situation-example-2",
+      "sentence": "我哋要睇情況再決定。",
+      "jyutping": "ngo5 dei6 jiu3 tai2 cing4 fong3 zoi3 kyut3 ding6.",
+      "meaning": "We need to see how things go before deciding.",
+      "sourceWordId": "cing4fong3-situation",
+      "sourceWord": "情況",
+      "sourceWordJyutping": "cing4 fong3",
+      "sourceWordMeaning": "situation",
+      "tags": [
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
+        "situation",
+        "condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
+    },
+    {
+      "sentenceId": "cing4fong3-situation-example-3",
+      "sentence": "醫生話佢嘅情況已經穩定咗。",
+      "jyutping": "ji1 saang1 waa6 keoi5 ge3 cing4 fong3 ji5 ging1 wan2 ding6 zo2.",
+      "meaning": "The doctor said his condition has stabilized.",
+      "sourceWordId": "cing4fong3-situation",
+      "sourceWord": "情況",
+      "sourceWordJyutping": "cing4 fong3",
+      "sourceWordMeaning": "situation",
+      "tags": [
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
+        "situation",
+        "condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
+    },
+    {
+      "sentenceId": "cing4fong3-situation-example-4",
+      "sentence": "根據天氣情況，今日可能會落雨。",
+      "jyutping": "gan1 geoi3 tin1 hei3 cing4 fong3, gam1 jat6 ho2 nang4 wui5 lok6 jyu5.",
+      "meaning": "Depending on the weather conditions, it may rain today.",
+      "sourceWordId": "cing4fong3-situation",
+      "sourceWord": "情況",
+      "sourceWordJyutping": "cing4 fong3",
+      "sourceWordMeaning": "situation",
+      "tags": [
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
+        "situation",
+        "condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
+    },
+    {
+      "sentenceId": "sam2caa4-censorship-example-1",
+      "sentence": "政府加強咗對網上內容嘅審查。",
+      "jyutping": "gung2 fau2 gaa1 koeng4 zo2 deoi3 mong5 soeng5 noi6 jung4 ge3 sam2 caa4.",
+      "meaning": "The government has tightened censorship of online content.",
+      "sourceWordId": "sam2caa4-censorship",
+      "sourceWord": "審查",
+      "sourceWordJyutping": "sam2 caa4",
+      "sourceWordMeaning": "censorship",
+      "tags": [
+        "news",
+        "media",
+        "government",
+        "formal",
+        "politics",
+        "press freedom",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam2caa4-censorship.json"
+    },
+    {
+      "sentenceId": "sam2caa4-censorship-example-2",
+      "sentence": "呢套電影因為審查問題而被刪改。",
+      "jyutping": "ni1 tou3 din6 jing2 jan1 wai6 sam2 caa4 man6 tai4 ji4 bei6 saan1 goi2.",
+      "meaning": "This film was edited because of censorship issues.",
+      "sourceWordId": "sam2caa4-censorship",
+      "sourceWord": "審查",
+      "sourceWordJyutping": "sam2 caa4",
+      "sourceWordMeaning": "censorship",
+      "tags": [
+        "news",
+        "media",
+        "government",
+        "formal",
+        "politics",
+        "press freedom",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam2caa4-censorship.json"
+    },
+    {
+      "sentenceId": "sam2caa4-censorship-example-3",
+      "sentence": "傳媒成日討論言論審查會唔會影響新聞自由。",
+      "jyutping": "cyun4 mui4 sing4 jat6 tou2 leon6 jin4 leon6 sam2 caa4 wui5 m4 wui5 jing2 hoeng2 san1 man4 zi6 jau4.",
+      "meaning": "The media often discusses whether censorship affects press freedom.",
+      "sourceWordId": "sam2caa4-censorship",
+      "sourceWord": "審查",
+      "sourceWordJyutping": "sam2 caa4",
+      "sourceWordMeaning": "censorship",
+      "tags": [
+        "news",
+        "media",
+        "government",
+        "formal",
+        "politics",
+        "press freedom",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam2caa4-censorship.json"
+    },
+    {
+      "sentenceId": "sam2caa4-censorship-example-4",
+      "sentence": "公司對員工發言都有嚴格審查。",
+      "jyutping": "gung1 si1 deoi3 jyun4 gung1 faat3 jin4 dou1 jau5 jim4 gaak3 sam2 caa4.",
+      "meaning": "The company also strictly reviews what employees say.",
+      "sourceWordId": "sam2caa4-censorship",
+      "sourceWord": "審查",
+      "sourceWordJyutping": "sam2 caa4",
+      "sourceWordMeaning": "censorship",
+      "tags": [
+        "news",
+        "media",
+        "government",
+        "formal",
+        "politics",
+        "press freedom",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam2caa4-censorship.json"
+    }
+  ],
+  "missingWordFiles": []
+}

@@ -2,14 +2,14 @@
   "level": 2,
   "title": "Level 2 – Natural everyday conversations",
   "totalWords": 63,
-  "totalSentences": 154,
+  "totalSentences": 160,
   "items": [
     {
-      "sentenceId": "gok3dak1-think-example-1",
+      "sentenceId": "gok3dak1-to-think-to-feel-opinion-example-1",
       "sentence": "我覺得呢度好舒服。",
       "jyutping": "ngo5 gok3 dak1 ni1 dou6 hou2 syu1 fuk6",
       "meaning": "I think this place is very comfortable.",
-      "sourceWordId": "gok3dak1-think",
+      "sourceWordId": "gok3dak1-to-think-to-feel-opinion",
       "sourceWord": "覺得",
       "sourceWordJyutping": "gok3 dak1",
       "sourceWordMeaning": "to think / to feel (opinion)",
@@ -19,14 +19,14 @@
         "core",
         "opinion"
       ],
-      "sourceFile": "r2-backup/words/gok3dak1-think.json"
+      "sourceFile": "r2-backup/words/gok3dak1-to-think-to-feel-opinion.json"
     },
     {
-      "sentenceId": "gok3dak1-think-example-2",
+      "sentenceId": "gok3dak1-to-think-to-feel-opinion-example-2",
       "sentence": "你覺得點呀？",
       "jyutping": "nei5 gok3 dak1 dim2 aa3",
       "meaning": "What do you think?",
-      "sourceWordId": "gok3dak1-think",
+      "sourceWordId": "gok3dak1-to-think-to-feel-opinion",
       "sourceWord": "覺得",
       "sourceWordJyutping": "gok3 dak1",
       "sourceWordMeaning": "to think / to feel (opinion)",
@@ -36,14 +36,14 @@
         "core",
         "opinion"
       ],
-      "sourceFile": "r2-backup/words/gok3dak1-think.json"
+      "sourceFile": "r2-backup/words/gok3dak1-to-think-to-feel-opinion.json"
     },
     {
-      "sentenceId": "hei1mong6-hope-example-1",
+      "sentenceId": "hei1mong6-to-hope-example-1",
       "sentence": "我希望你開心。",
       "jyutping": "ngo5 hei1 mong6 nei5 hoi1 sam1",
       "meaning": "I hope you are happy.",
-      "sourceWordId": "hei1mong6-hope",
+      "sourceWordId": "hei1mong6-to-hope",
       "sourceWord": "希望",
       "sourceWordJyutping": "hei1 mong6",
       "sourceWordMeaning": "to hope",
@@ -53,14 +53,14 @@
         "emotion",
         "future"
       ],
-      "sourceFile": "r2-backup/words/hei1mong6-hope.json"
+      "sourceFile": "r2-backup/words/hei1mong6-to-hope.json"
     },
     {
-      "sentenceId": "hei1mong6-hope-example-2",
+      "sentenceId": "hei1mong6-to-hope-example-2",
       "sentence": "希望聽日天氣好。",
       "jyutping": "hei1 mong6 ting1 jat6 tin1 hei3 hou2",
       "meaning": "I hope the weather is good tomorrow.",
-      "sourceWordId": "hei1mong6-hope",
+      "sourceWordId": "hei1mong6-to-hope",
       "sourceWord": "希望",
       "sourceWordJyutping": "hei1 mong6",
       "sourceWordMeaning": "to hope",
@@ -70,14 +70,14 @@
         "emotion",
         "future"
       ],
-      "sourceFile": "r2-backup/words/hei1mong6-hope.json"
+      "sourceFile": "r2-backup/words/hei1mong6-to-hope.json"
     },
     {
-      "sentenceId": "seoi1jiu3-need-example-1",
+      "sentenceId": "seoi1jiu3-to-need-example-1",
       "sentence": "我需要時間。",
       "jyutping": "ngo5 seoi1 jiu3 si4 gaan3",
       "meaning": "I need time.",
-      "sourceWordId": "seoi1jiu3-need",
+      "sourceWordId": "seoi1jiu3-to-need",
       "sourceWord": "需要",
       "sourceWordJyutping": "seoi1 jiu3",
       "sourceWordMeaning": "to need",
@@ -87,14 +87,14 @@
         "core",
         "necessity"
       ],
-      "sourceFile": "r2-backup/words/seoi1jiu3-need.json"
+      "sourceFile": "r2-backup/words/seoi1jiu3-to-need.json"
     },
     {
-      "sentenceId": "seoi1jiu3-need-example-2",
+      "sentenceId": "seoi1jiu3-to-need-example-2",
       "sentence": "你需要幫手嗎？",
       "jyutping": "nei5 seoi1 jiu3 bong1 sau2 maa3",
       "meaning": "Do you need help?",
-      "sourceWordId": "seoi1jiu3-need",
+      "sourceWordId": "seoi1jiu3-to-need",
       "sourceWord": "需要",
       "sourceWordJyutping": "seoi1 jiu3",
       "sourceWordMeaning": "to need",
@@ -104,14 +104,14 @@
         "core",
         "necessity"
       ],
-      "sourceFile": "r2-backup/words/seoi1jiu3-need.json"
+      "sourceFile": "r2-backup/words/seoi1jiu3-to-need.json"
     },
     {
-      "sentenceId": "kyut3ding6-decide-example-1",
+      "sentenceId": "kyut3ding6-to-decide-decision-example-1",
       "sentence": "我決定唔去。",
       "jyutping": "ngo5 kyut3 ding6 m4 heoi3",
       "meaning": "I decided not to go.",
-      "sourceWordId": "kyut3ding6-decide",
+      "sourceWordId": "kyut3ding6-to-decide-decision",
       "sourceWord": "決定",
       "sourceWordJyutping": "kyut3 ding6",
       "sourceWordMeaning": "to decide / decision",
@@ -121,14 +121,14 @@
         "level-2",
         "planning"
       ],
-      "sourceFile": "r2-backup/words/kyut3ding6-decide.json"
+      "sourceFile": "r2-backup/words/kyut3ding6-to-decide-decision.json"
     },
     {
-      "sentenceId": "kyut3ding6-decide-example-2",
+      "sentenceId": "kyut3ding6-to-decide-decision-example-2",
       "sentence": "呢個決定好重要。",
       "jyutping": "ni1 go3 kyut3 ding6 hou2 zung6 jiu3",
       "meaning": "This decision is very important.",
-      "sourceWordId": "kyut3ding6-decide",
+      "sourceWordId": "kyut3ding6-to-decide-decision",
       "sourceWord": "決定",
       "sourceWordJyutping": "kyut3 ding6",
       "sourceWordMeaning": "to decide / decision",
@@ -138,14 +138,14 @@
         "level-2",
         "planning"
       ],
-      "sourceFile": "r2-backup/words/kyut3ding6-decide.json"
+      "sourceFile": "r2-backup/words/kyut3ding6-to-decide-decision.json"
     },
     {
-      "sentenceId": "si3-try-example-1",
+      "sentenceId": "si3-to-try-example-1",
       "sentence": "我試下先。",
       "jyutping": "ngo5 si3 haa5 sin1",
       "meaning": "I’ll try first.",
-      "sourceWordId": "si3-try",
+      "sourceWordId": "si3-to-try",
       "sourceWord": "試",
       "sourceWordJyutping": "si3",
       "sourceWordMeaning": "to try",
@@ -154,14 +154,14 @@
         "level-2",
         "action"
       ],
-      "sourceFile": "r2-backup/words/si3-try.json"
+      "sourceFile": "r2-backup/words/si3-to-try.json"
     },
     {
-      "sentenceId": "si3-try-example-2",
+      "sentenceId": "si3-to-try-example-2",
       "sentence": "你試過未？",
       "jyutping": "nei5 si3 gwo3 mei6",
       "meaning": "Have you tried it before?",
-      "sourceWordId": "si3-try",
+      "sourceWordId": "si3-to-try",
       "sourceWord": "試",
       "sourceWordJyutping": "si3",
       "sourceWordMeaning": "to try",
@@ -170,14 +170,14 @@
         "level-2",
         "action"
       ],
-      "sourceFile": "r2-backup/words/si3-try.json"
+      "sourceFile": "r2-backup/words/si3-to-try.json"
     },
     {
-      "sentenceId": "si3haa5-try-casual-example-1",
+      "sentenceId": "si3haa5-try-casually-example-1",
       "sentence": "試下呢個啦。",
       "jyutping": "si3 haa5 ni1 go3 laa1",
       "meaning": "Try this one.",
-      "sourceWordId": "si3haa5-try-casual",
+      "sourceWordId": "si3haa5-try-casually",
       "sourceWord": "試下",
       "sourceWordJyutping": "si3 haa5",
       "sourceWordMeaning": "try (casually)",
@@ -187,14 +187,14 @@
         "spoken",
         "polite"
       ],
-      "sourceFile": "r2-backup/words/si3haa5-try-casual.json"
+      "sourceFile": "r2-backup/words/si3haa5-try-casually.json"
     },
     {
-      "sentenceId": "si3haa5-try-casual-example-2",
+      "sentenceId": "si3haa5-try-casually-example-2",
       "sentence": "你可以試下。",
       "jyutping": "nei5 ho2 ji5 si3 haa5",
       "meaning": "You can give it a try.",
-      "sourceWordId": "si3haa5-try-casual",
+      "sourceWordId": "si3haa5-try-casually",
       "sourceWord": "試下",
       "sourceWordJyutping": "si3 haa5",
       "sourceWordMeaning": "try (casually)",
@@ -204,14 +204,14 @@
         "spoken",
         "polite"
       ],
-      "sourceFile": "r2-backup/words/si3haa5-try-casual.json"
+      "sourceFile": "r2-backup/words/si3haa5-try-casually.json"
     },
     {
-      "sentenceId": "gei3dak1-remember-example-1",
+      "sentenceId": "gei3dak1-to-remember-example-1",
       "sentence": "你記得帶護照未？",
       "jyutping": "nei5 gei3 dak1 daai3 wu6 ziu3 mei6?",
       "meaning": "Do you remember to bring your passport yet?",
-      "sourceWordId": "gei3dak1-remember",
+      "sourceWordId": "gei3dak1-to-remember",
       "sourceWord": "記得",
       "sourceWordJyutping": "gei3 dak1",
       "sourceWordMeaning": "to remember",
@@ -223,14 +223,14 @@
         "recall",
         "level-6"
       ],
-      "sourceFile": "r2-backup/words/gei3dak1-remember.json"
+      "sourceFile": "r2-backup/words/gei3dak1-to-remember.json"
     },
     {
-      "sentenceId": "gei3dak1-remember-example-2",
+      "sentenceId": "gei3dak1-to-remember-example-2",
       "sentence": "我記得上次嗰次旅行好開心。",
       "jyutping": "ngo5 gei3 dak1 soeng6 ci3 go2 ci3 leoi5 hang4 hou2 hoi1 sam1.",
       "meaning": "I remember the last trip was very fun.",
-      "sourceWordId": "gei3dak1-remember",
+      "sourceWordId": "gei3dak1-to-remember",
       "sourceWord": "記得",
       "sourceWordJyutping": "gei3 dak1",
       "sourceWordMeaning": "to remember",
@@ -242,14 +242,14 @@
         "recall",
         "level-6"
       ],
-      "sourceFile": "r2-backup/words/gei3dak1-remember.json"
+      "sourceFile": "r2-backup/words/gei3dak1-to-remember.json"
     },
     {
-      "sentenceId": "gei3dak1-remember-example-3",
+      "sentenceId": "gei3dak1-to-remember-example-3",
       "sentence": "記得買蛋糕慶祝生日！",
       "jyutping": "gei3 dak1 maai5 daan6 gou1 hing3 zuk1 saang1 jat6!",
       "meaning": "Remember to buy a cake to celebrate the birthday!",
-      "sourceWordId": "gei3dak1-remember",
+      "sourceWordId": "gei3dak1-to-remember",
       "sourceWord": "記得",
       "sourceWordJyutping": "gei3 dak1",
       "sourceWordMeaning": "to remember",
@@ -261,14 +261,14 @@
         "recall",
         "level-6"
       ],
-      "sourceFile": "r2-backup/words/gei3dak1-remember.json"
+      "sourceFile": "r2-backup/words/gei3dak1-to-remember.json"
     },
     {
-      "sentenceId": "gei3dak1-remember-example-4",
+      "sentenceId": "gei3dak1-to-remember-example-4",
       "sentence": "你記得佢叫咩名？",
       "jyutping": "nei5 gei3 dak1 keoi5 giu3 me1 meng2?",
       "meaning": "Do you remember what his/her name is?",
-      "sourceWordId": "gei3dak1-remember",
+      "sourceWordId": "gei3dak1-to-remember",
       "sourceWord": "記得",
       "sourceWordJyutping": "gei3 dak1",
       "sourceWordMeaning": "to remember",
@@ -280,7 +280,7 @@
         "recall",
         "level-6"
       ],
-      "sourceFile": "r2-backup/words/gei3dak1-remember.json"
+      "sourceFile": "r2-backup/words/gei3dak1-to-remember.json"
     },
     {
       "sentenceId": "mong4gei3-forget-example-1",
@@ -359,11 +359,11 @@
       "sourceFile": "r2-backup/words/mong4gei3-forget.json"
     },
     {
-      "sentenceId": "ming4baak6-understand-example-1",
+      "sentenceId": "ming4baak6-to-understand-example-1",
       "sentence": "我明白。",
       "jyutping": "ngo5 ming4 baak6",
       "meaning": "I understand.",
-      "sourceWordId": "ming4baak6-understand",
+      "sourceWordId": "ming4baak6-to-understand",
       "sourceWord": "明白",
       "sourceWordJyutping": "ming4 baak6",
       "sourceWordMeaning": "to understand",
@@ -373,14 +373,14 @@
         "core",
         "comprehension"
       ],
-      "sourceFile": "r2-backup/words/ming4baak6-understand.json"
+      "sourceFile": "r2-backup/words/ming4baak6-to-understand.json"
     },
     {
-      "sentenceId": "ming4baak6-understand-example-2",
+      "sentenceId": "ming4baak6-to-understand-example-2",
       "sentence": "你明白我意思嗎？",
       "jyutping": "nei5 ming4 baak6 ngo5 ji3 si1 maa3",
       "meaning": "Do you understand what I mean?",
-      "sourceWordId": "ming4baak6-understand",
+      "sourceWordId": "ming4baak6-to-understand",
       "sourceWord": "明白",
       "sourceWordJyutping": "ming4 baak6",
       "sourceWordMeaning": "to understand",
@@ -390,14 +390,14 @@
         "core",
         "comprehension"
       ],
-      "sourceFile": "r2-backup/words/ming4baak6-understand.json"
+      "sourceFile": "r2-backup/words/ming4baak6-to-understand.json"
     },
     {
-      "sentenceId": "ming4m4ming4-understand-question-example-1",
+      "sentenceId": "ming4m4ming4-do-you-understand-example-1",
       "sentence": "我講清楚未？明唔明？",
       "jyutping": "ngo5 gong2 cing1 co2 mei6 ming4 m4 ming4",
       "meaning": "Did I explain it clearly? Do you understand?",
-      "sourceWordId": "ming4m4ming4-understand-question",
+      "sourceWordId": "ming4m4ming4-do-you-understand",
       "sourceWord": "明唔明",
       "sourceWordJyutping": "ming4 m4 ming4",
       "sourceWordMeaning": "do you understand?",
@@ -407,14 +407,14 @@
         "spoken",
         "comprehension"
       ],
-      "sourceFile": "r2-backup/words/ming4m4ming4-understand-question.json"
+      "sourceFile": "r2-backup/words/ming4m4ming4-do-you-understand.json"
     },
     {
-      "sentenceId": "ming4m4ming4-understand-question-example-2",
+      "sentenceId": "ming4m4ming4-do-you-understand-example-2",
       "sentence": "如果唔明就問。",
       "jyutping": "jyu4 gwo2 m4 ming4 zau6 man6",
       "meaning": "If you don’t understand, just ask.",
-      "sourceWordId": "ming4m4ming4-understand-question",
+      "sourceWordId": "ming4m4ming4-do-you-understand",
       "sourceWord": "明唔明",
       "sourceWordJyutping": "ming4 m4 ming4",
       "sourceWordMeaning": "do you understand?",
@@ -424,7 +424,7 @@
         "spoken",
         "comprehension"
       ],
-      "sourceFile": "r2-backup/words/ming4m4ming4-understand-question.json"
+      "sourceFile": "r2-backup/words/ming4m4ming4-do-you-understand.json"
     },
     {
       "sentenceId": "soeng1seon3-believe-example-1",
@@ -503,11 +503,11 @@
       "sourceFile": "r2-backup/words/soeng1seon3-believe.json"
     },
     {
-      "sentenceId": "hoi1ci2-start-example-1",
+      "sentenceId": "hoi1ci2-to-start-to-begin-example-1",
       "sentence": "我哋而家開始。",
       "jyutping": "ngo5 dei6 ji4 gaa1 hoi1 ci2",
       "meaning": "We’ll start now.",
-      "sourceWordId": "hoi1ci2-start",
+      "sourceWordId": "hoi1ci2-to-start-to-begin",
       "sourceWord": "開始",
       "sourceWordJyutping": "hoi1 ci2",
       "sourceWordMeaning": "to start / to begin",
@@ -516,14 +516,14 @@
         "level-2",
         "process"
       ],
-      "sourceFile": "r2-backup/words/hoi1ci2-start.json"
+      "sourceFile": "r2-backup/words/hoi1ci2-to-start-to-begin.json"
     },
     {
-      "sentenceId": "hoi1ci2-start-example-2",
+      "sentenceId": "hoi1ci2-to-start-to-begin-example-2",
       "sentence": "課程九點開始。",
       "jyutping": "fo3 cing4 gau2 dim2 hoi1 ci2",
       "meaning": "The class starts at nine.",
-      "sourceWordId": "hoi1ci2-start",
+      "sourceWordId": "hoi1ci2-to-start-to-begin",
       "sourceWord": "開始",
       "sourceWordJyutping": "hoi1 ci2",
       "sourceWordMeaning": "to start / to begin",
@@ -532,7 +532,7 @@
         "level-2",
         "process"
       ],
-      "sourceFile": "r2-backup/words/hoi1ci2-start.json"
+      "sourceFile": "r2-backup/words/hoi1ci2-to-start-to-begin.json"
     },
     {
       "sentenceId": "git3cuk1-end-example-1",
@@ -611,11 +611,11 @@
       "sourceFile": "r2-backup/words/git3cuk1-end.json"
     },
     {
-      "sentenceId": "gai3zuk6-continue-example-1",
+      "sentenceId": "gai3zuk6-to-continue-example-1",
       "sentence": "繼續講。",
       "jyutping": "gai3 zuk6 gong2",
       "meaning": "Continue speaking.",
-      "sourceWordId": "gai3zuk6-continue",
+      "sourceWordId": "gai3zuk6-to-continue",
       "sourceWord": "繼續",
       "sourceWordJyutping": "gai3 zuk6",
       "sourceWordMeaning": "to continue",
@@ -624,14 +624,14 @@
         "level-2",
         "process"
       ],
-      "sourceFile": "r2-backup/words/gai3zuk6-continue.json"
+      "sourceFile": "r2-backup/words/gai3zuk6-to-continue.json"
     },
     {
-      "sentenceId": "gai3zuk6-continue-example-2",
+      "sentenceId": "gai3zuk6-to-continue-example-2",
       "sentence": "我想繼續試。",
       "jyutping": "ngo5 soeng2 gai3 zuk6 si3",
       "meaning": "I want to keep trying.",
-      "sourceWordId": "gai3zuk6-continue",
+      "sourceWordId": "gai3zuk6-to-continue",
       "sourceWord": "繼續",
       "sourceWordJyutping": "gai3 zuk6",
       "sourceWordMeaning": "to continue",
@@ -640,14 +640,14 @@
         "level-2",
         "process"
       ],
-      "sourceFile": "r2-backup/words/gai3zuk6-continue.json"
+      "sourceFile": "r2-backup/words/gai3zuk6-to-continue.json"
     },
     {
-      "sentenceId": "ting4-stop-example-1",
+      "sentenceId": "ting4-to-stop-example-1",
       "sentence": "停一停。",
       "jyutping": "ting4 jat1 ting4",
       "meaning": "Stop for a moment.",
-      "sourceWordId": "ting4-stop",
+      "sourceWordId": "ting4-to-stop",
       "sourceWord": "停",
       "sourceWordJyutping": "ting4",
       "sourceWordMeaning": "to stop",
@@ -656,14 +656,14 @@
         "level-2",
         "action"
       ],
-      "sourceFile": "r2-backup/words/ting4-stop.json"
+      "sourceFile": "r2-backup/words/ting4-to-stop.json"
     },
     {
-      "sentenceId": "ting4-stop-example-2",
+      "sentenceId": "ting4-to-stop-example-2",
       "sentence": "巴士喺度停。",
       "jyutping": "baa1 si2 hai2 dou6 ting4",
       "meaning": "The bus stops here.",
-      "sourceWordId": "ting4-stop",
+      "sourceWordId": "ting4-to-stop",
       "sourceWord": "停",
       "sourceWordJyutping": "ting4",
       "sourceWordMeaning": "to stop",
@@ -672,14 +672,14 @@
         "level-2",
         "action"
       ],
-      "sourceFile": "r2-backup/words/ting4-stop.json"
+      "sourceFile": "r2-backup/words/ting4-to-stop.json"
     },
     {
-      "sentenceId": "goi2bin3-change-example-1",
+      "sentenceId": "goi2bin3-to-change-example-1",
       "sentence": "計劃有改變。",
       "jyutping": "gai3 waak6 jau5 goi2 bin3",
       "meaning": "The plan has changed.",
-      "sourceWordId": "goi2bin3-change",
+      "sourceWordId": "goi2bin3-to-change",
       "sourceWord": "改變",
       "sourceWordJyutping": "goi2 bin3",
       "sourceWordMeaning": "to change",
@@ -688,14 +688,14 @@
         "level-2",
         "process"
       ],
-      "sourceFile": "r2-backup/words/goi2bin3-change.json"
+      "sourceFile": "r2-backup/words/goi2bin3-to-change.json"
     },
     {
-      "sentenceId": "goi2bin3-change-example-2",
+      "sentenceId": "goi2bin3-to-change-example-2",
       "sentence": "你可以改變主意。",
       "jyutping": "nei5 ho2 ji5 goi2 bin3 zyu2 ji3",
       "meaning": "You can change your mind.",
-      "sourceWordId": "goi2bin3-change",
+      "sourceWordId": "goi2bin3-to-change",
       "sourceWord": "改變",
       "sourceWordJyutping": "goi2 bin3",
       "sourceWordMeaning": "to change",
@@ -704,14 +704,14 @@
         "level-2",
         "process"
       ],
-      "sourceFile": "r2-backup/words/goi2bin3-change.json"
+      "sourceFile": "r2-backup/words/goi2bin3-to-change.json"
     },
     {
-      "sentenceId": "jyun4sing4-complete-example-1",
+      "sentenceId": "jyun4sing4-to-complete-to-finish-example-1",
       "sentence": "我已經完成工作。",
       "jyutping": "ngo5 ji5 ging1 jyun4 sing4 gung1 zok3",
       "meaning": "I’ve completed the work.",
-      "sourceWordId": "jyun4sing4-complete",
+      "sourceWordId": "jyun4sing4-to-complete-to-finish",
       "sourceWord": "完成",
       "sourceWordJyutping": "jyun4 sing4",
       "sourceWordMeaning": "to complete / to finish",
@@ -720,14 +720,14 @@
         "level-2",
         "achievement"
       ],
-      "sourceFile": "r2-backup/words/jyun4sing4-complete.json"
+      "sourceFile": "r2-backup/words/jyun4sing4-to-complete-to-finish.json"
     },
     {
-      "sentenceId": "jyun4sing4-complete-example-2",
+      "sentenceId": "jyun4sing4-to-complete-to-finish-example-2",
       "sentence": "個任務已經完成，可以交畀老細喇。",
       "jyutping": "go3 jam6 mou6 ji5 ging1 jyun4 sing4 ho2 ji5 gaau1 bei2 lou5 sai3 laa3",
       "meaning": "The task is already complete and can be handed to the boss.",
-      "sourceWordId": "jyun4sing4-complete",
+      "sourceWordId": "jyun4sing4-to-complete-to-finish",
       "sourceWord": "完成",
       "sourceWordJyutping": "jyun4 sing4",
       "sourceWordMeaning": "to complete / to finish",
@@ -736,14 +736,14 @@
         "level-2",
         "achievement"
       ],
-      "sourceFile": "r2-backup/words/jyun4sing4-complete.json"
+      "sourceFile": "r2-backup/words/jyun4sing4-to-complete-to-finish.json"
     },
     {
-      "sentenceId": "sing4gung1-success-example-1",
+      "sentenceId": "sing4gung1-success-to-succeed-example-1",
       "sentence": "呢個計劃好成功。",
       "jyutping": "ni1 go3 gai3 waak6 hou2 sing4 gung1",
       "meaning": "This plan is very successful.",
-      "sourceWordId": "sing4gung1-success",
+      "sourceWordId": "sing4gung1-success-to-succeed",
       "sourceWord": "成功",
       "sourceWordJyutping": "sing4 gung1",
       "sourceWordMeaning": "success / to succeed",
@@ -753,14 +753,14 @@
         "level-2",
         "result"
       ],
-      "sourceFile": "r2-backup/words/sing4gung1-success.json"
+      "sourceFile": "r2-backup/words/sing4gung1-success-to-succeed.json"
     },
     {
-      "sentenceId": "sing4gung1-success-example-2",
+      "sentenceId": "sing4gung1-success-to-succeed-example-2",
       "sentence": "佢終於成功咗。",
       "jyutping": "keoi5 zung1 jyu1 sing4 gung1 zo2",
       "meaning": "He finally succeeded.",
-      "sourceWordId": "sing4gung1-success",
+      "sourceWordId": "sing4gung1-success-to-succeed",
       "sourceWord": "成功",
       "sourceWordJyutping": "sing4 gung1",
       "sourceWordMeaning": "success / to succeed",
@@ -770,14 +770,14 @@
         "level-2",
         "result"
       ],
-      "sourceFile": "r2-backup/words/sing4gung1-success.json"
+      "sourceFile": "r2-backup/words/sing4gung1-success-to-succeed.json"
     },
     {
-      "sentenceId": "sat1baai6-failure-example-1",
+      "sentenceId": "sat1baai6-failure-to-fail-example-1",
       "sentence": "呢次嘗試失敗咗。",
       "jyutping": "ni1 ci3 soeng4 si3 sat1 baai6 zo2",
       "meaning": "This attempt failed.",
-      "sourceWordId": "sat1baai6-failure",
+      "sourceWordId": "sat1baai6-failure-to-fail",
       "sourceWord": "失敗",
       "sourceWordJyutping": "sat1 baai6",
       "sourceWordMeaning": "failure / to fail",
@@ -787,14 +787,14 @@
         "level-2",
         "result"
       ],
-      "sourceFile": "r2-backup/words/sat1baai6-failure.json"
+      "sourceFile": "r2-backup/words/sat1baai6-failure-to-fail.json"
     },
     {
-      "sentenceId": "sat1baai6-failure-example-2",
+      "sentenceId": "sat1baai6-failure-to-fail-example-2",
       "sentence": "失敗唔代表完結。",
       "jyutping": "sat1 baai6 m4 doi6 biu2 jyun4 git3",
       "meaning": "Failure doesn’t mean the end.",
-      "sourceWordId": "sat1baai6-failure",
+      "sourceWordId": "sat1baai6-failure-to-fail",
       "sourceWord": "失敗",
       "sourceWordJyutping": "sat1 baai6",
       "sourceWordMeaning": "failure / to fail",
@@ -804,17 +804,17 @@
         "level-2",
         "result"
       ],
-      "sourceFile": "r2-backup/words/sat1baai6-failure.json"
+      "sourceFile": "r2-backup/words/sat1baai6-failure-to-fail.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-1",
-      "sentence": "我哋仲未收到測試嘅結果。",
-      "jyutping": "ngo5 dei6 zung6 mei6 sau1 dou3 cek3 si3 ge3 git3 gwo2.",
-      "meaning": "We haven’t received the test results yet.",
-      "sourceWordId": "git3gwo2-result",
+      "sentenceId": "git3gwo2-result-outcome-example-1",
+      "sentence": "我哋仲未收到測試結果。",
+      "jyutping": "ngo5 dei6 zung6 mei6 sau1 dou3 cak1 si3 git3 gwo2.",
+      "meaning": "We haven't received the test results yet.",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -823,17 +823,17 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-2",
-      "sentence": "研究嘅結果好令人驚訝。",
-      "jyutping": "jin4 gau3 ge3 git3 gwo2 hou2 ling6 jan4 ging1 ngaa6.",
+      "sentenceId": "git3gwo2-result-outcome-example-2",
+      "sentence": "研究結果好令人驚訝。",
+      "jyutping": "jin4 gau3 git3 gwo2 hou2 ling6 jan4 ging1 ngaa6.",
       "meaning": "The research results are very surprising.",
-      "sourceWordId": "git3gwo2-result",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -842,17 +842,17 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-3",
-      "sentence": "你睇吓計算嘅結果係啱嘅。",
-      "jyutping": "nei5 tai2 haa5 gai3 syun3 ge3 git3 gwo2 hai6 aam1 ge3.",
-      "meaning": "Look, the calculation results are correct.",
-      "sourceWordId": "git3gwo2-result",
+      "sentenceId": "git3gwo2-result-outcome-example-3",
+      "sentence": "你睇吓，計算結果係啱嘅。",
+      "jyutping": "nei5 tai2 haa5, gai3 syun3 git3 gwo2 hai6 aam1 ge3.",
+      "meaning": "Look, the result of the calculation is correct.",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -861,17 +861,17 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-4",
-      "sentence": "呢個實驗嘅結果證明咗理論。",
-      "jyutping": "ni1 go3 sat6 jim6 ge3 git3 gwo2 zing3 ming4 zo2 lei5 leon6.",
-      "meaning": "The experiment results proved the theory.",
-      "sourceWordId": "git3gwo2-result",
+      "sentenceId": "git3gwo2-result-outcome-example-4",
+      "sentence": "呢個實驗嘅結果證明咗個理論。",
+      "jyutping": "ni1 go3 sat6 jim6 ge3 git3 gwo2 zing3 ming4 zo2 go3 lei5 leon6.",
+      "meaning": "The result of this experiment proved the theory.",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -880,69 +880,165 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
       "sentenceId": "man6tai4-problem-example-1",
-      "sentence": "呢個問題好複雜。",
-      "jyutping": "ni1 go3 man6 tai4 hou2 fuk1 zaap6",
-      "meaning": "This problem is complicated.",
+      "sentence": "呢條數學問題好難。",
+      "jyutping": "ni1 tiu4 sou3 hok6 man6 tai4 hou2 naan4",
+      "meaning": "This math problem is very hard.",
       "sourceWordId": "man6tai4-problem",
       "sourceWord": "問題",
       "sourceWordJyutping": "man6 tai4",
-      "sourceWordMeaning": "problem / question",
+      "sourceWordMeaning": "problem",
       "tags": [
+        "math",
+        "general math words",
+        "level 1",
         "noun",
-        "level-2",
-        "logic"
+        "problem",
+        "question",
+        "everyday Cantonese",
+        "level-1"
       ],
       "sourceFile": "r2-backup/words/man6tai4-problem.json"
     },
     {
       "sentenceId": "man6tai4-problem-example-2",
-      "sentence": "冇問題。",
-      "jyutping": "mou5 man6 tai4",
-      "meaning": "No problem.",
+      "sentence": "我哋要先解決呢個問題。",
+      "jyutping": "ngo5 dei6 jiu3 sin1 gaai2 kyut3 ni1 go3 man6 tai4",
+      "meaning": "We need to solve this problem first.",
       "sourceWordId": "man6tai4-problem",
       "sourceWord": "問題",
       "sourceWordJyutping": "man6 tai4",
-      "sourceWordMeaning": "problem / question",
+      "sourceWordMeaning": "problem",
       "tags": [
+        "math",
+        "general math words",
+        "level 1",
         "noun",
-        "level-2",
-        "logic"
+        "problem",
+        "question",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man6tai4-problem.json"
+    },
+    {
+      "sentenceId": "man6tai4-problem-example-3",
+      "sentence": "你有咩問題可以問我。",
+      "jyutping": "nei5 jau5 me1 man6 tai4 ho2 ji5 man6 ngo5",
+      "meaning": "If you have any questions, you can ask me.",
+      "sourceWordId": "man6tai4-problem",
+      "sourceWord": "問題",
+      "sourceWordJyutping": "man6 tai4",
+      "sourceWordMeaning": "problem",
+      "tags": [
+        "math",
+        "general math words",
+        "level 1",
+        "noun",
+        "problem",
+        "question",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man6tai4-problem.json"
+    },
+    {
+      "sentenceId": "man6tai4-problem-example-4",
+      "sentence": "佢哋之間有溝通問題。",
+      "jyutping": "keoi5 dei6 zi1 gaan1 jau5 kau1 tung1 man6 tai4",
+      "meaning": "They have a communication problem.",
+      "sourceWordId": "man6tai4-problem",
+      "sourceWord": "問題",
+      "sourceWordJyutping": "man6 tai4",
+      "sourceWordMeaning": "problem",
+      "tags": [
+        "math",
+        "general math words",
+        "level 1",
+        "noun",
+        "problem",
+        "question",
+        "everyday Cantonese",
+        "level-1"
       ],
       "sourceFile": "r2-backup/words/man6tai4-problem.json"
     },
     {
       "sentenceId": "daap3on3-answer-example-1",
-      "sentence": "我搵到答案。",
-      "jyutping": "ngo5 wan2 dou3 daap3 on3",
-      "meaning": "I found the answer.",
+      "sentence": "你嗰題嘅答案係咩？",
+      "jyutping": "nei5 go2 tai4 ge3 daap3 on3 hai6 me1?",
+      "meaning": "What is the answer to that question?",
       "sourceWordId": "daap3on3-answer",
       "sourceWord": "答案",
       "sourceWordJyutping": "daap3 on3",
       "sourceWordMeaning": "answer",
       "tags": [
-        "noun",
-        "level-2",
-        "logic"
+        "math",
+        "school",
+        "homework",
+        "question",
+        "basic vocabulary",
+        "level-1"
       ],
       "sourceFile": "r2-backup/words/daap3on3-answer.json"
     },
     {
       "sentenceId": "daap3on3-answer-example-2",
-      "sentence": "答案係正確嘅。",
-      "jyutping": "daap3 on3 hai6 zing3 kok3 ge3",
-      "meaning": "The answer is correct.",
+      "sentence": "我搵到條數嘅答案喇。",
+      "jyutping": "ngo5 wan2 dou3 tiu4 sou3 ge3 daap3 on3 laa3.",
+      "meaning": "I found the answer to the problem.",
       "sourceWordId": "daap3on3-answer",
       "sourceWord": "答案",
       "sourceWordJyutping": "daap3 on3",
       "sourceWordMeaning": "answer",
       "tags": [
-        "noun",
-        "level-2",
-        "logic"
+        "math",
+        "school",
+        "homework",
+        "question",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daap3on3-answer.json"
+    },
+    {
+      "sentenceId": "daap3on3-answer-example-3",
+      "sentence": "佢未俾我答案。",
+      "jyutping": "keoi5 mei6 bei2 ngo5 daap3 on3.",
+      "meaning": "He/She hasn’t given me an answer yet.",
+      "sourceWordId": "daap3on3-answer",
+      "sourceWord": "答案",
+      "sourceWordJyutping": "daap3 on3",
+      "sourceWordMeaning": "answer",
+      "tags": [
+        "math",
+        "school",
+        "homework",
+        "question",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daap3on3-answer.json"
+    },
+    {
+      "sentenceId": "daap3on3-answer-example-4",
+      "sentence": "呢個係正確答案。",
+      "jyutping": "ni1 go3 hai6 zing3 kok3 daap3 on3.",
+      "meaning": "This is the correct answer.",
+      "sourceWordId": "daap3on3-answer",
+      "sourceWord": "答案",
+      "sourceWordJyutping": "daap3 on3",
+      "sourceWordMeaning": "answer",
+      "tags": [
+        "math",
+        "school",
+        "homework",
+        "question",
+        "basic vocabulary",
+        "level-1"
       ],
       "sourceFile": "r2-backup/words/daap3on3-answer.json"
     },
@@ -1075,7 +1171,7 @@
       "sourceFile": "r2-backup/words/dak6bit6-special.json"
     },
     {
-      "sentenceId": "",
+      "sentenceId": "zing1soeng4-normal-example-1",
       "sentence": "呢個情況好正常。",
       "jyutping": "ni1 go3 cing4 fong3 hou2 zing1 soeng4",
       "meaning": "This situation is normal.",
@@ -1091,7 +1187,7 @@
       "sourceFile": "r2-backup/words/zing1soeng4-normal.json"
     },
     {
-      "sentenceId": "",
+      "sentenceId": "zing1soeng4-normal-example-2",
       "sentence": "遲少少係正常嘅。",
       "jyutping": "ci4 siu2 siu2 hai6 zing1 soeng4 ge3",
       "meaning": "Being a little late is normal.",
@@ -1107,11 +1203,11 @@
       "sourceFile": "r2-backup/words/zing1soeng4-normal.json"
     },
     {
-      "sentenceId": "kei4gwaai3-strange-example-1",
+      "sentenceId": "kei4gwaai3-strange-odd-example-1",
       "sentence": "呢件事好奇怪。",
       "jyutping": "ni1 gin6 si6 hou2 kei4 gwaai3",
       "meaning": "This matter is strange.",
-      "sourceWordId": "kei4gwaai3-strange",
+      "sourceWordId": "kei4gwaai3-strange-odd",
       "sourceWord": "奇怪",
       "sourceWordJyutping": "kei4 gwaai3",
       "sourceWordMeaning": "strange / odd",
@@ -1120,14 +1216,14 @@
         "level-2",
         "description"
       ],
-      "sourceFile": "r2-backup/words/kei4gwaai3-strange.json"
+      "sourceFile": "r2-backup/words/kei4gwaai3-strange-odd.json"
     },
     {
-      "sentenceId": "kei4gwaai3-strange-example-2",
+      "sentenceId": "kei4gwaai3-strange-odd-example-2",
       "sentence": "佢今日表現得好奇怪。",
       "jyutping": "keoi5 gam1 jat6 biu2 jin6 dak1 hou2 kei4 gwaai3",
       "meaning": "He’s acting very strangely today.",
-      "sourceWordId": "kei4gwaai3-strange",
+      "sourceWordId": "kei4gwaai3-strange-odd",
       "sourceWord": "奇怪",
       "sourceWordJyutping": "kei4 gwaai3",
       "sourceWordMeaning": "strange / odd",
@@ -1136,14 +1232,14 @@
         "level-2",
         "description"
       ],
-      "sourceFile": "r2-backup/words/kei4gwaai3-strange.json"
+      "sourceFile": "r2-backup/words/kei4gwaai3-strange-odd.json"
     },
     {
-      "sentenceId": "cing1co2-clear-example-1",
+      "sentenceId": "cing1co2-clear-clearly-example-1",
       "sentence": "我聽得好清楚。",
       "jyutping": "ngo5 teng1 dak1 hou2 cing1 co2",
       "meaning": "I heard it clearly.",
-      "sourceWordId": "cing1co2-clear",
+      "sourceWordId": "cing1co2-clear-clearly",
       "sourceWord": "清楚",
       "sourceWordJyutping": "cing1 co2",
       "sourceWordMeaning": "clear / clearly",
@@ -1152,14 +1248,14 @@
         "level-2",
         "understanding"
       ],
-      "sourceFile": "r2-backup/words/cing1co2-clear.json"
+      "sourceFile": "r2-backup/words/cing1co2-clear-clearly.json"
     },
     {
-      "sentenceId": "cing1co2-clear-example-2",
+      "sentenceId": "cing1co2-clear-clearly-example-2",
       "sentence": "你講清楚啲。",
       "jyutping": "nei5 gong2 cing1 co2 di1",
       "meaning": "Please explain it more clearly.",
-      "sourceWordId": "cing1co2-clear",
+      "sourceWordId": "cing1co2-clear-clearly",
       "sourceWord": "清楚",
       "sourceWordJyutping": "cing1 co2",
       "sourceWordMeaning": "clear / clearly",
@@ -1168,14 +1264,14 @@
         "level-2",
         "understanding"
       ],
-      "sourceFile": "r2-backup/words/cing1co2-clear.json"
+      "sourceFile": "r2-backup/words/cing1co2-clear-clearly.json"
     },
     {
-      "sentenceId": "daam1sam1-worry-example-1",
+      "sentenceId": "daam1sam1-to-worry-example-1",
       "sentence": "我好擔心你。",
       "jyutping": "ngo5 hou2 daam1 sam1 nei5",
       "meaning": "I’m very worried about you.",
-      "sourceWordId": "daam1sam1-worry",
+      "sourceWordId": "daam1sam1-to-worry",
       "sourceWord": "擔心",
       "sourceWordJyutping": "daam1 sam1",
       "sourceWordMeaning": "to worry",
@@ -1184,14 +1280,14 @@
         "level-2",
         "emotion"
       ],
-      "sourceFile": "r2-backup/words/daam1sam1-worry.json"
+      "sourceFile": "r2-backup/words/daam1sam1-to-worry.json"
     },
     {
-      "sentenceId": "daam1sam1-worry-example-2",
+      "sentenceId": "daam1sam1-to-worry-example-2",
       "sentence": "唔使擔心。",
       "jyutping": "m4 sai2 daam1 sam1",
       "meaning": "No need to worry.",
-      "sourceWordId": "daam1sam1-worry",
+      "sourceWordId": "daam1sam1-to-worry",
       "sourceWord": "擔心",
       "sourceWordJyutping": "daam1 sam1",
       "sourceWordMeaning": "to worry",
@@ -1200,14 +1296,14 @@
         "level-2",
         "emotion"
       ],
-      "sourceFile": "r2-backup/words/daam1sam1-worry.json"
+      "sourceFile": "r2-backup/words/daam1sam1-to-worry.json"
     },
     {
-      "sentenceId": "fong3sam1-relieved-example-1",
+      "sentenceId": "fong3sam1-to-feel-relieved-to-be-at-ease-example-1",
       "sentence": "你可以放心。",
       "jyutping": "nei5 ho2 ji5 fong3 sam1",
       "meaning": "You can rest assured.",
-      "sourceWordId": "fong3sam1-relieved",
+      "sourceWordId": "fong3sam1-to-feel-relieved-to-be-at-ease",
       "sourceWord": "放心",
       "sourceWordJyutping": "fong3 sam1",
       "sourceWordMeaning": "to feel relieved; to be at ease",
@@ -1216,14 +1312,14 @@
         "level-2",
         "emotion"
       ],
-      "sourceFile": "r2-backup/words/fong3sam1-relieved.json"
+      "sourceFile": "r2-backup/words/fong3sam1-to-feel-relieved-to-be-at-ease.json"
     },
     {
-      "sentenceId": "fong3sam1-relieved-example-2",
+      "sentenceId": "fong3sam1-to-feel-relieved-to-be-at-ease-example-2",
       "sentence": "聽到呢個消息我就放心喇。",
       "jyutping": "teng1 dou2 ni1 go3 siu1 sik1 ngo5 zau6 fong3 sam1 laa3",
       "meaning": "After hearing this news, I felt relieved.",
-      "sourceWordId": "fong3sam1-relieved",
+      "sourceWordId": "fong3sam1-to-feel-relieved-to-be-at-ease",
       "sourceWord": "放心",
       "sourceWordJyutping": "fong3 sam1",
       "sourceWordMeaning": "to feel relieved; to be at ease",
@@ -1232,7 +1328,7 @@
         "level-2",
         "emotion"
       ],
-      "sourceFile": "r2-backup/words/fong3sam1-relieved.json"
+      "sourceFile": "r2-backup/words/fong3sam1-to-feel-relieved-to-be-at-ease.json"
     },
     {
       "sentenceId": "hoi1sam1-happy-example-1",
@@ -1387,11 +1483,11 @@
       "sourceFile": "r2-backup/words/sat1mong6-disappointed.json"
     },
     {
-      "sentenceId": "san1fu2-tiring-example-1",
+      "sentenceId": "san1fu2-tired-hard-working-hard-work-to-suffer-hardship-example-1",
       "sentence": "你今日真係好辛苦。",
       "jyutping": "nei5 gam1 jat6 zan1 hai6 hou2 san1 fu2",
       "meaning": "You really worked hard today.",
-      "sourceWordId": "san1fu2-tiring",
+      "sourceWordId": "san1fu2-tired-hard-working-hard-work-to-suffer-hardship",
       "sourceWord": "辛苦",
       "sourceWordJyutping": "san1 fu2",
       "sourceWordMeaning": "tired; hard-working/hard work; to suffer hardship",
@@ -1400,14 +1496,14 @@
         "level-2",
         "emotion"
       ],
-      "sourceFile": "r2-backup/words/san1fu2-tiring.json"
+      "sourceFile": "r2-backup/words/san1fu2-tired-hard-working-hard-work-to-suffer-hardship.json"
     },
     {
-      "sentenceId": "san1fu2-tiring-example-2",
+      "sentenceId": "san1fu2-tired-hard-working-hard-work-to-suffer-hardship-example-2",
       "sentence": "辛苦晒你喇。",
       "jyutping": "san1 fu2 saai3 nei5 laa3",
       "meaning": "Thanks for your hard work.",
-      "sourceWordId": "san1fu2-tiring",
+      "sourceWordId": "san1fu2-tired-hard-working-hard-work-to-suffer-hardship",
       "sourceWord": "辛苦",
       "sourceWordJyutping": "san1 fu2",
       "sourceWordMeaning": "tired; hard-working/hard work; to suffer hardship",
@@ -1416,7 +1512,7 @@
         "level-2",
         "emotion"
       ],
-      "sourceFile": "r2-backup/words/san1fu2-tiring.json"
+      "sourceFile": "r2-backup/words/san1fu2-tired-hard-working-hard-work-to-suffer-hardship.json"
     },
     {
       "sentenceId": "si4gaan3-time-example-1",
@@ -1428,74 +1524,78 @@
       "sourceWordJyutping": "si4 gaan3",
       "sourceWordMeaning": "time",
       "tags": [
-        "measurement",
+        "basic",
         "time",
-        "daily life",
-        "basic vocabulary",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si4gaan3-time.json"
     },
     {
       "sentenceId": "si4gaan3-time-example-2",
-      "sentence": "我今日冇時間去街。",
-      "jyutping": "ngo5 gam1 jat6 mou5 si4 gaan3 heoi3 gaai1.",
-      "meaning": "I don't have time to go out today.",
+      "sentence": "我今日冇時間去買嘢。",
+      "jyutping": "ngo5 gam1 jat6 mou5 si4 gaan3 heoi3 maai5 je5.",
+      "meaning": "I don't have time to go shopping today.",
       "sourceWordId": "si4gaan3-time",
       "sourceWord": "時間",
       "sourceWordJyutping": "si4 gaan3",
       "sourceWordMeaning": "time",
       "tags": [
-        "measurement",
+        "basic",
         "time",
-        "daily life",
-        "basic vocabulary",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si4gaan3-time.json"
     },
     {
       "sentenceId": "si4gaan3-time-example-3",
-      "sentence": "呢個工作需要好多時間。",
-      "jyutping": "ni1 go3 gung1 zok3 seoi1 jiu3 hou2 do1 si4 gaan3.",
-      "meaning": "This job requires a lot of time.",
+      "sentence": "時間過得好快。",
+      "jyutping": "si4 gaan3 gwo3 dak1 hou2 faai3.",
+      "meaning": "Time goes by very quickly.",
       "sourceWordId": "si4gaan3-time",
       "sourceWord": "時間",
       "sourceWordJyutping": "si4 gaan3",
       "sourceWordMeaning": "time",
       "tags": [
-        "measurement",
+        "basic",
         "time",
-        "daily life",
-        "basic vocabulary",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si4gaan3-time.json"
     },
     {
       "sentenceId": "si4gaan3-time-example-4",
-      "sentence": "放工後，我有啲自由時間。",
-      "jyutping": "fong3 gung1 hau6, ngo5 jau5 di1 zi6 jau4 si4 gaan3.",
-      "meaning": "After work, I have some free time.",
+      "sentence": "你幾點有時間？",
+      "jyutping": "nei5 gei2 dim2 jau5 si4 gaan3?",
+      "meaning": "What time will you be free?",
       "sourceWordId": "si4gaan3-time",
       "sourceWord": "時間",
       "sourceWordJyutping": "si4 gaan3",
       "sourceWordMeaning": "time",
       "tags": [
-        "measurement",
+        "basic",
         "time",
-        "daily life",
-        "basic vocabulary",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si4gaan3-time.json"
     },
     {
-      "sentenceId": "zeoi3gan6-recently-example-1",
+      "sentenceId": "zeoi3gan6-recent-recently-lately-example-1",
       "sentence": "我最近好忙。",
       "jyutping": "ngo5 zeoi3 gan6 hou2 mong4",
       "meaning": "I’ve been very busy recently.",
-      "sourceWordId": "zeoi3gan6-recently",
+      "sourceWordId": "zeoi3gan6-recent-recently-lately",
       "sourceWord": "最近",
       "sourceWordJyutping": "zeoi3 gan6",
       "sourceWordMeaning": "recent; recently; lately",
@@ -1504,14 +1604,14 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/zeoi3gan6-recently.json"
+      "sourceFile": "r2-backup/words/zeoi3gan6-recent-recently-lately.json"
     },
     {
-      "sentenceId": "zeoi3gan6-recently-example-2",
+      "sentenceId": "zeoi3gan6-recent-recently-lately-example-2",
       "sentence": "最近天氣好凍。",
       "jyutping": "zeoi3 gan6 tin1 hei3 hou2 dung3",
       "meaning": "The weather has been very cold lately.",
-      "sourceWordId": "zeoi3gan6-recently",
+      "sourceWordId": "zeoi3gan6-recent-recently-lately",
       "sourceWord": "最近",
       "sourceWordJyutping": "zeoi3 gan6",
       "sourceWordMeaning": "recent; recently; lately",
@@ -1520,14 +1620,14 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/zeoi3gan6-recently.json"
+      "sourceFile": "r2-backup/words/zeoi3gan6-recent-recently-lately.json"
     },
     {
-      "sentenceId": "ji5cin4-before-example-1",
+      "sentenceId": "ji5cin4-before-in-the-past-example-1",
       "sentence": "我以前住喺香港。",
       "jyutping": "ngo5 ji5 cin4 zyu6 hai2 hoeng1 gong2",
       "meaning": "I used to live in Hong Kong.",
-      "sourceWordId": "ji5cin4-before",
+      "sourceWordId": "ji5cin4-before-in-the-past",
       "sourceWord": "以前",
       "sourceWordJyutping": "ji5 cin4",
       "sourceWordMeaning": "before; in the past",
@@ -1536,14 +1636,14 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/ji5cin4-before.json"
+      "sourceFile": "r2-backup/words/ji5cin4-before-in-the-past.json"
     },
     {
-      "sentenceId": "ji5cin4-before-example-2",
+      "sentenceId": "ji5cin4-before-in-the-past-example-2",
       "sentence": "以前冇手機。",
       "jyutping": "ji5 cin4 mou5 sau2 gei1",
       "meaning": "There were no mobile phones before.",
-      "sourceWordId": "ji5cin4-before",
+      "sourceWordId": "ji5cin4-before-in-the-past",
       "sourceWord": "以前",
       "sourceWordJyutping": "ji5 cin4",
       "sourceWordMeaning": "before; in the past",
@@ -1552,14 +1652,14 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/ji5cin4-before.json"
+      "sourceFile": "r2-backup/words/ji5cin4-before-in-the-past.json"
     },
     {
-      "sentenceId": "zi1hau6-after-example-1",
+      "sentenceId": "zi1hau6-after-afterwards-example-1",
       "sentence": "食完飯之後去行街。",
       "jyutping": "sik6 jyun4 faan6 zi1 hau6 heoi3 haang4 gaai1",
       "meaning": "After eating, we’ll go for a walk.",
-      "sourceWordId": "zi1hau6-after",
+      "sourceWordId": "zi1hau6-after-afterwards",
       "sourceWord": "之後",
       "sourceWordJyutping": "zi1 hau6",
       "sourceWordMeaning": "after; afterwards",
@@ -1568,14 +1668,14 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/zi1hau6-after.json"
+      "sourceFile": "r2-backup/words/zi1hau6-after-afterwards.json"
     },
     {
-      "sentenceId": "zi1hau6-after-example-2",
+      "sentenceId": "zi1hau6-after-afterwards-example-2",
       "sentence": "之後再講。",
       "jyutping": "zi1 hau6 zoi3 gong2",
       "meaning": "We’ll talk about it later.",
-      "sourceWordId": "zi1hau6-after",
+      "sourceWordId": "zi1hau6-after-afterwards",
       "sourceWord": "之後",
       "sourceWordJyutping": "zi1 hau6",
       "sourceWordMeaning": "after; afterwards",
@@ -1584,14 +1684,14 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/zi1hau6-after.json"
+      "sourceFile": "r2-backup/words/zi1hau6-after-afterwards.json"
     },
     {
-      "sentenceId": "jat1zik6-continuously-example-1",
+      "sentenceId": "jat1zik6-all-along-always-continuously-example-1",
       "sentence": "我一直等你。",
       "jyutping": "ngo5 jat1 zik6 dang2 nei5",
       "meaning": "I’ve been waiting for you all along.",
-      "sourceWordId": "jat1zik6-continuously",
+      "sourceWordId": "jat1zik6-all-along-always-continuously",
       "sourceWord": "一直",
       "sourceWordJyutping": "jat1 zik6",
       "sourceWordMeaning": "all along; always; continuously",
@@ -1600,14 +1700,14 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/jat1zik6-continuously.json"
+      "sourceFile": "r2-backup/words/jat1zik6-all-along-always-continuously.json"
     },
     {
-      "sentenceId": "jat1zik6-continuously-example-2",
+      "sentenceId": "jat1zik6-all-along-always-continuously-example-2",
       "sentence": "佢一直努力工作。",
       "jyutping": "keoi5 jat1 zik6 nou5 lik6 gung1 zok3",
       "meaning": "He has been working hard continuously.",
-      "sourceWordId": "jat1zik6-continuously",
+      "sourceWordId": "jat1zik6-all-along-always-continuously",
       "sourceWord": "一直",
       "sourceWordJyutping": "jat1 zik6",
       "sourceWordMeaning": "all along; always; continuously",
@@ -1616,7 +1716,7 @@
         "level-2",
         "time"
       ],
-      "sourceFile": "r2-backup/words/jat1zik6-continuously.json"
+      "sourceFile": "r2-backup/words/jat1zik6-all-along-always-continuously.json"
     },
     {
       "sentenceId": "dat6jin4-suddenly-example-1",
@@ -1683,11 +1783,11 @@
       "sourceFile": "r2-backup/words/maan6maan6-slowly.json"
     },
     {
-      "sentenceId": "dei6fong1-place-example-1",
+      "sentenceId": "dei6fong1-place-location-example-1",
       "sentence": "呢個地方好靚。",
       "jyutping": "ni1 go3 dei6 fong1 hou2 leng3",
       "meaning": "This place is very beautiful.",
-      "sourceWordId": "dei6fong1-place",
+      "sourceWordId": "dei6fong1-place-location",
       "sourceWord": "地方",
       "sourceWordJyutping": "dei6 fong1",
       "sourceWordMeaning": "place; location",
@@ -1696,14 +1796,14 @@
         "level-2",
         "location"
       ],
-      "sourceFile": "r2-backup/words/dei6fong1-place.json"
+      "sourceFile": "r2-backup/words/dei6fong1-place-location.json"
     },
     {
-      "sentenceId": "dei6fong1-place-example-2",
+      "sentenceId": "dei6fong1-place-location-example-2",
       "sentence": "你知唔知呢個地方？",
       "jyutping": "nei5 zi1 m4 zi1 ni1 go3 dei6 fong1",
       "meaning": "Do you know this place?",
-      "sourceWordId": "dei6fong1-place",
+      "sourceWordId": "dei6fong1-place-location",
       "sourceWord": "地方",
       "sourceWordJyutping": "dei6 fong1",
       "sourceWordMeaning": "place; location",
@@ -1712,14 +1812,14 @@
         "level-2",
         "location"
       ],
-      "sourceFile": "r2-backup/words/dei6fong1-place.json"
+      "sourceFile": "r2-backup/words/dei6fong1-place-location.json"
     },
     {
-      "sentenceId": "fu6gan6-nearby-example-1",
+      "sentenceId": "fu6gan6-nearby-in-the-vicinity-example-1",
       "sentence": "附近有冇餐廳？",
       "jyutping": "fu6 gan6 jau5 mou5 caan1 teng1",
       "meaning": "Are there any restaurants nearby?",
-      "sourceWordId": "fu6gan6-nearby",
+      "sourceWordId": "fu6gan6-nearby-in-the-vicinity",
       "sourceWord": "附近",
       "sourceWordJyutping": "fu6 gan6",
       "sourceWordMeaning": "nearby; in the vicinity",
@@ -1729,14 +1829,14 @@
         "level-2",
         "location"
       ],
-      "sourceFile": "r2-backup/words/fu6gan6-nearby.json"
+      "sourceFile": "r2-backup/words/fu6gan6-nearby-in-the-vicinity.json"
     },
     {
-      "sentenceId": "fu6gan6-nearby-example-2",
+      "sentenceId": "fu6gan6-nearby-in-the-vicinity-example-2",
       "sentence": "我住喺附近。",
       "jyutping": "ngo5 zyu6 hai2 fu6 gan6",
       "meaning": "I live nearby.",
-      "sourceWordId": "fu6gan6-nearby",
+      "sourceWordId": "fu6gan6-nearby-in-the-vicinity",
       "sourceWord": "附近",
       "sourceWordJyutping": "fu6 gan6",
       "sourceWordMeaning": "nearby; in the vicinity",
@@ -1746,166 +1846,166 @@
         "level-2",
         "location"
       ],
-      "sourceFile": "r2-backup/words/fu6gan6-nearby.json"
+      "sourceFile": "r2-backup/words/fu6gan6-nearby-in-the-vicinity.json"
     },
     {
       "sentenceId": "gan6-near-example-1",
-      "sentence": "我屋企好近地鐵站。",
-      "jyutping": "ngo5 uk1 kei2 hou2 gan6 dei6 tit3 zaam6.",
-      "meaning": "My home is very near the MTR station.",
+      "sentence": "我屋企近學校。",
+      "jyutping": "ngo5 uk1 kei2 gan6 hok6 haau6.",
+      "meaning": "My home is near the school.",
       "sourceWordId": "gan6-near",
       "sourceWord": "近",
       "sourceWordJyutping": "gan6",
       "sourceWordMeaning": "near",
       "tags": [
-        "distance",
         "location",
+        "distance",
         "time",
+        "common",
         "basic",
-        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gan6-near.json"
     },
     {
       "sentenceId": "gan6-near-example-2",
-      "sentence": "你喺邊度？我喺公司附近，好近嘅。",
-      "jyutping": "nei5 hai2 bin1 dou6? ngo5 hai2 gung1 si1 fu6 gan6, hou2 gan6 ge3.",
-      "meaning": "Where are you? I'm near the company, very close.",
+      "sentence": "餐廳唔近，行路要十五分鐘。",
+      "jyutping": "caan1 teng1 m4 gan6, haang4 lou6 jiu3 sap6 ng5 fan1 zung1.",
+      "meaning": "The restaurant is not near; it takes fifteen minutes to walk.",
       "sourceWordId": "gan6-near",
       "sourceWord": "近",
       "sourceWordJyutping": "gan6",
       "sourceWordMeaning": "near",
       "tags": [
-        "distance",
         "location",
+        "distance",
         "time",
+        "common",
         "basic",
-        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gan6-near.json"
     },
     {
       "sentenceId": "gan6-near-example-3",
-      "sentence": "聖誕節快到喇，好近啦。",
-      "jyutping": "sing3 daan3 zit3 faai3 dou3 laa3, hou2 gan6 laa1.",
-      "meaning": "Christmas is coming soon, it's near.",
+      "sentence": "你屋企近邊度？",
+      "jyutping": "nei5 uk1 kei2 gan6 bin1 dou6?",
+      "meaning": "Where is your home near?",
       "sourceWordId": "gan6-near",
       "sourceWord": "近",
       "sourceWordJyutping": "gan6",
       "sourceWordMeaning": "near",
       "tags": [
-        "distance",
         "location",
+        "distance",
         "time",
+        "common",
         "basic",
-        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gan6-near.json"
     },
     {
       "sentenceId": "gan6-near-example-4",
-      "sentence": "我哋嘅客廳近窗口，光線好多。",
-      "jyutping": "ngo5 dei6 ge3 haak3 teng1 gan6 coeng1 hau2, gwong1 sin3 hou2 do1.",
-      "meaning": "Our living room is near the window, lots of light.",
+      "sentence": "比賽近咗，下星期就開始。",
+      "jyutping": "bei2 coi3 gan6 zo2, haa6 sing1 kei4 zau6 hoi1 ci2.",
+      "meaning": "The competition is near, it starts next week.",
       "sourceWordId": "gan6-near",
       "sourceWord": "近",
       "sourceWordJyutping": "gan6",
       "sourceWordMeaning": "near",
       "tags": [
-        "distance",
         "location",
+        "distance",
         "time",
+        "common",
         "basic",
-        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gan6-near.json"
     },
     {
       "sentenceId": "jyun5-far-example-1",
-      "sentence": "我屋企好遠，要搭車先到。",
-      "jyutping": "ngo5 uk1 kei2 hou2 jyun5, jiu3 daap3 ce1 sin1 dou3.",
-      "meaning": "My home is far, I need to take a bus first to get there.",
+      "sentence": "呢座商場好遠。",
+      "jyutping": "ni1 zo6 soeng1 coeng4 hou2 jyun5.",
+      "meaning": "This shopping mall is very far.",
       "sourceWordId": "jyun5-far",
       "sourceWord": "遠",
       "sourceWordJyutping": "jyun5",
       "sourceWordMeaning": "far",
       "tags": [
         "distance",
-        "locations",
-        "travel",
-        "basic vocabulary",
-        "describing length",
+        "location",
+        "basic",
+        "adjective",
+        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyun5-far.json"
     },
     {
       "sentenceId": "jyun5-far-example-2",
-      "sentence": "距離呢度太遠，我唔想行。",
-      "jyutping": "geoi3 lei6 ni1 dou6 taai3 jyun5, ngo5 m4 soeng2 haang4.",
-      "meaning": "The distance from here is too far, I don't want to walk.",
+      "sentence": "我哋屋企遠過學校。",
+      "jyutping": "ngo5 dei6 uk1 kei2 jyun5 gwo3 hok6 haau6.",
+      "meaning": "Our home is farther than the school.",
       "sourceWordId": "jyun5-far",
       "sourceWord": "遠",
       "sourceWordJyutping": "jyun5",
       "sourceWordMeaning": "far",
       "tags": [
         "distance",
-        "locations",
-        "travel",
-        "basic vocabulary",
-        "describing length",
+        "location",
+        "basic",
+        "adjective",
+        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyun5-far.json"
     },
     {
       "sentenceId": "jyun5-far-example-3",
-      "sentence": "你住邊度？係唔係好遠？",
-      "jyutping": "nei5 zyu6 bin1 dou6? hai6 m4 hai6 hou2 jyun5?",
-      "meaning": "Where do you live? Is it very far?",
+      "sentence": "你屋企遠唔遠？",
+      "jyutping": "nei5 uk1 kei2 jyun5 m4 jyun5?",
+      "meaning": "Is your home far?",
       "sourceWordId": "jyun5-far",
       "sourceWord": "遠",
       "sourceWordJyutping": "jyun5",
       "sourceWordMeaning": "far",
       "tags": [
         "distance",
-        "locations",
-        "travel",
-        "basic vocabulary",
-        "describing length",
+        "location",
+        "basic",
+        "adjective",
+        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyun5-far.json"
     },
     {
       "sentenceId": "jyun5-far-example-4",
-      "sentence": "坐火車去嗰邊比較快，因為唔係好遠。",
-      "jyutping": "co5 fo2 ce1 heoi3 go2 bin1 bei2 gaau3 faai3, jan1 wai6 m4 hai6 hou2 jyun5.",
-      "meaning": "Taking the train to that side is faster because it’s not very far.",
+      "sentence": "佢遲咗，因為路太遠。",
+      "jyutping": "keoi5 ci4 zo2, jan1 wai6 lou6 taai3 jyun5.",
+      "meaning": "He is late because the distance is too far.",
       "sourceWordId": "jyun5-far",
       "sourceWord": "遠",
       "sourceWordJyutping": "jyun5",
       "sourceWordMeaning": "far",
       "tags": [
         "distance",
-        "locations",
-        "travel",
-        "basic vocabulary",
-        "describing length",
+        "location",
+        "basic",
+        "adjective",
+        "everyday",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyun5-far.json"
     },
     {
-      "sentenceId": "faan1gung1-go-work-example-1",
+      "sentenceId": "faan1gung1-to-go-to-work-to-be-at-work-example-1",
       "sentence": "我今日要返工。",
       "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1",
       "meaning": "I have to go to work today.",
-      "sourceWordId": "faan1gung1-go-work",
+      "sourceWordId": "faan1gung1-to-go-to-work-to-be-at-work",
       "sourceWord": "返工",
       "sourceWordJyutping": "faan1 gung1",
       "sourceWordMeaning": "to go to work; to be at work",
@@ -1915,14 +2015,14 @@
         "daily-life",
         "work"
       ],
-      "sourceFile": "r2-backup/words/faan1gung1-go-work.json"
+      "sourceFile": "r2-backup/words/faan1gung1-to-go-to-work-to-be-at-work.json"
     },
     {
-      "sentenceId": "faan1gung1-go-work-example-2",
+      "sentenceId": "faan1gung1-to-go-to-work-to-be-at-work-example-2",
       "sentence": "佢已經返工喇。",
       "jyutping": "keoi5 ji5 ging1 faan1 gung1 laa3",
       "meaning": "He/She has already gone to work.",
-      "sourceWordId": "faan1gung1-go-work",
+      "sourceWordId": "faan1gung1-to-go-to-work-to-be-at-work",
       "sourceWord": "返工",
       "sourceWordJyutping": "faan1 gung1",
       "sourceWordMeaning": "to go to work; to be at work",
@@ -1932,196 +2032,250 @@
         "daily-life",
         "work"
       ],
-      "sourceFile": "r2-backup/words/faan1gung1-go-work.json"
+      "sourceFile": "r2-backup/words/faan1gung1-to-go-to-work-to-be-at-work.json"
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-1",
-      "sentence": "我今晚六點放工。",
-      "jyutping": "ngo5 gam1 maan5 luk6 dim2 fong3 gung1.",
-      "meaning": "I finish work at six o'clock tonight.",
+      "sentence": "我今日六點放工。",
+      "jyutping": "ngo5 gam1jat6 luk6 dim2 fong3 gung1.",
+      "meaning": "I finish work at 6 today.",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-2",
-      "sentence": "你放工後想飲啲咩？",
-      "jyutping": "nei5 fong3 gung1 hau6 soeng2 jam2 di1 me1?",
-      "meaning": "What do you want to drink after finishing work?",
+      "sentence": "你幾點放工呀？",
+      "jyutping": "nei5 gei2 dim2 fong3 gung1 aa3?",
+      "meaning": "What time do you finish work?",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-3",
-      "sentence": "佢每日放工都好攰。",
-      "jyutping": "keoi5 mui5 jat6 fong3 gung1 dou1 hou2 gui6.",
-      "meaning": "He is very tired every day after finishing work.",
+      "sentence": "我哋放工之後去食飯。",
+      "jyutping": "ngo5dei6 fong3 gung1 zi1 hau6 heoi3 sik6 faan6.",
+      "meaning": "We’re going to eat after work.",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-4",
-      "sentence": "放工就去食飯啦！",
-      "jyutping": "fong3 gung1 zau6 heoi3 sik6 faan6 laa1!",
-      "meaning": "Let's go eat after finishing work!",
+      "sentence": "佢啱啱放工，仲未食飯。",
+      "jyutping": "keoi5 aam1 aam1 fong3 gung1, zung6 mei6 sik6 faan6.",
+      "meaning": "He just finished work and hasn’t eaten yet.",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
     },
     {
       "sentenceId": "hoi1wui6-meeting-example-1",
-      "sentence": "我哋而家開會。",
-      "jyutping": "ngo5 dei6 ji4 gaa1 hoi1 wui6",
-      "meaning": "We are having a meeting now.",
+      "sentence": "我哋今日下午三點開會。",
+      "jyutping": "ngo5 dei6 gam1 jat6 ngaa5 hau6 saam1 dim2 hoi1 wui6.",
+      "meaning": "We have a meeting at 3 p.m. today.",
       "sourceWordId": "hoi1wui6-meeting",
       "sourceWord": "開會",
       "sourceWordJyutping": "hoi1 wui6",
-      "sourceWordMeaning": "to have a meeting; to hold a meeting",
+      "sourceWordMeaning": "meeting",
       "tags": [
-        "verb",
-        "level-2",
-        "work",
-        "office"
+        "business",
+        "office",
+        "workplace",
+        "meeting",
+        "formal",
+        "everyday Cantonese",
+        "level-1"
       ],
       "sourceFile": "r2-backup/words/hoi1wui6-meeting.json"
     },
     {
       "sentenceId": "hoi1wui6-meeting-example-2",
-      "sentence": "下晝三點開會。",
-      "jyutping": "haa6 zau3 saam1 dim2 hoi1 wui6",
-      "meaning": "The meeting is at 3 p.m. this afternoon.",
+      "sentence": "老細叫我聽日去開會。",
+      "jyutping": "lou5 sai3 giu3 ngo5 ting1 jat6 heoi3 hoi1 wui6.",
+      "meaning": "The boss asked me to go to a meeting tomorrow.",
       "sourceWordId": "hoi1wui6-meeting",
       "sourceWord": "開會",
       "sourceWordJyutping": "hoi1 wui6",
-      "sourceWordMeaning": "to have a meeting; to hold a meeting",
+      "sourceWordMeaning": "meeting",
       "tags": [
-        "verb",
-        "level-2",
-        "work",
-        "office"
+        "business",
+        "office",
+        "workplace",
+        "meeting",
+        "formal",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi1wui6-meeting.json"
+    },
+    {
+      "sentenceId": "hoi1wui6-meeting-example-3",
+      "sentence": "佢而家喺會議室開緊會。",
+      "jyutping": "keoi5 ji4 gaa1 hai2 wui6 ji5 sat1 hoi1 gan2 wui6.",
+      "meaning": "He is in the meeting room having a meeting right now.",
+      "sourceWordId": "hoi1wui6-meeting",
+      "sourceWord": "開會",
+      "sourceWordJyutping": "hoi1 wui6",
+      "sourceWordMeaning": "meeting",
+      "tags": [
+        "business",
+        "office",
+        "workplace",
+        "meeting",
+        "formal",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi1wui6-meeting.json"
+    },
+    {
+      "sentenceId": "hoi1wui6-meeting-example-4",
+      "sentence": "星期一朝早通常要開會。",
+      "jyutping": "sing1 kei4 jat1 ciu4 zou2 tung1 soeng4 jiu3 hoi1 wui6.",
+      "meaning": "Monday mornings usually require meetings.",
+      "sourceWordId": "hoi1wui6-meeting",
+      "sourceWord": "開會",
+      "sourceWordJyutping": "hoi1 wui6",
+      "sourceWordMeaning": "meeting",
+      "tags": [
+        "business",
+        "office",
+        "workplace",
+        "meeting",
+        "formal",
+        "everyday Cantonese",
+        "level-1"
       ],
       "sourceFile": "r2-backup/words/hoi1wui6-meeting.json"
     },
     {
       "sentenceId": "leoi5hang4-travel-example-1",
-      "sentence": "我下個月想去旅行。",
-      "jyutping": "ngo5 haa6 go3 jyut6 soeng2 heoi3 leoi5 hang4",
-      "meaning": "I want to go traveling next month.",
+      "sentence": "我下個月去日本旅行。",
+      "jyutping": "ngo5 haa6 go3 jyut6 go3 jyut6 heoi3 jat6 bun2 leoi5 hang4.",
+      "meaning": "I’m going to Japan next month for a trip.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
       "sentenceId": "leoi5hang4-travel-example-2",
-      "sentence": "旅行可以幫助放鬆心情。",
-      "jyutping": "leoi5 hang4 ho2 ji5 bong1 zo6 fong3 sung1 sam1 cing4",
-      "meaning": "Traveling can help relax your mood.",
+      "sentence": "佢好鍾意同朋友一齊旅行。",
+      "jyutping": "keoi5 hou2 zung1 ji3 tung4 pang4 jau5 jat1 cai4 leoi5 hang4.",
+      "meaning": "He really likes travelling with friends.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
       "sentenceId": "leoi5hang4-travel-example-3",
-      "sentence": "佢成日都喺度計劃旅行。",
-      "jyutping": "keoi5 sing4 jat6 dou1 hai2 dou6 gai3 waak6 leoi5 hang4",
-      "meaning": "He is always planning trips.",
+      "sentence": "暑假我哋計劃去歐洲旅行。",
+      "jyutping": "syu2 gaa3 ngo5 dei6 gai3 waak6 heoi3 au1 zau1 leoi5 hang4.",
+      "meaning": "We’re planning to travel to Europe during the summer holiday.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
       "sentenceId": "leoi5hang4-travel-example-4",
-      "sentence": "我哋嘅旅行好充實。",
-      "jyutping": "ngo5 dei6 ge3 leoi5 hang4 hou2 cung1 sat6",
-      "meaning": "Our trip was very fulfilling.",
+      "sentence": "長途旅行最好早啲準備。",
+      "jyutping": "coeng4 tou4 leoi5 hang4 zeoi3 hou2 zou2 di1 zeon2 bei6.",
+      "meaning": "For long-distance travel, it’s best to prepare early.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-1",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-1",
       "sentence": "我哋假期會去旅行。",
       "jyutping": "ngo5 dei6 gaa3 kei4 wui5 heoi3 leoi5 hang4.",
       "meaning": "We will travel during the holiday.",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -2133,14 +2287,14 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-2",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-2",
       "sentence": "今年個假期好短。",
       "jyutping": "gam1 nin4 go3 gaa3 kei4 hou2 dyun2.",
       "meaning": "This year's holiday is very short.",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -2152,14 +2306,14 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-3",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-3",
       "sentence": "假期我會休息。",
       "jyutping": "gaa3 kei4 ngo5 wui5 jau1 sik1.",
       "meaning": "I will rest during the holiday.",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -2171,14 +2325,14 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-4",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-4",
       "sentence": "你假期想做咩？",
       "jyutping": "nei5 gaa3 kei4 soeng2 zou6 me1?",
       "meaning": "What do you want to do during the holiday?",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -2190,14 +2344,14 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
-      "sentenceId": "ziu3gu3-take-care-example-1",
+      "sentenceId": "ziu3gu3-to-take-care-of-to-look-after-example-1",
       "sentence": "佢要照顧小朋友。",
       "jyutping": "keoi5 jiu3 ziu3 gu3 siu2 pang4 jau5",
       "meaning": "He/She needs to take care of the children.",
-      "sourceWordId": "ziu3gu3-take-care",
+      "sourceWordId": "ziu3gu3-to-take-care-of-to-look-after",
       "sourceWord": "照顧",
       "sourceWordJyutping": "ziu3 gu3",
       "sourceWordMeaning": "to take care of; to look after",
@@ -2208,14 +2362,14 @@
         "family",
         "care"
       ],
-      "sourceFile": "r2-backup/words/ziu3gu3-take-care.json"
+      "sourceFile": "r2-backup/words/ziu3gu3-to-take-care-of-to-look-after.json"
     },
     {
-      "sentenceId": "ziu3gu3-take-care-example-2",
+      "sentenceId": "ziu3gu3-to-take-care-of-to-look-after-example-2",
       "sentence": "多謝你照顧我。",
       "jyutping": "do1 ze6 nei5 ziu3 gu3 ngo5",
       "meaning": "Thank you for taking care of me.",
-      "sourceWordId": "ziu3gu3-take-care",
+      "sourceWordId": "ziu3gu3-to-take-care-of-to-look-after",
       "sourceWord": "照顧",
       "sourceWordJyutping": "ziu3 gu3",
       "sourceWordMeaning": "to take care of; to look after",
@@ -2226,14 +2380,14 @@
         "family",
         "care"
       ],
-      "sourceFile": "r2-backup/words/ziu3gu3-take-care.json"
+      "sourceFile": "r2-backup/words/ziu3gu3-to-take-care-of-to-look-after.json"
     },
     {
-      "sentenceId": "maa4faan4-bother-example-1",
+      "sentenceId": "maa4faan4-to-bother-to-trouble-please-polite-request-example-1",
       "sentence": "麻煩你幫手。",
       "jyutping": "maa4 faan4 nei5 bong1 sau2",
       "meaning": "Please help me.",
-      "sourceWordId": "maa4faan4-bother",
+      "sourceWordId": "maa4faan4-to-bother-to-trouble-please-polite-request",
       "sourceWord": "麻煩",
       "sourceWordJyutping": "maa4 faan4",
       "sourceWordMeaning": "to bother; to trouble; please (polite request)",
@@ -2243,14 +2397,14 @@
         "daily-life",
         "polite"
       ],
-      "sourceFile": "r2-backup/words/maa4faan4-bother.json"
+      "sourceFile": "r2-backup/words/maa4faan4-to-bother-to-trouble-please-polite-request.json"
     },
     {
-      "sentenceId": "maa4faan4-bother-example-2",
+      "sentenceId": "maa4faan4-to-bother-to-trouble-please-polite-request-example-2",
       "sentence": "唔好麻煩到你。",
       "jyutping": "m4 hou2 maa4 faan4 dou3 nei5",
       "meaning": "I don’t want to trouble you.",
-      "sourceWordId": "maa4faan4-bother",
+      "sourceWordId": "maa4faan4-to-bother-to-trouble-please-polite-request",
       "sourceWord": "麻煩",
       "sourceWordJyutping": "maa4 faan4",
       "sourceWordMeaning": "to bother; to trouble; please (polite request)",
@@ -2260,7 +2414,7 @@
         "daily-life",
         "polite"
       ],
-      "sourceFile": "r2-backup/words/maa4faan4-bother.json"
+      "sourceFile": "r2-backup/words/maa4faan4-to-bother-to-trouble-please-polite-request.json"
     },
     {
       "sentenceId": "jyu4gwo2-if-example-1",
@@ -2297,11 +2451,11 @@
       "sourceFile": "r2-backup/words/jyu4gwo2-if.json"
     },
     {
-      "sentenceId": "jan1wai6-because-example-1",
+      "sentenceId": "jan1wai6-because-due-to-example-1",
       "sentence": "因為我今日好攰，所以想早啲瞓。",
       "jyutping": "jan1 wai6 ngo5 gam1 jat6 hou2 gui6 so2 ji5 soeng2 zou2 di1 fan3",
       "meaning": "Because I’m really tired today, I want to sleep earlier.",
-      "sourceWordId": "jan1wai6-because",
+      "sourceWordId": "jan1wai6-because-due-to",
       "sourceWord": "因為",
       "sourceWordJyutping": "jan1 wai6",
       "sourceWordMeaning": "because; due to",
@@ -2311,14 +2465,14 @@
         "connector",
         "common"
       ],
-      "sourceFile": "r2-backup/words/jan1wai6-because.json"
+      "sourceFile": "r2-backup/words/jan1wai6-because-due-to.json"
     },
     {
-      "sentenceId": "jan1wai6-because-example-2",
+      "sentenceId": "jan1wai6-because-due-to-example-2",
       "sentence": "我唔去喇，因為我聽日要返工。",
       "jyutping": "ngo5 m4 heoi3 laa3 jan1 wai6 ngo5 ting1 jat6 jiu3 faan1 gung1",
       "meaning": "I’m not going, because I have to work tomorrow.",
-      "sourceWordId": "jan1wai6-because",
+      "sourceWordId": "jan1wai6-because-due-to",
       "sourceWord": "因為",
       "sourceWordJyutping": "jan1 wai6",
       "sourceWordMeaning": "because; due to",
@@ -2328,14 +2482,14 @@
         "connector",
         "common"
       ],
-      "sourceFile": "r2-backup/words/jan1wai6-because.json"
+      "sourceFile": "r2-backup/words/jan1wai6-because-due-to.json"
     },
     {
-      "sentenceId": "so2ji5-therefore-example-1",
+      "sentenceId": "so2ji5-therefore-so-example-1",
       "sentence": "我今日好攰，所以想早啲瞓。",
       "jyutping": "ngo5 gam1 jat6 hou2 gui6 so2 ji5 soeng2 zou2 di1 fan3",
       "meaning": "I’m very tired today, so I want to sleep earlier.",
-      "sourceWordId": "so2ji5-therefore",
+      "sourceWordId": "so2ji5-therefore-so",
       "sourceWord": "所以",
       "sourceWordJyutping": "so2 ji5",
       "sourceWordMeaning": "therefore; so",
@@ -2345,14 +2499,14 @@
         "connector",
         "common"
       ],
-      "sourceFile": "r2-backup/words/so2ji5-therefore.json"
+      "sourceFile": "r2-backup/words/so2ji5-therefore-so.json"
     },
     {
-      "sentenceId": "so2ji5-therefore-example-2",
+      "sentenceId": "so2ji5-therefore-so-example-2",
       "sentence": "落雨，所以我哋留喺屋企。",
       "jyutping": "lok6 jyu5 so2 ji5 ngo5 dei6 lau4 hai2 uk1 kei2",
       "meaning": "It’s raining, so we’re staying at home.",
-      "sourceWordId": "so2ji5-therefore",
+      "sourceWordId": "so2ji5-therefore-so",
       "sourceWord": "所以",
       "sourceWordJyutping": "so2 ji5",
       "sourceWordMeaning": "therefore; so",
@@ -2362,14 +2516,14 @@
         "connector",
         "common"
       ],
-      "sourceFile": "r2-backup/words/so2ji5-therefore.json"
+      "sourceFile": "r2-backup/words/so2ji5-therefore-so.json"
     },
     {
-      "sentenceId": "seoi1jin4-although-example-1",
+      "sentenceId": "seoi1jin4-although-even-though-example-1",
       "sentence": "雖然落雨，但係我都要出街。",
       "jyutping": "seoi1 jin4 lok6 jyu5 daan6 hai6 ngo5 dou1 jiu3 ceot1 gaai1",
       "meaning": "Although it’s raining, I still have to go out.",
-      "sourceWordId": "seoi1jin4-although",
+      "sourceWordId": "seoi1jin4-although-even-though",
       "sourceWord": "雖然",
       "sourceWordJyutping": "seoi1 jin4",
       "sourceWordMeaning": "although; even though",
@@ -2379,14 +2533,14 @@
         "connector",
         "common"
       ],
-      "sourceFile": "r2-backup/words/seoi1jin4-although.json"
+      "sourceFile": "r2-backup/words/seoi1jin4-although-even-though.json"
     },
     {
-      "sentenceId": "seoi1jin4-although-example-2",
+      "sentenceId": "seoi1jin4-although-even-though-example-2",
       "sentence": "雖然佢好忙，佢都抽時間幫我。",
       "jyutping": "seoi1 jin4 keoi5 hou2 mong4 keoi5 dou1 cau1 si4 gaan3 bong1 ngo5",
       "meaning": "Although he’s very busy, he still makes time to help me.",
-      "sourceWordId": "seoi1jin4-although",
+      "sourceWordId": "seoi1jin4-although-even-though",
       "sourceWord": "雖然",
       "sourceWordJyutping": "seoi1 jin4",
       "sourceWordMeaning": "although; even though",
@@ -2396,14 +2550,14 @@
         "connector",
         "common"
       ],
-      "sourceFile": "r2-backup/words/seoi1jin4-although.json"
+      "sourceFile": "r2-backup/words/seoi1jin4-although-even-though.json"
     },
     {
-      "sentenceId": "daan6hai6-but-example-1",
+      "sentenceId": "daan6hai6-but-however-spoken-example-1",
       "sentence": "我知道你嘅意思，但係我都有自己嘅諗法。",
       "jyutping": "ngo5 zi1 dou3 nei5 ge3 ji3 si1, daan6 hai6 ngo5 dou1 jau5 zi6 gei2 ge3 nam2 faat3.",
       "meaning": "I understand your point, but I also have my own way of thinking.",
-      "sourceWordId": "daan6hai6-but",
+      "sourceWordId": "daan6hai6-but-however-spoken",
       "sourceWord": "但係",
       "sourceWordJyutping": "daan6 hai6",
       "sourceWordMeaning": "but / however (spoken)",
@@ -2415,14 +2569,14 @@
         "spoken Cantonese",
         "level-5"
       ],
-      "sourceFile": "r2-backup/words/daan6hai6-but.json"
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
     },
     {
-      "sentenceId": "daan6hai6-but-example-2",
+      "sentenceId": "daan6hai6-but-however-spoken-example-2",
       "sentence": "我哋想去戲院，但係而家時間唔夠。",
       "jyutping": "ngo5 dei6 soeng2 heoi3 hei3 jyun2, daan6 hai6 ji4 gaa1 si4 gaan3 m4 gau3.",
       "meaning": "We want to go to the cinema, but we don’t have enough time now.",
-      "sourceWordId": "daan6hai6-but",
+      "sourceWordId": "daan6hai6-but-however-spoken",
       "sourceWord": "但係",
       "sourceWordJyutping": "daan6 hai6",
       "sourceWordMeaning": "but / however (spoken)",
@@ -2434,14 +2588,14 @@
         "spoken Cantonese",
         "level-5"
       ],
-      "sourceFile": "r2-backup/words/daan6hai6-but.json"
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
     },
     {
-      "sentenceId": "daan6hai6-but-example-3",
+      "sentenceId": "daan6hai6-but-however-spoken-example-3",
       "sentence": "呢件事好重要，但係唔使太緊張。",
       "jyutping": "ni1 gin6 si6 hou2 zung6 jiu3, daan6 hai6 m4 sai2 taai3 gan2 zoeng1.",
       "meaning": "This matter is important, but there's no need to be too nervous.",
-      "sourceWordId": "daan6hai6-but",
+      "sourceWordId": "daan6hai6-but-however-spoken",
       "sourceWord": "但係",
       "sourceWordJyutping": "daan6 hai6",
       "sourceWordMeaning": "but / however (spoken)",
@@ -2453,14 +2607,14 @@
         "spoken Cantonese",
         "level-5"
       ],
-      "sourceFile": "r2-backup/words/daan6hai6-but.json"
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
     },
     {
-      "sentenceId": "daan6hai6-but-example-4",
+      "sentenceId": "daan6hai6-but-however-spoken-example-4",
       "sentence": "我明白你嘅困難，但係我未必可以幫到你。",
       "jyutping": "ngo5 ming4 baak6 nei5 ge3 kwan3 naan4, daan6 hai6 ngo5 mei6 bat1 ho2 ji5 bong1 dou3 nei5.",
       "meaning": "I understand your difficulties, but I may not be able to help you.",
-      "sourceWordId": "daan6hai6-but",
+      "sourceWordId": "daan6hai6-but-however-spoken",
       "sourceWord": "但係",
       "sourceWordJyutping": "daan6 hai6",
       "sourceWordMeaning": "but / however (spoken)",
@@ -2472,14 +2626,14 @@
         "spoken Cantonese",
         "level-5"
       ],
-      "sourceFile": "r2-backup/words/daan6hai6-but.json"
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
     },
     {
-      "sentenceId": "caa1m4do1-almost-example-1",
+      "sentenceId": "caa1m4do1-almost-nearly-about-the-same-example-1",
       "sentence": "就快食完喇，差唔多喇。",
       "jyutping": "zau6 faai3 sik6 jyun4 laa3, caa1 m4 do1 laa3.",
       "meaning": "I’m almost finished eating.",
-      "sourceWordId": "caa1m4do1-almost",
+      "sourceWordId": "caa1m4do1-almost-nearly-about-the-same",
       "sourceWord": "差唔多",
       "sourceWordJyutping": "caa1 m4 do1",
       "sourceWordMeaning": "almost; nearly; about the same",
@@ -2489,14 +2643,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/caa1m4do1-almost.json"
+      "sourceFile": "r2-backup/words/caa1m4do1-almost-nearly-about-the-same.json"
     },
     {
-      "sentenceId": "caa1m4do1-almost-example-2",
+      "sentenceId": "caa1m4do1-almost-nearly-about-the-same-example-2",
       "sentence": "我哋差唔多同一時間到。",
       "jyutping": "ngo5 dei6 caa1 m4 do1 tung4 jat1 si4 gaan3 dou3.",
       "meaning": "We arrived at almost the same time.",
-      "sourceWordId": "caa1m4do1-almost",
+      "sourceWordId": "caa1m4do1-almost-nearly-about-the-same",
       "sourceWord": "差唔多",
       "sourceWordJyutping": "caa1 m4 do1",
       "sourceWordMeaning": "almost; nearly; about the same",
@@ -2506,14 +2660,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/caa1m4do1-almost.json"
+      "sourceFile": "r2-backup/words/caa1m4do1-almost-nearly-about-the-same.json"
     },
     {
-      "sentenceId": "caa1m4do1-almost-example-3",
+      "sentenceId": "caa1m4do1-almost-nearly-about-the-same-example-3",
       "sentence": "而家差唔多十點喇。",
       "jyutping": "ji4 gaa1 caa1 m4 do1 sap6 dim2 laa3.",
       "meaning": "It’s almost ten o’clock now.",
-      "sourceWordId": "caa1m4do1-almost",
+      "sourceWordId": "caa1m4do1-almost-nearly-about-the-same",
       "sourceWord": "差唔多",
       "sourceWordJyutping": "caa1 m4 do1",
       "sourceWordMeaning": "almost; nearly; about the same",
@@ -2523,14 +2677,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/caa1m4do1-almost.json"
+      "sourceFile": "r2-backup/words/caa1m4do1-almost-nearly-about-the-same.json"
     },
     {
-      "sentenceId": "caa1m4do1-almost-example-4",
+      "sentenceId": "caa1m4do1-almost-nearly-about-the-same-example-4",
       "sentence": "呢兩件衫差唔多價錢。",
       "jyutping": "ni1 loeng5 gin6 saam1 caa1 m4 do1 gaa3 cin4.",
       "meaning": "These two clothes are about the same price.",
-      "sourceWordId": "caa1m4do1-almost",
+      "sourceWordId": "caa1m4do1-almost-nearly-about-the-same",
       "sourceWord": "差唔多",
       "sourceWordJyutping": "caa1 m4 do1",
       "sourceWordMeaning": "almost; nearly; about the same",
@@ -2540,48 +2694,48 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/caa1m4do1-almost.json"
+      "sourceFile": "r2-backup/words/caa1m4do1-almost-nearly-about-the-same.json"
     },
     {
-      "sentenceId": "gang3gaa1-more-example-1",
+      "sentenceId": "gang3gaa1-even-more-to-a-greater-extent-all-the-more-example-1",
       "sentence": "天氣凍咗，今晚會更加凍。",
-      "jyutping": "tin1 hei3 dung3 zo2 gam1 maan5 wui5 gang3 gaa1 dung3",
-      "meaning": "The weather has got cold; tonight it will be even colder.",
-      "sourceWordId": "gang3gaa1-more",
+      "jyutping": "tin1 hei3 dung3 zo2, gam1 maan5 wui5 gang3 gaa1 dung3.",
+      "meaning": "The weather has turned cold; it will be even colder tonight.",
+      "sourceWordId": "gang3gaa1-even-more-to-a-greater-extent-all-the-more",
       "sourceWord": "更加",
       "sourceWordJyutping": "gang3 gaa1",
-      "sourceWordMeaning": "more; even more; to a greater extent",
+      "sourceWordMeaning": "even more; to a greater extent; all the more",
       "tags": [
         "level-2",
         "degree",
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/gang3gaa1-more.json"
+      "sourceFile": "r2-backup/words/gang3gaa1-even-more-to-a-greater-extent-all-the-more.json"
     },
     {
-      "sentenceId": "gang3gaa1-more-example-2",
+      "sentenceId": "gang3gaa1-even-more-to-a-greater-extent-all-the-more-example-2",
       "sentence": "練多啲，你會更加熟手。",
-      "jyutping": "lin6 do1 di1 nei5 wui5 gang3 gaa1 suk6 sau2",
-      "meaning": "Practice more and you’ll become even more skilled.",
-      "sourceWordId": "gang3gaa1-more",
+      "jyutping": "lin6 do1 di1, nei5 wui5 gang3 gaa1 suk6 sau2.",
+      "meaning": "Practice more, and you'll become even more skilled.",
+      "sourceWordId": "gang3gaa1-even-more-to-a-greater-extent-all-the-more",
       "sourceWord": "更加",
       "sourceWordJyutping": "gang3 gaa1",
-      "sourceWordMeaning": "more; even more; to a greater extent",
+      "sourceWordMeaning": "even more; to a greater extent; all the more",
       "tags": [
         "level-2",
         "degree",
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/gang3gaa1-more.json"
+      "sourceFile": "r2-backup/words/gang3gaa1-even-more-to-a-greater-extent-all-the-more.json"
     },
     {
-      "sentenceId": "bei2gaau3-compare-example-1",
+      "sentenceId": "bei2gaau3-to-compare-relatively-example-1",
       "sentence": "呢兩個方法可以比較下。",
       "jyutping": "ni1 loeng5 go3 fong1 faat3 ho2 ji5 bei2 gaau3 haa5",
       "meaning": "These two methods can be compared.",
-      "sourceWordId": "bei2gaau3-compare",
+      "sourceWordId": "bei2gaau3-to-compare-relatively",
       "sourceWord": "比較",
       "sourceWordJyutping": "bei2 gaau3",
       "sourceWordMeaning": "to compare; relatively",
@@ -2590,14 +2744,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/bei2gaau3-compare.json"
+      "sourceFile": "r2-backup/words/bei2gaau3-to-compare-relatively.json"
     },
     {
-      "sentenceId": "bei2gaau3-compare-example-2",
+      "sentenceId": "bei2gaau3-to-compare-relatively-example-2",
       "sentence": "今日比較忙，未必有時間。",
       "jyutping": "gam1 jat6 bei2 gaau3 mong4 mei6 bit1 jau5 si4 gaan3",
       "meaning": "Today is relatively busy, so I might not have time.",
-      "sourceWordId": "bei2gaau3-compare",
+      "sourceWordId": "bei2gaau3-to-compare-relatively",
       "sourceWord": "比較",
       "sourceWordJyutping": "bei2 gaau3",
       "sourceWordMeaning": "to compare; relatively",
@@ -2606,14 +2760,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/bei2gaau3-compare.json"
+      "sourceFile": "r2-backup/words/bei2gaau3-to-compare-relatively.json"
     },
     {
-      "sentenceId": "hou2ci5-seems-like-example-1",
+      "sentenceId": "hou2ci5-seems-like-appears-to-be-similar-to-example-1",
       "sentence": "好似就快落雨喇。",
       "jyutping": "hou2 ci5 zau6 faai3 lok6 jyu5 laa3",
       "meaning": "It seems like it’s about to rain.",
-      "sourceWordId": "hou2ci5-seems-like",
+      "sourceWordId": "hou2ci5-seems-like-appears-to-be-similar-to",
       "sourceWord": "好似",
       "sourceWordJyutping": "hou2 ci5",
       "sourceWordMeaning": "seems like; appears to be; similar to",
@@ -2623,14 +2777,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/hou2ci5-seems-like.json"
+      "sourceFile": "r2-backup/words/hou2ci5-seems-like-appears-to-be-similar-to.json"
     },
     {
-      "sentenceId": "hou2ci5-seems-like-example-2",
+      "sentenceId": "hou2ci5-seems-like-appears-to-be-similar-to-example-2",
       "sentence": "佢好似唔係好開心。",
       "jyutping": "keoi5 hou2 ci5 m4 hai6 hou2 hoi1 sam1",
       "meaning": "He seems not very happy.",
-      "sourceWordId": "hou2ci5-seems-like",
+      "sourceWordId": "hou2ci5-seems-like-appears-to-be-similar-to",
       "sourceWord": "好似",
       "sourceWordJyutping": "hou2 ci5",
       "sourceWordMeaning": "seems like; appears to be; similar to",
@@ -2640,14 +2794,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/hou2ci5-seems-like.json"
+      "sourceFile": "r2-backup/words/hou2ci5-seems-like-appears-to-be-similar-to.json"
     },
     {
-      "sentenceId": "jat1joeng6-same-example-1",
+      "sentenceId": "jat1joeng6-same-alike-identical-example-1",
       "sentence": "我哋嘅想法一樣。",
       "jyutping": "ngo5 dei6 ge3 soeng2 faat3 jat1 joeng6",
       "meaning": "We think the same.",
-      "sourceWordId": "jat1joeng6-same",
+      "sourceWordId": "jat1joeng6-same-alike-identical",
       "sourceWord": "一樣",
       "sourceWordJyutping": "jat1 joeng6",
       "sourceWordMeaning": "same; alike; identical",
@@ -2656,14 +2810,14 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/jat1joeng6-same.json"
+      "sourceFile": "r2-backup/words/jat1joeng6-same-alike-identical.json"
     },
     {
-      "sentenceId": "jat1joeng6-same-example-2",
+      "sentenceId": "jat1joeng6-same-alike-identical-example-2",
       "sentence": "呢兩件衫一樣貴。",
       "jyutping": "ni1 loeng5 gin6 saam1 jat1 joeng6 gwai3",
       "meaning": "These two clothes are equally expensive.",
-      "sourceWordId": "jat1joeng6-same",
+      "sourceWordId": "jat1joeng6-same-alike-identical",
       "sourceWord": "一樣",
       "sourceWordJyutping": "jat1 joeng6",
       "sourceWordMeaning": "same; alike; identical",
@@ -2672,7 +2826,7 @@
         "comparison",
         "common"
       ],
-      "sourceFile": "r2-backup/words/jat1joeng6-same.json"
+      "sourceFile": "r2-backup/words/jat1joeng6-same-alike-identical.json"
     }
   ],
   "missingWordFiles": [

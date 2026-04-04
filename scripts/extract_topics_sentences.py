@@ -100,29 +100,11 @@ def dedupe_sentences(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return deduped
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="Extract sentence dojo data for a topic using topic.json and a big word-json directory."
-    )
-    parser.add_argument("topic_file", help="Path to topic JSON file, e.g. animals.json")
-    parser.add_argument("words_dir", help="Directory containing all word JSON files")
-    parser.add_argument("output_file", help="Output JSON file")
-    parser.add_argument("-dedupe", action="store_true", help="Remove duplicate sentences")
-    args = parser.parse_args()
-
-    topic_file = Path(args.topic_file)
-    words_dir = Path(args.words_dir)
-    output_file = Path(args.output_file)
-
-    if not topic_file.exists():
-        raise SystemExit(f"Topic file not found: {topic_file}")
-
-    if not words_dir.exists() or not words_dir.is_dir():
-        raise SystemExit(f"Words directory not found or not a directory: {words_dir}")
-
+def process_topic(topic_file: Path, words_dir: Path, output_file: Path, dedupe: bool) -> None:
     topic_data = load_json(topic_file)
     if not topic_data:
-        raise SystemExit("Could not load topic file.")
+        print(f"Could not load topic file: {topic_file}")
+        return
 
     word_ids = get_word_ids_from_topic(topic_data)
 
@@ -138,7 +120,7 @@ def main() -> None:
 
         rows.extend(extract_sentences_from_word_file(word_file))
 
-    if args.dedupe:
+    if dedupe:
         rows = dedupe_sentences(rows)
 
     payload = {
@@ -150,17 +132,59 @@ def main() -> None:
         "missingWordFiles": missing_files,
     }
 
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+
     with output_file.open("w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
     print(f"Loaded {len(word_ids)} word ids from {topic_file.name}")
     print(f"Extracted {len(rows)} sentences")
     print(f"Missing word files: {len(missing_files)}")
-    
+
     for missing_file in missing_files:
         print(f"Missing word file: {missing_file}")
-    
+
     print(f"Wrote output to {output_file}")
+    print("-" * 60)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Extract sentence dojo data for one topic file or all topic JSON files in a directory."
+    )
+    parser.add_argument("topic_input", help="Path to a topic JSON file or a directory of topic JSON files")
+    parser.add_argument("words_dir", help="Directory containing all word JSON files")
+    parser.add_argument("output_path", help="Output JSON file (single mode) or output directory (directory mode)")
+    parser.add_argument("--dedupe", action="store_true", help="Remove duplicate sentences")
+    args = parser.parse_args()
+
+    topic_input = Path(args.topic_input)
+    words_dir = Path(args.words_dir)
+    output_path = Path(args.output_path)
+
+    if not topic_input.exists():
+        raise SystemExit(f"Topic input not found: {topic_input}")
+
+    if not words_dir.exists() or not words_dir.is_dir():
+        raise SystemExit(f"Words directory not found or not a directory: {words_dir}")
+
+    if topic_input.is_file():
+        process_topic(topic_input, words_dir, output_path, args.dedupe)
+        return
+
+    if topic_input.is_dir():
+        topic_files = sorted(topic_input.glob("*.json"))
+        if not topic_files:
+            raise SystemExit(f"No topic JSON files found in: {topic_input}")
+
+        output_path.mkdir(parents=True, exist_ok=True)
+
+        for topic_file in topic_files:
+            output_file = output_path / f"{topic_file.stem}-sentences.json"
+            process_topic(topic_file, words_dir, output_file, args.dedupe)
+        return
+
+    raise SystemExit(f"Unsupported input path: {topic_input}")
 
 
 if __name__ == "__main__":

@@ -100,29 +100,11 @@ def dedupe_sentences(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return deduped
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="Extract sentence dojo data for a level using level.json and a big word-json directory."
-    )
-    parser.add_argument("level_file", help="Path to level JSON file, e.g. level-1.json")
-    parser.add_argument("words_dir", help="Directory containing all word JSON files")
-    parser.add_argument("output_file", help="Output JSON file")
-    parser.add_argument("-dedupe", action="store_true", help="Remove duplicate sentences")
-    args = parser.parse_args()
-
-    level_file = Path(args.level_file)
-    words_dir = Path(args.words_dir)
-    output_file = Path(args.output_file)
-
-    if not level_file.exists():
-        raise SystemExit(f"Level file not found: {level_file}")
-
-    if not words_dir.exists() or not words_dir.is_dir():
-        raise SystemExit(f"Words directory not found or not a directory: {words_dir}")
-
+def process_level(level_file: Path, words_dir: Path, output_file: Path, dedupe: bool) -> None:
     level_data = load_json(level_file)
     if not level_data:
-        raise SystemExit("Could not load level file.")
+        print(f"Could not load level file: {level_file}")
+        return
 
     word_ids = get_word_ids_from_level(level_data)
 
@@ -138,7 +120,7 @@ def main() -> None:
 
         rows.extend(extract_sentences_from_word_file(word_file))
 
-    if args.dedupe:
+    if dedupe:
         rows = dedupe_sentences(rows)
 
     payload = {
@@ -150,6 +132,8 @@ def main() -> None:
         "missingWordFiles": missing_files,
     }
 
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+
     with output_file.open("w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
@@ -157,6 +141,46 @@ def main() -> None:
     print(f"Extracted {len(rows)} sentences")
     print(f"Missing word files: {len(missing_files)}")
     print(f"Wrote output to {output_file}")
+    print("-" * 60)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Extract sentence dojo data for one level file or all level JSON files in a directory."
+    )
+    parser.add_argument("level_input", help="Path to a level JSON file or a directory of level JSON files")
+    parser.add_argument("words_dir", help="Directory containing all word JSON files")
+    parser.add_argument("output_path", help="Output JSON file (single mode) or output directory (directory mode)")
+    parser.add_argument("--dedupe", action="store_true", help="Remove duplicate sentences")
+    args = parser.parse_args()
+
+    level_input = Path(args.level_input)
+    words_dir = Path(args.words_dir)
+    output_path = Path(args.output_path)
+
+    if not level_input.exists():
+        raise SystemExit(f"Level input not found: {level_input}")
+
+    if not words_dir.exists() or not words_dir.is_dir():
+        raise SystemExit(f"Words directory not found or not a directory: {words_dir}")
+
+    if level_input.is_file():
+        process_level(level_input, words_dir, output_path, args.dedupe)
+        return
+
+    if level_input.is_dir():
+        level_files = sorted(level_input.glob("level-*.json"))
+        if not level_files:
+            raise SystemExit(f"No level JSON files found in: {level_input}")
+
+        output_path.mkdir(parents=True, exist_ok=True)
+
+        for level_file in level_files:
+            output_file = output_path / f"{level_file.stem}-sentences.json"
+            process_level(level_file, words_dir, output_file, args.dedupe)
+        return
+
+    raise SystemExit(f"Unsupported input path: {level_input}")
 
 
 if __name__ == "__main__":

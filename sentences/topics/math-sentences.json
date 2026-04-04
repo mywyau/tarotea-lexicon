@@ -857,11 +857,11 @@
       "sourceFile": "r2-backup/words/ceoi4-divide.json"
     },
     {
-      "sentenceId": "dang2jyu4-equal-example-1",
+      "sentenceId": "dang2jyu1-equal-example-1",
       "sentence": "二加三等於五。",
       "jyutping": "ji6 gaa1 saam1 dang2 jyu1 ng5.",
       "meaning": "2 + 3 equals 5.",
-      "sourceWordId": "dang2jyu4-equal",
+      "sourceWordId": "dang2jyu1-equal",
       "sourceWord": "等於",
       "sourceWordJyutping": "dang2 jyu1",
       "sourceWordMeaning": "equal",
@@ -875,14 +875,14 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang2jyu4-equal.json"
+      "sourceFile": "r2-backup/words/dang2jyu1-equal.json"
     },
     {
-      "sentenceId": "dang2jyu4-equal-example-2",
+      "sentenceId": "dang2jyu1-equal-example-2",
       "sentence": "呢條題等於幾多？",
       "jyutping": "ni1 tiu4 tai4 dang2 jyu1 gei2 do1?",
       "meaning": "What does this problem equal?",
-      "sourceWordId": "dang2jyu4-equal",
+      "sourceWordId": "dang2jyu1-equal",
       "sourceWord": "等於",
       "sourceWordJyutping": "dang2 jyu1",
       "sourceWordMeaning": "equal",
@@ -896,14 +896,14 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang2jyu4-equal.json"
+      "sourceFile": "r2-backup/words/dang2jyu1-equal.json"
     },
     {
-      "sentenceId": "dang2jyu4-equal-example-3",
+      "sentenceId": "dang2jyu1-equal-example-3",
       "sentence": "佢話努力等於進步。",
       "jyutping": "keoi5 waa6 nou5 lik6 dang2 jyu1 zeon3 bou6.",
       "meaning": "He said effort means progress.",
-      "sourceWordId": "dang2jyu4-equal",
+      "sourceWordId": "dang2jyu1-equal",
       "sourceWord": "等於",
       "sourceWordJyutping": "dang2 jyu1",
       "sourceWordMeaning": "equal",
@@ -917,14 +917,14 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang2jyu4-equal.json"
+      "sourceFile": "r2-backup/words/dang2jyu1-equal.json"
     },
     {
-      "sentenceId": "dang2jyu4-equal-example-4",
+      "sentenceId": "dang2jyu1-equal-example-4",
       "sentence": "A 等於 B。",
       "jyutping": "ei1 dang2 jyu1 bi1.",
       "meaning": "A is equal to B.",
-      "sourceWordId": "dang2jyu4-equal",
+      "sourceWordId": "dang2jyu1-equal",
       "sourceWord": "等於",
       "sourceWordJyutping": "dang2 jyu1",
       "sourceWordMeaning": "equal",
@@ -938,14 +938,14 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang2jyu4-equal.json"
+      "sourceFile": "r2-backup/words/dang2jyu1-equal.json"
     },
     {
-      "sentenceId": "daai6jyu4-greater-example-1",
+      "sentenceId": "daai6jyu1-greater-example-1",
       "sentence": "五大於三。",
       "jyutping": "ng5 daai6 jyu1 saam1",
       "meaning": "Five is greater than three.",
-      "sourceWordId": "daai6jyu4-greater",
+      "sourceWordId": "daai6jyu1-greater",
       "sourceWord": "大於",
       "sourceWordJyutping": "daai6 jyu1",
       "sourceWordMeaning": "greater",
@@ -957,14 +957,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daai6jyu4-greater.json"
+      "sourceFile": "r2-backup/words/daai6jyu1-greater.json"
     },
     {
-      "sentenceId": "daai6jyu4-greater-example-2",
+      "sentenceId": "daai6jyu1-greater-example-2",
       "sentence": "呢個數大於嗰個數。",
       "jyutping": "ni1 go3 sou3 daai6 jyu1 go2 go3 sou3",
       "meaning": "This number is greater than that number.",
-      "sourceWordId": "daai6jyu4-greater",
+      "sourceWordId": "daai6jyu1-greater",
       "sourceWord": "大於",
       "sourceWordJyutping": "daai6 jyu1",
       "sourceWordMeaning": "greater",
@@ -976,14 +976,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daai6jyu4-greater.json"
+      "sourceFile": "r2-backup/words/daai6jyu1-greater.json"
     },
     {
-      "sentenceId": "daai6jyu4-greater-example-3",
+      "sentenceId": "daai6jyu1-greater-example-3",
       "sentence": "a大於b。",
       "jyutping": "a1 daai6 jyu1 b1",
       "meaning": "a is greater than b.",
-      "sourceWordId": "daai6jyu4-greater",
+      "sourceWordId": "daai6jyu1-greater",
       "sourceWord": "大於",
       "sourceWordJyutping": "daai6 jyu1",
       "sourceWordMeaning": "greater",
@@ -995,14 +995,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daai6jyu4-greater.json"
+      "sourceFile": "r2-backup/words/daai6jyu1-greater.json"
     },
     {
-      "sentenceId": "daai6jyu4-greater-example-4",
+      "sentenceId": "daai6jyu1-greater-example-4",
       "sentence": "十歲大於八歲。",
       "jyutping": "sap6 seoi3 daai6 jyu1 baat3 seoi3",
       "meaning": "Ten years old is greater than eight years old.",
-      "sourceWordId": "daai6jyu4-greater",
+      "sourceWordId": "daai6jyu1-greater",
       "sourceWord": "大於",
       "sourceWordJyutping": "daai6 jyu1",
       "sourceWordMeaning": "greater",
@@ -1014,14 +1014,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daai6jyu4-greater.json"
+      "sourceFile": "r2-backup/words/daai6jyu1-greater.json"
     },
     {
-      "sentenceId": "siu2jyu4-smaller-example-1",
+      "sentenceId": "siu2jyu1-smaller-example-1",
       "sentence": "3小於5。",
       "jyutping": "saam1 siu2 jyu1 ng5.",
       "meaning": "3 is smaller than 5.",
-      "sourceWordId": "siu2jyu4-smaller",
+      "sourceWordId": "siu2jyu1-smaller",
       "sourceWord": "小於",
       "sourceWordJyutping": "siu2 jyu1",
       "sourceWordMeaning": "smaller",
@@ -1034,14 +1034,14 @@
         "level-1",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2jyu4-smaller.json"
+      "sourceFile": "r2-backup/words/siu2jyu1-smaller.json"
     },
     {
-      "sentenceId": "siu2jyu4-smaller-example-2",
+      "sentenceId": "siu2jyu1-smaller-example-2",
       "sentence": "佢嘅分數小於平均分。",
       "jyutping": "keoi5 ge3 fan1 sou3 siu2 jyu1 ping4 gwan1 fan1.",
       "meaning": "His score is below the average.",
-      "sourceWordId": "siu2jyu4-smaller",
+      "sourceWordId": "siu2jyu1-smaller",
       "sourceWord": "小於",
       "sourceWordJyutping": "siu2 jyu1",
       "sourceWordMeaning": "smaller",
@@ -1054,14 +1054,14 @@
         "level-1",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2jyu4-smaller.json"
+      "sourceFile": "r2-backup/words/siu2jyu1-smaller.json"
     },
     {
-      "sentenceId": "siu2jyu4-smaller-example-3",
+      "sentenceId": "siu2jyu1-smaller-example-3",
       "sentence": "呢個數小於嗰個數。",
       "jyutping": "ni1 go3 sou3 siu2 jyu1 go2 go3 sou3.",
       "meaning": "This number is smaller than that one.",
-      "sourceWordId": "siu2jyu4-smaller",
+      "sourceWordId": "siu2jyu1-smaller",
       "sourceWord": "小於",
       "sourceWordJyutping": "siu2 jyu1",
       "sourceWordMeaning": "smaller",
@@ -1074,14 +1074,14 @@
         "level-1",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2jyu4-smaller.json"
+      "sourceFile": "r2-backup/words/siu2jyu1-smaller.json"
     },
     {
-      "sentenceId": "siu2jyu4-smaller-example-4",
+      "sentenceId": "siu2jyu1-smaller-example-4",
       "sentence": "十歲以下即係小於十歲。",
       "jyutping": "sap6 seoi3 ji5 haa6 zik1 hai6 siu2 jyu1 sap6 seoi3.",
       "meaning": "Under ten means smaller than ten years old.",
-      "sourceWordId": "siu2jyu4-smaller",
+      "sourceWordId": "siu2jyu1-smaller",
       "sourceWord": "小於",
       "sourceWordJyutping": "siu2 jyu1",
       "sourceWordMeaning": "smaller",
@@ -1094,7 +1094,7 @@
         "level-1",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2jyu4-smaller.json"
+      "sourceFile": "r2-backup/words/siu2jyu1-smaller.json"
     },
     {
       "sentenceId": "zung2sou3-total-example-1",
@@ -1569,11 +1569,11 @@
       "sourceFile": "r2-backup/words/siu2sou3-decimal.json"
     },
     {
-      "sentenceId": "baak3fan1bei2-percentage-example-1",
+      "sentenceId": "baak3fan6bei2-percentage-example-1",
       "sentence": "呢間舖嘅折扣百分比好高。",
       "jyutping": "ni1 gaan3 pou5 ge3 zaak1 kau3 baak3 fan6 bei2 hou2 gou1",
       "meaning": "This shop's discount percentage is very high.",
-      "sourceWordId": "baak3fan1bei2-percentage",
+      "sourceWordId": "baak3fan6bei2-percentage",
       "sourceWord": "百分比",
       "sourceWordJyutping": "baak3 fan6 bei2",
       "sourceWordMeaning": "percentage",
@@ -1586,14 +1586,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baak3fan1bei2-percentage.json"
+      "sourceFile": "r2-backup/words/baak3fan6bei2-percentage.json"
     },
     {
-      "sentenceId": "baak3fan1bei2-percentage-example-2",
+      "sentenceId": "baak3fan6bei2-percentage-example-2",
       "sentence": "我想知呢個數嘅百分比。",
       "jyutping": "ngo5 soeng2 zi1 ni1 go3 sou3 ge3 baak3 fan6 bei2",
       "meaning": "I want to know the percentage of this number.",
-      "sourceWordId": "baak3fan1bei2-percentage",
+      "sourceWordId": "baak3fan6bei2-percentage",
       "sourceWord": "百分比",
       "sourceWordJyutping": "baak3 fan6 bei2",
       "sourceWordMeaning": "percentage",
@@ -1606,14 +1606,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baak3fan1bei2-percentage.json"
+      "sourceFile": "r2-backup/words/baak3fan6bei2-percentage.json"
     },
     {
-      "sentenceId": "baak3fan1bei2-percentage-example-3",
+      "sentenceId": "baak3fan6bei2-percentage-example-3",
       "sentence": "今年合格百分比升咗。",
       "jyutping": "gam1 nin4 hap6 gaak3 baak3 fan6 bei2 sing1 zo2",
       "meaning": "The pass percentage went up this year.",
-      "sourceWordId": "baak3fan1bei2-percentage",
+      "sourceWordId": "baak3fan6bei2-percentage",
       "sourceWord": "百分比",
       "sourceWordJyutping": "baak3 fan6 bei2",
       "sourceWordMeaning": "percentage",
@@ -1626,14 +1626,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baak3fan1bei2-percentage.json"
+      "sourceFile": "r2-backup/words/baak3fan6bei2-percentage.json"
     },
     {
-      "sentenceId": "baak3fan1bei2-percentage-example-4",
+      "sentenceId": "baak3fan6bei2-percentage-example-4",
       "sentence": "佢話加價百分比唔算高。",
       "jyutping": "keoi5 waa6 gaa1 gaa3 baak3 fan6 bei2 m4 syun3 gou1",
       "meaning": "He said the percentage increase in price is not considered high.",
-      "sourceWordId": "baak3fan1bei2-percentage",
+      "sourceWordId": "baak3fan6bei2-percentage",
       "sourceWord": "百分比",
       "sourceWordJyutping": "baak3 fan6 bei2",
       "sourceWordMeaning": "percentage",
@@ -1646,7 +1646,7 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baak3fan1bei2-percentage.json"
+      "sourceFile": "r2-backup/words/baak3fan6bei2-percentage.json"
     },
     {
       "sentenceId": "zing3sou3-positive-example-1",
@@ -3089,11 +3089,11 @@
       "sourceFile": "r2-backup/words/fut3dou6-width.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-1",
+      "sentenceId": "zung6loeng6-weight-2-example-1",
       "sentence": "呢個箱嘅重量好重，搬唔動。",
       "jyutping": "ni1 go3 soeng1 ge3 zung6 loeng6 hou2 zung6, bun1 m4 dung6.",
       "meaning": "This box's weight is very heavy; I can't move it.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -3105,14 +3105,14 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-2",
+      "sentenceId": "zung6loeng6-weight-2-example-2",
       "sentence": "請你測量呢包米嘅重量。",
       "jyutping": "cing2 nei5 cak1 loeng6 ni1 baau1 mai5 ge3 zung6 loeng6.",
       "meaning": "Please measure the weight of this bag of rice.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -3124,14 +3124,14 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-3",
+      "sentenceId": "zung6loeng6-weight-2-example-3",
       "sentence": "運動可以幫助你控制體重。",
       "jyutping": "wan6 dung6 ho2 ji5 bong1 zo6 nei5 hung3 zi3 tai2 zung6.",
       "meaning": "Exercise can help you control your body weight.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -3143,14 +3143,14 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-4",
+      "sentenceId": "zung6loeng6-weight-2-example-4",
       "sentence": "呢件行李重量超過航空公司嘅限制。",
       "jyutping": "ni1 gin6 hang4 lei5 zung6 loeng6 ciu1 gwo3 hong4 hung1 gung1 si1 ge3 haan6 zi3.",
       "meaning": "This luggage's weight exceeds the airline's limit.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -3162,7 +3162,7 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
       "sentenceId": "lei4mai5-centimetre-example-1",
@@ -4505,5 +4505,7 @@
       "sourceFile": "r2-backup/words/ping4fong1sou3-square-number.json"
     }
   ],
-  "missingWordFiles": []
+  "missingWordFiles": [
+    "gaa1-add"
+  ]
 }

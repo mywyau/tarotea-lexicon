@@ -81,11 +81,11 @@
       "sourceFile": "r2-backup/words/ngaan4sik1-colour.json"
     },
     {
-      "sentenceId": "hak1sik1-black-example-1",
+      "sentenceId": "haak1sik1-black-example-1",
       "sentence": "呢個袋係黑色。",
       "jyutping": "ni1 go3 doi2 gei1 hai6 haak1 sik1.",
       "meaning": "This bag is black.",
-      "sourceWordId": "hak1sik1-black",
+      "sourceWordId": "haak1sik1-black",
       "sourceWord": "黑色",
       "sourceWordJyutping": "haak1 sik1",
       "sourceWordMeaning": "black",
@@ -98,14 +98,14 @@
         "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hak1sik1-black.json"
+      "sourceFile": "r2-backup/words/haak1sik1-black.json"
     },
     {
-      "sentenceId": "hak1sik1-black-example-2",
+      "sentenceId": "haak1sik1-black-example-2",
       "sentence": "我鍾意黑色衫。",
       "jyutping": "ngo5 zung1 ji3 haak1 sik1 saam1.",
       "meaning": "I like black clothes.",
-      "sourceWordId": "hak1sik1-black",
+      "sourceWordId": "haak1sik1-black",
       "sourceWord": "黑色",
       "sourceWordJyutping": "haak1 sik1",
       "sourceWordMeaning": "black",
@@ -118,14 +118,14 @@
         "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hak1sik1-black.json"
+      "sourceFile": "r2-backup/words/haak1sik1-black.json"
     },
     {
-      "sentenceId": "hak1sik1-black-example-3",
+      "sentenceId": "haak1sik1-black-example-3",
       "sentence": "佢對鞋係黑色。",
       "jyutping": "keoi5 deoi3 haai4 hai6 haak1 sik1.",
       "meaning": "His/Her shoes are black.",
-      "sourceWordId": "hak1sik1-black",
+      "sourceWordId": "haak1sik1-black",
       "sourceWord": "黑色",
       "sourceWordJyutping": "haak1 sik1",
       "sourceWordMeaning": "black",
@@ -138,14 +138,14 @@
         "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hak1sik1-black.json"
+      "sourceFile": "r2-backup/words/haak1sik1-black.json"
     },
     {
-      "sentenceId": "hak1sik1-black-example-4",
+      "sentenceId": "haak1sik1-black-example-4",
       "sentence": "黑色睇落好型。",
       "jyutping": "haak1 sik1 tai2 lok6 hou2 jing4.",
       "meaning": "Black looks stylish.",
-      "sourceWordId": "hak1sik1-black",
+      "sourceWordId": "haak1sik1-black",
       "sourceWord": "黑色",
       "sourceWordJyutping": "haak1 sik1",
       "sourceWordMeaning": "black",
@@ -158,7 +158,7 @@
         "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hak1sik1-black.json"
+      "sourceFile": "r2-backup/words/haak1sik1-black.json"
     },
     {
       "sentenceId": "baak6sik1-white-example-1",
@@ -1701,11 +1701,11 @@
       "sourceFile": "r2-backup/words/cin2laam4sik1-light-blue.json"
     },
     {
-      "sentenceId": "samhung4sik1-dark-red-example-1",
+      "sentenceId": "sam1hung4sik1-dark-red-example-1",
       "sentence": "呢件衫係深紅色。",
       "jyutping": "ni1 gin6 saam1 hai6 sam1 hung4 sik1.",
       "meaning": "This shirt is dark red.",
-      "sourceWordId": "samhung4sik1-dark-red",
+      "sourceWordId": "sam1hung4sik1-dark-red",
       "sourceWord": "深紅色",
       "sourceWordJyutping": "sam1 hung4 sik1",
       "sourceWordMeaning": "dark red",
@@ -1717,14 +1717,14 @@
         "light and dark shades",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samhung4sik1-dark-red.json"
+      "sourceFile": "r2-backup/words/sam1hung4sik1-dark-red.json"
     },
     {
-      "sentenceId": "samhung4sik1-dark-red-example-2",
+      "sentenceId": "sam1hung4sik1-dark-red-example-2",
       "sentence": "我買咗深紅色嘅袋。",
       "jyutping": "ngo5 maai5 zo2 sam1 hung4 sik1 ge3 doi2.",
       "meaning": "I bought a dark red bag.",
-      "sourceWordId": "samhung4sik1-dark-red",
+      "sourceWordId": "sam1hung4sik1-dark-red",
       "sourceWord": "深紅色",
       "sourceWordJyutping": "sam1 hung4 sik1",
       "sourceWordMeaning": "dark red",
@@ -1736,14 +1736,14 @@
         "light and dark shades",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samhung4sik1-dark-red.json"
+      "sourceFile": "r2-backup/words/sam1hung4sik1-dark-red.json"
     },
     {
-      "sentenceId": "samhung4sik1-dark-red-example-3",
+      "sentenceId": "sam1hung4sik1-dark-red-example-3",
       "sentence": "朵花係深紅色。",
       "jyutping": "do2 faa1 hai6 sam1 hung4 sik1.",
       "meaning": "The flower is dark red.",
-      "sourceWordId": "samhung4sik1-dark-red",
+      "sourceWordId": "sam1hung4sik1-dark-red",
       "sourceWord": "深紅色",
       "sourceWordJyutping": "sam1 hung4 sik1",
       "sourceWordMeaning": "dark red",
@@ -1755,14 +1755,14 @@
         "light and dark shades",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samhung4sik1-dark-red.json"
+      "sourceFile": "r2-backup/words/sam1hung4sik1-dark-red.json"
     },
     {
-      "sentenceId": "samhung4sik1-dark-red-example-4",
+      "sentenceId": "sam1hung4sik1-dark-red-example-4",
       "sentence": "佢鍾意深紅色嘅手機殼。",
       "jyutping": "keoi5 zung1 ji3 sam1 hung4 sik1 ge3 sau2 gei1 ok3.",
       "meaning": "He/She likes a dark red phone case.",
-      "sourceWordId": "samhung4sik1-dark-red",
+      "sourceWordId": "sam1hung4sik1-dark-red",
       "sourceWord": "深紅色",
       "sourceWordJyutping": "sam1 hung4 sik1",
       "sourceWordMeaning": "dark red",
@@ -1774,7 +1774,7 @@
         "light and dark shades",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samhung4sik1-dark-red.json"
+      "sourceFile": "r2-backup/words/sam1hung4sik1-dark-red.json"
     },
     {
       "sentenceId": "cin2hung4sik1-light-red-example-1",
@@ -1853,11 +1853,11 @@
       "sourceFile": "r2-backup/words/cin2hung4sik1-light-red.json"
     },
     {
-      "sentenceId": "samluk6sik1-dark-green-example-1",
+      "sentenceId": "sam1luk6sik1-dark-green-example-1",
       "sentence": "呢件衫係深綠色。",
       "jyutping": "ni1 gin6 saam1 hai6 sam1 luk6 sik1.",
       "meaning": "This shirt is dark green.",
-      "sourceWordId": "samluk6sik1-dark-green",
+      "sourceWordId": "sam1luk6sik1-dark-green",
       "sourceWord": "深綠色",
       "sourceWordJyutping": "sam1 luk6 sik1",
       "sourceWordMeaning": "dark green",
@@ -1869,14 +1869,14 @@
         "light and dark colours",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samluk6sik1-dark-green.json"
+      "sourceFile": "r2-backup/words/sam1luk6sik1-dark-green.json"
     },
     {
-      "sentenceId": "samluk6sik1-dark-green-example-2",
+      "sentenceId": "sam1luk6sik1-dark-green-example-2",
       "sentence": "深綠色背包幾好睇。",
       "jyutping": "sam1 luk6 sik1 bui3 baau1 gei2 hou2 taai2.",
       "meaning": "The dark green backpack looks nice.",
-      "sourceWordId": "samluk6sik1-dark-green",
+      "sourceWordId": "sam1luk6sik1-dark-green",
       "sourceWord": "深綠色",
       "sourceWordJyutping": "sam1 luk6 sik1",
       "sourceWordMeaning": "dark green",
@@ -1888,14 +1888,14 @@
         "light and dark colours",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samluk6sik1-dark-green.json"
+      "sourceFile": "r2-backup/words/sam1luk6sik1-dark-green.json"
     },
     {
-      "sentenceId": "samluk6sik1-dark-green-example-3",
+      "sentenceId": "sam1luk6sik1-dark-green-example-3",
       "sentence": "我屋企嗰幅牆係深綠色。",
       "jyutping": "ngo5 uk1 kei2 go2 fuk1 coeng4 hai6 sam1 luk6 sik1.",
       "meaning": "The wall in my home is dark green.",
-      "sourceWordId": "samluk6sik1-dark-green",
+      "sourceWordId": "sam1luk6sik1-dark-green",
       "sourceWord": "深綠色",
       "sourceWordJyutping": "sam1 luk6 sik1",
       "sourceWordMeaning": "dark green",
@@ -1907,14 +1907,14 @@
         "light and dark colours",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samluk6sik1-dark-green.json"
+      "sourceFile": "r2-backup/words/sam1luk6sik1-dark-green.json"
     },
     {
-      "sentenceId": "samluk6sik1-dark-green-example-4",
+      "sentenceId": "sam1luk6sik1-dark-green-example-4",
       "sentence": "你想要深綠色定黑色？",
       "jyutping": "nei5 soeng2 jiu3 sam1 luk6 sik1 ding6 hak1 sik1?",
       "meaning": "Do you want dark green or black?",
-      "sourceWordId": "samluk6sik1-dark-green",
+      "sourceWordId": "sam1luk6sik1-dark-green",
       "sourceWord": "深綠色",
       "sourceWordJyutping": "sam1 luk6 sik1",
       "sourceWordMeaning": "dark green",
@@ -1926,7 +1926,7 @@
         "light and dark colours",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samluk6sik1-dark-green.json"
+      "sourceFile": "r2-backup/words/sam1luk6sik1-dark-green.json"
     },
     {
       "sentenceId": "cin2luk6sik1-light-green-example-1",
@@ -2005,11 +2005,11 @@
       "sourceFile": "r2-backup/words/cin2luk6sik1-light-green.json"
     },
     {
-      "sentenceId": "samwong4sik1-dark-yellow-example-1",
+      "sentenceId": "sam1wong4sik1-dark-yellow-example-1",
       "sentence": "呢件衫係深黃色。",
       "jyutping": "ni1 gin6 saam1 hai6 sam1 wong4 sik1.",
       "meaning": "This shirt is dark yellow.",
-      "sourceWordId": "samwong4sik1-dark-yellow",
+      "sourceWordId": "sam1wong4sik1-dark-yellow",
       "sourceWord": "深黃色",
       "sourceWordJyutping": "sam1 wong4 sik1",
       "sourceWordMeaning": "dark yellow",
@@ -2021,14 +2021,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samwong4sik1-dark-yellow.json"
+      "sourceFile": "r2-backup/words/sam1wong4sik1-dark-yellow.json"
     },
     {
-      "sentenceId": "samwong4sik1-dark-yellow-example-2",
+      "sentenceId": "sam1wong4sik1-dark-yellow-example-2",
       "sentence": "我想要深黃色嘅袋。",
       "jyutping": "ngo5 soeng2 jiu3 sam1 wong4 sik1 ge3 dou2.",
       "meaning": "I want the dark yellow bag.",
-      "sourceWordId": "samwong4sik1-dark-yellow",
+      "sourceWordId": "sam1wong4sik1-dark-yellow",
       "sourceWord": "深黃色",
       "sourceWordJyutping": "sam1 wong4 sik1",
       "sourceWordMeaning": "dark yellow",
@@ -2040,14 +2040,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samwong4sik1-dark-yellow.json"
+      "sourceFile": "r2-backup/words/sam1wong4sik1-dark-yellow.json"
     },
     {
-      "sentenceId": "samwong4sik1-dark-yellow-example-3",
+      "sentenceId": "sam1wong4sik1-dark-yellow-example-3",
       "sentence": "個芒果偏深黃色。",
       "jyutping": "go3 mong4 gwo2 pin1 sam1 wong4 sik1.",
       "meaning": "The mango is more on the dark yellow side.",
-      "sourceWordId": "samwong4sik1-dark-yellow",
+      "sourceWordId": "sam1wong4sik1-dark-yellow",
       "sourceWord": "深黃色",
       "sourceWordJyutping": "sam1 wong4 sik1",
       "sourceWordMeaning": "dark yellow",
@@ -2059,14 +2059,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samwong4sik1-dark-yellow.json"
+      "sourceFile": "r2-backup/words/sam1wong4sik1-dark-yellow.json"
     },
     {
-      "sentenceId": "samwong4sik1-dark-yellow-example-4",
+      "sentenceId": "sam1wong4sik1-dark-yellow-example-4",
       "sentence": "隻牆油成深黃色。",
       "jyutping": "zek3 coeng4 jau4 sing4 sam1 wong4 sik1.",
       "meaning": "The wall was painted dark yellow.",
-      "sourceWordId": "samwong4sik1-dark-yellow",
+      "sourceWordId": "sam1wong4sik1-dark-yellow",
       "sourceWord": "深黃色",
       "sourceWordJyutping": "sam1 wong4 sik1",
       "sourceWordMeaning": "dark yellow",
@@ -2078,7 +2078,7 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samwong4sik1-dark-yellow.json"
+      "sourceFile": "r2-backup/words/sam1wong4sik1-dark-yellow.json"
     },
     {
       "sentenceId": "cin2wong4sik1-light-yellow-example-1",
@@ -2157,11 +2157,11 @@
       "sourceFile": "r2-backup/words/cin2wong4sik1-light-yellow.json"
     },
     {
-      "sentenceId": "samzi2sik1-dark-purple-example-1",
+      "sentenceId": "sam1zi2sik1-dark-purple-example-1",
       "sentence": "呢條裙係深紫色。",
       "jyutping": "ni1 tiu4 kwan4 hai6 sam1 zi2 sik1.",
       "meaning": "This dress is dark purple.",
-      "sourceWordId": "samzi2sik1-dark-purple",
+      "sourceWordId": "sam1zi2sik1-dark-purple",
       "sourceWord": "深紫色",
       "sourceWordJyutping": "sam1 zi2 sik1",
       "sourceWordMeaning": "dark purple",
@@ -2173,14 +2173,14 @@
         "appearance",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samzi2sik1-dark-purple.json"
+      "sourceFile": "r2-backup/words/sam1zi2sik1-dark-purple.json"
     },
     {
-      "sentenceId": "samzi2sik1-dark-purple-example-2",
+      "sentenceId": "sam1zi2sik1-dark-purple-example-2",
       "sentence": "我買咗個深紫色袋。",
       "jyutping": "ngo5 maai5 zo2 go3 sam1 zi2 sik1 doi2.",
       "meaning": "I bought a dark purple bag.",
-      "sourceWordId": "samzi2sik1-dark-purple",
+      "sourceWordId": "sam1zi2sik1-dark-purple",
       "sourceWord": "深紫色",
       "sourceWordJyutping": "sam1 zi2 sik1",
       "sourceWordMeaning": "dark purple",
@@ -2192,14 +2192,14 @@
         "appearance",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samzi2sik1-dark-purple.json"
+      "sourceFile": "r2-backup/words/sam1zi2sik1-dark-purple.json"
     },
     {
-      "sentenceId": "samzi2sik1-dark-purple-example-3",
+      "sentenceId": "sam1zi2sik1-dark-purple-example-3",
       "sentence": "佢屋企牆身油咗深紫色。",
       "jyutping": "keoi5 uk1 kei4 coeng4 san1 jau4 zo2 sam1 zi2 sik1.",
       "meaning": "The walls in his home were painted dark purple.",
-      "sourceWordId": "samzi2sik1-dark-purple",
+      "sourceWordId": "sam1zi2sik1-dark-purple",
       "sourceWord": "深紫色",
       "sourceWordJyutping": "sam1 zi2 sik1",
       "sourceWordMeaning": "dark purple",
@@ -2211,14 +2211,14 @@
         "appearance",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samzi2sik1-dark-purple.json"
+      "sourceFile": "r2-backup/words/sam1zi2sik1-dark-purple.json"
     },
     {
-      "sentenceId": "samzi2sik1-dark-purple-example-4",
+      "sentenceId": "sam1zi2sik1-dark-purple-example-4",
       "sentence": "我鍾意深紫色多過淺紫色。",
       "jyutping": "ngo5 zung1 ji3 sam1 zi2 sik1 do1 gwo3 cin2 zi2 sik1.",
       "meaning": "I like dark purple more than light purple.",
-      "sourceWordId": "samzi2sik1-dark-purple",
+      "sourceWordId": "sam1zi2sik1-dark-purple",
       "sourceWord": "深紫色",
       "sourceWordJyutping": "sam1 zi2 sik1",
       "sourceWordMeaning": "dark purple",
@@ -2230,7 +2230,7 @@
         "appearance",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samzi2sik1-dark-purple.json"
+      "sourceFile": "r2-backup/words/sam1zi2sik1-dark-purple.json"
     },
     {
       "sentenceId": "cin2zi2sik1-light-purple-example-1",
@@ -2309,11 +2309,11 @@
       "sourceFile": "r2-backup/words/cin2zi2sik1-light-purple.json"
     },
     {
-      "sentenceId": "samfe1sik1-dark-brown-example-1",
+      "sentenceId": "sam1fe1sik1-dark-brown-example-1",
       "sentence": "呢個袋係深啡色。",
       "jyutping": "ni1 go3 daai2 hai6 sam1 fe1 sik1.",
       "meaning": "This bag is dark brown.",
-      "sourceWordId": "samfe1sik1-dark-brown",
+      "sourceWordId": "sam1fe1sik1-dark-brown",
       "sourceWord": "深啡色",
       "sourceWordJyutping": "sam1 fe1 sik1",
       "sourceWordMeaning": "dark brown",
@@ -2325,14 +2325,14 @@
         "basic level",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfe1sik1-dark-brown.json"
+      "sourceFile": "r2-backup/words/sam1fe1sik1-dark-brown.json"
     },
     {
-      "sentenceId": "samfe1sik1-dark-brown-example-2",
+      "sentenceId": "sam1fe1sik1-dark-brown-example-2",
       "sentence": "我想買深啡色衫。",
       "jyutping": "ngo5 soeng2 maai5 sam1 fe1 sik1 saam1.",
       "meaning": "I want to buy dark brown clothes.",
-      "sourceWordId": "samfe1sik1-dark-brown",
+      "sourceWordId": "sam1fe1sik1-dark-brown",
       "sourceWord": "深啡色",
       "sourceWordJyutping": "sam1 fe1 sik1",
       "sourceWordMeaning": "dark brown",
@@ -2344,14 +2344,14 @@
         "basic level",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfe1sik1-dark-brown.json"
+      "sourceFile": "r2-backup/words/sam1fe1sik1-dark-brown.json"
     },
     {
-      "sentenceId": "samfe1sik1-dark-brown-example-3",
+      "sentenceId": "sam1fe1sik1-dark-brown-example-3",
       "sentence": "佢塊木板係深啡色。",
       "jyutping": "keoi5 faai3 muk6 baan2 hai6 sam1 fe1 sik1.",
       "meaning": "That piece of wood is dark brown.",
-      "sourceWordId": "samfe1sik1-dark-brown",
+      "sourceWordId": "sam1fe1sik1-dark-brown",
       "sourceWord": "深啡色",
       "sourceWordJyutping": "sam1 fe1 sik1",
       "sourceWordMeaning": "dark brown",
@@ -2363,14 +2363,14 @@
         "basic level",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfe1sik1-dark-brown.json"
+      "sourceFile": "r2-backup/words/sam1fe1sik1-dark-brown.json"
     },
     {
-      "sentenceId": "samfe1sik1-dark-brown-example-4",
+      "sentenceId": "sam1fe1sik1-dark-brown-example-4",
       "sentence": "佢頭髮係深啡色。",
       "jyutping": "keoi5 tau4 faat3 hai6 sam1 fe1 sik1.",
       "meaning": "Her hair is dark brown.",
-      "sourceWordId": "samfe1sik1-dark-brown",
+      "sourceWordId": "sam1fe1sik1-dark-brown",
       "sourceWord": "深啡色",
       "sourceWordJyutping": "sam1 fe1 sik1",
       "sourceWordMeaning": "dark brown",
@@ -2382,7 +2382,7 @@
         "basic level",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfe1sik1-dark-brown.json"
+      "sourceFile": "r2-backup/words/sam1fe1sik1-dark-brown.json"
     },
     {
       "sentenceId": "cin2fe1sik1-light-brown-example-1",
@@ -2461,11 +2461,11 @@
       "sourceFile": "r2-backup/words/cin2fe1sik1-light-brown.json"
     },
     {
-      "sentenceId": "samfui1sik1-dark-grey-example-1",
+      "sentenceId": "sam1fui1sik1-dark-grey-example-1",
       "sentence": "呢件冷衫係深灰色。",
       "jyutping": "ni1 gin6 laang5 saam1 hai6 sam1 fui1 sik1.",
       "meaning": "This sweater is dark grey.",
-      "sourceWordId": "samfui1sik1-dark-grey",
+      "sourceWordId": "sam1fui1sik1-dark-grey",
       "sourceWord": "深灰色",
       "sourceWordJyutping": "sam1 fui1 sik1",
       "sourceWordMeaning": "dark grey",
@@ -2477,14 +2477,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfui1sik1-dark-grey.json"
+      "sourceFile": "r2-backup/words/sam1fui1sik1-dark-grey.json"
     },
     {
-      "sentenceId": "samfui1sik1-dark-grey-example-2",
+      "sentenceId": "sam1fui1sik1-dark-grey-example-2",
       "sentence": "我買咗條深灰色褲。",
       "jyutping": "ngo5 maai5 zo2 tiu4 sam1 fui1 sik1 fu3.",
       "meaning": "I bought a pair of dark grey trousers.",
-      "sourceWordId": "samfui1sik1-dark-grey",
+      "sourceWordId": "sam1fui1sik1-dark-grey",
       "sourceWord": "深灰色",
       "sourceWordJyutping": "sam1 fui1 sik1",
       "sourceWordMeaning": "dark grey",
@@ -2496,14 +2496,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfui1sik1-dark-grey.json"
+      "sourceFile": "r2-backup/words/sam1fui1sik1-dark-grey.json"
     },
     {
-      "sentenceId": "samfui1sik1-dark-grey-example-3",
+      "sentenceId": "sam1fui1sik1-dark-grey-example-3",
       "sentence": "條梳化係深灰色，好襟睇。",
       "jyutping": "tiu4 so1 faa2 hai6 sam1 fui1 sik1, hou2 kam1 tai2.",
       "meaning": "The sofa is dark grey and looks durable.",
-      "sourceWordId": "samfui1sik1-dark-grey",
+      "sourceWordId": "sam1fui1sik1-dark-grey",
       "sourceWord": "深灰色",
       "sourceWordJyutping": "sam1 fui1 sik1",
       "sourceWordMeaning": "dark grey",
@@ -2515,14 +2515,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfui1sik1-dark-grey.json"
+      "sourceFile": "r2-backup/words/sam1fui1sik1-dark-grey.json"
     },
     {
-      "sentenceId": "samfui1sik1-dark-grey-example-4",
+      "sentenceId": "sam1fui1sik1-dark-grey-example-4",
       "sentence": "呢隻深灰色比嗰隻淺好多。",
       "jyutping": "ni1 zek3 sam1 fui1 sik1 bei2 go2 zek3 cin2 hou2 do1.",
       "meaning": "This dark grey one is much lighter than that one.",
-      "sourceWordId": "samfui1sik1-dark-grey",
+      "sourceWordId": "sam1fui1sik1-dark-grey",
       "sourceWord": "深灰色",
       "sourceWordJyutping": "sam1 fui1 sik1",
       "sourceWordMeaning": "dark grey",
@@ -2534,7 +2534,7 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfui1sik1-dark-grey.json"
+      "sourceFile": "r2-backup/words/sam1fui1sik1-dark-grey.json"
     },
     {
       "sentenceId": "cin2fui1sik1-light-grey-example-1",
@@ -2613,11 +2613,11 @@
       "sourceFile": "r2-backup/words/cin2fui1sik1-light-grey.json"
     },
     {
-      "sentenceId": "samfan2hung4sik1-dark-pink-example-1",
+      "sentenceId": "sam1fan2hung4sik1-dark-pink-example-1",
       "sentence": "呢件衫係深粉紅色。",
       "jyutping": "ni1 gin6 saam1 hai6 sam1 fan2 hung4 sik1.",
       "meaning": "This shirt is dark pink.",
-      "sourceWordId": "samfan2hung4sik1-dark-pink",
+      "sourceWordId": "sam1fan2hung4sik1-dark-pink",
       "sourceWord": "深粉紅色",
       "sourceWordJyutping": "sam1 fan2 hung4 sik1",
       "sourceWordMeaning": "dark pink",
@@ -2629,14 +2629,14 @@
         "household items",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfan2hung4sik1-dark-pink.json"
+      "sourceFile": "r2-backup/words/sam1fan2hung4sik1-dark-pink.json"
     },
     {
-      "sentenceId": "samfan2hung4sik1-dark-pink-example-2",
+      "sentenceId": "sam1fan2hung4sik1-dark-pink-example-2",
       "sentence": "我鍾意深粉紅色嘅手機殼。",
       "jyutping": "ngo5 zung1 ji3 sam1 fan2 hung4 sik1 ge3 sau2 gei1 hok6.",
       "meaning": "I like dark pink phone cases.",
-      "sourceWordId": "samfan2hung4sik1-dark-pink",
+      "sourceWordId": "sam1fan2hung4sik1-dark-pink",
       "sourceWord": "深粉紅色",
       "sourceWordJyutping": "sam1 fan2 hung4 sik1",
       "sourceWordMeaning": "dark pink",
@@ -2648,14 +2648,14 @@
         "household items",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfan2hung4sik1-dark-pink.json"
+      "sourceFile": "r2-backup/words/sam1fan2hung4sik1-dark-pink.json"
     },
     {
-      "sentenceId": "samfan2hung4sik1-dark-pink-example-3",
+      "sentenceId": "sam1fan2hung4sik1-dark-pink-example-3",
       "sentence": "個枕頭套係深粉紅色。",
       "jyutping": "go3 zam2 tau4 tou3 hai6 sam1 fan2 hung4 sik1.",
       "meaning": "The pillowcase is dark pink.",
-      "sourceWordId": "samfan2hung4sik1-dark-pink",
+      "sourceWordId": "sam1fan2hung4sik1-dark-pink",
       "sourceWord": "深粉紅色",
       "sourceWordJyutping": "sam1 fan2 hung4 sik1",
       "sourceWordMeaning": "dark pink",
@@ -2667,14 +2667,14 @@
         "household items",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfan2hung4sik1-dark-pink.json"
+      "sourceFile": "r2-backup/words/sam1fan2hung4sik1-dark-pink.json"
     },
     {
-      "sentenceId": "samfan2hung4sik1-dark-pink-example-4",
+      "sentenceId": "sam1fan2hung4sik1-dark-pink-example-4",
       "sentence": "佢買咗深粉紅色嘅唇膏。",
       "jyutping": "keoi5 maai5 zo2 sam1 fan2 hung4 sik1 ge3 seon4 gou1.",
       "meaning": "She bought dark pink lipstick.",
-      "sourceWordId": "samfan2hung4sik1-dark-pink",
+      "sourceWordId": "sam1fan2hung4sik1-dark-pink",
       "sourceWord": "深粉紅色",
       "sourceWordJyutping": "sam1 fan2 hung4 sik1",
       "sourceWordMeaning": "dark pink",
@@ -2686,7 +2686,7 @@
         "household items",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/samfan2hung4sik1-dark-pink.json"
+      "sourceFile": "r2-backup/words/sam1fan2hung4sik1-dark-pink.json"
     },
     {
       "sentenceId": "cin2fan2hung4sik1-light-pink-example-1",
@@ -2997,11 +2997,11 @@
       "sourceFile": "r2-backup/words/daan1jat1sik1-single-colour.json"
     },
     {
-      "sentenceId": "zim6bin3sik1-gradient-example-1",
+      "sentenceId": "zim6bin3sik1-gradient-colour-example-1",
       "sentence": "呢件衫用咗藍色漸變色，好靚。",
       "jyutping": "ni1 gin6 saam1 jung6 zo2 laam4 sik1 zim6 bin3 sik1, hou2 leng3.",
       "meaning": "This shirt uses a blue gradient colour and looks very nice.",
-      "sourceWordId": "zim6bin3sik1-gradient",
+      "sourceWordId": "zim6bin3sik1-gradient-colour",
       "sourceWord": "漸變色",
       "sourceWordJyutping": "zim6 bin3 sik1",
       "sourceWordMeaning": "gradient colour",
@@ -3013,14 +3013,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient.json"
+      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient-colour.json"
     },
     {
-      "sentenceId": "zim6bin3sik1-gradient-example-2",
+      "sentenceId": "zim6bin3sik1-gradient-colour-example-2",
       "sentence": "張海報個背景係粉紅到紫色嘅漸變色。",
       "jyutping": "zoeng1 hoi2 bou3 go3 bei6 ging2 hai6 fan2 hung4 dou3 zi2 sik1 ge3 zim6 bin3 sik1.",
       "meaning": "The poster background is a pink-to-purple gradient.",
-      "sourceWordId": "zim6bin3sik1-gradient",
+      "sourceWordId": "zim6bin3sik1-gradient-colour",
       "sourceWord": "漸變色",
       "sourceWordJyutping": "zim6 bin3 sik1",
       "sourceWordMeaning": "gradient colour",
@@ -3032,14 +3032,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient.json"
+      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient-colour.json"
     },
     {
-      "sentenceId": "zim6bin3sik1-gradient-example-3",
+      "sentenceId": "zim6bin3sik1-gradient-colour-example-3",
       "sentence": "我想整一個漸變色背景。",
       "jyutping": "ngo5 soeng2 zing2 jat1 go3 zim6 bin3 sik1 bei6 ging2.",
       "meaning": "I want to make a gradient background.",
-      "sourceWordId": "zim6bin3sik1-gradient",
+      "sourceWordId": "zim6bin3sik1-gradient-colour",
       "sourceWord": "漸變色",
       "sourceWordJyutping": "zim6 bin3 sik1",
       "sourceWordMeaning": "gradient colour",
@@ -3051,14 +3051,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient.json"
+      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient-colour.json"
     },
     {
-      "sentenceId": "zim6bin3sik1-gradient-example-4",
+      "sentenceId": "zim6bin3sik1-gradient-colour-example-4",
       "sentence": "個手機殼有啲漸變色效果。",
       "jyutping": "go3 sau2 gei1 hok4 jau5 di1 zim6 bin3 sik1 haau6 gwo2.",
       "meaning": "The phone case has a gradient-colour effect.",
-      "sourceWordId": "zim6bin3sik1-gradient",
+      "sourceWordId": "zim6bin3sik1-gradient-colour",
       "sourceWord": "漸變色",
       "sourceWordJyutping": "zim6 bin3 sik1",
       "sourceWordMeaning": "gradient colour",
@@ -3070,7 +3070,7 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient.json"
+      "sourceFile": "r2-backup/words/zim6bin3sik1-gradient-colour.json"
     },
     {
       "sentenceId": "tau3ming4-transparent-example-1",
