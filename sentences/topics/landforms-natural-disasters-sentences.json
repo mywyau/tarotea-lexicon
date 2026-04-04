@@ -1,0 +1,3161 @@
+{
+  "topic": "landforms-natural-disasters",
+  "title": "Landforms & Natural Disasters",
+  "totalWords": 40,
+  "totalSentences": 160,
+  "items": [
+    {
+      "sentenceId": "saan1-mountain-example-1",
+      "sentence": "我哋週末去行山睇山景。",
+      "jyutping": "ngo5 dei6 zau1 mat6 heoi3 haang4 saan1 tai2 saan1 ging2.",
+      "meaning": "We go hiking on weekends to see mountain scenery.",
+      "sourceWordId": "saan1-mountain",
+      "sourceWord": "山",
+      "sourceWordJyutping": "saan1",
+      "sourceWordMeaning": "mountain",
+      "tags": [
+        "basic vocabulary",
+        "landforms",
+        "nature",
+        "geography",
+        "hk-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1-mountain.json"
+    },
+    {
+      "sentenceId": "saan1-mountain-example-2",
+      "sentence": "嗰座山好高，遠遠都見到。",
+      "jyutping": "go2 zoh6 saan1 hou2 gou1, jyun5 jyun5 dou1 gin3 dou2.",
+      "meaning": "That mountain is very tall, and you can see it from far away.",
+      "sourceWordId": "saan1-mountain",
+      "sourceWord": "山",
+      "sourceWordJyutping": "saan1",
+      "sourceWordMeaning": "mountain",
+      "tags": [
+        "basic vocabulary",
+        "landforms",
+        "nature",
+        "geography",
+        "hk-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1-mountain.json"
+    },
+    {
+      "sentenceId": "saan1-mountain-example-3",
+      "sentence": "佢屋企後面有一座山。",
+      "jyutping": "keoi5 uk1 kei4 hau6 min6 jau5 jat1 zoh6 saan1.",
+      "meaning": "There is a mountain behind his home.",
+      "sourceWordId": "saan1-mountain",
+      "sourceWord": "山",
+      "sourceWordJyutping": "saan1",
+      "sourceWordMeaning": "mountain",
+      "tags": [
+        "basic vocabulary",
+        "landforms",
+        "nature",
+        "geography",
+        "hk-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1-mountain.json"
+    },
+    {
+      "sentenceId": "saan1-mountain-example-4",
+      "sentence": "下雨之後，山路會比較濕滑。",
+      "jyutping": "haa6 jyu5 zi1 hau6, saan1 lou6 wui5 bei2 gaau3 sap1 waat6.",
+      "meaning": "After it rains, mountain paths can be quite slippery.",
+      "sourceWordId": "saan1-mountain",
+      "sourceWord": "山",
+      "sourceWordJyutping": "saan1",
+      "sourceWordMeaning": "mountain",
+      "tags": [
+        "basic vocabulary",
+        "landforms",
+        "nature",
+        "geography",
+        "hk-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1-mountain.json"
+    },
+    {
+      "sentenceId": "saan1mak6-mountain-range-example-1",
+      "sentence": "喜馬拉雅山脈係世界上最高嘅山脈之一。",
+      "jyutping": "hei2 maa5 laai4 jo5 saan1 mak6 hai6 sai3 gaai3 soeng5 ge3 zoi3 go1 ge3 saan1 mak6 zi6 ji1.",
+      "meaning": "The Himalayas is one of the highest mountain ranges in the world.",
+      "sourceWordId": "saan1mak6-mountain-range",
+      "sourceWord": "山脈",
+      "sourceWordJyutping": "saan1 mak6",
+      "sourceWordMeaning": "mountain range",
+      "tags": [
+        "geography",
+        "landforms",
+        "nature",
+        "school vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1mak6-mountain-range.json"
+    },
+    {
+      "sentenceId": "saan1mak6-mountain-range-example-2",
+      "sentence": "呢條山脈橫跨幾個國家。",
+      "jyutping": "ni1 tiu4 saan1 mak6 waang4 kwaa3 gei2 go3 gwok3 gaa1.",
+      "meaning": "This mountain range stretches across several countries.",
+      "sourceWordId": "saan1mak6-mountain-range",
+      "sourceWord": "山脈",
+      "sourceWordJyutping": "saan1 mak6",
+      "sourceWordMeaning": "mountain range",
+      "tags": [
+        "geography",
+        "landforms",
+        "nature",
+        "school vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1mak6-mountain-range.json"
+    },
+    {
+      "sentenceId": "saan1mak6-mountain-range-example-3",
+      "sentence": "我喺地圖上見到一個好長嘅山脈。",
+      "jyutping": "ngo5 hai2 dei6 tou4 soeng6 gin3 dou3 jat1 go3 hou2 coeng4 ge3 saan1 mak6.",
+      "meaning": "I saw a very long mountain range on the map.",
+      "sourceWordId": "saan1mak6-mountain-range",
+      "sourceWord": "山脈",
+      "sourceWordJyutping": "saan1 mak6",
+      "sourceWordMeaning": "mountain range",
+      "tags": [
+        "geography",
+        "landforms",
+        "nature",
+        "school vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1mak6-mountain-range.json"
+    },
+    {
+      "sentenceId": "saan1mak6-mountain-range-example-4",
+      "sentence": "冬天嗰陣，山脈附近經常落雪。",
+      "jyutping": "dung1 tin1 go2 zan6, saan1 mak6 fu6 gan6 ging1 soeng4 lok6 syut3.",
+      "meaning": "In winter, it often snows near the mountain range.",
+      "sourceWordId": "saan1mak6-mountain-range",
+      "sourceWord": "山脈",
+      "sourceWordJyutping": "saan1 mak6",
+      "sourceWordMeaning": "mountain range",
+      "tags": [
+        "geography",
+        "landforms",
+        "nature",
+        "school vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1mak6-mountain-range.json"
+    },
+    {
+      "sentenceId": "saan1guk1-valley-example-1",
+      "sentence": "我哋沿住山路行入山谷。",
+      "jyutping": "ngo5 deoi6 jyun4 zyu6 saan1 lou6 haang4 jap6 saan1 guk1.",
+      "meaning": "We walked along the mountain path into the valley.",
+      "sourceWordId": "saan1guk1-valley",
+      "sourceWord": "山谷",
+      "sourceWordJyutping": "saan1 guk1",
+      "sourceWordMeaning": "valley",
+      "tags": [
+        "landforms",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1guk1-valley.json"
+    },
+    {
+      "sentenceId": "saan1guk1-valley-example-2",
+      "sentence": "山谷入面好靜，聽到啲鳥叫聲。",
+      "jyutping": "saan1 guk1 jap6 min6 hou2 zing6, teng1 dou3 di1 niu5 giu3 seng1.",
+      "meaning": "It was very quiet in the valley, and we could hear birds chirping.",
+      "sourceWordId": "saan1guk1-valley",
+      "sourceWord": "山谷",
+      "sourceWordJyutping": "saan1 guk1",
+      "sourceWordMeaning": "valley",
+      "tags": [
+        "landforms",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1guk1-valley.json"
+    },
+    {
+      "sentenceId": "saan1guk1-valley-example-3",
+      "sentence": "呢個山谷四周都係高山。",
+      "jyutping": "ni1 go3 saan1 guk1 sei3 zau1 dou1 hai6 gou1 saan1.",
+      "meaning": "This valley is surrounded by mountains on all sides.",
+      "sourceWordId": "saan1guk1-valley",
+      "sourceWord": "山谷",
+      "sourceWordJyutping": "saan1 guk1",
+      "sourceWordMeaning": "valley",
+      "tags": [
+        "landforms",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1guk1-valley.json"
+    },
+    {
+      "sentenceId": "saan1guk1-valley-example-4",
+      "sentence": "雨後山谷好多水氣，成日有薄霧。",
+      "jyutping": "jyu5 hau6 saan1 guk1 hou2 do1 seoi2 hei3, sing4 jat6 jau5 bok6 mou6.",
+      "meaning": "After rain, there is a lot of moisture in the valley, and it often gets misty.",
+      "sourceWordId": "saan1guk1-valley",
+      "sourceWord": "山谷",
+      "sourceWordJyutping": "saan1 guk1",
+      "sourceWordMeaning": "valley",
+      "tags": [
+        "landforms",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1guk1-valley.json"
+    },
+    {
+      "sentenceId": "ping4jyun4-plain-example-1",
+      "sentence": "長江平原地勢平坦，適合耕種。",
+      "jyutping": "coeng4 gong1 ping4 jyun4 dei6 sai3 ping4 taan2, sik1 hap6 gaang1 zung6.",
+      "meaning": "The Yangtze River plain is flat and suitable for farming.",
+      "sourceWordId": "ping4jyun4-plain",
+      "sourceWord": "平原",
+      "sourceWordJyutping": "ping4 jyun4",
+      "sourceWordMeaning": "plain",
+      "tags": [
+        "geography",
+        "landform",
+        "nature",
+        "school vocabulary",
+        "basic noun",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4jyun4-plain.json"
+    },
+    {
+      "sentenceId": "ping4jyun4-plain-example-2",
+      "sentence": "我哋學地理嗰陣，老師講咗平原同山地嘅分別。",
+      "jyutping": "ngo5 dei6 hok6 dei6 lei5 go2 zan6, laau5 si1 gong2 zo2 ping4 jyun4 tung4 saan1 dei6 ge3 fan1 bit6.",
+      "meaning": "When we studied geography, the teacher explained the difference between plains and mountainous land.",
+      "sourceWordId": "ping4jyun4-plain",
+      "sourceWord": "平原",
+      "sourceWordJyutping": "ping4 jyun4",
+      "sourceWordMeaning": "plain",
+      "tags": [
+        "geography",
+        "landform",
+        "nature",
+        "school vocabulary",
+        "basic noun",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4jyun4-plain.json"
+    },
+    {
+      "sentenceId": "ping4jyun4-plain-example-3",
+      "sentence": "呢片平原好大，遠遠望落去一片綠色。",
+      "jyutping": "ni1 pin3 ping4 jyun4 hou2 daai6, jyun5 jyun5 mong6 lok6 heoi3 jat1 pin3 luk6 sik1.",
+      "meaning": "This plain is very large, and from far away it looks like a stretch of green.",
+      "sourceWordId": "ping4jyun4-plain",
+      "sourceWord": "平原",
+      "sourceWordJyutping": "ping4 jyun4",
+      "sourceWordMeaning": "plain",
+      "tags": [
+        "geography",
+        "landform",
+        "nature",
+        "school vocabulary",
+        "basic noun",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4jyun4-plain.json"
+    },
+    {
+      "sentenceId": "ping4jyun4-plain-example-4",
+      "sentence": "火山爆發之後，附近嘅平原都覆蓋咗火山灰。",
+      "jyutping": "fo2 saan1 baau3 faat3 zi1 hau6, fu6 gan6 ge3 ping4 jyun4 dou1 fuk1 goi3 zo2 fo2 saan1 fui1.",
+      "meaning": "After the volcanic eruption, nearby plains were covered with volcanic ash.",
+      "sourceWordId": "ping4jyun4-plain",
+      "sourceWord": "平原",
+      "sourceWordJyutping": "ping4 jyun4",
+      "sourceWordMeaning": "plain",
+      "tags": [
+        "geography",
+        "landform",
+        "nature",
+        "school vocabulary",
+        "basic noun",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4jyun4-plain.json"
+    },
+    {
+      "sentenceId": "gou1jyun4-plateau-example-1",
+      "sentence": "青藏高原係世界上好出名嘅高原之一。",
+      "jyutping": "cing1 zong2 gou1 jyun4 hai6 sai3 gaai3 soeng6 hou2 ceot1 ming4 ge3 gou1 jyun4 zhi1 jat1.",
+      "meaning": "The Qinghai-Tibet Plateau is one of the world’s most famous plateaus.",
+      "sourceWordId": "gou1jyun4-plateau",
+      "sourceWord": "高原",
+      "sourceWordJyutping": "gou1 jyun4",
+      "sourceWordMeaning": "plateau",
+      "tags": [
+        "landforms",
+        "geography",
+        "nature",
+        "school vocabulary",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gou1jyun4-plateau.json"
+    },
+    {
+      "sentenceId": "gou1jyun4-plateau-example-2",
+      "sentence": "我哋去旅行嗰陣，見到一大片高原。",
+      "jyutping": "ngo5 dei6 heoi3 لوeng4 hang4 go2 zan6, gin3 dou3 jat1 daai6 pin3 gou1 jyun4.",
+      "meaning": "When we travelled, we saw a vast plateau.",
+      "sourceWordId": "gou1jyun4-plateau",
+      "sourceWord": "高原",
+      "sourceWordJyutping": "gou1 jyun4",
+      "sourceWordMeaning": "plateau",
+      "tags": [
+        "landforms",
+        "geography",
+        "nature",
+        "school vocabulary",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gou1jyun4-plateau.json"
+    },
+    {
+      "sentenceId": "gou1jyun4-plateau-example-3",
+      "sentence": "呢個高原海拔好高，天氣都比較涼。",
+      "jyutping": "ni1 go3 gou1 jyun4 hoi2 bat6 hou2 gou1, tin1 hei3 dou1 bij2 gaau3 loeng4.",
+      "meaning": "This plateau is at a high altitude, so the weather is relatively cool.",
+      "sourceWordId": "gou1jyun4-plateau",
+      "sourceWord": "高原",
+      "sourceWordJyutping": "gou1 jyun4",
+      "sourceWordMeaning": "plateau",
+      "tags": [
+        "landforms",
+        "geography",
+        "nature",
+        "school vocabulary",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gou1jyun4-plateau.json"
+    },
+    {
+      "sentenceId": "gou1jyun4-plateau-example-4",
+      "sentence": "地圖上面可以清楚見到呢片高原。",
+      "jyutping": "dei6 tou4 soeng6 min6 ho2 ji5 cing1 co2 gin3 dou3 ni1 pin3 gou1 jyun4.",
+      "meaning": "On the map, you can clearly see this plateau.",
+      "sourceWordId": "gou1jyun4-plateau",
+      "sourceWord": "高原",
+      "sourceWordJyutping": "gou1 jyun4",
+      "sourceWordMeaning": "plateau",
+      "tags": [
+        "landforms",
+        "geography",
+        "nature",
+        "school vocabulary",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gou1jyun4-plateau.json"
+    },
+    {
+      "sentenceId": "saan1dung6-cave-example-1",
+      "sentence": "我哋去山洞探險。",
+      "jyutping": "ngo5 deoi6 heoi3 saan1 dung6 taam3 hin2.",
+      "meaning": "We went cave exploring.",
+      "sourceWordId": "saan1dung6-cave",
+      "sourceWord": "山洞",
+      "sourceWordJyutping": "saan1 dung6",
+      "sourceWordMeaning": "cave",
+      "tags": [
+        "landforms",
+        "nature",
+        "outdoors",
+        "cave",
+        "terrain",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1dung6-cave.json"
+    },
+    {
+      "sentenceId": "saan1dung6-cave-example-2",
+      "sentence": "呢個山洞好涼快。",
+      "jyutping": "ni1 go3 saan1 dung6 hou2 loeng4 faai3.",
+      "meaning": "This cave is very cool.",
+      "sourceWordId": "saan1dung6-cave",
+      "sourceWord": "山洞",
+      "sourceWordJyutping": "saan1 dung6",
+      "sourceWordMeaning": "cave",
+      "tags": [
+        "landforms",
+        "nature",
+        "outdoors",
+        "cave",
+        "terrain",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1dung6-cave.json"
+    },
+    {
+      "sentenceId": "saan1dung6-cave-example-3",
+      "sentence": "小朋友喺山洞入面搵到一隻蝙蝠。",
+      "jyutping": "siu2 pang4 jau5 hai2 saan1 dung6 jap6 min6 wan2 dou3 jat1 zek3 pin1 fuk1.",
+      "meaning": "The children found a bat inside the cave.",
+      "sourceWordId": "saan1dung6-cave",
+      "sourceWord": "山洞",
+      "sourceWordJyutping": "saan1 dung6",
+      "sourceWordMeaning": "cave",
+      "tags": [
+        "landforms",
+        "nature",
+        "outdoors",
+        "cave",
+        "terrain",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1dung6-cave.json"
+    },
+    {
+      "sentenceId": "saan1dung6-cave-example-4",
+      "sentence": "暴雨之後，條山路附近多咗個山洞入口。",
+      "jyutping": "bou6 jyu5 zi1 hau6, tiu4 saan1 lou6 fu6 gei6 do1 zo2 go3 saan1 dung6 jap6 hau2.",
+      "meaning": "After the heavy rain, there was a cave entrance near the mountain path.",
+      "sourceWordId": "saan1dung6-cave",
+      "sourceWord": "山洞",
+      "sourceWordJyutping": "saan1 dung6",
+      "sourceWordMeaning": "cave",
+      "tags": [
+        "landforms",
+        "nature",
+        "outdoors",
+        "cave",
+        "terrain",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1dung6-cave.json"
+    },
+    {
+      "sentenceId": "ngaam4-large-rock-example-1",
+      "sentence": "前面有塊岩，行路要小心。",
+      "jyutping": "cin4 min6 jau5 faai3 ngaam4, haang4 lou6 jiu3 siu2 sam1.",
+      "meaning": "There is a big rock ahead, so be careful when walking.",
+      "sourceWordId": "ngaam4-large-rock",
+      "sourceWord": "岩",
+      "sourceWordJyutping": "ngaam4",
+      "sourceWordMeaning": "large rock",
+      "tags": [
+        "landform",
+        "nature",
+        "beginner",
+        "noun",
+        "outdoors",
+        "geography",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaam4-large-rock.json"
+    },
+    {
+      "sentenceId": "ngaam4-large-rock-example-2",
+      "sentence": "海邊好多岩，唔好行得太近。",
+      "jyutping": "hoi2 bin1 hou2 do1 ngaam4, m4 hou2 haang4 dak1 taai3 gan3.",
+      "meaning": "There are lots of rocks by the sea, so don’t walk too close.",
+      "sourceWordId": "ngaam4-large-rock",
+      "sourceWord": "岩",
+      "sourceWordJyutping": "ngaam4",
+      "sourceWordMeaning": "large rock",
+      "tags": [
+        "landform",
+        "nature",
+        "beginner",
+        "noun",
+        "outdoors",
+        "geography",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaam4-large-rock.json"
+    },
+    {
+      "sentenceId": "ngaam4-large-rock-example-3",
+      "sentence": "山腳嗰邊有一塊大岩。",
+      "jyutping": "saan1 goek3 go2 bin1 jau5 jat1 faai3 daai6 ngaam4.",
+      "meaning": "There is a large rock near the foot of the mountain.",
+      "sourceWordId": "ngaam4-large-rock",
+      "sourceWord": "岩",
+      "sourceWordJyutping": "ngaam4",
+      "sourceWordMeaning": "large rock",
+      "tags": [
+        "landform",
+        "nature",
+        "beginner",
+        "noun",
+        "outdoors",
+        "geography",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaam4-large-rock.json"
+    },
+    {
+      "sentenceId": "ngaam4-large-rock-example-4",
+      "sentence": "小朋友喺岩石旁邊玩。",
+      "jyutping": "siu2 pang4 jau5 hai2 ngaam4 sek6 pong4 bin1 waan2.",
+      "meaning": "The children are playing beside the rock.",
+      "sourceWordId": "ngaam4-large-rock",
+      "sourceWord": "岩",
+      "sourceWordJyutping": "ngaam4",
+      "sourceWordMeaning": "large rock",
+      "tags": [
+        "landform",
+        "nature",
+        "beginner",
+        "noun",
+        "outdoors",
+        "geography",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaam4-large-rock.json"
+    },
+    {
+      "sentenceId": "saa1mok6-desert-example-1",
+      "sentence": "撒哈拉沙漠係世界上最大嘅沙漠之一。",
+      "jyutping": "saat3 haa1 laai1 saa1 mok6 hai6 sai3 gaai3 soeng6 zui3 daai6 ge3 saa1 mok6 zi1 jat1",
+      "meaning": "The Sahara Desert is one of the largest deserts in the world.",
+      "sourceWordId": "saa1mok6-desert",
+      "sourceWord": "沙漠",
+      "sourceWordJyutping": "saa1 mok6",
+      "sourceWordMeaning": "desert",
+      "tags": [
+        "landform",
+        "nature",
+        "geography",
+        "desert",
+        "basic vocabulary",
+        "school topic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saa1mok6-desert.json"
+    },
+    {
+      "sentenceId": "saa1mok6-desert-example-2",
+      "sentence": "呢度成個山谷好似沙漠咁，幾乎乜都唔生。",
+      "jyutping": "ni1 dou6 sing4 go3 saan1 guk1 hou2 ci5 saa1 mok6 gam2, gei2 fu1 mat1 dou1 m4 saang1",
+      "meaning": "This whole valley is like a desert; almost nothing grows here.",
+      "sourceWordId": "saa1mok6-desert",
+      "sourceWord": "沙漠",
+      "sourceWordJyutping": "saa1 mok6",
+      "sourceWordMeaning": "desert",
+      "tags": [
+        "landform",
+        "nature",
+        "geography",
+        "desert",
+        "basic vocabulary",
+        "school topic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saa1mok6-desert.json"
+    },
+    {
+      "sentenceId": "saa1mok6-desert-example-3",
+      "sentence": "佢鍾意睇關於沙漠探險嘅紀錄片。",
+      "jyutping": "keoi5 zung1 ji3 tai2 gwaan1 jyu1 saa1 mok6 taam3 him2 ge3 gei2 luk6 pin3",
+      "meaning": "He likes watching documentaries about desert exploration.",
+      "sourceWordId": "saa1mok6-desert",
+      "sourceWord": "沙漠",
+      "sourceWordJyutping": "saa1 mok6",
+      "sourceWordMeaning": "desert",
+      "tags": [
+        "landform",
+        "nature",
+        "geography",
+        "desert",
+        "basic vocabulary",
+        "school topic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saa1mok6-desert.json"
+    },
+    {
+      "sentenceId": "saa1mok6-desert-example-4",
+      "sentence": "夏天太熱，操場曬到好似沙漠一樣。",
+      "jyutping": "haa6 tin1 taai3 jit6, cou1 coeng4 saai3 dou3 hou2 ci5 saa1 mok6 jat1 joeng6",
+      "meaning": "In summer, the playground gets so hot that it feels like a desert.",
+      "sourceWordId": "saa1mok6-desert",
+      "sourceWord": "沙漠",
+      "sourceWordJyutping": "saa1 mok6",
+      "sourceWordMeaning": "desert",
+      "tags": [
+        "landform",
+        "nature",
+        "geography",
+        "desert",
+        "basic vocabulary",
+        "school topic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saa1mok6-desert.json"
+    },
+    {
+      "sentenceId": "ho4-river-example-1",
+      "sentence": "我哋喺河邊散步。",
+      "jyutping": "ngo5 dei6 hai2 ho4 bin1 saan3 bou3.",
+      "meaning": "We are taking a walk by the river.",
+      "sourceWordId": "ho4-river",
+      "sourceWord": "河",
+      "sourceWordJyutping": "ho4",
+      "sourceWordMeaning": "river",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "basic noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ho4-river.json"
+    },
+    {
+      "sentenceId": "ho4-river-example-2",
+      "sentence": "呢條河好長。",
+      "jyutping": "ni1 tiu4 ho4 hou2 coeng4.",
+      "meaning": "This river is very long.",
+      "sourceWordId": "ho4-river",
+      "sourceWord": "河",
+      "sourceWordJyutping": "ho4",
+      "sourceWordMeaning": "river",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "basic noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ho4-river.json"
+    },
+    {
+      "sentenceId": "ho4-river-example-3",
+      "sentence": "落雨之後，河水漲咗。",
+      "jyutping": "lok6 jyu5 zi1 hau6, ho4 seoi2 zoeng2 zo2.",
+      "meaning": "After the rain, the river water rose.",
+      "sourceWordId": "ho4-river",
+      "sourceWord": "河",
+      "sourceWordJyutping": "ho4",
+      "sourceWordMeaning": "river",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "basic noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ho4-river.json"
+    },
+    {
+      "sentenceId": "ho4-river-example-4",
+      "sentence": "細路仔喺河入面睇到魚。",
+      "jyutping": "sai3 lou6 zai2 hai2 ho4 jap6 min6 tai2 dou3 jyu4.",
+      "meaning": "The kids saw fish in the river.",
+      "sourceWordId": "ho4-river",
+      "sourceWord": "河",
+      "sourceWordJyutping": "ho4",
+      "sourceWordMeaning": "river",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "basic noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ho4-river.json"
+    },
+    {
+      "sentenceId": "wu4-lake-example-1",
+      "sentence": "日月潭係台灣好出名嘅湖。",
+      "jyutping": "jat6 jyut6 taam4 hai6 toi4 waan1 hou2 ce5 ming4 ge3 wu4.",
+      "meaning": "Sun Moon Lake is a very famous lake in Taiwan.",
+      "sourceWordId": "wu4-lake",
+      "sourceWord": "湖",
+      "sourceWordJyutping": "wu4",
+      "sourceWordMeaning": "lake",
+      "tags": [
+        "nature",
+        "water features",
+        "geography",
+        "landforms",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu4-lake.json"
+    },
+    {
+      "sentenceId": "wu4-lake-example-2",
+      "sentence": "我哋喺湖邊散步。",
+      "jyutping": "ngo5 dei6 hai2 wu4 bin1 saan3 bou6.",
+      "meaning": "We take a walk by the lake.",
+      "sourceWordId": "wu4-lake",
+      "sourceWord": "湖",
+      "sourceWordJyutping": "wu4",
+      "sourceWordMeaning": "lake",
+      "tags": [
+        "nature",
+        "water features",
+        "geography",
+        "landforms",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu4-lake.json"
+    },
+    {
+      "sentenceId": "wu4-lake-example-3",
+      "sentence": "呢個湖冬天會結冰。",
+      "jyutping": "ni1 go3 wu4 dung1 tin1 wui5 git3 bing1.",
+      "meaning": "This lake freezes in winter.",
+      "sourceWordId": "wu4-lake",
+      "sourceWord": "湖",
+      "sourceWordJyutping": "wu4",
+      "sourceWordMeaning": "lake",
+      "tags": [
+        "nature",
+        "water features",
+        "geography",
+        "landforms",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu4-lake.json"
+    },
+    {
+      "sentenceId": "wu4-lake-example-4",
+      "sentence": "細路仔最鍾意喺湖入面睇魚。",
+      "jyutping": "sai3 lou6 zai2 zeoi3 zung1 ji3 hai2 wu4 jap6 min6 tai2 jyu4.",
+      "meaning": "Children like looking at fish in the lake the most.",
+      "sourceWordId": "wu4-lake",
+      "sourceWord": "湖",
+      "sourceWordJyutping": "wu4",
+      "sourceWordMeaning": "lake",
+      "tags": [
+        "nature",
+        "water features",
+        "geography",
+        "landforms",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu4-lake.json"
+    },
+    {
+      "sentenceId": "cyun4-spring-example-1",
+      "sentence": "山上面有一眼泉。",
+      "jyutping": "saan1 seung6 min6 jau5 jat1 ngaan5 cyun4",
+      "meaning": "There is a spring on the mountain.",
+      "sourceWordId": "cyun4-spring",
+      "sourceWord": "泉",
+      "sourceWordJyutping": "cyun4",
+      "sourceWordMeaning": "spring",
+      "tags": [
+        "water features",
+        "geography",
+        "nature",
+        "landforms",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyun4-spring.json"
+    },
+    {
+      "sentenceId": "cyun4-spring-example-2",
+      "sentence": "呢口泉水好清甜。",
+      "jyutping": "ni1 hau2 cyun4 seoi2 hou2 cing1 tim4",
+      "meaning": "This spring water is very clear and sweet.",
+      "sourceWordId": "cyun4-spring",
+      "sourceWord": "泉",
+      "sourceWordJyutping": "cyun4",
+      "sourceWordMeaning": "spring",
+      "tags": [
+        "water features",
+        "geography",
+        "nature",
+        "landforms",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyun4-spring.json"
+    },
+    {
+      "sentenceId": "cyun4-spring-example-3",
+      "sentence": "村民平時都去山腳嗰個泉打水。",
+      "jyutping": "cyun1 man4 ping4 si4 dou1 heoi3 saan1 goek3 go2 go3 cyun4 daa2 seoi2",
+      "meaning": "The villagers usually go to the spring at the foot of the mountain to fetch water.",
+      "sourceWordId": "cyun4-spring",
+      "sourceWord": "泉",
+      "sourceWordJyutping": "cyun4",
+      "sourceWordMeaning": "spring",
+      "tags": [
+        "water features",
+        "geography",
+        "nature",
+        "landforms",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyun4-spring.json"
+    },
+    {
+      "sentenceId": "cyun4-spring-example-4",
+      "sentence": "個地圖標咗附近有溫泉同冷泉。",
+      "jyutping": "go3 dei6 tou4 biu1 zo2 fu4 gam6 jau5 wan1 cyun4 tung4 laang5 cyun4",
+      "meaning": "The map shows nearby hot springs and cold springs.",
+      "sourceWordId": "cyun4-spring",
+      "sourceWord": "泉",
+      "sourceWordJyutping": "cyun4",
+      "sourceWordMeaning": "spring",
+      "tags": [
+        "water features",
+        "geography",
+        "nature",
+        "landforms",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyun4-spring.json"
+    },
+    {
+      "sentenceId": "kai1-creek-example-1",
+      "sentence": "山邊有條溪。",
+      "jyutping": "saan1 bin1 jau5 tiu4 kai1.",
+      "meaning": "There is a creek by the hillside.",
+      "sourceWordId": "kai1-creek",
+      "sourceWord": "溪",
+      "sourceWordJyutping": "kai1",
+      "sourceWordMeaning": "creek",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "level 1",
+        "outdoors",
+        "landforms",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kai1-creek.json"
+    },
+    {
+      "sentenceId": "kai1-creek-example-2",
+      "sentence": "細路仔喺溪邊玩水。",
+      "jyutping": "sai3 lou6 zai2 hai2 kai1 bin1 waan2 seoi2.",
+      "meaning": "The kids are playing in the creek.",
+      "sourceWordId": "kai1-creek",
+      "sourceWord": "溪",
+      "sourceWordJyutping": "kai1",
+      "sourceWordMeaning": "creek",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "level 1",
+        "outdoors",
+        "landforms",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kai1-creek.json"
+    },
+    {
+      "sentenceId": "kai1-creek-example-3",
+      "sentence": "雨後條溪水流得好急。",
+      "jyutping": "jyu5 hau6 tiu4 kai1 seoi2 lau4 dak1 hou2 kap1.",
+      "meaning": "After the rain, the creek water is flowing very fast.",
+      "sourceWordId": "kai1-creek",
+      "sourceWord": "溪",
+      "sourceWordJyutping": "kai1",
+      "sourceWordMeaning": "creek",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "level 1",
+        "outdoors",
+        "landforms",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kai1-creek.json"
+    },
+    {
+      "sentenceId": "kai1-creek-example-4",
+      "sentence": "我哋行山經過一條清澈嘅溪。",
+      "jyutping": "ngo5 dei6 haang4 saan1 ging1 gwo3 jat1 tiu4 cing1 cit3 ge3 kai1.",
+      "meaning": "We passed a clear creek while hiking.",
+      "sourceWordId": "kai1-creek",
+      "sourceWord": "溪",
+      "sourceWordJyutping": "kai1",
+      "sourceWordMeaning": "creek",
+      "tags": [
+        "water feature",
+        "nature",
+        "geography",
+        "level 1",
+        "outdoors",
+        "landforms",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/kai1-creek.json"
+    },
+    {
+      "sentenceId": "ci4tong4-pond-example-1",
+      "sentence": "公園入面有個池塘。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 go3 ci4 tong4.",
+      "meaning": "There is a pond in the park.",
+      "sourceWordId": "ci4tong4-pond",
+      "sourceWord": "池塘",
+      "sourceWordJyutping": "ci4 tong4",
+      "sourceWordMeaning": "pond",
+      "tags": [
+        "nature",
+        "water features",
+        "landforms",
+        "everyday noun",
+        "beginner",
+        "outdoor places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci4tong4-pond.json"
+    },
+    {
+      "sentenceId": "ci4tong4-pond-example-2",
+      "sentence": "池塘裡面有好多魚。",
+      "jyutping": "ci4 tong4 leoi5 min6 jau5 hou2 do1 jyu4.",
+      "meaning": "There are many fish in the pond.",
+      "sourceWordId": "ci4tong4-pond",
+      "sourceWord": "池塘",
+      "sourceWordJyutping": "ci4 tong4",
+      "sourceWordMeaning": "pond",
+      "tags": [
+        "nature",
+        "water features",
+        "landforms",
+        "everyday noun",
+        "beginner",
+        "outdoor places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci4tong4-pond.json"
+    },
+    {
+      "sentenceId": "ci4tong4-pond-example-3",
+      "sentence": "夏天嗰陣，池塘邊好多青蛙。",
+      "jyutping": "haa6 tin1 go2 zan6, ci4 tong4 bin1 hou2 do1 cing1 wa1.",
+      "meaning": "In summer, there are many frogs by the pond.",
+      "sourceWordId": "ci4tong4-pond",
+      "sourceWord": "池塘",
+      "sourceWordJyutping": "ci4 tong4",
+      "sourceWordMeaning": "pond",
+      "tags": [
+        "nature",
+        "water features",
+        "landforms",
+        "everyday noun",
+        "beginner",
+        "outdoor places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci4tong4-pond.json"
+    },
+    {
+      "sentenceId": "ci4tong4-pond-example-4",
+      "sentence": "佢細個成日去池塘邊玩。",
+      "jyutping": "keoi5 sai3 go3 sing4 jat6 heoi3 ci4 tong4 bin1 waan2.",
+      "meaning": "When he was young, he often played by the pond.",
+      "sourceWordId": "ci4tong4-pond",
+      "sourceWord": "池塘",
+      "sourceWordJyutping": "ci4 tong4",
+      "sourceWordMeaning": "pond",
+      "tags": [
+        "nature",
+        "water features",
+        "landforms",
+        "everyday noun",
+        "beginner",
+        "outdoor places",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci4tong4-pond.json"
+    },
+    {
+      "sentenceId": "buk6bou3-waterfall-example-1",
+      "sentence": "呢條行山徑可以去到一個好靚嘅瀑布。",
+      "jyutping": "ni1 tiu4 hang4 san1 ging3 ho2 ji5 heoi3 dou3 jat1 go3 hou2 leng3 ge3 buk6 bou3",
+      "meaning": "This hiking trail can take you to a very beautiful waterfall.",
+      "sourceWordId": "buk6bou3-waterfall",
+      "sourceWord": "瀑布",
+      "sourceWordJyutping": "buk6 bou3",
+      "sourceWordMeaning": "waterfall",
+      "tags": [
+        "nature",
+        "landforms",
+        "water features",
+        "travel",
+        "hiking",
+        "beginner",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/buk6bou3-waterfall.json"
+    },
+    {
+      "sentenceId": "buk6bou3-waterfall-example-2",
+      "sentence": "山上面有個大瀑布，夏天好多人去睇。",
+      "jyutping": "saan1 soeng6 min6 jau5 go3 daai6 buk6 bou3, haa6 tin1 hou2 do1 jan4 heoi3 tai2.",
+      "meaning": "There is a big waterfall on the mountain, and many people go to see it in summer.",
+      "sourceWordId": "buk6bou3-waterfall",
+      "sourceWord": "瀑布",
+      "sourceWordJyutping": "buk6 bou3",
+      "sourceWordMeaning": "waterfall",
+      "tags": [
+        "nature",
+        "landforms",
+        "water features",
+        "travel",
+        "hiking",
+        "beginner",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/buk6bou3-waterfall.json"
+    },
+    {
+      "sentenceId": "buk6bou3-waterfall-example-3",
+      "sentence": "聽日我哋去睇瀑布，好唔好？",
+      "jyutping": "ting1 jat6 ngo5 dei6 heoi3 tai2 buk6 bou3, hou2 m4 hou2?",
+      "meaning": "Tomorrow let's go see the waterfall, okay?",
+      "sourceWordId": "buk6bou3-waterfall",
+      "sourceWord": "瀑布",
+      "sourceWordJyutping": "buk6 bou3",
+      "sourceWordMeaning": "waterfall",
+      "tags": [
+        "nature",
+        "landforms",
+        "water features",
+        "travel",
+        "hiking",
+        "beginner",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/buk6bou3-waterfall.json"
+    },
+    {
+      "sentenceId": "buk6bou3-waterfall-example-4",
+      "sentence": "暴雨之後，瀑布嘅水流會特別急。",
+      "jyutping": "bou6 jyu5 zi1 hau6, buk6 bou3 ge3 seoi2 lau4 wui5 dak6 bit6 kap1.",
+      "meaning": "After heavy rain, the waterfall's flow becomes especially strong.",
+      "sourceWordId": "buk6bou3-waterfall",
+      "sourceWord": "瀑布",
+      "sourceWordJyutping": "buk6 bou3",
+      "sourceWordMeaning": "waterfall",
+      "tags": [
+        "nature",
+        "landforms",
+        "water features",
+        "travel",
+        "hiking",
+        "beginner",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/buk6bou3-waterfall.json"
+    },
+    {
+      "sentenceId": "waan1-bay-example-1",
+      "sentence": "呢個灣水好平靜。",
+      "jyutping": "ni1 go3 waan1 seoi2 hou2 ping4 zing6.",
+      "meaning": "This bay has very calm water.",
+      "sourceWordId": "waan1-bay",
+      "sourceWord": "灣",
+      "sourceWordJyutping": "waan1",
+      "sourceWordMeaning": "bay",
+      "tags": [
+        "geography",
+        "landforms",
+        "water features",
+        "nature",
+        "level 1",
+        "Cantonese noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waan1-bay.json"
+    },
+    {
+      "sentenceId": "waan1-bay-example-2",
+      "sentence": "我哋喺灣邊散步。",
+      "jyutping": "ngo5 dei6 hai2 waan1 bin1 saan3 bou6.",
+      "meaning": "We are taking a walk by the bay.",
+      "sourceWordId": "waan1-bay",
+      "sourceWord": "灣",
+      "sourceWordJyutping": "waan1",
+      "sourceWordMeaning": "bay",
+      "tags": [
+        "geography",
+        "landforms",
+        "water features",
+        "nature",
+        "level 1",
+        "Cantonese noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waan1-bay.json"
+    },
+    {
+      "sentenceId": "waan1-bay-example-3",
+      "sentence": "漁船停喺灣入面。",
+      "jyutping": "jyu4 syun4 ting4 hai2 waan1 jap6 min6.",
+      "meaning": "The fishing boat is停 in the bay.",
+      "sourceWordId": "waan1-bay",
+      "sourceWord": "灣",
+      "sourceWordJyutping": "waan1",
+      "sourceWordMeaning": "bay",
+      "tags": [
+        "geography",
+        "landforms",
+        "water features",
+        "nature",
+        "level 1",
+        "Cantonese noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waan1-bay.json"
+    },
+    {
+      "sentenceId": "waan1-bay-example-4",
+      "sentence": "佢哋去咗嗰個灣睇日落。",
+      "jyutping": "keoi5 dei6 heoi3 zo2 go2 go3 waan1 tai2 jat6 lok6.",
+      "meaning": "They went to that bay to watch the sunset.",
+      "sourceWordId": "waan1-bay",
+      "sourceWord": "灣",
+      "sourceWordJyutping": "waan1",
+      "sourceWordMeaning": "bay",
+      "tags": [
+        "geography",
+        "landforms",
+        "water features",
+        "nature",
+        "level 1",
+        "Cantonese noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/waan1-bay.json"
+    },
+    {
+      "sentenceId": "hoi2-sea-example-1",
+      "sentence": "我哋去海邊散步。",
+      "jyutping": "ngo5 dei6 heoi3 hoi2 bin1 saan3 bou6.",
+      "meaning": "We’re going for a walk by the sea.",
+      "sourceWordId": "hoi2-sea",
+      "sourceWord": "海",
+      "sourceWordJyutping": "hoi2",
+      "sourceWordMeaning": "sea",
+      "tags": [
+        "water feature",
+        "nature",
+        "landform",
+        "basic noun",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2-sea.json"
+    },
+    {
+      "sentenceId": "hoi2-sea-example-2",
+      "sentence": "今日海好平靜。",
+      "jyutping": "gam1 jat6 hoi2 hou2 ping4 zing6.",
+      "meaning": "The sea is very calm today.",
+      "sourceWordId": "hoi2-sea",
+      "sourceWord": "海",
+      "sourceWordJyutping": "hoi2",
+      "sourceWordMeaning": "sea",
+      "tags": [
+        "water feature",
+        "nature",
+        "landform",
+        "basic noun",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2-sea.json"
+    },
+    {
+      "sentenceId": "hoi2-sea-example-3",
+      "sentence": "夏天我最鍾意去海游水。",
+      "jyutping": "haa6 tin1 ngo5 zeoi3 zung1 ji3 heoi3 hoi2 jau4 seoi2.",
+      "meaning": "In summer, I like going to the sea to swim the most.",
+      "sourceWordId": "hoi2-sea",
+      "sourceWord": "海",
+      "sourceWordJyutping": "hoi2",
+      "sourceWordMeaning": "sea",
+      "tags": [
+        "water feature",
+        "nature",
+        "landform",
+        "basic noun",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2-sea.json"
+    },
+    {
+      "sentenceId": "hoi2-sea-example-4",
+      "sentence": "風暴嚟嘅時候，海浪會好大。",
+      "jyutping": "fung1 bou6 lei4 ge3 si4 hau6, hoi2 long6 wui5 hou2 daai6.",
+      "meaning": "When a storm comes, the sea waves can get very big.",
+      "sourceWordId": "hoi2-sea",
+      "sourceWord": "海",
+      "sourceWordJyutping": "hoi2",
+      "sourceWordMeaning": "sea",
+      "tags": [
+        "water feature",
+        "nature",
+        "landform",
+        "basic noun",
+        "everyday Cantonese",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2-sea.json"
+    },
+    {
+      "sentenceId": "fo2saan1-volcano-example-1",
+      "sentence": "夏威夷有好多火山。",
+      "jyutping": "haa6 wai1 ji4 jau5 hou2 do1 fo2 saan1.",
+      "meaning": "Hawaii has many volcanoes.",
+      "sourceWordId": "fo2saan1-volcano",
+      "sourceWord": "火山",
+      "sourceWordJyutping": "fo2 saan1",
+      "sourceWordMeaning": "volcano",
+      "tags": [
+        "earth features",
+        "natural disasters",
+        "geography",
+        "science",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1-volcano.json"
+    },
+    {
+      "sentenceId": "fo2saan1-volcano-example-2",
+      "sentence": "呢座火山最近冇再噴出熔岩。",
+      "jyutping": "ni1 zo6 fo2 saan1 zeoi3 gan6 mou5 zoi3 fan3 ceot1 jung4 ngaan4.",
+      "meaning": "This volcano has not been spewing lava recently.",
+      "sourceWordId": "fo2saan1-volcano",
+      "sourceWord": "火山",
+      "sourceWordJyutping": "fo2 saan1",
+      "sourceWordMeaning": "volcano",
+      "tags": [
+        "earth features",
+        "natural disasters",
+        "geography",
+        "science",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1-volcano.json"
+    },
+    {
+      "sentenceId": "fo2saan1-volcano-example-3",
+      "sentence": "老師用模型講火山爆發。",
+      "jyutping": "lou5 si1 jung6 mou4 jing4 gong2 fo2 saan1 baak3 faat3.",
+      "meaning": "The teacher used a model to explain a volcanic eruption.",
+      "sourceWordId": "fo2saan1-volcano",
+      "sourceWord": "火山",
+      "sourceWordJyutping": "fo2 saan1",
+      "sourceWordMeaning": "volcano",
+      "tags": [
+        "earth features",
+        "natural disasters",
+        "geography",
+        "science",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1-volcano.json"
+    },
+    {
+      "sentenceId": "fo2saan1-volcano-example-4",
+      "sentence": "我哋去睇火山地形。",
+      "jyutping": "ngo5 dei6 heoi3 tai2 fo2 saan1 dei6 jing4.",
+      "meaning": "We went to look at volcanic landforms.",
+      "sourceWordId": "fo2saan1-volcano",
+      "sourceWord": "火山",
+      "sourceWordJyutping": "fo2 saan1",
+      "sourceWordMeaning": "volcano",
+      "tags": [
+        "earth features",
+        "natural disasters",
+        "geography",
+        "science",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1-volcano.json"
+    },
+    {
+      "sentenceId": "fo2saan1hau2-crater-example-1",
+      "sentence": "火山口附近嘅岩石好熱。",
+      "jyutping": "fo2 saan1 hau2 fu6 gan6 ge3 ngaam4 sek6 hou2 jit6.",
+      "meaning": "The rocks near the crater are very hot.",
+      "sourceWordId": "fo2saan1hau2-crater",
+      "sourceWord": "火山口",
+      "sourceWordJyutping": "fo2 saan1 hau2",
+      "sourceWordMeaning": "crater",
+      "tags": [
+        "earth_features",
+        "landforms",
+        "natural_disasters",
+        "geography",
+        "science",
+        "level_1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1hau2-crater.json"
+    },
+    {
+      "sentenceId": "fo2saan1hau2-crater-example-2",
+      "sentence": "科學家研究火山口入面嘅情況。",
+      "jyutping": "fo1 hok6 gaa1 jan4 gau3 fo2 saan1 hau2 jap6 min6 ge3 cing4 fong3.",
+      "meaning": "Scientists study the conditions inside the crater.",
+      "sourceWordId": "fo2saan1hau2-crater",
+      "sourceWord": "火山口",
+      "sourceWordJyutping": "fo2 saan1 hau2",
+      "sourceWordMeaning": "crater",
+      "tags": [
+        "earth_features",
+        "landforms",
+        "natural_disasters",
+        "geography",
+        "science",
+        "level_1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1hau2-crater.json"
+    },
+    {
+      "sentenceId": "fo2saan1hau2-crater-example-3",
+      "sentence": "呢個火山口睇落好深。",
+      "jyutping": "ni1 go3 fo2 saan1 hau2 tai2 lok6 hou2 sam1.",
+      "meaning": "This crater looks very deep.",
+      "sourceWordId": "fo2saan1hau2-crater",
+      "sourceWord": "火山口",
+      "sourceWordJyutping": "fo2 saan1 hau2",
+      "sourceWordMeaning": "crater",
+      "tags": [
+        "earth_features",
+        "landforms",
+        "natural_disasters",
+        "geography",
+        "science",
+        "level_1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1hau2-crater.json"
+    },
+    {
+      "sentenceId": "fo2saan1hau2-crater-example-4",
+      "sentence": "遊客通常唔可以太近火山口。",
+      "jyutping": "jau4 haak3 tung1 soeng4 m4 ho2 ji5 taai3 gan6 fo2 saan1 hau2.",
+      "meaning": "Tourists usually cannot get too close to the crater.",
+      "sourceWordId": "fo2saan1hau2-crater",
+      "sourceWord": "火山口",
+      "sourceWordJyutping": "fo2 saan1 hau2",
+      "sourceWordMeaning": "crater",
+      "tags": [
+        "earth_features",
+        "landforms",
+        "natural_disasters",
+        "geography",
+        "science",
+        "level_1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1hau2-crater.json"
+    },
+    {
+      "sentenceId": "sek6tau4-rock-example-1",
+      "sentence": "呢塊石頭好重，我拎唔起。",
+      "jyutping": "ni1 faai3 sek6 tau4 hou2 zung6, ngo5 ling1 m4 hei2.",
+      "meaning": "This rock is very heavy; I can’t lift it.",
+      "sourceWordId": "sek6tau4-rock",
+      "sourceWord": "石頭",
+      "sourceWordJyutping": "sek6 tau4",
+      "sourceWordMeaning": "rock",
+      "tags": [
+        "earth features",
+        "nature",
+        "landforms",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sek6tau4-rock.json"
+    },
+    {
+      "sentenceId": "sek6tau4-rock-example-2",
+      "sentence": "小朋友喺沙灘執石頭玩。",
+      "jyutping": "siu2 pang4 jau5 hai2 saa1 taan1 zap1 sek6 tau4 waan2.",
+      "meaning": "The children picked up rocks on the beach to play.",
+      "sourceWordId": "sek6tau4-rock",
+      "sourceWord": "石頭",
+      "sourceWordJyutping": "sek6 tau4",
+      "sourceWordMeaning": "rock",
+      "tags": [
+        "earth features",
+        "nature",
+        "landforms",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sek6tau4-rock.json"
+    },
+    {
+      "sentenceId": "sek6tau4-rock-example-3",
+      "sentence": "佢用石頭壓住張紙。",
+      "jyutping": "keoi5 jung6 sek6 tau4 aa3 zyu6 zoeng1 zi2.",
+      "meaning": "He used a rock to hold down the paper.",
+      "sourceWordId": "sek6tau4-rock",
+      "sourceWord": "石頭",
+      "sourceWordJyutping": "sek6 tau4",
+      "sourceWordMeaning": "rock",
+      "tags": [
+        "earth features",
+        "nature",
+        "landforms",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sek6tau4-rock.json"
+    },
+    {
+      "sentenceId": "sek6tau4-rock-example-4",
+      "sentence": "山邊好多石頭，小心行。",
+      "jyutping": "saan1 bin1 hou2 do1 sek6 tau4, siu2 sam1 hang4.",
+      "meaning": "There are lots of rocks by the mountain; walk carefully.",
+      "sourceWordId": "sek6tau4-rock",
+      "sourceWord": "石頭",
+      "sourceWordJyutping": "sek6 tau4",
+      "sourceWordMeaning": "rock",
+      "tags": [
+        "earth features",
+        "nature",
+        "landforms",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sek6tau4-rock.json"
+    },
+    {
+      "sentenceId": "tou2dei6-land-example-1",
+      "sentence": "呢塊土地好適合起屋。",
+      "jyutping": "ni1 faai3 tou2 dei6 hou2 sik1 hap6 hei2 uk1.",
+      "meaning": "This piece of land is suitable for building houses.",
+      "sourceWordId": "tou2dei6-land",
+      "sourceWord": "土地",
+      "sourceWordJyutping": "tou2 dei6",
+      "sourceWordMeaning": "land",
+      "tags": [
+        "earth features",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2dei6-land.json"
+    },
+    {
+      "sentenceId": "tou2dei6-land-example-2",
+      "sentence": "政府想保護農村土地。",
+      "jyutping": "zing3 fu2 soeng2 bou2 wu6 nung4 cyun1 tou2 dei6.",
+      "meaning": "The government wants to protect rural land.",
+      "sourceWordId": "tou2dei6-land",
+      "sourceWord": "土地",
+      "sourceWordJyutping": "tou2 dei6",
+      "sourceWordMeaning": "land",
+      "tags": [
+        "earth features",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2dei6-land.json"
+    },
+    {
+      "sentenceId": "tou2dei6-land-example-3",
+      "sentence": "佢哋買咗一幅土地做工廠。",
+      "jyutping": "keoi5 dei6 maai5 zo2 jat1 fuk1 tou2 dei6 zou6 gung1 cong2.",
+      "meaning": "They bought a plot of land for a factory.",
+      "sourceWordId": "tou2dei6-land",
+      "sourceWord": "土地",
+      "sourceWordJyutping": "tou2 dei6",
+      "sourceWordMeaning": "land",
+      "tags": [
+        "earth features",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2dei6-land.json"
+    },
+    {
+      "sentenceId": "tou2dei6-land-example-4",
+      "sentence": "呢度嘅土地比較肥沃。",
+      "jyutping": "ni1 dou6 ge3 tou2 dei6 bei2 gaau3 fei4 wok3.",
+      "meaning": "The land here is relatively fertile.",
+      "sourceWordId": "tou2dei6-land",
+      "sourceWord": "土地",
+      "sourceWordJyutping": "tou2 dei6",
+      "sourceWordMeaning": "land",
+      "tags": [
+        "earth features",
+        "nature",
+        "geography",
+        "basic vocabulary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2dei6-land.json"
+    },
+    {
+      "sentenceId": "dei6min6-ground-example-1",
+      "sentence": "地面好濕，小心啲行。",
+      "jyutping": "dei6 min6 hou2 sat1, siu2 sam1 di1 hong4.",
+      "meaning": "The ground is wet, so walk carefully.",
+      "sourceWordId": "dei6min6-ground",
+      "sourceWord": "地面",
+      "sourceWordJyutping": "dei6 min6",
+      "sourceWordMeaning": "ground",
+      "tags": [
+        "basic vocabulary",
+        "daily life",
+        "earth features",
+        "school",
+        "safety",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6min6-ground.json"
+    },
+    {
+      "sentenceId": "dei6min6-ground-example-2",
+      "sentence": "個波跌咗落地面。",
+      "jyutping": "go3 bo1 dip6 zo2 lok6 dei6 min6.",
+      "meaning": "The ball fell onto the ground.",
+      "sourceWordId": "dei6min6-ground",
+      "sourceWord": "地面",
+      "sourceWordJyutping": "dei6 min6",
+      "sourceWordMeaning": "ground",
+      "tags": [
+        "basic vocabulary",
+        "daily life",
+        "earth features",
+        "school",
+        "safety",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6min6-ground.json"
+    },
+    {
+      "sentenceId": "dei6min6-ground-example-3",
+      "sentence": "垃圾唔好亂掉喺地面。",
+      "jyutping": "laap6 saa1 m4 hou2 lyun6 diu6 hai2 dei6 min6.",
+      "meaning": "Don't throw trash on the ground.",
+      "sourceWordId": "dei6min6-ground",
+      "sourceWord": "地面",
+      "sourceWordJyutping": "dei6 min6",
+      "sourceWordMeaning": "ground",
+      "tags": [
+        "basic vocabulary",
+        "daily life",
+        "earth features",
+        "school",
+        "safety",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6min6-ground.json"
+    },
+    {
+      "sentenceId": "dei6min6-ground-example-4",
+      "sentence": "地下同地面都要保持清潔。",
+      "jyutping": "dei6 haa6 tung4 dei6 min6 dou1 jiu3 bou2 ci4 cing1 kit3.",
+      "meaning": "Both the floor and the ground should be kept clean.",
+      "sourceWordId": "dei6min6-ground",
+      "sourceWord": "地面",
+      "sourceWordJyutping": "dei6 min6",
+      "sourceWordMeaning": "ground",
+      "tags": [
+        "basic vocabulary",
+        "daily life",
+        "earth features",
+        "school",
+        "safety",
+        "common noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6min6-ground.json"
+    },
+    {
+      "sentenceId": "syut3saan1-snowy-mountain-example-1",
+      "sentence": "我想去睇吓雪山。",
+      "jyutping": "ngo5 soeng2 heoi3 tai2 haa5 syut3 saan1.",
+      "meaning": "I want to go see the snowy mountain.",
+      "sourceWordId": "syut3saan1-snowy-mountain",
+      "sourceWord": "雪山",
+      "sourceWordJyutping": "syut3 saan1",
+      "sourceWordMeaning": "snowy mountain",
+      "tags": [
+        "landforms",
+        "nature",
+        "mountains",
+        "geography",
+        "travel",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3saan1-snowy-mountain.json"
+    },
+    {
+      "sentenceId": "syut3saan1-snowy-mountain-example-2",
+      "sentence": "冬天嘅雪山好靚。",
+      "jyutping": "dung1 tin1 ge3 syut3 saan1 hou2 leng3.",
+      "meaning": "The snowy mountain is beautiful in winter.",
+      "sourceWordId": "syut3saan1-snowy-mountain",
+      "sourceWord": "雪山",
+      "sourceWordJyutping": "syut3 saan1",
+      "sourceWordMeaning": "snowy mountain",
+      "tags": [
+        "landforms",
+        "nature",
+        "mountains",
+        "geography",
+        "travel",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3saan1-snowy-mountain.json"
+    },
+    {
+      "sentenceId": "syut3saan1-snowy-mountain-example-3",
+      "sentence": "佢哋喺雪山影相。",
+      "jyutping": "keoi5 dei6 hai2 syut3 saan1 jing2 soeng2.",
+      "meaning": "They are taking photos on the snowy mountain.",
+      "sourceWordId": "syut3saan1-snowy-mountain",
+      "sourceWord": "雪山",
+      "sourceWordJyutping": "syut3 saan1",
+      "sourceWordMeaning": "snowy mountain",
+      "tags": [
+        "landforms",
+        "nature",
+        "mountains",
+        "geography",
+        "travel",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3saan1-snowy-mountain.json"
+    },
+    {
+      "sentenceId": "syut3saan1-snowy-mountain-example-4",
+      "sentence": "呢座雪山好高，唔容易行上去。",
+      "jyutping": "ni1 zok6 syut3 saan1 hou2 gou1, m4 jung6 ji6 haang4 soeng5 heoi3.",
+      "meaning": "This snowy mountain is very high and not easy to hike up.",
+      "sourceWordId": "syut3saan1-snowy-mountain",
+      "sourceWord": "雪山",
+      "sourceWordJyutping": "syut3 saan1",
+      "sourceWordMeaning": "snowy mountain",
+      "tags": [
+        "landforms",
+        "nature",
+        "mountains",
+        "geography",
+        "travel",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3saan1-snowy-mountain.json"
+    },
+    {
+      "sentenceId": "bing1cyun1-glacier-example-1",
+      "sentence": "冰川喺高山地區慢慢流動。",
+      "jyutping": "bing1 cyun1 hai2 gou1 saan1 dei6 keoi1 maan6 maan6 lau4 dung6.",
+      "meaning": "Glaciers move slowly in high mountain areas.",
+      "sourceWordId": "bing1cyun1-glacier",
+      "sourceWord": "冰川",
+      "sourceWordJyutping": "bing1 cyun1",
+      "sourceWordMeaning": "glacier",
+      "tags": [
+        "earth features",
+        "landforms",
+        "natural disasters",
+        "geography",
+        "science",
+        "glacier",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1cyun1-glacier.json"
+    },
+    {
+      "sentenceId": "bing1cyun1-glacier-example-2",
+      "sentence": "科學家研究冰川融化嘅速度。",
+      "jyutping": "fo1 hok6 gaa1 jan6 gau6 bing1 cyun1 jung4 faa3 ge3 seoi3 dou6.",
+      "meaning": "Scientists study the speed of glacier melting.",
+      "sourceWordId": "bing1cyun1-glacier",
+      "sourceWord": "冰川",
+      "sourceWordJyutping": "bing1 cyun1",
+      "sourceWordMeaning": "glacier",
+      "tags": [
+        "earth features",
+        "landforms",
+        "natural disasters",
+        "geography",
+        "science",
+        "glacier",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1cyun1-glacier.json"
+    },
+    {
+      "sentenceId": "bing1cyun1-glacier-example-3",
+      "sentence": "呢幅相影到遠處嘅冰川。",
+      "jyutping": "ni1 fuk1 soeng2 jing2 dou2 jyun5 cyu3 ge3 bing1 cyun1.",
+      "meaning": "This photo shows a glacier in the distance.",
+      "sourceWordId": "bing1cyun1-glacier",
+      "sourceWord": "冰川",
+      "sourceWordJyutping": "bing1 cyun1",
+      "sourceWordMeaning": "glacier",
+      "tags": [
+        "earth features",
+        "landforms",
+        "natural disasters",
+        "geography",
+        "science",
+        "glacier",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1cyun1-glacier.json"
+    },
+    {
+      "sentenceId": "bing1cyun1-glacier-example-4",
+      "sentence": "氣候變暖會令冰川越嚟越少。",
+      "jyutping": "hei3 hau6 bin3 nou5 wui5 ling6 bing1 cyun1 jyut6 lai4 jyut6 siu2.",
+      "meaning": "Climate warming will make glaciers fewer and fewer.",
+      "sourceWordId": "bing1cyun1-glacier",
+      "sourceWord": "冰川",
+      "sourceWordJyutping": "bing1 cyun1",
+      "sourceWordMeaning": "glacier",
+      "tags": [
+        "earth features",
+        "landforms",
+        "natural disasters",
+        "geography",
+        "science",
+        "glacier",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1cyun1-glacier.json"
+    },
+    {
+      "sentenceId": "jung4ngaam4-lava-example-1",
+      "sentence": "火山爆發之後，熔岩流落山坡。",
+      "jyutping": "fo2 saan1 bak3 faat3 zi1 hau6, jung4 ngaam4 lau4 lok6 saan1 po1.",
+      "meaning": "After the volcano erupted, lava flowed down the slope.",
+      "sourceWordId": "jung4ngaam4-lava",
+      "sourceWord": "熔岩",
+      "sourceWordJyutping": "jung4 ngaam4",
+      "sourceWordMeaning": "lava",
+      "tags": [
+        "earth science",
+        "geography",
+        "natural disasters",
+        "volcanoes",
+        "elementary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jung4ngaam4-lava.json"
+    },
+    {
+      "sentenceId": "jung4ngaam4-lava-example-2",
+      "sentence": "科學課教我哋認識熔岩同火山。",
+      "jyutping": "fo1 hok6 fo1 gaau3 ngo5 dei6 jing6 sik1 jung4 ngaam4 tung4 fo2 saan1.",
+      "meaning": "In science class, we learned about lava and volcanoes.",
+      "sourceWordId": "jung4ngaam4-lava",
+      "sourceWord": "熔岩",
+      "sourceWordJyutping": "jung4 ngaam4",
+      "sourceWordMeaning": "lava",
+      "tags": [
+        "earth science",
+        "geography",
+        "natural disasters",
+        "volcanoes",
+        "elementary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jung4ngaam4-lava.json"
+    },
+    {
+      "sentenceId": "jung4ngaam4-lava-example-3",
+      "sentence": "熔岩冷卻之後會慢慢變硬。",
+      "jyutping": "jung4 ngaam4 laang5 kek6 zi1 hau6 wui5 maan6 maan6 bin3 ngaang6.",
+      "meaning": "Lava gradually becomes hard after it cools.",
+      "sourceWordId": "jung4ngaam4-lava",
+      "sourceWord": "熔岩",
+      "sourceWordJyutping": "jung4 ngaam4",
+      "sourceWordMeaning": "lava",
+      "tags": [
+        "earth science",
+        "geography",
+        "natural disasters",
+        "volcanoes",
+        "elementary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jung4ngaam4-lava.json"
+    },
+    {
+      "sentenceId": "jung4ngaam4-lava-example-4",
+      "sentence": "遊客喺安全位置遠望熔岩流。",
+      "jyutping": "jau4 haak3 hai2 an1 cyun4 wai2 zi3 jyun5 mong6 jung4 ngaam4 lau4.",
+      "meaning": "Tourists watched the lava flow from a safe distance.",
+      "sourceWordId": "jung4ngaam4-lava",
+      "sourceWord": "熔岩",
+      "sourceWordJyutping": "jung4 ngaam4",
+      "sourceWordMeaning": "lava",
+      "tags": [
+        "earth science",
+        "geography",
+        "natural disasters",
+        "volcanoes",
+        "elementary",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jung4ngaam4-lava.json"
+    },
+    {
+      "sentenceId": "tin1zoi1-natural-disaster-example-1",
+      "sentence": "今次風災係一場好嚴重嘅天災。",
+      "jyutping": "gam1 ci3 fung1 zoi1 hai6 jat1 coeng4 hou2 jim4 zung6 ge3 tin1 zoi1.",
+      "meaning": "This typhoon disaster was a very serious natural disaster.",
+      "sourceWordId": "tin1zoi1-natural-disaster",
+      "sourceWord": "天災",
+      "sourceWordJyutping": "tin1 zoi1",
+      "sourceWordMeaning": "natural disaster",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "disaster",
+        "formal",
+        "news",
+        "earthquake",
+        "typhoon",
+        "flood",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tin1zoi1-natural-disaster.json"
+    },
+    {
+      "sentenceId": "tin1zoi1-natural-disaster-example-2",
+      "sentence": "天災之後，政府即刻幫災民。",
+      "jyutping": "tin1 zoi1 zi1 hau6, zing3 fu2 zik1 hak1 bong1 zoi1 man4.",
+      "meaning": "After the natural disaster, the government immediately helped the disaster victims.",
+      "sourceWordId": "tin1zoi1-natural-disaster",
+      "sourceWord": "天災",
+      "sourceWordJyutping": "tin1 zoi1",
+      "sourceWordMeaning": "natural disaster",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "disaster",
+        "formal",
+        "news",
+        "earthquake",
+        "typhoon",
+        "flood",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tin1zoi1-natural-disaster.json"
+    },
+    {
+      "sentenceId": "tin1zoi1-natural-disaster-example-3",
+      "sentence": "呢度成日有山泥傾瀉，真係容易發生天災。",
+      "jyutping": "ni1 dou6 sing4 jat6 jau5 saan1 nai4 king1 se3, zan1 hai6 jung4 ji6 faat3 sang1 tin1 zoi1.",
+      "meaning": "This area often has landslides, so natural disasters happen easily.",
+      "sourceWordId": "tin1zoi1-natural-disaster",
+      "sourceWord": "天災",
+      "sourceWordJyutping": "tin1 zoi1",
+      "sourceWordMeaning": "natural disaster",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "disaster",
+        "formal",
+        "news",
+        "earthquake",
+        "typhoon",
+        "flood",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tin1zoi1-natural-disaster.json"
+    },
+    {
+      "sentenceId": "tin1zoi1-natural-disaster-example-4",
+      "sentence": "遇到天災，最緊要保持冷靜。",
+      "jyutping": "jyu6 dou3 tin1 zoi1, zeoi3 gan2 jiu3 bou2 ci4 laang5 zing6.",
+      "meaning": "When facing a natural disaster, the most important thing is to stay calm.",
+      "sourceWordId": "tin1zoi1-natural-disaster",
+      "sourceWord": "天災",
+      "sourceWordJyutping": "tin1 zoi1",
+      "sourceWordMeaning": "natural disaster",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "disaster",
+        "formal",
+        "news",
+        "earthquake",
+        "typhoon",
+        "flood",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tin1zoi1-natural-disaster.json"
+    },
+    {
+      "sentenceId": "dei6zan3-earthquake-example-1",
+      "sentence": "今朝日本發生地震。",
+      "jyutping": "gam1 ziu1 jat6 bun2 faat3 sang1 dei6 zan3.",
+      "meaning": "An earthquake happened in Japan this morning.",
+      "sourceWordId": "dei6zan3-earthquake",
+      "sourceWord": "地震",
+      "sourceWordJyutping": "dei6 zan3",
+      "sourceWordMeaning": "earthquake",
+      "tags": [
+        "natural disaster",
+        "earth science",
+        "news vocabulary",
+        "basic noun",
+        "emergency",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6zan3-earthquake.json"
+    },
+    {
+      "sentenceId": "dei6zan3-earthquake-example-2",
+      "sentence": "地震之後，大家都好驚。",
+      "jyutping": "dei6 zan3 zi1 hau6, daai6 gaa1 dou1 hou2 geng1.",
+      "meaning": "After the earthquake, everyone was very scared.",
+      "sourceWordId": "dei6zan3-earthquake",
+      "sourceWord": "地震",
+      "sourceWordJyutping": "dei6 zan3",
+      "sourceWordMeaning": "earthquake",
+      "tags": [
+        "natural disaster",
+        "earth science",
+        "news vocabulary",
+        "basic noun",
+        "emergency",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6zan3-earthquake.json"
+    },
+    {
+      "sentenceId": "dei6zan3-earthquake-example-3",
+      "sentence": "呢度成日有地震。",
+      "jyutping": "ni1 dou6 seng4 jat6 jau5 dei6 zan3.",
+      "meaning": "This place often has earthquakes.",
+      "sourceWordId": "dei6zan3-earthquake",
+      "sourceWord": "地震",
+      "sourceWordJyutping": "dei6 zan3",
+      "sourceWordMeaning": "earthquake",
+      "tags": [
+        "natural disaster",
+        "earth science",
+        "news vocabulary",
+        "basic noun",
+        "emergency",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6zan3-earthquake.json"
+    },
+    {
+      "sentenceId": "dei6zan3-earthquake-example-4",
+      "sentence": "政府提醒市民留意地震警報。",
+      "jyutping": "zing3 fu2 tai4 sing2 si5 man4 lau4 ji3 dei6 zan3 ging2 bou3.",
+      "meaning": "The government reminds residents to pay attention to earthquake alerts.",
+      "sourceWordId": "dei6zan3-earthquake",
+      "sourceWord": "地震",
+      "sourceWordJyutping": "dei6 zan3",
+      "sourceWordMeaning": "earthquake",
+      "tags": [
+        "natural disaster",
+        "earth science",
+        "news vocabulary",
+        "basic noun",
+        "emergency",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dei6zan3-earthquake.json"
+    },
+    {
+      "sentenceId": "hung4seoi2-flood-example-1",
+      "sentence": "颱風過後，村口發生咗洪水。",
+      "jyutping": "toi4 fung1 gwo3 hau6, cyun1 hau2 faat3 sang1 zo2 hung4 seoi2.",
+      "meaning": "After the typhoon, flooding happened at the village entrance.",
+      "sourceWordId": "hung4seoi2-flood",
+      "sourceWord": "洪水",
+      "sourceWordJyutping": "hung4 seoi2",
+      "sourceWordMeaning": "flood",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "flooding",
+        "disaster vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung4seoi2-flood.json"
+    },
+    {
+      "sentenceId": "hung4seoi2-flood-example-2",
+      "sentence": "昨晚落雨太大，街道變成一片洪水。",
+      "jyutping": "zok6 maan5 lok6 jyu5 taai3 daai6, gaai1 dou6 bin3 sing4 jat1 pin3 hung4 seoi2.",
+      "meaning": "Last night’s heavy rain turned the streets into floodwater.",
+      "sourceWordId": "hung4seoi2-flood",
+      "sourceWord": "洪水",
+      "sourceWordJyutping": "hung4 seoi2",
+      "sourceWordMeaning": "flood",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "flooding",
+        "disaster vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung4seoi2-flood.json"
+    },
+    {
+      "sentenceId": "hung4seoi2-flood-example-3",
+      "sentence": "洪水沖壞咗條橋。",
+      "jyutping": "hung4 seoi2 cung1 waai6 zo2 tiu4 kiu4.",
+      "meaning": "The flood damaged the bridge.",
+      "sourceWordId": "hung4seoi2-flood",
+      "sourceWord": "洪水",
+      "sourceWordJyutping": "hung4 seoi2",
+      "sourceWordMeaning": "flood",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "flooding",
+        "disaster vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung4seoi2-flood.json"
+    },
+    {
+      "sentenceId": "hung4seoi2-flood-example-4",
+      "sentence": "政府提醒市民提防洪水。",
+      "jyutping": "zing3 fu2 tai4 sing2 si5 man4 tai4 fong4 hung4 seoi2.",
+      "meaning": "The government reminded residents to watch out for flooding.",
+      "sourceWordId": "hung4seoi2-flood",
+      "sourceWord": "洪水",
+      "sourceWordJyutping": "hung4 seoi2",
+      "sourceWordMeaning": "flood",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "flooding",
+        "disaster vocabulary",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hung4seoi2-flood.json"
+    },
+    {
+      "sentenceId": "toi4fung1-typhoon-example-1",
+      "sentence": "颱風就嚟啦，你記得收好啲窗同埋晾喺出面嘅衫。",
+      "jyutping": "toi4 fung1 zau6 lei4 laa3, nei5 gei3 dak1 sau1 hou2 di1 coeng1 tung4 maai4 loeng6 hai2 ceot1 min6 ge3 saam1.",
+      "meaning": "The typhoon is coming soon, so remember to close the windows and bring in the clothes outside.",
+      "sourceWordId": "toi4fung1-typhoon",
+      "sourceWord": "颱風",
+      "sourceWordJyutping": "toi4 fung1",
+      "sourceWordMeaning": "typhoon",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
+    },
+    {
+      "sentenceId": "toi4fung1-typhoon-example-2",
+      "sentence": "因為颱風關係，今日全日都停課。",
+      "jyutping": "jan1 wai6 toi4 fung1 gwaan1 hai6, gam1 jat6 cyun4 jat6 dou1 ting4 fo3.",
+      "meaning": "Because of the typhoon, classes are suspended all day today.",
+      "sourceWordId": "toi4fung1-typhoon",
+      "sourceWord": "颱風",
+      "sourceWordJyutping": "toi4 fung1",
+      "sourceWordMeaning": "typhoon",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
+    },
+    {
+      "sentenceId": "toi4fung1-typhoon-example-3",
+      "sentence": "昨晚個颱風好大風，吹到啲樹都郁晒。",
+      "jyutping": "zok6 maan5 go3 toi4 fung1 hou2 daai6 fung1, ceoi1 dou3 di1 syu6 dou1 juk1 saai3.",
+      "meaning": "Last night’s typhoon was very strong, and it blew the trees around.",
+      "sourceWordId": "toi4fung1-typhoon",
+      "sourceWord": "颱風",
+      "sourceWordJyutping": "toi4 fung1",
+      "sourceWordMeaning": "typhoon",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
+    },
+    {
+      "sentenceId": "toi4fung1-typhoon-example-4",
+      "sentence": "天文台話個颱風會喺聽日凌晨最接近香港。",
+      "jyutping": "tin1 man4 toi4 waa6 go3 toi4 fung1 wui5 hai2 ting1 jat6 ling4 san4 zeoi3 zip3 gwan6 Hoeng1 Gong2.",
+      "meaning": "The Observatory says the typhoon will be closest to Hong Kong early tomorrow morning.",
+      "sourceWordId": "toi4fung1-typhoon",
+      "sourceWord": "颱風",
+      "sourceWordJyutping": "toi4 fung1",
+      "sourceWordMeaning": "typhoon",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
+    },
+    {
+      "sentenceId": "bou6fung1-gale-example-1",
+      "sentence": "暴風之下，樹木被吹到東歪西倒。",
+      "jyutping": "bou6 fung1 zi1 haa6, syu6muk6 bei2 ceoi1 dou3 dung1 waai1 sai1 dou2.",
+      "meaning": "Under the gale, the trees were blown tilting all over the place.",
+      "sourceWordId": "bou6fung1-gale",
+      "sourceWord": "暴風",
+      "sourceWordJyutping": "bou6 fung1",
+      "sourceWordMeaning": "gale",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "formal",
+        "noun",
+        "news language",
+        "safety",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou6fung1-gale.json"
+    },
+    {
+      "sentenceId": "bou6fung1-gale-example-2",
+      "sentence": "天文台發出暴風警告。",
+      "jyutping": "tin1 man4 toi4 faat3 ceot1 bou6 fung1 ging2 gou3.",
+      "meaning": "The observatory issued a gale warning.",
+      "sourceWordId": "bou6fung1-gale",
+      "sourceWord": "暴風",
+      "sourceWordJyutping": "bou6 fung1",
+      "sourceWordMeaning": "gale",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "formal",
+        "noun",
+        "news language",
+        "safety",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou6fung1-gale.json"
+    },
+    {
+      "sentenceId": "bou6fung1-gale-example-3",
+      "sentence": "昨日突然吹起暴風，海邊好危險。",
+      "jyutping": "zok6 jat6 daat6 jin4 ceoi1 hei2 bou6 fung1, hoi2 bin1 hou2 ngai4 him2.",
+      "meaning": "Yesterday a gale suddenly picked up, and it was very dangerous by the seaside.",
+      "sourceWordId": "bou6fung1-gale",
+      "sourceWord": "暴風",
+      "sourceWordJyutping": "bou6 fung1",
+      "sourceWordMeaning": "gale",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "formal",
+        "noun",
+        "news language",
+        "safety",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou6fung1-gale.json"
+    },
+    {
+      "sentenceId": "bou6fung1-gale-example-4",
+      "sentence": "山上暴風好大，大家唔好行太近懸崖。",
+      "jyutping": "saan1 soeng6 bou6 fung1 hou2 daai6, daai6 gaa1 m4 hou2 haang4 taai3 gan6 jyun4 ngaai4.",
+      "meaning": "The gale on the mountain is very strong, so everyone should not walk too close to the cliff.",
+      "sourceWordId": "bou6fung1-gale",
+      "sourceWord": "暴風",
+      "sourceWordJyutping": "bou6 fung1",
+      "sourceWordMeaning": "gale",
+      "tags": [
+        "weather",
+        "natural disaster",
+        "formal",
+        "noun",
+        "news language",
+        "safety",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou6fung1-gale.json"
+    },
+    {
+      "sentenceId": "saan1nai4king1se3-landslide-example-1",
+      "sentence": "山泥傾瀉令到山路封咗。",
+      "jyutping": "saan1 nai4 king1 se3 ling6 dou3 saan1 lou6 fung1 zo2.",
+      "meaning": "The landslide caused the mountain road to be closed.",
+      "sourceWordId": "saan1nai4king1se3-landslide",
+      "sourceWord": "山泥傾瀉",
+      "sourceWordJyutping": "saan1 nai4 king1 se3",
+      "sourceWordMeaning": "landslide",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "safety",
+        "news vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1nai4king1se3-landslide.json"
+    },
+    {
+      "sentenceId": "saan1nai4king1se3-landslide-example-2",
+      "sentence": "天文台提醒市民小心山泥傾瀉。",
+      "jyutping": "tin1 man4 toi4 tai4 sing2 si5 man4 siu2 sam1 saan1 nai4 king1 se3.",
+      "meaning": "The Observatory reminded the public to be careful of landslides.",
+      "sourceWordId": "saan1nai4king1se3-landslide",
+      "sourceWord": "山泥傾瀉",
+      "sourceWordJyutping": "saan1 nai4 king1 se3",
+      "sourceWordMeaning": "landslide",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "safety",
+        "news vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1nai4king1se3-landslide.json"
+    },
+    {
+      "sentenceId": "saan1nai4king1se3-landslide-example-3",
+      "sentence": "尋晚落大雨之後，嗰度發生山泥傾瀉。",
+      "jyutping": "cam4 maan5 lok6 daai6 jyu5 zi1 hau6, go2 dou6 faat3 sang1 saan1 nai4 king1 se3.",
+      "meaning": "After the heavy rain last night, a landslide happened there.",
+      "sourceWordId": "saan1nai4king1se3-landslide",
+      "sourceWord": "山泥傾瀉",
+      "sourceWordJyutping": "saan1 nai4 king1 se3",
+      "sourceWordMeaning": "landslide",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "safety",
+        "news vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1nai4king1se3-landslide.json"
+    },
+    {
+      "sentenceId": "saan1nai4king1se3-landslide-example-4",
+      "sentence": "村民擔心附近山坡會再有山泥傾瀉。",
+      "jyutping": "cyun1 man4 daam1 sam1 fu6 gan6 saan1 bo1 wui5 zoi3 jau5 saan1 nai4 king1 se3.",
+      "meaning": "The villagers are worried the nearby hillside may have another landslide.",
+      "sourceWordId": "saan1nai4king1se3-landslide",
+      "sourceWord": "山泥傾瀉",
+      "sourceWordJyutping": "saan1 nai4 king1 se3",
+      "sourceWordMeaning": "landslide",
+      "tags": [
+        "natural disaster",
+        "weather",
+        "safety",
+        "news vocabulary",
+        "formal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saan1nai4king1se3-landslide.json"
+    },
+    {
+      "sentenceId": "hon6zoi1-drought-example-1",
+      "sentence": "呢個夏天香港北部出現咗旱災。",
+      "jyutping": "ni1 go3 haa6 tin1 hoeng1 gong2 bak1 bou6 ceot1 jin6 zo2 hon6 zoi1.",
+      "meaning": "This summer, drought occurred in the northern part of Hong Kong.",
+      "sourceWordId": "hon6zoi1-drought",
+      "sourceWord": "旱災",
+      "sourceWordJyutping": "hon6 zoi1",
+      "sourceWordMeaning": "drought",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "environment",
+        "farming",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hon6zoi1-drought.json"
+    },
+    {
+      "sentenceId": "hon6zoi1-drought-example-2",
+      "sentence": "旱災令農作物收成好差。",
+      "jyutping": "hon6 zoi1 ling6 nung4 zok3 mat6 sau1 sing4 hou2 caa1.",
+      "meaning": "The drought made the crop harvest very poor.",
+      "sourceWordId": "hon6zoi1-drought",
+      "sourceWord": "旱災",
+      "sourceWordJyutping": "hon6 zoi1",
+      "sourceWordMeaning": "drought",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "environment",
+        "farming",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hon6zoi1-drought.json"
+    },
+    {
+      "sentenceId": "hon6zoi1-drought-example-3",
+      "sentence": "政府正研究點樣應對旱災。",
+      "jyutping": "zing3 fu2 zing3 jan4 gau3 dim2 joeng6 jing3 deoi3 hon6 zoi1.",
+      "meaning": "The government is studying how to respond to drought.",
+      "sourceWordId": "hon6zoi1-drought",
+      "sourceWord": "旱災",
+      "sourceWordJyutping": "hon6 zoi1",
+      "sourceWordMeaning": "drought",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "environment",
+        "farming",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hon6zoi1-drought.json"
+    },
+    {
+      "sentenceId": "hon6zoi1-drought-example-4",
+      "sentence": "如果長期冇雨，山區好容易會有旱災。",
+      "jyutping": "jyu4 gwo2 coeng4 kei4 mou5 jyu5, saan1 keoi1 hou2 jung6 ji6 wui5 jau5 hon6 zoi1.",
+      "meaning": "If there is no rain for a long time, mountainous areas can easily suffer drought.",
+      "sourceWordId": "hon6zoi1-drought",
+      "sourceWord": "旱災",
+      "sourceWordJyutping": "hon6 zoi1",
+      "sourceWordMeaning": "drought",
+      "tags": [
+        "natural disasters",
+        "weather",
+        "environment",
+        "farming",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hon6zoi1-drought.json"
+    },
+    {
+      "sentenceId": "hoi2siu3-tsunami-example-1",
+      "sentence": "海嘯沖上岸，成個海邊都冇晒人。",
+      "jyutping": "hoi2 siu3 cung1 soeng6 ngon6, sing4 go3 hoi2 bin1 dou1 mou5 saai3 jan4.",
+      "meaning": "The tsunami rushed ashore, and the whole seaside was empty of people.",
+      "sourceWordId": "hoi2siu3-tsunami",
+      "sourceWord": "海嘯",
+      "sourceWordJyutping": "hoi2 siu3",
+      "sourceWordMeaning": "tsunami",
+      "tags": [
+        "natural disaster",
+        "weather and environment",
+        "news vocabulary",
+        "safety",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2siu3-tsunami.json"
+    },
+    {
+      "sentenceId": "hoi2siu3-tsunami-example-2",
+      "sentence": "新聞話今次海嘯造成好大破壞。",
+      "jyutping": "san1 man4 waa6 gam1 ci3 hoi2 siu3 zou6 sing4 hou2 daai6 po3 waai6.",
+      "meaning": "The news said this tsunami caused very serious damage.",
+      "sourceWordId": "hoi2siu3-tsunami",
+      "sourceWord": "海嘯",
+      "sourceWordJyutping": "hoi2 siu3",
+      "sourceWordMeaning": "tsunami",
+      "tags": [
+        "natural disaster",
+        "weather and environment",
+        "news vocabulary",
+        "safety",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2siu3-tsunami.json"
+    },
+    {
+      "sentenceId": "hoi2siu3-tsunami-example-3",
+      "sentence": "佢喺學校學過海嘯嘅安全知識。",
+      "jyutping": "keoi5 hai2 hok6 haau6 hok6 gwo3 hoi2 siu3 ge3 on1 cyun4 zi1 sik1.",
+      "meaning": "He learned tsunami safety knowledge at school.",
+      "sourceWordId": "hoi2siu3-tsunami",
+      "sourceWord": "海嘯",
+      "sourceWordJyutping": "hoi2 siu3",
+      "sourceWordMeaning": "tsunami",
+      "tags": [
+        "natural disaster",
+        "weather and environment",
+        "news vocabulary",
+        "safety",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2siu3-tsunami.json"
+    },
+    {
+      "sentenceId": "hoi2siu3-tsunami-example-4",
+      "sentence": "如果有海嘯警報，要即刻走去高地。",
+      "jyutping": "jyu4 gwo2 jau5 hoi2 siu3 ging2 bou3, jiu3 zik1 haak3 zau2 heoi3 gou1 dei6.",
+      "meaning": "If there is a tsunami warning, you should immediately move to higher ground.",
+      "sourceWordId": "hoi2siu3-tsunami",
+      "sourceWord": "海嘯",
+      "sourceWordJyutping": "hoi2 siu3",
+      "sourceWordMeaning": "tsunami",
+      "tags": [
+        "natural disaster",
+        "weather and environment",
+        "news vocabulary",
+        "safety",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi2siu3-tsunami.json"
+    },
+    {
+      "sentenceId": "jyu5-rain-example-1",
+      "sentence": "今日落雨。",
+      "jyutping": "gam1 jat6 lok6 jyu5.",
+      "meaning": "It is raining today.",
+      "sourceWordId": "jyu5-rain",
+      "sourceWord": "雨",
+      "sourceWordJyutping": "jyu5",
+      "sourceWordMeaning": "rain",
+      "tags": [
+        "weather",
+        "rain",
+        "nature",
+        "basic vocabulary",
+        "natural events",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu5-rain.json"
+    },
+    {
+      "sentenceId": "jyu5-rain-example-2",
+      "sentence": "我鍾意聽雨聲。",
+      "jyutping": "ngo5 zung1 ji3 teng1 jyu5 seng1.",
+      "meaning": "I like listening to the sound of rain.",
+      "sourceWordId": "jyu5-rain",
+      "sourceWord": "雨",
+      "sourceWordJyutping": "jyu5",
+      "sourceWordMeaning": "rain",
+      "tags": [
+        "weather",
+        "rain",
+        "nature",
+        "basic vocabulary",
+        "natural events",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu5-rain.json"
+    },
+    {
+      "sentenceId": "jyu5-rain-example-3",
+      "sentence": "呢場雨好大。",
+      "jyutping": "ni1 coeng4 jyu5 hou2 daai6.",
+      "meaning": "This rain is very heavy.",
+      "sourceWordId": "jyu5-rain",
+      "sourceWord": "雨",
+      "sourceWordJyutping": "jyu5",
+      "sourceWordMeaning": "rain",
+      "tags": [
+        "weather",
+        "rain",
+        "nature",
+        "basic vocabulary",
+        "natural events",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu5-rain.json"
+    },
+    {
+      "sentenceId": "jyu5-rain-example-4",
+      "sentence": "落雨記得帶遮。",
+      "jyutping": "lok6 jyu5 gei3 dak1 daai3 ze1.",
+      "meaning": "If it rains, remember to bring an umbrella.",
+      "sourceWordId": "jyu5-rain",
+      "sourceWord": "雨",
+      "sourceWordJyutping": "jyu5",
+      "sourceWordMeaning": "rain",
+      "tags": [
+        "weather",
+        "rain",
+        "nature",
+        "basic vocabulary",
+        "natural events",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyu5-rain.json"
+    },
+    {
+      "sentenceId": "syut3-snow-example-1",
+      "sentence": "今日落雪。",
+      "jyutping": "gam1 jat6 lok6 syut3.",
+      "meaning": "It’s snowing today.",
+      "sourceWordId": "syut3-snow",
+      "sourceWord": "雪",
+      "sourceWordJyutping": "syut3",
+      "sourceWordMeaning": "snow",
+      "tags": [
+        "weather",
+        "winter",
+        "nature",
+        "beginner",
+        "landforms-natural-disasters",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3-snow.json"
+    },
+    {
+      "sentenceId": "syut3-snow-example-2",
+      "sentence": "山頂有好多雪。",
+      "jyutping": "saan1 deng2 jau5 ho2 do1 syut3.",
+      "meaning": "There is a lot of snow on the mountaintop.",
+      "sourceWordId": "syut3-snow",
+      "sourceWord": "雪",
+      "sourceWordJyutping": "syut3",
+      "sourceWordMeaning": "snow",
+      "tags": [
+        "weather",
+        "winter",
+        "nature",
+        "beginner",
+        "landforms-natural-disasters",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3-snow.json"
+    },
+    {
+      "sentenceId": "syut3-snow-example-3",
+      "sentence": "佢第一次見到雪，好興奮。",
+      "jyutping": "keoi5 dai6 jat6 ci3 gin3 dou3 syut3, hou2 hing1 fan5.",
+      "meaning": "He saw snow for the first time and was very excited.",
+      "sourceWordId": "syut3-snow",
+      "sourceWord": "雪",
+      "sourceWordJyutping": "syut3",
+      "sourceWordMeaning": "snow",
+      "tags": [
+        "weather",
+        "winter",
+        "nature",
+        "beginner",
+        "landforms-natural-disasters",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3-snow.json"
+    },
+    {
+      "sentenceId": "syut3-snow-example-4",
+      "sentence": "冬天嘅時候，北方成日有雪。",
+      "jyutping": "dung1 tin1 ge3 si4 hau6, bak1 fong1 sing4 jat6 jau5 syut3.",
+      "meaning": "In winter, there is often snow in the north.",
+      "sourceWordId": "syut3-snow",
+      "sourceWord": "雪",
+      "sourceWordJyutping": "syut3",
+      "sourceWordMeaning": "snow",
+      "tags": [
+        "weather",
+        "winter",
+        "nature",
+        "beginner",
+        "landforms-natural-disasters",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3-snow.json"
+    },
+    {
+      "sentenceId": "fung1-wind-example-1",
+      "sentence": "今日好大風。",
+      "jyutping": "gam1 jat6 hou2 daai6 fung1",
+      "meaning": "It’s very windy today.",
+      "sourceWordId": "fung1-wind",
+      "sourceWord": "風",
+      "sourceWordJyutping": "fung1",
+      "sourceWordMeaning": "wind",
+      "tags": [
+        "weather",
+        "nature",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1-wind.json"
+    },
+    {
+      "sentenceId": "fung1-wind-example-2",
+      "sentence": "海邊有陣風。",
+      "jyutping": "hoi2 bin1 jau5 zan6 fung1",
+      "meaning": "There is a gust of wind by the sea.",
+      "sourceWordId": "fung1-wind",
+      "sourceWord": "風",
+      "sourceWordJyutping": "fung1",
+      "sourceWordMeaning": "wind",
+      "tags": [
+        "weather",
+        "nature",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1-wind.json"
+    },
+    {
+      "sentenceId": "fung1-wind-example-3",
+      "sentence": "開窗會有風入嚟。",
+      "jyutping": "hoi1 coeng1 wui5 jau5 fung1 jap6 lai4",
+      "meaning": "If you open the window, wind will come in.",
+      "sourceWordId": "fung1-wind",
+      "sourceWord": "風",
+      "sourceWordJyutping": "fung1",
+      "sourceWordMeaning": "wind",
+      "tags": [
+        "weather",
+        "nature",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1-wind.json"
+    },
+    {
+      "sentenceId": "fung1-wind-example-4",
+      "sentence": "打風嗰陣最好留喺屋企。",
+      "jyutping": "daa2 fung1 go2 zan6 zeoi3 hou2 lau4 hai2 uk1 kei2",
+      "meaning": "When a typhoon comes, it’s best to stay at home.",
+      "sourceWordId": "fung1-wind",
+      "sourceWord": "風",
+      "sourceWordJyutping": "fung1",
+      "sourceWordMeaning": "wind",
+      "tags": [
+        "weather",
+        "nature",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1-wind.json"
+    },
+    {
+      "sentenceId": "leoi4-thunder-example-1",
+      "sentence": "外面打雷，好似快要落雨。",
+      "jyutping": "ngoi6 min6 daa2 leoi4, hou2 ci5 faai3 jiu3 lok6 jyu5.",
+      "meaning": "It's thundering outside; it looks like it's going to rain soon.",
+      "sourceWordId": "leoi4-thunder",
+      "sourceWord": "雷",
+      "sourceWordJyutping": "leoi4",
+      "sourceWordMeaning": "thunder",
+      "tags": [
+        "weather",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4-thunder.json"
+    },
+    {
+      "sentenceId": "leoi4-thunder-example-2",
+      "sentence": "我細個成日驚雷聲。",
+      "jyutping": "ngo5 sai3 go3 seng4 jat6 geng1 leoi4 seng1.",
+      "meaning": "When I was little, I was often afraid of thunder.",
+      "sourceWordId": "leoi4-thunder",
+      "sourceWord": "雷",
+      "sourceWordJyutping": "leoi4",
+      "sourceWordMeaning": "thunder",
+      "tags": [
+        "weather",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4-thunder.json"
+    },
+    {
+      "sentenceId": "leoi4-thunder-example-3",
+      "sentence": "今晚個雷聲好大，聽到都嚇親。",
+      "jyutping": "gam1 maan5 go3 leoi4 seng1 hou2 daai6, teng1 dou3 dou1 haak3 can1.",
+      "meaning": "The thunder tonight is very loud; even hearing it is scary.",
+      "sourceWordId": "leoi4-thunder",
+      "sourceWord": "雷",
+      "sourceWordJyutping": "leoi4",
+      "sourceWordMeaning": "thunder",
+      "tags": [
+        "weather",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4-thunder.json"
+    },
+    {
+      "sentenceId": "leoi4-thunder-example-4",
+      "sentence": "天黑黑，又有雷又有雨。",
+      "jyutping": "tin1 hak1 hak1, jau6 jau5 leoi4 jau6 jau5 jyu5.",
+      "meaning": "It's very dark, with thunder and rain.",
+      "sourceWordId": "leoi4-thunder",
+      "sourceWord": "雷",
+      "sourceWordJyutping": "leoi4",
+      "sourceWordMeaning": "thunder",
+      "tags": [
+        "weather",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4-thunder.json"
+    },
+    {
+      "sentenceId": "sim2din6-lightning-example-1",
+      "sentence": "今晚打風，成日都見到閃電。",
+      "jyutping": "gam1 maan5 daa2 fung1, sing4 jat6 dou1 gin3 dou2 sim2 din6.",
+      "meaning": "There was a typhoon tonight, and we kept seeing lightning.",
+      "sourceWordId": "sim2din6-lightning",
+      "sourceWord": "閃電",
+      "sourceWordJyutping": "sim2 din6",
+      "sourceWordMeaning": "lightning",
+      "tags": [
+        "weather",
+        "natural phenomena",
+        "storms",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sim2din6-lightning.json"
+    },
+    {
+      "sentenceId": "sim2din6-lightning-example-2",
+      "sentence": "閃電之後就開始落大雨。",
+      "jyutping": "sim2 din6 zi1 hau6 zau6 hoi1 ci2 lok6 daai6 jyu5.",
+      "meaning": "After the lightning, it started to rain heavily.",
+      "sourceWordId": "sim2din6-lightning",
+      "sourceWord": "閃電",
+      "sourceWordJyutping": "sim2 din6",
+      "sourceWordMeaning": "lightning",
+      "tags": [
+        "weather",
+        "natural phenomena",
+        "storms",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sim2din6-lightning.json"
+    },
+    {
+      "sentenceId": "sim2din6-lightning-example-3",
+      "sentence": "小朋友見到閃電都會有啲驚。",
+      "jyutping": "siu2 pang4 jau5 gin3 dou2 sim2 din6 dou1 wui5 jau5 di1 geng1.",
+      "meaning": "Children may feel a little scared when they see lightning.",
+      "sourceWordId": "sim2din6-lightning",
+      "sourceWord": "閃電",
+      "sourceWordJyutping": "sim2 din6",
+      "sourceWordMeaning": "lightning",
+      "tags": [
+        "weather",
+        "natural phenomena",
+        "storms",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sim2din6-lightning.json"
+    },
+    {
+      "sentenceId": "sim2din6-lightning-example-4",
+      "sentence": "山頂夜晚好容易見到遠處嘅閃電。",
+      "jyutping": "saan1 ding2 je6 maan5 hou2 jung4 ji4 gin3 dou2 jyun5 cyu3 ge3 sim2 din6.",
+      "meaning": "On the mountain peak at night, it’s easy to see lightning in the distance.",
+      "sourceWordId": "sim2din6-lightning",
+      "sourceWord": "閃電",
+      "sourceWordJyutping": "sim2 din6",
+      "sourceWordMeaning": "lightning",
+      "tags": [
+        "weather",
+        "natural phenomena",
+        "storms",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sim2din6-lightning.json"
+    },
+    {
+      "sentenceId": "bing1bok6-hail-example-1",
+      "sentence": "今日突然落冰雹。",
+      "jyutping": "gam1 jat6 tyun4 jin4 lok6 bing1 bok6.",
+      "meaning": "It suddenly hailed today.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
+      "sentenceId": "bing1bok6-hail-example-2",
+      "sentence": "天文台話聽日有冰雹警告。",
+      "jyutping": "tin1 man4 toi4 waa6 ting1 jat6 jau5 bing1 bok6 ging2 gou3.",
+      "meaning": "The Observatory says there will be a hail warning tomorrow.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
+      "sentenceId": "bing1bok6-hail-example-3",
+      "sentence": "啲冰雹好大粒，打到地下都彈起。",
+      "jyutping": "di1 bing1 bok6 hou2 daai6 nap1, daa2 dou3 dei6 haa6 dou1 daan6 hei2.",
+      "meaning": "The hailstones were so big that they bounced off the ground.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
+      "sentenceId": "bing1bok6-hail-example-4",
+      "sentence": "打風嗰陣有時會落冰雹。",
+      "jyutping": "daa2 fung1 go2 zaan6 jau5 si4 wui5 lok6 bing1 bok6.",
+      "meaning": "When there is a typhoon, it sometimes hails.",
+      "sourceWordId": "bing1bok6-hail",
+      "sourceWord": "冰雹",
+      "sourceWordJyutping": "bing1 bok6",
+      "sourceWordMeaning": "hail",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "landforms",
+        "elementary",
+        "noun",
+        "climate",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bing1bok6-hail.json"
+    },
+    {
+      "sentenceId": "mou6-fog-example-1",
+      "sentence": "今朝有好重嘅霧。",
+      "jyutping": "gam1 ziu1 jau5 hou2 cung5 ge3 mou6.",
+      "meaning": "There is very thick fog this morning.",
+      "sourceWordId": "mou6-fog",
+      "sourceWord": "霧",
+      "sourceWordJyutping": "mou6",
+      "sourceWordMeaning": "fog",
+      "tags": [
+        "weather",
+        "humidity",
+        "visibility",
+        "nature",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou6-fog.json"
+    },
+    {
+      "sentenceId": "mou6-fog-example-2",
+      "sentence": "開車小心，因為有霧。",
+      "jyutping": "hoi1 ce1 siu2 sam1, jan1 wai6 jau5 mou6.",
+      "meaning": "Drive carefully because there is fog.",
+      "sourceWordId": "mou6-fog",
+      "sourceWord": "霧",
+      "sourceWordJyutping": "mou6",
+      "sourceWordMeaning": "fog",
+      "tags": [
+        "weather",
+        "humidity",
+        "visibility",
+        "nature",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou6-fog.json"
+    },
+    {
+      "sentenceId": "mou6-fog-example-3",
+      "sentence": "霧起咗，要攞把傘。",
+      "jyutping": "mou6 hei2 zo2, jiu3 lo2 baa2 saan3.",
+      "meaning": "The fog has come up, need to take an umbrella.",
+      "sourceWordId": "mou6-fog",
+      "sourceWord": "霧",
+      "sourceWordJyutping": "mou6",
+      "sourceWordMeaning": "fog",
+      "tags": [
+        "weather",
+        "humidity",
+        "visibility",
+        "nature",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou6-fog.json"
+    },
+    {
+      "sentenceId": "mou6-fog-example-4",
+      "sentence": "山上經常有濃霧。",
+      "jyutping": "saan1 soeng6 ging1 soeng4 jau5 nung4 mou6.",
+      "meaning": "The mountain often has thick fog.",
+      "sourceWordId": "mou6-fog",
+      "sourceWord": "霧",
+      "sourceWordJyutping": "mou6",
+      "sourceWordMeaning": "fog",
+      "tags": [
+        "weather",
+        "humidity",
+        "visibility",
+        "nature",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou6-fog.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-1",
+      "sentence": "夏威夷嘅火山爆發吸引咗好多遊客。",
+      "jyutping": "Haa6 wai1 ji1 ge3 fo2 saan1 baau3 faat3 kap1 jan5 haa5 go3 dou1 haak3 jau4.",
+      "meaning": "The volcanic eruption in Hawaii attracted many tourists.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-2",
+      "sentence": "專家話呢次火山爆發可能會影響附近嘅空氣質素。",
+      "jyutping": "Zyun1 gaa1 waa6 ni1 ci3 fo2 saan1 baau3 faat3 ho2 nang4 wui5 jing2 hoeng2 fu6 gan6 ge3 hung1 hei3 zat1 sou3.",
+      "meaning": "Experts said this eruption may affect the air quality nearby.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-3",
+      "sentence": "如果火山爆發，居民要即刻撤離。",
+      "jyutping": "Jyu4 gwo2 fo2 saan1 baau3 faat3, geoi1 man4 jiu3 zik1 haak3 cit3 lei4.",
+      "meaning": "If a volcano erupts, residents need to evacuate immediately.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
+    },
+    {
+      "sentenceId": "fo2saan1baau3faat3-volcanic-eruption-example-4",
+      "sentence": "科學課提到火山爆發同板塊活動有關。",
+      "jyutping": "Fo1 hok6 fo3 tai4 dou3 fo2 saan1 baau3 faat3 tung4 baan2 faai3 wut6 dung6 jau5 gwaan1.",
+      "meaning": "The science lesson mentioned that volcanic eruptions are related to plate activity.",
+      "sourceWordId": "fo2saan1baau3faat3-volcanic-eruption",
+      "sourceWord": "火山爆發",
+      "sourceWordJyutping": "fo2 saan1 baau3 faat3",
+      "sourceWordMeaning": "eruption",
+      "tags": [
+        "landforms",
+        "natural-disasters",
+        "geography",
+        "science",
+        "formal",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo2saan1baau3faat3-volcanic-eruption.json"
+    }
+  ],
+  "missingWordFiles": []
+}

@@ -1,0 +1,5385 @@
+{
+  "topic": "plants-gardening",
+  "title": "Plants and Gardening",
+  "totalWords": 67,
+  "totalSentences": 268,
+  "items": [
+    {
+      "sentenceId": "zik6mat6-plant-example-1",
+      "sentence": "呢度嘅植物生得好茂盛。",
+      "jyutping": "ni1 dou6 ge3 zik6 mat6 saang1 dak1 hou2 mau6 sing6.",
+      "meaning": "The plants here grow very lushly.",
+      "sourceWordId": "zik6mat6-plant",
+      "sourceWord": "植物",
+      "sourceWordJyutping": "zik6 mat6",
+      "sourceWordMeaning": "plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic nouns",
+        "nature",
+        "home",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6mat6-plant.json"
+    },
+    {
+      "sentenceId": "zik6mat6-plant-example-2",
+      "sentence": "我屋企有幾盆植物。",
+      "jyutping": "ngo5 uk1 kei2 jau5 gei2 pun4 zik6 mat6.",
+      "meaning": "I have a few potted plants at home.",
+      "sourceWordId": "zik6mat6-plant",
+      "sourceWord": "植物",
+      "sourceWordJyutping": "zik6 mat6",
+      "sourceWordMeaning": "plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic nouns",
+        "nature",
+        "home",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6mat6-plant.json"
+    },
+    {
+      "sentenceId": "zik6mat6-plant-example-3",
+      "sentence": "佢鍾意研究熱帶植物。",
+      "jyutping": "keoi5 zung1 ji3 jan4 gau3 jit6 daai3 zik6 mat6.",
+      "meaning": "He likes studying tropical plants.",
+      "sourceWordId": "zik6mat6-plant",
+      "sourceWord": "植物",
+      "sourceWordJyutping": "zik6 mat6",
+      "sourceWordMeaning": "plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic nouns",
+        "nature",
+        "home",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6mat6-plant.json"
+    },
+    {
+      "sentenceId": "zik6mat6-plant-example-4",
+      "sentence": "呢種植物好適合放喺窗邊。",
+      "jyutping": "ni1 zung2 zik6 mat6 hou2 sik1 hap6 fong3 hai2 coeng1 bin1.",
+      "meaning": "This plant is well suited to be placed by the window.",
+      "sourceWordId": "zik6mat6-plant",
+      "sourceWord": "植物",
+      "sourceWordJyutping": "zik6 mat6",
+      "sourceWordMeaning": "plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic nouns",
+        "nature",
+        "home",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik6mat6-plant.json"
+    },
+    {
+      "sentenceId": "faa1-flower-example-1",
+      "sentence": "呢朵花好靚。",
+      "jyutping": "ni1 do2 faa1 hou2 leng3.",
+      "meaning": "This flower is very pretty.",
+      "sourceWordId": "faa1-flower",
+      "sourceWord": "花",
+      "sourceWordJyutping": "faa1",
+      "sourceWordMeaning": "flower",
+      "tags": [
+        "basic vocabulary",
+        "plants",
+        "gardening",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1-flower.json"
+    },
+    {
+      "sentenceId": "faa1-flower-example-2",
+      "sentence": "我買咗幾枝花送畀阿媽。",
+      "jyutping": "ngo5 maai5 zo2 gei2 zi1 faa1 sung3 bei2 aa3 maa1.",
+      "meaning": "I bought a few flowers to give to Mum.",
+      "sourceWordId": "faa1-flower",
+      "sourceWord": "花",
+      "sourceWordJyutping": "faa1",
+      "sourceWordMeaning": "flower",
+      "tags": [
+        "basic vocabulary",
+        "plants",
+        "gardening",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1-flower.json"
+    },
+    {
+      "sentenceId": "faa1-flower-example-3",
+      "sentence": "花園入面開滿咗花。",
+      "jyutping": "faa1 jyun4 jap6 min6 hoi1 mun5 zo2 faa1.",
+      "meaning": "The garden is full of flowers.",
+      "sourceWordId": "faa1-flower",
+      "sourceWord": "花",
+      "sourceWordJyutping": "faa1",
+      "sourceWordMeaning": "flower",
+      "tags": [
+        "basic vocabulary",
+        "plants",
+        "gardening",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1-flower.json"
+    },
+    {
+      "sentenceId": "faa1-flower-example-4",
+      "sentence": "佢鍾意影花。",
+      "jyutping": "keoi5 zung1 ji3 jing2 faa1.",
+      "meaning": "He/She likes taking photos of flowers.",
+      "sourceWordId": "faa1-flower",
+      "sourceWord": "花",
+      "sourceWordJyutping": "faa1",
+      "sourceWordMeaning": "flower",
+      "tags": [
+        "basic vocabulary",
+        "plants",
+        "gardening",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1-flower.json"
+    },
+    {
+      "sentenceId": "syu6-tree-example-1",
+      "sentence": "公園入面有好多樹。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 hou2 do1 syu6",
+      "meaning": "There are many trees in the park.",
+      "sourceWordId": "syu6-tree",
+      "sourceWord": "樹",
+      "sourceWordJyutping": "syu6",
+      "sourceWordMeaning": "tree",
+      "tags": [
+        "basic noun",
+        "plants",
+        "gardening",
+        "nature",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6-tree.json"
+    },
+    {
+      "sentenceId": "syu6-tree-example-2",
+      "sentence": "呢棵樹好高。",
+      "jyutping": "ni1 fo1 syu6 hou2 gou1",
+      "meaning": "This tree is very tall.",
+      "sourceWordId": "syu6-tree",
+      "sourceWord": "樹",
+      "sourceWordJyutping": "syu6",
+      "sourceWordMeaning": "tree",
+      "tags": [
+        "basic noun",
+        "plants",
+        "gardening",
+        "nature",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6-tree.json"
+    },
+    {
+      "sentenceId": "syu6-tree-example-3",
+      "sentence": "細路仔鍾意喺樹底乘涼。",
+      "jyutping": "sai3 lou6 zai2 zung1 ji3 hai2 syu6 dai2 sing4 loeng4",
+      "meaning": "Children like to cool off under the tree.",
+      "sourceWordId": "syu6-tree",
+      "sourceWord": "樹",
+      "sourceWordJyutping": "syu6",
+      "sourceWordMeaning": "tree",
+      "tags": [
+        "basic noun",
+        "plants",
+        "gardening",
+        "nature",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6-tree.json"
+    },
+    {
+      "sentenceId": "syu6-tree-example-4",
+      "sentence": "我哋屋企前面種咗一棵樹。",
+      "jyutping": "ngo5 dei6 uk1 kei2 cin4 min6 zung3 zo2 jat1 fo1 syu6",
+      "meaning": "We planted a tree in front of our home.",
+      "sourceWordId": "syu6-tree",
+      "sourceWord": "樹",
+      "sourceWordJyutping": "syu6",
+      "sourceWordMeaning": "tree",
+      "tags": [
+        "basic noun",
+        "plants",
+        "gardening",
+        "nature",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6-tree.json"
+    },
+    {
+      "sentenceId": "cou2-grass-example-1",
+      "sentence": "公園入面啲草幾高。",
+      "jyutping": "gung1 jyun4 jap6 min6 di1 cou2 gei2 gou1",
+      "meaning": "The grass in the park is quite tall.",
+      "sourceWordId": "cou2-grass",
+      "sourceWord": "草",
+      "sourceWordJyutping": "cou2",
+      "sourceWordMeaning": "grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "everyday words",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cou2-grass.json"
+    },
+    {
+      "sentenceId": "cou2-grass-example-2",
+      "sentence": "屋企後面有一片草地。",
+      "jyutping": "uk1 kei2 hau6 min6 jau5 jat1 pin3 cou2 dei6",
+      "meaning": "There is a patch of grass behind the house.",
+      "sourceWordId": "cou2-grass",
+      "sourceWord": "草",
+      "sourceWordJyutping": "cou2",
+      "sourceWordMeaning": "grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "everyday words",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cou2-grass.json"
+    },
+    {
+      "sentenceId": "cou2-grass-example-3",
+      "sentence": "落完雨，啲草好濕。",
+      "jyutping": "lok6 jyun4 jyu5, di1 cou2 hou2 sap1",
+      "meaning": "After the rain, the grass is very wet.",
+      "sourceWordId": "cou2-grass",
+      "sourceWord": "草",
+      "sourceWordJyutping": "cou2",
+      "sourceWordMeaning": "grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "everyday words",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cou2-grass.json"
+    },
+    {
+      "sentenceId": "cou2-grass-example-4",
+      "sentence": "呢隻羊成日食草。",
+      "jyutping": "ni1 zek3 joeng4 sing4 jat6 sik6 cou2",
+      "meaning": "This sheep eats grass all the time.",
+      "sourceWordId": "cou2-grass",
+      "sourceWord": "草",
+      "sourceWordJyutping": "cou2",
+      "sourceWordMeaning": "grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "everyday words",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cou2-grass.json"
+    },
+    {
+      "sentenceId": "jip6-leaf-example-1",
+      "sentence": "啲葉好綠。",
+      "jyutping": "di1 jip6 hou2 luk6",
+      "meaning": "The leaves are very green.",
+      "sourceWordId": "jip6-leaf",
+      "sourceWord": "葉",
+      "sourceWordJyutping": "jip6",
+      "sourceWordMeaning": "leaf",
+      "tags": [
+        "plant word",
+        "basic vocabulary",
+        "noun",
+        "gardening",
+        "nature",
+        "leaves",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6-leaf.json"
+    },
+    {
+      "sentenceId": "jip6-leaf-example-2",
+      "sentence": "呢啲葉可以用嚟做堆肥。",
+      "jyutping": "ni1 di1 jip6 ho2 ji5 jung6 lai4 zou6 deoi1 fei4",
+      "meaning": "These leaves can be used to make compost.",
+      "sourceWordId": "jip6-leaf",
+      "sourceWord": "葉",
+      "sourceWordJyutping": "jip6",
+      "sourceWordMeaning": "leaf",
+      "tags": [
+        "plant word",
+        "basic vocabulary",
+        "noun",
+        "gardening",
+        "nature",
+        "leaves",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6-leaf.json"
+    },
+    {
+      "sentenceId": "jip6-leaf-example-3",
+      "sentence": "秋天啲葉會變黃。",
+      "jyutping": "cau1 tin1 di1 jip6 wui5 bin3 wong4",
+      "meaning": "In autumn, leaves turn yellow.",
+      "sourceWordId": "jip6-leaf",
+      "sourceWord": "葉",
+      "sourceWordJyutping": "jip6",
+      "sourceWordMeaning": "leaf",
+      "tags": [
+        "plant word",
+        "basic vocabulary",
+        "noun",
+        "gardening",
+        "nature",
+        "leaves",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6-leaf.json"
+    },
+    {
+      "sentenceId": "jip6-leaf-example-4",
+      "sentence": "我想睇吓呢種植物嘅葉係點樣。",
+      "jyutping": "ngo5 soeng2 tai2 haa5 ni1 zung2 zing3 muk6 ge3 jip6 hai6 dim2 joeng6",
+      "meaning": "I want to see what this plant's leaves look like.",
+      "sourceWordId": "jip6-leaf",
+      "sourceWord": "葉",
+      "sourceWordJyutping": "jip6",
+      "sourceWordMeaning": "leaf",
+      "tags": [
+        "plant word",
+        "basic vocabulary",
+        "noun",
+        "gardening",
+        "nature",
+        "leaves",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jip6-leaf.json"
+    },
+    {
+      "sentenceId": "gan1-root-example-1",
+      "sentence": "呢棵樹嘅根好粗。",
+      "jyutping": "ni1 fo2 syu6 ge3 gan1 hou2 cou1",
+      "meaning": "The roots of this tree are very thick.",
+      "sourceWordId": "gan1-root",
+      "sourceWord": "根",
+      "sourceWordJyutping": "gan1",
+      "sourceWordMeaning": "root",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "roots",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gan1-root.json"
+    },
+    {
+      "sentenceId": "gan1-root-example-2",
+      "sentence": "你種嘅花已經生到根。",
+      "jyutping": "nei5 zung2 ge3 faa1 ji5 ging1 sang1 dou3 gan1",
+      "meaning": "The flower you planted has already taken root.",
+      "sourceWordId": "gan1-root",
+      "sourceWord": "根",
+      "sourceWordJyutping": "gan1",
+      "sourceWordMeaning": "root",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "roots",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gan1-root.json"
+    },
+    {
+      "sentenceId": "gan1-root-example-3",
+      "sentence": "小朋友用鏟仔輕輕掘開泥土，睇吓根。",
+      "jyutping": "siu2 pang4 jau5 jung6 caan2 zai2 hing1 hing1 gwat6 hoi1 nai4 tou2, tai2 haa5 gan1",
+      "meaning": "The child uses a small shovel to gently dig open the soil and look at the roots.",
+      "sourceWordId": "gan1-root",
+      "sourceWord": "根",
+      "sourceWordJyutping": "gan1",
+      "sourceWordMeaning": "root",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "roots",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gan1-root.json"
+    },
+    {
+      "sentenceId": "gan1-root-example-4",
+      "sentence": "啲蔬菜如果根生得健康，就會長得好。",
+      "jyutping": "di1 so1 coi3 jyu4 gwo2 gan1 sang1 dak1 gin6 hong1, zau6 wui5 zoeng2 dak1 hou2",
+      "meaning": "If the vegetables have healthy roots, they will grow well.",
+      "sourceWordId": "gan1-root",
+      "sourceWord": "根",
+      "sourceWordJyutping": "gan1",
+      "sourceWordMeaning": "root",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "roots",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gan1-root.json"
+    },
+    {
+      "sentenceId": "zung2zi2-seed-example-1",
+      "sentence": "我買咗幾粒種子返嚟種。",
+      "jyutping": "ngo5 maai5 zo2 gei2 lap1 zung2 zi2 faan1 lei4 zung2.",
+      "meaning": "I bought a few seeds to plant.",
+      "sourceWordId": "zung2zi2-seed",
+      "sourceWord": "種子",
+      "sourceWordJyutping": "zung2 zi2",
+      "sourceWordMeaning": "seed",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nouns",
+        "nature",
+        "beginner",
+        "farm",
+        "seeds",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung2zi2-seed.json"
+    },
+    {
+      "sentenceId": "zung2zi2-seed-example-2",
+      "sentence": "呢啲種子好細粒。",
+      "jyutping": "ni1 di1 zung2 zi2 hou2 sai3 lap1.",
+      "meaning": "These seeds are very small.",
+      "sourceWordId": "zung2zi2-seed",
+      "sourceWord": "種子",
+      "sourceWordJyutping": "zung2 zi2",
+      "sourceWordMeaning": "seed",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nouns",
+        "nature",
+        "beginner",
+        "farm",
+        "seeds",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung2zi2-seed.json"
+    },
+    {
+      "sentenceId": "zung2zi2-seed-example-3",
+      "sentence": "春天係播種子嘅好時間。",
+      "jyutping": "ceon1 tin1 hai6 bo3 zung2 zi2 ge3 hou2 si4 gaan1.",
+      "meaning": "Spring is a good time for sowing seeds.",
+      "sourceWordId": "zung2zi2-seed",
+      "sourceWord": "種子",
+      "sourceWordJyutping": "zung2 zi2",
+      "sourceWordMeaning": "seed",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nouns",
+        "nature",
+        "beginner",
+        "farm",
+        "seeds",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung2zi2-seed.json"
+    },
+    {
+      "sentenceId": "zung2zi2-seed-example-4",
+      "sentence": "佢將種子種喺花盆入面。",
+      "jyutping": "keoi5 zoeng1 zung2 zi2 zung3 hai2 faa1 pun4 jap6 min6.",
+      "meaning": "He/She planted the seeds in a flowerpot.",
+      "sourceWordId": "zung2zi2-seed",
+      "sourceWord": "種子",
+      "sourceWordJyutping": "zung2 zi2",
+      "sourceWordMeaning": "seed",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nouns",
+        "nature",
+        "beginner",
+        "farm",
+        "seeds",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung2zi2-seed.json"
+    },
+    {
+      "sentenceId": "zi1-branch-example-1",
+      "sentence": "棵樹上面有好多枝。",
+      "jyutping": "po1 syu6 soeng6 min6 jau5 hou2 do1 zi1",
+      "meaning": "There are many branches on the tree.",
+      "sourceWordId": "zi1-branch",
+      "sourceWord": "枝",
+      "sourceWordJyutping": "zi1",
+      "sourceWordMeaning": "branch",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "noun",
+        "tree parts",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi1-branch.json"
+    },
+    {
+      "sentenceId": "zi1-branch-example-2",
+      "sentence": "風太大，吹斷咗一枝。",
+      "jyutping": "fung1 taai3 daai6, ceoi1 tyun5 zo2 jat1 zi1",
+      "meaning": "The wind was too strong and broke off a branch.",
+      "sourceWordId": "zi1-branch",
+      "sourceWord": "枝",
+      "sourceWordJyutping": "zi1",
+      "sourceWordMeaning": "branch",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "noun",
+        "tree parts",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi1-branch.json"
+    },
+    {
+      "sentenceId": "zi1-branch-example-3",
+      "sentence": "我哋剪走咗啲枯枝。",
+      "jyutping": "ngo5 dei6 zim2 zau2 zo2 di1 fu1 zi1",
+      "meaning": "We cut away the dead branches.",
+      "sourceWordId": "zi1-branch",
+      "sourceWord": "枝",
+      "sourceWordJyutping": "zi1",
+      "sourceWordMeaning": "branch",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "noun",
+        "tree parts",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi1-branch.json"
+    },
+    {
+      "sentenceId": "zi1-branch-example-4",
+      "sentence": "佢用枝撐住盆花。",
+      "jyutping": "keoi5 jung6 zi1 caang3 zyu6 pun4 faa1",
+      "meaning": "He used a branch to support the flower pot.",
+      "sourceWordId": "zi1-branch",
+      "sourceWord": "枝",
+      "sourceWordJyutping": "zi1",
+      "sourceWordMeaning": "branch",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "nature",
+        "noun",
+        "tree parts",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi1-branch.json"
+    },
+    {
+      "sentenceId": "faa1faan6-petal-example-1",
+      "sentence": "玫瑰花瓣好香。",
+      "jyutping": "mui4 gwai3 faa1 faan6 hou2 hoeng1",
+      "meaning": "Rose petals smell nice.",
+      "sourceWordId": "faa1faan6-petal",
+      "sourceWord": "花瓣",
+      "sourceWordJyutping": "faa1 faan6",
+      "sourceWordMeaning": "petal",
+      "tags": [
+        "plants",
+        "growing",
+        "flowers",
+        "basic vocabulary",
+        "nature",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1faan6-petal.json"
+    },
+    {
+      "sentenceId": "faa1faan6-petal-example-2",
+      "sentence": "呢朵花有五塊花瓣。",
+      "jyutping": "ni1 do2 faa1 jau5 ng5 faai3 faa1 faan6",
+      "meaning": "This flower has five petals.",
+      "sourceWordId": "faa1faan6-petal",
+      "sourceWord": "花瓣",
+      "sourceWordJyutping": "faa1 faan6",
+      "sourceWordMeaning": "petal",
+      "tags": [
+        "plants",
+        "growing",
+        "flowers",
+        "basic vocabulary",
+        "nature",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1faan6-petal.json"
+    },
+    {
+      "sentenceId": "faa1faan6-petal-example-3",
+      "sentence": "小朋友鍾意用花瓣砌圖案。",
+      "jyutping": "siu2 pang4 jau5 zung1 ji3 jung6 faa1 faan6 cai3 tou4 on3",
+      "meaning": "Children like using petals to make patterns.",
+      "sourceWordId": "faa1faan6-petal",
+      "sourceWord": "花瓣",
+      "sourceWordJyutping": "faa1 faan6",
+      "sourceWordMeaning": "petal",
+      "tags": [
+        "plants",
+        "growing",
+        "flowers",
+        "basic vocabulary",
+        "nature",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1faan6-petal.json"
+    },
+    {
+      "sentenceId": "faa1faan6-petal-example-4",
+      "sentence": "風吹過，花瓣飄落地上。",
+      "jyutping": "fung1 ceoi1 gwo3, faa1 faan6 piu1 lok6 dei6 soeng6",
+      "meaning": "When the wind blew by, the petals fell to the ground.",
+      "sourceWordId": "faa1faan6-petal",
+      "sourceWord": "花瓣",
+      "sourceWordJyutping": "faa1 faan6",
+      "sourceWordMeaning": "petal",
+      "tags": [
+        "plants",
+        "growing",
+        "flowers",
+        "basic vocabulary",
+        "nature",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1faan6-petal.json"
+    },
+    {
+      "sentenceId": "gwo2sat6-fruit-example-1",
+      "sentence": "呢棵樹嘅果實好細粒。",
+      "jyutping": "ni1 fo1 syu6 ge3 gwo2 sat6 hou2 sai3 lap1.",
+      "meaning": "The fruit of this tree is very small.",
+      "sourceWordId": "gwo2sat6-fruit",
+      "sourceWord": "果實",
+      "sourceWordJyutping": "gwo2 sat6",
+      "sourceWordMeaning": "fruit",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "noun",
+        "nature",
+        "science",
+        "fruit",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2sat6-fruit.json"
+    },
+    {
+      "sentenceId": "gwo2sat6-fruit-example-2",
+      "sentence": "秋天係好多果實成熟嘅季節。",
+      "jyutping": "cau1 tin1 hai6 hou2 do1 gwo2 sat6 sing4 suk6 ge3 gwai3 zit3.",
+      "meaning": "Autumn is the season when many fruits ripen.",
+      "sourceWordId": "gwo2sat6-fruit",
+      "sourceWord": "果實",
+      "sourceWordJyutping": "gwo2 sat6",
+      "sourceWordMeaning": "fruit",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "noun",
+        "nature",
+        "science",
+        "fruit",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2sat6-fruit.json"
+    },
+    {
+      "sentenceId": "gwo2sat6-fruit-example-3",
+      "sentence": "呢種植物結出嘅果實可以食。",
+      "jyutping": "ni1 zung2 zing3 mat6 git3 ceot1 ge3 gwo2 sat6 ho2 ji5 sik6.",
+      "meaning": "The fruit produced by this plant can be eaten.",
+      "sourceWordId": "gwo2sat6-fruit",
+      "sourceWord": "果實",
+      "sourceWordJyutping": "gwo2 sat6",
+      "sourceWordMeaning": "fruit",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "noun",
+        "nature",
+        "science",
+        "fruit",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2sat6-fruit.json"
+    },
+    {
+      "sentenceId": "gwo2sat6-fruit-example-4",
+      "sentence": "老師叫我哋觀察花同果實嘅分別。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 gun1 caat3 faa1 tung4 gwo2 sat6 ge3 fan1 bit6.",
+      "meaning": "The teacher asked us to observe the difference between flowers and fruit.",
+      "sourceWordId": "gwo2sat6-fruit",
+      "sourceWord": "果實",
+      "sourceWordJyutping": "gwo2 sat6",
+      "sourceWordMeaning": "fruit",
+      "tags": [
+        "plants",
+        "gardening",
+        "basic vocabulary",
+        "noun",
+        "nature",
+        "science",
+        "fruit",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2sat6-fruit.json"
+    },
+    {
+      "sentenceId": "mui4gwai3-rose-example-1",
+      "sentence": "我買咗一支玫瑰送畀佢。",
+      "jyutping": "ngo5 maai5 zo2 jat1 zi1 mui4 gwai3 sung3 bei2 keoi5.",
+      "meaning": "I bought a rose to give to her/him.",
+      "sourceWordId": "mui4gwai3-rose",
+      "sourceWord": "玫瑰",
+      "sourceWordJyutping": "mui4 gwai3",
+      "sourceWordMeaning": "rose",
+      "tags": [
+        "plants-gardening",
+        "common_plants_and_flowers",
+        "Level 1",
+        "noun",
+        "flower",
+        "garden",
+        "gift",
+        "Valentine's Day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mui4gwai3-rose.json"
+    },
+    {
+      "sentenceId": "mui4gwai3-rose-example-2",
+      "sentence": "呢棵玫瑰開花喇。",
+      "jyutping": "ni1 po1 mui4 gwai3 hoi1 faa1 laa3.",
+      "meaning": "This rose plant is blooming.",
+      "sourceWordId": "mui4gwai3-rose",
+      "sourceWord": "玫瑰",
+      "sourceWordJyutping": "mui4 gwai3",
+      "sourceWordMeaning": "rose",
+      "tags": [
+        "plants-gardening",
+        "common_plants_and_flowers",
+        "Level 1",
+        "noun",
+        "flower",
+        "garden",
+        "gift",
+        "Valentine's Day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mui4gwai3-rose.json"
+    },
+    {
+      "sentenceId": "mui4gwai3-rose-example-3",
+      "sentence": "花店入面有好多紅色玫瑰。",
+      "jyutping": "faa1 dim3 jap6 min6 jau5 hou2 do1 hung4 sik1 mui4 gwai3.",
+      "meaning": "There are lots of red roses in the flower shop.",
+      "sourceWordId": "mui4gwai3-rose",
+      "sourceWord": "玫瑰",
+      "sourceWordJyutping": "mui4 gwai3",
+      "sourceWordMeaning": "rose",
+      "tags": [
+        "plants-gardening",
+        "common_plants_and_flowers",
+        "Level 1",
+        "noun",
+        "flower",
+        "garden",
+        "gift",
+        "Valentine's Day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mui4gwai3-rose.json"
+    },
+    {
+      "sentenceId": "mui4gwai3-rose-example-4",
+      "sentence": "佢鍾意種玫瑰同其他花。",
+      "jyutping": "keoi5 zung1 ji3 zung3 mui4 gwai3 tung4 kei4 taa1 faa1.",
+      "meaning": "He/She likes growing roses and other flowers.",
+      "sourceWordId": "mui4gwai3-rose",
+      "sourceWord": "玫瑰",
+      "sourceWordJyutping": "mui4 gwai3",
+      "sourceWordMeaning": "rose",
+      "tags": [
+        "plants-gardening",
+        "common_plants_and_flowers",
+        "Level 1",
+        "noun",
+        "flower",
+        "garden",
+        "gift",
+        "Valentine's Day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mui4gwai3-rose.json"
+    },
+    {
+      "sentenceId": "laan4faa1-orchid-example-1",
+      "sentence": "我屋企窗台有一盆蘭花。",
+      "jyutping": "ngo5 uk1 kei2 coeng1 toi4 jau5 jat1 pun4 laan4 faa1.",
+      "meaning": "There is a pot of orchid on my windowsill.",
+      "sourceWordId": "laan4faa1-orchid",
+      "sourceWord": "蘭花",
+      "sourceWordJyutping": "laan4 faa1",
+      "sourceWordMeaning": "orchid",
+      "tags": [
+        "plants",
+        "flowers",
+        "gardening",
+        "common noun",
+        "beginner",
+        "home and garden",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laan4faa1-orchid.json"
+    },
+    {
+      "sentenceId": "laan4faa1-orchid-example-2",
+      "sentence": "呢啲蘭花好靚。",
+      "jyutping": "ni1 di1 laan4 faa1 hou2 leng3.",
+      "meaning": "These orchids are very beautiful.",
+      "sourceWordId": "laan4faa1-orchid",
+      "sourceWord": "蘭花",
+      "sourceWordJyutping": "laan4 faa1",
+      "sourceWordMeaning": "orchid",
+      "tags": [
+        "plants",
+        "flowers",
+        "gardening",
+        "common noun",
+        "beginner",
+        "home and garden",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laan4faa1-orchid.json"
+    },
+    {
+      "sentenceId": "laan4faa1-orchid-example-3",
+      "sentence": "花市入面有好多蘭花賣。",
+      "jyutping": "faa1 si5 jap6 min6 jau5 hou2 do1 laan4 faa1 maai6.",
+      "meaning": "There are many orchids for sale in the flower market.",
+      "sourceWordId": "laan4faa1-orchid",
+      "sourceWord": "蘭花",
+      "sourceWordJyutping": "laan4 faa1",
+      "sourceWordMeaning": "orchid",
+      "tags": [
+        "plants",
+        "flowers",
+        "gardening",
+        "common noun",
+        "beginner",
+        "home and garden",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laan4faa1-orchid.json"
+    },
+    {
+      "sentenceId": "laan4faa1-orchid-example-4",
+      "sentence": "佢細個成日幫阿媽淋蘭花。",
+      "jyutping": "keoi5 sai3 gwo3 sing4 jat6 bong1 aa3 maa1 lam4 laan4 faa1.",
+      "meaning": "When they were young, they often helped their mother water the orchids.",
+      "sourceWordId": "laan4faa1-orchid",
+      "sourceWord": "蘭花",
+      "sourceWordJyutping": "laan4 faa1",
+      "sourceWordMeaning": "orchid",
+      "tags": [
+        "plants",
+        "flowers",
+        "gardening",
+        "common noun",
+        "beginner",
+        "home and garden",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laan4faa1-orchid.json"
+    },
+    {
+      "sentenceId": "guk1faa1-chrysanthemum-example-1",
+      "sentence": "我屋企陽台種咗幾盆菊花。",
+      "jyutping": "ngo5 uk1 kei2 joeng4 toi4 zung3 zo2 gei2 pun2 guk1 faa1.",
+      "meaning": "I planted several pots of chrysanthemums on my home balcony.",
+      "sourceWordId": "guk1faa1-chrysanthemum",
+      "sourceWord": "菊花",
+      "sourceWordJyutping": "guk1 faa1",
+      "sourceWordMeaning": "chrysanthemum",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common noun",
+        "everyday vocabulary",
+        "level 1",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk1faa1-chrysanthemum.json"
+    },
+    {
+      "sentenceId": "guk1faa1-chrysanthemum-example-2",
+      "sentence": "花墟今朝啲菊花好靚。",
+      "jyutping": "faa1 heoi1 gam1 ziu1 di1 guk1 faa1 hou2 leng3.",
+      "meaning": "The chrysanthemums at the flower market looked beautiful this morning.",
+      "sourceWordId": "guk1faa1-chrysanthemum",
+      "sourceWord": "菊花",
+      "sourceWordJyutping": "guk1 faa1",
+      "sourceWordMeaning": "chrysanthemum",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common noun",
+        "everyday vocabulary",
+        "level 1",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk1faa1-chrysanthemum.json"
+    },
+    {
+      "sentenceId": "guk1faa1-chrysanthemum-example-3",
+      "sentence": "阿媽鍾意買黃色菊花返屋企。",
+      "jyutping": "aa3 maa1 zung1 ji3 maai5 wong4 sik1 guk1 faa1 faan1 uk1 kei2.",
+      "meaning": "My mom likes to buy yellow chrysanthemums to bring home.",
+      "sourceWordId": "guk1faa1-chrysanthemum",
+      "sourceWord": "菊花",
+      "sourceWordJyutping": "guk1 faa1",
+      "sourceWordMeaning": "chrysanthemum",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common noun",
+        "everyday vocabulary",
+        "level 1",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk1faa1-chrysanthemum.json"
+    },
+    {
+      "sentenceId": "guk1faa1-chrysanthemum-example-4",
+      "sentence": "秋天嘅時候，菊花通常會開得好盛。",
+      "jyutping": "cau1 tin1 ge3 si4 hau2, guk1 faa1 tung1 soeng4 wui5 hoi1 dak1 hou2 sing6.",
+      "meaning": "In autumn, chrysanthemums usually bloom very abundantly.",
+      "sourceWordId": "guk1faa1-chrysanthemum",
+      "sourceWord": "菊花",
+      "sourceWordJyutping": "guk1 faa1",
+      "sourceWordMeaning": "chrysanthemum",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common noun",
+        "everyday vocabulary",
+        "level 1",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/guk1faa1-chrysanthemum.json"
+    },
+    {
+      "sentenceId": "lin4faa1-lotus-example-1",
+      "sentence": "公園入面有好多蓮花開得好靚。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 hou2 do1 lin4 faa1 hoi1 dak1 hou2 leng3.",
+      "meaning": "There are many lotus flowers blooming beautifully in the park.",
+      "sourceWordId": "lin4faa1-lotus",
+      "sourceWord": "蓮花",
+      "sourceWordJyutping": "lin4 faa1",
+      "sourceWordMeaning": "lotus",
+      "tags": [
+        "plants",
+        "flowers",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "garden",
+        "lotus",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin4faa1-lotus.json"
+    },
+    {
+      "sentenceId": "lin4faa1-lotus-example-2",
+      "sentence": "佢喺蓮花池邊影相。",
+      "jyutping": "keoi5 hai2 lin4 faa1 ci4 bin1 jing2 soeng2.",
+      "meaning": "He/She is taking photos by the lotus pond.",
+      "sourceWordId": "lin4faa1-lotus",
+      "sourceWord": "蓮花",
+      "sourceWordJyutping": "lin4 faa1",
+      "sourceWordMeaning": "lotus",
+      "tags": [
+        "plants",
+        "flowers",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "garden",
+        "lotus",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin4faa1-lotus.json"
+    },
+    {
+      "sentenceId": "lin4faa1-lotus-example-3",
+      "sentence": "佛寺門口擺咗幾盆蓮花。",
+      "jyutping": "fat6 zi6 mun4 hau2 baai2 zo2 gei2 pun4 lin4 faa1.",
+      "meaning": "There are several pots of lotus flowers placed at the entrance of the temple.",
+      "sourceWordId": "lin4faa1-lotus",
+      "sourceWord": "蓮花",
+      "sourceWordJyutping": "lin4 faa1",
+      "sourceWordMeaning": "lotus",
+      "tags": [
+        "plants",
+        "flowers",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "garden",
+        "lotus",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin4faa1-lotus.json"
+    },
+    {
+      "sentenceId": "lin4faa1-lotus-example-4",
+      "sentence": "呢幅畫畫咗一朵大大嘅蓮花。",
+      "jyutping": "ni1 fuk1 waa2 waa2 zo2 jat1 do2 daai6 daai6 ge3 lin4 faa1.",
+      "meaning": "This painting depicts a big lotus flower.",
+      "sourceWordId": "lin4faa1-lotus",
+      "sourceWord": "蓮花",
+      "sourceWordJyutping": "lin4 faa1",
+      "sourceWordMeaning": "lotus",
+      "tags": [
+        "plants",
+        "flowers",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "garden",
+        "lotus",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin4faa1-lotus.json"
+    },
+    {
+      "sentenceId": "hoeng3jat6kwai4-sunflower-example-1",
+      "sentence": "向日葵會跟住太陽郁。",
+      "jyutping": "hoeng3 jat6 kwai4 wui5 gan1 zyu6 taai3 joeng4 juk6",
+      "meaning": "Sunflowers move with the sun.",
+      "sourceWordId": "hoeng3jat6kwai4-sunflower",
+      "sourceWord": "向日葵",
+      "sourceWordJyutping": "hoeng3 jat6 kwai4",
+      "sourceWordMeaning": "sunflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common nouns",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoeng3jat6kwai4-sunflower.json"
+    },
+    {
+      "sentenceId": "hoeng3jat6kwai4-sunflower-example-2",
+      "sentence": "我喺花市買咗一盆向日葵。",
+      "jyutping": "ngo5 hai2 faa1 si5 maai5 zo2 jat1 pun4 hoeng3 jat6 kwai4",
+      "meaning": "I bought a sunflower at the flower market.",
+      "sourceWordId": "hoeng3jat6kwai4-sunflower",
+      "sourceWord": "向日葵",
+      "sourceWordJyutping": "hoeng3 jat6 kwai4",
+      "sourceWordMeaning": "sunflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common nouns",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoeng3jat6kwai4-sunflower.json"
+    },
+    {
+      "sentenceId": "hoeng3jat6kwai4-sunflower-example-3",
+      "sentence": "後花園種咗好多向日葵。",
+      "jyutping": "hau6 faa1 jyun4 zung3 zo2 hou2 do1 hoeng3 jat6 kwai4",
+      "meaning": "A lot of sunflowers are planted in the back garden.",
+      "sourceWordId": "hoeng3jat6kwai4-sunflower",
+      "sourceWord": "向日葵",
+      "sourceWordJyutping": "hoeng3 jat6 kwai4",
+      "sourceWordMeaning": "sunflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common nouns",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoeng3jat6kwai4-sunflower.json"
+    },
+    {
+      "sentenceId": "hoeng3jat6kwai4-sunflower-example-4",
+      "sentence": "向日葵嘅花瓣好靚。",
+      "jyutping": "hoeng3 jat6 kwai4 ge3 faa1 baan6 hou2 leng3",
+      "meaning": "The sunflower petals are beautiful.",
+      "sourceWordId": "hoeng3jat6kwai4-sunflower",
+      "sourceWord": "向日葵",
+      "sourceWordJyutping": "hoeng3 jat6 kwai4",
+      "sourceWordMeaning": "sunflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "flowers",
+        "common nouns",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoeng3jat6kwai4-sunflower.json"
+    },
+    {
+      "sentenceId": "tang4-vine-example-1",
+      "sentence": "院入面棵藤爬到上棚頂。",
+      "jyutping": "jyun2 zeoi6 min6 po1 tang4 paa4 dou3 soeng5 paang4 deng2.",
+      "meaning": "The vine has climbed up to the top of the trellis in the yard.",
+      "sourceWordId": "tang4-vine",
+      "sourceWord": "藤",
+      "sourceWordJyutping": "tang4",
+      "sourceWordMeaning": "vine",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "common",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tang4-vine.json"
+    },
+    {
+      "sentenceId": "tang4-vine-example-2",
+      "sentence": "呢種藤好快就包住晒條欄。",
+      "jyutping": "ni1 zung2 tang4 hou2 faai3 zau6 baau1 zyu6 saai3 tiu4 laan4.",
+      "meaning": "This vine quickly covered the whole fence.",
+      "sourceWordId": "tang4-vine",
+      "sourceWord": "藤",
+      "sourceWordJyutping": "tang4",
+      "sourceWordMeaning": "vine",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "common",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tang4-vine.json"
+    },
+    {
+      "sentenceId": "tang4-vine-example-3",
+      "sentence": "花棚種咗好多藤植物。",
+      "jyutping": "faa1 paang4 zung2 zo2 hou2 do1 tang4 zing3 mat6.",
+      "meaning": "The flower trellis has many climbing plants.",
+      "sourceWordId": "tang4-vine",
+      "sourceWord": "藤",
+      "sourceWordJyutping": "tang4",
+      "sourceWordMeaning": "vine",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "common",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tang4-vine.json"
+    },
+    {
+      "sentenceId": "tang4-vine-example-4",
+      "sentence": "雨季一到，後園啲藤就長得好快。",
+      "jyutping": "jyu5 gwai3 jat1 dou3, hau6 jyun4 di1 tang4 zau6 coeng4 dak1 hou2 faai3.",
+      "meaning": "When the rainy season starts, the vines in the back garden grow very quickly.",
+      "sourceWordId": "tang4-vine",
+      "sourceWord": "藤",
+      "sourceWordJyutping": "tang4",
+      "sourceWordMeaning": "vine",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "common",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tang4-vine.json"
+    },
+    {
+      "sentenceId": "muk6-wood-example-1",
+      "sentence": "呢張枱係木造嘅。",
+      "jyutping": "ni1 zoeng1 toi2 hai6 muk6 zou6 ge3.",
+      "meaning": "This table is made of wood.",
+      "sourceWordId": "muk6-wood",
+      "sourceWord": "木",
+      "sourceWordJyutping": "muk6",
+      "sourceWordMeaning": "wood",
+      "tags": [
+        "wood",
+        "timber",
+        "material",
+        "basic vocabulary",
+        "plants and gardening",
+        "trees and woodland",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6-wood.json"
+    },
+    {
+      "sentenceId": "muk6-wood-example-2",
+      "sentence": "佢買咗一塊木去整手工。",
+      "jyutping": "keoi5 maai5 zo2 jat1 faai3 muk6 heoi3 zing2 sau2 gung1.",
+      "meaning": "He bought a piece of wood to do crafts.",
+      "sourceWordId": "muk6-wood",
+      "sourceWord": "木",
+      "sourceWordJyutping": "muk6",
+      "sourceWordMeaning": "wood",
+      "tags": [
+        "wood",
+        "timber",
+        "material",
+        "basic vocabulary",
+        "plants and gardening",
+        "trees and woodland",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6-wood.json"
+    },
+    {
+      "sentenceId": "muk6-wood-example-3",
+      "sentence": "公園入面有好多木凳。",
+      "jyutping": "gung1 jyun4 jap6 min6 jau5 hou2 do1 muk6 dang3.",
+      "meaning": "There are many wooden benches in the park.",
+      "sourceWordId": "muk6-wood",
+      "sourceWord": "木",
+      "sourceWordJyutping": "muk6",
+      "sourceWordMeaning": "wood",
+      "tags": [
+        "wood",
+        "timber",
+        "material",
+        "basic vocabulary",
+        "plants and gardening",
+        "trees and woodland",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6-wood.json"
+    },
+    {
+      "sentenceId": "muk6-wood-example-4",
+      "sentence": "呢棵樹啲木好硬。",
+      "jyutping": "ni1 po1 syu6 di1 muk6 hou2 ngaang6.",
+      "meaning": "The wood of this tree is very hard.",
+      "sourceWordId": "muk6-wood",
+      "sourceWord": "木",
+      "sourceWordJyutping": "muk6",
+      "sourceWordMeaning": "wood",
+      "tags": [
+        "wood",
+        "timber",
+        "material",
+        "basic vocabulary",
+        "plants and gardening",
+        "trees and woodland",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6-wood.json"
+    },
+    {
+      "sentenceId": "cung4syu6-pine-tree-example-1",
+      "sentence": "山上有好多松樹。",
+      "jyutping": "saan1 soeng6 jau5 hou2 do1 cung4 syu6.",
+      "meaning": "There are many pine trees on the mountain.",
+      "sourceWordId": "cung4syu6-pine-tree",
+      "sourceWord": "松樹",
+      "sourceWordJyutping": "cung4 syu6",
+      "sourceWordMeaning": "pine tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cung4syu6-pine-tree.json"
+    },
+    {
+      "sentenceId": "cung4syu6-pine-tree-example-2",
+      "sentence": "呢棵松樹好高。",
+      "jyutping": "ni1 fo1 cung4 syu6 hou2 gou1.",
+      "meaning": "This pine tree is very tall.",
+      "sourceWordId": "cung4syu6-pine-tree",
+      "sourceWord": "松樹",
+      "sourceWordJyutping": "cung4 syu6",
+      "sourceWordMeaning": "pine tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cung4syu6-pine-tree.json"
+    },
+    {
+      "sentenceId": "cung4syu6-pine-tree-example-3",
+      "sentence": "公園入面種咗幾棵松樹。",
+      "jyutping": "gung1 jyun4 jap6 min6 zung3 zo2 gei2 fo1 cung4 syu6.",
+      "meaning": "A few pine trees were planted in the park.",
+      "sourceWordId": "cung4syu6-pine-tree",
+      "sourceWord": "松樹",
+      "sourceWordJyutping": "cung4 syu6",
+      "sourceWordMeaning": "pine tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cung4syu6-pine-tree.json"
+    },
+    {
+      "sentenceId": "cung4syu6-pine-tree-example-4",
+      "sentence": "冬天嘅松樹都係綠色。",
+      "jyutping": "dung1 tin1 ge3 cung4 syu6 dou1 hai6 luk6 sik1.",
+      "meaning": "Pine trees are green even in winter.",
+      "sourceWordId": "cung4syu6-pine-tree",
+      "sourceWord": "松樹",
+      "sourceWordJyutping": "cung4 syu6",
+      "sourceWordMeaning": "pine tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cung4syu6-pine-tree.json"
+    },
+    {
+      "sentenceId": "lau5syu6-willow-tree-example-1",
+      "sentence": "湖邊有一棵柳樹。",
+      "jyutping": "wu4 bin1 jau5 jat1 fo3 lau5 syu6.",
+      "meaning": "There is a willow tree by the lake.",
+      "sourceWordId": "lau5syu6-willow-tree",
+      "sourceWord": "柳樹",
+      "sourceWordJyutping": "lau5 syu6",
+      "sourceWordMeaning": "willow tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "woodland",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau5syu6-willow-tree.json"
+    },
+    {
+      "sentenceId": "lau5syu6-willow-tree-example-2",
+      "sentence": "春天嘅柳樹好靚。",
+      "jyutping": "ceon1 tin1 ge3 lau5 syu6 hou2 leng3.",
+      "meaning": "The willow tree is beautiful in spring.",
+      "sourceWordId": "lau5syu6-willow-tree",
+      "sourceWord": "柳樹",
+      "sourceWordJyutping": "lau5 syu6",
+      "sourceWordMeaning": "willow tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "woodland",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau5syu6-willow-tree.json"
+    },
+    {
+      "sentenceId": "lau5syu6-willow-tree-example-3",
+      "sentence": "公園入面種咗幾棵柳樹。",
+      "jyutping": "gung1 jyun4 jap6 min6 zung3 zo2 gei2 fo3 lau5 syu6.",
+      "meaning": "Several willow trees were planted in the park.",
+      "sourceWordId": "lau5syu6-willow-tree",
+      "sourceWord": "柳樹",
+      "sourceWordJyutping": "lau5 syu6",
+      "sourceWordMeaning": "willow tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "woodland",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau5syu6-willow-tree.json"
+    },
+    {
+      "sentenceId": "lau5syu6-willow-tree-example-4",
+      "sentence": "河邊嗰棵柳樹隨風搖擺。",
+      "jyutping": "ho4 bin1 go2 fo3 lau5 syu6 ceoi4 fung1 jiu4 baai2.",
+      "meaning": "The willow tree by the river swayed in the wind.",
+      "sourceWordId": "lau5syu6-willow-tree",
+      "sourceWord": "柳樹",
+      "sourceWordJyutping": "lau5 syu6",
+      "sourceWordMeaning": "willow tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "woodland",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau5syu6-willow-tree.json"
+    },
+    {
+      "sentenceId": "gwo2syu6-fruit-tree-example-1",
+      "sentence": "後山嗰度有幾棵果樹。",
+      "jyutping": "hau6 saan1 go2 dou6 jau5 gei2 fo1 gwo2 syu6.",
+      "meaning": "There are a few fruit trees at the back hill.",
+      "sourceWordId": "gwo2syu6-fruit-tree",
+      "sourceWord": "果樹",
+      "sourceWordJyutping": "gwo2 syu6",
+      "sourceWordMeaning": "fruit tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2syu6-fruit-tree.json"
+    },
+    {
+      "sentenceId": "gwo2syu6-fruit-tree-example-2",
+      "sentence": "呢棵果樹今年開咗好多花。",
+      "jyutping": "ni1 fo1 gwo2 syu6 gam1 nin4 hoi1 zo2 hou2 do1 faa1.",
+      "meaning": "This fruit tree has bloomed a lot this year.",
+      "sourceWordId": "gwo2syu6-fruit-tree",
+      "sourceWord": "果樹",
+      "sourceWordJyutping": "gwo2 syu6",
+      "sourceWordMeaning": "fruit tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2syu6-fruit-tree.json"
+    },
+    {
+      "sentenceId": "gwo2syu6-fruit-tree-example-3",
+      "sentence": "阿媽話想喺屋企後園種果樹。",
+      "jyutping": "aa3 maa1 waa6 soeng2 hai2 uk1 kei2 hau6 jyun4 zung3 gwo2 syu6.",
+      "meaning": "Mom said she wants to plant a fruit tree in the backyard.",
+      "sourceWordId": "gwo2syu6-fruit-tree",
+      "sourceWord": "果樹",
+      "sourceWordJyutping": "gwo2 syu6",
+      "sourceWordMeaning": "fruit tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2syu6-fruit-tree.json"
+    },
+    {
+      "sentenceId": "gwo2syu6-fruit-tree-example-4",
+      "sentence": "我哋學校附近有一片果樹園。",
+      "jyutping": "ngo5 dei6 hok6 haau6 fu6 gan6 jau5 jat1 pin3 gwo2 syu6 jyun4.",
+      "meaning": "There is an orchard near our school.",
+      "sourceWordId": "gwo2syu6-fruit-tree",
+      "sourceWord": "果樹",
+      "sourceWordJyutping": "gwo2 syu6",
+      "sourceWordMeaning": "fruit tree",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "beginner",
+        "noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2syu6-fruit-tree.json"
+    },
+    {
+      "sentenceId": "syu6gon3-trunk-example-1",
+      "sentence": "呢棵大樹幹好粗。",
+      "jyutping": "ni1 fo1 daai6 syu6 gon3 hou2 cou1",
+      "meaning": "This tree trunk is very thick.",
+      "sourceWordId": "syu6gon3-trunk",
+      "sourceWord": "樹幹",
+      "sourceWordJyutping": "syu6 gon3",
+      "sourceWordMeaning": "trunk",
+      "tags": [
+        "plants-gardening",
+        "trees_and_woodland",
+        "nature",
+        "basic-vocabulary",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6gon3-trunk.json"
+    },
+    {
+      "sentenceId": "syu6gon3-trunk-example-2",
+      "sentence": "佢用手摸樹幹。",
+      "jyutping": "keoi5 jung6 sau2 mo2 syu6 gon3",
+      "meaning": "He/She touched the tree trunk with a hand.",
+      "sourceWordId": "syu6gon3-trunk",
+      "sourceWord": "樹幹",
+      "sourceWordJyutping": "syu6 gon3",
+      "sourceWordMeaning": "trunk",
+      "tags": [
+        "plants-gardening",
+        "trees_and_woodland",
+        "nature",
+        "basic-vocabulary",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6gon3-trunk.json"
+    },
+    {
+      "sentenceId": "syu6gon3-trunk-example-3",
+      "sentence": "樹幹入面有蟲洞。",
+      "jyutping": "syu6 gon3 jap6 min6 jau5 cung4 dung6",
+      "meaning": "There are insect holes inside the trunk.",
+      "sourceWordId": "syu6gon3-trunk",
+      "sourceWord": "樹幹",
+      "sourceWordJyutping": "syu6 gon3",
+      "sourceWordMeaning": "trunk",
+      "tags": [
+        "plants-gardening",
+        "trees_and_woodland",
+        "nature",
+        "basic-vocabulary",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6gon3-trunk.json"
+    },
+    {
+      "sentenceId": "syu6gon3-trunk-example-4",
+      "sentence": "風太大，吹斷咗樹幹。",
+      "jyutping": "fung1 taai3 daai6, ceoi1 dyun6 zo2 syu6 gon3",
+      "meaning": "The wind was so strong that it broke the trunk.",
+      "sourceWordId": "syu6gon3-trunk",
+      "sourceWord": "樹幹",
+      "sourceWordJyutping": "syu6 gon3",
+      "sourceWordMeaning": "trunk",
+      "tags": [
+        "plants-gardening",
+        "trees_and_woodland",
+        "nature",
+        "basic-vocabulary",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6gon3-trunk.json"
+    },
+    {
+      "sentenceId": "syu6pei4-bark-example-1",
+      "sentence": "呢棵樹嘅樹皮好粗糙。",
+      "jyutping": "ni1 bo1 syu6 ge3 syu6 pei4 hou2 co1 cou3",
+      "meaning": "The bark of this tree is very rough.",
+      "sourceWordId": "syu6pei4-bark",
+      "sourceWord": "樹皮",
+      "sourceWordJyutping": "syu6 pei4",
+      "sourceWordMeaning": "bark",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6pei4-bark.json"
+    },
+    {
+      "sentenceId": "syu6pei4-bark-example-2",
+      "sentence": "小朋友唔好亂剝樹皮。",
+      "jyutping": "siu2 pang4 jau5 m4 hou2 lyun6 bok1 syu6 pei4",
+      "meaning": "Children shouldn’t peel off bark carelessly.",
+      "sourceWordId": "syu6pei4-bark",
+      "sourceWord": "樹皮",
+      "sourceWordJyutping": "syu6 pei4",
+      "sourceWordMeaning": "bark",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6pei4-bark.json"
+    },
+    {
+      "sentenceId": "syu6pei4-bark-example-3",
+      "sentence": "樹皮可以保護樹幹。",
+      "jyutping": "syu6 pei4 ho2 ji5 bou2 wu6 syu6 gon2",
+      "meaning": "Bark can protect the trunk of a tree.",
+      "sourceWordId": "syu6pei4-bark",
+      "sourceWord": "樹皮",
+      "sourceWordJyutping": "syu6 pei4",
+      "sourceWordMeaning": "bark",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6pei4-bark.json"
+    },
+    {
+      "sentenceId": "syu6pei4-bark-example-4",
+      "sentence": "公園入面啲樹皮好厚。",
+      "jyutping": "gung1 jyun4 jap6 min6 di1 syu6 pei4 hou2 hau5",
+      "meaning": "The bark in the park is very thick.",
+      "sourceWordId": "syu6pei4-bark",
+      "sourceWord": "樹皮",
+      "sourceWordJyutping": "syu6 pei4",
+      "sourceWordMeaning": "bark",
+      "tags": [
+        "plants",
+        "gardening",
+        "trees",
+        "nature",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6pei4-bark.json"
+    },
+    {
+      "sentenceId": "sam1lam4-forest-example-1",
+      "sentence": "我哋今個星期去森林行山。",
+      "jyutping": "ngo5 dei6 gam1 go3 sing1 kei4 heoi3 sam1 lam4 hang4 saan1.",
+      "meaning": "We’re going hiking in the forest this week.",
+      "sourceWordId": "sam1lam4-forest",
+      "sourceWord": "森林",
+      "sourceWordJyutping": "sam1 lam4",
+      "sourceWordMeaning": "forest",
+      "tags": [
+        "nature",
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam1lam4-forest.json"
+    },
+    {
+      "sentenceId": "sam1lam4-forest-example-2",
+      "sentence": "森林入面有好多唔同嘅動物。",
+      "jyutping": "sam1 lam4 jap6 min6 jau5 hou2 do1 m4 tung4 dik1 dung6 mat6.",
+      "meaning": "There are many different animals in the forest.",
+      "sourceWordId": "sam1lam4-forest",
+      "sourceWord": "森林",
+      "sourceWordJyutping": "sam1 lam4",
+      "sourceWordMeaning": "forest",
+      "tags": [
+        "nature",
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam1lam4-forest.json"
+    },
+    {
+      "sentenceId": "sam1lam4-forest-example-3",
+      "sentence": "小朋友好鍾意聽森林故事。",
+      "jyutping": "siu2 pang4 jau5 hou2 zung1 ji3 teng1 sam1 lam4 gu3 si6.",
+      "meaning": "Children really like listening to forest stories.",
+      "sourceWordId": "sam1lam4-forest",
+      "sourceWord": "森林",
+      "sourceWordJyutping": "sam1 lam4",
+      "sourceWordMeaning": "forest",
+      "tags": [
+        "nature",
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam1lam4-forest.json"
+    },
+    {
+      "sentenceId": "sam1lam4-forest-example-4",
+      "sentence": "我哋要保護森林同樹木。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 sam1 lam4 tung4 syu6 muk6.",
+      "meaning": "We need to protect forests and trees.",
+      "sourceWordId": "sam1lam4-forest",
+      "sourceWord": "森林",
+      "sourceWordJyutping": "sam1 lam4",
+      "sourceWordMeaning": "forest",
+      "tags": [
+        "nature",
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sam1lam4-forest.json"
+    },
+    {
+      "sentenceId": "lam4-grove-example-1",
+      "sentence": "山坡下面有一片林。",
+      "jyutping": "saan1 po1 haa6 min6 jau5 jat1 pin3 lam4",
+      "meaning": "There is a grove below the hillside.",
+      "sourceWordId": "lam4-grove",
+      "sourceWord": "林",
+      "sourceWordJyutping": "lam4",
+      "sourceWordMeaning": "grove",
+      "tags": [
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "nature",
+        "landscape",
+        "place-name",
+        "formal",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4-grove.json"
+    },
+    {
+      "sentenceId": "lam4-grove-example-2",
+      "sentence": "呢度以前係一片林。",
+      "jyutping": "ni1 dou6 ji5 cin4 hai6 jat1 pin3 lam4",
+      "meaning": "This place used to be a grove.",
+      "sourceWordId": "lam4-grove",
+      "sourceWord": "林",
+      "sourceWordJyutping": "lam4",
+      "sourceWordMeaning": "grove",
+      "tags": [
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "nature",
+        "landscape",
+        "place-name",
+        "formal",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4-grove.json"
+    },
+    {
+      "sentenceId": "lam4-grove-example-3",
+      "sentence": "小鳥飛入林裡面。",
+      "jyutping": "siu2 niu5 fei1 jap6 lam4 leoi5 min6",
+      "meaning": "The bird flew into the grove.",
+      "sourceWordId": "lam4-grove",
+      "sourceWord": "林",
+      "sourceWordJyutping": "lam4",
+      "sourceWordMeaning": "grove",
+      "tags": [
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "nature",
+        "landscape",
+        "place-name",
+        "formal",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4-grove.json"
+    },
+    {
+      "sentenceId": "lam4-grove-example-4",
+      "sentence": "村口有棵大樹，旁邊嗰片林好靜。",
+      "jyutping": "cyun1 hau2 jau5 po1 daai6 syu6 pong4 bin1 go2 pin3 lam4 hou2 zing6",
+      "meaning": "There is a big tree at the village entrance, and the grove beside it is very quiet.",
+      "sourceWordId": "lam4-grove",
+      "sourceWord": "林",
+      "sourceWordJyutping": "lam4",
+      "sourceWordMeaning": "grove",
+      "tags": [
+        "plants-gardening",
+        "trees",
+        "woodland",
+        "nature",
+        "landscape",
+        "place-name",
+        "formal",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4-grove.json"
+    },
+    {
+      "sentenceId": "faa1jyun4-garden-example-1",
+      "sentence": "我屋企後面有個花園。",
+      "jyutping": "ngo5 uk1 kei2 hau6 min6 jau5 go3 faa1 jyun4.",
+      "meaning": "There is a garden behind my home.",
+      "sourceWordId": "faa1jyun4-garden",
+      "sourceWord": "花園",
+      "sourceWordJyutping": "faa1 jyun4",
+      "sourceWordMeaning": "garden",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "home",
+        "outdoor space",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
+    },
+    {
+      "sentenceId": "faa1jyun4-garden-example-2",
+      "sentence": "放工之後，我鍾意去花園行一陣。",
+      "jyutping": "fong3 gung1 zi1 hau6, ngo5 zung1 ji3 heoi3 faa1 jyun4 hang4 jat1 zan6.",
+      "meaning": "After work, I like to go for a walk in the garden.",
+      "sourceWordId": "faa1jyun4-garden",
+      "sourceWord": "花園",
+      "sourceWordJyutping": "faa1 jyun4",
+      "sourceWordMeaning": "garden",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "home",
+        "outdoor space",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
+    },
+    {
+      "sentenceId": "faa1jyun4-garden-example-3",
+      "sentence": "呢個花園種咗好多玫瑰。",
+      "jyutping": "ni1 go3 faa1 jyun4 zung3 zo2 hou2 do1 mui4 gwai3.",
+      "meaning": "This garden has a lot of roses planted in it.",
+      "sourceWordId": "faa1jyun4-garden",
+      "sourceWord": "花園",
+      "sourceWordJyutping": "faa1 jyun4",
+      "sourceWordMeaning": "garden",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "home",
+        "outdoor space",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
+    },
+    {
+      "sentenceId": "faa1jyun4-garden-example-4",
+      "sentence": "阿媽成日喺花園度打理啲植物。",
+      "jyutping": "aa3 maa1 seng4 jat6 hai2 faa1 jyun4 dou6 daa2 lei5 di1 zing6 mat6.",
+      "meaning": "My mum often takes care of the plants in the garden.",
+      "sourceWordId": "faa1jyun4-garden",
+      "sourceWord": "花園",
+      "sourceWordJyutping": "faa1 jyun4",
+      "sourceWordMeaning": "garden",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "home",
+        "outdoor space",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
+    },
+    {
+      "sentenceId": "zung3-to-plant-to-grow-example-1",
+      "sentence": "我喺屋企後園種咗幾棵番茄。",
+      "jyutping": "ngo5 hai2 uk1 kei4 hau6 jyun4 zung3 zo2 gei2 fo1 faa1 keoi1 faan1 keoi4",
+      "meaning": "I planted a few tomato plants in the backyard at home.",
+      "sourceWordId": "zung3-to-plant-to-grow",
+      "sourceWord": "種",
+      "sourceWordJyutping": "zung3",
+      "sourceWordMeaning": "to plant; to grow",
+      "tags": [
+        "plants-gardening",
+        "gardening",
+        "planting",
+        "farming",
+        "basic-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung3-to-plant-to-grow.json"
+    },
+    {
+      "sentenceId": "zung3-to-plant-to-grow-example-2",
+      "sentence": "佢好鍾意種花，成個露台都係。",
+      "jyutping": "keoi5 hou2 zung1 ji3 zung3 faa1, sing4 go3 lou6 toi4 dou1 hai6",
+      "meaning": "He/She really likes growing flowers, and the whole balcony is full of them.",
+      "sourceWordId": "zung3-to-plant-to-grow",
+      "sourceWord": "種",
+      "sourceWordJyutping": "zung3",
+      "sourceWordMeaning": "to plant; to grow",
+      "tags": [
+        "plants-gardening",
+        "gardening",
+        "planting",
+        "farming",
+        "basic-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung3-to-plant-to-grow.json"
+    },
+    {
+      "sentenceId": "zung3-to-plant-to-grow-example-3",
+      "sentence": "春天最啱種菜。",
+      "jyutping": "ceon1 tin1 zeoi3 ngaam1 zung3 coi3",
+      "meaning": "Spring is the best time to plant vegetables.",
+      "sourceWordId": "zung3-to-plant-to-grow",
+      "sourceWord": "種",
+      "sourceWordJyutping": "zung3",
+      "sourceWordMeaning": "to plant; to grow",
+      "tags": [
+        "plants-gardening",
+        "gardening",
+        "planting",
+        "farming",
+        "basic-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung3-to-plant-to-grow.json"
+    },
+    {
+      "sentenceId": "zung3-to-plant-to-grow-example-4",
+      "sentence": "阿媽叫我落樓種啲葱。",
+      "jyutping": "aa3 maa1 giu3 ngo5 lok6 lau4 zung3 di1 cung1",
+      "meaning": "Mum told me to go downstairs and plant some scallions.",
+      "sourceWordId": "zung3-to-plant-to-grow",
+      "sourceWord": "種",
+      "sourceWordJyutping": "zung3",
+      "sourceWordMeaning": "to plant; to grow",
+      "tags": [
+        "plants-gardening",
+        "gardening",
+        "planting",
+        "farming",
+        "basic-cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung3-to-plant-to-grow.json"
+    },
+    {
+      "sentenceId": "lam4seoi2-to-water-plants-example-1",
+      "sentence": "我朝早會幫啲盆栽淋水。",
+      "jyutping": "ngo5 ciu4 zo2 wui5 bong1 di1 pun4 zoi1 lam4 seoi2.",
+      "meaning": "I water the potted plants in the morning.",
+      "sourceWordId": "lam4seoi2-to-water-plants",
+      "sourceWord": "淋水",
+      "sourceWordJyutping": "lam4 seoi2",
+      "sourceWordMeaning": "to water plants",
+      "tags": [
+        "plants",
+        "gardening",
+        "everyday",
+        "beginner",
+        "home",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4seoi2-to-water-plants.json"
+    },
+    {
+      "sentenceId": "lam4seoi2-to-water-plants-example-2",
+      "sentence": "記得每日淋水，唔好等啲花乾晒。",
+      "jyutping": "gei3 dak1 mui5 jat6 lam4 seoi2, m4 hou2 dang2 di1 faa1 gon1 saai3.",
+      "meaning": "Remember to water them every day; don’t let the flowers dry out.",
+      "sourceWordId": "lam4seoi2-to-water-plants",
+      "sourceWord": "淋水",
+      "sourceWordJyutping": "lam4 seoi2",
+      "sourceWordMeaning": "to water plants",
+      "tags": [
+        "plants",
+        "gardening",
+        "everyday",
+        "beginner",
+        "home",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4seoi2-to-water-plants.json"
+    },
+    {
+      "sentenceId": "lam4seoi2-to-water-plants-example-3",
+      "sentence": "屋企後花園啲菜要定時淋水。",
+      "jyutping": "uk1 kei2 hau6 faa1 jyun4 di1 coi3 jiu3 ding6 si4 lam4 seoi2.",
+      "meaning": "The vegetables in the backyard garden need to be watered regularly.",
+      "sourceWordId": "lam4seoi2-to-water-plants",
+      "sourceWord": "淋水",
+      "sourceWordJyutping": "lam4 seoi2",
+      "sourceWordMeaning": "to water plants",
+      "tags": [
+        "plants",
+        "gardening",
+        "everyday",
+        "beginner",
+        "home",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4seoi2-to-water-plants.json"
+    },
+    {
+      "sentenceId": "lam4seoi2-to-water-plants-example-4",
+      "sentence": "老師叫小朋友返學前先去淋水。",
+      "jyutping": "lou5 si1 giu3 siu2 pang4 jau5 faan1 hok6 cin4 sin1 heoi3 lam4 seoi2.",
+      "meaning": "The teacher asked the children to water the plants before going to school.",
+      "sourceWordId": "lam4seoi2-to-water-plants",
+      "sourceWord": "淋水",
+      "sourceWordJyutping": "lam4 seoi2",
+      "sourceWordMeaning": "to water plants",
+      "tags": [
+        "plants",
+        "gardening",
+        "everyday",
+        "beginner",
+        "home",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lam4seoi2-to-water-plants.json"
+    },
+    {
+      "sentenceId": "faat3ngaa4-sprout-example-1",
+      "sentence": "呢啲種子好快就發芽。",
+      "jyutping": "ni1 di1 zung2 zi2 hou2 faai3 zau6 faat3 ngaa4.",
+      "meaning": "These seeds sprouted very quickly.",
+      "sourceWordId": "faat3ngaa4-sprout",
+      "sourceWord": "發芽",
+      "sourceWordJyutping": "faat3 ngaa4",
+      "sourceWordMeaning": "sprout",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3ngaa4-sprout.json"
+    },
+    {
+      "sentenceId": "faat3ngaa4-sprout-example-2",
+      "sentence": "落雨之後，啲豆開始發芽。",
+      "jyutping": "lok6 jyu5 zi1 hau6, di1 dau6 hoi1 si2 faat3 ngaa4.",
+      "meaning": "After the rain, the beans started to sprout.",
+      "sourceWordId": "faat3ngaa4-sprout",
+      "sourceWord": "發芽",
+      "sourceWordJyutping": "faat3 ngaa4",
+      "sourceWordMeaning": "sprout",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3ngaa4-sprout.json"
+    },
+    {
+      "sentenceId": "faat3ngaa4-sprout-example-3",
+      "sentence": "我哋等咗幾日，盆栽終於發芽。",
+      "jyutping": "ngo5 dei6 dang2 zo2 gei2 jat6, pun4 zoi1 zung1 jyu1 faat3 ngaa4.",
+      "meaning": "We waited a few days, and the potted plant finally sprouted.",
+      "sourceWordId": "faat3ngaa4-sprout",
+      "sourceWord": "發芽",
+      "sourceWordJyutping": "faat3 ngaa4",
+      "sourceWordMeaning": "sprout",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3ngaa4-sprout.json"
+    },
+    {
+      "sentenceId": "faat3ngaa4-sprout-example-4",
+      "sentence": "春天係好多植物發芽嘅季節。",
+      "jyutping": "ceon1 tin1 hai6 hou2 do1 zing3 mat6 faat3 ngaa4 ge3 gwai3 zit3.",
+      "meaning": "Spring is the season when many plants sprout.",
+      "sourceWordId": "faat3ngaa4-sprout",
+      "sourceWord": "發芽",
+      "sourceWordJyutping": "faat3 ngaa4",
+      "sourceWordMeaning": "sprout",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "beginner",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3ngaa4-sprout.json"
+    },
+    {
+      "sentenceId": "sang1zoeng2-grow-example-1",
+      "sentence": "呢棵植物喺陽光充足嘅地方生長得好快。",
+      "jyutping": "ni1 fo1 zing3 mat6 hai2 joeng4 gwong1 cung1 zuk1 ge3 dei6 fong1 sang1 zoeng2 dak1 hou2 faai3.",
+      "meaning": "This plant grows very quickly in a place with plenty of sunlight.",
+      "sourceWordId": "sang1zoeng2-grow",
+      "sourceWord": "生長",
+      "sourceWordJyutping": "sang1 zoeng2",
+      "sourceWordMeaning": "grow",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "biology",
+        "nature",
+        "beginner",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sang1zoeng2-grow.json"
+    },
+    {
+      "sentenceId": "sang1zoeng2-grow-example-2",
+      "sentence": "小朋友嘅生長需要足夠睡眠同營養。",
+      "jyutping": "siu2 pang4 jau5 ge3 sang1 zoeng2 seoi1 jiu3 zuk1 gau3 seoi3 min4 tung4 jing4 joeng5.",
+      "meaning": "Children’s growth needs enough sleep and nutrition.",
+      "sourceWordId": "sang1zoeng2-grow",
+      "sourceWord": "生長",
+      "sourceWordJyutping": "sang1 zoeng2",
+      "sourceWordMeaning": "grow",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "biology",
+        "nature",
+        "beginner",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sang1zoeng2-grow.json"
+    },
+    {
+      "sentenceId": "sang1zoeng2-grow-example-3",
+      "sentence": "呢啲花喺春天會生長得特別旺盛。",
+      "jyutping": "ni1 di1 faa1 hai2 ceon1 tin1 wui5 sang1 zoeng2 dak1 dak6 bit6 wong6 sing6.",
+      "meaning": "These flowers grow especially well in spring.",
+      "sourceWordId": "sang1zoeng2-grow",
+      "sourceWord": "生長",
+      "sourceWordJyutping": "sang1 zoeng2",
+      "sourceWordMeaning": "grow",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "biology",
+        "nature",
+        "beginner",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sang1zoeng2-grow.json"
+    },
+    {
+      "sentenceId": "sang1zoeng2-grow-example-4",
+      "sentence": "如果土壤太乾，植物就唔容易生長。",
+      "jyutping": "jyu4 gwo2 tou2 joeng5 taai3 gon1, zing3 mat6 zau6 m4 jung4 ji6 sang1 zoeng2.",
+      "meaning": "If the soil is too dry, plants won’t grow easily.",
+      "sourceWordId": "sang1zoeng2-grow",
+      "sourceWord": "生長",
+      "sourceWordJyutping": "sang1 zoeng2",
+      "sourceWordMeaning": "grow",
+      "tags": [
+        "plants",
+        "gardening",
+        "growth",
+        "biology",
+        "nature",
+        "beginner",
+        "school vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sang1zoeng2-grow.json"
+    },
+    {
+      "sentenceId": "hoi1faa1-bloom-example-1",
+      "sentence": "呢棵玫瑰今個月開始開花。",
+      "jyutping": "ni1 fo1 mui4 gwai3 gam1 go3 jyut6 hoi1 si2 hoi1 faa1",
+      "meaning": "This rose is starting to bloom this month.",
+      "sourceWordId": "hoi1faa1-bloom",
+      "sourceWord": "開花",
+      "sourceWordJyutping": "hoi1 faa1",
+      "sourceWordMeaning": "bloom",
+      "tags": [
+        "plants",
+        "gardening",
+        "bloom",
+        "flowers",
+        "beginner",
+        "nature",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi1faa1-bloom.json"
+    },
+    {
+      "sentenceId": "hoi1faa1-bloom-example-2",
+      "sentence": "春天好多花都會開花。",
+      "jyutping": "ceon1 tin1 hou2 do1 faa1 dou1 wui5 hoi1 faa1",
+      "meaning": "In spring, many flowers bloom.",
+      "sourceWordId": "hoi1faa1-bloom",
+      "sourceWord": "開花",
+      "sourceWordJyutping": "hoi1 faa1",
+      "sourceWordMeaning": "bloom",
+      "tags": [
+        "plants",
+        "gardening",
+        "bloom",
+        "flowers",
+        "beginner",
+        "nature",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi1faa1-bloom.json"
+    },
+    {
+      "sentenceId": "hoi1faa1-bloom-example-3",
+      "sentence": "我屋企樓下棵樹昨日開花喇。",
+      "jyutping": "ngo5 uk1 kei4 lau4 haa6 fo1 syu6 ngaat6 jat6 hoi1 faa1 laa3",
+      "meaning": "The tree downstairs at my home bloomed yesterday.",
+      "sourceWordId": "hoi1faa1-bloom",
+      "sourceWord": "開花",
+      "sourceWordJyutping": "hoi1 faa1",
+      "sourceWordMeaning": "bloom",
+      "tags": [
+        "plants",
+        "gardening",
+        "bloom",
+        "flowers",
+        "beginner",
+        "nature",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi1faa1-bloom.json"
+    },
+    {
+      "sentenceId": "hoi1faa1-bloom-example-4",
+      "sentence": "如果天氣夠暖，啲植物就容易開花。",
+      "jyutping": "jyu4 gwo2 tin1 hei3 gau3 nyun5, di1 zing2 mat6 zau6 jung4 ji6 hoi1 faa1",
+      "meaning": "If the weather is warm enough, the plants will bloom more easily.",
+      "sourceWordId": "hoi1faa1-bloom",
+      "sourceWord": "開花",
+      "sourceWordJyutping": "hoi1 faa1",
+      "sourceWordMeaning": "bloom",
+      "tags": [
+        "plants",
+        "gardening",
+        "bloom",
+        "flowers",
+        "beginner",
+        "nature",
+        "verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hoi1faa1-bloom.json"
+    },
+    {
+      "sentenceId": "lok6jip6-fallen-leaf-example-1",
+      "sentence": "地上有好多落葉。",
+      "jyutping": "dei6 soeng6 jau5 hou2 do1 lok6 jip6.",
+      "meaning": "There are a lot of fallen leaves on the ground.",
+      "sourceWordId": "lok6jip6-fallen-leaf",
+      "sourceWord": "落葉",
+      "sourceWordJyutping": "lok6 jip6",
+      "sourceWordMeaning": "fallen leaf",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "garden vocabulary",
+        "everyday noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lok6jip6-fallen-leaf.json"
+    },
+    {
+      "sentenceId": "lok6jip6-fallen-leaf-example-2",
+      "sentence": "秋天一到，公園入面成地都係落葉。",
+      "jyutping": "cau1 tin1 jat1 dou3, gung1 jyun4 jap6 min6 sing4 dei6 dou1 hai6 lok6 jip6.",
+      "meaning": "When autumn comes, the park is full of fallen leaves.",
+      "sourceWordId": "lok6jip6-fallen-leaf",
+      "sourceWord": "落葉",
+      "sourceWordJyutping": "lok6 jip6",
+      "sourceWordMeaning": "fallen leaf",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "garden vocabulary",
+        "everyday noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lok6jip6-fallen-leaf.json"
+    },
+    {
+      "sentenceId": "lok6jip6-fallen-leaf-example-3",
+      "sentence": "小朋友喺落葉上面行來行去，好開心。",
+      "jyutping": "siu2 pang4 jau5 hai2 lok6 jip6 soeng6 min6 hang4 loi4 hang4 heoi3, hou2 hoi1 sam1.",
+      "meaning": "The children walked back and forth on the fallen leaves, very happily.",
+      "sourceWordId": "lok6jip6-fallen-leaf",
+      "sourceWord": "落葉",
+      "sourceWordJyutping": "lok6 jip6",
+      "sourceWordMeaning": "fallen leaf",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "garden vocabulary",
+        "everyday noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lok6jip6-fallen-leaf.json"
+    },
+    {
+      "sentenceId": "lok6jip6-fallen-leaf-example-4",
+      "sentence": "阿媽叫我哋清走後花園啲落葉。",
+      "jyutping": "aa3 maa1 giu3 ngo5 dei6 cing1 zau2 hau6 faa1 jyun4 di1 lok6 jip6.",
+      "meaning": "Mom told us to clear away the fallen leaves in the backyard.",
+      "sourceWordId": "lok6jip6-fallen-leaf",
+      "sourceWord": "落葉",
+      "sourceWordJyutping": "lok6 jip6",
+      "sourceWordMeaning": "fallen leaf",
+      "tags": [
+        "plants and gardening",
+        "nature",
+        "garden vocabulary",
+        "everyday noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lok6jip6-fallen-leaf.json"
+    },
+    {
+      "sentenceId": "pun4zoi1-potted-plant-example-1",
+      "sentence": "我屋企有幾盆栽擺喺窗邊。",
+      "jyutping": "ngo5 uk1 kei2 jau5 gei2 pun4 zoi1 baai2 hai2 coeng1 bin1.",
+      "meaning": "I have a few potted plants by the window at home.",
+      "sourceWordId": "pun4zoi1-potted-plant",
+      "sourceWord": "盆栽",
+      "sourceWordJyutping": "pun4 zoi1",
+      "sourceWordMeaning": "potted plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
+    },
+    {
+      "sentenceId": "pun4zoi1-potted-plant-example-2",
+      "sentence": "佢買咗一盆栽送畀阿媽。",
+      "jyutping": "keoi5 maai5 zo2 jat1 pun4 zoi1 sung3 bei2 aa3 maa1.",
+      "meaning": "He bought a potted plant as a gift for his mom.",
+      "sourceWordId": "pun4zoi1-potted-plant",
+      "sourceWord": "盆栽",
+      "sourceWordJyutping": "pun4 zoi1",
+      "sourceWordMeaning": "potted plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
+    },
+    {
+      "sentenceId": "pun4zoi1-potted-plant-example-3",
+      "sentence": "呢盆栽幾靚，不過要日日淋水。",
+      "jyutping": "ni1 pun4 zoi1 gei2 leng3, bat1 gwo3 jiu3 jat6 jat6 lam4 seoi2.",
+      "meaning": "This potted plant is pretty, but it needs watering every day.",
+      "sourceWordId": "pun4zoi1-potted-plant",
+      "sourceWord": "盆栽",
+      "sourceWordJyutping": "pun4 zoi1",
+      "sourceWordMeaning": "potted plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
+    },
+    {
+      "sentenceId": "pun4zoi1-potted-plant-example-4",
+      "sentence": "店入面賣好多盆栽同花盆。",
+      "jyutping": "dim3 jap6 min6 maai6 hou2 do1 pun4 zoi1 tung4 faa1 pun4.",
+      "meaning": "The shop sells lots of potted plants and flowerpots.",
+      "sourceWordId": "pun4zoi1-potted-plant",
+      "sourceWord": "盆栽",
+      "sourceWordJyutping": "pun4 zoi1",
+      "sourceWordMeaning": "potted plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
+    },
+    {
+      "sentenceId": "cing1-greenish-example-1",
+      "sentence": "呢盆植物嘅葉好青。",
+      "jyutping": "ni1 pun4 zing2 mat6 ge3 jip6 hou2 cing1",
+      "meaning": "This plant’s leaves are very greenish.",
+      "sourceWordId": "cing1-greenish",
+      "sourceWord": "青",
+      "sourceWordJyutping": "cing1",
+      "sourceWordMeaning": "greenish",
+      "tags": [
+        "beginner",
+        "color",
+        "plant descriptions",
+        "nature",
+        "adjective",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1-greenish.json"
+    },
+    {
+      "sentenceId": "cing1-greenish-example-2",
+      "sentence": "佢塊面有少少青。",
+      "jyutping": "keoi5 faai3 min6 jau5 siu2 siu2 cing1",
+      "meaning": "His/Her face looks a little greenish.",
+      "sourceWordId": "cing1-greenish",
+      "sourceWord": "青",
+      "sourceWordJyutping": "cing1",
+      "sourceWordMeaning": "greenish",
+      "tags": [
+        "beginner",
+        "color",
+        "plant descriptions",
+        "nature",
+        "adjective",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1-greenish.json"
+    },
+    {
+      "sentenceId": "cing1-greenish-example-3",
+      "sentence": "雨後條草地睇落好青。",
+      "jyutping": "jyu5 hau6 tiu4 cou2 dei6 tai2 lok6 hou2 cing1",
+      "meaning": "After the rain, the grass looks very green.",
+      "sourceWordId": "cing1-greenish",
+      "sourceWord": "青",
+      "sourceWordJyutping": "cing1",
+      "sourceWordMeaning": "greenish",
+      "tags": [
+        "beginner",
+        "color",
+        "plant descriptions",
+        "nature",
+        "adjective",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1-greenish.json"
+    },
+    {
+      "sentenceId": "cing1-greenish-example-4",
+      "sentence": "呢啲青瓜仲好新鮮。",
+      "jyutping": "ni1 di1 cing1 gwaa1 zung6 hou2 san1 sin1",
+      "meaning": "These cucumbers are still very fresh.",
+      "sourceWordId": "cing1-greenish",
+      "sourceWord": "青",
+      "sourceWordJyutping": "cing1",
+      "sourceWordMeaning": "greenish",
+      "tags": [
+        "beginner",
+        "color",
+        "plant descriptions",
+        "nature",
+        "adjective",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1-greenish.json"
+    },
+    {
+      "sentenceId": "luk6-green-example-1",
+      "sentence": "樹葉好綠。",
+      "jyutping": "seoi6 jip6 hou2 luk6",
+      "meaning": "The leaves are very green.",
+      "sourceWordId": "luk6-green",
+      "sourceWord": "綠",
+      "sourceWordJyutping": "luk6",
+      "sourceWordMeaning": "green",
+      "tags": [
+        "plants",
+        "gardening",
+        "colors",
+        "basic vocabulary",
+        "describing nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6-green.json"
+    },
+    {
+      "sentenceId": "luk6-green-example-2",
+      "sentence": "呢盆植物啲葉係綠色。",
+      "jyutping": "ni1 pun4 zing3 mat6 di1 jip6 hai6 luk6 sik1",
+      "meaning": "The leaves of this plant are green.",
+      "sourceWordId": "luk6-green",
+      "sourceWord": "綠",
+      "sourceWordJyutping": "luk6",
+      "sourceWordMeaning": "green",
+      "tags": [
+        "plants",
+        "gardening",
+        "colors",
+        "basic vocabulary",
+        "describing nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6-green.json"
+    },
+    {
+      "sentenceId": "luk6-green-example-3",
+      "sentence": "春天嘅草地好綠。",
+      "jyutping": "ceon1 tin1 ge3 cou2 dei6 hou2 luk6",
+      "meaning": "The grass in spring is very green.",
+      "sourceWordId": "luk6-green",
+      "sourceWord": "綠",
+      "sourceWordJyutping": "luk6",
+      "sourceWordMeaning": "green",
+      "tags": [
+        "plants",
+        "gardening",
+        "colors",
+        "basic vocabulary",
+        "describing nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6-green.json"
+    },
+    {
+      "sentenceId": "luk6-green-example-4",
+      "sentence": "我鍾意種綠色嘅植物。",
+      "jyutping": "ngo5 zung1 ji3 zung3 luk6 sik1 ge3 zing3 mat6",
+      "meaning": "I like growing green plants.",
+      "sourceWordId": "luk6-green",
+      "sourceWord": "綠",
+      "sourceWordJyutping": "luk6",
+      "sourceWordMeaning": "green",
+      "tags": [
+        "plants",
+        "gardening",
+        "colors",
+        "basic vocabulary",
+        "describing nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6-green.json"
+    },
+    {
+      "sentenceId": "sin1-fresh-example-1",
+      "sentence": "呢束花好鮮，今日先買返嚟。",
+      "jyutping": "ni1 zoek3 faa1 hou2 sin1, gam1 jat6 sin1 maai5 faan1 lai4.",
+      "meaning": "This bouquet is very fresh; I bought it today.",
+      "sourceWordId": "sin1-fresh",
+      "sourceWord": "鮮",
+      "sourceWordJyutping": "sin1",
+      "sourceWordMeaning": "fresh",
+      "tags": [
+        "plants",
+        "gardening",
+        "fresh",
+        "describing plants",
+        "adjective",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1-fresh.json"
+    },
+    {
+      "sentenceId": "sin1-fresh-example-2",
+      "sentence": "呢棵植物嘅葉幾鮮綠。",
+      "jyutping": "ni1 fo1 zing6 mat6 ge3 jip6 gei2 sin1 luk6.",
+      "meaning": "The leaves of this plant are quite fresh and green.",
+      "sourceWordId": "sin1-fresh",
+      "sourceWord": "鮮",
+      "sourceWordJyutping": "sin1",
+      "sourceWordMeaning": "fresh",
+      "tags": [
+        "plants",
+        "gardening",
+        "fresh",
+        "describing plants",
+        "adjective",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1-fresh.json"
+    },
+    {
+      "sentenceId": "sin1-fresh-example-3",
+      "sentence": "公園入面啲鮮花開得好靚。",
+      "jyutping": "gung1 jyun2 jap6 min6 di1 sin1 faa1 hoi1 dak1 hou2 leng3.",
+      "meaning": "The fresh flowers in the park are blooming beautifully.",
+      "sourceWordId": "sin1-fresh",
+      "sourceWord": "鮮",
+      "sourceWordJyutping": "sin1",
+      "sourceWordMeaning": "fresh",
+      "tags": [
+        "plants",
+        "gardening",
+        "fresh",
+        "describing plants",
+        "adjective",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1-fresh.json"
+    },
+    {
+      "sentenceId": "sin1-fresh-example-4",
+      "sentence": "擺喺窗邊嘅鮮草聞落好舒服。",
+      "jyutping": "baai2 hai2 coeng1 pin1 ge3 sin1 cou2 man4 lok3 hou2 syu1 fuk6.",
+      "meaning": "The fresh grass placed by the window smells very pleasant.",
+      "sourceWordId": "sin1-fresh",
+      "sourceWord": "鮮",
+      "sourceWordJyutping": "sin1",
+      "sourceWordMeaning": "fresh",
+      "tags": [
+        "plants",
+        "gardening",
+        "fresh",
+        "describing plants",
+        "adjective",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1-fresh.json"
+    },
+    {
+      "sentenceId": "gon1-dry-example-1",
+      "sentence": "呢盆花啲泥已經乾晒，要快啲淋水。",
+      "jyutping": "ni1 pun4 faa1 di1 nai4 ji5 ging1 gon1 saai3, jiu3 faai3 di1 lam4 seoi2.",
+      "meaning": "The soil in this pot plant has already dried out; it needs watering soon.",
+      "sourceWordId": "gon1-dry",
+      "sourceWord": "乾",
+      "sourceWordJyutping": "gon1",
+      "sourceWordMeaning": "dry",
+      "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
+        "weather",
+        "soil moisture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gon1-dry.json"
+    },
+    {
+      "sentenceId": "gon1-dry-example-2",
+      "sentence": "天氣太乾，葉尖開始變黃。",
+      "jyutping": "tin1 hei3 taai3 gon1, jip6 zim1 hoi1 ci2 bin3 wong4.",
+      "meaning": "The weather is too dry, and the leaf tips are starting to turn yellow.",
+      "sourceWordId": "gon1-dry",
+      "sourceWord": "乾",
+      "sourceWordJyutping": "gon1",
+      "sourceWordMeaning": "dry",
+      "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
+        "weather",
+        "soil moisture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gon1-dry.json"
+    },
+    {
+      "sentenceId": "gon1-dry-example-3",
+      "sentence": "你要等枝條乾咗先好剪。",
+      "jyutping": "nei5 jiu3 dang2 zi1 tiu4 gon1 zo2 sin1 hou2 zim2.",
+      "meaning": "You should wait until the stems are dry before trimming them.",
+      "sourceWordId": "gon1-dry",
+      "sourceWord": "乾",
+      "sourceWordJyutping": "gon1",
+      "sourceWordMeaning": "dry",
+      "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
+        "weather",
+        "soil moisture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gon1-dry.json"
+    },
+    {
+      "sentenceId": "gon1-dry-example-4",
+      "sentence": "晒乾啲種子之後，就可以收好。",
+      "jyutping": "saai3 gon1 di1 zung2 zi2 zi1 hau6, zau6 ho2 ji5 sau1 hou2.",
+      "meaning": "After drying the seeds in the sun, you can store them properly.",
+      "sourceWordId": "gon1-dry",
+      "sourceWord": "乾",
+      "sourceWordJyutping": "gon1",
+      "sourceWordMeaning": "dry",
+      "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
+        "weather",
+        "soil moisture",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gon1-dry.json"
+    },
+    {
+      "sentenceId": "sap1-wet-example-1",
+      "sentence": "啲泥仲濕，唔好即刻種花。",
+      "jyutping": "di1 nei4 zung6 sap1, m4 hou2 zik1 hak1 zung3 faa1.",
+      "meaning": "The soil is still wet, so don’t plant flowers right away.",
+      "sourceWordId": "sap1-wet",
+      "sourceWord": "濕",
+      "sourceWordJyutping": "sap1",
+      "sourceWordMeaning": "wet",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant descriptions",
+        "wet",
+        "moist",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sap1-wet.json"
+    },
+    {
+      "sentenceId": "sap1-wet-example-2",
+      "sentence": "落完雨之後，啲葉都仲好濕。",
+      "jyutping": "lok6 jyun4 jyu5 zi1 hau6, di1 jip6 dou1 zung6 hou2 sap1.",
+      "meaning": "After the rain, the leaves are still very wet.",
+      "sourceWordId": "sap1-wet",
+      "sourceWord": "濕",
+      "sourceWordJyutping": "sap1",
+      "sourceWordMeaning": "wet",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant descriptions",
+        "wet",
+        "moist",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sap1-wet.json"
+    },
+    {
+      "sentenceId": "sap1-wet-example-3",
+      "sentence": "你記得幫盆栽抹乾，唔好咁濕。",
+      "jyutping": "nei5 gei3 dak1 bong1 pun4 zoi1 mut3 gon1, m4 hou2 gam3 sap1.",
+      "meaning": "Remember to wipe the potted plant dry; don’t leave it so wet.",
+      "sourceWordId": "sap1-wet",
+      "sourceWord": "濕",
+      "sourceWordJyutping": "sap1",
+      "sourceWordMeaning": "wet",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant descriptions",
+        "wet",
+        "moist",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sap1-wet.json"
+    },
+    {
+      "sentenceId": "sap1-wet-example-4",
+      "sentence": "呢棵植物鍾意微濕嘅土壤。",
+      "jyutping": "ni1 po1 zik2 mat6 zung1 ji3 mei4 sap1 ge3 tou2 joeng6.",
+      "meaning": "This plant likes slightly moist soil.",
+      "sourceWordId": "sap1-wet",
+      "sourceWord": "濕",
+      "sourceWordJyutping": "sap1",
+      "sourceWordMeaning": "wet",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant descriptions",
+        "wet",
+        "moist",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sap1-wet.json"
+    },
+    {
+      "sentenceId": "mou5sang1hei3-lifeless-example-1",
+      "sentence": "呢盆花睇落好冇生氣。",
+      "jyutping": "ni1 pun4 faa1 tai2 lok6 hou2 mou5 sang1 hei3.",
+      "meaning": "This plant looks lifeless.",
+      "sourceWordId": "mou5sang1hei3-lifeless",
+      "sourceWord": "冇生氣",
+      "sourceWordJyutping": "mou5 sang1 hei3",
+      "sourceWordMeaning": "lifeless",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant description",
+        "appearance",
+        "vitality",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5sang1hei3-lifeless.json"
+    },
+    {
+      "sentenceId": "mou5sang1hei3-lifeless-example-2",
+      "sentence": "佢成日對住部機，成個人都冇生氣。",
+      "jyutping": "keoi5 sing4 jat6 deoi3 zyu6 bou6 gei1, sing4 go3 jan4 dou1 mou5 sang1 hei3.",
+      "meaning": "He’s at the machine all day, and he looks completely lifeless.",
+      "sourceWordId": "mou5sang1hei3-lifeless",
+      "sourceWord": "冇生氣",
+      "sourceWordJyutping": "mou5 sang1 hei3",
+      "sourceWordMeaning": "lifeless",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant description",
+        "appearance",
+        "vitality",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5sang1hei3-lifeless.json"
+    },
+    {
+      "sentenceId": "mou5sang1hei3-lifeless-example-3",
+      "sentence": "落雨之後，啲葉變到冇生氣。",
+      "jyutping": "lok6 jyu5 zi1 hau6, di1 jip6 bin3 dou3 mou5 sang1 hei3.",
+      "meaning": "After the rain, the leaves became lifeless.",
+      "sourceWordId": "mou5sang1hei3-lifeless",
+      "sourceWord": "冇生氣",
+      "sourceWordJyutping": "mou5 sang1 hei3",
+      "sourceWordMeaning": "lifeless",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant description",
+        "appearance",
+        "vitality",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5sang1hei3-lifeless.json"
+    },
+    {
+      "sentenceId": "mou5sang1hei3-lifeless-example-4",
+      "sentence": "如果盆栽太耐唔淋水，就會睇落冇生氣。",
+      "jyutping": "jyu4 gwo2 pun4 zoi1 taai3 noi6 m4 lam4 seoi2, zau6 wui5 tai2 lok6 mou5 sang1 hei3.",
+      "meaning": "If a potted plant isn’t watered for too long, it will look lifeless.",
+      "sourceWordId": "mou5sang1hei3-lifeless",
+      "sourceWord": "冇生氣",
+      "sourceWordJyutping": "mou5 sang1 hei3",
+      "sourceWordMeaning": "lifeless",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant description",
+        "appearance",
+        "vitality",
+        "basic adjective",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5sang1hei3-lifeless.json"
+    },
+    {
+      "sentenceId": "mau6sing6-lush-example-1",
+      "sentence": "公園入面啲樹好茂盛。",
+      "jyutping": "gung1 jyun4 jap6 min6 di1 syu6 hou2 mau6 sing6.",
+      "meaning": "The trees in the park are very lush.",
+      "sourceWordId": "mau6sing6-lush",
+      "sourceWord": "茂盛",
+      "sourceWordJyutping": "mau6 sing6",
+      "sourceWordMeaning": "lush",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "describing plants",
+        "positive adjective",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mau6sing6-lush.json"
+    },
+    {
+      "sentenceId": "mau6sing6-lush-example-2",
+      "sentence": "佢屋企個後園種咗好多茂盛嘅花草。",
+      "jyutping": "keoi5 uk1 kei2 go3 hau6 jyun4 zung3 zo2 hou2 do1 mau6 sing6 ge3 faa1 cou2.",
+      "meaning": "A lot of lush flowers and plants were grown in the garden at home.",
+      "sourceWordId": "mau6sing6-lush",
+      "sourceWord": "茂盛",
+      "sourceWordJyutping": "mau6 sing6",
+      "sourceWordMeaning": "lush",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "describing plants",
+        "positive adjective",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mau6sing6-lush.json"
+    },
+    {
+      "sentenceId": "mau6sing6-lush-example-3",
+      "sentence": "呢棵芒果樹生得好茂盛。",
+      "jyutping": "ni1 po1 mong4 gwo2 syu6 sang1 dak1 hou2 mau6 sing6.",
+      "meaning": "This mango tree is growing very lushly.",
+      "sourceWordId": "mau6sing6-lush",
+      "sourceWord": "茂盛",
+      "sourceWordJyutping": "mau6 sing6",
+      "sourceWordMeaning": "lush",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "describing plants",
+        "positive adjective",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mau6sing6-lush.json"
+    },
+    {
+      "sentenceId": "mau6sing6-lush-example-4",
+      "sentence": "夏天嗰陣，路邊啲草會變得更加茂盛。",
+      "jyutping": "haa6 tin1 go2 zan6, lou6 bin1 di1 cou2 wui5 bin3 dak1 gang3 gaa1 mau6 sing6.",
+      "meaning": "In summer, the grass by the roadside becomes even lusher.",
+      "sourceWordId": "mau6sing6-lush",
+      "sourceWord": "茂盛",
+      "sourceWordJyutping": "mau6 sing6",
+      "sourceWordMeaning": "lush",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "describing plants",
+        "positive adjective",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mau6sing6-lush.json"
+    },
+    {
+      "sentenceId": "joek6cou2-herb-example-1",
+      "sentence": "我屋企後園種咗啲藥草。",
+      "jyutping": "ngo5 uk1 kei4 hau6 jyun4 zung3 zo2 di1 joek6 cou2.",
+      "meaning": "I planted some herbs in my backyard.",
+      "sourceWordId": "joek6cou2-herb",
+      "sourceWord": "藥草",
+      "sourceWordJyutping": "joek6 cou2",
+      "sourceWordMeaning": "herb",
+      "tags": [
+        "plants",
+        "gardening",
+        "herbs",
+        "home garden",
+        "nature",
+        "food",
+        "traditional medicine",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6cou2-herb.json"
+    },
+    {
+      "sentenceId": "joek6cou2-herb-example-2",
+      "sentence": "呢間舖頭有好多藥草賣。",
+      "jyutping": "ni1 gaan3 pou2 tau4 jau5 hou2 do1 joek6 cou2 maai6.",
+      "meaning": "This shop sells a lot of herbs.",
+      "sourceWordId": "joek6cou2-herb",
+      "sourceWord": "藥草",
+      "sourceWordJyutping": "joek6 cou2",
+      "sourceWordMeaning": "herb",
+      "tags": [
+        "plants",
+        "gardening",
+        "herbs",
+        "home garden",
+        "nature",
+        "food",
+        "traditional medicine",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6cou2-herb.json"
+    },
+    {
+      "sentenceId": "joek6cou2-herb-example-3",
+      "sentence": "阿媽成日用藥草煲湯。",
+      "jyutping": "aa3 maa1 sing4 jat6 jung6 joek6 cou2 bou1 tong1.",
+      "meaning": "My mom often uses herbs to make soup.",
+      "sourceWordId": "joek6cou2-herb",
+      "sourceWord": "藥草",
+      "sourceWordJyutping": "joek6 cou2",
+      "sourceWordMeaning": "herb",
+      "tags": [
+        "plants",
+        "gardening",
+        "herbs",
+        "home garden",
+        "nature",
+        "food",
+        "traditional medicine",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6cou2-herb.json"
+    },
+    {
+      "sentenceId": "joek6cou2-herb-example-4",
+      "sentence": "你要睇吓呢種藥草有咩功效。",
+      "jyutping": "nei5 jiu3 tai2 haa5 ni1 zung2 joek6 cou2 jau5 me1 gung1 haau6.",
+      "meaning": "You should check what effects this herb has.",
+      "sourceWordId": "joek6cou2-herb",
+      "sourceWord": "藥草",
+      "sourceWordJyutping": "joek6 cou2",
+      "sourceWordMeaning": "herb",
+      "tags": [
+        "plants",
+        "gardening",
+        "herbs",
+        "home garden",
+        "nature",
+        "food",
+        "traditional medicine",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6cou2-herb.json"
+    },
+    {
+      "sentenceId": "coi3-greens-vegetable-plant-example-1",
+      "sentence": "我今晚想食多啲菜。",
+      "jyutping": "ngo5 gam1 maan5 soeng2 sik6 do1 di1 coi3.",
+      "meaning": "I want to eat more vegetables tonight.",
+      "sourceWordId": "coi3-greens-vegetable-plant",
+      "sourceWord": "菜",
+      "sourceWordJyutping": "coi3",
+      "sourceWordMeaning": "greens; vegetable plant",
+      "tags": [
+        "plants and gardening",
+        "types of plants",
+        "food",
+        "everyday vocabulary",
+        "beginner",
+        "nouns",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi3-greens-vegetable-plant.json"
+    },
+    {
+      "sentenceId": "coi3-greens-vegetable-plant-example-2",
+      "sentence": "呢棵菜好新鮮。",
+      "jyutping": "ni1 po1 coi3 hou2 san1 sin1.",
+      "meaning": "This vegetable plant is very fresh.",
+      "sourceWordId": "coi3-greens-vegetable-plant",
+      "sourceWord": "菜",
+      "sourceWordJyutping": "coi3",
+      "sourceWordMeaning": "greens; vegetable plant",
+      "tags": [
+        "plants and gardening",
+        "types of plants",
+        "food",
+        "everyday vocabulary",
+        "beginner",
+        "nouns",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi3-greens-vegetable-plant.json"
+    },
+    {
+      "sentenceId": "coi3-greens-vegetable-plant-example-3",
+      "sentence": "媽媽喺街市買咗好多菜。",
+      "jyutping": "maa1 maa1 hai2 gaai1 si5 maai5 zo2 hou2 do1 coi3.",
+      "meaning": "Mom bought a lot of vegetables at the market.",
+      "sourceWordId": "coi3-greens-vegetable-plant",
+      "sourceWord": "菜",
+      "sourceWordJyutping": "coi3",
+      "sourceWordMeaning": "greens; vegetable plant",
+      "tags": [
+        "plants and gardening",
+        "types of plants",
+        "food",
+        "everyday vocabulary",
+        "beginner",
+        "nouns",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi3-greens-vegetable-plant.json"
+    },
+    {
+      "sentenceId": "coi3-greens-vegetable-plant-example-4",
+      "sentence": "你記得洗菜先煮。",
+      "jyutping": "nei5 gei3 dak1 sai2 coi3 sin1 zyu2.",
+      "meaning": "Remember to wash the vegetables before cooking.",
+      "sourceWordId": "coi3-greens-vegetable-plant",
+      "sourceWord": "菜",
+      "sourceWordJyutping": "coi3",
+      "sourceWordMeaning": "greens; vegetable plant",
+      "tags": [
+        "plants and gardening",
+        "types of plants",
+        "food",
+        "everyday vocabulary",
+        "beginner",
+        "nouns",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi3-greens-vegetable-plant.json"
+    },
+    {
+      "sentenceId": "gun3muk6-shrub-example-1",
+      "sentence": "花園入面種咗幾棵灌木。",
+      "jyutping": "faa1 jyun4 jap6 min6 zung3 zo2 gei2 fo3 gun3 muk6.",
+      "meaning": "There are several shrubs planted in the garden.",
+      "sourceWordId": "gun3muk6-shrub",
+      "sourceWord": "灌木",
+      "sourceWordJyutping": "gun3 muk6",
+      "sourceWordMeaning": "shrub",
+      "tags": [
+        "plants",
+        "gardening",
+        "botany",
+        "nature",
+        "basic vocabulary",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun3muk6-shrub.json"
+    },
+    {
+      "sentenceId": "gun3muk6-shrub-example-2",
+      "sentence": "呢度嘅灌木生得好茂盛。",
+      "jyutping": "ni1 dou6 ge3 gun3 muk6 sang1 dak1 hou2 mau6 sing6.",
+      "meaning": "The shrubs here are growing very lushly.",
+      "sourceWordId": "gun3muk6-shrub",
+      "sourceWord": "灌木",
+      "sourceWordJyutping": "gun3 muk6",
+      "sourceWordMeaning": "shrub",
+      "tags": [
+        "plants",
+        "gardening",
+        "botany",
+        "nature",
+        "basic vocabulary",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun3muk6-shrub.json"
+    },
+    {
+      "sentenceId": "gun3muk6-shrub-example-3",
+      "sentence": "工人正在修剪灌木。",
+      "jyutping": "gung1 jan4 zing3 zoi6 sau1 zin2 gun3 muk6.",
+      "meaning": "The workers are trimming the shrubs.",
+      "sourceWordId": "gun3muk6-shrub",
+      "sourceWord": "灌木",
+      "sourceWordJyutping": "gun3 muk6",
+      "sourceWordMeaning": "shrub",
+      "tags": [
+        "plants",
+        "gardening",
+        "botany",
+        "nature",
+        "basic vocabulary",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun3muk6-shrub.json"
+    },
+    {
+      "sentenceId": "gun3muk6-shrub-example-4",
+      "sentence": "屋企門口種兩排灌木，睇落好整齊。",
+      "jyutping": "uk1 kei2 mun4 hau2 zung3 loeng5 paai4 gun3 muk6, tai2 lok6 hou2 zing2 cai4.",
+      "meaning": "Two rows of shrubs are planted at the front of the house, and it looks neat.",
+      "sourceWordId": "gun3muk6-shrub",
+      "sourceWord": "灌木",
+      "sourceWordJyutping": "gun3 muk6",
+      "sourceWordMeaning": "shrub",
+      "tags": [
+        "plants",
+        "gardening",
+        "botany",
+        "nature",
+        "basic vocabulary",
+        "landscape",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun3muk6-shrub.json"
+    },
+    {
+      "sentenceId": "je5faa1-wildflower-example-1",
+      "sentence": "山坡上開滿咗野花。",
+      "jyutping": "saan1 po1 soeng6 hoi1 mun5 zo2 je5 faa1.",
+      "meaning": "The hillside is full of wildflowers.",
+      "sourceWordId": "je5faa1-wildflower",
+      "sourceWord": "野花",
+      "sourceWordJyutping": "je5 faa1",
+      "sourceWordMeaning": "wildflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "flowers",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5faa1-wildflower.json"
+    },
+    {
+      "sentenceId": "je5faa1-wildflower-example-2",
+      "sentence": "春天去行山，好容易見到好多野花。",
+      "jyutping": "ceon1 tin1 heoi3 haang4 saan1, hou2 jung4 ji6 gin3 dou3 hou2 do1 je5 faa1.",
+      "meaning": "In spring, it’s easy to see many wildflowers when hiking.",
+      "sourceWordId": "je5faa1-wildflower",
+      "sourceWord": "野花",
+      "sourceWordJyutping": "je5 faa1",
+      "sourceWordMeaning": "wildflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "flowers",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5faa1-wildflower.json"
+    },
+    {
+      "sentenceId": "je5faa1-wildflower-example-3",
+      "sentence": "呢朵野花雖然細，但好靚。",
+      "jyutping": "ni1 do2 je5 faa1 seoi1 jin4 sai3, daan6 hou2 leng3.",
+      "meaning": "This wildflower is small, but very pretty.",
+      "sourceWordId": "je5faa1-wildflower",
+      "sourceWord": "野花",
+      "sourceWordJyutping": "je5 faa1",
+      "sourceWordMeaning": "wildflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "flowers",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5faa1-wildflower.json"
+    },
+    {
+      "sentenceId": "je5faa1-wildflower-example-4",
+      "sentence": "佢影咗幾張野花相放上網。",
+      "jyutping": "keoi5 jing2 zo2 gei2 zoeng1 je5 faa1 soeng2 fong3 soeng5 mong5.",
+      "meaning": "He took a few photos of wildflowers and posted them online.",
+      "sourceWordId": "je5faa1-wildflower",
+      "sourceWord": "野花",
+      "sourceWordJyutping": "je5 faa1",
+      "sourceWordMeaning": "wildflower",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "flowers",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5faa1-wildflower.json"
+    },
+    {
+      "sentenceId": "je5cou2-weed-wild-grass-example-1",
+      "sentence": "花園入面生咗好多野草。",
+      "jyutping": "faa1 jyun4 jap6 min6 sang1 zo2 hou2 do1 je5 cou2.",
+      "meaning": "A lot of weeds grew in the garden.",
+      "sourceWordId": "je5cou2-weed-wild-grass",
+      "sourceWord": "野草",
+      "sourceWordJyutping": "je5 cou2",
+      "sourceWordMeaning": "weed; wild grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "everyday",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5cou2-weed-wild-grass.json"
+    },
+    {
+      "sentenceId": "je5cou2-weed-wild-grass-example-2",
+      "sentence": "我哋要快啲清走啲野草。",
+      "jyutping": "ngo5 dei6 jiu3 faai3 di1 cing1 zau2 di1 je5 cou2.",
+      "meaning": "We need to quickly clear the weeds away.",
+      "sourceWordId": "je5cou2-weed-wild-grass",
+      "sourceWord": "野草",
+      "sourceWordJyutping": "je5 cou2",
+      "sourceWordMeaning": "weed; wild grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "everyday",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5cou2-weed-wild-grass.json"
+    },
+    {
+      "sentenceId": "je5cou2-weed-wild-grass-example-3",
+      "sentence": "呢塊田啲野草好高。",
+      "jyutping": "ni1 faai3 tin4 di1 je5 cou2 hou2 gou1.",
+      "meaning": "The weeds in this field are very tall.",
+      "sourceWordId": "je5cou2-weed-wild-grass",
+      "sourceWord": "野草",
+      "sourceWordJyutping": "je5 cou2",
+      "sourceWordMeaning": "weed; wild grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "everyday",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5cou2-weed-wild-grass.json"
+    },
+    {
+      "sentenceId": "je5cou2-weed-wild-grass-example-4",
+      "sentence": "雨後，路邊啲野草長得特別快。",
+      "jyutping": "jyu5 hau6, lou6 bin1 di1 je5 cou2 zoeng2 dak1 dak6 bit6 faai3.",
+      "meaning": "After the rain, the weeds along the roadside grow especially fast.",
+      "sourceWordId": "je5cou2-weed-wild-grass",
+      "sourceWord": "野草",
+      "sourceWordJyutping": "je5 cou2",
+      "sourceWordMeaning": "weed; wild grass",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "everyday",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/je5cou2-weed-wild-grass.json"
+    },
+    {
+      "sentenceId": "seoi2cou2-aquatic-plant-example-1",
+      "sentence": "魚缸入面種咗好多水草。",
+      "jyutping": "jyu4 gong1 jap6 min6 zung2 zo2 hou2 do1 seoi2 cou2.",
+      "meaning": "There are a lot of aquatic plants in the fish tank.",
+      "sourceWordId": "seoi2cou2-aquatic-plant",
+      "sourceWord": "水草",
+      "sourceWordJyutping": "seoi2 cou2",
+      "sourceWordMeaning": "aquatic plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "aquarium",
+        "pond",
+        "nature",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2cou2-aquatic-plant.json"
+    },
+    {
+      "sentenceId": "seoi2cou2-aquatic-plant-example-2",
+      "sentence": "公園個池邊有啲水草。",
+      "jyutping": "gung1 jyun4 go3 ci4 bin1 jau5 di1 seoi2 cou2.",
+      "meaning": "There are some aquatic plants by the pond in the park.",
+      "sourceWordId": "seoi2cou2-aquatic-plant",
+      "sourceWord": "水草",
+      "sourceWordJyutping": "seoi2 cou2",
+      "sourceWordMeaning": "aquatic plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "aquarium",
+        "pond",
+        "nature",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2cou2-aquatic-plant.json"
+    },
+    {
+      "sentenceId": "seoi2cou2-aquatic-plant-example-3",
+      "sentence": "佢買咗幾棵水草返屋企。",
+      "jyutping": "keoi5 maai5 zo2 gei2 po1 seoi2 cou2 faan1 uk1 hei2.",
+      "meaning": "They bought a few aquatic plants to bring home.",
+      "sourceWordId": "seoi2cou2-aquatic-plant",
+      "sourceWord": "水草",
+      "sourceWordJyutping": "seoi2 cou2",
+      "sourceWordMeaning": "aquatic plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "aquarium",
+        "pond",
+        "nature",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2cou2-aquatic-plant.json"
+    },
+    {
+      "sentenceId": "seoi2cou2-aquatic-plant-example-4",
+      "sentence": "呢種水草好適合養蝦。",
+      "jyutping": "ni1 zung2 seoi2 cou2 hou2 sik1 hap6 joeng5 haa1.",
+      "meaning": "This kind of aquatic plant is very suitable for keeping shrimp.",
+      "sourceWordId": "seoi2cou2-aquatic-plant",
+      "sourceWord": "水草",
+      "sourceWordJyutping": "seoi2 cou2",
+      "sourceWordMeaning": "aquatic plant",
+      "tags": [
+        "plants",
+        "gardening",
+        "aquarium",
+        "pond",
+        "nature",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2cou2-aquatic-plant.json"
+    },
+    {
+      "sentenceId": "sin1jan4zoeng2-cactus-example-1",
+      "sentence": "我屋企窗台有一盆仙人掌。",
+      "jyutping": "ngo5 uk1 kei2 coeng1 toi4 jau5 jat1 pun4 sin1 jan4 zoeng2.",
+      "meaning": "I have a cactus on my windowsill at home.",
+      "sourceWordId": "sin1jan4zoeng2-cactus",
+      "sourceWord": "仙人掌",
+      "sourceWordJyutping": "sin1 jan4 zoeng2",
+      "sourceWordMeaning": "cactus",
+      "tags": [
+        "plants",
+        "gardening",
+        "types of plants",
+        "houseplants",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1jan4zoeng2-cactus.json"
+    },
+    {
+      "sentenceId": "sin1jan4zoeng2-cactus-example-2",
+      "sentence": "呢棵仙人掌唔使成日淋水。",
+      "jyutping": "ni1 fo1 sin1 jan4 zoeng2 m4 sai2 sing4 jat6 lam4 seoi2.",
+      "meaning": "This cactus does not need to be watered often.",
+      "sourceWordId": "sin1jan4zoeng2-cactus",
+      "sourceWord": "仙人掌",
+      "sourceWordJyutping": "sin1 jan4 zoeng2",
+      "sourceWordMeaning": "cactus",
+      "tags": [
+        "plants",
+        "gardening",
+        "types of plants",
+        "houseplants",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1jan4zoeng2-cactus.json"
+    },
+    {
+      "sentenceId": "sin1jan4zoeng2-cactus-example-3",
+      "sentence": "佢鍾意種仙人掌同多肉植物。",
+      "jyutping": "keoi5 zung1 ji3 zung2 sin1 jan4 zoeng2 tung4 do1 juk6 zik6 mat6.",
+      "meaning": "He likes growing cacti and succulents.",
+      "sourceWordId": "sin1jan4zoeng2-cactus",
+      "sourceWord": "仙人掌",
+      "sourceWordJyutping": "sin1 jan4 zoeng2",
+      "sourceWordMeaning": "cactus",
+      "tags": [
+        "plants",
+        "gardening",
+        "types of plants",
+        "houseplants",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1jan4zoeng2-cactus.json"
+    },
+    {
+      "sentenceId": "sin1jan4zoeng2-cactus-example-4",
+      "sentence": "仙人掌開花嗰陣都幾靚。",
+      "jyutping": "sin1 jan4 zoeng2 hoi1 faa1 go2 zan6 dou1 gei2 leng3.",
+      "meaning": "Cactus flowers can be quite pretty when they bloom.",
+      "sourceWordId": "sin1jan4zoeng2-cactus",
+      "sourceWord": "仙人掌",
+      "sourceWordJyutping": "sin1 jan4 zoeng2",
+      "sourceWordMeaning": "cactus",
+      "tags": [
+        "plants",
+        "gardening",
+        "types of plants",
+        "houseplants",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sin1jan4zoeng2-cactus.json"
+    },
+    {
+      "sentenceId": "zuk1-bamboo-example-1",
+      "sentence": "山邊有好多竹。",
+      "jyutping": "saan1 bin1 jau5 hou2 do1 zuk1.",
+      "meaning": "There are a lot of bamboo by the hillside.",
+      "sourceWordId": "zuk1-bamboo",
+      "sourceWord": "竹",
+      "sourceWordJyutping": "zuk1",
+      "sourceWordMeaning": "bamboo",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "bamboo",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zuk1-bamboo.json"
+    },
+    {
+      "sentenceId": "zuk1-bamboo-example-2",
+      "sentence": "佢屋企後園種咗幾棵竹。",
+      "jyutping": "keoi5 uk1 kei2 hau6 jyun2 zung3 zo2 gei2 fo1 zuk1.",
+      "meaning": "They planted a few bamboo plants in the backyard.",
+      "sourceWordId": "zuk1-bamboo",
+      "sourceWord": "竹",
+      "sourceWordJyutping": "zuk1",
+      "sourceWordMeaning": "bamboo",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "bamboo",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zuk1-bamboo.json"
+    },
+    {
+      "sentenceId": "zuk1-bamboo-example-3",
+      "sentence": "呢張枱係竹做㗎。",
+      "jyutping": "ni1 zoeng1 toi2 hai6 zuk1 zou6 gaa3.",
+      "meaning": "This table is made of bamboo.",
+      "sourceWordId": "zuk1-bamboo",
+      "sourceWord": "竹",
+      "sourceWordJyutping": "zuk1",
+      "sourceWordMeaning": "bamboo",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "bamboo",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zuk1-bamboo.json"
+    },
+    {
+      "sentenceId": "zuk1-bamboo-example-4",
+      "sentence": "熊貓最鍾意食竹。",
+      "jyutping": "hung4 maau1 zeoi3 zung1 ji3 sik6 zuk1.",
+      "meaning": "Pandas like eating bamboo the most.",
+      "sourceWordId": "zuk1-bamboo",
+      "sourceWord": "竹",
+      "sourceWordJyutping": "zuk1",
+      "sourceWordMeaning": "bamboo",
+      "tags": [
+        "plants",
+        "gardening",
+        "nature",
+        "noun",
+        "basic vocabulary",
+        "bamboo",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zuk1-bamboo.json"
+    },
+    {
+      "sentenceId": "ngaa4-shoot-bud-example-1",
+      "sentence": "呢棵玫瑰出咗新芽。",
+      "jyutping": "ni1 fo3 mui4 gwai3 ceot1 zo2 san1 ngaa4.",
+      "meaning": "This rose has put out new buds.",
+      "sourceWordId": "ngaa4-shoot-bud",
+      "sourceWord": "芽",
+      "sourceWordJyutping": "ngaa4",
+      "sourceWordMeaning": "shoot; bud",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "beginner",
+        "nature",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4-shoot-bud.json"
+    },
+    {
+      "sentenceId": "ngaa4-shoot-bud-example-2",
+      "sentence": "春天嘅時候，樹枝上面好多芽。",
+      "jyutping": "ceon1 tin1 ge3 si4 hau6, syu6 zi1 soeng6 min6 hou2 do1 ngaa4.",
+      "meaning": "In spring, there are many buds on the branches.",
+      "sourceWordId": "ngaa4-shoot-bud",
+      "sourceWord": "芽",
+      "sourceWordJyutping": "ngaa4",
+      "sourceWordMeaning": "shoot; bud",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "beginner",
+        "nature",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4-shoot-bud.json"
+    },
+    {
+      "sentenceId": "ngaa4-shoot-bud-example-3",
+      "sentence": "你剪走啲枯葉，等啲芽可以生得好啲。",
+      "jyutping": "nei5 zin2 zau2 di1 fu1 jip6, dang2 di1 ngaa4 ho2 ji5 saang1 dak1 hou2 di1.",
+      "meaning": "Trim off the dead leaves so the buds can grow better.",
+      "sourceWordId": "ngaa4-shoot-bud",
+      "sourceWord": "芽",
+      "sourceWordJyutping": "ngaa4",
+      "sourceWordMeaning": "shoot; bud",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "beginner",
+        "nature",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4-shoot-bud.json"
+    },
+    {
+      "sentenceId": "ngaa4-shoot-bud-example-4",
+      "sentence": "呢盆植物啲芽開始長出嚟喇。",
+      "jyutping": "ni1 pun4 zing3 mat6 di1 ngaa4 hoi1 si2 zoeng2 ceot1 lai4 laa3.",
+      "meaning": "The plant’s buds are starting to come out.",
+      "sourceWordId": "ngaa4-shoot-bud",
+      "sourceWord": "芽",
+      "sourceWordJyutping": "ngaa4",
+      "sourceWordMeaning": "shoot; bud",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "beginner",
+        "nature",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4-shoot-bud.json"
+    },
+    {
+      "sentenceId": "nyun6jip6-young-leaf-example-1",
+      "sentence": "佢棵玫瑰出咗好多嫩葉。",
+      "jyutping": "keoi5 po1 mui4 gwai3 ceot1 zo2 hou2 do1 nyun6 jip6.",
+      "meaning": "The rose bush has put out many young leaves.",
+      "sourceWordId": "nyun6jip6-young-leaf",
+      "sourceWord": "嫩葉",
+      "sourceWordJyutping": "nyun6 jip6",
+      "sourceWordMeaning": "young leaf",
+      "tags": [
+        "plants-gardening",
+        "plant-parts",
+        "noun",
+        "beginner",
+        "nature",
+        "botany",
+        "gardening",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nyun6jip6-young-leaf.json"
+    },
+    {
+      "sentenceId": "nyun6jip6-young-leaf-example-2",
+      "sentence": "春天嘅嫩葉特別柔軟。",
+      "jyutping": "ceon1 tin1 ge3 nyun6 jip6 dak6 bit6 yau4 nyun5.",
+      "meaning": "Young leaves in spring are especially soft.",
+      "sourceWordId": "nyun6jip6-young-leaf",
+      "sourceWord": "嫩葉",
+      "sourceWordJyutping": "nyun6 jip6",
+      "sourceWordMeaning": "young leaf",
+      "tags": [
+        "plants-gardening",
+        "plant-parts",
+        "noun",
+        "beginner",
+        "nature",
+        "botany",
+        "gardening",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nyun6jip6-young-leaf.json"
+    },
+    {
+      "sentenceId": "nyun6jip6-young-leaf-example-3",
+      "sentence": "呢啲嫩葉可以用嚟做沙律。",
+      "jyutping": "ni1 di1 nyun6 jip6 hoi2 ji5 jung6 lai4 zou6 saa1 leot6.",
+      "meaning": "These young leaves can be used to make salad.",
+      "sourceWordId": "nyun6jip6-young-leaf",
+      "sourceWord": "嫩葉",
+      "sourceWordJyutping": "nyun6 jip6",
+      "sourceWordMeaning": "young leaf",
+      "tags": [
+        "plants-gardening",
+        "plant-parts",
+        "noun",
+        "beginner",
+        "nature",
+        "botany",
+        "gardening",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nyun6jip6-young-leaf.json"
+    },
+    {
+      "sentenceId": "nyun6jip6-young-leaf-example-4",
+      "sentence": "細路仔好鍾意觀察植物嘅嫩葉。",
+      "jyutping": "sai3 lou6 zai2 hou2 zung1 ji3 gun1 caat3 zing3 mat6 ge3 nyun6 jip6.",
+      "meaning": "Children like observing the young leaves of plants.",
+      "sourceWordId": "nyun6jip6-young-leaf",
+      "sourceWord": "嫩葉",
+      "sourceWordJyutping": "nyun6 jip6",
+      "sourceWordMeaning": "young leaf",
+      "tags": [
+        "plants-gardening",
+        "plant-parts",
+        "noun",
+        "beginner",
+        "nature",
+        "botany",
+        "gardening",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nyun6jip6-young-leaf.json"
+    },
+    {
+      "sentenceId": "faa1ging3-stem-example-1",
+      "sentence": "呢棵花嘅花莖好幼。",
+      "jyutping": "ni1 fo2 faa1 ge3 faa1 ging3 hou2 yau3",
+      "meaning": "The stem of this flower is very thin.",
+      "sourceWordId": "faa1ging3-stem",
+      "sourceWord": "花莖",
+      "sourceWordJyutping": "faa1 ging3",
+      "sourceWordMeaning": "stem",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-parts",
+        "basic-vocabulary",
+        "biology",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1ging3-stem.json"
+    },
+    {
+      "sentenceId": "faa1ging3-stem-example-2",
+      "sentence": "剪花嗰陣要小心唔好整爛花莖。",
+      "jyutping": "zin2 faa1 go2 zan6 jiu3 siu2 sam1 m4 hou2 zing2 laan6 faa1 ging3",
+      "meaning": "When cutting flowers, be careful not to damage the stem.",
+      "sourceWordId": "faa1ging3-stem",
+      "sourceWord": "花莖",
+      "sourceWordJyutping": "faa1 ging3",
+      "sourceWordMeaning": "stem",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-parts",
+        "basic-vocabulary",
+        "biology",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1ging3-stem.json"
+    },
+    {
+      "sentenceId": "faa1ging3-stem-example-3",
+      "sentence": "佢話呢種植物嘅花莖好長。",
+      "jyutping": "keoi5 waa6 ni1 zung2 zing3 mat6 ge3 faa1 ging3 hou2 coeng4",
+      "meaning": "He said the stem of this plant is very long.",
+      "sourceWordId": "faa1ging3-stem",
+      "sourceWord": "花莖",
+      "sourceWordJyutping": "faa1 ging3",
+      "sourceWordMeaning": "stem",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-parts",
+        "basic-vocabulary",
+        "biology",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1ging3-stem.json"
+    },
+    {
+      "sentenceId": "faa1ging3-stem-example-4",
+      "sentence": "花莖斷咗，朵花就好快謝。",
+      "jyutping": "faa1 ging3 dyun6 zo2, do2 faa1 zau6 hou2 faai3 ze6",
+      "meaning": "If the stem breaks, the flower will wither quickly.",
+      "sourceWordId": "faa1ging3-stem",
+      "sourceWord": "花莖",
+      "sourceWordJyutping": "faa1 ging3",
+      "sourceWordMeaning": "stem",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-parts",
+        "basic-vocabulary",
+        "biology",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1ging3-stem.json"
+    },
+    {
+      "sentenceId": "gwo2juk6-fruit-flesh-example-1",
+      "sentence": "芒果嘅果肉好甜。",
+      "jyutping": "mong1 gwo2 ge3 gwo2 juk6 hou2 tim4.",
+      "meaning": "The flesh of the mango is very sweet.",
+      "sourceWordId": "gwo2juk6-fruit-flesh",
+      "sourceWord": "果肉",
+      "sourceWordJyutping": "gwo2 juk6",
+      "sourceWordMeaning": "fruit flesh",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "fruit",
+        "food",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2juk6-fruit-flesh.json"
+    },
+    {
+      "sentenceId": "gwo2juk6-fruit-flesh-example-2",
+      "sentence": "呢個榴槤嘅果肉好香。",
+      "jyutping": "ni1 go3 lau4 lin4 ge3 gwo2 juk6 hou2 hoeng1.",
+      "meaning": "This durian’s flesh is very fragrant.",
+      "sourceWordId": "gwo2juk6-fruit-flesh",
+      "sourceWord": "果肉",
+      "sourceWordJyutping": "gwo2 juk6",
+      "sourceWordMeaning": "fruit flesh",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "fruit",
+        "food",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2juk6-fruit-flesh.json"
+    },
+    {
+      "sentenceId": "gwo2juk6-fruit-flesh-example-3",
+      "sentence": "我鍾意食西瓜果肉。",
+      "jyutping": "ngo5 zung1 ji3 sik6 sai1 gwaa1 gwo2 juk6.",
+      "meaning": "I like eating watermelon flesh.",
+      "sourceWordId": "gwo2juk6-fruit-flesh",
+      "sourceWord": "果肉",
+      "sourceWordJyutping": "gwo2 juk6",
+      "sourceWordMeaning": "fruit flesh",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "fruit",
+        "food",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2juk6-fruit-flesh.json"
+    },
+    {
+      "sentenceId": "gwo2juk6-fruit-flesh-example-4",
+      "sentence": "佢將橙嘅果肉切細咗。",
+      "jyutping": "keoi5 zoeng1 caang2 ge3 gwo2 juk6 cit3 sai3 zo2.",
+      "meaning": "He/She cut the orange flesh into small pieces.",
+      "sourceWordId": "gwo2juk6-fruit-flesh",
+      "sourceWord": "果肉",
+      "sourceWordJyutping": "gwo2 juk6",
+      "sourceWordMeaning": "fruit flesh",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant parts",
+        "fruit",
+        "food",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gwo2juk6-fruit-flesh.json"
+    },
+    {
+      "sentenceId": "si1fei4-fertilize-example-1",
+      "sentence": "佢每個月都會幫盆栽施肥。",
+      "jyutping": "keoi5 mui5 go3 jyut6 dou1 wui5 bong1 pun4 zoi1 si1 fei4.",
+      "meaning": "He fertilizes the potted plants every month.",
+      "sourceWordId": "si1fei4-fertilize",
+      "sourceWord": "施肥",
+      "sourceWordJyutping": "si1 fei4",
+      "sourceWordMeaning": "fertilize",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "home care",
+        "beginner",
+        "action verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1fei4-fertilize.json"
+    },
+    {
+      "sentenceId": "si1fei4-fertilize-example-2",
+      "sentence": "種菜之前，要先施肥。",
+      "jyutping": "zung2 coi3 zi1 cin4, jiu3 sin1 si1 fei4.",
+      "meaning": "Before growing vegetables, you need to fertilize first.",
+      "sourceWordId": "si1fei4-fertilize",
+      "sourceWord": "施肥",
+      "sourceWordJyutping": "si1 fei4",
+      "sourceWordMeaning": "fertilize",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "home care",
+        "beginner",
+        "action verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1fei4-fertilize.json"
+    },
+    {
+      "sentenceId": "si1fei4-fertilize-example-3",
+      "sentence": "呢棵玫瑰開花之前最好施肥。",
+      "jyutping": "ni1 fo3 mui4 gwai3 hoi1 faa1 zi1 cin4 zeoi3 hou2 si1 fei4.",
+      "meaning": "This rose is best fertilized before it flowers.",
+      "sourceWordId": "si1fei4-fertilize",
+      "sourceWord": "施肥",
+      "sourceWordJyutping": "si1 fei4",
+      "sourceWordMeaning": "fertilize",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "home care",
+        "beginner",
+        "action verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1fei4-fertilize.json"
+    },
+    {
+      "sentenceId": "si1fei4-fertilize-example-4",
+      "sentence": "阿媽話陽台啲植物要定期施肥。",
+      "jyutping": "aa3 maa1 waa6 joeng4 toi4 di1 zing3 mat6 jiu3 ding6 kei4 si1 fei4.",
+      "meaning": "Mum says the balcony plants need regular fertilizing.",
+      "sourceWordId": "si1fei4-fertilize",
+      "sourceWord": "施肥",
+      "sourceWordJyutping": "si1 fei4",
+      "sourceWordMeaning": "fertilize",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "home care",
+        "beginner",
+        "action verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1fei4-fertilize.json"
+    },
+    {
+      "sentenceId": "zin2zi1-prune-branches-example-1",
+      "sentence": "園丁每個月都會做剪枝，保持棵樹生長得整齊。",
+      "jyutping": "jyun4 ding1 mui5 go3 jyut6 dou1 wui5 zou6 zin2 zi1, bong2 ci4 to2 syu6 sang1 zoeng2 dak1 zing2 cai4.",
+      "meaning": "The gardener prunes the branches every month to keep the tree growing neatly.",
+      "sourceWordId": "zin2zi1-prune-branches",
+      "sourceWord": "剪枝",
+      "sourceWordJyutping": "zin2 zi1",
+      "sourceWordMeaning": "prune branches",
+      "tags": [
+        "plants",
+        "gardening",
+        "tree care",
+        "pruning",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2zi1-prune-branches.json"
+    },
+    {
+      "sentenceId": "zin2zi1-prune-branches-example-2",
+      "sentence": "呢棵玫瑰太密，要剪枝先至會出得靚。",
+      "jyutping": "ni1 fo2 mui4 gwai3 taai3 mat6, jiu3 zin2 zi1 sin1 zi3 wui5 ceot1 dak1 leng3.",
+      "meaning": "This rose bush is too dense; it needs pruning before it will grow well.",
+      "sourceWordId": "zin2zi1-prune-branches",
+      "sourceWord": "剪枝",
+      "sourceWordJyutping": "zin2 zi1",
+      "sourceWordMeaning": "prune branches",
+      "tags": [
+        "plants",
+        "gardening",
+        "tree care",
+        "pruning",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2zi1-prune-branches.json"
+    },
+    {
+      "sentenceId": "zin2zi1-prune-branches-example-3",
+      "sentence": "如果你想植物健康啲，就要學識點樣剪枝。",
+      "jyutping": "jyu4 gwo2 nei5 soeng2 zing3 muk6 gin6 hong4 hang2 di1, zau6 jiu3 hok6 sik1 dim2 joeng6 zin2 zi1.",
+      "meaning": "If you want your plants to be healthier, you need to learn how to prune branches.",
+      "sourceWordId": "zin2zi1-prune-branches",
+      "sourceWord": "剪枝",
+      "sourceWordJyutping": "zin2 zi1",
+      "sourceWordMeaning": "prune branches",
+      "tags": [
+        "plants",
+        "gardening",
+        "tree care",
+        "pruning",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2zi1-prune-branches.json"
+    },
+    {
+      "sentenceId": "zin2zi1-prune-branches-example-4",
+      "sentence": "佢喺後園幫阿媽剪枝，順便執埋啲枯葉。",
+      "jyutping": "keoi5 hai2 hau6 jyun4 bong1 aa3 maa1 zin2 zi1, seon6 bin6 zap1 maai4 di1 fu1 jip6.",
+      "meaning": "He helped his mother prune the branches in the backyard and also picked up the dead leaves.",
+      "sourceWordId": "zin2zi1-prune-branches",
+      "sourceWord": "剪枝",
+      "sourceWordJyutping": "zin2 zi1",
+      "sourceWordMeaning": "prune branches",
+      "tags": [
+        "plants",
+        "gardening",
+        "tree care",
+        "pruning",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2zi1-prune-branches.json"
+    },
+    {
+      "sentenceId": "bat6cou2-pull-weeds-example-1",
+      "sentence": "我今日要去後園拔草。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 hau6 jyun4 bat6 cou2.",
+      "meaning": "I need to go to the backyard and pull weeds today.",
+      "sourceWordId": "bat6cou2-pull-weeds",
+      "sourceWord": "拔草",
+      "sourceWordJyutping": "bat6 cou2",
+      "sourceWordMeaning": "pull weeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "weeds",
+        "outdoor chores",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bat6cou2-pull-weeds.json"
+    },
+    {
+      "sentenceId": "bat6cou2-pull-weeds-example-2",
+      "sentence": "雨後啲草生得好快，我成日都要拔草。",
+      "jyutping": "jyu5 hau6 di1 cou2 sang1 dak1 hou2 faai3, ngo5 sing4 jat6 dou1 jiu3 bat6 cou2.",
+      "meaning": "After the rain, the weeds grow very fast, so I always have to pull them.",
+      "sourceWordId": "bat6cou2-pull-weeds",
+      "sourceWord": "拔草",
+      "sourceWordJyutping": "bat6 cou2",
+      "sourceWordMeaning": "pull weeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "weeds",
+        "outdoor chores",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bat6cou2-pull-weeds.json"
+    },
+    {
+      "sentenceId": "bat6cou2-pull-weeds-example-3",
+      "sentence": "阿媽叫我幫手拔草，順便鬆下泥。",
+      "jyutping": "aa3 ma1 giu3 ngo5 bong1 sau2 bat6 cou2, seon6 bin6 sung1 haa5 nai4.",
+      "meaning": "Mom asked me to help pull weeds and loosen the soil at the same time.",
+      "sourceWordId": "bat6cou2-pull-weeds",
+      "sourceWord": "拔草",
+      "sourceWordJyutping": "bat6 cou2",
+      "sourceWordMeaning": "pull weeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "weeds",
+        "outdoor chores",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bat6cou2-pull-weeds.json"
+    },
+    {
+      "sentenceId": "bat6cou2-pull-weeds-example-4",
+      "sentence": "天氣唔太熱，我哋下晝去公園旁邊拔草。",
+      "jyutping": "tin1 hei3 m4 taai3 jit6, ngo5 dei6 haa6 zau3 heoi3 gung1 jyun4 pong4 bin1 bat6 cou2.",
+      "meaning": "The weather isn’t too hot, so let’s go pull weeds beside the park this afternoon.",
+      "sourceWordId": "bat6cou2-pull-weeds",
+      "sourceWord": "拔草",
+      "sourceWordJyutping": "bat6 cou2",
+      "sourceWordMeaning": "pull weeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "weeds",
+        "outdoor chores",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bat6cou2-pull-weeds.json"
+    },
+    {
+      "sentenceId": "sung1tou2-loosen-soil-example-1",
+      "sentence": "種花之前，先要鬆土。",
+      "jyutping": "zung2 faa1 zyun1 cin4, sin1 jiu3 sung1 tou2.",
+      "meaning": "Before planting flowers, you need to loosen the soil first.",
+      "sourceWordId": "sung1tou2-loosen-soil",
+      "sourceWord": "鬆土",
+      "sourceWordJyutping": "sung1 tou2",
+      "sourceWordMeaning": "loosen soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil",
+        "outdoor work",
+        "beginner vocabulary",
+        "home gardening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung1tou2-loosen-soil.json"
+    },
+    {
+      "sentenceId": "sung1tou2-loosen-soil-example-2",
+      "sentence": "啲泥太硬，落水都唔容易入。要先鬆土。",
+      "jyutping": "di1 nai4 taai3 ngaang6, lok6 seoi2 dou1 m4 jung6 ji6 jap6. jiu3 sin1 sung1 tou2.",
+      "meaning": "The soil is too hard, so water does not soak in easily. You need to loosen it first.",
+      "sourceWordId": "sung1tou2-loosen-soil",
+      "sourceWord": "鬆土",
+      "sourceWordJyutping": "sung1 tou2",
+      "sourceWordMeaning": "loosen soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil",
+        "outdoor work",
+        "beginner vocabulary",
+        "home gardening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung1tou2-loosen-soil.json"
+    },
+    {
+      "sentenceId": "sung1tou2-loosen-soil-example-3",
+      "sentence": "阿媽成日叫我幫佢喺菜盆度鬆土。",
+      "jyutping": "aa3 maa1 sing4 jat6 giu3 ngo5 bong1 keoi5 hai2 coi3 pun4 dou6 sung1 tou2.",
+      "meaning": "My mum often asks me to loosen the soil in the vegetable pot.",
+      "sourceWordId": "sung1tou2-loosen-soil",
+      "sourceWord": "鬆土",
+      "sourceWordJyutping": "sung1 tou2",
+      "sourceWordMeaning": "loosen soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil",
+        "outdoor work",
+        "beginner vocabulary",
+        "home gardening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung1tou2-loosen-soil.json"
+    },
+    {
+      "sentenceId": "sung1tou2-loosen-soil-example-4",
+      "sentence": "落完雨之後，花圃表面有少少結實，記得鬆土。",
+      "jyutping": "lok6 jyun4 jyu5 zi1 hau6, faa1 pou5 biu2 min6 jau5 siu2 siu2 git3 sat6, gei3 dak1 sung1 tou2.",
+      "meaning": "After it rains, the surface of the flower bed gets a bit compacted, so remember to loosen the soil.",
+      "sourceWordId": "sung1tou2-loosen-soil",
+      "sourceWord": "鬆土",
+      "sourceWordJyutping": "sung1 tou2",
+      "sourceWordMeaning": "loosen soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil",
+        "outdoor work",
+        "beginner vocabulary",
+        "home gardening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung1tou2-loosen-soil.json"
+    },
+    {
+      "sentenceId": "wun6pun4-repot-example-1",
+      "sentence": "我諗呢棵龜背竹要換盆喇。",
+      "jyutping": "ngo5 lam2 ni1 fo1 gwai1 bui3 zuk1 jiu3 wun6 pun4 laa3.",
+      "meaning": "I think this monstera needs repotting.",
+      "sourceWordId": "wun6pun4-repot",
+      "sourceWord": "換盆",
+      "sourceWordJyutping": "wun6 pun4",
+      "sourceWordMeaning": "repot",
+      "tags": [
+        "gardening",
+        "plants",
+        "repotting",
+        "home gardening",
+        "plant care",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wun6pun4-repot.json"
+    },
+    {
+      "sentenceId": "wun6pun4-repot-example-2",
+      "sentence": "三個月前我幫佢換盆，依家長得好快。",
+      "jyutping": "saam1 go3 jyut6 cin4 ngo5 bong1 keoi5 wun6 pun4, ji1 gaa1 zoeng2 dak1 hou2 faai3.",
+      "meaning": "I repotted it three months ago, and now it’s growing fast.",
+      "sourceWordId": "wun6pun4-repot",
+      "sourceWord": "換盆",
+      "sourceWordJyutping": "wun6 pun4",
+      "sourceWordMeaning": "repot",
+      "tags": [
+        "gardening",
+        "plants",
+        "repotting",
+        "home gardening",
+        "plant care",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wun6pun4-repot.json"
+    },
+    {
+      "sentenceId": "wun6pun4-repot-example-3",
+      "sentence": "盆太細喇，快啲換盆啦。",
+      "jyutping": "pun4 taai3 sai3 laa3, faai3 di1 wun6 pun4 laa1.",
+      "meaning": "The pot is too small, so repot it soon.",
+      "sourceWordId": "wun6pun4-repot",
+      "sourceWord": "換盆",
+      "sourceWordJyutping": "wun6 pun4",
+      "sourceWordMeaning": "repot",
+      "tags": [
+        "gardening",
+        "plants",
+        "repotting",
+        "home gardening",
+        "plant care",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wun6pun4-repot.json"
+    },
+    {
+      "sentenceId": "wun6pun4-repot-example-4",
+      "sentence": "如果你想佢開花多啲，換盆之後記得加新泥。",
+      "jyutping": "jyu4 gwo2 nei5 soeng2 keoi5 hoi1 faa1 do1 di1, wun6 pun4 zi1 hau6 gei3 dak1 gaa1 san1 nai4.",
+      "meaning": "If you want it to flower more, remember to add fresh soil after repotting.",
+      "sourceWordId": "wun6pun4-repot",
+      "sourceWord": "換盆",
+      "sourceWordJyutping": "wun6 pun4",
+      "sourceWordMeaning": "repot",
+      "tags": [
+        "gardening",
+        "plants",
+        "repotting",
+        "home gardening",
+        "plant care",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wun6pun4-repot.json"
+    },
+    {
+      "sentenceId": "bo3zung2-sow-seeds-example-1",
+      "sentence": "我哋喺春天播種。",
+      "jyutping": "ngo5 dei6 hai2 ceon1 tin1 bo3 zung2.",
+      "meaning": "We sow seeds in spring.",
+      "sourceWordId": "bo3zung2-sow-seeds",
+      "sourceWord": "播種",
+      "sourceWordJyutping": "bo3 zung2",
+      "sourceWordMeaning": "sow seeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "seed planting",
+        "beginner",
+        "action word",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bo3zung2-sow-seeds.json"
+    },
+    {
+      "sentenceId": "bo3zung2-sow-seeds-example-2",
+      "sentence": "佢喺花盆入面播種。",
+      "jyutping": "keoi5 hai2 faa1 pun4 jap6 min6 bo3 zung2.",
+      "meaning": "He/She sowed seeds in the flower pot.",
+      "sourceWordId": "bo3zung2-sow-seeds",
+      "sourceWord": "播種",
+      "sourceWordJyutping": "bo3 zung2",
+      "sourceWordMeaning": "sow seeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "seed planting",
+        "beginner",
+        "action word",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bo3zung2-sow-seeds.json"
+    },
+    {
+      "sentenceId": "bo3zung2-sow-seeds-example-3",
+      "sentence": "老師教小朋友點樣播種。",
+      "jyutping": "lou5si1 gaau3 siu2 pang4 jau4 dim2 joeng6 bo3 zung2.",
+      "meaning": "The teacher taught the children how to sow seeds.",
+      "sourceWordId": "bo3zung2-sow-seeds",
+      "sourceWord": "播種",
+      "sourceWordJyutping": "bo3 zung2",
+      "sourceWordMeaning": "sow seeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "seed planting",
+        "beginner",
+        "action word",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bo3zung2-sow-seeds.json"
+    },
+    {
+      "sentenceId": "bo3zung2-sow-seeds-example-4",
+      "sentence": "如果想種菜，就要先播種。",
+      "jyutping": "jyu4 gwo2 soeng2 zung3 coi3, zau6 jiu3 sin1 bo3 zung2.",
+      "meaning": "If you want to grow vegetables, you need to sow the seeds first.",
+      "sourceWordId": "bo3zung2-sow-seeds",
+      "sourceWord": "播種",
+      "sourceWordJyutping": "bo3 zung2",
+      "sourceWordMeaning": "sow seeds",
+      "tags": [
+        "gardening",
+        "plants",
+        "farming",
+        "seed planting",
+        "beginner",
+        "action word",
+        "nature",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bo3zung2-sow-seeds.json"
+    },
+    {
+      "sentenceId": "bin3wong4-turn-yellow-example-1",
+      "sentence": "啲葉開始變黃，可能係水太多。",
+      "jyutping": "di1 jip6 hoi1 ci2 bin3 wong4, ho2 nang4 hai6 seoi2 taai3 do1.",
+      "meaning": "The leaves are starting to turn yellow; it may be because there is too much water.",
+      "sourceWordId": "bin3wong4-turn-yellow",
+      "sourceWord": "變黃",
+      "sourceWordJyutping": "bin3 wong4",
+      "sourceWordMeaning": "turn yellow",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-care",
+        "color-change",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bin3wong4-turn-yellow.json"
+    },
+    {
+      "sentenceId": "bin3wong4-turn-yellow-example-2",
+      "sentence": "呢盆花嘅葉點解變黃咗？",
+      "jyutping": "ni1 pun4 faa1 ge3 jip6 dim2 gaai2 bin3 wong4 zo2?",
+      "meaning": "Why have the leaves of this potted plant turned yellow?",
+      "sourceWordId": "bin3wong4-turn-yellow",
+      "sourceWord": "變黃",
+      "sourceWordJyutping": "bin3 wong4",
+      "sourceWordMeaning": "turn yellow",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-care",
+        "color-change",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bin3wong4-turn-yellow.json"
+    },
+    {
+      "sentenceId": "bin3wong4-turn-yellow-example-3",
+      "sentence": "如果泥土太乾，枝葉都可能會變黃。",
+      "jyutping": "jyu4 gwo2 nai4 tou2 taai3 gon1, zi1 jip6 dou1 ho2 nang4 wui5 bin3 wong4.",
+      "meaning": "If the soil is too dry, the stems and leaves may also turn yellow.",
+      "sourceWordId": "bin3wong4-turn-yellow",
+      "sourceWord": "變黃",
+      "sourceWordJyutping": "bin3 wong4",
+      "sourceWordMeaning": "turn yellow",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-care",
+        "color-change",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bin3wong4-turn-yellow.json"
+    },
+    {
+      "sentenceId": "bin3wong4-turn-yellow-example-4",
+      "sentence": "佢種嘅番茄葉變黃，應該要檢查下肥料。",
+      "jyutping": "keoi5 zung2 ge3 faan1 ke2 jip6 bin3 wong4, jing1 goi1 jiu3 gim2 caa4 haa5 fei4 liu2.",
+      "meaning": "The tomato leaves he grew have turned yellow, so he should check the fertilizer.",
+      "sourceWordId": "bin3wong4-turn-yellow",
+      "sourceWord": "變黃",
+      "sourceWordJyutping": "bin3 wong4",
+      "sourceWordMeaning": "turn yellow",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant-care",
+        "color-change",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bin3wong4-turn-yellow.json"
+    },
+    {
+      "sentenceId": "diu1ze6-wilt-fade-example-1",
+      "sentence": "呢束花好快就凋謝咗。",
+      "jyutping": "ni1 zuk1 faa1 hou2 faai3 zau6 diu1 ze6 zo2",
+      "meaning": "This bouquet wilted very quickly.",
+      "sourceWordId": "diu1ze6-wilt-fade",
+      "sourceWord": "凋謝",
+      "sourceWordJyutping": "diu1 ze6",
+      "sourceWordMeaning": "wilt; fade",
+      "tags": [
+        "plants",
+        "gardening",
+        "level-1",
+        "plant-condition",
+        "wilt",
+        "fade",
+        "nature",
+        "vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu1ze6-wilt-fade.json"
+    },
+    {
+      "sentenceId": "diu1ze6-wilt-fade-example-2",
+      "sentence": "太陽太猛，啲葉都開始凋謝。",
+      "jyutping": "taai3 joeng4 taai3 maang5, di1 jip6 dou1 hoi1 ci2 diu1 ze6",
+      "meaning": "The sun was too strong, and the leaves started to wilt.",
+      "sourceWordId": "diu1ze6-wilt-fade",
+      "sourceWord": "凋謝",
+      "sourceWordJyutping": "diu1 ze6",
+      "sourceWordMeaning": "wilt; fade",
+      "tags": [
+        "plants",
+        "gardening",
+        "level-1",
+        "plant-condition",
+        "wilt",
+        "fade",
+        "nature",
+        "vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu1ze6-wilt-fade.json"
+    },
+    {
+      "sentenceId": "diu1ze6-wilt-fade-example-3",
+      "sentence": "如果唔澆水，盆栽好容易凋謝。",
+      "jyutping": "jyu4 gwo2 m4 giu1 seoi2, pun4 zoi1 hou2 jung4 ji6 diu1 ze6",
+      "meaning": "If you don’t water it, the potted plant will wilt easily.",
+      "sourceWordId": "diu1ze6-wilt-fade",
+      "sourceWord": "凋謝",
+      "sourceWordJyutping": "diu1 ze6",
+      "sourceWordMeaning": "wilt; fade",
+      "tags": [
+        "plants",
+        "gardening",
+        "level-1",
+        "plant-condition",
+        "wilt",
+        "fade",
+        "nature",
+        "vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu1ze6-wilt-fade.json"
+    },
+    {
+      "sentenceId": "diu1ze6-wilt-fade-example-4",
+      "sentence": "青春好似花一樣，轉眼間就會凋謝。",
+      "jyutping": "cing1 ceon1 hou2 ci5 faa1 jat1 joeng6, zyun2 ngaan5 gaan1 zau6 wui5 diu1 ze6",
+      "meaning": "Youth is like a flower; it can fade in the blink of an eye.",
+      "sourceWordId": "diu1ze6-wilt-fade",
+      "sourceWord": "凋謝",
+      "sourceWordJyutping": "diu1 ze6",
+      "sourceWordMeaning": "wilt; fade",
+      "tags": [
+        "plants",
+        "gardening",
+        "level-1",
+        "plant-condition",
+        "wilt",
+        "fade",
+        "nature",
+        "vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/diu1ze6-wilt-fade.json"
+    },
+    {
+      "sentenceId": "jim1jim1jat1sik1-barely-alive-example-1",
+      "sentence": "呢棵玫瑰俾人忘記咗澆水，依家睇落奄奄一息。",
+      "jyutping": "ni1 to5 mui4 gwai3 bei2 jan4 mong4 gei3 zo2 gaau1 seoi2, ji1 gaa3 tai2 lok6 jim1 jim1 jat1 sik1.",
+      "meaning": "The rose was forgotten and not watered; now it looks barely alive.",
+      "sourceWordId": "jim1jim1jat1sik1-barely-alive",
+      "sourceWord": "奄奄一息",
+      "sourceWordJyutping": "jim1 jim1 jat1 sik1",
+      "sourceWordMeaning": "barely alive",
+      "tags": [
+        "plants-gardening",
+        "plant conditions",
+        "extreme weakness",
+        "serious condition",
+        "descriptive idiom",
+        "written Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jim1jim1jat1sik1-barely-alive.json"
+    },
+    {
+      "sentenceId": "jim1jim1jat1sik1-barely-alive-example-2",
+      "sentence": "落咗幾日大雨之後，盆仙人掌已經奄奄一息。",
+      "jyutping": "lok6 zo2 gei2 jat6 daai6 jyu5 zi1 hau6, pun4 sin1 jan4 zoeng2 ji5 ging1 jim1 jim1 jat1 sik1.",
+      "meaning": "After several days of heavy rain, the potted cactus is barely alive.",
+      "sourceWordId": "jim1jim1jat1sik1-barely-alive",
+      "sourceWord": "奄奄一息",
+      "sourceWordJyutping": "jim1 jim1 jat1 sik1",
+      "sourceWordMeaning": "barely alive",
+      "tags": [
+        "plants-gardening",
+        "plant conditions",
+        "extreme weakness",
+        "serious condition",
+        "descriptive idiom",
+        "written Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jim1jim1jat1sik1-barely-alive.json"
+    },
+    {
+      "sentenceId": "jim1jim1jat1sik1-barely-alive-example-3",
+      "sentence": "嗰隻流浪貓俾人救返嚟嗰陣，已經奄奄一息。",
+      "jyutping": "go2 zek3 lau4 long6 maau1 bei2 jan4 gau3 faan1 lai4 go2 zan6, ji5 ging1 jim1 jim1 jat1 sik1.",
+      "meaning": "When that stray cat was rescued, it was already barely alive.",
+      "sourceWordId": "jim1jim1jat1sik1-barely-alive",
+      "sourceWord": "奄奄一息",
+      "sourceWordJyutping": "jim1 jim1 jat1 sik1",
+      "sourceWordMeaning": "barely alive",
+      "tags": [
+        "plants-gardening",
+        "plant conditions",
+        "extreme weakness",
+        "serious condition",
+        "descriptive idiom",
+        "written Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jim1jim1jat1sik1-barely-alive.json"
+    },
+    {
+      "sentenceId": "jim1jim1jat1sik1-barely-alive-example-4",
+      "sentence": "佢成晚冇瞓，返工嗰陣成個人都奄奄一息。",
+      "jyutping": "keoi5 sing4 maan5 mou5 fan3, faan1 gung1 go2 zan6 sing4 go3 jan4 dou1 jim1 jim1 jat1 sik1.",
+      "meaning": "He didn’t sleep all night and was utterly exhausted at work.",
+      "sourceWordId": "jim1jim1jat1sik1-barely-alive",
+      "sourceWord": "奄奄一息",
+      "sourceWordJyutping": "jim1 jim1 jat1 sik1",
+      "sourceWordMeaning": "barely alive",
+      "tags": [
+        "plants-gardening",
+        "plant conditions",
+        "extreme weakness",
+        "serious condition",
+        "descriptive idiom",
+        "written Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jim1jim1jat1sik1-barely-alive.json"
+    },
+    {
+      "sentenceId": "gin6hong1-healthy-example-1",
+      "sentence": "呢棵盆栽睇落好健康。",
+      "jyutping": "ni1 fo2 pun4 zoi1 tai2 lok6 hou2 gin6 hong1",
+      "meaning": "This potted plant looks very healthy.",
+      "sourceWordId": "gin6hong1-healthy",
+      "sourceWord": "健康",
+      "sourceWordJyutping": "gin6 hong1",
+      "sourceWordMeaning": "healthy",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
+    },
+    {
+      "sentenceId": "gin6hong1-healthy-example-2",
+      "sentence": "如果土壤夠濕，植物會更加健康。",
+      "jyutping": "jyu4 gwo2 tou2 joeng5 gau3 sap1, zik6 mou6 wui5 gang3 gaa1 gin6 hong1",
+      "meaning": "If the soil is moist enough, the plant will be healthier.",
+      "sourceWordId": "gin6hong1-healthy",
+      "sourceWord": "健康",
+      "sourceWordJyutping": "gin6 hong1",
+      "sourceWordMeaning": "healthy",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
+    },
+    {
+      "sentenceId": "gin6hong1-healthy-example-3",
+      "sentence": "我想買啲健康嘅花返屋企。",
+      "jyutping": "ngo5 soeng2 maai5 di1 gin6 hong1 ge3 faa1 faan1 uk1 hei2",
+      "meaning": "I want to buy some healthy flowers to bring home.",
+      "sourceWordId": "gin6hong1-healthy",
+      "sourceWord": "健康",
+      "sourceWordJyutping": "gin6 hong1",
+      "sourceWordMeaning": "healthy",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
+    },
+    {
+      "sentenceId": "gin6hong1-healthy-example-4",
+      "sentence": "定期施肥可以令植物保持健康。",
+      "jyutping": "ding6 kei4 si1 fei4 ho2 ji5 ling6 zik6 mou6 bou2 ci4 gin6 hong1",
+      "meaning": "Regular fertilising can help plants stay healthy.",
+      "sourceWordId": "gin6hong1-healthy",
+      "sourceWord": "健康",
+      "sourceWordJyutping": "gin6 hong1",
+      "sourceWordMeaning": "healthy",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
+    },
+    {
+      "sentenceId": "zong3-strong-vigorous-example-1",
+      "sentence": "呢棵玫瑰生得好壯。",
+      "jyutping": "ni1 hok3 mui4 gwai3 sang1 dak1 hou2 zong3.",
+      "meaning": "This rose is growing very vigorously.",
+      "sourceWordId": "zong3-strong-vigorous",
+      "sourceWord": "壯",
+      "sourceWordJyutping": "zong3",
+      "sourceWordMeaning": "strong; vigorous",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant condition",
+        "basic adjective",
+        "describing growth",
+        "healthy plants",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zong3-strong-vigorous.json"
+    },
+    {
+      "sentenceId": "zong3-strong-vigorous-example-2",
+      "sentence": "啲菜苗今日睇落幾壯。",
+      "jyutping": "di1 coi3 miu4 gam1 jat6 tai2 lok6 gei2 zong3.",
+      "meaning": "The vegetable seedlings look quite healthy today.",
+      "sourceWordId": "zong3-strong-vigorous",
+      "sourceWord": "壯",
+      "sourceWordJyutping": "zong3",
+      "sourceWordMeaning": "strong; vigorous",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant condition",
+        "basic adjective",
+        "describing growth",
+        "healthy plants",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zong3-strong-vigorous.json"
+    },
+    {
+      "sentenceId": "zong3-strong-vigorous-example-3",
+      "sentence": "佢啲蘭花開完之後都仲好壯。",
+      "jyutping": "keoi5 di1 laan4 faa1 hoi1 jyun4 zi1 hau6 dou1 zung6 hou2 zong3.",
+      "meaning": "His orchids are still in good shape after blooming.",
+      "sourceWordId": "zong3-strong-vigorous",
+      "sourceWord": "壯",
+      "sourceWordJyutping": "zong3",
+      "sourceWordMeaning": "strong; vigorous",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant condition",
+        "basic adjective",
+        "describing growth",
+        "healthy plants",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zong3-strong-vigorous.json"
+    },
+    {
+      "sentenceId": "zong3-strong-vigorous-example-4",
+      "sentence": "落咗肥之後，棵樹即刻壯咗。",
+      "jyutping": "lok6 zo2 fei4 zi1 hau6, po1 syu6 zik1 haak3 zong3 zo2.",
+      "meaning": "After fertilizing, the tree became stronger right away.",
+      "sourceWordId": "zong3-strong-vigorous",
+      "sourceWord": "壯",
+      "sourceWordJyutping": "zong3",
+      "sourceWordMeaning": "strong; vigorous",
+      "tags": [
+        "plants",
+        "gardening",
+        "plant condition",
+        "basic adjective",
+        "describing growth",
+        "healthy plants",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zong3-strong-vigorous.json"
+    },
+    {
+      "sentenceId": "faa1pun4-flowerpot-example-1",
+      "sentence": "我想買個新花盆種多肉。",
+      "jyutping": "ngo5 soeng2 maai5 go3 san1 faa1 pun4 zung2 do1 juk6.",
+      "meaning": "I want to buy a new flowerpot for succulents.",
+      "sourceWordId": "faa1pun4-flowerpot",
+      "sourceWord": "花盆",
+      "sourceWordJyutping": "faa1 pun4",
+      "sourceWordMeaning": "flowerpot",
+      "tags": [
+        "gardening",
+        "plant container",
+        "home gardening",
+        "basic noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1pun4-flowerpot.json"
+    },
+    {
+      "sentenceId": "faa1pun4-flowerpot-example-2",
+      "sentence": "呢個花盆太細，唔夠位。",
+      "jyutping": "ni1 go3 faa1 pun4 taai3 sai3, m4 gau3 wai2.",
+      "meaning": "This flowerpot is too small; there isn’t enough space.",
+      "sourceWordId": "faa1pun4-flowerpot",
+      "sourceWord": "花盆",
+      "sourceWordJyutping": "faa1 pun4",
+      "sourceWordMeaning": "flowerpot",
+      "tags": [
+        "gardening",
+        "plant container",
+        "home gardening",
+        "basic noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1pun4-flowerpot.json"
+    },
+    {
+      "sentenceId": "faa1pun4-flowerpot-example-3",
+      "sentence": "佢將啲蘭花放喺窗邊個花盆度。",
+      "jyutping": "keoi5 zoeng1 di1 laan4 faa1 fong3 hai2 coeng1 bin1 go3 faa1 pun4 dou6.",
+      "meaning": "He put the orchids in the flowerpot by the window.",
+      "sourceWordId": "faa1pun4-flowerpot",
+      "sourceWord": "花盆",
+      "sourceWordJyutping": "faa1 pun4",
+      "sourceWordMeaning": "flowerpot",
+      "tags": [
+        "gardening",
+        "plant container",
+        "home gardening",
+        "basic noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1pun4-flowerpot.json"
+    },
+    {
+      "sentenceId": "faa1pun4-flowerpot-example-4",
+      "sentence": "落完雨之後，花盆入面有好多水。",
+      "jyutping": "lok6 jyun4 jyu5 zi1 hau6, faa1 pun4 jap6 min6 jau5 hou2 do1 seoi2.",
+      "meaning": "After the rain, there was a lot of water in the flowerpot.",
+      "sourceWordId": "faa1pun4-flowerpot",
+      "sourceWord": "花盆",
+      "sourceWordJyutping": "faa1 pun4",
+      "sourceWordMeaning": "flowerpot",
+      "tags": [
+        "gardening",
+        "plant container",
+        "home gardening",
+        "basic noun",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faa1pun4-flowerpot.json"
+    },
+    {
+      "sentenceId": "tou2joeng6-soil-example-1",
+      "sentence": "呢盆花要換土壤先會長得好。",
+      "jyutping": "ni1 bun2 faa1 jiu3 wun6 tou2 joeng6 sin1 wui5 zoeng2 dak1 hou2.",
+      "meaning": "This potted flower needs new soil to grow well.",
+      "sourceWordId": "tou2joeng6-soil",
+      "sourceWord": "土壤",
+      "sourceWordJyutping": "tou2 joeng6",
+      "sourceWordMeaning": "soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "nature",
+        "basic noun",
+        "home gardening",
+        "soil",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2joeng6-soil.json"
+    },
+    {
+      "sentenceId": "tou2joeng6-soil-example-2",
+      "sentence": "種菜之前，要先整鬆啲土壤。",
+      "jyutping": "zung2 coi3 zi1 cin4, jiu3 sin1 zing2 sung1 di1 tou2 joeng6.",
+      "meaning": "Before planting vegetables, loosen the soil first.",
+      "sourceWordId": "tou2joeng6-soil",
+      "sourceWord": "土壤",
+      "sourceWordJyutping": "tou2 joeng6",
+      "sourceWordMeaning": "soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "nature",
+        "basic noun",
+        "home gardening",
+        "soil",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2joeng6-soil.json"
+    },
+    {
+      "sentenceId": "tou2joeng6-soil-example-3",
+      "sentence": "呢度嘅土壤好肥沃，好適合種樹。",
+      "jyutping": "ni1 dou6 ge3 tou2 joeng6 hou2 fei4 juk1, hou2 sik1 hap6 zung2 syu6.",
+      "meaning": "The soil here is very fertile and suitable for planting trees.",
+      "sourceWordId": "tou2joeng6-soil",
+      "sourceWord": "土壤",
+      "sourceWordJyutping": "tou2 joeng6",
+      "sourceWordMeaning": "soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "nature",
+        "basic noun",
+        "home gardening",
+        "soil",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2joeng6-soil.json"
+    },
+    {
+      "sentenceId": "tou2joeng6-soil-example-4",
+      "sentence": "落雨之後，土壤會濕晒。",
+      "jyutping": "lok6 jyu5 zi1 hau6, tou2 joeng6 wui5 sap1 saai3.",
+      "meaning": "After rain, the soil becomes completely wet.",
+      "sourceWordId": "tou2joeng6-soil",
+      "sourceWord": "土壤",
+      "sourceWordJyutping": "tou2 joeng6",
+      "sourceWordMeaning": "soil",
+      "tags": [
+        "gardening",
+        "plants",
+        "nature",
+        "basic noun",
+        "home gardening",
+        "soil",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tou2joeng6-soil.json"
+    },
+    {
+      "sentenceId": "fei4liu6-fertilizer-example-1",
+      "sentence": "我今日去花墟買咗包肥料。",
+      "jyutping": "ngo5 gam1 jat6 heoi3 faa1 heoi1 maai5 zo2 baau1 fei4 liu6.",
+      "meaning": "I went to the flower market today and bought a bag of fertilizer.",
+      "sourceWordId": "fei4liu6-fertilizer",
+      "sourceWord": "肥料",
+      "sourceWordJyutping": "fei4 liu6",
+      "sourceWordMeaning": "fertilizer",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil care",
+        "houseplants",
+        "beginner",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fei4liu6-fertilizer.json"
+    },
+    {
+      "sentenceId": "fei4liu6-fertilizer-example-2",
+      "sentence": "呢盆植物要加少少肥料。",
+      "jyutping": "ni1 pun4 zik6 mat6 jiu3 gaa1 siu2 siu2 fei4 liu6.",
+      "meaning": "This plant needs a little fertilizer.",
+      "sourceWordId": "fei4liu6-fertilizer",
+      "sourceWord": "肥料",
+      "sourceWordJyutping": "fei4 liu6",
+      "sourceWordMeaning": "fertilizer",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil care",
+        "houseplants",
+        "beginner",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fei4liu6-fertilizer.json"
+    },
+    {
+      "sentenceId": "fei4liu6-fertilizer-example-3",
+      "sentence": "阿媽叫我幫佢淋肥料。",
+      "jyutping": "aa3 maa1 giu3 ngo5 bong1 keoi5 lam4 fei4 liu6.",
+      "meaning": "My mom asked me to water in the fertilizer for her.",
+      "sourceWordId": "fei4liu6-fertilizer",
+      "sourceWord": "肥料",
+      "sourceWordJyutping": "fei4 liu6",
+      "sourceWordMeaning": "fertilizer",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil care",
+        "houseplants",
+        "beginner",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fei4liu6-fertilizer.json"
+    },
+    {
+      "sentenceId": "fei4liu6-fertilizer-example-4",
+      "sentence": "落太多肥料會傷到棵菜。",
+      "jyutping": "lok6 taai3 do1 fei4 liu6 wui5 soeng1 dou3 po1 coi3.",
+      "meaning": "Using too much fertilizer can damage the vegetables.",
+      "sourceWordId": "fei4liu6-fertilizer",
+      "sourceWord": "肥料",
+      "sourceWordJyutping": "fei4 liu6",
+      "sourceWordMeaning": "fertilizer",
+      "tags": [
+        "gardening",
+        "plants",
+        "soil care",
+        "houseplants",
+        "beginner",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fei4liu6-fertilizer.json"
+    },
+    {
+      "sentenceId": "zin2dou1-shears-example-1",
+      "sentence": "佢喺花園用剪刀修剪枝葉。",
+      "jyutping": "keoi5 hai2 faa1 jyun4 jung6 zin2 dou1 sau1 zin2 zi1 jip6.",
+      "meaning": "He/She uses shears to trim the branches and leaves in the garden.",
+      "sourceWordId": "zin2dou1-shears",
+      "sourceWord": "剪刀",
+      "sourceWordJyutping": "zin2 dou1",
+      "sourceWordMeaning": "shears",
+      "tags": [
+        "basic noun",
+        "gardening",
+        "tool",
+        "everyday vocabulary",
+        "learners' word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2dou1-shears.json"
+    },
+    {
+      "sentenceId": "zin2dou1-shears-example-2",
+      "sentence": "請借把剪刀俾我。",
+      "jyutping": "cing2 ze2 baa2 zin2 dou1 bei2 ngo5.",
+      "meaning": "Please lend me a pair of scissors.",
+      "sourceWordId": "zin2dou1-shears",
+      "sourceWord": "剪刀",
+      "sourceWordJyutping": "zin2 dou1",
+      "sourceWordMeaning": "shears",
+      "tags": [
+        "basic noun",
+        "gardening",
+        "tool",
+        "everyday vocabulary",
+        "learners' word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2dou1-shears.json"
+    },
+    {
+      "sentenceId": "zin2dou1-shears-example-3",
+      "sentence": "媽媽用剪刀剪開包裝。",
+      "jyutping": "maa1 maa1 jung6 zin2 dou1 zin2 hoi1 baau1 zong1.",
+      "meaning": "Mum uses scissors to cut open the packaging.",
+      "sourceWordId": "zin2dou1-shears",
+      "sourceWord": "剪刀",
+      "sourceWordJyutping": "zin2 dou1",
+      "sourceWordMeaning": "shears",
+      "tags": [
+        "basic noun",
+        "gardening",
+        "tool",
+        "everyday vocabulary",
+        "learners' word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2dou1-shears.json"
+    },
+    {
+      "sentenceId": "zin2dou1-shears-example-4",
+      "sentence": "園丁每日都會帶剪刀。",
+      "jyutping": "jyun4 ding1 mui5 jat6 dou1 wui5 daai3 zin2 dou1.",
+      "meaning": "The gardener brings shears every day.",
+      "sourceWordId": "zin2dou1-shears",
+      "sourceWord": "剪刀",
+      "sourceWordJyutping": "zin2 dou1",
+      "sourceWordMeaning": "shears",
+      "tags": [
+        "basic noun",
+        "gardening",
+        "tool",
+        "everyday vocabulary",
+        "learners' word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zin2dou1-shears.json"
+    },
+    {
+      "sentenceId": "seoi2wu4-watering-can-example-1",
+      "sentence": "請你拎個水壺嚟淋花。",
+      "jyutping": "cing2 nei5 ling1 go3 seoi2 wu4 lai4 jam1 faa1",
+      "meaning": "Please bring the watering can to water the flowers.",
+      "sourceWordId": "seoi2wu4-watering-can",
+      "sourceWord": "水壺",
+      "sourceWordJyutping": "seoi2 wu4",
+      "sourceWordMeaning": "watering can",
+      "tags": [
+        "gardening",
+        "plants",
+        "home",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2wu4-watering-can.json"
+    },
+    {
+      "sentenceId": "seoi2wu4-watering-can-example-2",
+      "sentence": "呢個水壺太細，淋唔到後面嗰盆植物。",
+      "jyutping": "ni1 go3 seoi2 wu4 taai3 sai3, jam1 m4 dou2 hau6 min6 go2 pun4 zing3 mat6",
+      "meaning": "This watering can is too small; it can't water the plant at the back.",
+      "sourceWordId": "seoi2wu4-watering-can",
+      "sourceWord": "水壺",
+      "sourceWordJyutping": "seoi2 wu4",
+      "sourceWordMeaning": "watering can",
+      "tags": [
+        "gardening",
+        "plants",
+        "home",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2wu4-watering-can.json"
+    },
+    {
+      "sentenceId": "seoi2wu4-watering-can-example-3",
+      "sentence": "屋企陽台種咗幾盆草，我買咗個新水壺。",
+      "jyutping": "uk1 kei2 joeng4 toi4 cung3 zo2 gei2 pun4 cou2, ngo5 maai5 zo2 go3 san1 seoi2 wu4",
+      "meaning": "There are a few pots of plants on the balcony, so I bought a new watering can.",
+      "sourceWordId": "seoi2wu4-watering-can",
+      "sourceWord": "水壺",
+      "sourceWordJyutping": "seoi2 wu4",
+      "sourceWordMeaning": "watering can",
+      "tags": [
+        "gardening",
+        "plants",
+        "home",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2wu4-watering-can.json"
+    },
+    {
+      "sentenceId": "seoi2wu4-watering-can-example-4",
+      "sentence": "你可唔可以幫我裝滿個水壺？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 zong1 mun5 go3 seoi2 wu4",
+      "meaning": "Can you help me fill up the watering can?",
+      "sourceWordId": "seoi2wu4-watering-can",
+      "sourceWord": "水壺",
+      "sourceWordJyutping": "seoi2 wu4",
+      "sourceWordMeaning": "watering can",
+      "tags": [
+        "gardening",
+        "plants",
+        "home",
+        "basic noun",
+        "everyday vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/seoi2wu4-watering-can.json"
+    }
+  ],
+  "missingWordFiles": []
+}

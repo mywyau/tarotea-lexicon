@@ -1,0 +1,65 @@
+{
+  "id": "maa5-horse",
+  "word": "馬",
+  "jyutping": "maa5",
+  "meaning": "horse",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "- Common noun for a horse; in Cantonese, 馬 is used for the animal in general, not just a riding horse.",
+    "- It can appear in everyday compounds and set phrases, such as related words for horse breeds, horse-riding, and horse racing.",
+    "- As a countable noun, it can be used with classifiers when you want to mention one or more horses.",
+    "- In spoken Hong Kong Cantonese, 馬 is neutral and straightforward; for a more specific meaning in context, people may add extra words around it."
+  ],
+  "examples": [
+    {
+      "id": "maa5-horse-example-1",
+      "sentence": "我細個好鍾意睇馬。",
+      "jyutping": "ngo5 sai3 go3 hou2 zung1 ji3 tai2 maa5.",
+      "meaning": "I liked watching horses when I was little."
+    },
+    {
+      "id": "maa5-horse-example-2",
+      "sentence": "農場入面有一匹馬。",
+      "jyutping": "nung4 coeng4 jap6 min6 jau5 jat1 pat1 maa5.",
+      "meaning": "There is one horse on the farm."
+    },
+    {
+      "id": "maa5-horse-example-3",
+      "sentence": "佢每日都會去餵馬。",
+      "jyutping": "keoi5 mui5 jat6 dou1 wui5 heoi3 wai3 maa5.",
+      "meaning": "He/She feeds the horse every day."
+    },
+    {
+      "id": "maa5-horse-example-4",
+      "sentence": "呢隻馬跑得好快。",
+      "jyutping": "ni1 zek3 maa5 paau2 dak1 hou2 faai3.",
+      "meaning": "This horse runs very fast."
+    }
+  ],
+  "audio": {
+    "word": "maa5-horse.mp3",
+    "examples": [
+      "maa5-horse-example-1.mp3",
+      "maa5-horse-example-2.mp3",
+      "maa5-horse-example-3.mp3",
+      "maa5-horse-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animals",
+    "farm animals",
+    "basic vocabulary",
+    "noun",
+    "level 1",
+    "common word",
+    "level-1"
+  ],
+  "related": [
+    "騎馬",
+    "馬房",
+    "馬匹",
+    "賽馬"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gai1-chicken",
+  "word": "雞",
+  "jyutping": "gai1",
+  "meaning": "chicken",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Use 雞 as a general noun for a chicken; it is a common, everyday word and very neutral in register.",
+    "In Cantonese, 雞 is often used in compounds and fixed phrases, especially for food, farm animals, and parts of the bird.",
+    "Because it is a countable noun, you normally use a measure word like 一隻雞 when talking about one chicken.",
+    "Learners should notice that 雞 can refer to the animal itself, not just cooked chicken, so context matters."
+  ],
+  "examples": [
+    {
+      "id": "gai1-chicken-example-1",
+      "sentence": "呢隻雞好大隻。",
+      "jyutping": "ni1 zek3 gai1 hou2 daai6 zek3.",
+      "meaning": "This chicken is very big."
+    },
+    {
+      "id": "gai1-chicken-example-2",
+      "sentence": "農場入面有好多雞。",
+      "jyutping": "nung4 coeng4 jap6 min6 jau5 hou2 do1 gai1.",
+      "meaning": "There are many chickens on the farm."
+    },
+    {
+      "id": "gai1-chicken-example-3",
+      "sentence": "我哋今晚食白切雞。",
+      "jyutping": "ngo5 dei6 gam1 maan5 sik6 baak6 cit3 gai1.",
+      "meaning": "We’re eating poached chicken tonight."
+    },
+    {
+      "id": "gai1-chicken-example-4",
+      "sentence": "隻雞喺雞舍裡面瞓緊。",
+      "jyutping": "zek3 gai1 hai2 gai1 se2 leoi5 min6 fan3 gan2.",
+      "meaning": "The chicken is sleeping in the coop."
+    }
+  ],
+  "audio": {
+    "word": "gai1-chicken.mp3",
+    "examples": [
+      "gai1-chicken-example-1.mp3",
+      "gai1-chicken-example-2.mp3",
+      "gai1-chicken-example-3.mp3",
+      "gai1-chicken-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animal noun",
+    "farm animal",
+    "basic vocabulary",
+    "countable noun",
+    "everyday Cantonese",
+    "level-1"
+  ],
+  "related": [
+    "雞蛋",
+    "雞翼",
+    "公雞",
+    "母雞",
+    "雞舍"
+  ]
+}

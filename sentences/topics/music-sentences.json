@@ -1,0 +1,5929 @@
+{
+  "topic": "music",
+  "title": "Music",
+  "totalWords": 74,
+  "totalSentences": 296,
+  "items": [
+    {
+      "sentenceId": "jam1ngok6-music-example-1",
+      "sentence": "我好鍾意聽音樂。",
+      "jyutping": "ngo5 hou2 zung1ji3 teng1 jam1 ngok6.",
+      "meaning": "I really like listening to music.",
+      "sourceWordId": "jam1ngok6-music",
+      "sourceWord": "音樂",
+      "sourceWordJyutping": "jam1 ngok6",
+      "sourceWordMeaning": "music",
+      "tags": [
+        "music",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6-music.json"
+    },
+    {
+      "sentenceId": "jam1ngok6-music-example-2",
+      "sentence": "佢成日喺車上面播音樂。",
+      "jyutping": "keoi5 sing4 jat6 hai2 ce1 soeng6 min6 bo3 jam1 ngok6.",
+      "meaning": "He/She often plays music in the car.",
+      "sourceWordId": "jam1ngok6-music",
+      "sourceWord": "音樂",
+      "sourceWordJyutping": "jam1 ngok6",
+      "sourceWordMeaning": "music",
+      "tags": [
+        "music",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6-music.json"
+    },
+    {
+      "sentenceId": "jam1ngok6-music-example-3",
+      "sentence": "呢間學校有好多音樂課。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 hou2 do1 jam1 ngok6 fo3.",
+      "meaning": "This school has a lot of music classes.",
+      "sourceWordId": "jam1ngok6-music",
+      "sourceWord": "音樂",
+      "sourceWordJyutping": "jam1 ngok6",
+      "sourceWordMeaning": "music",
+      "tags": [
+        "music",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6-music.json"
+    },
+    {
+      "sentenceId": "jam1ngok6-music-example-4",
+      "sentence": "呢首歌嘅音樂好柔和。",
+      "jyutping": "ni1 sau2 go1 ge3 jam1 ngok6 hou2 jau4 wo4.",
+      "meaning": "The music of this song is very gentle.",
+      "sourceWordId": "jam1ngok6-music",
+      "sourceWord": "音樂",
+      "sourceWordJyutping": "jam1 ngok6",
+      "sourceWordMeaning": "music",
+      "tags": [
+        "music",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6-music.json"
+    },
+    {
+      "sentenceId": "go1-song-example-1",
+      "sentence": "呢首歌好好聽。",
+      "jyutping": "ni1 zau2 go1 hou2 hou2 teng1.",
+      "meaning": "This song sounds really good.",
+      "sourceWordId": "go1-song",
+      "sourceWord": "歌",
+      "sourceWordJyutping": "go1",
+      "sourceWordMeaning": "song",
+      "tags": [
+        "music",
+        "song",
+        "noun",
+        "everyday Cantonese",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1-song.json"
+    },
+    {
+      "sentenceId": "go1-song-example-2",
+      "sentence": "我鍾意聽廣東歌。",
+      "jyutping": "ngo5 zung1 ji3 teng1 gwong2 dung1 go1.",
+      "meaning": "I like listening to Cantonese songs.",
+      "sourceWordId": "go1-song",
+      "sourceWord": "歌",
+      "sourceWordJyutping": "go1",
+      "sourceWordMeaning": "song",
+      "tags": [
+        "music",
+        "song",
+        "noun",
+        "everyday Cantonese",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1-song.json"
+    },
+    {
+      "sentenceId": "go1-song-example-3",
+      "sentence": "佢成日喺屋企唱歌。",
+      "jyutping": "keoi5 sing4 jat6 hai2 uk1 kei2 coeng3 go1.",
+      "meaning": "He/She often sings at home.",
+      "sourceWordId": "go1-song",
+      "sourceWord": "歌",
+      "sourceWordJyutping": "go1",
+      "sourceWordMeaning": "song",
+      "tags": [
+        "music",
+        "song",
+        "noun",
+        "everyday Cantonese",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1-song.json"
+    },
+    {
+      "sentenceId": "go1-song-example-4",
+      "sentence": "你有冇呢首歌嘅歌詞？",
+      "jyutping": "nei5 jau5 mou5 ni1 zau2 go1 ge3 go1 ci4?",
+      "meaning": "Do you have the lyrics for this song?",
+      "sourceWordId": "go1-song",
+      "sourceWord": "歌",
+      "sourceWordJyutping": "go1",
+      "sourceWordMeaning": "song",
+      "tags": [
+        "music",
+        "song",
+        "noun",
+        "everyday Cantonese",
+        "beginner",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1-song.json"
+    },
+    {
+      "sentenceId": "go1kuk1-musical-piece-example-1",
+      "sentence": "呢首歌曲好好聽。",
+      "jyutping": "ni1 zau2 go1 kuk1 hou2 hou2 teng1.",
+      "meaning": "This song sounds very nice.",
+      "sourceWordId": "go1kuk1-musical-piece",
+      "sourceWord": "歌曲",
+      "sourceWordJyutping": "go1 kuk1",
+      "sourceWordMeaning": "musical piece",
+      "tags": [
+        "music",
+        "noun",
+        "formal",
+        "song",
+        "countable",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1kuk1-musical-piece.json"
+    },
+    {
+      "sentenceId": "go1kuk1-musical-piece-example-2",
+      "sentence": "佢寫咗一首歌曲。",
+      "jyutping": "keoi5 se2 zo2 jat1 sau2 go1 kuk1.",
+      "meaning": "He/She wrote a song.",
+      "sourceWordId": "go1kuk1-musical-piece",
+      "sourceWord": "歌曲",
+      "sourceWordJyutping": "go1 kuk1",
+      "sourceWordMeaning": "musical piece",
+      "tags": [
+        "music",
+        "noun",
+        "formal",
+        "song",
+        "countable",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1kuk1-musical-piece.json"
+    },
+    {
+      "sentenceId": "go1kuk1-musical-piece-example-3",
+      "sentence": "我鍾意聽舊歌曲。",
+      "jyutping": "ngo5 zung1 ji3 teng1 gau6 go1 kuk1.",
+      "meaning": "I like listening to old songs.",
+      "sourceWordId": "go1kuk1-musical-piece",
+      "sourceWord": "歌曲",
+      "sourceWordJyutping": "go1 kuk1",
+      "sourceWordMeaning": "musical piece",
+      "tags": [
+        "music",
+        "noun",
+        "formal",
+        "song",
+        "countable",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1kuk1-musical-piece.json"
+    },
+    {
+      "sentenceId": "go1kuk1-musical-piece-example-4",
+      "sentence": "呢張專輯入面有好多歌曲。",
+      "jyutping": "ni1 zoeng1 zyun1 zaap6 jap6 min6 jau5 hou2 do1 go1 kuk1.",
+      "meaning": "There are many songs in this album.",
+      "sourceWordId": "go1kuk1-musical-piece",
+      "sourceWord": "歌曲",
+      "sourceWordJyutping": "go1 kuk1",
+      "sourceWordMeaning": "musical piece",
+      "tags": [
+        "music",
+        "noun",
+        "formal",
+        "song",
+        "countable",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1kuk1-musical-piece.json"
+    },
+    {
+      "sentenceId": "syun4leot6-melody-example-1",
+      "sentence": "呢首歌嘅旋律好易上口。",
+      "jyutping": "ni1 sou2 go1 ge3 syun4 leot6 hou2 ji6 soeng5 hau2",
+      "meaning": "The melody of this song is really catchy.",
+      "sourceWordId": "syun4leot6-melody",
+      "sourceWord": "旋律",
+      "sourceWordJyutping": "syun4 leot6",
+      "sourceWordMeaning": "melody",
+      "tags": [
+        "music",
+        "melody",
+        "song",
+        "composition",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun4leot6-melody.json"
+    },
+    {
+      "sentenceId": "syun4leot6-melody-example-2",
+      "sentence": "我一聽就記得個旋律。",
+      "jyutping": "ngo5 jat1 ting3 zau6 gei3 dak1 go3 syun4 leot6",
+      "meaning": "I remembered the melody as soon as I heard it.",
+      "sourceWordId": "syun4leot6-melody",
+      "sourceWord": "旋律",
+      "sourceWordJyutping": "syun4 leot6",
+      "sourceWordMeaning": "melody",
+      "tags": [
+        "music",
+        "melody",
+        "song",
+        "composition",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun4leot6-melody.json"
+    },
+    {
+      "sentenceId": "syun4leot6-melody-example-3",
+      "sentence": "作曲最難通常係寫好個旋律。",
+      "jyutping": "zok3 kuk1 zeoi3 naan4 tung4 soeng4 hai6 se2 hou2 go3 syun4 leot6",
+      "meaning": "The hardest part of composing is usually writing a good melody.",
+      "sourceWordId": "syun4leot6-melody",
+      "sourceWord": "旋律",
+      "sourceWordJyutping": "syun4 leot6",
+      "sourceWordMeaning": "melody",
+      "tags": [
+        "music",
+        "melody",
+        "song",
+        "composition",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun4leot6-melody.json"
+    },
+    {
+      "sentenceId": "syun4leot6-melody-example-4",
+      "sentence": "佢哼咗幾次，我先估到首歌嘅旋律。",
+      "jyutping": "keoi5 hang1 zo2 gei2 ci3 ngo5 sin1 gu2 dou3 sau2 go1 ge3 syun4 leot6",
+      "meaning": "He hummed it a few times before I could figure out the song’s melody.",
+      "sourceWordId": "syun4leot6-melody",
+      "sourceWord": "旋律",
+      "sourceWordJyutping": "syun4 leot6",
+      "sourceWordMeaning": "melody",
+      "tags": [
+        "music",
+        "melody",
+        "song",
+        "composition",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syun4leot6-melody.json"
+    },
+    {
+      "sentenceId": "zit3zau3-rhythm-example-1",
+      "sentence": "呢首歌嘅節奏好輕快。",
+      "jyutping": "ni1 sau2 go1 ge3 zit3 zau3 hou2 hing1 faai3.",
+      "meaning": "The rhythm of this song is very lively.",
+      "sourceWordId": "zit3zau3-rhythm",
+      "sourceWord": "節奏",
+      "sourceWordJyutping": "zit3 zau3",
+      "sourceWordMeaning": "rhythm",
+      "tags": [
+        "music",
+        "rhythm",
+        "beat",
+        "drumming",
+        "song",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zit3zau3-rhythm.json"
+    },
+    {
+      "sentenceId": "zit3zau3-rhythm-example-2",
+      "sentence": "你要跟住節奏拍手。",
+      "jyutping": "nei5 jiu3 gan1 zyu6 zit3 zau3 paak3 sau2.",
+      "meaning": "You need to clap along with the rhythm.",
+      "sourceWordId": "zit3zau3-rhythm",
+      "sourceWord": "節奏",
+      "sourceWordJyutping": "zit3 zau3",
+      "sourceWordMeaning": "rhythm",
+      "tags": [
+        "music",
+        "rhythm",
+        "beat",
+        "drumming",
+        "song",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zit3zau3-rhythm.json"
+    },
+    {
+      "sentenceId": "zit3zau3-rhythm-example-3",
+      "sentence": "鼓手控制到成首歌嘅節奏。",
+      "jyutping": "gu2 sau2 hung3 zoi3 dou2 seng4 sau2 go1 ge3 zit3 zau3.",
+      "meaning": "The drummer controls the rhythm of the whole song.",
+      "sourceWordId": "zit3zau3-rhythm",
+      "sourceWord": "節奏",
+      "sourceWordJyutping": "zit3 zau3",
+      "sourceWordMeaning": "rhythm",
+      "tags": [
+        "music",
+        "rhythm",
+        "beat",
+        "drumming",
+        "song",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zit3zau3-rhythm.json"
+    },
+    {
+      "sentenceId": "zit3zau3-rhythm-example-4",
+      "sentence": "佢講嘢嘅節奏好自然。",
+      "jyutping": "keoi5 gong2 je5 ge3 zit3 zau3 hou2 zi6 jin4.",
+      "meaning": "His/Her way of speaking has a very natural rhythm.",
+      "sourceWordId": "zit3zau3-rhythm",
+      "sourceWord": "節奏",
+      "sourceWordJyutping": "zit3 zau3",
+      "sourceWordMeaning": "rhythm",
+      "tags": [
+        "music",
+        "rhythm",
+        "beat",
+        "drumming",
+        "song",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zit3zau3-rhythm.json"
+    },
+    {
+      "sentenceId": "coeng3pin2-record-example-1",
+      "sentence": "我屋企仲有幾隻舊唱片。",
+      "jyutping": "ngo5 uk1 kei2 zung6 jau5 gei2 zek3 gau6 coeng3 pin2.",
+      "meaning": "I still have a few old records at home.",
+      "sourceWordId": "coeng3pin2-record",
+      "sourceWord": "唱片",
+      "sourceWordJyutping": "coeng3 pin2",
+      "sourceWordMeaning": "record",
+      "tags": [
+        "music",
+        "noun",
+        "vintage",
+        "vinyl",
+        "record",
+        "general vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3pin2-record.json"
+    },
+    {
+      "sentenceId": "coeng3pin2-record-example-2",
+      "sentence": "阿爸最鍾意聽黑膠唱片。",
+      "jyutping": "aa3 baa1 zeoi3 zung1 ji3 teng1 hak1 gaau1 coeng3 pin2.",
+      "meaning": "My dad likes listening to vinyl records the most.",
+      "sourceWordId": "coeng3pin2-record",
+      "sourceWord": "唱片",
+      "sourceWordJyutping": "coeng3 pin2",
+      "sourceWordMeaning": "record",
+      "tags": [
+        "music",
+        "noun",
+        "vintage",
+        "vinyl",
+        "record",
+        "general vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3pin2-record.json"
+    },
+    {
+      "sentenceId": "coeng3pin2-record-example-3",
+      "sentence": "呢隻唱片好耐之前出咗。",
+      "jyutping": "ni1 zek3 coeng3 pin2 hou2 noi6 zi1 cin4 ceot1 zo2.",
+      "meaning": "This record was released a long time ago.",
+      "sourceWordId": "coeng3pin2-record",
+      "sourceWord": "唱片",
+      "sourceWordJyutping": "coeng3 pin2",
+      "sourceWordMeaning": "record",
+      "tags": [
+        "music",
+        "noun",
+        "vintage",
+        "vinyl",
+        "record",
+        "general vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3pin2-record.json"
+    },
+    {
+      "sentenceId": "coeng3pin2-record-example-4",
+      "sentence": "唱片行入面有好多經典歌手嘅作品。",
+      "jyutping": "coeng3 pin2 hong4 jap6 min6 jau5 hou2 do1 ging1 din2 go1 sau2 ge3 zok3 ban2.",
+      "meaning": "The record shop has many classic singers' works.",
+      "sourceWordId": "coeng3pin2-record",
+      "sourceWord": "唱片",
+      "sourceWordJyutping": "coeng3 pin2",
+      "sourceWordMeaning": "record",
+      "tags": [
+        "music",
+        "noun",
+        "vintage",
+        "vinyl",
+        "record",
+        "general vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3pin2-record.json"
+    },
+    {
+      "sentenceId": "coeng3go1-to-sing-example-1",
+      "sentence": "我鍾意唱歌。",
+      "jyutping": "ngo5 zung1 ji3 coeng3 go1.",
+      "meaning": "I like to sing.",
+      "sourceWordId": "coeng3go1-to-sing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "to sing",
+      "tags": [
+        "music",
+        "singing",
+        "everyday",
+        "basic",
+        "verb",
+        "karaoke",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-to-sing.json"
+    },
+    {
+      "sentenceId": "coeng3go1-to-sing-example-2",
+      "sentence": "佢喺卡拉OK唱歌唱得好好聽。",
+      "jyutping": "keoi5 hai2 kaa1 laa1 OK coeng3 go1 coeng3 dak1 hou2 hou2 teng1.",
+      "meaning": "He/she sings very nicely at karaoke.",
+      "sourceWordId": "coeng3go1-to-sing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "to sing",
+      "tags": [
+        "music",
+        "singing",
+        "everyday",
+        "basic",
+        "verb",
+        "karaoke",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-to-sing.json"
+    },
+    {
+      "sentenceId": "coeng3go1-to-sing-example-3",
+      "sentence": "夜晚我哋一齊去唱歌。",
+      "jyutping": "je6 maan5 ngo5 dei6 jat1 cai4 heoi3 coeng3 go1.",
+      "meaning": "At night we go sing together.",
+      "sourceWordId": "coeng3go1-to-sing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "to sing",
+      "tags": [
+        "music",
+        "singing",
+        "everyday",
+        "basic",
+        "verb",
+        "karaoke",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-to-sing.json"
+    },
+    {
+      "sentenceId": "coeng3go1-to-sing-example-4",
+      "sentence": "細路仔喺學校表演唱歌。",
+      "jyutping": "sai3 lou6 zai2 hai2 hok6 haau6 biu2 jin2 coeng3 go1.",
+      "meaning": "The children sing in a school performance.",
+      "sourceWordId": "coeng3go1-to-sing",
+      "sourceWord": "唱歌",
+      "sourceWordJyutping": "coeng3 go1",
+      "sourceWordMeaning": "to sing",
+      "tags": [
+        "music",
+        "singing",
+        "everyday",
+        "basic",
+        "verb",
+        "karaoke",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng3go1-to-sing.json"
+    },
+    {
+      "sentenceId": "go1sau2-singer-example-1",
+      "sentence": "佢係一個好出名嘅歌手。",
+      "jyutping": "keoi5 hai6 jat1 go3 hou2 ceoi1 ming4 ge3 go1 sau2.",
+      "meaning": "He/She is a very famous singer.",
+      "sourceWordId": "go1sau2-singer",
+      "sourceWord": "歌手",
+      "sourceWordJyutping": "go1 sau2",
+      "sourceWordMeaning": "singer",
+      "tags": [
+        "music",
+        "singer",
+        "person",
+        "noun",
+        "performance",
+        "vocabulary_level_1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sau2-singer.json"
+    },
+    {
+      "sentenceId": "go1sau2-singer-example-2",
+      "sentence": "我細個嗰陣已經鍾意聽呢個歌手嘅歌。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 ji5 ging1 zung1 ji3 teng1 ni1 go3 go1 sau2 ge3 go1.",
+      "meaning": "I already liked listening to this singer’s songs when I was young.",
+      "sourceWordId": "go1sau2-singer",
+      "sourceWord": "歌手",
+      "sourceWordJyutping": "go1 sau2",
+      "sourceWordMeaning": "singer",
+      "tags": [
+        "music",
+        "singer",
+        "person",
+        "noun",
+        "performance",
+        "vocabulary_level_1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sau2-singer.json"
+    },
+    {
+      "sentenceId": "go1sau2-singer-example-3",
+      "sentence": "佢今日喺演唱會做嘉賓歌手。",
+      "jyutping": "keoi5 gam1 jat6 hai2 jin5 coeng3 wui2 zou6 gaa1 ban1 go1 sau2.",
+      "meaning": "He/She is a guest singer at the concert today.",
+      "sourceWordId": "go1sau2-singer",
+      "sourceWord": "歌手",
+      "sourceWordJyutping": "go1 sau2",
+      "sourceWordMeaning": "singer",
+      "tags": [
+        "music",
+        "singer",
+        "person",
+        "noun",
+        "performance",
+        "vocabulary_level_1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sau2-singer.json"
+    },
+    {
+      "sentenceId": "go1sau2-singer-example-4",
+      "sentence": "做歌手唔一定容易，要練聲同保持狀態。",
+      "jyutping": "zou6 go1 sau2 m4 jat1 ding6 jung4 ji6, jiu3 lin6 seng1 tung4 bou2 ci4 zong6 taai3.",
+      "meaning": "Being a singer is not necessarily easy; you need to practise your voice and stay in good condition.",
+      "sourceWordId": "go1sau2-singer",
+      "sourceWord": "歌手",
+      "sourceWordJyutping": "go1 sau2",
+      "sourceWordMeaning": "singer",
+      "tags": [
+        "music",
+        "singer",
+        "person",
+        "noun",
+        "performance",
+        "vocabulary_level_1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sau2-singer.json"
+    },
+    {
+      "sentenceId": "wo4sing1-harmony-example-1",
+      "sentence": "呢首歌嘅和聲好靚。",
+      "jyutping": "ni1 sau2 go1 ge3 wo4 sing1 hou2 leng3",
+      "meaning": "The harmony in this song is very beautiful.",
+      "sourceWordId": "wo4sing1-harmony",
+      "sourceWord": "和聲",
+      "sourceWordJyutping": "wo4 sing1",
+      "sourceWordMeaning": "harmony",
+      "tags": [
+        "music",
+        "singing",
+        "vocal music",
+        "choir",
+        "beginner",
+        "music terminology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wo4sing1-harmony.json"
+    },
+    {
+      "sentenceId": "wo4sing1-harmony-example-2",
+      "sentence": "佢負責幫主唱加和聲。",
+      "jyutping": "keoi5 fu6 zaak3 bong1 zyu2 coeng3 gaa1 wo4 sing1",
+      "meaning": "He is responsible for adding harmony to support the lead singer.",
+      "sourceWordId": "wo4sing1-harmony",
+      "sourceWord": "和聲",
+      "sourceWordJyutping": "wo4 sing1",
+      "sourceWordMeaning": "harmony",
+      "tags": [
+        "music",
+        "singing",
+        "vocal music",
+        "choir",
+        "beginner",
+        "music terminology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wo4sing1-harmony.json"
+    },
+    {
+      "sentenceId": "wo4sing1-harmony-example-3",
+      "sentence": "老師教我哋聽和聲。",
+      "jyutping": "lou5 si1 gaau3 ngo5 dei6 teng1 wo4 sing1",
+      "meaning": "The teacher taught us to listen to harmony.",
+      "sourceWordId": "wo4sing1-harmony",
+      "sourceWord": "和聲",
+      "sourceWordJyutping": "wo4 sing1",
+      "sourceWordMeaning": "harmony",
+      "tags": [
+        "music",
+        "singing",
+        "vocal music",
+        "choir",
+        "beginner",
+        "music terminology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wo4sing1-harmony.json"
+    },
+    {
+      "sentenceId": "wo4sing1-harmony-example-4",
+      "sentence": "合唱團嘅和聲部分好整齊。",
+      "jyutping": "hap6 coeng3 tyun4 ge3 wo4 sing1 bou6 fan6 hou2 zing2 cai4",
+      "meaning": "The harmony part of the choir is very neat and well-coordinated.",
+      "sourceWordId": "wo4sing1-harmony",
+      "sourceWord": "和聲",
+      "sourceWordJyutping": "wo4 sing1",
+      "sourceWordMeaning": "harmony",
+      "tags": [
+        "music",
+        "singing",
+        "vocal music",
+        "choir",
+        "beginner",
+        "music terminology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wo4sing1-harmony.json"
+    },
+    {
+      "sentenceId": "duk6coeng3-solo-singing-example-1",
+      "sentence": "佢喺學校音樂節做獨唱，表現好穩定。",
+      "jyutping": "keoi5 hai6 hok6 haau6 jyut6 lok6 zit3 zou6 duk6 coeng3, biu2 jin6 hou2 wan2 ding6.",
+      "meaning": "He did a solo singing performance at the school music festival and sang very steadily.",
+      "sourceWordId": "duk6coeng3-solo-singing",
+      "sourceWord": "獨唱",
+      "sourceWordJyutping": "duk6 coeng3",
+      "sourceWordMeaning": "solo singing",
+      "tags": [
+        "music",
+        "singing",
+        "performance",
+        "solo",
+        "beginner",
+        "school",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/duk6coeng3-solo-singing.json"
+    },
+    {
+      "sentenceId": "duk6coeng3-solo-singing-example-2",
+      "sentence": "呢首歌好適合獨唱。",
+      "jyutping": "ni1 zau2 go1 hou2 sik1 hap6 duk6 coeng3.",
+      "meaning": "This song is very suitable for solo singing.",
+      "sourceWordId": "duk6coeng3-solo-singing",
+      "sourceWord": "獨唱",
+      "sourceWordJyutping": "duk6 coeng3",
+      "sourceWordMeaning": "solo singing",
+      "tags": [
+        "music",
+        "singing",
+        "performance",
+        "solo",
+        "beginner",
+        "school",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/duk6coeng3-solo-singing.json"
+    },
+    {
+      "sentenceId": "duk6coeng3-solo-singing-example-3",
+      "sentence": "老師叫我哋分組練合唱，但阿明想試吓獨唱。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 fan1 zou2 lin6 hap6 coeng3, daan6 aa3 ming4 soeng2 si3 haa5 duk6 coeng3.",
+      "meaning": "The teacher asked us to practice choir in groups, but Ming wanted to try solo singing.",
+      "sourceWordId": "duk6coeng3-solo-singing",
+      "sourceWord": "獨唱",
+      "sourceWordJyutping": "duk6 coeng3",
+      "sourceWordMeaning": "solo singing",
+      "tags": [
+        "music",
+        "singing",
+        "performance",
+        "solo",
+        "beginner",
+        "school",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/duk6coeng3-solo-singing.json"
+    },
+    {
+      "sentenceId": "duk6coeng3-solo-singing-example-4",
+      "sentence": "比賽入面，佢嘅獨唱部分最受評判注意。",
+      "jyutping": "bei2 coi3 jap6 min6, keoi5 ge3 duk6 coeng3 bou6 fan6 zeoi3 sau6 ping4 pan1 zyu3 ji3.",
+      "meaning": "In the competition, his solo singing part got the judges' most attention.",
+      "sourceWordId": "duk6coeng3-solo-singing",
+      "sourceWord": "獨唱",
+      "sourceWordJyutping": "duk6 coeng3",
+      "sourceWordMeaning": "solo singing",
+      "tags": [
+        "music",
+        "singing",
+        "performance",
+        "solo",
+        "beginner",
+        "school",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/duk6coeng3-solo-singing.json"
+    },
+    {
+      "sentenceId": "hap6coeng3-choral-singing-example-1",
+      "sentence": "學校音樂堂入面，佢哋成班學生一齊合唱。",
+      "jyutping": "hok6 haau6 jam1 ngok6 tong4 jap6 min6, keoi5 deoi6 seng4 baan1 hok6 saang1 jat1 cai4 hap6 coeng3.",
+      "meaning": "In the school music hall, the whole class sang in a choir together.",
+      "sourceWordId": "hap6coeng3-choral-singing",
+      "sourceWord": "合唱",
+      "sourceWordJyutping": "hap6 coeng3",
+      "sourceWordMeaning": "choral singing",
+      "tags": [
+        "music",
+        "singing",
+        "choir",
+        "group singing",
+        "performance",
+        "school music",
+        "easy",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hap6coeng3-choral-singing.json"
+    },
+    {
+      "sentenceId": "hap6coeng3-choral-singing-example-2",
+      "sentence": "呢首歌好適合合唱。",
+      "jyutping": "ni1 sau2 go1 hou2 sik1 hap6 hap6 coeng3.",
+      "meaning": "This song is very suitable for choral singing.",
+      "sourceWordId": "hap6coeng3-choral-singing",
+      "sourceWord": "合唱",
+      "sourceWordJyutping": "hap6 coeng3",
+      "sourceWordMeaning": "choral singing",
+      "tags": [
+        "music",
+        "singing",
+        "choir",
+        "group singing",
+        "performance",
+        "school music",
+        "easy",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hap6coeng3-choral-singing.json"
+    },
+    {
+      "sentenceId": "hap6coeng3-choral-singing-example-3",
+      "sentence": "我細個嗰陣參加過教會合唱團。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 caam1 gaa1 gwo3 gaau3 wui2 hap6 coeng3 tyun4.",
+      "meaning": "When I was young, I joined a church choir.",
+      "sourceWordId": "hap6coeng3-choral-singing",
+      "sourceWord": "合唱",
+      "sourceWordJyutping": "hap6 coeng3",
+      "sourceWordMeaning": "choral singing",
+      "tags": [
+        "music",
+        "singing",
+        "choir",
+        "group singing",
+        "performance",
+        "school music",
+        "easy",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hap6coeng3-choral-singing.json"
+    },
+    {
+      "sentenceId": "hap6coeng3-choral-singing-example-4",
+      "sentence": "比賽嗰日，佢哋用合唱嚟做壓軸表演。",
+      "jyutping": "bei2 coi3 go2 jat6, keoi5 deoi6 jung6 hap6 coeng3 lai4 zou6 at3 zuk6 biu2 jin2.",
+      "meaning": "On the day of the competition, they used choral singing as the finale performance.",
+      "sourceWordId": "hap6coeng3-choral-singing",
+      "sourceWord": "合唱",
+      "sourceWordJyutping": "hap6 coeng3",
+      "sourceWordMeaning": "choral singing",
+      "tags": [
+        "music",
+        "singing",
+        "choir",
+        "group singing",
+        "performance",
+        "school music",
+        "easy",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hap6coeng3-choral-singing.json"
+    },
+    {
+      "sentenceId": "go1sing1-singing-voice-example-1",
+      "sentence": "佢嘅歌聲好甜，好適合唱情歌。",
+      "jyutping": "keoi5 ge3 go1 sing1 hou2 tim4, hou2 sik1 hap6 coeng3 cing4 go1.",
+      "meaning": "Her singing voice is very sweet, so it suits love songs well.",
+      "sourceWordId": "go1sing1-singing-voice",
+      "sourceWord": "歌聲",
+      "sourceWordJyutping": "go1 sing1",
+      "sourceWordMeaning": "singing voice",
+      "tags": [
+        "music",
+        "singing",
+        "voice quality",
+        "noun",
+        "beginner",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sing1-singing-voice.json"
+    },
+    {
+      "sentenceId": "go1sing1-singing-voice-example-2",
+      "sentence": "呢位歌手嘅歌聲好有力量。",
+      "jyutping": "ni1 wai6 go1 sau2 ge3 go1 sing1 hou2 jau5 lik6 loeng6.",
+      "meaning": "This singer’s voice is very powerful.",
+      "sourceWordId": "go1sing1-singing-voice",
+      "sourceWord": "歌聲",
+      "sourceWordJyutping": "go1 sing1",
+      "sourceWordMeaning": "singing voice",
+      "tags": [
+        "music",
+        "singing",
+        "voice quality",
+        "noun",
+        "beginner",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sing1-singing-voice.json"
+    },
+    {
+      "sentenceId": "go1sing1-singing-voice-example-3",
+      "sentence": "細個嗰陣，我成日聽阿媽唱歌聲。",
+      "jyutping": "sai3 go3 go2 zaan6, ngo5 seng4 jat6 teng1 aa3 maa1 coeng3 go1 sing1.",
+      "meaning": "When I was young, I often listened to my mom singing.",
+      "sourceWordId": "go1sing1-singing-voice",
+      "sourceWord": "歌聲",
+      "sourceWordJyutping": "go1 sing1",
+      "sourceWordMeaning": "singing voice",
+      "tags": [
+        "music",
+        "singing",
+        "voice quality",
+        "noun",
+        "beginner",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sing1-singing-voice.json"
+    },
+    {
+      "sentenceId": "go1sing1-singing-voice-example-4",
+      "sentence": "佢一開口，歌聲就好吸引。",
+      "jyutping": "keoi5 jat1 hoi1 hau2, go1 sing1 zau6 hou2 kap1 jan5.",
+      "meaning": "As soon as she starts singing, her voice is very appealing.",
+      "sourceWordId": "go1sing1-singing-voice",
+      "sourceWord": "歌聲",
+      "sourceWordJyutping": "go1 sing1",
+      "sourceWordMeaning": "singing voice",
+      "tags": [
+        "music",
+        "singing",
+        "voice quality",
+        "noun",
+        "beginner",
+        "daily usage",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/go1sing1-singing-voice.json"
+    },
+    {
+      "sentenceId": "git3taa1-guitar-example-1",
+      "sentence": "我細個已經開始學結他。",
+      "jyutping": "ngo5 sai3 go3 ji5 ging1 hoi1 ci2 hok6 git3 taa1",
+      "meaning": "I started learning guitar when I was young.",
+      "sourceWordId": "git3taa1-guitar",
+      "sourceWord": "結他",
+      "sourceWordJyutping": "git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "common noun",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "git3taa1-guitar-example-2",
+      "sentence": "佢今晚會喺酒吧彈結他。",
+      "jyutping": "keoi5 gam1 maan5 wui5 hai2 zau2 baa1 taan4 git3 taa1",
+      "meaning": "He will play guitar at the bar tonight.",
+      "sourceWordId": "git3taa1-guitar",
+      "sourceWord": "結他",
+      "sourceWordJyutping": "git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "common noun",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "git3taa1-guitar-example-3",
+      "sentence": "呢枝結他幾靚，幾錢呀？",
+      "jyutping": "ni1 zi1 git3 taa1 gei2 leng3, gei2 cin2 aa3",
+      "meaning": "This guitar is quite nice; how much is it?",
+      "sourceWordId": "git3taa1-guitar",
+      "sourceWord": "結他",
+      "sourceWordJyutping": "git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "common noun",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "git3taa1-guitar-example-4",
+      "sentence": "我想買一把新結他送畀阿仔。",
+      "jyutping": "ngo5 soeng2 maai5 jat1 paa2 san1 git3 taa1 sung3 bei2 aa3 zai2",
+      "meaning": "I want to buy a new guitar for my son.",
+      "sourceWordId": "git3taa1-guitar",
+      "sourceWord": "結他",
+      "sourceWordJyutping": "git3 taa1",
+      "sourceWordMeaning": "guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "common noun",
+        "spoken Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3taa1-guitar.json"
+    },
+    {
+      "sentenceId": "gong3kam4-piano-example-1",
+      "sentence": "我細個已經開始學鋼琴。",
+      "jyutping": "ngo5 sai3 go3 ji5 ging1 hoi2 ci2 hok6 gong3 kam4.",
+      "meaning": "I started learning piano when I was young.",
+      "sourceWordId": "gong3kam4-piano",
+      "sourceWord": "鋼琴",
+      "sourceWordJyutping": "gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "gong3kam4-piano-example-2",
+      "sentence": "佢今日要去上鋼琴堂。",
+      "jyutping": "keoi5 gam1 jat6 jiu3 heoi3 soeng6 gong3 kam4 tong4.",
+      "meaning": "He/She has to go to a piano lesson today.",
+      "sourceWordId": "gong3kam4-piano",
+      "sourceWord": "鋼琴",
+      "sourceWordJyutping": "gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "gong3kam4-piano-example-3",
+      "sentence": "呢間屋有一部鋼琴。",
+      "jyutping": "ni1 gaan1 uk1 jau5 jat1 bou6 gong3 kam4.",
+      "meaning": "This house has a piano.",
+      "sourceWordId": "gong3kam4-piano",
+      "sourceWord": "鋼琴",
+      "sourceWordJyutping": "gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "gong3kam4-piano-example-4",
+      "sentence": "姐姐彈鋼琴彈得好好聽。",
+      "jyutping": "ze3 ze2 taan4 gong3 kam4 taan4 dak1 hou2 hou2 teng1.",
+      "meaning": "My older sister plays the piano very beautifully.",
+      "sourceWordId": "gong3kam4-piano",
+      "sourceWord": "鋼琴",
+      "sourceWordJyutping": "gong3 kam4",
+      "sourceWordMeaning": "piano",
+      "tags": [
+        "music",
+        "instrument",
+        "noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gong3kam4-piano.json"
+    },
+    {
+      "sentenceId": "siu2tai4kam4-violin-example-1",
+      "sentence": "佢今日帶咗小提琴去學校。",
+      "jyutping": "keoi5 gam1 jat6 daai3 zo2 siu2 tai4 kam4 heoi3 hok6 haau6.",
+      "meaning": "He brought the violin to school today.",
+      "sourceWordId": "siu2tai4kam4-violin",
+      "sourceWord": "小提琴",
+      "sourceWordJyutping": "siu2 tai4 kam4",
+      "sourceWordMeaning": "violin",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "countable noun",
+        "performance",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2tai4kam4-violin.json"
+    },
+    {
+      "sentenceId": "siu2tai4kam4-violin-example-2",
+      "sentence": "阿女好鍾意拉小提琴。",
+      "jyutping": "aa3 neoi5 hou2 zung1 ji3 laa1 siu2 tai4 kam4.",
+      "meaning": "My daughter really likes playing the violin.",
+      "sourceWordId": "siu2tai4kam4-violin",
+      "sourceWord": "小提琴",
+      "sourceWordJyutping": "siu2 tai4 kam4",
+      "sourceWordMeaning": "violin",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "countable noun",
+        "performance",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2tai4kam4-violin.json"
+    },
+    {
+      "sentenceId": "siu2tai4kam4-violin-example-3",
+      "sentence": "呢把小提琴聲音好靚。",
+      "jyutping": "ni1 baa2 siu2 tai4 kam4 seng1 jam1 hou2 leng3.",
+      "meaning": "This violin has a very beautiful sound.",
+      "sourceWordId": "siu2tai4kam4-violin",
+      "sourceWord": "小提琴",
+      "sourceWordJyutping": "siu2 tai4 kam4",
+      "sourceWordMeaning": "violin",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "countable noun",
+        "performance",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2tai4kam4-violin.json"
+    },
+    {
+      "sentenceId": "siu2tai4kam4-violin-example-4",
+      "sentence": "佢喺樂團入面做小提琴手。",
+      "jyutping": "keoi5 hai2 ngok6 tyun4 jap6 min6 zou6 siu2 tai4 kam4 sau2.",
+      "meaning": "He is a violinist in the orchestra.",
+      "sourceWordId": "siu2tai4kam4-violin",
+      "sourceWord": "小提琴",
+      "sourceWordJyutping": "siu2 tai4 kam4",
+      "sourceWordMeaning": "violin",
+      "tags": [
+        "music",
+        "instrument",
+        "beginner",
+        "countable noun",
+        "performance",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2tai4kam4-violin.json"
+    },
+    {
+      "sentenceId": "gu2-drums-example-1",
+      "sentence": "佢學打鼓學咗兩年。",
+      "jyutping": "keoi5 hok6 daa2 gu2 hok6 zo2 loeng5 nin4.",
+      "meaning": "He has studied drumming for two years.",
+      "sourceWordId": "gu2-drums",
+      "sourceWord": "鼓",
+      "sourceWordJyutping": "gu2",
+      "sourceWordMeaning": "drums",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2-drums.json"
+    },
+    {
+      "sentenceId": "gu2-drums-example-2",
+      "sentence": "呢個樂隊有兩個鼓手。",
+      "jyutping": "ni1 go3 ngok6 deoi2 jau5 loeng5 go3 gu2 sau2.",
+      "meaning": "This band has two drummers.",
+      "sourceWordId": "gu2-drums",
+      "sourceWord": "鼓",
+      "sourceWordJyutping": "gu2",
+      "sourceWordMeaning": "drums",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2-drums.json"
+    },
+    {
+      "sentenceId": "gu2-drums-example-3",
+      "sentence": "我哋學校買咗一套新鼓。",
+      "jyutping": "ngo5 dei6 hok6 haau6 maai5 zo2 jat1 tou3 san1 gu2.",
+      "meaning": "Our school bought a new drum set.",
+      "sourceWordId": "gu2-drums",
+      "sourceWord": "鼓",
+      "sourceWordJyutping": "gu2",
+      "sourceWordMeaning": "drums",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2-drums.json"
+    },
+    {
+      "sentenceId": "gu2-drums-example-4",
+      "sentence": "小朋友好鍾意敲鼓。",
+      "jyutping": "siu2 pang4 jau5 hou2 zung1 ji3 haau1 gu2.",
+      "meaning": "The children really like to beat drums.",
+      "sourceWordId": "gu2-drums",
+      "sourceWord": "鼓",
+      "sourceWordJyutping": "gu2",
+      "sourceWordMeaning": "drums",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2-drums.json"
+    },
+    {
+      "sentenceId": "sik1si6fung1-saxophone-example-1",
+      "sentence": "我阿哥學緊色士風。",
+      "jyutping": "ngo5 aa3 go1 hok6 gan2 sik1 si6 fung1.",
+      "meaning": "My older brother is learning the saxophone.",
+      "sourceWordId": "sik1si6fung1-saxophone",
+      "sourceWord": "色士風",
+      "sourceWordJyutping": "sik1 si6 fung1",
+      "sourceWordMeaning": "saxophone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "jazz",
+        "school",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik1si6fung1-saxophone.json"
+    },
+    {
+      "sentenceId": "sik1si6fung1-saxophone-example-2",
+      "sentence": "佢喺學校樂隊吹色士風。",
+      "jyutping": "keoi5 hai2 hok6 haau6 nok6 deoi2 ceoi1 sik1 si6 fung1.",
+      "meaning": "He plays the saxophone in the school band.",
+      "sourceWordId": "sik1si6fung1-saxophone",
+      "sourceWord": "色士風",
+      "sourceWordJyutping": "sik1 si6 fung1",
+      "sourceWordMeaning": "saxophone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "jazz",
+        "school",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik1si6fung1-saxophone.json"
+    },
+    {
+      "sentenceId": "sik1si6fung1-saxophone-example-3",
+      "sentence": "呢支色士風音色好靚。",
+      "jyutping": "ni1 zi1 sik1 si6 fung1 jam1 sik1 hou2 leng3.",
+      "meaning": "This saxophone has a beautiful tone.",
+      "sourceWordId": "sik1si6fung1-saxophone",
+      "sourceWord": "色士風",
+      "sourceWordJyutping": "sik1 si6 fung1",
+      "sourceWordMeaning": "saxophone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "jazz",
+        "school",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik1si6fung1-saxophone.json"
+    },
+    {
+      "sentenceId": "sik1si6fung1-saxophone-example-4",
+      "sentence": "演奏色士風需要好多氣。",
+      "jyutping": "jin2 zou3 sik1 si6 fung1 seoi1 jiu3 hou2 do1 hei3.",
+      "meaning": "Playing the saxophone requires a lot of breath.",
+      "sourceWordId": "sik1si6fung1-saxophone",
+      "sourceWord": "色士風",
+      "sourceWordJyutping": "sik1 si6 fung1",
+      "sourceWordMeaning": "saxophone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "jazz",
+        "school",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sik1si6fung1-saxophone.json"
+    },
+    {
+      "sentenceId": "coeng4dek6-flute-example-1",
+      "sentence": "我細個嗰陣學過長笛。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 hok6 gwo3 coeng4 dek6.",
+      "meaning": "I learned the flute when I was young.",
+      "sourceWordId": "coeng4dek6-flute",
+      "sourceWord": "長笛",
+      "sourceWordJyutping": "coeng4 dek6",
+      "sourceWordMeaning": "flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "school music",
+        "orchestra",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4dek6-flute.json"
+    },
+    {
+      "sentenceId": "coeng4dek6-flute-example-2",
+      "sentence": "佢喺學校管弦樂團吹長笛。",
+      "jyutping": "keoi5 hai2 hok6 haau6 gun2 jin4 ngok6 tyun4 ceoi1 coeng4 dek6.",
+      "meaning": "She plays the flute in the school orchestra.",
+      "sourceWordId": "coeng4dek6-flute",
+      "sourceWord": "長笛",
+      "sourceWordJyutping": "coeng4 dek6",
+      "sourceWordMeaning": "flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "school music",
+        "orchestra",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4dek6-flute.json"
+    },
+    {
+      "sentenceId": "coeng4dek6-flute-example-3",
+      "sentence": "呢支長笛聲好柔和。",
+      "jyutping": "ni1 zi1 coeng4 dek6 sing1 hou2 jau4 wo4.",
+      "meaning": "This flute has a very gentle sound.",
+      "sourceWordId": "coeng4dek6-flute",
+      "sourceWord": "長笛",
+      "sourceWordJyutping": "coeng4 dek6",
+      "sourceWordMeaning": "flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "school music",
+        "orchestra",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4dek6-flute.json"
+    },
+    {
+      "sentenceId": "coeng4dek6-flute-example-4",
+      "sentence": "老師叫我哋帶埋長笛返去排練。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 daai3 maai4 coeng4 dek6 faan1 heoi3 paai4 lin6.",
+      "meaning": "The teacher asked us to bring our flutes home for rehearsal.",
+      "sourceWordId": "coeng4dek6-flute",
+      "sourceWord": "長笛",
+      "sourceWordJyutping": "coeng4 dek6",
+      "sourceWordMeaning": "flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "school music",
+        "orchestra",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4dek6-flute.json"
+    },
+    {
+      "sentenceId": "daai6tai4kam4-cello-example-1",
+      "sentence": "我學緊大提琴。",
+      "jyutping": "ngo5 hok6 gan2 daai6 tai4 kam4.",
+      "meaning": "I’m learning the cello.",
+      "sourceWordId": "daai6tai4kam4-cello",
+      "sourceWord": "大提琴",
+      "sourceWordJyutping": "daai6 tai4 kam4",
+      "sourceWordMeaning": "cello",
+      "tags": [
+        "music",
+        "musical instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6tai4kam4-cello.json"
+    },
+    {
+      "sentenceId": "daai6tai4kam4-cello-example-2",
+      "sentence": "佢喺學校管弦樂團拉大提琴。",
+      "jyutping": "keoi5 hai2 hok6 haau6 gun2 jin4 ngok6 tyun4 laai1 daai6 tai4 kam4.",
+      "meaning": "He plays the cello in the school orchestra.",
+      "sourceWordId": "daai6tai4kam4-cello",
+      "sourceWord": "大提琴",
+      "sourceWordJyutping": "daai6 tai4 kam4",
+      "sourceWordMeaning": "cello",
+      "tags": [
+        "music",
+        "musical instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6tai4kam4-cello.json"
+    },
+    {
+      "sentenceId": "daai6tai4kam4-cello-example-3",
+      "sentence": "呢把大提琴聲音好溫暖。",
+      "jyutping": "ni1 baa2 daai6 tai4 kam4 sing1 jam1 hou2 wan1 nyun5.",
+      "meaning": "This cello has a very warm sound.",
+      "sourceWordId": "daai6tai4kam4-cello",
+      "sourceWord": "大提琴",
+      "sourceWordJyutping": "daai6 tai4 kam4",
+      "sourceWordMeaning": "cello",
+      "tags": [
+        "music",
+        "musical instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6tai4kam4-cello.json"
+    },
+    {
+      "sentenceId": "daai6tai4kam4-cello-example-4",
+      "sentence": "老師話我哋要先調好大提琴嘅弦。",
+      "jyutping": "lou5 si1 waa6 ngo5 dei6 jiu3 sin1 tiu4 hou2 daai6 tai4 kam4 ge3 jin4.",
+      "meaning": "The teacher said we should tune the cello strings first.",
+      "sourceWordId": "daai6tai4kam4-cello",
+      "sourceWord": "大提琴",
+      "sourceWordJyutping": "daai6 tai4 kam4",
+      "sourceWordMeaning": "cello",
+      "tags": [
+        "music",
+        "musical instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6tai4kam4-cello.json"
+    },
+    {
+      "sentenceId": "zung1tai4kam4-viola-example-1",
+      "sentence": "我想學中提琴。",
+      "jyutping": "ngo5 soeng2 hok6 zung1 tai4 kam4.",
+      "meaning": "I want to learn the viola.",
+      "sourceWordId": "zung1tai4kam4-viola",
+      "sourceWord": "中提琴",
+      "sourceWordJyutping": "zung1 tai4 kam4",
+      "sourceWordMeaning": "viola",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1tai4kam4-viola.json"
+    },
+    {
+      "sentenceId": "zung1tai4kam4-viola-example-2",
+      "sentence": "佢喺學校樂團拉中提琴。",
+      "jyutping": "keoi5 hai2 hok6 haau6 lok6 tyun4 laai1 zung1 tai4 kam4.",
+      "meaning": "He/She plays the viola in the school orchestra.",
+      "sourceWordId": "zung1tai4kam4-viola",
+      "sourceWord": "中提琴",
+      "sourceWordJyutping": "zung1 tai4 kam4",
+      "sourceWordMeaning": "viola",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1tai4kam4-viola.json"
+    },
+    {
+      "sentenceId": "zung1tai4kam4-viola-example-3",
+      "sentence": "呢把中提琴好重。",
+      "jyutping": "ni1 baa2 zung1 tai4 kam4 hou2 cung5.",
+      "meaning": "This viola is very heavy.",
+      "sourceWordId": "zung1tai4kam4-viola",
+      "sourceWord": "中提琴",
+      "sourceWordJyutping": "zung1 tai4 kam4",
+      "sourceWordMeaning": "viola",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1tai4kam4-viola.json"
+    },
+    {
+      "sentenceId": "zung1tai4kam4-viola-example-4",
+      "sentence": "老師叫我哋分辨小提琴同中提琴。",
+      "jyutping": "lou5si1 giu3 ngo5 dei6 fan1 bin6 siu2 tai4 kam4 tung4 zung1 tai4 kam4.",
+      "meaning": "The teacher asked us to tell the violin and the viola apart.",
+      "sourceWordId": "zung1tai4kam4-viola",
+      "sourceWord": "中提琴",
+      "sourceWordJyutping": "zung1 tai4 kam4",
+      "sourceWordMeaning": "viola",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1tai4kam4-viola.json"
+    },
+    {
+      "sentenceId": "dai1jam1git3taa1-bass-guitar-example-1",
+      "sentence": "我想學彈低音結他。",
+      "jyutping": "ngo5 soeng2 hok6 daan4 dai1 jam1 git3 taa1.",
+      "meaning": "I want to learn to play bass guitar.",
+      "sourceWordId": "dai1jam1git3taa1-bass-guitar",
+      "sourceWord": "低音結他",
+      "sourceWordJyutping": "dai1 jam1 git3 taa1",
+      "sourceWordMeaning": "bass guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "band",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dai1jam1git3taa1-bass-guitar.json"
+    },
+    {
+      "sentenceId": "dai1jam1git3taa1-bass-guitar-example-2",
+      "sentence": "呢隊band嘅低音結他手好勁。",
+      "jyutping": "ni1 deoi3 band ge3 dai1 jam1 git3 taa1 sau2 hou2 ging6.",
+      "meaning": "The bass guitarist in this band is really good.",
+      "sourceWordId": "dai1jam1git3taa1-bass-guitar",
+      "sourceWord": "低音結他",
+      "sourceWordJyutping": "dai1 jam1 git3 taa1",
+      "sourceWordMeaning": "bass guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "band",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dai1jam1git3taa1-bass-guitar.json"
+    },
+    {
+      "sentenceId": "dai1jam1git3taa1-bass-guitar-example-3",
+      "sentence": "佢今日帶咗低音結他去排練。",
+      "jyutping": "keoi5 gam1 jat6 daai3 zo2 dai1 jam1 git3 taa1 heoi3 paai4 lin6.",
+      "meaning": "He brought his bass guitar to rehearsal today.",
+      "sourceWordId": "dai1jam1git3taa1-bass-guitar",
+      "sourceWord": "低音結他",
+      "sourceWordJyutping": "dai1 jam1 git3 taa1",
+      "sourceWordMeaning": "bass guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "band",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dai1jam1git3taa1-bass-guitar.json"
+    },
+    {
+      "sentenceId": "dai1jam1git3taa1-bass-guitar-example-4",
+      "sentence": "我屋企有一支舊低音結他。",
+      "jyutping": "ngo5 uk1 kei4 jau5 jat1 zi1 gau6 dai1 jam1 git3 taa1.",
+      "meaning": "I have an old bass guitar at home.",
+      "sourceWordId": "dai1jam1git3taa1-bass-guitar",
+      "sourceWord": "低音結他",
+      "sourceWordJyutping": "dai1 jam1 git3 taa1",
+      "sourceWordMeaning": "bass guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "band",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dai1jam1git3taa1-bass-guitar.json"
+    },
+    {
+      "sentenceId": "din6git3taa1-electric-guitar-example-1",
+      "sentence": "佢最鍾意彈電結他。",
+      "jyutping": "keoi5 zeoi3 zung1 ji3 taan4 din6 git3 taa1.",
+      "meaning": "He/She likes playing electric guitar the most.",
+      "sourceWordId": "din6git3taa1-electric-guitar",
+      "sourceWord": "電結他",
+      "sourceWordJyutping": "din6 git3 taa1",
+      "sourceWordMeaning": "electric guitar",
+      "tags": [
+        "music",
+        "musical instrument",
+        "guitar",
+        "band",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6git3taa1-electric-guitar.json"
+    },
+    {
+      "sentenceId": "din6git3taa1-electric-guitar-example-2",
+      "sentence": "我哋樂隊需要一支電結他。",
+      "jyutping": "ngo5 dei6 lok6 deoi2 seoi1 jiu3 jat1 zi1 din6 git3 taa1.",
+      "meaning": "Our band needs an electric guitar.",
+      "sourceWordId": "din6git3taa1-electric-guitar",
+      "sourceWord": "電結他",
+      "sourceWordJyutping": "din6 git3 taa1",
+      "sourceWordMeaning": "electric guitar",
+      "tags": [
+        "music",
+        "musical instrument",
+        "guitar",
+        "band",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6git3taa1-electric-guitar.json"
+    },
+    {
+      "sentenceId": "din6git3taa1-electric-guitar-example-3",
+      "sentence": "細佬今年開始學電結他。",
+      "jyutping": "sai3 lou5 gam1 nin4 hoi1 ci2 hok6 din6 git3 taa1.",
+      "meaning": "My younger brother started learning electric guitar this year.",
+      "sourceWordId": "din6git3taa1-electric-guitar",
+      "sourceWord": "電結他",
+      "sourceWordJyutping": "din6 git3 taa1",
+      "sourceWordMeaning": "electric guitar",
+      "tags": [
+        "music",
+        "musical instrument",
+        "guitar",
+        "band",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6git3taa1-electric-guitar.json"
+    },
+    {
+      "sentenceId": "din6git3taa1-electric-guitar-example-4",
+      "sentence": "呢間琴行有好多電結他賣。",
+      "jyutping": "ni1 gaan1 kam4 hong4 jau5 ho2 do1 din6 git3 taa1 maai6.",
+      "meaning": "This music shop has many electric guitars for sale.",
+      "sourceWordId": "din6git3taa1-electric-guitar",
+      "sourceWord": "電結他",
+      "sourceWordJyutping": "din6 git3 taa1",
+      "sourceWordMeaning": "electric guitar",
+      "tags": [
+        "music",
+        "musical instrument",
+        "guitar",
+        "band",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6git3taa1-electric-guitar.json"
+    },
+    {
+      "sentenceId": "muk6git3taa1-acoustic-guitar-example-1",
+      "sentence": "我想學彈木結他。",
+      "jyutping": "ngo5 soeng2 hok6 taan4 muk6 git3 taa1",
+      "meaning": "I want to learn to play acoustic guitar.",
+      "sourceWordId": "muk6git3taa1-acoustic-guitar",
+      "sourceWord": "木結他",
+      "sourceWordJyutping": "muk6 git3 taa1",
+      "sourceWordMeaning": "acoustic guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "guitar",
+        "acoustic",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6git3taa1-acoustic-guitar.json"
+    },
+    {
+      "sentenceId": "muk6git3taa1-acoustic-guitar-example-2",
+      "sentence": "呢支木結他音色好溫暖。",
+      "jyutping": "ni1 zi1 muk6 git3 taa1 jam1 sik1 hou2 wan1 noeng5",
+      "meaning": "This acoustic guitar has a very warm tone.",
+      "sourceWordId": "muk6git3taa1-acoustic-guitar",
+      "sourceWord": "木結他",
+      "sourceWordJyutping": "muk6 git3 taa1",
+      "sourceWordMeaning": "acoustic guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "guitar",
+        "acoustic",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6git3taa1-acoustic-guitar.json"
+    },
+    {
+      "sentenceId": "muk6git3taa1-acoustic-guitar-example-3",
+      "sentence": "阿哥成日喺屋企彈木結他。",
+      "jyutping": "aa3 go1 sing4 jat6 hai2 uk1 kei2 taan4 muk6 git3 taa1",
+      "meaning": "My older brother often plays acoustic guitar at home.",
+      "sourceWordId": "muk6git3taa1-acoustic-guitar",
+      "sourceWord": "木結他",
+      "sourceWordJyutping": "muk6 git3 taa1",
+      "sourceWordMeaning": "acoustic guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "guitar",
+        "acoustic",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6git3taa1-acoustic-guitar.json"
+    },
+    {
+      "sentenceId": "muk6git3taa1-acoustic-guitar-example-4",
+      "sentence": "音樂班有教木結他。",
+      "jyutping": "jam1 ngok6 baan1 jau5 gaau3 muk6 git3 taa1",
+      "meaning": "The music class teaches acoustic guitar.",
+      "sourceWordId": "muk6git3taa1-acoustic-guitar",
+      "sourceWord": "木結他",
+      "sourceWordJyutping": "muk6 git3 taa1",
+      "sourceWordMeaning": "acoustic guitar",
+      "tags": [
+        "music",
+        "instrument",
+        "guitar",
+        "acoustic",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6git3taa1-acoustic-guitar.json"
+    },
+    {
+      "sentenceId": "siu2hou4-trumpet-example-1",
+      "sentence": "我細個嗰陣學吹小號。",
+      "jyutping": "ngo5 sai3 go3 gwo2 zeon6 hok6 ceoi1 siu2 hou4",
+      "meaning": "I learned to play the trumpet when I was young.",
+      "sourceWordId": "siu2hou4-trumpet",
+      "sourceWord": "小號",
+      "sourceWordJyutping": "siu2 hou4",
+      "sourceWordMeaning": "trumpet",
+      "tags": [
+        "music",
+        "instrument",
+        "brass instrument",
+        "school music",
+        "band",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2hou4-trumpet.json"
+    },
+    {
+      "sentenceId": "siu2hou4-trumpet-example-2",
+      "sentence": "樂隊入面，小號聲好突出。",
+      "jyutping": "ngok6 deoi2 jap6 min6, siu2 hou4 seng1 hou2 dat6 ceot1",
+      "meaning": "In the band, the trumpet sound stands out a lot.",
+      "sourceWordId": "siu2hou4-trumpet",
+      "sourceWord": "小號",
+      "sourceWordJyutping": "siu2 hou4",
+      "sourceWordMeaning": "trumpet",
+      "tags": [
+        "music",
+        "instrument",
+        "brass instrument",
+        "school music",
+        "band",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2hou4-trumpet.json"
+    },
+    {
+      "sentenceId": "siu2hou4-trumpet-example-3",
+      "sentence": "老師叫我哋今日帶小號返學校。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 gam1 jat6 daai3 siu2 hou4 faan1 hok6 haau6",
+      "meaning": "The teacher asked us to bring our trumpets to school today.",
+      "sourceWordId": "siu2hou4-trumpet",
+      "sourceWord": "小號",
+      "sourceWordJyutping": "siu2 hou4",
+      "sourceWordMeaning": "trumpet",
+      "tags": [
+        "music",
+        "instrument",
+        "brass instrument",
+        "school music",
+        "band",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2hou4-trumpet.json"
+    },
+    {
+      "sentenceId": "siu2hou4-trumpet-example-4",
+      "sentence": "佢喺音樂舖試吹咗支小號。",
+      "jyutping": "keoi5 hai2 jam1 ngok6 pou2 si3 ceoi1 zo2 zi1 siu2 hou4",
+      "meaning": "He tried out a trumpet in the music shop.",
+      "sourceWordId": "siu2hou4-trumpet",
+      "sourceWord": "小號",
+      "sourceWordJyutping": "siu2 hou4",
+      "sourceWordMeaning": "trumpet",
+      "tags": [
+        "music",
+        "instrument",
+        "brass instrument",
+        "school music",
+        "band",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2hou4-trumpet.json"
+    },
+    {
+      "sentenceId": "coeng4hou4-trombone-example-1",
+      "sentence": "佢學咗長號差唔多三年。",
+      "jyutping": "keoi5 hok6 zo2 coeng4 hou4 caa1 m4 do1 saam1 nin4.",
+      "meaning": "He has been learning the trombone for almost three years.",
+      "sourceWordId": "coeng4hou4-trombone",
+      "sourceWord": "長號",
+      "sourceWordJyutping": "coeng4 hou4",
+      "sourceWordMeaning": "trombone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass",
+        "orchestra",
+        "school band",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4hou4-trombone.json"
+    },
+    {
+      "sentenceId": "coeng4hou4-trombone-example-2",
+      "sentence": "學校管弦樂團有一位長號手。",
+      "jyutping": "hok6 haau6 gun2 jin4 ngok6 tyun4 jau5 jat1 wai2 coeng4 hou4 sau2.",
+      "meaning": "The school orchestra has a trombone player.",
+      "sourceWordId": "coeng4hou4-trombone",
+      "sourceWord": "長號",
+      "sourceWordJyutping": "coeng4 hou4",
+      "sourceWordMeaning": "trombone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass",
+        "orchestra",
+        "school band",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4hou4-trombone.json"
+    },
+    {
+      "sentenceId": "coeng4hou4-trombone-example-3",
+      "sentence": "呢首歌嘅長號聲好明顯。",
+      "jyutping": "ni1 sau2 go1 ge3 coeng4 hou4 seng1 hou2 ming4 hin2.",
+      "meaning": "The trombone sound in this song is very noticeable.",
+      "sourceWordId": "coeng4hou4-trombone",
+      "sourceWord": "長號",
+      "sourceWordJyutping": "coeng4 hou4",
+      "sourceWordMeaning": "trombone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass",
+        "orchestra",
+        "school band",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4hou4-trombone.json"
+    },
+    {
+      "sentenceId": "coeng4hou4-trombone-example-4",
+      "sentence": "老師叫我哋留意長號嘅音色。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 lau4 ji3 coeng4 hou4 ge3 jam1 sik1.",
+      "meaning": "The teacher told us to pay attention to the tone color of the trombone.",
+      "sourceWordId": "coeng4hou4-trombone",
+      "sourceWord": "長號",
+      "sourceWordJyutping": "coeng4 hou4",
+      "sourceWordMeaning": "trombone",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass",
+        "orchestra",
+        "school band",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coeng4hou4-trombone.json"
+    },
+    {
+      "sentenceId": "jyun4hou4-french-horn-example-1",
+      "sentence": "我細個喺學校管弦樂團吹圓號。",
+      "jyutping": "ngo5 sai3 go3 hai2 hok6 haau6 gun2 jin4 ngok6 tyun4 ceoi1 jyun4 hou4.",
+      "meaning": "I played the French horn in the school orchestra when I was young.",
+      "sourceWordId": "jyun4hou4-french-horn",
+      "sourceWord": "圓號",
+      "sourceWordJyutping": "jyun4 hou4",
+      "sourceWordMeaning": "French horn",
+      "tags": [
+        "music",
+        "instrument",
+        "brass",
+        "orchestra",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4hou4-french-horn.json"
+    },
+    {
+      "sentenceId": "jyun4hou4-french-horn-example-2",
+      "sentence": "佢想學圓號，所以報咗音樂班。",
+      "jyutping": "keoi5 soeng2 hok6 jyun4 hou4, so2 ji5 bou3 zo2 jam1 ngok6 baan1.",
+      "meaning": "He wants to learn the French horn, so he enrolled in a music class.",
+      "sourceWordId": "jyun4hou4-french-horn",
+      "sourceWord": "圓號",
+      "sourceWordJyutping": "jyun4 hou4",
+      "sourceWordMeaning": "French horn",
+      "tags": [
+        "music",
+        "instrument",
+        "brass",
+        "orchestra",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4hou4-french-horn.json"
+    },
+    {
+      "sentenceId": "jyun4hou4-french-horn-example-3",
+      "sentence": "呢支圓號聽落好溫暖。",
+      "jyutping": "ni1 zi1 jyun4 hou4 teng1 lok6 hou2 wan1 nyun5.",
+      "meaning": "This French horn sounds very warm.",
+      "sourceWordId": "jyun4hou4-french-horn",
+      "sourceWord": "圓號",
+      "sourceWordJyutping": "jyun4 hou4",
+      "sourceWordMeaning": "French horn",
+      "tags": [
+        "music",
+        "instrument",
+        "brass",
+        "orchestra",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4hou4-french-horn.json"
+    },
+    {
+      "sentenceId": "jyun4hou4-french-horn-example-4",
+      "sentence": "琴行入面有幾支圓號可以試吹。",
+      "jyutping": "kam4 hong4 jap6 min6 jau5 gei2 zi1 jyun4 hou4 ho2 ji5 si3 ceoi1.",
+      "meaning": "There are several French horns you can try at the music shop.",
+      "sourceWordId": "jyun4hou4-french-horn",
+      "sourceWord": "圓號",
+      "sourceWordJyutping": "jyun4 hou4",
+      "sourceWordMeaning": "French horn",
+      "tags": [
+        "music",
+        "instrument",
+        "brass",
+        "orchestra",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun4hou4-french-horn.json"
+    },
+    {
+      "sentenceId": "daai6hou4-tuba-example-1",
+      "sentence": "佢喺學校管弦樂團吹大號。",
+      "jyutping": "keoi5 hai2 hok6 haau6 gun2 jin4 ngok6 tyun4 ceoi1 daai6 hou4.",
+      "meaning": "He plays the tuba in the school orchestra.",
+      "sourceWordId": "daai6hou4-tuba",
+      "sourceWord": "大號",
+      "sourceWordJyutping": "daai6 hou4",
+      "sourceWordMeaning": "tuba",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass instrument",
+        "orchestra",
+        "band",
+        "formal vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6hou4-tuba.json"
+    },
+    {
+      "sentenceId": "daai6hou4-tuba-example-2",
+      "sentence": "我想學大號，但覺得個樂器好重。",
+      "jyutping": "ngo5 soeng2 hok6 daai6 hou4, daan6 gok3 dak1 go3 ngok6 hei3 hou2 zung6.",
+      "meaning": "I want to learn the tuba, but I think the instrument is very heavy.",
+      "sourceWordId": "daai6hou4-tuba",
+      "sourceWord": "大號",
+      "sourceWordJyutping": "daai6 hou4",
+      "sourceWordMeaning": "tuba",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass instrument",
+        "orchestra",
+        "band",
+        "formal vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6hou4-tuba.json"
+    },
+    {
+      "sentenceId": "daai6hou4-tuba-example-3",
+      "sentence": "呢首歌嘅低音主要由大號負責。",
+      "jyutping": "ni1 zau2 go1 ge3 dai1 jam1 zyu2 jiu3 jau4 daai6 hou4 fu6 zaak3.",
+      "meaning": "The tuba handles the main low notes in this piece.",
+      "sourceWordId": "daai6hou4-tuba",
+      "sourceWord": "大號",
+      "sourceWordJyutping": "daai6 hou4",
+      "sourceWordMeaning": "tuba",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass instrument",
+        "orchestra",
+        "band",
+        "formal vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6hou4-tuba.json"
+    },
+    {
+      "sentenceId": "daai6hou4-tuba-example-4",
+      "sentence": "佢今日帶咗支大號返樂隊練習。",
+      "jyutping": "keoi5 gam1 jat6 daai3 zo2 zi1 daai6 hou4 faan1 ngok6 deoi6 lin6 zaap6.",
+      "meaning": "He brought the tuba to band practice today.",
+      "sourceWordId": "daai6hou4-tuba",
+      "sourceWord": "大號",
+      "sourceWordJyutping": "daai6 hou4",
+      "sourceWordMeaning": "tuba",
+      "tags": [
+        "music",
+        "musical instrument",
+        "brass instrument",
+        "orchestra",
+        "band",
+        "formal vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6hou4-tuba.json"
+    },
+    {
+      "sentenceId": "hak1gun2-clarinet-example-1",
+      "sentence": "我細個開始學吹黑管。",
+      "jyutping": "ngo5 sai3 go3 hoi1 ci2 hok6 ceoi1 hak1 gun2",
+      "meaning": "I started learning the clarinet when I was young.",
+      "sourceWordId": "hak1gun2-clarinet",
+      "sourceWord": "黑管",
+      "sourceWordJyutping": "hak1 gun2",
+      "sourceWordMeaning": "clarinet",
+      "tags": [
+        "music",
+        "musical instrument",
+        "woodwind",
+        "school music",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hak1gun2-clarinet.json"
+    },
+    {
+      "sentenceId": "hak1gun2-clarinet-example-2",
+      "sentence": "佢今日要帶黑管去學校練習。",
+      "jyutping": "keoi5 gam1 jat6 jiu3 daai3 hak1 gun2 heoi3 hok6 haau6 lin6 zaap6",
+      "meaning": "He has to bring his clarinet to school for practice today.",
+      "sourceWordId": "hak1gun2-clarinet",
+      "sourceWord": "黑管",
+      "sourceWordJyutping": "hak1 gun2",
+      "sourceWordMeaning": "clarinet",
+      "tags": [
+        "music",
+        "musical instrument",
+        "woodwind",
+        "school music",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hak1gun2-clarinet.json"
+    },
+    {
+      "sentenceId": "hak1gun2-clarinet-example-3",
+      "sentence": "呢支黑管聽落好柔和。",
+      "jyutping": "ni1 zi1 hak1 gun2 teng1 lok6 hou2 jau4 wo4",
+      "meaning": "This clarinet sounds very mellow.",
+      "sourceWordId": "hak1gun2-clarinet",
+      "sourceWord": "黑管",
+      "sourceWordJyutping": "hak1 gun2",
+      "sourceWordMeaning": "clarinet",
+      "tags": [
+        "music",
+        "musical instrument",
+        "woodwind",
+        "school music",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hak1gun2-clarinet.json"
+    },
+    {
+      "sentenceId": "hak1gun2-clarinet-example-4",
+      "sentence": "樂隊入面，黑管通常負責中高音部分。",
+      "jyutping": "ngok6 deoi6 jap6 min6 hak1 gun2 tung1 soeng4 fu6 zaak3 zung1 gou1 jam1 bou6 fan6",
+      "meaning": "In an ensemble, the clarinet usually handles the middle-to-high register.",
+      "sourceWordId": "hak1gun2-clarinet",
+      "sourceWord": "黑管",
+      "sourceWordJyutping": "hak1 gun2",
+      "sourceWordMeaning": "clarinet",
+      "tags": [
+        "music",
+        "musical instrument",
+        "woodwind",
+        "school music",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hak1gun2-clarinet.json"
+    },
+    {
+      "sentenceId": "soeng1wong4gun2-oboe-example-1",
+      "sentence": "我學校管弦樂團有一支雙簧管。",
+      "jyutping": "ngo5 hok6 haau6 gun2 jin4 ngaak6 tyun4 jau5 jat1 zi1 soeng1 wong4 gun2.",
+      "meaning": "My school orchestra has an oboe.",
+      "sourceWordId": "soeng1wong4gun2-oboe",
+      "sourceWord": "雙簧管",
+      "sourceWordJyutping": "soeng1 wong4 gun2",
+      "sourceWordMeaning": "oboe",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "classical music",
+        "woodwind",
+        "learner level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1wong4gun2-oboe.json"
+    },
+    {
+      "sentenceId": "soeng1wong4gun2-oboe-example-2",
+      "sentence": "老師今日教我哋點樣吹雙簧管。",
+      "jyutping": "lou5 si1 gam1 jat6 gaau3 ngo5 dei6 dim2 joeng6 ceoi1 soeng1 wong4 gun2.",
+      "meaning": "The teacher taught us how to play the oboe today.",
+      "sourceWordId": "soeng1wong4gun2-oboe",
+      "sourceWord": "雙簧管",
+      "sourceWordJyutping": "soeng1 wong4 gun2",
+      "sourceWordMeaning": "oboe",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "classical music",
+        "woodwind",
+        "learner level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1wong4gun2-oboe.json"
+    },
+    {
+      "sentenceId": "soeng1wong4gun2-oboe-example-3",
+      "sentence": "佢最鍾意聽雙簧管獨奏。",
+      "jyutping": "keoi5 zeoi3 zung1 ji3 teng1 soeng1 wong4 gun2 duk6 zau3.",
+      "meaning": "He likes listening to oboe solos the most.",
+      "sourceWordId": "soeng1wong4gun2-oboe",
+      "sourceWord": "雙簧管",
+      "sourceWordJyutping": "soeng1 wong4 gun2",
+      "sourceWordMeaning": "oboe",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "classical music",
+        "woodwind",
+        "learner level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1wong4gun2-oboe.json"
+    },
+    {
+      "sentenceId": "soeng1wong4gun2-oboe-example-4",
+      "sentence": "呢首歌加咗雙簧管，感覺即刻柔和咗。",
+      "jyutping": "ni1 sau2 go1 gaa1 zo2 soeng1 wong4 gun2, gam2 gok3 zik1 haak3 jau4 wo4 zo2.",
+      "meaning": "This song added oboe, and it immediately felt softer.",
+      "sourceWordId": "soeng1wong4gun2-oboe",
+      "sourceWord": "雙簧管",
+      "sourceWordJyutping": "soeng1 wong4 gun2",
+      "sourceWordMeaning": "oboe",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "classical music",
+        "woodwind",
+        "learner level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1wong4gun2-oboe.json"
+    },
+    {
+      "sentenceId": "daai6gun2-bassoon-example-1",
+      "sentence": "佢喺學校管弦樂團吹大管。",
+      "jyutping": "keoi5 hai2 hok6 haau6 gun2 jin4 ngok6 tyun4 ceoi1 daai6 gun2.",
+      "meaning": "He plays the bassoon in the school orchestra.",
+      "sourceWordId": "daai6gun2-bassoon",
+      "sourceWord": "大管",
+      "sourceWordJyutping": "daai6 gun2",
+      "sourceWordMeaning": "bassoon",
+      "tags": [
+        "music",
+        "instrument",
+        "orchestra",
+        "woodwind",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gun2-bassoon.json"
+    },
+    {
+      "sentenceId": "daai6gun2-bassoon-example-2",
+      "sentence": "呢支大管聲音好沉。",
+      "jyutping": "ni1 zi1 daai6 gun2 sing1 jam1 hou2 cam4.",
+      "meaning": "This bassoon has a very deep sound.",
+      "sourceWordId": "daai6gun2-bassoon",
+      "sourceWord": "大管",
+      "sourceWordJyutping": "daai6 gun2",
+      "sourceWordMeaning": "bassoon",
+      "tags": [
+        "music",
+        "instrument",
+        "orchestra",
+        "woodwind",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gun2-bassoon.json"
+    },
+    {
+      "sentenceId": "daai6gun2-bassoon-example-3",
+      "sentence": "我細個第一次見到大管。",
+      "jyutping": "ngo5 sai3 go3 dai6 jat6 ci3 gin3 dou3 daai6 gun2.",
+      "meaning": "The first time I saw a bassoon was when I was young.",
+      "sourceWordId": "daai6gun2-bassoon",
+      "sourceWord": "大管",
+      "sourceWordJyutping": "daai6 gun2",
+      "sourceWordMeaning": "bassoon",
+      "tags": [
+        "music",
+        "instrument",
+        "orchestra",
+        "woodwind",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gun2-bassoon.json"
+    },
+    {
+      "sentenceId": "daai6gun2-bassoon-example-4",
+      "sentence": "音樂老師話大管係好特別嘅樂器。",
+      "jyutping": "jam1 ngok6 lou5 si1 waa6 daai6 gun2 hai6 hou2 dak6 bit6 ge3 ngok6 hei3.",
+      "meaning": "The music teacher said the bassoon is a very special instrument.",
+      "sourceWordId": "daai6gun2-bassoon",
+      "sourceWord": "大管",
+      "sourceWordJyutping": "daai6 gun2",
+      "sourceWordMeaning": "bassoon",
+      "tags": [
+        "music",
+        "instrument",
+        "orchestra",
+        "woodwind",
+        "beginner",
+        "school music",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gun2-bassoon.json"
+    },
+    {
+      "sentenceId": "din6zi2kam4-keyboard-example-1",
+      "sentence": "我想學電子琴。",
+      "jyutping": "ngo5 soeng2 hok6 din6 zi2 kam4.",
+      "meaning": "I want to learn the keyboard.",
+      "sourceWordId": "din6zi2kam4-keyboard",
+      "sourceWord": "電子琴",
+      "sourceWordJyutping": "din6 zi2 kam4",
+      "sourceWordMeaning": "keyboard",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "beginner",
+        "noun",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2kam4-keyboard.json"
+    },
+    {
+      "sentenceId": "din6zi2kam4-keyboard-example-2",
+      "sentence": "佢屋企有一部電子琴。",
+      "jyutping": "keoi5 uk1 kei2 jau5 jat1 bou6 din6 zi2 kam4.",
+      "meaning": "He/She has a keyboard at home.",
+      "sourceWordId": "din6zi2kam4-keyboard",
+      "sourceWord": "電子琴",
+      "sourceWordJyutping": "din6 zi2 kam4",
+      "sourceWordMeaning": "keyboard",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "beginner",
+        "noun",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2kam4-keyboard.json"
+    },
+    {
+      "sentenceId": "din6zi2kam4-keyboard-example-3",
+      "sentence": "老師今日教我哋彈電子琴。",
+      "jyutping": "lou5 si1 gam1 jat6 gaau3 ngo5 dei6 taan4 din6 zi2 kam4.",
+      "meaning": "The teacher taught us to play the keyboard today.",
+      "sourceWordId": "din6zi2kam4-keyboard",
+      "sourceWord": "電子琴",
+      "sourceWordJyutping": "din6 zi2 kam4",
+      "sourceWordMeaning": "keyboard",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "beginner",
+        "noun",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2kam4-keyboard.json"
+    },
+    {
+      "sentenceId": "din6zi2kam4-keyboard-example-4",
+      "sentence": "呢部電子琴幾多錢？",
+      "jyutping": "ni1 bou6 din6 zi2 kam4 gei2 do1 cin2?",
+      "meaning": "How much is this keyboard?",
+      "sourceWordId": "din6zi2kam4-keyboard",
+      "sourceWord": "電子琴",
+      "sourceWordJyutping": "din6 zi2 kam4",
+      "sourceWordMeaning": "keyboard",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "beginner",
+        "noun",
+        "daily conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2kam4-keyboard.json"
+    },
+    {
+      "sentenceId": "fung1kam4-organ-example-1",
+      "sentence": "我細個學過彈風琴。",
+      "jyutping": "ngo5 sai3 go2 hok6 gwo3 taan4 fung1 kam4.",
+      "meaning": "I learned to play the organ when I was young.",
+      "sourceWordId": "fung1kam4-organ",
+      "sourceWord": "風琴",
+      "sourceWordJyutping": "fung1 kam4",
+      "sourceWordMeaning": "organ",
+      "tags": [
+        "music",
+        "musical instrument",
+        "level 1",
+        "noun",
+        "school vocabulary",
+        "concert",
+        "church",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1kam4-organ.json"
+    },
+    {
+      "sentenceId": "fung1kam4-organ-example-2",
+      "sentence": "教堂入面有一部好大嘅風琴。",
+      "jyutping": "gaau3 tong4 jap6 min6 jau5 jat1 bou6 hou2 daai6 ge3 fung1 kam4.",
+      "meaning": "There is a very large organ inside the church.",
+      "sourceWordId": "fung1kam4-organ",
+      "sourceWord": "風琴",
+      "sourceWordJyutping": "fung1 kam4",
+      "sourceWordMeaning": "organ",
+      "tags": [
+        "music",
+        "musical instrument",
+        "level 1",
+        "noun",
+        "school vocabulary",
+        "concert",
+        "church",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1kam4-organ.json"
+    },
+    {
+      "sentenceId": "fung1kam4-organ-example-3",
+      "sentence": "老師今日教我哋認識風琴。",
+      "jyutping": "lou5 si1 gam1 jat6 gaau3 ngo5 dei6 jing6 sik1 fung1 kam4.",
+      "meaning": "The teacher taught us about the organ today.",
+      "sourceWordId": "fung1kam4-organ",
+      "sourceWord": "風琴",
+      "sourceWordJyutping": "fung1 kam4",
+      "sourceWordMeaning": "organ",
+      "tags": [
+        "music",
+        "musical instrument",
+        "level 1",
+        "noun",
+        "school vocabulary",
+        "concert",
+        "church",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1kam4-organ.json"
+    },
+    {
+      "sentenceId": "fung1kam4-organ-example-4",
+      "sentence": "佢好鍾意聽風琴演奏。",
+      "jyutping": "keoi5 hou2 zung1 ji3 teng1 fung1 kam4 jin5 zau3.",
+      "meaning": "He/She really likes listening to organ performances.",
+      "sourceWordId": "fung1kam4-organ",
+      "sourceWord": "風琴",
+      "sourceWordJyutping": "fung1 kam4",
+      "sourceWordMeaning": "organ",
+      "tags": [
+        "music",
+        "musical instrument",
+        "level 1",
+        "noun",
+        "school vocabulary",
+        "concert",
+        "church",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fung1kam4-organ.json"
+    },
+    {
+      "sentenceId": "syu6kam4-harp-example-1",
+      "sentence": "我細個已經好鍾意聽豎琴聲。",
+      "jyutping": "ngo5 sai3 go3 ji5 ging1 hou2 zung1 ji3 teng1 syu6 kam4 seng1.",
+      "meaning": "I’ve liked listening to the sound of the harp since I was young.",
+      "sourceWordId": "syu6kam4-harp",
+      "sourceWord": "豎琴",
+      "sourceWordJyutping": "syu6 kam4",
+      "sourceWordMeaning": "harp",
+      "tags": [
+        "music",
+        "musical instruments",
+        "harp",
+        "formal",
+        "school",
+        "concert",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6kam4-harp.json"
+    },
+    {
+      "sentenceId": "syu6kam4-harp-example-2",
+      "sentence": "佢喺音樂學院學豎琴。",
+      "jyutping": "keoi5 hai2 jam1 ngok6 hok6 jyun2 hok6 syu6 kam4.",
+      "meaning": "She studies harp at the music academy.",
+      "sourceWordId": "syu6kam4-harp",
+      "sourceWord": "豎琴",
+      "sourceWordJyutping": "syu6 kam4",
+      "sourceWordMeaning": "harp",
+      "tags": [
+        "music",
+        "musical instruments",
+        "harp",
+        "formal",
+        "school",
+        "concert",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6kam4-harp.json"
+    },
+    {
+      "sentenceId": "syu6kam4-harp-example-3",
+      "sentence": "今晚音樂會有豎琴獨奏。",
+      "jyutping": "gam1 maan5 jam1 ngok6 wui2 jau5 syu6 kam4 duk6 zau3.",
+      "meaning": "There will be a harp solo at tonight’s concert.",
+      "sourceWordId": "syu6kam4-harp",
+      "sourceWord": "豎琴",
+      "sourceWordJyutping": "syu6 kam4",
+      "sourceWordMeaning": "harp",
+      "tags": [
+        "music",
+        "musical instruments",
+        "harp",
+        "formal",
+        "school",
+        "concert",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6kam4-harp.json"
+    },
+    {
+      "sentenceId": "syu6kam4-harp-example-4",
+      "sentence": "老師叫我哋留意豎琴嘅音色。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 lau4 ji3 syu6 kam4 ge3 jam1 sik1.",
+      "meaning": "The teacher told us to pay attention to the harp’s tone quality.",
+      "sourceWordId": "syu6kam4-harp",
+      "sourceWord": "豎琴",
+      "sourceWordJyutping": "syu6 kam4",
+      "sourceWordMeaning": "harp",
+      "tags": [
+        "music",
+        "musical instruments",
+        "harp",
+        "formal",
+        "school",
+        "concert",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syu6kam4-harp.json"
+    },
+    {
+      "sentenceId": "wu1hak1lai6lai6-ukulele-example-1",
+      "sentence": "我細個開始學烏克麗麗。",
+      "jyutping": "ngo5 sai3 go3 hoi2 si4 hok6 wu1 hak1 lai6 lai6.",
+      "meaning": "I started learning the ukulele when I was young.",
+      "sourceWordId": "wu1hak1lai6lai6-ukulele",
+      "sourceWord": "烏克麗麗",
+      "sourceWordJyutping": "wu1 hak1 lai6 lai6",
+      "sourceWordMeaning": "ukulele",
+      "tags": [
+        "music",
+        "musical instrument",
+        "loanword",
+        "beginner",
+        "hobby",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu1hak1lai6lai6-ukulele.json"
+    },
+    {
+      "sentenceId": "wu1hak1lai6lai6-ukulele-example-2",
+      "sentence": "佢今日帶咗烏克麗麗去學校表演。",
+      "jyutping": "keoi5 gam1 jat6 daai3 zo2 wu1 hak1 lai6 lai6 heoi3 hok6 haau6 biu2 jim6.",
+      "meaning": "He/She brought a ukulele to school for a performance today.",
+      "sourceWordId": "wu1hak1lai6lai6-ukulele",
+      "sourceWord": "烏克麗麗",
+      "sourceWordJyutping": "wu1 hak1 lai6 lai6",
+      "sourceWordMeaning": "ukulele",
+      "tags": [
+        "music",
+        "musical instrument",
+        "loanword",
+        "beginner",
+        "hobby",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu1hak1lai6lai6-ukulele.json"
+    },
+    {
+      "sentenceId": "wu1hak1lai6lai6-ukulele-example-3",
+      "sentence": "呢首歌好啱用烏克麗麗伴奏。",
+      "jyutping": "ni1 sau2 go1 hou2 ngaam1 jung6 wu1 hak1 lai6 lai6 bun6 zou3.",
+      "meaning": "This song is very suitable for ukulele accompaniment.",
+      "sourceWordId": "wu1hak1lai6lai6-ukulele",
+      "sourceWord": "烏克麗麗",
+      "sourceWordJyutping": "wu1 hak1 lai6 lai6",
+      "sourceWordMeaning": "ukulele",
+      "tags": [
+        "music",
+        "musical instrument",
+        "loanword",
+        "beginner",
+        "hobby",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu1hak1lai6lai6-ukulele.json"
+    },
+    {
+      "sentenceId": "wu1hak1lai6lai6-ukulele-example-4",
+      "sentence": "我想買一支新烏克麗麗。",
+      "jyutping": "ngo5 soeng2 maai5 jat1 zi1 san1 wu1 hak1 lai6 lai6.",
+      "meaning": "I want to buy a new ukulele.",
+      "sourceWordId": "wu1hak1lai6lai6-ukulele",
+      "sourceWord": "烏克麗麗",
+      "sourceWordJyutping": "wu1 hak1 lai6 lai6",
+      "sourceWordMeaning": "ukulele",
+      "tags": [
+        "music",
+        "musical instrument",
+        "loanword",
+        "beginner",
+        "hobby",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu1hak1lai6lai6-ukulele.json"
+    },
+    {
+      "sentenceId": "tung4bat6-cymbals-example-1",
+      "sentence": "佢喺學校樂團打銅鈸。",
+      "jyutping": "keoi5 hai2 hok6 haau6 ngok6 tyun4 daa2 tung4 bat6.",
+      "meaning": "He plays the cymbals in the school ensemble.",
+      "sourceWordId": "tung4bat6-cymbals",
+      "sourceWord": "銅鈸",
+      "sourceWordJyutping": "tung4 bat6",
+      "sourceWordMeaning": "cymbals",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tung4bat6-cymbals.json"
+    },
+    {
+      "sentenceId": "tung4bat6-cymbals-example-2",
+      "sentence": "呢對銅鈸好重，拎起上嚟都幾攰。",
+      "jyutping": "ni1 deoi3 tung4 bat6 hou2 zung6, ling1 hei2 soeng5 lai4 dou1 gei2 gui6.",
+      "meaning": "This pair of cymbals is very heavy, and lifting it is quite tiring.",
+      "sourceWordId": "tung4bat6-cymbals",
+      "sourceWord": "銅鈸",
+      "sourceWordJyutping": "tung4 bat6",
+      "sourceWordMeaning": "cymbals",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tung4bat6-cymbals.json"
+    },
+    {
+      "sentenceId": "tung4bat6-cymbals-example-3",
+      "sentence": "鼓手一敲銅鈸，全場都聽得好清楚。",
+      "jyutping": "gu2 sau2 jat1 haau1 tung4 bat6, cyun4 coeng4 dou1 teng1 dak1 hou2 cing1 co2.",
+      "meaning": "As soon as the drummer struck the cymbals, everyone could hear it clearly.",
+      "sourceWordId": "tung4bat6-cymbals",
+      "sourceWord": "銅鈸",
+      "sourceWordJyutping": "tung4 bat6",
+      "sourceWordMeaning": "cymbals",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tung4bat6-cymbals.json"
+    },
+    {
+      "sentenceId": "tung4bat6-cymbals-example-4",
+      "sentence": "老師教我哋分辨大銅鈸同細銅鈸。",
+      "jyutping": "lou5 si1 gaau3 ngo5 dei6 fan1 bin6 daai6 tung4 bat6 tung4 sai3 tung4 bat6.",
+      "meaning": "The teacher taught us to tell the difference between large cymbals and small cymbals.",
+      "sourceWordId": "tung4bat6-cymbals",
+      "sourceWord": "銅鈸",
+      "sourceWordJyutping": "tung4 bat6",
+      "sourceWordMeaning": "cymbals",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "orchestra",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/tung4bat6-cymbals.json"
+    },
+    {
+      "sentenceId": "muk6kam4-xylophone-example-1",
+      "sentence": "細路仔喺音樂課敲木琴。",
+      "jyutping": "sai3 lou6 zai2 hai2 jam1 ngok6 fo3 haau1 muk6 kam4.",
+      "meaning": "The child is striking the xylophone in music class.",
+      "sourceWordId": "muk6kam4-xylophone",
+      "sourceWord": "木琴",
+      "sourceWordJyutping": "muk6 kam4",
+      "sourceWordMeaning": "xylophone",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "elementary",
+        "noun",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6kam4-xylophone.json"
+    },
+    {
+      "sentenceId": "muk6kam4-xylophone-example-2",
+      "sentence": "呢架木琴聲音好清脆。",
+      "jyutping": "ni1 gaa3 muk6 kam4 seng1 jam1 hou2 cing1 ceoi3.",
+      "meaning": "This xylophone has a very crisp sound.",
+      "sourceWordId": "muk6kam4-xylophone",
+      "sourceWord": "木琴",
+      "sourceWordJyutping": "muk6 kam4",
+      "sourceWordMeaning": "xylophone",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "elementary",
+        "noun",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6kam4-xylophone.json"
+    },
+    {
+      "sentenceId": "muk6kam4-xylophone-example-3",
+      "sentence": "老師叫我哋輪流彈木琴。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 leon4 lau4 taan4 muk6 kam4.",
+      "meaning": "The teacher asked us to take turns playing the xylophone.",
+      "sourceWordId": "muk6kam4-xylophone",
+      "sourceWord": "木琴",
+      "sourceWordJyutping": "muk6 kam4",
+      "sourceWordMeaning": "xylophone",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "elementary",
+        "noun",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6kam4-xylophone.json"
+    },
+    {
+      "sentenceId": "muk6kam4-xylophone-example-4",
+      "sentence": "佢想買一部細木琴畀小朋友學。",
+      "jyutping": "keoi5 soeng2 maai5 jat1 bou6 sai3 muk6 kam4 bei2 siu2 pang4 jau5 hok6.",
+      "meaning": "He wants to buy a small xylophone for a child to learn on.",
+      "sourceWordId": "muk6kam4-xylophone",
+      "sourceWord": "木琴",
+      "sourceWordJyutping": "muk6 kam4",
+      "sourceWordMeaning": "xylophone",
+      "tags": [
+        "music",
+        "instrument",
+        "school",
+        "elementary",
+        "noun",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/muk6kam4-xylophone.json"
+    },
+    {
+      "sentenceId": "maa5lam4baa1kam4-marimba-example-1",
+      "sentence": "馬林巴琴聲好清脆，成個音樂廳都聽得到。",
+      "jyutping": "maa5 lam4 baa1 kam4 seng1 hou2 cing1 ceoi3, sing4 go3 jam1 ngak6 teng1 dou1 teng1 dou2.",
+      "meaning": "The marimba sounds very crisp, and you can hear it throughout the concert hall.",
+      "sourceWordId": "maa5lam4baa1kam4-marimba",
+      "sourceWord": "馬林巴琴",
+      "sourceWordJyutping": "maa5 lam4 baa1 kam4",
+      "sourceWordMeaning": "marimba",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "school music",
+        "loanword",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5lam4baa1kam4-marimba.json"
+    },
+    {
+      "sentenceId": "maa5lam4baa1kam4-marimba-example-2",
+      "sentence": "我細個學過敲馬林巴琴。",
+      "jyutping": "ngo5 sai3 go3 hok6 gwo3 haau1 maa5 lam4 baa1 kam4.",
+      "meaning": "When I was young, I learned to play the marimba.",
+      "sourceWordId": "maa5lam4baa1kam4-marimba",
+      "sourceWord": "馬林巴琴",
+      "sourceWordJyutping": "maa5 lam4 baa1 kam4",
+      "sourceWordMeaning": "marimba",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "school music",
+        "loanword",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5lam4baa1kam4-marimba.json"
+    },
+    {
+      "sentenceId": "maa5lam4baa1kam4-marimba-example-3",
+      "sentence": "呢間學校有一部好新嘅馬林巴琴。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 jat1 bou6 hou2 san1 ge3 maa5 lam4 baa1 kam4.",
+      "meaning": "This school has a very new marimba.",
+      "sourceWordId": "maa5lam4baa1kam4-marimba",
+      "sourceWord": "馬林巴琴",
+      "sourceWordJyutping": "maa5 lam4 baa1 kam4",
+      "sourceWordMeaning": "marimba",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "school music",
+        "loanword",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5lam4baa1kam4-marimba.json"
+    },
+    {
+      "sentenceId": "maa5lam4baa1kam4-marimba-example-4",
+      "sentence": "樂隊排練時，馬林巴琴負責提供和聲同節奏。",
+      "jyutping": "ngok6 deoi6 paai4 lin6 si4, maa5 lam4 baa1 kam4 fu6 zaak3 taai4 gung1 wo4 sing1 tung4 zit3 zau3.",
+      "meaning": "During the band rehearsal, the marimba provides harmony and rhythm.",
+      "sourceWordId": "maa5lam4baa1kam4-marimba",
+      "sourceWord": "馬林巴琴",
+      "sourceWordJyutping": "maa5 lam4 baa1 kam4",
+      "sourceWordMeaning": "marimba",
+      "tags": [
+        "music",
+        "musical instruments",
+        "orchestra",
+        "school music",
+        "loanword",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maa5lam4baa1kam4-marimba.json"
+    },
+    {
+      "sentenceId": "siu2gu2-snare-drum-example-1",
+      "sentence": "我學咗打小鼓。",
+      "jyutping": "ngo5 hok6 zo2 daa2 siu2 gu2.",
+      "meaning": "I learned to play the snare drum.",
+      "sourceWordId": "siu2gu2-snare-drum",
+      "sourceWord": "小鼓",
+      "sourceWordJyutping": "siu2 gu2",
+      "sourceWordMeaning": "snare drum",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "drums",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2gu2-snare-drum.json"
+    },
+    {
+      "sentenceId": "siu2gu2-snare-drum-example-2",
+      "sentence": "樂隊入面，小鼓好重要。",
+      "jyutping": "lok6 deoi2 jap6 min6, siu2 gu2 hou2 zung6 jiu3.",
+      "meaning": "In a band, the snare drum is very important.",
+      "sourceWordId": "siu2gu2-snare-drum",
+      "sourceWord": "小鼓",
+      "sourceWordJyutping": "siu2 gu2",
+      "sourceWordMeaning": "snare drum",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "drums",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2gu2-snare-drum.json"
+    },
+    {
+      "sentenceId": "siu2gu2-snare-drum-example-3",
+      "sentence": "佢今日喺學校練小鼓。",
+      "jyutping": "keoi5 gam1 jat6 hai2 hok6 haau6 lin6 siu2 gu2.",
+      "meaning": "He is practicing the snare drum at school today.",
+      "sourceWordId": "siu2gu2-snare-drum",
+      "sourceWord": "小鼓",
+      "sourceWordJyutping": "siu2 gu2",
+      "sourceWordMeaning": "snare drum",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "drums",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2gu2-snare-drum.json"
+    },
+    {
+      "sentenceId": "siu2gu2-snare-drum-example-4",
+      "sentence": "呢隻歌個小鼓節奏好明顯。",
+      "jyutping": "ni1 zek3 go1 go3 siu2 gu2 zit3 zou3 hou2 ming4 hin2.",
+      "meaning": "The snare drum rhythm in this song is very clear.",
+      "sourceWordId": "siu2gu2-snare-drum",
+      "sourceWord": "小鼓",
+      "sourceWordJyutping": "siu2 gu2",
+      "sourceWordMeaning": "snare drum",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "band",
+        "drums",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2gu2-snare-drum.json"
+    },
+    {
+      "sentenceId": "daai6gu2-bass-drum-example-1",
+      "sentence": "樂隊入面有一個大鼓。",
+      "jyutping": "lok6 deoi6 jap6 min6 jau5 jat1 go3 daai6 gu2.",
+      "meaning": "There is a bass drum in the band.",
+      "sourceWordId": "daai6gu2-bass-drum",
+      "sourceWord": "大鼓",
+      "sourceWordJyutping": "daai6 gu2",
+      "sourceWordMeaning": "bass drum",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "percussion",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gu2-bass-drum.json"
+    },
+    {
+      "sentenceId": "daai6gu2-bass-drum-example-2",
+      "sentence": "佢負責打大鼓。",
+      "jyutping": "keoi5 fu6 ze2 daa2 daai6 gu2.",
+      "meaning": "He is responsible for playing the bass drum.",
+      "sourceWordId": "daai6gu2-bass-drum",
+      "sourceWord": "大鼓",
+      "sourceWordJyutping": "daai6 gu2",
+      "sourceWordMeaning": "bass drum",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "percussion",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gu2-bass-drum.json"
+    },
+    {
+      "sentenceId": "daai6gu2-bass-drum-example-3",
+      "sentence": "大鼓聲好震。",
+      "jyutping": "daai6 gu2 seng1 hou2 zan3.",
+      "meaning": "The bass drum sound is very powerful.",
+      "sourceWordId": "daai6gu2-bass-drum",
+      "sourceWord": "大鼓",
+      "sourceWordJyutping": "daai6 gu2",
+      "sourceWordMeaning": "bass drum",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "percussion",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gu2-bass-drum.json"
+    },
+    {
+      "sentenceId": "daai6gu2-bass-drum-example-4",
+      "sentence": "學校操場上面擺咗一個大鼓。",
+      "jyutping": "hok6 haau6 cou1 coeng4 soeng6 min6 baai2 zo2 jat1 go3 daai6 gu2.",
+      "meaning": "A bass drum was placed on the school playground.",
+      "sourceWordId": "daai6gu2-bass-drum",
+      "sourceWord": "大鼓",
+      "sourceWordJyutping": "daai6 gu2",
+      "sourceWordMeaning": "bass drum",
+      "tags": [
+        "music",
+        "musical instrument",
+        "band",
+        "percussion",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/daai6gu2-bass-drum.json"
+    },
+    {
+      "sentenceId": "ling4gu2-tambourine-example-1",
+      "sentence": "佢喺學校表演度打鈴鼓。",
+      "jyutping": "keoi5 hai2 hok6 haau6 biu2 jin2 dou6 daa2 ling4 gu2.",
+      "meaning": "He/she played the tambourine in a school performance.",
+      "sourceWordId": "ling4gu2-tambourine",
+      "sourceWord": "鈴鼓",
+      "sourceWordJyutping": "ling4 gu2",
+      "sourceWordMeaning": "tambourine",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "performance",
+        "school",
+        "children",
+        "easy",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ling4gu2-tambourine.json"
+    },
+    {
+      "sentenceId": "ling4gu2-tambourine-example-2",
+      "sentence": "細路仔好鍾意跟住音樂搖鈴鼓。",
+      "jyutping": "sai3 lou6 zai2 hou2 zung1 ji3 gan1 zyu6 jam1 ngok6 jiu4 ling4 gu2.",
+      "meaning": "Children like to shake the tambourine along with the music.",
+      "sourceWordId": "ling4gu2-tambourine",
+      "sourceWord": "鈴鼓",
+      "sourceWordJyutping": "ling4 gu2",
+      "sourceWordMeaning": "tambourine",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "performance",
+        "school",
+        "children",
+        "easy",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ling4gu2-tambourine.json"
+    },
+    {
+      "sentenceId": "ling4gu2-tambourine-example-3",
+      "sentence": "樂隊加咗鈴鼓，成首歌聽落更有節奏。",
+      "jyutping": "ngok6 deoi6 gaa1 zo2 ling4 gu2, sing4 sau2 go1 teng1 lok6 gang3 jau5 zit3 zau6.",
+      "meaning": "The band added a tambourine, and the whole song sounds more rhythmic.",
+      "sourceWordId": "ling4gu2-tambourine",
+      "sourceWord": "鈴鼓",
+      "sourceWordJyutping": "ling4 gu2",
+      "sourceWordMeaning": "tambourine",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "performance",
+        "school",
+        "children",
+        "easy",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ling4gu2-tambourine.json"
+    },
+    {
+      "sentenceId": "ling4gu2-tambourine-example-4",
+      "sentence": "老師叫我哋輪流打鈴鼓。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 leon4 lau4 daa2 ling4 gu2.",
+      "meaning": "The teacher asked us to take turns playing the tambourine.",
+      "sourceWordId": "ling4gu2-tambourine",
+      "sourceWord": "鈴鼓",
+      "sourceWordJyutping": "ling4 gu2",
+      "sourceWordMeaning": "tambourine",
+      "tags": [
+        "music",
+        "instrument",
+        "percussion",
+        "performance",
+        "school",
+        "children",
+        "easy",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ling4gu2-tambourine.json"
+    },
+    {
+      "sentenceId": "saam1gok3tit3-triangle-example-1",
+      "sentence": "音樂堂入面，老師叫我哋敲三角鐵。",
+      "jyutping": "jam1 ngok6 tong4 jap6 min6, lou5 si1 giu3 ngo5 dei6 haau1 saam1 gok3 tit3.",
+      "meaning": "In music class, the teacher asked us to play the triangle.",
+      "sourceWordId": "saam1gok3tit3-triangle",
+      "sourceWord": "三角鐵",
+      "sourceWordJyutping": "saam1 gok3 tit3",
+      "sourceWordMeaning": "triangle",
+      "tags": [
+        "music",
+        "musical instrument",
+        "percussion",
+        "school music",
+        "easy vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1gok3tit3-triangle.json"
+    },
+    {
+      "sentenceId": "saam1gok3tit3-triangle-example-2",
+      "sentence": "佢識得彈鋼琴，又識敲三角鐵。",
+      "jyutping": "keoi5 sik1 dak1 taan4 gong3 kam4, jau6 sik1 haau1 saam1 gok3 tit3.",
+      "meaning": "He/she can play the piano and also play the triangle.",
+      "sourceWordId": "saam1gok3tit3-triangle",
+      "sourceWord": "三角鐵",
+      "sourceWordJyutping": "saam1 gok3 tit3",
+      "sourceWordMeaning": "triangle",
+      "tags": [
+        "music",
+        "musical instrument",
+        "percussion",
+        "school music",
+        "easy vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1gok3tit3-triangle.json"
+    },
+    {
+      "sentenceId": "saam1gok3tit3-triangle-example-3",
+      "sentence": "呢個三角鐵好細，放喺樂器箱都得。",
+      "jyutping": "ni1 go3 saam1 gok3 tit3 hou2 sai3, fong3 hai2 ngok6 hei3 soeng1 dou1 dak1.",
+      "meaning": "This triangle is very small; it can fit in an instrument case.",
+      "sourceWordId": "saam1gok3tit3-triangle",
+      "sourceWord": "三角鐵",
+      "sourceWordJyutping": "saam1 gok3 tit3",
+      "sourceWordMeaning": "triangle",
+      "tags": [
+        "music",
+        "musical instrument",
+        "percussion",
+        "school music",
+        "easy vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1gok3tit3-triangle.json"
+    },
+    {
+      "sentenceId": "saam1gok3tit3-triangle-example-4",
+      "sentence": "表演開始之前，記得先試下三角鐵嘅聲。",
+      "jyutping": "biu2 jin2 hoi1 ci2 zi1 cin4, gei3 dak1 sin1 si3 haa5 saam1 gok3 tit3 ge3 seng1.",
+      "meaning": "Before the performance starts, remember to test the sound of the triangle first.",
+      "sourceWordId": "saam1gok3tit3-triangle",
+      "sourceWord": "三角鐵",
+      "sourceWordJyutping": "saam1 gok3 tit3",
+      "sourceWordMeaning": "triangle",
+      "tags": [
+        "music",
+        "musical instrument",
+        "percussion",
+        "school music",
+        "easy vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1gok3tit3-triangle.json"
+    },
+    {
+      "sentenceId": "ji6wu4-erhu-example-1",
+      "sentence": "佢識拉二胡。",
+      "jyutping": "keoi5 sik1 laa1 ji6 wu4.",
+      "meaning": "He/she knows how to play the erhu.",
+      "sourceWordId": "ji6wu4-erhu",
+      "sourceWord": "二胡",
+      "sourceWordJyutping": "ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "Chinese traditional music",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "ji6wu4-erhu-example-2",
+      "sentence": "我哋學校有二胡班。",
+      "jyutping": "ngo5 dei6 hok6 haau6 jau5 ji6 wu4 baan1.",
+      "meaning": "Our school has an erhu class.",
+      "sourceWordId": "ji6wu4-erhu",
+      "sourceWord": "二胡",
+      "sourceWordJyutping": "ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "Chinese traditional music",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "ji6wu4-erhu-example-3",
+      "sentence": "呢把二胡好靚聲。",
+      "jyutping": "ni1 baa2 ji6 wu4 hou2 leng3 sing1.",
+      "meaning": "This erhu has a beautiful sound.",
+      "sourceWordId": "ji6wu4-erhu",
+      "sourceWord": "二胡",
+      "sourceWordJyutping": "ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "Chinese traditional music",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "ji6wu4-erhu-example-4",
+      "sentence": "老師今日教我哋拉二胡。",
+      "jyutping": "lou5 si1 gam1 jat6 gaau3 ngo5 dei6 laa1 ji6 wu4.",
+      "meaning": "The teacher taught us to play the erhu today.",
+      "sourceWordId": "ji6wu4-erhu",
+      "sourceWord": "二胡",
+      "sourceWordJyutping": "ji6 wu4",
+      "sourceWordMeaning": "erhu",
+      "tags": [
+        "music",
+        "instrument",
+        "string instrument",
+        "Chinese traditional music",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji6wu4-erhu.json"
+    },
+    {
+      "sentenceId": "gu2zang1-guzheng-example-1",
+      "sentence": "我細個開始學古箏。",
+      "jyutping": "ngo5 sai3 go3 hoi1 ci2 hok6 gu2 zang1.",
+      "meaning": "I started learning the guzheng when I was young.",
+      "sourceWordId": "gu2zang1-guzheng",
+      "sourceWord": "古箏",
+      "sourceWordJyutping": "gu2 zang1",
+      "sourceWordMeaning": "guzheng",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional Chinese instrument",
+        "beginner",
+        "noun",
+        "school music",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2zang1-guzheng.json"
+    },
+    {
+      "sentenceId": "gu2zang1-guzheng-example-2",
+      "sentence": "呢間學校有古箏班。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 gu2 zang1 baan1.",
+      "meaning": "This school has a guzheng class.",
+      "sourceWordId": "gu2zang1-guzheng",
+      "sourceWord": "古箏",
+      "sourceWordJyutping": "gu2 zang1",
+      "sourceWordMeaning": "guzheng",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional Chinese instrument",
+        "beginner",
+        "noun",
+        "school music",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2zang1-guzheng.json"
+    },
+    {
+      "sentenceId": "gu2zang1-guzheng-example-3",
+      "sentence": "佢彈古箏彈得好好聽。",
+      "jyutping": "keoi5 taan4 gu2 zang1 taan4 dak1 hou2 hou2 teng1.",
+      "meaning": "She plays the guzheng very beautifully.",
+      "sourceWordId": "gu2zang1-guzheng",
+      "sourceWord": "古箏",
+      "sourceWordJyutping": "gu2 zang1",
+      "sourceWordMeaning": "guzheng",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional Chinese instrument",
+        "beginner",
+        "noun",
+        "school music",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2zang1-guzheng.json"
+    },
+    {
+      "sentenceId": "gu2zang1-guzheng-example-4",
+      "sentence": "音樂會入面有古箏表演。",
+      "jyutping": "jam1 ngok6 wui2 jap6 min6 jau5 gu2 zang1 biu2 jin2.",
+      "meaning": "There was a guzheng performance in the concert.",
+      "sourceWordId": "gu2zang1-guzheng",
+      "sourceWord": "古箏",
+      "sourceWordJyutping": "gu2 zang1",
+      "sourceWordMeaning": "guzheng",
+      "tags": [
+        "music",
+        "instrument",
+        "traditional Chinese instrument",
+        "beginner",
+        "noun",
+        "school music",
+        "concert",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2zang1-guzheng.json"
+    },
+    {
+      "sentenceId": "pei4paa4-pipa-example-1",
+      "sentence": "我細個已經好鍾意聽琵琶聲。",
+      "jyutping": "ngo5 sai3 go3 ji5 ging1 hou2 zung1ji3 teng1 pei4 paa4 seng1.",
+      "meaning": "I have liked listening to pipa music since I was young.",
+      "sourceWordId": "pei4paa4-pipa",
+      "sourceWord": "琵琶",
+      "sourceWordJyutping": "pei4 paa4",
+      "sourceWordMeaning": "pipa",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese instrument",
+        "noun",
+        "beginner",
+        "cultural vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pei4paa4-pipa.json"
+    },
+    {
+      "sentenceId": "pei4paa4-pipa-example-2",
+      "sentence": "佢今日喺學校表演琵琶。",
+      "jyutping": "keoi5 gam1 jat6 hai2 hok6 haau6 biu2 jin2 pei4 paa4.",
+      "meaning": "He/She is performing the pipa at school today.",
+      "sourceWordId": "pei4paa4-pipa",
+      "sourceWord": "琵琶",
+      "sourceWordJyutping": "pei4 paa4",
+      "sourceWordMeaning": "pipa",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese instrument",
+        "noun",
+        "beginner",
+        "cultural vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pei4paa4-pipa.json"
+    },
+    {
+      "sentenceId": "pei4paa4-pipa-example-3",
+      "sentence": "老師教我點樣彈琵琶。",
+      "jyutping": "lou5si1 gaau3 ngo5 dim2 joeng6 taan4 pei4 paa4.",
+      "meaning": "The teacher taught me how to play the pipa.",
+      "sourceWordId": "pei4paa4-pipa",
+      "sourceWord": "琵琶",
+      "sourceWordJyutping": "pei4 paa4",
+      "sourceWordMeaning": "pipa",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese instrument",
+        "noun",
+        "beginner",
+        "cultural vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pei4paa4-pipa.json"
+    },
+    {
+      "sentenceId": "pei4paa4-pipa-example-4",
+      "sentence": "呢間博物館有一把好舊嘅琵琶。",
+      "jyutping": "ni1 gaan1 bok3 mat6 gun2 jau5 jat1 baa2 hou2 gau6 ge3 pei4 paa4.",
+      "meaning": "This museum has a very old pipa.",
+      "sourceWordId": "pei4paa4-pipa",
+      "sourceWord": "琵琶",
+      "sourceWordJyutping": "pei4 paa4",
+      "sourceWordMeaning": "pipa",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese instrument",
+        "noun",
+        "beginner",
+        "cultural vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/pei4paa4-pipa.json"
+    },
+    {
+      "sentenceId": "dek6zi2-bamboo-flute-example-1",
+      "sentence": "我細個學過吹笛子。",
+      "jyutping": "ngo5 sai3 go3 hok6 gwo3 ceoi1 dek6 zi2.",
+      "meaning": "I learned to play the bamboo flute when I was young.",
+      "sourceWordId": "dek6zi2-bamboo-flute",
+      "sourceWord": "笛子",
+      "sourceWordJyutping": "dek6 zi2",
+      "sourceWordMeaning": "bamboo flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese music",
+        "countable noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dek6zi2-bamboo-flute.json"
+    },
+    {
+      "sentenceId": "dek6zi2-bamboo-flute-example-2",
+      "sentence": "呢支笛子嘅聲好清脆。",
+      "jyutping": "ni1 zi1 dek6 zi2 ge3 seng1 hou2 cing1 ceoi3.",
+      "meaning": "This bamboo flute sounds very clear and bright.",
+      "sourceWordId": "dek6zi2-bamboo-flute",
+      "sourceWord": "笛子",
+      "sourceWordJyutping": "dek6 zi2",
+      "sourceWordMeaning": "bamboo flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese music",
+        "countable noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dek6zi2-bamboo-flute.json"
+    },
+    {
+      "sentenceId": "dek6zi2-bamboo-flute-example-3",
+      "sentence": "老師今日教我哋認識笛子。",
+      "jyutping": "lou5 si1 gam1 jat6 gaau3 ngo5 dei6 jing6 sik1 dek6 zi2.",
+      "meaning": "The teacher taught us about the bamboo flute today.",
+      "sourceWordId": "dek6zi2-bamboo-flute",
+      "sourceWord": "笛子",
+      "sourceWordJyutping": "dek6 zi2",
+      "sourceWordMeaning": "bamboo flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese music",
+        "countable noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dek6zi2-bamboo-flute.json"
+    },
+    {
+      "sentenceId": "dek6zi2-bamboo-flute-example-4",
+      "sentence": "佢喺學校樂隊入面吹笛子。",
+      "jyutping": "keoi5 hai2 hok6 haau6 ngok6 deui2 jap6 min6 ceoi1 dek6 zi2.",
+      "meaning": "He plays the bamboo flute in the school band.",
+      "sourceWordId": "dek6zi2-bamboo-flute",
+      "sourceWord": "笛子",
+      "sourceWordJyutping": "dek6 zi2",
+      "sourceWordMeaning": "bamboo flute",
+      "tags": [
+        "music",
+        "musical instrument",
+        "traditional Chinese music",
+        "countable noun",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dek6zi2-bamboo-flute.json"
+    },
+    {
+      "sentenceId": "jin2zau3-to-perform-music-example-1",
+      "sentence": "今晚佢喺音樂會上演奏鋼琴。",
+      "jyutping": "gam1 maan5 keoi5 hai2 jik6 joek6 wui2 soeng6 jin2 zau3 gon3 kam4.",
+      "meaning": "He will perform piano at the concert tonight.",
+      "sourceWordId": "jin2zau3-to-perform-music",
+      "sourceWord": "演奏",
+      "sourceWordJyutping": "jin2 zau3",
+      "sourceWordMeaning": "to perform music",
+      "tags": [
+        "music",
+        "performance",
+        "formal",
+        "verb",
+        "concert",
+        "instrument",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3-to-perform-music.json"
+    },
+    {
+      "sentenceId": "jin2zau3-to-perform-music-example-2",
+      "sentence": "呢位小朋友識演奏小提琴。",
+      "jyutping": "ni1 wai2 siu2 pang4 jau5 sik1 jin2 zau3 siu2 tai4 kam4.",
+      "meaning": "This child knows how to play the violin.",
+      "sourceWordId": "jin2zau3-to-perform-music",
+      "sourceWord": "演奏",
+      "sourceWordJyutping": "jin2 zau3",
+      "sourceWordMeaning": "to perform music",
+      "tags": [
+        "music",
+        "performance",
+        "formal",
+        "verb",
+        "concert",
+        "instrument",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3-to-perform-music.json"
+    },
+    {
+      "sentenceId": "jin2zau3-to-perform-music-example-3",
+      "sentence": "學校邀請樂團嚟演奏幾首經典作品。",
+      "jyutping": "hok6 haau6 jiu1 cing2 ngok6 tyun4 lei4 jin2 zau3 gei2 sau2 ging1 din2 zok3 ban2.",
+      "meaning": "The school invited the orchestra to perform several classic pieces.",
+      "sourceWordId": "jin2zau3-to-perform-music",
+      "sourceWord": "演奏",
+      "sourceWordJyutping": "jin2 zau3",
+      "sourceWordMeaning": "to perform music",
+      "tags": [
+        "music",
+        "performance",
+        "formal",
+        "verb",
+        "concert",
+        "instrument",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3-to-perform-music.json"
+    },
+    {
+      "sentenceId": "jin2zau3-to-perform-music-example-4",
+      "sentence": "老師叫我哋聽完之後再分析演奏嘅表現。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 teng1 jyun4 zi1 hau6 zoi3 fan1 sik1 jin2 zau3 ge3 biu2 jin6.",
+      "meaning": "The teacher asked us to analyze the performance after listening.",
+      "sourceWordId": "jin2zau3-to-perform-music",
+      "sourceWord": "演奏",
+      "sourceWordJyutping": "jin2 zau3",
+      "sourceWordMeaning": "to perform music",
+      "tags": [
+        "music",
+        "performance",
+        "formal",
+        "verb",
+        "concert",
+        "instrument",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3-to-perform-music.json"
+    },
+    {
+      "sentenceId": "jam1ngok6wui2-concert-example-1",
+      "sentence": "我哋下星期去睇音樂會。",
+      "jyutping": "ngo5 dei6 haa6 sing1 kei4 heoi3 tai2 jam1 ngok6 wui2.",
+      "meaning": "We’re going to a concert next week.",
+      "sourceWordId": "jam1ngok6wui2-concert",
+      "sourceWord": "音樂會",
+      "sourceWordJyutping": "jam1 ngok6 wui2",
+      "sourceWordMeaning": "concert",
+      "tags": [
+        "music",
+        "concerts",
+        "events",
+        "performance",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6wui2-concert.json"
+    },
+    {
+      "sentenceId": "jam1ngok6wui2-concert-example-2",
+      "sentence": "呢場音樂會好多人買飛。",
+      "jyutping": "ni1 coeng4 jam1 ngok6 wui2 hou2 do1 jan4 maai5 fei1.",
+      "meaning": "A lot of people bought tickets for this concert.",
+      "sourceWordId": "jam1ngok6wui2-concert",
+      "sourceWord": "音樂會",
+      "sourceWordJyutping": "jam1 ngok6 wui2",
+      "sourceWordMeaning": "concert",
+      "tags": [
+        "music",
+        "concerts",
+        "events",
+        "performance",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6wui2-concert.json"
+    },
+    {
+      "sentenceId": "jam1ngok6wui2-concert-example-3",
+      "sentence": "學校今晚有音樂會。",
+      "jyutping": "hok6 haau6 gam1 maan5 jau5 jam1 ngok6 wui2.",
+      "meaning": "The school has a concert tonight.",
+      "sourceWordId": "jam1ngok6wui2-concert",
+      "sourceWord": "音樂會",
+      "sourceWordJyutping": "jam1 ngok6 wui2",
+      "sourceWordMeaning": "concert",
+      "tags": [
+        "music",
+        "concerts",
+        "events",
+        "performance",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6wui2-concert.json"
+    },
+    {
+      "sentenceId": "jam1ngok6wui2-concert-example-4",
+      "sentence": "佢係古典音樂會嘅小提琴手。",
+      "jyutping": "keoi5 hai6 gu2 din2 jam1 ngok6 wui2 ge3 siu2 tai4 kam4 sau2.",
+      "meaning": "He is a violinist in a classical concert.",
+      "sourceWordId": "jam1ngok6wui2-concert",
+      "sourceWord": "音樂會",
+      "sourceWordJyutping": "jam1 ngok6 wui2",
+      "sourceWordMeaning": "concert",
+      "tags": [
+        "music",
+        "concerts",
+        "events",
+        "performance",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6wui2-concert.json"
+    },
+    {
+      "sentenceId": "mou5toi4-stage-example-1",
+      "sentence": "歌手一上舞台，全場都靜晒。",
+      "jyutping": "go1 sau2 jat1 soeng6 mou5 toi4, cyun4 coeng4 dou1 zing6 saai3.",
+      "meaning": "When the singer stepped onto the stage, the whole crowd went quiet.",
+      "sourceWordId": "mou5toi4-stage",
+      "sourceWord": "舞台",
+      "sourceWordJyutping": "mou5 toi4",
+      "sourceWordMeaning": "stage",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "beginner",
+        "noun",
+        "concert",
+        "theatre",
+        "public speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5toi4-stage.json"
+    },
+    {
+      "sentenceId": "mou5toi4-stage-example-2",
+      "sentence": "呢個舞台好大，適合開演唱會。",
+      "jyutping": "ni1 go3 mou5 toi4 hou2 daai6, sik1 hap6 hoi1 jin2 coeng3 wui2.",
+      "meaning": "This stage is very big and suitable for a concert.",
+      "sourceWordId": "mou5toi4-stage",
+      "sourceWord": "舞台",
+      "sourceWordJyutping": "mou5 toi4",
+      "sourceWordMeaning": "stage",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "beginner",
+        "noun",
+        "concert",
+        "theatre",
+        "public speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5toi4-stage.json"
+    },
+    {
+      "sentenceId": "mou5toi4-stage-example-3",
+      "sentence": "小朋友喺舞台上唱歌，好可愛。",
+      "jyutping": "siu2 pang4 jau5 hai2 mou5 toi4 soeng6 coeng3 go1, hou2 ho2 oi3.",
+      "meaning": "The children sang on stage and were very cute.",
+      "sourceWordId": "mou5toi4-stage",
+      "sourceWord": "舞台",
+      "sourceWordJyutping": "mou5 toi4",
+      "sourceWordMeaning": "stage",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "beginner",
+        "noun",
+        "concert",
+        "theatre",
+        "public speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5toi4-stage.json"
+    },
+    {
+      "sentenceId": "mou5toi4-stage-example-4",
+      "sentence": "佢今日第一次上舞台，有啲緊張。",
+      "jyutping": "keoi5 gam1 jat6 dai6 jat1 ci3 soeng6 mou5 toi4, jau5 di1 gan2 zoeng1.",
+      "meaning": "It’s his first time on stage today, so he’s a bit nervous.",
+      "sourceWordId": "mou5toi4-stage",
+      "sourceWord": "舞台",
+      "sourceWordJyutping": "mou5 toi4",
+      "sourceWordMeaning": "stage",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "beginner",
+        "noun",
+        "concert",
+        "theatre",
+        "public speaking",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5toi4-stage.json"
+    },
+    {
+      "sentenceId": "gun1zung3-audience-example-1",
+      "sentence": "今日場音樂會有好多觀眾。",
+      "jyutping": "gam1 jat6 coeng4 jam1 jik6 wui2 jau5 hou2 do1 gun1 zung3",
+      "meaning": "There are a lot of audience members at today’s concert.",
+      "sourceWordId": "gun1zung3-audience",
+      "sourceWord": "觀眾",
+      "sourceWordJyutping": "gun1 zung3",
+      "sourceWordMeaning": "audience",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "nouns",
+        "beginner",
+        "audience",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1zung3-audience.json"
+    },
+    {
+      "sentenceId": "gun1zung3-audience-example-2",
+      "sentence": "呢位歌手好受觀眾歡迎。",
+      "jyutping": "ni1 wai6 go1 sau2 hou2 sau6 gun1 zung3 fun1 jing4",
+      "meaning": "This singer is very popular with the audience.",
+      "sourceWordId": "gun1zung3-audience",
+      "sourceWord": "觀眾",
+      "sourceWordJyutping": "gun1 zung3",
+      "sourceWordMeaning": "audience",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "nouns",
+        "beginner",
+        "audience",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1zung3-audience.json"
+    },
+    {
+      "sentenceId": "gun1zung3-audience-example-3",
+      "sentence": "觀眾聽到最後都拍手。",
+      "jyutping": "gun1 zung3 ting1 dou3 zoi3 hau6 dou1 paak3 sau2",
+      "meaning": "The audience clapped until the very end.",
+      "sourceWordId": "gun1zung3-audience",
+      "sourceWord": "觀眾",
+      "sourceWordJyutping": "gun1 zung3",
+      "sourceWordMeaning": "audience",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "nouns",
+        "beginner",
+        "audience",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1zung3-audience.json"
+    },
+    {
+      "sentenceId": "gun1zung3-audience-example-4",
+      "sentence": "導演希望觀眾會鍾意呢套戲。",
+      "jyutping": "dou6 jin2 hei1 mong6 gun1 zung3 wui5 zung1 ji3 ni1 tou3 hei3",
+      "meaning": "The director hopes the audience will like this film.",
+      "sourceWordId": "gun1zung3-audience",
+      "sourceWord": "觀眾",
+      "sourceWordJyutping": "gun1 zung3",
+      "sourceWordMeaning": "audience",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "nouns",
+        "beginner",
+        "audience",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gun1zung3-audience.json"
+    },
+    {
+      "sentenceId": "jin2zau3wui2-recital-example-1",
+      "sentence": "佢今日喺學校有個鋼琴演奏會。",
+      "jyutping": "keoi5 gam1jat6 hai2 hok6haau6 jau5 go3 gong1kam4 jin2zau3wui2.",
+      "meaning": "He has a piano recital at school today.",
+      "sourceWordId": "jin2zau3wui2-recital",
+      "sourceWord": "演奏會",
+      "sourceWordJyutping": "jin2 zau3 wui2",
+      "sourceWordMeaning": "recital",
+      "tags": [
+        "music",
+        "performance",
+        "event",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3wui2-recital.json"
+    },
+    {
+      "sentenceId": "jin2zau3wui2-recital-example-2",
+      "sentence": "老師叫我哋下個月參加演奏會。",
+      "jyutping": "lou5si1 giu3 ngo5dei6 haa6 go3 jyut6 caan1gaa1 jin2zau3wui2.",
+      "meaning": "The teacher asked us to take part in the recital next month.",
+      "sourceWordId": "jin2zau3wui2-recital",
+      "sourceWord": "演奏會",
+      "sourceWordJyutping": "jin2 zau3 wui2",
+      "sourceWordMeaning": "recital",
+      "tags": [
+        "music",
+        "performance",
+        "event",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3wui2-recital.json"
+    },
+    {
+      "sentenceId": "jin2zau3wui2-recital-example-3",
+      "sentence": "呢個演奏會會喺音樂廳舉行。",
+      "jyutping": "ni1 go3 jin2zau3wui2 wui5 hai2 jam1ngok6 hang1 geoi2hang4.",
+      "meaning": "This recital will be held in the concert hall.",
+      "sourceWordId": "jin2zau3wui2-recital",
+      "sourceWord": "演奏會",
+      "sourceWordJyutping": "jin2 zau3 wui2",
+      "sourceWordMeaning": "recital",
+      "tags": [
+        "music",
+        "performance",
+        "event",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3wui2-recital.json"
+    },
+    {
+      "sentenceId": "jin2zau3wui2-recital-example-4",
+      "sentence": "我好期待聽到佢嘅小提琴演奏會。",
+      "jyutping": "ngo5 hou2 kit4doi6 teng1 dou2 keoi5 ge3 siu2 tai4kam4 jin2zau3wui2.",
+      "meaning": "I’m really looking forward to hearing their violin recital.",
+      "sourceWordId": "jin2zau3wui2-recital",
+      "sourceWord": "演奏會",
+      "sourceWordJyutping": "jin2 zau3 wui2",
+      "sourceWordMeaning": "recital",
+      "tags": [
+        "music",
+        "performance",
+        "event",
+        "formal",
+        "noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2zau3wui2-recital.json"
+    },
+    {
+      "sentenceId": "bun6zau3-accompaniment-example-1",
+      "sentence": "呢首歌要鋼琴伴奏先至夠完整。",
+      "jyutping": "ni1 sau2 go1 jiu3 gong1 kam4 bun6 zau3 sin1 zi3 gau3 wan4 zeng2.",
+      "meaning": "This song needs piano accompaniment to feel complete.",
+      "sourceWordId": "bun6zau3-accompaniment",
+      "sourceWord": "伴奏",
+      "sourceWordJyutping": "bun6 zau3",
+      "sourceWordMeaning": "accompaniment",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "noun",
+        "beginner",
+        "school music",
+        "accompaniment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun6zau3-accompaniment.json"
+    },
+    {
+      "sentenceId": "bun6zau3-accompaniment-example-2",
+      "sentence": "佢負責幫個歌手伴奏。",
+      "jyutping": "keoi5 fu6 zaak3 bong1 go3 go1 sau2 bun6 zau3.",
+      "meaning": "He is responsible for accompanying the singer.",
+      "sourceWordId": "bun6zau3-accompaniment",
+      "sourceWord": "伴奏",
+      "sourceWordJyutping": "bun6 zau3",
+      "sourceWordMeaning": "accompaniment",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "noun",
+        "beginner",
+        "school music",
+        "accompaniment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun6zau3-accompaniment.json"
+    },
+    {
+      "sentenceId": "bun6zau3-accompaniment-example-3",
+      "sentence": "老師叫我哋用結他做伴奏。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 jung6 git3 taa1 zou6 bun6 zau3.",
+      "meaning": "The teacher asked us to use the guitar for accompaniment.",
+      "sourceWordId": "bun6zau3-accompaniment",
+      "sourceWord": "伴奏",
+      "sourceWordJyutping": "bun6 zau3",
+      "sourceWordMeaning": "accompaniment",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "noun",
+        "beginner",
+        "school music",
+        "accompaniment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun6zau3-accompaniment.json"
+    },
+    {
+      "sentenceId": "bun6zau3-accompaniment-example-4",
+      "sentence": "呢場表演嘅伴奏好穩陣。",
+      "jyutping": "ni1 coeng4 biu2 jin2 ge3 bun6 zau3 hou2 wan2 zan6.",
+      "meaning": "The accompaniment in this performance is very solid.",
+      "sourceWordId": "bun6zau3-accompaniment",
+      "sourceWord": "伴奏",
+      "sourceWordJyutping": "bun6 zau3",
+      "sourceWordMeaning": "accompaniment",
+      "tags": [
+        "music",
+        "performance",
+        "events",
+        "noun",
+        "beginner",
+        "school music",
+        "accompaniment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun6zau3-accompaniment.json"
+    },
+    {
+      "sentenceId": "teng1go1-to-listen-to-songs-example-1",
+      "sentence": "我鍾意喺夜晚聽歌。",
+      "jyutping": "ngo5 zung1 ji3 hai2 je6 maan5 teng1 go1.",
+      "meaning": "I like listening to songs at night.",
+      "sourceWordId": "teng1go1-to-listen-to-songs",
+      "sourceWord": "聽歌",
+      "sourceWordJyutping": "teng1 go1",
+      "sourceWordMeaning": "to listen to songs",
+      "tags": [
+        "music",
+        "listening",
+        "daily life",
+        "casual speech",
+        "beginner",
+        "transport",
+        "relaxing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1go1-to-listen-to-songs.json"
+    },
+    {
+      "sentenceId": "teng1go1-to-listen-to-songs-example-2",
+      "sentence": "搭車嗰陣我成日聽歌。",
+      "jyutping": "daap3 ce1 go2 zan6 ngo5 sing4 jat6 teng1 go1.",
+      "meaning": "I often listen to songs while taking the bus/train.",
+      "sourceWordId": "teng1go1-to-listen-to-songs",
+      "sourceWord": "聽歌",
+      "sourceWordJyutping": "teng1 go1",
+      "sourceWordMeaning": "to listen to songs",
+      "tags": [
+        "music",
+        "listening",
+        "daily life",
+        "casual speech",
+        "beginner",
+        "transport",
+        "relaxing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1go1-to-listen-to-songs.json"
+    },
+    {
+      "sentenceId": "teng1go1-to-listen-to-songs-example-3",
+      "sentence": "你可唔可以細聲啲聽歌？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 sai3 seng1 di1 teng1 go1?",
+      "meaning": "Can you listen to music more quietly?",
+      "sourceWordId": "teng1go1-to-listen-to-songs",
+      "sourceWord": "聽歌",
+      "sourceWordJyutping": "teng1 go1",
+      "sourceWordMeaning": "to listen to songs",
+      "tags": [
+        "music",
+        "listening",
+        "daily life",
+        "casual speech",
+        "beginner",
+        "transport",
+        "relaxing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1go1-to-listen-to-songs.json"
+    },
+    {
+      "sentenceId": "teng1go1-to-listen-to-songs-example-4",
+      "sentence": "我返工時會用耳機聽歌。",
+      "jyutping": "ngo5 faan1 gung1 si4 wui5 jung6 ji5 gei1 teng1 go1.",
+      "meaning": "I use headphones to listen to songs when I work.",
+      "sourceWordId": "teng1go1-to-listen-to-songs",
+      "sourceWord": "聽歌",
+      "sourceWordJyutping": "teng1 go1",
+      "sourceWordMeaning": "to listen to songs",
+      "tags": [
+        "music",
+        "listening",
+        "daily life",
+        "casual speech",
+        "beginner",
+        "transport",
+        "relaxing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teng1go1-to-listen-to-songs.json"
+    },
+    {
+      "sentenceId": "ji5gei1-headphones-example-1",
+      "sentence": "我今日搭車要戴耳機聽歌。",
+      "jyutping": "ngo5 gam1 jat6 daap3 ce1 jiu3 daai3 ji5 gei1 teng1 go1.",
+      "meaning": "I need to wear headphones to listen to music on the bus today.",
+      "sourceWordId": "ji5gei1-headphones",
+      "sourceWord": "耳機",
+      "sourceWordJyutping": "ji5 gei1",
+      "sourceWordMeaning": "headphones",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
+    },
+    {
+      "sentenceId": "ji5gei1-headphones-example-2",
+      "sentence": "你可唔可以借對耳機畀我？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 ze3 deoi3 ji5 gei1 bei2 ngo5?",
+      "meaning": "Can you lend me a pair of headphones?",
+      "sourceWordId": "ji5gei1-headphones",
+      "sourceWord": "耳機",
+      "sourceWordJyutping": "ji5 gei1",
+      "sourceWordMeaning": "headphones",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
+    },
+    {
+      "sentenceId": "ji5gei1-headphones-example-3",
+      "sentence": "佢成日一邊做嘢一邊用耳機聽podcast。",
+      "jyutping": "keoi5 sing4 jat6 jat1 bin1 zou6 je5 jat1 bin1 jung6 ji5 gei1 teng1 podcast.",
+      "meaning": "He always listens to podcasts with headphones while working.",
+      "sourceWordId": "ji5gei1-headphones",
+      "sourceWord": "耳機",
+      "sourceWordJyutping": "ji5 gei1",
+      "sourceWordMeaning": "headphones",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
+    },
+    {
+      "sentenceId": "ji5gei1-headphones-example-4",
+      "sentence": "我新買嗰對耳機音質好好。",
+      "jyutping": "ngo5 san1 maai5 go2 deoi3 ji5 gei1 jam1 zat1 hou2 hou2.",
+      "meaning": "The sound quality of the new headphones I bought is very good.",
+      "sourceWordId": "ji5gei1-headphones",
+      "sourceWord": "耳機",
+      "sourceWordJyutping": "ji5 gei1",
+      "sourceWordMeaning": "headphones",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
+    },
+    {
+      "sentenceId": "jam1loeng6-volume-example-1",
+      "sentence": "你可唔可以將音量調低少少？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 zoeng1 jam1 loeng6 tiu4 dai1 siu2 siu2?",
+      "meaning": "Can you turn the volume down a little?",
+      "sourceWordId": "jam1loeng6-volume",
+      "sourceWord": "音量",
+      "sourceWordJyutping": "jam1 loeng6",
+      "sourceWordMeaning": "volume",
+      "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
+    },
+    {
+      "sentenceId": "jam1loeng6-volume-example-2",
+      "sentence": "我聽歌嗰陣會將音量開大啲。",
+      "jyutping": "ngo5 teng1 go1 go2 zaan6 wui5 zoeng1 jam1 loeng6 hoi1 daai6 di1.",
+      "meaning": "When I listen to music, I turn the volume up a bit.",
+      "sourceWordId": "jam1loeng6-volume",
+      "sourceWord": "音量",
+      "sourceWordJyutping": "jam1 loeng6",
+      "sourceWordMeaning": "volume",
+      "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
+    },
+    {
+      "sentenceId": "jam1loeng6-volume-example-3",
+      "sentence": "部電視個音量太大，聽到好嘈。",
+      "jyutping": "bou6 din6 si6 go3 jam1 loeng6 taai3 daai6, teng1 dou3 hou2 cou4.",
+      "meaning": "The TV volume is too loud; it's really noisy.",
+      "sourceWordId": "jam1loeng6-volume",
+      "sourceWord": "音量",
+      "sourceWordJyutping": "jam1 loeng6",
+      "sourceWordMeaning": "volume",
+      "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
+    },
+    {
+      "sentenceId": "jam1loeng6-volume-example-4",
+      "sentence": "夜晚聽歌最好將音量收細啲。",
+      "jyutping": "je6 maan5 teng1 go1 zeoi3 hou2 zoeng1 jam1 loeng6 sau1 sai3 di1.",
+      "meaning": "It's best to lower the volume a bit when listening to music at night.",
+      "sourceWordId": "jam1loeng6-volume",
+      "sourceWord": "音量",
+      "sourceWordJyutping": "jam1 loeng6",
+      "sourceWordMeaning": "volume",
+      "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
+        "technology",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
+    },
+    {
+      "sentenceId": "fong3jam1ngok6-to-play-music-example-1",
+      "sentence": "我而家放音樂俾大家聽。",
+      "jyutping": "ngo5 ji4gaa1 fong3 jam1 ngok6 bei2 daai6 gaa1 teng1.",
+      "meaning": "I’m playing music for everyone to listen to now.",
+      "sourceWordId": "fong3jam1ngok6-to-play-music",
+      "sourceWord": "放音樂",
+      "sourceWordJyutping": "fong3 jam1 ngok6",
+      "sourceWordMeaning": "to play music",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday speech",
+        "beginner",
+        "home",
+        "device",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3jam1ngok6-to-play-music.json"
+    },
+    {
+      "sentenceId": "fong3jam1ngok6-to-play-music-example-2",
+      "sentence": "你可唔可以細聲啲放音樂？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 sai3 seng1 di1 fong3 jam1 ngok6?",
+      "meaning": "Can you play the music a bit more quietly?",
+      "sourceWordId": "fong3jam1ngok6-to-play-music",
+      "sourceWord": "放音樂",
+      "sourceWordJyutping": "fong3 jam1 ngok6",
+      "sourceWordMeaning": "to play music",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday speech",
+        "beginner",
+        "home",
+        "device",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3jam1ngok6-to-play-music.json"
+    },
+    {
+      "sentenceId": "fong3jam1ngok6-to-play-music-example-3",
+      "sentence": "間咖啡店成日放音樂，好舒服。",
+      "jyutping": "gaan1 kaa3 fe1 dim3 sing4 jat6 fong3 jam1 ngok6, hou2 syu1 fuk6.",
+      "meaning": "This café always plays music; it feels really comfortable.",
+      "sourceWordId": "fong3jam1ngok6-to-play-music",
+      "sourceWord": "放音樂",
+      "sourceWordJyutping": "fong3 jam1 ngok6",
+      "sourceWordMeaning": "to play music",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday speech",
+        "beginner",
+        "home",
+        "device",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3jam1ngok6-to-play-music.json"
+    },
+    {
+      "sentenceId": "fong3jam1ngok6-to-play-music-example-4",
+      "sentence": "佢返工之前會先放音樂醒神。",
+      "jyutping": "keoi5 faan1 gung1 zi1 cin4 wui5 sin1 fong3 jam1 ngok6 sing2 san4.",
+      "meaning": "Before work, he’ll play music first to wake himself up.",
+      "sourceWordId": "fong3jam1ngok6-to-play-music",
+      "sourceWord": "放音樂",
+      "sourceWordJyutping": "fong3 jam1 ngok6",
+      "sourceWordMeaning": "to play music",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "everyday speech",
+        "beginner",
+        "home",
+        "device",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3jam1ngok6-to-play-music.json"
+    },
+    {
+      "sentenceId": "luk6jam1-audio-recording-example-1",
+      "sentence": "我哋可以聽返呢段錄音。",
+      "jyutping": "ngo5 dei6 ho2 ji5 teng1 faan1 ni1 dyun6 luk6 jam1.",
+      "meaning": "We can listen to this recording again.",
+      "sourceWordId": "luk6jam1-audio-recording",
+      "sourceWord": "錄音",
+      "sourceWordJyutping": "luk6 jam1",
+      "sourceWordMeaning": "audio recording",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "recording",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jam1-audio-recording.json"
+    },
+    {
+      "sentenceId": "luk6jam1-audio-recording-example-2",
+      "sentence": "老師叫我哋交錄音功課。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 gaau1 luk6 jam1 gung1 fo3.",
+      "meaning": "The teacher asked us to submit an audio recording assignment.",
+      "sourceWordId": "luk6jam1-audio-recording",
+      "sourceWord": "錄音",
+      "sourceWordJyutping": "luk6 jam1",
+      "sourceWordMeaning": "audio recording",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "recording",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jam1-audio-recording.json"
+    },
+    {
+      "sentenceId": "luk6jam1-audio-recording-example-3",
+      "sentence": "呢個錄音好清楚。",
+      "jyutping": "ni1 go3 luk6 jam1 hou2 cing1 co2.",
+      "meaning": "This recording is very clear.",
+      "sourceWordId": "luk6jam1-audio-recording",
+      "sourceWord": "錄音",
+      "sourceWordJyutping": "luk6 jam1",
+      "sourceWordMeaning": "audio recording",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "recording",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jam1-audio-recording.json"
+    },
+    {
+      "sentenceId": "luk6jam1-audio-recording-example-4",
+      "sentence": "你可唔可以send個錄音俾我？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 send go3 luk6 jam1 bei2 ngo5?",
+      "meaning": "Can you send me the audio recording?",
+      "sourceWordId": "luk6jam1-audio-recording",
+      "sourceWord": "錄音",
+      "sourceWordJyutping": "luk6 jam1",
+      "sourceWordMeaning": "audio recording",
+      "tags": [
+        "music",
+        "listening",
+        "audio",
+        "recording",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/luk6jam1-audio-recording.json"
+    },
+    {
+      "sentenceId": "laa3baa1-speaker-example-1",
+      "sentence": "呢個喇叭個音質好正。",
+      "jyutping": "ni1 go3 laa3 baa1 go3 jam1 zat1 hou2 zing3.",
+      "meaning": "This speaker sounds really good.",
+      "sourceWordId": "laa3baa1-speaker",
+      "sourceWord": "喇叭",
+      "sourceWordJyutping": "laa3 baa1",
+      "sourceWordMeaning": "speaker",
+      "tags": [
+        "music",
+        "audio",
+        "listening",
+        "electronics",
+        "home audio",
+        "basic noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laa3baa1-speaker.json"
+    },
+    {
+      "sentenceId": "laa3baa1-speaker-example-2",
+      "sentence": "你可唔可以將喇叭開大聲少少？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 zoeng1 laa3 baa1 hoi1 daai6 seng1 siu2 siu2?",
+      "meaning": "Can you turn the speaker up a bit?",
+      "sourceWordId": "laa3baa1-speaker",
+      "sourceWord": "喇叭",
+      "sourceWordJyutping": "laa3 baa1",
+      "sourceWordMeaning": "speaker",
+      "tags": [
+        "music",
+        "audio",
+        "listening",
+        "electronics",
+        "home audio",
+        "basic noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laa3baa1-speaker.json"
+    },
+    {
+      "sentenceId": "laa3baa1-speaker-example-3",
+      "sentence": "我想買對藍牙喇叭。",
+      "jyutping": "ngo5 soeng2 maai5 deoi3 laam4 ngaa4 laa3 baa1.",
+      "meaning": "I want to buy a pair of Bluetooth speakers.",
+      "sourceWordId": "laa3baa1-speaker",
+      "sourceWord": "喇叭",
+      "sourceWordJyutping": "laa3 baa1",
+      "sourceWordMeaning": "speaker",
+      "tags": [
+        "music",
+        "audio",
+        "listening",
+        "electronics",
+        "home audio",
+        "basic noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laa3baa1-speaker.json"
+    },
+    {
+      "sentenceId": "laa3baa1-speaker-example-4",
+      "sentence": "個手機同喇叭連接咗。",
+      "jyutping": "go3 sau2 gei1 tung4 laa3 baa1 lin4 zip3 zo2.",
+      "meaning": "The phone is connected to the speaker.",
+      "sourceWordId": "laa3baa1-speaker",
+      "sourceWord": "喇叭",
+      "sourceWordJyutping": "laa3 baa1",
+      "sourceWordMeaning": "speaker",
+      "tags": [
+        "music",
+        "audio",
+        "listening",
+        "electronics",
+        "home audio",
+        "basic noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laa3baa1-speaker.json"
+    },
+    {
+      "sentenceId": "ngok6pou2-sheet-music-example-1",
+      "sentence": "我想買呢本樂譜。",
+      "jyutping": "ngo5 soeng2 maai5 ni1 bun2 ngok6 pou2.",
+      "meaning": "I want to buy this sheet music.",
+      "sourceWordId": "ngok6pou2-sheet-music",
+      "sourceWord": "樂譜",
+      "sourceWordJyutping": "ngok6 pou2",
+      "sourceWordMeaning": "sheet music",
+      "tags": [
+        "music",
+        "notation",
+        "score",
+        "piano",
+        "singing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6pou2-sheet-music.json"
+    },
+    {
+      "sentenceId": "ngok6pou2-sheet-music-example-2",
+      "sentence": "老師叫我哋跟住樂譜唱。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 gan1 zyu6 ngok6 pou2 coeng3.",
+      "meaning": "The teacher asked us to sing following the sheet music.",
+      "sourceWordId": "ngok6pou2-sheet-music",
+      "sourceWord": "樂譜",
+      "sourceWordJyutping": "ngok6 pou2",
+      "sourceWordMeaning": "sheet music",
+      "tags": [
+        "music",
+        "notation",
+        "score",
+        "piano",
+        "singing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6pou2-sheet-music.json"
+    },
+    {
+      "sentenceId": "ngok6pou2-sheet-music-example-3",
+      "sentence": "你有冇電子樂譜？",
+      "jyutping": "nei5 jau5 mou5 din6 zi2 ngok6 pou2?",
+      "meaning": "Do you have digital sheet music?",
+      "sourceWordId": "ngok6pou2-sheet-music",
+      "sourceWord": "樂譜",
+      "sourceWordJyutping": "ngok6 pou2",
+      "sourceWordMeaning": "sheet music",
+      "tags": [
+        "music",
+        "notation",
+        "score",
+        "piano",
+        "singing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6pou2-sheet-music.json"
+    },
+    {
+      "sentenceId": "ngok6pou2-sheet-music-example-4",
+      "sentence": "佢屋企放咗好多舊樂譜。",
+      "jyutping": "keoi5 uk1 kei2 fong3 zo2 hou2 do1 gau6 ngok6 pou2.",
+      "meaning": "He has put a lot of old sheet music at home.",
+      "sourceWordId": "ngok6pou2-sheet-music",
+      "sourceWord": "樂譜",
+      "sourceWordJyutping": "ngok6 pou2",
+      "sourceWordMeaning": "sheet music",
+      "tags": [
+        "music",
+        "notation",
+        "score",
+        "piano",
+        "singing",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6pou2-sheet-music.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-to-learn-music-example-1",
+      "sentence": "我細個開始學音樂。",
+      "jyutping": "ngo5 sai3 go3 hoi2 ci2 hok6 jam1 ngok6.",
+      "meaning": "I started learning music when I was young.",
+      "sourceWordId": "hok6jam1ngok6-to-learn-music",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "to learn music",
+      "tags": [
+        "music learning",
+        "education",
+        "hobby",
+        "beginner",
+        "school",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-to-learn-music.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-to-learn-music-example-2",
+      "sentence": "佢喺大學學音樂。",
+      "jyutping": "keoi5 hai2 daai6 hok6 hok6 jam1 ngok6.",
+      "meaning": "He/She studies music at university.",
+      "sourceWordId": "hok6jam1ngok6-to-learn-music",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "to learn music",
+      "tags": [
+        "music learning",
+        "education",
+        "hobby",
+        "beginner",
+        "school",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-to-learn-music.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-to-learn-music-example-3",
+      "sentence": "阿女好鍾意學音樂。",
+      "jyutping": "aa3 neoi5 hou2 zung1 ji3 hok6 jam1 ngok6.",
+      "meaning": "My daughter really likes learning music.",
+      "sourceWordId": "hok6jam1ngok6-to-learn-music",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "to learn music",
+      "tags": [
+        "music learning",
+        "education",
+        "hobby",
+        "beginner",
+        "school",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-to-learn-music.json"
+    },
+    {
+      "sentenceId": "hok6jam1ngok6-to-learn-music-example-4",
+      "sentence": "我哋放學之後去學音樂。",
+      "jyutping": "ngo5 dei6 fong3 hok6 zi1 hau6 heoi3 hok6 jam1 ngok6.",
+      "meaning": "We go to learn music after school.",
+      "sourceWordId": "hok6jam1ngok6-to-learn-music",
+      "sourceWord": "學音樂",
+      "sourceWordJyutping": "hok6 jam1 ngok6",
+      "sourceWordMeaning": "to learn music",
+      "tags": [
+        "music learning",
+        "education",
+        "hobby",
+        "beginner",
+        "school",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hok6jam1ngok6-to-learn-music.json"
+    },
+    {
+      "sentenceId": "lin6zaap6-to-practise-example-1",
+      "sentence": "我每晚都要練習鋼琴。",
+      "jyutping": "ngo5 me5 maan5 dou1 jiu3 lin6 zaap6 gong1 kam4.",
+      "meaning": "I have to practise the piano every night.",
+      "sourceWordId": "lin6zaap6-to-practise",
+      "sourceWord": "練習",
+      "sourceWordJyutping": "lin6 zaap6",
+      "sourceWordMeaning": "to practise",
+      "tags": [
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
+    },
+    {
+      "sentenceId": "lin6zaap6-to-practise-example-2",
+      "sentence": "呢首歌我仲要練習多幾次。",
+      "jyutping": "ni1 sau2 go1 ngo5 zung6 jiu3 lin6 zaap6 do1 gei2 ci3.",
+      "meaning": "I still need to practise this song a few more times.",
+      "sourceWordId": "lin6zaap6-to-practise",
+      "sourceWord": "練習",
+      "sourceWordJyutping": "lin6 zaap6",
+      "sourceWordMeaning": "to practise",
+      "tags": [
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
+    },
+    {
+      "sentenceId": "lin6zaap6-to-practise-example-3",
+      "sentence": "老師叫我哋返屋企做練習。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 faan1 uk1 hei2 zou6 lin6 zaap6.",
+      "meaning": "The teacher told us to go home and do the exercise.",
+      "sourceWordId": "lin6zaap6-to-practise",
+      "sourceWord": "練習",
+      "sourceWordJyutping": "lin6 zaap6",
+      "sourceWordMeaning": "to practise",
+      "tags": [
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
+    },
+    {
+      "sentenceId": "lin6zaap6-to-practise-example-4",
+      "sentence": "演出前最好先做聲音練習。",
+      "jyutping": "jin2 ceot1 cin4 zeoi3 hou2 sin1 zou6 sing1 jam1 lin6 zaap6.",
+      "meaning": "Before a performance, it’s best to do vocal practice first.",
+      "sourceWordId": "lin6zaap6-to-practise",
+      "sourceWord": "練習",
+      "sourceWordJyutping": "lin6 zaap6",
+      "sourceWordMeaning": "to practise",
+      "tags": [
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
+    },
+    {
+      "sentenceId": "zi2fai1-conductor-example-1",
+      "sentence": "樂團嘅指揮今日好嚴格。",
+      "jyutping": "lok6 tyun4 ge3 zi2 fai1 gam1 jat6 hou2 jim4 gaak3",
+      "meaning": "The orchestra conductor is very strict today.",
+      "sourceWordId": "zi2fai1-conductor",
+      "sourceWord": "指揮",
+      "sourceWordJyutping": "zi2 fai1",
+      "sourceWordMeaning": "conductor",
+      "tags": [
+        "music",
+        "music_styles_and_learning",
+        "person",
+        "formal",
+        "performance",
+        "orchestra",
+        "choir",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi2fai1-conductor.json"
+    },
+    {
+      "sentenceId": "zi2fai1-conductor-example-2",
+      "sentence": "老師話我哋要跟住指揮嘅拍子。",
+      "jyutping": "lou5 si1 waa6 ngo5 dei6 jiu3 gan1 zyu6 zi2 fai1 ge3 paak3 zi2",
+      "meaning": "The teacher said we need to follow the conductor's beat.",
+      "sourceWordId": "zi2fai1-conductor",
+      "sourceWord": "指揮",
+      "sourceWordJyutping": "zi2 fai1",
+      "sourceWordMeaning": "conductor",
+      "tags": [
+        "music",
+        "music_styles_and_learning",
+        "person",
+        "formal",
+        "performance",
+        "orchestra",
+        "choir",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi2fai1-conductor.json"
+    },
+    {
+      "sentenceId": "zi2fai1-conductor-example-3",
+      "sentence": "佢喺合唱團做指揮。",
+      "jyutping": "keoi5 hai2 hap6 coeng3 tyun4 zou6 zi2 fai1",
+      "meaning": "He is the conductor of the choir.",
+      "sourceWordId": "zi2fai1-conductor",
+      "sourceWord": "指揮",
+      "sourceWordJyutping": "zi2 fai1",
+      "sourceWordMeaning": "conductor",
+      "tags": [
+        "music",
+        "music_styles_and_learning",
+        "person",
+        "formal",
+        "performance",
+        "orchestra",
+        "choir",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi2fai1-conductor.json"
+    },
+    {
+      "sentenceId": "zi2fai1-conductor-example-4",
+      "sentence": "呢位指揮好有經驗。",
+      "jyutping": "ni1 wai6 zi2 fai1 hou2 jau5 ging1 jim6",
+      "meaning": "This conductor is very experienced.",
+      "sourceWordId": "zi2fai1-conductor",
+      "sourceWord": "指揮",
+      "sourceWordJyutping": "zi2 fai1",
+      "sourceWordMeaning": "conductor",
+      "tags": [
+        "music",
+        "music_styles_and_learning",
+        "person",
+        "formal",
+        "performance",
+        "orchestra",
+        "choir",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zi2fai1-conductor.json"
+    },
+    {
+      "sentenceId": "ngok6lei5-music-theory-example-1",
+      "sentence": "我而家開始學樂理。",
+      "jyutping": "ngo5 ji1gaa1 hoi1ci2 hok6 ngok6 lei5.",
+      "meaning": "I’m starting to learn music theory now.",
+      "sourceWordId": "ngok6lei5-music-theory",
+      "sourceWord": "樂理",
+      "sourceWordJyutping": "ngok6 lei5",
+      "sourceWordMeaning": "music theory",
+      "tags": [
+        "music theory",
+        "music learning",
+        "beginner",
+        "education",
+        "school music",
+        "theory",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6lei5-music-theory.json"
+    },
+    {
+      "sentenceId": "ngok6lei5-music-theory-example-2",
+      "sentence": "老師今日教我哋樂理。",
+      "jyutping": "lou5si1 gam1jat6 gaau3 ngo5dei6 ngok6 lei5.",
+      "meaning": "The teacher is teaching us music theory today.",
+      "sourceWordId": "ngok6lei5-music-theory",
+      "sourceWord": "樂理",
+      "sourceWordJyutping": "ngok6 lei5",
+      "sourceWordMeaning": "music theory",
+      "tags": [
+        "music theory",
+        "music learning",
+        "beginner",
+        "education",
+        "school music",
+        "theory",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6lei5-music-theory.json"
+    },
+    {
+      "sentenceId": "ngok6lei5-music-theory-example-3",
+      "sentence": "如果想考音樂學校，樂理好重要。",
+      "jyutping": "jyu4gwo2 soeng2 haau2 jam1ngok6 hok6haau6, ngok6 lei5 hou2 zung6jiu3.",
+      "meaning": "If you want to apply to a music school, music theory is very important.",
+      "sourceWordId": "ngok6lei5-music-theory",
+      "sourceWord": "樂理",
+      "sourceWordJyutping": "ngok6 lei5",
+      "sourceWordMeaning": "music theory",
+      "tags": [
+        "music theory",
+        "music learning",
+        "beginner",
+        "education",
+        "school music",
+        "theory",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6lei5-music-theory.json"
+    },
+    {
+      "sentenceId": "ngok6lei5-music-theory-example-4",
+      "sentence": "佢對樂理有啲基礎。",
+      "jyutping": "keoi5 deoi3 ngok6 lei5 jau5 di1 gei1co2.",
+      "meaning": "He has some basic knowledge of music theory.",
+      "sourceWordId": "ngok6lei5-music-theory",
+      "sourceWord": "樂理",
+      "sourceWordJyutping": "ngok6 lei5",
+      "sourceWordMeaning": "music theory",
+      "tags": [
+        "music theory",
+        "music learning",
+        "beginner",
+        "education",
+        "school music",
+        "theory",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngok6lei5-music-theory.json"
+    },
+    {
+      "sentenceId": "zok3kuk1-to-compose-music-example-1",
+      "sentence": "佢好鍾意作曲。",
+      "jyutping": "keoi5 hou2 zung1 ji3 zok3 kuk1.",
+      "meaning": "He likes composing music very much.",
+      "sourceWordId": "zok3kuk1-to-compose-music",
+      "sourceWord": "作曲",
+      "sourceWordJyutping": "zok3 kuk1",
+      "sourceWordMeaning": "to compose music",
+      "tags": [
+        "music",
+        "composition",
+        "creative",
+        "beginner-friendly",
+        "songwriting",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3kuk1-to-compose-music.json"
+    },
+    {
+      "sentenceId": "zok3kuk1-to-compose-music-example-2",
+      "sentence": "老師叫我哋試下作曲。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 si3 haa5 zok3 kuk1.",
+      "meaning": "The teacher asked us to try composing music.",
+      "sourceWordId": "zok3kuk1-to-compose-music",
+      "sourceWord": "作曲",
+      "sourceWordJyutping": "zok3 kuk1",
+      "sourceWordMeaning": "to compose music",
+      "tags": [
+        "music",
+        "composition",
+        "creative",
+        "beginner-friendly",
+        "songwriting",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3kuk1-to-compose-music.json"
+    },
+    {
+      "sentenceId": "zok3kuk1-to-compose-music-example-3",
+      "sentence": "呢首歌係佢作曲嘅。",
+      "jyutping": "ni1 sau2 go1 hai6 keoi5 zok3 kuk1 ge3.",
+      "meaning": "This song was composed by him/her.",
+      "sourceWordId": "zok3kuk1-to-compose-music",
+      "sourceWord": "作曲",
+      "sourceWordJyutping": "zok3 kuk1",
+      "sourceWordMeaning": "to compose music",
+      "tags": [
+        "music",
+        "composition",
+        "creative",
+        "beginner-friendly",
+        "songwriting",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3kuk1-to-compose-music.json"
+    },
+    {
+      "sentenceId": "zok3kuk1-to-compose-music-example-4",
+      "sentence": "我想學作曲。",
+      "jyutping": "ngo5 soeng2 hok6 zok3 kuk1.",
+      "meaning": "I want to learn composition.",
+      "sourceWordId": "zok3kuk1-to-compose-music",
+      "sourceWord": "作曲",
+      "sourceWordJyutping": "zok3 kuk1",
+      "sourceWordMeaning": "to compose music",
+      "tags": [
+        "music",
+        "composition",
+        "creative",
+        "beginner-friendly",
+        "songwriting",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3kuk1-to-compose-music.json"
+    },
+    {
+      "sentenceId": "lau4hang4jam1ngok6-pop-music-example-1",
+      "sentence": "我鍾意聽流行音樂。",
+      "jyutping": "ngo5 zung1 ji3 teng1 lau4 hang4 jam1 ngok6.",
+      "meaning": "I like listening to pop music.",
+      "sourceWordId": "lau4hang4jam1ngok6-pop-music",
+      "sourceWord": "流行音樂",
+      "sourceWordJyutping": "lau4 hang4 jam1 ngok6",
+      "sourceWordMeaning": "pop music",
+      "tags": [
+        "music",
+        "genre",
+        "pop music",
+        "common noun",
+        "beginner",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau4hang4jam1ngok6-pop-music.json"
+    },
+    {
+      "sentenceId": "lau4hang4jam1ngok6-pop-music-example-2",
+      "sentence": "呢間電台成日播流行音樂。",
+      "jyutping": "ni1 gaan1 din6 toi4 sing4 jat6 bo3 lau4 hang4 jam1 ngok6.",
+      "meaning": "This radio station often plays pop music.",
+      "sourceWordId": "lau4hang4jam1ngok6-pop-music",
+      "sourceWord": "流行音樂",
+      "sourceWordJyutping": "lau4 hang4 jam1 ngok6",
+      "sourceWordMeaning": "pop music",
+      "tags": [
+        "music",
+        "genre",
+        "pop music",
+        "common noun",
+        "beginner",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau4hang4jam1ngok6-pop-music.json"
+    },
+    {
+      "sentenceId": "lau4hang4jam1ngok6-pop-music-example-3",
+      "sentence": "佢嘅新歌偏向流行音樂風格。",
+      "jyutping": "keoi5 ge3 san1 go1 pin1 hoeng3 lau4 hang4 jam1 ngok6 fung1 gaak3.",
+      "meaning": "Her new song leans toward a pop music style.",
+      "sourceWordId": "lau4hang4jam1ngok6-pop-music",
+      "sourceWord": "流行音樂",
+      "sourceWordJyutping": "lau4 hang4 jam1 ngok6",
+      "sourceWordMeaning": "pop music",
+      "tags": [
+        "music",
+        "genre",
+        "pop music",
+        "common noun",
+        "beginner",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau4hang4jam1ngok6-pop-music.json"
+    },
+    {
+      "sentenceId": "lau4hang4jam1ngok6-pop-music-example-4",
+      "sentence": "流行音樂喺香港一直都好受歡迎。",
+      "jyutping": "lau4 hang4 jam1 ngok6 hai2 hoeng1 gong2 jat1 zik6 dou1 hou2 sau6 fun1 jing4.",
+      "meaning": "Pop music has always been very popular in Hong Kong.",
+      "sourceWordId": "lau4hang4jam1ngok6-pop-music",
+      "sourceWord": "流行音樂",
+      "sourceWordJyutping": "lau4 hang4 jam1 ngok6",
+      "sourceWordMeaning": "pop music",
+      "tags": [
+        "music",
+        "genre",
+        "pop music",
+        "common noun",
+        "beginner",
+        "HKCantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lau4hang4jam1ngok6-pop-music.json"
+    },
+    {
+      "sentenceId": "jiu4gwan2ngok6-rock-music-example-1",
+      "sentence": "我細個開始就好鍾意聽搖滾樂。",
+      "jyutping": "ngo5 sai3 go3 hoi1 ci2 zau6 hou2 zung1 ji3 teng1 jiu4 gwan2 ngok6.",
+      "meaning": "I started liking rock music when I was young.",
+      "sourceWordId": "jiu4gwan2ngok6-rock-music",
+      "sourceWord": "搖滾樂",
+      "sourceWordJyutping": "jiu4 gwan2 ngok6",
+      "sourceWordMeaning": "rock music",
+      "tags": [
+        "music",
+        "genre",
+        "nouns",
+        "entertainment",
+        "daily speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu4gwan2ngok6-rock-music.json"
+    },
+    {
+      "sentenceId": "jiu4gwan2ngok6-rock-music-example-2",
+      "sentence": "佢成日喺屋企播搖滾樂。",
+      "jyutping": "keoi5 sing4 jat6 hai2 uk1 kei2 bo3 jiu4 gwan2 ngok6.",
+      "meaning": "He often plays rock music at home.",
+      "sourceWordId": "jiu4gwan2ngok6-rock-music",
+      "sourceWord": "搖滾樂",
+      "sourceWordJyutping": "jiu4 gwan2 ngok6",
+      "sourceWordMeaning": "rock music",
+      "tags": [
+        "music",
+        "genre",
+        "nouns",
+        "entertainment",
+        "daily speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu4gwan2ngok6-rock-music.json"
+    },
+    {
+      "sentenceId": "jiu4gwan2ngok6-rock-music-example-3",
+      "sentence": "呢間酒吧成日有現場搖滾樂表演。",
+      "jyutping": "ni1 gaan1 zau2 baa1 sing4 jat6 jau5 jin6 soeng5 jiu4 gwan2 ngok6 biu2 jin2.",
+      "meaning": "This bar often has live rock music performances.",
+      "sourceWordId": "jiu4gwan2ngok6-rock-music",
+      "sourceWord": "搖滾樂",
+      "sourceWordJyutping": "jiu4 gwan2 ngok6",
+      "sourceWordMeaning": "rock music",
+      "tags": [
+        "music",
+        "genre",
+        "nouns",
+        "entertainment",
+        "daily speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu4gwan2ngok6-rock-music.json"
+    },
+    {
+      "sentenceId": "jiu4gwan2ngok6-rock-music-example-4",
+      "sentence": "學校音樂節今年會加多啲搖滾樂節目。",
+      "jyutping": "hok6 haau6 jam1 ngok6 zit3 gam1 nin4 wui5 gaa1 do1 di1 jiu4 gwan2 ngok6 zit3 muk6.",
+      "meaning": "The school music festival will add more rock-music performances this year.",
+      "sourceWordId": "jiu4gwan2ngok6-rock-music",
+      "sourceWord": "搖滾樂",
+      "sourceWordJyutping": "jiu4 gwan2 ngok6",
+      "sourceWordMeaning": "rock music",
+      "tags": [
+        "music",
+        "genre",
+        "nouns",
+        "entertainment",
+        "daily speech",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jiu4gwan2ngok6-rock-music.json"
+    },
+    {
+      "sentenceId": "zoek3si6ngok6-jazz-example-1",
+      "sentence": "我好鍾意聽爵士樂。",
+      "jyutping": "ngo5 hou2 zung1 ji3 teng1 zoek3 si6 ngok6.",
+      "meaning": "I really like listening to jazz.",
+      "sourceWordId": "zoek3si6ngok6-jazz",
+      "sourceWord": "爵士樂",
+      "sourceWordJyutping": "zoek3 si6 ngok6",
+      "sourceWordMeaning": "jazz",
+      "tags": [
+        "music genre",
+        "jazz",
+        "arts",
+        "listening",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zoek3si6ngok6-jazz.json"
+    },
+    {
+      "sentenceId": "zoek3si6ngok6-jazz-example-2",
+      "sentence": "佢喺酒吧彈爵士樂。",
+      "jyutping": "keoi5 hai2 zau2 baa1 taan4 zoek3 si6 ngok6.",
+      "meaning": "He plays jazz in a bar.",
+      "sourceWordId": "zoek3si6ngok6-jazz",
+      "sourceWord": "爵士樂",
+      "sourceWordJyutping": "zoek3 si6 ngok6",
+      "sourceWordMeaning": "jazz",
+      "tags": [
+        "music genre",
+        "jazz",
+        "arts",
+        "listening",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zoek3si6ngok6-jazz.json"
+    },
+    {
+      "sentenceId": "zoek3si6ngok6-jazz-example-3",
+      "sentence": "呢間餐廳晚晚都有爵士樂。",
+      "jyutping": "ni1 gaan1 caan1 teng1 maan5 maan5 dou1 jau5 zoek3 si6 ngok6.",
+      "meaning": "This restaurant has jazz music every night.",
+      "sourceWordId": "zoek3si6ngok6-jazz",
+      "sourceWord": "爵士樂",
+      "sourceWordJyutping": "zoek3 si6 ngok6",
+      "sourceWordMeaning": "jazz",
+      "tags": [
+        "music genre",
+        "jazz",
+        "arts",
+        "listening",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zoek3si6ngok6-jazz.json"
+    },
+    {
+      "sentenceId": "zoek3si6ngok6-jazz-example-4",
+      "sentence": "學爵士樂要識即興。",
+      "jyutping": "hok6 zoek3 si6 ngok6 jiu3 sik1 zik1 hing3.",
+      "meaning": "Learning jazz requires knowing improvisation.",
+      "sourceWordId": "zoek3si6ngok6-jazz",
+      "sourceWord": "爵士樂",
+      "sourceWordJyutping": "zoek3 si6 ngok6",
+      "sourceWordMeaning": "jazz",
+      "tags": [
+        "music genre",
+        "jazz",
+        "arts",
+        "listening",
+        "performance",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zoek3si6ngok6-jazz.json"
+    },
+    {
+      "sentenceId": "syut3coeng3-rap-example-1",
+      "sentence": "我鍾意聽說唱。",
+      "jyutping": "ngo5 zung1 ji3 teng1 syut3 coeng3.",
+      "meaning": "I like listening to rap.",
+      "sourceWordId": "syut3coeng3-rap",
+      "sourceWord": "說唱",
+      "sourceWordJyutping": "syut3 coeng3",
+      "sourceWordMeaning": "rap",
+      "tags": [
+        "music",
+        "music genres",
+        "rap",
+        "hip-hop",
+        "beginner",
+        "noun",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3coeng3-rap.json"
+    },
+    {
+      "sentenceId": "syut3coeng3-rap-example-2",
+      "sentence": "呢個歌手嘅說唱好有節奏感。",
+      "jyutping": "ni1 go3 go1 sau2 ge3 syut3 coeng3 hou2 jau5 zit3 zau6 gam2.",
+      "meaning": "This singer’s rap has a strong sense of rhythm.",
+      "sourceWordId": "syut3coeng3-rap",
+      "sourceWord": "說唱",
+      "sourceWordJyutping": "syut3 coeng3",
+      "sourceWordMeaning": "rap",
+      "tags": [
+        "music",
+        "music genres",
+        "rap",
+        "hip-hop",
+        "beginner",
+        "noun",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3coeng3-rap.json"
+    },
+    {
+      "sentenceId": "syut3coeng3-rap-example-3",
+      "sentence": "佢學緊說唱。",
+      "jyutping": "keoi5 hok6 gan2 syut3 coeng3.",
+      "meaning": "He/She is learning to rap.",
+      "sourceWordId": "syut3coeng3-rap",
+      "sourceWord": "說唱",
+      "sourceWordJyutping": "syut3 coeng3",
+      "sourceWordMeaning": "rap",
+      "tags": [
+        "music",
+        "music genres",
+        "rap",
+        "hip-hop",
+        "beginner",
+        "noun",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3coeng3-rap.json"
+    },
+    {
+      "sentenceId": "syut3coeng3-rap-example-4",
+      "sentence": "學校舉辦咗一個說唱表演。",
+      "jyutping": "hok6 haau6 geoi2 baan6 zo2 jat1 go3 syut3 coeng3 biu2 jim2.",
+      "meaning": "The school held a rap performance.",
+      "sourceWordId": "syut3coeng3-rap",
+      "sourceWord": "說唱",
+      "sourceWordJyutping": "syut3 coeng3",
+      "sourceWordMeaning": "rap",
+      "tags": [
+        "music",
+        "music genres",
+        "rap",
+        "hip-hop",
+        "beginner",
+        "noun",
+        "entertainment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/syut3coeng3-rap.json"
+    },
+    {
+      "sentenceId": "din6zi2jam1ngok6-electronic-music-example-1",
+      "sentence": "我而家好鍾意聽電子音樂。",
+      "jyutping": "ngo5 ji4gaa1 hou2 zung1 ji3 teng1 din6 zi2 jam1 ngok6.",
+      "meaning": "I’m really into listening to electronic music now.",
+      "sourceWordId": "din6zi2jam1ngok6-electronic-music",
+      "sourceWord": "電子音樂",
+      "sourceWordJyutping": "din6 zi2 jam1 ngok6",
+      "sourceWordMeaning": "electronic music",
+      "tags": [
+        "music genre",
+        "noun",
+        "media",
+        "entertainment",
+        "beginner",
+        "listening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2jam1ngok6-electronic-music.json"
+    },
+    {
+      "sentenceId": "din6zi2jam1ngok6-electronic-music-example-2",
+      "sentence": "佢成日喺屋企用電腦整電子音樂。",
+      "jyutping": "keoi5 sing4 jat6 hai2 uk1 kei2 jung6 din6 nou6 zing2 din6 zi2 jam1 ngok6.",
+      "meaning": "He often makes electronic music at home on the computer.",
+      "sourceWordId": "din6zi2jam1ngok6-electronic-music",
+      "sourceWord": "電子音樂",
+      "sourceWordJyutping": "din6 zi2 jam1 ngok6",
+      "sourceWordMeaning": "electronic music",
+      "tags": [
+        "music genre",
+        "noun",
+        "media",
+        "entertainment",
+        "beginner",
+        "listening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2jam1ngok6-electronic-music.json"
+    },
+    {
+      "sentenceId": "din6zi2jam1ngok6-electronic-music-example-3",
+      "sentence": "呢間酒吧今晚播電子音樂。",
+      "jyutping": "ni1 gaan1 zau2 baa1 gam1 maan5 bo3 din6 zi2 jam1 ngok6.",
+      "meaning": "This bar is playing electronic music tonight.",
+      "sourceWordId": "din6zi2jam1ngok6-electronic-music",
+      "sourceWord": "電子音樂",
+      "sourceWordJyutping": "din6 zi2 jam1 ngok6",
+      "sourceWordMeaning": "electronic music",
+      "tags": [
+        "music genre",
+        "noun",
+        "media",
+        "entertainment",
+        "beginner",
+        "listening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2jam1ngok6-electronic-music.json"
+    },
+    {
+      "sentenceId": "din6zi2jam1ngok6-electronic-music-example-4",
+      "sentence": "電子音樂節通常會吸引好多年輕人。",
+      "jyutping": "din6 zi2 jam1 ngok6 zit3 tung1 soeng4 wui5 kap1 jan5 hou2 do1 nin4 hing1 jan4.",
+      "meaning": "Electronic music festivals usually attract many young people.",
+      "sourceWordId": "din6zi2jam1ngok6-electronic-music",
+      "sourceWord": "電子音樂",
+      "sourceWordJyutping": "din6 zi2 jam1 ngok6",
+      "sourceWordMeaning": "electronic music",
+      "tags": [
+        "music genre",
+        "noun",
+        "media",
+        "entertainment",
+        "beginner",
+        "listening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/din6zi2jam1ngok6-electronic-music.json"
+    },
+    {
+      "sentenceId": "mou5kuk1-dance-music-example-1",
+      "sentence": "我哋今晚播舞曲嚟跳舞。",
+      "jyutping": "ngo5 dei6 gam1 maan5 bo3 mou5 kuk1 lei4 tiu3 mou5.",
+      "meaning": "We’ll play dance music tonight to dance.",
+      "sourceWordId": "mou5kuk1-dance-music",
+      "sourceWord": "舞曲",
+      "sourceWordJyutping": "mou5 kuk1",
+      "sourceWordMeaning": "dance music",
+      "tags": [
+        "music",
+        "genre",
+        "dance",
+        "party",
+        "rhythm",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5kuk1-dance-music.json"
+    },
+    {
+      "sentenceId": "mou5kuk1-dance-music-example-2",
+      "sentence": "呢間酒吧成日放舞曲。",
+      "jyutping": "ni1 gaan1 zau2 baa1 sing4 jat6 fong3 mou5 kuk1.",
+      "meaning": "This bar often plays dance music.",
+      "sourceWordId": "mou5kuk1-dance-music",
+      "sourceWord": "舞曲",
+      "sourceWordJyutping": "mou5 kuk1",
+      "sourceWordMeaning": "dance music",
+      "tags": [
+        "music",
+        "genre",
+        "dance",
+        "party",
+        "rhythm",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5kuk1-dance-music.json"
+    },
+    {
+      "sentenceId": "mou5kuk1-dance-music-example-3",
+      "sentence": "佢好鍾意聽舊舞曲。",
+      "jyutping": "keoi5 hou2 zung1 ji3 teng1 gau6 mou5 kuk1.",
+      "meaning": "He/She likes listening to old dance music.",
+      "sourceWordId": "mou5kuk1-dance-music",
+      "sourceWord": "舞曲",
+      "sourceWordJyutping": "mou5 kuk1",
+      "sourceWordMeaning": "dance music",
+      "tags": [
+        "music",
+        "genre",
+        "dance",
+        "party",
+        "rhythm",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5kuk1-dance-music.json"
+    },
+    {
+      "sentenceId": "mou5kuk1-dance-music-example-4",
+      "sentence": "呢首舞曲節奏好強。",
+      "jyutping": "ni1 sau2 mou5 kuk1 zit3 zau3 hou2 koeng4.",
+      "meaning": "This dance music track has a strong rhythm.",
+      "sourceWordId": "mou5kuk1-dance-music",
+      "sourceWord": "舞曲",
+      "sourceWordJyutping": "mou5 kuk1",
+      "sourceWordMeaning": "dance music",
+      "tags": [
+        "music",
+        "genre",
+        "dance",
+        "party",
+        "rhythm",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mou5kuk1-dance-music.json"
+    },
+    {
+      "sentenceId": "gu2din2jam1ngok6-classical-music-example-1",
+      "sentence": "我平時好鍾意聽古典音樂。",
+      "jyutping": "ngo5 ping4 si4 hou2 zung1 ji3 teng1 gu2 din2 jam1 ngok6.",
+      "meaning": "I usually like listening to classical music.",
+      "sourceWordId": "gu2din2jam1ngok6-classical-music",
+      "sourceWord": "古典音樂",
+      "sourceWordJyutping": "gu2 din2 jam1 ngok6",
+      "sourceWordMeaning": "classical music",
+      "tags": [
+        "music genre",
+        "formal noun",
+        "concerts",
+        "school vocabulary",
+        "learner A1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2din2jam1ngok6-classical-music.json"
+    },
+    {
+      "sentenceId": "gu2din2jam1ngok6-classical-music-example-2",
+      "sentence": "呢間學校成日會安排古典音樂欣賞活動。",
+      "jyutping": "ni1 gaan1 hok6 haau6 sing4 jat6 wui5 an1 paai4 gu2 din2 jam1 ngok6 jan1 soeng2 fau1 dung6.",
+      "meaning": "This school often arranges classical music appreciation activities.",
+      "sourceWordId": "gu2din2jam1ngok6-classical-music",
+      "sourceWord": "古典音樂",
+      "sourceWordJyutping": "gu2 din2 jam1 ngok6",
+      "sourceWordMeaning": "classical music",
+      "tags": [
+        "music genre",
+        "formal noun",
+        "concerts",
+        "school vocabulary",
+        "learner A1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2din2jam1ngok6-classical-music.json"
+    },
+    {
+      "sentenceId": "gu2din2jam1ngok6-classical-music-example-3",
+      "sentence": "佢彈鋼琴嘅時候，好有古典音樂嘅感覺。",
+      "jyutping": "keoi5 taan4 gong3 kam4 ge3 si4 hau6, hou2 jau5 gu2 din2 jam1 ngok6 ge3 gam2 gok3.",
+      "meaning": "When he plays the piano, it has a very classical-music feel.",
+      "sourceWordId": "gu2din2jam1ngok6-classical-music",
+      "sourceWord": "古典音樂",
+      "sourceWordJyutping": "gu2 din2 jam1 ngok6",
+      "sourceWordMeaning": "classical music",
+      "tags": [
+        "music genre",
+        "formal noun",
+        "concerts",
+        "school vocabulary",
+        "learner A1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2din2jam1ngok6-classical-music.json"
+    },
+    {
+      "sentenceId": "gu2din2jam1ngok6-classical-music-example-4",
+      "sentence": "我哋今晚會去聽一場古典音樂會。",
+      "jyutping": "ngo5 dei6 gam1 maan5 wui5 heoi3 teng1 jat1 coeng4 gu2 din2 jam1 ngok6 wui2.",
+      "meaning": "We’re going to a classical music concert tonight.",
+      "sourceWordId": "gu2din2jam1ngok6-classical-music",
+      "sourceWord": "古典音樂",
+      "sourceWordJyutping": "gu2 din2 jam1 ngok6",
+      "sourceWordMeaning": "classical music",
+      "tags": [
+        "music genre",
+        "formal noun",
+        "concerts",
+        "school vocabulary",
+        "learner A1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu2din2jam1ngok6-classical-music.json"
+    },
+    {
+      "sentenceId": "man4go1-folk-music-example-1",
+      "sentence": "我好鍾意聽民歌。",
+      "jyutping": "ngo5 hou2 zung1 ji3 teng1 man4 go1.",
+      "meaning": "I really like listening to folk music.",
+      "sourceWordId": "man4go1-folk-music",
+      "sourceWord": "民歌",
+      "sourceWordJyutping": "man4 go1",
+      "sourceWordMeaning": "folk music",
+      "tags": [
+        "music genre",
+        "folk music",
+        "basic vocabulary",
+        "culture",
+        "listening",
+        "singing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4go1-folk-music.json"
+    },
+    {
+      "sentenceId": "man4go1-folk-music-example-2",
+      "sentence": "呢個歌手成日唱民歌。",
+      "jyutping": "ni1 go3 go1 sau2 sing4 jat6 coeng3 man4 go1.",
+      "meaning": "This singer often sings folk songs.",
+      "sourceWordId": "man4go1-folk-music",
+      "sourceWord": "民歌",
+      "sourceWordJyutping": "man4 go1",
+      "sourceWordMeaning": "folk music",
+      "tags": [
+        "music genre",
+        "folk music",
+        "basic vocabulary",
+        "culture",
+        "listening",
+        "singing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4go1-folk-music.json"
+    },
+    {
+      "sentenceId": "man4go1-folk-music-example-3",
+      "sentence": "佢哋學校音樂堂教過民歌。",
+      "jyutping": "keoi5 dei6 hok6 haau6 jam1 ngok6 tong4 gaau3 gwo3 man4 go1.",
+      "meaning": "Their school music class has taught folk songs.",
+      "sourceWordId": "man4go1-folk-music",
+      "sourceWord": "民歌",
+      "sourceWordJyutping": "man4 go1",
+      "sourceWordMeaning": "folk music",
+      "tags": [
+        "music genre",
+        "folk music",
+        "basic vocabulary",
+        "culture",
+        "listening",
+        "singing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4go1-folk-music.json"
+    },
+    {
+      "sentenceId": "man4go1-folk-music-example-4",
+      "sentence": "香港都有唔同地方嘅民歌。",
+      "jyutping": "hoeng1 gong2 dou1 jau5 m4 tung4 dei6 fong1 ge3 man4 go1.",
+      "meaning": "Hong Kong also has folk music from different places.",
+      "sourceWordId": "man4go1-folk-music",
+      "sourceWord": "民歌",
+      "sourceWordJyutping": "man4 go1",
+      "sourceWordMeaning": "folk music",
+      "tags": [
+        "music genre",
+        "folk music",
+        "basic vocabulary",
+        "culture",
+        "listening",
+        "singing",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4go1-folk-music.json"
+    },
+    {
+      "sentenceId": "laam4diu6-blues-example-1",
+      "sentence": "我好鍾意聽藍調。",
+      "jyutping": "ngo5 hou2 zung1 ji3 teng1 laam4 diu6.",
+      "meaning": "I really like listening to blues.",
+      "sourceWordId": "laam4diu6-blues",
+      "sourceWord": "藍調",
+      "sourceWordJyutping": "laam4 diu6",
+      "sourceWordMeaning": "blues",
+      "tags": [
+        "music genre",
+        "noun",
+        "beginner",
+        "listening",
+        "instrumental",
+        "American music",
+        "soulful",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laam4diu6-blues.json"
+    },
+    {
+      "sentenceId": "laam4diu6-blues-example-2",
+      "sentence": "呢間酒吧成日播藍調音樂。",
+      "jyutping": "ni1 gaan1 zau2 baa1 sing4 jat6 bo3 laam4 diu6 jam1 ngok6.",
+      "meaning": "This bar often plays blues music.",
+      "sourceWordId": "laam4diu6-blues",
+      "sourceWord": "藍調",
+      "sourceWordJyutping": "laam4 diu6",
+      "sourceWordMeaning": "blues",
+      "tags": [
+        "music genre",
+        "noun",
+        "beginner",
+        "listening",
+        "instrumental",
+        "American music",
+        "soulful",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laam4diu6-blues.json"
+    },
+    {
+      "sentenceId": "laam4diu6-blues-example-3",
+      "sentence": "佢學咗好多年結他，最叻彈藍調。",
+      "jyutping": "keoi5 hok6 zo2 hou2 do1 nin4 git3 taa1, zeoi3 lek1 taan4 laam4 diu6.",
+      "meaning": "He studied guitar for many years and is best at playing blues.",
+      "sourceWordId": "laam4diu6-blues",
+      "sourceWord": "藍調",
+      "sourceWordJyutping": "laam4 diu6",
+      "sourceWordMeaning": "blues",
+      "tags": [
+        "music genre",
+        "noun",
+        "beginner",
+        "listening",
+        "instrumental",
+        "American music",
+        "soulful",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laam4diu6-blues.json"
+    },
+    {
+      "sentenceId": "laam4diu6-blues-example-4",
+      "sentence": "藍調同爵士有時會互相影響。",
+      "jyutping": "laam4 diu6 tung4 zoek3 si6 jau5 si4 wui5 wu6 soeng1 jing2 hoeng2.",
+      "meaning": "Blues and jazz sometimes influence each other.",
+      "sourceWordId": "laam4diu6-blues",
+      "sourceWord": "藍調",
+      "sourceWordJyutping": "laam4 diu6",
+      "sourceWordMeaning": "blues",
+      "tags": [
+        "music genre",
+        "noun",
+        "beginner",
+        "listening",
+        "instrumental",
+        "American music",
+        "soulful",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/laam4diu6-blues.json"
+    },
+    {
+      "sentenceId": "leoi4gwai2jam1ngok6-reggae-example-1",
+      "sentence": "我好鍾意聽雷鬼音樂。",
+      "jyutping": "ngo5 hou2 zung1 ji3 teng1 leoi4 gwai2 jam1 ngok6.",
+      "meaning": "I really like listening to reggae.",
+      "sourceWordId": "leoi4gwai2jam1ngok6-reggae",
+      "sourceWord": "雷鬼音樂",
+      "sourceWordJyutping": "leoi4 gwai2 jam1 ngok6",
+      "sourceWordMeaning": "reggae",
+      "tags": [
+        "music",
+        "genre",
+        "reggae",
+        "noun",
+        "beginner",
+        "listening",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4gwai2jam1ngok6-reggae.json"
+    },
+    {
+      "sentenceId": "leoi4gwai2jam1ngok6-reggae-example-2",
+      "sentence": "呢間酒吧今晚播雷鬼音樂。",
+      "jyutping": "ni1 gaan1 zau2 baa1 gam1 maan5 bo3 leoi4 gwai2 jam1 ngok6.",
+      "meaning": "This bar is playing reggae tonight.",
+      "sourceWordId": "leoi4gwai2jam1ngok6-reggae",
+      "sourceWord": "雷鬼音樂",
+      "sourceWordJyutping": "leoi4 gwai2 jam1 ngok6",
+      "sourceWordMeaning": "reggae",
+      "tags": [
+        "music",
+        "genre",
+        "reggae",
+        "noun",
+        "beginner",
+        "listening",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4gwai2jam1ngok6-reggae.json"
+    },
+    {
+      "sentenceId": "leoi4gwai2jam1ngok6-reggae-example-3",
+      "sentence": "佢成日彈雷鬼音樂風格嘅歌。",
+      "jyutping": "keoi5 sing4 jat6 taan4 leoi4 gwai2 jam1 ngok6 fung1 gaak3 ge3 go1.",
+      "meaning": "He often plays songs in a reggae style.",
+      "sourceWordId": "leoi4gwai2jam1ngok6-reggae",
+      "sourceWord": "雷鬼音樂",
+      "sourceWordJyutping": "leoi4 gwai2 jam1 ngok6",
+      "sourceWordMeaning": "reggae",
+      "tags": [
+        "music",
+        "genre",
+        "reggae",
+        "noun",
+        "beginner",
+        "listening",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4gwai2jam1ngok6-reggae.json"
+    },
+    {
+      "sentenceId": "leoi4gwai2jam1ngok6-reggae-example-4",
+      "sentence": "夏天聽雷鬼音樂特別舒服。",
+      "jyutping": "haa6 tin1 teng1 leoi4 gwai2 jam1 ngok6 dak6 bit6 syu1 fuk6.",
+      "meaning": "Listening to reggae is especially relaxing in summer.",
+      "sourceWordId": "leoi4gwai2jam1ngok6-reggae",
+      "sourceWord": "雷鬼音樂",
+      "sourceWordJyutping": "leoi4 gwai2 jam1 ngok6",
+      "sourceWordMeaning": "reggae",
+      "tags": [
+        "music",
+        "genre",
+        "reggae",
+        "noun",
+        "beginner",
+        "listening",
+        "conversation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leoi4gwai2jam1ngok6-reggae.json"
+    },
+    {
+      "sentenceId": "fuk1jam1jam1ngok6-gospel-music-example-1",
+      "sentence": "我好鍾意聽福音音樂。",
+      "jyutping": "ngo5 hou2 zung1 ji3 teng1 fuk1 jam1 jam1 ngok6.",
+      "meaning": "I really like listening to gospel music.",
+      "sourceWordId": "fuk1jam1jam1ngok6-gospel-music",
+      "sourceWord": "福音音樂",
+      "sourceWordJyutping": "fuk1 jam1 jam1 ngok6",
+      "sourceWordMeaning": "gospel music",
+      "tags": [
+        "music genre",
+        "Christian",
+        "church",
+        "religious music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk1jam1jam1ngok6-gospel-music.json"
+    },
+    {
+      "sentenceId": "fuk1jam1jam1ngok6-gospel-music-example-2",
+      "sentence": "教會今日有福音音樂會。",
+      "jyutping": "gaau3 wui2 gam1 jat6 jau5 fuk1 jam1 jam1 ngok6 wui2.",
+      "meaning": "The church has a gospel music concert today.",
+      "sourceWordId": "fuk1jam1jam1ngok6-gospel-music",
+      "sourceWord": "福音音樂",
+      "sourceWordJyutping": "fuk1 jam1 jam1 ngok6",
+      "sourceWordMeaning": "gospel music",
+      "tags": [
+        "music genre",
+        "Christian",
+        "church",
+        "religious music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk1jam1jam1ngok6-gospel-music.json"
+    },
+    {
+      "sentenceId": "fuk1jam1jam1ngok6-gospel-music-example-3",
+      "sentence": "呢首歌屬於福音音樂。",
+      "jyutping": "ni1 sau2 go1 suk6 jyu1 fuk1 jam1 jam1 ngok6.",
+      "meaning": "This song belongs to the gospel music genre.",
+      "sourceWordId": "fuk1jam1jam1ngok6-gospel-music",
+      "sourceWord": "福音音樂",
+      "sourceWordJyutping": "fuk1 jam1 jam1 ngok6",
+      "sourceWordMeaning": "gospel music",
+      "tags": [
+        "music genre",
+        "Christian",
+        "church",
+        "religious music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk1jam1jam1ngok6-gospel-music.json"
+    },
+    {
+      "sentenceId": "fuk1jam1jam1ngok6-gospel-music-example-4",
+      "sentence": "佢成日用福音音樂做敬拜。",
+      "jyutping": "keoi5 sing4 jat6 jung6 fuk1 jam1 jam1 ngok6 zou6 ging3 baai3.",
+      "meaning": "They often use gospel music for worship.",
+      "sourceWordId": "fuk1jam1jam1ngok6-gospel-music",
+      "sourceWord": "福音音樂",
+      "sourceWordJyutping": "fuk1 jam1 jam1 ngok6",
+      "sourceWordMeaning": "gospel music",
+      "tags": [
+        "music genre",
+        "Christian",
+        "church",
+        "religious music",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk1jam1jam1ngok6-gospel-music.json"
+    }
+  ],
+  "missingWordFiles": []
+}

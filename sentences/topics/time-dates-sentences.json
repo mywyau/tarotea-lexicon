@@ -1,0 +1,2926 @@
+{
+  "topic": "time_and_date",
+  "title": "Time & Dates",
+  "totalWords": 39,
+  "totalSentences": 155,
+  "items": [
+    {
+      "sentenceId": "sing1kei4jat6-sunday-example-1",
+      "sentence": "我星期日去行街。",
+      "jyutping": "ngo5 sing1 kei4 jat6 heoi3 haang4 gaai1",
+      "meaning": "I go shopping on Sunday.",
+      "sourceWordId": "sing1kei4jat6-sunday",
+      "sourceWord": "星期日",
+      "sourceWordJyutping": "sing1 kei4 jat6",
+      "sourceWordMeaning": "Sunday",
+      "tags": [
+        "days",
+        "weekdays",
+        "time",
+        "scheduling",
+        "weekend",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat6-sunday.json"
+    },
+    {
+      "sentenceId": "sing1kei4jat6-sunday-example-2",
+      "sentence": "呢個星期日我冇得做嘢。",
+      "jyutping": "ni1 go3 sing1 kei4 jat6 ngo5 mou5 dak1 zou6 je5",
+      "meaning": "I don’t have to work this Sunday.",
+      "sourceWordId": "sing1kei4jat6-sunday",
+      "sourceWord": "星期日",
+      "sourceWordJyutping": "sing1 kei4 jat6",
+      "sourceWordMeaning": "Sunday",
+      "tags": [
+        "days",
+        "weekdays",
+        "time",
+        "scheduling",
+        "weekend",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat6-sunday.json"
+    },
+    {
+      "sentenceId": "sing1kei4jat6-sunday-example-3",
+      "sentence": "你星期日忙唔忙？",
+      "jyutping": "nei5 sing1 kei4 jat6 mong4 m4 mong4?",
+      "meaning": "Are you busy on Sunday?",
+      "sourceWordId": "sing1kei4jat6-sunday",
+      "sourceWord": "星期日",
+      "sourceWordJyutping": "sing1 kei4 jat6",
+      "sourceWordMeaning": "Sunday",
+      "tags": [
+        "days",
+        "weekdays",
+        "time",
+        "scheduling",
+        "weekend",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat6-sunday.json"
+    },
+    {
+      "sentenceId": "sing1kei4jat6-sunday-example-4",
+      "sentence": "我哋下個星期日見。",
+      "jyutping": "ngo5 dei6 haa6 go3 sing1 kei4 jat6 gin3",
+      "meaning": "We’ll meet next Sunday.",
+      "sourceWordId": "sing1kei4jat6-sunday",
+      "sourceWord": "星期日",
+      "sourceWordJyutping": "sing1 kei4 jat6",
+      "sourceWordMeaning": "Sunday",
+      "tags": [
+        "days",
+        "weekdays",
+        "time",
+        "scheduling",
+        "weekend",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat6-sunday.json"
+    },
+    {
+      "sentenceId": "sing1kei4jat1-monday-example-1",
+      "sentence": "我星期一要返工。",
+      "jyutping": "ngo5 sing1 kei4 jat1 jiu3 faan1 gung1.",
+      "meaning": "I have to work on Monday.",
+      "sourceWordId": "sing1kei4jat1-monday",
+      "sourceWord": "星期一",
+      "sourceWordJyutping": "sing1 kei4 jat1",
+      "sourceWordMeaning": "Monday",
+      "tags": [
+        "time",
+        "date",
+        "weekdays",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat1-monday.json"
+    },
+    {
+      "sentenceId": "sing1kei4jat1-monday-example-2",
+      "sentence": "星期一我哋食粥。",
+      "jyutping": "sing1 kei4 jat1 ngo5 dei6 sik6 zuk1.",
+      "meaning": "On Monday, we eat congee.",
+      "sourceWordId": "sing1kei4jat1-monday",
+      "sourceWord": "星期一",
+      "sourceWordJyutping": "sing1 kei4 jat1",
+      "sourceWordMeaning": "Monday",
+      "tags": [
+        "time",
+        "date",
+        "weekdays",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat1-monday.json"
+    },
+    {
+      "sentenceId": "sing1kei4jat1-monday-example-3",
+      "sentence": "下星期一會落雨。",
+      "jyutping": "haa6 sing1 kei4 jat1 wui5 lok6 jyu5.",
+      "meaning": "It will rain next Monday.",
+      "sourceWordId": "sing1kei4jat1-monday",
+      "sourceWord": "星期一",
+      "sourceWordJyutping": "sing1 kei4 jat1",
+      "sourceWordMeaning": "Monday",
+      "tags": [
+        "time",
+        "date",
+        "weekdays",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat1-monday.json"
+    },
+    {
+      "sentenceId": "sing1kei4jat1-monday-example-4",
+      "sentence": "老師星期一會開會。",
+      "jyutping": "lou5 si1 sing1 kei4 jat1 wui5 hoi1 wui6.",
+      "meaning": "The teacher will have a meeting on Monday.",
+      "sourceWordId": "sing1kei4jat1-monday",
+      "sourceWord": "星期一",
+      "sourceWordJyutping": "sing1 kei4 jat1",
+      "sourceWordMeaning": "Monday",
+      "tags": [
+        "time",
+        "date",
+        "weekdays",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4jat1-monday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ji6-tuesday-example-1",
+      "sentence": "我星期二有鋼琴課。",
+      "jyutping": "ngo5 sing1 kei4 ji6 jau5 gong3 kam4 fo3",
+      "meaning": "I have piano class on Tuesday.",
+      "sourceWordId": "sing1kei4ji6-tuesday",
+      "sourceWord": "星期二",
+      "sourceWordJyutping": "sing1 kei4 ji6",
+      "sourceWordMeaning": "Tuesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ji6-tuesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ji6-tuesday-example-2",
+      "sentence": "星期二去邊度玩好？",
+      "jyutping": "sing1 kei4 ji6 heoi3 bin1 dou6 waan2 hou2?",
+      "meaning": "Where is good to go on Tuesday?",
+      "sourceWordId": "sing1kei4ji6-tuesday",
+      "sourceWord": "星期二",
+      "sourceWordJyutping": "sing1 kei4 ji6",
+      "sourceWordMeaning": "Tuesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ji6-tuesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ji6-tuesday-example-3",
+      "sentence": "我哋星期二約朋友食飯。",
+      "jyutping": "ngo5 dei6 sing1 kei4 ji6 joek3 pang4 jau5 sik6 faan6",
+      "meaning": "We arranged to eat with friends on Tuesday.",
+      "sourceWordId": "sing1kei4ji6-tuesday",
+      "sourceWord": "星期二",
+      "sourceWordJyutping": "sing1 kei4 ji6",
+      "sourceWordMeaning": "Tuesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ji6-tuesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ji6-tuesday-example-4",
+      "sentence": "星期二嘅天氣幾好。",
+      "jyutping": "sing1 kei4 ji6 ge3 tin1 hei3 gei2 hou2",
+      "meaning": "Tuesday's weather is quite good.",
+      "sourceWordId": "sing1kei4ji6-tuesday",
+      "sourceWord": "星期二",
+      "sourceWordJyutping": "sing1 kei4 ji6",
+      "sourceWordMeaning": "Tuesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ji6-tuesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4saam1-wednesday-example-1",
+      "sentence": "我星期三有堂瑜珈。",
+      "jyutping": "ngo5 sing1 kei4 saam1 jau5 tong4 jyu4 gaa1.",
+      "meaning": "I have a yoga class on Wednesday.",
+      "sourceWordId": "sing1kei4saam1-wednesday",
+      "sourceWord": "星期三",
+      "sourceWordJyutping": "sing1 kei4 saam1",
+      "sourceWordMeaning": "Wednesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4saam1-wednesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4saam1-wednesday-example-2",
+      "sentence": "星期三落雨，記得帶傘。",
+      "jyutping": "sing1 kei4 saam1 lok6 jyu5, gei3 dak1 daai3 saan3.",
+      "meaning": "It will rain on Wednesday, remember to bring an umbrella.",
+      "sourceWordId": "sing1kei4saam1-wednesday",
+      "sourceWord": "星期三",
+      "sourceWordJyutping": "sing1 kei4 saam1",
+      "sourceWordMeaning": "Wednesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4saam1-wednesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4saam1-wednesday-example-3",
+      "sentence": "星期三我哋食飯。",
+      "jyutping": "sing1 kei4 saam1 ngo5 dei6 sik6 faan6.",
+      "meaning": "We eat together on Wednesday.",
+      "sourceWordId": "sing1kei4saam1-wednesday",
+      "sourceWord": "星期三",
+      "sourceWordJyutping": "sing1 kei4 saam1",
+      "sourceWordMeaning": "Wednesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4saam1-wednesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4saam1-wednesday-example-4",
+      "sentence": "你星期三有冇空？",
+      "jyutping": "nei5 sing1 kei4 saam1 jau5 mou5 hung1?",
+      "meaning": "Are you free on Wednesday?",
+      "sourceWordId": "sing1kei4saam1-wednesday",
+      "sourceWord": "星期三",
+      "sourceWordJyutping": "sing1 kei4 saam1",
+      "sourceWordMeaning": "Wednesday",
+      "tags": [
+        "time",
+        "date",
+        "weekday",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4saam1-wednesday.json"
+    },
+    {
+      "sentenceId": "sing1kei4sei3-thursday-example-1",
+      "sentence": "我星期四有個會議。",
+      "jyutping": "ngo5 sing1 kei4 sei3 jau5 go3 wui6 ji5.",
+      "meaning": "I have a meeting on Thursday.",
+      "sourceWordId": "sing1kei4sei3-thursday",
+      "sourceWord": "星期四",
+      "sourceWordJyutping": "sing1 kei4 sei3",
+      "sourceWordMeaning": "Thursday",
+      "tags": [
+        "time",
+        "weekday",
+        "day",
+        "schedule",
+        "date",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4sei3-thursday.json"
+    },
+    {
+      "sentenceId": "sing1kei4sei3-thursday-example-2",
+      "sentence": "星期四落雨，你記唔記得？",
+      "jyutping": "sing1 kei4 sei3 lok6 jyu5, nei5 gei3 m4 gei3 dak1?",
+      "meaning": "It rained on Thursday, do you remember?",
+      "sourceWordId": "sing1kei4sei3-thursday",
+      "sourceWord": "星期四",
+      "sourceWordJyutping": "sing1 kei4 sei3",
+      "sourceWordMeaning": "Thursday",
+      "tags": [
+        "time",
+        "weekday",
+        "day",
+        "schedule",
+        "date",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4sei3-thursday.json"
+    },
+    {
+      "sentenceId": "sing1kei4sei3-thursday-example-3",
+      "sentence": "星期四下午我冇得閒。",
+      "jyutping": "sing1 kei4 sei3 haa6 ng5 ngo5 mou5 dak1 haan4.",
+      "meaning": "I am not free Thursday afternoon.",
+      "sourceWordId": "sing1kei4sei3-thursday",
+      "sourceWord": "星期四",
+      "sourceWordJyutping": "sing1 kei4 sei3",
+      "sourceWordMeaning": "Thursday",
+      "tags": [
+        "time",
+        "weekday",
+        "day",
+        "schedule",
+        "date",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4sei3-thursday.json"
+    },
+    {
+      "sentenceId": "sing1kei4sei3-thursday-example-4",
+      "sentence": "你星期四想做咩？",
+      "jyutping": "nei5 sing1 kei4 sei3 soeng2 zou6 me1?",
+      "meaning": "What do you want to do on Thursday?",
+      "sourceWordId": "sing1kei4sei3-thursday",
+      "sourceWord": "星期四",
+      "sourceWordJyutping": "sing1 kei4 sei3",
+      "sourceWordMeaning": "Thursday",
+      "tags": [
+        "time",
+        "weekday",
+        "day",
+        "schedule",
+        "date",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4sei3-thursday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ng5-friday-example-1",
+      "sentence": "我星期五要返工。",
+      "jyutping": "ngo5 sing1 kei4 ng5 jiu3 faan1 gung1",
+      "meaning": "I have to work on Friday.",
+      "sourceWordId": "sing1kei4ng5-friday",
+      "sourceWord": "星期五",
+      "sourceWordJyutping": "sing1 kei4 ng5",
+      "sourceWordMeaning": "Friday",
+      "tags": [
+        "weekdays",
+        "time",
+        "noun",
+        "common",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ng5-friday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ng5-friday-example-2",
+      "sentence": "星期五我哋一齊食飯啦。",
+      "jyutping": "sing1 kei4 ng5 ngo5 dei6 jat1 cai4 sik6 faan6 laa1",
+      "meaning": "Let's eat together on Friday.",
+      "sourceWordId": "sing1kei4ng5-friday",
+      "sourceWord": "星期五",
+      "sourceWordJyutping": "sing1 kei4 ng5",
+      "sourceWordMeaning": "Friday",
+      "tags": [
+        "weekdays",
+        "time",
+        "noun",
+        "common",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ng5-friday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ng5-friday-example-3",
+      "sentence": "你星期五有冇空？",
+      "jyutping": "nei5 sing1 kei4 ng5 jau5 mou5 hung1?",
+      "meaning": "Are you free on Friday?",
+      "sourceWordId": "sing1kei4ng5-friday",
+      "sourceWord": "星期五",
+      "sourceWordJyutping": "sing1 kei4 ng5",
+      "sourceWordMeaning": "Friday",
+      "tags": [
+        "weekdays",
+        "time",
+        "noun",
+        "common",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ng5-friday.json"
+    },
+    {
+      "sentenceId": "sing1kei4ng5-friday-example-4",
+      "sentence": "星期五天氣會好啲。",
+      "jyutping": "sing1 kei4 ng5 tin1 hei3 wui5 hou2 di1",
+      "meaning": "The weather will be better on Friday.",
+      "sourceWordId": "sing1kei4ng5-friday",
+      "sourceWord": "星期五",
+      "sourceWordJyutping": "sing1 kei4 ng5",
+      "sourceWordMeaning": "Friday",
+      "tags": [
+        "weekdays",
+        "time",
+        "noun",
+        "common",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4ng5-friday.json"
+    },
+    {
+      "sentenceId": "sing1kei4luk6-saturday-example-1",
+      "sentence": "我星期六去買嘢。",
+      "jyutping": "ngo5 sing1 kei4 luk6 heoi3 maai5 je5.",
+      "meaning": "I go shopping on Saturday.",
+      "sourceWordId": "sing1kei4luk6-saturday",
+      "sourceWord": "星期六",
+      "sourceWordJyutping": "sing1 kei4 luk6",
+      "sourceWordMeaning": "Saturday",
+      "tags": [
+        "days of the week",
+        "weekend",
+        "time",
+        "nouns",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4luk6-saturday.json"
+    },
+    {
+      "sentenceId": "sing1kei4luk6-saturday-example-2",
+      "sentence": "星期六我哋一齊食飯啦。",
+      "jyutping": "sing1 kei4 luk6 ngo5 dei6 jat1 cai4 sik6 faan6 laa1.",
+      "meaning": "Let's eat together on Saturday.",
+      "sourceWordId": "sing1kei4luk6-saturday",
+      "sourceWord": "星期六",
+      "sourceWordJyutping": "sing1 kei4 luk6",
+      "sourceWordMeaning": "Saturday",
+      "tags": [
+        "days of the week",
+        "weekend",
+        "time",
+        "nouns",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4luk6-saturday.json"
+    },
+    {
+      "sentenceId": "sing1kei4luk6-saturday-example-3",
+      "sentence": "你星期六有冇時間？",
+      "jyutping": "nei5 sing1 kei4 luk6 jau5 mou5 si4 gaan3?",
+      "meaning": "Do you have time on Saturday?",
+      "sourceWordId": "sing1kei4luk6-saturday",
+      "sourceWord": "星期六",
+      "sourceWordJyutping": "sing1 kei4 luk6",
+      "sourceWordMeaning": "Saturday",
+      "tags": [
+        "days of the week",
+        "weekend",
+        "time",
+        "nouns",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4luk6-saturday.json"
+    },
+    {
+      "sentenceId": "sing1kei4luk6-saturday-example-4",
+      "sentence": "星期六係我最鍾意嘅日子。",
+      "jyutping": "sing1 kei4 luk6 hai6 ngo5 zeoi3 zung1 ji3 ge3 jat6 zi2.",
+      "meaning": "Saturday is my favorite day.",
+      "sourceWordId": "sing1kei4luk6-saturday",
+      "sourceWord": "星期六",
+      "sourceWordJyutping": "sing1 kei4 luk6",
+      "sourceWordMeaning": "Saturday",
+      "tags": [
+        "days of the week",
+        "weekend",
+        "time",
+        "nouns",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sing1kei4luk6-saturday.json"
+    },
+    {
+      "sentenceId": "si4gaan3-time-example-1",
+      "sentence": "你有冇時間幫我？",
+      "jyutping": "nei5 jau5 mou5 si4 gaan3 bong1 ngo5?",
+      "meaning": "Do you have time to help me?",
+      "sourceWordId": "si4gaan3-time",
+      "sourceWord": "時間",
+      "sourceWordJyutping": "si4 gaan3",
+      "sourceWordMeaning": "time",
+      "tags": [
+        "basic",
+        "time",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si4gaan3-time.json"
+    },
+    {
+      "sentenceId": "si4gaan3-time-example-2",
+      "sentence": "我今日冇時間去買嘢。",
+      "jyutping": "ngo5 gam1 jat6 mou5 si4 gaan3 heoi3 maai5 je5.",
+      "meaning": "I don't have time to go shopping today.",
+      "sourceWordId": "si4gaan3-time",
+      "sourceWord": "時間",
+      "sourceWordJyutping": "si4 gaan3",
+      "sourceWordMeaning": "time",
+      "tags": [
+        "basic",
+        "time",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si4gaan3-time.json"
+    },
+    {
+      "sentenceId": "si4gaan3-time-example-3",
+      "sentence": "時間過得好快。",
+      "jyutping": "si4 gaan3 gwo3 dak1 hou2 faai3.",
+      "meaning": "Time goes by very quickly.",
+      "sourceWordId": "si4gaan3-time",
+      "sourceWord": "時間",
+      "sourceWordJyutping": "si4 gaan3",
+      "sourceWordMeaning": "time",
+      "tags": [
+        "basic",
+        "time",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si4gaan3-time.json"
+    },
+    {
+      "sentenceId": "si4gaan3-time-example-4",
+      "sentence": "你幾點有時間？",
+      "jyutping": "nei5 gei2 dim2 jau5 si4 gaan3?",
+      "meaning": "What time will you be free?",
+      "sourceWordId": "si4gaan3-time",
+      "sourceWord": "時間",
+      "sourceWordJyutping": "si4 gaan3",
+      "sourceWordMeaning": "time",
+      "tags": [
+        "basic",
+        "time",
+        "noun",
+        "daily conversation",
+        "measurements_and_quantities",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si4gaan3-time.json"
+    },
+    {
+      "sentenceId": "fan1zung1-minute-example-1",
+      "sentence": "我等咗你十分鐘。",
+      "jyutping": "ngo5 dang2 zo2 sap6 fan1 zung1.",
+      "meaning": "I waited for you for ten minutes.",
+      "sourceWordId": "fan1zung1-minute",
+      "sourceWord": "分鐘",
+      "sourceWordJyutping": "fan1 zung1",
+      "sourceWordMeaning": "minute",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "everyday",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1zung1-minute.json"
+    },
+    {
+      "sentenceId": "fan1zung1-minute-example-2",
+      "sentence": "呢個電影有兩個鐘同五分鐘。",
+      "jyutping": "ni1 go3 din6 jing2 jau5 loeng5 go3 zung1 tung4 ng5 fan1 zung1.",
+      "meaning": "This movie is two hours and five minutes long.",
+      "sourceWordId": "fan1zung1-minute",
+      "sourceWord": "分鐘",
+      "sourceWordJyutping": "fan1 zung1",
+      "sourceWordMeaning": "minute",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "everyday",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1zung1-minute.json"
+    },
+    {
+      "sentenceId": "fan1zung1-minute-example-3",
+      "sentence": "你幾分鐘可以完成？",
+      "jyutping": "nei5 gei2 fan1 zung1 ho2 ji5 jyun4 sing4?",
+      "meaning": "How many minutes will you need to finish?",
+      "sourceWordId": "fan1zung1-minute",
+      "sourceWord": "分鐘",
+      "sourceWordJyutping": "fan1 zung1",
+      "sourceWordMeaning": "minute",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "everyday",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1zung1-minute.json"
+    },
+    {
+      "sentenceId": "fan1zung1-minute-example-4",
+      "sentence": "我每日跑步半個鐘加十分鐘。",
+      "jyutping": "ngo5 mui5 jat6 paau2 bou6 bun3 go3 zung1 gaa1 sap6 fan1 zung1.",
+      "meaning": "I run for half an hour plus ten minutes every day.",
+      "sourceWordId": "fan1zung1-minute",
+      "sourceWord": "分鐘",
+      "sourceWordJyutping": "fan1 zung1",
+      "sourceWordMeaning": "minute",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "everyday",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fan1zung1-minute.json"
+    },
+    {
+      "sentenceId": "siu2si4-hour-example-1",
+      "sentence": "我睇咗兩個小時嘅電視。",
+      "jyutping": "ngo5 tai2 zo2 loeng5 go3 siu2 si4 ge3 din6 si6.",
+      "meaning": "I watched TV for two hours.",
+      "sourceWordId": "siu2si4-hour",
+      "sourceWord": "小時",
+      "sourceWordJyutping": "siu2 si4",
+      "sourceWordMeaning": "hour",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "hours",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2si4-hour.json"
+    },
+    {
+      "sentenceId": "siu2si4-hour-example-2",
+      "sentence": "我哋喺度等咗一個小時。",
+      "jyutping": "ngo5 dei6 hai2 dou6 dang2 zo2 jat1 go3 siu2 si4.",
+      "meaning": "We waited here for one hour.",
+      "sourceWordId": "siu2si4-hour",
+      "sourceWord": "小時",
+      "sourceWordJyutping": "siu2 si4",
+      "sourceWordMeaning": "hour",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "hours",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2si4-hour.json"
+    },
+    {
+      "sentenceId": "siu2si4-hour-example-3",
+      "sentence": "你做功課要幾多小時？",
+      "jyutping": "nei5 zou6 gung1 fo3 jiu3 gei2 do1 siu2 si4?",
+      "meaning": "How many hours do you need to do homework?",
+      "sourceWordId": "siu2si4-hour",
+      "sourceWord": "小時",
+      "sourceWordJyutping": "siu2 si4",
+      "sourceWordMeaning": "hour",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "hours",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2si4-hour.json"
+    },
+    {
+      "sentenceId": "siu2si4-hour-example-4",
+      "sentence": "飛機遲咗幾個小時先起飛。",
+      "jyutping": "fei1 gei1 ci4 zo2 gei2 go3 siu2 si4 sin1 hei2 fei1.",
+      "meaning": "The plane took off a few hours late.",
+      "sourceWordId": "siu2si4-hour",
+      "sourceWord": "小時",
+      "sourceWordJyutping": "siu2 si4",
+      "sourceWordMeaning": "hour",
+      "tags": [
+        "time",
+        "measurement",
+        "duration",
+        "hours",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu2si4-hour.json"
+    },
+    {
+      "sentenceId": "jat1fan1zung1-one-minute-example-1",
+      "sentence": "等一分鐘，我即刻返嚟。",
+      "jyutping": "dang2 jat1 fan1 zung1, ngo5 zik1 hak1 faan1 lai4.",
+      "meaning": "Wait one minute, I'll be right back.",
+      "sourceWordId": "jat1fan1zung1-one-minute",
+      "sourceWord": "一分鐘",
+      "sourceWordJyutping": "jat1 fan1 zung1",
+      "sourceWordMeaning": "one minute",
+      "tags": [
+        "time",
+        "duration",
+        "everyday",
+        "measurements",
+        "casual speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1fan1zung1-one-minute.json"
+    },
+    {
+      "sentenceId": "jat1fan1zung1-one-minute-example-2",
+      "sentence": "煮飯要十五分鐘。",
+      "jyutping": "zyu2 faan6 jiu3 sap6 ng5 fan1 zung1.",
+      "meaning": "Cooking rice takes fifteen minutes.",
+      "sourceWordId": "jat1fan1zung1-one-minute",
+      "sourceWord": "一分鐘",
+      "sourceWordJyutping": "jat1 fan1 zung1",
+      "sourceWordMeaning": "one minute",
+      "tags": [
+        "time",
+        "duration",
+        "everyday",
+        "measurements",
+        "casual speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1fan1zung1-one-minute.json"
+    },
+    {
+      "sentenceId": "jat1fan1zung1-one-minute-example-3",
+      "sentence": "比我一分鐘做呢份嘢好唔好？",
+      "jyutping": "bei2 ngo5 jat1 fan1 zung1 zou6 ni1 fan6 je5 hou2 m4 hou2?",
+      "meaning": "Give me one minute to do this, okay?",
+      "sourceWordId": "jat1fan1zung1-one-minute",
+      "sourceWord": "一分鐘",
+      "sourceWordJyutping": "jat1 fan1 zung1",
+      "sourceWordMeaning": "one minute",
+      "tags": [
+        "time",
+        "duration",
+        "everyday",
+        "measurements",
+        "casual speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1fan1zung1-one-minute.json"
+    },
+    {
+      "sentenceId": "jat1fan1zung1-one-minute-example-4",
+      "sentence": "一分鐘都唔可以遲到。",
+      "jyutping": "jat1 fan1 zung1 dou1 m4 ho2 ji5 ci4 dou3.",
+      "meaning": "You can't be late even by one minute.",
+      "sourceWordId": "jat1fan1zung1-one-minute",
+      "sourceWord": "一分鐘",
+      "sourceWordJyutping": "jat1 fan1 zung1",
+      "sourceWordMeaning": "one minute",
+      "tags": [
+        "time",
+        "duration",
+        "everyday",
+        "measurements",
+        "casual speech",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jat1fan1zung1-one-minute.json"
+    },
+    {
+      "sentenceId": "bun3siu2si4-half-hour-example-1",
+      "sentence": "我哋行咗半小時先到。",
+      "jyutping": "ngo5 dei6 hang4 zo2 bun3 siu2 si4 sin1 dou3.",
+      "meaning": "We walked for half an hour before arriving.",
+      "sourceWordId": "bun3siu2si4-half-hour",
+      "sourceWord": "半小時",
+      "sourceWordJyutping": "bun3 siu2 si4",
+      "sourceWordMeaning": "half hour",
+      "tags": [
+        "time",
+        "duration",
+        "measurement",
+        "daily use",
+        "temporal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
+    },
+    {
+      "sentenceId": "bun3siu2si4-half-hour-example-2",
+      "sentence": "開會會喺半小時後開始。",
+      "jyutping": "hoi1 wui6 wui5 hai2 bun3 siu2 si4 hau6 hoi1 ci2.",
+      "meaning": "The meeting will start in half an hour.",
+      "sourceWordId": "bun3siu2si4-half-hour",
+      "sourceWord": "半小時",
+      "sourceWordJyutping": "bun3 siu2 si4",
+      "sourceWordMeaning": "half hour",
+      "tags": [
+        "time",
+        "duration",
+        "measurement",
+        "daily use",
+        "temporal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
+    },
+    {
+      "sentenceId": "bun3siu2si4-half-hour-example-3",
+      "sentence": "煲湯要煮至少半小時。",
+      "jyutping": "bou1 tong1 jiu3 zyu2 zi3 siu2 bun3 siu2 si4.",
+      "meaning": "The soup needs to cook for at least half an hour.",
+      "sourceWordId": "bun3siu2si4-half-hour",
+      "sourceWord": "半小時",
+      "sourceWordJyutping": "bun3 siu2 si4",
+      "sourceWordMeaning": "half hour",
+      "tags": [
+        "time",
+        "duration",
+        "measurement",
+        "daily use",
+        "temporal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
+    },
+    {
+      "sentenceId": "bun3siu2si4-half-hour-example-4",
+      "sentence": "我今朝遲咗半小時返工。",
+      "jyutping": "ngo5 gam1 ziu1 ci4 zo2 bun3 siu2 si4 faan1 gung1.",
+      "meaning": "I was half an hour late to work this morning.",
+      "sourceWordId": "bun3siu2si4-half-hour",
+      "sourceWord": "半小時",
+      "sourceWordJyutping": "bun3 siu2 si4",
+      "sourceWordMeaning": "half hour",
+      "tags": [
+        "time",
+        "duration",
+        "measurement",
+        "daily use",
+        "temporal noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
+    },
+    {
+      "sentenceId": "dim2-hour-counter-example-1",
+      "sentence": "你幾點返屋企？",
+      "jyutping": "nei5 gei2 dim2 faan1 uk1 kei2?",
+      "meaning": "What time are you going home?",
+      "sourceWordId": "dim2-hour-counter",
+      "sourceWord": "點",
+      "sourceWordJyutping": "dim2",
+      "sourceWordMeaning": "hour counter",
+      "tags": [
+        "time",
+        "hours",
+        "telling time",
+        "daily conversation",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dim2-hour-counter.json"
+    },
+    {
+      "sentenceId": "dim2-hour-counter-example-2",
+      "sentence": "而家係八點半。",
+      "jyutping": "ji4 gaa1 hai6 baat3 dim2 bun3.",
+      "meaning": "It is 8:30 now.",
+      "sourceWordId": "dim2-hour-counter",
+      "sourceWord": "點",
+      "sourceWordJyutping": "dim2",
+      "sourceWordMeaning": "hour counter",
+      "tags": [
+        "time",
+        "hours",
+        "telling time",
+        "daily conversation",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dim2-hour-counter.json"
+    },
+    {
+      "sentenceId": "dim2-hour-counter-example-3",
+      "sentence": "我朝早九點要開會。",
+      "jyutping": "ngo5 ziu1 zou2 gau2 dim2 jiu3 hoi1 wui6.",
+      "meaning": "I have a meeting at 9 o'clock in the morning.",
+      "sourceWordId": "dim2-hour-counter",
+      "sourceWord": "點",
+      "sourceWordJyutping": "dim2",
+      "sourceWordMeaning": "hour counter",
+      "tags": [
+        "time",
+        "hours",
+        "telling time",
+        "daily conversation",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dim2-hour-counter.json"
+    },
+    {
+      "sentenceId": "dim2-hour-counter-example-4",
+      "sentence": "晚飯幾點開始？",
+      "jyutping": "maan5 faan6 gei2 dim2 hoi1 ci2?",
+      "meaning": "What time does dinner start?",
+      "sourceWordId": "dim2-hour-counter",
+      "sourceWord": "點",
+      "sourceWordJyutping": "dim2",
+      "sourceWordMeaning": "hour counter",
+      "tags": [
+        "time",
+        "hours",
+        "telling time",
+        "daily conversation",
+        "basic Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dim2-hour-counter.json"
+    },
+    {
+      "sentenceId": "zing3dim2-on-the-hour-example-1",
+      "sentence": "我哋七點正點開會。",
+      "jyutping": "ngo5 dei6 cat1 dim2 zing3 dim2 hoi1 wui6",
+      "meaning": "We will start the meeting at 7 o'clock on the hour.",
+      "sourceWordId": "zing3dim2-on-the-hour",
+      "sourceWord": "正點",
+      "sourceWordJyutping": "zing3 dim2",
+      "sourceWordMeaning": "on the hour",
+      "tags": [
+        "time",
+        "schedule",
+        "punctuality",
+        "hour",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3dim2-on-the-hour.json"
+    },
+    {
+      "sentenceId": "zing3dim2-on-the-hour-example-2",
+      "sentence": "巴士準時五點正點到。",
+      "jyutping": "baa1 si2 zeon2 si4 ng5 dim2 zing3 dim2 dou3",
+      "meaning": "The bus arrives exactly at 5 o'clock.",
+      "sourceWordId": "zing3dim2-on-the-hour",
+      "sourceWord": "正點",
+      "sourceWordJyutping": "zing3 dim2",
+      "sourceWordMeaning": "on the hour",
+      "tags": [
+        "time",
+        "schedule",
+        "punctuality",
+        "hour",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3dim2-on-the-hour.json"
+    },
+    {
+      "sentenceId": "zing3dim2-on-the-hour-example-3",
+      "sentence": "唔好遲到，要正點返嚟。",
+      "jyutping": "m4 ho2 ci4 dou3, jiu3 zing3 dim2 faan1 lai4",
+      "meaning": "Don't be late, come back on the hour.",
+      "sourceWordId": "zing3dim2-on-the-hour",
+      "sourceWord": "正點",
+      "sourceWordJyutping": "zing3 dim2",
+      "sourceWordMeaning": "on the hour",
+      "tags": [
+        "time",
+        "schedule",
+        "punctuality",
+        "hour",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3dim2-on-the-hour.json"
+    },
+    {
+      "sentenceId": "zing3dim2-on-the-hour-example-4",
+      "sentence": "我早餐八點半，但正點係九點。",
+      "jyutping": "ngo5 zou2 caan1 baat3 dim2 bun3, daan6 zing3 dim2 hai6 gau2 dim2",
+      "meaning": "My breakfast is at 8:30, but the official time is 9 o'clock on the hour.",
+      "sourceWordId": "zing3dim2-on-the-hour",
+      "sourceWord": "正點",
+      "sourceWordJyutping": "zing3 dim2",
+      "sourceWordMeaning": "on the hour",
+      "tags": [
+        "time",
+        "schedule",
+        "punctuality",
+        "hour",
+        "daily use",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zing3dim2-on-the-hour.json"
+    },
+    {
+      "sentenceId": "gei2dim2-what-time-example-1",
+      "sentence": "依家幾點？",
+      "jyutping": "ji1 gaa1 gei2 dim2?",
+      "meaning": "What time is it now?",
+      "sourceWordId": "gei2dim2-what-time",
+      "sourceWord": "幾點",
+      "sourceWordJyutping": "gei2 dim2",
+      "sourceWordMeaning": "what time?",
+      "tags": [
+        "time",
+        "question",
+        "daily life",
+        "asking time",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei2dim2-what-time.json"
+    },
+    {
+      "sentenceId": "gei2dim2-what-time-example-2",
+      "sentence": "我哋幾點開會？",
+      "jyutping": "ngo5 dei6 gei2 dim2 hoi1 wui6?",
+      "meaning": "What time do we start the meeting?",
+      "sourceWordId": "gei2dim2-what-time",
+      "sourceWord": "幾點",
+      "sourceWordJyutping": "gei2 dim2",
+      "sourceWordMeaning": "what time?",
+      "tags": [
+        "time",
+        "question",
+        "daily life",
+        "asking time",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei2dim2-what-time.json"
+    },
+    {
+      "sentenceId": "gei2dim2-what-time-example-3",
+      "sentence": "你今日幾點返屋企？",
+      "jyutping": "nei5 gam1 jat6 gei2 dim2 faan1 uk1 kei2?",
+      "meaning": "What time are you going home today?",
+      "sourceWordId": "gei2dim2-what-time",
+      "sourceWord": "幾點",
+      "sourceWordJyutping": "gei2 dim2",
+      "sourceWordMeaning": "what time?",
+      "tags": [
+        "time",
+        "question",
+        "daily life",
+        "asking time",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei2dim2-what-time.json"
+    },
+    {
+      "sentenceId": "gei2dim2-what-time-example-4",
+      "sentence": "飛機幾點起飛？",
+      "jyutping": "fei1 gei1 gei2 dim2 hei2 fei1?",
+      "meaning": "What time does the plane take off?",
+      "sourceWordId": "gei2dim2-what-time",
+      "sourceWord": "幾點",
+      "sourceWordJyutping": "gei2 dim2",
+      "sourceWordMeaning": "what time?",
+      "tags": [
+        "time",
+        "question",
+        "daily life",
+        "asking time",
+        "informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei2dim2-what-time.json"
+    },
+    {
+      "sentenceId": "loeng5dim2-two-oclock-example-1",
+      "sentence": "我哋兩點見。",
+      "jyutping": "ngo5 dei6 loeng5 dim2 gin3.",
+      "meaning": "Let's meet at two o'clock.",
+      "sourceWordId": "loeng5dim2-two-oclock",
+      "sourceWord": "兩點",
+      "sourceWordJyutping": "loeng5 dim2",
+      "sourceWordMeaning": "two oclock",
+      "tags": [
+        "time",
+        "hour",
+        "appointment",
+        "daily conversation",
+        "clock",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/loeng5dim2-two-oclock.json"
+    },
+    {
+      "sentenceId": "loeng5dim2-two-oclock-example-2",
+      "sentence": "兩點幾我有會議。",
+      "jyutping": "loeng5 dim2 gei2 ngo5 jau5 wui6 ji5.",
+      "meaning": "I have a meeting at a little past two.",
+      "sourceWordId": "loeng5dim2-two-oclock",
+      "sourceWord": "兩點",
+      "sourceWordJyutping": "loeng5 dim2",
+      "sourceWordMeaning": "two oclock",
+      "tags": [
+        "time",
+        "hour",
+        "appointment",
+        "daily conversation",
+        "clock",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/loeng5dim2-two-oclock.json"
+    },
+    {
+      "sentenceId": "loeng5dim2-two-oclock-example-3",
+      "sentence": "你兩點想食嘢未？",
+      "jyutping": "nei5 loeng5 dim2 soeng2 sik6 je5 mei6?",
+      "meaning": "Do you want to eat at two o'clock yet?",
+      "sourceWordId": "loeng5dim2-two-oclock",
+      "sourceWord": "兩點",
+      "sourceWordJyutping": "loeng5 dim2",
+      "sourceWordMeaning": "two oclock",
+      "tags": [
+        "time",
+        "hour",
+        "appointment",
+        "daily conversation",
+        "clock",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/loeng5dim2-two-oclock.json"
+    },
+    {
+      "sentenceId": "loeng5dim2-two-oclock-example-4",
+      "sentence": "巴士喺兩點到站。",
+      "jyutping": "baa1 si2 hai2 loeng5 dim2 dou3 zaam6.",
+      "meaning": "The bus arrives at two o'clock.",
+      "sourceWordId": "loeng5dim2-two-oclock",
+      "sourceWord": "兩點",
+      "sourceWordJyutping": "loeng5 dim2",
+      "sourceWordMeaning": "two oclock",
+      "tags": [
+        "time",
+        "hour",
+        "appointment",
+        "daily conversation",
+        "clock",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/loeng5dim2-two-oclock.json"
+    },
+    {
+      "sentenceId": "saam1dim2-three-oclock-example-1",
+      "sentence": "我哋三點見。",
+      "jyutping": "ngo5 dei6 saam1 dim2 gin3.",
+      "meaning": "Let's meet at three o'clock.",
+      "sourceWordId": "saam1dim2-three-oclock",
+      "sourceWord": "三點",
+      "sourceWordJyutping": "saam1 dim2",
+      "sourceWordMeaning": "three oclock",
+      "tags": [
+        "time",
+        "hour",
+        "clock",
+        "daily conversation",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1dim2-three-oclock.json"
+    },
+    {
+      "sentenceId": "saam1dim2-three-oclock-example-2",
+      "sentence": "三點鐘開始返工。",
+      "jyutping": "saam1 dim2 zung1 hoi1 ci2 faan1 gung1.",
+      "meaning": "Work starts at three o'clock.",
+      "sourceWordId": "saam1dim2-three-oclock",
+      "sourceWord": "三點",
+      "sourceWordJyutping": "saam1 dim2",
+      "sourceWordMeaning": "three oclock",
+      "tags": [
+        "time",
+        "hour",
+        "clock",
+        "daily conversation",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1dim2-three-oclock.json"
+    },
+    {
+      "sentenceId": "saam1dim2-three-oclock-example-3",
+      "sentence": "三點幾有空嗎？",
+      "jyutping": "saam1 dim2 gei2 jau5 hung1 maa3?",
+      "meaning": "Are you free a little past three o'clock?",
+      "sourceWordId": "saam1dim2-three-oclock",
+      "sourceWord": "三點",
+      "sourceWordJyutping": "saam1 dim2",
+      "sourceWordMeaning": "three oclock",
+      "tags": [
+        "time",
+        "hour",
+        "clock",
+        "daily conversation",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1dim2-three-oclock.json"
+    },
+    {
+      "sentenceId": "saam1dim2-three-oclock-example-4",
+      "sentence": "今日三點有個會議。",
+      "jyutping": "gam1 jat6 saam1 dim2 jau5 go3 wui6 ji5.",
+      "meaning": "There is a meeting at three o'clock today.",
+      "sourceWordId": "saam1dim2-three-oclock",
+      "sourceWord": "三點",
+      "sourceWordJyutping": "saam1 dim2",
+      "sourceWordMeaning": "three oclock",
+      "tags": [
+        "time",
+        "hour",
+        "clock",
+        "daily conversation",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/saam1dim2-three-oclock.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-1",
+      "sentence": "早晨呀！",
+      "jyutping": "zou2 san4 aa3",
+      "meaning": "Morning! (friendly)",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-2",
+      "sentence": "早晨，你食咗飯未？",
+      "jyutping": "zou2 san4, nei5 sik6 zo2 faan6 mei6",
+      "meaning": "Good morning, have you eaten yet?",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-3",
+      "sentence": "早晨，今日點呀？",
+      "jyutping": "zou2 san4, gam1 jat6 dim2 aa3",
+      "meaning": "Good morning, how’s today going?",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "zou2san4-good-morning-example-4",
+      "sentence": "我每日返工都會同同事講早晨。",
+      "jyutping": "ngo5 mui5 jat6 faan1 gung1 dou1 wui5 tung4 tung4si6 gong2 zou2 san4",
+      "meaning": "Every day when I go to work, I say good morning to my colleagues.",
+      "sourceWordId": "zou2san4-good-morning",
+      "sourceWord": "早晨",
+      "sourceWordJyutping": "zou2 san4",
+      "sourceWordMeaning": "good morning",
+      "tags": [
+        "greeting",
+        "level-1",
+        "core",
+        "daily",
+        "morning"
+      ],
+      "sourceFile": "r2-backup/words/zou2san4-good-morning.json"
+    },
+    {
+      "sentenceId": "zung1ng5-noon-example-1",
+      "sentence": "我哋中午一齊食飯啦。",
+      "jyutping": "ngo5 dei6 zung1 ng5 jat1 cai4 sik6 faan6 laa1.",
+      "meaning": "Let's eat lunch together at noon.",
+      "sourceWordId": "zung1ng5-noon",
+      "sourceWord": "中午",
+      "sourceWordJyutping": "zung1 ng5",
+      "sourceWordMeaning": "noon",
+      "tags": [
+        "time",
+        "daily life",
+        "meal",
+        "formal and informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1ng5-noon.json"
+    },
+    {
+      "sentenceId": "zung1ng5-noon-example-2",
+      "sentence": "中午十二點我要開會。",
+      "jyutping": "zung1 ng5 sap6 ji6 dim2 ngo5 jiu3 hoi1 wui6.",
+      "meaning": "I have a meeting at noon 12 o'clock.",
+      "sourceWordId": "zung1ng5-noon",
+      "sourceWord": "中午",
+      "sourceWordJyutping": "zung1 ng5",
+      "sourceWordMeaning": "noon",
+      "tags": [
+        "time",
+        "daily life",
+        "meal",
+        "formal and informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1ng5-noon.json"
+    },
+    {
+      "sentenceId": "zung1ng5-noon-example-3",
+      "sentence": "天氣咁熱，中午出街好辛苦。",
+      "jyutping": "tin1 hei3 gam2 jit6, zung1 ng5 ceot1 gaai1 hou2 san1 fu2.",
+      "meaning": "The weather is so hot, going out at noon is very tiring.",
+      "sourceWordId": "zung1ng5-noon",
+      "sourceWord": "中午",
+      "sourceWordJyutping": "zung1 ng5",
+      "sourceWordMeaning": "noon",
+      "tags": [
+        "time",
+        "daily life",
+        "meal",
+        "formal and informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1ng5-noon.json"
+    },
+    {
+      "sentenceId": "zung1ng5-noon-example-4",
+      "sentence": "我中午會返屋企休息。",
+      "jyutping": "ngo5 zung1 ng5 wui5 faan1 uk1 kei2 jau1 sik1.",
+      "meaning": "I will go home to rest at noon.",
+      "sourceWordId": "zung1ng5-noon",
+      "sourceWord": "中午",
+      "sourceWordJyutping": "zung1 ng5",
+      "sourceWordMeaning": "noon",
+      "tags": [
+        "time",
+        "daily life",
+        "meal",
+        "formal and informal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zung1ng5-noon.json"
+    },
+    {
+      "sentenceId": "haa6ng5-afternoon-example-1",
+      "sentence": "我下午有堂。",
+      "jyutping": "ngo5 haa6 ng5 jau5 tong4.",
+      "meaning": "I have class in the afternoon.",
+      "sourceWordId": "haa6ng5-afternoon",
+      "sourceWord": "下午",
+      "sourceWordJyutping": "haa6 ng5",
+      "sourceWordMeaning": "afternoon",
+      "tags": [
+        "time",
+        "day",
+        "afternoon",
+        "daily life",
+        "time of day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6ng5-afternoon.json"
+    },
+    {
+      "sentenceId": "haa6ng5-afternoon-example-2",
+      "sentence": "下午天氣好熱。",
+      "jyutping": "haa6 ng5 tin1 hei3 hou2 jit6.",
+      "meaning": "The afternoon weather is very hot.",
+      "sourceWordId": "haa6ng5-afternoon",
+      "sourceWord": "下午",
+      "sourceWordJyutping": "haa6 ng5",
+      "sourceWordMeaning": "afternoon",
+      "tags": [
+        "time",
+        "day",
+        "afternoon",
+        "daily life",
+        "time of day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6ng5-afternoon.json"
+    },
+    {
+      "sentenceId": "haa6ng5-afternoon-example-3",
+      "sentence": "你下午幾點放工？",
+      "jyutping": "nei5 haa6 ng5 gei2 dim2 fong3 gung1?",
+      "meaning": "What time do you finish work in the afternoon?",
+      "sourceWordId": "haa6ng5-afternoon",
+      "sourceWord": "下午",
+      "sourceWordJyutping": "haa6 ng5",
+      "sourceWordMeaning": "afternoon",
+      "tags": [
+        "time",
+        "day",
+        "afternoon",
+        "daily life",
+        "time of day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6ng5-afternoon.json"
+    },
+    {
+      "sentenceId": "haa6ng5-afternoon-example-4",
+      "sentence": "我哋下午去飲茶。",
+      "jyutping": "ngo5 dei6 haa6 ng5 heoi3 jam2 caa4.",
+      "meaning": "We will go for dim sum in the afternoon.",
+      "sourceWordId": "haa6ng5-afternoon",
+      "sourceWord": "下午",
+      "sourceWordJyutping": "haa6 ng5",
+      "sourceWordMeaning": "afternoon",
+      "tags": [
+        "time",
+        "day",
+        "afternoon",
+        "daily life",
+        "time of day",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6ng5-afternoon.json"
+    },
+    {
+      "sentenceId": "maan5soeng6-evening-example-1",
+      "sentence": "我晚上六點去食飯。",
+      "jyutping": "ngo5 maan5 soeng6 luk6 dim2 heoi3 sik6 faan6.",
+      "meaning": "I will go eat dinner at 6 in the evening.",
+      "sourceWordId": "maan5soeng6-evening",
+      "sourceWord": "晚上",
+      "sourceWordJyutping": "maan5 soeng6",
+      "sourceWordMeaning": "evening",
+      "tags": [
+        "time",
+        "evening",
+        "daily life",
+        "greetings",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5soeng6-evening.json"
+    },
+    {
+      "sentenceId": "maan5soeng6-evening-example-2",
+      "sentence": "晚上好！你今日點樣？",
+      "jyutping": "maan5 soeng6 hou2! nei5 gam1 jat6 dim2 joeng6?",
+      "meaning": "Good evening! How are you today?",
+      "sourceWordId": "maan5soeng6-evening",
+      "sourceWord": "晚上",
+      "sourceWordJyutping": "maan5 soeng6",
+      "sourceWordMeaning": "evening",
+      "tags": [
+        "time",
+        "evening",
+        "daily life",
+        "greetings",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5soeng6-evening.json"
+    },
+    {
+      "sentenceId": "maan5soeng6-evening-example-3",
+      "sentence": "我哋今晚晚上睇戲啦！",
+      "jyutping": "ngo5 dei6 gam1 maan5 maan5 soeng6 tai2 hei3 laa1!",
+      "meaning": "Let's watch a movie tonight in the evening!",
+      "sourceWordId": "maan5soeng6-evening",
+      "sourceWord": "晚上",
+      "sourceWordJyutping": "maan5 soeng6",
+      "sourceWordMeaning": "evening",
+      "tags": [
+        "time",
+        "evening",
+        "daily life",
+        "greetings",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5soeng6-evening.json"
+    },
+    {
+      "sentenceId": "maan5soeng6-evening-example-4",
+      "sentence": "晚上嘅天氣通常比較涼快。",
+      "jyutping": "maan5 soeng6 ge3 tin1 hei3 tung1 soeng4 bei2 gaau3 loeng4 faai3.",
+      "meaning": "The weather in the evening is usually cooler.",
+      "sourceWordId": "maan5soeng6-evening",
+      "sourceWord": "晚上",
+      "sourceWordJyutping": "maan5 soeng6",
+      "sourceWordMeaning": "evening",
+      "tags": [
+        "time",
+        "evening",
+        "daily life",
+        "greetings",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5soeng6-evening.json"
+    },
+    {
+      "sentenceId": "maan5-night-example-1",
+      "sentence": "我今晚要去晚飯。",
+      "jyutping": "ngo5 gam1 maan5 jiu3 heoi3 maan5 faan6",
+      "meaning": "I am going to have dinner tonight.",
+      "sourceWordId": "maan5-night",
+      "sourceWord": "晚",
+      "sourceWordJyutping": "maan5",
+      "sourceWordMeaning": "night",
+      "tags": [
+        "time",
+        "night",
+        "daily life",
+        "greetings",
+        "evening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5-night.json"
+    },
+    {
+      "sentenceId": "maan5-night-example-2",
+      "sentence": "晚風好舒服。",
+      "jyutping": "maan5 fung1 hou2 syu1 fuk6",
+      "meaning": "The night breeze is very comfortable.",
+      "sourceWordId": "maan5-night",
+      "sourceWord": "晚",
+      "sourceWordJyutping": "maan5",
+      "sourceWordMeaning": "night",
+      "tags": [
+        "time",
+        "night",
+        "daily life",
+        "greetings",
+        "evening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5-night.json"
+    },
+    {
+      "sentenceId": "maan5-night-example-3",
+      "sentence": "我哋約咗晚七點見面。",
+      "jyutping": "ngo5 dei6 joek3 zo2 maan5 cat1 dim2 gin3 min6",
+      "meaning": "We arranged to meet at 7 p.m.",
+      "sourceWordId": "maan5-night",
+      "sourceWord": "晚",
+      "sourceWordJyutping": "maan5",
+      "sourceWordMeaning": "night",
+      "tags": [
+        "time",
+        "night",
+        "daily life",
+        "greetings",
+        "evening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5-night.json"
+    },
+    {
+      "sentenceId": "maan5-night-example-4",
+      "sentence": "晚安，訓覺啦！",
+      "jyutping": "maan5 on1, fan3 gaau3 laa1",
+      "meaning": "Good night, go to sleep!",
+      "sourceWordId": "maan5-night",
+      "sourceWord": "晚",
+      "sourceWordJyutping": "maan5",
+      "sourceWordMeaning": "night",
+      "tags": [
+        "time",
+        "night",
+        "daily life",
+        "greetings",
+        "evening",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/maan5-night.json"
+    },
+    {
+      "sentenceId": "cam4jat6-yesterday-example-1",
+      "sentence": "我噚日去咗街。",
+      "jyutping": "ngo5 cam4 jat6 heoi3 zo2 gaai1.",
+      "meaning": "I went out yesterday.",
+      "sourceWordId": "cam4jat6-yesterday",
+      "sourceWord": "噚日",
+      "sourceWordJyutping": "cam4 jat6",
+      "sourceWordMeaning": "yesterday",
+      "tags": [
+        "time",
+        "everyday",
+        "informal",
+        "temporal noun",
+        "past",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cam4jat6-yesterday.json"
+    },
+    {
+      "sentenceId": "cam4jat6-yesterday-example-2",
+      "sentence": "噚日無帶傘，結果落雨淋濕晒。",
+      "jyutping": "cam4 jat6 mou4 daai3 saan3, git3 gwo2 lok6 jyu5 lam4 sap1 saai3.",
+      "meaning": "Yesterday I didn’t bring an umbrella, and as a result I got soaked in the rain.",
+      "sourceWordId": "cam4jat6-yesterday",
+      "sourceWord": "噚日",
+      "sourceWordJyutping": "cam4 jat6",
+      "sourceWordMeaning": "yesterday",
+      "tags": [
+        "time",
+        "everyday",
+        "informal",
+        "temporal noun",
+        "past",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cam4jat6-yesterday.json"
+    },
+    {
+      "sentenceId": "cam4jat6-yesterday-example-3",
+      "sentence": "你噚日食咗啲乜嘢？",
+      "jyutping": "nei5 cam4 jat6 sik6 zo2 di1 mat1 je5?",
+      "meaning": "What did you eat yesterday?",
+      "sourceWordId": "cam4jat6-yesterday",
+      "sourceWord": "噚日",
+      "sourceWordJyutping": "cam4 jat6",
+      "sourceWordMeaning": "yesterday",
+      "tags": [
+        "time",
+        "everyday",
+        "informal",
+        "temporal noun",
+        "past",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cam4jat6-yesterday.json"
+    },
+    {
+      "sentenceId": "cam4jat6-yesterday-example-4",
+      "sentence": "噚日啲學生考試，佢考得唔錯。",
+      "jyutping": "cam4 jat6 di1 hok6 saang1 haau2 si3, keoi5 haau2 dak1 m4 co3.",
+      "meaning": "Yesterday the students had an exam, and he did quite well.",
+      "sourceWordId": "cam4jat6-yesterday",
+      "sourceWord": "噚日",
+      "sourceWordJyutping": "cam4 jat6",
+      "sourceWordMeaning": "yesterday",
+      "tags": [
+        "time",
+        "everyday",
+        "informal",
+        "temporal noun",
+        "past",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cam4jat6-yesterday.json"
+    },
+    {
+      "sentenceId": "gam1jat6-today-example-1",
+      "sentence": "我今日要返工。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1.",
+      "meaning": "I have to go to work today.",
+      "sourceWordId": "gam1jat6-today",
+      "sourceWord": "今日",
+      "sourceWordJyutping": "gam1 jat6",
+      "sourceWordMeaning": "today",
+      "tags": [
+        "time",
+        "daily",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1jat6-today.json"
+    },
+    {
+      "sentenceId": "gam1jat6-today-example-2",
+      "sentence": "今日天氣好熱。",
+      "jyutping": "gam1 jat6 tin1 hei3 hou2 jit6.",
+      "meaning": "The weather is very hot today.",
+      "sourceWordId": "gam1jat6-today",
+      "sourceWord": "今日",
+      "sourceWordJyutping": "gam1 jat6",
+      "sourceWordMeaning": "today",
+      "tags": [
+        "time",
+        "daily",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1jat6-today.json"
+    },
+    {
+      "sentenceId": "gam1jat6-today-example-3",
+      "sentence": "我哋今日去飲茶啦！",
+      "jyutping": "ngo5 dei6 gam1 jat6 heoi3 jam2 caa4 laa1!",
+      "meaning": "Let's go have dim sum today!",
+      "sourceWordId": "gam1jat6-today",
+      "sourceWord": "今日",
+      "sourceWordJyutping": "gam1 jat6",
+      "sourceWordMeaning": "today",
+      "tags": [
+        "time",
+        "daily",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1jat6-today.json"
+    },
+    {
+      "sentenceId": "gam1jat6-today-example-4",
+      "sentence": "今日有冇考試？",
+      "jyutping": "gam1 jat6 jau5 mou5 haau2 si3?",
+      "meaning": "Is there an exam today?",
+      "sourceWordId": "gam1jat6-today",
+      "sourceWord": "今日",
+      "sourceWordJyutping": "gam1 jat6",
+      "sourceWordMeaning": "today",
+      "tags": [
+        "time",
+        "daily",
+        "basic",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1jat6-today.json"
+    },
+    {
+      "sentenceId": "ting1jat6-tomorrow-example-1",
+      "sentence": "我聽日去街。",
+      "jyutping": "ngo5 ting1 jat6 heoi3 gaai1",
+      "meaning": "I will go out tomorrow.",
+      "sourceWordId": "ting1jat6-tomorrow",
+      "sourceWord": "聽日",
+      "sourceWordJyutping": "ting1 jat6",
+      "sourceWordMeaning": "tomorrow",
+      "tags": [
+        "time",
+        "daily use",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ting1jat6-tomorrow.json"
+    },
+    {
+      "sentenceId": "ting1jat6-tomorrow-example-2",
+      "sentence": "聽日見啦！",
+      "jyutping": "ting1 jat6 gin3 laa1",
+      "meaning": "See you tomorrow!",
+      "sourceWordId": "ting1jat6-tomorrow",
+      "sourceWord": "聽日",
+      "sourceWordJyutping": "ting1 jat6",
+      "sourceWordMeaning": "tomorrow",
+      "tags": [
+        "time",
+        "daily use",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ting1jat6-tomorrow.json"
+    },
+    {
+      "sentenceId": "ting1jat6-tomorrow-example-3",
+      "sentence": "聽日會落雨。",
+      "jyutping": "ting1 jat6 wui5 lok6 jyu5",
+      "meaning": "It will rain tomorrow.",
+      "sourceWordId": "ting1jat6-tomorrow",
+      "sourceWord": "聽日",
+      "sourceWordJyutping": "ting1 jat6",
+      "sourceWordMeaning": "tomorrow",
+      "tags": [
+        "time",
+        "daily use",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ting1jat6-tomorrow.json"
+    },
+    {
+      "sentenceId": "ting1jat6-tomorrow-example-4",
+      "sentence": "我聽日有個考試。",
+      "jyutping": "ngo5 ting1 jat6 jau5 go3 haau2 si3",
+      "meaning": "I have an exam tomorrow.",
+      "sourceWordId": "ting1jat6-tomorrow",
+      "sourceWord": "聽日",
+      "sourceWordJyutping": "ting1 jat6",
+      "sourceWordMeaning": "tomorrow",
+      "tags": [
+        "time",
+        "daily use",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ting1jat6-tomorrow.json"
+    },
+    {
+      "sentenceId": "cin4jat6-the-day-before-yesterday-example-1",
+      "sentence": "我前日去咗超市。",
+      "jyutping": "ngo5 cin4 jat6 heoi3 zo2 ciu1 si5.",
+      "meaning": "I went to the supermarket the day before yesterday.",
+      "sourceWordId": "cin4jat6-the-day-before-yesterday",
+      "sourceWord": "前日",
+      "sourceWordJyutping": "cin4 jat6",
+      "sourceWordMeaning": "the day before yesterday",
+      "tags": [
+        "time",
+        "date",
+        "daily use",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cin4jat6-the-day-before-yesterday.json"
+    },
+    {
+      "sentenceId": "cin4jat6-the-day-before-yesterday-example-2",
+      "sentence": "前日落咗雨。",
+      "jyutping": "cin4 jat6 lok6 zo2 jyu5.",
+      "meaning": "It rained the day before yesterday.",
+      "sourceWordId": "cin4jat6-the-day-before-yesterday",
+      "sourceWord": "前日",
+      "sourceWordJyutping": "cin4 jat6",
+      "sourceWordMeaning": "the day before yesterday",
+      "tags": [
+        "time",
+        "date",
+        "daily use",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cin4jat6-the-day-before-yesterday.json"
+    },
+    {
+      "sentenceId": "cin4jat6-the-day-before-yesterday-example-3",
+      "sentence": "你前日做咗啲乜嘢？",
+      "jyutping": "nei5 cin4 jat6 zou6 zo2 di1 mat1 je5?",
+      "meaning": "What did you do the day before yesterday?",
+      "sourceWordId": "cin4jat6-the-day-before-yesterday",
+      "sourceWord": "前日",
+      "sourceWordJyutping": "cin4 jat6",
+      "sourceWordMeaning": "the day before yesterday",
+      "tags": [
+        "time",
+        "date",
+        "daily use",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cin4jat6-the-day-before-yesterday.json"
+    },
+    {
+      "sentenceId": "cin4jat6-the-day-before-yesterday-example-4",
+      "sentence": "我哋前日開咗會。",
+      "jyutping": "ngo5 dei6 cin4 jat6 hoi1 zo2 wui6.",
+      "meaning": "We had a meeting the day before yesterday.",
+      "sourceWordId": "cin4jat6-the-day-before-yesterday",
+      "sourceWord": "前日",
+      "sourceWordJyutping": "cin4 jat6",
+      "sourceWordMeaning": "the day before yesterday",
+      "tags": [
+        "time",
+        "date",
+        "daily use",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cin4jat6-the-day-before-yesterday.json"
+    },
+    {
+      "sentenceId": "hau6jat6-the-day-after-tomorrow-example-1",
+      "sentence": "我哋後日去旅行。",
+      "jyutping": "ngo5 dei6 hau6 jat6 heoi3 leoi5 hang4.",
+      "meaning": "We will travel the day after tomorrow.",
+      "sourceWordId": "hau6jat6-the-day-after-tomorrow",
+      "sourceWord": "後日",
+      "sourceWordJyutping": "hau6 jat6",
+      "sourceWordMeaning": "the day after tomorrow",
+      "tags": [
+        "time",
+        "date",
+        "planning",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hau6jat6-the-day-after-tomorrow.json"
+    },
+    {
+      "sentenceId": "hau6jat6-the-day-after-tomorrow-example-2",
+      "sentence": "後日有個會議，記得準備。",
+      "jyutping": "hau6 jat6 jau5 go3 wui6 ji5, gei3 dak1 zeon2 bei6.",
+      "meaning": "There is a meeting the day after tomorrow, remember to prepare.",
+      "sourceWordId": "hau6jat6-the-day-after-tomorrow",
+      "sourceWord": "後日",
+      "sourceWordJyutping": "hau6 jat6",
+      "sourceWordMeaning": "the day after tomorrow",
+      "tags": [
+        "time",
+        "date",
+        "planning",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hau6jat6-the-day-after-tomorrow.json"
+    },
+    {
+      "sentenceId": "hau6jat6-the-day-after-tomorrow-example-3",
+      "sentence": "後日天氣應該會好啲。",
+      "jyutping": "hau6 jat6 tin1 hei3 jing1 goi1 wui5 hou2 di1.",
+      "meaning": "The weather should be better the day after tomorrow.",
+      "sourceWordId": "hau6jat6-the-day-after-tomorrow",
+      "sourceWord": "後日",
+      "sourceWordJyutping": "hau6 jat6",
+      "sourceWordMeaning": "the day after tomorrow",
+      "tags": [
+        "time",
+        "date",
+        "planning",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hau6jat6-the-day-after-tomorrow.json"
+    },
+    {
+      "sentenceId": "hau6jat6-the-day-after-tomorrow-example-4",
+      "sentence": "我後日唔得閒，要加班。",
+      "jyutping": "ngo5 hau6 jat6 m4 dak1 haan4, jiu3 gaa1 baan1.",
+      "meaning": "I am not free the day after tomorrow; I need to work overtime.",
+      "sourceWordId": "hau6jat6-the-day-after-tomorrow",
+      "sourceWord": "後日",
+      "sourceWordJyutping": "hau6 jat6",
+      "sourceWordMeaning": "the day after tomorrow",
+      "tags": [
+        "time",
+        "date",
+        "planning",
+        "future",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hau6jat6-the-day-after-tomorrow.json"
+    },
+    {
+      "sentenceId": "soeng5go3sing1kei4-last-week-example-1",
+      "sentence": "我上個星期去咗旺角。",
+      "jyutping": "ngo5 soeng5 go3 sing1 kei4 heoi3 zo2 wong6 gok3.",
+      "meaning": "I went to Mong Kok last week.",
+      "sourceWordId": "soeng5go3sing1kei4-last-week",
+      "sourceWord": "上個星期",
+      "sourceWordJyutping": "soeng5 go3 sing1 kei4",
+      "sourceWordMeaning": "last week",
+      "tags": [
+        "time",
+        "date",
+        "past",
+        "everyday",
+        "weekly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5go3sing1kei4-last-week.json"
+    },
+    {
+      "sentenceId": "soeng5go3sing1kei4-last-week-example-2",
+      "sentence": "上個星期你做咗啲乜嘢？",
+      "jyutping": "soeng5 go3 sing1 kei4 nei5 zou6 zo2 di1 mat1 je5?",
+      "meaning": "What did you do last week?",
+      "sourceWordId": "soeng5go3sing1kei4-last-week",
+      "sourceWord": "上個星期",
+      "sourceWordJyutping": "soeng5 go3 sing1 kei4",
+      "sourceWordMeaning": "last week",
+      "tags": [
+        "time",
+        "date",
+        "past",
+        "everyday",
+        "weekly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5go3sing1kei4-last-week.json"
+    },
+    {
+      "sentenceId": "soeng5go3sing1kei4-last-week-example-3",
+      "sentence": "上個星期嘅天氣好熱。",
+      "jyutping": "soeng5 go3 sing1 kei4 ge3 tin1 hei3 hou2 jit6.",
+      "meaning": "The weather was very hot last week.",
+      "sourceWordId": "soeng5go3sing1kei4-last-week",
+      "sourceWord": "上個星期",
+      "sourceWordJyutping": "soeng5 go3 sing1 kei4",
+      "sourceWordMeaning": "last week",
+      "tags": [
+        "time",
+        "date",
+        "past",
+        "everyday",
+        "weekly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5go3sing1kei4-last-week.json"
+    },
+    {
+      "sentenceId": "soeng5go3sing1kei4-last-week-example-4",
+      "sentence": "佢上個星期見咗我爸爸。",
+      "jyutping": "keoi5 soeng5 go3 sing1 kei4 gin3 zo2 ngo5 baa4 baa1.",
+      "meaning": "He met my dad last week.",
+      "sourceWordId": "soeng5go3sing1kei4-last-week",
+      "sourceWord": "上個星期",
+      "sourceWordJyutping": "soeng5 go3 sing1 kei4",
+      "sourceWordMeaning": "last week",
+      "tags": [
+        "time",
+        "date",
+        "past",
+        "everyday",
+        "weekly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5go3sing1kei4-last-week.json"
+    },
+    {
+      "sentenceId": "haa6go3sing1kei4-next-week-example-1",
+      "sentence": "我下個星期要去旅行。",
+      "jyutping": "ngo5 haa6 go3 sing1 kei4 jiu3 heoi3 leoi5 hang4",
+      "meaning": "I will travel next week.",
+      "sourceWordId": "haa6go3sing1kei4-next-week",
+      "sourceWord": "下個星期",
+      "sourceWordJyutping": "haa6 go3 sing1 kei4",
+      "sourceWordMeaning": "next week",
+      "tags": [
+        "time",
+        "week",
+        "future",
+        "planning",
+        "everyday",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6go3sing1kei4-next-week.json"
+    },
+    {
+      "sentenceId": "haa6go3sing1kei4-next-week-example-2",
+      "sentence": "你下個星期得唔得閒？",
+      "jyutping": "nei5 haa6 go3 sing1 kei4 dak1 m4 dak1 haan4?",
+      "meaning": "Are you free next week?",
+      "sourceWordId": "haa6go3sing1kei4-next-week",
+      "sourceWord": "下個星期",
+      "sourceWordJyutping": "haa6 go3 sing1 kei4",
+      "sourceWordMeaning": "next week",
+      "tags": [
+        "time",
+        "week",
+        "future",
+        "planning",
+        "everyday",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6go3sing1kei4-next-week.json"
+    },
+    {
+      "sentenceId": "haa6go3sing1kei4-next-week-example-3",
+      "sentence": "下個星期我哋有考試。",
+      "jyutping": "haa6 go3 sing1 kei4 ngo5 dei6 jau5 haau2 si3",
+      "meaning": "We have an exam next week.",
+      "sourceWordId": "haa6go3sing1kei4-next-week",
+      "sourceWord": "下個星期",
+      "sourceWordJyutping": "haa6 go3 sing1 kei4",
+      "sourceWordMeaning": "next week",
+      "tags": [
+        "time",
+        "week",
+        "future",
+        "planning",
+        "everyday",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6go3sing1kei4-next-week.json"
+    },
+    {
+      "sentenceId": "haa6go3sing1kei4-next-week-example-4",
+      "sentence": "下個星期一我會返工。",
+      "jyutping": "haa6 go3 sing1 kei4 jat1 ngo5 wui5 faan1 gung1",
+      "meaning": "I will go back to work next Monday.",
+      "sourceWordId": "haa6go3sing1kei4-next-week",
+      "sourceWord": "下個星期",
+      "sourceWordJyutping": "haa6 go3 sing1 kei4",
+      "sourceWordMeaning": "next week",
+      "tags": [
+        "time",
+        "week",
+        "future",
+        "planning",
+        "everyday",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6go3sing1kei4-next-week.json"
+    },
+    {
+      "sentenceId": "gam1go3sing1kei4-this-week-example-1",
+      "sentence": "我今個星期要返工。",
+      "jyutping": "ngo5 gam1 go3 sing1 kei4 jiu3 faan1 gung1",
+      "meaning": "I have to work this week.",
+      "sourceWordId": "gam1go3sing1kei4-this-week",
+      "sourceWord": "今個星期",
+      "sourceWordJyutping": "gam1 go3 sing1 kei4",
+      "sourceWordMeaning": "this week",
+      "tags": [
+        "time",
+        "week",
+        "schedule",
+        "daily conversation",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1go3sing1kei4-this-week.json"
+    },
+    {
+      "sentenceId": "gam1go3sing1kei4-this-week-example-2",
+      "sentence": "今個星期我哋去旅行。",
+      "jyutping": "gam1 go3 sing1 kei4 ngo5 dei6 heoi3 leoi5 hang4",
+      "meaning": "We are going traveling this week.",
+      "sourceWordId": "gam1go3sing1kei4-this-week",
+      "sourceWord": "今個星期",
+      "sourceWordJyutping": "gam1 go3 sing1 kei4",
+      "sourceWordMeaning": "this week",
+      "tags": [
+        "time",
+        "week",
+        "schedule",
+        "daily conversation",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1go3sing1kei4-this-week.json"
+    },
+    {
+      "sentenceId": "gam1go3sing1kei4-this-week-example-3",
+      "sentence": "你今個星期有冇時間？",
+      "jyutping": "nei5 gam1 go3 sing1 kei4 jau5 mou5 si4 gaan3",
+      "meaning": "Do you have time this week?",
+      "sourceWordId": "gam1go3sing1kei4-this-week",
+      "sourceWord": "今個星期",
+      "sourceWordJyutping": "gam1 go3 sing1 kei4",
+      "sourceWordMeaning": "this week",
+      "tags": [
+        "time",
+        "week",
+        "schedule",
+        "daily conversation",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1go3sing1kei4-this-week.json"
+    },
+    {
+      "sentenceId": "gam1go3sing1kei4-this-week-example-4",
+      "sentence": "老師講今個星期有測驗。",
+      "jyutping": "lou5 si1 gong2 gam1 go3 sing1 kei4 jau5 caak1 jim6",
+      "meaning": "The teacher said there will be a test this week.",
+      "sourceWordId": "gam1go3sing1kei4-this-week",
+      "sourceWord": "今個星期",
+      "sourceWordJyutping": "gam1 go3 sing1 kei4",
+      "sourceWordMeaning": "this week",
+      "tags": [
+        "time",
+        "week",
+        "schedule",
+        "daily conversation",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1go3sing1kei4-this-week.json"
+    },
+    {
+      "sentenceId": "jyut6-month-example-1",
+      "sentence": "我九月去旅行。",
+      "jyutping": "ngo5 gau2 jyut6 heoi3 leoi5 hang4.",
+      "meaning": "I will travel in September.",
+      "sourceWordId": "jyut6-month",
+      "sourceWord": "月",
+      "sourceWordJyutping": "jyut6",
+      "sourceWordMeaning": "month",
+      "tags": [
+        "time",
+        "date",
+        "month",
+        "duration",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6-month.json"
+    },
+    {
+      "sentenceId": "jyut6-month-example-2",
+      "sentence": "呢個月好忙。",
+      "jyutping": "ni1 go3 jyut6 hou2 mong4.",
+      "meaning": "This month is very busy.",
+      "sourceWordId": "jyut6-month",
+      "sourceWord": "月",
+      "sourceWordJyutping": "jyut6",
+      "sourceWordMeaning": "month",
+      "tags": [
+        "time",
+        "date",
+        "month",
+        "duration",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6-month.json"
+    },
+    {
+      "sentenceId": "jyut6-month-example-3",
+      "sentence": "我學中文學咗三個月。",
+      "jyutping": "ngo5 hok6 zung1 man4 hok6 zo2 saam1 go3 jyut6.",
+      "meaning": "I have been learning Chinese for three months.",
+      "sourceWordId": "jyut6-month",
+      "sourceWord": "月",
+      "sourceWordJyutping": "jyut6",
+      "sourceWordMeaning": "month",
+      "tags": [
+        "time",
+        "date",
+        "month",
+        "duration",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6-month.json"
+    },
+    {
+      "sentenceId": "jyut6-month-example-4",
+      "sentence": "十二月有聖誕節。",
+      "jyutping": "sap6 ji6 jyut6 jau5 sing3 daan3 zit3.",
+      "meaning": "December has Christmas.",
+      "sourceWordId": "jyut6-month",
+      "sourceWord": "月",
+      "sourceWordJyutping": "jyut6",
+      "sourceWordMeaning": "month",
+      "tags": [
+        "time",
+        "date",
+        "month",
+        "duration",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyut6-month.json"
+    },
+    {
+      "sentenceId": "nin4-year-example-1",
+      "sentence": "我今年二十五年。",
+      "jyutping": "ngo5 gam1 nin4 ji6 sap6 ng5 nin4.",
+      "meaning": "I am 25 years old this year.",
+      "sourceWordId": "nin4-year",
+      "sourceWord": "年",
+      "sourceWordJyutping": "nin4",
+      "sourceWordMeaning": "year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "age",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nin4-year.json"
+    },
+    {
+      "sentenceId": "nin4-year-example-2",
+      "sentence": "新年快樂！",
+      "jyutping": "san1 nin4 faai3 lok6!",
+      "meaning": "Happy New Year!",
+      "sourceWordId": "nin4-year",
+      "sourceWord": "年",
+      "sourceWordJyutping": "nin4",
+      "sourceWordMeaning": "year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "age",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nin4-year.json"
+    },
+    {
+      "sentenceId": "nin4-year-example-3",
+      "sentence": "我地下年去旅行。",
+      "jyutping": "ngo5 dei6 haa6 nin4 heoi3 leoi5 hang4.",
+      "meaning": "We will travel next year.",
+      "sourceWordId": "nin4-year",
+      "sourceWord": "年",
+      "sourceWordJyutping": "nin4",
+      "sourceWordMeaning": "year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "age",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nin4-year.json"
+    },
+    {
+      "sentenceId": "nin4-year-example-4",
+      "sentence": "呢本書係2023年出版。",
+      "jyutping": "ni1 bun2 syu1 hai6 ji6 ling4 ji6 saam1 nin4 ceot1 baan2.",
+      "meaning": "This book was published in 2023.",
+      "sourceWordId": "nin4-year",
+      "sourceWord": "年",
+      "sourceWordJyutping": "nin4",
+      "sourceWordMeaning": "year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "age",
+        "calendar",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/nin4-year.json"
+    },
+    {
+      "sentenceId": "gam1nin4-this-year-example-1",
+      "sentence": "今年我想去旅行。",
+      "jyutping": "gam1 nin4 ngo5 soeng2 heoi3 leoi5 hang4.",
+      "meaning": "This year I want to travel.",
+      "sourceWordId": "gam1nin4-this-year",
+      "sourceWord": "今年",
+      "sourceWordJyutping": "gam1 nin4",
+      "sourceWordMeaning": "this year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "current",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1nin4-this-year.json"
+    },
+    {
+      "sentenceId": "gam1nin4-this-year-example-2",
+      "sentence": "今年天氣比去年好。",
+      "jyutping": "gam1 nin4 tin1 hei3 bei2 keoi4 nin4 hou2.",
+      "meaning": "This year the weather is better than last year.",
+      "sourceWordId": "gam1nin4-this-year",
+      "sourceWord": "今年",
+      "sourceWordJyutping": "gam1 nin4",
+      "sourceWordMeaning": "this year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "current",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1nin4-this-year.json"
+    },
+    {
+      "sentenceId": "gam1nin4-this-year-example-3",
+      "sentence": "我今年開始學廣東話。",
+      "jyutping": "ngo5 gam1 nin4 hoi1 ci2 hok6 gwong2 dung1 waa2.",
+      "meaning": "I started learning Cantonese this year.",
+      "sourceWordId": "gam1nin4-this-year",
+      "sourceWord": "今年",
+      "sourceWordJyutping": "gam1 nin4",
+      "sourceWordMeaning": "this year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "current",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1nin4-this-year.json"
+    },
+    {
+      "sentenceId": "gam1nin4-this-year-example-4",
+      "sentence": "今年公司有好多新產品。",
+      "jyutping": "gam1 nin4 gung1 si1 jau5 hou2 do1 san1 caan2 ban2.",
+      "meaning": "The company has many new products this year.",
+      "sourceWordId": "gam1nin4-this-year",
+      "sourceWord": "今年",
+      "sourceWordJyutping": "gam1 nin4",
+      "sourceWordMeaning": "this year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "current",
+        "basic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gam1nin4-this-year.json"
+    },
+    {
+      "sentenceId": "soeng5nin4-last-year-example-1",
+      "sentence": "我上年去咗日本旅行。",
+      "jyutping": "ngo5 soeng5 nin4 heoi3 zo2 jat6 bun2 leoi5 hang4.",
+      "meaning": "I went to Japan last year.",
+      "sourceWordId": "soeng5nin4-last-year",
+      "sourceWord": "上年",
+      "sourceWordJyutping": "soeng5 nin4",
+      "sourceWordMeaning": "last year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "past",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5nin4-last-year.json"
+    },
+    {
+      "sentenceId": "soeng5nin4-last-year-example-2",
+      "sentence": "上年天氣好熱。",
+      "jyutping": "soeng5 nin4 tin1 hei3 hou2 jit6.",
+      "meaning": "Last year the weather was very hot.",
+      "sourceWordId": "soeng5nin4-last-year",
+      "sourceWord": "上年",
+      "sourceWordJyutping": "soeng5 nin4",
+      "sourceWordMeaning": "last year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "past",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5nin4-last-year.json"
+    },
+    {
+      "sentenceId": "soeng5nin4-last-year-example-3",
+      "sentence": "佢上年開始學廣東話。",
+      "jyutping": "keoi5 soeng5 nin4 hoi1 ci2 hok6 gwong2 dung1 waa2.",
+      "meaning": "He/she started learning Cantonese last year.",
+      "sourceWordId": "soeng5nin4-last-year",
+      "sourceWord": "上年",
+      "sourceWordJyutping": "soeng5 nin4",
+      "sourceWordMeaning": "last year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "past",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5nin4-last-year.json"
+    },
+    {
+      "sentenceId": "soeng5nin4-last-year-example-4",
+      "sentence": "我上年換咗份新工。",
+      "jyutping": "ngo5 soeng5 nin4 wun6 zo2 fan6 san1 gung1.",
+      "meaning": "I changed to a new job last year.",
+      "sourceWordId": "soeng5nin4-last-year",
+      "sourceWord": "上年",
+      "sourceWordJyutping": "soeng5 nin4",
+      "sourceWordMeaning": "last year",
+      "tags": [
+        "time",
+        "date",
+        "year",
+        "past",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng5nin4-last-year.json"
+    },
+    {
+      "sentenceId": "haa6nin4-next-year-example-1",
+      "sentence": "我下年想去旅行。",
+      "jyutping": "ngo5 haa6 nin4 soeng2 heoi3 leoi5 haang4",
+      "meaning": "I want to travel next year.",
+      "sourceWordId": "haa6nin4-next-year",
+      "sourceWord": "下年",
+      "sourceWordJyutping": "haa6 nin4",
+      "sourceWordMeaning": "next year",
+      "tags": [
+        "time",
+        "future",
+        "year",
+        "date",
+        "planning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6nin4-next-year.json"
+    },
+    {
+      "sentenceId": "haa6nin4-next-year-example-2",
+      "sentence": "下年我會返學。",
+      "jyutping": "haa6 nin4 ngo5 wui5 faan1 hok6",
+      "meaning": "Next year, I will go back to school.",
+      "sourceWordId": "haa6nin4-next-year",
+      "sourceWord": "下年",
+      "sourceWordJyutping": "haa6 nin4",
+      "sourceWordMeaning": "next year",
+      "tags": [
+        "time",
+        "future",
+        "year",
+        "date",
+        "planning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6nin4-next-year.json"
+    },
+    {
+      "sentenceId": "haa6nin4-next-year-example-3",
+      "sentence": "佢下年結婚。",
+      "jyutping": "keoi5 haa6 nin4 git3 fan1",
+      "meaning": "He/She is getting married next year.",
+      "sourceWordId": "haa6nin4-next-year",
+      "sourceWord": "下年",
+      "sourceWordJyutping": "haa6 nin4",
+      "sourceWordMeaning": "next year",
+      "tags": [
+        "time",
+        "future",
+        "year",
+        "date",
+        "planning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6nin4-next-year.json"
+    },
+    {
+      "sentenceId": "haa6nin4-next-year-example-4",
+      "sentence": "下年唔好咁忙啦。",
+      "jyutping": "haa6 nin4 m4 hou2 gam3 mong4 laa1",
+      "meaning": "Don't be so busy next year.",
+      "sourceWordId": "haa6nin4-next-year",
+      "sourceWord": "下年",
+      "sourceWordJyutping": "haa6 nin4",
+      "sourceWordMeaning": "next year",
+      "tags": [
+        "time",
+        "future",
+        "year",
+        "date",
+        "planning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/haa6nin4-next-year.json"
+    },
+    {
+      "sentenceId": "gaan1-interval-example-1",
+      "sentence": "我哋有十五分鐘嘅間休息。",
+      "jyutping": "ngo5 dei6 jau5 sap6 ng5 fan1 zung1 ge3 gaan1 jau1 sik1.",
+      "meaning": "We have a fifteen-minute interval for rest.",
+      "sourceWordId": "gaan1-interval",
+      "sourceWord": "間",
+      "sourceWordJyutping": "gaan1",
+      "sourceWordMeaning": "interval",
+      "tags": [
+        "time",
+        "interval",
+        "duration",
+        "space",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaan1-interval.json"
+    },
+    {
+      "sentenceId": "gaan1-interval-example-2",
+      "sentence": "兩堂課之間有個細細嘅間。",
+      "jyutping": "loeng5 tong4 fo3 zi1 gaan1 jau5 go3 sai3 sai3 ge3 gaan1.",
+      "meaning": "There is a short interval between two classes.",
+      "sourceWordId": "gaan1-interval",
+      "sourceWord": "間",
+      "sourceWordJyutping": "gaan1",
+      "sourceWordMeaning": "interval",
+      "tags": [
+        "time",
+        "interval",
+        "duration",
+        "space",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaan1-interval.json"
+    },
+    {
+      "sentenceId": "gaan1-interval-example-3",
+      "sentence": "我屋企有三間房。",
+      "jyutping": "ngo5 uk1 kei2 jau5 saam1 gaan1 fong4.",
+      "meaning": "My home has three rooms.",
+      "sourceWordId": "gaan1-interval",
+      "sourceWord": "間",
+      "sourceWordJyutping": "gaan1",
+      "sourceWordMeaning": "interval",
+      "tags": [
+        "time",
+        "interval",
+        "duration",
+        "space",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaan1-interval.json"
+    },
+    {
+      "sentenceId": "gaan1-interval-example-4",
+      "sentence": "你哋之間嘅關係好好。",
+      "jyutping": "nei5 dei6 zi1 gaan1 ge3 gwaan1 hai6 hou2 hou2.",
+      "meaning": "The relationship between you is very good.",
+      "sourceWordId": "gaan1-interval",
+      "sourceWord": "間",
+      "sourceWordJyutping": "gaan1",
+      "sourceWordMeaning": "interval",
+      "tags": [
+        "time",
+        "interval",
+        "duration",
+        "space",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gaan1-interval.json"
+    },
+    {
+      "sentenceId": "jau5si4gaan3-to-have-time-example-1",
+      "sentence": "你今晚有時間傾計嗎？",
+      "jyutping": "nei5 gam1 maan5 jau5 si4 gaan3 king1 gai2 maa3?",
+      "meaning": "Do you have time to chat tonight?",
+      "sourceWordId": "jau5si4gaan3-to-have-time",
+      "sourceWord": "有時間",
+      "sourceWordJyutping": "jau5 si4 gaan3",
+      "sourceWordMeaning": "to have time",
+      "tags": [
+        "time",
+        "availability",
+        "free time",
+        "daily conversation",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau5si4gaan3-to-have-time.json"
+    },
+    {
+      "sentenceId": "jau5si4gaan3-to-have-time-example-3",
+      "sentence": "有時間我會幫你做功課。",
+      "jyutping": "jau5 si4 gaan3 ngo5 wui5 bong1 nei5 zou6 gung1 fo3.",
+      "meaning": "If I have time, I will help you do homework.",
+      "sourceWordId": "jau5si4gaan3-to-have-time",
+      "sourceWord": "有時間",
+      "sourceWordJyutping": "jau5 si4 gaan3",
+      "sourceWordMeaning": "to have time",
+      "tags": [
+        "time",
+        "availability",
+        "free time",
+        "daily conversation",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau5si4gaan3-to-have-time.json"
+    },
+    {
+      "sentenceId": "jau5si4gaan3-to-have-time-example-4",
+      "sentence": "你呢排有冇時間去旅行？",
+      "jyutping": "nei5 ni1 paai4 jau5 mou5 si4 gaan3 heoi3 leoi5 hang4?",
+      "meaning": "Do you have time to travel these days?",
+      "sourceWordId": "jau5si4gaan3-to-have-time",
+      "sourceWord": "有時間",
+      "sourceWordJyutping": "jau5 si4 gaan3",
+      "sourceWordMeaning": "to have time",
+      "tags": [
+        "time",
+        "availability",
+        "free time",
+        "daily conversation",
+        "scheduling",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jau5si4gaan3-to-have-time.json"
+    },
+    {
+      "sentenceId": "zik1hak1-immediately-example-1",
+      "sentence": "你即刻返屋企。",
+      "jyutping": "nei5 zik1 hak1 faan1 uk1 kei2.",
+      "meaning": "You go home immediately.",
+      "sourceWordId": "zik1hak1-immediately",
+      "sourceWord": "即刻",
+      "sourceWordJyutping": "zik1 hak1",
+      "sourceWordMeaning": "immediately",
+      "tags": [
+        "time",
+        "adverb",
+        "urgency",
+        "daily use",
+        "immediate action",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1hak1-immediately.json"
+    },
+    {
+      "sentenceId": "zik1hak1-immediately-example-2",
+      "sentence": "老師話我哋要即刻開始做功課。",
+      "jyutping": "lou5 si1 waa6 ngo5 dei6 jiu3 zik1 hak1 hoi1 ci2 zou6 gung1 fo3.",
+      "meaning": "The teacher said we have to start the homework immediately.",
+      "sourceWordId": "zik1hak1-immediately",
+      "sourceWord": "即刻",
+      "sourceWordJyutping": "zik1 hak1",
+      "sourceWordMeaning": "immediately",
+      "tags": [
+        "time",
+        "adverb",
+        "urgency",
+        "daily use",
+        "immediate action",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1hak1-immediately.json"
+    },
+    {
+      "sentenceId": "zik1hak1-immediately-example-3",
+      "sentence": "即刻畀錢我。",
+      "jyutping": "zik1 hak1 bei2 cin2 ngo5.",
+      "meaning": "Pay me immediately.",
+      "sourceWordId": "zik1hak1-immediately",
+      "sourceWord": "即刻",
+      "sourceWordJyutping": "zik1 hak1",
+      "sourceWordMeaning": "immediately",
+      "tags": [
+        "time",
+        "adverb",
+        "urgency",
+        "daily use",
+        "immediate action",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1hak1-immediately.json"
+    },
+    {
+      "sentenceId": "zik1hak1-immediately-example-4",
+      "sentence": "我會即刻通知你。",
+      "jyutping": "ngo5 wui5 zik1 hak1 tung1 zi1 nei5.",
+      "meaning": "I will notify you immediately.",
+      "sourceWordId": "zik1hak1-immediately",
+      "sourceWord": "即刻",
+      "sourceWordJyutping": "zik1 hak1",
+      "sourceWordMeaning": "immediately",
+      "tags": [
+        "time",
+        "adverb",
+        "urgency",
+        "daily use",
+        "immediate action",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1hak1-immediately.json"
+    },
+    {
+      "sentenceId": "dang2zan6-wait-a-moment-example-1",
+      "sentence": "等陣，我去攞嘢畀你。",
+      "jyutping": "dang2 zan6, ngo5 heoi3 lo2 je5 bei2 nei5.",
+      "meaning": "Wait a moment, I'll go get something for you.",
+      "sourceWordId": "dang2zan6-wait-a-moment",
+      "sourceWord": "等陣",
+      "sourceWordJyutping": "dang2 zan6",
+      "sourceWordMeaning": "wait a moment",
+      "tags": [
+        "spoken",
+        "casual",
+        "time",
+        "request",
+        "short wait",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang2zan6-wait-a-moment.json"
+    },
+    {
+      "sentenceId": "dang2zan6-wait-a-moment-example-2",
+      "sentence": "等陣先，佢未返嚟。",
+      "jyutping": "dang2 zan6 sin1, keoi5 mei6 faan1 lei4.",
+      "meaning": "Wait a moment, he hasn't come back yet.",
+      "sourceWordId": "dang2zan6-wait-a-moment",
+      "sourceWord": "等陣",
+      "sourceWordJyutping": "dang2 zan6",
+      "sourceWordMeaning": "wait a moment",
+      "tags": [
+        "spoken",
+        "casual",
+        "time",
+        "request",
+        "short wait",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang2zan6-wait-a-moment.json"
+    },
+    {
+      "sentenceId": "dang2zan6-wait-a-moment-example-3",
+      "sentence": "我哋等陣喺門口等佢。",
+      "jyutping": "ngo5 dei6 dang2 zan6 hai2 mun4 hau2 dang2 keoi5.",
+      "meaning": "We wait a moment at the door for him.",
+      "sourceWordId": "dang2zan6-wait-a-moment",
+      "sourceWord": "等陣",
+      "sourceWordJyutping": "dang2 zan6",
+      "sourceWordMeaning": "wait a moment",
+      "tags": [
+        "spoken",
+        "casual",
+        "time",
+        "request",
+        "short wait",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang2zan6-wait-a-moment.json"
+    },
+    {
+      "sentenceId": "dang2zan6-wait-a-moment-example-4",
+      "sentence": "等陣再講啦，我而家好忙。",
+      "jyutping": "dang2 zan6 zoi3 gong2 laa1, ngo5 ji4 gaa1 hou2 mong4.",
+      "meaning": "Wait a moment before talking, I'm very busy right now.",
+      "sourceWordId": "dang2zan6-wait-a-moment",
+      "sourceWord": "等陣",
+      "sourceWordJyutping": "dang2 zan6",
+      "sourceWordMeaning": "wait a moment",
+      "tags": [
+        "spoken",
+        "casual",
+        "time",
+        "request",
+        "short wait",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang2zan6-wait-a-moment.json"
+    }
+  ],
+  "missingWordFiles": []
+}

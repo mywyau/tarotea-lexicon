@@ -1,0 +1,51 @@
+{
+  "topic": "animals",
+  "title": "Animals",
+  "description": "Learn words for common animals, pets, farm animals, wild animals, and simple animal actions.",
+  "categories": {
+    "farm_animals": [
+      {
+        "id": "ngau4-cow",
+        "word": "牛",
+        "jyutping": "ngau4",
+        "meaning": "cow"
+      },
+      {
+        "id": "zyu1-pig",
+        "word": "豬",
+        "jyutping": "zyu1",
+        "meaning": "pig"
+      },
+      {
+        "id": "gai1-chicken",
+        "word": "雞",
+        "jyutping": "gai1",
+        "meaning": "chicken"
+      },
+      {
+        "id": "joeng4-sheep",
+        "word": "羊",
+        "jyutping": "joeng4",
+        "meaning": "sheep"
+      },
+      {
+        "id": "maa5-horse",
+        "word": "馬",
+        "jyutping": "maa5",
+        "meaning": "horse"
+      },
+      {
+        "id": "aap3-farm-duck",
+        "word": "鴨",
+        "jyutping": "aap3",
+        "meaning": "duck"
+      },
+      {
+        "id": "ngo4-farm-goose",
+        "word": "鵝",
+        "jyutping": "ngo4",
+        "meaning": "goose"
+      }
+    ]
+  }
+}

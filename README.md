@@ -196,6 +196,12 @@ python3 scripts/extract_level_sentences.py \
 
 ```
 python3 scripts/extract_topics_sentences.py ./r2-backup/topics/math.json ./r2-backup/words ./sentences/topics/math-sentences.json --dedupe
+
+python3 scripts/extract_topics_sentences.py \
+  ./r2-backup/topics \
+  ./r2-backup/words \
+  ./sentences/topics \
+  --dedupe
 ```
 
 
@@ -242,3 +248,20 @@ s3://tarotea-content/levels \
 --delete \
 --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
 --profile r2
+
+
+
+
+python scripts/audit_topics.py \
+  --topics-dir ./r2-backup/topics \
+  --words-dir ./r2-backup/words \
+  --audio-dir ./r2-backup/audio \
+  --output ./audit-output/topic-audio-word-audit.json
+
+
+
+python scripts/audit_levels.py \
+  --levels-dir ./r2-backup/levels \
+  --words-dir ./r2-backup/words \
+  --audio-dir ./r2-backup/audio \
+  --output-dir ./audit-output-levels

@@ -1,0 +1,23 @@
+{
+  "topic": "business",
+  "title": "Business",
+  "description": "Learn common words for business, companies, office work, meetings, sales, and professional communication.",
+  "categories": {
+    "office_and_workplace": [
+      {
+        "id": "wui6gai3-accounting",
+        "word": "會計",
+        "jyutping": "wui6 gai3",
+        "meaning": "accounting"
+      }
+    ],
+    "money_and_sales": [
+      {
+        "id": "maai5maai6-trading",
+        "word": "買賣",
+        "jyutping": "maai5 maai6",
+        "meaning": "trading"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4799 @@
+{
+  "topic": "jobs-professions",
+  "title": "Jobs & Professions",
+  "totalWords": 60,
+  "totalSentences": 241,
+  "items": [
+    {
+      "sentenceId": "gung1jan4-worker-example-1",
+      "sentence": "工人喺度搬貨。",
+      "jyutping": "gung1 jan4 hai2 dou6 bun1 fo3.",
+      "meaning": "The worker is moving goods here.",
+      "sourceWordId": "gung1jan4-worker",
+      "sourceWord": "工人",
+      "sourceWordJyutping": "gung1 jan4",
+      "sourceWordMeaning": "worker",
+      "tags": [
+        "common noun",
+        "jobs and professions",
+        "basic vocabulary",
+        "workplace",
+        "manual labour",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1jan4-worker.json"
+    },
+    {
+      "sentenceId": "gung1jan4-worker-example-2",
+      "sentence": "呢度請咗幾個工人裝修。",
+      "jyutping": "ni1 dou6 cing2 zo2 gei2 go3 gung1 jan4 zong1 sau1.",
+      "meaning": "This place hired several workers to do renovation.",
+      "sourceWordId": "gung1jan4-worker",
+      "sourceWord": "工人",
+      "sourceWordJyutping": "gung1 jan4",
+      "sourceWordMeaning": "worker",
+      "tags": [
+        "common noun",
+        "jobs and professions",
+        "basic vocabulary",
+        "workplace",
+        "manual labour",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1jan4-worker.json"
+    },
+    {
+      "sentenceId": "gung1jan4-worker-example-3",
+      "sentence": "工人每日都好早返工。",
+      "jyutping": "gung1 jan4 mui5 jat6 dou1 hou2 zou2 faan1 gung1.",
+      "meaning": "Workers go to work very early every day.",
+      "sourceWordId": "gung1jan4-worker",
+      "sourceWord": "工人",
+      "sourceWordJyutping": "gung1 jan4",
+      "sourceWordMeaning": "worker",
+      "tags": [
+        "common noun",
+        "jobs and professions",
+        "basic vocabulary",
+        "workplace",
+        "manual labour",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1jan4-worker.json"
+    },
+    {
+      "sentenceId": "gung1jan4-worker-example-4",
+      "sentence": "爸爸係建築工人。",
+      "jyutping": "baa1 baa1 hai6 gin3 zuk1 gung1 jan4.",
+      "meaning": "My dad is a construction worker.",
+      "sourceWordId": "gung1jan4-worker",
+      "sourceWord": "工人",
+      "sourceWordJyutping": "gung1 jan4",
+      "sourceWordMeaning": "worker",
+      "tags": [
+        "common noun",
+        "jobs and professions",
+        "basic vocabulary",
+        "workplace",
+        "manual labour",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1jan4-worker.json"
+    },
+    {
+      "sentenceId": "ging1lei5-manager-example-1",
+      "sentence": "我個經理今日唔喺公司。",
+      "jyutping": "ngo5 go3 ging1 lei5 gam1 jat6 m4 hai2 gung1 si1.",
+      "meaning": "My manager is not in the office today.",
+      "sourceWordId": "ging1lei5-manager",
+      "sourceWord": "經理",
+      "sourceWordJyutping": "ging1 lei5",
+      "sourceWordMeaning": "manager",
+      "tags": [
+        "jobs-professions",
+        "common-jobs",
+        "business",
+        "service-industry",
+        "manager",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging1lei5-manager.json"
+    },
+    {
+      "sentenceId": "ging1lei5-manager-example-2",
+      "sentence": "呢間餐廳嘅經理好有禮貌。",
+      "jyutping": "ni1 gaan1 caan1 teng1 ge3 ging1 lei5 hou2 jau5 lai5 maau6.",
+      "meaning": "The manager of this restaurant is very polite.",
+      "sourceWordId": "ging1lei5-manager",
+      "sourceWord": "經理",
+      "sourceWordJyutping": "ging1 lei5",
+      "sourceWordMeaning": "manager",
+      "tags": [
+        "jobs-professions",
+        "common-jobs",
+        "business",
+        "service-industry",
+        "manager",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging1lei5-manager.json"
+    },
+    {
+      "sentenceId": "ging1lei5-manager-example-3",
+      "sentence": "你可以搵經理幫手。",
+      "jyutping": "nei5 ho2 ji5 wan2 ging1 lei5 bong1 sau2.",
+      "meaning": "You can ask the manager for help.",
+      "sourceWordId": "ging1lei5-manager",
+      "sourceWord": "經理",
+      "sourceWordJyutping": "ging1 lei5",
+      "sourceWordMeaning": "manager",
+      "tags": [
+        "jobs-professions",
+        "common-jobs",
+        "business",
+        "service-industry",
+        "manager",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging1lei5-manager.json"
+    },
+    {
+      "sentenceId": "ging1lei5-manager-example-4",
+      "sentence": "佢升咗做總經理。",
+      "jyutping": "keoi5 sing1 zo2 zou6 zung2 ging1 lei5.",
+      "meaning": "He was promoted to general manager.",
+      "sourceWordId": "ging1lei5-manager",
+      "sourceWord": "經理",
+      "sourceWordJyutping": "ging1 lei5",
+      "sourceWordMeaning": "manager",
+      "tags": [
+        "jobs-professions",
+        "common-jobs",
+        "business",
+        "service-industry",
+        "manager",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging1lei5-manager.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-1",
+      "sentence": "我哋個老闆今日唔喺公司。",
+      "jyutping": "ngo5 dei6 go3 lou5 baan2 gam1 jat6 m4 hai2 gung1 si1.",
+      "meaning": "Our boss isn’t in the office today.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-2",
+      "sentence": "佢係呢間舖頭嘅老闆。",
+      "jyutping": "keoi5 hai6 ni1 gaan1 pou3 tau4 ge3 lou5 baan2.",
+      "meaning": "He is the owner of this shop.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-3",
+      "sentence": "老闆叫我哋聽日早啲返工。",
+      "jyutping": "lou5 baan2 giu3 ngo5 dei6 ting1 jat6 zou2 di1 faan1 gung1.",
+      "meaning": "The boss asked us to come to work earlier tomorrow.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-4",
+      "sentence": "我同老闆傾過加人工嘅事。",
+      "jyutping": "ngo5 tung4 lou5 baan2 king1 gwo3 gaa1 jan4 gung1 ge3 si6.",
+      "meaning": "I talked with the boss about a pay raise.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "bei3syu1-secretary-example-1",
+      "sentence": "佢喺間公司做秘書。",
+      "jyutping": "keoi5 hai2 gaan1 gung1 si1 zou6 bei3 syu1.",
+      "meaning": "She works as a secretary in that company.",
+      "sourceWordId": "bei3syu1-secretary",
+      "sourceWord": "秘書",
+      "sourceWordJyutping": "bei3 syu1",
+      "sourceWordMeaning": "secretary",
+      "tags": [
+        "jobs and professions",
+        "common jobs",
+        "office work",
+        "beginner vocabulary",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bei3syu1-secretary.json"
+    },
+    {
+      "sentenceId": "bei3syu1-secretary-example-2",
+      "sentence": "秘書幫老闆安排會議。",
+      "jyutping": "bei3 syu1 bong1 lou5 baan2 on1 paai4 wui2 ji5.",
+      "meaning": "The secretary helps the boss arrange meetings.",
+      "sourceWordId": "bei3syu1-secretary",
+      "sourceWord": "秘書",
+      "sourceWordJyutping": "bei3 syu1",
+      "sourceWordMeaning": "secretary",
+      "tags": [
+        "jobs and professions",
+        "common jobs",
+        "office work",
+        "beginner vocabulary",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bei3syu1-secretary.json"
+    },
+    {
+      "sentenceId": "bei3syu1-secretary-example-3",
+      "sentence": "你可以打電話畀秘書。",
+      "jyutping": "nei5 ho2 ji5 daa2 din6 waa2 bei2 bei3 syu1.",
+      "meaning": "You can call the secretary.",
+      "sourceWordId": "bei3syu1-secretary",
+      "sourceWord": "秘書",
+      "sourceWordJyutping": "bei3 syu1",
+      "sourceWordMeaning": "secretary",
+      "tags": [
+        "jobs and professions",
+        "common jobs",
+        "office work",
+        "beginner vocabulary",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bei3syu1-secretary.json"
+    },
+    {
+      "sentenceId": "bei3syu1-secretary-example-4",
+      "sentence": "學校秘書負責處理文件。",
+      "jyutping": "hok6 haau6 bei3 syu1 fu6 zaak3 cyu2 lei5 man4 gin2.",
+      "meaning": "The school secretary is responsible for handling documents.",
+      "sourceWordId": "bei3syu1-secretary",
+      "sourceWord": "秘書",
+      "sourceWordJyutping": "bei3 syu1",
+      "sourceWordMeaning": "secretary",
+      "tags": [
+        "jobs and professions",
+        "common jobs",
+        "office work",
+        "beginner vocabulary",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bei3syu1-secretary.json"
+    },
+    {
+      "sentenceId": "si1gei1-driver-example-1",
+      "sentence": "我阿哥做司機。",
+      "jyutping": "ngo5 aa3 go1 zou6 si1 gei1.",
+      "meaning": "My older brother is a driver.",
+      "sourceWordId": "si1gei1-driver",
+      "sourceWord": "司機",
+      "sourceWordJyutping": "si1 gei1",
+      "sourceWordMeaning": "driver",
+      "tags": [
+        "jobs and professions",
+        "common job",
+        "transportation",
+        "everyday vocabulary",
+        "HK Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1gei1-driver.json"
+    },
+    {
+      "sentenceId": "si1gei1-driver-example-2",
+      "sentence": "巴士司機好早返工。",
+      "jyutping": "baa1 si2 si1 gei1 hou2 zou2 faan1 gung1.",
+      "meaning": "The bus driver goes to work very early.",
+      "sourceWordId": "si1gei1-driver",
+      "sourceWord": "司機",
+      "sourceWordJyutping": "si1 gei1",
+      "sourceWordMeaning": "driver",
+      "tags": [
+        "jobs and professions",
+        "common job",
+        "transportation",
+        "everyday vocabulary",
+        "HK Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1gei1-driver.json"
+    },
+    {
+      "sentenceId": "si1gei1-driver-example-3",
+      "sentence": "你搵到的士司機未呀？",
+      "jyutping": "nei5 wan2 dou2 dik1 si2 si1 gei1 mei6 aa3?",
+      "meaning": "Have you found the taxi driver yet?",
+      "sourceWordId": "si1gei1-driver",
+      "sourceWord": "司機",
+      "sourceWordJyutping": "si1 gei1",
+      "sourceWordMeaning": "driver",
+      "tags": [
+        "jobs and professions",
+        "common job",
+        "transportation",
+        "everyday vocabulary",
+        "HK Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1gei1-driver.json"
+    },
+    {
+      "sentenceId": "si1gei1-driver-example-4",
+      "sentence": "佢係公司嘅司機，專接送客人。",
+      "jyutping": "keoi5 hai6 gung1 si1 ge3 si1 gei1, zyun1 zip3 sung3 haak3 jan4.",
+      "meaning": "He is the company driver, and he mainly picks up and drops off clients.",
+      "sourceWordId": "si1gei1-driver",
+      "sourceWord": "司機",
+      "sourceWordJyutping": "si1 gei1",
+      "sourceWordMeaning": "driver",
+      "tags": [
+        "jobs and professions",
+        "common job",
+        "transportation",
+        "everyday vocabulary",
+        "HK Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/si1gei1-driver.json"
+    },
+    {
+      "sentenceId": "coi4fung4-tailor-example-1",
+      "sentence": "我阿爸以前係裁縫。",
+      "jyutping": "ngo5 aa3 baa1 ji5 cin4 hai6 coi4 fung4.",
+      "meaning": "My father used to be a tailor.",
+      "sourceWordId": "coi4fung4-tailor",
+      "sourceWord": "裁縫",
+      "sourceWordJyutping": "coi4 fung4",
+      "sourceWordMeaning": "tailor",
+      "tags": [
+        "jobs and professions",
+        "common noun",
+        "clothing",
+        "shopping",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi4fung4-tailor.json"
+    },
+    {
+      "sentenceId": "coi4fung4-tailor-example-2",
+      "sentence": "呢件衫唔啱身，要搵裁縫改一改。",
+      "jyutping": "ni1 gin6 saam1 m4 ngaam1 san1, jiu3 wan2 coi4 fung4 goi2 jat1 goi2.",
+      "meaning": "This shirt doesn’t fit; I need to get a tailor to alter it.",
+      "sourceWordId": "coi4fung4-tailor",
+      "sourceWord": "裁縫",
+      "sourceWordJyutping": "coi4 fung4",
+      "sourceWordMeaning": "tailor",
+      "tags": [
+        "jobs and professions",
+        "common noun",
+        "clothing",
+        "shopping",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi4fung4-tailor.json"
+    },
+    {
+      "sentenceId": "coi4fung4-tailor-example-3",
+      "sentence": "佢喺裁縫舖度做咗十年。",
+      "jyutping": "keoi5 hai2 coi4 fung4 pou2 dou6 zou6 zo2 sap6 nin4.",
+      "meaning": "He worked at a tailor shop for ten years.",
+      "sourceWordId": "coi4fung4-tailor",
+      "sourceWord": "裁縫",
+      "sourceWordJyutping": "coi4 fung4",
+      "sourceWordMeaning": "tailor",
+      "tags": [
+        "jobs and professions",
+        "common noun",
+        "clothing",
+        "shopping",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi4fung4-tailor.json"
+    },
+    {
+      "sentenceId": "coi4fung4-tailor-example-4",
+      "sentence": "老師傅係一位好有經驗嘅裁縫。",
+      "jyutping": "lou5 si1 fu6 hai6 jat1 wai2 hou2 jau5 ging1 jim6 ge3 coi4 fung4.",
+      "meaning": "The master craftsman is a very experienced tailor.",
+      "sourceWordId": "coi4fung4-tailor",
+      "sourceWord": "裁縫",
+      "sourceWordJyutping": "coi4 fung4",
+      "sourceWordMeaning": "tailor",
+      "tags": [
+        "jobs and professions",
+        "common noun",
+        "clothing",
+        "shopping",
+        "daily life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/coi4fung4-tailor.json"
+    },
+    {
+      "sentenceId": "soeng1jan4-merchant-example-1",
+      "sentence": "佢係一個做海味嘅商人。",
+      "jyutping": "keoi5 hai6 jat1 go3 zou6 hoi2 mei2 ge3 soeng1 jan4.",
+      "meaning": "He is a merchant who deals in dried seafood.",
+      "sourceWordId": "soeng1jan4-merchant",
+      "sourceWord": "商人",
+      "sourceWordJyutping": "soeng1 jan4",
+      "sourceWordMeaning": "merchant",
+      "tags": [
+        "jobs",
+        "professions",
+        "business",
+        "trade",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1jan4-merchant.json"
+    },
+    {
+      "sentenceId": "soeng1jan4-merchant-example-2",
+      "sentence": "呢班商人今日去廣州傾生意。",
+      "jyutping": "ni1 baan1 soeng1 jan4 gam1 jat6 heoi3 gwong2 zau1 king1 saang1 ji3.",
+      "meaning": "These merchants are going to Guangzhou today to discuss business.",
+      "sourceWordId": "soeng1jan4-merchant",
+      "sourceWord": "商人",
+      "sourceWordJyutping": "soeng1 jan4",
+      "sourceWordMeaning": "merchant",
+      "tags": [
+        "jobs",
+        "professions",
+        "business",
+        "trade",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1jan4-merchant.json"
+    },
+    {
+      "sentenceId": "soeng1jan4-merchant-example-3",
+      "sentence": "古時好多商人會坐船做生意。",
+      "jyutping": "gu2 si4 hou2 do1 soeng1 jan4 wui5 co5 syun4 zou6 saang1 ji3.",
+      "meaning": "In the old days, many merchants traveled by boat to do business.",
+      "sourceWordId": "soeng1jan4-merchant",
+      "sourceWord": "商人",
+      "sourceWordJyutping": "soeng1 jan4",
+      "sourceWordMeaning": "merchant",
+      "tags": [
+        "jobs",
+        "professions",
+        "business",
+        "trade",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1jan4-merchant.json"
+    },
+    {
+      "sentenceId": "soeng1jan4-merchant-example-4",
+      "sentence": "佢老竇以前係個商人，成日周圍跑。",
+      "jyutping": "keoi5 lou5 dau6 ji5 cin4 hai6 go3 soeng1 jan4, sing4 jat6 zau1 wai4 paau2.",
+      "meaning": "His father used to be a merchant and was always traveling around.",
+      "sourceWordId": "soeng1jan4-merchant",
+      "sourceWord": "商人",
+      "sourceWordJyutping": "soeng1 jan4",
+      "sourceWordMeaning": "merchant",
+      "tags": [
+        "jobs",
+        "professions",
+        "business",
+        "trade",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/soeng1jan4-merchant.json"
+    },
+    {
+      "sentenceId": "baan6gung1sat1zik1jyun4-office-worker-example-1",
+      "sentence": "佢係一名辦公室職員。",
+      "jyutping": "keoi5 hai6 jat1 ming4 baan6 gung1 sat1 zik1 jyun4.",
+      "meaning": "He/She is an office worker.",
+      "sourceWordId": "baan6gung1sat1zik1jyun4-office-worker",
+      "sourceWord": "辦公室職員",
+      "sourceWordJyutping": "baan6 gung1 sat1 zik1 jyun4",
+      "sourceWordMeaning": "office worker",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baan6gung1sat1zik1jyun4-office-worker.json"
+    },
+    {
+      "sentenceId": "baan6gung1sat1zik1jyun4-office-worker-example-2",
+      "sentence": "呢間公司請咗好多辦公室職員。",
+      "jyutping": "ni1 gaan1 gung1 si1 cing2 zo2 hou2 do1 baan6 gung1 sat1 zik1 jyun4.",
+      "meaning": "This company hired many office workers.",
+      "sourceWordId": "baan6gung1sat1zik1jyun4-office-worker",
+      "sourceWord": "辦公室職員",
+      "sourceWordJyutping": "baan6 gung1 sat1 zik1 jyun4",
+      "sourceWordMeaning": "office worker",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baan6gung1sat1zik1jyun4-office-worker.json"
+    },
+    {
+      "sentenceId": "baan6gung1sat1zik1jyun4-office-worker-example-3",
+      "sentence": "我妹做辦公室職員，平時返九點放六點。",
+      "jyutping": "ngo5 mui2 zou6 baan6 gung1 sat1 zik1 jyun4, ping4 si4 faan1 gau2 dim2 fong3 luk6 dim2.",
+      "meaning": "My younger sister works as an office worker and usually works from 9 to 6.",
+      "sourceWordId": "baan6gung1sat1zik1jyun4-office-worker",
+      "sourceWord": "辦公室職員",
+      "sourceWordJyutping": "baan6 gung1 sat1 zik1 jyun4",
+      "sourceWordMeaning": "office worker",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baan6gung1sat1zik1jyun4-office-worker.json"
+    },
+    {
+      "sentenceId": "baan6gung1sat1zik1jyun4-office-worker-example-4",
+      "sentence": "做辦公室職員都要識得同人溝通。",
+      "jyutping": "zou6 baan6 gung1 sat1 zik1 jyun4 dou1 jiu3 sik1 dak1 tung4 jan4 kau1 tung1.",
+      "meaning": "Office workers also need to know how to communicate with others.",
+      "sourceWordId": "baan6gung1sat1zik1jyun4-office-worker",
+      "sourceWord": "辦公室職員",
+      "sourceWordJyutping": "baan6 gung1 sat1 zik1 jyun4",
+      "sourceWordMeaning": "office worker",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baan6gung1sat1zik1jyun4-office-worker.json"
+    },
+    {
+      "sentenceId": "zo6lei5-assistant-example-1",
+      "sentence": "我喺呢間公司做助理。",
+      "jyutping": "ngo5 hai2 ni1 gaan1 gung1 si1 zou6 zo6 lei5.",
+      "meaning": "I work as an assistant in this company.",
+      "sourceWordId": "zo6lei5-assistant",
+      "sourceWord": "助理",
+      "sourceWordJyutping": "zo6 lei5",
+      "sourceWordMeaning": "assistant",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "business",
+        "workplace",
+        "noun",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zo6lei5-assistant.json"
+    },
+    {
+      "sentenceId": "zo6lei5-assistant-example-2",
+      "sentence": "佢係經理助理。",
+      "jyutping": "keoi5 hai6 ging1 lei5 zo6 lei5.",
+      "meaning": "She is the manager’s assistant.",
+      "sourceWordId": "zo6lei5-assistant",
+      "sourceWord": "助理",
+      "sourceWordJyutping": "zo6 lei5",
+      "sourceWordMeaning": "assistant",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "business",
+        "workplace",
+        "noun",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zo6lei5-assistant.json"
+    },
+    {
+      "sentenceId": "zo6lei5-assistant-example-3",
+      "sentence": "你可以叫助理幫你影印。",
+      "jyutping": "nei5 ho2 ji5 giu3 zo6 lei5 bong1 nei5 jing2 jan3.",
+      "meaning": "You can ask the assistant to help you make copies.",
+      "sourceWordId": "zo6lei5-assistant",
+      "sourceWord": "助理",
+      "sourceWordJyutping": "zo6 lei5",
+      "sourceWordMeaning": "assistant",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "business",
+        "workplace",
+        "noun",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zo6lei5-assistant.json"
+    },
+    {
+      "sentenceId": "zo6lei5-assistant-example-4",
+      "sentence": "新來嘅助理好細心。",
+      "jyutping": "san1 loi4 ge3 zo6 lei5 hou2 sai3 sam1.",
+      "meaning": "The new assistant is very careful.",
+      "sourceWordId": "zo6lei5-assistant",
+      "sourceWord": "助理",
+      "sourceWordJyutping": "zo6 lei5",
+      "sourceWordMeaning": "assistant",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "business",
+        "workplace",
+        "noun",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zo6lei5-assistant.json"
+    },
+    {
+      "sentenceId": "wui6gai3-accountant-example-1",
+      "sentence": "我表姐喺一間公司做會計。",
+      "jyutping": "ngo5 biu2 ze2 hai6 jat1 gaan1 gung1 si1 zou6 wui6 gai3.",
+      "meaning": "My cousin works as an accountant in a company.",
+      "sourceWordId": "wui6gai3-accountant",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accountant",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "finance",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accountant.json"
+    },
+    {
+      "sentenceId": "wui6gai3-accountant-example-2",
+      "sentence": "佢讀大學嗰陣主修會計。",
+      "jyutping": "keoi5 duk6 daai6 hok6 gwo2 zan6 zyu2 seoi1 wui6 gai3.",
+      "meaning": "He majored in accounting at university.",
+      "sourceWordId": "wui6gai3-accountant",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accountant",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "finance",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accountant.json"
+    },
+    {
+      "sentenceId": "wui6gai3-accountant-example-3",
+      "sentence": "呢份工需要識會計同埋 Excel。",
+      "jyutping": "ni1 fan6 gung1 seoi1 jiu3 sik1 wui6 gai3 tung4 maai4 Excel.",
+      "meaning": "This job requires accounting skills and Excel.",
+      "sourceWordId": "wui6gai3-accountant",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accountant",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "finance",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accountant.json"
+    },
+    {
+      "sentenceId": "wui6gai3-accountant-example-4",
+      "sentence": "我哋公司請咗個新會計。",
+      "jyutping": "ngo5 dei6 gung1 si1 cing2 zo2 go3 san1 wui6 gai3.",
+      "meaning": "Our company hired a new accountant.",
+      "sourceWordId": "wui6gai3-accountant",
+      "sourceWord": "會計",
+      "sourceWordJyutping": "wui6 gai3",
+      "sourceWordMeaning": "accountant",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "finance",
+        "noun",
+        "level 1",
+        "common word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wui6gai3-accountant.json"
+    },
+    {
+      "sentenceId": "sau6fo3jyun4-salesperson-example-1",
+      "sentence": "佢係一個售貨員。",
+      "jyutping": "keoi5 hai6 jat1 go3 sau6 fo3 jyun4.",
+      "meaning": "He/She is a salesperson.",
+      "sourceWordId": "sau6fo3jyun4-salesperson",
+      "sourceWord": "售貨員",
+      "sourceWordJyutping": "sau6 fo3 jyun4",
+      "sourceWordMeaning": "salesperson",
+      "tags": [
+        "jobs",
+        "professions",
+        "office-and-business",
+        "retail",
+        "beginner",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau6fo3jyun4-salesperson.json"
+    },
+    {
+      "sentenceId": "sau6fo3jyun4-salesperson-example-2",
+      "sentence": "我喺商場做售貨員。",
+      "jyutping": "ngo5 hai2 soeng1 coeng4 zou6 sau6 fo3 jyun4.",
+      "meaning": "I work as a salesperson in a shopping mall.",
+      "sourceWordId": "sau6fo3jyun4-salesperson",
+      "sourceWord": "售貨員",
+      "sourceWordJyutping": "sau6 fo3 jyun4",
+      "sourceWordMeaning": "salesperson",
+      "tags": [
+        "jobs",
+        "professions",
+        "office-and-business",
+        "retail",
+        "beginner",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau6fo3jyun4-salesperson.json"
+    },
+    {
+      "sentenceId": "sau6fo3jyun4-salesperson-example-3",
+      "sentence": "呢位售貨員好有禮貌。",
+      "jyutping": "ni1 wai2 sau6 fo3 jyun4 hou2 jau5 lai5 mau6.",
+      "meaning": "This salesperson is very polite.",
+      "sourceWordId": "sau6fo3jyun4-salesperson",
+      "sourceWord": "售貨員",
+      "sourceWordJyutping": "sau6 fo3 jyun4",
+      "sourceWordMeaning": "salesperson",
+      "tags": [
+        "jobs",
+        "professions",
+        "office-and-business",
+        "retail",
+        "beginner",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau6fo3jyun4-salesperson.json"
+    },
+    {
+      "sentenceId": "sau6fo3jyun4-salesperson-example-4",
+      "sentence": "買衫可以問售貨員。",
+      "jyutping": "maai5 saam1 ho2 ji5 man6 sau6 fo3 jyun4.",
+      "meaning": "You can ask a salesperson when buying clothes.",
+      "sourceWordId": "sau6fo3jyun4-salesperson",
+      "sourceWord": "售貨員",
+      "sourceWordJyutping": "sau6 fo3 jyun4",
+      "sourceWordMeaning": "salesperson",
+      "tags": [
+        "jobs",
+        "professions",
+        "office-and-business",
+        "retail",
+        "beginner",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sau6fo3jyun4-salesperson.json"
+    },
+    {
+      "sentenceId": "hang4zing3jan4jyun4-admin-staff-example-1",
+      "sentence": "佢喺間公司做行政人員，主要負責文件同接待。",
+      "jyutping": "keoi5 hai2 gaan1 gung1 si1 zou6 hang4 zing3 jan4 jyun4, zyu2 jiu3 fu6 zaak3 man4 gin2 tung4 zip3 dai3.",
+      "meaning": "She works as admin staff at the company, mainly handling documents and reception.",
+      "sourceWordId": "hang4zing3jan4jyun4-admin-staff",
+      "sourceWord": "行政人員",
+      "sourceWordJyutping": "hang4 zing3 jan4 jyun4",
+      "sourceWordMeaning": "admin staff",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "school workplace",
+        "formal",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hang4zing3jan4jyun4-admin-staff.json"
+    },
+    {
+      "sentenceId": "hang4zing3jan4jyun4-admin-staff-example-2",
+      "sentence": "學校請咗幾個行政人員幫手處理報名。",
+      "jyutping": "hok6 haau6 cing2 zo2 gei2 go3 hang4 zing3 jan4 jyun4 bong1 sau2 cyu5 lei5 bou3 ming4.",
+      "meaning": "The school hired several admin staff to help process enrolments.",
+      "sourceWordId": "hang4zing3jan4jyun4-admin-staff",
+      "sourceWord": "行政人員",
+      "sourceWordJyutping": "hang4 zing3 jan4 jyun4",
+      "sourceWordMeaning": "admin staff",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "school workplace",
+        "formal",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hang4zing3jan4jyun4-admin-staff.json"
+    },
+    {
+      "sentenceId": "hang4zing3jan4jyun4-admin-staff-example-3",
+      "sentence": "如果你有問題，可以搵行政人員查詢。",
+      "jyutping": "jyu4 gwo2 nei5 jau5 man6 tai4, ho2 ji5 wan2 hang4 zing3 jan4 jyun4 caa4 seon1.",
+      "meaning": "If you have any questions, you can ask the admin staff for help.",
+      "sourceWordId": "hang4zing3jan4jyun4-admin-staff",
+      "sourceWord": "行政人員",
+      "sourceWordJyutping": "hang4 zing3 jan4 jyun4",
+      "sourceWordMeaning": "admin staff",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "school workplace",
+        "formal",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hang4zing3jan4jyun4-admin-staff.json"
+    },
+    {
+      "sentenceId": "hang4zing3jan4jyun4-admin-staff-example-4",
+      "sentence": "我哋部門而家缺行政人員，工作量比較大。",
+      "jyutping": "ngo5 dei6 bou6 mun4 ji4 gaa1 kyut3 hang4 zing3 jan4 jyun4, gung1 zok3 loeng6 bei2 gaau3 daai6.",
+      "meaning": "Our department is short on admin staff right now, so the workload is fairly heavy.",
+      "sourceWordId": "hang4zing3jan4jyun4-admin-staff",
+      "sourceWord": "行政人員",
+      "sourceWordJyutping": "hang4 zing3 jan4 jyun4",
+      "sourceWordMeaning": "admin staff",
+      "tags": [
+        "jobs and professions",
+        "office work",
+        "business",
+        "school workplace",
+        "formal",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hang4zing3jan4jyun4-admin-staff.json"
+    },
+    {
+      "sentenceId": "gu3man6-consultant-example-1",
+      "sentence": "佢係公司嘅顧問，專幫我哋做策略分析。",
+      "jyutping": "keoi5 hai6 gung1 si1 ge3 gu3 man6, zyun1 bong1 ngo5 dei6 zou6 ceot3 zat6 fan1 sik1.",
+      "meaning": "He is the company's consultant, mainly helping us with strategy analysis.",
+      "sourceWordId": "gu3man6-consultant",
+      "sourceWord": "顧問",
+      "sourceWordJyutping": "gu3 man6",
+      "sourceWordMeaning": "consultant",
+      "tags": [
+        "jobs-professions",
+        "office-work",
+        "business",
+        "noun",
+        "professional role",
+        "formal",
+        "common",
+        "company life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu3man6-consultant.json"
+    },
+    {
+      "sentenceId": "gu3man6-consultant-example-2",
+      "sentence": "我哋請咗一位法律顧問。",
+      "jyutping": "ngo5 dei6 cing2 zo2 jat1 wai6 faat3 leot6 gu3 man6.",
+      "meaning": "We hired a legal consultant.",
+      "sourceWordId": "gu3man6-consultant",
+      "sourceWord": "顧問",
+      "sourceWordJyutping": "gu3 man6",
+      "sourceWordMeaning": "consultant",
+      "tags": [
+        "jobs-professions",
+        "office-work",
+        "business",
+        "noun",
+        "professional role",
+        "formal",
+        "common",
+        "company life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu3man6-consultant.json"
+    },
+    {
+      "sentenceId": "gu3man6-consultant-example-3",
+      "sentence": "呢個項目要搵外部顧問幫手。",
+      "jyutping": "ni1 go3 hong6 muk6 jiu3 wan2 ngoi6 bou6 gu3 man6 bong1 sau2.",
+      "meaning": "This project needs an outside consultant to help.",
+      "sourceWordId": "gu3man6-consultant",
+      "sourceWord": "顧問",
+      "sourceWordJyutping": "gu3 man6",
+      "sourceWordMeaning": "consultant",
+      "tags": [
+        "jobs-professions",
+        "office-work",
+        "business",
+        "noun",
+        "professional role",
+        "formal",
+        "common",
+        "company life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu3man6-consultant.json"
+    },
+    {
+      "sentenceId": "gu3man6-consultant-example-4",
+      "sentence": "佢以前做過教育顧問，對學校運作好熟。",
+      "jyutping": "keoi5 ji5 cin4 zou6 gwo3 gaau3 juk6 gu3 man6, deoi3 hok6 haau6 wan6 zok3 hou2 suk6.",
+      "meaning": "He used to work as an education consultant and knows school operations very well.",
+      "sourceWordId": "gu3man6-consultant",
+      "sourceWord": "顧問",
+      "sourceWordJyutping": "gu3 man6",
+      "sourceWordMeaning": "consultant",
+      "tags": [
+        "jobs-professions",
+        "office-work",
+        "business",
+        "noun",
+        "professional role",
+        "formal",
+        "common",
+        "company life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gu3man6-consultant.json"
+    },
+    {
+      "sentenceId": "man4jyun4-clerk-example-1",
+      "sentence": "我喺間公司做文員。",
+      "jyutping": "ngo5 hai2 gaan1 gung1 si1 zou6 man4 jyun4.",
+      "meaning": "I work as a clerk in a company.",
+      "sourceWordId": "man4jyun4-clerk",
+      "sourceWord": "文員",
+      "sourceWordJyutping": "man4 jyun4",
+      "sourceWordMeaning": "clerk",
+      "tags": [
+        "jobs",
+        "professions",
+        "office work",
+        "administration",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4jyun4-clerk.json"
+    },
+    {
+      "sentenceId": "man4jyun4-clerk-example-2",
+      "sentence": "佢今日要返早更，因為文員部好多文件要處理。",
+      "jyutping": "keoi5 gam1 jat6 jiu3 faan1 zou2 gang1, jan1 wai6 man4 jyun4 bou6 hou2 do1 man4 gin2 jiu3 cyu2 lei5.",
+      "meaning": "She has to work the early shift today because the clerical department has a lot of documents to handle.",
+      "sourceWordId": "man4jyun4-clerk",
+      "sourceWord": "文員",
+      "sourceWordJyutping": "man4 jyun4",
+      "sourceWordMeaning": "clerk",
+      "tags": [
+        "jobs",
+        "professions",
+        "office work",
+        "administration",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4jyun4-clerk.json"
+    },
+    {
+      "sentenceId": "man4jyun4-clerk-example-3",
+      "sentence": "新請嗰個文員好快手，打字又快又準。",
+      "jyutping": "san1 ceng2 go2 go3 man4 jyun4 hou2 faai3 sau2, daa2 zi6 jau6 faai3 jau6 zeon2.",
+      "meaning": "The newly hired clerk is very efficient; she types quickly and accurately.",
+      "sourceWordId": "man4jyun4-clerk",
+      "sourceWord": "文員",
+      "sourceWordJyutping": "man4 jyun4",
+      "sourceWordMeaning": "clerk",
+      "tags": [
+        "jobs",
+        "professions",
+        "office work",
+        "administration",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4jyun4-clerk.json"
+    },
+    {
+      "sentenceId": "man4jyun4-clerk-example-4",
+      "sentence": "如果你想做文員，電腦基本操作要識。",
+      "jyutping": "jyu4 gwo2 nei5 soeng2 zou6 man4 jyun4, din6 nou5 gei1 bun2 caau1 zo6 jiu3 sik1.",
+      "meaning": "If you want to work as a clerk, you need to know basic computer operations.",
+      "sourceWordId": "man4jyun4-clerk",
+      "sourceWord": "文員",
+      "sourceWordJyutping": "man4 jyun4",
+      "sourceWordMeaning": "clerk",
+      "tags": [
+        "jobs",
+        "professions",
+        "office work",
+        "administration",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/man4jyun4-clerk.json"
+    },
+    {
+      "sentenceId": "lou5si1-teacher-example-1",
+      "sentence": "我哋班個老師好好人。",
+      "jyutping": "ngo5 dei6 baan1 go3 lou5si1 hou2 hou2 jan4",
+      "meaning": "Our class teacher is very nice.",
+      "sourceWordId": "lou5si1-teacher",
+      "sourceWord": "老師",
+      "sourceWordJyutping": "lou5 si1",
+      "sourceWordMeaning": "teacher",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "school vocabulary",
+        "basic noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5si1-teacher.json"
+    },
+    {
+      "sentenceId": "lou5si1-teacher-example-2",
+      "sentence": "佢係英文老師。",
+      "jyutping": "keoi5 hai6 jing1 man2 lou5si1",
+      "meaning": "He/She is an English teacher.",
+      "sourceWordId": "lou5si1-teacher",
+      "sourceWord": "老師",
+      "sourceWordJyutping": "lou5 si1",
+      "sourceWordMeaning": "teacher",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "school vocabulary",
+        "basic noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5si1-teacher.json"
+    },
+    {
+      "sentenceId": "lou5si1-teacher-example-3",
+      "sentence": "老師今日教我哋寫字。",
+      "jyutping": "lou5si1 gam1 jat6 gaau3 ngo5 dei6 se2 zi6",
+      "meaning": "The teacher taught us how to write today.",
+      "sourceWordId": "lou5si1-teacher",
+      "sourceWord": "老師",
+      "sourceWordJyutping": "lou5 si1",
+      "sourceWordMeaning": "teacher",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "school vocabulary",
+        "basic noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5si1-teacher.json"
+    },
+    {
+      "sentenceId": "lou5si1-teacher-example-4",
+      "sentence": "你想做老師定係護士？",
+      "jyutping": "nei5 soeng2 zou6 lou5si1 ding6 hai6 wu6 syu6？",
+      "meaning": "Do you want to be a teacher or a nurse?",
+      "sourceWordId": "lou5si1-teacher",
+      "sourceWord": "老師",
+      "sourceWordJyutping": "lou5 si1",
+      "sourceWordMeaning": "teacher",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "school vocabulary",
+        "basic noun",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5si1-teacher.json"
+    },
+    {
+      "sentenceId": "ji1sang1-doctor-example-1",
+      "sentence": "我今日要去睇醫生。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 tai2 ji1 sang1.",
+      "meaning": "I need to go see a doctor today.",
+      "sourceWordId": "ji1sang1-doctor",
+      "sourceWord": "醫生",
+      "sourceWordJyutping": "ji1 sang1",
+      "sourceWordMeaning": "doctor",
+      "tags": [
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
+    },
+    {
+      "sentenceId": "ji1sang1-doctor-example-2",
+      "sentence": "呢位醫生好有耐性。",
+      "jyutping": "ni1 wai2 ji1 sang1 hou2 jau5 noi6 sing3.",
+      "meaning": "This doctor is very patient.",
+      "sourceWordId": "ji1sang1-doctor",
+      "sourceWord": "醫生",
+      "sourceWordJyutping": "ji1 sang1",
+      "sourceWordMeaning": "doctor",
+      "tags": [
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
+    },
+    {
+      "sentenceId": "ji1sang1-doctor-example-3",
+      "sentence": "阿媽叫我打電話問醫生。",
+      "jyutping": "aa3 maa1 giu3 ngo5 daa2 din6 waa2 man6 ji1 sang1.",
+      "meaning": "Mom told me to call and ask the doctor.",
+      "sourceWordId": "ji1sang1-doctor",
+      "sourceWord": "醫生",
+      "sourceWordJyutping": "ji1 sang1",
+      "sourceWordMeaning": "doctor",
+      "tags": [
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
+    },
+    {
+      "sentenceId": "ji1sang1-doctor-example-4",
+      "sentence": "醫生話我需要多休息。",
+      "jyutping": "ji1 sang1 waa6 ngo5 seoi1 jiu3 do1 jau1 sik1.",
+      "meaning": "The doctor said I need more rest.",
+      "sourceWordId": "ji1sang1-doctor",
+      "sourceWord": "醫生",
+      "sourceWordJyutping": "ji1 sang1",
+      "sourceWordMeaning": "doctor",
+      "tags": [
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
+    },
+    {
+      "sentenceId": "wu6si6-nurse-example-1",
+      "sentence": "我阿姨係護士。",
+      "jyutping": "ngo5 aa3 ji4 hai6 wu6 si6.",
+      "meaning": "My aunt is a nurse.",
+      "sourceWordId": "wu6si6-nurse",
+      "sourceWord": "護士",
+      "sourceWordJyutping": "wu6 si6",
+      "sourceWordMeaning": "nurse",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
+        "hospital",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu6si6-nurse.json"
+    },
+    {
+      "sentenceId": "wu6si6-nurse-example-2",
+      "sentence": "個護士好有耐性。",
+      "jyutping": "go3 wu6 si6 hou2 jau5 noi6 sing3.",
+      "meaning": "The nurse is very patient.",
+      "sourceWordId": "wu6si6-nurse",
+      "sourceWord": "護士",
+      "sourceWordJyutping": "wu6 si6",
+      "sourceWordMeaning": "nurse",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
+        "hospital",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu6si6-nurse.json"
+    },
+    {
+      "sentenceId": "wu6si6-nurse-example-3",
+      "sentence": "佢喺醫院做護士。",
+      "jyutping": "keoi5 hai2 ji1 jyun2 zou6 wu6 si6.",
+      "meaning": "He/She works as a nurse in a hospital.",
+      "sourceWordId": "wu6si6-nurse",
+      "sourceWord": "護士",
+      "sourceWordJyutping": "wu6 si6",
+      "sourceWordMeaning": "nurse",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
+        "hospital",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu6si6-nurse.json"
+    },
+    {
+      "sentenceId": "wu6si6-nurse-example-4",
+      "sentence": "夜晚值班嗰個護士幫咗我好多。",
+      "jyutping": "je6 maan5 zik6 baan1 go2 go3 wu6 si6 bong1 zo2 ngo5 hou2 do1.",
+      "meaning": "The nurse on night duty helped me a lot.",
+      "sourceWordId": "wu6si6-nurse",
+      "sourceWord": "護士",
+      "sourceWordJyutping": "wu6 si6",
+      "sourceWordMeaning": "nurse",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
+        "hospital",
+        "beginner",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wu6si6-nurse.json"
+    },
+    {
+      "sentenceId": "ging2caat3-police-officer-example-1",
+      "sentence": "警察喺街口維持交通秩序。",
+      "jyutping": "ging2 caat3 hai2 gaai1 hau2 wai4 ci4 gaau1 tung1 zik6 zyu3 cyu4.",
+      "meaning": "The police officer is maintaining traffic order at the street corner.",
+      "sourceWordId": "ging2caat3-police-officer",
+      "sourceWord": "警察",
+      "sourceWordJyutping": "ging2 caat3",
+      "sourceWordMeaning": "police officer",
+      "tags": [
+        "jobs",
+        "public service",
+        "law enforcement",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging2caat3-police-officer.json"
+    },
+    {
+      "sentenceId": "ging2caat3-police-officer-example-2",
+      "sentence": "我見到有警察巡邏。",
+      "jyutping": "ngo5 gin3 dou2 jau5 ging2 caat3 ceon4 lo4.",
+      "meaning": "I saw a police officer patrolling.",
+      "sourceWordId": "ging2caat3-police-officer",
+      "sourceWord": "警察",
+      "sourceWordJyutping": "ging2 caat3",
+      "sourceWordMeaning": "police officer",
+      "tags": [
+        "jobs",
+        "public service",
+        "law enforcement",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging2caat3-police-officer.json"
+    },
+    {
+      "sentenceId": "ging2caat3-police-officer-example-3",
+      "sentence": "如果發生意外，可以搵警察幫手。",
+      "jyutping": "jyu4 gwo2 faat3 sang1 ji3 ngoi6, ho2 ji5 wan2 ging2 caat3 bong1 sau2.",
+      "meaning": "If an accident happens, you can ask the police officer for help.",
+      "sourceWordId": "ging2caat3-police-officer",
+      "sourceWord": "警察",
+      "sourceWordJyutping": "ging2 caat3",
+      "sourceWordMeaning": "police officer",
+      "tags": [
+        "jobs",
+        "public service",
+        "law enforcement",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging2caat3-police-officer.json"
+    },
+    {
+      "sentenceId": "ging2caat3-police-officer-example-4",
+      "sentence": "小朋友好怕警察，但其實警察係幫市民嘅。",
+      "jyutping": "siu2 pang4 jau5 hou2 paa3 ging2 caat3, daan6 kei4 sat6 ging2 caat3 hai6 bong1 si5 man4 ge3.",
+      "meaning": "Children may be scared of police officers, but in fact they are there to help the public.",
+      "sourceWordId": "ging2caat3-police-officer",
+      "sourceWord": "警察",
+      "sourceWordJyutping": "ging2 caat3",
+      "sourceWordMeaning": "police officer",
+      "tags": [
+        "jobs",
+        "public service",
+        "law enforcement",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ging2caat3-police-officer.json"
+    },
+    {
+      "sentenceId": "siu1fong4jyun4-firefighter-example-1",
+      "sentence": "消防員好快就趕到現場救火。",
+      "jyutping": "siu1 fong4 jyun4 hou2 faai3 zau6 gon2 dou3 jin6 coeng4 gau3 fo2.",
+      "meaning": "The firefighters arrived at the scene quickly to put out the fire.",
+      "sourceWordId": "siu1fong4jyun4-firefighter",
+      "sourceWord": "消防員",
+      "sourceWordJyutping": "siu1 fong4 jyun4",
+      "sourceWordMeaning": "firefighter",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "emergency services",
+        "noun",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu1fong4jyun4-firefighter.json"
+    },
+    {
+      "sentenceId": "siu1fong4jyun4-firefighter-example-2",
+      "sentence": "我細個嗰陣好想做消防員。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 hou2 soeng2 zou6 siu1 fong4 jyun4.",
+      "meaning": "When I was young, I really wanted to become a firefighter.",
+      "sourceWordId": "siu1fong4jyun4-firefighter",
+      "sourceWord": "消防員",
+      "sourceWordJyutping": "siu1 fong4 jyun4",
+      "sourceWordMeaning": "firefighter",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "emergency services",
+        "noun",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu1fong4jyun4-firefighter.json"
+    },
+    {
+      "sentenceId": "siu1fong4jyun4-firefighter-example-3",
+      "sentence": "佢嘅爸爸係消防員。",
+      "jyutping": "keoi5 ge3 baa4 baa1 hai6 siu1 fong4 jyun4.",
+      "meaning": "His/her father is a firefighter.",
+      "sourceWordId": "siu1fong4jyun4-firefighter",
+      "sourceWord": "消防員",
+      "sourceWordJyutping": "siu1 fong4 jyun4",
+      "sourceWordMeaning": "firefighter",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "emergency services",
+        "noun",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu1fong4jyun4-firefighter.json"
+    },
+    {
+      "sentenceId": "siu1fong4jyun4-firefighter-example-4",
+      "sentence": "消防員每日都要接受嚴格訓練。",
+      "jyutping": "siu1 fong4 jyun4 mei5 jat6 dou1 jiu3 zip3 sau6 jim4 gaak3 fan3 lin6.",
+      "meaning": "Firefighters have to undergo strict training every day.",
+      "sourceWordId": "siu1fong4jyun4-firefighter",
+      "sourceWord": "消防員",
+      "sourceWordJyutping": "siu1 fong4 jyun4",
+      "sourceWordMeaning": "firefighter",
+      "tags": [
+        "jobs",
+        "professions",
+        "public service",
+        "emergency services",
+        "noun",
+        "level 1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/siu1fong4jyun4-firefighter.json"
+    },
+    {
+      "sentenceId": "gei3ze2-journalist-example-1",
+      "sentence": "佢係一個電視記者。",
+      "jyutping": "keoi5 hai6 jat1 go3 din6 si6 gei3 ze2",
+      "meaning": "He/She is a TV journalist.",
+      "sourceWordId": "gei3ze2-journalist",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "journalist",
+      "tags": [
+        "jobs and professions",
+        "media",
+        "news",
+        "public service",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-journalist.json"
+    },
+    {
+      "sentenceId": "gei3ze2-journalist-example-2",
+      "sentence": "記者訪問咗市民。",
+      "jyutping": "gei3 ze2 fong3 man6 zo2 si5 man4",
+      "meaning": "The journalist interviewed the public.",
+      "sourceWordId": "gei3ze2-journalist",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "journalist",
+      "tags": [
+        "jobs and professions",
+        "media",
+        "news",
+        "public service",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-journalist.json"
+    },
+    {
+      "sentenceId": "gei3ze2-journalist-example-3",
+      "sentence": "今日好多記者喺現場。",
+      "jyutping": "gam1 jat6 hou2 do1 gei3 ze2 hai2 jin6 coeng4",
+      "meaning": "There are many journalists at the scene today.",
+      "sourceWordId": "gei3ze2-journalist",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "journalist",
+      "tags": [
+        "jobs and professions",
+        "media",
+        "news",
+        "public service",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-journalist.json"
+    },
+    {
+      "sentenceId": "gei3ze2-journalist-example-4",
+      "sentence": "我細個時好想做記者。",
+      "jyutping": "ngo5 sai3 go3 si4 hou2 soeng2 zou6 gei3 ze2",
+      "meaning": "When I was young, I really wanted to be a journalist.",
+      "sourceWordId": "gei3ze2-journalist",
+      "sourceWord": "記者",
+      "sourceWordJyutping": "gei3 ze2",
+      "sourceWordMeaning": "journalist",
+      "tags": [
+        "jobs and professions",
+        "media",
+        "news",
+        "public service",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gei3ze2-journalist.json"
+    },
+    {
+      "sentenceId": "se5gung1-social-worker-example-1",
+      "sentence": "佢係社工，成日要幫有需要嘅家庭。",
+      "jyutping": "keoi5 hai6 se5 gung1, sing4 jat6 jiu3 bong1 jau5 xu1 jiu3 ge3 gaa1 ting4.",
+      "meaning": "She is a social worker, and she often helps families in need.",
+      "sourceWordId": "se5gung1-social-worker",
+      "sourceWord": "社工",
+      "sourceWordJyutping": "se5 gung1",
+      "sourceWordMeaning": "social worker",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "social welfare",
+        "noun",
+        "community support",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gung1-social-worker.json"
+    },
+    {
+      "sentenceId": "se5gung1-social-worker-example-2",
+      "sentence": "學校安排咗社工同學生傾偈。",
+      "jyutping": "hok6 haau6 on1 paai4 zo2 se5 gung1 tung4 hok6 saang1 king1 gai2.",
+      "meaning": "The school arranged for a social worker to talk with the students.",
+      "sourceWordId": "se5gung1-social-worker",
+      "sourceWord": "社工",
+      "sourceWordJyutping": "se5 gung1",
+      "sourceWordMeaning": "social worker",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "social welfare",
+        "noun",
+        "community support",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gung1-social-worker.json"
+    },
+    {
+      "sentenceId": "se5gung1-social-worker-example-3",
+      "sentence": "如果你有困難，可以搵社工幫手。",
+      "jyutping": "jyu4 gwo2 nei5 jau5 kwan3 naan4, ho2 ji5 wan2 se5 gung1 bong1 sau2.",
+      "meaning": "If you have difficulties, you can ask a social worker for help.",
+      "sourceWordId": "se5gung1-social-worker",
+      "sourceWord": "社工",
+      "sourceWordJyutping": "se5 gung1",
+      "sourceWordMeaning": "social worker",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "social welfare",
+        "noun",
+        "community support",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gung1-social-worker.json"
+    },
+    {
+      "sentenceId": "se5gung1-social-worker-example-4",
+      "sentence": "呢間機構啲社工好有耐性。",
+      "jyutping": "ni1 gaan1 gei1 kau3 di1 se5 gung1 hou2 jau5 noi6 sing3.",
+      "meaning": "The social workers at this organization are very patient.",
+      "sourceWordId": "se5gung1-social-worker",
+      "sourceWord": "社工",
+      "sourceWordJyutping": "se5 gung1",
+      "sourceWordMeaning": "social worker",
+      "tags": [
+        "jobs and professions",
+        "public service",
+        "social welfare",
+        "noun",
+        "community support",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/se5gung1-social-worker.json"
+    },
+    {
+      "sentenceId": "gung1cing4si1-engineer-example-1",
+      "sentence": "佢係工程師，成日要去工地睇進度。",
+      "jyutping": "keoi5 hai6 gung1 cing4 si1, seng4 jat6 jiu3 heoi3 gung1 dei6 tai2 zeon3 dou6.",
+      "meaning": "He is an engineer and often has to go to construction sites to check progress.",
+      "sourceWordId": "gung1cing4si1-engineer",
+      "sourceWord": "工程師",
+      "sourceWordJyutping": "gung1 cing4 si1",
+      "sourceWordMeaning": "engineer",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "STEM",
+        "level 1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1cing4si1-engineer.json"
+    },
+    {
+      "sentenceId": "gung1cing4si1-engineer-example-2",
+      "sentence": "我表哥喺一間大公司做工程師。",
+      "jyutping": "ngo5 biu2 go1 hai2 jat1 gaan1 daai6 gung1 si1 zou6 gung1 cing4 si1.",
+      "meaning": "My older cousin works as an engineer at a big company.",
+      "sourceWordId": "gung1cing4si1-engineer",
+      "sourceWord": "工程師",
+      "sourceWordJyutping": "gung1 cing4 si1",
+      "sourceWordMeaning": "engineer",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "STEM",
+        "level 1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1cing4si1-engineer.json"
+    },
+    {
+      "sentenceId": "gung1cing4si1-engineer-example-3",
+      "sentence": "呢個工程師幫我哋設計新橋。",
+      "jyutping": "ni1 go3 gung1 cing4 si1 bong1 ngo5 dei6 cit3 gai3 san1 kiu4.",
+      "meaning": "This engineer helped us design a new bridge.",
+      "sourceWordId": "gung1cing4si1-engineer",
+      "sourceWord": "工程師",
+      "sourceWordJyutping": "gung1 cing4 si1",
+      "sourceWordMeaning": "engineer",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "STEM",
+        "level 1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1cing4si1-engineer.json"
+    },
+    {
+      "sentenceId": "gung1cing4si1-engineer-example-4",
+      "sentence": "如果你鍾意數學同科學，可以考慮做工程師。",
+      "jyutping": "jyu4 gwo2 nei5 zung1 ji3 sou3 hok6 tung4 fo1 hok6, ho2 ji5 haau2 leoi6 zou6 gung1 cing4 si1.",
+      "meaning": "If you like math and science, you can consider becoming an engineer.",
+      "sourceWordId": "gung1cing4si1-engineer",
+      "sourceWord": "工程師",
+      "sourceWordJyutping": "gung1 cing4 si1",
+      "sourceWordMeaning": "engineer",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "STEM",
+        "level 1",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gung1cing4si1-engineer.json"
+    },
+    {
+      "sentenceId": "leot6si1-lawyer-example-1",
+      "sentence": "我想搵律師問吓離婚嘅事。",
+      "jyutping": "ngo5 soeng2 wan2 leot6 si1 man6 haa5 lei4 gwan1 ge3 si6.",
+      "meaning": "I want to ask a lawyer about the divorce matter.",
+      "sourceWordId": "leot6si1-lawyer",
+      "sourceWord": "律師",
+      "sourceWordJyutping": "leot6 si1",
+      "sourceWordMeaning": "lawyer",
+      "tags": [
+        "jobs and professions",
+        "law",
+        "legal services",
+        "common noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leot6si1-lawyer.json"
+    },
+    {
+      "sentenceId": "leot6si1-lawyer-example-2",
+      "sentence": "佢係一個好有經驗嘅律師。",
+      "jyutping": "keoi5 hai6 jat1 go3 hou2 jau5 ging1 jim6 ge3 leot6 si1.",
+      "meaning": "He/She is a very experienced lawyer.",
+      "sourceWordId": "leot6si1-lawyer",
+      "sourceWord": "律師",
+      "sourceWordJyutping": "leot6 si1",
+      "sourceWordMeaning": "lawyer",
+      "tags": [
+        "jobs and professions",
+        "law",
+        "legal services",
+        "common noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leot6si1-lawyer.json"
+    },
+    {
+      "sentenceId": "leot6si1-lawyer-example-3",
+      "sentence": "呢位律師幫我睇合約。",
+      "jyutping": "ni1 wai6 leot6 si1 bong1 ngo5 tai2 hap6 joek3.",
+      "meaning": "This lawyer helped me look over the contract.",
+      "sourceWordId": "leot6si1-lawyer",
+      "sourceWord": "律師",
+      "sourceWordJyutping": "leot6 si1",
+      "sourceWordMeaning": "lawyer",
+      "tags": [
+        "jobs and professions",
+        "law",
+        "legal services",
+        "common noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leot6si1-lawyer.json"
+    },
+    {
+      "sentenceId": "leot6si1-lawyer-example-4",
+      "sentence": "如果有問題，你可以打畀律師樓。",
+      "jyutping": "jyu4 gwo2 jau5 man6 tai4, nei5 ho2 ji5 daa2 bei2 leot6 si1 lau4.",
+      "meaning": "If there is a problem, you can call the law firm.",
+      "sourceWordId": "leot6si1-lawyer",
+      "sourceWord": "律師",
+      "sourceWordJyutping": "leot6 si1",
+      "sourceWordMeaning": "lawyer",
+      "tags": [
+        "jobs and professions",
+        "law",
+        "legal services",
+        "common noun",
+        "beginner-friendly",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/leot6si1-lawyer.json"
+    },
+    {
+      "sentenceId": "gin3zuk1si1-architect-example-1",
+      "sentence": "我細個嗰陣想做建築師。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 soeng2 zou6 gin3 zuk1 si1.",
+      "meaning": "When I was young, I wanted to become an architect.",
+      "sourceWordId": "gin3zuk1si1-architect",
+      "sourceWord": "建築師",
+      "sourceWordJyutping": "gin3 zuk1 si1",
+      "sourceWordMeaning": "architect",
+      "tags": [
+        "jobs and professions",
+        "skilled work",
+        "specialist job",
+        "building and design",
+        "career vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3zuk1si1-architect.json"
+    },
+    {
+      "sentenceId": "gin3zuk1si1-architect-example-2",
+      "sentence": "呢個新商場係由建築師設計嘅。",
+      "jyutping": "ni1 go3 san1 soeng1 coeng4 hai6 jau4 gin3 zuk1 si1 cit3 gai3 ge3.",
+      "meaning": "This new shopping mall was designed by an architect.",
+      "sourceWordId": "gin3zuk1si1-architect",
+      "sourceWord": "建築師",
+      "sourceWordJyutping": "gin3 zuk1 si1",
+      "sourceWordMeaning": "architect",
+      "tags": [
+        "jobs and professions",
+        "skilled work",
+        "specialist job",
+        "building and design",
+        "career vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3zuk1si1-architect.json"
+    },
+    {
+      "sentenceId": "gin3zuk1si1-architect-example-3",
+      "sentence": "佢喺一間建築師樓返工。",
+      "jyutping": "keoi5 hai2 jat1 gaan1 gin3 zuk1 si1 lau4 faan1 gung1.",
+      "meaning": "He works at an architectural firm.",
+      "sourceWordId": "gin3zuk1si1-architect",
+      "sourceWord": "建築師",
+      "sourceWordJyutping": "gin3 zuk1 si1",
+      "sourceWordMeaning": "architect",
+      "tags": [
+        "jobs and professions",
+        "skilled work",
+        "specialist job",
+        "building and design",
+        "career vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3zuk1si1-architect.json"
+    },
+    {
+      "sentenceId": "gin3zuk1si1-architect-example-4",
+      "sentence": "如果你想起屋，最好搵建築師幫手。",
+      "jyutping": "jyu4 gwo2 nei5 soeng2 hei2 uk1, zeoi3 hou2 wan2 gin3 zuk1 si1 bong1 sau2.",
+      "meaning": "If you want to build a house, it’s best to ask an architect for help.",
+      "sourceWordId": "gin3zuk1si1-architect",
+      "sourceWord": "建築師",
+      "sourceWordJyutping": "gin3 zuk1 si1",
+      "sourceWordMeaning": "architect",
+      "tags": [
+        "jobs and professions",
+        "skilled work",
+        "specialist job",
+        "building and design",
+        "career vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/gin3zuk1si1-architect.json"
+    },
+    {
+      "sentenceId": "fo1hok6gaa1-scientist-example-1",
+      "sentence": "佢係一個著名嘅科學家。",
+      "jyutping": "keoi5 hai6 jat1 go3 zyu3 ming4 ge3 fo1 hok6 gaa1",
+      "meaning": "He / she is a famous scientist.",
+      "sourceWordId": "fo1hok6gaa1-scientist",
+      "sourceWord": "科學家",
+      "sourceWordJyutping": "fo1 hok6 gaa1",
+      "sourceWordMeaning": "scientist",
+      "tags": [
+        "science",
+        "profession",
+        "education",
+        "research",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo1hok6gaa1-scientist.json"
+    },
+    {
+      "sentenceId": "fo1hok6gaa1-scientist-example-2",
+      "sentence": "科學家做咗好多重要嘅研究。",
+      "jyutping": "fo1 hok6 gaa1 zou6 zo2 hou2 do1 zung6 jiu3 ge3 jin4 gau3",
+      "meaning": "Scientists have done a lot of important research.",
+      "sourceWordId": "fo1hok6gaa1-scientist",
+      "sourceWord": "科學家",
+      "sourceWordJyutping": "fo1 hok6 gaa1",
+      "sourceWordMeaning": "scientist",
+      "tags": [
+        "science",
+        "profession",
+        "education",
+        "research",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo1hok6gaa1-scientist.json"
+    },
+    {
+      "sentenceId": "fo1hok6gaa1-scientist-example-3",
+      "sentence": "啲科學家喺實驗室工作。",
+      "jyutping": "di1 fo1 hok6 gaa1 hai2 sat6 jim6 sat1 gung1 zok3",
+      "meaning": "The scientists work in the laboratory.",
+      "sourceWordId": "fo1hok6gaa1-scientist",
+      "sourceWord": "科學家",
+      "sourceWordJyutping": "fo1 hok6 gaa1",
+      "sourceWordMeaning": "scientist",
+      "tags": [
+        "science",
+        "profession",
+        "education",
+        "research",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo1hok6gaa1-scientist.json"
+    },
+    {
+      "sentenceId": "fo1hok6gaa1-scientist-example-4",
+      "sentence": "我想做一個科學家。",
+      "jyutping": "ngo5 soeng2 zou6 jat1 go3 fo1 hok6 gaa1",
+      "meaning": "I want to be a scientist.",
+      "sourceWordId": "fo1hok6gaa1-scientist",
+      "sourceWord": "科學家",
+      "sourceWordJyutping": "fo1 hok6 gaa1",
+      "sourceWordMeaning": "scientist",
+      "tags": [
+        "science",
+        "profession",
+        "education",
+        "research",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo1hok6gaa1-scientist.json"
+    },
+    {
+      "sentenceId": "fo1hok6gaa1-scientist-example-5",
+      "sentence": "呢位科學家發明咗新技術。",
+      "jyutping": "ni1 wai2 fo1 hok6 gaa1 faat3 ming4 zo2 san1 gei6 seot6",
+      "meaning": "This scientist invented a new technology.",
+      "sourceWordId": "fo1hok6gaa1-scientist",
+      "sourceWord": "科學家",
+      "sourceWordJyutping": "fo1 hok6 gaa1",
+      "sourceWordMeaning": "scientist",
+      "tags": [
+        "science",
+        "profession",
+        "education",
+        "research",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo1hok6gaa1-scientist.json"
+    },
+    {
+      "sentenceId": "faan1jik6jyun4-translator-example-1",
+      "sentence": "我哋公司請咗一位翻譯員。",
+      "jyutping": "ngo5 dei6 gung1 si1 cing2 zo2 jat1 wai6 faan1 jik6 jyun4.",
+      "meaning": "Our company hired a translator.",
+      "sourceWordId": "faan1jik6jyun4-translator",
+      "sourceWord": "翻譯員",
+      "sourceWordJyutping": "faan1 jik6 jyun4",
+      "sourceWordMeaning": "translator",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "language",
+        "office",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1jik6jyun4-translator.json"
+    },
+    {
+      "sentenceId": "faan1jik6jyun4-translator-example-2",
+      "sentence": "佢係一個英文翻譯員。",
+      "jyutping": "keoi5 hai6 jat1 go3 jing1 man4 faan1 jik6 jyun4.",
+      "meaning": "He/She is an English translator.",
+      "sourceWordId": "faan1jik6jyun4-translator",
+      "sourceWord": "翻譯員",
+      "sourceWordJyutping": "faan1 jik6 jyun4",
+      "sourceWordMeaning": "translator",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "language",
+        "office",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1jik6jyun4-translator.json"
+    },
+    {
+      "sentenceId": "faan1jik6jyun4-translator-example-3",
+      "sentence": "開會之前，要搵翻譯員先。",
+      "jyutping": "hoi1 wui2 zi1 cin4, jiu3 wan2 faan1 jik6 jyun4 sin1.",
+      "meaning": "Before the meeting, we need to find a translator first.",
+      "sourceWordId": "faan1jik6jyun4-translator",
+      "sourceWord": "翻譯員",
+      "sourceWordJyutping": "faan1 jik6 jyun4",
+      "sourceWordMeaning": "translator",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "language",
+        "office",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1jik6jyun4-translator.json"
+    },
+    {
+      "sentenceId": "faan1jik6jyun4-translator-example-4",
+      "sentence": "呢位翻譯員做嘢好細心。",
+      "jyutping": "ni1 wai2 faan1 jik6 jyun4 zou6 je5 hou2 zai3 sam1.",
+      "meaning": "This translator works very carefully.",
+      "sourceWordId": "faan1jik6jyun4-translator",
+      "sourceWord": "翻譯員",
+      "sourceWordJyutping": "faan1 jik6 jyun4",
+      "sourceWordMeaning": "translator",
+      "tags": [
+        "jobs",
+        "professions",
+        "skilled work",
+        "language",
+        "office",
+        "formal",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1jik6jyun4-translator.json"
+    },
+    {
+      "sentenceId": "zok3gaa1-writer-example-1",
+      "sentence": "佢係一位好出名嘅作家。",
+      "jyutping": "keoi5 hai6 jat1 wai2 hou2 ceot1 ming4 ge3 zok3 gaa1.",
+      "meaning": "He/She is a very famous writer.",
+      "sourceWordId": "zok3gaa1-writer",
+      "sourceWord": "作家",
+      "sourceWordJyutping": "zok3 gaa1",
+      "sourceWordMeaning": "writer",
+      "tags": [
+        "jobs-professions",
+        "skilled-and-specialist-jobs",
+        "writer",
+        "literature",
+        "publishing",
+        "occupation",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3gaa1-writer.json"
+    },
+    {
+      "sentenceId": "zok3gaa1-writer-example-2",
+      "sentence": "呢本書係一個香港作家寫嘅。",
+      "jyutping": "ni1 bun2 syu1 hai6 jat1 go3 hoeng1 gong2 zok3 gaa1 se2 ge3.",
+      "meaning": "This book was written by a Hong Kong writer.",
+      "sourceWordId": "zok3gaa1-writer",
+      "sourceWord": "作家",
+      "sourceWordJyutping": "zok3 gaa1",
+      "sourceWordMeaning": "writer",
+      "tags": [
+        "jobs-professions",
+        "skilled-and-specialist-jobs",
+        "writer",
+        "literature",
+        "publishing",
+        "occupation",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3gaa1-writer.json"
+    },
+    {
+      "sentenceId": "zok3gaa1-writer-example-3",
+      "sentence": "我細個已經想做作家。",
+      "jyutping": "ngo5 sai3 go3 ji5 ging1 soeng2 zou6 zok3 gaa1.",
+      "meaning": "I already wanted to be a writer when I was little.",
+      "sourceWordId": "zok3gaa1-writer",
+      "sourceWord": "作家",
+      "sourceWordJyutping": "zok3 gaa1",
+      "sourceWordMeaning": "writer",
+      "tags": [
+        "jobs-professions",
+        "skilled-and-specialist-jobs",
+        "writer",
+        "literature",
+        "publishing",
+        "occupation",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3gaa1-writer.json"
+    },
+    {
+      "sentenceId": "zok3gaa1-writer-example-4",
+      "sentence": "新一代作家好多都會用網上平台發表作品。",
+      "jyutping": "san1 jat1 doi6 zok3 gaa1 hou2 do1 dou1 wui5 jung6 mong5 soeng6 ping4 toi4 faat3 biu2 zok3 ban2.",
+      "meaning": "Many writers of the new generation publish their work on online platforms.",
+      "sourceWordId": "zok3gaa1-writer",
+      "sourceWord": "作家",
+      "sourceWordJyutping": "zok3 gaa1",
+      "sourceWordMeaning": "writer",
+      "tags": [
+        "jobs-professions",
+        "skilled-and-specialist-jobs",
+        "writer",
+        "literature",
+        "publishing",
+        "occupation",
+        "noun",
+        "level-1",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zok3gaa1-writer.json"
+    },
+    {
+      "sentenceId": "jam1ngok6gaa1-musician-example-1",
+      "sentence": "佢細個已經好鍾意彈琴，依家做咗音樂家。",
+      "jyutping": "keoi5 sai3 go3 ji5 ging1 hou2 zung1 ji3 taan4 kam4, ji1 gaa2 zou6 zo2 jam1 ngok6 gaa1.",
+      "meaning": "He loved playing piano since he was young, and now he has become a musician.",
+      "sourceWordId": "jam1ngok6gaa1-musician",
+      "sourceWord": "音樂家",
+      "sourceWordJyutping": "jam1 ngok6 gaa1",
+      "sourceWordMeaning": "musician",
+      "tags": [
+        "jobs and professions",
+        "music",
+        "arts",
+        "performer",
+        "formal",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6gaa1-musician.json"
+    },
+    {
+      "sentenceId": "jam1ngok6gaa1-musician-example-2",
+      "sentence": "呢位音樂家成日去世界各地演出。",
+      "jyutping": "ni1 wai6 jam1 ngok6 gaa1 sing4 jat6 heoi3 sai3 gaai3 gok3 dei6 jin2 ceot1.",
+      "meaning": "This musician often travels around the world to perform.",
+      "sourceWordId": "jam1ngok6gaa1-musician",
+      "sourceWord": "音樂家",
+      "sourceWordJyutping": "jam1 ngok6 gaa1",
+      "sourceWordMeaning": "musician",
+      "tags": [
+        "jobs and professions",
+        "music",
+        "arts",
+        "performer",
+        "formal",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6gaa1-musician.json"
+    },
+    {
+      "sentenceId": "jam1ngok6gaa1-musician-example-3",
+      "sentence": "我阿哥唔係全職老師，佢係兼職音樂家。",
+      "jyutping": "ngo5 aa3 go1 m4 hai6 cyun4 zik1 lou5 si1, keoi5 hai6 gim1 zik1 jam1 ngok6 gaa1.",
+      "meaning": "My older brother is not a full-time teacher; he is a part-time musician.",
+      "sourceWordId": "jam1ngok6gaa1-musician",
+      "sourceWord": "音樂家",
+      "sourceWordJyutping": "jam1 ngok6 gaa1",
+      "sourceWordMeaning": "musician",
+      "tags": [
+        "jobs and professions",
+        "music",
+        "arts",
+        "performer",
+        "formal",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6gaa1-musician.json"
+    },
+    {
+      "sentenceId": "jam1ngok6gaa1-musician-example-4",
+      "sentence": "佢最欣賞嘅音樂家係一位香港作曲家。",
+      "jyutping": "keoi5 zeoi3 jan1 soeng2 ge3 jam1 ngok6 gaa1 hai6 jat1 wai2 hoeng1 gong2 zok3 kuk1 gaa1.",
+      "meaning": "The musician he admires most is a Hong Kong composer.",
+      "sourceWordId": "jam1ngok6gaa1-musician",
+      "sourceWord": "音樂家",
+      "sourceWordJyutping": "jam1 ngok6 gaa1",
+      "sourceWordMeaning": "musician",
+      "tags": [
+        "jobs and professions",
+        "music",
+        "arts",
+        "performer",
+        "formal",
+        "countable noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jam1ngok6gaa1-musician.json"
+    },
+    {
+      "sentenceId": "fuk6mou6jyun4-server-example-1",
+      "sentence": "呢間餐廳啲服務員好有禮貌。",
+      "jyutping": "ni1 gaan1 caan1 teng1 di1 fuk6 mou6 jyun4 hou2 jau5 leoi5 mou6",
+      "meaning": "The servers in this restaurant are very polite.",
+      "sourceWordId": "fuk6mou6jyun4-server",
+      "sourceWord": "服務員",
+      "sourceWordJyutping": "fuk6 mou6 jyun4",
+      "sourceWordMeaning": "server",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "hospitality",
+        "restaurant",
+        "level 1",
+        "neutral term",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk6mou6jyun4-server.json"
+    },
+    {
+      "sentenceId": "fuk6mou6jyun4-server-example-2",
+      "sentence": "我想搵服務員落單。",
+      "jyutping": "ngo5 soeng2 wan2 fuk6 mou6 jyun4 lok6 dan1",
+      "meaning": "I want to get a server to take my order.",
+      "sourceWordId": "fuk6mou6jyun4-server",
+      "sourceWord": "服務員",
+      "sourceWordJyutping": "fuk6 mou6 jyun4",
+      "sourceWordMeaning": "server",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "hospitality",
+        "restaurant",
+        "level 1",
+        "neutral term",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk6mou6jyun4-server.json"
+    },
+    {
+      "sentenceId": "fuk6mou6jyun4-server-example-3",
+      "sentence": "酒店服務員幫我拎行李。",
+      "jyutping": "ziu2 dim3 fuk6 mou6 jyun4 bong1 ngo5 ling1 hong4 lei5",
+      "meaning": "A hotel server helped me carry my luggage.",
+      "sourceWordId": "fuk6mou6jyun4-server",
+      "sourceWord": "服務員",
+      "sourceWordJyutping": "fuk6 mou6 jyun4",
+      "sourceWordMeaning": "server",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "hospitality",
+        "restaurant",
+        "level 1",
+        "neutral term",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk6mou6jyun4-server.json"
+    },
+    {
+      "sentenceId": "fuk6mou6jyun4-server-example-4",
+      "sentence": "茶餐廳嘅服務員通常都幾忙。",
+      "jyutping": "caa4 caan1 teng1 ge3 fuk6 mou6 jyun4 tung1 soeng4 dou1 gei2 mong4",
+      "meaning": "Servers in cha chaan tengs are usually quite busy.",
+      "sourceWordId": "fuk6mou6jyun4-server",
+      "sourceWord": "服務員",
+      "sourceWordJyutping": "fuk6 mou6 jyun4",
+      "sourceWordMeaning": "server",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "hospitality",
+        "restaurant",
+        "level 1",
+        "neutral term",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fuk6mou6jyun4-server.json"
+    },
+    {
+      "sentenceId": "cyu4si1-chef-example-1",
+      "sentence": "佢喺酒店做廚師。",
+      "jyutping": "keoi5 hai2 zau2 dim3 zou6 cyu4 si1",
+      "meaning": "He works as a chef in a hotel.",
+      "sourceWordId": "cyu4si1-chef",
+      "sourceWord": "廚師",
+      "sourceWordJyutping": "cyu4 si1",
+      "sourceWordMeaning": "chef",
+      "tags": [
+        "jobs and professions",
+        "service industry",
+        "hospitality",
+        "food and restaurant",
+        "everyday vocabulary",
+        "neutral register",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu4si1-chef.json"
+    },
+    {
+      "sentenceId": "cyu4si1-chef-example-2",
+      "sentence": "我想將來做廚師。",
+      "jyutping": "ngo5 seung2 zoeng1 loi4 zou6 cyu4 si1",
+      "meaning": "I want to become a chef in the future.",
+      "sourceWordId": "cyu4si1-chef",
+      "sourceWord": "廚師",
+      "sourceWordJyutping": "cyu4 si1",
+      "sourceWordMeaning": "chef",
+      "tags": [
+        "jobs and professions",
+        "service industry",
+        "hospitality",
+        "food and restaurant",
+        "everyday vocabulary",
+        "neutral register",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu4si1-chef.json"
+    },
+    {
+      "sentenceId": "cyu4si1-chef-example-3",
+      "sentence": "呢間餐廳請咗個法國廚師。",
+      "jyutping": "ni1 gaan1 caan1 teng1 cing2 zo2 go3 faat3 gwok3 cyu4 si1",
+      "meaning": "This restaurant hired a French chef.",
+      "sourceWordId": "cyu4si1-chef",
+      "sourceWord": "廚師",
+      "sourceWordJyutping": "cyu4 si1",
+      "sourceWordMeaning": "chef",
+      "tags": [
+        "jobs and professions",
+        "service industry",
+        "hospitality",
+        "food and restaurant",
+        "everyday vocabulary",
+        "neutral register",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu4si1-chef.json"
+    },
+    {
+      "sentenceId": "cyu4si1-chef-example-4",
+      "sentence": "佢阿爸以前係廚師。",
+      "jyutping": "keoi5 aa3 baa1 ji5 cin4 hai6 cyu4 si1",
+      "meaning": "His father used to be a chef.",
+      "sourceWordId": "cyu4si1-chef",
+      "sourceWord": "廚師",
+      "sourceWordJyutping": "cyu4 si1",
+      "sourceWordMeaning": "chef",
+      "tags": [
+        "jobs and professions",
+        "service industry",
+        "hospitality",
+        "food and restaurant",
+        "everyday vocabulary",
+        "neutral register",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cyu4si1-chef.json"
+    },
+    {
+      "sentenceId": "bou2on1-guard-example-1",
+      "sentence": "樓下個保安好有禮貌。",
+      "jyutping": "leoi4 haa6 go3 bou2 on1 hou2 jau5 lai5 mou6.",
+      "meaning": "The security guard downstairs is very polite.",
+      "sourceWordId": "bou2on1-guard",
+      "sourceWord": "保安",
+      "sourceWordJyutping": "bou2 on1",
+      "sourceWordMeaning": "guard",
+      "tags": [
+        "jobs",
+        "service",
+        "hospitality",
+        "security",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou2on1-guard.json"
+    },
+    {
+      "sentenceId": "bou2on1-guard-example-2",
+      "sentence": "我哋公司請咗兩個保安。",
+      "jyutping": "ngo5 dei6 gung1 si1 cing2 zo2 loeng5 go3 bou2 on1.",
+      "meaning": "Our company hired two security guards.",
+      "sourceWordId": "bou2on1-guard",
+      "sourceWord": "保安",
+      "sourceWordJyutping": "bou2 on1",
+      "sourceWordMeaning": "guard",
+      "tags": [
+        "jobs",
+        "service",
+        "hospitality",
+        "security",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou2on1-guard.json"
+    },
+    {
+      "sentenceId": "bou2on1-guard-example-3",
+      "sentence": "夜晚商場有保安巡邏。",
+      "jyutping": "je6 maan5 soeng1 coeng4 jau5 bou2 on1 ceon4 lo4.",
+      "meaning": "There are security guards patrolling the shopping mall at night.",
+      "sourceWordId": "bou2on1-guard",
+      "sourceWord": "保安",
+      "sourceWordJyutping": "bou2 on1",
+      "sourceWordMeaning": "guard",
+      "tags": [
+        "jobs",
+        "service",
+        "hospitality",
+        "security",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou2on1-guard.json"
+    },
+    {
+      "sentenceId": "bou2on1-guard-example-4",
+      "sentence": "佢做保安做咗好多年。",
+      "jyutping": "keoi5 zou6 bou2 on1 zou6 zo2 hou2 do1 nin4.",
+      "meaning": "He has worked as a security guard for many years.",
+      "sourceWordId": "bou2on1-guard",
+      "sourceWord": "保安",
+      "sourceWordJyutping": "bou2 on1",
+      "sourceWordMeaning": "guard",
+      "tags": [
+        "jobs",
+        "service",
+        "hospitality",
+        "security",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/bou2on1-guard.json"
+    },
+    {
+      "sentenceId": "faat3jing4si1-hairstylist-example-1",
+      "sentence": "我想搵髮型師剪短啲頭髮。",
+      "jyutping": "ngo5 soeng2 wan2 faat3 jing4 si1 zin2 dyun2 di1 tau4 faat3.",
+      "meaning": "I want to find a hairstylist to cut my hair shorter.",
+      "sourceWordId": "faat3jing4si1-hairstylist",
+      "sourceWord": "髮型師",
+      "sourceWordJyutping": "faat3 jing4 si1",
+      "sourceWordMeaning": "hairstylist",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "beauty",
+        "salon",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3jing4si1-hairstylist.json"
+    },
+    {
+      "sentenceId": "faat3jing4si1-hairstylist-example-2",
+      "sentence": "佢係一位好出名嘅髮型師。",
+      "jyutping": "keoi5 hai6 jat1 wai6 hou2 ceot1 ming4 ge3 faat3 jing4 si1.",
+      "meaning": "He/She is a very famous hairstylist.",
+      "sourceWordId": "faat3jing4si1-hairstylist",
+      "sourceWord": "髮型師",
+      "sourceWordJyutping": "faat3 jing4 si1",
+      "sourceWordMeaning": "hairstylist",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "beauty",
+        "salon",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3jing4si1-hairstylist.json"
+    },
+    {
+      "sentenceId": "faat3jing4si1-hairstylist-example-3",
+      "sentence": "呢間salon有好多髮型師。",
+      "jyutping": "ni1 gaan1 salon jau5 hou2 do1 faat3 jing4 si1.",
+      "meaning": "This salon has many hairstylists.",
+      "sourceWordId": "faat3jing4si1-hairstylist",
+      "sourceWord": "髮型師",
+      "sourceWordJyutping": "faat3 jing4 si1",
+      "sourceWordMeaning": "hairstylist",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "beauty",
+        "salon",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3jing4si1-hairstylist.json"
+    },
+    {
+      "sentenceId": "faat3jing4si1-hairstylist-example-4",
+      "sentence": "每次轉季，我都會去搵髮型師整理個頭。",
+      "jyutping": "mui5 ci3 zyun3 zai3, ngo5 dou1 wui5 heoi3 wan2 faat3 jing4 si1 zing2 lei5 go3 tau4.",
+      "meaning": "Every time the season changes, I go to a hairstylist to tidy up my hair.",
+      "sourceWordId": "faat3jing4si1-hairstylist",
+      "sourceWord": "髮型師",
+      "sourceWordJyutping": "faat3 jing4 si1",
+      "sourceWordMeaning": "hairstylist",
+      "tags": [
+        "jobs",
+        "professions",
+        "service industry",
+        "beauty",
+        "salon",
+        "beginner vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faat3jing4si1-hairstylist.json"
+    },
+    {
+      "sentenceId": "cing1git3gung1jan4-cleaner-example-1",
+      "sentence": "呢棟大廈有兩個清潔工人負責打掃。",
+      "jyutping": "ni1 dung6 daai6 haa6 jau5 loeng5 go3 cing1 git3 gung1 jan4 fu6 ze1 daa2 sou3.",
+      "meaning": "This building has two cleaners responsible for cleaning.",
+      "sourceWordId": "cing1git3gung1jan4-cleaner",
+      "sourceWord": "清潔工人",
+      "sourceWordJyutping": "cing1 git3 gung1 jan4",
+      "sourceWordMeaning": "cleaner",
+      "tags": [
+        "jobs",
+        "professions",
+        "service jobs",
+        "hospitality",
+        "people",
+        "noun",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1git3gung1jan4-cleaner.json"
+    },
+    {
+      "sentenceId": "cing1git3gung1jan4-cleaner-example-2",
+      "sentence": "學校每日都會請清潔工人清潔課室。",
+      "jyutping": "hok6 haau6 mei5 jat6 dou1 wui5 cing2 cing1 git3 gung1 jan4 cing1 git3 fo3 sat1.",
+      "meaning": "The school hires cleaners every day to clean the classrooms.",
+      "sourceWordId": "cing1git3gung1jan4-cleaner",
+      "sourceWord": "清潔工人",
+      "sourceWordJyutping": "cing1 git3 gung1 jan4",
+      "sourceWordMeaning": "cleaner",
+      "tags": [
+        "jobs",
+        "professions",
+        "service jobs",
+        "hospitality",
+        "people",
+        "noun",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1git3gung1jan4-cleaner.json"
+    },
+    {
+      "sentenceId": "cing1git3gung1jan4-cleaner-example-3",
+      "sentence": "佢做清潔工人，工作時間好長。",
+      "jyutping": "keoi5 zou6 cing1 git3 gung1 jan4, gung1 zok3 si4 gaan3 hou2 coeng4.",
+      "meaning": "He works as a cleaner, and the working hours are long.",
+      "sourceWordId": "cing1git3gung1jan4-cleaner",
+      "sourceWord": "清潔工人",
+      "sourceWordJyutping": "cing1 git3 gung1 jan4",
+      "sourceWordMeaning": "cleaner",
+      "tags": [
+        "jobs",
+        "professions",
+        "service jobs",
+        "hospitality",
+        "people",
+        "noun",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1git3gung1jan4-cleaner.json"
+    },
+    {
+      "sentenceId": "cing1git3gung1jan4-cleaner-example-4",
+      "sentence": "大家要尊重清潔工人的辛苦。",
+      "jyutping": "daai6 gaa1 jiu3 zyun1 zung6 cing1 git3 gung1 jan4 dik1 san1 fu2.",
+      "meaning": "Everyone should respect the hard work of cleaners.",
+      "sourceWordId": "cing1git3gung1jan4-cleaner",
+      "sourceWord": "清潔工人",
+      "sourceWordJyutping": "cing1 git3 gung1 jan4",
+      "sourceWordMeaning": "cleaner",
+      "tags": [
+        "jobs",
+        "professions",
+        "service jobs",
+        "hospitality",
+        "people",
+        "noun",
+        "basic vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing1git3gung1jan4-cleaner.json"
+    },
+    {
+      "sentenceId": "lei5faat3si1-barber-example-1",
+      "sentence": "我細個嗰陣，阿叔係理髮師。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 aa3 suk1 hai6 lei5 faat3 si1.",
+      "meaning": "When I was young, my uncle was a barber.",
+      "sourceWordId": "lei5faat3si1-barber",
+      "sourceWord": "理髮師",
+      "sourceWordJyutping": "lei5 faat3 si1",
+      "sourceWordMeaning": "barber",
+      "tags": [
+        "jobs",
+        "professions",
+        "service-industry",
+        "hospitality",
+        "haircut",
+        "salon",
+        "occupation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5faat3si1-barber.json"
+    },
+    {
+      "sentenceId": "lei5faat3si1-barber-example-2",
+      "sentence": "呢間舊式理髮店嘅理髮師手勢好好。",
+      "jyutping": "ni1 gaan1 gau6 sik1 lei5 faat3 dim3 ge3 lei5 faat3 si1 sau2 sai3 hou2 hou2.",
+      "meaning": "The barber at this old-style barbershop is very skilled.",
+      "sourceWordId": "lei5faat3si1-barber",
+      "sourceWord": "理髮師",
+      "sourceWordJyutping": "lei5 faat3 si1",
+      "sourceWordMeaning": "barber",
+      "tags": [
+        "jobs",
+        "professions",
+        "service-industry",
+        "hospitality",
+        "haircut",
+        "salon",
+        "occupation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5faat3si1-barber.json"
+    },
+    {
+      "sentenceId": "lei5faat3si1-barber-example-3",
+      "sentence": "佢想喺屋企附近搵個理髮師剪頭髮。",
+      "jyutping": "keoi5 soeng2 hai6 uk1 kei2 fu6 gan6 wan2 go3 lei5 faat3 si1 zin2 tau4 faat3.",
+      "meaning": "He wants to find a barber near home to get a haircut.",
+      "sourceWordId": "lei5faat3si1-barber",
+      "sourceWord": "理髮師",
+      "sourceWordJyutping": "lei5 faat3 si1",
+      "sourceWordMeaning": "barber",
+      "tags": [
+        "jobs",
+        "professions",
+        "service-industry",
+        "hospitality",
+        "haircut",
+        "salon",
+        "occupation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5faat3si1-barber.json"
+    },
+    {
+      "sentenceId": "lei5faat3si1-barber-example-4",
+      "sentence": "做理髮師要好有耐性同埋手藝。",
+      "jyutping": "zou6 lei5 faat3 si1 jiu3 hou2 jau5 noi6 sing3 tung4 maai4 sau2 ngai6.",
+      "meaning": "Being a barber requires a lot of patience and skill.",
+      "sourceWordId": "lei5faat3si1-barber",
+      "sourceWord": "理髮師",
+      "sourceWordJyutping": "lei5 faat3 si1",
+      "sourceWordMeaning": "barber",
+      "tags": [
+        "jobs",
+        "professions",
+        "service-industry",
+        "hospitality",
+        "haircut",
+        "salon",
+        "occupation",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5faat3si1-barber.json"
+    },
+    {
+      "sentenceId": "cing4sik1jyun4-programmer-example-1",
+      "sentence": "我細佬做程式員，成日要加班。",
+      "jyutping": "ngo5 sai3 lou4 zou6 cing4 sik1 jyun4, sing4 jat6 jiu3 gaa1 baan1.",
+      "meaning": "My younger brother is a programmer and often has to work overtime.",
+      "sourceWordId": "cing4sik1jyun4-programmer",
+      "sourceWord": "程式員",
+      "sourceWordJyutping": "cing4 sik1 jyun4",
+      "sourceWordMeaning": "programmer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "IT",
+        "software",
+        "coding",
+        "workplace",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4sik1jyun4-programmer.json"
+    },
+    {
+      "sentenceId": "cing4sik1jyun4-programmer-example-2",
+      "sentence": "佢喺一間大公司做程式員。",
+      "jyutping": "keoi5 hai2 jat1 gaan1 daai6 gung1 si1 zou6 cing4 sik1 jyun4.",
+      "meaning": "He works as a programmer at a big company.",
+      "sourceWordId": "cing4sik1jyun4-programmer",
+      "sourceWord": "程式員",
+      "sourceWordJyutping": "cing4 sik1 jyun4",
+      "sourceWordMeaning": "programmer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "IT",
+        "software",
+        "coding",
+        "workplace",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4sik1jyun4-programmer.json"
+    },
+    {
+      "sentenceId": "cing4sik1jyun4-programmer-example-3",
+      "sentence": "想做程式員，最好識寫程式。",
+      "jyutping": "soeng2 zou6 cing4 sik1 jyun4, zeoi3 hou2 sik1 se2 cing4 sik1.",
+      "meaning": "If you want to be a programmer, it’s best to know how to code.",
+      "sourceWordId": "cing4sik1jyun4-programmer",
+      "sourceWord": "程式員",
+      "sourceWordJyutping": "cing4 sik1 jyun4",
+      "sourceWordMeaning": "programmer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "IT",
+        "software",
+        "coding",
+        "workplace",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4sik1jyun4-programmer.json"
+    },
+    {
+      "sentenceId": "cing4sik1jyun4-programmer-example-4",
+      "sentence": "而家好多程式員都可以喺屋企返工。",
+      "jyutping": "ji4 gaa1 hou2 do1 cing4 sik1 jyun4 dou1 ho2 ji5 hai2 uk1 kei2 faan1 gung1.",
+      "meaning": "Nowadays many programmers can work from home.",
+      "sourceWordId": "cing4sik1jyun4-programmer",
+      "sourceWord": "程式員",
+      "sourceWordJyutping": "cing4 sik1 jyun4",
+      "sourceWordMeaning": "programmer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "IT",
+        "software",
+        "coding",
+        "workplace",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cing4sik1jyun4-programmer.json"
+    },
+    {
+      "sentenceId": "jyun5gin2gung1cing4si1-software-engineer-example-1",
+      "sentence": "佢喺一間科技公司做軟件工程師。",
+      "jyutping": "keoi5 hai2 jat1 gaan1 fo1 gei6 gung1 si1 zou6 jyun5 gin2 gung1 cing4 si1.",
+      "meaning": "He works as a software engineer at a tech company.",
+      "sourceWordId": "jyun5gin2gung1cing4si1-software-engineer",
+      "sourceWord": "軟件工程師",
+      "sourceWordJyutping": "jyun5 gin2 gung1 cing4 si1",
+      "sourceWordMeaning": "software engineer",
+      "tags": [
+        "jobs and professions",
+        "tech jobs",
+        "IT",
+        "computer science",
+        "career",
+        "workplace vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun5gin2gung1cing4si1-software-engineer.json"
+    },
+    {
+      "sentenceId": "jyun5gin2gung1cing4si1-software-engineer-example-2",
+      "sentence": "我而家想轉行做軟件工程師。",
+      "jyutping": "ngo5 ji4 gaa1 soeng2 zyun2 hong4 zou6 jyun5 gin2 gung1 cing4 si1.",
+      "meaning": "I want to change careers and become a software engineer.",
+      "sourceWordId": "jyun5gin2gung1cing4si1-software-engineer",
+      "sourceWord": "軟件工程師",
+      "sourceWordJyutping": "jyun5 gin2 gung1 cing4 si1",
+      "sourceWordMeaning": "software engineer",
+      "tags": [
+        "jobs and professions",
+        "tech jobs",
+        "IT",
+        "computer science",
+        "career",
+        "workplace vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun5gin2gung1cing4si1-software-engineer.json"
+    },
+    {
+      "sentenceId": "jyun5gin2gung1cing4si1-software-engineer-example-3",
+      "sentence": "呢個職位要求有兩年軟件工程師經驗。",
+      "jyutping": "ni1 go3 zik1 wai6 jiu1 kau4 jau5 loeng5 nin4 jyun5 gin2 gung1 cing4 si1 ging1 jim6.",
+      "meaning": "This position requires two years of software engineering experience.",
+      "sourceWordId": "jyun5gin2gung1cing4si1-software-engineer",
+      "sourceWord": "軟件工程師",
+      "sourceWordJyutping": "jyun5 gin2 gung1 cing4 si1",
+      "sourceWordMeaning": "software engineer",
+      "tags": [
+        "jobs and professions",
+        "tech jobs",
+        "IT",
+        "computer science",
+        "career",
+        "workplace vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun5gin2gung1cing4si1-software-engineer.json"
+    },
+    {
+      "sentenceId": "jyun5gin2gung1cing4si1-software-engineer-example-4",
+      "sentence": "阿明讀完電腦科學之後，做咗軟件工程師。",
+      "jyutping": "aa3 ming4 duk6 jyun4 din6 nou5 fo1 hok6 zi1 hau6, zou6 zo2 jyun5 gin2 gung1 cing4 si1.",
+      "meaning": "After studying computer science, Ming became a software engineer.",
+      "sourceWordId": "jyun5gin2gung1cing4si1-software-engineer",
+      "sourceWord": "軟件工程師",
+      "sourceWordJyutping": "jyun5 gin2 gung1 cing4 si1",
+      "sourceWordMeaning": "software engineer",
+      "tags": [
+        "jobs and professions",
+        "tech jobs",
+        "IT",
+        "computer science",
+        "career",
+        "workplace vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jyun5gin2gung1cing4si1-software-engineer.json"
+    },
+    {
+      "sentenceId": "cit3gai3si1-designer-example-1",
+      "sentence": "我阿哥係平面設計師。",
+      "jyutping": "ngo5 aa3 go1 hai6 ping4 min6 sing3 gai3 si1.",
+      "meaning": "My older brother is a graphic designer.",
+      "sourceWordId": "cit3gai3si1-designer",
+      "sourceWord": "設計師",
+      "sourceWordJyutping": "cit3 gai3 si1",
+      "sourceWordMeaning": "designer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "workplace",
+        "noun",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3si1-designer.json"
+    },
+    {
+      "sentenceId": "cit3gai3si1-designer-example-2",
+      "sentence": "佢想做室內設計師。",
+      "jyutping": "keoi5 soeng2 zou6 sak3 noi6 sing3 gai3 si1.",
+      "meaning": "She wants to be an interior designer.",
+      "sourceWordId": "cit3gai3si1-designer",
+      "sourceWord": "設計師",
+      "sourceWordJyutping": "cit3 gai3 si1",
+      "sourceWordMeaning": "designer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "workplace",
+        "noun",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3si1-designer.json"
+    },
+    {
+      "sentenceId": "cit3gai3si1-designer-example-3",
+      "sentence": "呢間公司請咗一個網頁設計師。",
+      "jyutping": "ni1 gaan1 gung1 si1 ceng2 zo2 jat1 go3 mong5 jip6 sing3 gai3 si1.",
+      "meaning": "This company hired a web designer.",
+      "sourceWordId": "cit3gai3si1-designer",
+      "sourceWord": "設計師",
+      "sourceWordJyutping": "cit3 gai3 si1",
+      "sourceWordMeaning": "designer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "workplace",
+        "noun",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3si1-designer.json"
+    },
+    {
+      "sentenceId": "cit3gai3si1-designer-example-4",
+      "sentence": "你搵到個好有經驗嘅設計師未？",
+      "jyutping": "nei5 wan2 dou3 go3 hou2 jau5 ging1 jim6 ge3 sing3 gai3 si1 mei6?",
+      "meaning": "Have you found a designer with plenty of experience?",
+      "sourceWordId": "cit3gai3si1-designer",
+      "sourceWord": "設計師",
+      "sourceWordJyutping": "cit3 gai3 si1",
+      "sourceWordMeaning": "designer",
+      "tags": [
+        "jobs",
+        "professions",
+        "technology",
+        "workplace",
+        "noun",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/cit3gai3si1-designer.json"
+    },
+    {
+      "sentenceId": "mong5jip6cit3gai3si1-web-designer-example-1",
+      "sentence": "佢喺一間廣告公司做網頁設計師。",
+      "jyutping": "keoi5 hai2 jat1 gaan1 gwong2 gou3 gung1 si1 zou6 mong5 jip6 cit3 gai3 si1.",
+      "meaning": "He works as a web designer at an advertising company.",
+      "sourceWordId": "mong5jip6cit3gai3si1-web-designer",
+      "sourceWord": "網頁設計師",
+      "sourceWordJyutping": "mong5 jip6 cit3 gai3 si1",
+      "sourceWordMeaning": "web designer",
+      "tags": [
+        "job title",
+        "tech jobs",
+        "web design",
+        "professional",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5jip6cit3gai3si1-web-designer.json"
+    },
+    {
+      "sentenceId": "mong5jip6cit3gai3si1-web-designer-example-2",
+      "sentence": "我想做網頁設計師，因為我鍾意畫圖同埋砌版面。",
+      "jyutping": "ngo5 soeng2 zou6 mong5 jip6 cit3 gai3 si1, jan1 wai6 ngo5 zung1 ji3 waa2 tou4 tung4 maai4 cai3 baan2 min6.",
+      "meaning": "I want to be a web designer because I like drawing and arranging layouts.",
+      "sourceWordId": "mong5jip6cit3gai3si1-web-designer",
+      "sourceWord": "網頁設計師",
+      "sourceWordJyutping": "mong5 jip6 cit3 gai3 si1",
+      "sourceWordMeaning": "web designer",
+      "tags": [
+        "job title",
+        "tech jobs",
+        "web design",
+        "professional",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5jip6cit3gai3si1-web-designer.json"
+    },
+    {
+      "sentenceId": "mong5jip6cit3gai3si1-web-designer-example-3",
+      "sentence": "公司而家請緊一位有經驗嘅網頁設計師。",
+      "jyutping": "gung1 si1 ji4 gaa1 cing2 gan2 jat1 wai2 jau5 ging1 jim6 ge3 mong5 jip6 cit3 gai3 si1.",
+      "meaning": "The company is currently hiring an experienced web designer.",
+      "sourceWordId": "mong5jip6cit3gai3si1-web-designer",
+      "sourceWord": "網頁設計師",
+      "sourceWordJyutping": "mong5 jip6 cit3 gai3 si1",
+      "sourceWordMeaning": "web designer",
+      "tags": [
+        "job title",
+        "tech jobs",
+        "web design",
+        "professional",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5jip6cit3gai3si1-web-designer.json"
+    },
+    {
+      "sentenceId": "mong5jip6cit3gai3si1-web-designer-example-4",
+      "sentence": "呢個網站嘅介面係網頁設計師負責嘅。",
+      "jyutping": "ni1 go3 mong5 zaak6 taam1 ge3 gaai3 min6 hai6 mong5 jip6 cit3 gai3 si1 fu6 zaak3 ge3.",
+      "meaning": "The web designer is responsible for this website's interface.",
+      "sourceWordId": "mong5jip6cit3gai3si1-web-designer",
+      "sourceWord": "網頁設計師",
+      "sourceWordJyutping": "mong5 jip6 cit3 gai3 si1",
+      "sourceWordMeaning": "web designer",
+      "tags": [
+        "job title",
+        "tech jobs",
+        "web design",
+        "professional",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5jip6cit3gai3si1-web-designer.json"
+    },
+    {
+      "sentenceId": "sip3jing2si1-photographer-example-1",
+      "sentence": "佢係一位攝影師。",
+      "jyutping": "keoi5 hai6 jat1 wai6 sip3 jing2 si1.",
+      "meaning": "He/She is a photographer.",
+      "sourceWordId": "sip3jing2si1-photographer",
+      "sourceWord": "攝影師",
+      "sourceWordJyutping": "sip3 jing2 si1",
+      "sourceWordMeaning": "photographer",
+      "tags": [
+        "jobs and professions",
+        "nouns",
+        "people",
+        "media and creative work",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2si1-photographer.json"
+    },
+    {
+      "sentenceId": "sip3jing2si1-photographer-example-2",
+      "sentence": "我哋請咗個攝影師嚟影結婚相。",
+      "jyutping": "ngo5 dei6 ceng2 zo2 go3 sip3 jing2 si1 lai4 jing2 git3 maan1 soeng2.",
+      "meaning": "We hired a photographer to take wedding photos.",
+      "sourceWordId": "sip3jing2si1-photographer",
+      "sourceWord": "攝影師",
+      "sourceWordJyutping": "sip3 jing2 si1",
+      "sourceWordMeaning": "photographer",
+      "tags": [
+        "jobs and professions",
+        "nouns",
+        "people",
+        "media and creative work",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2si1-photographer.json"
+    },
+    {
+      "sentenceId": "sip3jing2si1-photographer-example-3",
+      "sentence": "呢位攝影師好識得捉角度。",
+      "jyutping": "ni1 wai6 sip3 jing2 si1 hou2 sik1 dak1 zuk1 gok3 dou6.",
+      "meaning": "This photographer is very good at capturing angles.",
+      "sourceWordId": "sip3jing2si1-photographer",
+      "sourceWord": "攝影師",
+      "sourceWordJyutping": "sip3 jing2 si1",
+      "sourceWordMeaning": "photographer",
+      "tags": [
+        "jobs and professions",
+        "nouns",
+        "people",
+        "media and creative work",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2si1-photographer.json"
+    },
+    {
+      "sentenceId": "sip3jing2si1-photographer-example-4",
+      "sentence": "佢今日要去幫客人影相，做攝影師真係幾忙。",
+      "jyutping": "keoi5 gam1 jat6 jiu3 heoi3 bong1 haak3 jan4 jing2 soeng2, zou6 sip3 jing2 si1 zan1 hai6 gei2 mong4.",
+      "meaning": "He/She has to go take photos for a client today; being a photographer is really quite busy.",
+      "sourceWordId": "sip3jing2si1-photographer",
+      "sourceWord": "攝影師",
+      "sourceWordJyutping": "sip3 jing2 si1",
+      "sourceWordMeaning": "photographer",
+      "tags": [
+        "jobs and professions",
+        "nouns",
+        "people",
+        "media and creative work",
+        "common vocabulary",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sip3jing2si1-photographer.json"
+    },
+    {
+      "sentenceId": "jin2jyun4-actor-example-1",
+      "sentence": "佢係一位出名嘅演員。",
+      "jyutping": "keoi5 hai6 jat1 wai6 ceot1 ming4 ge3 jin2 jyun4.",
+      "meaning": "He is a famous actor.",
+      "sourceWordId": "jin2jyun4-actor",
+      "sourceWord": "演員",
+      "sourceWordJyutping": "jin2 jyun4",
+      "sourceWordMeaning": "actor",
+      "tags": [
+        "jobs",
+        "professions",
+        "entertainment",
+        "film",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2jyun4-actor.json"
+    },
+    {
+      "sentenceId": "jin2jyun4-actor-example-2",
+      "sentence": "我細個成日想做演員。",
+      "jyutping": "ngo5 sai3 go3 sing4 jat6 soeng2 zou6 jin2 jyun4.",
+      "meaning": "When I was young, I always wanted to be an actor.",
+      "sourceWordId": "jin2jyun4-actor",
+      "sourceWord": "演員",
+      "sourceWordJyutping": "jin2 jyun4",
+      "sourceWordMeaning": "actor",
+      "tags": [
+        "jobs",
+        "professions",
+        "entertainment",
+        "film",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2jyun4-actor.json"
+    },
+    {
+      "sentenceId": "jin2jyun4-actor-example-3",
+      "sentence": "呢套戲啲演員演得好自然。",
+      "jyutping": "ni1 tou3 hei3 dei1 jin2 jyun4 jin2 dak1 hou2 zi6 jin4.",
+      "meaning": "The actors in this movie performed very naturally.",
+      "sourceWordId": "jin2jyun4-actor",
+      "sourceWord": "演員",
+      "sourceWordJyutping": "jin2 jyun4",
+      "sourceWordMeaning": "actor",
+      "tags": [
+        "jobs",
+        "professions",
+        "entertainment",
+        "film",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2jyun4-actor.json"
+    },
+    {
+      "sentenceId": "jin2jyun4-actor-example-4",
+      "sentence": "佢唔係演員，佢係幕後工作人員。",
+      "jyutping": "keoi5 m4 hai6 jin2 jyun4, keoi5 hai6 mok6 hau6 gung1 zok3 jan4 jyu4.",
+      "meaning": "He’s not an actor; he works behind the scenes.",
+      "sourceWordId": "jin2jyun4-actor",
+      "sourceWord": "演員",
+      "sourceWordJyutping": "jin2 jyun4",
+      "sourceWordMeaning": "actor",
+      "tags": [
+        "jobs",
+        "professions",
+        "entertainment",
+        "film",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jin2jyun4-actor.json"
+    },
+    {
+      "sentenceId": "teoi1gwong2jyun4-marketer-example-1",
+      "sentence": "佢做推廣員，成日要去商場派傳單。",
+      "jyutping": "keoi5 zou6 teoi1 gwong2 jyun4, seng4 jat6 jiu3 heoi3 soeng1 coeng4 paai3 cyun4 daan1.",
+      "meaning": "He works as a promoter and often has to hand out leaflets at shopping malls.",
+      "sourceWordId": "teoi1gwong2jyun4-marketer",
+      "sourceWord": "推廣員",
+      "sourceWordJyutping": "teoi1 gwong2 jyun4",
+      "sourceWordMeaning": "marketer",
+      "tags": [
+        "jobs-professions",
+        "corporate-professions",
+        "noun",
+        "marketing",
+        "sales",
+        "promotions",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teoi1gwong2jyun4-marketer.json"
+    },
+    {
+      "sentenceId": "teoi1gwong2jyun4-marketer-example-2",
+      "sentence": "呢間公司請咗幾個推廣員幫手做活動。",
+      "jyutping": "ni1 gaan1 gung1 si1 cing2 zo2 gei2 go3 teoi1 gwong2 jyun4 bong1 sau2 zou6 wut6 dung6.",
+      "meaning": "This company hired several promoters to help with the event.",
+      "sourceWordId": "teoi1gwong2jyun4-marketer",
+      "sourceWord": "推廣員",
+      "sourceWordJyutping": "teoi1 gwong2 jyun4",
+      "sourceWordMeaning": "marketer",
+      "tags": [
+        "jobs-professions",
+        "corporate-professions",
+        "noun",
+        "marketing",
+        "sales",
+        "promotions",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teoi1gwong2jyun4-marketer.json"
+    },
+    {
+      "sentenceId": "teoi1gwong2jyun4-marketer-example-3",
+      "sentence": "我妹妹以前做過推廣員，對客都幾有經驗。",
+      "jyutping": "ngo5 mui6 mui6 ji5 cin4 zou6 gwo3 teoi1 gwong2 jyun4, deoi3 haak3 dou1 gei2 jau5 ging1 jim6.",
+      "meaning": "My younger sister used to work as a promoter and has quite a bit of customer experience.",
+      "sourceWordId": "teoi1gwong2jyun4-marketer",
+      "sourceWord": "推廣員",
+      "sourceWordJyutping": "teoi1 gwong2 jyun4",
+      "sourceWordMeaning": "marketer",
+      "tags": [
+        "jobs-professions",
+        "corporate-professions",
+        "noun",
+        "marketing",
+        "sales",
+        "promotions",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teoi1gwong2jyun4-marketer.json"
+    },
+    {
+      "sentenceId": "teoi1gwong2jyun4-marketer-example-4",
+      "sentence": "超市入面嗰位推廣員好有禮貌，會主動介紹產品。",
+      "jyutping": "ciu1 si5 jap6 min6 go2 wai2 teoi1 gwong2 jyun4 hou2 jau5 lai5 mau6, wui5 zyu2 dung6 gaai3 siu6 caan2 baan2.",
+      "meaning": "The promoter in the supermarket is very polite and proactively introduces products.",
+      "sourceWordId": "teoi1gwong2jyun4-marketer",
+      "sourceWord": "推廣員",
+      "sourceWordJyutping": "teoi1 gwong2 jyun4",
+      "sourceWordMeaning": "marketer",
+      "tags": [
+        "jobs-professions",
+        "corporate-professions",
+        "noun",
+        "marketing",
+        "sales",
+        "promotions",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/teoi1gwong2jyun4-marketer.json"
+    },
+    {
+      "sentenceId": "jan4si6-human-resources-example-1",
+      "sentence": "我今日要去人事部攞入職文件。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 jan4 si6 bou6 lo2 jap6 zik6 man4 gin6.",
+      "meaning": "I need to go to HR today to pick up my onboarding documents.",
+      "sourceWordId": "jan4si6-human-resources",
+      "sourceWord": "人事",
+      "sourceWordJyutping": "jan4 si6",
+      "sourceWordMeaning": "human resources",
+      "tags": [
+        "jobs and professions",
+        "office language",
+        "business Cantonese",
+        "HR",
+        "corporate vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4si6-human-resources.json"
+    },
+    {
+      "sentenceId": "jan4si6-human-resources-example-2",
+      "sentence": "你可以直接同人事聯絡。",
+      "jyutping": "nei5 ho2 ji5 zik6 zip3 tung4 jan4 si6 lyun4 lok3.",
+      "meaning": "You can contact HR directly.",
+      "sourceWordId": "jan4si6-human-resources",
+      "sourceWord": "人事",
+      "sourceWordJyutping": "jan4 si6",
+      "sourceWordMeaning": "human resources",
+      "tags": [
+        "jobs and professions",
+        "office language",
+        "business Cantonese",
+        "HR",
+        "corporate vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4si6-human-resources.json"
+    },
+    {
+      "sentenceId": "jan4si6-human-resources-example-3",
+      "sentence": "公司今年嘅人事變動好大。",
+      "jyutping": "gung1 si1 gam1 nin4 ge3 jan4 si6 bin3 dung6 hou2 daai6.",
+      "meaning": "The company’s personnel changes are big this year.",
+      "sourceWordId": "jan4si6-human-resources",
+      "sourceWord": "人事",
+      "sourceWordJyutping": "jan4 si6",
+      "sourceWordMeaning": "human resources",
+      "tags": [
+        "jobs and professions",
+        "office language",
+        "business Cantonese",
+        "HR",
+        "corporate vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4si6-human-resources.json"
+    },
+    {
+      "sentenceId": "jan4si6-human-resources-example-4",
+      "sentence": "呢份表格要交返畀人事跟進。",
+      "jyutping": "ni1 fan6 biu2 gok3 jiu3 gaau1 faan1 bei2 jan4 si6 gan1 zeon3.",
+      "meaning": "This form needs to be passed back to HR for follow-up.",
+      "sourceWordId": "jan4si6-human-resources",
+      "sourceWord": "人事",
+      "sourceWordJyutping": "jan4 si6",
+      "sourceWordMeaning": "human resources",
+      "tags": [
+        "jobs and professions",
+        "office language",
+        "business Cantonese",
+        "HR",
+        "corporate vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4si6-human-resources.json"
+    },
+    {
+      "sentenceId": "ngan4hong4zik1jyun4-banker-example-1",
+      "sentence": "我表哥而家做銀行職員。",
+      "jyutping": "ngo5 biu2 go1 ji4 gaa1 zou6 ngan4 hong4 zik1 jyun4.",
+      "meaning": "My cousin is now working as a bank employee.",
+      "sourceWordId": "ngan4hong4zik1jyun4-banker",
+      "sourceWord": "銀行職員",
+      "sourceWordJyutping": "ngan4 hong4 zik1 jyun4",
+      "sourceWordMeaning": "banker",
+      "tags": [
+        "jobs and professions",
+        "corporate work",
+        "noun",
+        "everyday Cantonese",
+        "employment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngan4hong4zik1jyun4-banker.json"
+    },
+    {
+      "sentenceId": "ngan4hong4zik1jyun4-banker-example-2",
+      "sentence": "佢想申請做銀行職員。",
+      "jyutping": "keoi5 soeng2 san1 cing2 zou6 ngan4 hong4 zik1 jyun4.",
+      "meaning": "He wants to apply to be a bank employee.",
+      "sourceWordId": "ngan4hong4zik1jyun4-banker",
+      "sourceWord": "銀行職員",
+      "sourceWordJyutping": "ngan4 hong4 zik1 jyun4",
+      "sourceWordMeaning": "banker",
+      "tags": [
+        "jobs and professions",
+        "corporate work",
+        "noun",
+        "everyday Cantonese",
+        "employment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngan4hong4zik1jyun4-banker.json"
+    },
+    {
+      "sentenceId": "ngan4hong4zik1jyun4-banker-example-3",
+      "sentence": "呢間銀行職員服務幾好。",
+      "jyutping": "ni1 gaan1 ngan4 hong4 zik1 jyun4 fuk6 mou6 gei2 hou2.",
+      "meaning": "The staff at this bank provide pretty good service.",
+      "sourceWordId": "ngan4hong4zik1jyun4-banker",
+      "sourceWord": "銀行職員",
+      "sourceWordJyutping": "ngan4 hong4 zik1 jyun4",
+      "sourceWordMeaning": "banker",
+      "tags": [
+        "jobs and professions",
+        "corporate work",
+        "noun",
+        "everyday Cantonese",
+        "employment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngan4hong4zik1jyun4-banker.json"
+    },
+    {
+      "sentenceId": "ngan4hong4zik1jyun4-banker-example-4",
+      "sentence": "銀行職員成日都要好有禮貌。",
+      "jyutping": "ngan4 hong4 zik1 jyun4 sing4 jat6 dou1 jiu3 hou2 jau5 lai5 mau6.",
+      "meaning": "Bank employees always need to be very polite.",
+      "sourceWordId": "ngan4hong4zik1jyun4-banker",
+      "sourceWord": "銀行職員",
+      "sourceWordJyutping": "ngan4 hong4 zik1 jyun4",
+      "sourceWordMeaning": "banker",
+      "tags": [
+        "jobs and professions",
+        "corporate work",
+        "noun",
+        "everyday Cantonese",
+        "employment",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngan4hong4zik1jyun4-banker.json"
+    },
+    {
+      "sentenceId": "hat6sou3si1-auditor-example-1",
+      "sentence": "公司每年都要請核數師審查帳目。",
+      "jyutping": "gung1 si1 mui5 nin4 dou1 jiu3 ceng2 hat6 sou3 si1 sam2 caa4 coeng4 muk6.",
+      "meaning": "The company has to hire an auditor to review the accounts every year.",
+      "sourceWordId": "hat6sou3si1-auditor",
+      "sourceWord": "核數師",
+      "sourceWordJyutping": "hat6 sou3 si1",
+      "sourceWordMeaning": "auditor",
+      "tags": [
+        "jobs",
+        "professions",
+        "corporate",
+        "finance",
+        "formal",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hat6sou3si1-auditor.json"
+    },
+    {
+      "sentenceId": "hat6sou3si1-auditor-example-2",
+      "sentence": "核數師發現咗報表入面有幾個錯處。",
+      "jyutping": "hat6 sou3 si1 faat3 jin6 zo2 bou3 biu2 jap6 min6 jau5 gei2 go3 co3 cyu3.",
+      "meaning": "The auditor found a few errors in the report.",
+      "sourceWordId": "hat6sou3si1-auditor",
+      "sourceWord": "核數師",
+      "sourceWordJyutping": "hat6 sou3 si1",
+      "sourceWordMeaning": "auditor",
+      "tags": [
+        "jobs",
+        "professions",
+        "corporate",
+        "finance",
+        "formal",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hat6sou3si1-auditor.json"
+    },
+    {
+      "sentenceId": "hat6sou3si1-auditor-example-3",
+      "sentence": "我哋需要核數師簽名先可以交文件。",
+      "jyutping": "ngo5 dei6 seoi1 jiu3 hat6 sou3 si1 cim1 meng2 sin1 ho2 ji5 gaau1 man4 gin2.",
+      "meaning": "We need the auditor’s signature before we can submit the documents.",
+      "sourceWordId": "hat6sou3si1-auditor",
+      "sourceWord": "核數師",
+      "sourceWordJyutping": "hat6 sou3 si1",
+      "sourceWordMeaning": "auditor",
+      "tags": [
+        "jobs",
+        "professions",
+        "corporate",
+        "finance",
+        "formal",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hat6sou3si1-auditor.json"
+    },
+    {
+      "sentenceId": "hat6sou3si1-auditor-example-4",
+      "sentence": "佢做咗十年核數師，對財務好熟悉。",
+      "jyutping": "keoi5 zou6 zo2 sap6 nin4 hat6 sou3 si1, deoi3 coi4 mou6 hou2 suk6 sik1.",
+      "meaning": "He has worked as an auditor for ten years and knows finance very well.",
+      "sourceWordId": "hat6sou3si1-auditor",
+      "sourceWord": "核數師",
+      "sourceWordJyutping": "hat6 sou3 si1",
+      "sourceWordMeaning": "auditor",
+      "tags": [
+        "jobs",
+        "professions",
+        "corporate",
+        "finance",
+        "formal",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hat6sou3si1-auditor.json"
+    },
+    {
+      "sentenceId": "zip3doi6jyun4-receptionist-example-1",
+      "sentence": "我喺酒店做接待員。",
+      "jyutping": "ngo5 hai2 zau2 dim3 zou6 zip3 doi6 jyun4.",
+      "meaning": "I work as a receptionist in a hotel.",
+      "sourceWordId": "zip3doi6jyun4-receptionist",
+      "sourceWord": "接待員",
+      "sourceWordJyutping": "zip3 doi6 jyun4",
+      "sourceWordMeaning": "receptionist",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "hotel",
+        "front desk",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zip3doi6jyun4-receptionist.json"
+    },
+    {
+      "sentenceId": "zip3doi6jyun4-receptionist-example-2",
+      "sentence": "接待員好有禮貌咁招呼客人。",
+      "jyutping": "zip3 doi6 jyun4 hou2 jau5 lai5 mau6 gam2 ziu1 fu1 haak3 jan4.",
+      "meaning": "The receptionist greets guests politely.",
+      "sourceWordId": "zip3doi6jyun4-receptionist",
+      "sourceWord": "接待員",
+      "sourceWordJyutping": "zip3 doi6 jyun4",
+      "sourceWordMeaning": "receptionist",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "hotel",
+        "front desk",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zip3doi6jyun4-receptionist.json"
+    },
+    {
+      "sentenceId": "zip3doi6jyun4-receptionist-example-3",
+      "sentence": "請問接待員喺邊度？",
+      "jyutping": "cing2 man6 zip3 doi6 jyun4 hai2 bin1 dou6?",
+      "meaning": "Excuse me, where is the receptionist?",
+      "sourceWordId": "zip3doi6jyun4-receptionist",
+      "sourceWord": "接待員",
+      "sourceWordJyutping": "zip3 doi6 jyun4",
+      "sourceWordMeaning": "receptionist",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "hotel",
+        "front desk",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zip3doi6jyun4-receptionist.json"
+    },
+    {
+      "sentenceId": "zip3doi6jyun4-receptionist-example-4",
+      "sentence": "呢間診所請咗一個接待員。",
+      "jyutping": "ni1 gaan1 can2 so2 cing2 zo2 jat1 go3 zip3 doi6 jyun4.",
+      "meaning": "This clinic hired a receptionist.",
+      "sourceWordId": "zip3doi6jyun4-receptionist",
+      "sourceWord": "接待員",
+      "sourceWordJyutping": "zip3 doi6 jyun4",
+      "sourceWordMeaning": "receptionist",
+      "tags": [
+        "jobs",
+        "professions",
+        "office",
+        "hotel",
+        "front desk",
+        "workplace",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zip3doi6jyun4-receptionist.json"
+    },
+    {
+      "sentenceId": "ngaa4ji1-dentist-example-1",
+      "sentence": "我今日要去睇牙醫。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 tai2 ngaa4 ji1.",
+      "meaning": "I need to see the dentist today.",
+      "sourceWordId": "ngaa4ji1-dentist",
+      "sourceWord": "牙醫",
+      "sourceWordJyutping": "ngaa4 ji1",
+      "sourceWordMeaning": "dentist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "doctor",
+        "dental",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4ji1-dentist.json"
+    },
+    {
+      "sentenceId": "ngaa4ji1-dentist-example-2",
+      "sentence": "細路仔最怕睇牙醫。",
+      "jyutping": "sai3 lou6 zai2 zeoi3 paa3 tai2 ngaa4 ji1.",
+      "meaning": "Children are most afraid of going to the dentist.",
+      "sourceWordId": "ngaa4ji1-dentist",
+      "sourceWord": "牙醫",
+      "sourceWordJyutping": "ngaa4 ji1",
+      "sourceWordMeaning": "dentist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "doctor",
+        "dental",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4ji1-dentist.json"
+    },
+    {
+      "sentenceId": "ngaa4ji1-dentist-example-3",
+      "sentence": "你知唔知邊個牙醫好？",
+      "jyutping": "nei5 zi1 m4 zi1 bin1 go3 ngaa4 ji1 hou2?",
+      "meaning": "Do you know which dentist is good?",
+      "sourceWordId": "ngaa4ji1-dentist",
+      "sourceWord": "牙醫",
+      "sourceWordJyutping": "ngaa4 ji1",
+      "sourceWordMeaning": "dentist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "doctor",
+        "dental",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4ji1-dentist.json"
+    },
+    {
+      "sentenceId": "ngaa4ji1-dentist-example-4",
+      "sentence": "佢做牙醫做咗好多年。",
+      "jyutping": "keoi5 zou6 ngaa4 ji1 zou6 zo2 hou2 do1 nin4.",
+      "meaning": "He has been working as a dentist for many years.",
+      "sourceWordId": "ngaa4ji1-dentist",
+      "sourceWord": "牙醫",
+      "sourceWordJyutping": "ngaa4 ji1",
+      "sourceWordMeaning": "dentist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "doctor",
+        "dental",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ngaa4ji1-dentist.json"
+    },
+    {
+      "sentenceId": "mat6lei5zi6liu4si1-physiotherapist-example-1",
+      "sentence": "我約咗物理治療師做康復訓練。",
+      "jyutping": "ngo5 joek3 zo2 mat6 lei5 zi6 liu4 si1 zou6 hong1 fuk6 leon6 lin6. ",
+      "meaning": "I booked a physiotherapist for rehabilitation training.",
+      "sourceWordId": "mat6lei5zi6liu4si1-physiotherapist",
+      "sourceWord": "物理治療師",
+      "sourceWordJyutping": "mat6 lei5 zi6 liu4 si1",
+      "sourceWordMeaning": "physiotherapist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "rehabilitation",
+        "medical",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mat6lei5zi6liu4si1-physiotherapist.json"
+    },
+    {
+      "sentenceId": "mat6lei5zi6liu4si1-physiotherapist-example-2",
+      "sentence": "做完手術之後，我要去見物理治療師。",
+      "jyutping": "zou6 jyun4 sau2 seot6 zi1 hau6, ngo5 jiu3 heoi3 gin3 mat6 lei5 zi6 liu4 si1. ",
+      "meaning": "After the surgery, I need to see a physiotherapist.",
+      "sourceWordId": "mat6lei5zi6liu4si1-physiotherapist",
+      "sourceWord": "物理治療師",
+      "sourceWordJyutping": "mat6 lei5 zi6 liu4 si1",
+      "sourceWordMeaning": "physiotherapist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "rehabilitation",
+        "medical",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mat6lei5zi6liu4si1-physiotherapist.json"
+    },
+    {
+      "sentenceId": "mat6lei5zi6liu4si1-physiotherapist-example-3",
+      "sentence": "呢位物理治療師好有耐性。",
+      "jyutping": "ni1 wai2 mat6 lei5 zi6 liu4 si1 hou2 jau5 noi6 sing3. ",
+      "meaning": "This physiotherapist is very patient.",
+      "sourceWordId": "mat6lei5zi6liu4si1-physiotherapist",
+      "sourceWord": "物理治療師",
+      "sourceWordJyutping": "mat6 lei5 zi6 liu4 si1",
+      "sourceWordMeaning": "physiotherapist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "rehabilitation",
+        "medical",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mat6lei5zi6liu4si1-physiotherapist.json"
+    },
+    {
+      "sentenceId": "mat6lei5zi6liu4si1-physiotherapist-example-4",
+      "sentence": "我阿媽而家喺醫院跟物理治療師做運動。",
+      "jyutping": "ngo5 aa3 maa1 ji4 gaa1 hai2 ji1 jyun2 gan1 mat6 lei5 zi6 liu4 si1 zou6 wan6 dung6. ",
+      "meaning": "My mother is now doing exercises with a physiotherapist at the hospital.",
+      "sourceWordId": "mat6lei5zi6liu4si1-physiotherapist",
+      "sourceWord": "物理治療師",
+      "sourceWordJyutping": "mat6 lei5 zi6 liu4 si1",
+      "sourceWordMeaning": "physiotherapist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "rehabilitation",
+        "medical",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mat6lei5zi6liu4si1-physiotherapist.json"
+    },
+    {
+      "sentenceId": "joek6zai1si1-pharmacist-example-1",
+      "sentence": "我阿姨係藥劑師。",
+      "jyutping": "ngo5 aa3 ji2 hai6 joek6 zai1 si1.",
+      "meaning": "My aunt is a pharmacist.",
+      "sourceWordId": "joek6zai1si1-pharmacist",
+      "sourceWord": "藥劑師",
+      "sourceWordJyutping": "joek6 zai1 si1",
+      "sourceWordMeaning": "pharmacist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "pharmacy",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6zai1si1-pharmacist.json"
+    },
+    {
+      "sentenceId": "joek6zai1si1-pharmacist-example-2",
+      "sentence": "如果你有疑問，可以問藥劑師。",
+      "jyutping": "jyu4 gwo2 nei5 jau5 ji4 man6, ho2 ji5 man6 joek6 zai1 si1.",
+      "meaning": "If you have questions, you can ask the pharmacist.",
+      "sourceWordId": "joek6zai1si1-pharmacist",
+      "sourceWord": "藥劑師",
+      "sourceWordJyutping": "joek6 zai1 si1",
+      "sourceWordMeaning": "pharmacist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "pharmacy",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6zai1si1-pharmacist.json"
+    },
+    {
+      "sentenceId": "joek6zai1si1-pharmacist-example-3",
+      "sentence": "藥劑師幫我睇吓呢隻藥點樣食。",
+      "jyutping": "joek6 zai1 si1 bong1 ngo5 tai2 haa5 ni1 zek3 joek6 dim2 joeng6 sik6.",
+      "meaning": "The pharmacist helped me check how to take this medicine.",
+      "sourceWordId": "joek6zai1si1-pharmacist",
+      "sourceWord": "藥劑師",
+      "sourceWordJyutping": "joek6 zai1 si1",
+      "sourceWordMeaning": "pharmacist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "pharmacy",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6zai1si1-pharmacist.json"
+    },
+    {
+      "sentenceId": "joek6zai1si1-pharmacist-example-4",
+      "sentence": "呢間藥房有藥劑師當值。",
+      "jyutping": "ni1 gaan1 joek6 fong4 jau5 joek6 zai1 si1 dong1 zik6.",
+      "meaning": "There is a pharmacist on duty at this pharmacy.",
+      "sourceWordId": "joek6zai1si1-pharmacist",
+      "sourceWord": "藥劑師",
+      "sourceWordJyutping": "joek6 zai1 si1",
+      "sourceWordMeaning": "pharmacist",
+      "tags": [
+        "healthcare",
+        "jobs",
+        "professions",
+        "hospital",
+        "pharmacy",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/joek6zai1si1-pharmacist.json"
+    },
+    {
+      "sentenceId": "ziu3gu3jyun4-caregiver-example-1",
+      "sentence": "照顧員今日要幫院友洗澡同換片。",
+      "jyutping": "ziu3 gu3 jyun4 gam1 jat6 jiu3 bong1 jyun2 jau5 sai2 zou2 tung4 wun6 pin3.",
+      "meaning": "The caregiver needs to help the residents bathe and change diapers today.",
+      "sourceWordId": "ziu3gu3jyun4-caregiver",
+      "sourceWord": "照顧員",
+      "sourceWordJyutping": "ziu3 gu3 jyun4",
+      "sourceWordMeaning": "caregiver",
+      "tags": [
+        "healthcare",
+        "care work",
+        "elderly care",
+        "support staff",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ziu3gu3jyun4-caregiver.json"
+    },
+    {
+      "sentenceId": "ziu3gu3jyun4-caregiver-example-2",
+      "sentence": "呢間安老院有幾位照顧員輪流當值。",
+      "jyutping": "ni1 gaan1 on1 lou5 jyun2 jau5 gei2 wai2 ziu3 gu3 jyun4 leon4 lau4 dong1 zik6.",
+      "meaning": "This elderly home has several caregivers on rotating duty.",
+      "sourceWordId": "ziu3gu3jyun4-caregiver",
+      "sourceWord": "照顧員",
+      "sourceWordJyutping": "ziu3 gu3 jyun4",
+      "sourceWordMeaning": "caregiver",
+      "tags": [
+        "healthcare",
+        "care work",
+        "elderly care",
+        "support staff",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ziu3gu3jyun4-caregiver.json"
+    },
+    {
+      "sentenceId": "ziu3gu3jyun4-caregiver-example-3",
+      "sentence": "如果你屋企有長者，可以考慮請一個照顧員。",
+      "jyutping": "jyu4 gwo2 nei5 uk1 kei2 jau5 coeng4 ze2, ho2 ji5 haau2 leoi6 ceng2 jat1 go3 ziu3 gu3 jyun4.",
+      "meaning": "If your family has an elderly person, you can consider hiring a caregiver.",
+      "sourceWordId": "ziu3gu3jyun4-caregiver",
+      "sourceWord": "照顧員",
+      "sourceWordJyutping": "ziu3 gu3 jyun4",
+      "sourceWordMeaning": "caregiver",
+      "tags": [
+        "healthcare",
+        "care work",
+        "elderly care",
+        "support staff",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ziu3gu3jyun4-caregiver.json"
+    },
+    {
+      "sentenceId": "ziu3gu3jyun4-caregiver-example-4",
+      "sentence": "照顧員唔只要有耐性，仲要好細心。",
+      "jyutping": "ziu3 gu3 jyun4 m4 zi2 jiu3 jau5 noi6 sing3, zung6 jiu3 hou2 sai3 sam1.",
+      "meaning": "A caregiver needs not only patience but also careful attention.",
+      "sourceWordId": "ziu3gu3jyun4-caregiver",
+      "sourceWord": "照顧員",
+      "sourceWordJyutping": "ziu3 gu3 jyun4",
+      "sourceWordMeaning": "caregiver",
+      "tags": [
+        "healthcare",
+        "care work",
+        "elderly care",
+        "support staff",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ziu3gu3jyun4-caregiver.json"
+    },
+    {
+      "sentenceId": "baa1si2si1gei1-bus-driver-example-1",
+      "sentence": "我阿哥係巴士司機。",
+      "jyutping": "ngo5 aa3 go1 hai6 baa1 si2 si1 gei1.",
+      "meaning": "My older brother is a bus driver.",
+      "sourceWordId": "baa1si2si1gei1-bus-driver",
+      "sourceWord": "巴士司機",
+      "sourceWordJyutping": "baa1 si2 si1 gei1",
+      "sourceWordMeaning": "bus driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "Hong Kong life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa1si2si1gei1-bus-driver.json"
+    },
+    {
+      "sentenceId": "baa1si2si1gei1-bus-driver-example-2",
+      "sentence": "聽日個巴士司機要早啲返工。",
+      "jyutping": "ting1 jat6 go3 baa1 si2 si1 gei1 jiu3 zou2 di1 faan1 gung1.",
+      "meaning": "Tomorrow the bus driver has to start work earlier.",
+      "sourceWordId": "baa1si2si1gei1-bus-driver",
+      "sourceWord": "巴士司機",
+      "sourceWordJyutping": "baa1 si2 si1 gei1",
+      "sourceWordMeaning": "bus driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "Hong Kong life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa1si2si1gei1-bus-driver.json"
+    },
+    {
+      "sentenceId": "baa1si2si1gei1-bus-driver-example-3",
+      "sentence": "呢位巴士司機好有禮貌。",
+      "jyutping": "ni1 wai2 baa1 si2 si1 gei1 hou2 jau5 lai5 mou6.",
+      "meaning": "This bus driver is very polite.",
+      "sourceWordId": "baa1si2si1gei1-bus-driver",
+      "sourceWord": "巴士司機",
+      "sourceWordJyutping": "baa1 si2 si1 gei1",
+      "sourceWordMeaning": "bus driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "Hong Kong life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa1si2si1gei1-bus-driver.json"
+    },
+    {
+      "sentenceId": "baa1si2si1gei1-bus-driver-example-4",
+      "sentence": "成班乘客都讚個巴士司機好細心。",
+      "jyutping": "sing4 baan1 sing4 haak3 dou1 zaan3 go3 baa1 si2 si1 gei1 hou2 sai3 sam1.",
+      "meaning": "All the passengers praised the bus driver for being very attentive.",
+      "sourceWordId": "baa1si2si1gei1-bus-driver",
+      "sourceWord": "巴士司機",
+      "sourceWordJyutping": "baa1 si2 si1 gei1",
+      "sourceWordMeaning": "bus driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "beginner vocabulary",
+        "everyday Cantonese",
+        "Hong Kong life",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/baa1si2si1gei1-bus-driver.json"
+    },
+    {
+      "sentenceId": "dik1si2si1gei1-taxi-driver-example-1",
+      "sentence": "我阿哥做的士司機。",
+      "jyutping": "ngo5 aa3 go1 zou6 dik1 si2 si1 gei1.",
+      "meaning": "My older brother is a taxi driver.",
+      "sourceWordId": "dik1si2si1gei1-taxi-driver",
+      "sourceWord": "的士司機",
+      "sourceWordJyutping": "dik1 si2 si1 gei1",
+      "sourceWordMeaning": "taxi driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "everyday vocabulary",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dik1si2si1gei1-taxi-driver.json"
+    },
+    {
+      "sentenceId": "dik1si2si1gei1-taxi-driver-example-2",
+      "sentence": "今晚太夜，我哋坐的士司機返屋企。",
+      "jyutping": "gam1 maan5 taai3 je6, ngo5 dei6 co5 dik1 si2 si1 gei1 faan1 uk1 kei2.",
+      "meaning": "It’s too late tonight, so we’ll take a taxi home.",
+      "sourceWordId": "dik1si2si1gei1-taxi-driver",
+      "sourceWord": "的士司機",
+      "sourceWordJyutping": "dik1 si2 si1 gei1",
+      "sourceWordMeaning": "taxi driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "everyday vocabulary",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dik1si2si1gei1-taxi-driver.json"
+    },
+    {
+      "sentenceId": "dik1si2si1gei1-taxi-driver-example-3",
+      "sentence": "的士司機好熟路，帶我哋去到酒店。",
+      "jyutping": "dik1 si2 si1 gei1 hou2 suk6 lou6, daai3 ngo5 dei6 heoi3 dou3 zau2 dim3.",
+      "meaning": "The taxi driver knew the roads well and took us to the hotel.",
+      "sourceWordId": "dik1si2si1gei1-taxi-driver",
+      "sourceWord": "的士司機",
+      "sourceWordJyutping": "dik1 si2 si1 gei1",
+      "sourceWordMeaning": "taxi driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "everyday vocabulary",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dik1si2si1gei1-taxi-driver.json"
+    },
+    {
+      "sentenceId": "dik1si2si1gei1-taxi-driver-example-4",
+      "sentence": "你可唔可以同的士司機講去機場？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 tung4 dik1 si2 si1 gei1 gong2 heoi3 gei1 coeng4?",
+      "meaning": "Can you tell the taxi driver to go to the airport?",
+      "sourceWordId": "dik1si2si1gei1-taxi-driver",
+      "sourceWord": "的士司機",
+      "sourceWordJyutping": "dik1 si2 si1 gei1",
+      "sourceWordMeaning": "taxi driver",
+      "tags": [
+        "jobs and professions",
+        "transport",
+        "public transport",
+        "everyday vocabulary",
+        "Hong Kong Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dik1si2si1gei1-taxi-driver.json"
+    },
+    {
+      "sentenceId": "faai3dai6jyun4-courier-example-1",
+      "sentence": "我個快遞員已經到樓下。",
+      "jyutping": "ngo5 go3 faai3 dai6 jyun4 ji5 ging1 dou3 lau4 haa6.",
+      "meaning": "My courier has already arrived downstairs.",
+      "sourceWordId": "faai3dai6jyun4-courier",
+      "sourceWord": "快遞員",
+      "sourceWordJyutping": "faai3 dai6 jyun4",
+      "sourceWordMeaning": "courier",
+      "tags": [
+        "jobs and professions",
+        "transport professions",
+        "delivery",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3dai6jyun4-courier.json"
+    },
+    {
+      "sentenceId": "faai3dai6jyun4-courier-example-2",
+      "sentence": "呢位快遞員每日都要送好多件貨。",
+      "jyutping": "ni1 wai2 faai3 dai6 jyun4 mei5 jat6 dou1 jiu3 sung3 hou2 do1 gin6 fo3.",
+      "meaning": "This courier has to deliver a lot of packages every day.",
+      "sourceWordId": "faai3dai6jyun4-courier",
+      "sourceWord": "快遞員",
+      "sourceWordJyutping": "faai3 dai6 jyun4",
+      "sourceWordMeaning": "courier",
+      "tags": [
+        "jobs and professions",
+        "transport professions",
+        "delivery",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3dai6jyun4-courier.json"
+    },
+    {
+      "sentenceId": "faai3dai6jyun4-courier-example-3",
+      "sentence": "佢做快遞員，成日都要周圍去。",
+      "jyutping": "keoi5 zou6 faai3 dai6 jyun4, sing4 jat6 dou1 jiu3 zau1 waai4 heoi3.",
+      "meaning": "He works as a courier and is always going around everywhere.",
+      "sourceWordId": "faai3dai6jyun4-courier",
+      "sourceWord": "快遞員",
+      "sourceWordJyutping": "faai3 dai6 jyun4",
+      "sourceWordMeaning": "courier",
+      "tags": [
+        "jobs and professions",
+        "transport professions",
+        "delivery",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3dai6jyun4-courier.json"
+    },
+    {
+      "sentenceId": "faai3dai6jyun4-courier-example-4",
+      "sentence": "如果你趕時間，可以叫快遞員幫你送上門。",
+      "jyutping": "jyu4 gwo2 nei5 gon2 si4 gaan3, ho2 ji5 giu3 faai3 dai6 jyun4 bong1 nei5 sung3 soeng6 mun4.",
+      "meaning": "If you're in a hurry, you can ask the courier to deliver it to your door.",
+      "sourceWordId": "faai3dai6jyun4-courier",
+      "sourceWord": "快遞員",
+      "sourceWordJyutping": "faai3 dai6 jyun4",
+      "sourceWordMeaning": "courier",
+      "tags": [
+        "jobs and professions",
+        "transport professions",
+        "delivery",
+        "everyday vocabulary",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faai3dai6jyun4-courier.json"
+    },
+    {
+      "sentenceId": "sung3fo3jyun4-delivery-worker-example-1",
+      "sentence": "我今朝見到個送貨員上樓送包裹。",
+      "jyutping": "ngo5 gam1 ziu1 gin3 dou2 go3 sung3 fo3 jyun4 soeng5 lau4 sung3 baau1 gwo2.",
+      "meaning": "I saw a delivery worker come upstairs to deliver a parcel this morning.",
+      "sourceWordId": "sung3fo3jyun4-delivery-worker",
+      "sourceWord": "送貨員",
+      "sourceWordJyutping": "sung3 fo3 jyun4",
+      "sourceWordMeaning": "delivery worker",
+      "tags": [
+        "jobs",
+        "professions",
+        "transport",
+        "delivery",
+        "courier",
+        "work",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung3fo3jyun4-delivery-worker.json"
+    },
+    {
+      "sentenceId": "sung3fo3jyun4-delivery-worker-example-2",
+      "sentence": "呢位送貨員成日都好早開工。",
+      "jyutping": "ni1 wai6 sung3 fo3 jyun4 sing4 jat6 dou1 hou2 zou2 hoi1 gung1.",
+      "meaning": "This delivery worker always starts work very early.",
+      "sourceWordId": "sung3fo3jyun4-delivery-worker",
+      "sourceWord": "送貨員",
+      "sourceWordJyutping": "sung3 fo3 jyun4",
+      "sourceWordMeaning": "delivery worker",
+      "tags": [
+        "jobs",
+        "professions",
+        "transport",
+        "delivery",
+        "courier",
+        "work",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung3fo3jyun4-delivery-worker.json"
+    },
+    {
+      "sentenceId": "sung3fo3jyun4-delivery-worker-example-3",
+      "sentence": "網購咗嘢之後，送貨員好快就送到嚟。",
+      "jyutping": "mong5 kau5 zo2 je5 zi1 hau6, sung3 fo3 jyun4 hou2 faai3 zau6 sung3 dou3 lai4.",
+      "meaning": "After ordering online, the delivery worker arrived very quickly.",
+      "sourceWordId": "sung3fo3jyun4-delivery-worker",
+      "sourceWord": "送貨員",
+      "sourceWordJyutping": "sung3 fo3 jyun4",
+      "sourceWordMeaning": "delivery worker",
+      "tags": [
+        "jobs",
+        "professions",
+        "transport",
+        "delivery",
+        "courier",
+        "work",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung3fo3jyun4-delivery-worker.json"
+    },
+    {
+      "sentenceId": "sung3fo3jyun4-delivery-worker-example-4",
+      "sentence": "阿媽話送貨員夏天做嘢好辛苦。",
+      "jyutping": "aa3 maa1 waa6 sung3 fo3 jyun4 haa6 tin1 zou6 je5 hou2 san1 fu2.",
+      "meaning": "My mom said delivery workers have a very hard time working in summer.",
+      "sourceWordId": "sung3fo3jyun4-delivery-worker",
+      "sourceWord": "送貨員",
+      "sourceWordJyutping": "sung3 fo3 jyun4",
+      "sourceWordMeaning": "delivery worker",
+      "tags": [
+        "jobs",
+        "professions",
+        "transport",
+        "delivery",
+        "courier",
+        "work",
+        "people",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sung3fo3jyun4-delivery-worker.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-1",
+      "sentence": "我聽日要早啲返工。",
+      "jyutping": "ngo5 ting1jat6 jiu3 zou2 di1 faan1 gung1.",
+      "meaning": "I have to go to work earlier tomorrow.",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-2",
+      "sentence": "你幾點返工？",
+      "jyutping": "nei5 gei2 dim2 faan1 gung1?",
+      "meaning": "What time do you go to work?",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-3",
+      "sentence": "佢每日搭巴士返工。",
+      "jyutping": "keoi5 mui5jat6 daap3 baa1si2 faan1 gung1.",
+      "meaning": "He/she takes the bus to work every day.",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-4",
+      "sentence": "病都冇請假返工，真係辛苦。",
+      "jyutping": "beng6 dou1 mou5 ceng2 gaa3 faan1 gung1, zan1 hai6 san1fu2.",
+      "meaning": "Going to work without taking sick leave is really tough.",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "hong4jip6-industry-example-1",
+      "sentence": "我而家喺飲食行業做嘢。",
+      "jyutping": "ngo5 ji4gaa1 hai2 jam2 sik6 hong4 jip6 zou6 je5.",
+      "meaning": "I’m working in the food and beverage industry now.",
+      "sourceWordId": "hong4jip6-industry",
+      "sourceWord": "行業",
+      "sourceWordJyutping": "hong4 jip6",
+      "sourceWordMeaning": "industry",
+      "tags": [
+        "jobs",
+        "professions",
+        "work",
+        "employment",
+        "business",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hong4jip6-industry.json"
+    },
+    {
+      "sentenceId": "hong4jip6-industry-example-2",
+      "sentence": "佢想轉去科技行業。",
+      "jyutping": "keoi5 soeng2 zyun2 heoi3 fo1 gei6 hong4 jip6.",
+      "meaning": "He wants to move into the tech industry.",
+      "sourceWordId": "hong4jip6-industry",
+      "sourceWord": "行業",
+      "sourceWordJyutping": "hong4 jip6",
+      "sourceWordMeaning": "industry",
+      "tags": [
+        "jobs",
+        "professions",
+        "work",
+        "employment",
+        "business",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hong4jip6-industry.json"
+    },
+    {
+      "sentenceId": "hong4jip6-industry-example-3",
+      "sentence": "呢個行業近年競爭好大。",
+      "jyutping": "ni1 go3 hong4 jip6 gan3 nin4 ging6 zang1 hou2 daai6.",
+      "meaning": "This industry has been very competitive in recent years.",
+      "sourceWordId": "hong4jip6-industry",
+      "sourceWord": "行業",
+      "sourceWordJyutping": "hong4 jip6",
+      "sourceWordMeaning": "industry",
+      "tags": [
+        "jobs",
+        "professions",
+        "work",
+        "employment",
+        "business",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hong4jip6-industry.json"
+    },
+    {
+      "sentenceId": "hong4jip6-industry-example-4",
+      "sentence": "你對邊個行業最有興趣？",
+      "jyutping": "nei5 deoi3 bin1 go3 hong4 jip6 zeoi3 jau5 hing3 ceoi3?",
+      "meaning": "Which industry are you most interested in?",
+      "sourceWordId": "hong4jip6-industry",
+      "sourceWord": "行業",
+      "sourceWordJyutping": "hong4 jip6",
+      "sourceWordMeaning": "industry",
+      "tags": [
+        "jobs",
+        "professions",
+        "work",
+        "employment",
+        "business",
+        "career",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/hong4jip6-industry.json"
+    },
+    {
+      "sentenceId": "zik1jip6-occupation-example-1",
+      "sentence": "佢嘅職業係老師。",
+      "jyutping": "keoi5 ge3 zik1 jip6 hai6 lou5si1.",
+      "meaning": "His/Her occupation is a teacher.",
+      "sourceWordId": "zik1jip6-occupation",
+      "sourceWord": "職業",
+      "sourceWordJyutping": "zik1 jip6",
+      "sourceWordMeaning": "occupation",
+      "tags": [
+        "jobs and professions",
+        "work and employment",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1jip6-occupation.json"
+    },
+    {
+      "sentenceId": "zik1jip6-occupation-example-2",
+      "sentence": "你做咩職業呀？",
+      "jyutping": "nei5 zou6 me1 zik1 jip6 aa3?",
+      "meaning": "What is your occupation?",
+      "sourceWordId": "zik1jip6-occupation",
+      "sourceWord": "職業",
+      "sourceWordJyutping": "zik1 jip6",
+      "sourceWordMeaning": "occupation",
+      "tags": [
+        "jobs and professions",
+        "work and employment",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1jip6-occupation.json"
+    },
+    {
+      "sentenceId": "zik1jip6-occupation-example-3",
+      "sentence": "呢份工唔係我嘅長期職業。",
+      "jyutping": "ni1 fan6 gung1 m4 hai6 ngo5 ge3 coeng4 kei4 zik1 jip6.",
+      "meaning": "This job is not my long-term occupation.",
+      "sourceWordId": "zik1jip6-occupation",
+      "sourceWord": "職業",
+      "sourceWordJyutping": "zik1 jip6",
+      "sourceWordMeaning": "occupation",
+      "tags": [
+        "jobs and professions",
+        "work and employment",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1jip6-occupation.json"
+    },
+    {
+      "sentenceId": "zik1jip6-occupation-example-4",
+      "sentence": "佢想轉職業，學新技能。",
+      "jyutping": "keoi5 soeng2 zyun2 zik1 jip6, hok6 san1 gik6 nang4.",
+      "meaning": "He/She wants to change occupation and learn new skills.",
+      "sourceWordId": "zik1jip6-occupation",
+      "sourceWord": "職業",
+      "sourceWordJyutping": "zik1 jip6",
+      "sourceWordMeaning": "occupation",
+      "tags": [
+        "jobs and professions",
+        "work and employment",
+        "basic vocabulary",
+        "everyday Cantonese",
+        "noun",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zik1jip6-occupation.json"
+    },
+    {
+      "sentenceId": "fong3gung1-finish-work-example-1",
+      "sentence": "我今日六點放工。",
+      "jyutping": "ngo5 gam1jat6 luk6 dim2 fong3 gung1.",
+      "meaning": "I finish work at 6 today.",
+      "sourceWordId": "fong3gung1-finish-work",
+      "sourceWord": "放工",
+      "sourceWordJyutping": "fong3 gung1",
+      "sourceWordMeaning": "finish work",
+      "tags": [
+        "work and employment",
+        "daily life",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
+    },
+    {
+      "sentenceId": "fong3gung1-finish-work-example-2",
+      "sentence": "你幾點放工呀？",
+      "jyutping": "nei5 gei2 dim2 fong3 gung1 aa3?",
+      "meaning": "What time do you finish work?",
+      "sourceWordId": "fong3gung1-finish-work",
+      "sourceWord": "放工",
+      "sourceWordJyutping": "fong3 gung1",
+      "sourceWordMeaning": "finish work",
+      "tags": [
+        "work and employment",
+        "daily life",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
+    },
+    {
+      "sentenceId": "fong3gung1-finish-work-example-3",
+      "sentence": "我哋放工之後去食飯。",
+      "jyutping": "ngo5dei6 fong3 gung1 zi1 hau6 heoi3 sik6 faan6.",
+      "meaning": "We’re going to eat after work.",
+      "sourceWordId": "fong3gung1-finish-work",
+      "sourceWord": "放工",
+      "sourceWordJyutping": "fong3 gung1",
+      "sourceWordMeaning": "finish work",
+      "tags": [
+        "work and employment",
+        "daily life",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
+    },
+    {
+      "sentenceId": "fong3gung1-finish-work-example-4",
+      "sentence": "佢啱啱放工，仲未食飯。",
+      "jyutping": "keoi5 aam1 aam1 fong3 gung1, zung6 mei6 sik6 faan6.",
+      "meaning": "He just finished work and hasn’t eaten yet.",
+      "sourceWordId": "fong3gung1-finish-work",
+      "sourceWord": "放工",
+      "sourceWordJyutping": "fong3 gung1",
+      "sourceWordMeaning": "finish work",
+      "tags": [
+        "work and employment",
+        "daily life",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
+    },
+    {
+      "sentenceId": "wan2gung1-job-hunt-example-1",
+      "sentence": "我而家搵工搵到好攰。",
+      "jyutping": "ngo5 ji4gaa1 wan2 gung1 wan2 dou3 hou2 gwai6.",
+      "meaning": "I’m exhausted from job hunting right now.",
+      "sourceWordId": "wan2gung1-job-hunt",
+      "sourceWord": "搵工",
+      "sourceWordJyutping": "wan2 gung1",
+      "sourceWordMeaning": "job hunt",
+      "tags": [
+        "job hunting",
+        "employment",
+        "career",
+        "work",
+        "beginner Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan2gung1-job-hunt.json"
+    },
+    {
+      "sentenceId": "wan2gung1-job-hunt-example-2",
+      "sentence": "佢啱啱畢業，準備搵工。",
+      "jyutping": "keoi5 aam1 aam1 bat1 jip6, zeon2 bei6 wan2 gung1.",
+      "meaning": "He/she just graduated and is getting ready to look for a job.",
+      "sourceWordId": "wan2gung1-job-hunt",
+      "sourceWord": "搵工",
+      "sourceWordJyutping": "wan2 gung1",
+      "sourceWordMeaning": "job hunt",
+      "tags": [
+        "job hunting",
+        "employment",
+        "career",
+        "work",
+        "beginner Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan2gung1-job-hunt.json"
+    },
+    {
+      "sentenceId": "wan2gung1-job-hunt-example-3",
+      "sentence": "你搵工搵成點呀？",
+      "jyutping": "nei5 wan2 gung1 wan2 seng4 dim2 aa3?",
+      "meaning": "How’s your job search going?",
+      "sourceWordId": "wan2gung1-job-hunt",
+      "sourceWord": "搵工",
+      "sourceWordJyutping": "wan2 gung1",
+      "sourceWordMeaning": "job hunt",
+      "tags": [
+        "job hunting",
+        "employment",
+        "career",
+        "work",
+        "beginner Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan2gung1-job-hunt.json"
+    },
+    {
+      "sentenceId": "wan2gung1-job-hunt-example-4",
+      "sentence": "疫情之後，好多人都要再搵工。",
+      "jyutping": "jik6 cing4 zi1 hau6, hou2 do1 jan4 dou1 jiu3 zoi3 wan2 gung1.",
+      "meaning": "After the pandemic, many people had to look for jobs again.",
+      "sourceWordId": "wan2gung1-job-hunt",
+      "sourceWord": "搵工",
+      "sourceWordJyutping": "wan2 gung1",
+      "sourceWordMeaning": "job hunt",
+      "tags": [
+        "job hunting",
+        "employment",
+        "career",
+        "work",
+        "beginner Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/wan2gung1-job-hunt.json"
+    },
+    {
+      "sentenceId": "sat1jip6-unemployed-example-1",
+      "sentence": "佢而家失業，正搵緊工。",
+      "jyutping": "keoi5 ji4 gaa1 sat1 jip6, zing3 wan2 gan2 gung1.",
+      "meaning": "He is unemployed now and is looking for a job.",
+      "sourceWordId": "sat1jip6-unemployed",
+      "sourceWord": "失業",
+      "sourceWordJyutping": "sat1 jip6",
+      "sourceWordMeaning": "unemployed",
+      "tags": [
+        "jobs",
+        "employment",
+        "unemployment",
+        "work",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sat1jip6-unemployed.json"
+    },
+    {
+      "sentenceId": "sat1jip6-unemployed-example-2",
+      "sentence": "失業率上升咗。",
+      "jyutping": "sat1 jip6 leot2 soeng5 sing1 zo2.",
+      "meaning": "The unemployment rate has gone up.",
+      "sourceWordId": "sat1jip6-unemployed",
+      "sourceWord": "失業",
+      "sourceWordJyutping": "sat1 jip6",
+      "sourceWordMeaning": "unemployed",
+      "tags": [
+        "jobs",
+        "employment",
+        "unemployment",
+        "work",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sat1jip6-unemployed.json"
+    },
+    {
+      "sentenceId": "sat1jip6-unemployed-example-3",
+      "sentence": "疫情之後，好多人一度失業。",
+      "jyutping": "jap6 cing4 zi1 hau6, hou2 do1 jan4 jat1 dou6 sat1 jip6.",
+      "meaning": "After the pandemic, many people were unemployed for a period of time.",
+      "sourceWordId": "sat1jip6-unemployed",
+      "sourceWord": "失業",
+      "sourceWordJyutping": "sat1 jip6",
+      "sourceWordMeaning": "unemployed",
+      "tags": [
+        "jobs",
+        "employment",
+        "unemployment",
+        "work",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sat1jip6-unemployed.json"
+    },
+    {
+      "sentenceId": "sat1jip6-unemployed-example-4",
+      "sentence": "如果你失業，可以申請綜援。",
+      "jyutping": "jyu4 gwo2 nei5 sat1 jip6, ho2 ji5 san1 cing2 zung3 wun4.",
+      "meaning": "If you are unemployed, you can apply for social welfare assistance.",
+      "sourceWordId": "sat1jip6-unemployed",
+      "sourceWord": "失業",
+      "sourceWordJyutping": "sat1 jip6",
+      "sourceWordMeaning": "unemployed",
+      "tags": [
+        "jobs",
+        "employment",
+        "unemployment",
+        "work",
+        "beginner",
+        "common",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/sat1jip6-unemployed.json"
+    },
+    {
+      "sentenceId": "jan4gung1-salary-example-1",
+      "sentence": "佢人工幾高，做一年就買到車。",
+      "jyutping": "keoi5 jan4 gung1 gei2 gou1, zou6 jat1 nin4 zau6 maai5 dou2 ce1.",
+      "meaning": "His salary is quite high; after one year of work, he could afford a car.",
+      "sourceWordId": "jan4gung1-salary",
+      "sourceWord": "人工",
+      "sourceWordJyutping": "jan4 gung1",
+      "sourceWordMeaning": "salary",
+      "tags": [
+        "salary",
+        "wages",
+        "pay",
+        "work",
+        "employment",
+        "jobs",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4gung1-salary.json"
+    },
+    {
+      "sentenceId": "jan4gung1-salary-example-2",
+      "sentence": "你而家人工幾多呀？",
+      "jyutping": "nei5 ji4 gaa1 jan4 gung1 gei2 do1 aa3?",
+      "meaning": "How much is your salary now?",
+      "sourceWordId": "jan4gung1-salary",
+      "sourceWord": "人工",
+      "sourceWordJyutping": "jan4 gung1",
+      "sourceWordMeaning": "salary",
+      "tags": [
+        "salary",
+        "wages",
+        "pay",
+        "work",
+        "employment",
+        "jobs",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4gung1-salary.json"
+    },
+    {
+      "sentenceId": "jan4gung1-salary-example-3",
+      "sentence": "公司今年幫我加人工。",
+      "jyutping": "gung1 si1 gam1 nin4 bong1 ngo5 gaa1 jan4 gung1.",
+      "meaning": "The company gave me a salary raise this year.",
+      "sourceWordId": "jan4gung1-salary",
+      "sourceWord": "人工",
+      "sourceWordJyutping": "jan4 gung1",
+      "sourceWordMeaning": "salary",
+      "tags": [
+        "salary",
+        "wages",
+        "pay",
+        "work",
+        "employment",
+        "jobs",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4gung1-salary.json"
+    },
+    {
+      "sentenceId": "jan4gung1-salary-example-4",
+      "sentence": "做呢份工，最緊要唔好淨係睇人工。",
+      "jyutping": "zou6 ni1 fan6 gung1, zeoi3 gan2 jiu3 m4 hou2 zing6 hai6 taai2 jan4 gung1.",
+      "meaning": "For this job, the most important thing is not to look only at the salary.",
+      "sourceWordId": "jan4gung1-salary",
+      "sourceWord": "人工",
+      "sourceWordJyutping": "jan4 gung1",
+      "sourceWordMeaning": "salary",
+      "tags": [
+        "salary",
+        "wages",
+        "pay",
+        "work",
+        "employment",
+        "jobs",
+        "beginner",
+        "everyday Cantonese",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/jan4gung1-salary.json"
+    }
+  ],
+  "missingWordFiles": []
+}

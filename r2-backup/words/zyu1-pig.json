@@ -1,0 +1,65 @@
+{
+  "id": "zyu1-pig",
+  "word": "豬",
+  "jyutping": "zyu1",
+  "meaning": "pig",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "- Common everyday noun for the animal pig; very neutral and simple, good for beginners.",
+    "- Can be used on its own or in compounds, especially in farm, food, and animal vocabulary.",
+    "- In Hong Kong speech, it can also appear in fixed words and casual descriptions, so context matters.",
+    "- Learners should note that the standard Jyutping here is zyu1, and the tone is low-level."
+  ],
+  "examples": [
+    {
+      "id": "zyu1-pig-example-1",
+      "sentence": "豬係農場常見嘅動物。",
+      "jyutping": "zyu1 hai6 nung4 coeng4 soeng4 gin3 ge3 dung6 mat6.",
+      "meaning": "A pig is a common animal on farms."
+    },
+    {
+      "id": "zyu1-pig-example-2",
+      "sentence": "佢屋企養咗兩隻豬。",
+      "jyutping": "keoi5 uk1 kei2 joeng5 zo2 loeng5 zek3 zyu1.",
+      "meaning": "Their family raised two pigs."
+    },
+    {
+      "id": "zyu1-pig-example-3",
+      "sentence": "我哋今日食豬肉。",
+      "jyutping": "ngo5 dei6 gam1 jat6 sik6 zyu1 juk6.",
+      "meaning": "We are eating pork today."
+    },
+    {
+      "id": "zyu1-pig-example-4",
+      "sentence": "呢隻豬好肥。",
+      "jyutping": "ni1 zek3 zyu1 hou2 fei4.",
+      "meaning": "This pig is very fat."
+    }
+  ],
+  "audio": {
+    "word": "zyu1-pig.mp3",
+    "examples": [
+      "zyu1-pig-example-1.mp3",
+      "zyu1-pig-example-2.mp3",
+      "zyu1-pig-example-3.mp3",
+      "zyu1-pig-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "animals",
+    "farm animals",
+    "beginner",
+    "noun",
+    "common vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "豬肉",
+    "豬仔",
+    "養豬",
+    "農場",
+    "動物"
+  ]
+}
