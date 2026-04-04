@@ -2,7 +2,7 @@
   "topic": "technology_and_devices",
   "title": "Technology & Devices",
   "totalWords": 105,
-  "totalSentences": 416,
+  "totalSentences": 412,
   "items": [
     {
       "sentenceId": "sau2gei1-phone-example-1",
@@ -234,76 +234,80 @@
     },
     {
       "sentenceId": "ji5gei1-headphones-example-1",
-      "sentence": "我戴住耳機聽歌。",
-      "jyutping": "ngo5 daai3 zyu6 ji5 gei1 teng1 go1.",
-      "meaning": "I am listening to music with headphones on.",
+      "sentence": "我今日搭車要戴耳機聽歌。",
+      "jyutping": "ngo5 gam1 jat6 daap3 ce1 jiu3 daai3 ji5 gei1 teng1 go1.",
+      "meaning": "I need to wear headphones to listen to music on the bus today.",
       "sourceWordId": "ji5gei1-headphones",
       "sourceWord": "耳機",
       "sourceWordJyutping": "ji5 gei1",
       "sourceWordMeaning": "headphones",
       "tags": [
-        "technology",
-        "devices",
-        "audio",
+        "music",
         "listening",
-        "personal",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
     },
     {
       "sentenceId": "ji5gei1-headphones-example-2",
-      "sentence": "你有冇借我對耳機？",
-      "jyutping": "nei5 jau5 mou5 ze3 ngo5 deoi3 ji5 gei1?",
-      "meaning": "Do you have a pair of headphones I can borrow?",
+      "sentence": "你可唔可以借對耳機畀我？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 ze3 deoi3 ji5 gei1 bei2 ngo5?",
+      "meaning": "Can you lend me a pair of headphones?",
       "sourceWordId": "ji5gei1-headphones",
       "sourceWord": "耳機",
       "sourceWordJyutping": "ji5 gei1",
       "sourceWordMeaning": "headphones",
       "tags": [
-        "technology",
-        "devices",
-        "audio",
+        "music",
         "listening",
-        "personal",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
     },
     {
       "sentenceId": "ji5gei1-headphones-example-3",
-      "sentence": "呢部電話冇耳機插口。",
-      "jyutping": "ni1 bou6 din6 waa2 mou5 ji5 gei1 caap3 hau2.",
-      "meaning": "This phone doesn't have a headphone jack.",
+      "sentence": "佢成日一邊做嘢一邊用耳機聽podcast。",
+      "jyutping": "keoi5 sing4 jat6 jat1 bin1 zou6 je5 jat1 bin1 jung6 ji5 gei1 teng1 podcast.",
+      "meaning": "He always listens to podcasts with headphones while working.",
       "sourceWordId": "ji5gei1-headphones",
       "sourceWord": "耳機",
       "sourceWordJyutping": "ji5 gei1",
       "sourceWordMeaning": "headphones",
       "tags": [
-        "technology",
-        "devices",
-        "audio",
+        "music",
         "listening",
-        "personal",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
     },
     {
       "sentenceId": "ji5gei1-headphones-example-4",
-      "sentence": "我啲耳機壞咗，要買新嘅。",
-      "jyutping": "ngo5 di1 ji5 gei1 waai6 zo2, jiu3 maai5 san1 ge3.",
-      "meaning": "My headphones are broken, need to buy new ones.",
+      "sentence": "我新買嗰對耳機音質好好。",
+      "jyutping": "ngo5 san1 maai5 go2 deoi3 ji5 gei1 jam1 zat1 hou2 hou2.",
+      "meaning": "The sound quality of the new headphones I bought is very good.",
       "sourceWordId": "ji5gei1-headphones",
       "sourceWord": "耳機",
       "sourceWordJyutping": "ji5 gei1",
       "sourceWordMeaning": "headphones",
       "tags": [
-        "technology",
-        "devices",
-        "audio",
+        "music",
         "listening",
-        "personal",
+        "audio",
+        "everyday nouns",
+        "electronics",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji5gei1-headphones.json"
@@ -609,11 +613,11 @@
       "sourceFile": "r2-backup/words/jam1soeng1-speaker.json"
     },
     {
-      "sentenceId": "zi3nang4sau2biu1-smart-watch-example-1",
+      "sentenceId": "zi3nang4sau2biu1-smartwatch-example-1",
       "sentence": "我每日都戴智能手錶去跑步。",
       "jyutping": "ngo5 mui5 jat6 dou1 daai3 zi3 nang4 sau2 biu1 heoi3 paau2 bou6.",
       "meaning": "I wear a smartwatch every day to go running.",
-      "sourceWordId": "zi3nang4sau2biu1-smart-watch",
+      "sourceWordId": "zi3nang4sau2biu1-smartwatch",
       "sourceWord": "智能手錶",
       "sourceWordJyutping": "zi3 nang4 sau2 biu1",
       "sourceWordMeaning": "smartwatch",
@@ -625,14 +629,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smart-watch.json"
+      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smartwatch.json"
     },
     {
-      "sentenceId": "zi3nang4sau2biu1-smart-watch-example-2",
+      "sentenceId": "zi3nang4sau2biu1-smartwatch-example-2",
       "sentence": "智能手錶可以幫我睇訊息。",
       "jyutping": "zi3 nang4 sau2 biu1 ho2 ji5 bong1 ngo5 tai2 seon3 sik1.",
       "meaning": "The smartwatch can help me check messages.",
-      "sourceWordId": "zi3nang4sau2biu1-smart-watch",
+      "sourceWordId": "zi3nang4sau2biu1-smartwatch",
       "sourceWord": "智能手錶",
       "sourceWordJyutping": "zi3 nang4 sau2 biu1",
       "sourceWordMeaning": "smartwatch",
@@ -644,14 +648,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smart-watch.json"
+      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smartwatch.json"
     },
     {
-      "sentenceId": "zi3nang4sau2biu1-smart-watch-example-3",
+      "sentenceId": "zi3nang4sau2biu1-smartwatch-example-3",
       "sentence": "你嘅智能手錶有冇心跳監測功能？",
       "jyutping": "nei5 ge3 zi3 nang4 sau2 biu1 jau5 mou5 sam1 tiu3 gaam1 cak1 gung1 nang4?",
       "meaning": "Does your smartwatch have a heart rate monitoring function?",
-      "sourceWordId": "zi3nang4sau2biu1-smart-watch",
+      "sourceWordId": "zi3nang4sau2biu1-smartwatch",
       "sourceWord": "智能手錶",
       "sourceWordJyutping": "zi3 nang4 sau2 biu1",
       "sourceWordMeaning": "smartwatch",
@@ -663,14 +667,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smart-watch.json"
+      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smartwatch.json"
     },
     {
-      "sentenceId": "zi3nang4sau2biu1-smart-watch-example-4",
+      "sentenceId": "zi3nang4sau2biu1-smartwatch-example-4",
       "sentence": "今次買嘅智能手錶支援中文介面。",
       "jyutping": "gam1 ci3 maai5 ge3 zi3 nang4 sau2 biu1 zi1 wun6 zung1 man4 gaai3 min6.",
       "meaning": "The smartwatch I bought this time supports a Chinese interface.",
-      "sourceWordId": "zi3nang4sau2biu1-smart-watch",
+      "sourceWordId": "zi3nang4sau2biu1-smartwatch",
       "sourceWord": "智能手錶",
       "sourceWordJyutping": "zi3 nang4 sau2 biu1",
       "sourceWordMeaning": "smartwatch",
@@ -682,7 +686,7 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smart-watch.json"
+      "sourceFile": "r2-backup/words/zi3nang4sau2biu1-smartwatch.json"
     },
     {
       "sentenceId": "ping4mok6-screen-example-1",
@@ -913,11 +917,11 @@
       "sourceFile": "r2-backup/words/waat6syu2-mouse.json"
     },
     {
-      "sentenceId": "geng3tau4-camera-lens-example-1",
+      "sentenceId": "geng3tau4-lens-example-1",
       "sentence": "我啲相機鏡頭好污糟，要清潔吓。",
       "jyutping": "ngo5 di1 soeng1 gei1 geng3 tau4 hou2 wu1 zou1, jiu3 cing1 git3 haa5.",
       "meaning": "My camera lens is very dirty, need to clean it.",
-      "sourceWordId": "geng3tau4-camera-lens",
+      "sourceWordId": "geng3tau4-lens",
       "sourceWord": "鏡頭",
       "sourceWordJyutping": "geng3 tau4",
       "sourceWordMeaning": "lens",
@@ -929,14 +933,14 @@
         "computer_parts",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/geng3tau4-camera-lens.json"
+      "sourceFile": "r2-backup/words/geng3tau4-lens.json"
     },
     {
-      "sentenceId": "geng3tau4-camera-lens-example-2",
+      "sentenceId": "geng3tau4-lens-example-2",
       "sentence": "導演話呢個鏡頭好重要。",
       "jyutping": "dou6 jin2 waa6 ni1 go3 geng3 tau4 hou2 zung6 jiu3.",
       "meaning": "The director said this lens (shot) is very important.",
-      "sourceWordId": "geng3tau4-camera-lens",
+      "sourceWordId": "geng3tau4-lens",
       "sourceWord": "鏡頭",
       "sourceWordJyutping": "geng3 tau4",
       "sourceWordMeaning": "lens",
@@ -948,14 +952,14 @@
         "computer_parts",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/geng3tau4-camera-lens.json"
+      "sourceFile": "r2-backup/words/geng3tau4-lens.json"
     },
     {
-      "sentenceId": "geng3tau4-camera-lens-example-3",
+      "sentenceId": "geng3tau4-lens-example-3",
       "sentence": "換個新鏡頭，影相會靚啲。",
       "jyutping": "wun6 go3 san1 geng3 tau4, jing2 soeng2 wui5 leng3 di1.",
       "meaning": "Change to a new lens, the photos will be better.",
-      "sourceWordId": "geng3tau4-camera-lens",
+      "sourceWordId": "geng3tau4-lens",
       "sourceWord": "鏡頭",
       "sourceWordJyutping": "geng3 tau4",
       "sourceWordMeaning": "lens",
@@ -967,14 +971,14 @@
         "computer_parts",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/geng3tau4-camera-lens.json"
+      "sourceFile": "r2-backup/words/geng3tau4-lens.json"
     },
     {
-      "sentenceId": "geng3tau4-camera-lens-example-4",
+      "sentenceId": "geng3tau4-lens-example-4",
       "sentence": "手機鏡頭有冇損壞？",
       "jyutping": "sau2 gei1 geng3 tau4 jau5 mou5 syun2 waai6?",
       "meaning": "Is the phone lens damaged?",
-      "sourceWordId": "geng3tau4-camera-lens",
+      "sourceWordId": "geng3tau4-lens",
       "sourceWord": "鏡頭",
       "sourceWordJyutping": "geng3 tau4",
       "sourceWordMeaning": "lens",
@@ -986,14 +990,14 @@
         "computer_parts",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/geng3tau4-camera-lens.json"
+      "sourceFile": "r2-backup/words/geng3tau4-lens.json"
     },
     {
-      "sentenceId": "waat6syu2zin3-mousepad-example-1",
+      "sentenceId": "waat6syu2zin3-mouse-pad-example-1",
       "sentence": "你嘅滑鼠墊唔夠大。",
       "jyutping": "nei5 ge3 waat6 syu2 zin3 m4 gau3 daai6.",
       "meaning": "Your mouse pad is not big enough.",
-      "sourceWordId": "waat6syu2zin3-mousepad",
+      "sourceWordId": "waat6syu2zin3-mouse-pad",
       "sourceWord": "滑鼠墊",
       "sourceWordJyutping": "waat6 syu2 zin3",
       "sourceWordMeaning": "mouse pad",
@@ -1005,14 +1009,14 @@
         "hardware",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6syu2zin3-mousepad.json"
+      "sourceFile": "r2-backup/words/waat6syu2zin3-mouse-pad.json"
     },
     {
-      "sentenceId": "waat6syu2zin3-mousepad-example-2",
+      "sentenceId": "waat6syu2zin3-mouse-pad-example-2",
       "sentence": "呢個滑鼠墊好舒服。",
       "jyutping": "ni1 go3 waat6 syu2 zin3 hou2 syu1 fuk6.",
       "meaning": "This mouse pad is very comfortable.",
-      "sourceWordId": "waat6syu2zin3-mousepad",
+      "sourceWordId": "waat6syu2zin3-mouse-pad",
       "sourceWord": "滑鼠墊",
       "sourceWordJyutping": "waat6 syu2 zin3",
       "sourceWordMeaning": "mouse pad",
@@ -1024,14 +1028,14 @@
         "hardware",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6syu2zin3-mousepad.json"
+      "sourceFile": "r2-backup/words/waat6syu2zin3-mouse-pad.json"
     },
     {
-      "sentenceId": "waat6syu2zin3-mousepad-example-3",
+      "sentenceId": "waat6syu2zin3-mouse-pad-example-3",
       "sentence": "我擺咗滑鼠墊喺枱面。",
       "jyutping": "ngo5 baai2 zo2 waat6 syu2 zin3 hai2 toi4 min6.",
       "meaning": "I put the mouse pad on the table.",
-      "sourceWordId": "waat6syu2zin3-mousepad",
+      "sourceWordId": "waat6syu2zin3-mouse-pad",
       "sourceWord": "滑鼠墊",
       "sourceWordJyutping": "waat6 syu2 zin3",
       "sourceWordMeaning": "mouse pad",
@@ -1043,14 +1047,14 @@
         "hardware",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6syu2zin3-mousepad.json"
+      "sourceFile": "r2-backup/words/waat6syu2zin3-mouse-pad.json"
     },
     {
-      "sentenceId": "waat6syu2zin3-mousepad-example-4",
+      "sentenceId": "waat6syu2zin3-mouse-pad-example-4",
       "sentence": "用滑鼠墊令滑鼠用得順暢啲。",
       "jyutping": "jung6 waat6 syu2 zin3 ling6 waat6 syu2 jung6 dak1 seon6 coeng3 di1.",
       "meaning": "Using a mouse pad makes the mouse operation smoother.",
-      "sourceWordId": "waat6syu2zin3-mousepad",
+      "sourceWordId": "waat6syu2zin3-mouse-pad",
       "sourceWord": "滑鼠墊",
       "sourceWordJyutping": "waat6 syu2 zin3",
       "sourceWordMeaning": "mouse pad",
@@ -1062,7 +1066,7 @@
         "hardware",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6syu2zin3-mousepad.json"
+      "sourceFile": "r2-backup/words/waat6syu2zin3-mouse-pad.json"
     },
     {
       "sentenceId": "mong5lok6-internet-example-1",
@@ -1749,11 +1753,11 @@
       "sourceFile": "r2-backup/words/siu1sik1-message.json"
     },
     {
-      "sentenceId": "faai3seon3-instant-message-example-1",
+      "sentenceId": "faai3seon3-message-example-1",
       "sentence": "我收到一個快訊，好快回覆你。",
       "jyutping": "ngo5 sau1 dou3 jat1 go3 faai3 seon3, hou2 faai3 wui4 jing4 nei5.",
       "meaning": "I received a message, will reply you soon.",
-      "sourceWordId": "faai3seon3-instant-message",
+      "sourceWordId": "faai3seon3-message",
       "sourceWord": "快訊",
       "sourceWordJyutping": "faai3 seon3",
       "sourceWordMeaning": "message",
@@ -1765,14 +1769,14 @@
         "news",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3seon3-instant-message.json"
+      "sourceFile": "r2-backup/words/faai3seon3-message.json"
     },
     {
-      "sentenceId": "faai3seon3-instant-message-example-2",
+      "sentenceId": "faai3seon3-message-example-2",
       "sentence": "新聞App發出快訊通知我天氣變化。",
       "jyutping": "san1 man4 App faat3 ceot1 faai3 seon3 tung1 zi1 ngo5 tin1 hei3 bin3 faa3.",
       "meaning": "The news app sent a notification message about weather changes.",
-      "sourceWordId": "faai3seon3-instant-message",
+      "sourceWordId": "faai3seon3-message",
       "sourceWord": "快訊",
       "sourceWordJyutping": "faai3 seon3",
       "sourceWordMeaning": "message",
@@ -1784,14 +1788,14 @@
         "news",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3seon3-instant-message.json"
+      "sourceFile": "r2-backup/words/faai3seon3-message.json"
     },
     {
-      "sentenceId": "faai3seon3-instant-message-example-3",
+      "sentenceId": "faai3seon3-message-example-3",
       "sentence": "你收到我的快訊未？",
       "jyutping": "nei5 sau1 dou3 ngo5 dik1 faai3 seon3 mei6?",
       "meaning": "Did you get my message?",
-      "sourceWordId": "faai3seon3-instant-message",
+      "sourceWordId": "faai3seon3-message",
       "sourceWord": "快訊",
       "sourceWordJyutping": "faai3 seon3",
       "sourceWordMeaning": "message",
@@ -1803,14 +1807,14 @@
         "news",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3seon3-instant-message.json"
+      "sourceFile": "r2-backup/words/faai3seon3-message.json"
     },
     {
-      "sentenceId": "faai3seon3-instant-message-example-4",
+      "sentenceId": "faai3seon3-message-example-4",
       "sentence": "快訊幫我快啲知最新消息。",
       "jyutping": "faai3 seon3 bong1 ngo5 faai3 di1 zi1 zeoi3 san1 siu1 sik1.",
       "meaning": "Messages help me know the latest information faster.",
-      "sourceWordId": "faai3seon3-instant-message",
+      "sourceWordId": "faai3seon3-message",
       "sourceWord": "快訊",
       "sourceWordJyutping": "faai3 seon3",
       "sourceWordMeaning": "message",
@@ -1822,7 +1826,7 @@
         "news",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3seon3-instant-message.json"
+      "sourceFile": "r2-backup/words/faai3seon3-message.json"
     },
     {
       "sentenceId": "soeng2pin2-photo-example-1",
@@ -3421,11 +3425,11 @@
       "sourceFile": "r2-backup/words/hou2maan6-slow.json"
     },
     {
-      "sentenceId": "kaa1zyu6-zo2-frozen-example-1",
+      "sentenceId": "kaa1zyu6-frozen-example-1",
       "sentence": "我部電話卡住咗，唔郁得。",
       "jyutping": "ngo5 bou6 din6 waa2 kaa1 zyu6 zo2, m4 juk1 dak1.",
       "meaning": "My phone is frozen and won’t move.",
-      "sourceWordId": "kaa1zyu6-zo2-frozen",
+      "sourceWordId": "kaa1zyu6-frozen",
       "sourceWord": "卡住",
       "sourceWordJyutping": "kaa1 zyu6",
       "sourceWordMeaning": "frozen",
@@ -3437,14 +3441,14 @@
         "stuck",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kaa1zyu6-zo2-frozen.json"
+      "sourceFile": "r2-backup/words/kaa1zyu6-frozen.json"
     },
     {
-      "sentenceId": "kaa1zyu6-zo2-frozen-example-2",
+      "sentenceId": "kaa1zyu6-frozen-example-2",
       "sentence": "條拉鏈卡住咗，開唔開。",
       "jyutping": "tiu4 laai1 lin2 kaa1 zyu6 zo2, hoi1 m4 hoi1.",
       "meaning": "The zipper is stuck and won’t open.",
-      "sourceWordId": "kaa1zyu6-zo2-frozen",
+      "sourceWordId": "kaa1zyu6-frozen",
       "sourceWord": "卡住",
       "sourceWordJyutping": "kaa1 zyu6",
       "sourceWordMeaning": "frozen",
@@ -3456,14 +3460,14 @@
         "stuck",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kaa1zyu6-zo2-frozen.json"
+      "sourceFile": "r2-backup/words/kaa1zyu6-frozen.json"
     },
     {
-      "sentenceId": "kaa1zyu6-zo2-frozen-example-3",
+      "sentenceId": "kaa1zyu6-frozen-example-3",
       "sentence": "電腦卡住，要重啟先用得。",
       "jyutping": "din6 nou5 kaa1 zyu6, jiu3 cung4 hei2 sin1 jung6 dak1.",
       "meaning": "The computer is frozen, need to restart it before using.",
-      "sourceWordId": "kaa1zyu6-zo2-frozen",
+      "sourceWordId": "kaa1zyu6-frozen",
       "sourceWord": "卡住",
       "sourceWordJyutping": "kaa1 zyu6",
       "sourceWordMeaning": "frozen",
@@ -3475,14 +3479,14 @@
         "stuck",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kaa1zyu6-zo2-frozen.json"
+      "sourceFile": "r2-backup/words/kaa1zyu6-frozen.json"
     },
     {
-      "sentenceId": "kaa1zyu6-zo2-frozen-example-4",
+      "sentenceId": "kaa1zyu6-frozen-example-4",
       "sentence": "呢個機械卡住，要整修。",
       "jyutping": "ni1 go3 gei1 haai6 kaa1 zyu6, jiu3 zing2 sau1.",
       "meaning": "This machine is stuck and needs repair.",
-      "sourceWordId": "kaa1zyu6-zo2-frozen",
+      "sourceWordId": "kaa1zyu6-frozen",
       "sourceWord": "卡住",
       "sourceWordJyutping": "kaa1 zyu6",
       "sourceWordMeaning": "frozen",
@@ -3494,7 +3498,7 @@
         "stuck",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kaa1zyu6-zo2-frozen.json"
+      "sourceFile": "r2-backup/words/kaa1zyu6-frozen.json"
     },
     {
       "sentenceId": "jin4ci4-lag-example-1",
@@ -3650,76 +3654,80 @@
     },
     {
       "sentenceId": "jam1loeng6-volume-example-1",
-      "sentence": "你可唔可以調低啲音量？",
-      "jyutping": "nei5 ho2 m4 ho2 ji5 tiu4 dai1 di1 jam1 loeng6?",
-      "meaning": "Can you turn down the volume a bit?",
+      "sentence": "你可唔可以將音量調低少少？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 zoeng1 jam1 loeng6 tiu4 dai1 siu2 siu2?",
+      "meaning": "Can you turn the volume down a little?",
       "sourceWordId": "jam1loeng6-volume",
       "sourceWord": "音量",
       "sourceWordJyutping": "jam1 loeng6",
       "sourceWordMeaning": "volume",
       "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
         "technology",
-        "settings",
-        "sound",
-        "devices",
-        "control",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
     },
     {
       "sentenceId": "jam1loeng6-volume-example-2",
-      "sentence": "我手機嘅音量唔夠大。",
-      "jyutping": "ngo5 sau2 gei1 ge3 jam1 loeng6 m4 gau3 daai6.",
-      "meaning": "My phone's volume is not loud enough.",
+      "sentence": "我聽歌嗰陣會將音量開大啲。",
+      "jyutping": "ngo5 teng1 go1 go2 zaan6 wui5 zoeng1 jam1 loeng6 hoi1 daai6 di1.",
+      "meaning": "When I listen to music, I turn the volume up a bit.",
       "sourceWordId": "jam1loeng6-volume",
       "sourceWord": "音量",
       "sourceWordJyutping": "jam1 loeng6",
       "sourceWordMeaning": "volume",
       "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
         "technology",
-        "settings",
-        "sound",
-        "devices",
-        "control",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
     },
     {
       "sentenceId": "jam1loeng6-volume-example-3",
-      "sentence": "電視嘅音量太大聲，鄰居抱怨晒。",
-      "jyutping": "din6 si6 ge3 jam1 loeng6 taai3 daai6 seng1, leon4 geoi1 pou5 jyun3 saai3.",
-      "meaning": "The TV volume is too loud; the neighbors have complained.",
+      "sentence": "部電視個音量太大，聽到好嘈。",
+      "jyutping": "bou6 din6 si6 go3 jam1 loeng6 taai3 daai6, teng1 dou3 hou2 cou4.",
+      "meaning": "The TV volume is too loud; it's really noisy.",
       "sourceWordId": "jam1loeng6-volume",
       "sourceWord": "音量",
       "sourceWordJyutping": "jam1 loeng6",
       "sourceWordMeaning": "volume",
       "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
         "technology",
-        "settings",
-        "sound",
-        "devices",
-        "control",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
     },
     {
       "sentenceId": "jam1loeng6-volume-example-4",
-      "sentence": "放歌之前記得先調好音量。",
-      "jyutping": "fong3 go1 zi1 cin4 gei3 dak1 sin1 tiu4 hou2 jam1 loeng6.",
-      "meaning": "Remember to adjust the volume before playing songs.",
+      "sentence": "夜晚聽歌最好將音量收細啲。",
+      "jyutping": "je6 maan5 teng1 go1 zeoi3 hou2 zoeng1 jam1 loeng6 sau1 sai3 di1.",
+      "meaning": "It's best to lower the volume a bit when listening to music at night.",
       "sourceWordId": "jam1loeng6-volume",
       "sourceWord": "音量",
       "sourceWordJyutping": "jam1 loeng6",
       "sourceWordMeaning": "volume",
       "tags": [
+        "music",
+        "listening_and_audio",
+        "audio settings",
+        "common noun",
+        "everyday speech",
         "technology",
-        "settings",
-        "sound",
-        "devices",
-        "control",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1loeng6-volume.json"
@@ -3801,11 +3809,11 @@
       "sourceFile": "r2-backup/words/loeng6dou6-brightness.json"
     },
     {
-      "sentenceId": "zing6jam1-silent-mode-example-1",
+      "sentenceId": "zing6jam1-silent-example-1",
       "sentence": "我今晚要開靜音，唔想打擾其他人。",
       "jyutping": "ngo5 gam1 maan5 jiu3 hoi1 zing6 jam1, m4 soeng2 daa2 jiu5 kei4 taa1 jan4.",
       "meaning": "I need to turn on silent mode tonight because I don't want to disturb others.",
-      "sourceWordId": "zing6jam1-silent-mode",
+      "sourceWordId": "zing6jam1-silent",
       "sourceWord": "靜音",
       "sourceWordJyutping": "zing6 jam1",
       "sourceWordMeaning": "silent",
@@ -3817,14 +3825,14 @@
         "phone",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing6jam1-silent-mode.json"
+      "sourceFile": "r2-backup/words/zing6jam1-silent.json"
     },
     {
-      "sentenceId": "zing6jam1-silent-mode-example-2",
+      "sentenceId": "zing6jam1-silent-example-2",
       "sentence": "記得上課嘅時候開靜音呀。",
       "jyutping": "gei3 dak1 soeng5 fo3 ge3 si4 hau6 hoi1 zing6 jam1 aa3.",
       "meaning": "Remember to switch on silent mode during class.",
-      "sourceWordId": "zing6jam1-silent-mode",
+      "sourceWordId": "zing6jam1-silent",
       "sourceWord": "靜音",
       "sourceWordJyutping": "zing6 jam1",
       "sourceWordMeaning": "silent",
@@ -3836,14 +3844,14 @@
         "phone",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing6jam1-silent-mode.json"
+      "sourceFile": "r2-backup/words/zing6jam1-silent.json"
     },
     {
-      "sentenceId": "zing6jam1-silent-mode-example-3",
+      "sentenceId": "zing6jam1-silent-example-3",
       "sentence": "你嘅電話係咪開咗靜音？我打唔通你。",
       "jyutping": "nei5 ge3 din6 waa2 hai6 mai6 hoi1 zo2 zing6 jam1? ngo5 daa2 m4 tung1 nei5.",
       "meaning": "Is your phone on silent? I couldn't reach you.",
-      "sourceWordId": "zing6jam1-silent-mode",
+      "sourceWordId": "zing6jam1-silent",
       "sourceWord": "靜音",
       "sourceWordJyutping": "zing6 jam1",
       "sourceWordMeaning": "silent",
@@ -3855,14 +3863,14 @@
         "phone",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing6jam1-silent-mode.json"
+      "sourceFile": "r2-backup/words/zing6jam1-silent.json"
     },
     {
-      "sentenceId": "zing6jam1-silent-mode-example-4",
+      "sentenceId": "zing6jam1-silent-example-4",
       "sentence": "拍片時記得開靜音，唔好有聲音。",
       "jyutping": "paak3 pin2 si4 gei3 dak1 hoi1 zing6 jam1, m4 hou2 jau5 seng1 jam1.",
       "meaning": "Remember to turn on silent mode when filming, no sound allowed.",
-      "sourceWordId": "zing6jam1-silent-mode",
+      "sourceWordId": "zing6jam1-silent",
       "sourceWord": "靜音",
       "sourceWordJyutping": "zing6 jam1",
       "sourceWordMeaning": "silent",
@@ -3874,7 +3882,7 @@
         "phone",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing6jam1-silent-mode.json"
+      "sourceFile": "r2-backup/words/zing6jam1-silent.json"
     },
     {
       "sentenceId": "tung1zi1-notification-example-1",
@@ -4105,11 +4113,11 @@
       "sourceFile": "r2-backup/words/mong5jip6-webpage.json"
     },
     {
-      "sentenceId": "lau4laam5hei3-hei3-browser-example-1",
+      "sentenceId": "lau4laam5hei3-browser-example-1",
       "sentence": "你用邊個瀏覽器上網？",
       "jyutping": "nei5 jung6 bin1 go3 lau4 laam5 hei3 soeng5 mong5?",
       "meaning": "Which browser do you use to surf the internet?",
-      "sourceWordId": "lau4laam5hei3-hei3-browser",
+      "sourceWordId": "lau4laam5hei3-browser",
       "sourceWord": "瀏覽器",
       "sourceWordJyutping": "lau4 laam5 hei3",
       "sourceWordMeaning": "browser",
@@ -4121,14 +4129,14 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4laam5hei3-hei3-browser.json"
+      "sourceFile": "r2-backup/words/lau4laam5hei3-browser.json"
     },
     {
-      "sentenceId": "lau4laam5hei3-hei3-browser-example-2",
+      "sentenceId": "lau4laam5hei3-browser-example-2",
       "sentence": "我啱啱更新咗個瀏覽器。",
       "jyutping": "ngo5 aam1 aam1 gung1 san1 zo2 go3 lau4 laam5 hei3.",
       "meaning": "I just updated my browser.",
-      "sourceWordId": "lau4laam5hei3-hei3-browser",
+      "sourceWordId": "lau4laam5hei3-browser",
       "sourceWord": "瀏覽器",
       "sourceWordJyutping": "lau4 laam5 hei3",
       "sourceWordMeaning": "browser",
@@ -4140,14 +4148,14 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4laam5hei3-hei3-browser.json"
+      "sourceFile": "r2-backup/words/lau4laam5hei3-browser.json"
     },
     {
-      "sentenceId": "lau4laam5hei3-hei3-browser-example-3",
+      "sentenceId": "lau4laam5hei3-browser-example-3",
       "sentence": "瀏覽器入面唔見咗啲書籤。",
       "jyutping": "lau4 laam5 hei3 jap6 min6 m4 gin3 zo2 di1 syu1 cim1.",
       "meaning": "The bookmarks disappeared from the browser.",
-      "sourceWordId": "lau4laam5hei3-hei3-browser",
+      "sourceWordId": "lau4laam5hei3-browser",
       "sourceWord": "瀏覽器",
       "sourceWordJyutping": "lau4 laam5 hei3",
       "sourceWordMeaning": "browser",
@@ -4159,14 +4167,14 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4laam5hei3-hei3-browser.json"
+      "sourceFile": "r2-backup/words/lau4laam5hei3-browser.json"
     },
     {
-      "sentenceId": "lau4laam5hei3-hei3-browser-example-4",
+      "sentenceId": "lau4laam5hei3-browser-example-4",
       "sentence": "用瀏覽器可以睇好多網站資料。",
       "jyutping": "jung6 lau4 laam5 hei3 ho2 ji5 tai2 hou2 do1 mong5 zaam6 zi1 liu2.",
       "meaning": "You can use a browser to view a lot of website information.",
-      "sourceWordId": "lau4laam5hei3-hei3-browser",
+      "sourceWordId": "lau4laam5hei3-browser",
       "sourceWord": "瀏覽器",
       "sourceWordJyutping": "lau4 laam5 hei3",
       "sourceWordMeaning": "browser",
@@ -4178,7 +4186,7 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4laam5hei3-hei3-browser.json"
+      "sourceFile": "r2-backup/words/lau4laam5hei3-browser.json"
     },
     {
       "sentenceId": "sau2cam4-search-example-1",
@@ -4257,11 +4265,11 @@
       "sourceFile": "r2-backup/words/sau2cam4-search.json"
     },
     {
-      "sentenceId": "hin2si6-display-example-1",
+      "sentenceId": "hin2si6-show-example-1",
       "sentence": "電腦螢幕顯示啟動畫面。",
       "jyutping": "din6 nou5 jing4 muk6 hin2 si6 kai2 dung6 waa2 min6.",
       "meaning": "The computer screen shows the startup screen.",
-      "sourceWordId": "hin2si6-display",
+      "sourceWordId": "hin2si6-show",
       "sourceWord": "顯示",
       "sourceWordJyutping": "hin2 si6",
       "sourceWordMeaning": "show",
@@ -4273,14 +4281,14 @@
         "screen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hin2si6-display.json"
+      "sourceFile": "r2-backup/words/hin2si6-show.json"
     },
     {
-      "sentenceId": "hin2si6-display-example-2",
+      "sentenceId": "hin2si6-show-example-2",
       "sentence": "電話上面顯示咗你嘅來電號碼。",
       "jyutping": "din6 waa6 soeng6 min6 hin2 si6 zo2 nei5 ge3 loi4 din6 hou6 maa5.",
       "meaning": "The phone shows your caller ID.",
-      "sourceWordId": "hin2si6-display",
+      "sourceWordId": "hin2si6-show",
       "sourceWord": "顯示",
       "sourceWordJyutping": "hin2 si6",
       "sourceWordMeaning": "show",
@@ -4292,14 +4300,14 @@
         "screen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hin2si6-display.json"
+      "sourceFile": "r2-backup/words/hin2si6-show.json"
     },
     {
-      "sentenceId": "hin2si6-display-example-3",
+      "sentenceId": "hin2si6-show-example-3",
       "sentence": "呢個報告顯示咗公司嘅收益增長。",
       "jyutping": "ni1 go3 bou3 gou3 hin2 si6 zo2 gung1 si1 ge3 sau1 jik6 zang1 coeng4.",
       "meaning": "This report shows the company's revenue growth.",
-      "sourceWordId": "hin2si6-display",
+      "sourceWordId": "hin2si6-show",
       "sourceWord": "顯示",
       "sourceWordJyutping": "hin2 si6",
       "sourceWordMeaning": "show",
@@ -4311,14 +4319,14 @@
         "screen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hin2si6-display.json"
+      "sourceFile": "r2-backup/words/hin2si6-show.json"
     },
     {
-      "sentenceId": "hin2si6-display-example-4",
+      "sentenceId": "hin2si6-show-example-4",
       "sentence": "電子鐘顯示咗而家嘅時間。",
       "jyutping": "din6 zi2 zung1 hin2 si6 zo2 ji4 gaa1 ge3 si4 gaan1.",
       "meaning": "The digital clock shows the current time.",
-      "sourceWordId": "hin2si6-display",
+      "sourceWordId": "hin2si6-show",
       "sourceWord": "顯示",
       "sourceWordJyutping": "hin2 si6",
       "sourceWordMeaning": "show",
@@ -4330,7 +4338,7 @@
         "screen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hin2si6-display.json"
+      "sourceFile": "r2-backup/words/hin2si6-show.json"
     },
     {
       "sentenceId": "syu1cim1-bookmark-example-1",
@@ -4794,152 +4802,156 @@
     },
     {
       "sentenceId": "jam1ngok6-music-example-1",
-      "sentence": "我每日都聽音樂放鬆。",
-      "jyutping": "ngo5 mui5 jat6 dou1 teng1 jam1 ngok6 fong3 sung1.",
-      "meaning": "I listen to music every day to relax.",
+      "sentence": "我好鍾意聽音樂。",
+      "jyutping": "ngo5 hou2 zung1ji3 teng1 jam1 ngok6.",
+      "meaning": "I really like listening to music.",
       "sourceWordId": "jam1ngok6-music",
       "sourceWord": "音樂",
       "sourceWordJyutping": "jam1 ngok6",
       "sourceWordMeaning": "music",
       "tags": [
         "music",
-        "media",
-        "entertainment",
-        "nouns",
-        "listening",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1ngok6-music.json"
     },
     {
       "sentenceId": "jam1ngok6-music-example-2",
-      "sentence": "你鍾意咩類型嘅音樂？",
-      "jyutping": "nei5 zung1 ji3 me1 leoi6 jing4 ge3 jam1 ngok6?",
-      "meaning": "What type of music do you like?",
+      "sentence": "佢成日喺車上面播音樂。",
+      "jyutping": "keoi5 sing4 jat6 hai2 ce1 soeng6 min6 bo3 jam1 ngok6.",
+      "meaning": "He/She often plays music in the car.",
       "sourceWordId": "jam1ngok6-music",
       "sourceWord": "音樂",
       "sourceWordJyutping": "jam1 ngok6",
       "sourceWordMeaning": "music",
       "tags": [
         "music",
-        "media",
-        "entertainment",
-        "nouns",
-        "listening",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1ngok6-music.json"
     },
     {
       "sentenceId": "jam1ngok6-music-example-3",
-      "sentence": "呢首音樂好舒服。",
-      "jyutping": "ni1 sau2 jam1 ngok6 hou2 syu1 fuk6.",
-      "meaning": "This piece of music is very pleasant.",
+      "sentence": "呢間學校有好多音樂課。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 hou2 do1 jam1 ngok6 fo3.",
+      "meaning": "This school has a lot of music classes.",
       "sourceWordId": "jam1ngok6-music",
       "sourceWord": "音樂",
       "sourceWordJyutping": "jam1 ngok6",
       "sourceWordMeaning": "music",
       "tags": [
         "music",
-        "media",
-        "entertainment",
-        "nouns",
-        "listening",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1ngok6-music.json"
     },
     {
       "sentenceId": "jam1ngok6-music-example-4",
-      "sentence": "聽呢個歌手嘅音樂好開心。",
-      "jyutping": "teng1 ni1 go3 go1 sau2 ge3 jam1 ngok6 hou2 hoi1 sam1.",
-      "meaning": "Listening to this singer's music makes me happy.",
+      "sentence": "呢首歌嘅音樂好柔和。",
+      "jyutping": "ni1 sau2 go1 ge3 jam1 ngok6 hou2 jau4 wo4.",
+      "meaning": "The music of this song is very gentle.",
       "sourceWordId": "jam1ngok6-music",
       "sourceWord": "音樂",
       "sourceWordJyutping": "jam1 ngok6",
       "sourceWordMeaning": "music",
       "tags": [
         "music",
-        "media",
-        "entertainment",
-        "nouns",
-        "listening",
+        "general vocabulary",
+        "noun",
+        "common",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jam1ngok6-music.json"
     },
     {
       "sentenceId": "jing2pin3-video-example-1",
-      "sentence": "我想睇啲搞笑嘅影片。",
-      "jyutping": "ngo5 soeng2 tai2 di1 gaau2 siu3 ge3 jing2 pin3.",
-      "meaning": "I want to watch some funny videos.",
+      "sentence": "我喺新聞網站睇到一段影片。",
+      "jyutping": "ngo5 hai2 san1 man4 mong6 zaam6 tai2 dou3 jat1 dyun6 jing2 pin3.",
+      "meaning": "I saw a video on the news website.",
       "sourceWordId": "jing2pin3-video",
       "sourceWord": "影片",
       "sourceWordJyutping": "jing2 pin3",
       "sourceWordMeaning": "video",
       "tags": [
-        "technology",
-        "media",
-        "video",
-        "internet",
-        "digital content",
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jing2pin3-video.json"
     },
     {
       "sentenceId": "jing2pin3-video-example-2",
-      "sentence": "呢段影片好感人。",
-      "jyutping": "ni1 dyun6 jing2 pin3 hou2 gam2 jan4.",
-      "meaning": "This video is very touching.",
+      "sentence": "呢段影片好清楚咁記錄咗現場情況。",
+      "jyutping": "ni1 dyun6 jing2 pin3 hou2 cing1 co2 gam2 gei3 luk6 zo2 jin6 coeng4 cing4 fong3.",
+      "meaning": "This video clearly recorded the scene on site.",
       "sourceWordId": "jing2pin3-video",
       "sourceWord": "影片",
       "sourceWordJyutping": "jing2 pin3",
       "sourceWordMeaning": "video",
       "tags": [
-        "technology",
-        "media",
-        "video",
-        "internet",
-        "digital content",
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jing2pin3-video.json"
     },
     {
       "sentenceId": "jing2pin3-video-example-3",
-      "sentence": "我啱啱上載咗一條新影片。",
-      "jyutping": "ngo5 aam1 aam1 soeng5 zoi6 zo2 jat1 tiu4 san1 jing2 pin3.",
-      "meaning": "I just uploaded a new video.",
+      "sentence": "請將影片上載到公司平台。",
+      "jyutping": "cing2 zoeng1 jing2 pin3 soeng5 zoi3 dou3 gung1 si1 ping4 toi4.",
+      "meaning": "Please upload the video to the company platform.",
       "sourceWordId": "jing2pin3-video",
       "sourceWord": "影片",
       "sourceWordJyutping": "jing2 pin3",
       "sourceWordMeaning": "video",
       "tags": [
-        "technology",
-        "media",
-        "video",
-        "internet",
-        "digital content",
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jing2pin3-video.json"
     },
     {
       "sentenceId": "jing2pin3-video-example-4",
-      "sentence": "你可以用手機剪輯影片。",
-      "jyutping": "nei5 ho2 ji5 jung6 sau2 gei1 zin2 gip3 jing2 pin3.",
-      "meaning": "You can edit videos using your phone.",
+      "sentence": "佢分享咗一條有趣嘅影片俾我哋睇。",
+      "jyutping": "keoi5 fan1 soeng2 zo2 jat1 tiu4 jau5 ceoi3 ge3 jing2 pin3 bei2 ngo5 dei6 tai2.",
+      "meaning": "He shared an interesting video for us to watch.",
       "sourceWordId": "jing2pin3-video",
       "sourceWord": "影片",
       "sourceWordJyutping": "jing2 pin3",
       "sourceWordMeaning": "video",
       "tags": [
-        "technology",
-        "media",
-        "video",
-        "internet",
-        "digital content",
+        "news-media",
+        "media-platforms",
+        "noun",
+        "level-1",
+        "digital-media",
+        "online-content",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jing2pin3-video.json"
@@ -5021,11 +5033,11 @@
       "sourceFile": "r2-backup/words/faat3bou3-post.json"
     },
     {
-      "sentenceId": "seon3sik1-information-example-1",
+      "sentenceId": "seon3sik1-message-example-1",
       "sentence": "我收到一封新訊息。",
       "jyutping": "ngo5 sau1 dou3 jat1 fau1 san1 seon3 sik1.",
       "meaning": "I received a new message.",
-      "sourceWordId": "seon3sik1-information",
+      "sourceWordId": "seon3sik1-message",
       "sourceWord": "訊息",
       "sourceWordJyutping": "seon3 sik1",
       "sourceWordMeaning": "message",
@@ -5037,14 +5049,14 @@
         "notifications",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seon3sik1-information.json"
+      "sourceFile": "r2-backup/words/seon3sik1-message.json"
     },
     {
-      "sentenceId": "seon3sik1-information-example-2",
+      "sentenceId": "seon3sik1-message-example-2",
       "sentence": "你有冇睇過呢個訊息？",
       "jyutping": "nei5 jau5 mou5 tai2 gwo3 ni1 go3 seon3 sik1?",
       "meaning": "Have you seen this message?",
-      "sourceWordId": "seon3sik1-information",
+      "sourceWordId": "seon3sik1-message",
       "sourceWord": "訊息",
       "sourceWordJyutping": "seon3 sik1",
       "sourceWordMeaning": "message",
@@ -5056,14 +5068,14 @@
         "notifications",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seon3sik1-information.json"
+      "sourceFile": "r2-backup/words/seon3sik1-message.json"
     },
     {
-      "sentenceId": "seon3sik1-information-example-3",
+      "sentenceId": "seon3sik1-message-example-3",
       "sentence": "訊息通知咗我哋開會時間。",
       "jyutping": "seon3 sik1 tung1 zi1 zo2 ngo5 dei6 hoi1 wui6 si4 gaan3.",
       "meaning": "The message notified us about the meeting time.",
-      "sourceWordId": "seon3sik1-information",
+      "sourceWordId": "seon3sik1-message",
       "sourceWord": "訊息",
       "sourceWordJyutping": "seon3 sik1",
       "sourceWordMeaning": "message",
@@ -5075,14 +5087,14 @@
         "notifications",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seon3sik1-information.json"
+      "sourceFile": "r2-backup/words/seon3sik1-message.json"
     },
     {
-      "sentenceId": "seon3sik1-information-example-4",
+      "sentenceId": "seon3sik1-message-example-4",
       "sentence": "佢經常用手機發訊息畀朋友。",
       "jyutping": "keoi5 ging1 soeng4 jung6 sau2 gei1 faat3 seon3 sik1 bei2 pang4 jau5.",
       "meaning": "He often uses his phone to send messages to friends.",
-      "sourceWordId": "seon3sik1-information",
+      "sourceWordId": "seon3sik1-message",
       "sourceWord": "訊息",
       "sourceWordJyutping": "seon3 sik1",
       "sourceWordMeaning": "message",
@@ -5094,7 +5106,7 @@
         "notifications",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seon3sik1-information.json"
+      "sourceFile": "r2-backup/words/seon3sik1-message.json"
     },
     {
       "sentenceId": "zaan3hou2-like-example-1",
@@ -6161,7 +6173,7 @@
       "sourceFile": "r2-backup/words/zit6tou4-screenshot.json"
     },
     {
-      "sentenceId": "fei1hang4mou5sik1-mou5sik1-airplane-mode-example-1",
+      "sentenceId": "fei1hang4mou5sik1-airplane-mode-example-1",
       "sentence": "你記得開啟飛行模式，飛機上唔好用手機。",
       "jyutping": "nei5 gei3 dak1 hoi1 hei2 fei1 hang4 mou5 sik1, fei1 gei1 soeng5 m4 hou2 jung6 sau2 gei1.",
       "meaning": "Remember to turn on airplane mode, don't use your phone on the plane.",
@@ -6180,7 +6192,7 @@
       "sourceFile": "r2-backup/words/fei1hang4mou5sik1-airplane-mode.json"
     },
     {
-      "sentenceId": "fei1hang4mou5sik1-mou5sik1-airplane-mode-example-2",
+      "sentenceId": "fei1hang4mou5sik1-airplane-mode-example-2",
       "sentence": "我啱啱關咗飛行模式，依家可以收短信。",
       "jyutping": "ngo5 ngaam1 ngaam1 gwaan1 zo2 fei1 hang4 mou5 sik1, ji1 gaa1 ho2 ji5 sau1 dyun2 seon3.",
       "meaning": "I just turned off airplane mode, now I can receive text messages.",
@@ -6199,7 +6211,7 @@
       "sourceFile": "r2-backup/words/fei1hang4mou5sik1-airplane-mode.json"
     },
     {
-      "sentenceId": "fei1hang4mou5sik1-mou5sik1-airplane-mode-example-3",
+      "sentenceId": "fei1hang4mou5sik1-airplane-mode-example-3",
       "sentence": "手機喺飛行模式嘅時候，唔會有訊號。",
       "jyutping": "sau2 gei1 hai2 fei1 hang4 mou5 sik1 ge3 si4 hau6, m4 wui5 jau5 seon3 hou6.",
       "meaning": "When the phone is in airplane mode, there will be no signal.",
@@ -6218,7 +6230,7 @@
       "sourceFile": "r2-backup/words/fei1hang4mou5sik1-airplane-mode.json"
     },
     {
-      "sentenceId": "fei1hang4mou5sik1-mou5sik1-airplane-mode-example-4",
+      "sentenceId": "fei1hang4mou5sik1-airplane-mode-example-4",
       "sentence": "你可以快速開關飛行模式，就喺控制中心。",
       "jyutping": "nei5 ho2 ji5 faai3 cuk1 hoi1 gwaan1 fei1 hang4 mou5 sik1, zau6 hai2 hung3 zi6 zung1 sam1.",
       "meaning": "You can quickly toggle airplane mode in the control center.",
@@ -6389,11 +6401,11 @@
       "sourceFile": "r2-backup/words/zi2man4-fingerprint.json"
     },
     {
-      "sentenceId": "min6jung4sik1bit6-face-id-example-1",
+      "sentenceId": "min6jung4sik1bit6-face-recognition-example-1",
       "sentence": "我啓用咗部機嘅面容識別。",
       "jyutping": "ngo5 kai2 jung6 zo2 bou6 gei1 ge3 min6 jung4 sik1 bit6.",
       "meaning": "I enabled the phone's face recognition.",
-      "sourceWordId": "min6jung4sik1bit6-face-id",
+      "sourceWordId": "min6jung4sik1bit6-face-recognition",
       "sourceWord": "面容識別",
       "sourceWordJyutping": "min6 jung4 sik1 bit6",
       "sourceWordMeaning": "face recognition",
@@ -6405,14 +6417,14 @@
         "mobile",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-id.json"
+      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-recognition.json"
     },
     {
-      "sentenceId": "min6jung4sik1bit6-face-id-example-2",
+      "sentenceId": "min6jung4sik1bit6-face-recognition-example-2",
       "sentence": "面容識別好方便，唔使記密碼。",
       "jyutping": "min6 jung4 sik1 bit6 hou2 fong1 bin6, m4 sai2 gei3 mat6 maa5.",
       "meaning": "Face recognition is convenient, no need to remember passwords.",
-      "sourceWordId": "min6jung4sik1bit6-face-id",
+      "sourceWordId": "min6jung4sik1bit6-face-recognition",
       "sourceWord": "面容識別",
       "sourceWordJyutping": "min6 jung4 sik1 bit6",
       "sourceWordMeaning": "face recognition",
@@ -6424,14 +6436,14 @@
         "mobile",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-id.json"
+      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-recognition.json"
     },
     {
-      "sentenceId": "min6jung4sik1bit6-face-id-example-3",
+      "sentenceId": "min6jung4sik1bit6-face-recognition-example-3",
       "sentence": "你嘅手機有冇支持面容識別？",
       "jyutping": "nei5 ge3 sau2 gei1 jau5 mou5 zi1 ci4 min6 jung4 sik1 bit6?",
       "meaning": "Does your phone support face recognition?",
-      "sourceWordId": "min6jung4sik1bit6-face-id",
+      "sourceWordId": "min6jung4sik1bit6-face-recognition",
       "sourceWord": "面容識別",
       "sourceWordJyutping": "min6 jung4 sik1 bit6",
       "sourceWordMeaning": "face recognition",
@@ -6443,14 +6455,14 @@
         "mobile",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-id.json"
+      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-recognition.json"
     },
     {
-      "sentenceId": "min6jung4sik1bit6-face-id-example-4",
+      "sentenceId": "min6jung4sik1bit6-face-recognition-example-4",
       "sentence": "面容識別可以提升安全性。",
       "jyutping": "min6 jung4 sik1 bit6 ho2 ji5 tai4 sing1 ngon1 cyun4 sing3.",
       "meaning": "Face recognition can enhance security.",
-      "sourceWordId": "min6jung4sik1bit6-face-id",
+      "sourceWordId": "min6jung4sik1bit6-face-recognition",
       "sourceWord": "面容識別",
       "sourceWordJyutping": "min6 jung4 sik1 bit6",
       "sourceWordMeaning": "face recognition",
@@ -6462,7 +6474,7 @@
         "mobile",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-id.json"
+      "sourceFile": "r2-backup/words/min6jung4sik1bit6-face-recognition.json"
     },
     {
       "sentenceId": "man4gin6-document-example-1",
@@ -6921,87 +6933,11 @@
       "sourceFile": "r2-backup/words/pin1kap1-edit.json"
     },
     {
-      "sentenceId": "gaa1-add-example-1",
-      "sentence": "我想加糖喺咖啡入面。",
-      "jyutping": "ngo5 soeng2 gaa1 tong4 hai2 gaa3 fe1 jap6 min6.",
-      "meaning": "I want to add sugar to the coffee.",
-      "sourceWordId": "gaa1-add",
-      "sourceWord": "加",
-      "sourceWordJyutping": "gaa1",
-      "sourceWordMeaning": "add",
-      "tags": [
-        "verb",
-        "common",
-        "daily use",
-        "technology",
-        "food",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/gaa1-add.json"
-    },
-    {
-      "sentenceId": "gaa1-add-example-2",
-      "sentence": "你可以加我做朋友嗎？",
-      "jyutping": "nei5 ho2 ji5 gaa1 ngo5 zou6 pang4 jau5 maa3?",
-      "meaning": "Can you add me as a friend?",
-      "sourceWordId": "gaa1-add",
-      "sourceWord": "加",
-      "sourceWordJyutping": "gaa1",
-      "sourceWordMeaning": "add",
-      "tags": [
-        "verb",
-        "common",
-        "daily use",
-        "technology",
-        "food",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/gaa1-add.json"
-    },
-    {
-      "sentenceId": "gaa1-add-example-3",
-      "sentence": "請加多啲油喺炒菜度。",
-      "jyutping": "cing2 gaa1 do1 di1 jau4 hai2 caau2 coi3 dou6.",
-      "meaning": "Please add more oil when stir-frying.",
-      "sourceWordId": "gaa1-add",
-      "sourceWord": "加",
-      "sourceWordJyutping": "gaa1",
-      "sourceWordMeaning": "add",
-      "tags": [
-        "verb",
-        "common",
-        "daily use",
-        "technology",
-        "food",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/gaa1-add.json"
-    },
-    {
-      "sentenceId": "gaa1-add-example-4",
-      "sentence": "佢加咗幾張相上網。",
-      "jyutping": "keoi5 gaa1 zo2 gei2 zoeng1 soeng2 soeng5 mong5.",
-      "meaning": "He/she added a few photos online.",
-      "sourceWordId": "gaa1-add",
-      "sourceWord": "加",
-      "sourceWordJyutping": "gaa1",
-      "sourceWordMeaning": "add",
-      "tags": [
-        "verb",
-        "common",
-        "daily use",
-        "technology",
-        "food",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/gaa1-add.json"
-    },
-    {
-      "sentenceId": "saan1-remove-example-1",
+      "sentenceId": "saan1-delete-example-1",
       "sentence": "我想刪啲唔重要嘅相。",
       "jyutping": "ngo5 soeng2 saan1 di1 m4 zung6 jiu3 ge3 soeng2.",
       "meaning": "I want to delete some unimportant photos.",
-      "sourceWordId": "saan1-remove",
+      "sourceWordId": "saan1-delete",
       "sourceWord": "刪",
       "sourceWordJyutping": "saan1",
       "sourceWordMeaning": "delete",
@@ -7013,14 +6949,14 @@
         "deletion",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan1-remove.json"
+      "sourceFile": "r2-backup/words/saan1-delete.json"
     },
     {
-      "sentenceId": "saan1-remove-example-2",
+      "sentenceId": "saan1-delete-example-2",
       "sentence": "唔好亂刪啲文件！",
       "jyutping": "m4 hou2 lyun6 saan1 di1 man4 gin2!",
       "meaning": "Don't randomly delete the documents!",
-      "sourceWordId": "saan1-remove",
+      "sourceWordId": "saan1-delete",
       "sourceWord": "刪",
       "sourceWordJyutping": "saan1",
       "sourceWordMeaning": "delete",
@@ -7032,14 +6968,14 @@
         "deletion",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan1-remove.json"
+      "sourceFile": "r2-backup/words/saan1-delete.json"
     },
     {
-      "sentenceId": "saan1-remove-example-3",
+      "sentenceId": "saan1-delete-example-3",
       "sentence": "你刪咗呢句留言未？",
       "jyutping": "nei5 saan1 zo2 ni1 geoi3 lau4 jin4 mei6?",
       "meaning": "Have you deleted that comment yet?",
-      "sourceWordId": "saan1-remove",
+      "sourceWordId": "saan1-delete",
       "sourceWord": "刪",
       "sourceWordJyutping": "saan1",
       "sourceWordMeaning": "delete",
@@ -7051,14 +6987,14 @@
         "deletion",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan1-remove.json"
+      "sourceFile": "r2-backup/words/saan1-delete.json"
     },
     {
-      "sentenceId": "saan1-remove-example-4",
+      "sentenceId": "saan1-delete-example-4",
       "sentence": "我需唔需要刪低啲舊嘅檔案？",
       "jyutping": "ngo5 seoi1 m4 seoi1 jiu3 saan1 dai1 di1 gau6 ge3 dong2 on3?",
       "meaning": "Do I need to delete some old files?",
-      "sourceWordId": "saan1-remove",
+      "sourceWordId": "saan1-delete",
       "sourceWord": "刪",
       "sourceWordJyutping": "saan1",
       "sourceWordMeaning": "delete",
@@ -7070,7 +7006,7 @@
         "deletion",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan1-remove.json"
+      "sourceFile": "r2-backup/words/saan1-delete.json"
     },
     {
       "sentenceId": "fuk1zai3-copy-example-1",
@@ -7225,11 +7161,11 @@
       "sourceFile": "r2-backup/words/tip3soeng5-paste.json"
     },
     {
-      "sentenceId": "wan6hang4-running-example-1",
+      "sentenceId": "wan6hang4-run-example-1",
       "sentence": "呢部電腦喺正常運行。",
       "jyutping": "ni1 bou6 din6 nou5 hai6 zing3 coeng4 wan6 hang4.",
       "meaning": "This computer is running normally.",
-      "sourceWordId": "wan6hang4-running",
+      "sourceWordId": "wan6hang4-run",
       "sourceWord": "運行",
       "sourceWordJyutping": "wan6 hang4",
       "sourceWordMeaning": "run",
@@ -7241,14 +7177,14 @@
         "software",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6hang4-running.json"
+      "sourceFile": "r2-backup/words/wan6hang4-run.json"
     },
     {
-      "sentenceId": "wan6hang4-running-example-2",
+      "sentenceId": "wan6hang4-run-example-2",
       "sentence": "系統開始運行咗。",
       "jyutping": "hai6 tung2 hoi1 ci2 wan6 hang4 zo2.",
       "meaning": "The system has started running.",
-      "sourceWordId": "wan6hang4-running",
+      "sourceWordId": "wan6hang4-run",
       "sourceWord": "運行",
       "sourceWordJyutping": "wan6 hang4",
       "sourceWordMeaning": "run",
@@ -7260,14 +7196,14 @@
         "software",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6hang4-running.json"
+      "sourceFile": "r2-backup/words/wan6hang4-run.json"
     },
     {
-      "sentenceId": "wan6hang4-running-example-3",
+      "sentenceId": "wan6hang4-run-example-3",
       "sentence": "程式運行得好快。",
       "jyutping": "cing4 sik1 wan6 hang4 dak1 hou2 faai3.",
       "meaning": "The program runs very fast.",
-      "sourceWordId": "wan6hang4-running",
+      "sourceWordId": "wan6hang4-run",
       "sourceWord": "運行",
       "sourceWordJyutping": "wan6 hang4",
       "sourceWordMeaning": "run",
@@ -7279,14 +7215,14 @@
         "software",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6hang4-running.json"
+      "sourceFile": "r2-backup/words/wan6hang4-run.json"
     },
     {
-      "sentenceId": "wan6hang4-running-example-4",
+      "sentenceId": "wan6hang4-run-example-4",
       "sentence": "機械喺夜晚都運行緊。",
       "jyutping": "gei1 haai6 hai6 je6 maan5 dou1 wan6 hang4 gan2.",
       "meaning": "The machine is running even at night.",
-      "sourceWordId": "wan6hang4-running",
+      "sourceWordId": "wan6hang4-run",
       "sourceWord": "運行",
       "sourceWordJyutping": "wan6 hang4",
       "sourceWordMeaning": "run",
@@ -7298,14 +7234,14 @@
         "software",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6hang4-running.json"
+      "sourceFile": "r2-backup/words/wan6hang4-run.json"
     },
     {
-      "sentenceId": "ting4zi2-stopped-example-1",
+      "sentenceId": "ting4zi2-stop-example-1",
       "sentence": "請停止下載檔案。",
       "jyutping": "cing2 ting4 zi2 haa6 zoi6 dong2 on3.",
       "meaning": "Please stop downloading the file.",
-      "sourceWordId": "ting4zi2-stopped",
+      "sourceWordId": "ting4zi2-stop",
       "sourceWord": "停止",
       "sourceWordJyutping": "ting4 zi2",
       "sourceWordMeaning": "stop",
@@ -7317,14 +7253,14 @@
         "computer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ting4zi2-stopped.json"
+      "sourceFile": "r2-backup/words/ting4zi2-stop.json"
     },
     {
-      "sentenceId": "ting4zi2-stopped-example-2",
+      "sentenceId": "ting4zi2-stop-example-2",
       "sentence": "電腦突然停止運作。",
       "jyutping": "din6 nou5 dat6 jin4 ting4 zi2 wan6 zok3.",
       "meaning": "The computer suddenly stopped working.",
-      "sourceWordId": "ting4zi2-stopped",
+      "sourceWordId": "ting4zi2-stop",
       "sourceWord": "停止",
       "sourceWordJyutping": "ting4 zi2",
       "sourceWordMeaning": "stop",
@@ -7336,14 +7272,14 @@
         "computer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ting4zi2-stopped.json"
+      "sourceFile": "r2-backup/words/ting4zi2-stop.json"
     },
     {
-      "sentenceId": "ting4zi2-stopped-example-3",
+      "sentenceId": "ting4zi2-stop-example-3",
       "sentence": "我們應該立即停止使用呢部電話。",
       "jyutping": "ngo5 mun4 jing1 goi1 lap6 zik6 ting4 zi2 si6 jung6 ni1 bou6 din6 waa2.",
       "meaning": "We should immediately stop using this phone.",
-      "sourceWordId": "ting4zi2-stopped",
+      "sourceWordId": "ting4zi2-stop",
       "sourceWord": "停止",
       "sourceWordJyutping": "ting4 zi2",
       "sourceWordMeaning": "stop",
@@ -7355,14 +7291,14 @@
         "computer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ting4zi2-stopped.json"
+      "sourceFile": "r2-backup/words/ting4zi2-stop.json"
     },
     {
-      "sentenceId": "ting4zi2-stopped-example-4",
+      "sentenceId": "ting4zi2-stop-example-4",
       "sentence": "當系統停止時，要重新啟動。",
       "jyutping": "dong1 hai6 tung2 ting4 zi2 si4, jiu3 cung4 san1 kai2 dung6.",
       "meaning": "When the system stops, it needs to restart.",
-      "sourceWordId": "ting4zi2-stopped",
+      "sourceWordId": "ting4zi2-stop",
       "sourceWord": "停止",
       "sourceWordJyutping": "ting4 zi2",
       "sourceWordMeaning": "stop",
@@ -7374,7 +7310,7 @@
         "computer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ting4zi2-stopped.json"
+      "sourceFile": "r2-backup/words/ting4zi2-stop.json"
     },
     {
       "sentenceId": "zaam6ting4-pause-example-1",
@@ -7909,5 +7845,7 @@
       "sourceFile": "r2-backup/words/caap3zo6-socket.json"
     }
   ],
-  "missingWordFiles": []
+  "missingWordFiles": [
+    "gaa1-add"
+  ]
 }

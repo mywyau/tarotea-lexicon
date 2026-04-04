@@ -2,7 +2,7 @@
   "topic": "science",
   "title": "Science",
   "totalWords": 84,
-  "totalSentences": 336,
+  "totalSentences": 338,
   "items": [
     {
       "sentenceId": "fo1hok6-science-example-1",
@@ -25,9 +25,9 @@
     },
     {
       "sentenceId": "fo1hok6-science-example-2",
-      "sentence": "學校嘅科學課好有趣。",
-      "jyutping": "hok6 haau6 ge3 fo1 hok6 fo3 hou2 jau5 ceoi3",
-      "meaning": "The school's science class is very interesting.",
+      "sentence": "我最鍾意上科學堂。",
+      "jyutping": "ngo5 zeoi3 zung1 ji3 soeng5 fo1 hok6 tong4",
+      "meaning": "Science is my favourite class.",
       "sourceWordId": "fo1hok6-science",
       "sourceWord": "科學",
       "sourceWordJyutping": "fo1 hok6",
@@ -44,8 +44,8 @@
     },
     {
       "sentenceId": "fo1hok6-science-example-3",
-      "sentence": "依家科技同科學關係好密。",
-      "jyutping": "ji1 gaa1 fo1 gei6 tung4 fo1 hok6 gwaan1 hai6 hou2 mat6",
+      "sentence": "而家科技同科學關係好密切。",
+      "jyutping": "ji4 gaa1 fo1 gei6 tung4 fo1 hok6 gwaan1 hai6 hou2 mat6 cit3",
       "meaning": "Nowadays, technology and science are closely related.",
       "sourceWordId": "fo1hok6-science",
       "sourceWord": "科學",
@@ -63,7 +63,7 @@
     },
     {
       "sentenceId": "fo1hok6-science-example-4",
-      "sentence": "科學幫助我地了解世界。",
+      "sentence": "科學幫助我哋了解世界。",
       "jyutping": "fo1 hok6 bong1 zo6 ngo5 dei6 liu5 gaai2 sai3 gaai3",
       "meaning": "Science helps us understand the world.",
       "sourceWordId": "fo1hok6-science",
@@ -81,10 +81,29 @@
       "sourceFile": "r2-backup/words/fo1hok6-science.json"
     },
     {
+      "sentenceId": "fo1hok6-science-example-5",
+      "sentence": "佢想做科學家。",
+      "jyutping": "keoi5 soeng2 zou6 fo1 hok6 gaa1",
+      "meaning": "He / she wants to be a scientist.",
+      "sourceWordId": "fo1hok6-science",
+      "sourceWord": "科學",
+      "sourceWordJyutping": "fo1 hok6",
+      "sourceWordMeaning": "science",
+      "tags": [
+        "science",
+        "education",
+        "school",
+        "study",
+        "knowledge",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo1hok6-science.json"
+    },
+    {
       "sentenceId": "fo1hok6gaa1-scientist-example-1",
       "sentence": "佢係一個著名嘅科學家。",
-      "jyutping": "keoi5 hai6 jat1 go3 zoek3 ming4 ge3 fo1 hok6 gaa1.",
-      "meaning": "He is a famous scientist.",
+      "jyutping": "keoi5 hai6 jat1 go3 zyu3 ming4 ge3 fo1 hok6 gaa1",
+      "meaning": "He / she is a famous scientist.",
       "sourceWordId": "fo1hok6gaa1-scientist",
       "sourceWord": "科學家",
       "sourceWordJyutping": "fo1 hok6 gaa1",
@@ -100,9 +119,9 @@
     },
     {
       "sentenceId": "fo1hok6gaa1-scientist-example-2",
-      "sentence": "科學家研究點樣治病。",
-      "jyutping": "fo1 hok6 gaa1 jin4 gau3 dim2 joeng6 zi6 beng6.",
-      "meaning": "Scientists study how to cure diseases.",
+      "sentence": "科學家做咗好多重要嘅研究。",
+      "jyutping": "fo1 hok6 gaa1 zou6 zo2 hou2 do1 zung6 jiu3 ge3 jin4 gau3",
+      "meaning": "Scientists have done a lot of important research.",
       "sourceWordId": "fo1hok6gaa1-scientist",
       "sourceWord": "科學家",
       "sourceWordJyutping": "fo1 hok6 gaa1",
@@ -119,7 +138,7 @@
     {
       "sentenceId": "fo1hok6gaa1-scientist-example-3",
       "sentence": "啲科學家喺實驗室工作。",
-      "jyutping": "di1 fo1 hok6 gaa1 hai2 sat6 jim6 sat1 gung1 zok3.",
+      "jyutping": "di1 fo1 hok6 gaa1 hai2 sat6 jim6 sat1 gung1 zok3",
       "meaning": "The scientists work in the laboratory.",
       "sourceWordId": "fo1hok6gaa1-scientist",
       "sourceWord": "科學家",
@@ -136,9 +155,27 @@
     },
     {
       "sentenceId": "fo1hok6gaa1-scientist-example-4",
-      "sentence": "我想做一個科學家，發明新嘢。",
-      "jyutping": "ngo5 soeng2 zou6 jat1 go3 fo1 hok6 gaa1, faat3 ming4 san1 je5.",
-      "meaning": "I want to be a scientist and invent new things.",
+      "sentence": "我想做一個科學家。",
+      "jyutping": "ngo5 soeng2 zou6 jat1 go3 fo1 hok6 gaa1",
+      "meaning": "I want to be a scientist.",
+      "sourceWordId": "fo1hok6gaa1-scientist",
+      "sourceWord": "科學家",
+      "sourceWordJyutping": "fo1 hok6 gaa1",
+      "sourceWordMeaning": "scientist",
+      "tags": [
+        "science",
+        "profession",
+        "education",
+        "research",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/fo1hok6gaa1-scientist.json"
+    },
+    {
+      "sentenceId": "fo1hok6gaa1-scientist-example-5",
+      "sentence": "呢位科學家發明咗新技術。",
+      "jyutping": "ni1 wai2 fo1 hok6 gaa1 faat3 ming4 zo2 san1 gei6 seot6",
+      "meaning": "This scientist invented a new technology.",
       "sourceWordId": "fo1hok6gaa1-scientist",
       "sourceWord": "科學家",
       "sourceWordJyutping": "fo1 hok6 gaa1",
@@ -154,76 +191,76 @@
     },
     {
       "sentenceId": "jin4gau3-research-example-1",
-      "sentence": "我做緊天氣嘅研究。",
-      "jyutping": "ngo5 zou6 gan2 tin1 hei3 ge3 jin4 gau3.",
-      "meaning": "I am doing research on the weather.",
+      "sentence": "我想研究廣東話拼音。",
+      "jyutping": "ngo5 soeng2 jin4gau3 gwong2 dung1 waa2 ping3 jam1.",
+      "meaning": "I want to research Cantonese romanization.",
       "sourceWordId": "jin4gau3-research",
       "sourceWord": "研究",
       "sourceWordJyutping": "jin4 gau3",
       "sourceWordMeaning": "research",
       "tags": [
-        "science",
-        "education",
-        "learning",
+        "academic",
+        "school",
         "study",
-        "research",
+        "formal",
+        "reading",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jin4gau3-research.json"
     },
     {
       "sentenceId": "jin4gau3-research-example-2",
-      "sentence": "呢個研究幫助我了解更多知識。",
-      "jyutping": "ni1 go3 jin4 gau3 bong1 zo6 ngo5 liu5 gaai2 gang3 do1 zi1 sik1.",
-      "meaning": "This research helps me understand more knowledge.",
+      "sentence": "呢個題目值得研究。",
+      "jyutping": "ni1 go3 tai4 muk6 zik1 dak1 jin4gau3.",
+      "meaning": "This topic is worth researching.",
       "sourceWordId": "jin4gau3-research",
       "sourceWord": "研究",
       "sourceWordJyutping": "jin4 gau3",
       "sourceWordMeaning": "research",
       "tags": [
-        "science",
-        "education",
-        "learning",
+        "academic",
+        "school",
         "study",
-        "research",
+        "formal",
+        "reading",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jin4gau3-research.json"
     },
     {
       "sentenceId": "jin4gau3-research-example-3",
-      "sentence": "佢係一位專門做癌症研究嘅科學家。",
-      "jyutping": "keoi5 hai6 jat1 wai2 zyun1 mun4 zou6 ngaam4 zing3 jin4 gau3 ge3 fo1 hok6 gaa1.",
-      "meaning": "He is a scientist specializing in cancer research.",
+      "sentence": "佢喺大學做研究。",
+      "jyutping": "keoi5 hai2 daai6 hok6 zou6 jin4gau3.",
+      "meaning": "He/She does research at a university.",
       "sourceWordId": "jin4gau3-research",
       "sourceWord": "研究",
       "sourceWordJyutping": "jin4 gau3",
       "sourceWordMeaning": "research",
       "tags": [
-        "science",
-        "education",
-        "learning",
+        "academic",
+        "school",
         "study",
-        "research",
+        "formal",
+        "reading",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jin4gau3-research.json"
     },
     {
       "sentenceId": "jin4gau3-research-example-4",
-      "sentence": "我想研究更多關於呢個技術嘅資料。",
-      "jyutping": "ngo5 soeng2 jin4 gau3 gang3 do1 gwaan1 jyu1 ni1 go3 gei6 seot6 ge3 zi1 liu2.",
-      "meaning": "I want to research more information about this technology.",
+      "sentence": "老師叫我哋先做資料研究。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 sin1 zou6 zi1 liu2 jin4gau3.",
+      "meaning": "The teacher told us to do source research first.",
       "sourceWordId": "jin4gau3-research",
       "sourceWord": "研究",
       "sourceWordJyutping": "jin4 gau3",
       "sourceWordMeaning": "research",
       "tags": [
-        "science",
-        "education",
-        "learning",
+        "academic",
+        "school",
         "study",
-        "research",
+        "formal",
+        "reading",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jin4gau3-research.json"
@@ -381,14 +418,14 @@
       "sourceFile": "r2-backup/words/lei5leon6-theory.json"
     },
     {
-      "sentenceId": "zing3ming4-proof-example-1",
-      "sentence": "你要帶身分證作為證明。",
-      "jyutping": "nei5 jiu3 daai3 san1 fan6 zing3 zok3 wai6 zing3 ming4.",
-      "meaning": "You need to bring an ID card as proof.",
-      "sourceWordId": "zing3ming4-proof",
+      "sentenceId": "zing3ming4-proof-certificate-to-prove-example-1",
+      "sentence": "你要帶身份證作為證明。",
+      "jyutping": "nei5 jiu3 daai3 san1 fan6 zing3 zok3 wai4 zing3 ming4.",
+      "meaning": "You need to bring your ID card as proof.",
+      "sourceWordId": "zing3ming4-proof-certificate-to-prove",
       "sourceWord": "證明",
       "sourceWordJyutping": "zing3 ming4",
-      "sourceWordMeaning": "proof",
+      "sourceWordMeaning": "proof; certificate; to prove",
       "tags": [
         "science",
         "proof",
@@ -397,17 +434,17 @@
         "academic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing3ming4-proof.json"
+      "sourceFile": "r2-backup/words/zing3ming4-proof-certificate-to-prove.json"
     },
     {
-      "sentenceId": "zing3ming4-proof-example-2",
-      "sentence": "這篇文章裡有清楚的證明。",
-      "jyutping": "ze5 pin1 man4 zoeng1 leoi5 jau5 cing1 co2 dik1 zing3 ming4.",
-      "meaning": "This article contains clear proof.",
-      "sourceWordId": "zing3ming4-proof",
+      "sentenceId": "zing3ming4-proof-certificate-to-prove-example-2",
+      "sentence": "佢攞出收據作為證明。",
+      "jyutping": "keoi5 lo2 ceot1 sau1 geoi3 zok3 wai4 zing3 ming4.",
+      "meaning": "He took out the receipt as proof.",
+      "sourceWordId": "zing3ming4-proof-certificate-to-prove",
       "sourceWord": "證明",
       "sourceWordJyutping": "zing3 ming4",
-      "sourceWordMeaning": "proof",
+      "sourceWordMeaning": "proof; certificate; to prove",
       "tags": [
         "science",
         "proof",
@@ -416,17 +453,17 @@
         "academic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing3ming4-proof.json"
+      "sourceFile": "r2-backup/words/zing3ming4-proof-certificate-to-prove.json"
     },
     {
-      "sentenceId": "zing3ming4-proof-example-3",
+      "sentenceId": "zing3ming4-proof-certificate-to-prove-example-3",
       "sentence": "科學家用實驗證明理論。",
       "jyutping": "fo1 hok6 gaa1 jung6 sat6 jim6 zing3 ming4 lei5 leon6.",
       "meaning": "Scientists use experiments to prove theories.",
-      "sourceWordId": "zing3ming4-proof",
+      "sourceWordId": "zing3ming4-proof-certificate-to-prove",
       "sourceWord": "證明",
       "sourceWordJyutping": "zing3 ming4",
-      "sourceWordMeaning": "proof",
+      "sourceWordMeaning": "proof; certificate; to prove",
       "tags": [
         "science",
         "proof",
@@ -435,17 +472,17 @@
         "academic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing3ming4-proof.json"
+      "sourceFile": "r2-backup/words/zing3ming4-proof-certificate-to-prove.json"
     },
     {
-      "sentenceId": "zing3ming4-proof-example-4",
-      "sentence": "法庭需要證明被告的罪行。",
-      "jyutping": "faat3 teng4 seoi1 jiu3 zing3 ming4 bei6 gou3 dik1 zeoi6 hang4.",
-      "meaning": "The court needs proof of the defendant's crime.",
-      "sourceWordId": "zing3ming4-proof",
+      "sentenceId": "zing3ming4-proof-certificate-to-prove-example-4",
+      "sentence": "法庭需要證明被告有罪。",
+      "jyutping": "faat3 ting4 seoi1 jiu3 zing3 ming4 bei6 gou3 jau5 zeoi6.",
+      "meaning": "The court needs to prove that the defendant is guilty.",
+      "sourceWordId": "zing3ming4-proof-certificate-to-prove",
       "sourceWord": "證明",
       "sourceWordJyutping": "zing3 ming4",
-      "sourceWordMeaning": "proof",
+      "sourceWordMeaning": "proof; certificate; to prove",
       "tags": [
         "science",
         "proof",
@@ -454,7 +491,7 @@
         "academic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing3ming4-proof.json"
+      "sourceFile": "r2-backup/words/zing3ming4-proof-certificate-to-prove.json"
     },
     {
       "sentenceId": "sat6jim6-experiment-example-1",
@@ -533,14 +570,14 @@
       "sourceFile": "r2-backup/words/sat6jim6-experiment.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-1",
-      "sentence": "我哋仲未收到測試嘅結果。",
-      "jyutping": "ngo5 dei6 zung6 mei6 sau1 dou3 cek3 si3 ge3 git3 gwo2.",
-      "meaning": "We haven’t received the test results yet.",
-      "sourceWordId": "git3gwo2-result",
+      "sentenceId": "git3gwo2-result-outcome-example-1",
+      "sentence": "我哋仲未收到測試結果。",
+      "jyutping": "ngo5 dei6 zung6 mei6 sau1 dou3 cak1 si3 git3 gwo2.",
+      "meaning": "We haven't received the test results yet.",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -549,17 +586,17 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-2",
-      "sentence": "研究嘅結果好令人驚訝。",
-      "jyutping": "jin4 gau3 ge3 git3 gwo2 hou2 ling6 jan4 ging1 ngaa6.",
+      "sentenceId": "git3gwo2-result-outcome-example-2",
+      "sentence": "研究結果好令人驚訝。",
+      "jyutping": "jin4 gau3 git3 gwo2 hou2 ling6 jan4 ging1 ngaa6.",
       "meaning": "The research results are very surprising.",
-      "sourceWordId": "git3gwo2-result",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -568,17 +605,17 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-3",
-      "sentence": "你睇吓計算嘅結果係啱嘅。",
-      "jyutping": "nei5 tai2 haa5 gai3 syun3 ge3 git3 gwo2 hai6 aam1 ge3.",
-      "meaning": "Look, the calculation results are correct.",
-      "sourceWordId": "git3gwo2-result",
+      "sentenceId": "git3gwo2-result-outcome-example-3",
+      "sentence": "你睇吓，計算結果係啱嘅。",
+      "jyutping": "nei5 tai2 haa5, gai3 syun3 git3 gwo2 hai6 aam1 ge3.",
+      "meaning": "Look, the result of the calculation is correct.",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -587,17 +624,17 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
-      "sentenceId": "git3gwo2-result-example-4",
-      "sentence": "呢個實驗嘅結果證明咗理論。",
-      "jyutping": "ni1 go3 sat6 jim6 ge3 git3 gwo2 zing3 ming4 zo2 lei5 leon6.",
-      "meaning": "The experiment results proved the theory.",
-      "sourceWordId": "git3gwo2-result",
+      "sentenceId": "git3gwo2-result-outcome-example-4",
+      "sentence": "呢個實驗嘅結果證明咗個理論。",
+      "jyutping": "ni1 go3 sat6 jim6 ge3 git3 gwo2 zing3 ming4 zo2 go3 lei5 leon6.",
+      "meaning": "The result of this experiment proved the theory.",
+      "sourceWordId": "git3gwo2-result-outcome",
       "sourceWord": "結果",
       "sourceWordJyutping": "git3 gwo2",
-      "sourceWordMeaning": "result",
+      "sourceWordMeaning": "result; outcome",
       "tags": [
         "science",
         "noun",
@@ -606,7 +643,7 @@
         "general_science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/git3gwo2-result.json"
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
     },
     {
       "sentenceId": "sou3geoi3-data-example-1",
@@ -1065,11 +1102,11 @@
       "sourceFile": "r2-backup/words/loeng4tung2-measuring-cylinder.json"
     },
     {
-      "sentenceId": "tin1ping4-scale-example-1",
+      "sentenceId": "tin1ping4-balance-example-1",
       "sentence": "呢架天平幾準㗎。",
       "jyutping": "ni1 gaa3 tin1 ping4 gei2 zeon2 gaa3.",
       "meaning": "This balance scale is very accurate.",
-      "sourceWordId": "tin1ping4-scale",
+      "sourceWordId": "tin1ping4-balance",
       "sourceWord": "天平",
       "sourceWordJyutping": "tin1 ping4",
       "sourceWordMeaning": "balance",
@@ -1081,14 +1118,14 @@
         "weight",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1ping4-scale.json"
+      "sourceFile": "r2-backup/words/tin1ping4-balance.json"
     },
     {
-      "sentenceId": "tin1ping4-scale-example-2",
+      "sentenceId": "tin1ping4-balance-example-2",
       "sentence": "你用天平量吓啲材料嘅重量。",
       "jyutping": "nei5 jung6 tin1 ping4 loeng4 haa5 di1 coi4 liu6 ge3 zung6 loeng6.",
       "meaning": "Use the balance scale to measure the weight of the materials.",
-      "sourceWordId": "tin1ping4-scale",
+      "sourceWordId": "tin1ping4-balance",
       "sourceWord": "天平",
       "sourceWordJyutping": "tin1 ping4",
       "sourceWordMeaning": "balance",
@@ -1100,14 +1137,14 @@
         "weight",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1ping4-scale.json"
+      "sourceFile": "r2-backup/words/tin1ping4-balance.json"
     },
     {
-      "sentenceId": "tin1ping4-scale-example-3",
+      "sentenceId": "tin1ping4-balance-example-3",
       "sentence": "實驗室入面放咗部新天平。",
       "jyutping": "sat6 jim6 sat1 jap6 min6 fong3 zo2 bou6 san1 tin1 ping4.",
       "meaning": "They put a new balance scale in the laboratory.",
-      "sourceWordId": "tin1ping4-scale",
+      "sourceWordId": "tin1ping4-balance",
       "sourceWord": "天平",
       "sourceWordJyutping": "tin1 ping4",
       "sourceWordMeaning": "balance",
@@ -1119,14 +1156,14 @@
         "weight",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1ping4-scale.json"
+      "sourceFile": "r2-backup/words/tin1ping4-balance.json"
     },
     {
-      "sentenceId": "tin1ping4-scale-example-4",
+      "sentenceId": "tin1ping4-balance-example-4",
       "sentence": "天平上擺住幾個砝碼。",
       "jyutping": "tin1 ping4 soeng5 baai2 zyu6 gei2 go3 faa3 maa5.",
       "meaning": "There are several weights placed on the balance scale.",
-      "sourceWordId": "tin1ping4-scale",
+      "sourceWordId": "tin1ping4-balance",
       "sourceWord": "天平",
       "sourceWordJyutping": "tin1 ping4",
       "sourceWordMeaning": "balance",
@@ -1138,7 +1175,7 @@
         "weight",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1ping4-scale.json"
+      "sourceFile": "r2-backup/words/tin1ping4-balance.json"
     },
     {
       "sentenceId": "wan1dou6-temperature-example-1",
@@ -1293,11 +1330,11 @@
       "sourceFile": "r2-backup/words/cuk1dou6-speed.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-1",
+      "sentenceId": "zung6loeng6-weight-2-example-1",
       "sentence": "呢個箱嘅重量好重，搬唔動。",
       "jyutping": "ni1 go3 soeng1 ge3 zung6 loeng6 hou2 zung6, bun1 m4 dung6.",
       "meaning": "This box's weight is very heavy; I can't move it.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -1309,14 +1346,14 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-2",
+      "sentenceId": "zung6loeng6-weight-2-example-2",
       "sentence": "請你測量呢包米嘅重量。",
       "jyutping": "cing2 nei5 cak1 loeng6 ni1 baau1 mai5 ge3 zung6 loeng6.",
       "meaning": "Please measure the weight of this bag of rice.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -1328,14 +1365,14 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-3",
+      "sentenceId": "zung6loeng6-weight-2-example-3",
       "sentence": "運動可以幫助你控制體重。",
       "jyutping": "wan6 dung6 ho2 ji5 bong1 zo6 nei5 hung3 zi3 tai2 zung6.",
       "meaning": "Exercise can help you control your body weight.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -1347,14 +1384,14 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
-      "sentenceId": "zung6loeng6-weight-example-4",
+      "sentenceId": "zung6loeng6-weight-2-example-4",
       "sentence": "呢件行李重量超過航空公司嘅限制。",
       "jyutping": "ni1 gin6 hang4 lei5 zung6 loeng6 ciu1 gwo3 hong4 hung1 gung1 si1 ge3 haan6 zi3.",
       "meaning": "This luggage's weight exceeds the airline's limit.",
-      "sourceWordId": "zung6loeng6-weight",
+      "sourceWordId": "zung6loeng6-weight-2",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -1366,7 +1403,7 @@
         "science",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight-2.json"
     },
     {
       "sentenceId": "keoi1lei4-distance-example-1",
@@ -1521,11 +1558,11 @@
       "sourceFile": "r2-backup/words/gaa2cit3-hypothesis.json"
     },
     {
-      "sentenceId": "sang1mat6-living-thing-example-1",
+      "sentenceId": "sang1mat6-organism-example-1",
       "sentence": "我哋今日喺課堂學生物。",
       "jyutping": "ngo5 dei6 gam1 jat6 hai2 fo3 tong4 hok6 sang1 mat6.",
       "meaning": "We learned about organisms in class today.",
-      "sourceWordId": "sang1mat6-living-thing",
+      "sourceWordId": "sang1mat6-organism",
       "sourceWord": "生物",
       "sourceWordJyutping": "sang1 mat6",
       "sourceWordMeaning": "organism",
@@ -1537,14 +1574,14 @@
         "environment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sang1mat6-living-thing.json"
+      "sourceFile": "r2-backup/words/sang1mat6-organism.json"
     },
     {
-      "sentenceId": "sang1mat6-living-thing-example-2",
+      "sentenceId": "sang1mat6-organism-example-2",
       "sentence": "呢啲生物好奇怪。",
       "jyutping": "ni1 di1 sang1 mat6 hou2 kei4 gwaai3.",
       "meaning": "These organisms are very strange.",
-      "sourceWordId": "sang1mat6-living-thing",
+      "sourceWordId": "sang1mat6-organism",
       "sourceWord": "生物",
       "sourceWordJyutping": "sang1 mat6",
       "sourceWordMeaning": "organism",
@@ -1556,14 +1593,14 @@
         "environment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sang1mat6-living-thing.json"
+      "sourceFile": "r2-backup/words/sang1mat6-organism.json"
     },
     {
-      "sentenceId": "sang1mat6-living-thing-example-3",
+      "sentenceId": "sang1mat6-organism-example-3",
       "sentence": "啲海洋生物好靚。",
       "jyutping": "di1 hoi2 joeng4 sang1 mat6 hou2 leng3.",
       "meaning": "The marine organisms are very beautiful.",
-      "sourceWordId": "sang1mat6-living-thing",
+      "sourceWordId": "sang1mat6-organism",
       "sourceWord": "生物",
       "sourceWordJyutping": "sang1 mat6",
       "sourceWordMeaning": "organism",
@@ -1575,14 +1612,14 @@
         "environment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sang1mat6-living-thing.json"
+      "sourceFile": "r2-backup/words/sang1mat6-organism.json"
     },
     {
-      "sentenceId": "sang1mat6-living-thing-example-4",
+      "sentenceId": "sang1mat6-organism-example-4",
       "sentence": "動物同植物都係生物。",
       "jyutping": "dung6 mat6 tung4 zik6 mat6 dou1 hai6 sang1 mat6.",
       "meaning": "Animals and plants are both organisms.",
-      "sourceWordId": "sang1mat6-living-thing",
+      "sourceWordId": "sang1mat6-organism",
       "sourceWord": "生物",
       "sourceWordJyutping": "sang1 mat6",
       "sourceWordMeaning": "organism",
@@ -1594,7 +1631,7 @@
         "environment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sang1mat6-living-thing.json"
+      "sourceFile": "r2-backup/words/sang1mat6-organism.json"
     },
     {
       "sentenceId": "sai3baau1-cell-example-1",
@@ -2737,11 +2774,11 @@
       "sourceFile": "r2-backup/words/jyun4sou3-element.json"
     },
     {
-      "sentenceId": "faa3hok6mat6zat1-chemical-example-1",
+      "sentenceId": "faa3hok6mat6zat1-chemical-substance-example-1",
       "sentence": "呢啲化學物質好危險，唔好亂摸。",
       "jyutping": "ni1 di1 faa3 hok6 mat6 zat1 hou2 ngai4 him2, m4 hou2 lyun6 mo2.",
       "meaning": "These chemical substances are very dangerous, don't touch them carelessly.",
-      "sourceWordId": "faa3hok6mat6zat1-chemical",
+      "sourceWordId": "faa3hok6mat6zat1-chemical-substance",
       "sourceWord": "化學物質",
       "sourceWordJyutping": "faa3 hok6 mat6 zat1",
       "sourceWordMeaning": "chemical substance",
@@ -2753,14 +2790,14 @@
         "safety",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical.json"
+      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical-substance.json"
     },
     {
-      "sentenceId": "faa3hok6mat6zat1-chemical-example-2",
+      "sentenceId": "faa3hok6mat6zat1-chemical-substance-example-2",
       "sentence": "我哋需要分析呢個化學物質嘅成分。",
       "jyutping": "ngo5 dei6 seoi1 jiu3 fan1 sik1 ni1 go3 faa3 hok6 mat6 zat1 ge3 sing4 fan6.",
       "meaning": "We need to analyze the composition of this chemical substance.",
-      "sourceWordId": "faa3hok6mat6zat1-chemical",
+      "sourceWordId": "faa3hok6mat6zat1-chemical-substance",
       "sourceWord": "化學物質",
       "sourceWordJyutping": "faa3 hok6 mat6 zat1",
       "sourceWordMeaning": "chemical substance",
@@ -2772,14 +2809,14 @@
         "safety",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical.json"
+      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical-substance.json"
     },
     {
-      "sentenceId": "faa3hok6mat6zat1-chemical-example-3",
+      "sentenceId": "faa3hok6mat6zat1-chemical-substance-example-3",
       "sentence": "呢隻實驗室入面有好多唔同種類嘅化學物質。",
       "jyutping": "ni1 zek3 sat6 jim6 sat1 jap6 min6 jau5 hou2 do1 m4 tung4 zung2 leoi6 ge3 faa3 hok6 mat6 zat1.",
       "meaning": "There are many different kinds of chemical substances inside this laboratory.",
-      "sourceWordId": "faa3hok6mat6zat1-chemical",
+      "sourceWordId": "faa3hok6mat6zat1-chemical-substance",
       "sourceWord": "化學物質",
       "sourceWordJyutping": "faa3 hok6 mat6 zat1",
       "sourceWordMeaning": "chemical substance",
@@ -2791,14 +2828,14 @@
         "safety",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical.json"
+      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical-substance.json"
     },
     {
-      "sentenceId": "faa3hok6mat6zat1-chemical-example-4",
+      "sentenceId": "faa3hok6mat6zat1-chemical-substance-example-4",
       "sentence": "化學物質嘅反應可以改變物質嘅性質。",
       "jyutping": "faa3 hok6 mat6 zat1 ge3 faan2 jing3 ho2 ji5 goi2 bin3 mat6 zat1 ge3 sing3 zat1.",
       "meaning": "Chemical reactions can change the properties of substances.",
-      "sourceWordId": "faa3hok6mat6zat1-chemical",
+      "sourceWordId": "faa3hok6mat6zat1-chemical-substance",
       "sourceWord": "化學物質",
       "sourceWordJyutping": "faa3 hok6 mat6 zat1",
       "sourceWordMeaning": "chemical substance",
@@ -2810,7 +2847,7 @@
         "safety",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical.json"
+      "sourceFile": "r2-backup/words/faa3hok6mat6zat1-chemical-substance.json"
     },
     {
       "sentenceId": "syun1-acid-example-1",
@@ -5702,19 +5739,21 @@
     },
     {
       "sentenceId": "sam1lam4-forest-example-1",
-      "sentence": "我哋今日去森林行山。",
-      "jyutping": "ngo5 dei6 gam1 jat6 heoi3 sam1 lam4 hang4 saan1.",
-      "meaning": "We are going hiking in the forest today.",
+      "sentence": "我哋今個星期去森林行山。",
+      "jyutping": "ngo5 dei6 gam1 go3 sing1 kei4 heoi3 sam1 lam4 hang4 saan1.",
+      "meaning": "We’re going hiking in the forest this week.",
       "sourceWordId": "sam1lam4-forest",
       "sourceWord": "森林",
       "sourceWordJyutping": "sam1 lam4",
       "sourceWordMeaning": "forest",
       "tags": [
         "nature",
-        "environment",
+        "plants-gardening",
         "trees",
-        "outdoors",
-        "ecology",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/sam1lam4-forest.json"
@@ -5722,7 +5761,7 @@
     {
       "sentenceId": "sam1lam4-forest-example-2",
       "sentence": "森林入面有好多唔同嘅動物。",
-      "jyutping": "sam1 lam4 jap6 min6 jau5 hou2 do1 m4 tung4 ge3 dung6 mat6.",
+      "jyutping": "sam1 lam4 jap6 min6 jau5 hou2 do1 m4 tung4 dik1 dung6 mat6.",
       "meaning": "There are many different animals in the forest.",
       "sourceWordId": "sam1lam4-forest",
       "sourceWord": "森林",
@@ -5730,48 +5769,54 @@
       "sourceWordMeaning": "forest",
       "tags": [
         "nature",
-        "environment",
+        "plants-gardening",
         "trees",
-        "outdoors",
-        "ecology",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/sam1lam4-forest.json"
     },
     {
       "sentenceId": "sam1lam4-forest-example-3",
-      "sentence": "保護森林好重要。",
-      "jyutping": "bou2 wu6 sam1 lam4 hou2 zung6 jiu3.",
-      "meaning": "Protecting forests is very important.",
+      "sentence": "小朋友好鍾意聽森林故事。",
+      "jyutping": "siu2 pang4 jau5 hou2 zung1 ji3 teng1 sam1 lam4 gu3 si6.",
+      "meaning": "Children really like listening to forest stories.",
       "sourceWordId": "sam1lam4-forest",
       "sourceWord": "森林",
       "sourceWordJyutping": "sam1 lam4",
       "sourceWordMeaning": "forest",
       "tags": [
         "nature",
-        "environment",
+        "plants-gardening",
         "trees",
-        "outdoors",
-        "ecology",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/sam1lam4-forest.json"
     },
     {
       "sentenceId": "sam1lam4-forest-example-4",
-      "sentence": "呢個森林好靚，有好多樹。",
-      "jyutping": "ni1 go3 sam1 lam4 hou2 leng3, jau5 hou2 do1 syu6.",
-      "meaning": "This forest is beautiful and has many trees.",
+      "sentence": "我哋要保護森林同樹木。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 sam1 lam4 tung4 syu6 muk6.",
+      "meaning": "We need to protect forests and trees.",
       "sourceWordId": "sam1lam4-forest",
       "sourceWord": "森林",
       "sourceWordJyutping": "sam1 lam4",
       "sourceWordMeaning": "forest",
       "tags": [
         "nature",
-        "environment",
+        "plants-gardening",
         "trees",
-        "outdoors",
-        "ecology",
+        "woodland",
+        "beginner",
+        "noun",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/sam1lam4-forest.json"
@@ -6157,11 +6202,11 @@
       "sourceFile": "r2-backup/words/zoi3sang1nang4jyun4-renewable-energy.json"
     },
     {
-      "sentenceId": "taai3joeng4nang4-solar-energy-example-1",
+      "sentenceId": "taai3joeng4nang4-solar-power-example-1",
       "sentence": "我哋屋頂裝咗太陽能板。",
       "jyutping": "ngo5 dei6 nguk1 deng2 zong1 zo2 taai3 joeng4 nang4 baan2.",
       "meaning": "We installed solar panels on the roof.",
-      "sourceWordId": "taai3joeng4nang4-solar-energy",
+      "sourceWordId": "taai3joeng4nang4-solar-power",
       "sourceWord": "太陽能",
       "sourceWordJyutping": "taai3 joeng4 nang4",
       "sourceWordMeaning": "solar power",
@@ -6173,14 +6218,14 @@
         "technology",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-energy.json"
+      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-power.json"
     },
     {
-      "sentenceId": "taai3joeng4nang4-solar-energy-example-2",
+      "sentenceId": "taai3joeng4nang4-solar-power-example-2",
       "sentence": "太陽能可以幫助減少電費。",
       "jyutping": "taai3 joeng4 nang4 ho2 ji5 bong1 zo6 gaam2 siu2 din6 fai3.",
       "meaning": "Solar power can help reduce the electricity bill.",
-      "sourceWordId": "taai3joeng4nang4-solar-energy",
+      "sourceWordId": "taai3joeng4nang4-solar-power",
       "sourceWord": "太陽能",
       "sourceWordJyutping": "taai3 joeng4 nang4",
       "sourceWordMeaning": "solar power",
@@ -6192,14 +6237,14 @@
         "technology",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-energy.json"
+      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-power.json"
     },
     {
-      "sentenceId": "taai3joeng4nang4-solar-energy-example-3",
+      "sentenceId": "taai3joeng4nang4-solar-power-example-3",
       "sentence": "學校希望用太陽能黎供電。",
       "jyutping": "hok6 haau6 hei1 mong6 jung6 taai3 joeng4 nang4 lai4 gung1 din6.",
       "meaning": "The school hopes to use solar power to supply electricity.",
-      "sourceWordId": "taai3joeng4nang4-solar-energy",
+      "sourceWordId": "taai3joeng4nang4-solar-power",
       "sourceWord": "太陽能",
       "sourceWordJyutping": "taai3 joeng4 nang4",
       "sourceWordMeaning": "solar power",
@@ -6211,14 +6256,14 @@
         "technology",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-energy.json"
+      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-power.json"
     },
     {
-      "sentenceId": "taai3joeng4nang4-solar-energy-example-4",
+      "sentenceId": "taai3joeng4nang4-solar-power-example-4",
       "sentence": "太陽能係一種環保能源。",
       "jyutping": "taai3 joeng4 nang4 hai6 jat1 zung2 waan4 bou2 nang4 jyun4.",
       "meaning": "Solar power is a type of environmentally friendly energy.",
-      "sourceWordId": "taai3joeng4nang4-solar-energy",
+      "sourceWordId": "taai3joeng4nang4-solar-power",
       "sourceWord": "太陽能",
       "sourceWordJyutping": "taai3 joeng4 nang4",
       "sourceWordMeaning": "solar power",
@@ -6230,7 +6275,7 @@
         "technology",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-energy.json"
+      "sourceFile": "r2-backup/words/taai3joeng4nang4-solar-power.json"
     },
     {
       "sentenceId": "fung1lik6-wind-power-example-1",

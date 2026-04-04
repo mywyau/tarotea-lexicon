@@ -81,11 +81,11 @@
       "sourceFile": "r2-backup/words/uk1-house.json"
     },
     {
-      "sentenceId": "lau4-flat-apartment-example-1",
+      "sentenceId": "lau4-apartment-example-1",
       "sentence": "我住喺五樓。",
       "jyutping": "ngo5 zyu6 hai2 ng5 lau4",
       "meaning": "I live on the fifth floor.",
-      "sourceWordId": "lau4-flat-apartment",
+      "sourceWordId": "lau4-apartment",
       "sourceWord": "樓",
       "sourceWordJyutping": "lau4",
       "sourceWordMeaning": "apartment",
@@ -97,14 +97,14 @@
         "living",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4-flat-apartment.json"
+      "sourceFile": "r2-backup/words/lau4-apartment.json"
     },
     {
-      "sentenceId": "lau4-flat-apartment-example-2",
+      "sentenceId": "lau4-apartment-example-2",
       "sentence": "呢座樓好新淨。",
       "jyutping": "ni1 zo6 lau4 hou2 san1 zing6",
       "meaning": "This building is very new and clean.",
-      "sourceWordId": "lau4-flat-apartment",
+      "sourceWordId": "lau4-apartment",
       "sourceWord": "樓",
       "sourceWordJyutping": "lau4",
       "sourceWordMeaning": "apartment",
@@ -116,14 +116,14 @@
         "living",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4-flat-apartment.json"
+      "sourceFile": "r2-backup/words/lau4-apartment.json"
     },
     {
-      "sentenceId": "lau4-flat-apartment-example-3",
+      "sentenceId": "lau4-apartment-example-3",
       "sentence": "你間樓幾多平方？",
       "jyutping": "nei5 gaan1 lau4 gei2 do1 ping4 fong1?",
       "meaning": "How many square feet is your apartment?",
-      "sourceWordId": "lau4-flat-apartment",
+      "sourceWordId": "lau4-apartment",
       "sourceWord": "樓",
       "sourceWordJyutping": "lau4",
       "sourceWordMeaning": "apartment",
@@ -135,14 +135,14 @@
         "living",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4-flat-apartment.json"
+      "sourceFile": "r2-backup/words/lau4-apartment.json"
     },
     {
-      "sentenceId": "lau4-flat-apartment-example-4",
+      "sentenceId": "lau4-apartment-example-4",
       "sentence": "我想買一個樓。",
       "jyutping": "ngo5 soeng2 maai5 jat1 go3 lau4",
       "meaning": "I want to buy an apartment.",
-      "sourceWordId": "lau4-flat-apartment",
+      "sourceWordId": "lau4-apartment",
       "sourceWord": "樓",
       "sourceWordJyutping": "lau4",
       "sourceWordMeaning": "apartment",
@@ -154,7 +154,7 @@
         "living",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau4-flat-apartment.json"
+      "sourceFile": "r2-backup/words/lau4-apartment.json"
     },
     {
       "sentenceId": "daan1wai2-apartment-unit-example-1",
@@ -385,11 +385,11 @@
       "sourceFile": "r2-backup/words/si1jan4lau4-private-apartment.json"
     },
     {
-      "sentenceId": "zyu6zaak6-residence-example-1",
+      "sentenceId": "zyu6zaak6-home-example-1",
       "sentence": "我嘅住宅好舒服。",
       "jyutping": "ngo5 ge3 zyu6 zaak6 hou2 syu1 fuk6.",
       "meaning": "My home is very comfortable.",
-      "sourceWordId": "zyu6zaak6-residence",
+      "sourceWordId": "zyu6zaak6-home",
       "sourceWord": "住宅",
       "sourceWordJyutping": "zyu6 zaak6",
       "sourceWordMeaning": "home",
@@ -401,14 +401,14 @@
         "real estate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu6zaak6-residence.json"
+      "sourceFile": "r2-backup/words/zyu6zaak6-home.json"
     },
     {
-      "sentenceId": "zyu6zaak6-residence-example-2",
+      "sentenceId": "zyu6zaak6-home-example-2",
       "sentence": "呢區有好多新嘅住宅。",
       "jyutping": "ni1 keoi1 jau5 hou2 do1 san1 ge3 zyu6 zaak6.",
       "meaning": "There are many new residences in this area.",
-      "sourceWordId": "zyu6zaak6-residence",
+      "sourceWordId": "zyu6zaak6-home",
       "sourceWord": "住宅",
       "sourceWordJyutping": "zyu6 zaak6",
       "sourceWordMeaning": "home",
@@ -420,14 +420,14 @@
         "real estate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu6zaak6-residence.json"
+      "sourceFile": "r2-backup/words/zyu6zaak6-home.json"
     },
     {
-      "sentenceId": "zyu6zaak6-residence-example-3",
+      "sentenceId": "zyu6zaak6-home-example-3",
       "sentence": "你搵緊住宅定係商業樓？",
       "jyutping": "nei5 wan2 gan2 zyu6 zaak6 ding6 hai6 soeng1 jip6 lau2?",
       "meaning": "Are you looking for a residence or a commercial building?",
-      "sourceWordId": "zyu6zaak6-residence",
+      "sourceWordId": "zyu6zaak6-home",
       "sourceWord": "住宅",
       "sourceWordJyutping": "zyu6 zaak6",
       "sourceWordMeaning": "home",
@@ -439,14 +439,14 @@
         "real estate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu6zaak6-residence.json"
+      "sourceFile": "r2-backup/words/zyu6zaak6-home.json"
     },
     {
-      "sentenceId": "zyu6zaak6-residence-example-4",
+      "sentenceId": "zyu6zaak6-home-example-4",
       "sentence": "佢搬咗去另一個住宅。",
       "jyutping": "keoi5 bun1 zo2 heoi3 ling6 jat1 go3 zyu6 zaak6.",
       "meaning": "He moved to another home.",
-      "sourceWordId": "zyu6zaak6-residence",
+      "sourceWordId": "zyu6zaak6-home",
       "sourceWord": "住宅",
       "sourceWordJyutping": "zyu6 zaak6",
       "sourceWordMeaning": "home",
@@ -458,7 +458,7 @@
         "real estate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu6zaak6-residence.json"
+      "sourceFile": "r2-backup/words/zyu6zaak6-home.json"
     },
     {
       "sentenceId": "cyun1uk1-village-house-example-1",
@@ -917,11 +917,11 @@
       "sourceFile": "r2-backup/words/tong1fong2-subdivided-flat.json"
     },
     {
-      "sentenceId": "loeng5fong2-two-bedroom-example-1",
+      "sentenceId": "loeng5fong2-two-bedroom-flat-example-1",
       "sentence": "我想搵一個兩房嘅單位。",
       "jyutping": "ngo5 soeng2 wan2 jat1 go3 loeng5 fong2 ge3 daan1 wai6.",
       "meaning": "I want to find a two-bedroom unit.",
-      "sourceWordId": "loeng5fong2-two-bedroom",
+      "sourceWordId": "loeng5fong2-two-bedroom-flat",
       "sourceWord": "兩房",
       "sourceWordJyutping": "loeng5 fong2",
       "sourceWordMeaning": "two bedroom flat",
@@ -933,14 +933,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom.json"
+      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom-flat.json"
     },
     {
-      "sentenceId": "loeng5fong2-two-bedroom-example-2",
+      "sentenceId": "loeng5fong2-two-bedroom-flat-example-2",
       "sentence": "呢個兩房好實用，啱我哋一家三口。",
       "jyutping": "ni1 go3 loeng5 fong2 hou2 sat6 jung6, aam1 ngo5 dei6 jat1 gaa1 saam1 hau2.",
       "meaning": "This two-bedroom is very practical, suitable for our family of three.",
-      "sourceWordId": "loeng5fong2-two-bedroom",
+      "sourceWordId": "loeng5fong2-two-bedroom-flat",
       "sourceWord": "兩房",
       "sourceWordJyutping": "loeng5 fong2",
       "sourceWordMeaning": "two bedroom flat",
@@ -952,14 +952,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom.json"
+      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom-flat.json"
     },
     {
-      "sentenceId": "loeng5fong2-two-bedroom-example-3",
+      "sentenceId": "loeng5fong2-two-bedroom-flat-example-3",
       "sentence": "兩房嘅租金通常比較貴。",
       "jyutping": "loeng5 fong2 ge3 zou1 gam1 tung1 soeng4 bei2 gaau3 gwai3.",
       "meaning": "The rent for a two-bedroom is usually more expensive.",
-      "sourceWordId": "loeng5fong2-two-bedroom",
+      "sourceWordId": "loeng5fong2-two-bedroom-flat",
       "sourceWord": "兩房",
       "sourceWordJyutping": "loeng5 fong2",
       "sourceWordMeaning": "two bedroom flat",
@@ -971,14 +971,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom.json"
+      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom-flat.json"
     },
     {
-      "sentenceId": "loeng5fong2-two-bedroom-example-4",
+      "sentenceId": "loeng5fong2-two-bedroom-flat-example-4",
       "sentence": "如果要多啲儲物空間，可以選兩房以上。",
       "jyutping": "jyu4 gwo2 jiu3 do1 di1 co5 mat6 hung1 gaan1, ho2 ji5 syun2 loeng5 fong2 ji5 soeng6.",
       "meaning": "If you want more storage space, you can choose a flat with two bedrooms or more.",
-      "sourceWordId": "loeng5fong2-two-bedroom",
+      "sourceWordId": "loeng5fong2-two-bedroom-flat",
       "sourceWord": "兩房",
       "sourceWordJyutping": "loeng5 fong2",
       "sourceWordMeaning": "two bedroom flat",
@@ -990,14 +990,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom.json"
+      "sourceFile": "r2-backup/words/loeng5fong2-two-bedroom-flat.json"
     },
     {
-      "sentenceId": "jat1fong2-one-bedroom-example-1",
+      "sentenceId": "jat1fong2-one-bedroom-flat-example-1",
       "sentence": "我啱啱租咗一間一房。",
       "jyutping": "ngo5 ngaam1 ngaam1 zo6 jat1 gaan1 jat1 fong2.",
       "meaning": "I just rented a one-bedroom flat.",
-      "sourceWordId": "jat1fong2-one-bedroom",
+      "sourceWordId": "jat1fong2-one-bedroom-flat",
       "sourceWord": "一房",
       "sourceWordJyutping": "jat1 fong2",
       "sourceWordMeaning": "one bedroom flat",
@@ -1009,14 +1009,14 @@
         "rental",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom.json"
+      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom-flat.json"
     },
     {
-      "sentenceId": "jat1fong2-one-bedroom-example-2",
+      "sentenceId": "jat1fong2-one-bedroom-flat-example-2",
       "sentence": "呢區嘅一房好難搵。",
       "jyutping": "ni1 keoi1 ge3 jat1 fong2 hou2 naan4 wan2.",
       "meaning": "One-bedroom flats in this area are hard to find.",
-      "sourceWordId": "jat1fong2-one-bedroom",
+      "sourceWordId": "jat1fong2-one-bedroom-flat",
       "sourceWord": "一房",
       "sourceWordJyutping": "jat1 fong2",
       "sourceWordMeaning": "one bedroom flat",
@@ -1028,14 +1028,14 @@
         "rental",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom.json"
+      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom-flat.json"
     },
     {
-      "sentenceId": "jat1fong2-one-bedroom-example-3",
+      "sentenceId": "jat1fong2-one-bedroom-flat-example-3",
       "sentence": "你睇呢個樓盤有冇一房？",
       "jyutping": "nei5 tai2 ni1 go3 lau4 pun4 jau5 mou5 jat1 fong2?",
       "meaning": "Check if this housing estate has one-bedroom flats.",
-      "sourceWordId": "jat1fong2-one-bedroom",
+      "sourceWordId": "jat1fong2-one-bedroom-flat",
       "sourceWord": "一房",
       "sourceWordJyutping": "jat1 fong2",
       "sourceWordMeaning": "one bedroom flat",
@@ -1047,14 +1047,14 @@
         "rental",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom.json"
+      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom-flat.json"
     },
     {
-      "sentenceId": "jat1fong2-one-bedroom-example-4",
+      "sentenceId": "jat1fong2-one-bedroom-flat-example-4",
       "sentence": "我哋搬去一個大啲嘅一房住。",
       "jyutping": "ngo5 dei6 bun1 heoi3 jat1 go3 daai6 di1 ge3 jat1 fong2 zyu6.",
       "meaning": "We are moving to a bigger one-bedroom flat.",
-      "sourceWordId": "jat1fong2-one-bedroom",
+      "sourceWordId": "jat1fong2-one-bedroom-flat",
       "sourceWord": "一房",
       "sourceWordJyutping": "jat1 fong2",
       "sourceWordMeaning": "one bedroom flat",
@@ -1066,7 +1066,7 @@
         "rental",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom.json"
+      "sourceFile": "r2-backup/words/jat1fong2-one-bedroom-flat.json"
     },
     {
       "sentenceId": "daan1jan4fong2-studio-example-1",
@@ -2885,11 +2885,11 @@
       "sourceFile": "r2-backup/words/gwai6-cabinet.json"
     },
     {
-      "sentenceId": "coeng4-wall-example-1",
+      "sentenceId": "coeng4-wall-2-example-1",
       "sentence": "我哋要重新油牆。",
       "jyutping": "ngo5 dei6 jiu3 cung4 san1 jau4 coeng4.",
       "meaning": "We need to repaint the wall.",
-      "sourceWordId": "coeng4-wall",
+      "sourceWordId": "coeng4-wall-2",
       "sourceWord": "牆",
       "sourceWordJyutping": "coeng4",
       "sourceWordMeaning": "wall",
@@ -2901,14 +2901,14 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/coeng4-wall.json"
+      "sourceFile": "r2-backup/words/coeng4-wall-2.json"
     },
     {
-      "sentenceId": "coeng4-wall-example-2",
+      "sentenceId": "coeng4-wall-2-example-2",
       "sentence": "呢面牆好厚。",
       "jyutping": "ni1 min6 coeng4 hou2 hau5.",
       "meaning": "This wall is very thick.",
-      "sourceWordId": "coeng4-wall",
+      "sourceWordId": "coeng4-wall-2",
       "sourceWord": "牆",
       "sourceWordJyutping": "coeng4",
       "sourceWordMeaning": "wall",
@@ -2920,14 +2920,14 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/coeng4-wall.json"
+      "sourceFile": "r2-backup/words/coeng4-wall-2.json"
     },
     {
-      "sentenceId": "coeng4-wall-example-3",
+      "sentenceId": "coeng4-wall-2-example-3",
       "sentence": "佢響牆上掛咗幅畫。",
       "jyutping": "keoi5 hoeng2 coeng4 soeng5 gwaa3 zo2 fuk1 waa2.",
       "meaning": "He hung a painting on the wall.",
-      "sourceWordId": "coeng4-wall",
+      "sourceWordId": "coeng4-wall-2",
       "sourceWord": "牆",
       "sourceWordJyutping": "coeng4",
       "sourceWordMeaning": "wall",
@@ -2939,14 +2939,14 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/coeng4-wall.json"
+      "sourceFile": "r2-backup/words/coeng4-wall-2.json"
     },
     {
-      "sentenceId": "coeng4-wall-example-4",
+      "sentenceId": "coeng4-wall-2-example-4",
       "sentence": "牆嘅顏色好靚。",
       "jyutping": "coeng4 ge3 ngaan4 sik1 hou2 leng3.",
       "meaning": "The color of the wall is very nice.",
-      "sourceWordId": "coeng4-wall",
+      "sourceWordId": "coeng4-wall-2",
       "sourceWord": "牆",
       "sourceWordJyutping": "coeng4",
       "sourceWordMeaning": "wall",
@@ -2958,7 +2958,7 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/coeng4-wall.json"
+      "sourceFile": "r2-backup/words/coeng4-wall-2.json"
     },
     {
       "sentenceId": "dei6baan2-floor-example-1",
@@ -3261,11 +3261,11 @@
       "sourceFile": "r2-backup/words/seoi2fai3-water-bill.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-1",
+      "sentenceId": "din6fai3-electric-bill-example-1",
       "sentence": "我今晚要交電費。",
       "jyutping": "ngo5 gam1 maan5 jiu3 gaau1 din6 fai3.",
       "meaning": "I need to pay the electricity bill tonight.",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -3277,14 +3277,14 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-2",
+      "sentenceId": "din6fai3-electric-bill-example-2",
       "sentence": "今個月嘅電費好貴。",
       "jyutping": "gam1 go3 jyut6 ge3 din6 fai3 hou2 gwai3.",
       "meaning": "This month's electric bill is expensive.",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -3296,14 +3296,14 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-3",
+      "sentenceId": "din6fai3-electric-bill-example-3",
       "sentence": "屋企啲電費成日都高。",
       "jyutping": "uk1 kei2 di1 din6 fai3 seng4 jat6 dou1 gou1.",
       "meaning": "The electricity bill at home is always high.",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -3315,14 +3315,14 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-4",
+      "sentenceId": "din6fai3-electric-bill-example-4",
       "sentence": "你繳咗唔繳電費？",
       "jyutping": "nei5 gaau2 zo2 m4 gaau2 din6 fai3?",
       "meaning": "Did you pay the electricity bill?",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -3334,7 +3334,7 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
       "sentenceId": "mui4hei3fai3-gas-bill-example-1",
@@ -4093,11 +4093,11 @@
       "sourceFile": "r2-backup/words/din6dang1-light.json"
     },
     {
-      "sentenceId": "seoi2hau4-water-tap-example-1",
+      "sentenceId": "seoi2hau4-tap-example-1",
       "sentence": "水喉壞咗，要搵師傅修理。",
       "jyutping": "seoi2 hau4 waai6 zo2, jiu3 wan2 si1 fu2 sau1 lei5.",
       "meaning": "The tap is broken, need to find a technician to fix it.",
-      "sourceWordId": "seoi2hau4-water-tap",
+      "sourceWordId": "seoi2hau4-tap",
       "sourceWord": "水喉",
       "sourceWordJyutping": "seoi2 hau4",
       "sourceWordMeaning": "tap",
@@ -4109,14 +4109,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2hau4-water-tap.json"
+      "sourceFile": "r2-backup/words/seoi2hau4-tap.json"
     },
     {
-      "sentenceId": "seoi2hau4-water-tap-example-2",
+      "sentenceId": "seoi2hau4-tap-example-2",
       "sentence": "開多啲水喉洗手啦。",
       "jyutping": "hoi1 do1 di1 seoi2 hau4 sai2 sau2 laa1.",
       "meaning": "Turn on the tap more to wash your hands.",
-      "sourceWordId": "seoi2hau4-water-tap",
+      "sourceWordId": "seoi2hau4-tap",
       "sourceWord": "水喉",
       "sourceWordJyutping": "seoi2 hau4",
       "sourceWordMeaning": "tap",
@@ -4128,14 +4128,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2hau4-water-tap.json"
+      "sourceFile": "r2-backup/words/seoi2hau4-tap.json"
     },
     {
-      "sentenceId": "seoi2hau4-water-tap-example-3",
+      "sentenceId": "seoi2hau4-tap-example-3",
       "sentence": "陽台有兩個水喉，好方便澆花。",
       "jyutping": "joeng4 toi2 jau5 loeng5 go3 seoi2 hau4, hou2 fong1 bin6 gaau1 faa1.",
       "meaning": "There are two taps on the balcony, very convenient for watering flowers.",
-      "sourceWordId": "seoi2hau4-water-tap",
+      "sourceWordId": "seoi2hau4-tap",
       "sourceWord": "水喉",
       "sourceWordJyutping": "seoi2 hau4",
       "sourceWordMeaning": "tap",
@@ -4147,14 +4147,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2hau4-water-tap.json"
+      "sourceFile": "r2-backup/words/seoi2hau4-tap.json"
     },
     {
-      "sentenceId": "seoi2hau4-water-tap-example-4",
+      "sentenceId": "seoi2hau4-tap-example-4",
       "sentence": "屋企水喉漏水，要快啲整。",
       "jyutping": "uk1 kei2 seoi2 hau4 lau6 seoi2, jiu3 faai3 di1 zing2.",
       "meaning": "The tap at home is leaking, need to fix it quickly.",
-      "sourceWordId": "seoi2hau4-water-tap",
+      "sourceWordId": "seoi2hau4-tap",
       "sourceWord": "水喉",
       "sourceWordJyutping": "seoi2 hau4",
       "sourceWordMeaning": "tap",
@@ -4166,14 +4166,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2hau4-water-tap.json"
+      "sourceFile": "r2-backup/words/seoi2hau4-tap.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-1",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-1",
       "sentence": "我屋企有部新嘅洗衣機。",
       "jyutping": "ngo5 uk1 kei2 jau5 bou6 san1 ge3 sai2 ji1 gei1.",
       "meaning": "I have a new washing machine at home.",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4184,14 +4184,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-2",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-2",
       "sentence": "洗衣機壞咗，唔洗衫啦。",
       "jyutping": "sai2 ji1 gei1 waai6 zo2, m4 sai2 saam1 laa1.",
       "meaning": "The washing machine is broken, so no washing clothes.",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4202,14 +4202,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-3",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-3",
       "sentence": "你識唔識點用洗衣機？",
       "jyutping": "nei5 sik1 m4 sik1 dim2 jung6 sai2 ji1 gei1?",
       "meaning": "Do you know how to use the washing machine?",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4220,14 +4220,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-4",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-4",
       "sentence": "呢部洗衣機好慳水。",
       "jyutping": "ni1 bou6 sai2 ji1 gei1 hou2 haan1 seoi2.",
       "meaning": "This washing machine saves water.",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4238,7 +4238,7 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
       "sentenceId": "bing1soeng1-fridge-example-1",
@@ -9686,11 +9686,11 @@
       "sourceFile": "r2-backup/words/ce1wai6-parking-space.json"
     },
     {
-      "sentenceId": "bou2on1-security-example-1",
+      "sentenceId": "bou2on1-security-security-guard-example-1",
       "sentence": "大廈有好多保安。",
       "jyutping": "daai6 haa6 jau5 hou2 do1 bou2 on1.",
       "meaning": "There are many security guards in the building.",
-      "sourceWordId": "bou2on1-security",
+      "sourceWordId": "bou2on1-security-security-guard",
       "sourceWord": "保安",
       "sourceWordJyutping": "bou2 on1",
       "sourceWordMeaning": "security / security guard",
@@ -9702,14 +9702,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou2on1-security.json"
+      "sourceFile": "r2-backup/words/bou2on1-security-security-guard.json"
     },
     {
-      "sentenceId": "bou2on1-security-example-2",
+      "sentenceId": "bou2on1-security-security-guard-example-2",
       "sentence": "保安幫我開門。",
       "jyutping": "bou2 on1 bong1 ngo5 hoi1 mun4.",
       "meaning": "The security guard helped me open the door.",
-      "sourceWordId": "bou2on1-security",
+      "sourceWordId": "bou2on1-security-security-guard",
       "sourceWord": "保安",
       "sourceWordJyutping": "bou2 on1",
       "sourceWordMeaning": "security / security guard",
@@ -9721,14 +9721,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou2on1-security.json"
+      "sourceFile": "r2-backup/words/bou2on1-security-security-guard.json"
     },
     {
-      "sentenceId": "bou2on1-security-example-3",
+      "sentenceId": "bou2on1-security-security-guard-example-3",
       "sentence": "呢間商場啲保安好細心。",
       "jyutping": "ni1 gaan1 soeng1 coeng4 di1 bou2 on1 hou2 sai3 sam1.",
       "meaning": "The security guards in this mall are very attentive.",
-      "sourceWordId": "bou2on1-security",
+      "sourceWordId": "bou2on1-security-security-guard",
       "sourceWord": "保安",
       "sourceWordJyutping": "bou2 on1",
       "sourceWordMeaning": "security / security guard",
@@ -9740,14 +9740,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou2on1-security.json"
+      "sourceFile": "r2-backup/words/bou2on1-security-security-guard.json"
     },
     {
-      "sentenceId": "bou2on1-security-example-4",
+      "sentenceId": "bou2on1-security-security-guard-example-4",
       "sentence": "屋企裝咗新嘅保安系統。",
       "jyutping": "uk1 kei2 zong1 zo2 san1 ge3 bou2 on1 hai6 tung2.",
       "meaning": "The house installed a new security system.",
-      "sourceWordId": "bou2on1-security",
+      "sourceWordId": "bou2on1-security-security-guard",
       "sourceWord": "保安",
       "sourceWordJyutping": "bou2 on1",
       "sourceWordMeaning": "security / security guard",
@@ -9759,7 +9759,7 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou2on1-security.json"
+      "sourceFile": "r2-backup/words/bou2on1-security-security-guard.json"
     },
     {
       "sentenceId": "daai6tong4-lobby-example-1",
@@ -10751,94 +10751,104 @@
     },
     {
       "sentenceId": "si5coeng4-market-example-1",
-      "sentence": "我每日都去市場買菜。",
-      "jyutping": "ngo5 mui5 jat6 dou1 heoi3 si5 coeng4 maai5 coi3.",
-      "meaning": "I go to the market every day to buy vegetables.",
+      "sentence": "公司想喺東南亞市場擴展業務。",
+      "jyutping": "gung1 si1 soeng2 hai6 dung1 nam4 aa3 si5 coeng4 kut3 zin2 juk6 mou6",
+      "meaning": "The company wants to expand its business in the Southeast Asian market.",
       "sourceWordId": "si5coeng4-market",
       "sourceWord": "市場",
       "sourceWordJyutping": "si5 coeng4",
       "sourceWordMeaning": "market",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "shopping",
-        "daily life",
-        "places",
+        "business",
+        "company growth",
+        "planning",
+        "marketing",
+        "sales",
+        "economy",
+        "common word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si5coeng4-market.json"
     },
     {
       "sentenceId": "si5coeng4-market-example-2",
-      "sentence": "呢個市場好多人，好熱鬧。",
-      "jyutping": "ni1 go3 si5 coeng4 hou2 do1 jan4, hou2 jit6 naau6.",
-      "meaning": "This market is very crowded and lively.",
+      "sentence": "我哋要先了解市場需求。",
+      "jyutping": "ngo5 dei6 jiu3 sin1 leung5 gaai2 si5 coeng4 seoi1 kau4",
+      "meaning": "We need to first understand market demand.",
       "sourceWordId": "si5coeng4-market",
       "sourceWord": "市場",
       "sourceWordJyutping": "si5 coeng4",
       "sourceWordMeaning": "market",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "shopping",
-        "daily life",
-        "places",
+        "business",
+        "company growth",
+        "planning",
+        "marketing",
+        "sales",
+        "economy",
+        "common word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si5coeng4-market.json"
     },
     {
       "sentenceId": "si5coeng4-market-example-3",
-      "sentence": "市場開咗未？",
-      "jyutping": "si5 coeng4 hoi1 zo2 mei6?",
-      "meaning": "Has the market opened yet?",
+      "sentence": "呢個產品喺本地市場賣得幾好。",
+      "jyutping": "ni1 go3 chan2 ban2 hai6 bun2 dei6 si5 coeng4 maai6 dak1 gei2 hou2",
+      "meaning": "This product sells quite well in the local market.",
       "sourceWordId": "si5coeng4-market",
       "sourceWord": "市場",
       "sourceWordJyutping": "si5 coeng4",
       "sourceWordMeaning": "market",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "shopping",
-        "daily life",
-        "places",
+        "business",
+        "company growth",
+        "planning",
+        "marketing",
+        "sales",
+        "economy",
+        "common word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si5coeng4-market.json"
     },
     {
       "sentenceId": "si5coeng4-market-example-4",
-      "sentence": "佢喺市場入面賣水果。",
-      "jyutping": "keoi5 hai2 si5 coeng4 jap6 min6 maai6 seoi2 gwo2.",
-      "meaning": "He sells fruit inside the market.",
+      "sentence": "公司而家最關心嘅係新市場嘅發展。",
+      "jyutping": "gung1 si1 ji4 gaa1 zeoi3 gwaan1 sam1 ge3 hai6 san1 si5 coeng4 ge3 faa1 zin2",
+      "meaning": "What the company is most concerned about now is the development of new markets.",
       "sourceWordId": "si5coeng4-market",
       "sourceWord": "市場",
       "sourceWordJyutping": "si5 coeng4",
       "sourceWordMeaning": "market",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "shopping",
-        "daily life",
-        "places",
+        "business",
+        "company growth",
+        "planning",
+        "marketing",
+        "sales",
+        "economy",
+        "common word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/si5coeng4-market.json"
     },
     {
       "sentenceId": "hok6haau6-school-example-1",
-      "sentence": "我每日八點去學校。",
-      "jyutping": "ngo5 mui5 jat6 baat3 dim2 heoi3 hok6 haau6.",
-      "meaning": "I go to school every day at 8 o'clock.",
+      "sentence": "我細個嗰陣喺香港讀學校。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 hai2 hoeng1 gong2 duk6 hok6 haau6.",
+      "meaning": "When I was young, I studied at school in Hong Kong.",
       "sourceWordId": "hok6haau6-school",
       "sourceWord": "學校",
       "sourceWordJyutping": "hok6 haau6",
       "sourceWordMeaning": "school",
       "tags": [
-        "housing",
-        "neighbourhood",
         "education",
         "school",
+        "building",
+        "local service",
+        "beginner",
+        "noun",
         "daily life",
         "level-1"
       ],
@@ -10846,18 +10856,20 @@
     },
     {
       "sentenceId": "hok6haau6-school-example-2",
-      "sentence": "學校附近有公園。",
-      "jyutping": "hok6 haau6 fu6 gan6 jau5 gung1 jyun4.",
-      "meaning": "There is a park near the school.",
+      "sentence": "聽日我要返學校見老師。",
+      "jyutping": "ting1 jat6 ngo5 jiu3 faan1 hok6 haau6 gin3 lou5 si1.",
+      "meaning": "Tomorrow I need to go to school to meet the teacher.",
       "sourceWordId": "hok6haau6-school",
       "sourceWord": "學校",
       "sourceWordJyutping": "hok6 haau6",
       "sourceWordMeaning": "school",
       "tags": [
-        "housing",
-        "neighbourhood",
         "education",
         "school",
+        "building",
+        "local service",
+        "beginner",
+        "noun",
         "daily life",
         "level-1"
       ],
@@ -10865,18 +10877,20 @@
     },
     {
       "sentenceId": "hok6haau6-school-example-3",
-      "sentence": "你喺邊間學校讀書？",
-      "jyutping": "nei5 hai6 bin1 gaan1 hok6 haau6 duk6 syu1?",
-      "meaning": "Which school do you attend?",
+      "sentence": "呢間學校有好多學生。",
+      "jyutping": "ni1 gaan1 hok6 haau6 jau5 hou2 do1 hok6 saang1.",
+      "meaning": "This school has many students.",
       "sourceWordId": "hok6haau6-school",
       "sourceWord": "學校",
       "sourceWordJyutping": "hok6 haau6",
       "sourceWordMeaning": "school",
       "tags": [
-        "housing",
-        "neighbourhood",
         "education",
         "school",
+        "building",
+        "local service",
+        "beginner",
+        "noun",
         "daily life",
         "level-1"
       ],
@@ -10884,18 +10898,20 @@
     },
     {
       "sentenceId": "hok6haau6-school-example-4",
-      "sentence": "我唔鐘意呢間學校好嘈。",
-      "jyutping": "ngo5 m4 zung1 ji3 ni1 gaan1 hok6 haau6 hou2 cou4.",
-      "meaning": "I don’t like this school because it is noisy.",
+      "sentence": "放學之後，我會喺學校附近等你。",
+      "jyutping": "fong3 hok6 zi1 hau6, ngo5 wui5 hai2 hok6 haau6 fu6 gaan6 dang2 nei5.",
+      "meaning": "After school, I’ll wait for you near the school.",
       "sourceWordId": "hok6haau6-school",
       "sourceWord": "學校",
       "sourceWordJyutping": "hok6 haau6",
       "sourceWordMeaning": "school",
       "tags": [
-        "housing",
-        "neighbourhood",
         "education",
         "school",
+        "building",
+        "local service",
+        "beginner",
+        "noun",
         "daily life",
         "level-1"
       ],
@@ -11055,86 +11071,86 @@
     },
     {
       "sentenceId": "caan1teng1-restaurant-example-1",
-      "sentence": "我喺餐廳訂咗位。",
-      "jyutping": "ngo5 hai2 caan1 teng1 deng6 zo2 wai6.",
-      "meaning": "I booked a table at the restaurant.",
+      "sentence": "我哋今晚去餐廳食飯。",
+      "jyutping": "ngo5 dei6 gam1 maan5 heoi3 caan1 teng1 sik6 faan6.",
+      "meaning": "We’re going to a restaurant for dinner tonight.",
       "sourceWordId": "caan1teng1-restaurant",
       "sourceWord": "餐廳",
       "sourceWordJyutping": "caan1 teng1",
       "sourceWordMeaning": "restaurant",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "food",
-        "places",
-        "dining",
+        "food places",
+        "everyday vocabulary",
+        "basic noun",
+        "shopping and dining",
+        "common location word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caan1teng1-restaurant.json"
     },
     {
       "sentenceId": "caan1teng1-restaurant-example-2",
-      "sentence": "呢個餐廳嘅湯好好味。",
-      "jyutping": "ni1 go3 caan1 teng1 ge3 tong1 hou2 hou2 mei6.",
-      "meaning": "The soup at this restaurant is delicious.",
+      "sentence": "呢間餐廳好出名。",
+      "jyutping": "ni1 gaan1 caan1 teng1 hou2 ceot1 ming4.",
+      "meaning": "This restaurant is very famous.",
       "sourceWordId": "caan1teng1-restaurant",
       "sourceWord": "餐廳",
       "sourceWordJyutping": "caan1 teng1",
       "sourceWordMeaning": "restaurant",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "food",
-        "places",
-        "dining",
+        "food places",
+        "everyday vocabulary",
+        "basic noun",
+        "shopping and dining",
+        "common location word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caan1teng1-restaurant.json"
     },
     {
       "sentenceId": "caan1teng1-restaurant-example-3",
-      "sentence": "餐廳入面好多人。",
-      "jyutping": "caan1 teng1 jap6 min6 hou2 do1 jan4.",
-      "meaning": "There are many people inside the restaurant.",
+      "sentence": "佢喺餐廳做侍應。",
+      "jyutping": "keoi5 hai2 caan1 teng1 zou6 si6 jing3.",
+      "meaning": "He/She works as a server in a restaurant.",
       "sourceWordId": "caan1teng1-restaurant",
       "sourceWord": "餐廳",
       "sourceWordJyutping": "caan1 teng1",
       "sourceWordMeaning": "restaurant",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "food",
-        "places",
-        "dining",
+        "food places",
+        "everyday vocabulary",
+        "basic noun",
+        "shopping and dining",
+        "common location word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caan1teng1-restaurant.json"
     },
     {
       "sentenceId": "caan1teng1-restaurant-example-4",
-      "sentence": "我想試下新開嘅餐廳。",
-      "jyutping": "ngo5 soeng2 si3 haa5 san1 hoi1 ge3 caan1 teng1.",
-      "meaning": "I want to try the newly opened restaurant.",
+      "sentence": "附近有冇平啲嘅餐廳？",
+      "jyutping": "fu6 gan6 jau5 mou5 peng4 di1 ge3 caan1 teng1?",
+      "meaning": "Are there any cheaper restaurants nearby?",
       "sourceWordId": "caan1teng1-restaurant",
       "sourceWord": "餐廳",
       "sourceWordJyutping": "caan1 teng1",
       "sourceWordMeaning": "restaurant",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "food",
-        "places",
-        "dining",
+        "food places",
+        "everyday vocabulary",
+        "basic noun",
+        "shopping and dining",
+        "common location word",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caan1teng1-restaurant.json"
     },
     {
-      "sentenceId": "caa4caan1teng1-cafe-example-1",
+      "sentenceId": "caa4caan1teng1-hong-kong-style-cafe-example-1",
       "sentence": "我哋下晝去茶餐廳飲奶茶。",
       "jyutping": "ngo5 dei6 haa6 zau3 heoi3 caa4 caan1 teng1 jam2 naai5 caa4.",
       "meaning": "We’re going to a Hong Kong-style cafe this afternoon to drink milk tea.",
-      "sourceWordId": "caa4caan1teng1-cafe",
+      "sourceWordId": "caa4caan1teng1-hong-kong-style-cafe",
       "sourceWord": "茶餐廳",
       "sourceWordJyutping": "caa4 caan1 teng1",
       "sourceWordMeaning": "Hong Kong-style cafe",
@@ -11146,14 +11162,14 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4caan1teng1-cafe.json"
+      "sourceFile": "r2-backup/words/caa4caan1teng1-hong-kong-style-cafe.json"
     },
     {
-      "sentenceId": "caa4caan1teng1-cafe-example-2",
+      "sentenceId": "caa4caan1teng1-hong-kong-style-cafe-example-2",
       "sentence": "呢間茶餐廳成日都好多人。",
       "jyutping": "ni1 gaan1 caa4 caan1 teng1 seng4 jat6 dou1 hou2 do1 jan4.",
       "meaning": "This cafe is always very crowded.",
-      "sourceWordId": "caa4caan1teng1-cafe",
+      "sourceWordId": "caa4caan1teng1-hong-kong-style-cafe",
       "sourceWord": "茶餐廳",
       "sourceWordJyutping": "caa4 caan1 teng1",
       "sourceWordMeaning": "Hong Kong-style cafe",
@@ -11165,14 +11181,14 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4caan1teng1-cafe.json"
+      "sourceFile": "r2-backup/words/caa4caan1teng1-hong-kong-style-cafe.json"
     },
     {
-      "sentenceId": "caa4caan1teng1-cafe-example-3",
+      "sentenceId": "caa4caan1teng1-hong-kong-style-cafe-example-3",
       "sentence": "茶餐廳嘅餐牌有好多選擇。",
       "jyutping": "caa4 caan1 teng1 ge3 caan1 paai4 jau5 hou2 do1 syun2 zaak6.",
       "meaning": "The menu at the cafe has many choices.",
-      "sourceWordId": "caa4caan1teng1-cafe",
+      "sourceWordId": "caa4caan1teng1-hong-kong-style-cafe",
       "sourceWord": "茶餐廳",
       "sourceWordJyutping": "caa4 caan1 teng1",
       "sourceWordMeaning": "Hong Kong-style cafe",
@@ -11184,14 +11200,14 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4caan1teng1-cafe.json"
+      "sourceFile": "r2-backup/words/caa4caan1teng1-hong-kong-style-cafe.json"
     },
     {
-      "sentenceId": "caa4caan1teng1-cafe-example-4",
+      "sentenceId": "caa4caan1teng1-hong-kong-style-cafe-example-4",
       "sentence": "你鍾意去茶餐廳定西餐廳？",
       "jyutping": "nei5 zung1 ji3 heoi3 caa4 caan1 teng1 ding6 sai1 caan1 teng1?",
       "meaning": "Do you prefer going to a Hong Kong-style cafe or a Western restaurant?",
-      "sourceWordId": "caa4caan1teng1-cafe",
+      "sourceWordId": "caa4caan1teng1-hong-kong-style-cafe",
       "sourceWord": "茶餐廳",
       "sourceWordJyutping": "caa4 caan1 teng1",
       "sourceWordMeaning": "Hong Kong-style cafe",
@@ -11203,80 +11219,80 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4caan1teng1-cafe.json"
+      "sourceFile": "r2-backup/words/caa4caan1teng1-hong-kong-style-cafe.json"
     },
     {
       "sentenceId": "gung1jyun4-park-example-1",
-      "sentence": "我哋今日去公園散步。",
-      "jyutping": "ngo5 dei6 gam1 jat6 heoi3 gung1 jyun4 saan3 bou6.",
-      "meaning": "We are going to the park for a walk today.",
+      "sentence": "我哋今日去公園行下。",
+      "jyutping": "ngo5 dei6 gam1 jat6 heoi3 gung1 jyun4 hang4 haa5.",
+      "meaning": "Let's go to the park for a walk today.",
       "sourceWordId": "gung1jyun4-park",
       "sourceWord": "公園",
       "sourceWordJyutping": "gung1 jyun4",
       "sourceWordMeaning": "park",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "outdoor",
-        "places",
-        "recreation",
+        "community place",
+        "local service",
+        "public space",
+        "everyday noun",
+        "beginner vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gung1jyun4-park.json"
     },
     {
       "sentenceId": "gung1jyun4-park-example-2",
-      "sentence": "附近有個大公園。",
-      "jyutping": "fu6 gan6 jau5 go3 daai6 gung1 jyun4.",
-      "meaning": "There is a big park nearby.",
+      "sentence": "小朋友喺公園玩得好開心。",
+      "jyutping": "siu2 pang4 jau5 hai2 gung1 jyun4 waan2 dak1 hou2 hoi1 sam1.",
+      "meaning": "The children are having a great time playing in the park.",
       "sourceWordId": "gung1jyun4-park",
       "sourceWord": "公園",
       "sourceWordJyutping": "gung1 jyun4",
       "sourceWordMeaning": "park",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "outdoor",
-        "places",
-        "recreation",
+        "community place",
+        "local service",
+        "public space",
+        "everyday noun",
+        "beginner vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gung1jyun4-park.json"
     },
     {
       "sentenceId": "gung1jyun4-park-example-3",
-      "sentence": "你鍾意去公園跑步定係郊外？",
-      "jyutping": "nei5 zung1 ji3 heoi3 gung1 jyun4 paau2 bou6 ding6 hai6 gaau1 ngoi6?",
-      "meaning": "Do you prefer running in the park or outdoors?",
+      "sentence": "我朝早會去公園跑步。",
+      "jyutping": "ngo5 ciu4 zou2 wui5 heoi3 gung1 jyun4 paau2 bou6.",
+      "meaning": "I go to the park to jog in the morning.",
       "sourceWordId": "gung1jyun4-park",
       "sourceWord": "公園",
       "sourceWordJyutping": "gung1 jyun4",
       "sourceWordMeaning": "park",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "outdoor",
-        "places",
-        "recreation",
+        "community place",
+        "local service",
+        "public space",
+        "everyday noun",
+        "beginner vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gung1jyun4-park.json"
     },
     {
       "sentenceId": "gung1jyun4-park-example-4",
-      "sentence": "小朋友喺公園玩得好開心。",
-      "jyutping": "siu2 pang4 jau5 hai2 gung1 jyun4 waan2 dak1 hou2 hoi1 sam1.",
-      "meaning": "The kids are having a lot of fun playing in the park.",
+      "sentence": "屋企附近有個好靚嘅公園。",
+      "jyutping": "uk1 kei2 fu6 gan6 jau5 go3 hou2 leng3 ge3 gung1 jyun4.",
+      "meaning": "There is a very nice park near my home.",
       "sourceWordId": "gung1jyun4-park",
       "sourceWord": "公園",
       "sourceWordJyutping": "gung1 jyun4",
       "sourceWordMeaning": "park",
       "tags": [
-        "housing",
-        "neighbourhood",
-        "outdoor",
-        "places",
-        "recreation",
+        "community place",
+        "local service",
+        "public space",
+        "everyday noun",
+        "beginner vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gung1jyun4-park.json"
@@ -11359,76 +11375,76 @@
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-1",
-      "sentence": "我喺巴士站等巴士。",
-      "jyutping": "ngo5 hai2 baa1 si2 zaam6 dang2 baa1 si2",
-      "meaning": "I am waiting for the bus at the bus stop.",
+      "sentence": "我喺巴士站等緊車。",
+      "jyutping": "ngo5 hai2 baa1 si2 zaam6 dang2 gan2 ce1",
+      "meaning": "I'm waiting for the bus at the bus stop.",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-2",
-      "sentence": "巴士站好多人。",
-      "jyutping": "baa1 si2 zaam6 hou2 do1 jan4",
-      "meaning": "There are many people at the bus stop.",
+      "sentence": "巴士站喺前面。",
+      "jyutping": "baa1 si2 zaam6 hai2 cin4 min6",
+      "meaning": "The bus stop is in front.",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-3",
-      "sentence": "最近嘅巴士站喺邊度？",
-      "jyutping": "jeui3 gan6 ge3 baa1 si2 zaam6 hai2 bin1 dou6?",
-      "meaning": "Where is the nearest bus stop?",
+      "sentence": "你知唔知最近嘅巴士站喺邊？",
+      "jyutping": "nei5 zi1 m4 zi1 zeoi3 gan6 ge3 baa1 si2 zaam6 hai2 bin1",
+      "meaning": "Do you know where the nearest bus stop is?",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-4",
-      "sentence": "我哋喺地鐵站轉車去巴士站。",
-      "jyutping": "ngo5 dei6 hai2 dei6 tit3 zaam6 zyun2 ce1 heoi3 baa1 si2 zaam6",
-      "meaning": "We change at the MTR station to go to the bus stop.",
+      "sentence": "落車之後行兩分鐘就到巴士站。",
+      "jyutping": "lok6 ce1 zi1 hau6 haang4 loeng5 fan1 zung1 zau6 dou3 baa1 si2 zaam6",
+      "meaning": "After getting off, it's a two-minute walk to the bus stop.",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"

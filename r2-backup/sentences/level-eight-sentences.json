@@ -5,11 +5,11 @@
   "totalSentences": 256,
   "items": [
     {
-      "sentenceId": "mou5so2wai6-whatever-example-1",
+      "sentenceId": "mou5so2wai6-whatever-doesnt-matter-example-1",
       "sentence": "你想食咩？冇所謂，我乜都得。",
       "jyutping": "nei5 soeng2 sik6 me1? mou5 so2 wai6, ngo5 mat1 dou1 dak1.",
       "meaning": "What do you want to eat? Whatever, I am fine with anything.",
-      "sourceWordId": "mou5so2wai6-whatever",
+      "sourceWordId": "mou5so2wai6-whatever-doesnt-matter",
       "sourceWord": "冇所謂",
       "sourceWordJyutping": "mou5 so2 wai6",
       "sourceWordMeaning": "whatever / doesn't matter",
@@ -22,14 +22,14 @@
         "daily conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5so2wai6-whatever.json"
+      "sourceFile": "r2-backup/words/mou5so2wai6-whatever-doesnt-matter.json"
     },
     {
-      "sentenceId": "mou5so2wai6-whatever-example-2",
+      "sentenceId": "mou5so2wai6-whatever-doesnt-matter-example-2",
       "sentence": "至於去邊度玩？冇所謂，你決定喇。",
       "jyutping": "zi3 jyu1 heoi3 bin1 dou6 waan2? mou5 so2 wai6, nei5 kyut3 ding6 laa3.",
       "meaning": "Where to go for fun? Doesn't matter, you decide.",
-      "sourceWordId": "mou5so2wai6-whatever",
+      "sourceWordId": "mou5so2wai6-whatever-doesnt-matter",
       "sourceWord": "冇所謂",
       "sourceWordJyutping": "mou5 so2 wai6",
       "sourceWordMeaning": "whatever / doesn't matter",
@@ -42,14 +42,14 @@
         "daily conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5so2wai6-whatever.json"
+      "sourceFile": "r2-backup/words/mou5so2wai6-whatever-doesnt-matter.json"
     },
     {
-      "sentenceId": "mou5so2wai6-whatever-example-3",
+      "sentenceId": "mou5so2wai6-whatever-doesnt-matter-example-3",
       "sentence": "你講嘅時間改唔改？冇所謂，我冇特別嘢要做。",
       "jyutping": "nei5 gong2 ge3 si4 gaan3 goi2 m4 goi2? mou5 so2 wai6, ngo5 mou5 dak6 bit6 je5 jiu3 zou6.",
       "meaning": "Do you want to change the time you mentioned? Whatever, I don't have anything special to do.",
-      "sourceWordId": "mou5so2wai6-whatever",
+      "sourceWordId": "mou5so2wai6-whatever-doesnt-matter",
       "sourceWord": "冇所謂",
       "sourceWordJyutping": "mou5 so2 wai6",
       "sourceWordMeaning": "whatever / doesn't matter",
@@ -62,14 +62,14 @@
         "daily conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5so2wai6-whatever.json"
+      "sourceFile": "r2-backup/words/mou5so2wai6-whatever-doesnt-matter.json"
     },
     {
-      "sentenceId": "mou5so2wai6-whatever-example-4",
+      "sentenceId": "mou5so2wai6-whatever-doesnt-matter-example-4",
       "sentence": "呢件事我冇所謂，你自己決定啦。",
       "jyutping": "ni1 gin6 si6 ngo5 mou5 so2 wai6, nei5 zi6 gei2 kyut3 ding6 laa1.",
       "meaning": "I don't mind about this matter, you decide by yourself.",
-      "sourceWordId": "mou5so2wai6-whatever",
+      "sourceWordId": "mou5so2wai6-whatever-doesnt-matter",
       "sourceWord": "冇所謂",
       "sourceWordJyutping": "mou5 so2 wai6",
       "sourceWordMeaning": "whatever / doesn't matter",
@@ -82,7 +82,7 @@
         "daily conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5so2wai6-whatever.json"
+      "sourceFile": "r2-backup/words/mou5so2wai6-whatever-doesnt-matter.json"
     },
     {
       "sentenceId": "m4gwaai3zi1dak1-no-wonder-example-1",
@@ -237,11 +237,11 @@
       "sourceFile": "r2-backup/words/gong2zan1-honestly.json"
     },
     {
-      "sentenceId": "mou5mat1je5-nothing-example-1",
+      "sentenceId": "mou5mat1je5-nothing-much-example-1",
       "sentence": "你今日做咗啲咩呀？",
       "jyutping": "nei5 gam1jat6 zou6 zo2 di1 me1 aa3?",
       "meaning": "What did you do today?",
-      "sourceWordId": "mou5mat1je5-nothing",
+      "sourceWordId": "mou5mat1je5-nothing-much",
       "sourceWord": "冇乜嘢",
       "sourceWordJyutping": "mou5 mat1 je5",
       "sourceWordMeaning": "nothing much",
@@ -253,14 +253,14 @@
         "response",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5mat1je5-nothing.json"
+      "sourceFile": "r2-backup/words/mou5mat1je5-nothing-much.json"
     },
     {
-      "sentenceId": "mou5mat1je5-nothing-example-2",
+      "sentenceId": "mou5mat1je5-nothing-much-example-2",
       "sentence": "冇乜嘢，淨係留喺屋企睇書。",
       "jyutping": "mou5 mat1 je5, zing6 hai6 lau4 hai2 uk1 kei2 tai2 syu1.",
       "meaning": "Nothing much, just stayed at home reading.",
-      "sourceWordId": "mou5mat1je5-nothing",
+      "sourceWordId": "mou5mat1je5-nothing-much",
       "sourceWord": "冇乜嘢",
       "sourceWordJyutping": "mou5 mat1 je5",
       "sourceWordMeaning": "nothing much",
@@ -272,14 +272,14 @@
         "response",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5mat1je5-nothing.json"
+      "sourceFile": "r2-backup/words/mou5mat1je5-nothing-much.json"
     },
     {
-      "sentenceId": "mou5mat1je5-nothing-example-3",
+      "sentenceId": "mou5mat1je5-nothing-much-example-3",
       "sentence": "週末去玩咩？",
       "jyutping": "zau1 mut6 heoi3 waan2 me1?",
       "meaning": "What are you doing this weekend?",
-      "sourceWordId": "mou5mat1je5-nothing",
+      "sourceWordId": "mou5mat1je5-nothing-much",
       "sourceWord": "冇乜嘢",
       "sourceWordJyutping": "mou5 mat1 je5",
       "sourceWordMeaning": "nothing much",
@@ -291,14 +291,14 @@
         "response",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5mat1je5-nothing.json"
+      "sourceFile": "r2-backup/words/mou5mat1je5-nothing-much.json"
     },
     {
-      "sentenceId": "mou5mat1je5-nothing-example-4",
+      "sentenceId": "mou5mat1je5-nothing-much-example-4",
       "sentence": "冇乜嘢，可能喺屋企休息吓。",
       "jyutping": "mou5 mat1 je5, ho2 nang4 hai2 uk1 kei2 jau1 sik1 haa5.",
       "meaning": "Nothing much, maybe just resting at home.",
-      "sourceWordId": "mou5mat1je5-nothing",
+      "sourceWordId": "mou5mat1je5-nothing-much",
       "sourceWord": "冇乜嘢",
       "sourceWordJyutping": "mou5 mat1 je5",
       "sourceWordMeaning": "nothing much",
@@ -310,14 +310,14 @@
         "response",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/mou5mat1je5-nothing.json"
+      "sourceFile": "r2-backup/words/mou5mat1je5-nothing-much.json"
     },
     {
-      "sentenceId": "jau5mat1je5hou2gong2-whats-to-say-example-1",
+      "sentenceId": "jau5mat1je5hou2gong2-whats-there-to-say-example-1",
       "sentence": "做咗咁多錯，有乜嘢好講？",
       "jyutping": "zou6 zo2 gam3 do1 co3, jau5 mat1 je5 hou2 gong2?",
       "meaning": "After making so many mistakes, what's there to say?",
-      "sourceWordId": "jau5mat1je5hou2gong2-whats-to-say",
+      "sourceWordId": "jau5mat1je5hou2gong2-whats-there-to-say",
       "sourceWord": "有乜嘢好講",
       "sourceWordJyutping": "jau5 mat1 je5 hou2 gong2",
       "sourceWordMeaning": "what's there to say?",
@@ -329,14 +329,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-to-say.json"
+      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-there-to-say.json"
     },
     {
-      "sentenceId": "jau5mat1je5hou2gong2-whats-to-say-example-2",
+      "sentenceId": "jau5mat1je5hou2gong2-whats-there-to-say-example-2",
       "sentence": "今次考試失敗咗，有乜嘢好講？繼續努力啦。",
       "jyutping": "gam1 ci3 haau2 si3 sat1 baai6 zo2, jau5 mat1 je5 hou2 gong2? gai3 zuk6 nou5 lik6 laa1.",
       "meaning": "You failed the exam this time, what's there to say? Just keep trying.",
-      "sourceWordId": "jau5mat1je5hou2gong2-whats-to-say",
+      "sourceWordId": "jau5mat1je5hou2gong2-whats-there-to-say",
       "sourceWord": "有乜嘢好講",
       "sourceWordJyutping": "jau5 mat1 je5 hou2 gong2",
       "sourceWordMeaning": "what's there to say?",
@@ -348,14 +348,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-to-say.json"
+      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-there-to-say.json"
     },
     {
-      "sentenceId": "jau5mat1je5hou2gong2-whats-to-say-example-3",
+      "sentenceId": "jau5mat1je5hou2gong2-whats-there-to-say-example-3",
       "sentence": "啲證據擺晒喺度，有乜嘢好講？",
       "jyutping": "di1 zing3 geoi3 baai2 saai3 hai2 dou6, jau5 mat1 je5 hou2 gong2?",
       "meaning": "The evidence is all there, what's there to say?",
-      "sourceWordId": "jau5mat1je5hou2gong2-whats-to-say",
+      "sourceWordId": "jau5mat1je5hou2gong2-whats-there-to-say",
       "sourceWord": "有乜嘢好講",
       "sourceWordJyutping": "jau5 mat1 je5 hou2 gong2",
       "sourceWordMeaning": "what's there to say?",
@@ -367,14 +367,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-to-say.json"
+      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-there-to-say.json"
     },
     {
-      "sentenceId": "jau5mat1je5hou2gong2-whats-to-say-example-4",
+      "sentenceId": "jau5mat1je5hou2gong2-whats-there-to-say-example-4",
       "sentence": "佢已經唔喺度，有乜嘢好講？",
       "jyutping": "keoi5 ji5 ging1 m4 hai2 dou6, jau5 mat1 je5 hou2 gong2?",
       "meaning": "He’s already gone, what’s there to say?",
-      "sourceWordId": "jau5mat1je5hou2gong2-whats-to-say",
+      "sourceWordId": "jau5mat1je5hou2gong2-whats-there-to-say",
       "sourceWord": "有乜嘢好講",
       "sourceWordJyutping": "jau5 mat1 je5 hou2 gong2",
       "sourceWordMeaning": "what's there to say?",
@@ -386,14 +386,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-to-say.json"
+      "sourceFile": "r2-backup/words/jau5mat1je5hou2gong2-whats-there-to-say.json"
     },
     {
-      "sentenceId": "nam2m4ming4-cant-figure-example-1",
+      "sentenceId": "nam2m4ming4-cant-figure-it-out-example-1",
       "sentence": "呢個謎語我諗唔明，真係好難。",
       "jyutping": "ni1 go3 mai4 jyu4 ngo5 nam2 m4 ming4, zan1 hai6 hou2 naan4.",
       "meaning": "I can't figure out this riddle; it’s really difficult.",
-      "sourceWordId": "nam2m4ming4-cant-figure",
+      "sourceWordId": "nam2m4ming4-cant-figure-it-out",
       "sourceWord": "諗唔明",
       "sourceWordJyutping": "nam2 m4 ming4",
       "sourceWordMeaning": "can't figure it out",
@@ -405,14 +405,14 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure.json"
+      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure-it-out.json"
     },
     {
-      "sentenceId": "nam2m4ming4-cant-figure-example-2",
+      "sentenceId": "nam2m4ming4-cant-figure-it-out-example-2",
       "sentence": "你講嘅意思我諗唔明，可以講得清楚啲嗎？",
       "jyutping": "nei5 gong2 ge3 ji3 si3 ngo5 nam2 m4 ming4, ho2 ji5 gong2 dak1 cing1 co2 di1 maa3?",
       "meaning": "I can’t figure out what you mean; could you explain more clearly?",
-      "sourceWordId": "nam2m4ming4-cant-figure",
+      "sourceWordId": "nam2m4ming4-cant-figure-it-out",
       "sourceWord": "諗唔明",
       "sourceWordJyutping": "nam2 m4 ming4",
       "sourceWordMeaning": "can't figure it out",
@@ -424,14 +424,14 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure.json"
+      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure-it-out.json"
     },
     {
-      "sentenceId": "nam2m4ming4-cant-figure-example-3",
+      "sentenceId": "nam2m4ming4-cant-figure-it-out-example-3",
       "sentence": "公司嘅新政策我諗唔明，大家一齊討論下啦。",
       "jyutping": "gung1 si1 ge3 san1 zing3 ceot3 ngo5 nam2 m4 ming4, daai6 gaa1 jat1 cai4 tou2 leon6 haa5 laa1.",
       "meaning": "I can’t figure out the company’s new policy; let’s discuss it together.",
-      "sourceWordId": "nam2m4ming4-cant-figure",
+      "sourceWordId": "nam2m4ming4-cant-figure-it-out",
       "sourceWord": "諗唔明",
       "sourceWordJyutping": "nam2 m4 ming4",
       "sourceWordMeaning": "can't figure it out",
@@ -443,14 +443,14 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure.json"
+      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure-it-out.json"
     },
     {
-      "sentenceId": "nam2m4ming4-cant-figure-example-4",
+      "sentenceId": "nam2m4ming4-cant-figure-it-out-example-4",
       "sentence": "佢嘅行為真係令我諗唔明，完全唔似佢以往咁。",
       "jyutping": "keoi5 ge3 hang4 wai4 zan1 hai6 ling6 ngo5 nam2 m4 ming4, jyun4 cyun4 m4 ci5 keoi5 ji5 wong5 gam2.",
       "meaning": "His behavior really baffles me; it’s completely unlike his usual self.",
-      "sourceWordId": "nam2m4ming4-cant-figure",
+      "sourceWordId": "nam2m4ming4-cant-figure-it-out",
       "sourceWord": "諗唔明",
       "sourceWordJyutping": "nam2 m4 ming4",
       "sourceWordMeaning": "can't figure it out",
@@ -462,14 +462,14 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure.json"
+      "sourceFile": "r2-backup/words/nam2m4ming4-cant-figure-it-out.json"
     },
     {
-      "sentenceId": "ding2m4seon6-cant-stand-example-1",
+      "sentenceId": "ding2m4seon6-cant-stand-it-example-1",
       "sentence": "呢個天氣真係頂唔順，熱到好似焗爐咁。",
       "jyutping": "ni1 go3 tin1 hei3 zan1 hai6 ding2 m4 seon6, jit6 dou3 hou2 ci5 guk6 lou4 gam2.",
       "meaning": "This weather is really unbearable, it's as hot as an oven.",
-      "sourceWordId": "ding2m4seon6-cant-stand",
+      "sourceWordId": "ding2m4seon6-cant-stand-it",
       "sourceWord": "頂唔順",
       "sourceWordJyutping": "ding2 m4 seon6",
       "sourceWordMeaning": "can't stand it",
@@ -481,14 +481,14 @@
         "spoken",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand.json"
+      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand-it.json"
     },
     {
-      "sentenceId": "ding2m4seon6-cant-stand-example-2",
+      "sentenceId": "ding2m4seon6-cant-stand-it-example-2",
       "sentence": "佢嘅態度頂唔順，成日咁無禮貌。",
       "jyutping": "keoi5 ge3 taai3 dou6 ding2 m4 seon6, seng4 jat6 gam2 mou4 lai5 maau6.",
       "meaning": "His attitude is unbearable, always so rude.",
-      "sourceWordId": "ding2m4seon6-cant-stand",
+      "sourceWordId": "ding2m4seon6-cant-stand-it",
       "sourceWord": "頂唔順",
       "sourceWordJyutping": "ding2 m4 seon6",
       "sourceWordMeaning": "can't stand it",
@@ -500,14 +500,14 @@
         "spoken",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand.json"
+      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand-it.json"
     },
     {
-      "sentenceId": "ding2m4seon6-cant-stand-example-3",
+      "sentenceId": "ding2m4seon6-cant-stand-it-example-3",
       "sentence": "我頂唔順成日噉樣加班，真係好辛苦。",
       "jyutping": "ngo5 ding2 m4 seon6 seng4 jat6 gam2 joeng6 gaa1 baan1, zan1 hai6 hou2 san1 fu2.",
       "meaning": "I can't stand working overtime like this all the time, it's really exhausting.",
-      "sourceWordId": "ding2m4seon6-cant-stand",
+      "sourceWordId": "ding2m4seon6-cant-stand-it",
       "sourceWord": "頂唔順",
       "sourceWordJyutping": "ding2 m4 seon6",
       "sourceWordMeaning": "can't stand it",
@@ -519,14 +519,14 @@
         "spoken",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand.json"
+      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand-it.json"
     },
     {
-      "sentenceId": "ding2m4seon6-cant-stand-example-4",
+      "sentenceId": "ding2m4seon6-cant-stand-it-example-4",
       "sentence": "呢啲噪音頂唔順，要唔要我去投訴？",
       "jyutping": "ni1 di1 zou3 jam1 ding2 m4 seon6, jiu3 m4 jiu3 ngo5 heoi3 tau4 sou3?",
       "meaning": "I can't stand this noise, should I go complain?",
-      "sourceWordId": "ding2m4seon6-cant-stand",
+      "sourceWordId": "ding2m4seon6-cant-stand-it",
       "sourceWord": "頂唔順",
       "sourceWordJyutping": "ding2 m4 seon6",
       "sourceWordMeaning": "can't stand it",
@@ -538,7 +538,7 @@
         "spoken",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand.json"
+      "sourceFile": "r2-backup/words/ding2m4seon6-cant-stand-it.json"
     },
     {
       "sentenceId": "sau6m4zyu6-cant-endure-example-1",
@@ -693,11 +693,11 @@
       "sourceFile": "r2-backup/words/gik1sei2-so-annoying.json"
     },
     {
-      "sentenceId": "hou2coi2-lucky-example-1",
+      "sentenceId": "hou2coi2-luckily-example-1",
       "sentence": "我今朝遲咗起身，但好彩趕到公司。",
       "jyutping": "ngo5 gam1 ziu1 ci4 zo2 hei2 san1, daan6 hou2 coi2 gon2 dou3 gung1 si1.",
       "meaning": "I woke up late this morning, but luckily I still made it to the office on time.",
-      "sourceWordId": "hou2coi2-lucky",
+      "sourceWordId": "hou2coi2-luckily",
       "sourceWord": "好彩",
       "sourceWordJyutping": "hou2 coi2",
       "sourceWordMeaning": "luckily",
@@ -709,14 +709,14 @@
         "relief",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2-lucky.json"
+      "sourceFile": "r2-backup/words/hou2coi2-luckily.json"
     },
     {
-      "sentenceId": "hou2coi2-lucky-example-2",
+      "sentenceId": "hou2coi2-luckily-example-2",
       "sentence": "呢場雨落得突然，好彩我帶咗遮。",
       "jyutping": "ni1 coeng4 jyu5 lok6 dak1 dat6 jin4, hou2 coi2 ngo5 daai3 zo2 ze1.",
       "meaning": "It suddenly started raining; luckily I brought an umbrella.",
-      "sourceWordId": "hou2coi2-lucky",
+      "sourceWordId": "hou2coi2-luckily",
       "sourceWord": "好彩",
       "sourceWordJyutping": "hou2 coi2",
       "sourceWordMeaning": "luckily",
@@ -728,14 +728,14 @@
         "relief",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2-lucky.json"
+      "sourceFile": "r2-backup/words/hou2coi2-luckily.json"
     },
     {
-      "sentenceId": "hou2coi2-lucky-example-3",
+      "sentenceId": "hou2coi2-luckily-example-3",
       "sentence": "佢跌親腳，好彩冇大礙。",
       "jyutping": "keoi5 dit3 can1 goek3, hou2 coi2 mou5 daai6 ngai6.",
       "meaning": "He injured his foot, but luckily it's not serious.",
-      "sourceWordId": "hou2coi2-lucky",
+      "sourceWordId": "hou2coi2-luckily",
       "sourceWord": "好彩",
       "sourceWordJyutping": "hou2 coi2",
       "sourceWordMeaning": "luckily",
@@ -747,14 +747,14 @@
         "relief",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2-lucky.json"
+      "sourceFile": "r2-backup/words/hou2coi2-luckily.json"
     },
     {
-      "sentenceId": "hou2coi2-lucky-example-4",
+      "sentenceId": "hou2coi2-luckily-example-4",
       "sentence": "我以為考試難，好彩最後Pass咗。",
       "jyutping": "ngo5 ji5 wai4 haau2 si3 naan4, hou2 coi2 zeoi6 hau6 Pass zo2.",
       "meaning": "I thought the exam was difficult, but luckily I passed in the end.",
-      "sourceWordId": "hou2coi2-lucky",
+      "sourceWordId": "hou2coi2-luckily",
       "sourceWord": "好彩",
       "sourceWordJyutping": "hou2 coi2",
       "sourceWordMeaning": "luckily",
@@ -766,7 +766,7 @@
         "relief",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2-lucky.json"
+      "sourceFile": "r2-backup/words/hou2coi2-luckily.json"
     },
     {
       "sentenceId": "caam2laa1-oh-no-example-1",
@@ -845,11 +845,11 @@
       "sourceFile": "r2-backup/words/caam2laa1-oh-no.json"
     },
     {
-      "sentenceId": "jat1dou3lei4-as-soon-as-example-1",
+      "sentenceId": "jat1dou3lei4-as-soon-as-arrives-example-1",
       "sentence": "一到嚟我屋企，你就打電話畀我。",
       "jyutping": "jat1 dou3 lei4 ngo5 uk1 kei2, nei5 zau6 daa2 din6 waa2 bei2 ngo5.",
       "meaning": "As soon as you arrive at my house, call me.",
-      "sourceWordId": "jat1dou3lei4-as-soon-as",
+      "sourceWordId": "jat1dou3lei4-as-soon-as-arrives",
       "sourceWord": "一到嚟",
       "sourceWordJyutping": "jat1 dou3 lei4",
       "sourceWordMeaning": "as soon as arrives",
@@ -861,14 +861,14 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as.json"
+      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as-arrives.json"
     },
     {
-      "sentenceId": "jat1dou3lei4-as-soon-as-example-2",
+      "sentenceId": "jat1dou3lei4-as-soon-as-arrives-example-2",
       "sentence": "一到嚟學校，佢就開始溫書。",
       "jyutping": "jat1 dou3 lei4 hok6 haau6, keoi5 zau6 hoi1 ci2 wan1 syu1.",
       "meaning": "As soon as he arrives at school, he starts studying.",
-      "sourceWordId": "jat1dou3lei4-as-soon-as",
+      "sourceWordId": "jat1dou3lei4-as-soon-as-arrives",
       "sourceWord": "一到嚟",
       "sourceWordJyutping": "jat1 dou3 lei4",
       "sourceWordMeaning": "as soon as arrives",
@@ -880,14 +880,14 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as.json"
+      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as-arrives.json"
     },
     {
-      "sentenceId": "jat1dou3lei4-as-soon-as-example-3",
+      "sentenceId": "jat1dou3lei4-as-soon-as-arrives-example-3",
       "sentence": "一到嚟機場，我哋會即刻見面。",
       "jyutping": "jat1 dou3 lei4 gei1 coeng4, ngo5 dei6 wui5 zik1 hak1 gin3 min6.",
       "meaning": "As soon as we arrive at the airport, we will meet immediately.",
-      "sourceWordId": "jat1dou3lei4-as-soon-as",
+      "sourceWordId": "jat1dou3lei4-as-soon-as-arrives",
       "sourceWord": "一到嚟",
       "sourceWordJyutping": "jat1 dou3 lei4",
       "sourceWordMeaning": "as soon as arrives",
@@ -899,14 +899,14 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as.json"
+      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as-arrives.json"
     },
     {
-      "sentenceId": "jat1dou3lei4-as-soon-as-example-4",
+      "sentenceId": "jat1dou3lei4-as-soon-as-arrives-example-4",
       "sentence": "一到嚟佢屋企，佢媽媽就會準備好多嘢食。",
       "jyutping": "jat1 dou3 lei4 keoi5 uk1 kei2, keoi5 maa4 maa1 zau6 wui5 zeon2 bei6 hou2 do1 je5 sik6.",
       "meaning": "As soon as he arrives home, his mother will prepare a lot of food.",
-      "sourceWordId": "jat1dou3lei4-as-soon-as",
+      "sourceWordId": "jat1dou3lei4-as-soon-as-arrives",
       "sourceWord": "一到嚟",
       "sourceWordJyutping": "jat1 dou3 lei4",
       "sourceWordMeaning": "as soon as arrives",
@@ -918,7 +918,7 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as.json"
+      "sourceFile": "r2-backup/words/jat1dou3lei4-as-soon-as-arrives.json"
     },
     {
       "sentenceId": "ngo5dei6sei2laa1-were-doomed-example-1",
@@ -997,11 +997,11 @@
       "sourceFile": "r2-backup/words/ngo5dei6sei2laa1-were-doomed.json"
     },
     {
-      "sentenceId": "hou2jam1-gloomy-example-1",
+      "sentenceId": "hou2jam1-gloomy-sinister-example-1",
       "sentence": "今日落大雨，天氣好陰，真係唔想出門。",
       "jyutping": "gam1 jat6 lok6 daai6 jyu5, tin1 hei3 hou2 jam1, zan1 hai6 m4 soeng2 ceot1 mun4.",
       "meaning": "It's raining heavily today, the weather is gloomy; I really don't want to go out.",
-      "sourceWordId": "hou2jam1-gloomy",
+      "sourceWordId": "hou2jam1-gloomy-sinister",
       "sourceWord": "好陰",
       "sourceWordJyutping": "hou2 jam1",
       "sourceWordMeaning": "gloomy / sinister",
@@ -1013,14 +1013,14 @@
         "negative feelings",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2jam1-gloomy.json"
+      "sourceFile": "r2-backup/words/hou2jam1-gloomy-sinister.json"
     },
     {
-      "sentenceId": "hou2jam1-gloomy-example-2",
+      "sentenceId": "hou2jam1-gloomy-sinister-example-2",
       "sentence": "你聽嗰首歌幾好陰，好似講緊啲悲傷嘢。",
       "jyutping": "nei5 teng1 go2 sau2 go1 gei2 hou2 jam1, hou2 ci5 gong2 gan2 di1 bei1 soeng1 je5.",
       "meaning": "That song sounds pretty gloomy, like it's about something sad.",
-      "sourceWordId": "hou2jam1-gloomy",
+      "sourceWordId": "hou2jam1-gloomy-sinister",
       "sourceWord": "好陰",
       "sourceWordJyutping": "hou2 jam1",
       "sourceWordMeaning": "gloomy / sinister",
@@ -1032,14 +1032,14 @@
         "negative feelings",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2jam1-gloomy.json"
+      "sourceFile": "r2-backup/words/hou2jam1-gloomy-sinister.json"
     },
     {
-      "sentenceId": "hou2jam1-gloomy-example-3",
+      "sentenceId": "hou2jam1-gloomy-sinister-example-3",
       "sentence": "呢間屋嘅燈光暗暗哋，氣氛好陰，好似有啲神秘感。",
       "jyutping": "ni1 gaan1 uk1 ge3 dang1 gwong1 am3 am3 dei6, hei3 fan1 hou2 jam1, hou2 ci5 jau5 di1 san4 bei3 gam2.",
       "meaning": "The lighting in this house is dim, the atmosphere is gloomy, almost mysterious.",
-      "sourceWordId": "hou2jam1-gloomy",
+      "sourceWordId": "hou2jam1-gloomy-sinister",
       "sourceWord": "好陰",
       "sourceWordJyutping": "hou2 jam1",
       "sourceWordMeaning": "gloomy / sinister",
@@ -1051,14 +1051,14 @@
         "negative feelings",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2jam1-gloomy.json"
+      "sourceFile": "r2-backup/words/hou2jam1-gloomy-sinister.json"
     },
     {
-      "sentenceId": "hou2jam1-gloomy-example-4",
+      "sentenceId": "hou2jam1-gloomy-sinister-example-4",
       "sentence": "佢今日成日冇表情，樣貌好陰，似乎有啲唔開心。",
       "jyutping": "keoi5 gam1 jat6 seng4 jat6 mou5 biu2 cing4, joeng6 mau6 hou2 jam1, ci5 fu4 jau5 di1 m4 hoi1 sam1.",
       "meaning": "He had no expression all day, looking gloomy, as if he was unhappy.",
-      "sourceWordId": "hou2jam1-gloomy",
+      "sourceWordId": "hou2jam1-gloomy-sinister",
       "sourceWord": "好陰",
       "sourceWordJyutping": "hou2 jam1",
       "sourceWordMeaning": "gloomy / sinister",
@@ -1070,14 +1070,14 @@
         "negative feelings",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2jam1-gloomy.json"
+      "sourceFile": "r2-backup/words/hou2jam1-gloomy-sinister.json"
     },
     {
-      "sentenceId": "dai2sei2-deserved-example-1",
+      "sentenceId": "dai2sei2-deserved-it-example-1",
       "sentence": "佢唔聽人勸，跌親腳，真係抵死。",
       "jyutping": "keoi5 m4 teng1 jan4 hyun3, dzaak6 zyun1 goek3, zan1 hai6 dai2 sei2.",
       "meaning": "He didn't listen to advice and hurt his foot; he really deserved it.",
-      "sourceWordId": "dai2sei2-deserved",
+      "sourceWordId": "dai2sei2-deserved-it",
       "sourceWord": "抵死",
       "sourceWordJyutping": "dai2 sei2",
       "sourceWordMeaning": "deserved it",
@@ -1089,14 +1089,14 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dai2sei2-deserved.json"
+      "sourceFile": "r2-backup/words/dai2sei2-deserved-it.json"
     },
     {
-      "sentenceId": "dai2sei2-deserved-example-2",
+      "sentenceId": "dai2sei2-deserved-it-example-2",
       "sentence": "佢成日遲到，公司終於開會話佢抵死。",
       "jyutping": "keoi5 seng4 jat6 ci4 dou3, gung1 si1 zung1 jyu4 hoi1 wui6 waa6 keoi5 dai2 sei2.",
       "meaning": "He is always late; the company finally called him out, saying he deserved it.",
-      "sourceWordId": "dai2sei2-deserved",
+      "sourceWordId": "dai2sei2-deserved-it",
       "sourceWord": "抵死",
       "sourceWordJyutping": "dai2 sei2",
       "sourceWordMeaning": "deserved it",
@@ -1108,14 +1108,14 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dai2sei2-deserved.json"
+      "sourceFile": "r2-backup/words/dai2sei2-deserved-it.json"
     },
     {
-      "sentenceId": "dai2sei2-deserved-example-3",
+      "sentenceId": "dai2sei2-deserved-it-example-3",
       "sentence": "你偷食嘢畀人捉到，抵死啦！",
       "jyutping": "nei5 tau1 sik6 je5 bei2 jan4 zuk1 dou3, dai2 sei2 laa1!",
       "meaning": "You got caught stealing food, deserved it!",
-      "sourceWordId": "dai2sei2-deserved",
+      "sourceWordId": "dai2sei2-deserved-it",
       "sourceWord": "抵死",
       "sourceWordJyutping": "dai2 sei2",
       "sourceWordMeaning": "deserved it",
@@ -1127,14 +1127,14 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dai2sei2-deserved.json"
+      "sourceFile": "r2-backup/words/dai2sei2-deserved-it.json"
     },
     {
-      "sentenceId": "dai2sei2-deserved-example-4",
+      "sentenceId": "dai2sei2-deserved-it-example-4",
       "sentence": "講大話被揭穿，佢真係抵死！",
       "jyutping": "gong2 daai6 waa6 bei6 gik1 cyun1, keoi5 zan1 hai6 dai2 sei2!",
       "meaning": "He got exposed for lying; he totally deserved it!",
-      "sourceWordId": "dai2sei2-deserved",
+      "sourceWordId": "dai2sei2-deserved-it",
       "sourceWord": "抵死",
       "sourceWordJyutping": "dai2 sei2",
       "sourceWordMeaning": "deserved it",
@@ -1146,83 +1146,83 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dai2sei2-deserved.json"
+      "sourceFile": "r2-backup/words/dai2sei2-deserved-it.json"
     },
     {
-      "sentenceId": "hou2coi2mou5si6-lucky-safe-example-1",
-      "sentence": "車禍之後，好彩冇事，大家都安全。",
-      "jyutping": "ce1 fo3 zi1 hau6, hou2 coi2 mou5 si6, daai6 gaa1 dou1 on1 cyun4",
-      "meaning": "After the car accident, luckily nothing happened, everyone is safe.",
-      "sourceWordId": "hou2coi2mou5si6-lucky-safe",
+      "sentenceId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay-example-1",
+      "sentence": "撞車之後，好彩大家都冇事。",
+      "jyutping": "zong6 ce1 zi1 hau6, hou2 coi2 daai6 gaa1 dou1 mou5 si6.",
+      "meaning": "After the car accident, luckily everyone was okay.",
+      "sourceWordId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay",
       "sourceWord": "好彩冇事",
       "sourceWordJyutping": "hou2 coi2 mou5 si6",
-      "sourceWordMeaning": "luckily nothing happened",
+      "sourceWordMeaning": "luckily no one was hurt; luckily it's okay",
       "tags": [
         "relief",
         "luck",
         "safety",
-        "casual speech",
-        "disaster",
+        "casual_speech",
+        "everyday_cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2mou5si6-lucky-safe.json"
+      "sourceFile": "r2-backup/words/hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay.json"
     },
     {
-      "sentenceId": "hou2coi2mou5si6-lucky-safe-example-2",
-      "sentence": "地震咁大，好彩冇事，啲屋企無受損。",
-      "jyutping": "dei6 zan3 gam3 daai6, hou2 coi2 mou5 si6, di1 uk1 kei2 mou4 sau6 syun2",
-      "meaning": "The earthquake was so strong, luckily nothing happened, the houses weren’t damaged.",
-      "sourceWordId": "hou2coi2mou5si6-lucky-safe",
+      "sentenceId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay-example-2",
+      "sentence": "地震咁大，好彩冇人受傷。",
+      "jyutping": "dei6 zan3 gam3 daai6, hou2 coi2 mou5 jan4 sau6 soeng1.",
+      "meaning": "The earthquake was so strong, but luckily no one was hurt.",
+      "sourceWordId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay",
       "sourceWord": "好彩冇事",
       "sourceWordJyutping": "hou2 coi2 mou5 si6",
-      "sourceWordMeaning": "luckily nothing happened",
+      "sourceWordMeaning": "luckily no one was hurt; luckily it's okay",
       "tags": [
         "relief",
         "luck",
         "safety",
-        "casual speech",
-        "disaster",
+        "casual_speech",
+        "everyday_cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2mou5si6-lucky-safe.json"
+      "sourceFile": "r2-backup/words/hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay.json"
     },
     {
-      "sentenceId": "hou2coi2mou5si6-lucky-safe-example-3",
-      "sentence": "遇到大雨，好彩冇事，冇濕晒身。",
-      "jyutping": "jyu6 dou3 daai6 jyu5, hou2 coi2 mou5 si6, mou5 sap1 saai3 san1",
-      "meaning": "We encountered heavy rain, luckily nothing happened, we didn’t get completely soaked.",
-      "sourceWordId": "hou2coi2mou5si6-lucky-safe",
+      "sentenceId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay-example-3",
+      "sentence": "遇到大雨，好彩冇濕晒身。",
+      "jyutping": "jyu6 dou3 daai6 jyu5, hou2 coi2 mou5 sap1 saai3 san1.",
+      "meaning": "We ran into heavy rain, but luckily we didn't get completely soaked.",
+      "sourceWordId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay",
       "sourceWord": "好彩冇事",
       "sourceWordJyutping": "hou2 coi2 mou5 si6",
-      "sourceWordMeaning": "luckily nothing happened",
+      "sourceWordMeaning": "luckily no one was hurt; luckily it's okay",
       "tags": [
         "relief",
         "luck",
         "safety",
-        "casual speech",
-        "disaster",
+        "casual_speech",
+        "everyday_cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2mou5si6-lucky-safe.json"
+      "sourceFile": "r2-backup/words/hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay.json"
     },
     {
-      "sentenceId": "hou2coi2mou5si6-lucky-safe-example-4",
-      "sentence": "火警發生，但好彩冇事，大家都安全撤離。",
-      "jyutping": "fo2 ging2 faat3 sang1, daan6 hou2 coi2 mou5 si6, daai6 gaa1 dou1 on1 cyun4 cit3 lei4",
-      "meaning": "There was a fire alarm, but luckily nothing happened, everyone evacuated safely.",
-      "sourceWordId": "hou2coi2mou5si6-lucky-safe",
+      "sentenceId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay-example-4",
+      "sentence": "發生火警，但好彩大家都冇事，安全撤離咗。",
+      "jyutping": "faat3 sang1 fo2 ging2, daan6 hou2 coi2 daai6 gaa1 dou1 mou5 si6, on1 cyun4 cit3 lei4 zo2.",
+      "meaning": "There was a fire, but luckily everyone was okay and evacuated safely.",
+      "sourceWordId": "hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay",
       "sourceWord": "好彩冇事",
       "sourceWordJyutping": "hou2 coi2 mou5 si6",
-      "sourceWordMeaning": "luckily nothing happened",
+      "sourceWordMeaning": "luckily no one was hurt; luckily it's okay",
       "tags": [
         "relief",
         "luck",
         "safety",
-        "casual speech",
-        "disaster",
+        "casual_speech",
+        "everyday_cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2coi2mou5si6-lucky-safe.json"
+      "sourceFile": "r2-backup/words/hou2coi2mou5si6-luckily-no-one-was-hurt-luckily-its-okay.json"
     },
     {
       "sentenceId": "m4ceot1kei4-not-surprising-example-1",
@@ -1377,11 +1377,11 @@
       "sourceFile": "r2-backup/words/jau5paai4-long-time.json"
     },
     {
-      "sentenceId": "m4hai6gam3gaan2daan1-not-simple-example-1",
+      "sentenceId": "m4hai6gam3gaan2daan1-not-that-simple-example-1",
       "sentence": "呢件事唔係咁簡單，你要小心啲。",
       "jyutping": "ni1 gin6 si6 m4 hai6 gam3 gaan2 daan1, nei5 jiu3 siu2 sam1 di1.",
       "meaning": "This matter is not that simple, you need to be more careful.",
-      "sourceWordId": "m4hai6gam3gaan2daan1-not-simple",
+      "sourceWordId": "m4hai6gam3gaan2daan1-not-that-simple",
       "sourceWord": "唔係咁簡單",
       "sourceWordJyutping": "m4 hai6 gam3 gaan2 daan1",
       "sourceWordMeaning": "not that simple",
@@ -1393,14 +1393,14 @@
         "caution",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-simple.json"
+      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-that-simple.json"
     },
     {
-      "sentenceId": "m4hai6gam3gaan2daan1-not-simple-example-2",
+      "sentenceId": "m4hai6gam3gaan2daan1-not-that-simple-example-2",
       "sentence": "以為攞到份工就容易，其實唔係咁簡單。",
       "jyutping": "ji5 wai4 lo2 dou3 fan6 gung1 zau6 jung4 ji6, kei4 sat6 m4 hai6 gam3 gaan2 daan1.",
       "meaning": "You think getting the job is easy, but actually it's not that simple.",
-      "sourceWordId": "m4hai6gam3gaan2daan1-not-simple",
+      "sourceWordId": "m4hai6gam3gaan2daan1-not-that-simple",
       "sourceWord": "唔係咁簡單",
       "sourceWordJyutping": "m4 hai6 gam3 gaan2 daan1",
       "sourceWordMeaning": "not that simple",
@@ -1412,14 +1412,14 @@
         "caution",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-simple.json"
+      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-that-simple.json"
     },
     {
-      "sentenceId": "m4hai6gam3gaan2daan1-not-simple-example-3",
+      "sentenceId": "m4hai6gam3gaan2daan1-not-that-simple-example-3",
       "sentence": "你以為解決問題好快？唔係咁簡單啊。",
       "jyutping": "nei5 ji5 wai4 gaai2 kyut3 man6 tai4 hou2 faai3? m4 hai6 gam3 gaan2 daan1 aa3.",
       "meaning": "You think solving the problem is quick? It's not that simple.",
-      "sourceWordId": "m4hai6gam3gaan2daan1-not-simple",
+      "sourceWordId": "m4hai6gam3gaan2daan1-not-that-simple",
       "sourceWord": "唔係咁簡單",
       "sourceWordJyutping": "m4 hai6 gam3 gaan2 daan1",
       "sourceWordMeaning": "not that simple",
@@ -1431,14 +1431,14 @@
         "caution",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-simple.json"
+      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-that-simple.json"
     },
     {
-      "sentenceId": "m4hai6gam3gaan2daan1-not-simple-example-4",
+      "sentenceId": "m4hai6gam3gaan2daan1-not-that-simple-example-4",
       "sentence": "事情背後有好多因素，唔係咁簡單。",
       "jyutping": "si6 cing4 bui3 hau6 jau5 hou2 do1 jan1 sou3, m4 hai6 gam3 gaan2 daan1.",
       "meaning": "There are many factors behind the situation; it's not that simple.",
-      "sourceWordId": "m4hai6gam3gaan2daan1-not-simple",
+      "sourceWordId": "m4hai6gam3gaan2daan1-not-that-simple",
       "sourceWord": "唔係咁簡單",
       "sourceWordJyutping": "m4 hai6 gam3 gaan2 daan1",
       "sourceWordMeaning": "not that simple",
@@ -1450,7 +1450,7 @@
         "caution",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-simple.json"
+      "sourceFile": "r2-backup/words/m4hai6gam3gaan2daan1-not-that-simple.json"
     },
     {
       "sentenceId": "hou2gaau2siu3-hilarious-example-1",
@@ -1605,11 +1605,11 @@
       "sourceFile": "r2-backup/words/m4zi2hai6gam3-not-just-that.json"
     },
     {
-      "sentenceId": "hou2laap6saap3-rubbish-example-1",
+      "sentenceId": "hou2laap6saap3-so-rubbish-example-1",
       "sentence": "呢部電影真係好垃圾，我睇完好失望。",
       "jyutping": "ni1 bou6 din6 jing2 zan1 hai6 hou2 laap6 saap3, ngo5 tai2 yun4 hou2 sat1 mong6.",
       "meaning": "This movie is really rubbish, I felt very disappointed after watching it.",
-      "sourceWordId": "hou2laap6saap3-rubbish",
+      "sourceWordId": "hou2laap6saap3-so-rubbish",
       "sourceWord": "好垃圾",
       "sourceWordJyutping": "hou2 laap6 saap3",
       "sourceWordMeaning": "so rubbish",
@@ -1621,14 +1621,14 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2laap6saap3-rubbish.json"
+      "sourceFile": "r2-backup/words/hou2laap6saap3-so-rubbish.json"
     },
     {
-      "sentenceId": "hou2laap6saap3-rubbish-example-2",
+      "sentenceId": "hou2laap6saap3-so-rubbish-example-2",
       "sentence": "你啲理由好垃圾，完全說服唔到我。",
       "jyutping": "nei5 di1 lei5 jau4 hou2 laap6 saap3, jyun4 cyun4 syut3 fuk1 m4 dou3 ngo5.",
       "meaning": "Your reasons are so rubbish, they didn’t convince me at all.",
-      "sourceWordId": "hou2laap6saap3-rubbish",
+      "sourceWordId": "hou2laap6saap3-so-rubbish",
       "sourceWord": "好垃圾",
       "sourceWordJyutping": "hou2 laap6 saap3",
       "sourceWordMeaning": "so rubbish",
@@ -1640,14 +1640,14 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2laap6saap3-rubbish.json"
+      "sourceFile": "r2-backup/words/hou2laap6saap3-so-rubbish.json"
     },
     {
-      "sentenceId": "hou2laap6saap3-rubbish-example-3",
+      "sentenceId": "hou2laap6saap3-so-rubbish-example-3",
       "sentence": "佢嘅服務態度真係好垃圾，唔會再去嗰間餐廳。",
       "jyutping": "keoi5 ge3 fuk6 mou6 taai3 dou6 zan1 hai6 hou2 laap6 saap3, m4 wui5 zoi3 heoi3 go2 gaan1 caan1 teng1.",
       "meaning": "His attitude in service was really rubbish, I won’t go to that restaurant again.",
-      "sourceWordId": "hou2laap6saap3-rubbish",
+      "sourceWordId": "hou2laap6saap3-so-rubbish",
       "sourceWord": "好垃圾",
       "sourceWordJyutping": "hou2 laap6 saap3",
       "sourceWordMeaning": "so rubbish",
@@ -1659,14 +1659,14 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2laap6saap3-rubbish.json"
+      "sourceFile": "r2-backup/words/hou2laap6saap3-so-rubbish.json"
     },
     {
-      "sentenceId": "hou2laap6saap3-rubbish-example-4",
+      "sentenceId": "hou2laap6saap3-so-rubbish-example-4",
       "sentence": "呢件衫質量好垃圾，好快就爛晒。",
       "jyutping": "ni1 gin6 saam1 zat1 loeng6 hou2 laap6 saap3, hou2 faai3 zau6 laan6 saai3.",
       "meaning": "The quality of this shirt is so rubbish, it broke apart very quickly.",
-      "sourceWordId": "hou2laap6saap3-rubbish",
+      "sourceWordId": "hou2laap6saap3-so-rubbish",
       "sourceWord": "好垃圾",
       "sourceWordJyutping": "hou2 laap6 saap3",
       "sourceWordMeaning": "so rubbish",
@@ -1678,7 +1678,7 @@
         "spoken Cantonese",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2laap6saap3-rubbish.json"
+      "sourceFile": "r2-backup/words/hou2laap6saap3-so-rubbish.json"
     },
     {
       "sentenceId": "zeng3-awesome-example-1",
@@ -1985,11 +1985,11 @@
       "sourceFile": "r2-backup/words/hai6lo1-yeah-true.json"
     },
     {
-      "sentenceId": "jan1hai6-really-example-1",
+      "sentenceId": "zan1hai6-really-seriously-example-1",
       "sentence": "我真係唔知你今日咁忙。",
       "jyutping": "ngo5 zan1 hai6 m4 zi1 nei5 gam1 jat6 gam3 mong4.",
       "meaning": "I really didn’t know you were so busy today.",
-      "sourceWordId": "jan1hai6-really",
+      "sourceWordId": "zan1hai6-really-seriously",
       "sourceWord": "真係",
       "sourceWordJyutping": "zan1 hai6",
       "sourceWordMeaning": "really / seriously",
@@ -2001,14 +2001,14 @@
         "emotion",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jan1hai6-really.json"
+      "sourceFile": "r2-backup/words/zan1hai6-really-seriously.json"
     },
     {
-      "sentenceId": "jan1hai6-really-example-2",
+      "sentenceId": "zan1hai6-really-seriously-example-2",
       "sentence": "你真係應該試下呢個新餐廳。",
       "jyutping": "nei5 zan1 hai6 jing1 goi1 si3 haa5 ni1 go3 san1 caan1 teng1.",
       "meaning": "You seriously should try this new restaurant.",
-      "sourceWordId": "jan1hai6-really",
+      "sourceWordId": "zan1hai6-really-seriously",
       "sourceWord": "真係",
       "sourceWordJyutping": "zan1 hai6",
       "sourceWordMeaning": "really / seriously",
@@ -2020,14 +2020,14 @@
         "emotion",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jan1hai6-really.json"
+      "sourceFile": "r2-backup/words/zan1hai6-really-seriously.json"
     },
     {
-      "sentenceId": "jan1hai6-really-example-3",
+      "sentenceId": "zan1hai6-really-seriously-example-3",
       "sentence": "真係無人可以幫你？",
       "jyutping": "zan1 hai6 mou4 jan4 ho2 ji5 bong1 nei5?",
       "meaning": "Is there really no one who can help you?",
-      "sourceWordId": "jan1hai6-really",
+      "sourceWordId": "zan1hai6-really-seriously",
       "sourceWord": "真係",
       "sourceWordJyutping": "zan1 hai6",
       "sourceWordMeaning": "really / seriously",
@@ -2039,14 +2039,14 @@
         "emotion",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jan1hai6-really.json"
+      "sourceFile": "r2-backup/words/zan1hai6-really-seriously.json"
     },
     {
-      "sentenceId": "jan1hai6-really-example-4",
+      "sentenceId": "zan1hai6-really-seriously-example-4",
       "sentence": "佢真係好叻，幫到大家好多忙。",
       "jyutping": "keoi5 zan1 hai6 hou2 lek1, bong1 dou3 daai6 gaa1 hou2 do1 mong4.",
       "meaning": "He really is very clever and helps everyone a lot.",
-      "sourceWordId": "jan1hai6-really",
+      "sourceWordId": "zan1hai6-really-seriously",
       "sourceWord": "真係",
       "sourceWordJyutping": "zan1 hai6",
       "sourceWordMeaning": "really / seriously",
@@ -2058,7 +2058,7 @@
         "emotion",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jan1hai6-really.json"
+      "sourceFile": "r2-backup/words/zan1hai6-really-seriously.json"
     },
     {
       "sentenceId": "tai2cing4fong3-depends-example-1",
@@ -2137,11 +2137,11 @@
       "sourceFile": "r2-backup/words/tai2cing4fong3-depends.json"
     },
     {
-      "sentenceId": "dou3si4sin1syun3-we-ll-see-example-1",
+      "sentenceId": "dou3si4sin1syun3-well-see-then-example-1",
       "sentence": "你話考試會唔會容易？到時先算啦。",
       "jyutping": "nei5 waa6 haau2 si3 wui5 m4 wui5 jung6 ji6? dou3 si4 sin1 syun3 laa1.",
       "meaning": "You asked if the exam will be easy? We'll see then.",
-      "sourceWordId": "dou3si4sin1syun3-we-ll-see",
+      "sourceWordId": "dou3si4sin1syun3-well-see-then",
       "sourceWord": "到時先算",
       "sourceWordJyutping": "dou3 si4 sin1 syun3",
       "sourceWordMeaning": "we'll see then",
@@ -2153,14 +2153,14 @@
         "casual conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dou3si4sin1syun3-we-ll-see.json"
+      "sourceFile": "r2-backup/words/dou3si4sin1syun3-well-see-then.json"
     },
     {
-      "sentenceId": "dou3si4sin1syun3-we-ll-see-example-2",
+      "sentenceId": "dou3si4sin1syun3-well-see-then-example-2",
       "sentence": "我而家未決定出唔出席嗰個派對，到時先算。",
       "jyutping": "ngo5 ji4 gaa1 mei6 kyut3 ding6 ceot1 m4 ceot1 sik1 go2 go3 paai3 deoi3, dou3 si4 sin1 syun3.",
       "meaning": "I haven't decided yet whether to attend that party, we'll see then.",
-      "sourceWordId": "dou3si4sin1syun3-we-ll-see",
+      "sourceWordId": "dou3si4sin1syun3-well-see-then",
       "sourceWord": "到時先算",
       "sourceWordJyutping": "dou3 si4 sin1 syun3",
       "sourceWordMeaning": "we'll see then",
@@ -2172,14 +2172,14 @@
         "casual conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dou3si4sin1syun3-we-ll-see.json"
+      "sourceFile": "r2-backup/words/dou3si4sin1syun3-well-see-then.json"
     },
     {
-      "sentenceId": "dou3si4sin1syun3-we-ll-see-example-3",
+      "sentenceId": "dou3si4sin1syun3-well-see-then-example-3",
       "sentence": "天氣唔穩定，去唔去旅行？到時先算。",
       "jyutping": "tin1 hei3 m4 wan5 ding6, heoi3 m4 heoi3 leoi5 hang4? dou3 si4 sin1 syun3.",
       "meaning": "The weather is unstable, should we go traveling or not? We'll see then.",
-      "sourceWordId": "dou3si4sin1syun3-we-ll-see",
+      "sourceWordId": "dou3si4sin1syun3-well-see-then",
       "sourceWord": "到時先算",
       "sourceWordJyutping": "dou3 si4 sin1 syun3",
       "sourceWordMeaning": "we'll see then",
@@ -2191,14 +2191,14 @@
         "casual conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dou3si4sin1syun3-we-ll-see.json"
+      "sourceFile": "r2-backup/words/dou3si4sin1syun3-well-see-then.json"
     },
     {
-      "sentenceId": "dou3si4sin1syun3-we-ll-see-example-4",
+      "sentenceId": "dou3si4sin1syun3-well-see-then-example-4",
       "sentence": "公司會唔會加人工？到時先算啦，唔好太擔心。",
       "jyutping": "gung1 si1 wui5 m4 wui5 gaa1 jan4 gung1? dou3 si4 sin1 syun3 laa1, m4 hou2 taai3 daam1 sam1.",
       "meaning": "Will the company give a raise? We'll see then, don't worry too much.",
-      "sourceWordId": "dou3si4sin1syun3-we-ll-see",
+      "sourceWordId": "dou3si4sin1syun3-well-see-then",
       "sourceWord": "到時先算",
       "sourceWordJyutping": "dou3 si4 sin1 syun3",
       "sourceWordMeaning": "we'll see then",
@@ -2210,7 +2210,7 @@
         "casual conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dou3si4sin1syun3-we-ll-see.json"
+      "sourceFile": "r2-backup/words/dou3si4sin1syun3-well-see-then.json"
     },
     {
       "sentenceId": "ceoi4bin6laa1-up-to-you-example-1",
@@ -2597,11 +2597,11 @@
       "sourceFile": "r2-backup/words/mou5wai6laa1-no-point.json"
     },
     {
-      "sentenceId": "m4soeng2-ditch-it-example-1",
+      "sentenceId": "m4soeng2-dont-want-to-example-1",
       "sentence": "我今日唔想出街，想留喺屋企。",
       "jyutping": "ngo5 gam1 jat6 m4 soeng2 ceot1 gaai1, soeng2 lau4 hai2 uk1 kei2.",
       "meaning": "I don't want to go out today; I want to stay at home.",
-      "sourceWordId": "m4soeng2-ditch-it",
+      "sourceWordId": "m4soeng2-dont-want-to",
       "sourceWord": "唔想",
       "sourceWordJyutping": "m4 soeng2",
       "sourceWordMeaning": "don't want to",
@@ -2613,14 +2613,14 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4soeng2-ditch-it.json"
+      "sourceFile": "r2-backup/words/m4soeng2-dont-want-to.json"
     },
     {
-      "sentenceId": "m4soeng2-ditch-it-example-2",
+      "sentenceId": "m4soeng2-dont-want-to-example-2",
       "sentence": "佢話佢唔想食呢啲嘢，因為唔啱胃口。",
       "jyutping": "keoi5 waa6 keoi5 m4 soeng2 sik6 ni1 di1 je5, jan1 wai6 m4 ngam1 mei5 hau2.",
       "meaning": "He said he doesn't want to eat this stuff because it doesn't suit his taste.",
-      "sourceWordId": "m4soeng2-ditch-it",
+      "sourceWordId": "m4soeng2-dont-want-to",
       "sourceWord": "唔想",
       "sourceWordJyutping": "m4 soeng2",
       "sourceWordMeaning": "don't want to",
@@ -2632,14 +2632,14 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4soeng2-ditch-it.json"
+      "sourceFile": "r2-backup/words/m4soeng2-dont-want-to.json"
     },
     {
-      "sentenceId": "m4soeng2-ditch-it-example-3",
+      "sentenceId": "m4soeng2-dont-want-to-example-3",
       "sentence": "唔想點解釋啦，直接做就得。",
       "jyutping": "m4 soeng2 dim2 gaai2 sik1 laa1, zik6 zip3 zou6 zau6 dak1.",
       "meaning": "I don't want to explain; just do it directly.",
-      "sourceWordId": "m4soeng2-ditch-it",
+      "sourceWordId": "m4soeng2-dont-want-to",
       "sourceWord": "唔想",
       "sourceWordJyutping": "m4 soeng2",
       "sourceWordMeaning": "don't want to",
@@ -2651,14 +2651,14 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4soeng2-ditch-it.json"
+      "sourceFile": "r2-backup/words/m4soeng2-dont-want-to.json"
     },
     {
-      "sentenceId": "m4soeng2-ditch-it-example-4",
+      "sentenceId": "m4soeng2-dont-want-to-example-4",
       "sentence": "你唔想參加聚會？冇問題，我唔會強迫你。",
       "jyutping": "nei5 m4 soeng2 caam1 gaa1 zeoi6 wui2? mou5 man6 tai4, ngo5 m4 wui5 koeng4 bik1 nei5.",
       "meaning": "You don't want to join the gathering? No problem, I won't force you.",
-      "sourceWordId": "m4soeng2-ditch-it",
+      "sourceWordId": "m4soeng2-dont-want-to",
       "sourceWord": "唔想",
       "sourceWordJyutping": "m4 soeng2",
       "sourceWordMeaning": "don't want to",
@@ -2670,7 +2670,7 @@
         "informal",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4soeng2-ditch-it.json"
+      "sourceFile": "r2-backup/words/m4soeng2-dont-want-to.json"
     },
     {
       "sentenceId": "waa6saai3-after-all-example-1",
@@ -2825,11 +2825,11 @@
       "sourceFile": "r2-backup/words/dim2dou1hou2-anyway.json"
     },
     {
-      "sentenceId": "jat1lei4-for-one-example-1",
+      "sentenceId": "jat1lei4-for-one-thing-example-1",
       "sentence": "一嚟，我哋嘅預算唔夠，二嚟，時間又太短。",
       "jyutping": "Jat1 lei4, ngo5 dei6 ge3 jyu6 syun3 m4 gau3, ji6 lei4, si4 gaan3 jau6 taai3 dyun2.",
       "meaning": "For one thing, our budget is not enough; for another, the time is too short.",
-      "sourceWordId": "jat1lei4-for-one",
+      "sourceWordId": "jat1lei4-for-one-thing",
       "sourceWord": "一嚟",
       "sourceWordJyutping": "jat1 lei4",
       "sourceWordMeaning": "for one thing",
@@ -2841,14 +2841,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1lei4-for-one.json"
+      "sourceFile": "r2-backup/words/jat1lei4-for-one-thing.json"
     },
     {
-      "sentenceId": "jat1lei4-for-one-example-2",
+      "sentenceId": "jat1lei4-for-one-thing-example-2",
       "sentence": "你唔好咁快決定，一嚟唔夠資料，二嚟未諗清楚。",
       "jyutping": "Nei5 m4 hou2 gam2 faai3 kyut3 ding6, jat1 lei4 m4 gau3 zi1 liu2, ji6 lei4 mei6 lam2 cing1 co2.",
       "meaning": "Don't decide so quickly; for one thing, there's not enough information, and for another, you haven't thought it through.",
-      "sourceWordId": "jat1lei4-for-one",
+      "sourceWordId": "jat1lei4-for-one-thing",
       "sourceWord": "一嚟",
       "sourceWordJyutping": "jat1 lei4",
       "sourceWordMeaning": "for one thing",
@@ -2860,14 +2860,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1lei4-for-one.json"
+      "sourceFile": "r2-backup/words/jat1lei4-for-one-thing.json"
     },
     {
-      "sentenceId": "jat1lei4-for-one-example-3",
+      "sentenceId": "jat1lei4-for-one-thing-example-3",
       "sentence": "一嚟呢度唔方便坐車，二嚟附近冇咩飲食地方。",
       "jyutping": "Jat1 lei4 ni1 dou6 m4 fong1 bin6 co5 ce1, ji6 lei4 fu6 gan6 mou5 me1 jam2 sik6 dei6 fong1.",
       "meaning": "For one thing, it’s not convenient to take a bus here; for another, there are not many places to eat nearby.",
-      "sourceWordId": "jat1lei4-for-one",
+      "sourceWordId": "jat1lei4-for-one-thing",
       "sourceWord": "一嚟",
       "sourceWordJyutping": "jat1 lei4",
       "sourceWordMeaning": "for one thing",
@@ -2879,14 +2879,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1lei4-for-one.json"
+      "sourceFile": "r2-backup/words/jat1lei4-for-one-thing.json"
     },
     {
-      "sentenceId": "jat1lei4-for-one-example-4",
+      "sentenceId": "jat1lei4-for-one-thing-example-4",
       "sentence": "佢唔想去，一嚟天氣唔好，二嚟佢要做嘅嘢太多。",
       "jyutping": "Keoi5 m4 soeng2 heoi3, jat1 lei4 tin1 hei3 m4 hou2, ji6 lei4 keoi5 jiu3 zou6 ge3 je5 taai3 do1.",
       "meaning": "He doesn’t want to go; for one thing, the weather is bad, and for another, he has too much to do.",
-      "sourceWordId": "jat1lei4-for-one",
+      "sourceWordId": "jat1lei4-for-one-thing",
       "sourceWord": "一嚟",
       "sourceWordJyutping": "jat1 lei4",
       "sourceWordMeaning": "for one thing",
@@ -2898,14 +2898,14 @@
         "discourse_marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jat1lei4-for-one.json"
+      "sourceFile": "r2-backup/words/jat1lei4-for-one-thing.json"
     },
     {
-      "sentenceId": "zoi3gaa1soeng6-on-top-example-1",
+      "sentenceId": "zoi3gaa1soeng6-on-top-of-that-example-1",
       "sentence": "我冇時間， 再加上我又累，所以冇去到。",
       "jyutping": "ngo5 mou5 si4gaan3, zoi3 gaa1 soeng6 ngo5 jau6 lui6, so2ji5 mou5 heoi3 dou3.",
       "meaning": "I had no time, and on top of that, I was tired, so I didn't go.",
-      "sourceWordId": "zoi3gaa1soeng6-on-top",
+      "sourceWordId": "zoi3gaa1soeng6-on-top-of-that",
       "sourceWord": "再加上",
       "sourceWordJyutping": "zoi3 gaa1 soeng6",
       "sourceWordMeaning": "on top of that",
@@ -2916,14 +2916,14 @@
         "discourse markers",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top.json"
+      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top-of-that.json"
     },
     {
-      "sentenceId": "zoi3gaa1soeng6-on-top-example-2",
+      "sentenceId": "zoi3gaa1soeng6-on-top-of-that-example-2",
       "sentence": "呢間餐廳唔止貴， 再加上服務差，唔多想去。",
       "jyutping": "ni1 gaan1 caan1 teng1 m4 zi2 gwai3, zoi3 gaa1 soeng6 fuk6 mou6 caa1, m4 do1 soeng2 heoi3.",
       "meaning": "This restaurant is not only expensive, but on top of that, the service is poor, so I don't want to go much.",
-      "sourceWordId": "zoi3gaa1soeng6-on-top",
+      "sourceWordId": "zoi3gaa1soeng6-on-top-of-that",
       "sourceWord": "再加上",
       "sourceWordJyutping": "zoi3 gaa1 soeng6",
       "sourceWordMeaning": "on top of that",
@@ -2934,14 +2934,14 @@
         "discourse markers",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top.json"
+      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top-of-that.json"
     },
     {
-      "sentenceId": "zoi3gaa1soeng6-on-top-example-3",
+      "sentenceId": "zoi3gaa1soeng6-on-top-of-that-example-3",
       "sentence": "佢唔識講英文， 再加上佢唔太細心，工作做得唔好。",
       "jyutping": "keoi5 m4 sik1 gong2 jing1man4, zoi3 gaa1 soeng6 keoi5 m4 taai3 sai3sam1, gung1zok3 zou6 dak1 m4 hou2.",
       "meaning": "He doesn’t speak English, and on top of that, he’s not very careful, so his work isn't done well.",
-      "sourceWordId": "zoi3gaa1soeng6-on-top",
+      "sourceWordId": "zoi3gaa1soeng6-on-top-of-that",
       "sourceWord": "再加上",
       "sourceWordJyutping": "zoi3 gaa1 soeng6",
       "sourceWordMeaning": "on top of that",
@@ -2952,14 +2952,14 @@
         "discourse markers",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top.json"
+      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top-of-that.json"
     },
     {
-      "sentenceId": "zoi3gaa1soeng6-on-top-example-4",
+      "sentenceId": "zoi3gaa1soeng6-on-top-of-that-example-4",
       "sentence": "最近天氣好冷， 再加上落雨，出門非常唔方便。",
       "jyutping": "zeoi3gan6 tin1hei3 hou2 laang5, zoi3 gaa1 soeng6 lok6 jyu5, ceot1mun4 fei1 soeng4 m4 fong1bin6.",
       "meaning": "Recently the weather is very cold, and on top of that, it’s raining, so going out is very inconvenient.",
-      "sourceWordId": "zoi3gaa1soeng6-on-top",
+      "sourceWordId": "zoi3gaa1soeng6-on-top-of-that",
       "sourceWord": "再加上",
       "sourceWordJyutping": "zoi3 gaa1 soeng6",
       "sourceWordMeaning": "on top of that",
@@ -2970,7 +2970,7 @@
         "discourse markers",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top.json"
+      "sourceFile": "r2-backup/words/zoi3gaa1soeng6-on-top-of-that.json"
     },
     {
       "sentenceId": "waa6syut3-speaking-of-example-1",
@@ -3049,11 +3049,11 @@
       "sourceFile": "r2-backup/words/waa6syut3-speaking-of.json"
     },
     {
-      "sentenceId": "zi2hai6-only-example-1",
+      "sentenceId": "zi2hai6-only-just-example-1",
       "sentence": "我只係想同你傾下計。",
       "jyutping": "ngo5 zi2 hai6 soeng2 tung4 nei5 king1 haa5 gai2.",
       "meaning": "I just want to chat with you.",
-      "sourceWordId": "zi2hai6-only",
+      "sourceWordId": "zi2hai6-only-just",
       "sourceWord": "只係",
       "sourceWordJyutping": "zi2 hai6",
       "sourceWordMeaning": "only / just",
@@ -3065,14 +3065,14 @@
         "casual",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zi2hai6-only.json"
+      "sourceFile": "r2-backup/words/zi2hai6-only-just.json"
     },
     {
-      "sentenceId": "zi2hai6-only-example-2",
+      "sentenceId": "zi2hai6-only-just-example-2",
       "sentence": "佢只係一個學生，唔識咁多嘢。",
       "jyutping": "keoi5 zi2 hai6 jat1 go3 hok6 saang1, m4 sik1 gam3 do1 je5.",
       "meaning": "He is only a student, he doesn't know that much.",
-      "sourceWordId": "zi2hai6-only",
+      "sourceWordId": "zi2hai6-only-just",
       "sourceWord": "只係",
       "sourceWordJyutping": "zi2 hai6",
       "sourceWordMeaning": "only / just",
@@ -3084,14 +3084,14 @@
         "casual",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zi2hai6-only.json"
+      "sourceFile": "r2-backup/words/zi2hai6-only-just.json"
     },
     {
-      "sentenceId": "zi2hai6-only-example-3",
+      "sentenceId": "zi2hai6-only-just-example-3",
       "sentence": "今次只係暫時嘅安排，唔使擔心。",
       "jyutping": "gam1 ci3 zi2 hai6 zaam6 si4 ge3 ngon1 paai4, m4 sai2 daam1 sam1.",
       "meaning": "This is just a temporary arrangement, don't worry.",
-      "sourceWordId": "zi2hai6-only",
+      "sourceWordId": "zi2hai6-only-just",
       "sourceWord": "只係",
       "sourceWordJyutping": "zi2 hai6",
       "sourceWordMeaning": "only / just",
@@ -3103,14 +3103,14 @@
         "casual",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zi2hai6-only.json"
+      "sourceFile": "r2-backup/words/zi2hai6-only-just.json"
     },
     {
-      "sentenceId": "zi2hai6-only-example-4",
+      "sentenceId": "zi2hai6-only-just-example-4",
       "sentence": "佢只係開玩笑，你唔好當真。",
       "jyutping": "keoi5 zi2 hai6 hoi1 waan2 siu3, nei5 m4 hou2 dong3 zan1.",
       "meaning": "He was only joking, don't take it seriously.",
-      "sourceWordId": "zi2hai6-only",
+      "sourceWordId": "zi2hai6-only-just",
       "sourceWord": "只係",
       "sourceWordJyutping": "zi2 hai6",
       "sourceWordMeaning": "only / just",
@@ -3122,14 +3122,14 @@
         "casual",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/zi2hai6-only.json"
+      "sourceFile": "r2-backup/words/zi2hai6-only-just.json"
     },
     {
-      "sentenceId": "m4zi1dim2gong2-dont-know-how-example-1",
+      "sentenceId": "m4zi1dim2gong2-dont-know-how-to-say-example-1",
       "sentence": "其實我真係唔知點講，因為事情好複雜。",
       "jyutping": "kei4 sat6 ngo5 zan1 hai6 m4 zi1 dim2 gong2, jan1 wai6 si6 cing4 hou2 fuk1 zaap6.",
       "meaning": "Actually, I really don't know how to say it because the matter is very complicated.",
-      "sourceWordId": "m4zi1dim2gong2-dont-know-how",
+      "sourceWordId": "m4zi1dim2gong2-dont-know-how-to-say",
       "sourceWord": "唔知點講",
       "sourceWordJyutping": "m4 zi1 dim2 gong2",
       "sourceWordMeaning": "don't know how to say",
@@ -3141,14 +3141,14 @@
         "conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how.json"
+      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how-to-say.json"
     },
     {
-      "sentenceId": "m4zi1dim2gong2-dont-know-how-example-2",
+      "sentenceId": "m4zi1dim2gong2-dont-know-how-to-say-example-2",
       "sentence": "你問我點解唔去派對，我真係唔知點講。",
       "jyutping": "nei5 man6 ngo5 dim2 gaai2 m4 heoi3 paai3 deoi3, ngo5 zan1 hai6 m4 zi1 dim2 gong2.",
       "meaning": "You asked me why I didn't go to the party, but I really don't know how to say.",
-      "sourceWordId": "m4zi1dim2gong2-dont-know-how",
+      "sourceWordId": "m4zi1dim2gong2-dont-know-how-to-say",
       "sourceWord": "唔知點講",
       "sourceWordJyutping": "m4 zi1 dim2 gong2",
       "sourceWordMeaning": "don't know how to say",
@@ -3160,14 +3160,14 @@
         "conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how.json"
+      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how-to-say.json"
     },
     {
-      "sentenceId": "m4zi1dim2gong2-dont-know-how-example-3",
+      "sentenceId": "m4zi1dim2gong2-dont-know-how-to-say-example-3",
       "sentence": "當我面對咁多選擇，我有時真係唔知點講。",
       "jyutping": "dong1 ngo5 min6 deoi3 gam3 do1 syun2 zaak6, ngo5 jau5 si4 zan1 hai6 m4 zi1 dim2 gong2.",
       "meaning": "When facing so many choices, sometimes I really don't know how to say.",
-      "sourceWordId": "m4zi1dim2gong2-dont-know-how",
+      "sourceWordId": "m4zi1dim2gong2-dont-know-how-to-say",
       "sourceWord": "唔知點講",
       "sourceWordJyutping": "m4 zi1 dim2 gong2",
       "sourceWordMeaning": "don't know how to say",
@@ -3179,14 +3179,14 @@
         "conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how.json"
+      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how-to-say.json"
     },
     {
-      "sentenceId": "m4zi1dim2gong2-dont-know-how-example-4",
+      "sentenceId": "m4zi1dim2gong2-dont-know-how-to-say-example-4",
       "sentence": "佢啲說話好傷人，我聽完之後都唔知點講。",
       "jyutping": "keoi5 di1 syut3 waa6 hou2 soeng1 jan4, ngo5 teng1 jyun4 zi1 hau6 dou1 m4 zi1 dim2 gong2.",
       "meaning": "His words were very hurtful, and after listening, I didn't know how to respond.",
-      "sourceWordId": "m4zi1dim2gong2-dont-know-how",
+      "sourceWordId": "m4zi1dim2gong2-dont-know-how-to-say",
       "sourceWord": "唔知點講",
       "sourceWordJyutping": "m4 zi1 dim2 gong2",
       "sourceWordMeaning": "don't know how to say",
@@ -3198,14 +3198,14 @@
         "conversation",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how.json"
+      "sourceFile": "r2-backup/words/m4zi1dim2gong2-dont-know-how-to-say.json"
     },
     {
-      "sentenceId": "dak1laa1-alright-example-1",
+      "sentenceId": "dak1laa1-alright-enough-example-1",
       "sentence": "得啦，唔好再講啦。",
       "jyutping": "dak1 laa1, m4 hou2 zoi3 gong2 laa1.",
       "meaning": "Alright, stop talking about it.",
-      "sourceWordId": "dak1laa1-alright",
+      "sourceWordId": "dak1laa1-alright-enough",
       "sourceWord": "得啦",
       "sourceWordJyutping": "dak1 laa1",
       "sourceWordMeaning": "alright / enough",
@@ -3217,14 +3217,14 @@
         "discourse marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dak1laa1-alright.json"
+      "sourceFile": "r2-backup/words/dak1laa1-alright-enough.json"
     },
     {
-      "sentenceId": "dak1laa1-alright-example-2",
+      "sentenceId": "dak1laa1-alright-enough-example-2",
       "sentence": "你想點就得啦。",
       "jyutping": "nei5 soeng2 dim2 zau6 dak1 laa1.",
       "meaning": "Do whatever you want, alright.",
-      "sourceWordId": "dak1laa1-alright",
+      "sourceWordId": "dak1laa1-alright-enough",
       "sourceWord": "得啦",
       "sourceWordJyutping": "dak1 laa1",
       "sourceWordMeaning": "alright / enough",
@@ -3236,14 +3236,14 @@
         "discourse marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dak1laa1-alright.json"
+      "sourceFile": "r2-backup/words/dak1laa1-alright-enough.json"
     },
     {
-      "sentenceId": "dak1laa1-alright-example-3",
+      "sentenceId": "dak1laa1-alright-enough-example-3",
       "sentence": "算啦，得啦，我唔想爭啦。",
       "jyutping": "syun3 laa1, dak1 laa1, ngo5 m4 soeng2 zang1 laa1.",
       "meaning": "Forget it, alright, I don't want to argue anymore.",
-      "sourceWordId": "dak1laa1-alright",
+      "sourceWordId": "dak1laa1-alright-enough",
       "sourceWord": "得啦",
       "sourceWordJyutping": "dak1 laa1",
       "sourceWordMeaning": "alright / enough",
@@ -3255,14 +3255,14 @@
         "discourse marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dak1laa1-alright.json"
+      "sourceFile": "r2-backup/words/dak1laa1-alright-enough.json"
     },
     {
-      "sentenceId": "dak1laa1-alright-example-4",
+      "sentenceId": "dak1laa1-alright-enough-example-4",
       "sentence": "今次你贏，得啦。",
       "jyutping": "gam1 ci3 nei5 jing4, dak1 laa1.",
       "meaning": "You win this time, alright.",
-      "sourceWordId": "dak1laa1-alright",
+      "sourceWordId": "dak1laa1-alright-enough",
       "sourceWord": "得啦",
       "sourceWordJyutping": "dak1 laa1",
       "sourceWordMeaning": "alright / enough",
@@ -3274,7 +3274,7 @@
         "discourse marker",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/dak1laa1-alright.json"
+      "sourceFile": "r2-backup/words/dak1laa1-alright-enough.json"
     },
     {
       "sentenceId": "m4sai2laa1-no-need-example-1",
@@ -3429,11 +3429,11 @@
       "sourceFile": "r2-backup/words/syun3sou3-settled.json"
     },
     {
-      "sentenceId": "gaau2dim6-done-example-1",
+      "sentenceId": "gaau2dim6-done-sorted-example-1",
       "sentence": "我訂嘅飛已經搞掂喇。",
       "jyutping": "ngo5 deng6 ge3 fei1 ji5 ging1 gaau2 dim6 laa3.",
       "meaning": "The tickets I booked are already done.",
-      "sourceWordId": "gaau2dim6-done",
+      "sourceWordId": "gaau2dim6-done-sorted",
       "sourceWord": "搞掂",
       "sourceWordJyutping": "gaau2 dim6",
       "sourceWordMeaning": "done / sorted",
@@ -3445,14 +3445,14 @@
         "completed",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gaau2dim6-done.json"
+      "sourceFile": "r2-backup/words/gaau2dim6-done-sorted.json"
     },
     {
-      "sentenceId": "gaau2dim6-done-example-2",
+      "sentenceId": "gaau2dim6-done-sorted-example-2",
       "sentence": "唔使擔心，呢啲問題我哋搞掂晒。",
       "jyutping": "m4 sai2 daam1 sam1, ni1 di1 man6 tai4 ngo5 dei6 gaau2 dim6 saai3.",
       "meaning": "Don’t worry, we’ve sorted out all these problems.",
-      "sourceWordId": "gaau2dim6-done",
+      "sourceWordId": "gaau2dim6-done-sorted",
       "sourceWord": "搞掂",
       "sourceWordJyutping": "gaau2 dim6",
       "sourceWordMeaning": "done / sorted",
@@ -3464,14 +3464,14 @@
         "completed",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gaau2dim6-done.json"
+      "sourceFile": "r2-backup/words/gaau2dim6-done-sorted.json"
     },
     {
-      "sentenceId": "gaau2dim6-done-example-3",
+      "sentenceId": "gaau2dim6-done-sorted-example-3",
       "sentence": "你交功課未？搞掂未？",
       "jyutping": "nei5 gaau1 gung1 fo3 mei6? gaau2 dim6 mei6?",
       "meaning": "Have you handed in the homework yet? Is it done?",
-      "sourceWordId": "gaau2dim6-done",
+      "sourceWordId": "gaau2dim6-done-sorted",
       "sourceWord": "搞掂",
       "sourceWordJyutping": "gaau2 dim6",
       "sourceWordMeaning": "done / sorted",
@@ -3483,14 +3483,14 @@
         "completed",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gaau2dim6-done.json"
+      "sourceFile": "r2-backup/words/gaau2dim6-done-sorted.json"
     },
     {
-      "sentenceId": "gaau2dim6-done-example-4",
+      "sentenceId": "gaau2dim6-done-sorted-example-4",
       "sentence": "我同老細傾過，已經搞掂啲安排。",
       "jyutping": "ngo5 tung4 lou5 sai3 king1 gwo3, ji5 ging1 gaau2 dim6 di1 ngon1 paai4.",
       "meaning": "I have talked with the boss and the arrangements are settled.",
-      "sourceWordId": "gaau2dim6-done",
+      "sourceWordId": "gaau2dim6-done-sorted",
       "sourceWord": "搞掂",
       "sourceWordJyutping": "gaau2 dim6",
       "sourceWordMeaning": "done / sorted",
@@ -3502,7 +3502,7 @@
         "completed",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gaau2dim6-done.json"
+      "sourceFile": "r2-backup/words/gaau2dim6-done-sorted.json"
     },
     {
       "sentenceId": "dak1haan4sin1-when-free-example-1",
@@ -3809,11 +3809,11 @@
       "sourceFile": "r2-backup/words/gaa1jau4-keep-going.json"
     },
     {
-      "sentenceId": "nam2cing1co2-think-clearly-example-1",
+      "sentenceId": "nam2cing1co2-think-it-through-example-1",
       "sentence": "你要諗清楚先至好決定。",
       "jyutping": "nei5 jiu3 nam2 cing1 co2 sin1 zi3 hou2 kyut3 ding6.",
       "meaning": "You need to think it through clearly before making a decision.",
-      "sourceWordId": "nam2cing1co2-think-clearly",
+      "sourceWordId": "nam2cing1co2-think-it-through",
       "sourceWord": "諗清楚",
       "sourceWordJyutping": "nam2 cing1 co2",
       "sourceWordMeaning": "think it through",
@@ -3825,14 +3825,14 @@
         "decision-making",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2cing1co2-think-clearly.json"
+      "sourceFile": "r2-backup/words/nam2cing1co2-think-it-through.json"
     },
     {
-      "sentenceId": "nam2cing1co2-think-clearly-example-2",
+      "sentenceId": "nam2cing1co2-think-it-through-example-2",
       "sentence": "快啲諗清楚，唔好匆忙答應人哋。",
       "jyutping": "faai3 di1 nam2 cing1 co2, m4 hou2 cung1 mong4 daap3 jing3 jan4 dei6.",
       "meaning": "Think it through quickly, don't rush to promise others.",
-      "sourceWordId": "nam2cing1co2-think-clearly",
+      "sourceWordId": "nam2cing1co2-think-it-through",
       "sourceWord": "諗清楚",
       "sourceWordJyutping": "nam2 cing1 co2",
       "sourceWordMeaning": "think it through",
@@ -3844,14 +3844,14 @@
         "decision-making",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2cing1co2-think-clearly.json"
+      "sourceFile": "r2-backup/words/nam2cing1co2-think-it-through.json"
     },
     {
-      "sentenceId": "nam2cing1co2-think-clearly-example-3",
+      "sentenceId": "nam2cing1co2-think-it-through-example-3",
       "sentence": "遇到問題，要停低，諗清楚先。",
       "jyutping": "jyu6 dou3 man6 tai4, jiu3 ting4 dai1, nam2 cing1 co2 sin1.",
       "meaning": "When encountering a problem, stop and think it through first.",
-      "sourceWordId": "nam2cing1co2-think-clearly",
+      "sourceWordId": "nam2cing1co2-think-it-through",
       "sourceWord": "諗清楚",
       "sourceWordJyutping": "nam2 cing1 co2",
       "sourceWordMeaning": "think it through",
@@ -3863,14 +3863,14 @@
         "decision-making",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2cing1co2-think-clearly.json"
+      "sourceFile": "r2-backup/words/nam2cing1co2-think-it-through.json"
     },
     {
-      "sentenceId": "nam2cing1co2-think-clearly-example-4",
+      "sentenceId": "nam2cing1co2-think-it-through-example-4",
       "sentence": "唔明白就問，多啲諗清楚先好落手做嘢。",
       "jyutping": "m4 ming4 baak6 zau6 man6, do1 di1 nam2 cing1 co2 sin1 hou2 lok6 sau2 zou6 je5.",
       "meaning": "If you don’t understand, ask. Think it through more before starting to work.",
-      "sourceWordId": "nam2cing1co2-think-clearly",
+      "sourceWordId": "nam2cing1co2-think-it-through",
       "sourceWord": "諗清楚",
       "sourceWordJyutping": "nam2 cing1 co2",
       "sourceWordMeaning": "think it through",
@@ -3882,7 +3882,7 @@
         "decision-making",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/nam2cing1co2-think-clearly.json"
+      "sourceFile": "r2-backup/words/nam2cing1co2-think-it-through.json"
     },
     {
       "sentenceId": "dak1laa1dak1laa1-alright-alright-example-1",
@@ -4037,11 +4037,11 @@
       "sourceFile": "r2-backup/words/seng4jat6-all-the-time.json"
     },
     {
-      "sentenceId": "seng4go3-whole-example-1",
+      "sentenceId": "seng4go3-whole-entire-example-1",
       "sentence": "我食咗成個蛋糕。",
       "jyutping": "ngo5 sik6 zo2 seng4 go3 daan6 gou1.",
       "meaning": "I ate the whole cake.",
-      "sourceWordId": "seng4go3-whole",
+      "sourceWordId": "seng4go3-whole-entire",
       "sourceWord": "成個",
       "sourceWordJyutping": "seng4 go3",
       "sourceWordMeaning": "whole / entire",
@@ -4053,14 +4053,14 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/seng4go3-whole.json"
+      "sourceFile": "r2-backup/words/seng4go3-whole-entire.json"
     },
     {
-      "sentenceId": "seng4go3-whole-example-2",
+      "sentenceId": "seng4go3-whole-entire-example-2",
       "sentence": "佢用咗成個禮拜嚟做呢件事。",
       "jyutping": "keoi5 jung6 zo2 seng4 go3 lai5 baai3 lai4 zou6 ni1 gin6 si6.",
       "meaning": "He spent the entire week doing this matter.",
-      "sourceWordId": "seng4go3-whole",
+      "sourceWordId": "seng4go3-whole-entire",
       "sourceWord": "成個",
       "sourceWordJyutping": "seng4 go3",
       "sourceWordMeaning": "whole / entire",
@@ -4072,14 +4072,14 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/seng4go3-whole.json"
+      "sourceFile": "r2-backup/words/seng4go3-whole-entire.json"
     },
     {
-      "sentenceId": "seng4go3-whole-example-3",
+      "sentenceId": "seng4go3-whole-entire-example-3",
       "sentence": "成個城市都停電咗。",
       "jyutping": "seng4 go3 sing4 si5 dou1 ting4 din6 zo2.",
       "meaning": "The whole city had a power outage.",
-      "sourceWordId": "seng4go3-whole",
+      "sourceWordId": "seng4go3-whole-entire",
       "sourceWord": "成個",
       "sourceWordJyutping": "seng4 go3",
       "sourceWordMeaning": "whole / entire",
@@ -4091,14 +4091,14 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/seng4go3-whole.json"
+      "sourceFile": "r2-backup/words/seng4go3-whole-entire.json"
     },
     {
-      "sentenceId": "seng4go3-whole-example-4",
+      "sentenceId": "seng4go3-whole-entire-example-4",
       "sentence": "佢嘅成個人生都為工作犧牲咗。",
       "jyutping": "keoi5 ge3 seng4 go3 jan4 sang1 dou1 wai4 gung1 zok3 hei1 sang1 zo2.",
       "meaning": "His entire life was sacrificed for work.",
-      "sourceWordId": "seng4go3-whole",
+      "sourceWordId": "seng4go3-whole-entire",
       "sourceWord": "成個",
       "sourceWordJyutping": "seng4 go3",
       "sourceWordMeaning": "whole / entire",
@@ -4110,14 +4110,14 @@
         "advanced",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/seng4go3-whole.json"
+      "sourceFile": "r2-backup/words/seng4go3-whole-entire.json"
     },
     {
-      "sentenceId": "hou2gwai2-really-example-1",
+      "sentenceId": "hou2gwai2-really-extremely-example-1",
       "sentence": "今天天氣好鬼熱，我出咗好多汗。",
       "jyutping": "gam1 tin1 tin1 hei3 hou2 gwai2 jit6, ngo5 ceot1 zo2 hou2 do1 hon4.",
       "meaning": "The weather is really hot today, I sweat a lot.",
-      "sourceWordId": "hou2gwai2-really",
+      "sourceWordId": "hou2gwai2-really-extremely",
       "sourceWord": "好鬼",
       "sourceWordJyutping": "hou2 gwai2",
       "sourceWordMeaning": "really / extremely",
@@ -4129,14 +4129,14 @@
         "expression",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2gwai2-really.json"
+      "sourceFile": "r2-backup/words/hou2gwai2-really-extremely.json"
     },
     {
-      "sentenceId": "hou2gwai2-really-example-2",
+      "sentenceId": "hou2gwai2-really-extremely-example-2",
       "sentence": "呢間餐廳嘅飯好鬼好味。",
       "jyutping": "ni1 gaan1 caan1 teng1 ge3 faan6 hou2 gwai2 hou2 mei6.",
       "meaning": "The food at this restaurant is really delicious.",
-      "sourceWordId": "hou2gwai2-really",
+      "sourceWordId": "hou2gwai2-really-extremely",
       "sourceWord": "好鬼",
       "sourceWordJyutping": "hou2 gwai2",
       "sourceWordMeaning": "really / extremely",
@@ -4148,14 +4148,14 @@
         "expression",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2gwai2-really.json"
+      "sourceFile": "r2-backup/words/hou2gwai2-really-extremely.json"
     },
     {
-      "sentenceId": "hou2gwai2-really-example-3",
+      "sentenceId": "hou2gwai2-really-extremely-example-3",
       "sentence": "佢講嘢好鬼快，我跟唔上。",
       "jyutping": "keoi5 gong2 je5 hou2 gwai2 faai3, ngo5 gan1 m4 soeng5.",
       "meaning": "He speaks really fast, I can't keep up.",
-      "sourceWordId": "hou2gwai2-really",
+      "sourceWordId": "hou2gwai2-really-extremely",
       "sourceWord": "好鬼",
       "sourceWordJyutping": "hou2 gwai2",
       "sourceWordMeaning": "really / extremely",
@@ -4167,14 +4167,14 @@
         "expression",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2gwai2-really.json"
+      "sourceFile": "r2-backup/words/hou2gwai2-really-extremely.json"
     },
     {
-      "sentenceId": "hou2gwai2-really-example-4",
+      "sentenceId": "hou2gwai2-really-extremely-example-4",
       "sentence": "呢個問題好鬼複雜，解釋好困難。",
       "jyutping": "ni1 go3 man6 tai4 hou2 gwai2 fuk1 zaap6, gaai2 sik1 hou2 kwan3 naan4.",
       "meaning": "This problem is really complicated and hard to explain.",
-      "sourceWordId": "hou2gwai2-really",
+      "sourceWordId": "hou2gwai2-really-extremely",
       "sourceWord": "好鬼",
       "sourceWordJyutping": "hou2 gwai2",
       "sourceWordMeaning": "really / extremely",
@@ -4186,7 +4186,7 @@
         "expression",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2gwai2-really.json"
+      "sourceFile": "r2-backup/words/hou2gwai2-really-extremely.json"
     },
     {
       "sentenceId": "gwai2gam3-ridiculously-example-1",
@@ -4265,11 +4265,11 @@
       "sourceFile": "r2-backup/words/gwai2gam3-ridiculously.json"
     },
     {
-      "sentenceId": "caa1di1-almost-example-1",
+      "sentenceId": "caa1di1-almost-bad-outcome-example-1",
       "sentence": "我差啲遲到，幸好地鐵冇塞車。",
       "jyutping": "ngo5 caa1 di1 ci4 dou3, hang6 hou2 dei6 tit3 mou5 sak1 ce1.",
       "meaning": "I almost arrived late; luckily, there was no traffic on the subway.",
-      "sourceWordId": "caa1di1-almost",
+      "sourceWordId": "caa1di1-almost-bad-outcome",
       "sourceWord": "差啲",
       "sourceWordJyutping": "caa1 di1",
       "sourceWordMeaning": "almost (bad outcome)",
@@ -4281,14 +4281,14 @@
         "negative-outcome",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/caa1di1-almost.json"
+      "sourceFile": "r2-backup/words/caa1di1-almost-bad-outcome.json"
     },
     {
-      "sentenceId": "caa1di1-almost-example-2",
+      "sentenceId": "caa1di1-almost-bad-outcome-example-2",
       "sentence": "佢差啲跌親腳，唔係好嚴重。",
       "jyutping": "keoi5 caa1 di1 dit3 can1 goek3, m4 hai6 hou2 jim4 zung6.",
       "meaning": "He almost twisted his ankle, but it's not serious.",
-      "sourceWordId": "caa1di1-almost",
+      "sourceWordId": "caa1di1-almost-bad-outcome",
       "sourceWord": "差啲",
       "sourceWordJyutping": "caa1 di1",
       "sourceWordMeaning": "almost (bad outcome)",
@@ -4300,14 +4300,14 @@
         "negative-outcome",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/caa1di1-almost.json"
+      "sourceFile": "r2-backup/words/caa1di1-almost-bad-outcome.json"
     },
     {
-      "sentenceId": "caa1di1-almost-example-3",
+      "sentenceId": "caa1di1-almost-bad-outcome-example-3",
       "sentence": "我差啲輸咗比對手，最後贏返嚟。",
       "jyutping": "ngo5 caa1 di1 syu1 zo2 bei2 deoi3 sau2, zeoi3 hau6 jing4 faan1 loi4.",
       "meaning": "I almost lost to my opponent, but I managed to win in the end.",
-      "sourceWordId": "caa1di1-almost",
+      "sourceWordId": "caa1di1-almost-bad-outcome",
       "sourceWord": "差啲",
       "sourceWordJyutping": "caa1 di1",
       "sourceWordMeaning": "almost (bad outcome)",
@@ -4319,14 +4319,14 @@
         "negative-outcome",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/caa1di1-almost.json"
+      "sourceFile": "r2-backup/words/caa1di1-almost-bad-outcome.json"
     },
     {
-      "sentenceId": "caa1di1-almost-example-4",
+      "sentenceId": "caa1di1-almost-bad-outcome-example-4",
       "sentence": "差啲冇帶鎖匙，我唔知點開門。",
       "jyutping": "caa1 di1 mou5 daai3 so2 si4, ngo5 m4 zi1 dim2 hoi1 mun4.",
       "meaning": "I almost forgot to bring the keys, and I wouldn’t know how to open the door.",
-      "sourceWordId": "caa1di1-almost",
+      "sourceWordId": "caa1di1-almost-bad-outcome",
       "sourceWord": "差啲",
       "sourceWordJyutping": "caa1 di1",
       "sourceWordMeaning": "almost (bad outcome)",
@@ -4338,14 +4338,14 @@
         "negative-outcome",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/caa1di1-almost.json"
+      "sourceFile": "r2-backup/words/caa1di1-almost-bad-outcome.json"
     },
     {
-      "sentenceId": "sei2caang1-stubborn-example-1",
+      "sentenceId": "sei2caang1-insist-stubbornly-example-1",
       "sentence": "佢死撐自己嘅決定，唔肯聽其他人嘅建議。",
       "jyutping": "Keoi5 sei2 caang1 zi6 gei2 ge3 kyut3 ding6, m4 hang2 teng1 kei4 taa1 jan4 ge3 gin3 ji5.",
       "meaning": "He stubbornly insists on his own decision and refuses to listen to others' advice.",
-      "sourceWordId": "sei2caang1-stubborn",
+      "sourceWordId": "sei2caang1-insist-stubbornly",
       "sourceWord": "死撐",
       "sourceWordJyutping": "sei2 caang1",
       "sourceWordMeaning": "insist stubbornly",
@@ -4357,14 +4357,14 @@
         "attitude",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2caang1-stubborn.json"
+      "sourceFile": "r2-backup/words/sei2caang1-insist-stubbornly.json"
     },
     {
-      "sentenceId": "sei2caang1-stubborn-example-2",
+      "sentenceId": "sei2caang1-insist-stubbornly-example-2",
       "sentence": "即使證據唔支持，你都死撐佢講嘅嘢。",
       "jyutping": "Zik1 si2 zing3 geoi3 m4 zi1 ci4, nei5 dou1 sei2 caang1 keoi5 gong2 ge3 je5.",
       "meaning": "Even if the evidence doesn't support it, you still stubbornly insist on what he says.",
-      "sourceWordId": "sei2caang1-stubborn",
+      "sourceWordId": "sei2caang1-insist-stubbornly",
       "sourceWord": "死撐",
       "sourceWordJyutping": "sei2 caang1",
       "sourceWordMeaning": "insist stubbornly",
@@ -4376,14 +4376,14 @@
         "attitude",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2caang1-stubborn.json"
+      "sourceFile": "r2-backup/words/sei2caang1-insist-stubbornly.json"
     },
     {
-      "sentenceId": "sei2caang1-stubborn-example-3",
+      "sentenceId": "sei2caang1-insist-stubbornly-example-3",
       "sentence": "佢為咗面子死撐，唔肯認錯。",
       "jyutping": "Keoi5 wai6 zo2 min6 zi2 sei2 caang1, m4 hang2 jing6 co3.",
       "meaning": "She stubbornly insists for the sake of saving face and refuses to admit mistakes.",
-      "sourceWordId": "sei2caang1-stubborn",
+      "sourceWordId": "sei2caang1-insist-stubbornly",
       "sourceWord": "死撐",
       "sourceWordJyutping": "sei2 caang1",
       "sourceWordMeaning": "insist stubbornly",
@@ -4395,14 +4395,14 @@
         "attitude",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2caang1-stubborn.json"
+      "sourceFile": "r2-backup/words/sei2caang1-insist-stubbornly.json"
     },
     {
-      "sentenceId": "sei2caang1-stubborn-example-4",
+      "sentenceId": "sei2caang1-insist-stubbornly-example-4",
       "sentence": "老細死撐唔改條規矩，團隊好難改變。",
       "jyutping": "Lou5 sai3 sei2 caang1 m4 goi2 tiu4 gwai1 geoi2, tyun4 deoi2 hou2 naan4 goi2 bin3.",
       "meaning": "The boss stubbornly insists on not changing the rules, making it hard for the team to adapt.",
-      "sourceWordId": "sei2caang1-stubborn",
+      "sourceWordId": "sei2caang1-insist-stubbornly",
       "sourceWord": "死撐",
       "sourceWordJyutping": "sei2 caang1",
       "sourceWordMeaning": "insist stubbornly",
@@ -4414,14 +4414,14 @@
         "attitude",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2caang1-stubborn.json"
+      "sourceFile": "r2-backup/words/sei2caang1-insist-stubbornly.json"
     },
     {
-      "sentenceId": "sei2cung1-rush-reckless-example-1",
+      "sentenceId": "sei2cung1-rush-recklessly-example-1",
       "sentence": "你咁快死衝落樓梯，真係好危險。",
       "jyutping": "nei5 gam2 faai3 sei2 cung1 lok6 lau2 tai1, zan1 hai6 hou2 ngai4 him2.",
       "meaning": "You rushed down the stairs so quickly; it's really dangerous.",
-      "sourceWordId": "sei2cung1-rush-reckless",
+      "sourceWordId": "sei2cung1-rush-recklessly",
       "sourceWord": "死衝",
       "sourceWordJyutping": "sei2 cung1",
       "sourceWordMeaning": "rush recklessly",
@@ -4433,14 +4433,14 @@
         "expressive",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2cung1-rush-reckless.json"
+      "sourceFile": "r2-backup/words/sei2cung1-rush-recklessly.json"
     },
     {
-      "sentenceId": "sei2cung1-rush-reckless-example-2",
+      "sentenceId": "sei2cung1-rush-recklessly-example-2",
       "sentence": "佢成日死衝去做決定，唔諗清楚後果。",
       "jyutping": "keoi5 sing4 jat6 sei2 cung1 heoi3 zou6 kyut3 ding6, m4 nam2 cing1 co2 hau6 gwo2.",
       "meaning": "He always rushes to make decisions without thinking about the consequences.",
-      "sourceWordId": "sei2cung1-rush-reckless",
+      "sourceWordId": "sei2cung1-rush-recklessly",
       "sourceWord": "死衝",
       "sourceWordJyutping": "sei2 cung1",
       "sourceWordMeaning": "rush recklessly",
@@ -4452,14 +4452,14 @@
         "expressive",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2cung1-rush-reckless.json"
+      "sourceFile": "r2-backup/words/sei2cung1-rush-recklessly.json"
     },
     {
-      "sentenceId": "sei2cung1-rush-reckless-example-3",
+      "sentenceId": "sei2cung1-rush-recklessly-example-3",
       "sentence": "考試期間唔好死衝寫，慢慢睇清楚先。",
       "jyutping": "haau2 si3 kei4 gaan1 m4 hou2 sei2 cung1 se2, maan6 maan6 tai2 cing1 co2 sin1.",
       "meaning": "Don’t rush and write recklessly during exams; read carefully first.",
-      "sourceWordId": "sei2cung1-rush-reckless",
+      "sourceWordId": "sei2cung1-rush-recklessly",
       "sourceWord": "死衝",
       "sourceWordJyutping": "sei2 cung1",
       "sourceWordMeaning": "rush recklessly",
@@ -4471,14 +4471,14 @@
         "expressive",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2cung1-rush-reckless.json"
+      "sourceFile": "r2-backup/words/sei2cung1-rush-recklessly.json"
     },
     {
-      "sentenceId": "sei2cung1-rush-reckless-example-4",
+      "sentenceId": "sei2cung1-rush-recklessly-example-4",
       "sentence": "佢哋死衝向前，唔怕任何困難。",
       "jyutping": "keoi5 dei6 sei2 cung1 hoeng3 cin4, m4 paa3 jam6 ho4 kwan3 naan4.",
       "meaning": "They rushed forward recklessly, not afraid of any difficulties.",
-      "sourceWordId": "sei2cung1-rush-reckless",
+      "sourceWordId": "sei2cung1-rush-recklessly",
       "sourceWord": "死衝",
       "sourceWordJyutping": "sei2 cung1",
       "sourceWordMeaning": "rush recklessly",
@@ -4490,14 +4490,14 @@
         "expressive",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/sei2cung1-rush-reckless.json"
+      "sourceFile": "r2-backup/words/sei2cung1-rush-recklessly.json"
     },
     {
-      "sentenceId": "hou2kwaa1zoeng1-exaggerated-example-1",
+      "sentenceId": "hou2kwaa1zoeng1-so-exaggerated-example-1",
       "sentence": "佢講嘅故事真係好誇張，聽到我差啲唔信。",
       "jyutping": "Keoi5 gong2 ge3 gu3si6 zan1 hai6 hou2 kwaa1 zoeng1, teng1 dou3 ngo5 caa1 di1 m4 seon3.",
       "meaning": "The story he told was really so exaggerated, I almost didn't believe it.",
-      "sourceWordId": "hou2kwaa1zoeng1-exaggerated",
+      "sourceWordId": "hou2kwaa1zoeng1-so-exaggerated",
       "sourceWord": "好誇張",
       "sourceWordJyutping": "hou2 kwaa1 zoeng1",
       "sourceWordMeaning": "so exaggerated",
@@ -4509,14 +4509,14 @@
         "emotional reaction",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-exaggerated.json"
+      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-so-exaggerated.json"
     },
     {
-      "sentenceId": "hou2kwaa1zoeng1-exaggerated-example-2",
+      "sentenceId": "hou2kwaa1zoeng1-so-exaggerated-example-2",
       "sentence": "你講得太好誇張啦，冇人會相信咁嘅嘢。",
       "jyutping": "Nei5 gong2 dak1 taai3 hou2 kwaa1 zoeng1 laa1, mou5 jan4 wui5 soeng1 seon3 gam2 ge3 je5.",
       "meaning": "You are speaking so exaggeratedly, no one would believe such things.",
-      "sourceWordId": "hou2kwaa1zoeng1-exaggerated",
+      "sourceWordId": "hou2kwaa1zoeng1-so-exaggerated",
       "sourceWord": "好誇張",
       "sourceWordJyutping": "hou2 kwaa1 zoeng1",
       "sourceWordMeaning": "so exaggerated",
@@ -4528,14 +4528,14 @@
         "emotional reaction",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-exaggerated.json"
+      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-so-exaggerated.json"
     },
     {
-      "sentenceId": "hou2kwaa1zoeng1-exaggerated-example-3",
+      "sentenceId": "hou2kwaa1zoeng1-so-exaggerated-example-3",
       "sentence": "佢哋嘅反應好誇張，連啲小事都好似要爆炸咁。",
       "jyutping": "Keoi5 dei6 ge3 faan2 jing3 hou2 kwaa1 zoeng1, lin4 di1 siu2 si6 dou1 hou2 ci5 jiu3 baau3 zaa3 gam2.",
       "meaning": "Their reaction was so exaggerated, even small matters seemed like they were about to explode.",
-      "sourceWordId": "hou2kwaa1zoeng1-exaggerated",
+      "sourceWordId": "hou2kwaa1zoeng1-so-exaggerated",
       "sourceWord": "好誇張",
       "sourceWordJyutping": "hou2 kwaa1 zoeng1",
       "sourceWordMeaning": "so exaggerated",
@@ -4547,14 +4547,14 @@
         "emotional reaction",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-exaggerated.json"
+      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-so-exaggerated.json"
     },
     {
-      "sentenceId": "hou2kwaa1zoeng1-exaggerated-example-4",
+      "sentenceId": "hou2kwaa1zoeng1-so-exaggerated-example-4",
       "sentence": "你成日講笑嘢都好誇張，令人忍唔住笑出聲。",
       "jyutping": "Nei5 seng4 jat6 gong2 siu3 je5 dou1 hou2 kwaa1 zoeng1, ling6 jan4 jan2 m4 zyu6 siu3 ceot1 seng1.",
       "meaning": "You always joke in such an exaggerated way that people can't help but laugh out loud.",
-      "sourceWordId": "hou2kwaa1zoeng1-exaggerated",
+      "sourceWordId": "hou2kwaa1zoeng1-so-exaggerated",
       "sourceWord": "好誇張",
       "sourceWordJyutping": "hou2 kwaa1 zoeng1",
       "sourceWordMeaning": "so exaggerated",
@@ -4566,14 +4566,14 @@
         "emotional reaction",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-exaggerated.json"
+      "sourceFile": "r2-backup/words/hou2kwaa1zoeng1-so-exaggerated.json"
     },
     {
-      "sentenceId": "jau5jam1-suspicious-example-1",
+      "sentenceId": "jau5jam1-feels-shady-example-1",
       "sentence": "呢件事我覺得有陰，好似唔係咁簡單。",
       "jyutping": "ni1 gin6 si6 ngo5 gok3 dak1 jau5 jam1, hou2 ci5 m4 hai6 gam2 gaan2 daan1.",
       "meaning": "I feel suspicious about this matter; it seems not that simple.",
-      "sourceWordId": "jau5jam1-suspicious",
+      "sourceWordId": "jau5jam1-feels-shady",
       "sourceWord": "有陰",
       "sourceWordJyutping": "jau5 jam1",
       "sourceWordMeaning": "feels shady",
@@ -4585,14 +4585,14 @@
         "casual speech",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5jam1-suspicious.json"
+      "sourceFile": "r2-backup/words/jau5jam1-feels-shady.json"
     },
     {
-      "sentenceId": "jau5jam1-suspicious-example-2",
+      "sentenceId": "jau5jam1-feels-shady-example-2",
       "sentence": "佢講嘅故事有陰，我聽得出佢講大話。",
       "jyutping": "keoi5 gong2 ge3 gu3 si6 jau5 jam1, ngo5 teng1 dak1 ceot1 keoi5 gong2 daai6 waa6.",
       "meaning": "The story he tells feels shady; I can tell he's lying.",
-      "sourceWordId": "jau5jam1-suspicious",
+      "sourceWordId": "jau5jam1-feels-shady",
       "sourceWord": "有陰",
       "sourceWordJyutping": "jau5 jam1",
       "sourceWordMeaning": "feels shady",
@@ -4604,14 +4604,14 @@
         "casual speech",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5jam1-suspicious.json"
+      "sourceFile": "r2-backup/words/jau5jam1-feels-shady.json"
     },
     {
-      "sentenceId": "jau5jam1-suspicious-example-3",
+      "sentenceId": "jau5jam1-feels-shady-example-3",
       "sentence": "呢間公司嘅合約有陰，你簽之前要小心。",
       "jyutping": "ni1 gaan1 gung1 si1 ge3 hap6 joek3 jau5 jam1, nei5 cim1 zi1 cin4 jiu3 siu2 sam1.",
       "meaning": "There are shady parts in this company’s contract, you need to be careful before signing.",
-      "sourceWordId": "jau5jam1-suspicious",
+      "sourceWordId": "jau5jam1-feels-shady",
       "sourceWord": "有陰",
       "sourceWordJyutping": "jau5 jam1",
       "sourceWordMeaning": "feels shady",
@@ -4623,14 +4623,14 @@
         "casual speech",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5jam1-suspicious.json"
+      "sourceFile": "r2-backup/words/jau5jam1-feels-shady.json"
     },
     {
-      "sentenceId": "jau5jam1-suspicious-example-4",
+      "sentenceId": "jau5jam1-feels-shady-example-4",
       "sentence": "我對佢嘅行為有陰，唔知佢背後搞乜嘢。",
       "jyutping": "ngo5 deoi3 keoi5 ge3 hang4 wai4 jau5 jam1, m4 zi1 keoi5 bui3 hau6 gaau2 mat1 je5.",
       "meaning": "I feel suspicious about his behavior; I don’t know what he’s up to behind the scenes.",
-      "sourceWordId": "jau5jam1-suspicious",
+      "sourceWordId": "jau5jam1-feels-shady",
       "sourceWord": "有陰",
       "sourceWordJyutping": "jau5 jam1",
       "sourceWordMeaning": "feels shady",
@@ -4642,7 +4642,7 @@
         "casual speech",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/jau5jam1-suspicious.json"
+      "sourceFile": "r2-backup/words/jau5jam1-feels-shady.json"
     },
     {
       "sentenceId": "m4tong4-dont-tell-me-example-1",
@@ -4797,11 +4797,11 @@
       "sourceFile": "r2-backup/words/nei5waa6laa1-you-tell-me.json"
     },
     {
-      "sentenceId": "gam2dou1dak1-like-that-too-example-1",
+      "sentenceId": "gam2dou1dak1-seriously-example-1",
       "sentence": "你真係咁都得？咁樣做會有問題㗎！",
       "jyutping": "nei5 zan1 hai6 gam2 dou1 dak1? gam2 jo6 zou6 wui5 jau5 man6 tai4 gaa3!",
       "meaning": "You really can do that? Doing it like this will cause problems!",
-      "sourceWordId": "gam2dou1dak1-like-that-too",
+      "sourceWordId": "gam2dou1dak1-seriously",
       "sourceWord": "咁都得",
       "sourceWordJyutping": "gam2 dou1 dak1",
       "sourceWordMeaning": "seriously?",
@@ -4813,14 +4813,14 @@
         "sarcasm",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gam2dou1dak1-like-that-too.json"
+      "sourceFile": "r2-backup/words/gam2dou1dak1-seriously.json"
     },
     {
-      "sentenceId": "gam2dou1dak1-like-that-too-example-2",
+      "sentenceId": "gam2dou1dak1-seriously-example-2",
       "sentence": "佢竟然唔準備考試，咁都得？",
       "jyutping": "keoi5 ging2 jin4 m4 zeon2 bei6 haau2 si3, gam2 dou1 dak1?",
       "meaning": "He didn't prepare for the exam, seriously?",
-      "sourceWordId": "gam2dou1dak1-like-that-too",
+      "sourceWordId": "gam2dou1dak1-seriously",
       "sourceWord": "咁都得",
       "sourceWordJyutping": "gam2 dou1 dak1",
       "sourceWordMeaning": "seriously?",
@@ -4832,14 +4832,14 @@
         "sarcasm",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gam2dou1dak1-like-that-too.json"
+      "sourceFile": "r2-backup/words/gam2dou1dak1-seriously.json"
     },
     {
-      "sentenceId": "gam2dou1dak1-like-that-too-example-3",
+      "sentenceId": "gam2dou1dak1-seriously-example-3",
       "sentence": "咁貴嘅餐廳，你就咁都得？",
       "jyutping": "gam2 gwai3 ge3 caan1 teng1, nei5 zau6 gam2 dou1 dak1?",
       "meaning": "Such an expensive restaurant, you really settle for that?",
-      "sourceWordId": "gam2dou1dak1-like-that-too",
+      "sourceWordId": "gam2dou1dak1-seriously",
       "sourceWord": "咁都得",
       "sourceWordJyutping": "gam2 dou1 dak1",
       "sourceWordMeaning": "seriously?",
@@ -4851,14 +4851,14 @@
         "sarcasm",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gam2dou1dak1-like-that-too.json"
+      "sourceFile": "r2-backup/words/gam2dou1dak1-seriously.json"
     },
     {
-      "sentenceId": "gam2dou1dak1-like-that-too-example-4",
+      "sentenceId": "gam2dou1dak1-seriously-example-4",
       "sentence": "你買咗個壞咗嘅手機？咁都得？",
       "jyutping": "nei5 maai5 zo2 go3 waai6 zo2 ge3 sau2 gei1? gam2 dou1 dak1?",
       "meaning": "You bought a broken phone? Seriously?",
-      "sourceWordId": "gam2dou1dak1-like-that-too",
+      "sourceWordId": "gam2dou1dak1-seriously",
       "sourceWord": "咁都得",
       "sourceWordJyutping": "gam2 dou1 dak1",
       "sourceWordMeaning": "seriously?",
@@ -4870,7 +4870,7 @@
         "sarcasm",
         "level-8"
       ],
-      "sourceFile": "r2-backup/words/gam2dou1dak1-like-that-too.json"
+      "sourceFile": "r2-backup/words/gam2dou1dak1-seriously.json"
     }
   ],
   "missingWordFiles": []

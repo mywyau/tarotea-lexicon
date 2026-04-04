@@ -1593,11 +1593,11 @@
       "sourceFile": "r2-backup/words/long4-wolf.json"
     },
     {
-      "sentenceId": "jyu4-fish-basic-example-1",
+      "sentenceId": "jyu4-fish-example-1",
       "sentence": "我買咗條魚返屋企。",
       "jyutping": "ngo5 maai5 zo2 tiu4 jyu4 faan1 uk1 kei2.",
       "meaning": "I bought a fish and brought it home.",
-      "sourceWordId": "jyu4-fish-basic",
+      "sourceWordId": "jyu4-fish",
       "sourceWord": "魚",
       "sourceWordJyutping": "jyu4",
       "sourceWordMeaning": "fish",
@@ -1608,14 +1608,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyu4-fish-basic.json"
+      "sourceFile": "r2-backup/words/jyu4-fish.json"
     },
     {
-      "sentenceId": "jyu4-fish-basic-example-2",
+      "sentenceId": "jyu4-fish-example-2",
       "sentence": "呢隻魚好新鮮。",
       "jyutping": "ni1 zek3 jyu4 hou2 san1 sin1.",
       "meaning": "This fish is very fresh.",
-      "sourceWordId": "jyu4-fish-basic",
+      "sourceWordId": "jyu4-fish",
       "sourceWord": "魚",
       "sourceWordJyutping": "jyu4",
       "sourceWordMeaning": "fish",
@@ -1626,14 +1626,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyu4-fish-basic.json"
+      "sourceFile": "r2-backup/words/jyu4-fish.json"
     },
     {
-      "sentenceId": "jyu4-fish-basic-example-3",
+      "sentenceId": "jyu4-fish-example-3",
       "sentence": "你食唔食魚？",
       "jyutping": "nei5 sik6 m4 sik6 jyu4?",
       "meaning": "Do you eat fish?",
-      "sourceWordId": "jyu4-fish-basic",
+      "sourceWordId": "jyu4-fish",
       "sourceWord": "魚",
       "sourceWordJyutping": "jyu4",
       "sourceWordMeaning": "fish",
@@ -1644,14 +1644,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyu4-fish-basic.json"
+      "sourceFile": "r2-backup/words/jyu4-fish.json"
     },
     {
-      "sentenceId": "jyu4-fish-basic-example-4",
+      "sentenceId": "jyu4-fish-example-4",
       "sentence": "我哋去釣魚啦！",
       "jyutping": "ngo5 dei6 heoi3 diu3 jyu4 laa1!",
       "meaning": "Let's go fishing!",
-      "sourceWordId": "jyu4-fish-basic",
+      "sourceWordId": "jyu4-fish",
       "sourceWord": "魚",
       "sourceWordJyutping": "jyu4",
       "sourceWordMeaning": "fish",
@@ -1662,7 +1662,7 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyu4-fish-basic.json"
+      "sourceFile": "r2-backup/words/jyu4-fish.json"
     },
     {
       "sentenceId": "king4jyu4-whale-example-1",
@@ -6829,76 +6829,72 @@
       "sourceFile": "r2-backup/words/ngaa4-tooth.json"
     },
     {
-      "sentenceId": "haang4-walk-example-1",
-      "sentence": "佢每日都喺公園行。",
-      "jyutping": "Keoi5 mui5 jat6 dou1 hai2 gung1 jyun4 haang4.",
+      "sentenceId": "haang4-walk-go-on-foot-example-1",
+      "sentence": "佢每日都喺公園度行。",
+      "jyutping": "keoi5 mui5 jat6 dou1 hai2 gung1 jyun4 dou6 haang4",
       "meaning": "He walks in the park every day.",
-      "sourceWordId": "haang4-walk",
+      "sourceWordId": "haang4-walk-go-on-foot",
       "sourceWord": "行",
       "sourceWordJyutping": "haang4",
-      "sourceWordMeaning": "walk",
+      "sourceWordMeaning": "walk; go on foot",
       "tags": [
-        "animal_actions",
         "basic_verbs",
         "movement",
         "daily_use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haang4-walk.json"
+      "sourceFile": "r2-backup/words/haang4-walk-go-on-foot.json"
     },
     {
-      "sentenceId": "haang4-walk-example-2",
-      "sentence": "狗狗行得好快。",
-      "jyutping": "Gau2 gau2 haang4 dak1 hou2 faai3.",
-      "meaning": "The dog walks very fast.",
-      "sourceWordId": "haang4-walk",
+      "sentenceId": "haang4-walk-go-on-foot-example-2",
+      "sentence": "佢行得好快，我跟唔上。",
+      "jyutping": "keoi5 haang4 dak1 hou2 faai3, ngo5 gan1 m4 soeng5",
+      "meaning": "He walks very fast, and I can't keep up.",
+      "sourceWordId": "haang4-walk-go-on-foot",
       "sourceWord": "行",
       "sourceWordJyutping": "haang4",
-      "sourceWordMeaning": "walk",
+      "sourceWordMeaning": "walk; go on foot",
       "tags": [
-        "animal_actions",
         "basic_verbs",
         "movement",
         "daily_use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haang4-walk.json"
+      "sourceFile": "r2-backup/words/haang4-walk-go-on-foot.json"
     },
     {
-      "sentenceId": "haang4-walk-example-3",
+      "sentenceId": "haang4-walk-go-on-foot-example-3",
       "sentence": "我哋一齊行去食嘢啦。",
-      "jyutping": "Ngo5 dei6 jat1 cai4 haang4 heoi3 sik6 je5 laa1.",
-      "meaning": "Let's walk together to eat.",
-      "sourceWordId": "haang4-walk",
+      "jyutping": "ngo5 dei6 jat1 cai4 haang4 heoi3 sik6 je5 laa1",
+      "meaning": "Let's walk over together to get something to eat.",
+      "sourceWordId": "haang4-walk-go-on-foot",
       "sourceWord": "行",
       "sourceWordJyutping": "haang4",
-      "sourceWordMeaning": "walk",
+      "sourceWordMeaning": "walk; go on foot",
       "tags": [
-        "animal_actions",
         "basic_verbs",
         "movement",
         "daily_use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haang4-walk.json"
+      "sourceFile": "r2-backup/words/haang4-walk-go-on-foot.json"
     },
     {
-      "sentenceId": "haang4-walk-example-4",
+      "sentenceId": "haang4-walk-go-on-foot-example-4",
       "sentence": "你可以行過去嗰邊。",
-      "jyutping": "Nei5 ho2 ji5 haang4 gwo3 heoi3 go2 bin1.",
+      "jyutping": "nei5 ho2 ji5 haang4 gwo3 heoi3 go2 bin1",
       "meaning": "You can walk over there.",
-      "sourceWordId": "haang4-walk",
+      "sourceWordId": "haang4-walk-go-on-foot",
       "sourceWord": "行",
       "sourceWordJyutping": "haang4",
-      "sourceWordMeaning": "walk",
+      "sourceWordMeaning": "walk; go on foot",
       "tags": [
-        "animal_actions",
         "basic_verbs",
         "movement",
         "daily_use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haang4-walk.json"
+      "sourceFile": "r2-backup/words/haang4-walk-go-on-foot.json"
     },
     {
       "sentenceId": "paau2-run-example-1",
@@ -7205,11 +7201,11 @@
       "sourceFile": "r2-backup/words/tiu3-jump.json"
     },
     {
-      "sentenceId": "giu3-call-cry-example-1",
+      "sentenceId": "giu3-cry-out-example-1",
       "sentence": "隻狗好大聲咁叫。",
       "jyutping": "zek3 gau2 hou2 daai6 seng1 gam2 giu3.",
       "meaning": "The dog is barking very loudly.",
-      "sourceWordId": "giu3-call-cry",
+      "sourceWordId": "giu3-cry-out",
       "sourceWord": "叫",
       "sourceWordJyutping": "giu3",
       "sourceWordMeaning": "cry out",
@@ -7221,14 +7217,14 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/giu3-call-cry.json"
+      "sourceFile": "r2-backup/words/giu3-cry-out.json"
     },
     {
-      "sentenceId": "giu3-call-cry-example-2",
+      "sentenceId": "giu3-cry-out-example-2",
       "sentence": "你叫我做乜嘢？",
       "jyutping": "nei5 giu3 ngo5 zou6 mat1 je5?",
       "meaning": "What are you calling me to do?",
-      "sourceWordId": "giu3-call-cry",
+      "sourceWordId": "giu3-cry-out",
       "sourceWord": "叫",
       "sourceWordJyutping": "giu3",
       "sourceWordMeaning": "cry out",
@@ -7240,14 +7236,14 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/giu3-call-cry.json"
+      "sourceFile": "r2-backup/words/giu3-cry-out.json"
     },
     {
-      "sentenceId": "giu3-call-cry-example-3",
+      "sentenceId": "giu3-cry-out-example-3",
       "sentence": "啲小朋友喺操場度叫住玩。",
       "jyutping": "di1 siu2 pang4 jau5 hai2 cou1 coeng4 dou6 giu3 zyu6 waan2.",
       "meaning": "The children are shouting and playing on the playground.",
-      "sourceWordId": "giu3-call-cry",
+      "sourceWordId": "giu3-cry-out",
       "sourceWord": "叫",
       "sourceWordJyutping": "giu3",
       "sourceWordMeaning": "cry out",
@@ -7259,14 +7255,14 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/giu3-call-cry.json"
+      "sourceFile": "r2-backup/words/giu3-cry-out.json"
     },
     {
-      "sentenceId": "giu3-call-cry-example-4",
+      "sentenceId": "giu3-cry-out-example-4",
       "sentence": "貓咪見到老鼠會即刻叫。",
       "jyutping": "maau1 mi1 gin3 dou3 lou5 syu2 wui5 zik1 hak1 giu3.",
       "meaning": "The cat immediately cries out when it sees a mouse.",
-      "sourceWordId": "giu3-call-cry",
+      "sourceWordId": "giu3-cry-out",
       "sourceWord": "叫",
       "sourceWordJyutping": "giu3",
       "sourceWordMeaning": "cry out",
@@ -7278,7 +7274,7 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/giu3-call-cry.json"
+      "sourceFile": "r2-backup/words/giu3-cry-out.json"
     },
     {
       "sentenceId": "ngaau5-bite-example-1",

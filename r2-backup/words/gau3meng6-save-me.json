@@ -1,0 +1,68 @@
+{
+  "id": "gau3meng6-help-save-me",
+  "word": "救命",
+  "jyutping": "gau3 meng6",
+  "meaning": "Help! / Save me!",
+  "pos": [
+    "exclamation"
+  ],
+  "usage": [
+    "Used as an urgent cry for help in dangerous, painful, or frightening situations.",
+    "Common when someone is injured, in immediate danger, or needs emergency assistance.",
+    "Often shouted on its own, but it can also be followed by a short explanation of what is wrong."
+  ],
+  "examples": [
+    {
+      "id": "gau3meng6-help-save-me-example-1",
+      "sentence": "救命呀！",
+      "jyutping": "gau3 meng6 aa3",
+      "meaning": "Help!"
+    },
+    {
+      "id": "gau3meng6-help-save-me-example-2",
+      "sentence": "救命！有人跌咗落水呀！",
+      "jyutping": "gau3 meng6! jau5 jan4 dit3 zo2 lok6 seoi2 aa3!",
+      "meaning": "Help! Someone fell into the water!"
+    },
+    {
+      "id": "gau3meng6-help-save-me-example-3",
+      "sentence": "救命！我隻腳流緊血呀！",
+      "jyutping": "gau3 meng6! ngo5 zek3 goek3 lau4 gan2 hyut3 aa3!",
+      "meaning": "Help! My leg is bleeding!"
+    },
+    {
+      "id": "gau3meng6-help-save-me-example-4",
+      "sentence": "救命！快啲幫我報警呀！",
+      "jyutping": "gau3 meng6! faai3 di1 bong1 ngo5 bou3 ging2 aa3!",
+      "meaning": "Help! Please call the police for me quickly!"
+    },
+    {
+      "id": "gau3meng6-help-save-me-example-5",
+      "sentence": "救命！可唔可以叫救護車呀？",
+      "jyutping": "gau3 meng6! ho2 m4 ho2 ji5 giu3 gau3 wu6 ce1 aa3?",
+      "meaning": "Help! Can you call an ambulance?"
+    }
+  ],
+  "audio": {
+    "word": "gau3meng6-help-save-me.mp3",
+    "examples": [
+      "gau3meng6-help-save-me-example-1.mp3",
+      "gau3meng6-help-save-me-example-2.mp3",
+      "gau3meng6-help-save-me-example-3.mp3",
+      "gau3meng6-help-save-me-example-4.mp3",
+      "gau3meng6-help-save-me-example-5.mp3"
+    ]
+  },
+  "tags": [
+    "exclamation",
+    "level-1",
+    "core",
+    "emergency",
+    "survival"
+  ],
+  "related": [
+    "gan2gap1-emergency",
+    "sau6zoeng1-injured",
+    "bong1-help"
+  ]
+}

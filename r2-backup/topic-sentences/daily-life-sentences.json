@@ -225,76 +225,52 @@
       "sourceFile": "r2-backup/words/sai2min6-wash-face.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-shower-example-1",
-      "sentence": "我而家去沖涼。",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-1",
+      "sentence": "我宜家去沖涼。",
       "jyutping": "ngo5 ji4 gaa1 heoi3 cung1 loeng4.",
       "meaning": "I'm going to take a shower now.",
-      "sourceWordId": "cung1loeng4-take-shower",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a shower",
-      "tags": [
-        "daily life",
-        "morning routine",
-        "hygiene",
-        "verb phrase",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-shower-example-2",
-      "sentence": "你沖唔沖涼先？",
-      "jyutping": "nei5 cung1 m4 cung1 loeng4 sin1?",
-      "meaning": "Are you going to take a shower first?",
-      "sourceWordId": "cung1loeng4-take-shower",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-2",
+      "sentence": "沖完涼之後我覺得好舒服。",
+      "jyutping": "cung1 jyun4 loeng4 zi1 hau6 ngo5 gok3 dak1 hou2 syu1 fuk6.",
+      "meaning": "I feel really comfortable after taking a shower.",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a shower",
-      "tags": [
-        "daily life",
-        "morning routine",
-        "hygiene",
-        "verb phrase",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-shower-example-3",
-      "sentence": "佢啱啱沖完涼。",
-      "jyutping": "keoi5 aam1 aam1 cung1 jyun4 loeng4.",
-      "meaning": "He just finished taking a shower.",
-      "sourceWordId": "cung1loeng4-take-shower",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-3",
+      "sentence": "你今晚幾點沖涼？",
+      "jyutping": "nei5 gam1 maan5 gei2 dim2 cung1 loeng4?",
+      "meaning": "What time are you taking a shower tonight?",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a shower",
-      "tags": [
-        "daily life",
-        "morning routine",
-        "hygiene",
-        "verb phrase",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-shower-example-4",
-      "sentence": "我未沖涼，等陣先。",
-      "jyutping": "ngo5 mei6 cung1 loeng4, dang2 zan6 sin1.",
-      "meaning": "I haven’t taken a shower yet, wait a bit.",
-      "sourceWordId": "cung1loeng4-take-shower",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-4",
+      "sentence": "沖涼嘅時候唔好用太熱嘅水。",
+      "jyutping": "cung1 loeng4 ge3 si4 hau6 m4 hou2 jung6 taai3 jit6 ge3 seoi2.",
+      "meaning": "Don't use water that's too hot when showering.",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a shower",
-      "tags": [
-        "daily life",
-        "morning routine",
-        "hygiene",
-        "verb phrase",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
       "sentenceId": "wun6saam1-change-clothes-example-1",
@@ -521,14 +497,14 @@
       "sourceFile": "r2-backup/words/sik6zou2caan1-eat-breakfast.json"
     },
     {
-      "sentenceId": "jam2gaa3fe1-drink-coffee-example-1",
+      "sentenceId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee-example-1",
       "sentence": "我朝早一定要飲咖啡先醒神。",
-      "jyutping": "ngo5 ziu1 Zou2 jat1 ding6 jiu3 jam2 gaa3 fe1 sin1 sing2 san4.",
-      "meaning": "I must drink coffee in the morning to wake up.",
-      "sourceWordId": "jam2gaa3fe1-drink-coffee",
+      "jyutping": "ngo5 ziu1 zou2 jat1 ding6 jiu3 jam2 gaa3 fe1 sin1 sing2 san4.",
+      "meaning": "I need to drink coffee in the morning before I can wake up properly.",
+      "sourceWordId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee",
       "sourceWord": "飲咖啡",
       "sourceWordJyutping": "jam2 gaa3 fe1",
-      "sourceWordMeaning": "drink coffee",
+      "sourceWordMeaning": "to drink coffee; to have coffee",
       "tags": [
         "daily routine",
         "morning",
@@ -537,17 +513,17 @@
         "common phrase",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2gaa3fe1-drink-coffee.json"
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-to-drink-coffee-to-have-coffee.json"
     },
     {
-      "sentenceId": "jam2gaa3fe1-drink-coffee-example-2",
+      "sentenceId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee-example-2",
       "sentence": "我哋去附近嘅咖啡店飲咖啡啦。",
-      "jyutping": "ngo5 dei6 heoi3 fu6 gan6 ge3 kaa1 fe1 dim3 jam2 gaa3 fe1 laa1.",
-      "meaning": "Let's go to the nearby coffee shop to drink coffee.",
-      "sourceWordId": "jam2gaa3fe1-drink-coffee",
+      "jyutping": "ngo5 dei6 heoi3 fu6 gan6 ge3 gaa3 fe1 dim3 jam2 gaa3 fe1 laa1.",
+      "meaning": "Let's go to the nearby coffee shop for a coffee.",
+      "sourceWordId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee",
       "sourceWord": "飲咖啡",
       "sourceWordJyutping": "jam2 gaa3 fe1",
-      "sourceWordMeaning": "drink coffee",
+      "sourceWordMeaning": "to drink coffee; to have coffee",
       "tags": [
         "daily routine",
         "morning",
@@ -556,17 +532,17 @@
         "common phrase",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2gaa3fe1-drink-coffee.json"
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-to-drink-coffee-to-have-coffee.json"
     },
     {
-      "sentenceId": "jam2gaa3fe1-drink-coffee-example-3",
+      "sentenceId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee-example-3",
       "sentence": "飲咖啡幫我提神好多。",
       "jyutping": "jam2 gaa3 fe1 bong1 ngo5 tai4 san4 hou2 do1.",
-      "meaning": "Drinking coffee helps me feel more alert.",
-      "sourceWordId": "jam2gaa3fe1-drink-coffee",
+      "meaning": "Drinking coffee helps me feel much more alert.",
+      "sourceWordId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee",
       "sourceWord": "飲咖啡",
       "sourceWordJyutping": "jam2 gaa3 fe1",
-      "sourceWordMeaning": "drink coffee",
+      "sourceWordMeaning": "to drink coffee; to have coffee",
       "tags": [
         "daily routine",
         "morning",
@@ -575,17 +551,17 @@
         "common phrase",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2gaa3fe1-drink-coffee.json"
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-to-drink-coffee-to-have-coffee.json"
     },
     {
-      "sentenceId": "jam2gaa3fe1-drink-coffee-example-4",
+      "sentenceId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee-example-4",
       "sentence": "佢唔鍾意飲咖啡，鍾意飲茶多啲。",
       "jyutping": "keoi5 m4 zung1 ji3 jam2 gaa3 fe1, zung1 ji3 jam2 caa4 do1 di1.",
-      "meaning": "He doesn't like drinking coffee, prefers drinking tea more.",
-      "sourceWordId": "jam2gaa3fe1-drink-coffee",
+      "meaning": "He doesn't like coffee and prefers tea.",
+      "sourceWordId": "jam2gaa3fe1-to-drink-coffee-to-have-coffee",
       "sourceWord": "飲咖啡",
       "sourceWordJyutping": "jam2 gaa3 fe1",
-      "sourceWordMeaning": "drink coffee",
+      "sourceWordMeaning": "to drink coffee; to have coffee",
       "tags": [
         "daily routine",
         "morning",
@@ -594,17 +570,17 @@
         "common phrase",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2gaa3fe1-drink-coffee.json"
+      "sourceFile": "r2-backup/words/jam2gaa3fe1-to-drink-coffee-to-have-coffee.json"
     },
     {
-      "sentenceId": "ceot1mun4-leave-home-example-1",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-1",
       "sentence": "我八點要出門返工。",
       "jyutping": "ngo5 baat3 dim2 jiu3 ceot1 mun4 faan1 gung1.",
-      "meaning": "I need to go out at 8 o'clock to go to work.",
-      "sourceWordId": "ceot1mun4-leave-home",
+      "meaning": "I need to leave home at 8 o'clock to go to work.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
         "daily life",
         "routine",
@@ -613,17 +589,17 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-leave-home.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
-      "sentenceId": "ceot1mun4-leave-home-example-2",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-2",
       "sentence": "出門前記住帶鎖匙。",
       "jyutping": "ceot1 mun4 cin4 gei3 zyu6 daai3 so2 si4.",
-      "meaning": "Remember to take your keys before going out.",
-      "sourceWordId": "ceot1mun4-leave-home",
+      "meaning": "Remember to bring your keys before going out.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
         "daily life",
         "routine",
@@ -632,17 +608,17 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-leave-home.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
-      "sentenceId": "ceot1mun4-leave-home-example-3",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-3",
       "sentence": "天氣咁凍，出門要著多件衫。",
       "jyutping": "tin1 hei3 gam3 dung3, ceot1 mun4 jiu3 zoek3 do1 gin6 saam1.",
-      "meaning": "The weather is so cold, you need to wear more clothes when going out.",
-      "sourceWordId": "ceot1mun4-leave-home",
+      "meaning": "It's so cold, so you need to wear an extra layer when going out.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
         "daily life",
         "routine",
@@ -651,17 +627,17 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-leave-home.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
-      "sentenceId": "ceot1mun4-leave-home-example-4",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-4",
       "sentence": "我每日朝早七點半就出門。",
       "jyutping": "ngo5 mui5 jat6 ziu1 zou2 cat1 dim2 bun3 zau6 ceot1 mun4.",
-      "meaning": "I go out every morning at 7:30.",
-      "sourceWordId": "ceot1mun4-leave-home",
+      "meaning": "I leave home at 7:30 every morning.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
         "daily life",
         "routine",
@@ -670,7 +646,7 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-leave-home.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
       "sentenceId": "daap3ce1-take-transport-example-1",
@@ -750,76 +726,76 @@
     },
     {
       "sentenceId": "faan1gung1-go-to-work-example-1",
-      "sentence": "我朝早八點返工。",
-      "jyutping": "ngo5 ziu1zou2 baat3 dim2 faan1 gung1.",
-      "meaning": "I go to work at 8 in the morning.",
+      "sentence": "我聽日要早啲返工。",
+      "jyutping": "ngo5 ting1jat6 jiu3 zou2 di1 faan1 gung1.",
+      "meaning": "I have to go to work earlier tomorrow.",
       "sourceWordId": "faan1gung1-go-to-work",
       "sourceWord": "返工",
       "sourceWordJyutping": "faan1 gung1",
       "sourceWordMeaning": "go to work",
       "tags": [
+        "jobs and work",
         "daily routine",
-        "work",
-        "verb",
-        "common phrase",
-        "employment",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
     },
     {
       "sentenceId": "faan1gung1-go-to-work-example-2",
-      "sentence": "你今日返唔返工？",
-      "jyutping": "nei5 gam1jat6 faan1 m4 faan1 gung1?",
-      "meaning": "Are you going to work today?",
+      "sentence": "你幾點返工？",
+      "jyutping": "nei5 gei2 dim2 faan1 gung1?",
+      "meaning": "What time do you go to work?",
       "sourceWordId": "faan1gung1-go-to-work",
       "sourceWord": "返工",
       "sourceWordJyutping": "faan1 gung1",
       "sourceWordMeaning": "go to work",
       "tags": [
+        "jobs and work",
         "daily routine",
-        "work",
-        "verb",
-        "common phrase",
-        "employment",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
     },
     {
       "sentenceId": "faan1gung1-go-to-work-example-3",
-      "sentence": "佢遲咗返工，老細唔開心。",
-      "jyutping": "keoi5 ci4 zo2 faan1 gung1, lou5 sai3 m4 hoi1sam1.",
-      "meaning": "He was late going to work, the boss is unhappy.",
+      "sentence": "佢每日搭巴士返工。",
+      "jyutping": "keoi5 mui5jat6 daap3 baa1si2 faan1 gung1.",
+      "meaning": "He/she takes the bus to work every day.",
       "sourceWordId": "faan1gung1-go-to-work",
       "sourceWord": "返工",
       "sourceWordJyutping": "faan1 gung1",
       "sourceWordMeaning": "go to work",
       "tags": [
+        "jobs and work",
         "daily routine",
-        "work",
-        "verb",
-        "common phrase",
-        "employment",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
     },
     {
       "sentenceId": "faan1gung1-go-to-work-example-4",
-      "sentence": "下星期開始我要返工喇。",
-      "jyutping": "haa6 sing1kei4 hoi1ci2 ngo5 jiu3 faan1 gung1 laa3.",
-      "meaning": "I have to start going to work next week.",
+      "sentence": "病都冇請假返工，真係辛苦。",
+      "jyutping": "beng6 dou1 mou5 ceng2 gaa3 faan1 gung1, zan1 hai6 san1fu2.",
+      "meaning": "Going to work without taking sick leave is really tough.",
       "sourceWordId": "faan1gung1-go-to-work",
       "sourceWord": "返工",
       "sourceWordJyutping": "faan1 gung1",
       "sourceWordMeaning": "go to work",
       "tags": [
+        "jobs and work",
         "daily routine",
-        "work",
-        "verb",
-        "common phrase",
-        "employment",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
@@ -902,72 +878,76 @@
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-1",
-      "sentence": "我今晚六點放工。",
-      "jyutping": "ngo5 gam1 maan5 luk6 dim2 fong3 gung1.",
-      "meaning": "I finish work at six o'clock tonight.",
+      "sentence": "我今日六點放工。",
+      "jyutping": "ngo5 gam1jat6 luk6 dim2 fong3 gung1.",
+      "meaning": "I finish work at 6 today.",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-2",
-      "sentence": "你放工後想飲啲咩？",
-      "jyutping": "nei5 fong3 gung1 hau6 soeng2 jam2 di1 me1?",
-      "meaning": "What do you want to drink after finishing work?",
+      "sentence": "你幾點放工呀？",
+      "jyutping": "nei5 gei2 dim2 fong3 gung1 aa3?",
+      "meaning": "What time do you finish work?",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-3",
-      "sentence": "佢每日放工都好攰。",
-      "jyutping": "keoi5 mui5 jat6 fong3 gung1 dou1 hou2 gui6.",
-      "meaning": "He is very tired every day after finishing work.",
+      "sentence": "我哋放工之後去食飯。",
+      "jyutping": "ngo5dei6 fong3 gung1 zi1 hau6 heoi3 sik6 faan6.",
+      "meaning": "We’re going to eat after work.",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
     },
     {
       "sentenceId": "fong3gung1-finish-work-example-4",
-      "sentence": "放工就去食飯啦！",
-      "jyutping": "fong3 gung1 zau6 heoi3 sik6 faan6 laa1!",
-      "meaning": "Let's go eat after finishing work!",
+      "sentence": "佢啱啱放工，仲未食飯。",
+      "jyutping": "keoi5 aam1 aam1 fong3 gung1, zung6 mei6 sik6 faan6.",
+      "meaning": "He just finished work and hasn’t eaten yet.",
       "sourceWordId": "fong3gung1-finish-work",
       "sourceWord": "放工",
       "sourceWordJyutping": "fong3 gung1",
       "sourceWordMeaning": "finish work",
       "tags": [
+        "work and employment",
         "daily life",
-        "work",
-        "routine",
-        "casual speech",
+        "spoken Cantonese",
+        "beginner",
+        "common phrase",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3gung1-finish-work.json"
@@ -1049,14 +1029,14 @@
       "sourceFile": "r2-backup/words/fong3hok6-finish-school.json"
     },
     {
-      "sentenceId": "faan1uk1kei2-go-home-example-1",
+      "sentenceId": "faan1uk1kei2-to-go-home-to-return-home-example-1",
       "sentence": "我下晝五點鐘返屋企。",
-      "jyutping": "ngo5 haa6ziu3 ng5 dim2 zung1 faan1 uk1 kei2.",
-      "meaning": "I go home at 5 PM.",
-      "sourceWordId": "faan1uk1kei2-go-home",
+      "jyutping": "ngo5 haa6 zau3 ng5 dim2 zung1 faan1 uk1 kei2.",
+      "meaning": "I go home at 5 p.m.",
+      "sourceWordId": "faan1uk1kei2-to-go-home-to-return-home",
       "sourceWord": "返屋企",
       "sourceWordJyutping": "faan1 uk1 kei2",
-      "sourceWordMeaning": "go home",
+      "sourceWordMeaning": "to go home; to return home",
       "tags": [
         "daily routine",
         "going home",
@@ -1064,17 +1044,17 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faan1uk1kei2-go-home.json"
+      "sourceFile": "r2-backup/words/faan1uk1kei2-to-go-home-to-return-home.json"
     },
     {
-      "sentenceId": "faan1uk1kei2-go-home-example-2",
-      "sentence": "完成功課之後，我就返屋企。",
-      "jyutping": "yun4 sing4 gung1 fo3 zi1 hau6, ngo5 zau6 faan1 uk1 kei2.",
-      "meaning": "After finishing homework, I go home.",
-      "sourceWordId": "faan1uk1kei2-go-home",
+      "sentenceId": "faan1uk1kei2-to-go-home-to-return-home-example-2",
+      "sentence": "放學之後，我就返屋企。",
+      "jyutping": "fong3 hok6 zi1 hau6, ngo5 zau6 faan1 uk1 kei2.",
+      "meaning": "After school, I go home.",
+      "sourceWordId": "faan1uk1kei2-to-go-home-to-return-home",
       "sourceWord": "返屋企",
       "sourceWordJyutping": "faan1 uk1 kei2",
-      "sourceWordMeaning": "go home",
+      "sourceWordMeaning": "to go home; to return home",
       "tags": [
         "daily routine",
         "going home",
@@ -1082,17 +1062,17 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faan1uk1kei2-go-home.json"
+      "sourceFile": "r2-backup/words/faan1uk1kei2-to-go-home-to-return-home.json"
     },
     {
-      "sentenceId": "faan1uk1kei2-go-home-example-3",
-      "sentence": "我今日唔想返屋企，想喺朋友度玩。",
-      "jyutping": "ngo5 gam1 jat6 m4 soeng2 faan1 uk1 kei2, soeng2 hai2 pang4 jau5 dou6 waan2.",
-      "meaning": "I don't want to go home today, I want to hang out at a friend's place.",
-      "sourceWordId": "faan1uk1kei2-go-home",
+      "sentenceId": "faan1uk1kei2-to-go-home-to-return-home-example-3",
+      "sentence": "我今日唔想返屋企，想喺朋友屋企玩。",
+      "jyutping": "ngo5 gam1 jat6 m4 soeng2 faan1 uk1 kei2, soeng2 hai2 pang4 jau5 uk1 kei2 waan2.",
+      "meaning": "I don't want to go home today. I want to hang out at my friend's place.",
+      "sourceWordId": "faan1uk1kei2-to-go-home-to-return-home",
       "sourceWord": "返屋企",
       "sourceWordJyutping": "faan1 uk1 kei2",
-      "sourceWordMeaning": "go home",
+      "sourceWordMeaning": "to go home; to return home",
       "tags": [
         "daily routine",
         "going home",
@@ -1100,17 +1080,17 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faan1uk1kei2-go-home.json"
+      "sourceFile": "r2-backup/words/faan1uk1kei2-to-go-home-to-return-home.json"
     },
     {
-      "sentenceId": "faan1uk1kei2-go-home-example-4",
+      "sentenceId": "faan1uk1kei2-to-go-home-to-return-home-example-4",
       "sentence": "返屋企之前買啲嘢食啦。",
       "jyutping": "faan1 uk1 kei2 zi1 cin4 maai5 di1 je5 sik6 laa1.",
       "meaning": "Buy some food before going home.",
-      "sourceWordId": "faan1uk1kei2-go-home",
+      "sourceWordId": "faan1uk1kei2-to-go-home-to-return-home",
       "sourceWord": "返屋企",
       "sourceWordJyutping": "faan1 uk1 kei2",
-      "sourceWordMeaning": "go home",
+      "sourceWordMeaning": "to go home; to return home",
       "tags": [
         "daily routine",
         "going home",
@@ -1118,7 +1098,7 @@
         "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faan1uk1kei2-go-home.json"
+      "sourceFile": "r2-backup/words/faan1uk1kei2-to-go-home-to-return-home.json"
     },
     {
       "sentenceId": "zou6gung1fo3-do-homework-example-1",
@@ -1425,11 +1405,11 @@
       "sourceFile": "r2-backup/words/jam2seoi2-drink-water.json"
     },
     {
-      "sentenceId": "jam2caa4-drink-tea-example-1",
+      "sentenceId": "jam2caa4-have-tea-example-1",
       "sentence": "今日我哋去飲茶啦！",
       "jyutping": "gam1 jat6 ngo5 dei6 heoi3 jam2 caa4 laa1!",
       "meaning": "Today we're going to have tea!",
-      "sourceWordId": "jam2caa4-drink-tea",
+      "sourceWordId": "jam2caa4-have-tea",
       "sourceWord": "飲茶",
       "sourceWordJyutping": "jam2 caa4",
       "sourceWordMeaning": "have tea",
@@ -1441,14 +1421,14 @@
         "tradition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2caa4-drink-tea.json"
+      "sourceFile": "r2-backup/words/jam2caa4-have-tea.json"
     },
     {
-      "sentenceId": "jam2caa4-drink-tea-example-2",
+      "sentenceId": "jam2caa4-have-tea-example-2",
       "sentence": "我鍾意星期日同家人飲茶。",
       "jyutping": "ngo5 zung1 ji3 sing1 kei4 jat6 tung4 gaa1 jan4 jam2 caa4.",
       "meaning": "I like having tea with my family on Sundays.",
-      "sourceWordId": "jam2caa4-drink-tea",
+      "sourceWordId": "jam2caa4-have-tea",
       "sourceWord": "飲茶",
       "sourceWordJyutping": "jam2 caa4",
       "sourceWordMeaning": "have tea",
@@ -1460,14 +1440,14 @@
         "tradition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2caa4-drink-tea.json"
+      "sourceFile": "r2-backup/words/jam2caa4-have-tea.json"
     },
     {
-      "sentenceId": "jam2caa4-drink-tea-example-3",
+      "sentenceId": "jam2caa4-have-tea-example-3",
       "sentence": "你食完飯，想唔想去飲茶？",
       "jyutping": "nei5 sik6 jyun4 faan6, soeng2 m4 soeng2 heoi3 jam2 caa4?",
       "meaning": "After you finish eating, do you want to go for tea?",
-      "sourceWordId": "jam2caa4-drink-tea",
+      "sourceWordId": "jam2caa4-have-tea",
       "sourceWord": "飲茶",
       "sourceWordJyutping": "jam2 caa4",
       "sourceWordMeaning": "have tea",
@@ -1479,14 +1459,14 @@
         "tradition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2caa4-drink-tea.json"
+      "sourceFile": "r2-backup/words/jam2caa4-have-tea.json"
     },
     {
-      "sentenceId": "jam2caa4-drink-tea-example-4",
+      "sentenceId": "jam2caa4-have-tea-example-4",
       "sentence": "飲茶係香港人嘅傳統習慣。",
       "jyutping": "jam2 caa4 hai6 hoeng1 gong2 jan4 ge3 cyun4 tung2 zaap6 gwaan3.",
       "meaning": "Having tea is a traditional habit for Hong Kong people.",
-      "sourceWordId": "jam2caa4-drink-tea",
+      "sourceWordId": "jam2caa4-have-tea",
       "sourceWord": "飲茶",
       "sourceWordJyutping": "jam2 caa4",
       "sourceWordMeaning": "have tea",
@@ -1498,14 +1478,14 @@
         "tradition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam2caa4-drink-tea.json"
+      "sourceFile": "r2-backup/words/jam2caa4-have-tea.json"
     },
     {
-      "sentenceId": "sik6ling4sik6-have-snack-example-1",
+      "sentenceId": "sik6ling4sik6-have-a-snack-example-1",
       "sentence": "我夜晚鍾意食零食。",
       "jyutping": "ngo5 je6 maan5 zung1 ji3 sik6 ling4 sik6.",
       "meaning": "I like to have snacks at night.",
-      "sourceWordId": "sik6ling4sik6-have-snack",
+      "sourceWordId": "sik6ling4sik6-have-a-snack",
       "sourceWord": "食零食",
       "sourceWordJyutping": "sik6 ling4 sik6",
       "sourceWordMeaning": "have a snack",
@@ -1517,14 +1497,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sik6ling4sik6-have-snack.json"
+      "sourceFile": "r2-backup/words/sik6ling4sik6-have-a-snack.json"
     },
     {
-      "sentenceId": "sik6ling4sik6-have-snack-example-2",
+      "sentenceId": "sik6ling4sik6-have-a-snack-example-2",
       "sentence": "今日無胃口，所以無食零食。",
       "jyutping": "gam1 jat6 mou4 wai6 hau2, so2 ji5 mou5 sik6 ling4 sik6.",
       "meaning": "I have no appetite today, so I didn't have any snacks.",
-      "sourceWordId": "sik6ling4sik6-have-snack",
+      "sourceWordId": "sik6ling4sik6-have-a-snack",
       "sourceWord": "食零食",
       "sourceWordJyutping": "sik6 ling4 sik6",
       "sourceWordMeaning": "have a snack",
@@ -1536,14 +1516,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sik6ling4sik6-have-snack.json"
+      "sourceFile": "r2-backup/words/sik6ling4sik6-have-a-snack.json"
     },
     {
-      "sentenceId": "sik6ling4sik6-have-snack-example-3",
+      "sentenceId": "sik6ling4sik6-have-a-snack-example-3",
       "sentence": "細路仔唔應該成日食零食。",
       "jyutping": "sai3 lou6 zai2 m4 jing1 goi1 sing4 jat6 sik6 ling4 sik6.",
       "meaning": "Kids shouldn't have snacks all the time.",
-      "sourceWordId": "sik6ling4sik6-have-snack",
+      "sourceWordId": "sik6ling4sik6-have-a-snack",
       "sourceWord": "食零食",
       "sourceWordJyutping": "sik6 ling4 sik6",
       "sourceWordMeaning": "have a snack",
@@ -1555,14 +1535,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sik6ling4sik6-have-snack.json"
+      "sourceFile": "r2-backup/words/sik6ling4sik6-have-a-snack.json"
     },
     {
-      "sentenceId": "sik6ling4sik6-have-snack-example-4",
+      "sentenceId": "sik6ling4sik6-have-a-snack-example-4",
       "sentence": "我買咗啲零食，等下食零食啦。",
       "jyutping": "ngo5 maai5 zo2 di1 ling4 sik6, dang2 haa6 sik6 ling4 sik6 laa1.",
       "meaning": "I bought some snacks, let's have a snack later.",
-      "sourceWordId": "sik6ling4sik6-have-snack",
+      "sourceWordId": "sik6ling4sik6-have-a-snack",
       "sourceWord": "食零食",
       "sourceWordJyutping": "sik6 ling4 sik6",
       "sourceWordMeaning": "have a snack",
@@ -1574,14 +1554,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sik6ling4sik6-have-snack.json"
+      "sourceFile": "r2-backup/words/sik6ling4sik6-have-a-snack.json"
     },
     {
-      "sentenceId": "zyu2faan6-cook-example-1",
+      "sentenceId": "zyu2faan6-cook-a-meal-example-1",
       "sentence": "我今晚要自己煮飯。",
       "jyutping": "ngo5 gam1 maan5 jiu3 zi6 gei2 zyu2 faan6.",
       "meaning": "I have to cook a meal myself tonight.",
-      "sourceWordId": "zyu2faan6-cook",
+      "sourceWordId": "zyu2faan6-cook-a-meal",
       "sourceWord": "煮飯",
       "sourceWordJyutping": "zyu2 faan6",
       "sourceWordMeaning": "cook a meal",
@@ -1593,14 +1573,14 @@
         "food",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu2faan6-cook.json"
+      "sourceFile": "r2-backup/words/zyu2faan6-cook-a-meal.json"
     },
     {
-      "sentenceId": "zyu2faan6-cook-example-2",
+      "sentenceId": "zyu2faan6-cook-a-meal-example-2",
       "sentence": "媽咪煮飯好好味。",
       "jyutping": "maa4 mi1 zyu2 faan6 hou2 hou2 mei6.",
       "meaning": "Mom's cooking tastes very good.",
-      "sourceWordId": "zyu2faan6-cook",
+      "sourceWordId": "zyu2faan6-cook-a-meal",
       "sourceWord": "煮飯",
       "sourceWordJyutping": "zyu2 faan6",
       "sourceWordMeaning": "cook a meal",
@@ -1612,14 +1592,14 @@
         "food",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu2faan6-cook.json"
+      "sourceFile": "r2-backup/words/zyu2faan6-cook-a-meal.json"
     },
     {
-      "sentenceId": "zyu2faan6-cook-example-3",
+      "sentenceId": "zyu2faan6-cook-a-meal-example-3",
       "sentence": "你識唔識煮飯？",
       "jyutping": "nei5 sik1 m4 sik1 zyu2 faan6?",
       "meaning": "Do you know how to cook a meal?",
-      "sourceWordId": "zyu2faan6-cook",
+      "sourceWordId": "zyu2faan6-cook-a-meal",
       "sourceWord": "煮飯",
       "sourceWordJyutping": "zyu2 faan6",
       "sourceWordMeaning": "cook a meal",
@@ -1631,14 +1611,14 @@
         "food",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu2faan6-cook.json"
+      "sourceFile": "r2-backup/words/zyu2faan6-cook-a-meal.json"
     },
     {
-      "sentenceId": "zyu2faan6-cook-example-4",
+      "sentenceId": "zyu2faan6-cook-a-meal-example-4",
       "sentence": "我哋今晚一齊煮飯囉。",
       "jyutping": "ngo5 dei6 gam1 maan5 jat1 cai4 zyu2 faan6 lo1.",
       "meaning": "Let's cook a meal together tonight.",
-      "sourceWordId": "zyu2faan6-cook",
+      "sourceWordId": "zyu2faan6-cook-a-meal",
       "sourceWord": "煮飯",
       "sourceWordJyutping": "zyu2 faan6",
       "sourceWordMeaning": "cook a meal",
@@ -1650,7 +1630,7 @@
         "food",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyu2faan6-cook.json"
+      "sourceFile": "r2-backup/words/zyu2faan6-cook-a-meal.json"
     },
     {
       "sentenceId": "sai2wun2-wash-dishes-example-1",
@@ -1729,11 +1709,11 @@
       "sourceFile": "r2-backup/words/sai2wun2-wash-dishes.json"
     },
     {
-      "sentenceId": "maai5sung3-buy-groceries-example-1",
+      "sentenceId": "maai5sung3-buy-ingredients-example-1",
       "sentence": "我今日要去買餸。",
       "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 maai5 sung3.",
       "meaning": "I need to buy ingredients today.",
-      "sourceWordId": "maai5sung3-buy-groceries",
+      "sourceWordId": "maai5sung3-buy-ingredients",
       "sourceWord": "買餸",
       "sourceWordJyutping": "maai5 sung3",
       "sourceWordMeaning": "buy ingredients",
@@ -1745,14 +1725,14 @@
         "routine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maai5sung3-buy-groceries.json"
+      "sourceFile": "r2-backup/words/maai5sung3-buy-ingredients.json"
     },
     {
-      "sentenceId": "maai5sung3-buy-groceries-example-2",
+      "sentenceId": "maai5sung3-buy-ingredients-example-2",
       "sentence": "買餸之後我會煮晚餐。",
       "jyutping": "maai5 sung3 zi1 hau6 ngo5 wui5 zyu2 maan5 caan1.",
       "meaning": "After buying groceries, I will cook dinner.",
-      "sourceWordId": "maai5sung3-buy-groceries",
+      "sourceWordId": "maai5sung3-buy-ingredients",
       "sourceWord": "買餸",
       "sourceWordJyutping": "maai5 sung3",
       "sourceWordMeaning": "buy ingredients",
@@ -1764,14 +1744,14 @@
         "routine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maai5sung3-buy-groceries.json"
+      "sourceFile": "r2-backup/words/maai5sung3-buy-ingredients.json"
     },
     {
-      "sentenceId": "maai5sung3-buy-groceries-example-3",
+      "sentenceId": "maai5sung3-buy-ingredients-example-3",
       "sentence": "媽媽習慣星期六買餸。",
       "jyutping": "maa4 maa1 zaap6 gwaan3 sing1 kei4 luk6 maai5 sung3.",
       "meaning": "Mom usually buys groceries on Saturday.",
-      "sourceWordId": "maai5sung3-buy-groceries",
+      "sourceWordId": "maai5sung3-buy-ingredients",
       "sourceWord": "買餸",
       "sourceWordJyutping": "maai5 sung3",
       "sourceWordMeaning": "buy ingredients",
@@ -1783,14 +1763,14 @@
         "routine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maai5sung3-buy-groceries.json"
+      "sourceFile": "r2-backup/words/maai5sung3-buy-ingredients.json"
     },
     {
-      "sentenceId": "maai5sung3-buy-groceries-example-4",
+      "sentenceId": "maai5sung3-buy-ingredients-example-4",
       "sentence": "你今晚想我買餸返嚟嗎？",
       "jyutping": "nei5 gam1 maan5 soeng2 ngo5 maai5 sung3 faan1 lai4 maa3?",
       "meaning": "Do you want me to buy groceries and bring them back tonight?",
-      "sourceWordId": "maai5sung3-buy-groceries",
+      "sourceWordId": "maai5sung3-buy-ingredients",
       "sourceWord": "買餸",
       "sourceWordJyutping": "maai5 sung3",
       "sourceWordMeaning": "buy ingredients",
@@ -1802,14 +1782,14 @@
         "routine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maai5sung3-buy-groceries.json"
+      "sourceFile": "r2-backup/words/maai5sung3-buy-ingredients.json"
     },
     {
-      "sentenceId": "zap1uk1-tidy-house-example-1",
+      "sentenceId": "zap1uk1-tidy-the-house-example-1",
       "sentence": "我今日要執屋。",
       "jyutping": "ngo5 gam1 jat6 jiu3 zap1 uk1",
       "meaning": "I need to tidy the house today.",
-      "sourceWordId": "zap1uk1-tidy-house",
+      "sourceWordId": "zap1uk1-tidy-the-house",
       "sourceWord": "執屋",
       "sourceWordJyutping": "zap1 uk1",
       "sourceWordMeaning": "tidy the house",
@@ -1821,14 +1801,14 @@
         "spoken Cantonese",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zap1uk1-tidy-house.json"
+      "sourceFile": "r2-backup/words/zap1uk1-tidy-the-house.json"
     },
     {
-      "sentenceId": "zap1uk1-tidy-house-example-2",
+      "sentenceId": "zap1uk1-tidy-the-house-example-2",
       "sentence": "聖誕前我哋要執屋。",
       "jyutping": "sing3 daan3 cin4 ngo5 dei6 jiu3 zap1 uk1",
       "meaning": "We need to tidy the house before Christmas.",
-      "sourceWordId": "zap1uk1-tidy-house",
+      "sourceWordId": "zap1uk1-tidy-the-house",
       "sourceWord": "執屋",
       "sourceWordJyutping": "zap1 uk1",
       "sourceWordMeaning": "tidy the house",
@@ -1840,14 +1820,14 @@
         "spoken Cantonese",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zap1uk1-tidy-house.json"
+      "sourceFile": "r2-backup/words/zap1uk1-tidy-the-house.json"
     },
     {
-      "sentenceId": "zap1uk1-tidy-house-example-3",
+      "sentenceId": "zap1uk1-tidy-the-house-example-3",
       "sentence": "媽咪，每個星期六都要執屋。",
       "jyutping": "maa4 mi1, mui5 go3 sing1 kei4 luk6 dou1 jiu3 zap1 uk1",
       "meaning": "Mom, every Saturday we have to tidy the house.",
-      "sourceWordId": "zap1uk1-tidy-house",
+      "sourceWordId": "zap1uk1-tidy-the-house",
       "sourceWord": "執屋",
       "sourceWordJyutping": "zap1 uk1",
       "sourceWordMeaning": "tidy the house",
@@ -1859,14 +1839,14 @@
         "spoken Cantonese",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zap1uk1-tidy-house.json"
+      "sourceFile": "r2-backup/words/zap1uk1-tidy-the-house.json"
     },
     {
-      "sentenceId": "zap1uk1-tidy-house-example-4",
+      "sentenceId": "zap1uk1-tidy-the-house-example-4",
       "sentence": "快啲執屋啦！",
       "jyutping": "faai3 di1 zap1 uk1 laa1",
       "meaning": "Hurry up and tidy the house!",
-      "sourceWordId": "zap1uk1-tidy-house",
+      "sourceWordId": "zap1uk1-tidy-the-house",
       "sourceWord": "執屋",
       "sourceWordJyutping": "zap1 uk1",
       "sourceWordMeaning": "tidy the house",
@@ -1878,7 +1858,7 @@
         "spoken Cantonese",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zap1uk1-tidy-house.json"
+      "sourceFile": "r2-backup/words/zap1uk1-tidy-the-house.json"
     },
     {
       "sentenceId": "sou3dei6-sweep-floor-example-1",
@@ -2109,11 +2089,11 @@
       "sourceFile": "r2-backup/words/sai2saam1-wash-clothes.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-1",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-1",
       "sentence": "我每日放工返屋企都要晾衫。",
       "jyutping": "ngo5 mui5 jat6 fong3 gung1 faan1 uk1 kei2 dou1 jiu3 long6 saam1.",
       "meaning": "I hang clothes to dry every day after work.",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -2125,14 +2105,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-2",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-2",
       "sentence": "今日太陽好大，快啲去晾衫啦！",
       "jyutping": "gam1 jat6 taai3 joeng4 hou2 daai6, faai3 di1 heoi3 long6 saam1 laa1!",
       "meaning": "The sun is strong today, go hang the clothes to dry quickly!",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -2144,14 +2124,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-3",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-3",
       "sentence": "媽媽教我點樣好好咁晾衫。",
       "jyutping": "maa4 maa1 gaau3 ngo5 dim2 joeng6 hou2 hou2 gam2 long6 saam1.",
       "meaning": "Mom taught me how to hang clothes properly.",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -2163,14 +2143,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-4",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-4",
       "sentence": "樓下嘅朋友晾衫晾到成間天。",
       "jyutping": "lau4 haa6 ge3 pang4 jau5 long6 saam1 long6 dou3 sing4 gaan1 tin1.",
       "meaning": "The neighbor downstairs hangs clothes all day long.",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -2182,7 +2162,7 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
       "sentenceId": "zip3saam1-fold-clothes-example-1",
@@ -2489,11 +2469,11 @@
       "sourceFile": "r2-backup/words/jau1sik1-rest.json"
     },
     {
-      "sentenceId": "saan3bou6-take-walk-example-1",
+      "sentenceId": "saan3bou6-take-a-walk-example-1",
       "sentence": "我每日晚上都去公園散步。",
       "jyutping": "ngo5 mui5 jat6 maan5 soeng6 dou1 heoi3 gung1 jyun4 saan3 bou6.",
       "meaning": "I go for a walk in the park every evening.",
-      "sourceWordId": "saan3bou6-take-walk",
+      "sourceWordId": "saan3bou6-take-a-walk",
       "sourceWord": "散步",
       "sourceWordJyutping": "saan3 bou6",
       "sourceWordMeaning": "take a walk",
@@ -2505,14 +2485,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan3bou6-take-walk.json"
+      "sourceFile": "r2-backup/words/saan3bou6-take-a-walk.json"
     },
     {
-      "sentenceId": "saan3bou6-take-walk-example-2",
+      "sentenceId": "saan3bou6-take-a-walk-example-2",
       "sentence": "天氣好，去散步啦！",
       "jyutping": "tin1 hei3 hou2, heoi3 saan3 bou6 laa1!",
       "meaning": "The weather is nice, let's go for a walk!",
-      "sourceWordId": "saan3bou6-take-walk",
+      "sourceWordId": "saan3bou6-take-a-walk",
       "sourceWord": "散步",
       "sourceWordJyutping": "saan3 bou6",
       "sourceWordMeaning": "take a walk",
@@ -2524,14 +2504,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan3bou6-take-walk.json"
+      "sourceFile": "r2-backup/words/saan3bou6-take-a-walk.json"
     },
     {
-      "sentenceId": "saan3bou6-take-walk-example-3",
+      "sentenceId": "saan3bou6-take-a-walk-example-3",
       "sentence": "佢鍾意散步散心。",
       "jyutping": "keoi5 zung1 ji3 saan3 bou6 saan3 sam1.",
       "meaning": "He likes to take a walk to relax.",
-      "sourceWordId": "saan3bou6-take-walk",
+      "sourceWordId": "saan3bou6-take-a-walk",
       "sourceWord": "散步",
       "sourceWordJyutping": "saan3 bou6",
       "sourceWordMeaning": "take a walk",
@@ -2543,14 +2523,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan3bou6-take-walk.json"
+      "sourceFile": "r2-backup/words/saan3bou6-take-a-walk.json"
     },
     {
-      "sentenceId": "saan3bou6-take-walk-example-4",
+      "sentenceId": "saan3bou6-take-a-walk-example-4",
       "sentence": "散步係一個好嘅休閒活動。",
       "jyutping": "saan3 bou6 hai6 jat1 go3 hou2 ge3 jau1 haan4 wut6 dung6.",
       "meaning": "Taking a walk is a good leisure activity.",
-      "sourceWordId": "saan3bou6-take-walk",
+      "sourceWordId": "saan3bou6-take-a-walk",
       "sourceWord": "散步",
       "sourceWordJyutping": "saan3 bou6",
       "sourceWordMeaning": "take a walk",
@@ -2562,7 +2542,7 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/saan3bou6-take-walk.json"
+      "sourceFile": "r2-backup/words/saan3bou6-take-a-walk.json"
     },
     {
       "sentenceId": "zou6wan6dung6-exercise-example-1",
@@ -2717,11 +2697,11 @@
       "sourceFile": "r2-backup/words/tai2din6si6-watch-tv.json"
     },
     {
-      "sentenceId": "teng1go1-listen-music-example-1",
+      "sentenceId": "teng1go1-listen-to-music-example-1",
       "sentence": "我每日返工返屋企都會聽歌。",
       "jyutping": "ngo5 mui5 jat6 faan1 gung1 faan1 uk1 kei2 dou1 wui5 teng1 go1.",
       "meaning": "I listen to music every day when I get home from work.",
-      "sourceWordId": "teng1go1-listen-music",
+      "sourceWordId": "teng1go1-listen-to-music",
       "sourceWord": "聽歌",
       "sourceWordJyutping": "teng1 go1",
       "sourceWordMeaning": "listen to music",
@@ -2733,14 +2713,14 @@
         "conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/teng1go1-listen-music.json"
+      "sourceFile": "r2-backup/words/teng1go1-listen-to-music.json"
     },
     {
-      "sentenceId": "teng1go1-listen-music-example-2",
+      "sentenceId": "teng1go1-listen-to-music-example-2",
       "sentence": "你鍾唔鍾意聽歌？",
       "jyutping": "nei5 zung1 m4 zung1 ji3 teng1 go1?",
       "meaning": "Do you like listening to music?",
-      "sourceWordId": "teng1go1-listen-music",
+      "sourceWordId": "teng1go1-listen-to-music",
       "sourceWord": "聽歌",
       "sourceWordJyutping": "teng1 go1",
       "sourceWordMeaning": "listen to music",
@@ -2752,14 +2732,14 @@
         "conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/teng1go1-listen-music.json"
+      "sourceFile": "r2-backup/words/teng1go1-listen-to-music.json"
     },
     {
-      "sentenceId": "teng1go1-listen-music-example-3",
+      "sentenceId": "teng1go1-listen-to-music-example-3",
       "sentence": "我喺咖啡店一邊飲嘢一邊聽歌。",
       "jyutping": "ngo5 hai2 gaa3 fe1 dim3 jat1 bin1 jam2 je5 jat1 bin1 teng1 go1.",
       "meaning": "I listen to music while drinking at the coffee shop.",
-      "sourceWordId": "teng1go1-listen-music",
+      "sourceWordId": "teng1go1-listen-to-music",
       "sourceWord": "聽歌",
       "sourceWordJyutping": "teng1 go1",
       "sourceWordMeaning": "listen to music",
@@ -2771,14 +2751,14 @@
         "conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/teng1go1-listen-music.json"
+      "sourceFile": "r2-backup/words/teng1go1-listen-to-music.json"
     },
     {
-      "sentenceId": "teng1go1-listen-music-example-4",
+      "sentenceId": "teng1go1-listen-to-music-example-4",
       "sentence": "今晚想唔想一齊去聽歌？",
       "jyutping": "gam1 maan5 soeng2 m4 soeng2 jat1 cai4 heui3 teng1 go1?",
       "meaning": "Do you want to go listen to music together tonight?",
-      "sourceWordId": "teng1go1-listen-music",
+      "sourceWordId": "teng1go1-listen-to-music",
       "sourceWord": "聽歌",
       "sourceWordJyutping": "teng1 go1",
       "sourceWordMeaning": "listen to music",
@@ -2790,14 +2770,14 @@
         "conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/teng1go1-listen-music.json"
+      "sourceFile": "r2-backup/words/teng1go1-listen-to-music.json"
     },
     {
-      "sentenceId": "tai2syu1-read-book-example-1",
+      "sentenceId": "tai2syu1-read-example-1",
       "sentence": "我每日都會響夜晚瞓覺前睇書。",
       "jyutping": "ngo5 mui5 jat6 dou1 wui5 hoeng3 je6 maan5 fan3 gaau3 cin4 tai2 syu1.",
       "meaning": "I read books every night before sleeping.",
-      "sourceWordId": "tai2syu1-read-book",
+      "sourceWordId": "tai2syu1-read",
       "sourceWord": "睇書",
       "sourceWordJyutping": "tai2 syu1",
       "sourceWordMeaning": "read",
@@ -2809,14 +2789,14 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2syu1-read-book.json"
+      "sourceFile": "r2-backup/words/tai2syu1-read.json"
     },
     {
-      "sentenceId": "tai2syu1-read-book-example-2",
+      "sentenceId": "tai2syu1-read-example-2",
       "sentence": "你鐘唔鐘意睇書呀？",
       "jyutping": "nei5 zung1 m4 zung1 ji3 tai2 syu1 aa3?",
       "meaning": "Do you like reading books?",
-      "sourceWordId": "tai2syu1-read-book",
+      "sourceWordId": "tai2syu1-read",
       "sourceWord": "睇書",
       "sourceWordJyutping": "tai2 syu1",
       "sourceWordMeaning": "read",
@@ -2828,14 +2808,14 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2syu1-read-book.json"
+      "sourceFile": "r2-backup/words/tai2syu1-read.json"
     },
     {
-      "sentenceId": "tai2syu1-read-book-example-3",
+      "sentenceId": "tai2syu1-read-example-3",
       "sentence": "佢而家喺圖書館度睇書。",
       "jyutping": "keoi5 ji4 gaa1 hai2 tou4 syu1 gun2 dou6 tai2 syu1.",
       "meaning": "He/She is reading a book in the library now.",
-      "sourceWordId": "tai2syu1-read-book",
+      "sourceWordId": "tai2syu1-read",
       "sourceWord": "睇書",
       "sourceWordJyutping": "tai2 syu1",
       "sourceWordMeaning": "read",
@@ -2847,14 +2827,14 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2syu1-read-book.json"
+      "sourceFile": "r2-backup/words/tai2syu1-read.json"
     },
     {
-      "sentenceId": "tai2syu1-read-book-example-4",
+      "sentenceId": "tai2syu1-read-example-4",
       "sentence": "放假我通常會喺屋企安靜咁睇書。",
       "jyutping": "fong3 gaa3 ngo5 tung1 soeng4 wui5 hai2 uk1 kei2 on1 zing6 gam2 tai2 syu1.",
       "meaning": "During holidays, I usually quietly read books at home.",
-      "sourceWordId": "tai2syu1-read-book",
+      "sourceWordId": "tai2syu1-read",
       "sourceWord": "睇書",
       "sourceWordJyutping": "tai2 syu1",
       "sourceWordMeaning": "read",
@@ -2866,90 +2846,90 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2syu1-read-book.json"
+      "sourceFile": "r2-backup/words/tai2syu1-read.json"
     },
     {
       "sentenceId": "soeng5mong5-go-online-example-1",
-      "sentence": "我每日都會上網睇新聞。",
-      "jyutping": "ngo5 mui5 jat6 dou1 wui5 soeng5 mong5 tai2 san1 man4.",
-      "meaning": "I go online every day to read the news.",
+      "sentence": "我而家想上網睇新聞。",
+      "jyutping": "ngo5 ji4gaa1 soeng2 soeng5 mong5 tai2 san1 man4.",
+      "meaning": "I want to go online to read the news now.",
       "sourceWordId": "soeng5mong5-go-online",
       "sourceWord": "上網",
       "sourceWordJyutping": "soeng5 mong5",
       "sourceWordMeaning": "go online",
       "tags": [
         "internet",
-        "daily routine",
         "technology",
-        "leisure",
-        "communication",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
     },
     {
       "sentenceId": "soeng5mong5-go-online-example-2",
-      "sentence": "你今晚想唔想上網玩遊戲？",
-      "jyutping": "nei5 gam1 maan5 soeng2 m4 soeng2 soeng5 mong5 waan2 jau4 hei3?",
-      "meaning": "Do you want to go online to play games tonight?",
+      "sentence": "你部電話可唔可以上網？",
+      "jyutping": "nei5 bou6 din6 waa2 ho2 m4 ho2 ji5 soeng5 mong5?",
+      "meaning": "Can your phone go online?",
       "sourceWordId": "soeng5mong5-go-online",
       "sourceWord": "上網",
       "sourceWordJyutping": "soeng5 mong5",
       "sourceWordMeaning": "go online",
       "tags": [
         "internet",
-        "daily routine",
         "technology",
-        "leisure",
-        "communication",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
     },
     {
       "sentenceId": "soeng5mong5-go-online-example-3",
-      "sentence": "屋企冇Wi-Fi，我就唔方便上網。",
-      "jyutping": "uk1 kei2 mou5 Wi-Fi, ngo5 zau6 m4 fong1 bin6 soeng5 mong5.",
-      "meaning": "There is no Wi-Fi at home, so I can’t easily go online.",
+      "sentence": "呢間咖啡店可以免費上網。",
+      "jyutping": "ni1 gaan1 gaa3 fe1 dim3 ho2 ji5 min5fei3 soeng5 mong5.",
+      "meaning": "This café has free internet access.",
       "sourceWordId": "soeng5mong5-go-online",
       "sourceWord": "上網",
       "sourceWordJyutping": "soeng5 mong5",
       "sourceWordMeaning": "go online",
       "tags": [
         "internet",
-        "daily routine",
         "technology",
-        "leisure",
-        "communication",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
     },
     {
       "sentenceId": "soeng5mong5-go-online-example-4",
-      "sentence": "放假嘅時候我鍾意喺咖啡室上網。",
-      "jyutping": "fong3 gaa3 ge3 si4 hau6 ngo5 zung1 ji3 hai2 kaa1 fe1 sat1 soeng5 mong5.",
-      "meaning": "I like to go online at the cafe during holidays.",
+      "sentence": "佢成日喺屋企上網打機。",
+      "jyutping": "keoi5 sing4 jat6 hai2 uk1 kei2 soeng5 mong5 daa2 gei1.",
+      "meaning": "He often goes online at home to play games.",
       "sourceWordId": "soeng5mong5-go-online",
       "sourceWord": "上網",
       "sourceWordJyutping": "soeng5 mong5",
       "sourceWordMeaning": "go online",
       "tags": [
         "internet",
-        "daily routine",
         "technology",
-        "leisure",
-        "communication",
+        "daily conversation",
+        "school",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/soeng5mong5-go-online.json"
     },
     {
-      "sentenceId": "fan3ngaan3gaau3-take-nap-example-1",
+      "sentenceId": "fan3ngaan3gaau3-take-a-nap-example-1",
       "sentence": "我今日好攰，想瞓晏覺。",
       "jyutping": "ngo5 gam1 jat6 hou2 gui6, soeng2 fan3 ngaan3 gaau3.",
       "meaning": "I'm very tired today, want to take a nap.",
-      "sourceWordId": "fan3ngaan3gaau3-take-nap",
+      "sourceWordId": "fan3ngaan3gaau3-take-a-nap",
       "sourceWord": "瞓晏覺",
       "sourceWordJyutping": "fan3 ngaan3 gaau3",
       "sourceWordMeaning": "take a nap",
@@ -2961,14 +2941,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-nap.json"
+      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-a-nap.json"
     },
     {
-      "sentenceId": "fan3ngaan3gaau3-take-nap-example-2",
+      "sentenceId": "fan3ngaan3gaau3-take-a-nap-example-2",
       "sentence": "屋企人每朝都會瞓晏覺。",
       "jyutping": "uk1 kei2 jan4 mui5 ziu1 dou1 wui5 fan3 ngaan3 gaau3.",
       "meaning": "Family members take a nap every afternoon.",
-      "sourceWordId": "fan3ngaan3gaau3-take-nap",
+      "sourceWordId": "fan3ngaan3gaau3-take-a-nap",
       "sourceWord": "瞓晏覺",
       "sourceWordJyutping": "fan3 ngaan3 gaau3",
       "sourceWordMeaning": "take a nap",
@@ -2980,14 +2960,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-nap.json"
+      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-a-nap.json"
     },
     {
-      "sentenceId": "fan3ngaan3gaau3-take-nap-example-3",
+      "sentenceId": "fan3ngaan3gaau3-take-a-nap-example-3",
       "sentence": "瞓晏覺幫助我下午有更多精神。",
       "jyutping": "fan3 ngaan3 gaau3 bong1 zo6 ngo5 haa6 ng5 jau5 gang1 do1 zing1 san4.",
       "meaning": "Taking a nap helps me have more energy in the afternoon.",
-      "sourceWordId": "fan3ngaan3gaau3-take-nap",
+      "sourceWordId": "fan3ngaan3gaau3-take-a-nap",
       "sourceWord": "瞓晏覺",
       "sourceWordJyutping": "fan3 ngaan3 gaau3",
       "sourceWordMeaning": "take a nap",
@@ -2999,14 +2979,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-nap.json"
+      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-a-nap.json"
     },
     {
-      "sentenceId": "fan3ngaan3gaau3-take-nap-example-4",
+      "sentenceId": "fan3ngaan3gaau3-take-a-nap-example-4",
       "sentence": "小朋友瞓晏覺爲咗補充體力。",
       "jyutping": "siu2 pang4 jau5 fan3 ngaan3 gaau3 wai6 zo2 bou2 cung1 tai2 lik6.",
       "meaning": "Kids take a nap to recharge their strength.",
-      "sourceWordId": "fan3ngaan3gaau3-take-nap",
+      "sourceWordId": "fan3ngaan3gaau3-take-a-nap",
       "sourceWord": "瞓晏覺",
       "sourceWordJyutping": "fan3 ngaan3 gaau3",
       "sourceWordMeaning": "take a nap",
@@ -3018,14 +2998,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-nap.json"
+      "sourceFile": "r2-backup/words/fan3ngaan3gaau3-take-a-nap.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-1",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-1",
       "sentence": "訓覺之前記住關燈。",
       "jyutping": "fan3 gaau3 zi1 cin4 gei3 zyu6 gwaan1 dang1.",
       "meaning": "Remember to turn off the light before sleeping.",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -3037,14 +3017,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-2",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-2",
       "sentence": "可以幫我關燈嗎？",
       "jyutping": "ho2 ji5 bong1 ngo5 gwaan1 dang1 maa3?",
       "meaning": "Can you help me turn off the light?",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -3056,14 +3036,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-3",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-3",
       "sentence": "出門時要關燈。",
       "jyutping": "ceot1 mun4 si4 jiu3 gwaan1 dang1.",
       "meaning": "You need to turn off the light when going out.",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -3075,14 +3055,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-4",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-4",
       "sentence": "佢已經關燈瞓覺喇。",
       "jyutping": "keoi5 ji5 ging1 gwaan1 dang1 fan3 gaau3 laa3.",
       "meaning": "He already turned off the light and is sleeping.",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -3094,7 +3074,7 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
       "sentenceId": "soeng5cong4-go-to-bed-example-1",
@@ -3249,11 +3229,11 @@
       "sourceFile": "r2-backup/words/fan3gaau3-sleep.json"
     },
     {
-      "sentenceId": "zou2di1fan3-sleep-early-example-1",
+      "sentenceId": "zou2di1fan3-go-to-bed-early-example-1",
       "sentence": "你今日最好早啲瞓。",
       "jyutping": "nei5 gam1 jat6 zeoi3 hou2 zou2 di1 fan3.",
       "meaning": "You’d better go to bed early today.",
-      "sourceWordId": "zou2di1fan3-sleep-early",
+      "sourceWordId": "zou2di1fan3-go-to-bed-early",
       "sourceWord": "早啲瞓",
       "sourceWordJyutping": "zou2 di1 fan3",
       "sourceWordMeaning": "go to bed early",
@@ -3265,14 +3245,14 @@
         "sleep",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2di1fan3-sleep-early.json"
+      "sourceFile": "r2-backup/words/zou2di1fan3-go-to-bed-early.json"
     },
     {
-      "sentenceId": "zou2di1fan3-sleep-early-example-2",
+      "sentenceId": "zou2di1fan3-go-to-bed-early-example-2",
       "sentence": "細路仔要早啲瞓先健康。",
       "jyutping": "sai3 lou6 zai2 jiu3 zou2 di1 fan3 sin1 gin6 hong1.",
       "meaning": "Kids need to go to bed early to be healthy.",
-      "sourceWordId": "zou2di1fan3-sleep-early",
+      "sourceWordId": "zou2di1fan3-go-to-bed-early",
       "sourceWord": "早啲瞓",
       "sourceWordJyutping": "zou2 di1 fan3",
       "sourceWordMeaning": "go to bed early",
@@ -3284,14 +3264,14 @@
         "sleep",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2di1fan3-sleep-early.json"
+      "sourceFile": "r2-backup/words/zou2di1fan3-go-to-bed-early.json"
     },
     {
-      "sentenceId": "zou2di1fan3-sleep-early-example-3",
+      "sentenceId": "zou2di1fan3-go-to-bed-early-example-3",
       "sentence": "我今晚打算早啲瞓。",
       "jyutping": "ngo5 gam1 maan5 daa2 syun3 zou2 di1 fan3.",
       "meaning": "I plan to sleep early tonight.",
-      "sourceWordId": "zou2di1fan3-sleep-early",
+      "sourceWordId": "zou2di1fan3-go-to-bed-early",
       "sourceWord": "早啲瞓",
       "sourceWordJyutping": "zou2 di1 fan3",
       "sourceWordMeaning": "go to bed early",
@@ -3303,14 +3283,14 @@
         "sleep",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2di1fan3-sleep-early.json"
+      "sourceFile": "r2-backup/words/zou2di1fan3-go-to-bed-early.json"
     },
     {
-      "sentenceId": "zou2di1fan3-sleep-early-example-4",
+      "sentenceId": "zou2di1fan3-go-to-bed-early-example-4",
       "sentence": "你成日夜晚先瞓，唔好，應該早啲瞓。",
       "jyutping": "nei5 sing4 jat6 je6 maan5 sin1 fan3, m4 hou2, jing1 goi1 zou2 di1 fan3.",
       "meaning": "You always sleep late at night, not good, you should sleep early.",
-      "sourceWordId": "zou2di1fan3-sleep-early",
+      "sourceWordId": "zou2di1fan3-go-to-bed-early",
       "sourceWord": "早啲瞓",
       "sourceWordJyutping": "zou2 di1 fan3",
       "sourceWordMeaning": "go to bed early",
@@ -3322,7 +3302,7 @@
         "sleep",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2di1fan3-sleep-early.json"
+      "sourceFile": "r2-backup/words/zou2di1fan3-go-to-bed-early.json"
     },
     {
       "sentenceId": "gwaan1mun4-close-door-example-1",
@@ -3402,72 +3382,80 @@
     },
     {
       "sentenceId": "fong3sung1-relax-example-1",
-      "sentence": "我下班後鍾意去行街放鬆。",
-      "jyutping": "ngo5 haa6 baan1 hau6 zung1 ji3 heoi3 haang4 gaai1 fong3 sung1.",
-      "meaning": "I like to go shopping to relax after work.",
+      "sentence": "我放工之後鍾意聽歌放鬆一下。",
+      "jyutping": "ngo5 fong3 gung1 zi1 hau6 zung1 ji3 teng1 go1 fong3 sung1 jat1 haa6.",
+      "meaning": "After work, I like listening to music to relax a bit.",
       "sourceWordId": "fong3sung1-relax",
       "sourceWord": "放鬆",
       "sourceWordJyutping": "fong3 sung1",
       "sourceWordMeaning": "relax",
       "tags": [
-        "daily life",
-        "bedtime routine",
-        "health",
+        "hobbies",
+        "interests",
+        "self-care",
         "stress relief",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3sung1-relax.json"
     },
     {
       "sentenceId": "fong3sung1-relax-example-2",
-      "sentence": "聽音樂可以令我好快放鬆。",
-      "jyutping": "teng1 jam1 ngok6 ho2 ji5 ling6 ngo5 hou2 faai3 fong3 sung1.",
-      "meaning": "Listening to music can help me relax quickly.",
+      "sentence": "周末我會去行山，順便放鬆心情。",
+      "jyutping": "zau1 mat6 ngo5 wui5 heoi3 haang4 saan1, seon6 bin6 fong3 sung1 sam1 cing4.",
+      "meaning": "On weekends I go hiking and relax my mind at the same time.",
       "sourceWordId": "fong3sung1-relax",
       "sourceWord": "放鬆",
       "sourceWordJyutping": "fong3 sung1",
       "sourceWordMeaning": "relax",
       "tags": [
-        "daily life",
-        "bedtime routine",
-        "health",
+        "hobbies",
+        "interests",
+        "self-care",
         "stress relief",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3sung1-relax.json"
     },
     {
       "sentenceId": "fong3sung1-relax-example-3",
-      "sentence": "放鬆對身體有好處。",
-      "jyutping": "fong3 sung1 deoi3 san1 tai2 jau5 hou2 ceoi3.",
-      "meaning": "Relaxing is good for the body.",
+      "sentence": "你做完功課，可以休息一下，放鬆啲。",
+      "jyutping": "nei5 zou6 jyun4 gung1 fo3, ho2 ji5 jau1 sik1 jat1 haa6, fong3 sung1 di1.",
+      "meaning": "After finishing your homework, you can rest a bit and relax more.",
       "sourceWordId": "fong3sung1-relax",
       "sourceWord": "放鬆",
       "sourceWordJyutping": "fong3 sung1",
       "sourceWordMeaning": "relax",
       "tags": [
-        "daily life",
-        "bedtime routine",
-        "health",
+        "hobbies",
+        "interests",
+        "self-care",
         "stress relief",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3sung1-relax.json"
     },
     {
       "sentenceId": "fong3sung1-relax-example-4",
-      "sentence": "今晚我哋一齊睇戲放鬆吓啦。",
-      "jyutping": "gam1 maan5 ngo5 dei6 jat1 cai4 tai2 hei3 fong3 sung1 haa5 laa1.",
-      "meaning": "Tonight let's watch a movie together to relax.",
+      "sentence": "佢一聽到假期就即刻放鬆晒。",
+      "jyutping": "keoi5 jat1 teng1 dou3 gaa2 kei4 zau6 zik1 haak1 fong3 sung1 saai3.",
+      "meaning": "As soon as he heard about the holiday, he immediately relaxed.",
       "sourceWordId": "fong3sung1-relax",
       "sourceWord": "放鬆",
       "sourceWordJyutping": "fong3 sung1",
       "sourceWordMeaning": "relax",
       "tags": [
-        "daily life",
-        "bedtime routine",
-        "health",
+        "hobbies",
+        "interests",
+        "self-care",
         "stress relief",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fong3sung1-relax.json"

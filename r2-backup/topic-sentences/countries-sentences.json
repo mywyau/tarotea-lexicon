@@ -519,9 +519,9 @@
     },
     {
       "sentenceId": "jat6bun2-japan-example-4",
-      "sentence": "你識唔識日本文化？",
-      "jyutping": "nei5 sik1 m4 sik1 jat6 bun2 man4 faa3?",
-      "meaning": "Do you know about Japanese culture?",
+      "sentence": "你對日本文化熟唔熟？",
+      "jyutping": "nei5 deoi3 jat6 bun2 man4 faa3 suk6 m4 suk6?",
+      "meaning": "Are you familiar with Japanese culture?",
       "sourceWordId": "jat6bun2-japan",
       "sourceWord": "日本",
       "sourceWordJyutping": "jat6 bun2",
@@ -765,11 +765,11 @@
       "sourceFile": "r2-backup/words/bak1hon4-north-korea.json"
     },
     {
-      "sentenceId": "sing1gaa1bo1-singapore-example-1",
+      "sentenceId": "san1gaa1bo1-singapore-example-1",
       "sentence": "我去過新加坡旅行。",
       "jyutping": "ngo5 heoi3 gwo3 san1 gaa1 bo1 leoi5 hang4.",
       "meaning": "I have traveled to Singapore.",
-      "sourceWordId": "sing1gaa1bo1-singapore",
+      "sourceWordId": "san1gaa1bo1-singapore",
       "sourceWord": "新加坡",
       "sourceWordJyutping": "san1 gaa1 bo1",
       "sourceWordMeaning": "Singapore",
@@ -781,14 +781,14 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sing1gaa1bo1-singapore.json"
+      "sourceFile": "r2-backup/words/san1gaa1bo1-singapore.json"
     },
     {
-      "sentenceId": "sing1gaa1bo1-singapore-example-2",
+      "sentenceId": "san1gaa1bo1-singapore-example-2",
       "sentence": "新加坡好熱，好多人。",
       "jyutping": "san1 gaa1 bo1 hou2 jit6, hou2 do1 jan4.",
       "meaning": "Singapore is hot and has many people.",
-      "sourceWordId": "sing1gaa1bo1-singapore",
+      "sourceWordId": "san1gaa1bo1-singapore",
       "sourceWord": "新加坡",
       "sourceWordJyutping": "san1 gaa1 bo1",
       "sourceWordMeaning": "Singapore",
@@ -800,14 +800,14 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sing1gaa1bo1-singapore.json"
+      "sourceFile": "r2-backup/words/san1gaa1bo1-singapore.json"
     },
     {
-      "sentenceId": "sing1gaa1bo1-singapore-example-3",
+      "sentenceId": "san1gaa1bo1-singapore-example-3",
       "sentence": "你想唔想去新加坡食嘢？",
       "jyutping": "nei5 soeng2 m4 soeng2 heoi3 san1 gaa1 bo1 sik6 je5?",
       "meaning": "Do you want to go to Singapore to eat?",
-      "sourceWordId": "sing1gaa1bo1-singapore",
+      "sourceWordId": "san1gaa1bo1-singapore",
       "sourceWord": "新加坡",
       "sourceWordJyutping": "san1 gaa1 bo1",
       "sourceWordMeaning": "Singapore",
@@ -819,14 +819,14 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sing1gaa1bo1-singapore.json"
+      "sourceFile": "r2-backup/words/san1gaa1bo1-singapore.json"
     },
     {
-      "sentenceId": "sing1gaa1bo1-singapore-example-4",
+      "sentenceId": "san1gaa1bo1-singapore-example-4",
       "sentence": "佢係新加坡人。",
       "jyutping": "keoi5 hai6 san1 gaa1 bo1 jan4.",
       "meaning": "He/She is Singaporean.",
-      "sourceWordId": "sing1gaa1bo1-singapore",
+      "sourceWordId": "san1gaa1bo1-singapore",
       "sourceWord": "新加坡",
       "sourceWordJyutping": "san1 gaa1 bo1",
       "sourceWordMeaning": "Singapore",
@@ -838,7 +838,7 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sing1gaa1bo1-singapore.json"
+      "sourceFile": "r2-backup/words/san1gaa1bo1-singapore.json"
     },
     {
       "sentenceId": "taai3gwok3-thailand-example-1",
@@ -917,11 +917,11 @@
       "sourceFile": "r2-backup/words/taai3gwok3-thailand.json"
     },
     {
-      "sentenceId": "jan3dou1-india-example-1",
+      "sentenceId": "jan3dou6-india-example-1",
       "sentence": "我想去印度旅行。",
       "jyutping": "ngo5 soeng2 heoi3 jan3 dou6 leoi5 hang4.",
       "meaning": "I want to travel to India.",
-      "sourceWordId": "jan3dou1-india",
+      "sourceWordId": "jan3dou6-india",
       "sourceWord": "印度",
       "sourceWordJyutping": "jan3 dou6",
       "sourceWordMeaning": "India",
@@ -933,14 +933,14 @@
         "culture",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1-india.json"
+      "sourceFile": "r2-backup/words/jan3dou6-india.json"
     },
     {
-      "sentenceId": "jan3dou1-india-example-2",
+      "sentenceId": "jan3dou6-india-example-2",
       "sentence": "印度有好多傳統節日。",
       "jyutping": "jan3 dou6 jau5 hou2 do1 cyun4 tung2 zit3 jat6.",
       "meaning": "India has many traditional festivals.",
-      "sourceWordId": "jan3dou1-india",
+      "sourceWordId": "jan3dou6-india",
       "sourceWord": "印度",
       "sourceWordJyutping": "jan3 dou6",
       "sourceWordMeaning": "India",
@@ -952,14 +952,14 @@
         "culture",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1-india.json"
+      "sourceFile": "r2-backup/words/jan3dou6-india.json"
     },
     {
-      "sentenceId": "jan3dou1-india-example-3",
+      "sentenceId": "jan3dou6-india-example-3",
       "sentence": "佢係印度人。",
       "jyutping": "keoi5 hai6 jan3 dou6 jan4.",
       "meaning": "He/She is Indian.",
-      "sourceWordId": "jan3dou1-india",
+      "sourceWordId": "jan3dou6-india",
       "sourceWord": "印度",
       "sourceWordJyutping": "jan3 dou6",
       "sourceWordMeaning": "India",
@@ -971,14 +971,14 @@
         "culture",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1-india.json"
+      "sourceFile": "r2-backup/words/jan3dou6-india.json"
     },
     {
-      "sentenceId": "jan3dou1-india-example-4",
+      "sentenceId": "jan3dou6-india-example-4",
       "sentence": "印度咖喱好味。",
       "jyutping": "jan3 dou6 gaa3 lei1 hou2 mei6.",
       "meaning": "Indian curry is delicious.",
-      "sourceWordId": "jan3dou1-india",
+      "sourceWordId": "jan3dou6-india",
       "sourceWord": "印度",
       "sourceWordJyutping": "jan3 dou6",
       "sourceWordMeaning": "India",
@@ -990,7 +990,7 @@
         "culture",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1-india.json"
+      "sourceFile": "r2-backup/words/jan3dou6-india.json"
     },
     {
       "sentenceId": "fei1leot6ban1-philippines-example-1",
@@ -1221,11 +1221,11 @@
       "sourceFile": "r2-backup/words/jan3nei4-indonesia.json"
     },
     {
-      "sentenceId": "jan3dou1nei4sai1aa3-indonesia-formal-example-1",
+      "sentenceId": "jan3dou6nei4sai1aa3-indonesia-formal-example-1",
       "sentence": "我下年會去印度尼西亞旅遊。",
       "jyutping": "ngo5 haa6 nin4 wui5 heoi3 jan3 dou6 nei4 sai1 aa3 leoi5 jau4.",
       "meaning": "I will travel to Indonesia next year.",
-      "sourceWordId": "jan3dou1nei4sai1aa3-indonesia-formal",
+      "sourceWordId": "jan3dou6nei4sai1aa3-indonesia-formal",
       "sourceWord": "印度尼西亞",
       "sourceWordJyutping": "jan3 dou6 nei4 sai1 aa3",
       "sourceWordMeaning": "Indonesia (formal)",
@@ -1237,14 +1237,14 @@
         "nationality",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1nei4sai1aa3-indonesia-formal.json"
+      "sourceFile": "r2-backup/words/jan3dou6nei4sai1aa3-indonesia-formal.json"
     },
     {
-      "sentenceId": "jan3dou1nei4sai1aa3-indonesia-formal-example-2",
+      "sentenceId": "jan3dou6nei4sai1aa3-indonesia-formal-example-2",
       "sentence": "印度尼西亞有好多島嶼。",
       "jyutping": "jan3 dou6 nei4 sai1 aa3 jau5 hou2 do1 dou2 jyu5.",
       "meaning": "Indonesia has many islands.",
-      "sourceWordId": "jan3dou1nei4sai1aa3-indonesia-formal",
+      "sourceWordId": "jan3dou6nei4sai1aa3-indonesia-formal",
       "sourceWord": "印度尼西亞",
       "sourceWordJyutping": "jan3 dou6 nei4 sai1 aa3",
       "sourceWordMeaning": "Indonesia (formal)",
@@ -1256,14 +1256,14 @@
         "nationality",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1nei4sai1aa3-indonesia-formal.json"
+      "sourceFile": "r2-backup/words/jan3dou6nei4sai1aa3-indonesia-formal.json"
     },
     {
-      "sentenceId": "jan3dou1nei4sai1aa3-indonesia-formal-example-3",
+      "sentenceId": "jan3dou6nei4sai1aa3-indonesia-formal-example-3",
       "sentence": "佢係印度尼西亞人，講印尼語。",
       "jyutping": "keoi5 hai6 jan3 dou6 nei4 sai1 aa3 jan4, gong2 jan3 nei4 jyu5.",
       "meaning": "He is Indonesian and speaks Indonesian.",
-      "sourceWordId": "jan3dou1nei4sai1aa3-indonesia-formal",
+      "sourceWordId": "jan3dou6nei4sai1aa3-indonesia-formal",
       "sourceWord": "印度尼西亞",
       "sourceWordJyutping": "jan3 dou6 nei4 sai1 aa3",
       "sourceWordMeaning": "Indonesia (formal)",
@@ -1275,14 +1275,14 @@
         "nationality",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1nei4sai1aa3-indonesia-formal.json"
+      "sourceFile": "r2-backup/words/jan3dou6nei4sai1aa3-indonesia-formal.json"
     },
     {
-      "sentenceId": "jan3dou1nei4sai1aa3-indonesia-formal-example-4",
+      "sentenceId": "jan3dou6nei4sai1aa3-indonesia-formal-example-4",
       "sentence": "印度尼西亞嘅文化好豐富。",
       "jyutping": "jan3 dou6 nei4 sai1 aa3 ge3 man4 faa3 hou2 fung1 fu3.",
       "meaning": "Indonesia's culture is very rich.",
-      "sourceWordId": "jan3dou1nei4sai1aa3-indonesia-formal",
+      "sourceWordId": "jan3dou6nei4sai1aa3-indonesia-formal",
       "sourceWord": "印度尼西亞",
       "sourceWordJyutping": "jan3 dou6 nei4 sai1 aa3",
       "sourceWordMeaning": "Indonesia (formal)",
@@ -1294,7 +1294,7 @@
         "nationality",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jan3dou1nei4sai1aa3-indonesia-formal.json"
+      "sourceFile": "r2-backup/words/jan3dou6nei4sai1aa3-indonesia-formal.json"
     },
     {
       "sentenceId": "jyut6naam4-vietnam-example-1",
@@ -3113,11 +3113,11 @@
       "sourceFile": "r2-backup/words/mak6sai1go1-mexico.json"
     },
     {
-      "sentenceId": "a3ting4zan1naa4-argentina-example-1",
+      "sentenceId": "aa3gan1ting4-argentina-example-1",
       "sentence": "我想去阿根廷旅行。",
       "jyutping": "ngo5 soeng2 heoi3 aa3 gan1 ting4 leoi5 hang4.",
       "meaning": "I want to travel to Argentina.",
-      "sourceWordId": "a3ting4zan1naa4-argentina",
+      "sourceWordId": "aa3gan1ting4-argentina",
       "sourceWord": "阿根廷",
       "sourceWordJyutping": "aa3 gan1 ting4",
       "sourceWordMeaning": "Argentina",
@@ -3129,14 +3129,14 @@
         "America",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/a3ting4zan1naa4-argentina.json"
+      "sourceFile": "r2-backup/words/aa3gan1ting4-argentina.json"
     },
     {
-      "sentenceId": "a3ting4zan1naa4-argentina-example-2",
+      "sentenceId": "aa3gan1ting4-argentina-example-2",
       "sentence": "阿根廷出咗一位足球明星。",
       "jyutping": "aa3 gan1 ting4 ceot1 zo2 jat1 wai2 zuk1 kau4 ming4 sing1.",
       "meaning": "Argentina produced a football star.",
-      "sourceWordId": "a3ting4zan1naa4-argentina",
+      "sourceWordId": "aa3gan1ting4-argentina",
       "sourceWord": "阿根廷",
       "sourceWordJyutping": "aa3 gan1 ting4",
       "sourceWordMeaning": "Argentina",
@@ -3148,14 +3148,14 @@
         "America",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/a3ting4zan1naa4-argentina.json"
+      "sourceFile": "r2-backup/words/aa3gan1ting4-argentina.json"
     },
     {
-      "sentenceId": "a3ting4zan1naa4-argentina-example-3",
+      "sentenceId": "aa3gan1ting4-argentina-example-3",
       "sentence": "依家阿根廷嘅天氣幾好。",
       "jyutping": "ji1 gaa1 aa3 gan1 ting4 ge3 tin1 hei3 gei2 hou2.",
       "meaning": "The weather in Argentina is quite good right now.",
-      "sourceWordId": "a3ting4zan1naa4-argentina",
+      "sourceWordId": "aa3gan1ting4-argentina",
       "sourceWord": "阿根廷",
       "sourceWordJyutping": "aa3 gan1 ting4",
       "sourceWordMeaning": "Argentina",
@@ -3167,14 +3167,14 @@
         "America",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/a3ting4zan1naa4-argentina.json"
+      "sourceFile": "r2-backup/words/aa3gan1ting4-argentina.json"
     },
     {
-      "sentenceId": "a3ting4zan1naa4-argentina-example-4",
+      "sentenceId": "aa3gan1ting4-argentina-example-4",
       "sentence": "你對阿根廷文化熟唔熟？",
       "jyutping": "nei5 deoi3 aa3 gan1 ting4 man4 faa3 suk6 m4 suk6?",
       "meaning": "Are you familiar with Argentine culture?",
-      "sourceWordId": "a3ting4zan1naa4-argentina",
+      "sourceWordId": "aa3gan1ting4-argentina",
       "sourceWord": "阿根廷",
       "sourceWordJyutping": "aa3 gan1 ting4",
       "sourceWordMeaning": "Argentina",
@@ -3186,14 +3186,14 @@
         "America",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/a3ting4zan1naa4-argentina.json"
+      "sourceFile": "r2-backup/words/aa3gan1ting4-argentina.json"
     },
     {
-      "sentenceId": "ci1lei6-chile-example-1",
+      "sentenceId": "zi3lei6-chile-example-1",
       "sentence": "我想去智利旅行。",
       "jyutping": "ngo5 soeng2 heoi3 zi3 lei6 leoi5 hang4",
       "meaning": "I want to travel to Chile.",
-      "sourceWordId": "ci1lei6-chile",
+      "sourceWordId": "zi3lei6-chile",
       "sourceWord": "智利",
       "sourceWordJyutping": "zi3 lei6",
       "sourceWordMeaning": "Chile",
@@ -3205,14 +3205,14 @@
         "proper noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci1lei6-chile.json"
+      "sourceFile": "r2-backup/words/zi3lei6-chile.json"
     },
     {
-      "sentenceId": "ci1lei6-chile-example-2",
+      "sentenceId": "zi3lei6-chile-example-2",
       "sentence": "智利好出名有好多好酒。",
       "jyutping": "zi3 lei6 hou2 ceot1 ming4 jau5 hou2 do1 hou2 zau2",
       "meaning": "Chile is famous for having a lot of good wine.",
-      "sourceWordId": "ci1lei6-chile",
+      "sourceWordId": "zi3lei6-chile",
       "sourceWord": "智利",
       "sourceWordJyutping": "zi3 lei6",
       "sourceWordMeaning": "Chile",
@@ -3224,14 +3224,14 @@
         "proper noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci1lei6-chile.json"
+      "sourceFile": "r2-backup/words/zi3lei6-chile.json"
     },
     {
-      "sentenceId": "ci1lei6-chile-example-3",
+      "sentenceId": "zi3lei6-chile-example-3",
       "sentence": "你識唔識講智利語？",
       "jyutping": "nei5 sik1 m4 sik1 gong2 zi3 lei6 jyu5",
       "meaning": "Do you know how to speak Chilean?",
-      "sourceWordId": "ci1lei6-chile",
+      "sourceWordId": "zi3lei6-chile",
       "sourceWord": "智利",
       "sourceWordJyutping": "zi3 lei6",
       "sourceWordMeaning": "Chile",
@@ -3243,14 +3243,14 @@
         "proper noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci1lei6-chile.json"
+      "sourceFile": "r2-backup/words/zi3lei6-chile.json"
     },
     {
-      "sentenceId": "ci1lei6-chile-example-4",
+      "sentenceId": "zi3lei6-chile-example-4",
       "sentence": "智利嘅風景好靚。",
       "jyutping": "zi3 lei6 ge3 fung1 ging2 hou2 leng3",
       "meaning": "Chile’s scenery is very beautiful.",
-      "sourceWordId": "ci1lei6-chile",
+      "sourceWordId": "zi3lei6-chile",
       "sourceWord": "智利",
       "sourceWordJyutping": "zi3 lei6",
       "sourceWordMeaning": "Chile",
@@ -3262,7 +3262,7 @@
         "proper noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci1lei6-chile.json"
+      "sourceFile": "r2-backup/words/zi3lei6-chile.json"
     },
     {
       "sentenceId": "bei3lou5-peru-example-1",
@@ -3569,11 +3569,11 @@
       "sourceFile": "r2-backup/words/ou3zau1-australia.json"
     },
     {
-      "sentenceId": "san1zai1laan4-new-zealand-example-1",
+      "sentenceId": "san1sai1laan4-new-zealand-example-1",
       "sentence": "我想去新西蘭旅行。",
       "jyutping": "ngo5 soeng2 heoi3 san1 sai1 laan4 leoi5 hang4",
       "meaning": "I want to travel to New Zealand.",
-      "sourceWordId": "san1zai1laan4-new-zealand",
+      "sourceWordId": "san1sai1laan4-new-zealand",
       "sourceWord": "新西蘭",
       "sourceWordJyutping": "san1 sai1 laan4",
       "sourceWordMeaning": "New Zealand",
@@ -3584,14 +3584,14 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/san1zai1laan4-new-zealand.json"
+      "sourceFile": "r2-backup/words/san1sai1laan4-new-zealand.json"
     },
     {
-      "sentenceId": "san1zai1laan4-new-zealand-example-2",
+      "sentenceId": "san1sai1laan4-new-zealand-example-2",
       "sentence": "新西蘭好靚，有好多山同湖。",
       "jyutping": "san1 sai1 laan4 hou2 leng3, jau5 hou2 do1 saan1 tung4 wu4",
       "meaning": "New Zealand is beautiful, with many mountains and lakes.",
-      "sourceWordId": "san1zai1laan4-new-zealand",
+      "sourceWordId": "san1sai1laan4-new-zealand",
       "sourceWord": "新西蘭",
       "sourceWordJyutping": "san1 sai1 laan4",
       "sourceWordMeaning": "New Zealand",
@@ -3602,14 +3602,14 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/san1zai1laan4-new-zealand.json"
+      "sourceFile": "r2-backup/words/san1sai1laan4-new-zealand.json"
     },
     {
-      "sentenceId": "san1zai1laan4-new-zealand-example-3",
+      "sentenceId": "san1sai1laan4-new-zealand-example-3",
       "sentence": "我朋友係新西蘭人。",
       "jyutping": "ngo5 pang4 jau5 hai6 san1 sai1 laan4 jan4",
       "meaning": "My friend is a New Zealander.",
-      "sourceWordId": "san1zai1laan4-new-zealand",
+      "sourceWordId": "san1sai1laan4-new-zealand",
       "sourceWord": "新西蘭",
       "sourceWordJyutping": "san1 sai1 laan4",
       "sourceWordMeaning": "New Zealand",
@@ -3620,14 +3620,14 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/san1zai1laan4-new-zealand.json"
+      "sourceFile": "r2-backup/words/san1sai1laan4-new-zealand.json"
     },
     {
-      "sentenceId": "san1zai1laan4-new-zealand-example-4",
+      "sentenceId": "san1sai1laan4-new-zealand-example-4",
       "sentence": "新西蘭嘅奶製品好出名。",
       "jyutping": "san1 sai1 laan4 ge3 naai5 zai3 ban2 hou2 ceot1 meng4",
       "meaning": "New Zealand’s dairy products are very famous.",
-      "sourceWordId": "san1zai1laan4-new-zealand",
+      "sourceWordId": "san1sai1laan4-new-zealand",
       "sourceWord": "新西蘭",
       "sourceWordJyutping": "san1 sai1 laan4",
       "sourceWordMeaning": "New Zealand",
@@ -3638,7 +3638,7 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/san1zai1laan4-new-zealand.json"
+      "sourceFile": "r2-backup/words/san1sai1laan4-new-zealand.json"
     },
     {
       "sentenceId": "fei1zai3-fiji-example-1",
@@ -4097,11 +4097,11 @@
       "sourceFile": "r2-backup/words/hang2nei4aa3-kenya.json"
     },
     {
-      "sentenceId": "mou5lok3go1-morocco-example-1",
+      "sentenceId": "mo1lok3go1-morocco-example-1",
       "sentence": "我朋友係摩洛哥人。",
       "jyutping": "ngo5 pang4 jau5 hai6 mo1 lok3 go1 jan4.",
       "meaning": "My friend is Moroccan.",
-      "sourceWordId": "mou5lok3go1-morocco",
+      "sourceWordId": "mo1lok3go1-morocco",
       "sourceWord": "摩洛哥",
       "sourceWordJyutping": "mo1 lok3 go1",
       "sourceWordMeaning": "Morocco",
@@ -4113,14 +4113,14 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mou5lok3go1-morocco.json"
+      "sourceFile": "r2-backup/words/mo1lok3go1-morocco.json"
     },
     {
-      "sentenceId": "mou5lok3go1-morocco-example-2",
+      "sentenceId": "mo1lok3go1-morocco-example-2",
       "sentence": "你有冇去過摩洛哥？",
       "jyutping": "nei5 jau5 mou5 heoi3 gwo3 mo1 lok3 go1?",
       "meaning": "Have you ever been to Morocco?",
-      "sourceWordId": "mou5lok3go1-morocco",
+      "sourceWordId": "mo1lok3go1-morocco",
       "sourceWord": "摩洛哥",
       "sourceWordJyutping": "mo1 lok3 go1",
       "sourceWordMeaning": "Morocco",
@@ -4132,14 +4132,14 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mou5lok3go1-morocco.json"
+      "sourceFile": "r2-backup/words/mo1lok3go1-morocco.json"
     },
     {
-      "sentenceId": "mou5lok3go1-morocco-example-3",
+      "sentenceId": "mo1lok3go1-morocco-example-3",
       "sentence": "摩洛哥有好多古老嘅城市。",
       "jyutping": "mo1 lok3 go1 jau5 hou2 do1 gu2 lou5 ge3 sing4 si5.",
       "meaning": "Morocco has many ancient cities.",
-      "sourceWordId": "mou5lok3go1-morocco",
+      "sourceWordId": "mo1lok3go1-morocco",
       "sourceWord": "摩洛哥",
       "sourceWordJyutping": "mo1 lok3 go1",
       "sourceWordMeaning": "Morocco",
@@ -4151,14 +4151,14 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mou5lok3go1-morocco.json"
+      "sourceFile": "r2-backup/words/mo1lok3go1-morocco.json"
     },
     {
-      "sentenceId": "mou5lok3go1-morocco-example-4",
+      "sentenceId": "mo1lok3go1-morocco-example-4",
       "sentence": "我想下年去摩洛哥旅行。",
       "jyutping": "ngo5 soeng2 haa6 nin4 heoi3 mo1 lok3 go1 leoi5 hang4.",
       "meaning": "I want to travel to Morocco next year.",
-      "sourceWordId": "mou5lok3go1-morocco",
+      "sourceWordId": "mo1lok3go1-morocco",
       "sourceWord": "摩洛哥",
       "sourceWordJyutping": "mo1 lok3 go1",
       "sourceWordMeaning": "Morocco",
@@ -4170,14 +4170,14 @@
         "places",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mou5lok3go1-morocco.json"
+      "sourceFile": "r2-backup/words/mo1lok3go1-morocco.json"
     },
     {
-      "sentenceId": "taam4zaan1nei4aa3-tanzania-example-1",
+      "sentenceId": "taan2song1nei4aa3-tanzania-example-1",
       "sentence": "我遲啲會去坦桑尼亞旅行。",
       "jyutping": "ngo5 ci4 di1 wui5 heoi3 taan2 song1 nei4 aa3 leoi5 hang4",
       "meaning": "I will go to Tanzania to travel later.",
-      "sourceWordId": "taam4zaan1nei4aa3-tanzania",
+      "sourceWordId": "taan2song1nei4aa3-tanzania",
       "sourceWord": "坦桑尼亞",
       "sourceWordJyutping": "taan2 song1 nei4 aa3",
       "sourceWordMeaning": "Tanzania",
@@ -4189,14 +4189,14 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taam4zaan1nei4aa3-tanzania.json"
+      "sourceFile": "r2-backup/words/taan2song1nei4aa3-tanzania.json"
     },
     {
-      "sentenceId": "taam4zaan1nei4aa3-tanzania-example-2",
+      "sentenceId": "taan2song1nei4aa3-tanzania-example-2",
       "sentence": "坦桑尼亞有好靚嘅風景。",
       "jyutping": "taan2 song1 nei4 aa3 jau5 hou2 leng3 ge3 fung1 ging2",
       "meaning": "Tanzania has beautiful scenery.",
-      "sourceWordId": "taam4zaan1nei4aa3-tanzania",
+      "sourceWordId": "taan2song1nei4aa3-tanzania",
       "sourceWord": "坦桑尼亞",
       "sourceWordJyutping": "taan2 song1 nei4 aa3",
       "sourceWordMeaning": "Tanzania",
@@ -4208,14 +4208,14 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taam4zaan1nei4aa3-tanzania.json"
+      "sourceFile": "r2-backup/words/taan2song1nei4aa3-tanzania.json"
     },
     {
-      "sentenceId": "taam4zaan1nei4aa3-tanzania-example-3",
+      "sentenceId": "taan2song1nei4aa3-tanzania-example-3",
       "sentence": "我朋友係坦桑尼亞人。",
       "jyutping": "ngo5 pang4 jau5 hai6 taan2 song1 nei4 aa3 jan4",
       "meaning": "My friend is Tanzanian.",
-      "sourceWordId": "taam4zaan1nei4aa3-tanzania",
+      "sourceWordId": "taan2song1nei4aa3-tanzania",
       "sourceWord": "坦桑尼亞",
       "sourceWordJyutping": "taan2 song1 nei4 aa3",
       "sourceWordMeaning": "Tanzania",
@@ -4227,14 +4227,14 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taam4zaan1nei4aa3-tanzania.json"
+      "sourceFile": "r2-backup/words/taan2song1nei4aa3-tanzania.json"
     },
     {
-      "sentenceId": "taam4zaan1nei4aa3-tanzania-example-4",
+      "sentenceId": "taan2song1nei4aa3-tanzania-example-4",
       "sentence": "坦桑尼亞嘅動物園好有名。",
       "jyutping": "taan2 song1 nei4 aa3 ge3 dung6 mat6 jyun4 hou2 jau5 meng2",
       "meaning": "Tanzania's zoo is very famous.",
-      "sourceWordId": "taam4zaan1nei4aa3-tanzania",
+      "sourceWordId": "taan2song1nei4aa3-tanzania",
       "sourceWord": "坦桑尼亞",
       "sourceWordJyutping": "taan2 song1 nei4 aa3",
       "sourceWordMeaning": "Tanzania",
@@ -4246,7 +4246,7 @@
         "place names",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/taam4zaan1nei4aa3-tanzania.json"
+      "sourceFile": "r2-backup/words/taan2song1nei4aa3-tanzania.json"
     },
     {
       "sentenceId": "aa3ji5kap6lei6aa3-algeria-example-1",

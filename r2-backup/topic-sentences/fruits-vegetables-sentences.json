@@ -5,11 +5,11 @@
   "totalSentences": 195,
   "items": [
     {
-      "sentenceId": "seoi2gwo2-fruit-example-1",
+      "sentenceId": "seoi2gwo2-fruit-collective-example-1",
       "sentence": "我想買啲水果。",
       "jyutping": "ngo5 soeng2 maai5 di1 seoi2 gwo2",
       "meaning": "I want to buy some fruit.",
-      "sourceWordId": "seoi2gwo2-fruit",
+      "sourceWordId": "seoi2gwo2-fruit-collective",
       "sourceWord": "水果",
       "sourceWordJyutping": "seoi2 gwo2",
       "sourceWordMeaning": "fruit (collective)",
@@ -22,14 +22,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2gwo2-fruit.json"
+      "sourceFile": "r2-backup/words/seoi2gwo2-fruit-collective.json"
     },
     {
-      "sentenceId": "seoi2gwo2-fruit-example-2",
+      "sentenceId": "seoi2gwo2-fruit-collective-example-2",
       "sentence": "呢啲水果好新鮮。",
       "jyutping": "ni1 di1 seoi2 gwo2 hou2 san1 sin1",
       "meaning": "These fruits are very fresh.",
-      "sourceWordId": "seoi2gwo2-fruit",
+      "sourceWordId": "seoi2gwo2-fruit-collective",
       "sourceWord": "水果",
       "sourceWordJyutping": "seoi2 gwo2",
       "sourceWordMeaning": "fruit (collective)",
@@ -42,14 +42,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2gwo2-fruit.json"
+      "sourceFile": "r2-backup/words/seoi2gwo2-fruit-collective.json"
     },
     {
-      "sentenceId": "seoi2gwo2-fruit-example-3",
+      "sentenceId": "seoi2gwo2-fruit-collective-example-3",
       "sentence": "水果甜唔甜？",
       "jyutping": "seoi2 gwo2 tim4 m4 tim4",
       "meaning": "Is the fruit sweet?",
-      "sourceWordId": "seoi2gwo2-fruit",
+      "sourceWordId": "seoi2gwo2-fruit-collective",
       "sourceWord": "水果",
       "sourceWordJyutping": "seoi2 gwo2",
       "sourceWordMeaning": "fruit (collective)",
@@ -62,14 +62,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2gwo2-fruit.json"
+      "sourceFile": "r2-backup/words/seoi2gwo2-fruit-collective.json"
     },
     {
-      "sentenceId": "seoi2gwo2-fruit-example-4",
+      "sentenceId": "seoi2gwo2-fruit-collective-example-4",
       "sentence": "我哋每日都食水果。",
       "jyutping": "ngo5 dei6 mui5 jat6 dou1 sik6 seoi2 gwo2",
       "meaning": "We eat fruit every day.",
-      "sourceWordId": "seoi2gwo2-fruit",
+      "sourceWordId": "seoi2gwo2-fruit-collective",
       "sourceWord": "水果",
       "sourceWordJyutping": "seoi2 gwo2",
       "sourceWordMeaning": "fruit (collective)",
@@ -82,13 +82,13 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/seoi2gwo2-fruit.json"
+      "sourceFile": "r2-backup/words/seoi2gwo2-fruit-collective.json"
     },
     {
       "sentenceId": "ping4gwo2-apple-example-1",
       "sentence": "我想買一個蘋果。",
-      "jyutping": "ngo5 soeng2 maai5 jat1 go3 ping4 gwo2",
-      "meaning": "I want to buy one apple.",
+      "jyutping": "ngo5 soeng2 maai5 jat1 go3 ping4 gwo2.",
+      "meaning": "I want to buy an apple.",
       "sourceWordId": "ping4gwo2-apple",
       "sourceWord": "蘋果",
       "sourceWordJyutping": "ping4 gwo2",
@@ -107,7 +107,7 @@
     {
       "sentenceId": "ping4gwo2-apple-example-2",
       "sentence": "呢啲蘋果好甜。",
-      "jyutping": "ni1 di1 ping4 gwo2 hou2 tim4",
+      "jyutping": "ni1 di1 ping4 gwo2 hou2 tim4.",
       "meaning": "These apples are very sweet.",
       "sourceWordId": "ping4gwo2-apple",
       "sourceWord": "蘋果",
@@ -126,9 +126,9 @@
     },
     {
       "sentenceId": "ping4gwo2-apple-example-3",
-      "sentence": "蘋果新唔新鮮？",
-      "jyutping": "ping4 gwo2 san1 m4 san1 sin1",
-      "meaning": "Are the apples fresh?",
+      "sentence": "呢啲蘋果新唔新鮮？",
+      "jyutping": "ni1 di1 ping4 gwo2 san1 m4 san1 sin1?",
+      "meaning": "Are these apples fresh?",
       "sourceWordId": "ping4gwo2-apple",
       "sourceWord": "蘋果",
       "sourceWordJyutping": "ping4 gwo2",
@@ -147,7 +147,7 @@
     {
       "sentenceId": "ping4gwo2-apple-example-4",
       "sentence": "我每日都食一個蘋果。",
-      "jyutping": "ngo5 mui5 jat6 dou1 sik6 jat1 go3 ping4 gwo2",
+      "jyutping": "ngo5 mui5 jat6 dou1 sik6 jat1 go3 ping4 gwo2.",
       "meaning": "I eat an apple every day.",
       "sourceWordId": "ping4gwo2-apple",
       "sourceWord": "蘋果",
@@ -167,8 +167,8 @@
     {
       "sentenceId": "lei2-pear-example-1",
       "sentence": "我想買一個梨。",
-      "jyutping": "ngo5 soeng2 maai5 jat1 go3 lei2",
-      "meaning": "I want to buy one pear.",
+      "jyutping": "ngo5 soeng2 maai5 jat1 go3 lei2.",
+      "meaning": "I want to buy a pear.",
       "sourceWordId": "lei2-pear",
       "sourceWord": "梨",
       "sourceWordJyutping": "lei2",
@@ -187,7 +187,7 @@
     {
       "sentenceId": "lei2-pear-example-2",
       "sentence": "呢啲梨好甜。",
-      "jyutping": "ni1 di1 lei2 hou2 tim4",
+      "jyutping": "ni1 di1 lei2 hou2 tim4.",
       "meaning": "These pears are very sweet.",
       "sourceWordId": "lei2-pear",
       "sourceWord": "梨",
@@ -206,9 +206,9 @@
     },
     {
       "sentenceId": "lei2-pear-example-3",
-      "sentence": "梨新唔新鮮？",
-      "jyutping": "lei2 san1 m4 san1 sin1",
-      "meaning": "Are the pears fresh?",
+      "sentence": "呢啲梨新唔新鮮？",
+      "jyutping": "ni1 di1 lei2 san1 m4 san1 sin1?",
+      "meaning": "Are these pears fresh?",
       "sourceWordId": "lei2-pear",
       "sourceWord": "梨",
       "sourceWordJyutping": "lei2",
@@ -226,8 +226,8 @@
     },
     {
       "sentenceId": "lei2-pear-example-4",
-      "sentence": "呢個梨好夠水。",
-      "jyutping": "ni1 go3 lei2 hou2 gau3 seoi2",
+      "sentence": "呢個梨好多汁。",
+      "jyutping": "ni1 go3 lei2 hou2 do1 zap1.",
       "meaning": "This pear is very juicy.",
       "sourceWordId": "lei2-pear",
       "sourceWord": "梨",
@@ -245,11 +245,11 @@
       "sourceFile": "r2-backup/words/lei2-pear.json"
     },
     {
-      "sentenceId": "caang2-orange-example-1",
+      "sentenceId": "caang2-orange-fruit-example-1",
       "sentence": "我想買一個橙。",
       "jyutping": "ngo5 soeng2 maai5 jat1 go3 caang2.",
       "meaning": "I want to buy one orange.",
-      "sourceWordId": "caang2-orange",
+      "sourceWordId": "caang2-orange-fruit",
       "sourceWord": "橙",
       "sourceWordJyutping": "caang2",
       "sourceWordMeaning": "orange (fruit)",
@@ -263,14 +263,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caang2-orange.json"
+      "sourceFile": "r2-backup/words/caang2-orange-fruit.json"
     },
     {
-      "sentenceId": "caang2-orange-example-2",
+      "sentenceId": "caang2-orange-fruit-example-2",
       "sentence": "呢啲橙好甜。",
       "jyutping": "ni1 di1 caang2 hou2 tim4.",
       "meaning": "These oranges are very sweet.",
-      "sourceWordId": "caang2-orange",
+      "sourceWordId": "caang2-orange-fruit",
       "sourceWord": "橙",
       "sourceWordJyutping": "caang2",
       "sourceWordMeaning": "orange (fruit)",
@@ -284,14 +284,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caang2-orange.json"
+      "sourceFile": "r2-backup/words/caang2-orange-fruit.json"
     },
     {
-      "sentenceId": "caang2-orange-example-3",
+      "sentenceId": "caang2-orange-fruit-example-3",
       "sentence": "呢啲橙酸唔酸？",
       "jyutping": "ni1 di1 caang2 syun1 m4 syun1?",
       "meaning": "Are these oranges sour?",
-      "sourceWordId": "caang2-orange",
+      "sourceWordId": "caang2-orange-fruit",
       "sourceWord": "橙",
       "sourceWordJyutping": "caang2",
       "sourceWordMeaning": "orange (fruit)",
@@ -305,14 +305,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caang2-orange.json"
+      "sourceFile": "r2-backup/words/caang2-orange-fruit.json"
     },
     {
-      "sentenceId": "caang2-orange-example-4",
+      "sentenceId": "caang2-orange-fruit-example-4",
       "sentence": "我朝早飲橙汁。",
       "jyutping": "ngo5 ziu1 zou2 jam2 caang2 zap1.",
       "meaning": "I drink orange juice in the morning.",
-      "sourceWordId": "caang2-orange",
+      "sourceWordId": "caang2-orange-fruit",
       "sourceWord": "橙",
       "sourceWordJyutping": "caang2",
       "sourceWordMeaning": "orange (fruit)",
@@ -326,7 +326,7 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caang2-orange.json"
+      "sourceFile": "r2-backup/words/caang2-orange-fruit.json"
     },
     {
       "sentenceId": "lai6zi1-lychee-example-1",
@@ -1409,11 +1409,11 @@
       "sourceFile": "r2-backup/words/ngau4jau4gwo2-avocado.json"
     },
     {
-      "sentenceId": "coi3-vegetables-example-1",
+      "sentenceId": "coi3-vegetables-dishes-context-dependent-example-1",
       "sentence": "我想買啲菜。",
       "jyutping": "ngo5 soeng2 maai5 di1 coi3",
       "meaning": "I want to buy some vegetables.",
-      "sourceWordId": "coi3-vegetables",
+      "sourceWordId": "coi3-vegetables-dishes-context-dependent",
       "sourceWord": "菜",
       "sourceWordJyutping": "coi3",
       "sourceWordMeaning": "vegetables / dishes (context-dependent)",
@@ -1427,14 +1427,14 @@
         "level-1",
         "core"
       ],
-      "sourceFile": "r2-backup/words/coi3-vegetables.json"
+      "sourceFile": "r2-backup/words/coi3-vegetables-dishes-context-dependent.json"
     },
     {
-      "sentenceId": "coi3-vegetables-example-2",
+      "sentenceId": "coi3-vegetables-dishes-context-dependent-example-2",
       "sentence": "呢啲菜好新鮮。",
       "jyutping": "ni1 di1 coi3 hou2 san1 sin1",
       "meaning": "These vegetables are very fresh.",
-      "sourceWordId": "coi3-vegetables",
+      "sourceWordId": "coi3-vegetables-dishes-context-dependent",
       "sourceWord": "菜",
       "sourceWordJyutping": "coi3",
       "sourceWordMeaning": "vegetables / dishes (context-dependent)",
@@ -1448,14 +1448,14 @@
         "level-1",
         "core"
       ],
-      "sourceFile": "r2-backup/words/coi3-vegetables.json"
+      "sourceFile": "r2-backup/words/coi3-vegetables-dishes-context-dependent.json"
     },
     {
-      "sentenceId": "coi3-vegetables-example-3",
+      "sentenceId": "coi3-vegetables-dishes-context-dependent-example-3",
       "sentence": "今晚煮咩菜？",
       "jyutping": "gam1 maan5 zyu2 me1 coi3",
       "meaning": "What dishes are we cooking tonight?",
-      "sourceWordId": "coi3-vegetables",
+      "sourceWordId": "coi3-vegetables-dishes-context-dependent",
       "sourceWord": "菜",
       "sourceWordJyutping": "coi3",
       "sourceWordMeaning": "vegetables / dishes (context-dependent)",
@@ -1469,14 +1469,14 @@
         "level-1",
         "core"
       ],
-      "sourceFile": "r2-backup/words/coi3-vegetables.json"
+      "sourceFile": "r2-backup/words/coi3-vegetables-dishes-context-dependent.json"
     },
     {
-      "sentenceId": "coi3-vegetables-example-4",
+      "sentenceId": "coi3-vegetables-dishes-context-dependent-example-4",
       "sentence": "呢間餐廳啲菜幾好食。",
       "jyutping": "ni1 gaan1 caan1 teng1 di1 coi3 gei2 hou2 sik6",
       "meaning": "The food at this restaurant is quite good.",
-      "sourceWordId": "coi3-vegetables",
+      "sourceWordId": "coi3-vegetables-dishes-context-dependent",
       "sourceWord": "菜",
       "sourceWordJyutping": "coi3",
       "sourceWordMeaning": "vegetables / dishes (context-dependent)",
@@ -1490,14 +1490,14 @@
         "level-1",
         "core"
       ],
-      "sourceFile": "r2-backup/words/coi3-vegetables.json"
+      "sourceFile": "r2-backup/words/coi3-vegetables-dishes-context-dependent.json"
     },
     {
-      "sentenceId": "bok6coi3-bok-choy-example-1",
+      "sentenceId": "baak6coi3-bok-choy-chinese-cabbage-example-1",
       "sentence": "我想買啲白菜。",
       "jyutping": "ngo5 soeng2 maai5 di1 baak6 coi3",
       "meaning": "I want to buy some bok choy.",
-      "sourceWordId": "bok6coi3-bok-choy",
+      "sourceWordId": "baak6coi3-bok-choy-chinese-cabbage",
       "sourceWord": "白菜",
       "sourceWordJyutping": "baak6 coi3",
       "sourceWordMeaning": "bok choy / Chinese cabbage",
@@ -1512,14 +1512,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bok6coi3-bok-choy.json"
+      "sourceFile": "r2-backup/words/baak6coi3-bok-choy-chinese-cabbage.json"
     },
     {
-      "sentenceId": "bok6coi3-bok-choy-example-2",
+      "sentenceId": "baak6coi3-bok-choy-chinese-cabbage-example-2",
       "sentence": "呢啲白菜好新鮮。",
       "jyutping": "ni1 di1 baak6 coi3 hou2 san1 sin1",
       "meaning": "These bok choy are very fresh.",
-      "sourceWordId": "bok6coi3-bok-choy",
+      "sourceWordId": "baak6coi3-bok-choy-chinese-cabbage",
       "sourceWord": "白菜",
       "sourceWordJyutping": "baak6 coi3",
       "sourceWordMeaning": "bok choy / Chinese cabbage",
@@ -1534,14 +1534,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bok6coi3-bok-choy.json"
+      "sourceFile": "r2-backup/words/baak6coi3-bok-choy-chinese-cabbage.json"
     },
     {
-      "sentenceId": "bok6coi3-bok-choy-example-3",
+      "sentenceId": "baak6coi3-bok-choy-chinese-cabbage-example-3",
       "sentence": "白菜可以用嚟炒。",
       "jyutping": "baak6 coi3 ho2 ji5 jung6 lei4 caau2",
       "meaning": "Bok choy can be used for stir-frying.",
-      "sourceWordId": "bok6coi3-bok-choy",
+      "sourceWordId": "baak6coi3-bok-choy-chinese-cabbage",
       "sourceWord": "白菜",
       "sourceWordJyutping": "baak6 coi3",
       "sourceWordMeaning": "bok choy / Chinese cabbage",
@@ -1556,14 +1556,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bok6coi3-bok-choy.json"
+      "sourceFile": "r2-backup/words/baak6coi3-bok-choy-chinese-cabbage.json"
     },
     {
-      "sentenceId": "bok6coi3-bok-choy-example-4",
+      "sentenceId": "baak6coi3-bok-choy-chinese-cabbage-example-4",
       "sentence": "我今晚煮白菜湯。",
       "jyutping": "ngo5 gam1 maan5 zyu2 baak6 coi3 tong1",
       "meaning": "I’m cooking bok choy soup tonight.",
-      "sourceWordId": "bok6coi3-bok-choy",
+      "sourceWordId": "baak6coi3-bok-choy-chinese-cabbage",
       "sourceWord": "白菜",
       "sourceWordJyutping": "baak6 coi3",
       "sourceWordMeaning": "bok choy / Chinese cabbage",
@@ -1578,7 +1578,7 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bok6coi3-bok-choy.json"
+      "sourceFile": "r2-backup/words/baak6coi3-bok-choy-chinese-cabbage.json"
     },
     {
       "sentenceId": "coi3sam1-choi-sum-example-1",
@@ -2905,11 +2905,11 @@
       "sourceFile": "r2-backup/words/hoeng1maau4-lemongrass.json"
     },
     {
-      "sentenceId": "jyun4seoi1-coriander-example-1",
+      "sentenceId": "jyun4seoi1-coriander-cilantro-example-1",
       "sentence": "我唔食芫荽。",
       "jyutping": "ngo5 m4 sik6 jyun4 seoi1.",
       "meaning": "I don't eat coriander.",
-      "sourceWordId": "jyun4seoi1-coriander",
+      "sourceWordId": "jyun4seoi1-coriander-cilantro",
       "sourceWord": "芫荽",
       "sourceWordJyutping": "jyun4 seoi1",
       "sourceWordMeaning": "coriander; cilantro",
@@ -2921,14 +2921,14 @@
         "restaurant",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyun4seoi1-coriander.json"
+      "sourceFile": "r2-backup/words/jyun4seoi1-coriander-cilantro.json"
     },
     {
-      "sentenceId": "jyun4seoi1-coriander-example-2",
+      "sentenceId": "jyun4seoi1-coriander-cilantro-example-2",
       "sentence": "呢碗魚蛋粉可唔可以唔落芫荽？",
       "jyutping": "ni1 wun2 jyu4 daan2 fan2 ho2 m4 ho2 ji5 m4 lok6 jyun4 seoi1?",
       "meaning": "Can you not add coriander to this bowl of fishball noodles?",
-      "sourceWordId": "jyun4seoi1-coriander",
+      "sourceWordId": "jyun4seoi1-coriander-cilantro",
       "sourceWord": "芫荽",
       "sourceWordJyutping": "jyun4 seoi1",
       "sourceWordMeaning": "coriander; cilantro",
@@ -2940,14 +2940,14 @@
         "restaurant",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyun4seoi1-coriander.json"
+      "sourceFile": "r2-backup/words/jyun4seoi1-coriander-cilantro.json"
     },
     {
-      "sentenceId": "jyun4seoi1-coriander-example-3",
+      "sentenceId": "jyun4seoi1-coriander-cilantro-example-3",
       "sentence": "芫荽好香。",
       "jyutping": "jyun4 seoi1 hou2 hoeng1.",
       "meaning": "Coriander smells very fragrant.",
-      "sourceWordId": "jyun4seoi1-coriander",
+      "sourceWordId": "jyun4seoi1-coriander-cilantro",
       "sourceWord": "芫荽",
       "sourceWordJyutping": "jyun4 seoi1",
       "sourceWordMeaning": "coriander; cilantro",
@@ -2959,14 +2959,14 @@
         "restaurant",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyun4seoi1-coriander.json"
+      "sourceFile": "r2-backup/words/jyun4seoi1-coriander-cilantro.json"
     },
     {
-      "sentenceId": "jyun4seoi1-coriander-example-4",
+      "sentenceId": "jyun4seoi1-coriander-cilantro-example-4",
       "sentence": "我買咗少少芫荽返屋企煮餸。",
       "jyutping": "ngo5 maai5 zo2 siu2 siu2 jyun4 seoi1 faan1 uk1 kei2 zyu2 sung3.",
       "meaning": "I bought a little coriander to take home and cook with.",
-      "sourceWordId": "jyun4seoi1-coriander",
+      "sourceWordId": "jyun4seoi1-coriander-cilantro",
       "sourceWord": "芫荽",
       "sourceWordJyutping": "jyun4 seoi1",
       "sourceWordMeaning": "coriander; cilantro",
@@ -2978,7 +2978,7 @@
         "restaurant",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyun4seoi1-coriander.json"
+      "sourceFile": "r2-backup/words/jyun4seoi1-coriander-cilantro.json"
     },
     {
       "sentenceId": "cung1-spring-onion-example-1",
@@ -3351,144 +3351,144 @@
       "sourceWordJyutping": "bun3",
       "sourceWordMeaning": "half",
       "tags": [
+        "measurements",
         "quantity",
-        "shopping",
-        "cooking",
-        "food",
-        "portion",
+        "time",
+        "basic",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/bun3-half.json"
     },
     {
       "sentenceId": "bun3-half-example-2",
-      "sentence": "呢啲菜好新鮮，但我只要半斤。",
-      "jyutping": "ni1 di1 coi3 hou2 san1 sin1, daan6 ngo5 zi2 jiu3 bun3 gan1.",
-      "meaning": "These vegetables are very fresh, but I only want half a catty.",
+      "sentence": "佢遲咗半個鐘。",
+      "jyutping": "keoi5 ci4 zo2 bun3 go3 zung1.",
+      "meaning": "He was late by half an hour.",
       "sourceWordId": "bun3-half",
       "sourceWord": "半",
       "sourceWordJyutping": "bun3",
       "sourceWordMeaning": "half",
       "tags": [
+        "measurements",
         "quantity",
-        "shopping",
-        "cooking",
-        "food",
-        "portion",
+        "time",
+        "basic",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/bun3-half.json"
     },
     {
       "sentenceId": "bun3-half-example-3",
-      "sentence": "煲湯時要加半舊薑。",
-      "jyutping": "bou1 tong1 si4 jiu3 gaa1 bun3 gau6 goeng1.",
-      "meaning": "Add half a piece of ginger when making soup.",
+      "sentence": "我想買半公斤蘋果。",
+      "jyutping": "ngo5 soeng2 maai5 bun3 gung1 gan1 ping4 gwo2.",
+      "meaning": "I want to buy half a kilogram of apples.",
       "sourceWordId": "bun3-half",
       "sourceWord": "半",
       "sourceWordJyutping": "bun3",
       "sourceWordMeaning": "half",
       "tags": [
+        "measurements",
         "quantity",
-        "shopping",
-        "cooking",
-        "food",
-        "portion",
+        "time",
+        "basic",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/bun3-half.json"
     },
     {
       "sentenceId": "bun3-half-example-4",
-      "sentence": "我淨係食咗半條青瓜。",
-      "jyutping": "ngo5 zing6 hai6 sik6 zo2 bun3 tiu4 ceng1 gwaa1.",
-      "meaning": "I only ate half a cucumber.",
+      "sentence": "半夜我聽到啲聲。",
+      "jyutping": "bun3 je6 ngo5 teng1 dou3 di1 seng1.",
+      "meaning": "I heard some sounds at midnight.",
       "sourceWordId": "bun3-half",
       "sourceWord": "半",
       "sourceWordJyutping": "bun3",
       "sourceWordMeaning": "half",
       "tags": [
+        "measurements",
         "quantity",
-        "shopping",
-        "cooking",
-        "food",
-        "portion",
+        "time",
+        "basic",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/bun3-half.json"
     },
     {
       "sentenceId": "jat1gan1-one-catty-example-1",
-      "sentence": "我想買一斤蘋果。",
-      "jyutping": "ngo5 soeng2 maai5 jat1 gan1 ping4 gwo2.",
-      "meaning": "I want to buy one catty of apples.",
+      "sentence": "我買咗一斤蘋果。",
+      "jyutping": "ngo5 maai5 zo2 jat1 gan1 ping4 gwo2.",
+      "meaning": "I bought one catty of apples.",
       "sourceWordId": "jat1gan1-one-catty",
       "sourceWord": "一斤",
       "sourceWordJyutping": "jat1 gan1",
       "sourceWordMeaning": "one catty",
       "tags": [
-        "measure word",
+        "measurement",
         "weight",
         "food",
-        "shopping",
-        "everyday use",
+        "market",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jat1gan1-one-catty.json"
     },
     {
       "sentenceId": "jat1gan1-one-catty-example-2",
-      "sentence": "呢個魚重一斤幾。",
-      "jyutping": "ni1 go3 jyu4 zung6 jat1 gan1 gei2.",
-      "meaning": "This fish weighs a little over one catty.",
+      "sentence": "呢度一斤荔枝幾錢？",
+      "jyutping": "ni1 dou6 jat1 gan1 lai6 zi1 gei2 cin2?",
+      "meaning": "How much is one catty of lychees here?",
       "sourceWordId": "jat1gan1-one-catty",
       "sourceWord": "一斤",
       "sourceWordJyutping": "jat1 gan1",
       "sourceWordMeaning": "one catty",
       "tags": [
-        "measure word",
+        "measurement",
         "weight",
         "food",
-        "shopping",
-        "everyday use",
+        "market",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jat1gan1-one-catty.json"
     },
     {
       "sentenceId": "jat1gan1-one-catty-example-3",
-      "sentence": "請俾我一斤豬肉。",
-      "jyutping": "cing2 bei2 ngo5 jat1 gan1 zyu1 juk6.",
-      "meaning": "Please give me one catty of pork.",
+      "sentence": "我要一斤豬肉。",
+      "jyutping": "ngo5 jiu3 jat1 gan1 zyu1 juk6.",
+      "meaning": "I want one catty of pork.",
       "sourceWordId": "jat1gan1-one-catty",
       "sourceWord": "一斤",
       "sourceWordJyutping": "jat1 gan1",
       "sourceWordMeaning": "one catty",
       "tags": [
-        "measure word",
+        "measurement",
         "weight",
         "food",
-        "shopping",
-        "everyday use",
+        "market",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jat1gan1-one-catty.json"
     },
     {
       "sentenceId": "jat1gan1-one-catty-example-4",
-      "sentence": "一斤米價錢幾多？",
-      "jyutping": "jat1 gan1 mai5 gaa3 cin2 gei2 do1?",
-      "meaning": "How much does one catty of rice cost?",
+      "sentence": "一斤鹽唔夠，我要多啲。",
+      "jyutping": "jat1 gan1 jim4 m4 gau3, ngo5 jiu3 do1 di1.",
+      "meaning": "One catty of salt isn't enough, I want more.",
       "sourceWordId": "jat1gan1-one-catty",
       "sourceWord": "一斤",
       "sourceWordJyutping": "jat1 gan1",
       "sourceWordMeaning": "one catty",
       "tags": [
-        "measure word",
+        "measurement",
         "weight",
         "food",
-        "shopping",
-        "everyday use",
+        "market",
+        "daily use",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jat1gan1-one-catty.json"
@@ -3647,9 +3647,9 @@
     },
     {
       "sentenceId": "syun1-sour-example-1",
-      "sentence": "呢啲檸檬好酸，好適合做汁。",
-      "jyutping": "ni1 di1 ning4 mung1 hou2 syun1, hou2 sik1 hap6 zou6 zap1.",
-      "meaning": "These lemons are very sour, perfect for making juice.",
+      "sentence": "呢啲檸檬好酸，好適合用嚟榨汁。",
+      "jyutping": "ni1 di1 ning4 mung1 hou2 syun1, hou2 sik1 hap6 jung6 lai4 zaa3 zap1.",
+      "meaning": "These lemons are very sour and are great for making juice.",
       "sourceWordId": "syun1-sour",
       "sourceWord": "酸",
       "sourceWordJyutping": "syun1",
@@ -3666,9 +3666,9 @@
     },
     {
       "sentenceId": "syun1-sour-example-2",
-      "sentence": "呢啲蘋果唔新鮮，食落好酸。",
-      "jyutping": "ni1 di1 ping4 gwo2 m4 san1 sin1, sik6 lok6 hou2 syun1.",
-      "meaning": "These apples aren't fresh, taste sour.",
+      "sentence": "呢啲蘋果未熟，食落好酸。",
+      "jyutping": "ni1 di1 ping4 gwo2 mei6 suk6, sik6 lok6 hou2 syun1.",
+      "meaning": "These apples aren't ripe yet, so they taste very sour.",
       "sourceWordId": "syun1-sour",
       "sourceWord": "酸",
       "sourceWordJyutping": "syun1",
@@ -3685,9 +3685,9 @@
     },
     {
       "sentenceId": "syun1-sour-example-3",
-      "sentence": "酸菜係一道好出名嘅酸味菜式。",
-      "jyutping": "syun1 coi3 hai6 jat1 dou6 hou2 ceot1 ming4 ge3 syun1 mei6 coi3 sik1.",
-      "meaning": "Sour cabbage is a famous sour-flavored dish.",
+      "sentence": "杯奶變酸咗，唔好飲。",
+      "jyutping": "bui1 naai5 bin3 syun1 zo2, m4 hou2 jam2.",
+      "meaning": "The milk has turned sour, so don't drink it.",
       "sourceWordId": "syun1-sour",
       "sourceWord": "酸",
       "sourceWordJyutping": "syun1",
@@ -3704,9 +3704,9 @@
     },
     {
       "sentenceId": "syun1-sour-example-4",
-      "sentence": "酸味係一種基本味覺。",
-      "jyutping": "syun1 mei6 hai6 jat1 zung2 gei1 bun2 mei6 gok3.",
-      "meaning": "Sour taste is a basic taste.",
+      "sentence": "酸味係一種基本味道。",
+      "jyutping": "syun1 mei6 hai6 jat1 zung2 gei1 bun2 mei6 dou6.",
+      "meaning": "Sourness is one of the basic tastes.",
       "sourceWordId": "syun1-sour",
       "sourceWord": "酸",
       "sourceWordJyutping": "syun1",

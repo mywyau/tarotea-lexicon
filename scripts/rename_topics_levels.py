@@ -6,8 +6,8 @@ from typing import Any
 OLD_WORD_ROOT = Path(os.getenv("OLD_WORD_ROOT", "./r2-backup/words")).resolve()
 NEW_WORD_ROOT = Path(os.getenv("NEW_WORD_ROOT", "./r2-backupV2/words")).resolve()
 
-INPUT_CONTENT_ROOT = Path(os.getenv("INPUT_CONTENT_ROOT", "./r2-backup/levels")).resolve()
-OUTPUT_CONTENT_ROOT = Path(os.getenv("OUTPUT_CONTENT_ROOT", "./r2-backupV2/levels")).resolve()
+INPUT_CONTENT_ROOT = Path(os.getenv("INPUT_CONTENT_ROOT", "./r2-backup/topics")).resolve()
+OUTPUT_CONTENT_ROOT = Path(os.getenv("OUTPUT_CONTENT_ROOT", "./r2-backupV2/topics")).resolve()
 
 FILE_GLOB = os.getenv("FILE_GLOB", "*.json")
 OVERWRITE = os.getenv("OVERWRITE", "false").lower() == "true"

@@ -5,11 +5,11 @@
   "totalSentences": 260,
   "items": [
     {
-      "sentenceId": "jat1di1-a-tiny-bit-example-1",
+      "sentenceId": "jat1di1-some-example-1",
       "sentence": "我要一啲水。",
       "jyutping": "ngo5 jiu3 jat1 di1 seoi2.",
       "meaning": "I want some water.",
-      "sourceWordId": "jat1di1-a-tiny-bit",
+      "sourceWordId": "jat1di1-some",
       "sourceWord": "一啲",
       "sourceWordJyutping": "jat1 di1",
       "sourceWordMeaning": "some",
@@ -20,14 +20,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1di1-a-tiny-bit.json"
+      "sourceFile": "r2-backup/words/jat1di1-some.json"
     },
     {
-      "sentenceId": "jat1di1-a-tiny-bit-example-2",
+      "sentenceId": "jat1di1-some-example-2",
       "sentence": "聽日一啲時間都冇？",
       "jyutping": "teng1 jat6 jat1 di1 si4 gaan3 dou1 mou5?",
       "meaning": "Do you have some time tomorrow?",
-      "sourceWordId": "jat1di1-a-tiny-bit",
+      "sourceWordId": "jat1di1-some",
       "sourceWord": "一啲",
       "sourceWordJyutping": "jat1 di1",
       "sourceWordMeaning": "some",
@@ -38,14 +38,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1di1-a-tiny-bit.json"
+      "sourceFile": "r2-backup/words/jat1di1-some.json"
     },
     {
-      "sentenceId": "jat1di1-a-tiny-bit-example-3",
+      "sentenceId": "jat1di1-some-example-3",
       "sentence": "再加一啲鹽啦。",
       "jyutping": "zoi3 gaa1 jat1 di1 jim4 laa1.",
       "meaning": "Add a bit more salt.",
-      "sourceWordId": "jat1di1-a-tiny-bit",
+      "sourceWordId": "jat1di1-some",
       "sourceWord": "一啲",
       "sourceWordJyutping": "jat1 di1",
       "sourceWordMeaning": "some",
@@ -56,14 +56,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1di1-a-tiny-bit.json"
+      "sourceFile": "r2-backup/words/jat1di1-some.json"
     },
     {
-      "sentenceId": "jat1di1-a-tiny-bit-example-4",
+      "sentenceId": "jat1di1-some-example-4",
       "sentence": "佢只係做咗一啲工作。",
       "jyutping": "keoi5 zi2 hai6 zou6 zo2 jat1 di1 gung1 zok3.",
       "meaning": "He only did some work.",
-      "sourceWordId": "jat1di1-a-tiny-bit",
+      "sourceWordId": "jat1di1-some",
       "sourceWord": "一啲",
       "sourceWordJyutping": "jat1 di1",
       "sourceWordMeaning": "some",
@@ -74,14 +74,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1di1-a-tiny-bit.json"
+      "sourceFile": "r2-backup/words/jat1di1-some.json"
     },
     {
-      "sentenceId": "hou2do1-a-lot-example-1",
+      "sentenceId": "hou2do1-many-example-1",
       "sentence": "我有好多書。",
       "jyutping": "ngo5 jau5 hou2 do1 syu1.",
       "meaning": "I have many books.",
-      "sourceWordId": "hou2do1-a-lot",
+      "sourceWordId": "hou2do1-many",
       "sourceWord": "好多",
       "sourceWordJyutping": "hou2 do1",
       "sourceWordMeaning": "many",
@@ -93,14 +93,14 @@
         "adjective",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hou2do1-a-lot.json"
+      "sourceFile": "r2-backup/words/hou2do1-many.json"
     },
     {
-      "sentenceId": "hou2do1-a-lot-example-2",
+      "sentenceId": "hou2do1-many-example-2",
       "sentence": "呢度有好多嘢食。",
       "jyutping": "ni1 dou6 jau5 hou2 do1 je5 sik6.",
       "meaning": "There is a lot of food here.",
-      "sourceWordId": "hou2do1-a-lot",
+      "sourceWordId": "hou2do1-many",
       "sourceWord": "好多",
       "sourceWordJyutping": "hou2 do1",
       "sourceWordMeaning": "many",
@@ -112,14 +112,14 @@
         "adjective",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hou2do1-a-lot.json"
+      "sourceFile": "r2-backup/words/hou2do1-many.json"
     },
     {
-      "sentenceId": "hou2do1-a-lot-example-3",
+      "sentenceId": "hou2do1-many-example-3",
       "sentence": "佢識好多廣東話。",
       "jyutping": "keoi5 sik1 hou2 do1 gwong2 dung1 waa2.",
       "meaning": "He knows a lot of Cantonese.",
-      "sourceWordId": "hou2do1-a-lot",
+      "sourceWordId": "hou2do1-many",
       "sourceWord": "好多",
       "sourceWordJyutping": "hou2 do1",
       "sourceWordMeaning": "many",
@@ -131,14 +131,14 @@
         "adjective",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hou2do1-a-lot.json"
+      "sourceFile": "r2-backup/words/hou2do1-many.json"
     },
     {
-      "sentenceId": "hou2do1-a-lot-example-4",
+      "sentenceId": "hou2do1-many-example-4",
       "sentence": "今日有好多車，好塞車。",
       "jyutping": "gam1 jat6 jau5 hou2 do1 ce1, hou2 sak1 ce1.",
       "meaning": "There are many cars today, very congested.",
-      "sourceWordId": "hou2do1-a-lot",
+      "sourceWordId": "hou2do1-many",
       "sourceWord": "好多",
       "sourceWordJyutping": "hou2 do1",
       "sourceWordMeaning": "many",
@@ -150,14 +150,14 @@
         "adjective",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hou2do1-a-lot.json"
+      "sourceFile": "r2-backup/words/hou2do1-many.json"
     },
     {
-      "sentenceId": "siu2di1-a-bit-less-example-1",
+      "sentenceId": "siu2di1-less-example-1",
       "sentence": "你倒少啲糖好唔好？",
       "jyutping": "nei5 dou3 siu2 di1 tong4 hou2 m4 hou2?",
       "meaning": "Can you put a bit less sugar?",
-      "sourceWordId": "siu2di1-a-bit-less",
+      "sourceWordId": "siu2di1-less",
       "sourceWord": "少啲",
       "sourceWordJyutping": "siu2 di1",
       "sourceWordMeaning": "less",
@@ -169,14 +169,14 @@
         "reduction",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2di1-a-bit-less.json"
+      "sourceFile": "r2-backup/words/siu2di1-less.json"
     },
     {
-      "sentenceId": "siu2di1-a-bit-less-example-2",
+      "sentenceId": "siu2di1-less-example-2",
       "sentence": "今次買少啲嘢啦，唔好太重。",
       "jyutping": "gam1 ci3 maai5 siu2 di1 je5 laa1, m4 hou2 taai3 zung6.",
       "meaning": "Buy a bit less stuff this time, don't make it too heavy.",
-      "sourceWordId": "siu2di1-a-bit-less",
+      "sourceWordId": "siu2di1-less",
       "sourceWord": "少啲",
       "sourceWordJyutping": "siu2 di1",
       "sourceWordMeaning": "less",
@@ -188,14 +188,14 @@
         "reduction",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2di1-a-bit-less.json"
+      "sourceFile": "r2-backup/words/siu2di1-less.json"
     },
     {
-      "sentenceId": "siu2di1-a-bit-less-example-3",
+      "sentenceId": "siu2di1-less-example-3",
       "sentence": "你講嘢講少啲聲啦。",
       "jyutping": "nei5 gong2 je5 gong2 siu2 di1 seng1 laa1.",
       "meaning": "Speak a bit more quietly.",
-      "sourceWordId": "siu2di1-a-bit-less",
+      "sourceWordId": "siu2di1-less",
       "sourceWord": "少啲",
       "sourceWordJyutping": "siu2 di1",
       "sourceWordMeaning": "less",
@@ -207,14 +207,14 @@
         "reduction",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2di1-a-bit-less.json"
+      "sourceFile": "r2-backup/words/siu2di1-less.json"
     },
     {
-      "sentenceId": "siu2di1-a-bit-less-example-4",
+      "sentenceId": "siu2di1-less-example-4",
       "sentence": "今日運動少啲，等下唔會攰。",
       "jyutping": "gam1 jat6 wan6 dung6 siu2 di1, dang2 haa6 m4 wui5 gui6.",
       "meaning": "Exercise a bit less today so you won't be tired later.",
-      "sourceWordId": "siu2di1-a-bit-less",
+      "sourceWordId": "siu2di1-less",
       "sourceWord": "少啲",
       "sourceWordJyutping": "siu2 di1",
       "sourceWordMeaning": "less",
@@ -226,14 +226,14 @@
         "reduction",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu2di1-a-bit-less.json"
+      "sourceFile": "r2-backup/words/siu2di1-less.json"
     },
     {
-      "sentenceId": "do1di1-a-bit-more-example-1",
+      "sentenceId": "do1di1-more-example-1",
       "sentence": "我想飲多啲水。",
       "jyutping": "ngo5 soeng2 jam2 do1 di1 seoi2.",
       "meaning": "I want to drink more water.",
-      "sourceWordId": "do1di1-a-bit-more",
+      "sourceWordId": "do1di1-more",
       "sourceWord": "多啲",
       "sourceWordJyutping": "do1 di1",
       "sourceWordMeaning": "more",
@@ -245,14 +245,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/do1di1-a-bit-more.json"
+      "sourceFile": "r2-backup/words/do1di1-more.json"
     },
     {
-      "sentenceId": "do1di1-a-bit-more-example-2",
+      "sentenceId": "do1di1-more-example-2",
       "sentence": "你可以做多啲功課嗎？",
       "jyutping": "nei5 ho2 ji5 zou6 do1 di1 gung1 fo3 maa3?",
       "meaning": "Can you do more homework?",
-      "sourceWordId": "do1di1-a-bit-more",
+      "sourceWordId": "do1di1-more",
       "sourceWord": "多啲",
       "sourceWordJyutping": "do1 di1",
       "sourceWordMeaning": "more",
@@ -264,14 +264,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/do1di1-a-bit-more.json"
+      "sourceFile": "r2-backup/words/do1di1-more.json"
     },
     {
-      "sentenceId": "do1di1-a-bit-more-example-3",
+      "sentenceId": "do1di1-more-example-3",
       "sentence": "你可唔可以講多啲呀？",
       "jyutping": "nei5 ho2 m4 ho2 ji5 gong2 do1 di1 aa3?",
       "meaning": "Can you say a bit more?",
-      "sourceWordId": "do1di1-a-bit-more",
+      "sourceWordId": "do1di1-more",
       "sourceWord": "多啲",
       "sourceWordJyutping": "do1 di1",
       "sourceWordMeaning": "more",
@@ -283,14 +283,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/do1di1-a-bit-more.json"
+      "sourceFile": "r2-backup/words/do1di1-more.json"
     },
     {
-      "sentenceId": "do1di1-a-bit-more-example-4",
+      "sentenceId": "do1di1-more-example-4",
       "sentence": "我哋要多啲時間完成。",
       "jyutping": "ngo5 dei6 jiu3 do1 di1 si4 gaan3 jyun4 sing4.",
       "meaning": "We need more time to finish.",
-      "sourceWordId": "do1di1-a-bit-more",
+      "sourceWordId": "do1di1-more",
       "sourceWord": "多啲",
       "sourceWordJyutping": "do1 di1",
       "sourceWordMeaning": "more",
@@ -302,14 +302,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/do1di1-a-bit-more.json"
+      "sourceFile": "r2-backup/words/do1di1-more.json"
     },
     {
-      "sentenceId": "jat1go3-one-item-example-1",
+      "sentenceId": "jat1go3-one-example-1",
       "sentence": "我要買一個蘋果。",
       "jyutping": "ngo5 jiu3 maai5 jat1 go3 ping4 gwo2.",
       "meaning": "I want to buy one apple.",
-      "sourceWordId": "jat1go3-one-item",
+      "sourceWordId": "jat1go3-one",
       "sourceWord": "一個",
       "sourceWordJyutping": "jat1 go3",
       "sourceWordMeaning": "one",
@@ -321,14 +321,14 @@
         "singular",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3-one-item.json"
+      "sourceFile": "r2-backup/words/jat1go3-one.json"
     },
     {
-      "sentenceId": "jat1go3-one-item-example-2",
+      "sentenceId": "jat1go3-one-example-2",
       "sentence": "呢個房間有一個床。",
       "jyutping": "ni1 go3 fong4 gaan1 jau5 jat1 go3 cong4.",
       "meaning": "This room has one bed.",
-      "sourceWordId": "jat1go3-one-item",
+      "sourceWordId": "jat1go3-one",
       "sourceWord": "一個",
       "sourceWordJyutping": "jat1 go3",
       "sourceWordMeaning": "one",
@@ -340,14 +340,14 @@
         "singular",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3-one-item.json"
+      "sourceFile": "r2-backup/words/jat1go3-one.json"
     },
     {
-      "sentenceId": "jat1go3-one-item-example-3",
+      "sentenceId": "jat1go3-one-example-3",
       "sentence": "佢係一個好人。",
       "jyutping": "keoi5 hai6 jat1 go3 hou2 jan4.",
       "meaning": "He is a good person.",
-      "sourceWordId": "jat1go3-one-item",
+      "sourceWordId": "jat1go3-one",
       "sourceWord": "一個",
       "sourceWordJyutping": "jat1 go3",
       "sourceWordMeaning": "one",
@@ -359,14 +359,14 @@
         "singular",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3-one-item.json"
+      "sourceFile": "r2-backup/words/jat1go3-one.json"
     },
     {
-      "sentenceId": "jat1go3-one-item-example-4",
+      "sentenceId": "jat1go3-one-example-4",
       "sentence": "你可以借我一個筆嗎？",
       "jyutping": "nei5 ho2 ji5 ze3 ngo5 jat1 go3 bat1 maa3?",
       "meaning": "Can you lend me one pen?",
-      "sourceWordId": "jat1go3-one-item",
+      "sourceWordId": "jat1go3-one",
       "sourceWord": "一個",
       "sourceWordJyutping": "jat1 go3",
       "sourceWordMeaning": "one",
@@ -378,14 +378,14 @@
         "singular",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3-one-item.json"
+      "sourceFile": "r2-backup/words/jat1go3-one.json"
     },
     {
-      "sentenceId": "loeng5go3-two-items-example-1",
+      "sentenceId": "loeng5go3-two-example-1",
       "sentence": "我要兩個蘋果。",
       "jyutping": "ngo5 jiu3 loeng5 go3 ping4 gwo2.",
       "meaning": "I want two apples.",
-      "sourceWordId": "loeng5go3-two-items",
+      "sourceWordId": "loeng5go3-two",
       "sourceWord": "兩個",
       "sourceWordJyutping": "loeng5 go3",
       "sourceWordMeaning": "two",
@@ -396,14 +396,14 @@
         "measure words",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5go3-two-items.json"
+      "sourceFile": "r2-backup/words/loeng5go3-two.json"
     },
     {
-      "sentenceId": "loeng5go3-two-items-example-2",
+      "sentenceId": "loeng5go3-two-example-2",
       "sentence": "佢哋帶咗兩個狗嚟。",
       "jyutping": "keoi5 dei6 daai3 zo2 loeng5 go3 gau2 lei4.",
       "meaning": "They brought two dogs along.",
-      "sourceWordId": "loeng5go3-two-items",
+      "sourceWordId": "loeng5go3-two",
       "sourceWord": "兩個",
       "sourceWordJyutping": "loeng5 go3",
       "sourceWordMeaning": "two",
@@ -414,14 +414,14 @@
         "measure words",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5go3-two-items.json"
+      "sourceFile": "r2-backup/words/loeng5go3-two.json"
     },
     {
-      "sentenceId": "loeng5go3-two-items-example-3",
+      "sentenceId": "loeng5go3-two-example-3",
       "sentence": "我有兩個問題想問你。",
       "jyutping": "ngo5 jau5 loeng5 go3 man6 tai4 soeng2 man6 nei5.",
       "meaning": "I have two questions to ask you.",
-      "sourceWordId": "loeng5go3-two-items",
+      "sourceWordId": "loeng5go3-two",
       "sourceWord": "兩個",
       "sourceWordJyutping": "loeng5 go3",
       "sourceWordMeaning": "two",
@@ -432,14 +432,14 @@
         "measure words",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5go3-two-items.json"
+      "sourceFile": "r2-backup/words/loeng5go3-two.json"
     },
     {
-      "sentenceId": "loeng5go3-two-items-example-4",
+      "sentenceId": "loeng5go3-two-example-4",
       "sentence": "佢買咗兩個杯。",
       "jyutping": "keoi5 maai5 zo2 loeng5 go3 bui1.",
       "meaning": "He/She bought two cups.",
-      "sourceWordId": "loeng5go3-two-items",
+      "sourceWordId": "loeng5go3-two",
       "sourceWord": "兩個",
       "sourceWordJyutping": "loeng5 go3",
       "sourceWordMeaning": "two",
@@ -450,7 +450,7 @@
         "measure words",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5go3-two-items.json"
+      "sourceFile": "r2-backup/words/loeng5go3-two.json"
     },
     {
       "sentenceId": "bun3-half-example-1",
@@ -757,11 +757,11 @@
       "sourceFile": "r2-backup/words/daai6joek3-about.json"
     },
     {
-      "sentenceId": "go3-general-classifier-example-1",
+      "sentenceId": "go3-general-counter-example-1",
       "sentence": "我買咗一個蘋果。",
       "jyutping": "ngo5 maai5 zo2 jat1 go3 ping4 gwo2.",
       "meaning": "I bought an apple.",
-      "sourceWordId": "go3-general-classifier",
+      "sourceWordId": "go3-general-counter",
       "sourceWord": "個",
       "sourceWordJyutping": "go3",
       "sourceWordMeaning": "general counter",
@@ -772,14 +772,14 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/go3-general-classifier.json"
+      "sourceFile": "r2-backup/words/go3-general-counter.json"
     },
     {
-      "sentenceId": "go3-general-classifier-example-2",
+      "sentenceId": "go3-general-counter-example-2",
       "sentence": "嗰個人係我朋友。",
       "jyutping": "go2 go3 jan4 hai6 ngo5 pang4 jau5.",
       "meaning": "That person is my friend.",
-      "sourceWordId": "go3-general-classifier",
+      "sourceWordId": "go3-general-counter",
       "sourceWord": "個",
       "sourceWordJyutping": "go3",
       "sourceWordMeaning": "general counter",
@@ -790,14 +790,14 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/go3-general-classifier.json"
+      "sourceFile": "r2-backup/words/go3-general-counter.json"
     },
     {
-      "sentenceId": "go3-general-classifier-example-3",
+      "sentenceId": "go3-general-counter-example-3",
       "sentence": "請俾我兩個鐘頭。",
       "jyutping": "cing2 bei2 ngo5 loeng5 go3 zung1 tau4.",
       "meaning": "Please give me two hours.",
-      "sourceWordId": "go3-general-classifier",
+      "sourceWordId": "go3-general-counter",
       "sourceWord": "個",
       "sourceWordJyutping": "go3",
       "sourceWordMeaning": "general counter",
@@ -808,14 +808,14 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/go3-general-classifier.json"
+      "sourceFile": "r2-backup/words/go3-general-counter.json"
     },
     {
-      "sentenceId": "go3-general-classifier-example-4",
+      "sentenceId": "go3-general-counter-example-4",
       "sentence": "佢有三個問題。",
       "jyutping": "keoi5 jau5 saam1 go3 man6 tai4.",
       "meaning": "He/she has three questions.",
-      "sourceWordId": "go3-general-classifier",
+      "sourceWordId": "go3-general-counter",
       "sourceWord": "個",
       "sourceWordJyutping": "go3",
       "sourceWordMeaning": "general counter",
@@ -826,14 +826,14 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/go3-general-classifier.json"
+      "sourceFile": "r2-backup/words/go3-general-counter.json"
     },
     {
-      "sentenceId": "zek3-for-animals-and-certain-objects-example-1",
+      "sentenceId": "zek3-animal-counter-example-1",
       "sentence": "我養咗一隻狗。",
       "jyutping": "ngo5 joeng5 zo2 jat1 zek3 gau2.",
       "meaning": "I have raised a dog.",
-      "sourceWordId": "zek3-for-animals-and-certain-objects",
+      "sourceWordId": "zek3-animal-counter",
       "sourceWord": "隻",
       "sourceWordJyutping": "zek3",
       "sourceWordMeaning": "animal counter",
@@ -845,14 +845,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zek3-for-animals-and-certain-objects.json"
+      "sourceFile": "r2-backup/words/zek3-animal-counter.json"
     },
     {
-      "sentenceId": "zek3-for-animals-and-certain-objects-example-2",
+      "sentenceId": "zek3-animal-counter-example-2",
       "sentence": "嗰隻貓好得意。",
       "jyutping": "go2 zek3 maau1 hou2 dak1 ji3.",
       "meaning": "That cat is very cute.",
-      "sourceWordId": "zek3-for-animals-and-certain-objects",
+      "sourceWordId": "zek3-animal-counter",
       "sourceWord": "隻",
       "sourceWordJyutping": "zek3",
       "sourceWordMeaning": "animal counter",
@@ -864,14 +864,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zek3-for-animals-and-certain-objects.json"
+      "sourceFile": "r2-backup/words/zek3-animal-counter.json"
     },
     {
-      "sentenceId": "zek3-for-animals-and-certain-objects-example-3",
+      "sentenceId": "zek3-animal-counter-example-3",
       "sentence": "你見過幾多隻雀？",
       "jyutping": "nei5 gin3 gwo3 gei2 do1 zek3 zoek3?",
       "meaning": "How many birds have you seen?",
-      "sourceWordId": "zek3-for-animals-and-certain-objects",
+      "sourceWordId": "zek3-animal-counter",
       "sourceWord": "隻",
       "sourceWordJyutping": "zek3",
       "sourceWordMeaning": "animal counter",
@@ -883,14 +883,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zek3-for-animals-and-certain-objects.json"
+      "sourceFile": "r2-backup/words/zek3-animal-counter.json"
     },
     {
-      "sentenceId": "zek3-for-animals-and-certain-objects-example-4",
+      "sentenceId": "zek3-animal-counter-example-4",
       "sentence": "我買咗隻鞋。",
       "jyutping": "ngo5 maai5 zo2 zek3 haai4.",
       "meaning": "I bought a shoe.",
-      "sourceWordId": "zek3-for-animals-and-certain-objects",
+      "sourceWordId": "zek3-animal-counter",
       "sourceWord": "隻",
       "sourceWordJyutping": "zek3",
       "sourceWordMeaning": "animal counter",
@@ -902,14 +902,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zek3-for-animals-and-certain-objects.json"
+      "sourceFile": "r2-backup/words/zek3-animal-counter.json"
     },
     {
-      "sentenceId": "tiu4-for-long-things-example-1",
+      "sentenceId": "tiu4-long-item-counter-example-1",
       "sentence": "我買咗一條牛仔褲。",
       "jyutping": "ngo5 maai5 zo2 jat1 tiu4 ngau4 zai2 fu3.",
       "meaning": "I bought a pair of jeans.",
-      "sourceWordId": "tiu4-for-long-things",
+      "sourceWordId": "tiu4-long-item-counter",
       "sourceWord": "條",
       "sourceWordJyutping": "tiu4",
       "sourceWordMeaning": "long-item counter",
@@ -921,14 +921,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tiu4-for-long-things.json"
+      "sourceFile": "r2-backup/words/tiu4-long-item-counter.json"
     },
     {
-      "sentenceId": "tiu4-for-long-things-example-2",
+      "sentenceId": "tiu4-long-item-counter-example-2",
       "sentence": "條路好長啊！",
       "jyutping": "tiu4 lou6 hou2 coeng4 aa3!",
       "meaning": "The road is very long!",
-      "sourceWordId": "tiu4-for-long-things",
+      "sourceWordId": "tiu4-long-item-counter",
       "sourceWord": "條",
       "sourceWordJyutping": "tiu4",
       "sourceWordMeaning": "long-item counter",
@@ -940,14 +940,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tiu4-for-long-things.json"
+      "sourceFile": "r2-backup/words/tiu4-long-item-counter.json"
     },
     {
-      "sentenceId": "tiu4-for-long-things-example-3",
+      "sentenceId": "tiu4-long-item-counter-example-3",
       "sentence": "魚缸裡有三條魚。",
       "jyutping": "jyu4 gong1 leoi5 jau5 saam1 tiu4 jyu4.",
       "meaning": "There are three fish in the fish tank.",
-      "sourceWordId": "tiu4-for-long-things",
+      "sourceWordId": "tiu4-long-item-counter",
       "sourceWord": "條",
       "sourceWordJyutping": "tiu4",
       "sourceWordMeaning": "long-item counter",
@@ -959,14 +959,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tiu4-for-long-things.json"
+      "sourceFile": "r2-backup/words/tiu4-long-item-counter.json"
     },
     {
-      "sentenceId": "tiu4-for-long-things-example-4",
+      "sentenceId": "tiu4-long-item-counter-example-4",
       "sentence": "我條裙好靚喎！",
       "jyutping": "ngo5 tiu4 kwan4 hou2 leng3 wo3!",
       "meaning": "My skirt is very pretty!",
-      "sourceWordId": "tiu4-for-long-things",
+      "sourceWordId": "tiu4-long-item-counter",
       "sourceWord": "條",
       "sourceWordJyutping": "tiu4",
       "sourceWordMeaning": "long-item counter",
@@ -978,14 +978,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tiu4-for-long-things.json"
+      "sourceFile": "r2-backup/words/tiu4-long-item-counter.json"
     },
     {
-      "sentenceId": "zoeng1-for-flat-objects-example-1",
+      "sentenceId": "zoeng1-flat-item-counter-example-1",
       "sentence": "我要一張紙。",
       "jyutping": "ngo5 jiu3 jat1 zoeng1 zi2.",
       "meaning": "I want a sheet of paper.",
-      "sourceWordId": "zoeng1-for-flat-objects",
+      "sourceWordId": "zoeng1-flat-item-counter",
       "sourceWord": "張",
       "sourceWordJyutping": "zoeng1",
       "sourceWordMeaning": "flat-item counter",
@@ -996,14 +996,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zoeng1-for-flat-objects.json"
+      "sourceFile": "r2-backup/words/zoeng1-flat-item-counter.json"
     },
     {
-      "sentenceId": "zoeng1-for-flat-objects-example-2",
+      "sentenceId": "zoeng1-flat-item-counter-example-2",
       "sentence": "你有幾張飛呀？",
       "jyutping": "nei5 jau5 gei2 zoeng1 fei1 aa3?",
       "meaning": "How many tickets do you have?",
-      "sourceWordId": "zoeng1-for-flat-objects",
+      "sourceWordId": "zoeng1-flat-item-counter",
       "sourceWord": "張",
       "sourceWordJyutping": "zoeng1",
       "sourceWordMeaning": "flat-item counter",
@@ -1014,14 +1014,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zoeng1-for-flat-objects.json"
+      "sourceFile": "r2-backup/words/zoeng1-flat-item-counter.json"
     },
     {
-      "sentenceId": "zoeng1-for-flat-objects-example-3",
+      "sentenceId": "zoeng1-flat-item-counter-example-3",
       "sentence": "飯廳有一張大枱。",
       "jyutping": "faan6 teng1 jau5 jat1 zoeng1 daai6 toi2.",
       "meaning": "There is a big table in the dining room.",
-      "sourceWordId": "zoeng1-for-flat-objects",
+      "sourceWordId": "zoeng1-flat-item-counter",
       "sourceWord": "張",
       "sourceWordJyutping": "zoeng1",
       "sourceWordMeaning": "flat-item counter",
@@ -1032,14 +1032,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zoeng1-for-flat-objects.json"
+      "sourceFile": "r2-backup/words/zoeng1-flat-item-counter.json"
     },
     {
-      "sentenceId": "zoeng1-for-flat-objects-example-4",
+      "sentenceId": "zoeng1-flat-item-counter-example-4",
       "sentence": "我噚日睇咗一張相。",
       "jyutping": "ngo5 cam4 jat6 tai2 zo2 jat1 zoeng1 soeng2.",
       "meaning": "I looked at a photo yesterday.",
-      "sourceWordId": "zoeng1-for-flat-objects",
+      "sourceWordId": "zoeng1-flat-item-counter",
       "sourceWord": "張",
       "sourceWordJyutping": "zoeng1",
       "sourceWordMeaning": "flat-item counter",
@@ -1050,14 +1050,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zoeng1-for-flat-objects.json"
+      "sourceFile": "r2-backup/words/zoeng1-flat-item-counter.json"
     },
     {
-      "sentenceId": "bun2-for-books-example-1",
+      "sentenceId": "bun2-book-counter-example-1",
       "sentence": "我買咗兩本書。",
       "jyutping": "ngo5 maai5 zo2 loeng5 bun2 syu1.",
       "meaning": "I bought two books.",
-      "sourceWordId": "bun2-for-books",
+      "sourceWordId": "bun2-book-counter",
       "sourceWord": "本",
       "sourceWordJyutping": "bun2",
       "sourceWordMeaning": "book counter",
@@ -1069,14 +1069,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun2-for-books.json"
+      "sourceFile": "r2-backup/words/bun2-book-counter.json"
     },
     {
-      "sentenceId": "bun2-for-books-example-2",
+      "sentenceId": "bun2-book-counter-example-2",
       "sentence": "呢本書幾錢？",
       "jyutping": "ni1 bun2 syu1 gei2 cin2?",
       "meaning": "How much is this book?",
-      "sourceWordId": "bun2-for-books",
+      "sourceWordId": "bun2-book-counter",
       "sourceWord": "本",
       "sourceWordJyutping": "bun2",
       "sourceWordMeaning": "book counter",
@@ -1088,14 +1088,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun2-for-books.json"
+      "sourceFile": "r2-backup/words/bun2-book-counter.json"
     },
     {
-      "sentenceId": "bun2-for-books-example-3",
+      "sentenceId": "bun2-book-counter-example-3",
       "sentence": "老師發咗三本練習簿。",
       "jyutping": "lou5 si1 faat3 zo2 saam1 bun2 lin6 zaap6 bou2.",
       "meaning": "The teacher gave out three exercise books.",
-      "sourceWordId": "bun2-for-books",
+      "sourceWordId": "bun2-book-counter",
       "sourceWord": "本",
       "sourceWordJyutping": "bun2",
       "sourceWordMeaning": "book counter",
@@ -1107,14 +1107,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun2-for-books.json"
+      "sourceFile": "r2-backup/words/bun2-book-counter.json"
     },
     {
-      "sentenceId": "bun2-for-books-example-4",
+      "sentenceId": "bun2-book-counter-example-4",
       "sentence": "佢有十一本雜誌。",
       "jyutping": "keoi5 jau5 sap6 jat1 bun2 zaap6 zi6.",
       "meaning": "He has eleven magazines.",
-      "sourceWordId": "bun2-for-books",
+      "sourceWordId": "bun2-book-counter",
       "sourceWord": "本",
       "sourceWordJyutping": "bun2",
       "sourceWordMeaning": "book counter",
@@ -1126,14 +1126,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun2-for-books.json"
+      "sourceFile": "r2-backup/words/bun2-book-counter.json"
     },
     {
-      "sentenceId": "zi1-for-stick-like-objects-example-1",
+      "sentenceId": "zi1-stick-item-counter-example-1",
       "sentence": "我有一支筆。",
       "jyutping": "ngo5 jau5 jat1 zi1 bat1.",
       "meaning": "I have a pen.",
-      "sourceWordId": "zi1-for-stick-like-objects",
+      "sourceWordId": "zi1-stick-item-counter",
       "sourceWord": "支",
       "sourceWordJyutping": "zi1",
       "sourceWordMeaning": "stick-item counter",
@@ -1145,14 +1145,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi1-for-stick-like-objects.json"
+      "sourceFile": "r2-backup/words/zi1-stick-item-counter.json"
     },
     {
-      "sentenceId": "zi1-for-stick-like-objects-example-2",
+      "sentenceId": "zi1-stick-item-counter-example-2",
       "sentence": "你買咗三支鉛筆未？",
       "jyutping": "nei5 maai5 zo2 saam1 zi1 jyun4 bat1 mei6?",
       "meaning": "Did you buy three pencils?",
-      "sourceWordId": "zi1-for-stick-like-objects",
+      "sourceWordId": "zi1-stick-item-counter",
       "sourceWord": "支",
       "sourceWordJyutping": "zi1",
       "sourceWordMeaning": "stick-item counter",
@@ -1164,14 +1164,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi1-for-stick-like-objects.json"
+      "sourceFile": "r2-backup/words/zi1-stick-item-counter.json"
     },
     {
-      "sentenceId": "zi1-for-stick-like-objects-example-3",
+      "sentenceId": "zi1-stick-item-counter-example-3",
       "sentence": "佢用支棍撐住門。",
       "jyutping": "keoi5 jung6 zi1 gwan3 caang1 zyu6 mun4.",
       "meaning": "He used a stick to prop the door.",
-      "sourceWordId": "zi1-for-stick-like-objects",
+      "sourceWordId": "zi1-stick-item-counter",
       "sourceWord": "支",
       "sourceWordJyutping": "zi1",
       "sourceWordMeaning": "stick-item counter",
@@ -1183,14 +1183,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi1-for-stick-like-objects.json"
+      "sourceFile": "r2-backup/words/zi1-stick-item-counter.json"
     },
     {
-      "sentenceId": "zi1-for-stick-like-objects-example-4",
+      "sentenceId": "zi1-stick-item-counter-example-4",
       "sentence": "警察攞住支槍等救援。",
       "jyutping": "ging2 caat3 lo2 zyu6 zi1 coeng1 dang2 gau3 wun4.",
       "meaning": "The police are holding a gun waiting for backup.",
-      "sourceWordId": "zi1-for-stick-like-objects",
+      "sourceWordId": "zi1-stick-item-counter",
       "sourceWord": "支",
       "sourceWordJyutping": "zi1",
       "sourceWordMeaning": "stick-item counter",
@@ -1202,14 +1202,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zi1-for-stick-like-objects.json"
+      "sourceFile": "r2-backup/words/zi1-stick-item-counter.json"
     },
     {
-      "sentenceId": "gin6-for-items-and-clothing-example-1",
+      "sentenceId": "gin6-item-counter-example-1",
       "sentence": "我有三件衫。",
       "jyutping": "ngo5 jau5 saam1 gin6 saam1.",
       "meaning": "I have three pieces of clothing.",
-      "sourceWordId": "gin6-for-items-and-clothing",
+      "sourceWordId": "gin6-item-counter",
       "sourceWord": "件",
       "sourceWordJyutping": "gin6",
       "sourceWordMeaning": "item counter",
@@ -1221,14 +1221,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gin6-for-items-and-clothing.json"
+      "sourceFile": "r2-backup/words/gin6-item-counter.json"
     },
     {
-      "sentenceId": "gin6-for-items-and-clothing-example-2",
+      "sentenceId": "gin6-item-counter-example-2",
       "sentence": "呢件事好重要。",
       "jyutping": "ni1 gin6 si6 hou2 zung6 jiu3.",
       "meaning": "This matter is very important.",
-      "sourceWordId": "gin6-for-items-and-clothing",
+      "sourceWordId": "gin6-item-counter",
       "sourceWord": "件",
       "sourceWordJyutping": "gin6",
       "sourceWordMeaning": "item counter",
@@ -1240,14 +1240,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gin6-for-items-and-clothing.json"
+      "sourceFile": "r2-backup/words/gin6-item-counter.json"
     },
     {
-      "sentenceId": "gin6-for-items-and-clothing-example-3",
+      "sentenceId": "gin6-item-counter-example-3",
       "sentence": "佢買咗一件褸。",
       "jyutping": "keoi5 maai5 zo2 jat1 gin6 leoi1.",
       "meaning": "He bought a jacket.",
-      "sourceWordId": "gin6-for-items-and-clothing",
+      "sourceWordId": "gin6-item-counter",
       "sourceWord": "件",
       "sourceWordJyutping": "gin6",
       "sourceWordMeaning": "item counter",
@@ -1259,14 +1259,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gin6-for-items-and-clothing.json"
+      "sourceFile": "r2-backup/words/gin6-item-counter.json"
     },
     {
-      "sentenceId": "gin6-for-items-and-clothing-example-4",
+      "sentenceId": "gin6-item-counter-example-4",
       "sentence": "我哋需唔需要多件嘢？",
       "jyutping": "ngo5 dei6 seoi1 m4 seoi1 jiu3 do1 gin6 je5?",
       "meaning": "Do we need more items?",
-      "sourceWordId": "gin6-for-items-and-clothing",
+      "sourceWordId": "gin6-item-counter",
       "sourceWord": "件",
       "sourceWordJyutping": "gin6",
       "sourceWordMeaning": "item counter",
@@ -1278,14 +1278,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gin6-for-items-and-clothing.json"
+      "sourceFile": "r2-backup/words/gin6-item-counter.json"
     },
     {
-      "sentenceId": "gaa3-for-vehicles-and-machines-example-1",
+      "sentenceId": "gaa3-vehicle-counter-example-1",
       "sentence": "我買咗一架新車。",
       "jyutping": "ngo5 maai5 zo2 jat1 gaa3 san1 ce1.",
       "meaning": "I bought a new car.",
-      "sourceWordId": "gaa3-for-vehicles-and-machines",
+      "sourceWordId": "gaa3-vehicle-counter",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "vehicle counter",
@@ -1297,14 +1297,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-for-vehicles-and-machines.json"
+      "sourceFile": "r2-backup/words/gaa3-vehicle-counter.json"
     },
     {
-      "sentenceId": "gaa3-for-vehicles-and-machines-example-2",
+      "sentenceId": "gaa3-vehicle-counter-example-2",
       "sentence": "佢有三架單車。",
       "jyutping": "keoi5 jau5 saam1 gaa3 daan1 ce1.",
       "meaning": "He has three bicycles.",
-      "sourceWordId": "gaa3-for-vehicles-and-machines",
+      "sourceWordId": "gaa3-vehicle-counter",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "vehicle counter",
@@ -1316,14 +1316,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-for-vehicles-and-machines.json"
+      "sourceFile": "r2-backup/words/gaa3-vehicle-counter.json"
     },
     {
-      "sentenceId": "gaa3-for-vehicles-and-machines-example-3",
+      "sentenceId": "gaa3-vehicle-counter-example-3",
       "sentence": "巴士有幾多架？",
       "jyutping": "baa1 si2 jau5 gei2 do1 gaa3?",
       "meaning": "How many buses are there?",
-      "sourceWordId": "gaa3-for-vehicles-and-machines",
+      "sourceWordId": "gaa3-vehicle-counter",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "vehicle counter",
@@ -1335,14 +1335,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-for-vehicles-and-machines.json"
+      "sourceFile": "r2-backup/words/gaa3-vehicle-counter.json"
     },
     {
-      "sentenceId": "gaa3-for-vehicles-and-machines-example-4",
+      "sentenceId": "gaa3-vehicle-counter-example-4",
       "sentence": "公司買咗兩架新電腦。",
       "jyutping": "gung1 si1 maai5 zo2 loeng5 gaa3 san1 din6 nou5.",
       "meaning": "The company bought two new computers.",
-      "sourceWordId": "gaa3-for-vehicles-and-machines",
+      "sourceWordId": "gaa3-vehicle-counter",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "vehicle counter",
@@ -1354,14 +1354,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-for-vehicles-and-machines.json"
+      "sourceFile": "r2-backup/words/gaa3-vehicle-counter.json"
     },
     {
-      "sentenceId": "bou6-for-machines-and-devices-example-1",
+      "sentenceId": "bou6-machine-counter-example-1",
       "sentence": "我買咗一部新電話。",
       "jyutping": "ngo5 maai5 zo2 jat1 bou6 san1 din6 waa2.",
       "meaning": "I bought a new phone.",
-      "sourceWordId": "bou6-for-machines-and-devices",
+      "sourceWordId": "bou6-machine-counter",
       "sourceWord": "部",
       "sourceWordJyutping": "bou6",
       "sourceWordMeaning": "machine counter",
@@ -1373,14 +1373,14 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou6-for-machines-and-devices.json"
+      "sourceFile": "r2-backup/words/bou6-machine-counter.json"
     },
     {
-      "sentenceId": "bou6-for-machines-and-devices-example-2",
+      "sentenceId": "bou6-machine-counter-example-2",
       "sentence": "部電腦壞咗，要修理。",
       "jyutping": "bou6 din6 nou5 waai6 zo2, jiu3 sau1 lei5.",
       "meaning": "The computer is broken and needs repair.",
-      "sourceWordId": "bou6-for-machines-and-devices",
+      "sourceWordId": "bou6-machine-counter",
       "sourceWord": "部",
       "sourceWordJyutping": "bou6",
       "sourceWordMeaning": "machine counter",
@@ -1392,14 +1392,14 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou6-for-machines-and-devices.json"
+      "sourceFile": "r2-backup/words/bou6-machine-counter.json"
     },
     {
-      "sentenceId": "bou6-for-machines-and-devices-example-3",
+      "sentenceId": "bou6-machine-counter-example-3",
       "sentence": "你屋企有幾部電視？",
       "jyutping": "nei5 uk1 kei2 jau5 gei2 bou6 din6 si6?",
       "meaning": "How many TVs do you have at home?",
-      "sourceWordId": "bou6-for-machines-and-devices",
+      "sourceWordId": "bou6-machine-counter",
       "sourceWord": "部",
       "sourceWordJyutping": "bou6",
       "sourceWordMeaning": "machine counter",
@@ -1411,14 +1411,14 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou6-for-machines-and-devices.json"
+      "sourceFile": "r2-backup/words/bou6-machine-counter.json"
     },
     {
-      "sentenceId": "bou6-for-machines-and-devices-example-4",
+      "sentenceId": "bou6-machine-counter-example-4",
       "sentence": "佢攞咗部相機去旅行。",
       "jyutping": "keoi5 lo2 zo2 bou6 soeng2 gei1 heoi3 leoi5 hang4.",
       "meaning": "He took a camera to travel.",
-      "sourceWordId": "bou6-for-machines-and-devices",
+      "sourceWordId": "bou6-machine-counter",
       "sourceWord": "部",
       "sourceWordJyutping": "bou6",
       "sourceWordMeaning": "machine counter",
@@ -1430,14 +1430,14 @@
         "devices",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bou6-for-machines-and-devices.json"
+      "sourceFile": "r2-backup/words/bou6-machine-counter.json"
     },
     {
-      "sentenceId": "gaan1-for-rooms-and-shops-example-1",
+      "sentenceId": "gaan1-room-counter-example-1",
       "sentence": "我屋企有三間房。",
       "jyutping": "ngo5 uk1 kei2 jau5 saam1 gaan1 fong2.",
       "meaning": "My house has three rooms.",
-      "sourceWordId": "gaan1-for-rooms-and-shops",
+      "sourceWordId": "gaan1-room-counter",
       "sourceWord": "間",
       "sourceWordJyutping": "gaan1",
       "sourceWordMeaning": "room counter",
@@ -1449,14 +1449,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaan1-for-rooms-and-shops.json"
+      "sourceFile": "r2-backup/words/gaan1-room-counter.json"
     },
     {
-      "sentenceId": "gaan1-for-rooms-and-shops-example-2",
+      "sentenceId": "gaan1-room-counter-example-2",
       "sentence": "我想租一間舖頭。",
       "jyutping": "ngo5 soeng2 zou1 jat1 gaan1 pou3 tau2.",
       "meaning": "I want to rent a shop.",
-      "sourceWordId": "gaan1-for-rooms-and-shops",
+      "sourceWordId": "gaan1-room-counter",
       "sourceWord": "間",
       "sourceWordJyutping": "gaan1",
       "sourceWordMeaning": "room counter",
@@ -1468,14 +1468,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaan1-for-rooms-and-shops.json"
+      "sourceFile": "r2-backup/words/gaan1-room-counter.json"
     },
     {
-      "sentenceId": "gaan1-for-rooms-and-shops-example-3",
+      "sentenceId": "gaan1-room-counter-example-3",
       "sentence": "果間餐廳好出名。",
       "jyutping": "go2 gaan1 caan1 teng1 hou2 ceot1 meng2.",
       "meaning": "That restaurant is very famous.",
-      "sourceWordId": "gaan1-for-rooms-and-shops",
+      "sourceWordId": "gaan1-room-counter",
       "sourceWord": "間",
       "sourceWordJyutping": "gaan1",
       "sourceWordMeaning": "room counter",
@@ -1487,14 +1487,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaan1-for-rooms-and-shops.json"
+      "sourceFile": "r2-backup/words/gaan1-room-counter.json"
     },
     {
-      "sentenceId": "gaan1-for-rooms-and-shops-example-4",
+      "sentenceId": "gaan1-room-counter-example-4",
       "sentence": "公司買咗兩間辦公室。",
       "jyutping": "gung1 si1 maai5 zo2 loeng5 gaan1 baan6 gung1 sat1.",
       "meaning": "The company bought two offices.",
-      "sourceWordId": "gaan1-for-rooms-and-shops",
+      "sourceWordId": "gaan1-room-counter",
       "sourceWord": "間",
       "sourceWordJyutping": "gaan1",
       "sourceWordMeaning": "room counter",
@@ -1506,14 +1506,14 @@
         "counting",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaan1-for-rooms-and-shops.json"
+      "sourceFile": "r2-backup/words/gaan1-room-counter.json"
     },
     {
-      "sentenceId": "bui1-for-cups-example-1",
+      "sentenceId": "bui1-cupful-example-1",
       "sentence": "我想飲一杯水。",
       "jyutping": "ngo5 soeng2 jam2 jat1 bui1 seoi2.",
       "meaning": "I want to drink a cup of water.",
-      "sourceWordId": "bui1-for-cups",
+      "sourceWordId": "bui1-cupful",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cupful",
@@ -1524,14 +1524,14 @@
         "beverages",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-for-cups.json"
+      "sourceFile": "r2-backup/words/bui1-cupful.json"
     },
     {
-      "sentenceId": "bui1-for-cups-example-2",
+      "sentenceId": "bui1-cupful-example-2",
       "sentence": "呢杯咖啡幾好飲。",
       "jyutping": "ni1 bui1 gaa3 fe1 gei2 hou2 jam2.",
       "meaning": "This cup of coffee tastes good.",
-      "sourceWordId": "bui1-for-cups",
+      "sourceWordId": "bui1-cupful",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cupful",
@@ -1542,14 +1542,14 @@
         "beverages",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-for-cups.json"
+      "sourceFile": "r2-backup/words/bui1-cupful.json"
     },
     {
-      "sentenceId": "bui1-for-cups-example-3",
+      "sentenceId": "bui1-cupful-example-3",
       "sentence": "佢買咗兩杯果汁。",
       "jyutping": "keoi5 maai5 zo2 loeng5 bui1 gwo2 zap1.",
       "meaning": "He bought two cups of juice.",
-      "sourceWordId": "bui1-for-cups",
+      "sourceWordId": "bui1-cupful",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cupful",
@@ -1560,14 +1560,14 @@
         "beverages",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-for-cups.json"
+      "sourceFile": "r2-backup/words/bui1-cupful.json"
     },
     {
-      "sentenceId": "bui1-for-cups-example-4",
+      "sentenceId": "bui1-cupful-example-4",
       "sentence": "請畀我杯茶。",
       "jyutping": "cing2 bei2 ngo5 bui1 caa4.",
       "meaning": "Please give me a cup of tea.",
-      "sourceWordId": "bui1-for-cups",
+      "sourceWordId": "bui1-cupful",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cupful",
@@ -1578,14 +1578,14 @@
         "beverages",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-for-cups.json"
+      "sourceFile": "r2-backup/words/bui1-cupful.json"
     },
     {
-      "sentenceId": "wun2-for-bowls-example-1",
+      "sentenceId": "wun2-bowlful-example-1",
       "sentence": "我想要兩碗湯。",
       "jyutping": "ngo5 soeng2 jiu3 loeng5 wun2 tong1.",
       "meaning": "I want two bowls of soup.",
-      "sourceWordId": "wun2-for-bowls",
+      "sourceWordId": "wun2-bowlful",
       "sourceWord": "碗",
       "sourceWordJyutping": "wun2",
       "sourceWordMeaning": "bowlful",
@@ -1597,14 +1597,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wun2-for-bowls.json"
+      "sourceFile": "r2-backup/words/wun2-bowlful.json"
     },
     {
-      "sentenceId": "wun2-for-bowls-example-2",
+      "sentenceId": "wun2-bowlful-example-2",
       "sentence": "午飯食咗一碗飯。",
       "jyutping": "ng5 faan6 sik6 zo2 jat1 wun2 faan6.",
       "meaning": "I ate one bowl of rice for lunch.",
-      "sourceWordId": "wun2-for-bowls",
+      "sourceWordId": "wun2-bowlful",
       "sourceWord": "碗",
       "sourceWordJyutping": "wun2",
       "sourceWordMeaning": "bowlful",
@@ -1616,14 +1616,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wun2-for-bowls.json"
+      "sourceFile": "r2-backup/words/wun2-bowlful.json"
     },
     {
-      "sentenceId": "wun2-for-bowls-example-3",
+      "sentenceId": "wun2-bowlful-example-3",
       "sentence": "這碗麵好好味。",
       "jyutping": "ze5 wun2 min6 hou2 hou2 mei6.",
       "meaning": "This bowl of noodles is very tasty.",
-      "sourceWordId": "wun2-for-bowls",
+      "sourceWordId": "wun2-bowlful",
       "sourceWord": "碗",
       "sourceWordJyutping": "wun2",
       "sourceWordMeaning": "bowlful",
@@ -1635,14 +1635,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wun2-for-bowls.json"
+      "sourceFile": "r2-backup/words/wun2-bowlful.json"
     },
     {
-      "sentenceId": "wun2-for-bowls-example-4",
+      "sentenceId": "wun2-bowlful-example-4",
       "sentence": "你可以俾我一碗水嗎？",
       "jyutping": "nei5 ho2 ji5 bei2 ngo5 jat1 wun2 seoi2 maa3?",
       "meaning": "Can you give me a bowl of water?",
-      "sourceWordId": "wun2-for-bowls",
+      "sourceWordId": "wun2-bowlful",
       "sourceWord": "碗",
       "sourceWordJyutping": "wun2",
       "sourceWordMeaning": "bowlful",
@@ -1654,14 +1654,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wun2-for-bowls.json"
+      "sourceFile": "r2-backup/words/wun2-bowlful.json"
     },
     {
-      "sentenceId": "baau1-for-packets-and-bags-example-1",
+      "sentenceId": "baau1-pack-example-1",
       "sentence": "我買咗兩包薯片。",
       "jyutping": "ngo5 maai5 zo2 loeng5 baau1 syu4 pin3.",
       "meaning": "I bought two packs of potato chips.",
-      "sourceWordId": "baau1-for-packets-and-bags",
+      "sourceWordId": "baau1-pack",
       "sourceWord": "包",
       "sourceWordJyutping": "baau1",
       "sourceWordMeaning": "pack",
@@ -1673,14 +1673,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baau1-for-packets-and-bags.json"
+      "sourceFile": "r2-backup/words/baau1-pack.json"
     },
     {
-      "sentenceId": "baau1-for-packets-and-bags-example-2",
+      "sentenceId": "baau1-pack-example-2",
       "sentence": "呢包米幾錢？",
       "jyutping": "ni1 baau1 mai5 gei2 cin2?",
       "meaning": "How much is this pack of rice?",
-      "sourceWordId": "baau1-for-packets-and-bags",
+      "sourceWordId": "baau1-pack",
       "sourceWord": "包",
       "sourceWordJyutping": "baau1",
       "sourceWordMeaning": "pack",
@@ -1692,14 +1692,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baau1-for-packets-and-bags.json"
+      "sourceFile": "r2-backup/words/baau1-pack.json"
     },
     {
-      "sentenceId": "baau1-for-packets-and-bags-example-3",
+      "sentenceId": "baau1-pack-example-3",
       "sentence": "請俾我三包紙巾。",
       "jyutping": "cing2 bei2 ngo5 saam1 baau1 zi2 gan1.",
       "meaning": "Please give me three packs of tissues.",
-      "sourceWordId": "baau1-for-packets-and-bags",
+      "sourceWordId": "baau1-pack",
       "sourceWord": "包",
       "sourceWordJyutping": "baau1",
       "sourceWordMeaning": "pack",
@@ -1711,14 +1711,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baau1-for-packets-and-bags.json"
+      "sourceFile": "r2-backup/words/baau1-pack.json"
     },
     {
-      "sentenceId": "baau1-for-packets-and-bags-example-4",
+      "sentenceId": "baau1-pack-example-4",
       "sentence": "超市有好多包裝嘅零食。",
       "jyutping": "ciu1 si5 jau5 hou2 do1 baau1 zong1 ge3 ling4 sik6.",
       "meaning": "The supermarket has many packaged snacks.",
-      "sourceWordId": "baau1-for-packets-and-bags",
+      "sourceWordId": "baau1-pack",
       "sourceWord": "包",
       "sourceWordJyutping": "baau1",
       "sourceWordMeaning": "pack",
@@ -1730,14 +1730,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/baau1-for-packets-and-bags.json"
+      "sourceFile": "r2-backup/words/baau1-pack.json"
     },
     {
-      "sentenceId": "hap6-for-boxes-example-1",
+      "sentenceId": "hap6-box-2-example-1",
       "sentence": "我買咗三盒月餅。",
       "jyutping": "ngo5 maai5 zo2 saam1 hap6 jyut6 beng2.",
       "meaning": "I bought three boxes of mooncakes.",
-      "sourceWordId": "hap6-for-boxes",
+      "sourceWordId": "hap6-box-2",
       "sourceWord": "盒",
       "sourceWordJyutping": "hap6",
       "sourceWordMeaning": "box",
@@ -1749,14 +1749,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hap6-for-boxes.json"
+      "sourceFile": "r2-backup/words/hap6-box-2.json"
     },
     {
-      "sentenceId": "hap6-for-boxes-example-2",
+      "sentenceId": "hap6-box-2-example-2",
       "sentence": "呢盒藥要食晒先得。",
       "jyutping": "ni1 hap6 joek6 jiu3 sik6 saai3 sin1 dak1.",
       "meaning": "You need to finish this box of medicine first.",
-      "sourceWordId": "hap6-for-boxes",
+      "sourceWordId": "hap6-box-2",
       "sourceWord": "盒",
       "sourceWordJyutping": "hap6",
       "sourceWordMeaning": "box",
@@ -1768,14 +1768,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hap6-for-boxes.json"
+      "sourceFile": "r2-backup/words/hap6-box-2.json"
     },
     {
-      "sentenceId": "hap6-for-boxes-example-3",
+      "sentenceId": "hap6-box-2-example-3",
       "sentence": "佢送咗一盒朱古力畀我。",
       "jyutping": "keoi5 sung3 zo2 jat1 hap6 zyu1 gu2 lik6 bei2 ngo5.",
       "meaning": "He gave me a box of chocolates.",
-      "sourceWordId": "hap6-for-boxes",
+      "sourceWordId": "hap6-box-2",
       "sourceWord": "盒",
       "sourceWordJyutping": "hap6",
       "sourceWordMeaning": "box",
@@ -1787,14 +1787,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hap6-for-boxes.json"
+      "sourceFile": "r2-backup/words/hap6-box-2.json"
     },
     {
-      "sentenceId": "hap6-for-boxes-example-4",
+      "sentenceId": "hap6-box-2-example-4",
       "sentence": "幫我攞兩盒餅返嚟。",
       "jyutping": "bong1 ngo5 lo2 loeng5 hap6 beng2 faan1 lai4.",
       "meaning": "Help me bring back two boxes of biscuits.",
-      "sourceWordId": "hap6-for-boxes",
+      "sourceWordId": "hap6-box-2",
       "sourceWord": "盒",
       "sourceWordJyutping": "hap6",
       "sourceWordMeaning": "box",
@@ -1806,14 +1806,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hap6-for-boxes.json"
+      "sourceFile": "r2-backup/words/hap6-box-2.json"
     },
     {
-      "sentenceId": "zung2-for-types-example-1",
+      "sentenceId": "zung2-type-example-1",
       "sentence": "我有三種顏色嘅筆。",
       "jyutping": "ngo5 jau5 saam1 zung2 ngaan4 sik1 ge3 bat1.",
       "meaning": "I have three types of colored pens.",
-      "sourceWordId": "zung2-for-types",
+      "sourceWordId": "zung2-type",
       "sourceWord": "種",
       "sourceWordJyutping": "zung2",
       "sourceWordMeaning": "type",
@@ -1825,14 +1825,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2-for-types.json"
+      "sourceFile": "r2-backup/words/zung2-type.json"
     },
     {
-      "sentenceId": "zung2-for-types-example-2",
+      "sentenceId": "zung2-type-example-2",
       "sentence": "呢種水果好甜。",
       "jyutping": "ni1 zung2 seoi2 gwo2 hou2 tim4.",
       "meaning": "This kind of fruit is very sweet.",
-      "sourceWordId": "zung2-for-types",
+      "sourceWordId": "zung2-type",
       "sourceWord": "種",
       "sourceWordJyutping": "zung2",
       "sourceWordMeaning": "type",
@@ -1844,14 +1844,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2-for-types.json"
+      "sourceFile": "r2-backup/words/zung2-type.json"
     },
     {
-      "sentenceId": "zung2-for-types-example-3",
+      "sentenceId": "zung2-type-example-3",
       "sentence": "你鍾意邊種音樂？",
       "jyutping": "nei5 zung1 ji3 bin1 zung2 jam1 ngok6?",
       "meaning": "Which type of music do you like?",
-      "sourceWordId": "zung2-for-types",
+      "sourceWordId": "zung2-type",
       "sourceWord": "種",
       "sourceWordJyutping": "zung2",
       "sourceWordMeaning": "type",
@@ -1863,14 +1863,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2-for-types.json"
+      "sourceFile": "r2-backup/words/zung2-type.json"
     },
     {
-      "sentenceId": "zung2-for-types-example-4",
+      "sentenceId": "zung2-type-example-4",
       "sentence": "喺市場有好多種花。",
       "jyutping": "hai2 si5 coeng4 jau5 hou2 do1 zung2 faa1.",
       "meaning": "There are many kinds of flowers in the market.",
-      "sourceWordId": "zung2-for-types",
+      "sourceWordId": "zung2-type",
       "sourceWord": "種",
       "sourceWordJyutping": "zung2",
       "sourceWordMeaning": "type",
@@ -1882,14 +1882,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2-for-types.json"
+      "sourceFile": "r2-backup/words/zung2-type.json"
     },
     {
-      "sentenceId": "fan6-for-portions-example-1",
+      "sentenceId": "fan6-portion-example-1",
       "sentence": "我想要一份炒飯。",
       "jyutping": "ngo5 soeng2 jiu3 jat1 fan6 caau2 faan6.",
       "meaning": "I want one portion of fried rice.",
-      "sourceWordId": "fan6-for-portions",
+      "sourceWordId": "fan6-portion",
       "sourceWord": "份",
       "sourceWordJyutping": "fan6",
       "sourceWordMeaning": "portion",
@@ -1901,14 +1901,14 @@
         "assignments",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan6-for-portions.json"
+      "sourceFile": "r2-backup/words/fan6-portion.json"
     },
     {
-      "sentenceId": "fan6-for-portions-example-2",
+      "sentenceId": "fan6-portion-example-2",
       "sentence": "請俾我兩份報紙。",
       "jyutping": "cing2 bei2 ngo5 loeng5 fan6 bou3 zi2.",
       "meaning": "Please give me two copies of the newspaper.",
-      "sourceWordId": "fan6-for-portions",
+      "sourceWordId": "fan6-portion",
       "sourceWord": "份",
       "sourceWordJyutping": "fan6",
       "sourceWordMeaning": "portion",
@@ -1920,14 +1920,14 @@
         "assignments",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan6-for-portions.json"
+      "sourceFile": "r2-backup/words/fan6-portion.json"
     },
     {
-      "sentenceId": "fan6-for-portions-example-3",
+      "sentenceId": "fan6-portion-example-3",
       "sentence": "呢份工作好難做。",
       "jyutping": "ni1 fan6 gung1 zok3 hou2 naan4 zou6.",
       "meaning": "This job assignment is difficult.",
-      "sourceWordId": "fan6-for-portions",
+      "sourceWordId": "fan6-portion",
       "sourceWord": "份",
       "sourceWordJyutping": "fan6",
       "sourceWordMeaning": "portion",
@@ -1939,14 +1939,14 @@
         "assignments",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan6-for-portions.json"
+      "sourceFile": "r2-backup/words/fan6-portion.json"
     },
     {
-      "sentenceId": "fan6-for-portions-example-4",
+      "sentenceId": "fan6-portion-example-4",
       "sentence": "佢買咗三份壽司。",
       "jyutping": "keoi5 maai5 zo2 saam1 fan6 sau6 si1.",
       "meaning": "He/She bought three portions of sushi.",
-      "sourceWordId": "fan6-for-portions",
+      "sourceWordId": "fan6-portion",
       "sourceWord": "份",
       "sourceWordJyutping": "fan6",
       "sourceWordMeaning": "portion",
@@ -1958,14 +1958,14 @@
         "assignments",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fan6-for-portions.json"
+      "sourceFile": "r2-backup/words/fan6-portion.json"
     },
     {
-      "sentenceId": "ci3-for-times-occurrences-example-1",
+      "sentenceId": "ci3-time-count-example-1",
       "sentence": "你去過幾次香港？",
       "jyutping": "nei5 heoi3 gwo3 gei2 ci3 hoeng1 gong2?",
       "meaning": "How many times have you been to Hong Kong?",
-      "sourceWordId": "ci3-for-times-occurrences",
+      "sourceWordId": "ci3-time-count",
       "sourceWord": "次",
       "sourceWordJyutping": "ci3",
       "sourceWordMeaning": "time (count)",
@@ -1977,14 +1977,14 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3-for-times-occurrences.json"
+      "sourceFile": "r2-backup/words/ci3-time-count.json"
     },
     {
-      "sentenceId": "ci3-for-times-occurrences-example-2",
+      "sentenceId": "ci3-time-count-example-2",
       "sentence": "我今天跑咗兩次步。",
       "jyutping": "ngo5 gam1 tin1 paau2 zo2 loeng5 ci3 bou6.",
       "meaning": "I ran twice today.",
-      "sourceWordId": "ci3-for-times-occurrences",
+      "sourceWordId": "ci3-time-count",
       "sourceWord": "次",
       "sourceWordJyutping": "ci3",
       "sourceWordMeaning": "time (count)",
@@ -1996,14 +1996,14 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3-for-times-occurrences.json"
+      "sourceFile": "r2-backup/words/ci3-time-count.json"
     },
     {
-      "sentenceId": "ci3-for-times-occurrences-example-3",
+      "sentenceId": "ci3-time-count-example-3",
       "sentence": "師傅教我做一次。",
       "jyutping": "si1 fu2 gaau3 ngo5 zou6 jat1 ci3.",
       "meaning": "The teacher showed me how to do it once.",
-      "sourceWordId": "ci3-for-times-occurrences",
+      "sourceWordId": "ci3-time-count",
       "sourceWord": "次",
       "sourceWordJyutping": "ci3",
       "sourceWordMeaning": "time (count)",
@@ -2015,14 +2015,14 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3-for-times-occurrences.json"
+      "sourceFile": "r2-backup/words/ci3-time-count.json"
     },
     {
-      "sentenceId": "ci3-for-times-occurrences-example-4",
+      "sentenceId": "ci3-time-count-example-4",
       "sentence": "我唔想再試多幾次。",
       "jyutping": "ngo5 m4 soeng2 zoi3 si3 do1 gei2 ci3.",
       "meaning": "I don’t want to try a few more times.",
-      "sourceWordId": "ci3-for-times-occurrences",
+      "sourceWordId": "ci3-time-count",
       "sourceWord": "次",
       "sourceWordJyutping": "ci3",
       "sourceWordMeaning": "time (count)",
@@ -2034,14 +2034,14 @@
         "actions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3-for-times-occurrences.json"
+      "sourceFile": "r2-backup/words/ci3-time-count.json"
     },
     {
-      "sentenceId": "nap1-for-small-round-items-example-1",
+      "sentenceId": "nap1-small-piece-counter-example-1",
       "sentence": "我食咗一粒藥。",
       "jyutping": "ngo5 sik6 zo2 jat1 nap1 joek6.",
       "meaning": "I took one pill.",
-      "sourceWordId": "nap1-for-small-round-items",
+      "sourceWordId": "nap1-small-piece-counter",
       "sourceWord": "粒",
       "sourceWordJyutping": "nap1",
       "sourceWordMeaning": "small-piece counter",
@@ -2053,14 +2053,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/nap1-for-small-round-items.json"
+      "sourceFile": "r2-backup/words/nap1-small-piece-counter.json"
     },
     {
-      "sentenceId": "nap1-for-small-round-items-example-2",
+      "sentenceId": "nap1-small-piece-counter-example-2",
       "sentence": "呢粒糖好甜。",
       "jyutping": "ni1 nap1 tong4 hou2 tim4.",
       "meaning": "This candy is very sweet.",
-      "sourceWordId": "nap1-for-small-round-items",
+      "sourceWordId": "nap1-small-piece-counter",
       "sourceWord": "粒",
       "sourceWordJyutping": "nap1",
       "sourceWordMeaning": "small-piece counter",
@@ -2072,14 +2072,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/nap1-for-small-round-items.json"
+      "sourceFile": "r2-backup/words/nap1-small-piece-counter.json"
     },
     {
-      "sentenceId": "nap1-for-small-round-items-example-3",
+      "sentenceId": "nap1-small-piece-counter-example-3",
       "sentence": "廚房有好多粒米。",
       "jyutping": "cyu4 fong4 jau5 hou2 do1 nap1 mai5.",
       "meaning": "There are many grains of rice in the kitchen.",
-      "sourceWordId": "nap1-for-small-round-items",
+      "sourceWordId": "nap1-small-piece-counter",
       "sourceWord": "粒",
       "sourceWordJyutping": "nap1",
       "sourceWordMeaning": "small-piece counter",
@@ -2091,14 +2091,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/nap1-for-small-round-items.json"
+      "sourceFile": "r2-backup/words/nap1-small-piece-counter.json"
     },
     {
-      "sentenceId": "nap1-for-small-round-items-example-4",
+      "sentenceId": "nap1-small-piece-counter-example-4",
       "sentence": "幫我拎一粒鹽嚟。",
       "jyutping": "bong1 ngo5 ling1 jat1 nap1 jim4 lai4.",
       "meaning": "Please bring me a pinch of salt.",
-      "sourceWordId": "nap1-for-small-round-items",
+      "sourceWordId": "nap1-small-piece-counter",
       "sourceWord": "粒",
       "sourceWordJyutping": "nap1",
       "sourceWordMeaning": "small-piece counter",
@@ -2110,14 +2110,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/nap1-for-small-round-items.json"
+      "sourceFile": "r2-backup/words/nap1-small-piece-counter.json"
     },
     {
-      "sentenceId": "faai3-for-pieces-chunks-example-1",
+      "sentenceId": "faai3-piece-example-1",
       "sentence": "我想要一塊蛋糕。",
       "jyutping": "ngo5 soeng2 jiu3 jat1 faai3 daan6 gou1.",
       "meaning": "I want a piece of cake.",
-      "sourceWordId": "faai3-for-pieces-chunks",
+      "sourceWordId": "faai3-piece",
       "sourceWord": "塊",
       "sourceWordJyutping": "faai3",
       "sourceWordMeaning": "piece",
@@ -2129,14 +2129,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3-for-pieces-chunks.json"
+      "sourceFile": "r2-backup/words/faai3-piece.json"
     },
     {
-      "sentenceId": "faai3-for-pieces-chunks-example-2",
+      "sentenceId": "faai3-piece-example-2",
       "sentence": "呢塊肉好好味。",
       "jyutping": "ni1 faai3 juk6 hou2 hou2 mei6.",
       "meaning": "This piece of meat is very tasty.",
-      "sourceWordId": "faai3-for-pieces-chunks",
+      "sourceWordId": "faai3-piece",
       "sourceWord": "塊",
       "sourceWordJyutping": "faai3",
       "sourceWordMeaning": "piece",
@@ -2148,14 +2148,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3-for-pieces-chunks.json"
+      "sourceFile": "r2-backup/words/faai3-piece.json"
     },
     {
-      "sentenceId": "faai3-for-pieces-chunks-example-3",
+      "sentenceId": "faai3-piece-example-3",
       "sentence": "買咗三塊肥皂返屋企。",
       "jyutping": "maai5 zo2 saam1 faai3 fei4 zou6 faan1 uk1 kei2.",
       "meaning": "Bought three pieces of soap to bring home.",
-      "sourceWordId": "faai3-for-pieces-chunks",
+      "sourceWordId": "faai3-piece",
       "sourceWord": "塊",
       "sourceWordJyutping": "faai3",
       "sourceWordMeaning": "piece",
@@ -2167,14 +2167,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3-for-pieces-chunks.json"
+      "sourceFile": "r2-backup/words/faai3-piece.json"
     },
     {
-      "sentenceId": "faai3-for-pieces-chunks-example-4",
+      "sentenceId": "faai3-piece-example-4",
       "sentence": "佢畀咗我一塊錢。",
       "jyutping": "keoi5 bei2 zo2 ngo5 jat1 faai3 cin2.",
       "meaning": "He gave me a coin (one piece of money).",
-      "sourceWordId": "faai3-for-pieces-chunks",
+      "sourceWordId": "faai3-piece",
       "sourceWord": "塊",
       "sourceWordJyutping": "faai3",
       "sourceWordMeaning": "piece",
@@ -2186,14 +2186,14 @@
         "quantity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/faai3-for-pieces-chunks.json"
+      "sourceFile": "r2-backup/words/faai3-piece.json"
     },
     {
-      "sentenceId": "deoi3-for-pairs-example-1",
+      "sentenceId": "deoi3-pair-example-1",
       "sentence": "我買咗一對鞋。",
       "jyutping": "ngo5 maai5 zo2 jat1 deoi3 haai4.",
       "meaning": "I bought a pair of shoes.",
-      "sourceWordId": "deoi3-for-pairs",
+      "sourceWordId": "deoi3-pair",
       "sourceWord": "對",
       "sourceWordJyutping": "deoi3",
       "sourceWordMeaning": "pair",
@@ -2205,14 +2205,14 @@
         "objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/deoi3-for-pairs.json"
+      "sourceFile": "r2-backup/words/deoi3-pair.json"
     },
     {
-      "sentenceId": "deoi3-for-pairs-example-2",
+      "sentenceId": "deoi3-pair-example-2",
       "sentence": "你有冇一對筷子？",
       "jyutping": "nei5 jau5 mou5 jat1 deoi3 faai3 zi2?",
       "meaning": "Do you have a pair of chopsticks?",
-      "sourceWordId": "deoi3-for-pairs",
+      "sourceWordId": "deoi3-pair",
       "sourceWord": "對",
       "sourceWordJyutping": "deoi3",
       "sourceWordMeaning": "pair",
@@ -2224,14 +2224,14 @@
         "objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/deoi3-for-pairs.json"
+      "sourceFile": "r2-backup/words/deoi3-pair.json"
     },
     {
-      "sentenceId": "deoi3-for-pairs-example-3",
+      "sentenceId": "deoi3-pair-example-3",
       "sentence": "佢送咗我一對耳環。",
       "jyutping": "keoi5 sung3 zo2 ngo5 jat1 deoi3 ji5 waan4.",
       "meaning": "He gave me a pair of earrings.",
-      "sourceWordId": "deoi3-for-pairs",
+      "sourceWordId": "deoi3-pair",
       "sourceWord": "對",
       "sourceWordJyutping": "deoi3",
       "sourceWordMeaning": "pair",
@@ -2243,14 +2243,14 @@
         "objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/deoi3-for-pairs.json"
+      "sourceFile": "r2-backup/words/deoi3-pair.json"
     },
     {
-      "sentenceId": "deoi3-for-pairs-example-4",
+      "sentenceId": "deoi3-pair-example-4",
       "sentence": "嗰對手套係我嘅。",
       "jyutping": "go2 deoi3 sau2 tou3 hai6 ngo5 ge3.",
       "meaning": "Those gloves are mine.",
-      "sourceWordId": "deoi3-for-pairs",
+      "sourceWordId": "deoi3-pair",
       "sourceWord": "對",
       "sourceWordJyutping": "deoi3",
       "sourceWordMeaning": "pair",
@@ -2262,7 +2262,7 @@
         "objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/deoi3-for-pairs.json"
+      "sourceFile": "r2-backup/words/deoi3-pair.json"
     },
     {
       "sentenceId": "hak1-gram-example-1",
@@ -2341,11 +2341,11 @@
       "sourceFile": "r2-backup/words/hak1-gram.json"
     },
     {
-      "sentenceId": "cin1hak1-kilogram-example-1",
+      "sentenceId": "cin1hak1-kilogram-formal-example-1",
       "sentence": "呢個蘋果大約重兩千克。",
       "jyutping": "ni1 go3 ping4 gwo2 daai6 joek3 zung6 loeng5 cin1 hak1.",
       "meaning": "This apple weighs about two kilograms.",
-      "sourceWordId": "cin1hak1-kilogram",
+      "sourceWordId": "cin1hak1-kilogram-formal",
       "sourceWord": "千克",
       "sourceWordJyutping": "cin1 hak1",
       "sourceWordMeaning": "kilogram (formal)",
@@ -2357,14 +2357,14 @@
         "unit",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cin1hak1-kilogram.json"
+      "sourceFile": "r2-backup/words/cin1hak1-kilogram-formal.json"
     },
     {
-      "sentenceId": "cin1hak1-kilogram-example-2",
+      "sentenceId": "cin1hak1-kilogram-formal-example-2",
       "sentence": "我買咗一包五千克嘅米。",
       "jyutping": "ngo5 maai5 zo2 jat1 baau1 ng5 cin1 hak1 ge3 mai5.",
       "meaning": "I bought a 5-kilogram bag of rice.",
-      "sourceWordId": "cin1hak1-kilogram",
+      "sourceWordId": "cin1hak1-kilogram-formal",
       "sourceWord": "千克",
       "sourceWordJyutping": "cin1 hak1",
       "sourceWordMeaning": "kilogram (formal)",
@@ -2376,14 +2376,14 @@
         "unit",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cin1hak1-kilogram.json"
+      "sourceFile": "r2-backup/words/cin1hak1-kilogram-formal.json"
     },
     {
-      "sentenceId": "cin1hak1-kilogram-example-3",
+      "sentenceId": "cin1hak1-kilogram-formal-example-3",
       "sentence": "貨櫃重達幾千克，好重呀！",
       "jyutping": "fo3 gwai6 zung6 daat6 gei2 cin1 hak1, hou2 cung5 aa3!",
       "meaning": "The container weighs several kilograms, very heavy!",
-      "sourceWordId": "cin1hak1-kilogram",
+      "sourceWordId": "cin1hak1-kilogram-formal",
       "sourceWord": "千克",
       "sourceWordJyutping": "cin1 hak1",
       "sourceWordMeaning": "kilogram (formal)",
@@ -2395,14 +2395,14 @@
         "unit",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cin1hak1-kilogram.json"
+      "sourceFile": "r2-backup/words/cin1hak1-kilogram-formal.json"
     },
     {
-      "sentenceId": "cin1hak1-kilogram-example-4",
+      "sentenceId": "cin1hak1-kilogram-formal-example-4",
       "sentence": "呢部電腦大約有三千克重。",
       "jyutping": "ni1 bou6 din6 nou5 daai6 joek3 jau5 saam1 cin1 hak1 zung6.",
       "meaning": "This computer weighs about three kilograms.",
-      "sourceWordId": "cin1hak1-kilogram",
+      "sourceWordId": "cin1hak1-kilogram-formal",
       "sourceWord": "千克",
       "sourceWordJyutping": "cin1 hak1",
       "sourceWordMeaning": "kilogram (formal)",
@@ -2414,7 +2414,7 @@
         "unit",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cin1hak1-kilogram.json"
+      "sourceFile": "r2-backup/words/cin1hak1-kilogram-formal.json"
     },
     {
       "sentenceId": "gung1gan1-kilogram-common-example-1",
@@ -2645,11 +2645,11 @@
       "sourceFile": "r2-backup/words/jat1gan1-one-catty.json"
     },
     {
-      "sentenceId": "bun3gan1-half-a-catty-example-1",
+      "sentenceId": "bun3gan1-half-catty-example-1",
       "sentence": "我想買半斤西瓜。",
       "jyutping": "ngo5 soeng2 maai5 bun3 gan1 sai1 gwaa1.",
       "meaning": "I want to buy half a catty of watermelon.",
-      "sourceWordId": "bun3gan1-half-a-catty",
+      "sourceWordId": "bun3gan1-half-catty",
       "sourceWord": "半斤",
       "sourceWordJyutping": "bun3 gan1",
       "sourceWordMeaning": "half catty",
@@ -2661,14 +2661,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3gan1-half-a-catty.json"
+      "sourceFile": "r2-backup/words/bun3gan1-half-catty.json"
     },
     {
-      "sentenceId": "bun3gan1-half-a-catty-example-2",
+      "sentenceId": "bun3gan1-half-catty-example-2",
       "sentence": "呢度半斤橙幾多錢？",
       "jyutping": "ni1 dou6 bun3 gan1 caang4 gei2 do1 cin2?",
       "meaning": "How much does half a catty of oranges cost here?",
-      "sourceWordId": "bun3gan1-half-a-catty",
+      "sourceWordId": "bun3gan1-half-catty",
       "sourceWord": "半斤",
       "sourceWordJyutping": "bun3 gan1",
       "sourceWordMeaning": "half catty",
@@ -2680,14 +2680,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3gan1-half-a-catty.json"
+      "sourceFile": "r2-backup/words/bun3gan1-half-catty.json"
     },
     {
-      "sentenceId": "bun3gan1-half-a-catty-example-3",
+      "sentenceId": "bun3gan1-half-catty-example-3",
       "sentence": "阿媽煮咗半斤蝦做餸。",
       "jyutping": "aa3 maa1 zyu2 zo2 bun3 gan1 haa1 zou6 sung3.",
       "meaning": "Mom cooked a dish with half a catty of shrimp.",
-      "sourceWordId": "bun3gan1-half-a-catty",
+      "sourceWordId": "bun3gan1-half-catty",
       "sourceWord": "半斤",
       "sourceWordJyutping": "bun3 gan1",
       "sourceWordMeaning": "half catty",
@@ -2699,14 +2699,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3gan1-half-a-catty.json"
+      "sourceFile": "r2-backup/words/bun3gan1-half-catty.json"
     },
     {
-      "sentenceId": "bun3gan1-half-a-catty-example-4",
+      "sentenceId": "bun3gan1-half-catty-example-4",
       "sentence": "我哋需要半斤糖做蛋糕。",
       "jyutping": "ngo5 dei6 seoi1 jiu3 bun3 gan1 tong4 zou6 daan6 gou1.",
       "meaning": "We need half a catty of sugar to make the cake.",
-      "sourceWordId": "bun3gan1-half-a-catty",
+      "sourceWordId": "bun3gan1-half-catty",
       "sourceWord": "半斤",
       "sourceWordJyutping": "bun3 gan1",
       "sourceWordMeaning": "half catty",
@@ -2718,14 +2718,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3gan1-half-a-catty.json"
+      "sourceFile": "r2-backup/words/bun3gan1-half-catty.json"
     },
     {
-      "sentenceId": "loeng5gan1-two-catty-example-1",
+      "sentenceId": "loeng5gan1-two-catties-example-1",
       "sentence": "我今日買咗兩斤雞蛋。",
       "jyutping": "ngo5 gam1 jat6 maai5 zo2 loeng5 gan1 gai1 daan2.",
       "meaning": "I bought two catties of eggs today.",
-      "sourceWordId": "loeng5gan1-two-catty",
+      "sourceWordId": "loeng5gan1-two-catties",
       "sourceWord": "兩斤",
       "sourceWordJyutping": "loeng5 gan1",
       "sourceWordMeaning": "two catties",
@@ -2737,14 +2737,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5gan1-two-catty.json"
+      "sourceFile": "r2-backup/words/loeng5gan1-two-catties.json"
     },
     {
-      "sentenceId": "loeng5gan1-two-catty-example-2",
+      "sentenceId": "loeng5gan1-two-catties-example-2",
       "sentence": "呢度嘅蘋果好新鮮，我要兩斤。",
       "jyutping": "ni1 dou6 ge3 ping4 gwo2 hou2 san1 sin1, ngo5 jiu3 loeng5 gan1.",
       "meaning": "The apples here are fresh; I want two catties.",
-      "sourceWordId": "loeng5gan1-two-catty",
+      "sourceWordId": "loeng5gan1-two-catties",
       "sourceWord": "兩斤",
       "sourceWordJyutping": "loeng5 gan1",
       "sourceWordMeaning": "two catties",
@@ -2756,14 +2756,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5gan1-two-catty.json"
+      "sourceFile": "r2-backup/words/loeng5gan1-two-catties.json"
     },
     {
-      "sentenceId": "loeng5gan1-two-catty-example-3",
+      "sentenceId": "loeng5gan1-two-catties-example-3",
       "sentence": "廚房入面仲有兩斤肉喺冰箱。",
       "jyutping": "cyu4 fong4 jap6 min6 zung6 jau5 loeng5 gan1 juk6 hai2 bing1 soeng1.",
       "meaning": "There are still two catties of meat in the fridge.",
-      "sourceWordId": "loeng5gan1-two-catty",
+      "sourceWordId": "loeng5gan1-two-catties",
       "sourceWord": "兩斤",
       "sourceWordJyutping": "loeng5 gan1",
       "sourceWordMeaning": "two catties",
@@ -2775,14 +2775,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5gan1-two-catty.json"
+      "sourceFile": "r2-backup/words/loeng5gan1-two-catties.json"
     },
     {
-      "sentenceId": "loeng5gan1-two-catty-example-4",
+      "sentenceId": "loeng5gan1-two-catties-example-4",
       "sentence": "我哋需要買兩斤薯仔做晚餐。",
       "jyutping": "ngo5 dei6 seoi1 jiu3 maai5 loeng5 gan1 syu4 zai2 zou6 maan5 caan1.",
       "meaning": "We need to buy two catties of potatoes for dinner.",
-      "sourceWordId": "loeng5gan1-two-catty",
+      "sourceWordId": "loeng5gan1-two-catties",
       "sourceWord": "兩斤",
       "sourceWordJyutping": "loeng5 gan1",
       "sourceWordMeaning": "two catties",
@@ -2794,7 +2794,7 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/loeng5gan1-two-catty.json"
+      "sourceFile": "r2-backup/words/loeng5gan1-two-catties.json"
     },
     {
       "sentenceId": "gung1sing1-litre-example-1",
@@ -3025,11 +3025,11 @@
       "sourceFile": "r2-backup/words/jat1bui1-one-cup.json"
     },
     {
-      "sentenceId": "bun3bui1-half-a-cup-example-1",
+      "sentenceId": "bun3bui1-half-cup-example-1",
       "sentence": "我想要半杯水。",
       "jyutping": "ngo5 soeng2 jiu3 bun3 bui1 seoi2.",
       "meaning": "I want half a cup of water.",
-      "sourceWordId": "bun3bui1-half-a-cup",
+      "sourceWordId": "bun3bui1-half-cup",
       "sourceWord": "半杯",
       "sourceWordJyutping": "bun3 bui1",
       "sourceWordMeaning": "half cup",
@@ -3041,14 +3041,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3bui1-half-a-cup.json"
+      "sourceFile": "r2-backup/words/bun3bui1-half-cup.json"
     },
     {
-      "sentenceId": "bun3bui1-half-a-cup-example-2",
+      "sentenceId": "bun3bui1-half-cup-example-2",
       "sentence": "請比我半杯牛奶。",
       "jyutping": "ceng2 bei2 ngo5 bun3 bui1 ngau4 naai5.",
       "meaning": "Please give me half a cup of milk.",
-      "sourceWordId": "bun3bui1-half-a-cup",
+      "sourceWordId": "bun3bui1-half-cup",
       "sourceWord": "半杯",
       "sourceWordJyutping": "bun3 bui1",
       "sourceWordMeaning": "half cup",
@@ -3060,14 +3060,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3bui1-half-a-cup.json"
+      "sourceFile": "r2-backup/words/bun3bui1-half-cup.json"
     },
     {
-      "sentenceId": "bun3bui1-half-a-cup-example-3",
+      "sentenceId": "bun3bui1-half-cup-example-3",
       "sentence": "蛋糕入面要加半杯麵粉。",
       "jyutping": "daan6 gou1 jap6 min6 jiu3 gaa1 bun3 bui1 min6 fan2.",
       "meaning": "The cake needs half a cup of flour.",
-      "sourceWordId": "bun3bui1-half-a-cup",
+      "sourceWordId": "bun3bui1-half-cup",
       "sourceWord": "半杯",
       "sourceWordJyutping": "bun3 bui1",
       "sourceWordMeaning": "half cup",
@@ -3079,14 +3079,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3bui1-half-a-cup.json"
+      "sourceFile": "r2-backup/words/bun3bui1-half-cup.json"
     },
     {
-      "sentenceId": "bun3bui1-half-a-cup-example-4",
+      "sentenceId": "bun3bui1-half-cup-example-4",
       "sentence": "呢杯咖啡只係半杯，要再加啲。",
       "jyutping": "ni1 bui1 gaa3 fe1 zi2 hai6 bun3 bui1, jiu3 zoi3 gaa1 di1.",
       "meaning": "This cup of coffee is only half a cup, need to add more.",
-      "sourceWordId": "bun3bui1-half-a-cup",
+      "sourceWordId": "bun3bui1-half-cup",
       "sourceWord": "半杯",
       "sourceWordJyutping": "bun3 bui1",
       "sourceWordMeaning": "half cup",
@@ -3098,7 +3098,7 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3bui1-half-a-cup.json"
+      "sourceFile": "r2-backup/words/bun3bui1-half-cup.json"
     },
     {
       "sentenceId": "jat1zeon1-one-bottle-example-1",
@@ -3709,11 +3709,11 @@
       "sourceFile": "r2-backup/words/jat1gung1lei5-one-kilometre.json"
     },
     {
-      "sentenceId": "bun3mai5-half-a-metre-example-1",
+      "sentenceId": "bun3mai5-half-metre-example-1",
       "sentence": "我買咗半米布嚟整衫。",
       "jyutping": "ngo5 maai5 zo2 bun3 mai5 bou3 lai4 zing2 saam1.",
       "meaning": "I bought half a meter of fabric to make clothes.",
-      "sourceWordId": "bun3mai5-half-a-metre",
+      "sourceWordId": "bun3mai5-half-metre",
       "sourceWord": "半米",
       "sourceWordJyutping": "bun3 mai5",
       "sourceWordMeaning": "half metre",
@@ -3725,14 +3725,14 @@
         "physical-objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3mai5-half-a-metre.json"
+      "sourceFile": "r2-backup/words/bun3mai5-half-metre.json"
     },
     {
-      "sentenceId": "bun3mai5-half-a-metre-example-2",
+      "sentenceId": "bun3mai5-half-metre-example-2",
       "sentence": "張枱長大約半米。",
       "jyutping": "zoeng1 toi4 coeng4 daai6 joek3 bun3 mai5.",
       "meaning": "The table is about half a meter long.",
-      "sourceWordId": "bun3mai5-half-a-metre",
+      "sourceWordId": "bun3mai5-half-metre",
       "sourceWord": "半米",
       "sourceWordJyutping": "bun3 mai5",
       "sourceWordMeaning": "half metre",
@@ -3744,14 +3744,14 @@
         "physical-objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3mai5-half-a-metre.json"
+      "sourceFile": "r2-backup/words/bun3mai5-half-metre.json"
     },
     {
-      "sentenceId": "bun3mai5-half-a-metre-example-3",
+      "sentenceId": "bun3mai5-half-metre-example-3",
       "sentence": "這條魚大約有半米長。",
       "jyutping": "ze5 tiu4 jyu4 daai6 joek3 jau5 bun3 mai5 coeng4.",
       "meaning": "This fish is about half a meter long.",
-      "sourceWordId": "bun3mai5-half-a-metre",
+      "sourceWordId": "bun3mai5-half-metre",
       "sourceWord": "半米",
       "sourceWordJyutping": "bun3 mai5",
       "sourceWordMeaning": "half metre",
@@ -3763,14 +3763,14 @@
         "physical-objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3mai5-half-a-metre.json"
+      "sourceFile": "r2-backup/words/bun3mai5-half-metre.json"
     },
     {
-      "sentenceId": "bun3mai5-half-a-metre-example-4",
+      "sentenceId": "bun3mai5-half-metre-example-4",
       "sentence": "請量下嗰套傢俬係咪有半米高。",
       "jyutping": "cing2 loeng4 haa5 go2 tou3 gaa1 si1 hai6 mai6 jau5 bun3 mai5 gou1.",
       "meaning": "Please measure if that furniture set is half a meter high.",
-      "sourceWordId": "bun3mai5-half-a-metre",
+      "sourceWordId": "bun3mai5-half-metre",
       "sourceWord": "半米",
       "sourceWordJyutping": "bun3 mai5",
       "sourceWordMeaning": "half metre",
@@ -3782,7 +3782,7 @@
         "physical-objects",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3mai5-half-a-metre.json"
+      "sourceFile": "r2-backup/words/bun3mai5-half-metre.json"
     },
     {
       "sentenceId": "si4gaan3-time-example-1",
@@ -4089,11 +4089,11 @@
       "sourceFile": "r2-backup/words/jat1fan1zung1-one-minute.json"
     },
     {
-      "sentenceId": "bun3siu2si4-half-an-hour-example-1",
+      "sentenceId": "bun3siu2si4-half-hour-example-1",
       "sentence": "我哋行咗半小時先到。",
       "jyutping": "ngo5 dei6 hang4 zo2 bun3 siu2 si4 sin1 dou3.",
       "meaning": "We walked for half an hour before arriving.",
-      "sourceWordId": "bun3siu2si4-half-an-hour",
+      "sourceWordId": "bun3siu2si4-half-hour",
       "sourceWord": "半小時",
       "sourceWordJyutping": "bun3 siu2 si4",
       "sourceWordMeaning": "half hour",
@@ -4105,14 +4105,14 @@
         "temporal noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3siu2si4-half-an-hour.json"
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
     },
     {
-      "sentenceId": "bun3siu2si4-half-an-hour-example-2",
+      "sentenceId": "bun3siu2si4-half-hour-example-2",
       "sentence": "開會會喺半小時後開始。",
       "jyutping": "hoi1 wui6 wui5 hai2 bun3 siu2 si4 hau6 hoi1 ci2.",
       "meaning": "The meeting will start in half an hour.",
-      "sourceWordId": "bun3siu2si4-half-an-hour",
+      "sourceWordId": "bun3siu2si4-half-hour",
       "sourceWord": "半小時",
       "sourceWordJyutping": "bun3 siu2 si4",
       "sourceWordMeaning": "half hour",
@@ -4124,14 +4124,14 @@
         "temporal noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3siu2si4-half-an-hour.json"
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
     },
     {
-      "sentenceId": "bun3siu2si4-half-an-hour-example-3",
+      "sentenceId": "bun3siu2si4-half-hour-example-3",
       "sentence": "煲湯要煮至少半小時。",
       "jyutping": "bou1 tong1 jiu3 zyu2 zi3 siu2 bun3 siu2 si4.",
       "meaning": "The soup needs to cook for at least half an hour.",
-      "sourceWordId": "bun3siu2si4-half-an-hour",
+      "sourceWordId": "bun3siu2si4-half-hour",
       "sourceWord": "半小時",
       "sourceWordJyutping": "bun3 siu2 si4",
       "sourceWordMeaning": "half hour",
@@ -4143,14 +4143,14 @@
         "temporal noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3siu2si4-half-an-hour.json"
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
     },
     {
-      "sentenceId": "bun3siu2si4-half-an-hour-example-4",
+      "sentenceId": "bun3siu2si4-half-hour-example-4",
       "sentence": "我今朝遲咗半小時返工。",
       "jyutping": "ngo5 gam1 ziu1 ci4 zo2 bun3 siu2 si4 faan1 gung1.",
       "meaning": "I was half an hour late to work this morning.",
-      "sourceWordId": "bun3siu2si4-half-an-hour",
+      "sourceWordId": "bun3siu2si4-half-hour",
       "sourceWord": "半小時",
       "sourceWordJyutping": "bun3 siu2 si4",
       "sourceWordMeaning": "half hour",
@@ -4162,14 +4162,14 @@
         "temporal noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3siu2si4-half-an-hour.json"
+      "sourceFile": "r2-backup/words/bun3siu2si4-half-hour.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-example-1",
+      "sentenceId": "jat1go3zung1-one-hour-2-example-1",
       "sentence": "我等咗你一個鐘。",
       "jyutping": "ngo5 dang2 zo2 nei5 jat1 go3 zung1",
       "meaning": "I waited for you for one hour.",
-      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWordId": "jat1go3zung1-one-hour-2",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4181,14 +4181,14 @@
         "measurement",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-2.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-example-2",
+      "sentenceId": "jat1go3zung1-one-hour-2-example-2",
       "sentence": "做功課要一個鐘。",
       "jyutping": "zou6 gung1 fo3 jiu3 jat1 go3 zung1",
       "meaning": "Doing homework takes one hour.",
-      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWordId": "jat1go3zung1-one-hour-2",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4200,14 +4200,14 @@
         "measurement",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-2.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-example-3",
+      "sentenceId": "jat1go3zung1-one-hour-2-example-3",
       "sentence": "坐車去尖沙咀一個鐘。",
       "jyutping": "co5 ce1 heoi3 zim1 saa1 zeoi2 jat1 go3 zung1",
       "meaning": "It takes one hour by car to get to Tsim Sha Tsui.",
-      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWordId": "jat1go3zung1-one-hour-2",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4219,14 +4219,14 @@
         "measurement",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-2.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-example-4",
+      "sentenceId": "jat1go3zung1-one-hour-2-example-4",
       "sentence": "我哋玩咗一個鐘喇。",
       "jyutping": "ngo5 dei6 waan2 zo2 jat1 go3 zung1 laa3",
       "meaning": "We played for one hour already.",
-      "sourceWordId": "jat1go3zung1-one-hour",
+      "sourceWordId": "jat1go3zung1-one-hour-2",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4238,14 +4238,14 @@
         "measurement",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-2.json"
     },
     {
-      "sentenceId": "bun3go3zung1-half-an-hour-colloquial-example-1",
+      "sentenceId": "bun3go3zung1-half-hour-spoken-example-1",
       "sentence": "我哋等咗半個鐘先有人嚟。",
       "jyutping": "ngo5 dei6 dang2 zo2 bun3 go3 zung1 sin1 jau5 jan4 lai4.",
       "meaning": "We waited for half an hour before someone came.",
-      "sourceWordId": "bun3go3zung1-half-an-hour-colloquial",
+      "sourceWordId": "bun3go3zung1-half-hour-spoken",
       "sourceWord": "半個鐘",
       "sourceWordJyutping": "bun3 go3 zung1",
       "sourceWordMeaning": "half hour (spoken)",
@@ -4257,14 +4257,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3go3zung1-half-an-hour-colloquial.json"
+      "sourceFile": "r2-backup/words/bun3go3zung1-half-hour-spoken.json"
     },
     {
-      "sentenceId": "bun3go3zung1-half-an-hour-colloquial-example-2",
+      "sentenceId": "bun3go3zung1-half-hour-spoken-example-2",
       "sentence": "返屋企要行半個鐘。",
       "jyutping": "faan1 uk1 kei2 jiu3 haang4 bun3 go3 zung1.",
       "meaning": "It takes half an hour to walk home.",
-      "sourceWordId": "bun3go3zung1-half-an-hour-colloquial",
+      "sourceWordId": "bun3go3zung1-half-hour-spoken",
       "sourceWord": "半個鐘",
       "sourceWordJyutping": "bun3 go3 zung1",
       "sourceWordMeaning": "half hour (spoken)",
@@ -4276,14 +4276,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3go3zung1-half-an-hour-colloquial.json"
+      "sourceFile": "r2-backup/words/bun3go3zung1-half-hour-spoken.json"
     },
     {
-      "sentenceId": "bun3go3zung1-half-an-hour-colloquial-example-3",
+      "sentenceId": "bun3go3zung1-half-hour-spoken-example-3",
       "sentence": "你有半個鐘做功課啦。",
       "jyutping": "nei5 jau5 bun3 go3 zung1 zou6 gung1 fo3 laa1.",
       "meaning": "You have half an hour to do your homework.",
-      "sourceWordId": "bun3go3zung1-half-an-hour-colloquial",
+      "sourceWordId": "bun3go3zung1-half-hour-spoken",
       "sourceWord": "半個鐘",
       "sourceWordJyutping": "bun3 go3 zung1",
       "sourceWordMeaning": "half hour (spoken)",
@@ -4295,14 +4295,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3go3zung1-half-an-hour-colloquial.json"
+      "sourceFile": "r2-backup/words/bun3go3zung1-half-hour-spoken.json"
     },
     {
-      "sentenceId": "bun3go3zung1-half-an-hour-colloquial-example-4",
+      "sentenceId": "bun3go3zung1-half-hour-spoken-example-4",
       "sentence": "等半個鐘，我就出門。",
       "jyutping": "dang2 bun3 go3 zung1, ngo5 zau6 ceot1 mun4.",
       "meaning": "Wait half an hour, I'll go out then.",
-      "sourceWordId": "bun3go3zung1-half-an-hour-colloquial",
+      "sourceWordId": "bun3go3zung1-half-hour-spoken",
       "sourceWord": "半個鐘",
       "sourceWordJyutping": "bun3 go3 zung1",
       "sourceWordMeaning": "half hour (spoken)",
@@ -4314,7 +4314,7 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bun3go3zung1-half-an-hour-colloquial.json"
+      "sourceFile": "r2-backup/words/bun3go3zung1-half-hour-spoken.json"
     },
     {
       "sentenceId": "cam4jat6-yesterday-example-1",
@@ -4761,11 +4761,11 @@
       "sourceFile": "r2-backup/words/faai3di1-faster.json"
     },
     {
-      "sentenceId": "maan6di1-a-bit-slower-example-1",
+      "sentenceId": "maan6di1-slower-example-1",
       "sentence": "你開車慢啲呀。",
       "jyutping": "nei5 hoi1 ce1 maan6 di1 aa3",
       "meaning": "Drive a bit slower.",
-      "sourceWordId": "maan6di1-a-bit-slower",
+      "sourceWordId": "maan6di1-slower",
       "sourceWord": "慢啲",
       "sourceWordJyutping": "maan6 di1",
       "sourceWordMeaning": "slower",
@@ -4776,14 +4776,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maan6di1-a-bit-slower.json"
+      "sourceFile": "r2-backup/words/maan6di1-slower.json"
     },
     {
-      "sentenceId": "maan6di1-a-bit-slower-example-2",
+      "sentenceId": "maan6di1-slower-example-2",
       "sentence": "講慢啲，我聽唔清楚。",
       "jyutping": "gong2 maan6 di1, ngo5 teng1 m4 cing1 co2",
       "meaning": "Speak slower, I can't hear clearly.",
-      "sourceWordId": "maan6di1-a-bit-slower",
+      "sourceWordId": "maan6di1-slower",
       "sourceWord": "慢啲",
       "sourceWordJyutping": "maan6 di1",
       "sourceWordMeaning": "slower",
@@ -4794,14 +4794,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maan6di1-a-bit-slower.json"
+      "sourceFile": "r2-backup/words/maan6di1-slower.json"
     },
     {
-      "sentenceId": "maan6di1-a-bit-slower-example-3",
+      "sentenceId": "maan6di1-slower-example-3",
       "sentence": "飲茶慢啲，唔好噎親。",
       "jyutping": "jam2 caa4 maan6 di1, m4 hou2 ngaak1 can1",
       "meaning": "Drink tea slowly, don't choke.",
-      "sourceWordId": "maan6di1-a-bit-slower",
+      "sourceWordId": "maan6di1-slower",
       "sourceWord": "慢啲",
       "sourceWordJyutping": "maan6 di1",
       "sourceWordMeaning": "slower",
@@ -4812,14 +4812,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maan6di1-a-bit-slower.json"
+      "sourceFile": "r2-backup/words/maan6di1-slower.json"
     },
     {
-      "sentenceId": "maan6di1-a-bit-slower-example-4",
+      "sentenceId": "maan6di1-slower-example-4",
       "sentence": "行路慢啲，街好滑。",
       "jyutping": "haang4 lou6 maan6 di1, gaai1 hou2 waat6",
       "meaning": "Walk slower, the street is slippery.",
-      "sourceWordId": "maan6di1-a-bit-slower",
+      "sourceWordId": "maan6di1-slower",
       "sourceWord": "慢啲",
       "sourceWordJyutping": "maan6 di1",
       "sourceWordMeaning": "slower",
@@ -4830,14 +4830,14 @@
         "polite requests",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maan6di1-a-bit-slower.json"
+      "sourceFile": "r2-backup/words/maan6di1-slower.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-speed-example-1",
+      "sentenceId": "jat1go3zung1-one-hour-example-1",
       "sentence": "我做功課做咗一個鐘。",
       "jyutping": "ngo5 zou6 gung1 fo3 zou6 zo2 jat1 go3 zung1。",
       "meaning": "I did homework for one hour.",
-      "sourceWordId": "jat1go3zung1-one-hour-speed",
+      "sourceWordId": "jat1go3zung1-one-hour",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4849,14 +4849,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-speed.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-speed-example-2",
+      "sentenceId": "jat1go3zung1-one-hour-example-2",
       "sentence": "巴士要一個鐘先到。",
       "jyutping": "baa1 si2 jiu3 jat1 go3 zung1 sin1 dou3。",
       "meaning": "The bus takes one hour to arrive.",
-      "sourceWordId": "jat1go3zung1-one-hour-speed",
+      "sourceWordId": "jat1go3zung1-one-hour",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4868,14 +4868,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-speed.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-speed-example-3",
+      "sentenceId": "jat1go3zung1-one-hour-example-3",
       "sentence": "我喺度等咗一個鐘。",
       "jyutping": "ngo5 hai2 dou6 dang2 zo2 jat1 go3 zung1。",
       "meaning": "I have been waiting here for one hour.",
-      "sourceWordId": "jat1go3zung1-one-hour-speed",
+      "sourceWordId": "jat1go3zung1-one-hour",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4887,14 +4887,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-speed.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
     },
     {
-      "sentenceId": "jat1go3zung1-one-hour-speed-example-4",
+      "sentenceId": "jat1go3zung1-one-hour-example-4",
       "sentence": "呢個電影長一個鐘。",
       "jyutping": "ni1 go3 din6 jing2 coeng4 jat1 go3 zung1。",
       "meaning": "This movie is one hour long.",
-      "sourceWordId": "jat1go3zung1-one-hour-speed",
+      "sourceWordId": "jat1go3zung1-one-hour",
       "sourceWord": "一個鐘",
       "sourceWordJyutping": "jat1 go3 zung1",
       "sourceWordMeaning": "one hour",
@@ -4906,7 +4906,7 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour-speed.json"
+      "sourceFile": "r2-backup/words/jat1go3zung1-one-hour.json"
     }
   ],
   "missingWordFiles": []

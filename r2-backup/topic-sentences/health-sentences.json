@@ -6,152 +6,160 @@
   "items": [
     {
       "sentenceId": "ji1sang1-doctor-example-1",
-      "sentence": "我今晚要睇醫生。",
-      "jyutping": "ngo5 gam1 maan5 jiu3 tai2 ji1 sang1.",
-      "meaning": "I need to see a doctor tonight.",
+      "sentence": "我今日要去睇醫生。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 tai2 ji1 sang1.",
+      "meaning": "I need to go see a doctor today.",
       "sourceWordId": "ji1sang1-doctor",
       "sourceWord": "醫生",
       "sourceWordJyutping": "ji1 sang1",
       "sourceWordMeaning": "doctor",
       "tags": [
-        "health",
-        "medicine",
-        "profession",
-        "hospital",
-        "doctor",
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
     },
     {
       "sentenceId": "ji1sang1-doctor-example-2",
-      "sentence": "醫生話我冇事。",
-      "jyutping": "ji1 sang1 waa6 ngo5 mou5 si6.",
-      "meaning": "The doctor said I'm fine.",
+      "sentence": "呢位醫生好有耐性。",
+      "jyutping": "ni1 wai2 ji1 sang1 hou2 jau5 noi6 sing3.",
+      "meaning": "This doctor is very patient.",
       "sourceWordId": "ji1sang1-doctor",
       "sourceWord": "醫生",
       "sourceWordJyutping": "ji1 sang1",
       "sourceWordMeaning": "doctor",
       "tags": [
-        "health",
-        "medicine",
-        "profession",
-        "hospital",
-        "doctor",
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
     },
     {
       "sentenceId": "ji1sang1-doctor-example-3",
-      "sentence": "你識唔識邊個醫生？",
-      "jyutping": "nei5 sik1 m4 sik1 bin1 go3 ji1 sang1?",
-      "meaning": "Do you know any doctor?",
+      "sentence": "阿媽叫我打電話問醫生。",
+      "jyutping": "aa3 maa1 giu3 ngo5 daa2 din6 waa2 man6 ji1 sang1.",
+      "meaning": "Mom told me to call and ask the doctor.",
       "sourceWordId": "ji1sang1-doctor",
       "sourceWord": "醫生",
       "sourceWordJyutping": "ji1 sang1",
       "sourceWordMeaning": "doctor",
       "tags": [
-        "health",
-        "medicine",
-        "profession",
-        "hospital",
-        "doctor",
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
     },
     {
       "sentenceId": "ji1sang1-doctor-example-4",
-      "sentence": "醫生喺醫院做嘢。",
-      "jyutping": "ji1 sang1 hai2 ji1 jyun2 zou6 je5.",
-      "meaning": "The doctor works at the hospital.",
+      "sentence": "醫生話我需要多休息。",
+      "jyutping": "ji1 sang1 waa6 ngo5 seoi1 jiu3 do1 jau1 sik1.",
+      "meaning": "The doctor said I need more rest.",
       "sourceWordId": "ji1sang1-doctor",
       "sourceWord": "醫生",
       "sourceWordJyutping": "ji1 sang1",
       "sourceWordMeaning": "doctor",
       "tags": [
-        "health",
-        "medicine",
-        "profession",
-        "hospital",
-        "doctor",
+        "jobs and professions",
+        "healthcare",
+        "public service",
+        "common noun",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1sang1-doctor.json"
     },
     {
       "sentenceId": "wu6si6-nurse-example-1",
-      "sentence": "護士今日冇嚟返工。",
-      "jyutping": "wu6 si6 gam1 jat6 mou5 lei4 faan1 gung1",
-      "meaning": "The nurse didn't come to work today.",
+      "sentence": "我阿姨係護士。",
+      "jyutping": "ngo5 aa3 ji4 hai6 wu6 si6.",
+      "meaning": "My aunt is a nurse.",
       "sourceWordId": "wu6si6-nurse",
       "sourceWord": "護士",
       "sourceWordJyutping": "wu6 si6",
       "sourceWordMeaning": "nurse",
       "tags": [
-        "health",
-        "medicine",
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
         "hospital",
-        "medical_staff",
-        "occupation",
+        "beginner",
+        "noun",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/wu6si6-nurse.json"
     },
     {
       "sentenceId": "wu6si6-nurse-example-2",
-      "sentence": "醫生同護士一齊幫患者。",
-      "jyutping": "ji1 sang1 tung4 wu6 si6 jat1 cai4 bong1 waan6 ze2",
-      "meaning": "The doctor and nurse work together to help the patient.",
+      "sentence": "個護士好有耐性。",
+      "jyutping": "go3 wu6 si6 hou2 jau5 noi6 sing3.",
+      "meaning": "The nurse is very patient.",
       "sourceWordId": "wu6si6-nurse",
       "sourceWord": "護士",
       "sourceWordJyutping": "wu6 si6",
       "sourceWordMeaning": "nurse",
       "tags": [
-        "health",
-        "medicine",
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
         "hospital",
-        "medical_staff",
-        "occupation",
+        "beginner",
+        "noun",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/wu6si6-nurse.json"
     },
     {
       "sentenceId": "wu6si6-nurse-example-3",
-      "sentence": "呢個護士好貼心。",
-      "jyutping": "ni1 go3 wu6 si6 hou2 tip3 sam1",
-      "meaning": "This nurse is very caring.",
+      "sentence": "佢喺醫院做護士。",
+      "jyutping": "keoi5 hai2 ji1 jyun2 zou6 wu6 si6.",
+      "meaning": "He/She works as a nurse in a hospital.",
       "sourceWordId": "wu6si6-nurse",
       "sourceWord": "護士",
       "sourceWordJyutping": "wu6 si6",
       "sourceWordMeaning": "nurse",
       "tags": [
-        "health",
-        "medicine",
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
         "hospital",
-        "medical_staff",
-        "occupation",
+        "beginner",
+        "noun",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/wu6si6-nurse.json"
     },
     {
       "sentenceId": "wu6si6-nurse-example-4",
-      "sentence": "我細個時候想做護士。",
-      "jyutping": "ngo5 sai3 go3 si4 hau6 soeng2 zou6 wu6 si6",
-      "meaning": "I wanted to be a nurse when I was young.",
+      "sentence": "夜晚值班嗰個護士幫咗我好多。",
+      "jyutping": "je6 maan5 zik6 baan1 go2 go3 wu6 si6 bong1 zo2 ngo5 hou2 do1.",
+      "meaning": "The nurse on night duty helped me a lot.",
       "sourceWordId": "wu6si6-nurse",
       "sourceWord": "護士",
       "sourceWordJyutping": "wu6 si6",
       "sourceWordMeaning": "nurse",
       "tags": [
-        "health",
-        "medicine",
+        "jobs",
+        "professions",
+        "public service",
+        "healthcare",
         "hospital",
-        "medical_staff",
-        "occupation",
+        "beginner",
+        "noun",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/wu6si6-nurse.json"
@@ -234,152 +242,160 @@
     },
     {
       "sentenceId": "can2so2-clinic-example-1",
-      "sentence": "我今日去診所睇醫生。",
-      "jyutping": "ngo5 gam1 jat6 heoi3 can2 so2 tai2 ji1 sang1.",
-      "meaning": "I went to the clinic to see a doctor today.",
+      "sentence": "我今日要去診所睇醫生。",
+      "jyutping": "ngo5 gam1jat6 jiu3 heoi3 can2 so2 tai2 ji1 sang1.",
+      "meaning": "I need to go to the clinic to see a doctor today.",
       "sourceWordId": "can2so2-clinic",
       "sourceWord": "診所",
       "sourceWordJyutping": "can2 so2",
       "sourceWordMeaning": "clinic",
       "tags": [
-        "health",
-        "medical",
         "clinic",
-        "doctor",
-        "hospital",
+        "healthcare",
+        "medical",
+        "public services",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/can2so2-clinic.json"
     },
     {
       "sentenceId": "can2so2-clinic-example-2",
-      "sentence": "呢間診所幾時開門？",
-      "jyutping": "ni1 gaan1 can2 so2 gei2 si4 hoi1 mun4?",
-      "meaning": "When does this clinic open?",
+      "sentence": "呢間診所夜晚都開。",
+      "jyutping": "ni1 gaan1 can2 so2 je6 maan5 dou1 hoi1.",
+      "meaning": "This clinic is open at night too.",
       "sourceWordId": "can2so2-clinic",
       "sourceWord": "診所",
       "sourceWordJyutping": "can2 so2",
       "sourceWordMeaning": "clinic",
       "tags": [
-        "health",
-        "medical",
         "clinic",
-        "doctor",
-        "hospital",
+        "healthcare",
+        "medical",
+        "public services",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/can2so2-clinic.json"
     },
     {
       "sentenceId": "can2so2-clinic-example-3",
-      "sentence": "你可以喺附近嘅診所買藥。",
-      "jyutping": "nei5 ho2 ji5 hai2 fu6 gan6 ge3 can2 so2 maai5 joek6.",
-      "meaning": "You can buy medicine at the nearby clinic.",
+      "sentence": "小朋友發燒，媽媽帶佢去診所。",
+      "jyutping": "siu2 pang4 jau5 faat3 siu1, maa1 maa1 daai3 keoi5 heoi3 can2 so2.",
+      "meaning": "The child has a fever, so Mom takes him to the clinic.",
       "sourceWordId": "can2so2-clinic",
       "sourceWord": "診所",
       "sourceWordJyutping": "can2 so2",
       "sourceWordMeaning": "clinic",
       "tags": [
-        "health",
-        "medical",
         "clinic",
-        "doctor",
-        "hospital",
+        "healthcare",
+        "medical",
+        "public services",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/can2so2-clinic.json"
     },
     {
       "sentenceId": "can2so2-clinic-example-4",
-      "sentence": "牙科診所嘅服務好專業。",
-      "jyutping": "ngaa4 fo1 can2 so2 ge3 fuk6 mou6 hou2 zyun1 jip6.",
-      "meaning": "The dental clinic's service is very professional.",
+      "sentence": "附近有冇牙科診所？",
+      "jyutping": "fau6 gan6 jau5 mou5 ngaa4 fo1 can2 so2?",
+      "meaning": "Is there a dental clinic nearby?",
       "sourceWordId": "can2so2-clinic",
       "sourceWord": "診所",
       "sourceWordJyutping": "can2 so2",
       "sourceWordMeaning": "clinic",
       "tags": [
-        "health",
-        "medical",
         "clinic",
-        "doctor",
-        "hospital",
+        "healthcare",
+        "medical",
+        "public services",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/can2so2-clinic.json"
     },
     {
       "sentenceId": "ji1jyun2-hospital-example-1",
-      "sentence": "我聽日要去醫院做身體檢查。",
-      "jyutping": "ngo5 teng1 jat6 jiu3 heoi3 ji1 jyun2 zou6 san1 tai2 gim2 caa4.",
-      "meaning": "I have to go to the hospital tomorrow for a physical check-up.",
+      "sentence": "佢今朝頭痛得好犀利，所以去咗醫院睇醫生。",
+      "jyutping": "keoi5 gam1 ziu1 tau4 tung3 dak1 hou2 sai1 lei6, so3 ji5 heoi3 zo2 ji1 jyun2 tai2 ji1 sang1.",
+      "meaning": "He had a severe headache this morning, so he went to the hospital to see a doctor.",
       "sourceWordId": "ji1jyun2-hospital",
       "sourceWord": "醫院",
       "sourceWordJyutping": "ji1 jyun2",
       "sourceWordMeaning": "hospital",
       "tags": [
-        "health",
-        "medicine",
+        "healthcare",
+        "public services",
         "hospital",
         "medical",
-        "Cantonese",
+        "everyday vocabulary",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1jyun2-hospital.json"
     },
     {
       "sentenceId": "ji1jyun2-hospital-example-2",
-      "sentence": "醫院入面有好多醫生同護士。",
-      "jyutping": "ji1 jyun2 jap6 min6 jau5 hou2 do1 ji1 sang1 tung4 wu6 si6.",
-      "meaning": "There are many doctors and nurses inside the hospital.",
+      "sentence": "呢間醫院喺屋企附近，行路十分鐘就到。",
+      "jyutping": "ni1 gaan1 ji1 jyun2 hai2 uk1 kei2 fu6 gan6, hong4 lou6 sap6 fan1 zung1 zau6 dou3.",
+      "meaning": "This hospital is near my home, and it takes only ten minutes to walk there.",
       "sourceWordId": "ji1jyun2-hospital",
       "sourceWord": "醫院",
       "sourceWordJyutping": "ji1 jyun2",
       "sourceWordMeaning": "hospital",
       "tags": [
-        "health",
-        "medicine",
+        "healthcare",
+        "public services",
         "hospital",
         "medical",
-        "Cantonese",
+        "everyday vocabulary",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1jyun2-hospital.json"
     },
     {
       "sentenceId": "ji1jyun2-hospital-example-3",
-      "sentence": "佢喺醫院工作，好忙碌。",
-      "jyutping": "keoi5 hai2 ji1 jyun2 gung1 zok3, hou2 mong4 luk6.",
-      "meaning": "He works at the hospital and is very busy.",
+      "sentence": "阿媽要留喺醫院觀察一晚。",
+      "jyutping": "aa3 maa1 jiu3 lau4 hai2 ji1 jyun2 gun1 caat3 jat1 maan5.",
+      "meaning": "My mother needs to stay in the hospital for observation for one night.",
       "sourceWordId": "ji1jyun2-hospital",
       "sourceWord": "醫院",
       "sourceWordJyutping": "ji1 jyun2",
       "sourceWordMeaning": "hospital",
       "tags": [
-        "health",
-        "medicine",
+        "healthcare",
+        "public services",
         "hospital",
         "medical",
-        "Cantonese",
+        "everyday vocabulary",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1jyun2-hospital.json"
     },
     {
       "sentenceId": "ji1jyun2-hospital-example-4",
-      "sentence": "聽講新醫院好先進。",
-      "jyutping": "teng1 gong2 san1 ji1 jyun2 hou2 sin1 zeon3.",
-      "meaning": "I heard the new hospital is very advanced.",
+      "sentence": "如果有急症，最好即刻去最近嘅醫院。",
+      "jyutping": "jyu4 gwo2 jau5 gap1 zing3, zeoi3 hou2 zik1 hak1 heoi3 zeoi3 gan6 ge3 ji1 jyun2.",
+      "meaning": "If there is an emergency, it is best to go to the nearest hospital immediately.",
       "sourceWordId": "ji1jyun2-hospital",
       "sourceWord": "醫院",
       "sourceWordJyutping": "ji1 jyun2",
       "sourceWordMeaning": "hospital",
       "tags": [
-        "health",
-        "medicine",
+        "healthcare",
+        "public services",
         "hospital",
         "medical",
-        "Cantonese",
+        "everyday vocabulary",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/ji1jyun2-hospital.json"
@@ -2725,11 +2741,11 @@
       "sourceFile": "r2-backup/words/ngo5m4syu1fuk6-i-feel-unwell.json"
     },
     {
-      "sentenceId": "ngo5faat3siu1-i-have-fever-example-1",
+      "sentenceId": "ngo5faat3siu1-i-have-a-fever-example-1",
       "sentence": "今日我發燒，要唔要食藥？",
       "jyutping": "gam1jat6 ngo5 faat3 siu1, jiu3 m4 jiu3 sik6 joek6?",
       "meaning": "I have a fever today, should I take medicine?",
-      "sourceWordId": "ngo5faat3siu1-i-have-fever",
+      "sourceWordId": "ngo5faat3siu1-i-have-a-fever",
       "sourceWord": "我發燒",
       "sourceWordJyutping": "ngo5 faat3 siu1",
       "sourceWordMeaning": "I have a fever",
@@ -2741,14 +2757,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-fever.json"
+      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-a-fever.json"
     },
     {
-      "sentenceId": "ngo5faat3siu1-i-have-fever-example-2",
+      "sentenceId": "ngo5faat3siu1-i-have-a-fever-example-2",
       "sentence": "細佬發燒咗，休息吓啦。",
       "jyutping": "sai3 lou2 faat3 siu1 zo2, jau1 sik1 ha5 laa1.",
       "meaning": "Little brother has a fever, rest a bit.",
-      "sourceWordId": "ngo5faat3siu1-i-have-fever",
+      "sourceWordId": "ngo5faat3siu1-i-have-a-fever",
       "sourceWord": "我發燒",
       "sourceWordJyutping": "ngo5 faat3 siu1",
       "sourceWordMeaning": "I have a fever",
@@ -2760,14 +2776,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-fever.json"
+      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-a-fever.json"
     },
     {
-      "sentenceId": "ngo5faat3siu1-i-have-fever-example-3",
+      "sentenceId": "ngo5faat3siu1-i-have-a-fever-example-3",
       "sentence": "如果你發燒，記得返醫院睇醫生。",
       "jyutping": "jyu4 gwo2 nei5 faat3 siu1, gei3 dak1 faan1 ji1 jyun2 tai2 ji1 sang1.",
       "meaning": "If you have a fever, remember to go to the hospital to see a doctor.",
-      "sourceWordId": "ngo5faat3siu1-i-have-fever",
+      "sourceWordId": "ngo5faat3siu1-i-have-a-fever",
       "sourceWord": "我發燒",
       "sourceWordJyutping": "ngo5 faat3 siu1",
       "sourceWordMeaning": "I have a fever",
@@ -2779,14 +2795,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-fever.json"
+      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-a-fever.json"
     },
     {
-      "sentenceId": "ngo5faat3siu1-i-have-fever-example-4",
+      "sentenceId": "ngo5faat3siu1-i-have-a-fever-example-4",
       "sentence": "我發燒，但今日仲要返工。",
       "jyutping": "ngo5 faat3 siu1, daan6 gam1jat6 zung6 jiu3 faan1 gung1.",
       "meaning": "I have a fever, but I still have to go to work today.",
-      "sourceWordId": "ngo5faat3siu1-i-have-fever",
+      "sourceWordId": "ngo5faat3siu1-i-have-a-fever",
       "sourceWord": "我發燒",
       "sourceWordJyutping": "ngo5 faat3 siu1",
       "sourceWordMeaning": "I have a fever",
@@ -2798,14 +2814,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-fever.json"
+      "sourceFile": "r2-backup/words/ngo5faat3siu1-i-have-a-fever.json"
     },
     {
-      "sentenceId": "ngo5tau4tung3-i-have-headache-example-1",
+      "sentenceId": "ngo5tau4tung3-i-have-a-headache-example-1",
       "sentence": "我頭痛，唔舒服。",
       "jyutping": "ngo5 tau4 tung3, m4 syu1 fuk6.",
       "meaning": "I have a headache and feel unwell.",
-      "sourceWordId": "ngo5tau4tung3-i-have-headache",
+      "sourceWordId": "ngo5tau4tung3-i-have-a-headache",
       "sourceWord": "我頭痛",
       "sourceWordJyutping": "ngo5 tau4 tung3",
       "sourceWordMeaning": "I have a headache",
@@ -2817,14 +2833,14 @@
         "headache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-headache.json"
+      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-a-headache.json"
     },
     {
-      "sentenceId": "ngo5tau4tung3-i-have-headache-example-2",
+      "sentenceId": "ngo5tau4tung3-i-have-a-headache-example-2",
       "sentence": "醫生，我頭痛，好辛苦。",
       "jyutping": "ji1 sang1, ngo5 tau4 tung3, hou2 san1 fu2.",
       "meaning": "Doctor, I have a headache, it’s very painful.",
-      "sourceWordId": "ngo5tau4tung3-i-have-headache",
+      "sourceWordId": "ngo5tau4tung3-i-have-a-headache",
       "sourceWord": "我頭痛",
       "sourceWordJyutping": "ngo5 tau4 tung3",
       "sourceWordMeaning": "I have a headache",
@@ -2836,14 +2852,14 @@
         "headache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-headache.json"
+      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-a-headache.json"
     },
     {
-      "sentenceId": "ngo5tau4tung3-i-have-headache-example-3",
+      "sentenceId": "ngo5tau4tung3-i-have-a-headache-example-3",
       "sentence": "你頭痛要唔要食藥？",
       "jyutping": "nei5 tau4 tung3 jiu3 m4 jiu3 sik6 joek6?",
       "meaning": "Do you want to take medicine for your headache?",
-      "sourceWordId": "ngo5tau4tung3-i-have-headache",
+      "sourceWordId": "ngo5tau4tung3-i-have-a-headache",
       "sourceWord": "我頭痛",
       "sourceWordJyutping": "ngo5 tau4 tung3",
       "sourceWordMeaning": "I have a headache",
@@ -2855,14 +2871,14 @@
         "headache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-headache.json"
+      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-a-headache.json"
     },
     {
-      "sentenceId": "ngo5tau4tung3-i-have-headache-example-4",
+      "sentenceId": "ngo5tau4tung3-i-have-a-headache-example-4",
       "sentence": "頭痛可能係因為太攰。",
       "jyutping": "tau4 tung3 ho2 nang4 hai6 jan1 wai6 taai3 gui6.",
       "meaning": "Headaches might be because of being too tired.",
-      "sourceWordId": "ngo5tau4tung3-i-have-headache",
+      "sourceWordId": "ngo5tau4tung3-i-have-a-headache",
       "sourceWord": "我頭痛",
       "sourceWordJyutping": "ngo5 tau4 tung3",
       "sourceWordMeaning": "I have a headache",
@@ -2874,14 +2890,14 @@
         "headache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-headache.json"
+      "sourceFile": "r2-backup/words/ngo5tau4tung3-i-have-a-headache.json"
     },
     {
-      "sentenceId": "ngo5tou5tung3-i-have-stomachache-example-1",
+      "sentenceId": "ngo5tou5tung3-i-have-a-stomachache-example-1",
       "sentence": "我肚痛，要唔要睇醫生？",
       "jyutping": "ngo5 tou5 tung3, jiu3 m4 jiu3 tai2 ji1 sang1?",
       "meaning": "I have a stomachache, do I need to see a doctor?",
-      "sourceWordId": "ngo5tou5tung3-i-have-stomachache",
+      "sourceWordId": "ngo5tou5tung3-i-have-a-stomachache",
       "sourceWord": "我肚痛",
       "sourceWordJyutping": "ngo5 tou5 tung3",
       "sourceWordMeaning": "I have a stomachache",
@@ -2893,14 +2909,14 @@
         "stomachache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-stomachache.json"
+      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-a-stomachache.json"
     },
     {
-      "sentenceId": "ngo5tou5tung3-i-have-stomachache-example-2",
+      "sentenceId": "ngo5tou5tung3-i-have-a-stomachache-example-2",
       "sentence": "食咗啲嘢唔啱，依家我肚痛。",
       "jyutping": "sik6 zo2 di1 je5 m4 ngaam1, ji1 gaa1 ngo5 tou5 tung3.",
       "meaning": "I ate something wrong, now I have a stomachache.",
-      "sourceWordId": "ngo5tou5tung3-i-have-stomachache",
+      "sourceWordId": "ngo5tou5tung3-i-have-a-stomachache",
       "sourceWord": "我肚痛",
       "sourceWordJyutping": "ngo5 tou5 tung3",
       "sourceWordMeaning": "I have a stomachache",
@@ -2912,14 +2928,14 @@
         "stomachache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-stomachache.json"
+      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-a-stomachache.json"
     },
     {
-      "sentenceId": "ngo5tou5tung3-i-have-stomachache-example-3",
+      "sentenceId": "ngo5tou5tung3-i-have-a-stomachache-example-3",
       "sentence": "你覺得點，係咪我肚痛？",
       "jyutping": "nei5 gok3 dak1 dim2, hai6 mai6 ngo5 tou5 tung3?",
       "meaning": "What do you think, is it that I have a stomachache?",
-      "sourceWordId": "ngo5tou5tung3-i-have-stomachache",
+      "sourceWordId": "ngo5tou5tung3-i-have-a-stomachache",
       "sourceWord": "我肚痛",
       "sourceWordJyutping": "ngo5 tou5 tung3",
       "sourceWordMeaning": "I have a stomachache",
@@ -2931,14 +2947,14 @@
         "stomachache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-stomachache.json"
+      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-a-stomachache.json"
     },
     {
-      "sentenceId": "ngo5tou5tung3-i-have-stomachache-example-4",
+      "sentenceId": "ngo5tou5tung3-i-have-a-stomachache-example-4",
       "sentence": "今朝起身，我肚痛得好勁。",
       "jyutping": "gam1 ziu1 hei2 san1, ngo5 tou5 tung3 dak1 hou2 ging6.",
       "meaning": "This morning when I woke up, my stomachache was very strong.",
-      "sourceWordId": "ngo5tou5tung3-i-have-stomachache",
+      "sourceWordId": "ngo5tou5tung3-i-have-a-stomachache",
       "sourceWord": "我肚痛",
       "sourceWordJyutping": "ngo5 tou5 tung3",
       "sourceWordMeaning": "I have a stomachache",
@@ -2950,7 +2966,7 @@
         "stomachache",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-stomachache.json"
+      "sourceFile": "r2-backup/words/ngo5tou5tung3-i-have-a-stomachache.json"
     },
     {
       "sentenceId": "ngo5kat1-i-am-coughing-example-1",
@@ -3029,11 +3045,11 @@
       "sourceFile": "r2-backup/words/ngo5kat1-i-am-coughing.json"
     },
     {
-      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-doctor-example-1",
+      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor-example-1",
       "sentence": "我頭痛得好厲害，我要睇醫生。",
       "jyutping": "ngo5 tau4 tung3 dak1 hou2 lai6 hoi2, ngo5 jiu3 tai2 ji1 sang1.",
       "meaning": "I have a severe headache, I need to see a doctor.",
-      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-doctor",
+      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor",
       "sourceWord": "我要睇醫生",
       "sourceWordJyutping": "ngo5 jiu3 tai2 ji1 sang1",
       "sourceWordMeaning": "I need a doctor",
@@ -3045,14 +3061,14 @@
         "medical",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-doctor.json"
+      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-a-doctor.json"
     },
     {
-      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-doctor-example-2",
+      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor-example-2",
       "sentence": "你咁樣唔舒服，快啲去，我要睇醫生。",
       "jyutping": "nei5 gam2 joeng6 m4 syu1 fuk6, faai3 di1 heoi3, ngo5 jiu3 tai2 ji1 sang1.",
       "meaning": "You feel so unwell, go quickly, I need to see a doctor.",
-      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-doctor",
+      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor",
       "sourceWord": "我要睇醫生",
       "sourceWordJyutping": "ngo5 jiu3 tai2 ji1 sang1",
       "sourceWordMeaning": "I need a doctor",
@@ -3064,14 +3080,14 @@
         "medical",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-doctor.json"
+      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-a-doctor.json"
     },
     {
-      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-doctor-example-3",
+      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor-example-3",
       "sentence": "如果你唔舒服，千祈唔好遲，直接同我講：我要睇醫生。",
       "jyutping": "jyu4 gwo2 nei5 m4 syu1 fuk6, cin1 kei4 m4 hou2 ci4, zik6 zip3 tung4 ngo5 gong2: ngo5 jiu3 tai2 ji1 sang1.",
       "meaning": "If you are not feeling well, don’t delay, just tell me directly: I need to see a doctor.",
-      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-doctor",
+      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor",
       "sourceWord": "我要睇醫生",
       "sourceWordJyutping": "ngo5 jiu3 tai2 ji1 sang1",
       "sourceWordMeaning": "I need a doctor",
@@ -3083,14 +3099,14 @@
         "medical",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-doctor.json"
+      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-a-doctor.json"
     },
     {
-      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-doctor-example-4",
+      "sentenceId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor-example-4",
       "sentence": "媽媽病咗，要我去醫院，我話：我要睇醫生。",
       "jyutping": "maa4 maa1 beng6 zo2, jiu3 ngo5 heoi3 ji1 jyun2, ngo5 waa6: ngo5 jiu3 tai2 ji1 sang1.",
       "meaning": "Mom is sick and wants me to go to the hospital, I said: I need to see a doctor.",
-      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-doctor",
+      "sourceWordId": "ngo5jiu3tai2ji1sang1-i-need-a-doctor",
       "sourceWord": "我要睇醫生",
       "sourceWordJyutping": "ngo5 jiu3 tai2 ji1 sang1",
       "sourceWordMeaning": "I need a doctor",
@@ -3102,14 +3118,14 @@
         "medical",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-doctor.json"
+      "sourceFile": "r2-backup/words/ngo5jiu3tai2ji1sang1-i-need-a-doctor.json"
     },
     {
-      "sentenceId": "bin1dou6tung3-where-hurts-example-1",
+      "sentenceId": "bin1dou6tung3-where-does-it-hurt-example-1",
       "sentence": "你邊度痛？",
       "jyutping": "nei5 bin1 dou6 tung3?",
       "meaning": "Where does it hurt?",
-      "sourceWordId": "bin1dou6tung3-where-hurts",
+      "sourceWordId": "bin1dou6tung3-where-does-it-hurt",
       "sourceWord": "邊度痛",
       "sourceWordJyutping": "bin1 dou6 tung3",
       "sourceWordMeaning": "where does it hurt",
@@ -3121,14 +3137,14 @@
         "questions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bin1dou6tung3-where-hurts.json"
+      "sourceFile": "r2-backup/words/bin1dou6tung3-where-does-it-hurt.json"
     },
     {
-      "sentenceId": "bin1dou6tung3-where-hurts-example-2",
+      "sentenceId": "bin1dou6tung3-where-does-it-hurt-example-2",
       "sentence": "我頭痛，你邊度痛？",
       "jyutping": "ngo5 tau4 tung3, nei5 bin1 dou6 tung3?",
       "meaning": "I have a headache. Where does it hurt for you?",
-      "sourceWordId": "bin1dou6tung3-where-hurts",
+      "sourceWordId": "bin1dou6tung3-where-does-it-hurt",
       "sourceWord": "邊度痛",
       "sourceWordJyutping": "bin1 dou6 tung3",
       "sourceWordMeaning": "where does it hurt",
@@ -3140,14 +3156,14 @@
         "questions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bin1dou6tung3-where-hurts.json"
+      "sourceFile": "r2-backup/words/bin1dou6tung3-where-does-it-hurt.json"
     },
     {
-      "sentenceId": "bin1dou6tung3-where-hurts-example-3",
+      "sentenceId": "bin1dou6tung3-where-does-it-hurt-example-3",
       "sentence": "細路仔，邊度痛呀？",
       "jyutping": "sai3 lou6 zai2, bin1 dou6 tung3 aa3?",
       "meaning": "Kid, where does it hurt?",
-      "sourceWordId": "bin1dou6tung3-where-hurts",
+      "sourceWordId": "bin1dou6tung3-where-does-it-hurt",
       "sourceWord": "邊度痛",
       "sourceWordJyutping": "bin1 dou6 tung3",
       "sourceWordMeaning": "where does it hurt",
@@ -3159,14 +3175,14 @@
         "questions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bin1dou6tung3-where-hurts.json"
+      "sourceFile": "r2-backup/words/bin1dou6tung3-where-does-it-hurt.json"
     },
     {
-      "sentenceId": "bin1dou6tung3-where-hurts-example-4",
+      "sentenceId": "bin1dou6tung3-where-does-it-hurt-example-4",
       "sentence": "如果痛得好嚴重，就要睇醫生。",
       "jyutping": "jyu4 gwo2 tung3 dak1 hou2 jim4 zung6, zau6 jiu3 tai2 ji1 sang1.",
       "meaning": "If the pain is very severe, you need to see a doctor.",
-      "sourceWordId": "bin1dou6tung3-where-hurts",
+      "sourceWordId": "bin1dou6tung3-where-does-it-hurt",
       "sourceWord": "邊度痛",
       "sourceWordJyutping": "bin1 dou6 tung3",
       "sourceWordMeaning": "where does it hurt",
@@ -3178,14 +3194,14 @@
         "questions",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bin1dou6tung3-where-hurts.json"
+      "sourceFile": "r2-backup/words/bin1dou6tung3-where-does-it-hurt.json"
     },
     {
-      "sentenceId": "tung3zo2gei2noi6-how-long-hurt-example-1",
+      "sentenceId": "tung3zo2gei2noi6-how-long-has-it-hurt-example-1",
       "sentence": "你個頭痛咗幾耐？",
       "jyutping": "nei5 go3 tau4 tung3 zo2 gei2 noi6?",
       "meaning": "How long has your headache hurt?",
-      "sourceWordId": "tung3zo2gei2noi6-how-long-hurt",
+      "sourceWordId": "tung3zo2gei2noi6-how-long-has-it-hurt",
       "sourceWord": "痛咗幾耐",
       "sourceWordJyutping": "tung3 zo2 gei2 noi6",
       "sourceWordMeaning": "how long has it hurt",
@@ -3197,14 +3213,14 @@
         "basic conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-hurt.json"
+      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-has-it-hurt.json"
     },
     {
-      "sentenceId": "tung3zo2gei2noi6-how-long-hurt-example-2",
+      "sentenceId": "tung3zo2gei2noi6-how-long-has-it-hurt-example-2",
       "sentence": "我腳痛咗幾耐先嚟睇醫生？",
       "jyutping": "ngo5 goek3 tung3 zo2 gei2 noi6 sin1 lai4 tai2 ji1 sang1?",
       "meaning": "How long did your foot hurt before you came to see the doctor?",
-      "sourceWordId": "tung3zo2gei2noi6-how-long-hurt",
+      "sourceWordId": "tung3zo2gei2noi6-how-long-has-it-hurt",
       "sourceWord": "痛咗幾耐",
       "sourceWordJyutping": "tung3 zo2 gei2 noi6",
       "sourceWordMeaning": "how long has it hurt",
@@ -3216,14 +3232,14 @@
         "basic conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-hurt.json"
+      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-has-it-hurt.json"
     },
     {
-      "sentenceId": "tung3zo2gei2noi6-how-long-hurt-example-3",
+      "sentenceId": "tung3zo2gei2noi6-how-long-has-it-hurt-example-3",
       "sentence": "喉嚨痛咗幾耐？你有冇食藥？",
       "jyutping": "hau4 lung4 tung3 zo2 gei2 noi6? nei5 jau5 mou5 sik6 joek6?",
       "meaning": "How long has your throat been sore? Have you taken medicine?",
-      "sourceWordId": "tung3zo2gei2noi6-how-long-hurt",
+      "sourceWordId": "tung3zo2gei2noi6-how-long-has-it-hurt",
       "sourceWord": "痛咗幾耐",
       "sourceWordJyutping": "tung3 zo2 gei2 noi6",
       "sourceWordMeaning": "how long has it hurt",
@@ -3235,14 +3251,14 @@
         "basic conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-hurt.json"
+      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-has-it-hurt.json"
     },
     {
-      "sentenceId": "tung3zo2gei2noi6-how-long-hurt-example-4",
+      "sentenceId": "tung3zo2gei2noi6-how-long-has-it-hurt-example-4",
       "sentence": "牙痛咗幾耐先去睇牙醫？",
       "jyutping": "ngaa4 tung3 zo2 gei2 noi6 sin1 heoi3 tai2 ngaa4 ji1?",
       "meaning": "How long did your tooth hurt before you went to see the dentist?",
-      "sourceWordId": "tung3zo2gei2noi6-how-long-hurt",
+      "sourceWordId": "tung3zo2gei2noi6-how-long-has-it-hurt",
       "sourceWord": "痛咗幾耐",
       "sourceWordJyutping": "tung3 zo2 gei2 noi6",
       "sourceWordMeaning": "how long has it hurt",
@@ -3254,7 +3270,7 @@
         "basic conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-hurt.json"
+      "sourceFile": "r2-backup/words/tung3zo2gei2noi6-how-long-has-it-hurt.json"
     },
     {
       "sentenceId": "jau5mou5man5gam2-any-allergy-example-1",
@@ -4241,11 +4257,11 @@
       "sourceFile": "r2-backup/words/jau5mou5zi2tung3joek6-any-painkillers.json"
     },
     {
-      "sentenceId": "ni1zek3joek6dim2sik6-how-take-this-medicine-example-1",
+      "sentenceId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine-example-1",
       "sentence": "我唔清楚，呢隻藥點食？",
       "jyutping": "ngo5 m4 cing1 co2, ni1 zek3 joek6 dim2 sik6?",
       "meaning": "I'm not sure, how do I take this medicine?",
-      "sourceWordId": "ni1zek3joek6dim2sik6-how-take-this-medicine",
+      "sourceWordId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine",
       "sourceWord": "呢隻藥點食",
       "sourceWordJyutping": "ni1 zek3 joek6 dim2 sik6",
       "sourceWordMeaning": "how do I take this medicine",
@@ -4257,14 +4273,14 @@
         "dosage",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-take-this-medicine.json"
+      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-do-i-take-this-medicine.json"
     },
     {
-      "sentenceId": "ni1zek3joek6dim2sik6-how-take-this-medicine-example-2",
+      "sentenceId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine-example-2",
       "sentence": "你去藥房問吓，呢隻藥點食。",
       "jyutping": "nei5 heoi3 joek6 fong4 man6 haa5, ni1 zek3 joek6 dim2 sik6.",
       "meaning": "Go ask at the pharmacy how to take this medicine.",
-      "sourceWordId": "ni1zek3joek6dim2sik6-how-take-this-medicine",
+      "sourceWordId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine",
       "sourceWord": "呢隻藥點食",
       "sourceWordJyutping": "ni1 zek3 joek6 dim2 sik6",
       "sourceWordMeaning": "how do I take this medicine",
@@ -4276,14 +4292,14 @@
         "dosage",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-take-this-medicine.json"
+      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-do-i-take-this-medicine.json"
     },
     {
-      "sentenceId": "ni1zek3joek6dim2sik6-how-take-this-medicine-example-3",
+      "sentenceId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine-example-3",
       "sentence": "醫生教我呢隻藥點食，早晚各一次。",
       "jyutping": "ji1 sang1 gaau3 ngo5 ni1 zek3 joek6 dim2 sik6, zou2 maan5 gok3 jat1 ci3.",
       "meaning": "The doctor told me how to take this medicine, once in the morning and once at night.",
-      "sourceWordId": "ni1zek3joek6dim2sik6-how-take-this-medicine",
+      "sourceWordId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine",
       "sourceWord": "呢隻藥點食",
       "sourceWordJyutping": "ni1 zek3 joek6 dim2 sik6",
       "sourceWordMeaning": "how do I take this medicine",
@@ -4295,14 +4311,14 @@
         "dosage",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-take-this-medicine.json"
+      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-do-i-take-this-medicine.json"
     },
     {
-      "sentenceId": "ni1zek3joek6dim2sik6-how-take-this-medicine-example-4",
+      "sentenceId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine-example-4",
       "sentence": "請問，呢隻藥點食先安全？",
       "jyutping": "cing2 man6, ni1 zek3 joek6 dim2 sik6 sin1 on1 cyun4?",
       "meaning": "Excuse me, how do I take this medicine safely?",
-      "sourceWordId": "ni1zek3joek6dim2sik6-how-take-this-medicine",
+      "sourceWordId": "ni1zek3joek6dim2sik6-how-do-i-take-this-medicine",
       "sourceWord": "呢隻藥點食",
       "sourceWordJyutping": "ni1 zek3 joek6 dim2 sik6",
       "sourceWordMeaning": "how do I take this medicine",
@@ -4314,7 +4330,7 @@
         "dosage",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-take-this-medicine.json"
+      "sourceFile": "r2-backup/words/ni1zek3joek6dim2sik6-how-do-i-take-this-medicine.json"
     },
     {
       "sentenceId": "jat1jat6sik6gei2do1ci3-how-many-times-a-day-example-1",
@@ -4849,11 +4865,11 @@
       "sourceFile": "r2-backup/words/giu3gau3wu6ce1-call-ambulance.json"
     },
     {
-      "sentenceId": "jap6ji1jyun2-go-hospital-example-1",
+      "sentenceId": "jap6ji1jyun2-go-to-hospital-example-1",
       "sentence": "佢今晚要入醫院做手術。",
       "jyutping": "keoi5 gam1 maan5 jiu3 jap6 ji1 jyun2 zou6 sau2 seot6",
       "meaning": "He has to go to hospital tonight for surgery.",
-      "sourceWordId": "jap6ji1jyun2-go-hospital",
+      "sourceWordId": "jap6ji1jyun2-go-to-hospital",
       "sourceWord": "入醫院",
       "sourceWordJyutping": "jap6 ji1 jyun2",
       "sourceWordMeaning": "go to hospital",
@@ -4865,14 +4881,14 @@
         "admission",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-hospital.json"
+      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-to-hospital.json"
     },
     {
-      "sentenceId": "jap6ji1jyun2-go-hospital-example-2",
+      "sentenceId": "jap6ji1jyun2-go-to-hospital-example-2",
       "sentence": "我爸爸幾日後會入醫院。",
       "jyutping": "ngo5 baa4 baa1 gei2 jat6 hau6 wui5 jap6 ji1 jyun2",
       "meaning": "My dad will go to hospital in a few days.",
-      "sourceWordId": "jap6ji1jyun2-go-hospital",
+      "sourceWordId": "jap6ji1jyun2-go-to-hospital",
       "sourceWord": "入醫院",
       "sourceWordJyutping": "jap6 ji1 jyun2",
       "sourceWordMeaning": "go to hospital",
@@ -4884,14 +4900,14 @@
         "admission",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-hospital.json"
+      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-to-hospital.json"
     },
     {
-      "sentenceId": "jap6ji1jyun2-go-hospital-example-3",
+      "sentenceId": "jap6ji1jyun2-go-to-hospital-example-3",
       "sentence": "如果頭痛唔止，要快啲入醫院。",
       "jyutping": "jyu4 gwo2 tau4 tung3 m4 zi2, jiu3 faai3 di1 jap6 ji1 jyun2",
       "meaning": "If the headache doesn't stop, you need to go to hospital quickly.",
-      "sourceWordId": "jap6ji1jyun2-go-hospital",
+      "sourceWordId": "jap6ji1jyun2-go-to-hospital",
       "sourceWord": "入醫院",
       "sourceWordJyutping": "jap6 ji1 jyun2",
       "sourceWordMeaning": "go to hospital",
@@ -4903,14 +4919,14 @@
         "admission",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-hospital.json"
+      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-to-hospital.json"
     },
     {
-      "sentenceId": "jap6ji1jyun2-go-hospital-example-4",
+      "sentenceId": "jap6ji1jyun2-go-to-hospital-example-4",
       "sentence": "佢因為車禍入醫院住咗兩日。",
       "jyutping": "keoi5 jan1 wai6 ce1 fo2 jap6 ji1 jyun2 zyu6 zo2 loeng5 jat6",
       "meaning": "He was admitted to hospital for two days because of a car accident.",
-      "sourceWordId": "jap6ji1jyun2-go-hospital",
+      "sourceWordId": "jap6ji1jyun2-go-to-hospital",
       "sourceWord": "入醫院",
       "sourceWordJyutping": "jap6 ji1 jyun2",
       "sourceWordMeaning": "go to hospital",
@@ -4922,7 +4938,7 @@
         "admission",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-hospital.json"
+      "sourceFile": "r2-backup/words/jap6ji1jyun2-go-to-hospital.json"
     },
     {
       "sentenceId": "ding2m4seon6-cannot-endure-example-1",

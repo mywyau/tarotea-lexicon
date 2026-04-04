@@ -4,90 +4,382 @@
   "description": "Discuss news, social issues, trends, and abstract ideas clearly.",
   "categories": {
     "news_and_media": [
-      { "id": "san1man4-news", "word": "新聞", "jyutping": "san1 man4", "meaning": "news" },
-      { "id": "bou3dou6-report-coverage", "word": "報道", "jyutping": "bou3 dou6", "meaning": "coverage" },
-      { "id": "siu1sik1-information", "word": "消息", "jyutping": "siu1 sik1", "meaning": "update" },
-      { "id": "fong2man6-interview", "word": "訪問", "jyutping": "fong2 man6", "meaning": "interview" },
-      { "id": "ping4leon6-commentary", "word": "評論", "jyutping": "ping4 leon6", "meaning": "commentary" },
-      { "id": "gan1geoi3-according-to", "word": "根據", "jyutping": "gan1 geoi3", "meaning": "based on" },
-      { "id": "bou3gou3-report-document", "word": "報告", "jyutping": "bou3 gou3", "meaning": "report" },
-      { "id": "mong5soeng6-online", "word": "網上", "jyutping": "mong5 soeng6", "meaning": "online" },
-      { "id": "se5gaau1mui5tai4-social-media", "word": "社交媒體", "jyutping": "se5 gaau1 mui5 tai4", "meaning": "social media" }
+      {
+        "id": "san1man4-news",
+        "word": "新聞",
+        "jyutping": "san1 man4",
+        "meaning": "news"
+      },
+      {
+        "id": "bou3dou6-to-report-report-coverage",
+        "word": "報道",
+        "jyutping": "bou3 dou6",
+        "meaning": "coverage"
+      },
+      {
+        "id": "siu1sik1-news-information",
+        "word": "消息",
+        "jyutping": "siu1 sik1",
+        "meaning": "update"
+      },
+      {
+        "id": "fong2man6-interview",
+        "word": "訪問",
+        "jyutping": "fong2 man6",
+        "meaning": "interview"
+      },
+      {
+        "id": "ping4leon6-commentary",
+        "word": "評論",
+        "jyutping": "ping4 leon6",
+        "meaning": "commentary"
+      },
+      {
+        "id": "gan1geoi3-according-to",
+        "word": "根據",
+        "jyutping": "gan1 geoi3",
+        "meaning": "based on"
+      },
+      {
+        "id": "bou3gou3-report",
+        "word": "報告",
+        "jyutping": "bou3 gou3",
+        "meaning": "report"
+      },
+      {
+        "id": "mong5soeng6-online",
+        "word": "網上",
+        "jyutping": "mong5 soeng6",
+        "meaning": "online"
+      },
+      {
+        "id": "se5gaau1mui5tai4-social-media",
+        "word": "社交媒體",
+        "jyutping": "se5 gaau1 mui5 tai4",
+        "meaning": "social media"
+      }
     ],
-
     "society_and_topics": [
-      { "id": "se5wui6-society", "word": "社會", "jyutping": "se5 wui6", "meaning": "society" },
-      { "id": "man4faa3-culture", "word": "文化", "jyutping": "man4 faa3", "meaning": "culture" },
-      { "id": "ging1zai3-economy", "word": "經濟", "jyutping": "ging1 zai3", "meaning": "economy" },
-      { "id": "fo1gei1-technology", "word": "科技", "jyutping": "fo1 gei1", "meaning": "technology" },
-      { "id": "gaau3juk6-education", "word": "教育", "jyutping": "gaau3 juk6", "meaning": "education" },
-      { "id": "zing3fu2-government", "word": "政府", "jyutping": "zing3 fu2", "meaning": "government" },
-      { "id": "si5man4-citizens", "word": "市民", "jyutping": "si5 man4", "meaning": "public" },
-      { "id": "gwaan1zyu3-concern-attention", "word": "關注", "jyutping": "gwaan1 zyu3", "meaning": "concern" },
-      { "id": "aat3lik6-pressure", "word": "壓力", "jyutping": "aat3 lik6", "meaning": "stress" }
+      {
+        "id": "se5wui6-society",
+        "word": "社會",
+        "jyutping": "se5 wui6",
+        "meaning": "society"
+      },
+      {
+        "id": "man4faa3-culture",
+        "word": "文化",
+        "jyutping": "man4 faa3",
+        "meaning": "culture"
+      },
+      {
+        "id": "ging1zai3-economy",
+        "word": "經濟",
+        "jyutping": "ging1 zai3",
+        "meaning": "economy"
+      },
+      {
+        "id": "fo1gei1-technology",
+        "word": "科技",
+        "jyutping": "fo1 gei1",
+        "meaning": "technology"
+      },
+      {
+        "id": "gaau3juk6-education",
+        "word": "教育",
+        "jyutping": "gaau3 juk6",
+        "meaning": "education"
+      },
+      {
+        "id": "zing3fu2-government",
+        "word": "政府",
+        "jyutping": "zing3 fu2",
+        "meaning": "government"
+      },
+      {
+        "id": "si5man4-citizens-the-public",
+        "word": "市民",
+        "jyutping": "si5 man4",
+        "meaning": "public"
+      },
+      {
+        "id": "gwaan1zyu3-to-be-concerned-about-pay-attention",
+        "word": "關注",
+        "jyutping": "gwaan1 zyu3",
+        "meaning": "concern"
+      },
+      {
+        "id": "aat3lik6-pressure-stress",
+        "word": "壓力",
+        "jyutping": "aat3 lik6",
+        "meaning": "stress"
+      }
     ],
-
     "concepts_and_values": [
-      { "id": "gaai3nim6-concept", "word": "概念", "jyutping": "koi3 nim6", "meaning": "concept" },
-      { "id": "gaa3zik6-value", "word": "價值", "jyutping": "gaa3 zik6", "meaning": "value" },
-      { "id": "jyun4zak1-principle", "word": "原則", "jyutping": "jyun4 zak1", "meaning": "principle" },
-      { "id": "lei5leon6-theory", "word": "理論", "jyutping": "lei5 leon6", "meaning": "theory" },
-      { "id": "bun2zat1-essence", "word": "本質", "jyutping": "bun2 zat1", "meaning": "essence" },
-      { "id": "jin6sat6-reality", "word": "現實", "jyutping": "jin6 sat6", "meaning": "reality" },
-      { "id": "zi6jau4-freedom", "word": "自由", "jyutping": "zi6 jau4", "meaning": "freedom" },
-      { "id": "gung1ping4-fairness", "word": "公平", "jyutping": "gung1 ping4", "meaning": "fairness" }
+      {
+        "id": "koi3nim6-concept",
+        "word": "概念",
+        "jyutping": "koi3 nim6",
+        "meaning": "concept"
+      },
+      {
+        "id": "gaa3zik6-value",
+        "word": "價值",
+        "jyutping": "gaa3 zik6",
+        "meaning": "value"
+      },
+      {
+        "id": "jyun4zak1-principle",
+        "word": "原則",
+        "jyutping": "jyun4 zak1",
+        "meaning": "principle"
+      },
+      {
+        "id": "lei5leon6-theory",
+        "word": "理論",
+        "jyutping": "lei5 leon6",
+        "meaning": "theory"
+      },
+      {
+        "id": "bun2zat1-essence",
+        "word": "本質",
+        "jyutping": "bun2 zat1",
+        "meaning": "essence"
+      },
+      {
+        "id": "jin6sat6-reality",
+        "word": "現實",
+        "jyutping": "jin6 sat6",
+        "meaning": "reality"
+      },
+      {
+        "id": "zi6jau4-freedom",
+        "word": "自由",
+        "jyutping": "zi6 jau4",
+        "meaning": "freedom"
+      },
+      {
+        "id": "gung1ping4-fairness",
+        "word": "公平",
+        "jyutping": "gung1 ping4",
+        "meaning": "fairness"
+      }
     ],
-
     "analysis_and_explanation": [
-      { "id": "fan1sik1-analyse", "word": "分析", "jyutping": "fan1 sik1", "meaning": "analyze" },
-      { "id": "gaai2sik1-explain", "word": "解釋", "jyutping": "gaai2 sik1", "meaning": "explain" },
-      { "id": "zi2ceot1-point-out", "word": "指出", "jyutping": "zi2 ceot1", "meaning": "point out" },
-      { "id": "tai4dou6-mention", "word": "提到", "jyutping": "tai4 dou6", "meaning": "mention" },
-      { "id": "lei5gaai2-understand", "word": "理解", "jyutping": "lei5 gaai2", "meaning": "grasp" },
-      { "id": "zung6dim2-key-point", "word": "重點", "jyutping": "zung6 dim2", "meaning": "focus" },
-      { "id": "fong1min6-aspect", "word": "方面", "jyutping": "fong1 min6", "meaning": "aspect" }
+      {
+        "id": "fan1sik1-to-analyse",
+        "word": "分析",
+        "jyutping": "fan1 sik1",
+        "meaning": "analyze"
+      },
+      {
+        "id": "gaai2sik1-to-explain",
+        "word": "解釋",
+        "jyutping": "gaai2 sik1",
+        "meaning": "explain"
+      },
+      {
+        "id": "zi2ceot1-to-point-out",
+        "word": "指出",
+        "jyutping": "zi2 ceot1",
+        "meaning": "point out"
+      },
+      {
+        "id": "tai4dou6-to-mention",
+        "word": "提到",
+        "jyutping": "tai4 dou6",
+        "meaning": "mention"
+      },
+      {
+        "id": "lei5gaai2-to-understand",
+        "word": "理解",
+        "jyutping": "lei5 gaai2",
+        "meaning": "grasp"
+      },
+      {
+        "id": "zung6dim2-key-point-main-point",
+        "word": "重點",
+        "jyutping": "zung6 dim2",
+        "meaning": "focus"
+      },
+      {
+        "id": "fong1min6-aspect-area",
+        "word": "方面",
+        "jyutping": "fong1 min6",
+        "meaning": "aspect"
+      }
     ],
-
     "viewpoints_and_opinions": [
-      { "id": "gun1dim2-viewpoint", "word": "觀點", "jyutping": "gun1 dim2", "meaning": "viewpoint" },
-      { "id": "laap6coeng4-stance-position", "word": "立場", "jyutping": "laap6 coeng4", "meaning": "stance" },
-      { "id": "gok3dou6-perspective-angle", "word": "角度", "jyutping": "gok3 dou6", "meaning": "perspective" },
-      { "id": "ji3gin3-opinion", "word": "意見", "jyutping": "ji3 gin3", "meaning": "opinion" },
-      { "id": "tai2faat3-view-way-of-seeing", "word": "睇法", "jyutping": "tai2 faat3", "meaning": "outlook" },
-      { "id": "ngo5jing6wai4-in-my-opinion", "word": "我認為", "jyutping": "ngo5 jing6 wai4", "meaning": "I believe" },
-      { "id": "ci5fu4-it-seems", "word": "似乎", "jyutping": "ci5 fu4", "meaning": "apparently" }
+      {
+        "id": "gun1dim2-viewpoint",
+        "word": "觀點",
+        "jyutping": "gun1 dim2",
+        "meaning": "viewpoint"
+      },
+      {
+        "id": "laap6coeng4-stance-position",
+        "word": "立場",
+        "jyutping": "laap6 coeng4",
+        "meaning": "stance"
+      },
+      {
+        "id": "gok3dou6-angle-perspective",
+        "word": "角度",
+        "jyutping": "gok3 dou6",
+        "meaning": "perspective"
+      },
+      {
+        "id": "ji3gin3-opinion",
+        "word": "意見",
+        "jyutping": "ji3 gin3",
+        "meaning": "opinion"
+      },
+      {
+        "id": "tai2faat3-way-of-seeing-view",
+        "word": "睇法",
+        "jyutping": "tai2 faat3",
+        "meaning": "outlook"
+      },
+      {
+        "id": "ngo5jing6wai4-i-think-in-my-opinion",
+        "word": "我認為",
+        "jyutping": "ngo5 jing6 wai4",
+        "meaning": "I believe"
+      },
+      {
+        "id": "ci5fu4-it-seems-apparently",
+        "word": "似乎",
+        "jyutping": "ci5 fu4",
+        "meaning": "apparently"
+      }
     ],
-
     "cause_and_impact": [
-      { "id": "jyun4jan1-reason-cause", "word": "原因", "jyutping": "jyun4 jan1", "meaning": "cause" },
-      { "id": "git3gwo2-result", "word": "結果", "jyutping": "git3 gwo2", "meaning": "outcome" },
-      { "id": "dou6zi3-lead-to", "word": "導致", "jyutping": "dou6 zi3", "meaning": "trigger" },
-      { "id": "jing2hoeng2dou3-affect", "word": "影響到", "jyutping": "jing2 hoeng2 dou3", "meaning": "affect" },
-      { "id": "daai3lei4-bring-about", "word": "帶嚟", "jyutping": "daai3 lei4", "meaning": "bring about" }
+      {
+        "id": "jyun4jan1-cause-reason",
+        "word": "原因",
+        "jyutping": "jyun4 jan1",
+        "meaning": "cause"
+      },
+      {
+        "id": "git3gwo2-result-outcome",
+        "word": "結果",
+        "jyutping": "git3 gwo2",
+        "meaning": "outcome"
+      },
+      {
+        "id": "dou6zi3-to-lead-to",
+        "word": "導致",
+        "jyutping": "dou6 zi3",
+        "meaning": "trigger"
+      },
+      {
+        "id": "jing2hoeng2dou3-to-affect",
+        "word": "影響到",
+        "jyutping": "jing2 hoeng2 dou3",
+        "meaning": "affect"
+      },
+      {
+        "id": "daai3lei4-to-bring-about",
+        "word": "帶嚟",
+        "jyutping": "daai3 lei4",
+        "meaning": "bring about"
+      }
     ],
-
     "comparison_and_balance": [
-      { "id": "hou2cyu3-benefit", "word": "好處", "jyutping": "hou2 cyu3", "meaning": "upside" },
-      { "id": "waai6cyu3-drawback", "word": "壞處", "jyutping": "waai6 cyu3", "meaning": "downside" },
-      { "id": "ceoi2se2-tradeoff", "word": "取捨", "jyutping": "ceoi2 se2", "meaning": "tradeoff" },
-      { "id": "jat1fong1min6-on-one-hand", "word": "一方面", "jyutping": "jat1 fong1 min6", "meaning": "on one side" },
-      { "id": "ling6jat1fong1min6-on-the-other-hand", "word": "另一方面", "jyutping": "ling6 jat1 fong1 min6", "meaning": "on the other side" }
+      {
+        "id": "hou2cyu3-benefit",
+        "word": "好處",
+        "jyutping": "hou2 cyu3",
+        "meaning": "upside"
+      },
+      {
+        "id": "waai6cyu3-drawback",
+        "word": "壞處",
+        "jyutping": "waai6 cyu3",
+        "meaning": "downside"
+      },
+      {
+        "id": "ceoi2se2-trade-off",
+        "word": "取捨",
+        "jyutping": "ceoi2 se2",
+        "meaning": "tradeoff"
+      },
+      {
+        "id": "jat1fong1min6-on-one-hand",
+        "word": "一方面",
+        "jyutping": "jat1 fong1 min6",
+        "meaning": "on one side"
+      },
+      {
+        "id": "ling6jat1fong1min6-on-the-other-hand",
+        "word": "另一方面",
+        "jyutping": "ling6 jat1 fong1 min6",
+        "meaning": "on the other side"
+      }
     ],
-
     "summarising_and_framing": [
-      { "id": "zung2kut3lei4gong2-to-sum-up", "word": "總括嚟講", "jyutping": "zung2 kut3 lei4 gong2", "meaning": "in summary" },
-      { "id": "zing2tai2lei4tai2-overall-speaking", "word": "整體嚟睇", "jyutping": "zing2 tai2 lei4 tai2", "meaning": "overall" },
-      { "id": "daai6zi3soeng6-roughly-speaking", "word": "大致上", "jyutping": "daai6 zi3 soeng6", "meaning": "broadly" },
-      { "id": "gei1bun2soeng6-basically", "word": "基本上", "jyutping": "gei1 bun2 soeng6", "meaning": "basically" },
-      { "id": "ho2ji5waa6-one-could-say", "word": "可以話", "jyutping": "ho2 ji5 waa6", "meaning": "you could say" }
+      {
+        "id": "zung2kut3lei4gong2-to-sum-up",
+        "word": "總括嚟講",
+        "jyutping": "zung2 kut3 lei4 gong2",
+        "meaning": "in summary"
+      },
+      {
+        "id": "zing2tai2lei4tai2-overall-speaking",
+        "word": "整體嚟睇",
+        "jyutping": "zing2 tai2 lei4 tai2",
+        "meaning": "overall"
+      },
+      {
+        "id": "daai6zi3soeng6-roughly-speaking",
+        "word": "大致上",
+        "jyutping": "daai6 zi3 soeng6",
+        "meaning": "broadly"
+      },
+      {
+        "id": "gei1bun2soeng6-basically",
+        "word": "基本上",
+        "jyutping": "gei1 bun2 soeng6",
+        "meaning": "basically"
+      },
+      {
+        "id": "ho2ji5waa6-one-could-say",
+        "word": "可以話",
+        "jyutping": "ho2 ji5 waa6",
+        "meaning": "you could say"
+      }
     ],
-
     "argument_and_reasoning": [
-      { "id": "zyu2zoeng1-claim", "word": "主張", "jyutping": "zyu2 zoeng1", "meaning": "to advocate" },
-      { "id": "lei6jyu4-for-example", "word": "例如", "jyutping": "lei6 jyu4", "meaning": "for example" },
-      { "id": "jat1bun1lei4gong2-generally-speaking", "word": "一般嚟講", "jyutping": "jat1 bun1 lei4 gong2", "meaning": "generally" },
-      { "id": "so2ji5-therefore", "word": "所以", "jyutping": "so2 ji5", "meaning": "therefore" },
-      { "id": "faan2ji4-on-the-contrary", "word": "反而", "jyutping": "faan2 ji4", "meaning": "instead" }
+      {
+        "id": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position",
+        "word": "主張",
+        "jyutping": "zyu2 zoeng1",
+        "meaning": "to advocate"
+      },
+      {
+        "id": "lei6jyu4-for-example",
+        "word": "例如",
+        "jyutping": "lei6 jyu4",
+        "meaning": "for example"
+      },
+      {
+        "id": "jat1bun1lei4gong2-generally-speaking-2",
+        "word": "一般嚟講",
+        "jyutping": "jat1 bun1 lei4 gong2",
+        "meaning": "generally"
+      },
+      {
+        "id": "so2ji5-therefore-so",
+        "word": "所以",
+        "jyutping": "so2 ji5",
+        "meaning": "therefore"
+      },
+      {
+        "id": "faan2ji4-on-the-contrary-instead",
+        "word": "反而",
+        "jyutping": "faan2 ji4",
+        "meaning": "instead"
+      }
     ]
   }
 }

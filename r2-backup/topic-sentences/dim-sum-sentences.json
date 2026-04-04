@@ -5,11 +5,11 @@
   "totalSentences": 280,
   "items": [
     {
-      "sentenceId": "siu1maai6-siu-mai-example-1",
+      "sentenceId": "siu1maai6-pork-shrimp-dumpling-example-1",
       "sentence": "我想食三隻燒賣。",
       "jyutping": "ngo5 soeng2 sik6 saam1 zek3 siu1 maai6.",
       "meaning": "I want to eat three siu mai.",
-      "sourceWordId": "siu1maai6-siu-mai",
+      "sourceWordId": "siu1maai6-pork-shrimp-dumpling",
       "sourceWord": "燒賣",
       "sourceWordJyutping": "siu1 maai6",
       "sourceWordMeaning": "pork shrimp dumpling",
@@ -21,14 +21,14 @@
         "cantonese_cuisine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu1maai6-siu-mai.json"
+      "sourceFile": "r2-backup/words/siu1maai6-pork-shrimp-dumpling.json"
     },
     {
-      "sentenceId": "siu1maai6-siu-mai-example-2",
+      "sentenceId": "siu1maai6-pork-shrimp-dumpling-example-2",
       "sentence": "呢籠燒賣好好味。",
       "jyutping": "ni1 lung4 siu1 maai6 hou2 hou2 mei6.",
       "meaning": "This basket of siu mai is very delicious.",
-      "sourceWordId": "siu1maai6-siu-mai",
+      "sourceWordId": "siu1maai6-pork-shrimp-dumpling",
       "sourceWord": "燒賣",
       "sourceWordJyutping": "siu1 maai6",
       "sourceWordMeaning": "pork shrimp dumpling",
@@ -40,14 +40,14 @@
         "cantonese_cuisine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu1maai6-siu-mai.json"
+      "sourceFile": "r2-backup/words/siu1maai6-pork-shrimp-dumpling.json"
     },
     {
-      "sentenceId": "siu1maai6-siu-mai-example-3",
+      "sentenceId": "siu1maai6-pork-shrimp-dumpling-example-3",
       "sentence": "燒賣係我最鍾意嘅點心。",
       "jyutping": "siu1 maai6 hai6 ngo5 zeoi3 zung1 ji3 ge3 dim2 sam1.",
       "meaning": "Siu mai is my favorite dim sum.",
-      "sourceWordId": "siu1maai6-siu-mai",
+      "sourceWordId": "siu1maai6-pork-shrimp-dumpling",
       "sourceWord": "燒賣",
       "sourceWordJyutping": "siu1 maai6",
       "sourceWordMeaning": "pork shrimp dumpling",
@@ -59,14 +59,14 @@
         "cantonese_cuisine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu1maai6-siu-mai.json"
+      "sourceFile": "r2-backup/words/siu1maai6-pork-shrimp-dumpling.json"
     },
     {
-      "sentenceId": "siu1maai6-siu-mai-example-4",
+      "sentenceId": "siu1maai6-pork-shrimp-dumpling-example-4",
       "sentence": "你食過燒賣未？",
       "jyutping": "nei5 sik6 gwo3 siu1 maai6 mei6?",
       "meaning": "Have you eaten siu mai before?",
-      "sourceWordId": "siu1maai6-siu-mai",
+      "sourceWordId": "siu1maai6-pork-shrimp-dumpling",
       "sourceWord": "燒賣",
       "sourceWordJyutping": "siu1 maai6",
       "sourceWordMeaning": "pork shrimp dumpling",
@@ -78,7 +78,7 @@
         "cantonese_cuisine",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/siu1maai6-siu-mai.json"
+      "sourceFile": "r2-backup/words/siu1maai6-pork-shrimp-dumpling.json"
     },
     {
       "sentenceId": "caa1siu1baau1-steamed-bbq-pork-bun-example-1",
@@ -989,11 +989,11 @@
       "sourceFile": "r2-backup/words/zing1lo4baak6gou1-steamed-turnip-cake.json"
     },
     {
-      "sentenceId": "haa1siu1maai6-shrimp-siu-mai-example-1",
+      "sentenceId": "haa1siu1maai6-shrimp-pork-dumpling-example-1",
       "sentence": "我想食蝦燒賣。",
       "jyutping": "ngo5 soeng2 sik6 haa1 siu1 maai6.",
       "meaning": "I want to eat shrimp siu mai.",
-      "sourceWordId": "haa1siu1maai6-shrimp-siu-mai",
+      "sourceWordId": "haa1siu1maai6-shrimp-pork-dumpling",
       "sourceWord": "蝦燒賣",
       "sourceWordJyutping": "haa1 siu1 maai6",
       "sourceWordMeaning": "shrimp pork dumpling",
@@ -1005,14 +1005,14 @@
         "steamed",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-siu-mai.json"
+      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-pork-dumpling.json"
     },
     {
-      "sentenceId": "haa1siu1maai6-shrimp-siu-mai-example-2",
+      "sentenceId": "haa1siu1maai6-shrimp-pork-dumpling-example-2",
       "sentence": "呢度嘅蝦燒賣好好味。",
       "jyutping": "ni1 dou6 ge3 haa1 siu1 maai6 hou2 hou2 mei6.",
       "meaning": "The shrimp siu mai here is very tasty.",
-      "sourceWordId": "haa1siu1maai6-shrimp-siu-mai",
+      "sourceWordId": "haa1siu1maai6-shrimp-pork-dumpling",
       "sourceWord": "蝦燒賣",
       "sourceWordJyutping": "haa1 siu1 maai6",
       "sourceWordMeaning": "shrimp pork dumpling",
@@ -1024,14 +1024,14 @@
         "steamed",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-siu-mai.json"
+      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-pork-dumpling.json"
     },
     {
-      "sentenceId": "haa1siu1maai6-shrimp-siu-mai-example-3",
+      "sentenceId": "haa1siu1maai6-shrimp-pork-dumpling-example-3",
       "sentence": "蝦燒賣同蝦餃係我最鍾意嘅點心。",
       "jyutping": "haa1 siu1 maai6 tung4 haa1 gaau2 hai6 ngo5 zeoi3 zung1 ji3 ge3 dim2 sam1.",
       "meaning": "Shrimp siu mai and har gow are my favourite dim sum.",
-      "sourceWordId": "haa1siu1maai6-shrimp-siu-mai",
+      "sourceWordId": "haa1siu1maai6-shrimp-pork-dumpling",
       "sourceWord": "蝦燒賣",
       "sourceWordJyutping": "haa1 siu1 maai6",
       "sourceWordMeaning": "shrimp pork dumpling",
@@ -1043,14 +1043,14 @@
         "steamed",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-siu-mai.json"
+      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-pork-dumpling.json"
     },
     {
-      "sentenceId": "haa1siu1maai6-shrimp-siu-mai-example-4",
+      "sentenceId": "haa1siu1maai6-shrimp-pork-dumpling-example-4",
       "sentence": "服務員，請畀我兩籠蝦燒賣。",
       "jyutping": "fuk6 mou6 jyun4, cing2 bei2 ngo5 loeng5 lung4 haa1 siu1 maai6.",
       "meaning": "Waiter, please give me two baskets of shrimp siu mai.",
-      "sourceWordId": "haa1siu1maai6-shrimp-siu-mai",
+      "sourceWordId": "haa1siu1maai6-shrimp-pork-dumpling",
       "sourceWord": "蝦燒賣",
       "sourceWordJyutping": "haa1 siu1 maai6",
       "sourceWordMeaning": "shrimp pork dumpling",
@@ -1062,7 +1062,7 @@
         "steamed",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-siu-mai.json"
+      "sourceFile": "r2-backup/words/haa1siu1maai6-shrimp-pork-dumpling.json"
     },
     {
       "sentenceId": "zing1paai4gwat1-steamed-pork-ribs-example-1",
@@ -1901,11 +1901,11 @@
       "sourceFile": "r2-backup/words/haam4seoi2gok3-fried-savoury-dumpling.json"
     },
     {
-      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-1",
+      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2-example-1",
       "sentence": "我想叫椒鹽魷魚。",
       "jyutping": "ngo5 soeng2 giu3 ziu1 jim4 jau4 jyu4.",
       "meaning": "I want to order salt and pepper squid.",
-      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid",
+      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2",
       "sourceWord": "椒鹽魷魚",
       "sourceWordJyutping": "ziu1 jim4 jau4 jyu4",
       "sourceWordMeaning": "salt and pepper squid",
@@ -1917,14 +1917,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid.json"
+      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid-2.json"
     },
     {
-      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-2",
+      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2-example-2",
       "sentence": "呢碟椒鹽魷魚好好味。",
       "jyutping": "ni1 dip6 ziu1 jim4 jau4 jyu4 hou2 hou2 mei6.",
       "meaning": "This plate of salt and pepper squid is very delicious.",
-      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid",
+      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2",
       "sourceWord": "椒鹽魷魚",
       "sourceWordJyutping": "ziu1 jim4 jau4 jyu4",
       "sourceWordMeaning": "salt and pepper squid",
@@ -1936,14 +1936,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid.json"
+      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid-2.json"
     },
     {
-      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-3",
+      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2-example-3",
       "sentence": "你鍾意唔鍾意椒鹽魷魚？",
       "jyutping": "nei5 zung1 ji3 m4 zung1 ji3 ziu1 jim4 jau4 jyu4?",
       "meaning": "Do you like salt and pepper squid?",
-      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid",
+      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2",
       "sourceWord": "椒鹽魷魚",
       "sourceWordJyutping": "ziu1 jim4 jau4 jyu4",
       "sourceWordMeaning": "salt and pepper squid",
@@ -1955,14 +1955,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid.json"
+      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid-2.json"
     },
     {
-      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-example-4",
+      "sentenceId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2-example-4",
       "sentence": "椒鹽魷魚有啲辣喎。",
       "jyutping": "ziu1 jim4 jau4 jyu4 jau5 di1 laat6 wo3.",
       "meaning": "Salt and pepper squid is a bit spicy.",
-      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid",
+      "sourceWordId": "ziu1jim4jau4jyu4-salt-and-pepper-squid-2",
       "sourceWord": "椒鹽魷魚",
       "sourceWordJyutping": "ziu1 jim4 jau4 jyu4",
       "sourceWordMeaning": "salt and pepper squid",
@@ -1974,7 +1974,7 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid.json"
+      "sourceFile": "r2-backup/words/ziu1jim4jau4jyu4-salt-and-pepper-squid-2.json"
     },
     {
       "sentenceId": "zaa3wan4tan1-deep-fried-wontons-example-1",
@@ -2965,11 +2965,11 @@
       "sourceFile": "r2-backup/words/leot6zi2gou1-chestnut-cake.json"
     },
     {
-      "sentenceId": "je4zap1gou1-coconut-pudding-example-1",
+      "sentenceId": "je4zap1gou1-coconut-pudding-cake-example-1",
       "sentence": "我今晚想食椰汁糕。",
       "jyutping": "ngo5 gam1 maan5 soeng2 sik6 je4 zap1 gou1",
       "meaning": "I want to eat coconut pudding cake tonight.",
-      "sourceWordId": "je4zap1gou1-coconut-pudding",
+      "sourceWordId": "je4zap1gou1-coconut-pudding-cake",
       "sourceWord": "椰汁糕",
       "sourceWordJyutping": "je4 zap1 gou1",
       "sourceWordMeaning": "coconut pudding cake",
@@ -2981,14 +2981,14 @@
         "coconut",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding.json"
+      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding-cake.json"
     },
     {
-      "sentenceId": "je4zap1gou1-coconut-pudding-example-2",
+      "sentenceId": "je4zap1gou1-coconut-pudding-cake-example-2",
       "sentence": "呢間茶餐廳嘅椰汁糕好正。",
       "jyutping": "ni1 gaan1 caa4 caan1 teng1 ge3 je4 zap1 gou1 hou2 zeng3",
       "meaning": "The coconut pudding cake at this tea restaurant is really good.",
-      "sourceWordId": "je4zap1gou1-coconut-pudding",
+      "sourceWordId": "je4zap1gou1-coconut-pudding-cake",
       "sourceWord": "椰汁糕",
       "sourceWordJyutping": "je4 zap1 gou1",
       "sourceWordMeaning": "coconut pudding cake",
@@ -3000,14 +3000,14 @@
         "coconut",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding.json"
+      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding-cake.json"
     },
     {
-      "sentenceId": "je4zap1gou1-coconut-pudding-example-3",
+      "sentenceId": "je4zap1gou1-coconut-pudding-cake-example-3",
       "sentence": "你試過椰汁糕未？",
       "jyutping": "nei5 si3 gwo3 je4 zap1 gou1 mei6",
       "meaning": "Have you tried coconut pudding cake before?",
-      "sourceWordId": "je4zap1gou1-coconut-pudding",
+      "sourceWordId": "je4zap1gou1-coconut-pudding-cake",
       "sourceWord": "椰汁糕",
       "sourceWordJyutping": "je4 zap1 gou1",
       "sourceWordMeaning": "coconut pudding cake",
@@ -3019,14 +3019,14 @@
         "coconut",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding.json"
+      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding-cake.json"
     },
     {
-      "sentenceId": "je4zap1gou1-coconut-pudding-example-4",
+      "sentenceId": "je4zap1gou1-coconut-pudding-cake-example-4",
       "sentence": "買咗兩件椰汁糕返屋企。",
       "jyutping": "maai5 zo2 loeng5 gin6 je4 zap1 gou1 faan1 uk1 kei2",
       "meaning": "Bought two pieces of coconut pudding cake to take home.",
-      "sourceWordId": "je4zap1gou1-coconut-pudding",
+      "sourceWordId": "je4zap1gou1-coconut-pudding-cake",
       "sourceWord": "椰汁糕",
       "sourceWordJyutping": "je4 zap1 gou1",
       "sourceWordMeaning": "coconut pudding cake",
@@ -3038,7 +3038,7 @@
         "coconut",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding.json"
+      "sourceFile": "r2-backup/words/je4zap1gou1-coconut-pudding-cake.json"
     },
     {
       "sentenceId": "soeng1pei4naai5-double-skin-milk-pudding-example-1",

@@ -77,11 +77,11 @@
       "sourceFile": "r2-backup/words/tin1hei3-weather.json"
     },
     {
-      "sentenceId": "hei3wan1-climate-example-1",
+      "sentenceId": "hei3wan1-temperature-example-1",
       "sentence": "今日氣溫好高，去泳池啦！",
       "jyutping": "gam1 jat6 hei3 wan1 hou2 gou1, heoi3 wing6 cau4 laa1!",
       "meaning": "Today's temperature is high, let's go to the swimming pool!",
-      "sourceWordId": "hei3wan1-climate",
+      "sourceWordId": "hei3wan1-temperature",
       "sourceWord": "氣溫",
       "sourceWordJyutping": "hei3 wan1",
       "sourceWordMeaning": "temperature",
@@ -92,14 +92,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hei3wan1-climate.json"
+      "sourceFile": "r2-backup/words/hei3wan1-temperature.json"
     },
     {
-      "sentenceId": "hei3wan1-climate-example-2",
+      "sentenceId": "hei3wan1-temperature-example-2",
       "sentence": "晚上氣溫會下降，記得帶件衫。",
       "jyutping": "maan5 soeng6 hei3 wan1 wui5 haa6 gong3, gei3 dak1 daai3 gin6 saam1.",
       "meaning": "The temperature will drop at night, remember to bring a jacket.",
-      "sourceWordId": "hei3wan1-climate",
+      "sourceWordId": "hei3wan1-temperature",
       "sourceWord": "氣溫",
       "sourceWordJyutping": "hei3 wan1",
       "sourceWordMeaning": "temperature",
@@ -110,14 +110,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hei3wan1-climate.json"
+      "sourceFile": "r2-backup/words/hei3wan1-temperature.json"
     },
     {
-      "sentenceId": "hei3wan1-climate-example-3",
+      "sentenceId": "hei3wan1-temperature-example-3",
       "sentence": "冬天嘅氣溫通常比較低。",
       "jyutping": "dung1 tin1 ge3 hei3 wan1 tung1 soeng4 bei2 gaau3 dai1.",
       "meaning": "The temperature in winter is usually lower.",
-      "sourceWordId": "hei3wan1-climate",
+      "sourceWordId": "hei3wan1-temperature",
       "sourceWord": "氣溫",
       "sourceWordJyutping": "hei3 wan1",
       "sourceWordMeaning": "temperature",
@@ -128,14 +128,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hei3wan1-climate.json"
+      "sourceFile": "r2-backup/words/hei3wan1-temperature.json"
     },
     {
-      "sentenceId": "hei3wan1-climate-example-4",
+      "sentenceId": "hei3wan1-temperature-example-4",
       "sentence": "香港夏天氣溫好熱，好難受。",
       "jyutping": "hoeng1 gong2 haa6 tin1 hei3 wan1 hou2 jit6, hou2 naan4 sau6.",
       "meaning": "The temperature in Hong Kong summer is very hot and uncomfortable.",
-      "sourceWordId": "hei3wan1-climate",
+      "sourceWordId": "hei3wan1-temperature",
       "sourceWord": "氣溫",
       "sourceWordJyutping": "hei3 wan1",
       "sourceWordMeaning": "temperature",
@@ -146,14 +146,14 @@
         "daily conversation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hei3wan1-climate.json"
+      "sourceFile": "r2-backup/words/hei3wan1-temperature.json"
     },
     {
-      "sentenceId": "tin1sik1-sky-color-example-1",
+      "sentenceId": "tin1sik1-sky-example-1",
       "sentence": "今日嘅天色好靚。",
       "jyutping": "gam1 jat6 ge3 tin1 sik1 hou2 leng3.",
       "meaning": "Today's sky is very beautiful.",
-      "sourceWordId": "tin1sik1-sky-color",
+      "sourceWordId": "tin1sik1-sky",
       "sourceWord": "天色",
       "sourceWordJyutping": "tin1 sik1",
       "sourceWordMeaning": "sky",
@@ -165,14 +165,14 @@
         "common_noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1sik1-sky-color.json"
+      "sourceFile": "r2-backup/words/tin1sik1-sky.json"
     },
     {
-      "sentenceId": "tin1sik1-sky-color-example-2",
+      "sentenceId": "tin1sik1-sky-example-2",
       "sentence": "你覺得而家嘅天色係咩嘢？",
       "jyutping": "nei5 gok3 dak1 ji4 gaa1 ge3 tin1 sik1 hai6 me1 je5?",
       "meaning": "What do you think the sky looks like now?",
-      "sourceWordId": "tin1sik1-sky-color",
+      "sourceWordId": "tin1sik1-sky",
       "sourceWord": "天色",
       "sourceWordJyutping": "tin1 sik1",
       "sourceWordMeaning": "sky",
@@ -184,14 +184,14 @@
         "common_noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1sik1-sky-color.json"
+      "sourceFile": "r2-backup/words/tin1sik1-sky.json"
     },
     {
-      "sentenceId": "tin1sik1-sky-color-example-3",
+      "sentenceId": "tin1sik1-sky-example-3",
       "sentence": "天色唔好，可能落雨。",
       "jyutping": "tin1 sik1 m4 hou2, ho2 nang4 lok6 jyu5.",
       "meaning": "The sky doesn't look good; it might rain.",
-      "sourceWordId": "tin1sik1-sky-color",
+      "sourceWordId": "tin1sik1-sky",
       "sourceWord": "天色",
       "sourceWordJyutping": "tin1 sik1",
       "sourceWordMeaning": "sky",
@@ -203,14 +203,14 @@
         "common_noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1sik1-sky-color.json"
+      "sourceFile": "r2-backup/words/tin1sik1-sky.json"
     },
     {
-      "sentenceId": "tin1sik1-sky-color-example-4",
+      "sentenceId": "tin1sik1-sky-example-4",
       "sentence": "我哋快啲出去，天色要暗咗。",
       "jyutping": "ngo5 dei6 faai3 di1 ceot1 heoi3, tin1 sik1 jiu3 aam3 zo2.",
       "meaning": "Let's go out quickly; the sky is getting dark.",
-      "sourceWordId": "tin1sik1-sky-color",
+      "sourceWordId": "tin1sik1-sky",
       "sourceWord": "天色",
       "sourceWordJyutping": "tin1 sik1",
       "sourceWordMeaning": "sky",
@@ -222,14 +222,14 @@
         "common_noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tin1sik1-sky-color.json"
+      "sourceFile": "r2-backup/words/tin1sik1-sky.json"
     },
     {
-      "sentenceId": "jat6zi2-daytime-weather-example-1",
+      "sentenceId": "jat6zi2-day-example-1",
       "sentence": "今日日子幾好，天氣唔錯。",
       "jyutping": "gam1 jat6 zi2 gei2 hou2, tin1 hei3 m4 co3.",
       "meaning": "Today is a nice day, the weather is not bad.",
-      "sourceWordId": "jat6zi2-daytime-weather",
+      "sourceWordId": "jat6zi2-day",
       "sourceWord": "日子",
       "sourceWordJyutping": "jat6 zi2",
       "sourceWordMeaning": "day",
@@ -241,14 +241,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat6zi2-daytime-weather.json"
+      "sourceFile": "r2-backup/words/jat6zi2-day.json"
     },
     {
-      "sentenceId": "jat6zi2-daytime-weather-example-2",
+      "sentenceId": "jat6zi2-day-example-2",
       "sentence": "我哋約定下星期六嗰日子見面。",
       "jyutping": "ngo5 dei6 joek3 ding6 haa6 sing1 kei4 luk6 go2 jat6 zi2 gin3 min6.",
       "meaning": "We agreed to meet on that day next Saturday.",
-      "sourceWordId": "jat6zi2-daytime-weather",
+      "sourceWordId": "jat6zi2-day",
       "sourceWord": "日子",
       "sourceWordJyutping": "jat6 zi2",
       "sourceWordMeaning": "day",
@@ -260,14 +260,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat6zi2-daytime-weather.json"
+      "sourceFile": "r2-backup/words/jat6zi2-day.json"
     },
     {
-      "sentenceId": "jat6zi2-daytime-weather-example-3",
+      "sentenceId": "jat6zi2-day-example-3",
       "sentence": "佢最近啲日子好忙。",
       "jyutping": "keoi5 zeoi3 gan6 di1 jat6 zi2 hou2 mong4.",
       "meaning": "He’s been very busy these days.",
-      "sourceWordId": "jat6zi2-daytime-weather",
+      "sourceWordId": "jat6zi2-day",
       "sourceWord": "日子",
       "sourceWordJyutping": "jat6 zi2",
       "sourceWordMeaning": "day",
@@ -279,14 +279,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat6zi2-daytime-weather.json"
+      "sourceFile": "r2-backup/words/jat6zi2-day.json"
     },
     {
-      "sentenceId": "jat6zi2-daytime-weather-example-4",
+      "sentenceId": "jat6zi2-day-example-4",
       "sentence": "唔好理啲壞日子，開心啲。",
       "jyutping": "m4 hou2 lei5 di1 waai6 jat6 zi2, hoi1 sam1 di1.",
       "meaning": "Don’t mind the bad days, be happier.",
-      "sourceWordId": "jat6zi2-daytime-weather",
+      "sourceWordId": "jat6zi2-day",
       "sourceWord": "日子",
       "sourceWordJyutping": "jat6 zi2",
       "sourceWordMeaning": "day",
@@ -298,83 +298,83 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jat6zi2-daytime-weather.json"
+      "sourceFile": "r2-backup/words/jat6zi2-day.json"
     },
     {
-      "sentenceId": "cing4fong3-condition-example-1",
-      "sentence": "天氣情況好，出街玩啦！",
-      "jyutping": "tin1 hei3 cing4 fong3 hou2, ceot1 gaai1 waan2 laa1!",
-      "meaning": "The weather conditions are good, let's go out and have fun!",
-      "sourceWordId": "cing4fong3-condition",
+      "sentenceId": "cing4fong3-situation-example-1",
+      "sentence": "而家情況好似有啲麻煩。",
+      "jyutping": "ji4 gaa1 cing4 fong3 hou2 ci3 jau5 di1 maa4 faan4.",
+      "meaning": "The situation seems a bit troublesome now.",
+      "sourceWordId": "cing4fong3-situation",
       "sourceWord": "情況",
       "sourceWordJyutping": "cing4 fong3",
-      "sourceWordMeaning": "condition",
+      "sourceWordMeaning": "situation",
       "tags": [
-        "weather",
-        "condition",
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
         "situation",
-        "everyday use",
-        "level 1",
+        "condition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4fong3-condition.json"
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
     },
     {
-      "sentenceId": "cing4fong3-condition-example-2",
-      "sentence": "你嘅身體情況點呀？",
-      "jyutping": "nei5 ge3 san1 tai2 cing4 fong3 dim2 aa3?",
-      "meaning": "How is your health condition?",
-      "sourceWordId": "cing4fong3-condition",
+      "sentenceId": "cing4fong3-situation-example-2",
+      "sentence": "我哋要睇情況再決定。",
+      "jyutping": "ngo5 dei6 jiu3 tai2 cing4 fong3 zoi3 kyut3 ding6.",
+      "meaning": "We need to see how things go before deciding.",
+      "sourceWordId": "cing4fong3-situation",
       "sourceWord": "情況",
       "sourceWordJyutping": "cing4 fong3",
-      "sourceWordMeaning": "condition",
+      "sourceWordMeaning": "situation",
       "tags": [
-        "weather",
-        "condition",
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
         "situation",
-        "everyday use",
-        "level 1",
+        "condition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4fong3-condition.json"
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
     },
     {
-      "sentenceId": "cing4fong3-condition-example-3",
-      "sentence": "依家嘅交通情況好差。",
-      "jyutping": "ji1 gaa1 ge3 gaau1 tung1 cing4 fong3 hou2 caa1.",
-      "meaning": "The current traffic condition is very bad.",
-      "sourceWordId": "cing4fong3-condition",
+      "sentenceId": "cing4fong3-situation-example-3",
+      "sentence": "醫生話佢嘅情況已經穩定咗。",
+      "jyutping": "ji1 saang1 waa6 keoi5 ge3 cing4 fong3 ji5 ging1 wan2 ding6 zo2.",
+      "meaning": "The doctor said his condition has stabilized.",
+      "sourceWordId": "cing4fong3-situation",
       "sourceWord": "情況",
       "sourceWordJyutping": "cing4 fong3",
-      "sourceWordMeaning": "condition",
+      "sourceWordMeaning": "situation",
       "tags": [
-        "weather",
-        "condition",
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
         "situation",
-        "everyday use",
-        "level 1",
+        "condition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4fong3-condition.json"
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
     },
     {
-      "sentenceId": "cing4fong3-condition-example-4",
-      "sentence": "我哋要了解現場情況先。",
-      "jyutping": "ngo5 dei6 jiu3 liu5 gaai2 jin6 coeng4 cing4 fong3 sin1.",
-      "meaning": "We need to understand the situation on site first.",
-      "sourceWordId": "cing4fong3-condition",
+      "sentenceId": "cing4fong3-situation-example-4",
+      "sentence": "根據天氣情況，今日可能會落雨。",
+      "jyutping": "gan1 geoi3 tin1 hei3 cing4 fong3, gam1 jat6 ho2 nang4 wui5 lok6 jyu5.",
+      "meaning": "Depending on the weather conditions, it may rain today.",
+      "sourceWordId": "cing4fong3-situation",
       "sourceWord": "情況",
       "sourceWordJyutping": "cing4 fong3",
-      "sourceWordMeaning": "condition",
+      "sourceWordMeaning": "situation",
       "tags": [
-        "weather",
-        "condition",
+        "common_news_terms",
+        "daily_use",
+        "formal_neutral",
         "situation",
-        "everyday use",
-        "level 1",
+        "condition",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4fong3-condition.json"
+      "sourceFile": "r2-backup/words/cing4fong3-situation.json"
     },
     {
       "sentenceId": "taai3joeng4-sun-example-1",
@@ -605,11 +605,11 @@
       "sourceFile": "r2-backup/words/hou2tin1-sunny.json"
     },
     {
-      "sentenceId": "cing4tin1-clear-sky-example-1",
+      "sentenceId": "cing4tin1-sunny-day-example-1",
       "sentence": "今日係晴天，我哋去行山啦。",
       "jyutping": "gam1 jat6 hai6 cing4 tin1, ngo5 dei6 heoi3 haang4 saan1 laa1.",
       "meaning": "Today is a sunny day, let's go hiking.",
-      "sourceWordId": "cing4tin1-clear-sky",
+      "sourceWordId": "cing4tin1-sunny-day",
       "sourceWord": "晴天",
       "sourceWordJyutping": "cing4 tin1",
       "sourceWordMeaning": "sunny day",
@@ -621,14 +621,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4tin1-clear-sky.json"
+      "sourceFile": "r2-backup/words/cing4tin1-sunny-day.json"
     },
     {
-      "sentenceId": "cing4tin1-clear-sky-example-2",
+      "sentenceId": "cing4tin1-sunny-day-example-2",
       "sentence": "明日有晴天，唔使帶傘。",
       "jyutping": "ming4 jat6 jau5 cing4 tin1, m4 sai2 daai3 saan3.",
       "meaning": "There will be a sunny day tomorrow, no need to bring an umbrella.",
-      "sourceWordId": "cing4tin1-clear-sky",
+      "sourceWordId": "cing4tin1-sunny-day",
       "sourceWord": "晴天",
       "sourceWordJyutping": "cing4 tin1",
       "sourceWordMeaning": "sunny day",
@@ -640,14 +640,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4tin1-clear-sky.json"
+      "sourceFile": "r2-backup/words/cing4tin1-sunny-day.json"
     },
     {
-      "sentenceId": "cing4tin1-clear-sky-example-3",
+      "sentenceId": "cing4tin1-sunny-day-example-3",
       "sentence": "細個嘅時候，我最鐘意晴天玩街。",
       "jyutping": "sai3 go3 ge3 si4 hau6, ngo5 zeoi3 zung1 ji3 cing4 tin1 waan2 gaai1.",
       "meaning": "When I was a kid, I liked playing outside on sunny days the most.",
-      "sourceWordId": "cing4tin1-clear-sky",
+      "sourceWordId": "cing4tin1-sunny-day",
       "sourceWord": "晴天",
       "sourceWordJyutping": "cing4 tin1",
       "sourceWordMeaning": "sunny day",
@@ -659,14 +659,14 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4tin1-clear-sky.json"
+      "sourceFile": "r2-backup/words/cing4tin1-sunny-day.json"
     },
     {
-      "sentenceId": "cing4tin1-clear-sky-example-4",
+      "sentenceId": "cing4tin1-sunny-day-example-4",
       "sentence": "晴天出去，心情都開心啲。",
       "jyutping": "cing4 tin1 ceot1 heoi3, sam1 cing4 dou1 hoi1 sam1 di1.",
       "meaning": "Going out on a sunny day makes you feel happier.",
-      "sourceWordId": "cing4tin1-clear-sky",
+      "sourceWordId": "cing4tin1-sunny-day",
       "sourceWord": "晴天",
       "sourceWordJyutping": "cing4 tin1",
       "sourceWordMeaning": "sunny day",
@@ -678,7 +678,7 @@
         "everyday",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cing4tin1-clear-sky.json"
+      "sourceFile": "r2-backup/words/cing4tin1-sunny-day.json"
     },
     {
       "sentenceId": "wan4-cloud-example-1",
@@ -757,11 +757,11 @@
       "sourceFile": "r2-backup/words/wan4-cloud.json"
     },
     {
-      "sentenceId": "wan4loeng6-cloud-layer-example-1",
+      "sentenceId": "wan4loeng6-cloud-cover-example-1",
       "sentence": "今日嘅雲量好高，好似要落雨。",
       "jyutping": "gam1 jat6 ge3 wan4 loeng6 hou2 gou1, hou2 ci5 jiu3 lok6 jyu5.",
       "meaning": "Today's cloud cover is high, it looks like it's going to rain.",
-      "sourceWordId": "wan4loeng6-cloud-layer",
+      "sourceWordId": "wan4loeng6-cloud-cover",
       "sourceWord": "雲量",
       "sourceWordJyutping": "wan4 loeng6",
       "sourceWordMeaning": "cloud cover",
@@ -773,14 +773,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan4loeng6-cloud-layer.json"
+      "sourceFile": "r2-backup/words/wan4loeng6-cloud-cover.json"
     },
     {
-      "sentenceId": "wan4loeng6-cloud-layer-example-2",
+      "sentenceId": "wan4loeng6-cloud-cover-example-2",
       "sentence": "凌晨嘅雲量比較低，天空好清晰。",
       "jyutping": "ling4 san4 ge3 wan4 loeng6 bei2 gaau3 dai1, tin1 hung1 hou2 ceng1 sik1.",
       "meaning": "The cloud cover in the early morning is lower, and the sky is very clear.",
-      "sourceWordId": "wan4loeng6-cloud-layer",
+      "sourceWordId": "wan4loeng6-cloud-cover",
       "sourceWord": "雲量",
       "sourceWordJyutping": "wan4 loeng6",
       "sourceWordMeaning": "cloud cover",
@@ -792,14 +792,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan4loeng6-cloud-layer.json"
+      "sourceFile": "r2-backup/words/wan4loeng6-cloud-cover.json"
     },
     {
-      "sentenceId": "wan4loeng6-cloud-layer-example-3",
+      "sentenceId": "wan4loeng6-cloud-cover-example-3",
       "sentence": "電視天氣報告講咗雲量中等左右。",
       "jyutping": "din6 si6 tin1 hei3 bou3 gou3 gong2 zo2 wan4 loeng6 zung1 dang2 zou2 jau4.",
       "meaning": "The TV weather report said the cloud cover is around medium.",
-      "sourceWordId": "wan4loeng6-cloud-layer",
+      "sourceWordId": "wan4loeng6-cloud-cover",
       "sourceWord": "雲量",
       "sourceWordJyutping": "wan4 loeng6",
       "sourceWordMeaning": "cloud cover",
@@ -811,14 +811,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan4loeng6-cloud-layer.json"
+      "sourceFile": "r2-backup/words/wan4loeng6-cloud-cover.json"
     },
     {
-      "sentenceId": "wan4loeng6-cloud-layer-example-4",
+      "sentenceId": "wan4loeng6-cloud-cover-example-4",
       "sentence": "我哋出門前要睇下雲量先決定帶唔帶傘。",
       "jyutping": "ngo5 dei6 ceot1 mun4 cin4 jiu3 tai2 haa5 wan4 loeng6 sin1 kyut3 ding6 daai3 m4 daai3 saan2.",
       "meaning": "We need to check the cloud cover before going out to decide whether to bring an umbrella.",
-      "sourceWordId": "wan4loeng6-cloud-layer",
+      "sourceWordId": "wan4loeng6-cloud-cover",
       "sourceWord": "雲量",
       "sourceWordJyutping": "wan4 loeng6",
       "sourceWordMeaning": "cloud cover",
@@ -830,7 +830,7 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan4loeng6-cloud-layer.json"
+      "sourceFile": "r2-backup/words/wan4loeng6-cloud-cover.json"
     },
     {
       "sentenceId": "jam1-cloudy-example-1",
@@ -909,11 +909,11 @@
       "sourceFile": "r2-backup/words/jam1-cloudy.json"
     },
     {
-      "sentenceId": "jam1tin1-overcast-day-example-1",
+      "sentenceId": "jam1tin1-cloudy-day-example-1",
       "sentence": "今日係陰天，我哋唔使帶太陽眼鏡。",
       "jyutping": "gam1 jat6 hai6 jam1 tin1, ngo5 dei6 m4 sai2 daai3 taai3 joeng6 ngaan5 geng3.",
       "meaning": "Today is a cloudy day, we don't need to bring sunglasses.",
-      "sourceWordId": "jam1tin1-overcast-day",
+      "sourceWordId": "jam1tin1-cloudy-day",
       "sourceWord": "陰天",
       "sourceWordJyutping": "jam1 tin1",
       "sourceWordMeaning": "cloudy day",
@@ -924,14 +924,14 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam1tin1-overcast-day.json"
+      "sourceFile": "r2-backup/words/jam1tin1-cloudy-day.json"
     },
     {
-      "sentenceId": "jam1tin1-overcast-day-example-2",
+      "sentenceId": "jam1tin1-cloudy-day-example-2",
       "sentence": "陰天嘅時候，啲人心情會比較沉悶。",
       "jyutping": "jam1 tin1 ge3 si4 hau6, di1 jan4 sam1 cing4 wui5 bei2 gaau3 cam4 mun6.",
       "meaning": "During cloudy days, people's moods can be more gloomy.",
-      "sourceWordId": "jam1tin1-overcast-day",
+      "sourceWordId": "jam1tin1-cloudy-day",
       "sourceWord": "陰天",
       "sourceWordJyutping": "jam1 tin1",
       "sourceWordMeaning": "cloudy day",
@@ -942,14 +942,14 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam1tin1-overcast-day.json"
+      "sourceFile": "r2-backup/words/jam1tin1-cloudy-day.json"
     },
     {
-      "sentenceId": "jam1tin1-overcast-day-example-3",
+      "sentenceId": "jam1tin1-cloudy-day-example-3",
       "sentence": "我鍾意陰天，因為唔會太熱。",
       "jyutping": "ngo5 zung1 ji3 jam1 tin1, jan1 wai6 m4 wui5 taai3 jit6.",
       "meaning": "I like cloudy days because it's not too hot.",
-      "sourceWordId": "jam1tin1-overcast-day",
+      "sourceWordId": "jam1tin1-cloudy-day",
       "sourceWord": "陰天",
       "sourceWordJyutping": "jam1 tin1",
       "sourceWordMeaning": "cloudy day",
@@ -960,14 +960,14 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam1tin1-overcast-day.json"
+      "sourceFile": "r2-backup/words/jam1tin1-cloudy-day.json"
     },
     {
-      "sentenceId": "jam1tin1-overcast-day-example-4",
+      "sentenceId": "jam1tin1-cloudy-day-example-4",
       "sentence": "睇下天氣報告，聽日應該係陰天。",
       "jyutping": "tai2 haa5 tin1 hei3 bou3 gou3, teng1 jat6 jing1 goi1 hai6 jam1 tin1.",
       "meaning": "Look at the weather report, tomorrow should be a cloudy day.",
-      "sourceWordId": "jam1tin1-overcast-day",
+      "sourceWordId": "jam1tin1-cloudy-day",
       "sourceWord": "陰天",
       "sourceWordJyutping": "jam1 tin1",
       "sourceWordMeaning": "cloudy day",
@@ -978,7 +978,7 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jam1tin1-overcast-day.json"
+      "sourceFile": "r2-backup/words/jam1tin1-cloudy-day.json"
     },
     {
       "sentenceId": "jam1cam4-gloomy-example-1",
@@ -1134,9 +1134,9 @@
     },
     {
       "sentenceId": "jyu5-rain-example-1",
-      "sentence": "今日落雨，好凍呀。",
-      "jyutping": "gam1 jat6 lok6 jyu5, hou2 dung3 aa3.",
-      "meaning": "It's raining today, very cold.",
+      "sentence": "今日落雨。",
+      "jyutping": "gam1 jat6 lok6 jyu5.",
+      "meaning": "It is raining today.",
       "sourceWordId": "jyu5-rain",
       "sourceWord": "雨",
       "sourceWordJyutping": "jyu5",
@@ -1144,18 +1144,18 @@
       "tags": [
         "weather",
         "rain",
-        "daily conversation",
-        "nouns",
-        "basic Cantonese",
+        "nature",
+        "basic vocabulary",
+        "natural events",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyu5-rain.json"
     },
     {
       "sentenceId": "jyu5-rain-example-2",
-      "sentence": "我唔鍾意大雨，會淋濕晒。",
-      "jyutping": "ngo5 m4 zung1 ji3 daai6 jyu5, wui5 lam4 sap1 saai3.",
-      "meaning": "I don’t like heavy rain, it makes me all wet.",
+      "sentence": "我鍾意聽雨聲。",
+      "jyutping": "ngo5 zung1 ji3 teng1 jyu5 seng1.",
+      "meaning": "I like listening to the sound of rain.",
       "sourceWordId": "jyu5-rain",
       "sourceWord": "雨",
       "sourceWordJyutping": "jyu5",
@@ -1163,18 +1163,18 @@
       "tags": [
         "weather",
         "rain",
-        "daily conversation",
-        "nouns",
-        "basic Cantonese",
+        "nature",
+        "basic vocabulary",
+        "natural events",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyu5-rain.json"
     },
     {
       "sentenceId": "jyu5-rain-example-3",
-      "sentence": "聽日有雨，記住帶傘。",
-      "jyutping": "ting1 jat6 jau5 jyu5, gei3 zyu6 daai3 saan3.",
-      "meaning": "It will rain tomorrow, remember to bring an umbrella.",
+      "sentence": "呢場雨好大。",
+      "jyutping": "ni1 coeng4 jyu5 hou2 daai6.",
+      "meaning": "This rain is very heavy.",
       "sourceWordId": "jyu5-rain",
       "sourceWord": "雨",
       "sourceWordJyutping": "jyu5",
@@ -1182,18 +1182,18 @@
       "tags": [
         "weather",
         "rain",
-        "daily conversation",
-        "nouns",
-        "basic Cantonese",
+        "nature",
+        "basic vocabulary",
+        "natural events",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyu5-rain.json"
     },
     {
       "sentenceId": "jyu5-rain-example-4",
-      "sentence": "雨停咗，可以出街喇。",
-      "jyutping": "jyu5 ting4 zo2, ho2 ji5 ceot1 gaai1 laa3.",
-      "meaning": "The rain stopped, we can go out now.",
+      "sentence": "落雨記得帶遮。",
+      "jyutping": "lok6 jyu5 gei3 dak1 daai3 ze1.",
+      "meaning": "If it rains, remember to bring an umbrella.",
       "sourceWordId": "jyu5-rain",
       "sourceWord": "雨",
       "sourceWordJyutping": "jyu5",
@@ -1201,9 +1201,9 @@
       "tags": [
         "weather",
         "rain",
-        "daily conversation",
-        "nouns",
-        "basic Cantonese",
+        "nature",
+        "basic vocabulary",
+        "natural events",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jyu5-rain.json"
@@ -1514,72 +1514,80 @@
     },
     {
       "sentenceId": "leoi4-thunder-example-1",
-      "sentence": "今晚會有雷同雨。",
-      "jyutping": "gam1 maan5 wui5 jau5 leoi4 tung4 jyu5.",
-      "meaning": "There will be thunder and rain tonight.",
+      "sentence": "外面打雷，好似快要落雨。",
+      "jyutping": "ngoi6 min6 daa2 leoi4, hou2 ci5 faai3 jiu3 lok6 jyu5.",
+      "meaning": "It's thundering outside; it looks like it's going to rain soon.",
       "sourceWordId": "leoi4-thunder",
       "sourceWord": "雷",
       "sourceWordJyutping": "leoi4",
       "sourceWordMeaning": "thunder",
       "tags": [
         "weather",
-        "thunder",
-        "rain_and_storms",
-        "nature_sounds",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi4-thunder.json"
     },
     {
       "sentenceId": "leoi4-thunder-example-2",
-      "sentence": "我聽到好大聲嘅雷。",
-      "jyutping": "ngo5 teng1 dou3 hou2 daai6 seng1 ge3 leoi4.",
-      "meaning": "I heard very loud thunder.",
+      "sentence": "我細個成日驚雷聲。",
+      "jyutping": "ngo5 sai3 go3 seng4 jat6 geng1 leoi4 seng1.",
+      "meaning": "When I was little, I was often afraid of thunder.",
       "sourceWordId": "leoi4-thunder",
       "sourceWord": "雷",
       "sourceWordJyutping": "leoi4",
       "sourceWordMeaning": "thunder",
       "tags": [
         "weather",
-        "thunder",
-        "rain_and_storms",
-        "nature_sounds",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi4-thunder.json"
     },
     {
       "sentenceId": "leoi4-thunder-example-3",
-      "sentence": "雷聲好似好驚。",
-      "jyutping": "leoi4 seng1 hou2 ci5 hou2 ging1.",
-      "meaning": "The sound of the thunder is quite scary.",
+      "sentence": "今晚個雷聲好大，聽到都嚇親。",
+      "jyutping": "gam1 maan5 go3 leoi4 seng1 hou2 daai6, teng1 dou3 dou1 haak3 can1.",
+      "meaning": "The thunder tonight is very loud; even hearing it is scary.",
       "sourceWordId": "leoi4-thunder",
       "sourceWord": "雷",
       "sourceWordJyutping": "leoi4",
       "sourceWordMeaning": "thunder",
       "tags": [
         "weather",
-        "thunder",
-        "rain_and_storms",
-        "nature_sounds",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi4-thunder.json"
     },
     {
       "sentenceId": "leoi4-thunder-example-4",
-      "sentence": "天黑晒，開始打雷喇。",
-      "jyutping": "tin1 hak1 saai3, hoi1 ci2 daa2 leoi4 laa3.",
-      "meaning": "It's dark now, the thunder has started.",
+      "sentence": "天黑黑，又有雷又有雨。",
+      "jyutping": "tin1 hak1 hak1, jau6 jau5 leoi4 jau6 jau5 jyu5.",
+      "meaning": "It's very dark, with thunder and rain.",
       "sourceWordId": "leoi4-thunder",
       "sourceWord": "雷",
       "sourceWordJyutping": "leoi4",
       "sourceWordMeaning": "thunder",
       "tags": [
         "weather",
-        "thunder",
-        "rain_and_storms",
-        "nature_sounds",
+        "nature",
+        "natural disaster",
+        "beginner",
+        "everyday vocabulary",
+        "environment",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi4-thunder.json"
@@ -1814,85 +1822,93 @@
     },
     {
       "sentenceId": "toi4fung1-typhoon-example-1",
-      "sentence": "今個星期有颱風嚟。",
-      "jyutping": "gam1 go3 sing1 kei4 jau5 toi4 fung1 lai4.",
-      "meaning": "There is a typhoon coming this week.",
+      "sentence": "颱風就嚟啦，你記得收好啲窗同埋晾喺出面嘅衫。",
+      "jyutping": "toi4 fung1 zau6 lei4 laa3, nei5 gei3 dak1 sau1 hou2 di1 coeng1 tung4 maai4 loeng6 hai2 ceot1 min6 ge3 saam1.",
+      "meaning": "The typhoon is coming soon, so remember to close the windows and bring in the clothes outside.",
       "sourceWordId": "toi4fung1-typhoon",
       "sourceWord": "颱風",
       "sourceWordJyutping": "toi4 fung1",
       "sourceWordMeaning": "typhoon",
       "tags": [
         "weather",
-        "storm",
-        "rain",
-        "nature",
-        "safety",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
     },
     {
       "sentenceId": "toi4fung1-typhoon-example-2",
-      "sentence": "颱風令天氣好差。",
-      "jyutping": "toi4 fung1 ling6 tin1 hei3 hou2 caa1.",
-      "meaning": "The typhoon makes the weather very bad.",
+      "sentence": "因為颱風關係，今日全日都停課。",
+      "jyutping": "jan1 wai6 toi4 fung1 gwaan1 hai6, gam1 jat6 cyun4 jat6 dou1 ting4 fo3.",
+      "meaning": "Because of the typhoon, classes are suspended all day today.",
       "sourceWordId": "toi4fung1-typhoon",
       "sourceWord": "颱風",
       "sourceWordJyutping": "toi4 fung1",
       "sourceWordMeaning": "typhoon",
       "tags": [
         "weather",
-        "storm",
-        "rain",
-        "nature",
-        "safety",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
     },
     {
       "sentenceId": "toi4fung1-typhoon-example-3",
-      "sentence": "你應該準備颱風用品。",
-      "jyutping": "nei5 jing1 goi1 zeon2 bei6 toi4 fung1 jung6 ban2.",
-      "meaning": "You should prepare typhoon supplies.",
+      "sentence": "昨晚個颱風好大風，吹到啲樹都郁晒。",
+      "jyutping": "zok6 maan5 go3 toi4 fung1 hou2 daai6 fung1, ceoi1 dou3 di1 syu6 dou1 juk1 saai3.",
+      "meaning": "Last night’s typhoon was very strong, and it blew the trees around.",
       "sourceWordId": "toi4fung1-typhoon",
       "sourceWord": "颱風",
       "sourceWordJyutping": "toi4 fung1",
       "sourceWordMeaning": "typhoon",
       "tags": [
         "weather",
-        "storm",
-        "rain",
-        "nature",
-        "safety",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
     },
     {
       "sentenceId": "toi4fung1-typhoon-example-4",
-      "sentence": "颱風期間要留意安全。",
-      "jyutping": "toi4 fung1 kei4 gaan1 jiu3 lau4 ji3 ngon1 cyun4.",
-      "meaning": "You should pay attention to safety during the typhoon.",
+      "sentence": "天文台話個颱風會喺聽日凌晨最接近香港。",
+      "jyutping": "tin1 man4 toi4 waa6 go3 toi4 fung1 wui5 hai2 ting1 jat6 ling4 san4 zeoi3 zip3 gwan6 Hoeng1 Gong2.",
+      "meaning": "The Observatory says the typhoon will be closest to Hong Kong early tomorrow morning.",
       "sourceWordId": "toi4fung1-typhoon",
       "sourceWord": "颱風",
       "sourceWordJyutping": "toi4 fung1",
       "sourceWordMeaning": "typhoon",
       "tags": [
         "weather",
-        "storm",
-        "rain",
-        "nature",
-        "safety",
+        "natural disaster",
+        "typhoon",
+        "Hong Kong news",
+        "daily life",
+        "beginner",
+        "Cantonese vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/toi4fung1-typhoon.json"
     },
     {
       "sentenceId": "fung1-wind-example-1",
-      "sentence": "今日嘅風好大。",
-      "jyutping": "gam1 jat6 ge3 fung1 hou2 daai6.",
-      "meaning": "The wind is very strong today.",
+      "sentence": "今日好大風。",
+      "jyutping": "gam1 jat6 hou2 daai6 fung1",
+      "meaning": "It’s very windy today.",
       "sourceWordId": "fung1-wind",
       "sourceWord": "風",
       "sourceWordJyutping": "fung1",
@@ -1900,18 +1916,19 @@
       "tags": [
         "weather",
         "nature",
-        "wind",
-        "common",
-        "level1",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fung1-wind.json"
     },
     {
       "sentenceId": "fung1-wind-example-2",
-      "sentence": "冬天嘅風好凍。",
-      "jyutping": "dung1 tin1 ge3 fung1 hou2 dung3.",
-      "meaning": "The winter wind is very cold.",
+      "sentence": "海邊有陣風。",
+      "jyutping": "hoi2 bin1 jau5 zan6 fung1",
+      "meaning": "There is a gust of wind by the sea.",
       "sourceWordId": "fung1-wind",
       "sourceWord": "風",
       "sourceWordJyutping": "fung1",
@@ -1919,18 +1936,19 @@
       "tags": [
         "weather",
         "nature",
-        "wind",
-        "common",
-        "level1",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fung1-wind.json"
     },
     {
       "sentenceId": "fung1-wind-example-3",
-      "sentence": "風吹樹葉喺度沙沙響。",
-      "jyutping": "fung1 ceoi1 syu6 jip6 hai2 dou6 saa1 saa1 hoeng2.",
-      "meaning": "The wind is blowing the leaves, making a rustling sound.",
+      "sentence": "開窗會有風入嚟。",
+      "jyutping": "hoi1 coeng1 wui5 jau5 fung1 jap6 lai4",
+      "meaning": "If you open the window, wind will come in.",
       "sourceWordId": "fung1-wind",
       "sourceWord": "風",
       "sourceWordJyutping": "fung1",
@@ -1938,18 +1956,19 @@
       "tags": [
         "weather",
         "nature",
-        "wind",
-        "common",
-        "level1",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fung1-wind.json"
     },
     {
       "sentenceId": "fung1-wind-example-4",
-      "sentence": "最近有新嘅風氣喺公司出現。",
-      "jyutping": "zeoi3 gan6 jau5 san1 ge3 fung1 hei3 hai2 gung1 si1 ceot1 jin6.",
-      "meaning": "There is a new trend appearing in the company recently.",
+      "sentence": "打風嗰陣最好留喺屋企。",
+      "jyutping": "daa2 fung1 go2 zan6 zeoi3 hou2 lau4 hai2 uk1 kei2",
+      "meaning": "When a typhoon comes, it’s best to stay at home.",
       "sourceWordId": "fung1-wind",
       "sourceWord": "風",
       "sourceWordJyutping": "fung1",
@@ -1957,9 +1976,10 @@
       "tags": [
         "weather",
         "nature",
-        "wind",
-        "common",
-        "level1",
+        "natural events",
+        "basic vocabulary",
+        "elementary",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/fung1-wind.json"
@@ -2193,11 +2213,11 @@
       "sourceFile": "r2-backup/words/jau5fung1-windy.json"
     },
     {
-      "sentenceId": "leong4fung1-cool-breeze-example-1",
+      "sentenceId": "leong4fung1-breeze-example-1",
       "sentence": "夕陽下有陣涼風，好舒服。",
       "jyutping": "zik6 joeng4 haa6 jau5 zan6 leong4 fung1, hou2 syu1 fuk6.",
       "meaning": "There’s a cool breeze under the sunset, very comfortable.",
-      "sourceWordId": "leong4fung1-cool-breeze",
+      "sourceWordId": "leong4fung1-breeze",
       "sourceWord": "涼風",
       "sourceWordJyutping": "leong4 fung1",
       "sourceWordMeaning": "breeze",
@@ -2209,14 +2229,14 @@
         "comfort",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/leong4fung1-cool-breeze.json"
+      "sourceFile": "r2-backup/words/leong4fung1-breeze.json"
     },
     {
-      "sentenceId": "leong4fung1-cool-breeze-example-2",
+      "sentenceId": "leong4fung1-breeze-example-2",
       "sentence": "今日天氣唔熱，有涼風吹過。",
       "jyutping": "gam1 jat6 tin1 hei3 m4 jit6, jau5 leong4 fung1 ceoi1 gwo3.",
       "meaning": "The weather is not hot today, and a cool breeze is blowing.",
-      "sourceWordId": "leong4fung1-cool-breeze",
+      "sourceWordId": "leong4fung1-breeze",
       "sourceWord": "涼風",
       "sourceWordJyutping": "leong4 fung1",
       "sourceWordMeaning": "breeze",
@@ -2228,14 +2248,14 @@
         "comfort",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/leong4fung1-cool-breeze.json"
+      "sourceFile": "r2-backup/words/leong4fung1-breeze.json"
     },
     {
-      "sentenceId": "leong4fung1-cool-breeze-example-3",
+      "sentenceId": "leong4fung1-breeze-example-3",
       "sentence": "打開窗戶，讓啲涼風進嚟。",
       "jyutping": "daa2 hoi1 coeng1 wu6, joeng6 di1 leong4 fung1 zeon3 lai4.",
       "meaning": "Open the window to let some cool breeze in.",
-      "sourceWordId": "leong4fung1-cool-breeze",
+      "sourceWordId": "leong4fung1-breeze",
       "sourceWord": "涼風",
       "sourceWordJyutping": "leong4 fung1",
       "sourceWordMeaning": "breeze",
@@ -2247,14 +2267,14 @@
         "comfort",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/leong4fung1-cool-breeze.json"
+      "sourceFile": "r2-backup/words/leong4fung1-breeze.json"
     },
     {
-      "sentenceId": "leong4fung1-cool-breeze-example-4",
+      "sentenceId": "leong4fung1-breeze-example-4",
       "sentence": "秋天通常會有涼風，令人舒服。",
       "jyutping": "cau1 tin1 tung1 soeng4 wui5 jau5 leong4 fung1, ling6 jan4 syu1 fuk6.",
       "meaning": "There is usually a cool breeze in autumn, which makes people feel comfortable.",
-      "sourceWordId": "leong4fung1-cool-breeze",
+      "sourceWordId": "leong4fung1-breeze",
       "sourceWord": "涼風",
       "sourceWordJyutping": "leong4 fung1",
       "sourceWordMeaning": "breeze",
@@ -2266,7 +2286,7 @@
         "comfort",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/leong4fung1-cool-breeze.json"
+      "sourceFile": "r2-backup/words/leong4fung1-breeze.json"
     },
     {
       "sentenceId": "hei3-air-example-1",
@@ -2877,11 +2897,11 @@
       "sourceFile": "r2-backup/words/leong4-cool.json"
     },
     {
-      "sentenceId": "bing1-cold-icy-example-1",
+      "sentenceId": "bing1-ice-example-1",
       "sentence": "我想飲凍飲，攞啲冰嚟。",
       "jyutping": "ngo5 soeng2 jam2 dung3 jam2, lo2 di1 bing1 lai4.",
       "meaning": "I want a cold drink, bring some ice.",
-      "sourceWordId": "bing1-cold-icy",
+      "sourceWordId": "bing1-ice",
       "sourceWord": "冰",
       "sourceWordJyutping": "bing1",
       "sourceWordMeaning": "ice",
@@ -2893,14 +2913,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bing1-cold-icy.json"
+      "sourceFile": "r2-backup/words/bing1-ice.json"
     },
     {
-      "sentenceId": "bing1-cold-icy-example-2",
+      "sentenceId": "bing1-ice-example-2",
       "sentence": "冬天啲路面冇冰好安全。",
       "jyutping": "dung1 tin1 di1 lou6 min6 mou5 bing1 hou2 on1 cyun4.",
       "meaning": "It's safer if there's no ice on the road in winter.",
-      "sourceWordId": "bing1-cold-icy",
+      "sourceWordId": "bing1-ice",
       "sourceWord": "冰",
       "sourceWordJyutping": "bing1",
       "sourceWordMeaning": "ice",
@@ -2912,14 +2932,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bing1-cold-icy.json"
+      "sourceFile": "r2-backup/words/bing1-ice.json"
     },
     {
-      "sentenceId": "bing1-cold-icy-example-3",
+      "sentenceId": "bing1-ice-example-3",
       "sentence": "冰箱入面有啲冰丟左。",
       "jyutping": "bing1 soeng1 jap6 min6 jau5 di1 bing1 diu1 zo2.",
       "meaning": "There is some ice left inside the freezer.",
-      "sourceWordId": "bing1-cold-icy",
+      "sourceWordId": "bing1-ice",
       "sourceWord": "冰",
       "sourceWordJyutping": "bing1",
       "sourceWordMeaning": "ice",
@@ -2931,14 +2951,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bing1-cold-icy.json"
+      "sourceFile": "r2-backup/words/bing1-ice.json"
     },
     {
-      "sentenceId": "bing1-cold-icy-example-4",
+      "sentenceId": "bing1-ice-example-4",
       "sentence": "夏天飲啲加冰水好舒服。",
       "jyutping": "haa6 tin1 jam2 di1 gaa1 bing1 seoi2 hou2 syu1 fuk6.",
       "meaning": "Drinking water with ice in summer is very refreshing.",
-      "sourceWordId": "bing1-cold-icy",
+      "sourceWordId": "bing1-ice",
       "sourceWord": "冰",
       "sourceWordJyutping": "bing1",
       "sourceWordMeaning": "ice",
@@ -2950,14 +2970,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bing1-cold-icy.json"
+      "sourceFile": "r2-backup/words/bing1-ice.json"
     },
     {
-      "sentenceId": "jim4hon4-severe-cold-example-1",
+      "sentenceId": "jim4hon4-very-cold-example-1",
       "sentence": "冬天嚴寒嘅時候要著多啲衫。",
       "jyutping": "dung1 tin1 jim4 hon4 ge3 si4 hau6 jiu3 zoek3 do1 di1 saam1",
       "meaning": "In severe cold during winter, you need to wear more clothes.",
-      "sourceWordId": "jim4hon4-severe-cold",
+      "sourceWordId": "jim4hon4-very-cold",
       "sourceWord": "嚴寒",
       "sourceWordJyutping": "jim4 hon4",
       "sourceWordMeaning": "very cold",
@@ -2969,14 +2989,14 @@
         "clothing",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4hon4-severe-cold.json"
+      "sourceFile": "r2-backup/words/jim4hon4-very-cold.json"
     },
     {
-      "sentenceId": "jim4hon4-severe-cold-example-2",
+      "sentenceId": "jim4hon4-very-cold-example-2",
       "sentence": "北極嘅嚴寒真係好難受。",
       "jyutping": "bak1 gik6 ge3 jim4 hon4 zan1 hai6 hou2 naan4 sau6",
       "meaning": "The severe cold in the Arctic is really hard to endure.",
-      "sourceWordId": "jim4hon4-severe-cold",
+      "sourceWordId": "jim4hon4-very-cold",
       "sourceWord": "嚴寒",
       "sourceWordJyutping": "jim4 hon4",
       "sourceWordMeaning": "very cold",
@@ -2988,14 +3008,14 @@
         "clothing",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4hon4-severe-cold.json"
+      "sourceFile": "r2-backup/words/jim4hon4-very-cold.json"
     },
     {
-      "sentenceId": "jim4hon4-severe-cold-example-3",
+      "sentenceId": "jim4hon4-very-cold-example-3",
       "sentence": "老人容易受嚴寒影響，要小心保暖。",
       "jyutping": "lou5 jan4 jung4 ji6 sau6 jim4 hon4 jing2 hoeng2, jiu3 siu2 sam1 bou2 nyun5",
       "meaning": "Elderly people are easily affected by severe cold and should keep warm.",
-      "sourceWordId": "jim4hon4-severe-cold",
+      "sourceWordId": "jim4hon4-very-cold",
       "sourceWord": "嚴寒",
       "sourceWordJyutping": "jim4 hon4",
       "sourceWordMeaning": "very cold",
@@ -3007,14 +3027,14 @@
         "clothing",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4hon4-severe-cold.json"
+      "sourceFile": "r2-backup/words/jim4hon4-very-cold.json"
     },
     {
-      "sentenceId": "jim4hon4-severe-cold-example-4",
+      "sentenceId": "jim4hon4-very-cold-example-4",
       "sentence": "嚴寒天氣中最好唔好出街。",
       "jyutping": "jim4 hon4 tin1 hei3 zung1 zeoi3 hou2 m4 hou2 ceot1 gaai1",
       "meaning": "It’s best not to go outside in severe cold weather.",
-      "sourceWordId": "jim4hon4-severe-cold",
+      "sourceWordId": "jim4hon4-very-cold",
       "sourceWord": "嚴寒",
       "sourceWordJyutping": "jim4 hon4",
       "sourceWordMeaning": "very cold",
@@ -3026,14 +3046,14 @@
         "clothing",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4hon4-severe-cold.json"
+      "sourceFile": "r2-backup/words/jim4hon4-very-cold.json"
     },
     {
-      "sentenceId": "jim4jit6-scorching-heat-example-1",
+      "sentenceId": "jim4jit6-very-hot-example-1",
       "sentence": "今日嘅天氣好炎熱，要記得飲多啲水。",
       "jyutping": "gam1 jat6 ge3 tin1 hei3 hou2 jim4 jit6, jiu3 gei3 dak1 jam2 do1 di1 seoi2.",
       "meaning": "Today's weather is very hot, remember to drink more water.",
-      "sourceWordId": "jim4jit6-scorching-heat",
+      "sourceWordId": "jim4jit6-very-hot",
       "sourceWord": "炎熱",
       "sourceWordJyutping": "jim4 jit6",
       "sourceWordMeaning": "very hot",
@@ -3045,14 +3065,14 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4jit6-scorching-heat.json"
+      "sourceFile": "r2-backup/words/jim4jit6-very-hot.json"
     },
     {
-      "sentenceId": "jim4jit6-scorching-heat-example-2",
+      "sentenceId": "jim4jit6-very-hot-example-2",
       "sentence": "夏天嘅炎熱令我唔想出去。",
       "jyutping": "haa6 tin1 ge3 jim4 jit6 ling6 ngo5 m4 soeng2 ceot1 heoi3.",
       "meaning": "The scorching heat in summer makes me not want to go outside.",
-      "sourceWordId": "jim4jit6-scorching-heat",
+      "sourceWordId": "jim4jit6-very-hot",
       "sourceWord": "炎熱",
       "sourceWordJyutping": "jim4 jit6",
       "sourceWordMeaning": "very hot",
@@ -3064,14 +3084,14 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4jit6-scorching-heat.json"
+      "sourceFile": "r2-backup/words/jim4jit6-very-hot.json"
     },
     {
-      "sentenceId": "jim4jit6-scorching-heat-example-3",
+      "sentenceId": "jim4jit6-very-hot-example-3",
       "sentence": "沙灘上面炎熱嘅太陽曬到人好辛苦。",
       "jyutping": "saa1 taan1 soeng6 min6 jim4 jit6 ge3 taai3 joeng4 saai3 dou3 jan4 hou2 san1 fu2.",
       "meaning": "The scorching sun on the beach makes it very tough for people.",
-      "sourceWordId": "jim4jit6-scorching-heat",
+      "sourceWordId": "jim4jit6-very-hot",
       "sourceWord": "炎熱",
       "sourceWordJyutping": "jim4 jit6",
       "sourceWordMeaning": "very hot",
@@ -3083,14 +3103,14 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4jit6-scorching-heat.json"
+      "sourceFile": "r2-backup/words/jim4jit6-very-hot.json"
     },
     {
-      "sentenceId": "jim4jit6-scorching-heat-example-4",
+      "sentenceId": "jim4jit6-very-hot-example-4",
       "sentence": "一個炎熱嘅午後，我哋去游泳消暑。",
       "jyutping": "jat1 go3 jim4 jit6 ge3 ng5 ng5, ngo5 dei6 heoi3 jau4 wing6 siu1 syu2.",
       "meaning": "On a very hot afternoon, we went swimming to cool down.",
-      "sourceWordId": "jim4jit6-scorching-heat",
+      "sourceWordId": "jim4jit6-very-hot",
       "sourceWord": "炎熱",
       "sourceWordJyutping": "jim4 jit6",
       "sourceWordMeaning": "very hot",
@@ -3102,7 +3122,7 @@
         "weather description",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jim4jit6-scorching-heat.json"
+      "sourceFile": "r2-backup/words/jim4jit6-very-hot.json"
     },
     {
       "sentenceId": "wan1wo4-mild-example-1",
@@ -3334,76 +3354,80 @@
     },
     {
       "sentenceId": "gon1-dry-example-1",
-      "sentence": "今天天氣好乾。",
-      "jyutping": "gam1 tin1 tin1 hei3 hou2 gon1",
-      "meaning": "The weather is very dry today.",
+      "sentence": "呢盆花啲泥已經乾晒，要快啲淋水。",
+      "jyutping": "ni1 pun4 faa1 di1 nai4 ji5 ging1 gon1 saai3, jiu3 faai3 di1 lam4 seoi2.",
+      "meaning": "The soil in this pot plant has already dried out; it needs watering soon.",
       "sourceWordId": "gon1-dry",
       "sourceWord": "乾",
       "sourceWordJyutping": "gon1",
       "sourceWordMeaning": "dry",
       "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
         "weather",
-        "humidity",
-        "dry",
-        "basic",
-        "everyday",
+        "soil moisture",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gon1-dry.json"
     },
     {
       "sentenceId": "gon1-dry-example-2",
-      "sentence": "呢塊餅幾乾。",
-      "jyutping": "ni1 faai3 beng2 gei2 gon1",
-      "meaning": "This piece of cake is quite dry.",
+      "sentence": "天氣太乾，葉尖開始變黃。",
+      "jyutping": "tin1 hei3 taai3 gon1, jip6 zim1 hoi1 ci2 bin3 wong4.",
+      "meaning": "The weather is too dry, and the leaf tips are starting to turn yellow.",
       "sourceWordId": "gon1-dry",
       "sourceWord": "乾",
       "sourceWordJyutping": "gon1",
       "sourceWordMeaning": "dry",
       "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
         "weather",
-        "humidity",
-        "dry",
-        "basic",
-        "everyday",
+        "soil moisture",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gon1-dry.json"
     },
     {
       "sentenceId": "gon1-dry-example-3",
-      "sentence": "我屋企好乾燥。",
-      "jyutping": "ngo5 uk1 kei2 hou2 gon1 zou6",
-      "meaning": "My house is very dry.",
+      "sentence": "你要等枝條乾咗先好剪。",
+      "jyutping": "nei5 jiu3 dang2 zi1 tiu4 gon1 zo2 sin1 hou2 zim2.",
+      "meaning": "You should wait until the stems are dry before trimming them.",
       "sourceWordId": "gon1-dry",
       "sourceWord": "乾",
       "sourceWordJyutping": "gon1",
       "sourceWordMeaning": "dry",
       "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
         "weather",
-        "humidity",
-        "dry",
-        "basic",
-        "everyday",
+        "soil moisture",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gon1-dry.json"
     },
     {
       "sentenceId": "gon1-dry-example-4",
-      "sentence": "乾季唔係咁多雨。",
-      "jyutping": "gon1 gwai3 m4 hai6 gam3 do1 jyu5",
-      "meaning": "The dry season doesn’t have much rain.",
+      "sentence": "晒乾啲種子之後，就可以收好。",
+      "jyutping": "saai3 gon1 di1 zung2 zi2 zi1 hau6, zau6 ho2 ji5 sau1 hou2.",
+      "meaning": "After drying the seeds in the sun, you can store them properly.",
       "sourceWordId": "gon1-dry",
       "sourceWord": "乾",
       "sourceWordJyutping": "gon1",
       "sourceWordMeaning": "dry",
       "tags": [
+        "basic vocabulary",
+        "plant care",
+        "gardening",
+        "adjective",
         "weather",
-        "humidity",
-        "dry",
-        "basic",
-        "everyday",
+        "soil moisture",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gon1-dry.json"
@@ -3637,11 +3661,11 @@
       "sourceFile": "r2-backup/words/jin1haa4-haze.json"
     },
     {
-      "sentenceId": "mung4-blurry-example-1",
+      "sentenceId": "mung4-misty-example-1",
       "sentence": "今日朝早天空好濛。",
       "jyutping": "gam1 jat6 ziu1 zou2 tin1 hung1 hou2 mung4.",
       "meaning": "The sky this morning is very misty.",
-      "sourceWordId": "mung4-blurry",
+      "sourceWordId": "mung4-misty",
       "sourceWord": "濛",
       "sourceWordJyutping": "mung4",
       "sourceWordMeaning": "misty",
@@ -3653,14 +3677,14 @@
         "nature",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mung4-blurry.json"
+      "sourceFile": "r2-backup/words/mung4-misty.json"
     },
     {
-      "sentenceId": "mung4-blurry-example-2",
+      "sentenceId": "mung4-misty-example-2",
       "sentence": "山上面今日濛濛，好難望到遠處。",
       "jyutping": "saan1 soeng6 min6 gam1 jat6 mung4 mung4, hou2 naan4 mong6 dou3 jyun5 cyu3.",
       "meaning": "It's misty on the mountain today, hard to see far away.",
-      "sourceWordId": "mung4-blurry",
+      "sourceWordId": "mung4-misty",
       "sourceWord": "濛",
       "sourceWordJyutping": "mung4",
       "sourceWordMeaning": "misty",
@@ -3672,14 +3696,14 @@
         "nature",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mung4-blurry.json"
+      "sourceFile": "r2-backup/words/mung4-misty.json"
     },
     {
-      "sentenceId": "mung4-blurry-example-3",
+      "sentenceId": "mung4-misty-example-3",
       "sentence": "呢啲畫面睇落好濛，好有詩意。",
       "jyutping": "ni1 di1 waa6 min6 tai2 lok6 hou2 mung4, hou2 jau5 si1 ji3.",
       "meaning": "These scenes look misty and poetic.",
-      "sourceWordId": "mung4-blurry",
+      "sourceWordId": "mung4-misty",
       "sourceWord": "濛",
       "sourceWordJyutping": "mung4",
       "sourceWordMeaning": "misty",
@@ -3691,14 +3715,14 @@
         "nature",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mung4-blurry.json"
+      "sourceFile": "r2-backup/words/mung4-misty.json"
     },
     {
-      "sentenceId": "mung4-blurry-example-4",
+      "sentenceId": "mung4-misty-example-4",
       "sentence": "空氣濕度高，所以成日覺得視野濛濛。",
       "jyutping": "hung1 hei3 sap1 dou6 gou1, so2 ji5 sing4 jat6 gok3 dak1 si6 je5 mung4 mung4.",
       "meaning": "Because the humidity is high, the visibility often feels misty.",
-      "sourceWordId": "mung4-blurry",
+      "sourceWordId": "mung4-misty",
       "sourceWord": "濛",
       "sourceWordJyutping": "mung4",
       "sourceWordMeaning": "misty",
@@ -3710,7 +3734,7 @@
         "nature",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mung4-blurry.json"
+      "sourceFile": "r2-backup/words/mung4-misty.json"
     },
     {
       "sentenceId": "cing1-clear-example-1",
@@ -4169,11 +4193,11 @@
       "sourceFile": "r2-backup/words/dung1tin1-winter.json"
     },
     {
-      "sentenceId": "zyun2leong4-getting-cooler-example-1",
+      "sentenceId": "zyun2leong4-cooler-example-1",
       "sentence": "最近天氣開始轉涼喇。",
       "jyutping": "zeoi3 gan6 tin1 hei3 hoi1 ci2 zyun2 leong4 laa3.",
       "meaning": "The weather has started to get cooler recently.",
-      "sourceWordId": "zyun2leong4-getting-cooler",
+      "sourceWordId": "zyun2leong4-cooler",
       "sourceWord": "轉涼",
       "sourceWordJyutping": "zyun2 leong4",
       "sourceWordMeaning": "cooler",
@@ -4185,14 +4209,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2leong4-getting-cooler.json"
+      "sourceFile": "r2-backup/words/zyun2leong4-cooler.json"
     },
     {
-      "sentenceId": "zyun2leong4-getting-cooler-example-2",
+      "sentenceId": "zyun2leong4-cooler-example-2",
       "sentence": "你有冇覺得今日轉涼咗？",
       "jyutping": "nei5 jau5 mou5 gok3 dak1 gam1 jat6 zyun2 leong4 zo2?",
       "meaning": "Do you feel it's gotten cooler today?",
-      "sourceWordId": "zyun2leong4-getting-cooler",
+      "sourceWordId": "zyun2leong4-cooler",
       "sourceWord": "轉涼",
       "sourceWordJyutping": "zyun2 leong4",
       "sourceWordMeaning": "cooler",
@@ -4204,14 +4228,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2leong4-getting-cooler.json"
+      "sourceFile": "r2-backup/words/zyun2leong4-cooler.json"
     },
     {
-      "sentenceId": "zyun2leong4-getting-cooler-example-3",
+      "sentenceId": "zyun2leong4-cooler-example-3",
       "sentence": "天氣開始轉涼，要記得著衫。",
       "jyutping": "tin1 hei3 hoi1 ci2 zyun2 leong4, jiu3 gei3 dak1 zoek3 saam1.",
       "meaning": "The weather is getting cooler, remember to wear clothes.",
-      "sourceWordId": "zyun2leong4-getting-cooler",
+      "sourceWordId": "zyun2leong4-cooler",
       "sourceWord": "轉涼",
       "sourceWordJyutping": "zyun2 leong4",
       "sourceWordMeaning": "cooler",
@@ -4223,14 +4247,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2leong4-getting-cooler.json"
+      "sourceFile": "r2-backup/words/zyun2leong4-cooler.json"
     },
     {
-      "sentenceId": "zyun2leong4-getting-cooler-example-4",
+      "sentenceId": "zyun2leong4-cooler-example-4",
       "sentence": "冬天就係咁轉涼。",
       "jyutping": "dung1 tin1 zau6 hai6 gam2 zyun2 leong4.",
       "meaning": "That’s how winter gets cooler.",
-      "sourceWordId": "zyun2leong4-getting-cooler",
+      "sourceWordId": "zyun2leong4-cooler",
       "sourceWord": "轉涼",
       "sourceWordJyutping": "zyun2 leong4",
       "sourceWordMeaning": "cooler",
@@ -4242,14 +4266,14 @@
         "informal",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2leong4-getting-cooler.json"
+      "sourceFile": "r2-backup/words/zyun2leong4-cooler.json"
     },
     {
-      "sentenceId": "zyun2nyun5-getting-warmer-example-1",
+      "sentenceId": "zyun2nyun5-warmer-example-1",
       "sentence": "天氣開始轉暖喇。",
       "jyutping": "tin1 hei3 hoi1 ci2 zyun2 nyun5 laa3.",
       "meaning": "The weather is starting to get warmer.",
-      "sourceWordId": "zyun2nyun5-getting-warmer",
+      "sourceWordId": "zyun2nyun5-warmer",
       "sourceWord": "轉暖",
       "sourceWordJyutping": "zyun2 nyun5",
       "sourceWordMeaning": "warmer",
@@ -4261,14 +4285,14 @@
         "climate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2nyun5-getting-warmer.json"
+      "sourceFile": "r2-backup/words/zyun2nyun5-warmer.json"
     },
     {
-      "sentenceId": "zyun2nyun5-getting-warmer-example-2",
+      "sentenceId": "zyun2nyun5-warmer-example-2",
       "sentence": "春天嘅轉暖令啲花開得更靚。",
       "jyutping": "ceon1 tin1 ge3 zyun2 nyun5 ling6 di1 faa1 hoi1 dak1 gang3 leng3.",
       "meaning": "The warming of spring makes the flowers bloom more beautifully.",
-      "sourceWordId": "zyun2nyun5-getting-warmer",
+      "sourceWordId": "zyun2nyun5-warmer",
       "sourceWord": "轉暖",
       "sourceWordJyutping": "zyun2 nyun5",
       "sourceWordMeaning": "warmer",
@@ -4280,14 +4304,14 @@
         "climate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2nyun5-getting-warmer.json"
+      "sourceFile": "r2-backup/words/zyun2nyun5-warmer.json"
     },
     {
-      "sentenceId": "zyun2nyun5-getting-warmer-example-3",
+      "sentenceId": "zyun2nyun5-warmer-example-3",
       "sentence": "依家轉暖，唔使着咁多衫。",
       "jyutping": "ji1 gaa1 zyun2 nyun5, m4 sai2 zoek3 gam3 do1 saam1.",
       "meaning": "It's getting warmer now, no need to wear so many clothes.",
-      "sourceWordId": "zyun2nyun5-getting-warmer",
+      "sourceWordId": "zyun2nyun5-warmer",
       "sourceWord": "轉暖",
       "sourceWordJyutping": "zyun2 nyun5",
       "sourceWordMeaning": "warmer",
@@ -4299,14 +4323,14 @@
         "climate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2nyun5-getting-warmer.json"
+      "sourceFile": "r2-backup/words/zyun2nyun5-warmer.json"
     },
     {
-      "sentenceId": "zyun2nyun5-getting-warmer-example-4",
+      "sentenceId": "zyun2nyun5-warmer-example-4",
       "sentence": "天氣預報講周末會再轉暖。",
       "jyutping": "tin1 hei3 jyu6 bou3 gong2 zau1 mut6 wui5 zoi3 zyun2 nyun5.",
       "meaning": "The weather forecast says it will get warmer again this weekend.",
-      "sourceWordId": "zyun2nyun5-getting-warmer",
+      "sourceWordId": "zyun2nyun5-warmer",
       "sourceWord": "轉暖",
       "sourceWordJyutping": "zyun2 nyun5",
       "sourceWordMeaning": "warmer",
@@ -4318,7 +4342,7 @@
         "climate",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zyun2nyun5-getting-warmer.json"
+      "sourceFile": "r2-backup/words/zyun2nyun5-warmer.json"
     },
     {
       "sentenceId": "ging2bou3-warning-example-1",
@@ -4397,11 +4421,11 @@
       "sourceFile": "r2-backup/words/ging2bou3-warning.json"
     },
     {
-      "sentenceId": "fung1kau4-signal-example-1",
+      "sentenceId": "fung1kau4-typhoon-signal-example-1",
       "sentence": "政府宣佈掛起三號風球。",
       "jyutping": "zing3 fu2 syun1 bou3 gwaa3 hei2 saam1 hou6 fung1 kau4。",
       "meaning": "The government announced hoisting the No. 3 typhoon signal.",
-      "sourceWordId": "fung1kau4-signal",
+      "sourceWordId": "fung1kau4-typhoon-signal",
       "sourceWord": "風球",
       "sourceWordJyutping": "fung1 kau4",
       "sourceWordMeaning": "typhoon signal",
@@ -4413,14 +4437,14 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fung1kau4-signal.json"
+      "sourceFile": "r2-backup/words/fung1kau4-typhoon-signal.json"
     },
     {
-      "sentenceId": "fung1kau4-signal-example-2",
+      "sentenceId": "fung1kau4-typhoon-signal-example-2",
       "sentence": "如果掛咗風球，記得留喺屋企。",
       "jyutping": "jyu4 gwo2 gwaa3 zo2 fung1 kau4, gei3 dak1 lau4 hai2 uk1 kei2。",
       "meaning": "If the typhoon signal is hoisted, remember to stay at home.",
-      "sourceWordId": "fung1kau4-signal",
+      "sourceWordId": "fung1kau4-typhoon-signal",
       "sourceWord": "風球",
       "sourceWordJyutping": "fung1 kau4",
       "sourceWordMeaning": "typhoon signal",
@@ -4432,14 +4456,14 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fung1kau4-signal.json"
+      "sourceFile": "r2-backup/words/fung1kau4-typhoon-signal.json"
     },
     {
-      "sentenceId": "fung1kau4-signal-example-3",
+      "sentenceId": "fung1kau4-typhoon-signal-example-3",
       "sentence": "天文台話今日可能會落風球。",
       "jyutping": "tin1 man4 toi4 waa6 gam1 jat6 ho2 nang4 wui5 lok6 fung1 kau4。",
       "meaning": "The observatory said the typhoon signal might be issued today.",
-      "sourceWordId": "fung1kau4-signal",
+      "sourceWordId": "fung1kau4-typhoon-signal",
       "sourceWord": "風球",
       "sourceWordJyutping": "fung1 kau4",
       "sourceWordMeaning": "typhoon signal",
@@ -4451,14 +4475,14 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fung1kau4-signal.json"
+      "sourceFile": "r2-backup/words/fung1kau4-typhoon-signal.json"
     },
     {
-      "sentenceId": "fung1kau4-signal-example-4",
+      "sentenceId": "fung1kau4-typhoon-signal-example-4",
       "sentence": "風球一落，地鐵會停咗班。",
       "jyutping": "fung1 kau4 jat1 lok6, dei6 tit3 wui5 ting4 zo2 baan1。",
       "meaning": "Once the typhoon signal is hoisted, the MTR will stop running.",
-      "sourceWordId": "fung1kau4-signal",
+      "sourceWordId": "fung1kau4-typhoon-signal",
       "sourceWord": "風球",
       "sourceWordJyutping": "fung1 kau4",
       "sourceWordMeaning": "typhoon signal",
@@ -4470,7 +4494,7 @@
         "daily life",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/fung1kau4-signal.json"
+      "sourceFile": "r2-backup/words/fung1kau4-typhoon-signal.json"
     },
     {
       "sentenceId": "hung4sik1bou6jyu5-red-rain-warning-example-1",

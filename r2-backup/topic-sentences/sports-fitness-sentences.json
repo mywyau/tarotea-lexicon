@@ -233,87 +233,91 @@
       "sourceFile": "r2-backup/words/tai2juk6-sports.json"
     },
     {
-      "sentenceId": "lin6zaap6-practise-example-1",
-      "sentence": "我每日都會練習打籃球。",
-      "jyutping": "ngo5 mui5 jat6 dou1 wui5 lin6 zaap6 daa2 laam4 kau4.",
-      "meaning": "I practise playing basketball every day.",
-      "sourceWordId": "lin6zaap6-practise",
+      "sentenceId": "lin6zaap6-to-practise-example-1",
+      "sentence": "我每晚都要練習鋼琴。",
+      "jyutping": "ngo5 me5 maan5 dou1 jiu3 lin6 zaap6 gong1 kam4.",
+      "meaning": "I have to practise the piano every night.",
+      "sourceWordId": "lin6zaap6-to-practise",
       "sourceWord": "練習",
       "sourceWordJyutping": "lin6 zaap6",
-      "sourceWordMeaning": "practise",
+      "sourceWordMeaning": "to practise",
       "tags": [
-        "fitness",
-        "sports",
-        "training",
-        "rehearsal",
-        "improvement",
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lin6zaap6-practise.json"
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
     },
     {
-      "sentenceId": "lin6zaap6-practise-example-2",
-      "sentence": "佢去咗排練習舞蹈。",
-      "jyutping": "keoi5 heoi3 zo2 paai4 lin6 zaap6 mou5 dou3.",
-      "meaning": "He went to practise dance rehearsal.",
-      "sourceWordId": "lin6zaap6-practise",
+      "sentenceId": "lin6zaap6-to-practise-example-2",
+      "sentence": "呢首歌我仲要練習多幾次。",
+      "jyutping": "ni1 sau2 go1 ngo5 zung6 jiu3 lin6 zaap6 do1 gei2 ci3.",
+      "meaning": "I still need to practise this song a few more times.",
+      "sourceWordId": "lin6zaap6-to-practise",
       "sourceWord": "練習",
       "sourceWordJyutping": "lin6 zaap6",
-      "sourceWordMeaning": "practise",
+      "sourceWordMeaning": "to practise",
       "tags": [
-        "fitness",
-        "sports",
-        "training",
-        "rehearsal",
-        "improvement",
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lin6zaap6-practise.json"
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
     },
     {
-      "sentenceId": "lin6zaap6-practise-example-3",
-      "sentence": "我哋要多啲練習先可以做好。",
-      "jyutping": "ngo5 dei6 jiu3 do1 di1 lin6 zaap6 sin1 ho2 ji5 zou6 hou2.",
-      "meaning": "We need more practice to do it well.",
-      "sourceWordId": "lin6zaap6-practise",
+      "sentenceId": "lin6zaap6-to-practise-example-3",
+      "sentence": "老師叫我哋返屋企做練習。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 faan1 uk1 hei2 zou6 lin6 zaap6.",
+      "meaning": "The teacher told us to go home and do the exercise.",
+      "sourceWordId": "lin6zaap6-to-practise",
       "sourceWord": "練習",
       "sourceWordJyutping": "lin6 zaap6",
-      "sourceWordMeaning": "practise",
+      "sourceWordMeaning": "to practise",
       "tags": [
-        "fitness",
-        "sports",
-        "training",
-        "rehearsal",
-        "improvement",
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lin6zaap6-practise.json"
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
     },
     {
-      "sentenceId": "lin6zaap6-practise-example-4",
-      "sentence": "練習係進步嘅關鍵。",
-      "jyutping": "lin6 zaap6 hai6 zeon3 bou6 ge3 gwaan1 gin3.",
-      "meaning": "Practice is the key to progress.",
-      "sourceWordId": "lin6zaap6-practise",
+      "sentenceId": "lin6zaap6-to-practise-example-4",
+      "sentence": "演出前最好先做聲音練習。",
+      "jyutping": "jin2 ceot1 cin4 zeoi3 hou2 sin1 zou6 sing1 jam1 lin6 zaap6.",
+      "meaning": "Before a performance, it’s best to do vocal practice first.",
+      "sourceWordId": "lin6zaap6-to-practise",
       "sourceWord": "練習",
       "sourceWordJyutping": "lin6 zaap6",
-      "sourceWordMeaning": "practise",
+      "sourceWordMeaning": "to practise",
       "tags": [
-        "fitness",
-        "sports",
-        "training",
-        "rehearsal",
-        "improvement",
+        "music",
+        "music_learning",
+        "practice",
+        "study",
+        "beginner",
+        "common",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lin6zaap6-practise.json"
+      "sourceFile": "r2-backup/words/lin6zaap6-to-practise.json"
     },
     {
-      "sentenceId": "zung2leoi6-category-example-1",
+      "sentenceId": "zung2leoi6-type-example-1",
       "sentence": "執行多種類嘅運動有助健康。",
       "jyutping": "zap1 hang4 do1 zung2 leoi6 ge3 wan6 dung6 jau5 zo6 gin6 hong1.",
       "meaning": "Doing many types of exercises helps health.",
-      "sourceWordId": "zung2leoi6-category",
+      "sourceWordId": "zung2leoi6-type",
       "sourceWord": "種類",
       "sourceWordJyutping": "zung2 leoi6",
       "sourceWordMeaning": "type",
@@ -325,14 +329,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2leoi6-category.json"
+      "sourceFile": "r2-backup/words/zung2leoi6-type.json"
     },
     {
-      "sentenceId": "zung2leoi6-category-example-2",
+      "sentenceId": "zung2leoi6-type-example-2",
       "sentence": "呢個超市有唔同種類嘅健康食品。",
       "jyutping": "ni1 go3 ciu1 si5 jau5 m4 tung4 zung2 leoi6 ge3 gin6 hong1 sik6 ban2.",
       "meaning": "This supermarket has different types of health foods.",
-      "sourceWordId": "zung2leoi6-category",
+      "sourceWordId": "zung2leoi6-type",
       "sourceWord": "種類",
       "sourceWordJyutping": "zung2 leoi6",
       "sourceWordMeaning": "type",
@@ -344,14 +348,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2leoi6-category.json"
+      "sourceFile": "r2-backup/words/zung2leoi6-type.json"
     },
     {
-      "sentenceId": "zung2leoi6-category-example-3",
+      "sentenceId": "zung2leoi6-type-example-3",
       "sentence": "你鍾意邊種種類嘅運動？",
       "jyutping": "nei5 zung1 ji3 bin1 zung2 zung2 leoi6 ge3 wan6 dung6?",
       "meaning": "What type of sports do you like?",
-      "sourceWordId": "zung2leoi6-category",
+      "sourceWordId": "zung2leoi6-type",
       "sourceWord": "種類",
       "sourceWordJyutping": "zung2 leoi6",
       "sourceWordMeaning": "type",
@@ -363,14 +367,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2leoi6-category.json"
+      "sourceFile": "r2-backup/words/zung2leoi6-type.json"
     },
     {
-      "sentenceId": "zung2leoi6-category-example-4",
+      "sentenceId": "zung2leoi6-type-example-4",
       "sentence": "種類繁多嘅健身班可以選擇。",
       "jyutping": "zung2 leoi6 faan4 do1 ge3 gin6 san1 baan1 ho2 ji5 syun2 zaak6.",
       "meaning": "There are many types of fitness classes to choose from.",
-      "sourceWordId": "zung2leoi6-category",
+      "sourceWordId": "zung2leoi6-type",
       "sourceWord": "種類",
       "sourceWordJyutping": "zung2 leoi6",
       "sourceWordMeaning": "type",
@@ -382,7 +386,7 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung2leoi6-category.json"
+      "sourceFile": "r2-backup/words/zung2leoi6-type.json"
     },
     {
       "sentenceId": "lik6hei3-strength-example-1",
@@ -538,86 +542,86 @@
     },
     {
       "sentenceId": "gin6hong1-healthy-example-1",
-      "sentence": "我想保持身體健康。",
-      "jyutping": "ngo5 soeng2 bou2 ci4 san1 tai2 gin6 hong1.",
-      "meaning": "I want to keep my body healthy.",
+      "sentence": "呢棵盆栽睇落好健康。",
+      "jyutping": "ni1 fo2 pun4 zoi1 tai2 lok6 hou2 gin6 hong1",
+      "meaning": "This potted plant looks very healthy.",
       "sourceWordId": "gin6hong1-healthy",
       "sourceWord": "健康",
       "sourceWordJyutping": "gin6 hong1",
       "sourceWordMeaning": "healthy",
       "tags": [
-        "health",
-        "fitness",
-        "wellness",
-        "lifestyle",
-        "body",
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
     },
     {
       "sentenceId": "gin6hong1-healthy-example-2",
-      "sentence": "飲食健康好重要。",
-      "jyutping": "jam2 sik6 gin6 hong1 hou2 zung6 jiu3.",
-      "meaning": "Healthy eating is very important.",
+      "sentence": "如果土壤夠濕，植物會更加健康。",
+      "jyutping": "jyu4 gwo2 tou2 joeng5 gau3 sap1, zik6 mou6 wui5 gang3 gaa1 gin6 hong1",
+      "meaning": "If the soil is moist enough, the plant will be healthier.",
       "sourceWordId": "gin6hong1-healthy",
       "sourceWord": "健康",
       "sourceWordJyutping": "gin6 hong1",
       "sourceWordMeaning": "healthy",
       "tags": [
-        "health",
-        "fitness",
-        "wellness",
-        "lifestyle",
-        "body",
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
     },
     {
       "sentenceId": "gin6hong1-healthy-example-3",
-      "sentence": "你最近健康嗎？",
-      "jyutping": "nei5 zeoi3 gan6 gin6 hong1 maa3?",
-      "meaning": "Are you healthy lately?",
+      "sentence": "我想買啲健康嘅花返屋企。",
+      "jyutping": "ngo5 soeng2 maai5 di1 gin6 hong1 ge3 faa1 faan1 uk1 hei2",
+      "meaning": "I want to buy some healthy flowers to bring home.",
       "sourceWordId": "gin6hong1-healthy",
       "sourceWord": "健康",
       "sourceWordJyutping": "gin6 hong1",
       "sourceWordMeaning": "healthy",
       "tags": [
-        "health",
-        "fitness",
-        "wellness",
-        "lifestyle",
-        "body",
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
     },
     {
       "sentenceId": "gin6hong1-healthy-example-4",
-      "sentence": "運動對健康有益。",
-      "jyutping": "wan6 dung6 deoi3 gin6 hong1 jau5 jik1.",
-      "meaning": "Exercise is good for health.",
+      "sentence": "定期施肥可以令植物保持健康。",
+      "jyutping": "ding6 kei4 si1 fei4 ho2 ji5 ling6 zik6 mou6 bou2 ci4 gin6 hong1",
+      "meaning": "Regular fertilising can help plants stay healthy.",
       "sourceWordId": "gin6hong1-healthy",
       "sourceWord": "健康",
       "sourceWordJyutping": "gin6 hong1",
       "sourceWordMeaning": "healthy",
       "tags": [
-        "health",
-        "fitness",
-        "wellness",
-        "lifestyle",
-        "body",
+        "plants",
+        "gardening",
+        "plant health",
+        "basic vocabulary",
+        "describing condition",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/gin6hong1-healthy.json"
     },
     {
-      "sentenceId": "sau1san1-get-fit-example-1",
+      "sentenceId": "sau1san1-get-in-shape-example-1",
       "sentence": "我開始做收身運動。",
       "jyutping": "ngo5 hoi1 ci2 zou6 sau1 san1 wan6 dung6.",
       "meaning": "I started doing exercises to get in shape.",
-      "sourceWordId": "sau1san1-get-fit",
+      "sourceWordId": "sau1san1-get-in-shape",
       "sourceWord": "收身",
       "sourceWordJyutping": "sau1 san1",
       "sourceWordMeaning": "get in shape",
@@ -629,14 +633,14 @@
         "body_shape",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1san1-get-fit.json"
+      "sourceFile": "r2-backup/words/sau1san1-get-in-shape.json"
     },
     {
-      "sentenceId": "sau1san1-get-fit-example-2",
+      "sentenceId": "sau1san1-get-in-shape-example-2",
       "sentence": "你嘅收身成果好明顯喎。",
       "jyutping": "nei5 ge3 sau1 san1 sing4 gwo2 hou2 ming4 hin2 wo3.",
       "meaning": "Your results from getting in shape are very obvious.",
-      "sourceWordId": "sau1san1-get-fit",
+      "sourceWordId": "sau1san1-get-in-shape",
       "sourceWord": "收身",
       "sourceWordJyutping": "sau1 san1",
       "sourceWordMeaning": "get in shape",
@@ -648,14 +652,14 @@
         "body_shape",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1san1-get-fit.json"
+      "sourceFile": "r2-backup/words/sau1san1-get-in-shape.json"
     },
     {
-      "sentenceId": "sau1san1-get-fit-example-3",
+      "sentenceId": "sau1san1-get-in-shape-example-3",
       "sentence": "我哋一齊去做收身啦！",
       "jyutping": "ngo5 dei6 yat1 cai4 heoi3 zou6 sau1 san1 laa1!",
       "meaning": "Let's go get in shape together!",
-      "sourceWordId": "sau1san1-get-fit",
+      "sourceWordId": "sau1san1-get-in-shape",
       "sourceWord": "收身",
       "sourceWordJyutping": "sau1 san1",
       "sourceWordMeaning": "get in shape",
@@ -667,14 +671,14 @@
         "body_shape",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1san1-get-fit.json"
+      "sourceFile": "r2-backup/words/sau1san1-get-in-shape.json"
     },
     {
-      "sentenceId": "sau1san1-get-fit-example-4",
+      "sentenceId": "sau1san1-get-in-shape-example-4",
       "sentence": "收身唔係一朝一夕嘅事。",
       "jyutping": "sau1 san1 m4 hai6 yat1 chiu4 yat1 sik6 ge3 si6.",
       "meaning": "Getting in shape is not an overnight thing.",
-      "sourceWordId": "sau1san1-get-fit",
+      "sourceWordId": "sau1san1-get-in-shape",
       "sourceWord": "收身",
       "sourceWordJyutping": "sau1 san1",
       "sourceWordMeaning": "get in shape",
@@ -686,14 +690,14 @@
         "body_shape",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1san1-get-fit.json"
+      "sourceFile": "r2-backup/words/sau1san1-get-in-shape.json"
     },
     {
-      "sentenceId": "wan6dung6saam1-workout-clothes-example-1",
+      "sentenceId": "wan6dung6saam1-sportswear-example-1",
       "sentence": "我今日著咗件新運動衫去跑步。",
       "jyutping": "ngo5 gam1 jat6 zoek3 zo2 gin6 san1 wan6 dung6 saam1 heoi3 paau2 bou6.",
       "meaning": "I wore a new sportswear top today to go running.",
-      "sourceWordId": "wan6dung6saam1-workout-clothes",
+      "sourceWordId": "wan6dung6saam1-sportswear",
       "sourceWord": "運動衫",
       "sourceWordJyutping": "wan6 dung6 saam1",
       "sourceWordMeaning": "sportswear",
@@ -705,14 +709,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6dung6saam1-workout-clothes.json"
+      "sourceFile": "r2-backup/words/wan6dung6saam1-sportswear.json"
     },
     {
-      "sentenceId": "wan6dung6saam1-workout-clothes-example-2",
+      "sentenceId": "wan6dung6saam1-sportswear-example-2",
       "sentence": "你啲運動衫洗咗未？",
       "jyutping": "nei5 di1 wan6 dung6 saam1 sai2 zo2 mei6?",
       "meaning": "Have your sportswear clothes been washed yet?",
-      "sourceWordId": "wan6dung6saam1-workout-clothes",
+      "sourceWordId": "wan6dung6saam1-sportswear",
       "sourceWord": "運動衫",
       "sourceWordJyutping": "wan6 dung6 saam1",
       "sourceWordMeaning": "sportswear",
@@ -724,14 +728,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6dung6saam1-workout-clothes.json"
+      "sourceFile": "r2-backup/words/wan6dung6saam1-sportswear.json"
     },
     {
-      "sentenceId": "wan6dung6saam1-workout-clothes-example-3",
+      "sentenceId": "wan6dung6saam1-sportswear-example-3",
       "sentence": "運動衫通常用吸汗材料整嘅，好舒服。",
       "jyutping": "wan6 dung6 saam1 tung1 soeng4 jung6 kap1 hon4 coi4 liu2 zing2 ge3, hou2 syu1 fuk6.",
       "meaning": "Sportswear is usually made from sweat-absorbent materials, very comfortable.",
-      "sourceWordId": "wan6dung6saam1-workout-clothes",
+      "sourceWordId": "wan6dung6saam1-sportswear",
       "sourceWord": "運動衫",
       "sourceWordJyutping": "wan6 dung6 saam1",
       "sourceWordMeaning": "sportswear",
@@ -743,14 +747,14 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6dung6saam1-workout-clothes.json"
+      "sourceFile": "r2-backup/words/wan6dung6saam1-sportswear.json"
     },
     {
-      "sentenceId": "wan6dung6saam1-workout-clothes-example-4",
+      "sentenceId": "wan6dung6saam1-sportswear-example-4",
       "sentence": "喺健身室記得換返件乾淨嘅運動衫。",
       "jyutping": "hai2 gin6 san1 sat1 gei3 dak1 wun6 faan1 gin6 gon1 zing6 ge3 wan6 dung6 saam1.",
       "meaning": "Remember to change into a clean sportswear top at the gym.",
-      "sourceWordId": "wan6dung6saam1-workout-clothes",
+      "sourceWordId": "wan6dung6saam1-sportswear",
       "sourceWord": "運動衫",
       "sourceWordJyutping": "wan6 dung6 saam1",
       "sourceWordMeaning": "sportswear",
@@ -762,7 +766,7 @@
         "casual",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wan6dung6saam1-workout-clothes.json"
+      "sourceFile": "r2-backup/words/wan6dung6saam1-sportswear.json"
     },
     {
       "sentenceId": "sam1fai3gung1nang4-cardio-fitness-example-1",
@@ -841,11 +845,11 @@
       "sourceFile": "r2-backup/words/sam1fai3gung1nang4-cardio-fitness.json"
     },
     {
-      "sentenceId": "tai2nang4-fitness-example-1",
+      "sentenceId": "tai2nang4-fitness-level-example-1",
       "sentence": "我想提升自己嘅體能。",
       "jyutping": "ngo5 soeng2 tai1 sing1 zi6 gei2 ge3 tai2 nang4",
       "meaning": "I want to improve my fitness level.",
-      "sourceWordId": "tai2nang4-fitness",
+      "sourceWordId": "tai2nang4-fitness-level",
       "sourceWord": "體能",
       "sourceWordJyutping": "tai2 nang4",
       "sourceWordMeaning": "fitness level",
@@ -857,14 +861,14 @@
         "physical ability",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2nang4-fitness.json"
+      "sourceFile": "r2-backup/words/tai2nang4-fitness-level.json"
     },
     {
-      "sentenceId": "tai2nang4-fitness-example-2",
+      "sentenceId": "tai2nang4-fitness-level-example-2",
       "sentence": "佢嘅體能好好，跑步好快。",
       "jyutping": "keoi5 ge3 tai2 nang4 hou2 hou2, paau2 bou6 hou2 faai3",
       "meaning": "His fitness level is very good, he runs fast.",
-      "sourceWordId": "tai2nang4-fitness",
+      "sourceWordId": "tai2nang4-fitness-level",
       "sourceWord": "體能",
       "sourceWordJyutping": "tai2 nang4",
       "sourceWordMeaning": "fitness level",
@@ -876,14 +880,14 @@
         "physical ability",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2nang4-fitness.json"
+      "sourceFile": "r2-backup/words/tai2nang4-fitness-level.json"
     },
     {
-      "sentenceId": "tai2nang4-fitness-example-3",
+      "sentenceId": "tai2nang4-fitness-level-example-3",
       "sentence": "做運動可以增強體能。",
       "jyutping": "zou6 wan6 dung6 ho2 ji5 zang1 koeng4 tai2 nang4",
       "meaning": "Doing exercise can strengthen fitness.",
-      "sourceWordId": "tai2nang4-fitness",
+      "sourceWordId": "tai2nang4-fitness-level",
       "sourceWord": "體能",
       "sourceWordJyutping": "tai2 nang4",
       "sourceWordMeaning": "fitness level",
@@ -895,14 +899,14 @@
         "physical ability",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2nang4-fitness.json"
+      "sourceFile": "r2-backup/words/tai2nang4-fitness-level.json"
     },
     {
-      "sentenceId": "tai2nang4-fitness-example-4",
+      "sentenceId": "tai2nang4-fitness-level-example-4",
       "sentence": "體能測試準備喺下星期。",
       "jyutping": "tai2 nang4 cak1 si3 zeon2 bei6 hai2 haa6 sing1 kei4",
       "meaning": "The fitness test is scheduled for next week.",
-      "sourceWordId": "tai2nang4-fitness",
+      "sourceWordId": "tai2nang4-fitness-level",
       "sourceWord": "體能",
       "sourceWordJyutping": "tai2 nang4",
       "sourceWordMeaning": "fitness level",
@@ -914,7 +918,7 @@
         "physical ability",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tai2nang4-fitness.json"
+      "sourceFile": "r2-backup/words/tai2nang4-fitness-level.json"
     },
     {
       "sentenceId": "gaam2fei4-lose-weight-example-1",
@@ -1146,76 +1150,80 @@
     },
     {
       "sentenceId": "caai2daan1ce1-cycling-example-1",
-      "sentence": "我星期日去踩單車。",
-      "jyutping": "ngo5 sing1 kei4 jat6 heoi3 caai2 daan1 ce1",
-      "meaning": "I go cycling on Sunday.",
+      "sentence": "我星期日最鍾意去踩單車。",
+      "jyutping": "ngo5 sing1 kei4 jat6 zeoi3 zung1 ji3 heoi3 caai2 daan1 ce1.",
+      "meaning": "I like going cycling the most on Sundays.",
       "sourceWordId": "caai2daan1ce1-cycling",
       "sourceWord": "踩單車",
       "sourceWordJyutping": "caai2 daan1 ce1",
-      "sourceWordMeaning": "cycle",
+      "sourceWordMeaning": "cycling",
       "tags": [
+        "hobbies",
         "sports",
         "fitness",
-        "outdoor",
-        "transport",
-        "exercise",
+        "cycling",
+        "everyday speech",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
     },
     {
       "sentenceId": "caai2daan1ce1-cycling-example-2",
-      "sentence": "你鍾唔鍾意踩單車？",
-      "jyutping": "nei5 zung1 m4 zung1 ji3 caai2 daan1 ce1?",
-      "meaning": "Do you like cycling?",
+      "sentence": "佢每日放學都踩單車返屋企。",
+      "jyutping": "keoi5 mui5 jat6 fong3 hok6 dou1 caai2 daan1 ce1 faan1 uk1 kei2.",
+      "meaning": "He cycles home every day after school.",
       "sourceWordId": "caai2daan1ce1-cycling",
       "sourceWord": "踩單車",
       "sourceWordJyutping": "caai2 daan1 ce1",
-      "sourceWordMeaning": "cycle",
+      "sourceWordMeaning": "cycling",
       "tags": [
+        "hobbies",
         "sports",
         "fitness",
-        "outdoor",
-        "transport",
-        "exercise",
+        "cycling",
+        "everyday speech",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
     },
     {
       "sentenceId": "caai2daan1ce1-cycling-example-3",
-      "sentence": "踩單車可以保持健康。",
-      "jyutping": "caai2 daan1 ce1 ho2 ji5 bou2 ci4 gin6 hong1",
-      "meaning": "Cycling can keep you healthy.",
+      "sentence": "呢個公園好多人喺度踩單車。",
+      "jyutping": "ni1 go3 gung1 jyun4 hou2 do1 jan4 hai2 dou6 caai2 daan1 ce1.",
+      "meaning": "A lot of people cycle in this park.",
       "sourceWordId": "caai2daan1ce1-cycling",
       "sourceWord": "踩單車",
       "sourceWordJyutping": "caai2 daan1 ce1",
-      "sourceWordMeaning": "cycle",
+      "sourceWordMeaning": "cycling",
       "tags": [
+        "hobbies",
         "sports",
         "fitness",
-        "outdoor",
-        "transport",
-        "exercise",
+        "cycling",
+        "everyday speech",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
     },
     {
       "sentenceId": "caai2daan1ce1-cycling-example-4",
-      "sentence": "佢每日踩單車返工。",
-      "jyutping": "keoi5 mui5 jat6 caai2 daan1 ce1 faan1 gung1",
-      "meaning": "He cycles to work every day.",
+      "sentence": "我想學踩單車，但係未識。",
+      "jyutping": "ngo5 soeng2 hok6 caai2 daan1 ce1, daan6 hai6 mei6 sik1.",
+      "meaning": "I want to learn to ride a bicycle, but I still can't.",
       "sourceWordId": "caai2daan1ce1-cycling",
       "sourceWord": "踩單車",
       "sourceWordJyutping": "caai2 daan1 ce1",
-      "sourceWordMeaning": "cycle",
+      "sourceWordMeaning": "cycling",
       "tags": [
+        "hobbies",
         "sports",
         "fitness",
-        "outdoor",
-        "transport",
-        "exercise",
+        "cycling",
+        "everyday speech",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/caai2daan1ce1-cycling.json"
@@ -1374,234 +1382,250 @@
     },
     {
       "sentenceId": "daa2laam4kau4-basketball-example-1",
-      "sentence": "我鐘意同朋友一齊打籃球。",
-      "jyutping": "ngo5 zung1 ji3 tung4 pang4 jau5 jat1 cai4 daa2 laam4 kau4.",
-      "meaning": "I like playing basketball with my friends.",
+      "sentence": "我星期六成日同朋友去打籃球。",
+      "jyutping": "ngo5 sing1 kei4 luk6 seng4 jat6 tung4 pang4 jau5 heoi3 daa2 laam4 kau4.",
+      "meaning": "I often go play basketball with friends on Saturdays.",
       "sourceWordId": "daa2laam4kau4-basketball",
       "sourceWord": "打籃球",
       "sourceWordJyutping": "daa2 laam4 kau4",
-      "sourceWordMeaning": "play basketball",
+      "sourceWordMeaning": "basketball",
       "tags": [
-        "sports",
-        "basketball",
-        "verb phrase",
+        "hobby",
+        "sport",
         "fitness",
-        "recreation",
+        "everyday",
+        "beginner",
+        "activity",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
     },
     {
       "sentenceId": "daa2laam4kau4-basketball-example-2",
-      "sentence": "我星期三下午會去打籃球。",
-      "jyutping": "ngo5 sing1 kei4 saam1 haa6 ng5 wui5 heoi3 daa2 laam4 kau4.",
-      "meaning": "I will go play basketball on Wednesday afternoon.",
+      "sentence": "佢細個已經好鍾意打籃球。",
+      "jyutping": "keoi5 sai3 go3 ji5 ging1 hou2 zung1 ji3 daa2 laam4 kau4.",
+      "meaning": "He has liked basketball since he was young.",
       "sourceWordId": "daa2laam4kau4-basketball",
       "sourceWord": "打籃球",
       "sourceWordJyutping": "daa2 laam4 kau4",
-      "sourceWordMeaning": "play basketball",
+      "sourceWordMeaning": "basketball",
       "tags": [
-        "sports",
-        "basketball",
-        "verb phrase",
+        "hobby",
+        "sport",
         "fitness",
-        "recreation",
+        "everyday",
+        "beginner",
+        "activity",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
     },
     {
       "sentenceId": "daa2laam4kau4-basketball-example-3",
-      "sentence": "你識唔識打籃球？",
-      "jyutping": "nei5 sik1 m4 sik1 daa2 laam4 kau4?",
-      "meaning": "Do you know how to play basketball?",
+      "sentence": "學校放學之後有籃球訓練。",
+      "jyutping": "hok6 haau6 fong3 hok6 zi1 hau6 jau5 laam4 kau4 fan3 leon6.",
+      "meaning": "There is basketball training after school.",
       "sourceWordId": "daa2laam4kau4-basketball",
       "sourceWord": "打籃球",
       "sourceWordJyutping": "daa2 laam4 kau4",
-      "sourceWordMeaning": "play basketball",
+      "sourceWordMeaning": "basketball",
       "tags": [
-        "sports",
-        "basketball",
-        "verb phrase",
+        "hobby",
+        "sport",
         "fitness",
-        "recreation",
+        "everyday",
+        "beginner",
+        "activity",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
     },
     {
       "sentenceId": "daa2laam4kau4-basketball-example-4",
-      "sentence": "打籃球可以幫助我保持身體健康。",
-      "jyutping": "daa2 laam4 kau4 ho2 ji5 bong1 zo6 ngo5 bou2 ci4 san1 tai2 gin6 hong1.",
-      "meaning": "Playing basketball can help me stay healthy.",
+      "sentence": "你今晚想唔想去打籃球？",
+      "jyutping": "nei5 gam1 maan5 soeng2 m4 soeng2 heoi3 daa2 laam4 kau4?",
+      "meaning": "Do you want to go play basketball tonight?",
       "sourceWordId": "daa2laam4kau4-basketball",
       "sourceWord": "打籃球",
       "sourceWordJyutping": "daa2 laam4 kau4",
-      "sourceWordMeaning": "play basketball",
+      "sourceWordMeaning": "basketball",
       "tags": [
-        "sports",
-        "basketball",
-        "verb phrase",
+        "hobby",
+        "sport",
         "fitness",
-        "recreation",
+        "everyday",
+        "beginner",
+        "activity",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2laam4kau4-basketball.json"
     },
     {
       "sentenceId": "tek3zuk1kau4-football-example-1",
-      "sentence": "我星期六會去公園踢足球。",
-      "jyutping": "ngo5 sing1 kei4 luk6 wui5 heoi3 gung1 jyun4 tek3 zuk1 kau4.",
-      "meaning": "I will go to the park to play football on Saturday.",
+      "sentence": "我星期六最鍾意踢足球。",
+      "jyutping": "ngo5 sing1 kei4 luk6 zeoi3 zung1 ji3 tek3 zuk1 kau4.",
+      "meaning": "I like playing football best on Saturdays.",
       "sourceWordId": "tek3zuk1kau4-football",
       "sourceWord": "踢足球",
       "sourceWordJyutping": "tek3 zuk1 kau4",
-      "sourceWordMeaning": "play football",
+      "sourceWordMeaning": "football",
       "tags": [
         "sports",
-        "football",
-        "exercise",
-        "verb phrase",
-        "common activities",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
     },
     {
       "sentenceId": "tek3zuk1kau4-football-example-2",
-      "sentence": "你鍾唔鍾意踢足球？",
-      "jyutping": "nei5 zung1 m4 zung1 ji3 tek3 zuk1 kau4?",
-      "meaning": "Do you like playing football?",
+      "sentence": "佢成日同朋友踢足球。",
+      "jyutping": "keoi5 sing4 jat6 tung4 pang4 jau5 tek3 zuk1 kau4.",
+      "meaning": "He often plays football with friends.",
       "sourceWordId": "tek3zuk1kau4-football",
       "sourceWord": "踢足球",
       "sourceWordJyutping": "tek3 zuk1 kau4",
-      "sourceWordMeaning": "play football",
+      "sourceWordMeaning": "football",
       "tags": [
         "sports",
-        "football",
-        "exercise",
-        "verb phrase",
-        "common activities",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
     },
     {
       "sentenceId": "tek3zuk1kau4-football-example-3",
-      "sentence": "佢哋每晚踢足球做運動。",
-      "jyutping": "keoi5 dei6 mui5 maan5 tek3 zuk1 kau4 zou6 wan6 dung6.",
-      "meaning": "They play football every night as exercise.",
+      "sentence": "你想唔想一齊去踢足球？",
+      "jyutping": "nei5 soeng2 m4 soeng2 jat1 cai4 heoi3 tek3 zuk1 kau4?",
+      "meaning": "Do you want to go play football together?",
       "sourceWordId": "tek3zuk1kau4-football",
       "sourceWord": "踢足球",
       "sourceWordJyutping": "tek3 zuk1 kau4",
-      "sourceWordMeaning": "play football",
+      "sourceWordMeaning": "football",
       "tags": [
         "sports",
-        "football",
-        "exercise",
-        "verb phrase",
-        "common activities",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
     },
     {
       "sentenceId": "tek3zuk1kau4-football-example-4",
-      "sentence": "唔好淨係諗住打機，一齊出嚟踢足球啦！",
-      "jyutping": "m4 hou2 zing6 hai6 nam2 zyu6 da2 gei1, jat1 cai4 ceot1 lai4 tek3 zuk1 kau4 laa1!",
-      "meaning": "Don’t just think about playing video games, come out and play football together!",
+      "sentence": "學校操場可以踢足球。",
+      "jyutping": "hok6 haau6 cou1 coeng4 ho2 ji5 tek3 zuk1 kau4.",
+      "meaning": "You can play football on the school playground.",
       "sourceWordId": "tek3zuk1kau4-football",
       "sourceWord": "踢足球",
       "sourceWordJyutping": "tek3 zuk1 kau4",
-      "sourceWordMeaning": "play football",
+      "sourceWordMeaning": "football",
       "tags": [
         "sports",
-        "football",
-        "exercise",
-        "verb phrase",
-        "common activities",
+        "hobbies",
+        "fitness",
+        "ball sports",
+        "beginner",
+        "daily life",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/tek3zuk1kau4-football.json"
     },
     {
       "sentenceId": "daa2jyu5mou4kau4-badminton-example-1",
-      "sentence": "我星期六同朋友去打羽毛球。",
-      "jyutping": "ngo5 sing1 kei4 luk6 tung4 pang4 jau5 heoi3 daa2 jyu5 mou4 kau4.",
-      "meaning": "I go play badminton with friends on Saturday.",
+      "sentence": "我每個星期六都會打羽毛球。",
+      "jyutping": "ngo5 mui5 go3 sing1 kei4 luk6 dou1 wui5 daa2 jyu5 mou4 kau4.",
+      "meaning": "I play badminton every Saturday.",
       "sourceWordId": "daa2jyu5mou4kau4-badminton",
       "sourceWord": "打羽毛球",
       "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
-      "sourceWordMeaning": "play badminton",
+      "sourceWordMeaning": "badminton",
       "tags": [
         "sports",
         "fitness",
-        "common verbs",
-        "outdoor activity",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
     },
     {
       "sentenceId": "daa2jyu5mou4kau4-badminton-example-2",
-      "sentence": "你鐘唔鐘意打羽毛球？",
-      "jyutping": "nei5 zung1 m4 zung1 ji3 daa2 jyu5 mou4 kau4?",
-      "meaning": "Do you like playing badminton?",
+      "sentence": "放工之後，我同朋友去打羽毛球。",
+      "jyutping": "fong3 gung1 zi1 hau6, ngo5 tung4 pang4 jau5 heoi3 daa2 jyu5 mou4 kau4.",
+      "meaning": "After work, I go play badminton with friends.",
       "sourceWordId": "daa2jyu5mou4kau4-badminton",
       "sourceWord": "打羽毛球",
       "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
-      "sourceWordMeaning": "play badminton",
+      "sourceWordMeaning": "badminton",
       "tags": [
         "sports",
         "fitness",
-        "common verbs",
-        "outdoor activity",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
     },
     {
       "sentenceId": "daa2jyu5mou4kau4-badminton-example-3",
-      "sentence": "我每日打羽毛球做運動。",
-      "jyutping": "ngo5 mui5 jat6 daa2 jyu5 mou4 kau4 zou6 wan6 dung6.",
-      "meaning": "I play badminton every day for exercise.",
+      "sentence": "你鍾唔鍾意打羽毛球？",
+      "jyutping": "nei5 zung1 m4 zung1 ji3 daa2 jyu5 mou4 kau4?",
+      "meaning": "Do you like playing badminton?",
       "sourceWordId": "daa2jyu5mou4kau4-badminton",
       "sourceWord": "打羽毛球",
       "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
-      "sourceWordMeaning": "play badminton",
+      "sourceWordMeaning": "badminton",
       "tags": [
         "sports",
         "fitness",
-        "common verbs",
-        "outdoor activity",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
     },
     {
       "sentenceId": "daa2jyu5mou4kau4-badminton-example-4",
-      "sentence": "唔好遲到，我哋今晚打羽毛球。",
-      "jyutping": "m4 hou2 ci4 dou3, ngo5 dei6 gam1 maan5 daa2 jyu5 mou4 kau4.",
-      "meaning": "Don’t be late, we are playing badminton tonight.",
+      "sentence": "學校個羽毛球隊好多人打羽毛球。",
+      "jyutping": "hok6 haau6 go3 jyu5 mou4 kau4 deoi2 hou2 do1 jan4 daa2 jyu5 mou4 kau4.",
+      "meaning": "There are many people playing badminton on the school badminton team.",
       "sourceWordId": "daa2jyu5mou4kau4-badminton",
       "sourceWord": "打羽毛球",
       "sourceWordJyutping": "daa2 jyu5 mou4 kau4",
-      "sourceWordMeaning": "play badminton",
+      "sourceWordMeaning": "badminton",
       "tags": [
         "sports",
         "fitness",
-        "common verbs",
-        "outdoor activity",
+        "hobbies",
+        "casual speech",
+        "exercise",
+        "team sport",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/daa2jyu5mou4kau4-badminton.json"
     },
     {
-      "sentenceId": "daa2bing1bam1bo1-table-tennis-example-1",
+      "sentenceId": "daa2bing1bam1bo1-play-table-tennis-example-1",
       "sentence": "我今日想打乒乓波。",
       "jyutping": "ngo5 gam1 jat6 soeng2 daa2 bing1 bam1 bo1.",
       "meaning": "I want to play table tennis today.",
-      "sourceWordId": "daa2bing1bam1bo1-table-tennis",
+      "sourceWordId": "daa2bing1bam1bo1-play-table-tennis",
       "sourceWord": "打乒乓波",
       "sourceWordJyutping": "daa2 bing1 bam1 bo1",
       "sourceWordMeaning": "play table tennis",
@@ -1613,14 +1637,14 @@
         "leisure",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-table-tennis.json"
+      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-play-table-tennis.json"
     },
     {
-      "sentenceId": "daa2bing1bam1bo1-table-tennis-example-2",
+      "sentenceId": "daa2bing1bam1bo1-play-table-tennis-example-2",
       "sentence": "佢哋喺學校打乒乓波。",
       "jyutping": "keoi5 dei6 hai2 hok6 haau6 daa2 bing1 bam1 bo1.",
       "meaning": "They play table tennis at school.",
-      "sourceWordId": "daa2bing1bam1bo1-table-tennis",
+      "sourceWordId": "daa2bing1bam1bo1-play-table-tennis",
       "sourceWord": "打乒乓波",
       "sourceWordJyutping": "daa2 bing1 bam1 bo1",
       "sourceWordMeaning": "play table tennis",
@@ -1632,14 +1656,14 @@
         "leisure",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-table-tennis.json"
+      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-play-table-tennis.json"
     },
     {
-      "sentenceId": "daa2bing1bam1bo1-table-tennis-example-3",
+      "sentenceId": "daa2bing1bam1bo1-play-table-tennis-example-3",
       "sentence": "打乒乓波可以令你身體好啲。",
       "jyutping": "daa2 bing1 bam1 bo1 ho2 ji5 ling6 nei5 san1 tai2 hou2 di1.",
       "meaning": "Playing table tennis can make your body healthier.",
-      "sourceWordId": "daa2bing1bam1bo1-table-tennis",
+      "sourceWordId": "daa2bing1bam1bo1-play-table-tennis",
       "sourceWord": "打乒乓波",
       "sourceWordJyutping": "daa2 bing1 bam1 bo1",
       "sourceWordMeaning": "play table tennis",
@@ -1651,14 +1675,14 @@
         "leisure",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-table-tennis.json"
+      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-play-table-tennis.json"
     },
     {
-      "sentenceId": "daa2bing1bam1bo1-table-tennis-example-4",
+      "sentenceId": "daa2bing1bam1bo1-play-table-tennis-example-4",
       "sentence": "我哋星期日約咗時間打乒乓波。",
       "jyutping": "ngo5 dei6 sing1 kei4 jat6 joek3 zo2 si4 gaan3 daa2 bing1 bam1 bo1.",
       "meaning": "We have arranged a time to play table tennis on Sunday.",
-      "sourceWordId": "daa2bing1bam1bo1-table-tennis",
+      "sourceWordId": "daa2bing1bam1bo1-play-table-tennis",
       "sourceWord": "打乒乓波",
       "sourceWordJyutping": "daa2 bing1 bam1 bo1",
       "sourceWordMeaning": "play table tennis",
@@ -1670,14 +1694,14 @@
         "leisure",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-table-tennis.json"
+      "sourceFile": "r2-backup/words/daa2bing1bam1bo1-play-table-tennis.json"
     },
     {
-      "sentenceId": "daa2mong5kau4-tennis-example-1",
+      "sentenceId": "daa2mong5kau4-play-tennis-example-1",
       "sentence": "我鍾意打網球。",
       "jyutping": "ngo5 zung1 ji3 daa2 mong5 kau4",
       "meaning": "I like to play tennis.",
-      "sourceWordId": "daa2mong5kau4-tennis",
+      "sourceWordId": "daa2mong5kau4-play-tennis",
       "sourceWord": "打網球",
       "sourceWordJyutping": "daa2 mong5 kau4",
       "sourceWordMeaning": "play tennis",
@@ -1689,14 +1713,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2mong5kau4-tennis.json"
+      "sourceFile": "r2-backup/words/daa2mong5kau4-play-tennis.json"
     },
     {
-      "sentenceId": "daa2mong5kau4-tennis-example-2",
+      "sentenceId": "daa2mong5kau4-play-tennis-example-2",
       "sentence": "你星期六想唔想打網球？",
       "jyutping": "nei5 sing1 kei4 luk6 soeng2 m4 soeng2 daa2 mong5 kau4?",
       "meaning": "Do you want to play tennis on Saturday?",
-      "sourceWordId": "daa2mong5kau4-tennis",
+      "sourceWordId": "daa2mong5kau4-play-tennis",
       "sourceWord": "打網球",
       "sourceWordJyutping": "daa2 mong5 kau4",
       "sourceWordMeaning": "play tennis",
@@ -1708,14 +1732,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2mong5kau4-tennis.json"
+      "sourceFile": "r2-backup/words/daa2mong5kau4-play-tennis.json"
     },
     {
-      "sentenceId": "daa2mong5kau4-tennis-example-3",
+      "sentenceId": "daa2mong5kau4-play-tennis-example-3",
       "sentence": "佢哋成日一齊打網球。",
       "jyutping": "keoi5 dei6 seng4 jat6 jat1 cai4 daa2 mong5 kau4",
       "meaning": "They often play tennis together.",
-      "sourceWordId": "daa2mong5kau4-tennis",
+      "sourceWordId": "daa2mong5kau4-play-tennis",
       "sourceWord": "打網球",
       "sourceWordJyutping": "daa2 mong5 kau4",
       "sourceWordMeaning": "play tennis",
@@ -1727,14 +1751,14 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2mong5kau4-tennis.json"
+      "sourceFile": "r2-backup/words/daa2mong5kau4-play-tennis.json"
     },
     {
-      "sentenceId": "daa2mong5kau4-tennis-example-4",
+      "sentenceId": "daa2mong5kau4-play-tennis-example-4",
       "sentence": "我唔識打網球，想學啲技巧。",
       "jyutping": "ngo5 m4 sik1 daa2 mong5 kau4, soeng2 hok6 di1 gei6 haau6",
       "meaning": "I don't know how to play tennis, want to learn some skills.",
-      "sourceWordId": "daa2mong5kau4-tennis",
+      "sourceWordId": "daa2mong5kau4-play-tennis",
       "sourceWord": "打網球",
       "sourceWordJyutping": "daa2 mong5 kau4",
       "sourceWordMeaning": "play tennis",
@@ -1746,90 +1770,102 @@
         "outdoor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2mong5kau4-tennis.json"
+      "sourceFile": "r2-backup/words/daa2mong5kau4-play-tennis.json"
     },
     {
       "sentenceId": "haang4saan1-hiking-example-1",
-      "sentence": "我鍾意星期六同朋友去行山。",
-      "jyutping": "ngo5 zung1 ji3 sing1 kei4 luk6 tung4 pang4 jau5 heoi3 haang4 saan1",
-      "meaning": "I like going hiking with friends on Saturdays.",
+      "sentence": "我聽日同朋友去行山。",
+      "jyutping": "ngo5 ting1 jat6 tung4 pang4 jau5 heoi3 haang4 saan1.",
+      "meaning": "I’m going hiking with friends tomorrow.",
       "sourceWordId": "haang4saan1-hiking",
       "sourceWord": "行山",
       "sourceWordJyutping": "haang4 saan1",
-      "sourceWordMeaning": "go hiking",
+      "sourceWordMeaning": "hiking",
       "tags": [
-        "outdoor",
-        "exercise",
-        "nature",
-        "weekend activity",
+        "hobbies",
+        "interests",
+        "sports",
         "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
     },
     {
       "sentenceId": "haang4saan1-hiking-example-2",
-      "sentence": "今年我打算多啲時間去行山。",
-      "jyutping": "gam1 nin4 ngo5 daa2 syun3 do1 di1 si4 gaan3 heoi3 haang4 saan1",
-      "meaning": "This year I plan to go hiking more often.",
+      "sentence": "週末你好鍾意行山呀？",
+      "jyutping": "zau1 mut6 nei5 hou2 zung1 ji3 haang4 saan1 aa3?",
+      "meaning": "Do you like hiking a lot on weekends?",
       "sourceWordId": "haang4saan1-hiking",
       "sourceWord": "行山",
       "sourceWordJyutping": "haang4 saan1",
-      "sourceWordMeaning": "go hiking",
+      "sourceWordMeaning": "hiking",
       "tags": [
-        "outdoor",
-        "exercise",
-        "nature",
-        "weekend activity",
+        "hobbies",
+        "interests",
+        "sports",
         "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
     },
     {
       "sentenceId": "haang4saan1-hiking-example-3",
-      "sentence": "你有冇興趣一齊去行山？",
-      "jyutping": "nei5 jau5 mou5 hing3 ceoi3 jat1 cai4 heoi3 haang4 saan1",
-      "meaning": "Are you interested in going hiking together?",
+      "sentence": "佢成日去行山，身體好好。",
+      "jyutping": "keoi5 seng4 jat6 heoi3 haang4 saan1, san1 tai2 hou2 hou2.",
+      "meaning": "He/She goes hiking often, so they’re in great shape.",
       "sourceWordId": "haang4saan1-hiking",
       "sourceWord": "行山",
       "sourceWordJyutping": "haang4 saan1",
-      "sourceWordMeaning": "go hiking",
+      "sourceWordMeaning": "hiking",
       "tags": [
-        "outdoor",
-        "exercise",
-        "nature",
-        "weekend activity",
+        "hobbies",
+        "interests",
+        "sports",
         "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
     },
     {
       "sentenceId": "haang4saan1-hiking-example-4",
-      "sentence": "行山可以幫助減肥同埋放鬆心情。",
-      "jyutping": "haang4 saan1 ho2 ji5 bong1 zo6 gaam2 fei4 tung4 maai4 fong3 sung1 sam1 cing4",
-      "meaning": "Hiking can help with losing weight and relaxing your mind.",
+      "sentence": "天氣咁好，我哋不如去行山啦。",
+      "jyutping": "tin1 hei3 gam3 hou2, ngo5 dei6 bat1 jyu4 heoi3 haang4 saan1 laa1.",
+      "meaning": "The weather is so nice, let’s go hiking.",
       "sourceWordId": "haang4saan1-hiking",
       "sourceWord": "行山",
       "sourceWordJyutping": "haang4 saan1",
-      "sourceWordMeaning": "go hiking",
+      "sourceWordMeaning": "hiking",
       "tags": [
-        "outdoor",
-        "exercise",
-        "nature",
-        "weekend activity",
+        "hobbies",
+        "interests",
+        "sports",
         "fitness",
+        "outdoor activities",
+        "beginner",
+        "daily conversation",
+        "Hong Kong Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/haang4saan1-hiking.json"
     },
     {
-      "sentenceId": "zou6jyu4gaa1-yoga-example-1",
+      "sentenceId": "zou6jyu4gaa1-do-yoga-example-1",
       "sentence": "我每日朝早做瑜伽。",
       "jyutping": "ngo5 mui5 jat6 ziu1 zou6 zou6 jyu4 gaa1.",
       "meaning": "I do yoga every morning.",
-      "sourceWordId": "zou6jyu4gaa1-yoga",
+      "sourceWordId": "zou6jyu4gaa1-do-yoga",
       "sourceWord": "做瑜伽",
       "sourceWordJyutping": "zou6 jyu4 gaa1",
       "sourceWordMeaning": "do yoga",
@@ -1841,14 +1877,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou6jyu4gaa1-yoga.json"
+      "sourceFile": "r2-backup/words/zou6jyu4gaa1-do-yoga.json"
     },
     {
-      "sentenceId": "zou6jyu4gaa1-yoga-example-2",
+      "sentenceId": "zou6jyu4gaa1-do-yoga-example-2",
       "sentence": "你鍾唔鍾意做瑜伽？",
       "jyutping": "nei5 zung1 m4 zung1 ji3 zou6 jyu4 gaa1?",
       "meaning": "Do you like doing yoga?",
-      "sourceWordId": "zou6jyu4gaa1-yoga",
+      "sourceWordId": "zou6jyu4gaa1-do-yoga",
       "sourceWord": "做瑜伽",
       "sourceWordJyutping": "zou6 jyu4 gaa1",
       "sourceWordMeaning": "do yoga",
@@ -1860,14 +1896,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou6jyu4gaa1-yoga.json"
+      "sourceFile": "r2-backup/words/zou6jyu4gaa1-do-yoga.json"
     },
     {
-      "sentenceId": "zou6jyu4gaa1-yoga-example-3",
+      "sentenceId": "zou6jyu4gaa1-do-yoga-example-3",
       "sentence": "佢話佢今日唔做瑜伽。",
       "jyutping": "keoi5 waa6 keoi5 gam1 jat6 m4 zou6 jyu4 gaa1.",
       "meaning": "He said he is not doing yoga today.",
-      "sourceWordId": "zou6jyu4gaa1-yoga",
+      "sourceWordId": "zou6jyu4gaa1-do-yoga",
       "sourceWord": "做瑜伽",
       "sourceWordJyutping": "zou6 jyu4 gaa1",
       "sourceWordMeaning": "do yoga",
@@ -1879,14 +1915,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou6jyu4gaa1-yoga.json"
+      "sourceFile": "r2-backup/words/zou6jyu4gaa1-do-yoga.json"
     },
     {
-      "sentenceId": "zou6jyu4gaa1-yoga-example-4",
+      "sentenceId": "zou6jyu4gaa1-do-yoga-example-4",
       "sentence": "我想學做瑜伽。",
       "jyutping": "ngo5 soeng2 hok6 zou6 jyu4 gaa1.",
       "meaning": "I want to learn to do yoga.",
-      "sourceWordId": "zou6jyu4gaa1-yoga",
+      "sourceWordId": "zou6jyu4gaa1-do-yoga",
       "sourceWord": "做瑜伽",
       "sourceWordJyutping": "zou6 jyu4 gaa1",
       "sourceWordMeaning": "do yoga",
@@ -1898,7 +1934,7 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou6jyu4gaa1-yoga.json"
+      "sourceFile": "r2-backup/words/zou6jyu4gaa1-do-yoga.json"
     },
     {
       "sentenceId": "maan6paau2-jog-example-1",
@@ -1977,11 +2013,11 @@
       "sourceFile": "r2-backup/words/maan6paau2-jog.json"
     },
     {
-      "sentenceId": "daa2paai4kau4-volleyball-example-1",
+      "sentenceId": "daa2paai4kau4-play-volleyball-example-1",
       "sentence": "我每個星期日都會打排球。",
       "jyutping": "ngo5 mui5 go3 sing1 kei4 jat6 dou1 wui5 daa2 paai4 kau4。",
       "meaning": "I play volleyball every Sunday.",
-      "sourceWordId": "daa2paai4kau4-volleyball",
+      "sourceWordId": "daa2paai4kau4-play-volleyball",
       "sourceWord": "打排球",
       "sourceWordJyutping": "daa2 paai4 kau4",
       "sourceWordMeaning": "play volleyball",
@@ -1993,14 +2029,14 @@
         "outdoor activity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2paai4kau4-volleyball.json"
+      "sourceFile": "r2-backup/words/daa2paai4kau4-play-volleyball.json"
     },
     {
-      "sentenceId": "daa2paai4kau4-volleyball-example-2",
+      "sentenceId": "daa2paai4kau4-play-volleyball-example-2",
       "sentence": "你想唔想一齊去打排球？",
       "jyutping": "nei5 soeng2 m4 soeng2 jat1 cai4 heoi3 daa2 paai4 kau4?",
       "meaning": "Do you want to play volleyball together?",
-      "sourceWordId": "daa2paai4kau4-volleyball",
+      "sourceWordId": "daa2paai4kau4-play-volleyball",
       "sourceWord": "打排球",
       "sourceWordJyutping": "daa2 paai4 kau4",
       "sourceWordMeaning": "play volleyball",
@@ -2012,14 +2048,14 @@
         "outdoor activity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2paai4kau4-volleyball.json"
+      "sourceFile": "r2-backup/words/daa2paai4kau4-play-volleyball.json"
     },
     {
-      "sentenceId": "daa2paai4kau4-volleyball-example-3",
+      "sentenceId": "daa2paai4kau4-play-volleyball-example-3",
       "sentence": "我哋學校有個打排球隊。",
       "jyutping": "ngo5 dei6 hok6 haau6 jau5 go3 daa2 paai4 kau4 deoi6。",
       "meaning": "Our school has a volleyball team.",
-      "sourceWordId": "daa2paai4kau4-volleyball",
+      "sourceWordId": "daa2paai4kau4-play-volleyball",
       "sourceWord": "打排球",
       "sourceWordJyutping": "daa2 paai4 kau4",
       "sourceWordMeaning": "play volleyball",
@@ -2031,14 +2067,14 @@
         "outdoor activity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2paai4kau4-volleyball.json"
+      "sourceFile": "r2-backup/words/daa2paai4kau4-play-volleyball.json"
     },
     {
-      "sentenceId": "daa2paai4kau4-volleyball-example-4",
+      "sentenceId": "daa2paai4kau4-play-volleyball-example-4",
       "sentence": "佢哋經常喺海灘打排球。",
       "jyutping": "keoi5 dei6 ging1 soeng4 hai2 hoi2 taan1 daa2 paai4 kau4。",
       "meaning": "They often play volleyball at the beach.",
-      "sourceWordId": "daa2paai4kau4-volleyball",
+      "sourceWordId": "daa2paai4kau4-play-volleyball",
       "sourceWord": "打排球",
       "sourceWordJyutping": "daa2 paai4 kau4",
       "sourceWordMeaning": "play volleyball",
@@ -2050,14 +2086,14 @@
         "outdoor activity",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2paai4kau4-volleyball.json"
+      "sourceFile": "r2-backup/words/daa2paai4kau4-play-volleyball.json"
     },
     {
-      "sentenceId": "daa2gou1ji5fu1kau4-golf-example-1",
+      "sentenceId": "daa2gou1ji5fu1kau4-play-golf-example-1",
       "sentence": "我週末會去打高爾夫球。",
       "jyutping": "ngo5 zau1 mut6 wui5 heoi3 daa2 gou1 ji5 fu1 kau4.",
       "meaning": "I will go play golf this weekend.",
-      "sourceWordId": "daa2gou1ji5fu1kau4-golf",
+      "sourceWordId": "daa2gou1ji5fu1kau4-play-golf",
       "sourceWord": "打高爾夫球",
       "sourceWordJyutping": "daa2 gou1 ji5 fu1 kau4",
       "sourceWordMeaning": "play golf",
@@ -2069,14 +2105,14 @@
         "outdoor activities",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-golf.json"
+      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-play-golf.json"
     },
     {
-      "sentenceId": "daa2gou1ji5fu1kau4-golf-example-2",
+      "sentenceId": "daa2gou1ji5fu1kau4-play-golf-example-2",
       "sentence": "你識唔識打高爾夫球？",
       "jyutping": "nei5 sik1 m4 sik1 daa2 gou1 ji5 fu1 kau4?",
       "meaning": "Do you know how to play golf?",
-      "sourceWordId": "daa2gou1ji5fu1kau4-golf",
+      "sourceWordId": "daa2gou1ji5fu1kau4-play-golf",
       "sourceWord": "打高爾夫球",
       "sourceWordJyutping": "daa2 gou1 ji5 fu1 kau4",
       "sourceWordMeaning": "play golf",
@@ -2088,14 +2124,14 @@
         "outdoor activities",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-golf.json"
+      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-play-golf.json"
     },
     {
-      "sentenceId": "daa2gou1ji5fu1kau4-golf-example-3",
+      "sentenceId": "daa2gou1ji5fu1kau4-play-golf-example-3",
       "sentence": "佢哋成日一齊打高爾夫球。",
       "jyutping": "keoi5 dei6 sing4 jat6 jat1 cai4 daa2 gou1 ji5 fu1 kau4.",
       "meaning": "They frequently play golf together.",
-      "sourceWordId": "daa2gou1ji5fu1kau4-golf",
+      "sourceWordId": "daa2gou1ji5fu1kau4-play-golf",
       "sourceWord": "打高爾夫球",
       "sourceWordJyutping": "daa2 gou1 ji5 fu1 kau4",
       "sourceWordMeaning": "play golf",
@@ -2107,14 +2143,14 @@
         "outdoor activities",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-golf.json"
+      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-play-golf.json"
     },
     {
-      "sentenceId": "daa2gou1ji5fu1kau4-golf-example-4",
+      "sentenceId": "daa2gou1ji5fu1kau4-play-golf-example-4",
       "sentence": "下個月我諗住學打高爾夫球。",
       "jyutping": "haa6 go3 jyut6 ngo5 nam2 zyu6 hok6 daa2 gou1 ji5 fu1 kau4.",
       "meaning": "Next month I plan to learn how to play golf.",
-      "sourceWordId": "daa2gou1ji5fu1kau4-golf",
+      "sourceWordId": "daa2gou1ji5fu1kau4-play-golf",
       "sourceWord": "打高爾夫球",
       "sourceWordJyutping": "daa2 gou1 ji5 fu1 kau4",
       "sourceWordMeaning": "play golf",
@@ -2126,14 +2162,14 @@
         "outdoor activities",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-golf.json"
+      "sourceFile": "r2-backup/words/daa2gou1ji5fu1kau4-play-golf.json"
     },
     {
-      "sentenceId": "daa2laam5kau4-rugby-example-1",
+      "sentenceId": "daa2laam5kau4-play-rugby-example-1",
       "sentence": "我星期六會去公園打欖球。",
       "jyutping": "ngo5 sing1 kei4 luk6 wui5 heoi3 gung1 jyun4 daa2 laam5 kau4。",
       "meaning": "I will go to the park to play rugby on Saturday.",
-      "sourceWordId": "daa2laam5kau4-rugby",
+      "sourceWordId": "daa2laam5kau4-play-rugby",
       "sourceWord": "打欖球",
       "sourceWordJyutping": "daa2 laam5 kau4",
       "sourceWordMeaning": "play rugby",
@@ -2145,14 +2181,14 @@
         "exercise",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2laam5kau4-rugby.json"
+      "sourceFile": "r2-backup/words/daa2laam5kau4-play-rugby.json"
     },
     {
-      "sentenceId": "daa2laam5kau4-rugby-example-2",
+      "sentenceId": "daa2laam5kau4-play-rugby-example-2",
       "sentence": "佢好鍾意打欖球，幾乎每日都打。",
       "jyutping": "keoi5 hou2 zung1 ji3 daa2 laam5 kau4, gei2 fu1 mui5 jat6 dou1 daa2。",
       "meaning": "He really likes playing rugby and almost plays every day.",
-      "sourceWordId": "daa2laam5kau4-rugby",
+      "sourceWordId": "daa2laam5kau4-play-rugby",
       "sourceWord": "打欖球",
       "sourceWordJyutping": "daa2 laam5 kau4",
       "sourceWordMeaning": "play rugby",
@@ -2164,14 +2200,14 @@
         "exercise",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2laam5kau4-rugby.json"
+      "sourceFile": "r2-backup/words/daa2laam5kau4-play-rugby.json"
     },
     {
-      "sentenceId": "daa2laam5kau4-rugby-example-3",
+      "sentenceId": "daa2laam5kau4-play-rugby-example-3",
       "sentence": "打欖球可以令你身體變得更健康。",
       "jyutping": "daa2 laam5 kau4 ho2 ji5 ling6 nei5 san1 tai2 bin3 dak1 gang3 gin6 hong1。",
       "meaning": "Playing rugby can make your body healthier.",
-      "sourceWordId": "daa2laam5kau4-rugby",
+      "sourceWordId": "daa2laam5kau4-play-rugby",
       "sourceWord": "打欖球",
       "sourceWordJyutping": "daa2 laam5 kau4",
       "sourceWordMeaning": "play rugby",
@@ -2183,14 +2219,14 @@
         "exercise",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2laam5kau4-rugby.json"
+      "sourceFile": "r2-backup/words/daa2laam5kau4-play-rugby.json"
     },
     {
-      "sentenceId": "daa2laam5kau4-rugby-example-4",
+      "sentenceId": "daa2laam5kau4-play-rugby-example-4",
       "sentence": "我哋學校有一隊打欖球嘅隊伍。",
       "jyutping": "ngo5 dei6 hok6 haau6 jau5 jat1 deoi2 daa2 laam5 kau4 ge3 deoi2 mou5。",
       "meaning": "Our school has a rugby team.",
-      "sourceWordId": "daa2laam5kau4-rugby",
+      "sourceWordId": "daa2laam5kau4-play-rugby",
       "sourceWord": "打欖球",
       "sourceWordJyutping": "daa2 laam5 kau4",
       "sourceWordMeaning": "play rugby",
@@ -2202,7 +2238,7 @@
         "exercise",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2laam5kau4-rugby.json"
+      "sourceFile": "r2-backup/words/daa2laam5kau4-play-rugby.json"
     },
     {
       "sentenceId": "tiu3mou5-dance-example-1",
@@ -2281,82 +2317,6 @@
       "sourceFile": "r2-backup/words/tiu3mou5-dance.json"
     },
     {
-      "sentenceId": "caai2waat6baan2-skateboarding-example-1",
-      "sentence": "我鍾意踩滑板。",
-      "jyutping": "ngo5 zung1 ji3 caai2 waat6 baan2.",
-      "meaning": "I like skateboarding.",
-      "sourceWordId": "caai2waat6baan2-skateboarding",
-      "sourceWord": "踩滑板",
-      "sourceWordJyutping": "caai2 waat6 baan2",
-      "sourceWordMeaning": "to skateboard; skateboarding",
-      "tags": [
-        "sports",
-        "outdoor",
-        "recreation",
-        "youth",
-        "exercise",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
-    },
-    {
-      "sentenceId": "caai2waat6baan2-skateboarding-example-2",
-      "sentence": "你識唔識踩滑板？",
-      "jyutping": "nei5 sik1 m4 sik1 caai2 waat6 baan2?",
-      "meaning": "Do you know how to skateboard?",
-      "sourceWordId": "caai2waat6baan2-skateboarding",
-      "sourceWord": "踩滑板",
-      "sourceWordJyutping": "caai2 waat6 baan2",
-      "sourceWordMeaning": "to skateboard; skateboarding",
-      "tags": [
-        "sports",
-        "outdoor",
-        "recreation",
-        "youth",
-        "exercise",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
-    },
-    {
-      "sentenceId": "caai2waat6baan2-skateboarding-example-3",
-      "sentence": "佢哋每日去滑板場踩滑板。",
-      "jyutping": "keoi5 dei6 mui5 jat6 heoi3 waat6 baan2 coeng4 caai2 waat6 baan2.",
-      "meaning": "They go to the skateboard park every day to skateboard.",
-      "sourceWordId": "caai2waat6baan2-skateboarding",
-      "sourceWord": "踩滑板",
-      "sourceWordJyutping": "caai2 waat6 baan2",
-      "sourceWordMeaning": "to skateboard; skateboarding",
-      "tags": [
-        "sports",
-        "outdoor",
-        "recreation",
-        "youth",
-        "exercise",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
-    },
-    {
-      "sentenceId": "caai2waat6baan2-skateboarding-example-4",
-      "sentence": "踩滑板要戴安全帽。",
-      "jyutping": "caai2 waat6 baan2 jiu3 daai3 ngon1 cyun4 mou6.",
-      "meaning": "You need to wear a helmet when skateboarding.",
-      "sourceWordId": "caai2waat6baan2-skateboarding",
-      "sourceWord": "踩滑板",
-      "sourceWordJyutping": "caai2 waat6 baan2",
-      "sourceWordMeaning": "to skateboard; skateboarding",
-      "tags": [
-        "sports",
-        "outdoor",
-        "recreation",
-        "youth",
-        "exercise",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/caai2waat6baan2-skateboard.json"
-    },
-    {
       "sentenceId": "waat6syut3-ski-example-1",
       "sentence": "我冬天去日本滑雪。",
       "jyutping": "ngo5 dung1 tin1 heoi3 jat6 bun2 waat6 syut3.",
@@ -2433,11 +2393,11 @@
       "sourceFile": "r2-backup/words/waat6syut3-ski.json"
     },
     {
-      "sentenceId": "waat6bing1-skate-example-1",
+      "sentenceId": "waat6bing1-ice-skate-example-1",
       "sentence": "我鐘意去溜冰場玩滑冰。",
       "jyutping": "ngo5 zung1 ji3 heoi3 lau4 bing1 coeng4 waan2 waat6 bing1.",
       "meaning": "I like to go to the ice rink to play ice skating.",
-      "sourceWordId": "waat6bing1-skate",
+      "sourceWordId": "waat6bing1-ice-skate",
       "sourceWord": "滑冰",
       "sourceWordJyutping": "waat6 bing1",
       "sourceWordMeaning": "ice skate",
@@ -2449,14 +2409,14 @@
         "recreation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6bing1-skate.json"
+      "sourceFile": "r2-backup/words/waat6bing1-ice-skate.json"
     },
     {
-      "sentenceId": "waat6bing1-skate-example-2",
+      "sentenceId": "waat6bing1-ice-skate-example-2",
       "sentence": "星期六我同朋友一齊去滑冰。",
       "jyutping": "sing1 kei4 luk6 ngo5 tung4 pang4 jau5 jat1 cai4 heoi3 waat6 bing1.",
       "meaning": "On Saturday, I go ice skating together with my friends.",
-      "sourceWordId": "waat6bing1-skate",
+      "sourceWordId": "waat6bing1-ice-skate",
       "sourceWord": "滑冰",
       "sourceWordJyutping": "waat6 bing1",
       "sourceWordMeaning": "ice skate",
@@ -2468,14 +2428,14 @@
         "recreation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6bing1-skate.json"
+      "sourceFile": "r2-backup/words/waat6bing1-ice-skate.json"
     },
     {
-      "sentenceId": "waat6bing1-skate-example-3",
+      "sentenceId": "waat6bing1-ice-skate-example-3",
       "sentence": "佢滑冰滑得好叻。",
       "jyutping": "keoi5 waat6 bing1 waat6 dak1 hou2 lek1.",
       "meaning": "He/She skates ice skating very well.",
-      "sourceWordId": "waat6bing1-skate",
+      "sourceWordId": "waat6bing1-ice-skate",
       "sourceWord": "滑冰",
       "sourceWordJyutping": "waat6 bing1",
       "sourceWordMeaning": "ice skate",
@@ -2487,14 +2447,14 @@
         "recreation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6bing1-skate.json"
+      "sourceFile": "r2-backup/words/waat6bing1-ice-skate.json"
     },
     {
-      "sentenceId": "waat6bing1-skate-example-4",
+      "sentenceId": "waat6bing1-ice-skate-example-4",
       "sentence": "滑冰係我冬天最鍾意嘅運動。",
       "jyutping": "waat6 bing1 hai6 ngo5 dung1 tin1 zeoi3 zung1 ji3 ge3 wan6 dung6.",
       "meaning": "Ice skating is my favorite sport in winter.",
-      "sourceWordId": "waat6bing1-skate",
+      "sourceWordId": "waat6bing1-ice-skate",
       "sourceWord": "滑冰",
       "sourceWordJyutping": "waat6 bing1",
       "sourceWordMeaning": "ice skate",
@@ -2506,14 +2466,14 @@
         "recreation",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/waat6bing1-skate.json"
+      "sourceFile": "r2-backup/words/waat6bing1-ice-skate.json"
     },
     {
-      "sentenceId": "daa2kyun4-boxing-example-1",
+      "sentenceId": "daa2kyun4-box-example-1",
       "sentence": "佢每日去健身室打拳。",
       "jyutping": "keoi5 mui5 jat6 heoi3 gin6 san1 sat1 daa2 kyun4",
       "meaning": "He goes to the gym to box every day.",
-      "sourceWordId": "daa2kyun4-boxing",
+      "sourceWordId": "daa2kyun4-box",
       "sourceWord": "打拳",
       "sourceWordJyutping": "daa2 kyun4",
       "sourceWordMeaning": "box",
@@ -2525,14 +2485,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2kyun4-boxing.json"
+      "sourceFile": "r2-backup/words/daa2kyun4-box.json"
     },
     {
-      "sentenceId": "daa2kyun4-boxing-example-2",
+      "sentenceId": "daa2kyun4-box-example-2",
       "sentence": "我想學打拳，保持身體健康。",
       "jyutping": "ngo5 soeng2 hok6 daa2 kyun4, bou2 ci4 san1 tai2 gin6 hong1",
       "meaning": "I want to learn boxing to stay healthy.",
-      "sourceWordId": "daa2kyun4-boxing",
+      "sourceWordId": "daa2kyun4-box",
       "sourceWord": "打拳",
       "sourceWordJyutping": "daa2 kyun4",
       "sourceWordMeaning": "box",
@@ -2544,14 +2504,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2kyun4-boxing.json"
+      "sourceFile": "r2-backup/words/daa2kyun4-box.json"
     },
     {
-      "sentenceId": "daa2kyun4-boxing-example-3",
+      "sentenceId": "daa2kyun4-box-example-3",
       "sentence": "打拳可以增強耐力。",
       "jyutping": "daa2 kyun4 ho2 ji5 zang1 coeng4 noi6 lik6",
       "meaning": "Boxing can improve endurance.",
-      "sourceWordId": "daa2kyun4-boxing",
+      "sourceWordId": "daa2kyun4-box",
       "sourceWord": "打拳",
       "sourceWordJyutping": "daa2 kyun4",
       "sourceWordMeaning": "box",
@@ -2563,14 +2523,14 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2kyun4-boxing.json"
+      "sourceFile": "r2-backup/words/daa2kyun4-box.json"
     },
     {
-      "sentenceId": "daa2kyun4-boxing-example-4",
+      "sentenceId": "daa2kyun4-box-example-4",
       "sentence": "佢細個已經開始學打拳。",
       "jyutping": "keoi5 sai3 go3 ji5 ging1 hoi1 ci2 hok6 daa2 kyun4",
       "meaning": "He started learning boxing since he was young.",
-      "sourceWordId": "daa2kyun4-boxing",
+      "sourceWordId": "daa2kyun4-box",
       "sourceWord": "打拳",
       "sourceWordJyutping": "daa2 kyun4",
       "sourceWordMeaning": "box",
@@ -2582,7 +2542,7 @@
         "health",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2kyun4-boxing.json"
+      "sourceFile": "r2-backup/words/daa2kyun4-box.json"
     },
     {
       "sentenceId": "mou5seot6-martial-arts-example-1",
@@ -2661,11 +2621,11 @@
       "sourceFile": "r2-backup/words/mou5seot6-martial-arts.json"
     },
     {
-      "sentenceId": "daa2taai3gik6-taichi-example-1",
+      "sentenceId": "daa2taai3gik6-do-tai-chi-example-1",
       "sentence": "我每日早上都會打太極。",
       "jyutping": "ngo5 mui5 jat6 zou2 soeng6 dou1 wui5 daa2 taai3 gik6.",
       "meaning": "I do tai chi every morning.",
-      "sourceWordId": "daa2taai3gik6-taichi",
+      "sourceWordId": "daa2taai3gik6-do-tai-chi",
       "sourceWord": "打太極",
       "sourceWordJyutping": "daa2 taai3 gik6",
       "sourceWordMeaning": "do tai chi",
@@ -2677,14 +2637,14 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2taai3gik6-taichi.json"
+      "sourceFile": "r2-backup/words/daa2taai3gik6-do-tai-chi.json"
     },
     {
-      "sentenceId": "daa2taai3gik6-taichi-example-2",
+      "sentenceId": "daa2taai3gik6-do-tai-chi-example-2",
       "sentence": "你想唔想一齊去公園打太極？",
       "jyutping": "nei5 soeng2 m4 soeng2 jat1 cai4 heoi3 gung1 jyun4 daa2 taai3 gik6?",
       "meaning": "Do you want to go do tai chi together in the park?",
-      "sourceWordId": "daa2taai3gik6-taichi",
+      "sourceWordId": "daa2taai3gik6-do-tai-chi",
       "sourceWord": "打太極",
       "sourceWordJyutping": "daa2 taai3 gik6",
       "sourceWordMeaning": "do tai chi",
@@ -2696,14 +2656,14 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2taai3gik6-taichi.json"
+      "sourceFile": "r2-backup/words/daa2taai3gik6-do-tai-chi.json"
     },
     {
-      "sentenceId": "daa2taai3gik6-taichi-example-3",
+      "sentenceId": "daa2taai3gik6-do-tai-chi-example-3",
       "sentence": "打太極幫助放鬆身心。",
       "jyutping": "daa2 taai3 gik6 bong1 zo6 fong3 sung1 san1 sam1.",
       "meaning": "Doing tai chi helps relax the body and mind.",
-      "sourceWordId": "daa2taai3gik6-taichi",
+      "sourceWordId": "daa2taai3gik6-do-tai-chi",
       "sourceWord": "打太極",
       "sourceWordJyutping": "daa2 taai3 gik6",
       "sourceWordMeaning": "do tai chi",
@@ -2715,14 +2675,14 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2taai3gik6-taichi.json"
+      "sourceFile": "r2-backup/words/daa2taai3gik6-do-tai-chi.json"
     },
     {
-      "sentenceId": "daa2taai3gik6-taichi-example-4",
+      "sentenceId": "daa2taai3gik6-do-tai-chi-example-4",
       "sentence": "爸爸退休後開始學打太極。",
       "jyutping": "baa4 baa1 teoi3 jau1 hau6 hoi1 ci2 hok6 daa2 taai3 gik6.",
       "meaning": "Dad started learning tai chi after retirement.",
-      "sourceWordId": "daa2taai3gik6-taichi",
+      "sourceWordId": "daa2taai3gik6-do-tai-chi",
       "sourceWord": "打太極",
       "sourceWordJyutping": "daa2 taai3 gik6",
       "sourceWordMeaning": "do tai chi",
@@ -2734,7 +2694,7 @@
         "hobby",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/daa2taai3gik6-taichi.json"
+      "sourceFile": "r2-backup/words/daa2taai3gik6-do-tai-chi.json"
     },
     {
       "sentenceId": "cung1long6-surf-example-1",
@@ -4181,11 +4141,11 @@
       "sourceFile": "r2-backup/words/geoi2tit3-lift-weights.json"
     },
     {
-      "sentenceId": "zung6loeng6-heavy-weight-example-1",
+      "sentenceId": "zung6loeng6-weight-example-1",
       "sentence": "我今日舉起咗好重嘅重量。",
       "jyutping": "ngo5 gam1 jat6 geoi2 hei2 zo2 hou2 zung6 ge3 zung6 loeng6.",
       "meaning": "I lifted a very heavy weight today.",
-      "sourceWordId": "zung6loeng6-heavy-weight",
+      "sourceWordId": "zung6loeng6-weight",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -4197,14 +4157,14 @@
         "strength",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-heavy-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
     },
     {
-      "sentenceId": "zung6loeng6-heavy-weight-example-2",
+      "sentenceId": "zung6loeng6-weight-example-2",
       "sentence": "呢個啞鈴嘅重量係十公斤。",
       "jyutping": "ni1 go3 ngaa5 ling4 ge3 zung6 loeng6 hai6 sap6 gung1 gan1.",
       "meaning": "The weight of this dumbbell is ten kilograms.",
-      "sourceWordId": "zung6loeng6-heavy-weight",
+      "sourceWordId": "zung6loeng6-weight",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -4216,14 +4176,14 @@
         "strength",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-heavy-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
     },
     {
-      "sentenceId": "zung6loeng6-heavy-weight-example-3",
+      "sentenceId": "zung6loeng6-weight-example-3",
       "sentence": "增加重量可以幫助增肌。",
       "jyutping": "zang1 gaa1 zung6 loeng6 ho2 ji5 bong1 zo6 zang1 gei1.",
       "meaning": "Increasing weight can help build muscle.",
-      "sourceWordId": "zung6loeng6-heavy-weight",
+      "sourceWordId": "zung6loeng6-weight",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -4235,14 +4195,14 @@
         "strength",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-heavy-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
     },
     {
-      "sentenceId": "zung6loeng6-heavy-weight-example-4",
+      "sentenceId": "zung6loeng6-weight-example-4",
       "sentence": "你應該注意自己嘅重量訓練計劃。",
       "jyutping": "nei5 jing1 goi1 zyu3 ji3 zi6 gei2 ge3 zung6 loeng6 fan3 lin6 gai3 waak6.",
       "meaning": "You should pay attention to your weight training plan.",
-      "sourceWordId": "zung6loeng6-heavy-weight",
+      "sourceWordId": "zung6loeng6-weight",
       "sourceWord": "重量",
       "sourceWordJyutping": "zung6 loeng6",
       "sourceWordMeaning": "weight",
@@ -4254,7 +4214,7 @@
         "strength",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zung6loeng6-heavy-weight.json"
+      "sourceFile": "r2-backup/words/zung6loeng6-weight.json"
     },
     {
       "sentenceId": "zung6-heavy-example-1",
@@ -4409,11 +4369,11 @@
       "sourceFile": "r2-backup/words/hing1-light.json"
     },
     {
-      "sentenceId": "zou2-group-set-example-1",
+      "sentenceId": "zou2-set-example-1",
       "sentence": "我做三組深蹲。",
       "jyutping": "ngo5 zou6 saam1 zou2 sam1 deun1.",
       "meaning": "I do three sets of squats.",
-      "sourceWordId": "zou2-group-set",
+      "sourceWordId": "zou2-set",
       "sourceWord": "組",
       "sourceWordJyutping": "zou2",
       "sourceWordMeaning": "set",
@@ -4425,14 +4385,14 @@
         "workout",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2-group-set.json"
+      "sourceFile": "r2-backup/words/zou2-set.json"
     },
     {
-      "sentenceId": "zou2-group-set-example-2",
+      "sentenceId": "zou2-set-example-2",
       "sentence": "每組十次起伏。",
       "jyutping": "mui5 zou2 sap6 ci3 hei2 fuk1.",
       "meaning": "Each set has ten ups and downs.",
-      "sourceWordId": "zou2-group-set",
+      "sourceWordId": "zou2-set",
       "sourceWord": "組",
       "sourceWordJyutping": "zou2",
       "sourceWordMeaning": "set",
@@ -4444,14 +4404,14 @@
         "workout",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2-group-set.json"
+      "sourceFile": "r2-backup/words/zou2-set.json"
     },
     {
-      "sentenceId": "zou2-group-set-example-3",
+      "sentenceId": "zou2-set-example-3",
       "sentence": "呢組器械幾重？",
       "jyutping": "ni1 zou2 hei3 haai6 gei2 cung5?",
       "meaning": "How heavy is this set of equipment?",
-      "sourceWordId": "zou2-group-set",
+      "sourceWordId": "zou2-set",
       "sourceWord": "組",
       "sourceWordJyutping": "zou2",
       "sourceWordMeaning": "set",
@@ -4463,14 +4423,14 @@
         "workout",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2-group-set.json"
+      "sourceFile": "r2-backup/words/zou2-set.json"
     },
     {
-      "sentenceId": "zou2-group-set-example-4",
+      "sentenceId": "zou2-set-example-4",
       "sentence": "完成最後一組，差唔多休息。",
       "jyutping": "jyun4 sing4 zeoi3 hau6 jat1 zou2, caa1 m4 do1 jau1 sik1.",
       "meaning": "Finish the last set, then take a break.",
-      "sourceWordId": "zou2-group-set",
+      "sourceWordId": "zou2-set",
       "sourceWord": "組",
       "sourceWordJyutping": "zou2",
       "sourceWordMeaning": "set",
@@ -4482,7 +4442,83 @@
         "workout",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zou2-group-set.json"
+      "sourceFile": "r2-backup/words/zou2-set.json"
+    },
+    {
+      "sentenceId": "ci3-time-occurrence-repetition-example-1",
+      "sentence": "我昨日做咗三十次深蹲。",
+      "jyutping": "ngo5 zok6 jat6 zou6 zo2 saam1 sap6 ci3 sam1 deon1",
+      "meaning": "I did thirty squats yesterday.",
+      "sourceWordId": "ci3-time-occurrence-repetition",
+      "sourceWord": "次",
+      "sourceWordJyutping": "ci3",
+      "sourceWordMeaning": "time / occurrence / repetition",
+      "tags": [
+        "counting",
+        "frequency",
+        "repetition",
+        "exercise",
+        "measure word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci3-time-occurrence-repetition.json"
+    },
+    {
+      "sentenceId": "ci3-time-occurrence-repetition-example-2",
+      "sentence": "呢個動作要重複十次。",
+      "jyutping": "ni1 go3 dung6 zok3 jiu3 cung4 fuk1 sap6 ci3",
+      "meaning": "This movement has to be repeated ten times.",
+      "sourceWordId": "ci3-time-occurrence-repetition",
+      "sourceWord": "次",
+      "sourceWordJyutping": "ci3",
+      "sourceWordMeaning": "time / occurrence / repetition",
+      "tags": [
+        "counting",
+        "frequency",
+        "repetition",
+        "exercise",
+        "measure word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci3-time-occurrence-repetition.json"
+    },
+    {
+      "sentenceId": "ci3-time-occurrence-repetition-example-3",
+      "sentence": "佢做俾我睇兩次引體上升。",
+      "jyutping": "keoi5 zou6 bei2 ngo5 tai2 loeng5 ci3 jan5 tai2 soeng6 sing1",
+      "meaning": "He did two pull-ups for me to see.",
+      "sourceWordId": "ci3-time-occurrence-repetition",
+      "sourceWord": "次",
+      "sourceWordJyutping": "ci3",
+      "sourceWordMeaning": "time / occurrence / repetition",
+      "tags": [
+        "counting",
+        "frequency",
+        "repetition",
+        "exercise",
+        "measure word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci3-time-occurrence-repetition.json"
+    },
+    {
+      "sentenceId": "ci3-time-occurrence-repetition-example-4",
+      "sentence": "今次健身課要做多幾次。",
+      "jyutping": "gam1 ci3 gin6 san1 fo3 jiu3 zou6 do1 gei2 ci3",
+      "meaning": "In this workout class, you have to do a few more repetitions.",
+      "sourceWordId": "ci3-time-occurrence-repetition",
+      "sourceWord": "次",
+      "sourceWordJyutping": "ci3",
+      "sourceWordMeaning": "time / occurrence / repetition",
+      "tags": [
+        "counting",
+        "frequency",
+        "repetition",
+        "exercise",
+        "measure word",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ci3-time-occurrence-repetition.json"
     },
     {
       "sentenceId": "hung1gei1-chest-example-1",
@@ -5321,11 +5357,11 @@
       "sourceFile": "r2-backup/words/gei1juk6-muscles.json"
     },
     {
-      "sentenceId": "kau4coeng4-pitch-example-1",
+      "sentenceId": "kau4coeng4-sports-court-example-1",
       "sentence": "我哋傍晚去球場打籃球。",
       "jyutping": "ngo5 dei6 bong6 ngaan5 heoi3 kau4 coeng4 daa2 laam4 kau4",
       "meaning": "We go to the sports court to play basketball in the evening.",
-      "sourceWordId": "kau4coeng4-pitch",
+      "sourceWordId": "kau4coeng4-sports-court",
       "sourceWord": "球場",
       "sourceWordJyutping": "kau4 coeng4",
       "sourceWordMeaning": "sports court",
@@ -5336,14 +5372,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kau4coeng4-pitch.json"
+      "sourceFile": "r2-backup/words/kau4coeng4-sports-court.json"
     },
     {
-      "sentenceId": "kau4coeng4-pitch-example-2",
+      "sentenceId": "kau4coeng4-sports-court-example-2",
       "sentence": "學校有幾個足球場。",
       "jyutping": "hok6 haau6 jau5 gei2 go3 zuk1 kau4 coeng4",
       "meaning": "The school has several soccer fields.",
-      "sourceWordId": "kau4coeng4-pitch",
+      "sourceWordId": "kau4coeng4-sports-court",
       "sourceWord": "球場",
       "sourceWordJyutping": "kau4 coeng4",
       "sourceWordMeaning": "sports court",
@@ -5354,14 +5390,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kau4coeng4-pitch.json"
+      "sourceFile": "r2-backup/words/kau4coeng4-sports-court.json"
     },
     {
-      "sentenceId": "kau4coeng4-pitch-example-3",
+      "sentenceId": "kau4coeng4-sports-court-example-3",
       "sentence": "球場好多人喺度練習。",
       "jyutping": "kau4 coeng4 hou2 do1 jan4 hai2 dou6 lin6 zaap6",
       "meaning": "There are many people practicing at the sports court.",
-      "sourceWordId": "kau4coeng4-pitch",
+      "sourceWordId": "kau4coeng4-sports-court",
       "sourceWord": "球場",
       "sourceWordJyutping": "kau4 coeng4",
       "sourceWordMeaning": "sports court",
@@ -5372,14 +5408,14 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kau4coeng4-pitch.json"
+      "sourceFile": "r2-backup/words/kau4coeng4-sports-court.json"
     },
     {
-      "sentenceId": "kau4coeng4-pitch-example-4",
+      "sentenceId": "kau4coeng4-sports-court-example-4",
       "sentence": "今晚嘅籃球賽喺新球場舉行。",
       "jyutping": "gam1 maan5 ge3 laam4 kau4 coi3 hai2 san1 kau4 coeng4 geoi2 hang4",
       "meaning": "Tonight's basketball game is held at the new sports court.",
-      "sourceWordId": "kau4coeng4-pitch",
+      "sourceWordId": "kau4coeng4-sports-court",
       "sourceWord": "球場",
       "sourceWordJyutping": "kau4 coeng4",
       "sourceWordMeaning": "sports court",
@@ -5390,80 +5426,92 @@
         "common noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/kau4coeng4-pitch.json"
+      "sourceFile": "r2-backup/words/kau4coeng4-sports-court.json"
     },
     {
       "sentenceId": "jau4wing6ci4-swimming-pool-example-1",
-      "sentence": "我今朝去咗游泳池游水。",
-      "jyutping": "ngo5 gam1 ziu1 heoi3 zo2 jau4 wing6 ci4 jau4 seoi2.",
-      "meaning": "I went to the swimming pool to swim this morning.",
+      "sentence": "我哋聽日去游泳池游水。",
+      "jyutping": "ngo5 dei6 ting1jat6 heoi3 jau4wing6ci4 jau4 seoi2.",
+      "meaning": "We’re going to the swimming pool tomorrow.",
       "sourceWordId": "jau4wing6ci4-swimming-pool",
       "sourceWord": "游泳池",
       "sourceWordJyutping": "jau4 wing6 ci4",
       "sourceWordMeaning": "swimming pool",
       "tags": [
-        "sports",
-        "fitness",
-        "places",
-        "exercise",
+        "community place",
+        "building",
+        "local service",
+        "everyday noun",
         "leisure",
+        "sports facility",
+        "A1",
+        "HK Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jau4wing6ci4-swimming-pool.json"
     },
     {
       "sentenceId": "jau4wing6ci4-swimming-pool-example-2",
-      "sentence": "呢個游泳池好乾淨，好舒服。",
-      "jyutping": "ni1 go3 jau4 wing6 ci4 hou2 gon1 zing6, hou2 syu1 fuk6.",
-      "meaning": "This swimming pool is very clean and comfortable.",
+      "sentence": "屋苑有個游泳池。",
+      "jyutping": "uk1 jyun2 jau5 go3 jau4wing6ci4.",
+      "meaning": "The housing estate has a swimming pool.",
       "sourceWordId": "jau4wing6ci4-swimming-pool",
       "sourceWord": "游泳池",
       "sourceWordJyutping": "jau4 wing6 ci4",
       "sourceWordMeaning": "swimming pool",
       "tags": [
-        "sports",
-        "fitness",
-        "places",
-        "exercise",
+        "community place",
+        "building",
+        "local service",
+        "everyday noun",
         "leisure",
+        "sports facility",
+        "A1",
+        "HK Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jau4wing6ci4-swimming-pool.json"
     },
     {
       "sentenceId": "jau4wing6ci4-swimming-pool-example-3",
-      "sentence": "你鍾意去屋企樓下嗰個游泳池定係去健身室？",
-      "jyutping": "nei5 zung1 ji3 heoi3 uk1 kei2 lau2 haa6 go2 go3 jau4 wing6 ci4 ding6 hai6 heoi3 gin6 san1 sat1?",
-      "meaning": "Do you prefer to go to the swimming pool downstairs at home or the gym?",
+      "sentence": "呢個游泳池夏天好多人。",
+      "jyutping": "ni1 go3 jau4wing6ci4 haa6 tin1 hou2 do1 jan4.",
+      "meaning": "This swimming pool is very crowded in summer.",
       "sourceWordId": "jau4wing6ci4-swimming-pool",
       "sourceWord": "游泳池",
       "sourceWordJyutping": "jau4 wing6 ci4",
       "sourceWordMeaning": "swimming pool",
       "tags": [
-        "sports",
-        "fitness",
-        "places",
-        "exercise",
+        "community place",
+        "building",
+        "local service",
+        "everyday noun",
         "leisure",
+        "sports facility",
+        "A1",
+        "HK Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jau4wing6ci4-swimming-pool.json"
     },
     {
       "sentenceId": "jau4wing6ci4-swimming-pool-example-4",
-      "sentence": "游泳池啲水幾時清潔？",
-      "jyutping": "jau4 wing6 ci4 di1 seoi2 gei2 si4 cing1 git3?",
-      "meaning": "When is the swimming pool cleaned?",
+      "sentence": "小朋友最鍾意去游泳池玩。",
+      "jyutping": "siu2 pang4 jau5 zeoi3 zung1ji3 heoi3 jau4wing6ci4 waan2.",
+      "meaning": "Children like going to the swimming pool the most.",
       "sourceWordId": "jau4wing6ci4-swimming-pool",
       "sourceWord": "游泳池",
       "sourceWordJyutping": "jau4 wing6 ci4",
       "sourceWordMeaning": "swimming pool",
       "tags": [
-        "sports",
-        "fitness",
-        "places",
-        "exercise",
+        "community place",
+        "building",
+        "local service",
+        "everyday noun",
         "leisure",
+        "sports facility",
+        "A1",
+        "HK Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/jau4wing6ci4-swimming-pool.json"
@@ -5849,11 +5897,11 @@
       "sourceFile": "r2-backup/words/wan6dung6jyun4-athlete.json"
     },
     {
-      "sentenceId": "zing1coi2-good-performance-example-1",
+      "sentenceId": "zing1coi2-excellent-example-1",
       "sentence": "今日嘅比賽好精彩！",
       "jyutping": "gam1 jat6 ge3 bei2 coi3 hou2 zing1 coi2!",
       "meaning": "Today's match was excellent!",
-      "sourceWordId": "zing1coi2-good-performance",
+      "sourceWordId": "zing1coi2-excellent",
       "sourceWord": "精彩",
       "sourceWordJyutping": "zing1 coi2",
       "sourceWordMeaning": "excellent",
@@ -5865,14 +5913,14 @@
         "positive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing1coi2-good-performance.json"
+      "sourceFile": "r2-backup/words/zing1coi2-excellent.json"
     },
     {
-      "sentenceId": "zing1coi2-good-performance-example-2",
+      "sentenceId": "zing1coi2-excellent-example-2",
       "sentence": "佢嘅表現真係精彩。",
       "jyutping": "keoi5 ge3 biu2 jin6 zan1 hai6 zing1 coi2.",
       "meaning": "His performance was truly excellent.",
-      "sourceWordId": "zing1coi2-good-performance",
+      "sourceWordId": "zing1coi2-excellent",
       "sourceWord": "精彩",
       "sourceWordJyutping": "zing1 coi2",
       "sourceWordMeaning": "excellent",
@@ -5884,14 +5932,14 @@
         "positive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing1coi2-good-performance.json"
+      "sourceFile": "r2-backup/words/zing1coi2-excellent.json"
     },
     {
-      "sentenceId": "zing1coi2-good-performance-example-3",
+      "sentenceId": "zing1coi2-excellent-example-3",
       "sentence": "嗰場籃球比賽好精彩。",
       "jyutping": "go2 coeng4 laam4 kau4 bei2 coi3 hou2 zing1 coi2.",
       "meaning": "That basketball game was very exciting.",
-      "sourceWordId": "zing1coi2-good-performance",
+      "sourceWordId": "zing1coi2-excellent",
       "sourceWord": "精彩",
       "sourceWordJyutping": "zing1 coi2",
       "sourceWordMeaning": "excellent",
@@ -5903,14 +5951,14 @@
         "positive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing1coi2-good-performance.json"
+      "sourceFile": "r2-backup/words/zing1coi2-excellent.json"
     },
     {
-      "sentenceId": "zing1coi2-good-performance-example-4",
+      "sentenceId": "zing1coi2-excellent-example-4",
       "sentence": "今次演出精彩到爆炸！",
       "jyutping": "gam1 ci3 jin2 ceot1 zing1 coi2 dou3 baau3 zaa3!",
       "meaning": "This performance was explosively excellent!",
-      "sourceWordId": "zing1coi2-good-performance",
+      "sourceWordId": "zing1coi2-excellent",
       "sourceWord": "精彩",
       "sourceWordJyutping": "zing1 coi2",
       "sourceWordMeaning": "excellent",
@@ -5922,7 +5970,7 @@
         "positive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing1coi2-good-performance.json"
+      "sourceFile": "r2-backup/words/zing1coi2-excellent.json"
     },
     {
       "sentenceId": "sing4zik1-result-example-1",
@@ -6385,11 +6433,11 @@
       "sourceFile": "r2-backup/words/zeon3bou6-progress.json"
     },
     {
-      "sentenceId": "lai6hoi6-amazing-example-1",
+      "sentenceId": "lai6hoi6-impressive-example-1",
       "sentence": "你跑咁快，真係好厲害！",
       "jyutping": "nei5 paau2 gam2 faai3, zan1 hai6 hou2 lai6 hoi6!",
       "meaning": "You run so fast, really impressive!",
-      "sourceWordId": "lai6hoi6-amazing",
+      "sourceWordId": "lai6hoi6-impressive",
       "sourceWord": "厲害",
       "sourceWordJyutping": "lai6 hoi6",
       "sourceWordMeaning": "impressive",
@@ -6401,14 +6449,14 @@
         "impressive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lai6hoi6-amazing.json"
+      "sourceFile": "r2-backup/words/lai6hoi6-impressive.json"
     },
     {
-      "sentenceId": "lai6hoi6-amazing-example-2",
+      "sentenceId": "lai6hoi6-impressive-example-2",
       "sentence": "佢打籃球好厲害，攞過好多獎。",
       "jyutping": "keoi5 daa2 laam4 kau4 hou2 lai6 hoi6, lo2 gwo3 hou2 do1 zoeng2.",
       "meaning": "He plays basketball very well and has won many awards.",
-      "sourceWordId": "lai6hoi6-amazing",
+      "sourceWordId": "lai6hoi6-impressive",
       "sourceWord": "厲害",
       "sourceWordJyutping": "lai6 hoi6",
       "sourceWordMeaning": "impressive",
@@ -6420,14 +6468,14 @@
         "impressive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lai6hoi6-amazing.json"
+      "sourceFile": "r2-backup/words/lai6hoi6-impressive.json"
     },
     {
-      "sentenceId": "lai6hoi6-amazing-example-3",
+      "sentenceId": "lai6hoi6-impressive-example-3",
       "sentence": "今次比賽你嘅表現真係非常厲害！",
       "jyutping": "gam1 ci3 bei2 coi3 nei5 ge3 biu2 jin2 zan1 hai6 fei1 soeng4 lai6 hoi6!",
       "meaning": "Your performance in this tournament is truly impressive!",
-      "sourceWordId": "lai6hoi6-amazing",
+      "sourceWordId": "lai6hoi6-impressive",
       "sourceWord": "厲害",
       "sourceWordJyutping": "lai6 hoi6",
       "sourceWordMeaning": "impressive",
@@ -6439,14 +6487,14 @@
         "impressive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lai6hoi6-amazing.json"
+      "sourceFile": "r2-backup/words/lai6hoi6-impressive.json"
     },
     {
-      "sentenceId": "lai6hoi6-amazing-example-4",
+      "sentenceId": "lai6hoi6-impressive-example-4",
       "sentence": "呢個招數好厲害，可以輕易打倒對手。",
       "jyutping": "ni1 go3 ziu1 sou3 hou2 lai6 hoi6, ho2 ji5 heng1 ji6 daa2 dou2 deoi3 sau2.",
       "meaning": "This move is very powerful and can easily defeat the opponent.",
-      "sourceWordId": "lai6hoi6-amazing",
+      "sourceWordId": "lai6hoi6-impressive",
       "sourceWord": "厲害",
       "sourceWordJyutping": "lai6 hoi6",
       "sourceWordMeaning": "impressive",
@@ -6458,10 +6506,10 @@
         "impressive",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lai6hoi6-amazing.json"
+      "sourceFile": "r2-backup/words/lai6hoi6-impressive.json"
     }
   ],
   "missingWordFiles": [
-    "ci3-time-occurrence"
+    "caai2waat6baan2-skateboard"
   ]
 }

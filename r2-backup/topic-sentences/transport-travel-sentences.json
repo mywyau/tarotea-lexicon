@@ -1058,76 +1058,76 @@
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-1",
-      "sentence": "我喺巴士站等巴士。",
-      "jyutping": "ngo5 hai2 baa1 si2 zaam6 dang2 baa1 si2",
-      "meaning": "I am waiting for the bus at the bus stop.",
+      "sentence": "我喺巴士站等緊車。",
+      "jyutping": "ngo5 hai2 baa1 si2 zaam6 dang2 gan2 ce1",
+      "meaning": "I'm waiting for the bus at the bus stop.",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-2",
-      "sentence": "巴士站好多人。",
-      "jyutping": "baa1 si2 zaam6 hou2 do1 jan4",
-      "meaning": "There are many people at the bus stop.",
+      "sentence": "巴士站喺前面。",
+      "jyutping": "baa1 si2 zaam6 hai2 cin4 min6",
+      "meaning": "The bus stop is in front.",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-3",
-      "sentence": "最近嘅巴士站喺邊度？",
-      "jyutping": "jeui3 gan6 ge3 baa1 si2 zaam6 hai2 bin1 dou6?",
-      "meaning": "Where is the nearest bus stop?",
+      "sentence": "你知唔知最近嘅巴士站喺邊？",
+      "jyutping": "nei5 zi1 m4 zi1 zeoi3 gan6 ge3 baa1 si2 zaam6 hai2 bin1",
+      "meaning": "Do you know where the nearest bus stop is?",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"
     },
     {
       "sentenceId": "baa1si2zaam6-bus-stop-example-4",
-      "sentence": "我哋喺地鐵站轉車去巴士站。",
-      "jyutping": "ngo5 dei6 hai2 dei6 tit3 zaam6 zyun2 ce1 heoi3 baa1 si2 zaam6",
-      "meaning": "We change at the MTR station to go to the bus stop.",
+      "sentence": "落車之後行兩分鐘就到巴士站。",
+      "jyutping": "lok6 ce1 zi1 hau6 haang4 loeng5 fan1 zung1 zau6 dou3 baa1 si2 zaam6",
+      "meaning": "After getting off, it's a two-minute walk to the bus stop.",
       "sourceWordId": "baa1si2zaam6-bus-stop",
       "sourceWord": "巴士站",
       "sourceWordJyutping": "baa1 si2 zaam6",
       "sourceWordMeaning": "bus stop",
       "tags": [
         "transport",
+        "place",
+        "daily life",
+        "beginner",
         "public transport",
-        "bus",
-        "places",
-        "travel",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/baa1si2zaam6-bus-stop.json"
@@ -2197,11 +2197,11 @@
       "sourceFile": "r2-backup/words/loi4wui4piu3-return-ticket.json"
     },
     {
-      "sentenceId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-1",
+      "sentenceId": "jyut6piu3-monthly-pass-example-1",
       "sentence": "我買咗張月票坐巴士。",
       "jyutping": "ngo5 maai5 zo2 zoeng1 jyut6 piu3 co5 baa1 si2.",
       "meaning": "I bought a monthly pass to take the bus.",
-      "sourceWordId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass",
+      "sourceWordId": "jyut6piu3-monthly-pass",
       "sourceWord": "月票",
       "sourceWordJyutping": "jyut6 piu3",
       "sourceWordMeaning": "monthly pass",
@@ -2213,14 +2213,14 @@
         "payment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyut6piu3-monthly-m4goi1loeng5zoeng1pass.json"
+      "sourceFile": "r2-backup/words/jyut6piu3-monthly-pass.json"
     },
     {
-      "sentenceId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-2",
+      "sentenceId": "jyut6piu3-monthly-pass-example-2",
       "sentence": "月票幾錢？",
       "jyutping": "jyut6 piu3 gei2 cin2?",
       "meaning": "How much is the monthly pass?",
-      "sourceWordId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass",
+      "sourceWordId": "jyut6piu3-monthly-pass",
       "sourceWord": "月票",
       "sourceWordJyutping": "jyut6 piu3",
       "sourceWordMeaning": "monthly pass",
@@ -2232,14 +2232,14 @@
         "payment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyut6piu3-monthly-m4goi1loeng5zoeng1pass.json"
+      "sourceFile": "r2-backup/words/jyut6piu3-monthly-pass.json"
     },
     {
-      "sentenceId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-3",
+      "sentenceId": "jyut6piu3-monthly-pass-example-3",
       "sentence": "用月票可以坐晒地鐵。",
       "jyutping": "jung6 jyut6 piu3 ho2 ji5 co5 saai3 dei6 tit3.",
       "meaning": "You can use the monthly pass to take the MTR as much as you want.",
-      "sourceWordId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass",
+      "sourceWordId": "jyut6piu3-monthly-pass",
       "sourceWord": "月票",
       "sourceWordJyutping": "jyut6 piu3",
       "sourceWordMeaning": "monthly pass",
@@ -2251,14 +2251,14 @@
         "payment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyut6piu3-monthly-m4goi1loeng5zoeng1pass.json"
+      "sourceFile": "r2-backup/words/jyut6piu3-monthly-pass.json"
     },
     {
-      "sentenceId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass-example-4",
+      "sentenceId": "jyut6piu3-monthly-pass-example-4",
       "sentence": "佢嘅月票下個月到期。",
       "jyutping": "keoi5 ge3 jyut6 piu3 haa6 go3 jyut6 dou3 kei4.",
       "meaning": "His monthly pass expires next month.",
-      "sourceWordId": "jyut6piu3-monthly-m4goi1loeng5zoeng1pass",
+      "sourceWordId": "jyut6piu3-monthly-pass",
       "sourceWord": "月票",
       "sourceWordJyutping": "jyut6 piu3",
       "sourceWordMeaning": "monthly pass",
@@ -2270,7 +2270,7 @@
         "payment",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/jyut6piu3-monthly-m4goi1loeng5zoeng1pass.json"
+      "sourceFile": "r2-backup/words/jyut6piu3-monthly-pass.json"
     },
     {
       "sentenceId": "baat3daat6tung1-octopus-card-example-1",
@@ -3418,155 +3418,159 @@
     },
     {
       "sentenceId": "leoi5hang4-travel-example-1",
-      "sentence": "我下個月想去旅行。",
-      "jyutping": "ngo5 haa6 go3 jyut6 soeng2 heoi3 leoi5 hang4",
-      "meaning": "I want to go traveling next month.",
+      "sentence": "我下個月去日本旅行。",
+      "jyutping": "ngo5 haa6 go3 jyut6 go3 jyut6 heoi3 jat6 bun2 leoi5 hang4.",
+      "meaning": "I’m going to Japan next month for a trip.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
       "sentenceId": "leoi5hang4-travel-example-2",
-      "sentence": "旅行可以幫助放鬆心情。",
-      "jyutping": "leoi5 hang4 ho2 ji5 bong1 zo6 fong3 sung1 sam1 cing4",
-      "meaning": "Traveling can help relax your mood.",
+      "sentence": "佢好鍾意同朋友一齊旅行。",
+      "jyutping": "keoi5 hou2 zung1 ji3 tung4 pang4 jau5 jat1 cai4 leoi5 hang4.",
+      "meaning": "He really likes travelling with friends.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
       "sentenceId": "leoi5hang4-travel-example-3",
-      "sentence": "佢成日都喺度計劃旅行。",
-      "jyutping": "keoi5 sing4 jat6 dou1 hai2 dou6 gai3 waak6 leoi5 hang4",
-      "meaning": "He is always planning trips.",
+      "sentence": "暑假我哋計劃去歐洲旅行。",
+      "jyutping": "syu2 gaa3 ngo5 dei6 gai3 waak6 heoi3 au1 zau1 leoi5 hang4.",
+      "meaning": "We’re planning to travel to Europe during the summer holiday.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
       "sentenceId": "leoi5hang4-travel-example-4",
-      "sentence": "我哋嘅旅行好充實。",
-      "jyutping": "ngo5 dei6 ge3 leoi5 hang4 hou2 cung1 sat6",
-      "meaning": "Our trip was very fulfilling.",
+      "sentence": "長途旅行最好早啲準備。",
+      "jyutping": "coeng4 tou4 leoi5 hang4 zeoi3 hou2 zou2 di1 zeon2 bei6.",
+      "meaning": "For long-distance travel, it’s best to prepare early.",
       "sourceWordId": "leoi5hang4-travel",
       "sourceWord": "旅行",
       "sourceWordJyutping": "leoi5 hang4",
       "sourceWordMeaning": "travel",
       "tags": [
+        "hobbies and interests",
+        "outdoor activities",
         "travel",
-        "trip",
         "holiday",
-        "leisure",
-        "transport_travel",
+        "common noun",
+        "everyday Cantonese",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/leoi5hang4-travel.json"
     },
     {
-      "sentenceId": "ceot1mun4-go-out-example-1",
-      "sentence": "我而家要出門買嘢。",
-      "jyutping": "ngo5 ji4 gaa1 jiu3 ceot1 mun4 maai5 je5.",
-      "meaning": "I'm going out now to buy something.",
-      "sourceWordId": "ceot1mun4-go-out",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-1",
+      "sentence": "我八點要出門返工。",
+      "jyutping": "ngo5 baat3 dim2 jiu3 ceot1 mun4 faan1 gung1.",
+      "meaning": "I need to leave home at 8 o'clock to go to work.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
-        "daily use",
+        "daily life",
+        "routine",
         "going out",
-        "travel",
-        "actions",
-        "verb phrase",
+        "work",
+        "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-go-out.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
-      "sentenceId": "ceot1mun4-go-out-example-2",
-      "sentence": "佢朝早出門去返工。",
-      "jyutping": "keoi5 ziu1 zou2 ceot1 mun4 heoi3 faan1 gung1.",
-      "meaning": "He goes out in the morning to go to work.",
-      "sourceWordId": "ceot1mun4-go-out",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-2",
+      "sentence": "出門前記住帶鎖匙。",
+      "jyutping": "ceot1 mun4 cin4 gei3 zyu6 daai3 so2 si4.",
+      "meaning": "Remember to bring your keys before going out.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
-        "daily use",
+        "daily life",
+        "routine",
         "going out",
-        "travel",
-        "actions",
-        "verb phrase",
+        "work",
+        "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-go-out.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
-      "sentenceId": "ceot1mun4-go-out-example-3",
-      "sentence": "出門記住帶口罩。",
-      "jyutping": "ceot1 mun4 gei3 zyu6 daai3 hau2 zaau3.",
-      "meaning": "Remember to bring a mask when you go out.",
-      "sourceWordId": "ceot1mun4-go-out",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-3",
+      "sentence": "天氣咁凍，出門要著多件衫。",
+      "jyutping": "tin1 hei3 gam3 dung3, ceot1 mun4 jiu3 zoek3 do1 gin6 saam1.",
+      "meaning": "It's so cold, so you need to wear an extra layer when going out.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
-        "daily use",
+        "daily life",
+        "routine",
         "going out",
-        "travel",
-        "actions",
-        "verb phrase",
+        "work",
+        "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-go-out.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
-      "sentenceId": "ceot1mun4-go-out-example-4",
-      "sentence": "我聽日打算出門旅行。",
-      "jyutping": "ngo5 teng1 jat6 daa2 syun3 ceot1 mun4 leoi5 hang4.",
-      "meaning": "I plan to go out for a trip tomorrow.",
-      "sourceWordId": "ceot1mun4-go-out",
+      "sentenceId": "ceot1mun4-to-go-out-to-leave-home-example-4",
+      "sentence": "我每日朝早七點半就出門。",
+      "jyutping": "ngo5 mui5 jat6 ziu1 zou2 cat1 dim2 bun3 zau6 ceot1 mun4.",
+      "meaning": "I leave home at 7:30 every morning.",
+      "sourceWordId": "ceot1mun4-to-go-out-to-leave-home",
       "sourceWord": "出門",
       "sourceWordJyutping": "ceot1 mun4",
-      "sourceWordMeaning": "go out",
+      "sourceWordMeaning": "to go out; to leave home",
       "tags": [
-        "daily use",
+        "daily life",
+        "routine",
         "going out",
-        "travel",
-        "actions",
-        "verb phrase",
+        "work",
+        "school",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ceot1mun4-go-out.json"
+      "sourceFile": "r2-backup/words/ceot1mun4-to-go-out-to-leave-home.json"
     },
     {
       "sentenceId": "gei1coeng4-airport-example-1",
@@ -3817,9 +3821,9 @@
     },
     {
       "sentenceId": "cim1zing3-visa-example-2",
-      "sentence": "去旅行前，要記得攞簽證。",
-      "jyutping": "heoi3 leoi5 hang4 cin4, jiu3 gei3 dak1 lo2 cim1 zing3.",
-      "meaning": "Before traveling, remember to get a visa.",
+      "sentence": "去旅行之前，要記得申請簽證。",
+      "jyutping": "heoi3 leoi5 hang4 zi1 cin4, jiu3 gei3 dak1 san1 cing2 cim1 zing3.",
+      "meaning": "Before traveling, remember to apply for a visa.",
       "sourceWordId": "cim1zing3-visa",
       "sourceWord": "簽證",
       "sourceWordJyutping": "cim1 zing3",
@@ -3838,7 +3842,7 @@
       "sentenceId": "cim1zing3-visa-example-3",
       "sentence": "佢張簽證快過期喇！",
       "jyutping": "keoi5 zoeng1 cim1 zing3 faai3 gwo3 kei4 laa3!",
-      "meaning": "His visa is expiring soon!",
+      "meaning": "His visa is about to expire!",
       "sourceWordId": "cim1zing3-visa",
       "sourceWord": "簽證",
       "sourceWordJyutping": "cim1 zing3",
@@ -4481,11 +4485,11 @@
       "sourceFile": "r2-backup/words/lou6-road.json"
     },
     {
-      "sentenceId": "maa5lou6-street-road-example-1",
+      "sentenceId": "maa5lou6-street-example-1",
       "sentence": "我行喺條馬路度。",
       "jyutping": "ngo5 haang4 hai2 tiu4 maa5 lou6 dou6.",
       "meaning": "I am walking on the street.",
-      "sourceWordId": "maa5lou6-street-road",
+      "sourceWordId": "maa5lou6-street",
       "sourceWord": "馬路",
       "sourceWordJyutping": "maa5 lou6",
       "sourceWordMeaning": "street",
@@ -4498,14 +4502,14 @@
         "street",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maa5lou6-street-road.json"
+      "sourceFile": "r2-backup/words/maa5lou6-street.json"
     },
     {
-      "sentenceId": "maa5lou6-street-road-example-2",
+      "sentenceId": "maa5lou6-street-example-2",
       "sentence": "呢條馬路好窄。",
       "jyutping": "ni1 tiu4 maa5 lou6 hou2 zaak3.",
       "meaning": "This street is very narrow.",
-      "sourceWordId": "maa5lou6-street-road",
+      "sourceWordId": "maa5lou6-street",
       "sourceWord": "馬路",
       "sourceWordJyutping": "maa5 lou6",
       "sourceWordMeaning": "street",
@@ -4518,14 +4522,14 @@
         "street",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maa5lou6-street-road.json"
+      "sourceFile": "r2-backup/words/maa5lou6-street.json"
     },
     {
-      "sentenceId": "maa5lou6-street-road-example-3",
+      "sentenceId": "maa5lou6-street-example-3",
       "sentence": "小心睇住馬路嘅車。",
       "jyutping": "siu2 sam1 tai2 zyu6 maa5 lou6 ge3 ce1.",
       "meaning": "Be careful watching out for cars on the street.",
-      "sourceWordId": "maa5lou6-street-road",
+      "sourceWordId": "maa5lou6-street",
       "sourceWord": "馬路",
       "sourceWordJyutping": "maa5 lou6",
       "sourceWordMeaning": "street",
@@ -4538,14 +4542,14 @@
         "street",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maa5lou6-street-road.json"
+      "sourceFile": "r2-backup/words/maa5lou6-street.json"
     },
     {
-      "sentenceId": "maa5lou6-street-road-example-4",
+      "sentenceId": "maa5lou6-street-example-4",
       "sentence": "我哋喺馬路邊食嘢啦。",
       "jyutping": "ngo5 dei6 hai2 maa5 lou6 bin1 sik6 je5 laa1.",
       "meaning": "Let's eat by the side of the street.",
-      "sourceWordId": "maa5lou6-street-road",
+      "sourceWordId": "maa5lou6-street",
       "sourceWord": "馬路",
       "sourceWordJyutping": "maa5 lou6",
       "sourceWordMeaning": "street",
@@ -4558,7 +4562,7 @@
         "street",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/maa5lou6-street-road.json"
+      "sourceFile": "r2-backup/words/maa5lou6-street.json"
     },
     {
       "sentenceId": "gung1lou6-highway-example-1",
@@ -5245,11 +5249,11 @@
       "sourceFile": "r2-backup/words/on1cyun4daai2-seat-belt.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-1",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-1",
       "sentence": "我哋假期會去旅行。",
       "jyutping": "ngo5 dei6 gaa3 kei4 wui5 heoi3 leoi5 hang4.",
       "meaning": "We will travel during the holiday.",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -5261,14 +5265,14 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-2",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-2",
       "sentence": "今年個假期好短。",
       "jyutping": "gam1 nin4 go3 gaa3 kei4 hou2 dyun2.",
       "meaning": "This year's holiday is very short.",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -5280,14 +5284,14 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-3",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-3",
       "sentence": "假期我會休息。",
       "jyutping": "gaa3 kei4 ngo5 wui5 jau1 sik1.",
       "meaning": "I will rest during the holiday.",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -5299,14 +5303,14 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
-      "sentenceId": "gaa3kei4-holiday-example-4",
+      "sentenceId": "gaa3kei4-holiday-vacation-example-4",
       "sentence": "你假期想做咩？",
       "jyutping": "nei5 gaa3 kei4 soeng2 zou6 me1?",
       "meaning": "What do you want to do during the holiday?",
-      "sourceWordId": "gaa3kei4-holiday",
+      "sourceWordId": "gaa3kei4-holiday-vacation",
       "sourceWord": "假期",
       "sourceWordJyutping": "gaa3 kei4",
       "sourceWordMeaning": "holiday; vacation",
@@ -5318,7 +5322,7 @@
         "break",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3kei4-holiday.json"
+      "sourceFile": "r2-backup/words/gaa3kei4-holiday-vacation.json"
     },
     {
       "sentenceId": "ceot1gwok3-go-abroad-example-1",
@@ -5702,76 +5706,76 @@
     },
     {
       "sentenceId": "zau2dim3-hotel-example-1",
-      "sentence": "我今晚住喺個酒店。",
-      "jyutping": "ngo5 gam1 maan5 zyu6 hai2 go3 zau2 dim3.",
-      "meaning": "I am staying at the hotel tonight.",
+      "sentence": "我哋今晚住酒店。",
+      "jyutping": "ngo5 dei6 gam1 maan5 zyu6 zau2 dim3.",
+      "meaning": "We are staying at a hotel tonight.",
       "sourceWordId": "zau2dim3-hotel",
       "sourceWord": "酒店",
       "sourceWordJyutping": "zau2 dim3",
       "sourceWordMeaning": "hotel",
       "tags": [
-        "travel",
         "accommodation",
-        "lodging",
-        "basic vocabulary",
-        "transport_travel",
+        "travel",
+        "building",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/zau2dim3-hotel.json"
     },
     {
       "sentenceId": "zau2dim3-hotel-example-2",
-      "sentence": "你訂咗酒店未？",
-      "jyutping": "nei5 deng6 zo2 zau2 dim3 mei6?",
-      "meaning": "Have you booked the hotel yet?",
+      "sentence": "呢間酒店好近地鐵站。",
+      "jyutping": "ni1 gaan1 zau2 dim3 hou2 gan6 dei6 tit3 zaam6.",
+      "meaning": "This hotel is very close to the MTR station.",
       "sourceWordId": "zau2dim3-hotel",
       "sourceWord": "酒店",
       "sourceWordJyutping": "zau2 dim3",
       "sourceWordMeaning": "hotel",
       "tags": [
-        "travel",
         "accommodation",
-        "lodging",
-        "basic vocabulary",
-        "transport_travel",
+        "travel",
+        "building",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/zau2dim3-hotel.json"
     },
     {
       "sentenceId": "zau2dim3-hotel-example-3",
-      "sentence": "呢間酒店好貴。",
-      "jyutping": "ni1 gaan1 zau2 dim3 hou2 gwai3.",
-      "meaning": "This hotel is expensive.",
+      "sentence": "佢喺酒店做經理。",
+      "jyutping": "keoi5 hai2 zau2 dim3 zou6 ging1 lei5.",
+      "meaning": "He works as a manager at a hotel.",
       "sourceWordId": "zau2dim3-hotel",
       "sourceWord": "酒店",
       "sourceWordJyutping": "zau2 dim3",
       "sourceWordMeaning": "hotel",
       "tags": [
-        "travel",
         "accommodation",
-        "lodging",
-        "basic vocabulary",
-        "transport_travel",
+        "travel",
+        "building",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/zau2dim3-hotel.json"
     },
     {
       "sentenceId": "zau2dim3-hotel-example-4",
-      "sentence": "酒店門口有的士站。",
-      "jyutping": "zau2 dim3 mun4 hau2 jau5 dik1 si2 zaam6.",
-      "meaning": "There is a taxi stand at the hotel entrance.",
+      "sentence": "我已經喺酒店訂咗房。",
+      "jyutping": "ngo5 ji5 ging1 hai2 zau2 dim3 deng3 zo2 fong2.",
+      "meaning": "I have already booked a room at the hotel.",
       "sourceWordId": "zau2dim3-hotel",
       "sourceWord": "酒店",
       "sourceWordJyutping": "zau2 dim3",
       "sourceWordMeaning": "hotel",
       "tags": [
-        "travel",
         "accommodation",
-        "lodging",
-        "basic vocabulary",
-        "transport_travel",
+        "travel",
+        "building",
+        "everyday",
+        "beginner",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/zau2dim3-hotel.json"

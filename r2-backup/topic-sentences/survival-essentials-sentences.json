@@ -5,11 +5,11 @@
   "totalSentences": 113,
   "items": [
     {
-      "sentenceId": "ci3so2-toilet-example-1",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-1",
       "sentence": "你知唔知道廁所喺邊？",
       "jyutping": "nei5 zi1 m4 zi1 dou3 ci3 so2 hai2 bin1?",
       "meaning": "Do you know where the toilet is?",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -21,14 +21,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
-      "sentenceId": "ci3so2-toilet-example-2",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-2",
       "sentence": "我哋要去廁所洗手先。",
       "jyutping": "ngo5 dei6 jiu3 heoi3 ci3 so2 sai2 sau2 sin1.",
       "meaning": "We need to go to the toilet to wash our hands first.",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -40,14 +40,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
-      "sentenceId": "ci3so2-toilet-example-3",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-3",
       "sentence": "公司啲廁所幾乾淨。",
       "jyutping": "gung1 si1 di1 ci3 so2 gei2 gon1 zeng6.",
       "meaning": "The office toilets are quite clean.",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -59,14 +59,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
-      "sentenceId": "ci3so2-toilet-example-4",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-4",
       "sentence": "佢去咗公眾廁所。",
       "jyutping": "keoi5 heoi3 zo2 gung1 zung3 ci3 so2.",
       "meaning": "He went to the public toilet.",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -78,14 +78,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
-      "sentenceId": "sai2sau2gaan1-bathroom-example-1",
+      "sentenceId": "sai2sau2gaan1-bathroom-toilet-example-1",
       "sentence": "洗手間喺邊度？",
       "jyutping": "sai2 sau2 gaan1 hai2 bin1 dou6",
       "meaning": "Where is the bathroom?",
-      "sourceWordId": "sai2sau2gaan1-bathroom",
+      "sourceWordId": "sai2sau2gaan1-bathroom-toilet",
       "sourceWord": "洗手間",
       "sourceWordJyutping": "sai2 sau2 gaan1",
       "sourceWordMeaning": "bathroom / toilet",
@@ -96,14 +96,14 @@
         "polite",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom.json"
+      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom-toilet.json"
     },
     {
-      "sentenceId": "sai2sau2gaan1-bathroom-example-2",
+      "sentenceId": "sai2sau2gaan1-bathroom-toilet-example-2",
       "sentence": "唔好意思，洗手間喺邊度？",
       "jyutping": "m4 hou2 ji3 si3, sai2 sau2 gaan1 hai2 bin1 dou6",
       "meaning": "Excuse me, where is the bathroom?",
-      "sourceWordId": "sai2sau2gaan1-bathroom",
+      "sourceWordId": "sai2sau2gaan1-bathroom-toilet",
       "sourceWord": "洗手間",
       "sourceWordJyutping": "sai2 sau2 gaan1",
       "sourceWordMeaning": "bathroom / toilet",
@@ -114,14 +114,14 @@
         "polite",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom.json"
+      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom-toilet.json"
     },
     {
-      "sentenceId": "sai2sau2gaan1-bathroom-example-3",
+      "sentenceId": "sai2sau2gaan1-bathroom-toilet-example-3",
       "sentence": "呢度有冇洗手間？",
       "jyutping": "ni1 dou6 jau5 mou5 sai2 sau2 gaan1",
       "meaning": "Is there a bathroom here?",
-      "sourceWordId": "sai2sau2gaan1-bathroom",
+      "sourceWordId": "sai2sau2gaan1-bathroom-toilet",
       "sourceWord": "洗手間",
       "sourceWordJyutping": "sai2 sau2 gaan1",
       "sourceWordMeaning": "bathroom / toilet",
@@ -132,14 +132,14 @@
         "polite",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom.json"
+      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom-toilet.json"
     },
     {
-      "sentenceId": "sai2sau2gaan1-bathroom-example-4",
+      "sentenceId": "sai2sau2gaan1-bathroom-toilet-example-4",
       "sentence": "可唔可以用洗手間？",
       "jyutping": "ho2 m4 ho2 ji5 jung6 sai2 sau2 gaan1",
       "meaning": "Can I use the bathroom?",
-      "sourceWordId": "sai2sau2gaan1-bathroom",
+      "sourceWordId": "sai2sau2gaan1-bathroom-toilet",
       "sourceWord": "洗手間",
       "sourceWordJyutping": "sai2 sau2 gaan1",
       "sourceWordMeaning": "bathroom / toilet",
@@ -150,14 +150,14 @@
         "polite",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom.json"
+      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom-toilet.json"
     },
     {
-      "sentenceId": "sai2sau2gaan1-bathroom-example-5",
+      "sentenceId": "sai2sau2gaan1-bathroom-toilet-example-5",
       "sentence": "我想去洗手間。",
       "jyutping": "ngo5 soeng2 heoi3 sai2 sau2 gaan1",
       "meaning": "I want to go to the bathroom.",
-      "sourceWordId": "sai2sau2gaan1-bathroom",
+      "sourceWordId": "sai2sau2gaan1-bathroom-toilet",
       "sourceWord": "洗手間",
       "sourceWordJyutping": "sai2 sau2 gaan1",
       "sourceWordMeaning": "bathroom / toilet",
@@ -168,14 +168,14 @@
         "polite",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom.json"
+      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom-toilet.json"
     },
     {
-      "sentenceId": "sai2sau2gaan1-bathroom-example-6",
+      "sentenceId": "sai2sau2gaan1-bathroom-toilet-example-6",
       "sentence": "洗手間鎖咗。",
       "jyutping": "sai2 sau2 gaan1 so2 zo2",
       "meaning": "The bathroom is locked.",
-      "sourceWordId": "sai2sau2gaan1-bathroom",
+      "sourceWordId": "sai2sau2gaan1-bathroom-toilet",
       "sourceWord": "洗手間",
       "sourceWordJyutping": "sai2 sau2 gaan1",
       "sourceWordMeaning": "bathroom / toilet",
@@ -186,14 +186,14 @@
         "polite",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom.json"
+      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom-toilet.json"
     },
     {
-      "sentenceId": "sai2sau2gaan1-bathroom-example-7",
+      "sentenceId": "sai2sau2gaan1-bathroom-toilet-example-7",
       "sentence": "洗手間喺入面。",
       "jyutping": "sai2 sau2 gaan1 hai2 jap6 min6",
       "meaning": "The bathroom is inside.",
-      "sourceWordId": "sai2sau2gaan1-bathroom",
+      "sourceWordId": "sai2sau2gaan1-bathroom-toilet",
       "sourceWord": "洗手間",
       "sourceWordJyutping": "sai2 sau2 gaan1",
       "sourceWordMeaning": "bathroom / toilet",
@@ -204,14 +204,14 @@
         "polite",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom.json"
+      "sourceFile": "r2-backup/words/sai2sau2gaan1-bathroom-toilet.json"
     },
     {
-      "sentenceId": "gap1-urgent-example-1",
+      "sentenceId": "gap1-urgent-in-a-hurry-example-1",
       "sentence": "有啲急。",
       "jyutping": "jau5 di1 gap1",
       "meaning": "It’s a bit urgent.",
-      "sourceWordId": "gap1-urgent",
+      "sourceWordId": "gap1-urgent-in-a-hurry",
       "sourceWord": "急",
       "sourceWordJyutping": "gap1",
       "sourceWordMeaning": "urgent / in a hurry",
@@ -221,14 +221,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gap1-urgent.json"
+      "sourceFile": "r2-backup/words/gap1-urgent-in-a-hurry.json"
     },
     {
-      "sentenceId": "gap1-urgent-example-2",
+      "sentenceId": "gap1-urgent-in-a-hurry-example-2",
       "sentence": "我好急。",
       "jyutping": "ngo5 hou2 gap1",
       "meaning": "I’m in a real hurry.",
-      "sourceWordId": "gap1-urgent",
+      "sourceWordId": "gap1-urgent-in-a-hurry",
       "sourceWord": "急",
       "sourceWordJyutping": "gap1",
       "sourceWordMeaning": "urgent / in a hurry",
@@ -238,14 +238,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gap1-urgent.json"
+      "sourceFile": "r2-backup/words/gap1-urgent-in-a-hurry.json"
     },
     {
-      "sentenceId": "gap1-urgent-example-3",
+      "sentenceId": "gap1-urgent-in-a-hurry-example-3",
       "sentence": "我有急事。",
       "jyutping": "ngo5 jau5 gap1 si6",
       "meaning": "I have an urgent matter.",
-      "sourceWordId": "gap1-urgent",
+      "sourceWordId": "gap1-urgent-in-a-hurry",
       "sourceWord": "急",
       "sourceWordJyutping": "gap1",
       "sourceWordMeaning": "urgent / in a hurry",
@@ -255,14 +255,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gap1-urgent.json"
+      "sourceFile": "r2-backup/words/gap1-urgent-in-a-hurry.json"
     },
     {
-      "sentenceId": "gap1-urgent-example-4",
+      "sentenceId": "gap1-urgent-in-a-hurry-example-4",
       "sentence": "好急，要即刻走。",
       "jyutping": "hou2 gap1, jiu3 zik1 hak1 zau2",
       "meaning": "It’s very urgent, I need to go right now.",
-      "sourceWordId": "gap1-urgent",
+      "sourceWordId": "gap1-urgent-in-a-hurry",
       "sourceWord": "急",
       "sourceWordJyutping": "gap1",
       "sourceWordMeaning": "urgent / in a hurry",
@@ -272,14 +272,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gap1-urgent.json"
+      "sourceFile": "r2-backup/words/gap1-urgent-in-a-hurry.json"
     },
     {
-      "sentenceId": "gap1-urgent-example-5",
+      "sentenceId": "gap1-urgent-in-a-hurry-example-5",
       "sentence": "唔好意思，我好急。",
       "jyutping": "m4 hou2 ji3 si3, ngo5 hou2 gap1",
       "meaning": "Sorry, I’m in a real hurry.",
-      "sourceWordId": "gap1-urgent",
+      "sourceWordId": "gap1-urgent-in-a-hurry",
       "sourceWord": "急",
       "sourceWordJyutping": "gap1",
       "sourceWordMeaning": "urgent / in a hurry",
@@ -289,7 +289,7 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gap1-urgent.json"
+      "sourceFile": "r2-backup/words/gap1-urgent-in-a-hurry.json"
     },
     {
       "sentenceId": "gap1si6-urgent-matter-example-2",
@@ -551,11 +551,11 @@
       "sourceFile": "r2-backup/words/ci3zi2-toilet-paper.json"
     },
     {
-      "sentenceId": "sai2sau2-wash-hands-example-1",
+      "sentenceId": "sai2sau2-to-wash-hands-example-1",
       "sentence": "去洗手。",
       "jyutping": "heoi3 sai2 sau2",
       "meaning": "Go wash your hands.",
-      "sourceWordId": "sai2sau2-wash-hands",
+      "sourceWordId": "sai2sau2-to-wash-hands",
       "sourceWord": "洗手",
       "sourceWordJyutping": "sai2 sau2",
       "sourceWordMeaning": "to wash hands",
@@ -565,14 +565,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2-wash-hands.json"
+      "sourceFile": "r2-backup/words/sai2sau2-to-wash-hands.json"
     },
     {
-      "sentenceId": "sai2sau2-wash-hands-example-2",
+      "sentenceId": "sai2sau2-to-wash-hands-example-2",
       "sentence": "洗完手未？",
       "jyutping": "sai2 jyun4 sau2 mei6",
       "meaning": "Have you finished washing your hands?",
-      "sourceWordId": "sai2sau2-wash-hands",
+      "sourceWordId": "sai2sau2-to-wash-hands",
       "sourceWord": "洗手",
       "sourceWordJyutping": "sai2 sau2",
       "sourceWordMeaning": "to wash hands",
@@ -582,14 +582,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2-wash-hands.json"
+      "sourceFile": "r2-backup/words/sai2sau2-to-wash-hands.json"
     },
     {
-      "sentenceId": "sai2sau2-wash-hands-example-3",
+      "sentenceId": "sai2sau2-to-wash-hands-example-3",
       "sentence": "用洗手液洗手。",
       "jyutping": "jung6 sai2 sau2 jik6 sai2 sau2",
       "meaning": "Wash your hands with hand soap.",
-      "sourceWordId": "sai2sau2-wash-hands",
+      "sourceWordId": "sai2sau2-to-wash-hands",
       "sourceWord": "洗手",
       "sourceWordJyutping": "sai2 sau2",
       "sourceWordMeaning": "to wash hands",
@@ -599,14 +599,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2-wash-hands.json"
+      "sourceFile": "r2-backup/words/sai2sau2-to-wash-hands.json"
     },
     {
-      "sentenceId": "sai2sau2-wash-hands-example-4",
+      "sentenceId": "sai2sau2-to-wash-hands-example-4",
       "sentence": "食飯前記得洗手。",
       "jyutping": "sik6 faan6 cin4 gei3 dak1 sai2 sau2",
       "meaning": "Remember to wash your hands before eating.",
-      "sourceWordId": "sai2sau2-wash-hands",
+      "sourceWordId": "sai2sau2-to-wash-hands",
       "sourceWord": "洗手",
       "sourceWordJyutping": "sai2 sau2",
       "sourceWordMeaning": "to wash hands",
@@ -616,14 +616,14 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2-wash-hands.json"
+      "sourceFile": "r2-backup/words/sai2sau2-to-wash-hands.json"
     },
     {
-      "sentenceId": "sai2sau2-wash-hands-example-5",
+      "sentenceId": "sai2sau2-to-wash-hands-example-5",
       "sentence": "洗手間喺入面，可以去洗手。",
       "jyutping": "sai2 sau2 gaan1 hai2 jap6 min6, ho2 ji5 heoi3 sai2 sau2",
       "meaning": "The bathroom is inside, you can go wash your hands.",
-      "sourceWordId": "sai2sau2-wash-hands",
+      "sourceWordId": "sai2sau2-to-wash-hands",
       "sourceWord": "洗手",
       "sourceWordJyutping": "sai2 sau2",
       "sourceWordMeaning": "to wash hands",
@@ -633,7 +633,7 @@
         "core",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/sai2sau2-wash-hands.json"
+      "sourceFile": "r2-backup/words/sai2sau2-to-wash-hands.json"
     },
     {
       "sentenceId": "sai2sau2jik6-hand-soap-example-1",
@@ -708,11 +708,11 @@
       "sourceFile": "r2-backup/words/sai2sau2jik6-hand-soap.json"
     },
     {
-      "sentenceId": "m4hou2ji3si3-excuse-me-example-1",
+      "sentenceId": "m4hou2ji3si3-excuse-me-sorry-polite-example-1",
       "sentence": "唔好意思，請問呢度點行？",
       "jyutping": "m4 hou2 ji3 si3, ceng2 man6 ni1 dou6 dim2 haang4",
       "meaning": "Excuse me, how do I get there from here?",
-      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWordId": "m4hou2ji3si3-excuse-me-sorry-polite",
       "sourceWord": "唔好意思",
       "sourceWordJyutping": "m4 hou2 ji3 si3",
       "sourceWordMeaning": "excuse me / sorry (polite)",
@@ -725,14 +725,14 @@
         "conversation",
         "excuse"
       ],
-      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me-sorry-polite.json"
     },
     {
-      "sentenceId": "m4hou2ji3si3-excuse-me-example-2",
+      "sentenceId": "m4hou2ji3si3-excuse-me-sorry-polite-example-2",
       "sentence": "唔好意思，我打擾你一下。",
       "jyutping": "m4 hou2 ji3 si3, ngo5 daa2 jiu2 nei5 jat1 haa5",
       "meaning": "Sorry to bother you for a moment.",
-      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWordId": "m4hou2ji3si3-excuse-me-sorry-polite",
       "sourceWord": "唔好意思",
       "sourceWordJyutping": "m4 hou2 ji3 si3",
       "sourceWordMeaning": "excuse me / sorry (polite)",
@@ -745,14 +745,14 @@
         "conversation",
         "excuse"
       ],
-      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me-sorry-polite.json"
     },
     {
-      "sentenceId": "m4hou2ji3si3-excuse-me-example-3",
+      "sentenceId": "m4hou2ji3si3-excuse-me-sorry-polite-example-3",
       "sentence": "唔好意思，我唔記得咗。",
       "jyutping": "m4 hou2 ji3 si3, ngo5 m4 gei3 dak1 zo2",
       "meaning": "Sorry, I forgot.",
-      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWordId": "m4hou2ji3si3-excuse-me-sorry-polite",
       "sourceWord": "唔好意思",
       "sourceWordJyutping": "m4 hou2 ji3 si3",
       "sourceWordMeaning": "excuse me / sorry (polite)",
@@ -765,14 +765,14 @@
         "conversation",
         "excuse"
       ],
-      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me-sorry-polite.json"
     },
     {
-      "sentenceId": "m4hou2ji3si3-excuse-me-example-4",
+      "sentenceId": "m4hou2ji3si3-excuse-me-sorry-polite-example-4",
       "sentence": "唔好意思，麻煩你幫幫手。",
       "jyutping": "m4 hou2 ji3 si3, maa4 fan4 nei5 bong1 bong1 sau2",
       "meaning": "Excuse me, sorry to trouble you — could you help?",
-      "sourceWordId": "m4hou2ji3si3-excuse-me",
+      "sourceWordId": "m4hou2ji3si3-excuse-me-sorry-polite",
       "sourceWord": "唔好意思",
       "sourceWordJyutping": "m4 hou2 ji3 si3",
       "sourceWordMeaning": "excuse me / sorry (polite)",
@@ -785,90 +785,86 @@
         "conversation",
         "excuse"
       ],
-      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me.json"
+      "sourceFile": "r2-backup/words/m4hou2ji3si3-excuse-me-sorry-polite.json"
     },
     {
-      "sentenceId": "bong1-help-example-1",
-      "sentence": "你可以幫我搬啲嘢嗎？",
-      "jyutping": "nei5 ho2 ji5 bong1 ngo5 bun1 di1 je5 maa3?",
+      "sentenceId": "bong1-help-assist-example-1",
+      "sentence": "你可唔可以幫我搬啲嘢呀？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 bun1 di1 je5 aa3",
       "meaning": "Can you help me move some stuff?",
-      "sourceWordId": "bong1-help",
+      "sourceWordId": "bong1-help-assist",
       "sourceWord": "幫",
       "sourceWordJyutping": "bong1",
-      "sourceWordMeaning": "help",
+      "sourceWordMeaning": "help / assist",
       "tags": [
-        "basic",
         "verb",
-        "daily_use",
-        "helping",
-        "social_actions",
-        "level-1"
+        "level-1",
+        "core",
+        "spoken",
+        "daily-life"
       ],
-      "sourceFile": "r2-backup/words/bong1-help.json"
+      "sourceFile": "r2-backup/words/bong1-help-assist.json"
     },
     {
-      "sentenceId": "bong1-help-example-2",
+      "sentenceId": "bong1-help-assist-example-2",
       "sentence": "佢幫阿媽洗碗。",
-      "jyutping": "keoi5 bong1 aa3 maa1 sai2 wun2.",
-      "meaning": "He helps mom wash the dishes.",
-      "sourceWordId": "bong1-help",
+      "jyutping": "keoi5 bong1 aa3 maa1 sai2 wun2",
+      "meaning": "He helps his mum wash the dishes.",
+      "sourceWordId": "bong1-help-assist",
       "sourceWord": "幫",
       "sourceWordJyutping": "bong1",
-      "sourceWordMeaning": "help",
+      "sourceWordMeaning": "help / assist",
       "tags": [
-        "basic",
         "verb",
-        "daily_use",
-        "helping",
-        "social_actions",
-        "level-1"
+        "level-1",
+        "core",
+        "spoken",
+        "daily-life"
       ],
-      "sourceFile": "r2-backup/words/bong1-help.json"
+      "sourceFile": "r2-backup/words/bong1-help-assist.json"
     },
     {
-      "sentenceId": "bong1-help-example-3",
+      "sentenceId": "bong1-help-assist-example-3",
       "sentence": "我幫你睇下啲文件。",
-      "jyutping": "ngo5 bong1 nei5 tai2 haa5 di1 man4 gin2.",
-      "meaning": "I will help you check the documents.",
-      "sourceWordId": "bong1-help",
+      "jyutping": "ngo5 bong1 nei5 tai2 haa5 di1 man4 gin2",
+      "meaning": "I’ll help you take a look at the documents.",
+      "sourceWordId": "bong1-help-assist",
       "sourceWord": "幫",
       "sourceWordJyutping": "bong1",
-      "sourceWordMeaning": "help",
+      "sourceWordMeaning": "help / assist",
       "tags": [
-        "basic",
         "verb",
-        "daily_use",
-        "helping",
-        "social_actions",
-        "level-1"
+        "level-1",
+        "core",
+        "spoken",
+        "daily-life"
       ],
-      "sourceFile": "r2-backup/words/bong1-help.json"
+      "sourceFile": "r2-backup/words/bong1-help-assist.json"
     },
     {
-      "sentenceId": "bong1-help-example-4",
-      "sentence": "可以幫我開門嗎？",
-      "jyutping": "ho2 ji5 bong1 ngo5 hoi1 mun4 maa3?",
-      "meaning": "Can you help me open the door?",
-      "sourceWordId": "bong1-help",
+      "sentenceId": "bong1-help-assist-example-4",
+      "sentence": "可唔可以幫我開門呀？",
+      "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5 hoi1 mun4 aa3",
+      "meaning": "Could you help me open the door?",
+      "sourceWordId": "bong1-help-assist",
       "sourceWord": "幫",
       "sourceWordJyutping": "bong1",
-      "sourceWordMeaning": "help",
+      "sourceWordMeaning": "help / assist",
       "tags": [
-        "basic",
         "verb",
-        "daily_use",
-        "helping",
-        "social_actions",
-        "level-1"
+        "level-1",
+        "core",
+        "spoken",
+        "daily-life"
       ],
-      "sourceFile": "r2-backup/words/bong1-help.json"
+      "sourceFile": "r2-backup/words/bong1-help-assist.json"
     },
     {
-      "sentenceId": "bong1sau2-help-out-example-1",
+      "sentenceId": "bong1sau2-to-help-give-a-hand-example-1",
       "sentence": "可唔可以幫下手？",
       "jyutping": "ho2 m4 ho2 ji5 bong1 haa5 sau2",
       "meaning": "Can you give me a hand?",
-      "sourceWordId": "bong1sau2-help-out",
+      "sourceWordId": "bong1sau2-to-help-give-a-hand",
       "sourceWord": "幫手",
       "sourceWordJyutping": "bong1 sau2",
       "sourceWordMeaning": "to help / give a hand",
@@ -879,14 +875,14 @@
         "casual",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/bong1sau2-help-out.json"
+      "sourceFile": "r2-backup/words/bong1sau2-to-help-give-a-hand.json"
     },
     {
-      "sentenceId": "bong1sau2-help-out-example-2",
+      "sentenceId": "bong1sau2-to-help-give-a-hand-example-2",
       "sentence": "幫手一下。",
       "jyutping": "bong1 sau2 jat1 haa5",
       "meaning": "Help out for a moment.",
-      "sourceWordId": "bong1sau2-help-out",
+      "sourceWordId": "bong1sau2-to-help-give-a-hand",
       "sourceWord": "幫手",
       "sourceWordJyutping": "bong1 sau2",
       "sourceWordMeaning": "to help / give a hand",
@@ -897,14 +893,14 @@
         "casual",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/bong1sau2-help-out.json"
+      "sourceFile": "r2-backup/words/bong1sau2-to-help-give-a-hand.json"
     },
     {
-      "sentenceId": "bong1sau2-help-out-example-3",
+      "sentenceId": "bong1sau2-to-help-give-a-hand-example-3",
       "sentence": "大家一齊幫手。",
       "jyutping": "daa6 gaa1 jat1 cai4 bong1 sau2",
       "meaning": "Let’s all help out together.",
-      "sourceWordId": "bong1sau2-help-out",
+      "sourceWordId": "bong1sau2-to-help-give-a-hand",
       "sourceWord": "幫手",
       "sourceWordJyutping": "bong1 sau2",
       "sourceWordMeaning": "to help / give a hand",
@@ -915,14 +911,14 @@
         "casual",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/bong1sau2-help-out.json"
+      "sourceFile": "r2-backup/words/bong1sau2-to-help-give-a-hand.json"
     },
     {
-      "sentenceId": "bong1sau2-help-out-example-4",
+      "sentenceId": "bong1sau2-to-help-give-a-hand-example-4",
       "sentence": "多謝你幫手。",
       "jyutping": "do1 ze6 nei5 bong1 sau2",
       "meaning": "Thanks for your help.",
-      "sourceWordId": "bong1sau2-help-out",
+      "sourceWordId": "bong1sau2-to-help-give-a-hand",
       "sourceWord": "幫手",
       "sourceWordJyutping": "bong1 sau2",
       "sourceWordMeaning": "to help / give a hand",
@@ -933,14 +929,14 @@
         "casual",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/bong1sau2-help-out.json"
+      "sourceFile": "r2-backup/words/bong1sau2-to-help-give-a-hand.json"
     },
     {
-      "sentenceId": "gau3ming6-save-my-life-example-1",
+      "sentenceId": "gau3ming6-help-save-me-example-1",
       "sentence": "救命！",
       "jyutping": "gau3 ming6",
       "meaning": "Help!",
-      "sourceWordId": "gau3ming6-save-my-life",
+      "sourceWordId": "gau3ming6-help-save-me",
       "sourceWord": "救命",
       "sourceWordJyutping": "gau3 ming6",
       "sourceWordMeaning": "help! / save me!",
@@ -951,14 +947,14 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-save-my-life.json"
+      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
     },
     {
-      "sentenceId": "gau3ming6-save-my-life-example-2",
+      "sentenceId": "gau3ming6-help-save-me-example-2",
       "sentence": "救命呀！",
       "jyutping": "gau3 ming6 aa3",
       "meaning": "Help!",
-      "sourceWordId": "gau3ming6-save-my-life",
+      "sourceWordId": "gau3ming6-help-save-me",
       "sourceWord": "救命",
       "sourceWordJyutping": "gau3 ming6",
       "sourceWordMeaning": "help! / save me!",
@@ -969,14 +965,14 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-save-my-life.json"
+      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
     },
     {
-      "sentenceId": "gau3ming6-save-my-life-example-3",
+      "sentenceId": "gau3ming6-help-save-me-example-3",
       "sentence": "救命！我受傷！",
       "jyutping": "gau3 ming6, ngo5 sau6 zoeng1",
       "meaning": "Help! I’m injured!",
-      "sourceWordId": "gau3ming6-save-my-life",
+      "sourceWordId": "gau3ming6-help-save-me",
       "sourceWord": "救命",
       "sourceWordJyutping": "gau3 ming6",
       "sourceWordMeaning": "help! / save me!",
@@ -987,14 +983,14 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-save-my-life.json"
+      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
     },
     {
-      "sentenceId": "gau3ming6-save-my-life-example-4",
+      "sentenceId": "gau3ming6-help-save-me-example-4",
       "sentence": "救命！好緊急！",
       "jyutping": "gau3 ming6, hou2 gan2 gap1",
       "meaning": "Help! It’s an emergency!",
-      "sourceWordId": "gau3ming6-save-my-life",
+      "sourceWordId": "gau3ming6-help-save-me",
       "sourceWord": "救命",
       "sourceWordJyutping": "gau3 ming6",
       "sourceWordMeaning": "help! / save me!",
@@ -1005,14 +1001,14 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-save-my-life.json"
+      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
     },
     {
-      "sentenceId": "gau3ming6-save-my-life-example-5",
+      "sentenceId": "gau3ming6-help-save-me-example-5",
       "sentence": "救命！快啲叫救護車！",
       "jyutping": "gau3 ming6, faai3 di1 giu3 gau3 wu6 ce1",
       "meaning": "Help! Call an ambulance!",
-      "sourceWordId": "gau3ming6-save-my-life",
+      "sourceWordId": "gau3ming6-help-save-me",
       "sourceWord": "救命",
       "sourceWordJyutping": "gau3 ming6",
       "sourceWordMeaning": "help! / save me!",
@@ -1023,7 +1019,7 @@
         "emergency",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/gau3ming6-save-my-life.json"
+      "sourceFile": "r2-backup/words/gau3ming6-help-save-me.json"
     },
     {
       "sentenceId": "gan2gap1-emergency-example-1",
@@ -1334,11 +1330,11 @@
       "sourceFile": "r2-backup/words/mai4lou6-lost.json"
     },
     {
-      "sentenceId": "hai2bin1dou6-where-example-2",
+      "sentenceId": "hai2bin1dou6-where-is-it-example-2",
       "sentence": "地鐵站喺邊度？",
       "jyutping": "dei6 tit3 zaam6 hai2 bin1 dou6",
       "meaning": "Where is the MTR station?",
-      "sourceWordId": "hai2bin1dou6-where",
+      "sourceWordId": "hai2bin1dou6-where-is-it",
       "sourceWord": "喺邊度",
       "sourceWordJyutping": "hai2 bin1 dou6",
       "sourceWordMeaning": "where (is it)",
@@ -1349,14 +1345,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/hai2bin1dou6-where.json"
+      "sourceFile": "r2-backup/words/hai2bin1dou6-where-is-it.json"
     },
     {
-      "sentenceId": "hai2bin1dou6-where-example-3",
+      "sentenceId": "hai2bin1dou6-where-is-it-example-3",
       "sentence": "呢個地方喺邊度？",
       "jyutping": "ni1 go3 dei6 fong1 hai2 bin1 dou6",
       "meaning": "Where is this place?",
-      "sourceWordId": "hai2bin1dou6-where",
+      "sourceWordId": "hai2bin1dou6-where-is-it",
       "sourceWord": "喺邊度",
       "sourceWordJyutping": "hai2 bin1 dou6",
       "sourceWordMeaning": "where (is it)",
@@ -1367,14 +1363,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/hai2bin1dou6-where.json"
+      "sourceFile": "r2-backup/words/hai2bin1dou6-where-is-it.json"
     },
     {
-      "sentenceId": "hai2bin1dou6-where-example-4",
+      "sentenceId": "hai2bin1dou6-where-is-it-example-4",
       "sentence": "唔好意思，出口喺邊度？",
       "jyutping": "m4 hou2 ji3 si3, ceot1 hau2 hai2 bin1 dou6",
       "meaning": "Excuse me, where is the exit?",
-      "sourceWordId": "hai2bin1dou6-where",
+      "sourceWordId": "hai2bin1dou6-where-is-it",
       "sourceWord": "喺邊度",
       "sourceWordJyutping": "hai2 bin1 dou6",
       "sourceWordMeaning": "where (is it)",
@@ -1385,14 +1381,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/hai2bin1dou6-where.json"
+      "sourceFile": "r2-backup/words/hai2bin1dou6-where-is-it.json"
     },
     {
-      "sentenceId": "hai2bin1dou6-where-example-5",
+      "sentenceId": "hai2bin1dou6-where-is-it-example-5",
       "sentence": "你知唔知佢喺邊度？",
       "jyutping": "nei5 zi1 m4 zi1 keoi5 hai2 bin1 dou6",
       "meaning": "Do you know where he/she is?",
-      "sourceWordId": "hai2bin1dou6-where",
+      "sourceWordId": "hai2bin1dou6-where-is-it",
       "sourceWord": "喺邊度",
       "sourceWordJyutping": "hai2 bin1 dou6",
       "sourceWordMeaning": "where (is it)",
@@ -1403,14 +1399,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/hai2bin1dou6-where.json"
+      "sourceFile": "r2-backup/words/hai2bin1dou6-where-is-it.json"
     },
     {
-      "sentenceId": "dim2joeng6heoi3-go-how-example-1",
+      "sentenceId": "dim2joeng6heoi3-how-to-get-to-example-1",
       "sentence": "點樣去地鐵站？",
       "jyutping": "dim2 joeng6 heoi3 dei6 tit3 zaam6",
       "meaning": "How do I get to the MTR station?",
-      "sourceWordId": "dim2joeng6heoi3-go-how",
+      "sourceWordId": "dim2joeng6heoi3-how-to-get-to",
       "sourceWord": "點樣去",
       "sourceWordJyutping": "dim2 joeng6 heoi3",
       "sourceWordMeaning": "how to get to",
@@ -1421,14 +1417,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/dim2joeng6heoi3-go-how.json"
+      "sourceFile": "r2-backup/words/dim2joeng6heoi3-how-to-get-to.json"
     },
     {
-      "sentenceId": "dim2joeng6heoi3-go-how-example-2",
+      "sentenceId": "dim2joeng6heoi3-how-to-get-to-example-2",
       "sentence": "點樣去洗手間？",
       "jyutping": "dim2 joeng6 heoi3 sai2 sau2 gaan1",
       "meaning": "How do I get to the bathroom?",
-      "sourceWordId": "dim2joeng6heoi3-go-how",
+      "sourceWordId": "dim2joeng6heoi3-how-to-get-to",
       "sourceWord": "點樣去",
       "sourceWordJyutping": "dim2 joeng6 heoi3",
       "sourceWordMeaning": "how to get to",
@@ -1439,14 +1435,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/dim2joeng6heoi3-go-how.json"
+      "sourceFile": "r2-backup/words/dim2joeng6heoi3-how-to-get-to.json"
     },
     {
-      "sentenceId": "dim2joeng6heoi3-go-how-example-3",
+      "sentenceId": "dim2joeng6heoi3-how-to-get-to-example-3",
       "sentence": "唔好意思，點樣去出口？",
       "jyutping": "m4 hou2 ji3 si3, dim2 joeng6 heoi3 ceot1 hau2",
       "meaning": "Excuse me, how do I get to the exit?",
-      "sourceWordId": "dim2joeng6heoi3-go-how",
+      "sourceWordId": "dim2joeng6heoi3-how-to-get-to",
       "sourceWord": "點樣去",
       "sourceWordJyutping": "dim2 joeng6 heoi3",
       "sourceWordMeaning": "how to get to",
@@ -1457,14 +1453,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/dim2joeng6heoi3-go-how.json"
+      "sourceFile": "r2-backup/words/dim2joeng6heoi3-how-to-get-to.json"
     },
     {
-      "sentenceId": "dim2joeng6heoi3-go-how-example-4",
+      "sentenceId": "dim2joeng6heoi3-how-to-get-to-example-4",
       "sentence": "我想問下，點樣去巴士站？",
       "jyutping": "ngo5 soeng2 man6 haa5, dim2 joeng6 heoi3 baa1 si2 zaam6",
       "meaning": "I want to ask, how do I get to the bus stop?",
-      "sourceWordId": "dim2joeng6heoi3-go-how",
+      "sourceWordId": "dim2joeng6heoi3-how-to-get-to",
       "sourceWord": "點樣去",
       "sourceWordJyutping": "dim2 joeng6 heoi3",
       "sourceWordMeaning": "how to get to",
@@ -1475,14 +1471,14 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/dim2joeng6heoi3-go-how.json"
+      "sourceFile": "r2-backup/words/dim2joeng6heoi3-how-to-get-to.json"
     },
     {
-      "sentenceId": "dim2joeng6heoi3-go-how-example-5",
+      "sentenceId": "dim2joeng6heoi3-how-to-get-to-example-5",
       "sentence": "由呢度點樣去？",
       "jyutping": "jau4 ni1 dou6 dim2 joeng6 heoi3",
       "meaning": "How do I get there from here?",
-      "sourceWordId": "dim2joeng6heoi3-go-how",
+      "sourceWordId": "dim2joeng6heoi3-how-to-get-to",
       "sourceWord": "點樣去",
       "sourceWordJyutping": "dim2 joeng6 heoi3",
       "sourceWordMeaning": "how to get to",
@@ -1493,7 +1489,7 @@
         "directions",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/dim2joeng6heoi3-go-how.json"
+      "sourceFile": "r2-backup/words/dim2joeng6heoi3-how-to-get-to.json"
     },
     {
       "sentenceId": "ming4-understand-example-1",
@@ -1724,11 +1720,11 @@
       "sourceFile": "r2-backup/words/gong2-speak.json"
     },
     {
-      "sentenceId": "m4gin3zo2-gone-missing-example-1",
+      "sentenceId": "m4gin3zo2-its-lost-missing-example-1",
       "sentence": "我個銀包唔見咗。",
       "jyutping": "ngo5 go3 ngan4 baau1 m4 gin3 zo2",
       "meaning": "My wallet is missing.",
-      "sourceWordId": "m4gin3zo2-gone-missing",
+      "sourceWordId": "m4gin3zo2-its-lost-missing",
       "sourceWord": "唔見咗",
       "sourceWordJyutping": "m4 gin3 zo2",
       "sourceWordMeaning": "it’s lost / missing",
@@ -1739,14 +1735,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/m4gin3zo2-gone-missing.json"
+      "sourceFile": "r2-backup/words/m4gin3zo2-its-lost-missing.json"
     },
     {
-      "sentenceId": "m4gin3zo2-gone-missing-example-2",
+      "sentenceId": "m4gin3zo2-its-lost-missing-example-2",
       "sentence": "條鎖匙唔見咗。",
       "jyutping": "tiu4 so2 si4 m4 gin3 zo2",
       "meaning": "The keys are lost.",
-      "sourceWordId": "m4gin3zo2-gone-missing",
+      "sourceWordId": "m4gin3zo2-its-lost-missing",
       "sourceWord": "唔見咗",
       "sourceWordJyutping": "m4 gin3 zo2",
       "sourceWordMeaning": "it’s lost / missing",
@@ -1757,14 +1753,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/m4gin3zo2-gone-missing.json"
+      "sourceFile": "r2-backup/words/m4gin3zo2-its-lost-missing.json"
     },
     {
-      "sentenceId": "m4gin3zo2-gone-missing-example-3",
+      "sentenceId": "m4gin3zo2-its-lost-missing-example-3",
       "sentence": "我啲錢唔見咗。",
       "jyutping": "ngo5 di1 cin2 m4 gin3 zo2",
       "meaning": "My money is gone.",
-      "sourceWordId": "m4gin3zo2-gone-missing",
+      "sourceWordId": "m4gin3zo2-its-lost-missing",
       "sourceWord": "唔見咗",
       "sourceWordJyutping": "m4 gin3 zo2",
       "sourceWordMeaning": "it’s lost / missing",
@@ -1775,14 +1771,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/m4gin3zo2-gone-missing.json"
+      "sourceFile": "r2-backup/words/m4gin3zo2-its-lost-missing.json"
     },
     {
-      "sentenceId": "m4gin3zo2-gone-missing-example-4",
+      "sentenceId": "m4gin3zo2-its-lost-missing-example-4",
       "sentence": "張車票唔見咗。",
       "jyutping": "zoeng1 ce1 piu3 m4 gin3 zo2",
       "meaning": "The ticket is missing.",
-      "sourceWordId": "m4gin3zo2-gone-missing",
+      "sourceWordId": "m4gin3zo2-its-lost-missing",
       "sourceWord": "唔見咗",
       "sourceWordJyutping": "m4 gin3 zo2",
       "sourceWordMeaning": "it’s lost / missing",
@@ -1793,14 +1789,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/m4gin3zo2-gone-missing.json"
+      "sourceFile": "r2-backup/words/m4gin3zo2-its-lost-missing.json"
     },
     {
-      "sentenceId": "m4gin3zo2-gone-missing-example-5",
+      "sentenceId": "m4gin3zo2-its-lost-missing-example-5",
       "sentence": "部電話唔見咗。",
       "jyutping": "bou6 din6 waa2 m4 gin3 zo2",
       "meaning": "The phone is lost.",
-      "sourceWordId": "m4gin3zo2-gone-missing",
+      "sourceWordId": "m4gin3zo2-its-lost-missing",
       "sourceWord": "唔見咗",
       "sourceWordJyutping": "m4 gin3 zo2",
       "sourceWordMeaning": "it’s lost / missing",
@@ -1811,14 +1807,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/m4gin3zo2-gone-missing.json"
+      "sourceFile": "r2-backup/words/m4gin3zo2-its-lost-missing.json"
     },
     {
-      "sentenceId": "waai6zo2-malfunction-example-1",
+      "sentenceId": "waai6zo2-its-broken-example-1",
       "sentence": "部電話壞咗。",
       "jyutping": "bou6 din6 waa2 waai6 zo2",
       "meaning": "The phone is broken.",
-      "sourceWordId": "waai6zo2-malfunction",
+      "sourceWordId": "waai6zo2-its-broken",
       "sourceWord": "壞咗",
       "sourceWordJyutping": "waai6 zo2",
       "sourceWordMeaning": "it’s broken",
@@ -1829,14 +1825,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/waai6zo2-malfunction.json"
+      "sourceFile": "r2-backup/words/waai6zo2-its-broken.json"
     },
     {
-      "sentenceId": "waai6zo2-malfunction-example-2",
+      "sentenceId": "waai6zo2-its-broken-example-2",
       "sentence": "部電腦壞咗。",
       "jyutping": "bou6 din6 nou5 waai6 zo2",
       "meaning": "The computer is broken.",
-      "sourceWordId": "waai6zo2-malfunction",
+      "sourceWordId": "waai6zo2-its-broken",
       "sourceWord": "壞咗",
       "sourceWordJyutping": "waai6 zo2",
       "sourceWordMeaning": "it’s broken",
@@ -1847,14 +1843,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/waai6zo2-malfunction.json"
+      "sourceFile": "r2-backup/words/waai6zo2-its-broken.json"
     },
     {
-      "sentenceId": "waai6zo2-malfunction-example-3",
+      "sentenceId": "waai6zo2-its-broken-example-3",
       "sentence": "部升降機壞咗。",
       "jyutping": "bou6 sing1 gong1 gei1 waai6 zo2",
       "meaning": "The lift is broken.",
-      "sourceWordId": "waai6zo2-malfunction",
+      "sourceWordId": "waai6zo2-its-broken",
       "sourceWord": "壞咗",
       "sourceWordJyutping": "waai6 zo2",
       "sourceWordMeaning": "it’s broken",
@@ -1865,14 +1861,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/waai6zo2-malfunction.json"
+      "sourceFile": "r2-backup/words/waai6zo2-its-broken.json"
     },
     {
-      "sentenceId": "waai6zo2-malfunction-example-4",
+      "sentenceId": "waai6zo2-its-broken-example-4",
       "sentence": "呢個遙控器壞咗。",
       "jyutping": "ni1 go3 jiu4 hung3 hei3 waai6 zo2",
       "meaning": "This remote control is broken.",
-      "sourceWordId": "waai6zo2-malfunction",
+      "sourceWordId": "waai6zo2-its-broken",
       "sourceWord": "壞咗",
       "sourceWordJyutping": "waai6 zo2",
       "sourceWordMeaning": "it’s broken",
@@ -1883,14 +1879,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/waai6zo2-malfunction.json"
+      "sourceFile": "r2-backup/words/waai6zo2-its-broken.json"
     },
     {
-      "sentenceId": "waai6zo2-malfunction-example-5",
+      "sentenceId": "waai6zo2-its-broken-example-5",
       "sentence": "架車壞咗。",
       "jyutping": "gaa3 ce1 waai6 zo2",
       "meaning": "The car is broken.",
-      "sourceWordId": "waai6zo2-malfunction",
+      "sourceWordId": "waai6zo2-its-broken",
       "sourceWord": "壞咗",
       "sourceWordJyutping": "waai6 zo2",
       "sourceWordMeaning": "it’s broken",
@@ -1901,7 +1897,7 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/waai6zo2-malfunction.json"
+      "sourceFile": "r2-backup/words/waai6zo2-its-broken.json"
     },
     {
       "sentenceId": "m4dak1-not-working-example-1",
@@ -1980,11 +1976,11 @@
       "sourceFile": "r2-backup/words/m4dak1-not-working.json"
     },
     {
-      "sentenceId": "jau5man6tai4-there-is-problem-example-1",
+      "sentenceId": "jau5man6tai4-theres-a-problem-example-1",
       "sentence": "呢個有問題。",
       "jyutping": "ni1 go3 jau5 man6 tai4",
       "meaning": "There’s a problem with this.",
-      "sourceWordId": "jau5man6tai4-there-is-problem",
+      "sourceWordId": "jau5man6tai4-theres-a-problem",
       "sourceWord": "有問題",
       "sourceWordJyutping": "jau5 man6 tai4",
       "sourceWordMeaning": "there’s a problem",
@@ -1995,14 +1991,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/jau5man6tai4-there-is-problem.json"
+      "sourceFile": "r2-backup/words/jau5man6tai4-theres-a-problem.json"
     },
     {
-      "sentenceId": "jau5man6tai4-there-is-problem-example-2",
+      "sentenceId": "jau5man6tai4-theres-a-problem-example-2",
       "sentence": "部機有問題。",
       "jyutping": "bou6 gei1 jau5 man6 tai4",
       "meaning": "The machine has a problem.",
-      "sourceWordId": "jau5man6tai4-there-is-problem",
+      "sourceWordId": "jau5man6tai4-theres-a-problem",
       "sourceWord": "有問題",
       "sourceWordJyutping": "jau5 man6 tai4",
       "sourceWordMeaning": "there’s a problem",
@@ -2013,14 +2009,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/jau5man6tai4-there-is-problem.json"
+      "sourceFile": "r2-backup/words/jau5man6tai4-theres-a-problem.json"
     },
     {
-      "sentenceId": "jau5man6tai4-there-is-problem-example-3",
+      "sentenceId": "jau5man6tai4-theres-a-problem-example-3",
       "sentence": "呢個安排有問題。",
       "jyutping": "go3 on1 paai4 jau5 man6 tai4",
       "meaning": "The arrangement has a problem.",
-      "sourceWordId": "jau5man6tai4-there-is-problem",
+      "sourceWordId": "jau5man6tai4-theres-a-problem",
       "sourceWord": "有問題",
       "sourceWordJyutping": "jau5 man6 tai4",
       "sourceWordMeaning": "there’s a problem",
@@ -2031,14 +2027,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/jau5man6tai4-there-is-problem.json"
+      "sourceFile": "r2-backup/words/jau5man6tai4-theres-a-problem.json"
     },
     {
-      "sentenceId": "jau5man6tai4-there-is-problem-example-4",
+      "sentenceId": "jau5man6tai4-theres-a-problem-example-4",
       "sentence": "呢個計劃有問題。",
       "jyutping": "ni1 go3 gai3 waak6 jau5 man6 tai4",
       "meaning": "This plan has a problem.",
-      "sourceWordId": "jau5man6tai4-there-is-problem",
+      "sourceWordId": "jau5man6tai4-theres-a-problem",
       "sourceWord": "有問題",
       "sourceWordJyutping": "jau5 man6 tai4",
       "sourceWordMeaning": "there’s a problem",
@@ -2049,14 +2045,14 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/jau5man6tai4-there-is-problem.json"
+      "sourceFile": "r2-backup/words/jau5man6tai4-theres-a-problem.json"
     },
     {
-      "sentenceId": "jau5man6tai4-there-is-problem-example-5",
+      "sentenceId": "jau5man6tai4-theres-a-problem-example-5",
       "sentence": "如果有問題，可以問我。",
       "jyutping": "jyu4 gwo2 jau5 man6 tai4, ho2 ji5 man6 ngo5",
       "meaning": "If there’s a problem, you can ask me.",
-      "sourceWordId": "jau5man6tai4-there-is-problem",
+      "sourceWordId": "jau5man6tai4-theres-a-problem",
       "sourceWord": "有問題",
       "sourceWordJyutping": "jau5 man6 tai4",
       "sourceWordMeaning": "there’s a problem",
@@ -2067,7 +2063,7 @@
         "problems",
         "survival"
       ],
-      "sourceFile": "r2-backup/words/jau5man6tai4-there-is-problem.json"
+      "sourceFile": "r2-backup/words/jau5man6tai4-theres-a-problem.json"
     }
   ],
   "missingWordFiles": []

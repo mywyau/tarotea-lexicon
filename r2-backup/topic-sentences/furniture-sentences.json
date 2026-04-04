@@ -305,11 +305,11 @@
       "sourceFile": "r2-backup/words/cong4-bed.json"
     },
     {
-      "sentenceId": "cong4tau4-bed-head-example-1",
+      "sentenceId": "cong4tau4-headboard-end-example-1",
       "sentence": "我放咗啲書喺床頭。",
       "jyutping": "ngo5 fong3 zo2 di1 syu1 hai2 cong4 tau4",
       "meaning": "I put some books at the headboard.",
-      "sourceWordId": "cong4tau4-bed-head",
+      "sourceWordId": "cong4tau4-headboard-end",
       "sourceWord": "床頭",
       "sourceWordJyutping": "cong4 tau4",
       "sourceWordMeaning": "headboard end",
@@ -321,14 +321,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4-bed-head.json"
+      "sourceFile": "r2-backup/words/cong4tau4-headboard-end.json"
     },
     {
-      "sentenceId": "cong4tau4-bed-head-example-2",
+      "sentenceId": "cong4tau4-headboard-end-example-2",
       "sentence": "床頭嘅牆有幅畫。",
       "jyutping": "cong4 tau4 ge3 coeng4 jau5 fuk1 waa2",
       "meaning": "There is a painting on the wall by the headboard.",
-      "sourceWordId": "cong4tau4-bed-head",
+      "sourceWordId": "cong4tau4-headboard-end",
       "sourceWord": "床頭",
       "sourceWordJyutping": "cong4 tau4",
       "sourceWordMeaning": "headboard end",
@@ -340,14 +340,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4-bed-head.json"
+      "sourceFile": "r2-backup/words/cong4tau4-headboard-end.json"
     },
     {
-      "sentenceId": "cong4tau4-bed-head-example-3",
+      "sentenceId": "cong4tau4-headboard-end-example-3",
       "sentence": "你可以喺床頭裝個燈。",
       "jyutping": "nei5 ho2 ji5 hai2 cong4 tau4 zong1 go3 dang1",
       "meaning": "You can install a lamp on the headboard.",
-      "sourceWordId": "cong4tau4-bed-head",
+      "sourceWordId": "cong4tau4-headboard-end",
       "sourceWord": "床頭",
       "sourceWordJyutping": "cong4 tau4",
       "sourceWordMeaning": "headboard end",
@@ -359,14 +359,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4-bed-head.json"
+      "sourceFile": "r2-backup/words/cong4tau4-headboard-end.json"
     },
     {
-      "sentenceId": "cong4tau4-bed-head-example-4",
+      "sentenceId": "cong4tau4-headboard-end-example-4",
       "sentence": "個枕頭擺喺床頭度。",
       "jyutping": "go3 zam2 tau4 baai2 hai2 cong4 tau4 dou6",
       "meaning": "The pillow is placed at the headboard end.",
-      "sourceWordId": "cong4tau4-bed-head",
+      "sourceWordId": "cong4tau4-headboard-end",
       "sourceWord": "床頭",
       "sourceWordJyutping": "cong4 tau4",
       "sourceWordMeaning": "headboard end",
@@ -378,7 +378,7 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4-bed-head.json"
+      "sourceFile": "r2-backup/words/cong4tau4-headboard-end.json"
     },
     {
       "sentenceId": "ji1gwai6-wardrobe-example-1",
@@ -913,11 +913,11 @@
       "sourceFile": "r2-backup/words/coeng4gaa3-wall-shelf.json"
     },
     {
-      "sentenceId": "ping4fung1-partition-example-1",
+      "sentenceId": "ping4fung1-room-divider-example-1",
       "sentence": "我哋用屏風分開咗客廳同飯廳。",
       "jyutping": "ngo5 dei6 jung6 ping4 fung1 fan1 hoi1 zo2 haak3 teng1 tung4 faan6 teng1.",
       "meaning": "We used a room divider to separate the living room and dining room.",
-      "sourceWordId": "ping4fung1-partition",
+      "sourceWordId": "ping4fung1-room-divider",
       "sourceWord": "屏風",
       "sourceWordJyutping": "ping4 fung1",
       "sourceWordMeaning": "room divider",
@@ -929,14 +929,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4fung1-partition.json"
+      "sourceFile": "r2-backup/words/ping4fung1-room-divider.json"
     },
     {
-      "sentenceId": "ping4fung1-partition-example-2",
+      "sentenceId": "ping4fung1-room-divider-example-2",
       "sentence": "呢個屏風好靚，好適合我間屋。",
       "jyutping": "ni1 go3 ping4 fung1 hou2 leng3, hou2 sik1 hap6 ngo5 gaan1 uk1.",
       "meaning": "This room divider is very pretty and suits my home well.",
-      "sourceWordId": "ping4fung1-partition",
+      "sourceWordId": "ping4fung1-room-divider",
       "sourceWord": "屏風",
       "sourceWordJyutping": "ping4 fung1",
       "sourceWordMeaning": "room divider",
@@ -948,14 +948,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4fung1-partition.json"
+      "sourceFile": "r2-backup/words/ping4fung1-room-divider.json"
     },
     {
-      "sentenceId": "ping4fung1-partition-example-3",
+      "sentenceId": "ping4fung1-room-divider-example-3",
       "sentence": "佢擺咗個屏風喺門口阻住風。",
       "jyutping": "keoi5 baai2 zo2 go3 ping4 fung1 hai2 mun4 hau2 zo2 zyu6 fung1.",
       "meaning": "He placed a room divider by the door to block the wind.",
-      "sourceWordId": "ping4fung1-partition",
+      "sourceWordId": "ping4fung1-room-divider",
       "sourceWord": "屏風",
       "sourceWordJyutping": "ping4 fung1",
       "sourceWordMeaning": "room divider",
@@ -967,14 +967,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4fung1-partition.json"
+      "sourceFile": "r2-backup/words/ping4fung1-room-divider.json"
     },
     {
-      "sentenceId": "ping4fung1-partition-example-4",
+      "sentenceId": "ping4fung1-room-divider-example-4",
       "sentence": "我想買一個彩色屏風去裝飾房間。",
       "jyutping": "ngo5 soeng2 maai5 jat1 go3 coi2 sik1 ping4 fung1 heoi3 zong1 sik1 fong4 gaan1.",
       "meaning": "I want to buy a colored room divider to decorate the room.",
-      "sourceWordId": "ping4fung1-partition",
+      "sourceWordId": "ping4fung1-room-divider",
       "sourceWord": "屏風",
       "sourceWordJyutping": "ping4 fung1",
       "sourceWordMeaning": "room divider",
@@ -986,7 +986,7 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4fung1-partition.json"
+      "sourceFile": "r2-backup/words/ping4fung1-room-divider.json"
     },
     {
       "sentenceId": "dang3-stool-example-1",
@@ -1293,11 +1293,11 @@
       "sourceFile": "r2-backup/words/caa4gei1-coffee-table.json"
     },
     {
-      "sentenceId": "dei6taan2-carpet-example-1",
+      "sentenceId": "dei6taan2-carpet-rug-example-1",
       "sentence": "我哋客廳鋪咗新嘅地毯。",
       "jyutping": "ngo5 dei6 haak3 teng1 pou1 zo2 san1 ge3 dei6 taan2.",
       "meaning": "We laid a new carpet in the living room.",
-      "sourceWordId": "dei6taan2-carpet",
+      "sourceWordId": "dei6taan2-carpet-rug",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "carpet / rug",
@@ -1309,14 +1309,14 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-carpet.json"
+      "sourceFile": "r2-backup/words/dei6taan2-carpet-rug.json"
     },
     {
-      "sentenceId": "dei6taan2-carpet-example-2",
+      "sentenceId": "dei6taan2-carpet-rug-example-2",
       "sentence": "呢張地毯好軟舒服。",
       "jyutping": "ni1 zoeng1 dei6 taan2 hou2 jyun5 syu1 fuk6.",
       "meaning": "This carpet is very soft and comfortable.",
-      "sourceWordId": "dei6taan2-carpet",
+      "sourceWordId": "dei6taan2-carpet-rug",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "carpet / rug",
@@ -1328,14 +1328,14 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-carpet.json"
+      "sourceFile": "r2-backup/words/dei6taan2-carpet-rug.json"
     },
     {
-      "sentenceId": "dei6taan2-carpet-example-3",
+      "sentenceId": "dei6taan2-carpet-rug-example-3",
       "sentence": "小朋友喺地毯玩緊玩具。",
       "jyutping": "siu2 pang4 jau5 hai2 dei6 taan2 waan2 gan2 waan6 geoi6.",
       "meaning": "The kids are playing with toys on the carpet.",
-      "sourceWordId": "dei6taan2-carpet",
+      "sourceWordId": "dei6taan2-carpet-rug",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "carpet / rug",
@@ -1347,14 +1347,14 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-carpet.json"
+      "sourceFile": "r2-backup/words/dei6taan2-carpet-rug.json"
     },
     {
-      "sentenceId": "dei6taan2-carpet-example-4",
+      "sentenceId": "dei6taan2-carpet-rug-example-4",
       "sentence": "記住要經常清潔你嘅地毯。",
       "jyutping": "gei3 zyu6 jiu3 ging1 soeng4 cing1 git3 nei5 ge3 dei6 taan2.",
       "meaning": "Remember to clean your carpet regularly.",
-      "sourceWordId": "dei6taan2-carpet",
+      "sourceWordId": "dei6taan2-carpet-rug",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "carpet / rug",
@@ -1366,7 +1366,7 @@
         "interior",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-carpet.json"
+      "sourceFile": "r2-backup/words/dei6taan2-carpet-rug.json"
     },
     {
       "sentenceId": "daan1ji2-single-chair-example-1",
@@ -1445,11 +1445,11 @@
       "sourceFile": "r2-backup/words/daan1ji2-single-chair.json"
     },
     {
-      "sentenceId": "dang1-light-example-1",
+      "sentenceId": "dang1-light-lamp-example-1",
       "sentence": "呢個房間有一盞大燈。",
       "jyutping": "ni1 go3 fong4 gaan1 jau5 jat1 zin2 daai6 dang1.",
       "meaning": "This room has a big lamp.",
-      "sourceWordId": "dang1-light",
+      "sourceWordId": "dang1-light-lamp",
       "sourceWord": "燈",
       "sourceWordJyutping": "dang1",
       "sourceWordMeaning": "light / lamp",
@@ -1461,14 +1461,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1-light.json"
+      "sourceFile": "r2-backup/words/dang1-light-lamp.json"
     },
     {
-      "sentenceId": "dang1-light-example-2",
+      "sentenceId": "dang1-light-lamp-example-2",
       "sentence": "我唔鍾意夜晚開燈。",
       "jyutping": "ngo5 m4 zung1 ji3 je6 maan5 hoi1 dang1.",
       "meaning": "I don't like to turn on the light at night.",
-      "sourceWordId": "dang1-light",
+      "sourceWordId": "dang1-light-lamp",
       "sourceWord": "燈",
       "sourceWordJyutping": "dang1",
       "sourceWordMeaning": "light / lamp",
@@ -1480,14 +1480,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1-light.json"
+      "sourceFile": "r2-backup/words/dang1-light-lamp.json"
     },
     {
-      "sentenceId": "dang1-light-example-3",
+      "sentenceId": "dang1-light-lamp-example-3",
       "sentence": "檯燈壞咗，要換一盞新嘅。",
       "jyutping": "toi4 dang1 waai6 zo2, jiu3 wun6 jat1 zin2 san1 ge3.",
       "meaning": "The desk lamp is broken, need to replace it with a new one.",
-      "sourceWordId": "dang1-light",
+      "sourceWordId": "dang1-light-lamp",
       "sourceWord": "燈",
       "sourceWordJyutping": "dang1",
       "sourceWordMeaning": "light / lamp",
@@ -1499,14 +1499,14 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1-light.json"
+      "sourceFile": "r2-backup/words/dang1-light-lamp.json"
     },
     {
-      "sentenceId": "dang1-light-example-4",
+      "sentenceId": "dang1-light-lamp-example-4",
       "sentence": "交通燈轉綠燈，可以過馬路。",
       "jyutping": "gaau1 tung1 dang1 zyun2 luk6 dang1, ho2 ji5 gwo3 maa5 lou6.",
       "meaning": "When the traffic light turns green, you can cross the street.",
-      "sourceWordId": "dang1-light",
+      "sourceWordId": "dang1-light-lamp",
       "sourceWord": "燈",
       "sourceWordJyutping": "dang1",
       "sourceWordMeaning": "light / lamp",
@@ -1518,7 +1518,7 @@
         "everyday use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1-light.json"
+      "sourceFile": "r2-backup/words/dang1-light-lamp.json"
     },
     {
       "sentenceId": "fung1sin3-fan-example-1",
@@ -1597,11 +1597,11 @@
       "sourceFile": "r2-backup/words/fung1sin3-fan.json"
     },
     {
-      "sentenceId": "laang5hei3-aircon-example-1",
+      "sentenceId": "laang5hei3-air-conditioner-2-example-1",
       "sentence": "我開咗冷氣，涼好多。",
       "jyutping": "ngo5 hoi1 zo2 laang5 hei3, loeng4 hou2 do1.",
       "meaning": "I turned on the air conditioner; it's much cooler.",
-      "sourceWordId": "laang5hei3-aircon",
+      "sourceWordId": "laang5hei3-air-conditioner-2",
       "sourceWord": "冷氣",
       "sourceWordJyutping": "laang5 hei3",
       "sourceWordMeaning": "air conditioner",
@@ -1613,14 +1613,14 @@
         "summer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/laang5hei3-aircon.json"
+      "sourceFile": "r2-backup/words/laang5hei3-air-conditioner-2.json"
     },
     {
-      "sentenceId": "laang5hei3-aircon-example-2",
+      "sentenceId": "laang5hei3-air-conditioner-2-example-2",
       "sentence": "呢部冷氣好新淨。",
       "jyutping": "ni1 bou6 laang5 hei3 hou2 san1 zing6.",
       "meaning": "This air conditioner is very clean and new.",
-      "sourceWordId": "laang5hei3-aircon",
+      "sourceWordId": "laang5hei3-air-conditioner-2",
       "sourceWord": "冷氣",
       "sourceWordJyutping": "laang5 hei3",
       "sourceWordMeaning": "air conditioner",
@@ -1632,14 +1632,14 @@
         "summer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/laang5hei3-aircon.json"
+      "sourceFile": "r2-backup/words/laang5hei3-air-conditioner-2.json"
     },
     {
-      "sentenceId": "laang5hei3-aircon-example-3",
+      "sentenceId": "laang5hei3-air-conditioner-2-example-3",
       "sentence": "屋企冇冷氣，夏天好焗。",
       "jyutping": "uk1 kei2 mou5 laang5 hei3, haa6 tin1 hou2 guk6.",
       "meaning": "There is no air conditioner at home, summer is very stuffy.",
-      "sourceWordId": "laang5hei3-aircon",
+      "sourceWordId": "laang5hei3-air-conditioner-2",
       "sourceWord": "冷氣",
       "sourceWordJyutping": "laang5 hei3",
       "sourceWordMeaning": "air conditioner",
@@ -1651,14 +1651,14 @@
         "summer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/laang5hei3-aircon.json"
+      "sourceFile": "r2-backup/words/laang5hei3-air-conditioner-2.json"
     },
     {
-      "sentenceId": "laang5hei3-aircon-example-4",
+      "sentenceId": "laang5hei3-air-conditioner-2-example-4",
       "sentence": "冷氣壞咗，要修理。",
       "jyutping": "laang5 hei3 waai6 zo2, jiu3 sau1 lei5.",
       "meaning": "The air conditioner is broken and needs repair.",
-      "sourceWordId": "laang5hei3-aircon",
+      "sourceWordId": "laang5hei3-air-conditioner-2",
       "sourceWord": "冷氣",
       "sourceWordJyutping": "laang5 hei3",
       "sourceWordMeaning": "air conditioner",
@@ -1670,7 +1670,7 @@
         "summer",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/laang5hei3-aircon.json"
+      "sourceFile": "r2-backup/words/laang5hei3-air-conditioner-2.json"
     },
     {
       "sentenceId": "coeng1-window-example-1",
@@ -2121,11 +2121,11 @@
       "sourceFile": "r2-backup/words/ji1gaa3-clothes-hanger.json"
     },
     {
-      "sentenceId": "bei6-quilt-example-1",
+      "sentenceId": "bei6-quilt-blanket-example-1",
       "sentence": "我夜晚會蓋埋張被。",
       "jyutping": "ngo5 je6 maan5 wui5 gap3 maai4 zoeng1 bei6.",
       "meaning": "I cover myself with the quilt at night.",
-      "sourceWordId": "bei6-quilt",
+      "sourceWordId": "bei6-quilt-blanket",
       "sourceWord": "被",
       "sourceWordJyutping": "bei6",
       "sourceWordMeaning": "quilt / blanket",
@@ -2137,14 +2137,14 @@
         "warmth",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bei6-quilt.json"
+      "sourceFile": "r2-backup/words/bei6-quilt-blanket.json"
     },
     {
-      "sentenceId": "bei6-quilt-example-2",
+      "sentenceId": "bei6-quilt-blanket-example-2",
       "sentence": "呢張被好暖和。",
       "jyutping": "ni1 zoeng1 bei6 hou2 nyun5 wo4.",
       "meaning": "This quilt is very warm.",
-      "sourceWordId": "bei6-quilt",
+      "sourceWordId": "bei6-quilt-blanket",
       "sourceWord": "被",
       "sourceWordJyutping": "bei6",
       "sourceWordMeaning": "quilt / blanket",
@@ -2156,14 +2156,14 @@
         "warmth",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bei6-quilt.json"
+      "sourceFile": "r2-backup/words/bei6-quilt-blanket.json"
     },
     {
-      "sentenceId": "bei6-quilt-example-3",
+      "sentenceId": "bei6-quilt-blanket-example-3",
       "sentence": "搬屋嗰陣我帶咗兩條被。",
       "jyutping": "bun1 uk1 go2 zan6 ngo5 daai3 zo2 loeng5 tiu4 bei6.",
       "meaning": "I brought two quilts when moving house.",
-      "sourceWordId": "bei6-quilt",
+      "sourceWordId": "bei6-quilt-blanket",
       "sourceWord": "被",
       "sourceWordJyutping": "bei6",
       "sourceWordMeaning": "quilt / blanket",
@@ -2175,14 +2175,14 @@
         "warmth",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bei6-quilt.json"
+      "sourceFile": "r2-backup/words/bei6-quilt-blanket.json"
     },
     {
-      "sentenceId": "bei6-quilt-example-4",
+      "sentenceId": "bei6-quilt-blanket-example-4",
       "sentence": "細蚊仔夜晚要蓋厚被。",
       "jyutping": "sai3 man1 zai2 je6 maan5 jiu3 gap3 hau6 bei6.",
       "meaning": "Kids need to cover themselves with a thick quilt at night.",
-      "sourceWordId": "bei6-quilt",
+      "sourceWordId": "bei6-quilt-blanket",
       "sourceWord": "被",
       "sourceWordJyutping": "bei6",
       "sourceWordMeaning": "quilt / blanket",
@@ -2194,7 +2194,7 @@
         "warmth",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bei6-quilt.json"
+      "sourceFile": "r2-backup/words/bei6-quilt-blanket.json"
     },
     {
       "sentenceId": "zam2tau4-pillow-example-1",
@@ -2349,11 +2349,11 @@
       "sourceFile": "r2-backup/words/cong4daan1-bed-sheet.json"
     },
     {
-      "sentenceId": "ji1gwai6mun4-door-example-1",
+      "sentenceId": "ji1gwai6mun4-wardrobe-door-example-1",
       "sentence": "請幫我關埋衣櫃門。",
       "jyutping": "ceng2 bong1 ngo5 gwaan1 maai4 ji1 gwai6 mun4.",
       "meaning": "Please help me close the wardrobe door.",
-      "sourceWordId": "ji1gwai6mun4-door",
+      "sourceWordId": "ji1gwai6mun4-wardrobe-door",
       "sourceWord": "衣櫃門",
       "sourceWordJyutping": "ji1 gwai6 mun4",
       "sourceWordMeaning": "wardrobe door",
@@ -2365,14 +2365,14 @@
         "doors",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ji1gwai6mun4-door.json"
+      "sourceFile": "r2-backup/words/ji1gwai6mun4-wardrobe-door.json"
     },
     {
-      "sentenceId": "ji1gwai6mun4-door-example-2",
+      "sentenceId": "ji1gwai6mun4-wardrobe-door-example-2",
       "sentence": "衣櫃門壞咗，要唔要換新嘅？",
       "jyutping": "ji1 gwai6 mun4 waai6 zo2, jiu3 m4 jiu3 wun6 san1 ge3?",
       "meaning": "The wardrobe door is broken, do you want to replace it with a new one?",
-      "sourceWordId": "ji1gwai6mun4-door",
+      "sourceWordId": "ji1gwai6mun4-wardrobe-door",
       "sourceWord": "衣櫃門",
       "sourceWordJyutping": "ji1 gwai6 mun4",
       "sourceWordMeaning": "wardrobe door",
@@ -2384,14 +2384,14 @@
         "doors",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ji1gwai6mun4-door.json"
+      "sourceFile": "r2-backup/words/ji1gwai6mun4-wardrobe-door.json"
     },
     {
-      "sentenceId": "ji1gwai6mun4-door-example-3",
+      "sentenceId": "ji1gwai6mun4-wardrobe-door-example-3",
       "sentence": "衣櫃門好重，小心啲開。",
       "jyutping": "ji1 gwai6 mun4 hou2 zung6, siu2 sam1 di1 hoi1.",
       "meaning": "The wardrobe door is heavy, open it carefully.",
-      "sourceWordId": "ji1gwai6mun4-door",
+      "sourceWordId": "ji1gwai6mun4-wardrobe-door",
       "sourceWord": "衣櫃門",
       "sourceWordJyutping": "ji1 gwai6 mun4",
       "sourceWordMeaning": "wardrobe door",
@@ -2403,14 +2403,14 @@
         "doors",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ji1gwai6mun4-door.json"
+      "sourceFile": "r2-backup/words/ji1gwai6mun4-wardrobe-door.json"
     },
     {
-      "sentenceId": "ji1gwai6mun4-door-example-4",
+      "sentenceId": "ji1gwai6mun4-wardrobe-door-example-4",
       "sentence": "佢哋換咗新衣櫃門，成個房間更靚。",
       "jyutping": "keoi5 dei6 wun6 zo2 san1 ji1 gwai6 mun4, sing4 go3 fong4 gaan1 gang3 leng3.",
       "meaning": "They replaced the wardrobe door, and the whole room looks nicer.",
-      "sourceWordId": "ji1gwai6mun4-door",
+      "sourceWordId": "ji1gwai6mun4-wardrobe-door",
       "sourceWord": "衣櫃門",
       "sourceWordJyutping": "ji1 gwai6 mun4",
       "sourceWordMeaning": "wardrobe door",
@@ -2422,14 +2422,14 @@
         "doors",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ji1gwai6mun4-door.json"
+      "sourceFile": "r2-backup/words/ji1gwai6mun4-wardrobe-door.json"
     },
     {
-      "sentenceId": "cong4tau4dang1-bed-lamp-example-1",
+      "sentenceId": "cong4tau4dang1-bedside-lamp-example-1",
       "sentence": "我開床頭燈睇書。",
       "jyutping": "ngo5 hoi1 cong4 tau4 dang1 tai2 syu1.",
       "meaning": "I turn on the bedside lamp to read.",
-      "sourceWordId": "cong4tau4dang1-bed-lamp",
+      "sourceWordId": "cong4tau4dang1-bedside-lamp",
       "sourceWord": "床頭燈",
       "sourceWordJyutping": "cong4 tau4 dang1",
       "sourceWordMeaning": "bedside lamp",
@@ -2441,14 +2441,14 @@
         "lamp",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4dang1-bed-lamp.json"
+      "sourceFile": "r2-backup/words/cong4tau4dang1-bedside-lamp.json"
     },
     {
-      "sentenceId": "cong4tau4dang1-bed-lamp-example-2",
+      "sentenceId": "cong4tau4dang1-bedside-lamp-example-2",
       "sentence": "你點解唔開床頭燈？",
       "jyutping": "nei5 dim2 gaai2 m4 hoi1 cong4 tau4 dang1?",
       "meaning": "Why don't you turn on the bedside lamp?",
-      "sourceWordId": "cong4tau4dang1-bed-lamp",
+      "sourceWordId": "cong4tau4dang1-bedside-lamp",
       "sourceWord": "床頭燈",
       "sourceWordJyutping": "cong4 tau4 dang1",
       "sourceWordMeaning": "bedside lamp",
@@ -2460,14 +2460,14 @@
         "lamp",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4dang1-bed-lamp.json"
+      "sourceFile": "r2-backup/words/cong4tau4dang1-bedside-lamp.json"
     },
     {
-      "sentenceId": "cong4tau4dang1-bed-lamp-example-3",
+      "sentenceId": "cong4tau4dang1-bedside-lamp-example-3",
       "sentence": "呢個床頭燈幾靚啊！",
       "jyutping": "ni1 go3 cong4 tau4 dang1 gei2 leng3 aa3!",
       "meaning": "This bedside lamp is quite nice!",
-      "sourceWordId": "cong4tau4dang1-bed-lamp",
+      "sourceWordId": "cong4tau4dang1-bedside-lamp",
       "sourceWord": "床頭燈",
       "sourceWordJyutping": "cong4 tau4 dang1",
       "sourceWordMeaning": "bedside lamp",
@@ -2479,14 +2479,14 @@
         "lamp",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4dang1-bed-lamp.json"
+      "sourceFile": "r2-backup/words/cong4tau4dang1-bedside-lamp.json"
     },
     {
-      "sentenceId": "cong4tau4dang1-bed-lamp-example-4",
+      "sentenceId": "cong4tau4dang1-bedside-lamp-example-4",
       "sentence": "床頭燈嘅光唔太刺眼。",
       "jyutping": "cong4 tau4 dang1 ge3 gwong1 m4 taai3 ci3 ngaan5.",
       "meaning": "The light from the bedside lamp is not too harsh.",
-      "sourceWordId": "cong4tau4dang1-bed-lamp",
+      "sourceWordId": "cong4tau4dang1-bedside-lamp",
       "sourceWord": "床頭燈",
       "sourceWordJyutping": "cong4 tau4 dang1",
       "sourceWordMeaning": "bedside lamp",
@@ -2498,7 +2498,7 @@
         "lamp",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cong4tau4dang1-bed-lamp.json"
+      "sourceFile": "r2-backup/words/cong4tau4dang1-bedside-lamp.json"
     },
     {
       "sentenceId": "zung1-clock-example-1",
@@ -3713,11 +3713,11 @@
       "sourceFile": "r2-backup/words/gang1-spoon.json"
     },
     {
-      "sentenceId": "caa4bui1-tea-cup-example-1",
+      "sentenceId": "caa4bui1-teacup-example-1",
       "sentence": "我哋買咗新嘅茶杯。",
       "jyutping": "ngo5 dei6 maai5 zo2 san1 ge3 caa4 bui1.",
       "meaning": "We bought new teacups.",
-      "sourceWordId": "caa4bui1-tea-cup",
+      "sourceWordId": "caa4bui1-teacup",
       "sourceWord": "茶杯",
       "sourceWordJyutping": "caa4 bui1",
       "sourceWordMeaning": "teacup",
@@ -3729,14 +3729,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4bui1-tea-cup.json"
+      "sourceFile": "r2-backup/words/caa4bui1-teacup.json"
     },
     {
-      "sentenceId": "caa4bui1-tea-cup-example-2",
+      "sentenceId": "caa4bui1-teacup-example-2",
       "sentence": "呢個茶杯幾靚啊！",
       "jyutping": "ni1 go3 caa4 bui1 gei2 leng3 aa3!",
       "meaning": "This teacup is quite pretty!",
-      "sourceWordId": "caa4bui1-tea-cup",
+      "sourceWordId": "caa4bui1-teacup",
       "sourceWord": "茶杯",
       "sourceWordJyutping": "caa4 bui1",
       "sourceWordMeaning": "teacup",
@@ -3748,14 +3748,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4bui1-tea-cup.json"
+      "sourceFile": "r2-backup/words/caa4bui1-teacup.json"
     },
     {
-      "sentenceId": "caa4bui1-tea-cup-example-3",
+      "sentenceId": "caa4bui1-teacup-example-3",
       "sentence": "你想飲茶記得攞茶杯。",
       "jyutping": "nei5 soeng2 jam2 caa4 gei3 dak1 lo2 caa4 bui1.",
       "meaning": "Remember to bring a teacup if you want to drink tea.",
-      "sourceWordId": "caa4bui1-tea-cup",
+      "sourceWordId": "caa4bui1-teacup",
       "sourceWord": "茶杯",
       "sourceWordJyutping": "caa4 bui1",
       "sourceWordMeaning": "teacup",
@@ -3767,14 +3767,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4bui1-tea-cup.json"
+      "sourceFile": "r2-backup/words/caa4bui1-teacup.json"
     },
     {
-      "sentenceId": "caa4bui1-tea-cup-example-4",
+      "sentenceId": "caa4bui1-teacup-example-4",
       "sentence": "茶杯放喺櫃入面。",
       "jyutping": "caa4 bui1 fong3 hai2 gwai6 jap6 min6.",
       "meaning": "The teacup is put inside the cabinet.",
-      "sourceWordId": "caa4bui1-tea-cup",
+      "sourceWordId": "caa4bui1-teacup",
       "sourceWord": "茶杯",
       "sourceWordJyutping": "caa4 bui1",
       "sourceWordMeaning": "teacup",
@@ -3786,14 +3786,14 @@
         "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/caa4bui1-tea-cup.json"
+      "sourceFile": "r2-backup/words/caa4bui1-teacup.json"
     },
     {
-      "sentenceId": "bui1-cup-example-1",
+      "sentenceId": "bui1-cup-glass-example-1",
       "sentence": "我想飲一杯茶。",
       "jyutping": "ngo5 soeng2 jam2 jat1 bui1 caa4.",
       "meaning": "I want to drink a cup of tea.",
-      "sourceWordId": "bui1-cup",
+      "sourceWordId": "bui1-cup-glass",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cup / glass",
@@ -3805,14 +3805,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-cup.json"
+      "sourceFile": "r2-backup/words/bui1-cup-glass.json"
     },
     {
-      "sentenceId": "bui1-cup-example-2",
+      "sentenceId": "bui1-cup-glass-example-2",
       "sentence": "杯裏面有水。",
       "jyutping": "bui1 leoi5 min6 jau5 seoi2.",
       "meaning": "There is water inside the cup.",
-      "sourceWordId": "bui1-cup",
+      "sourceWordId": "bui1-cup-glass",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cup / glass",
@@ -3824,14 +3824,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-cup.json"
+      "sourceFile": "r2-backup/words/bui1-cup-glass.json"
     },
     {
-      "sentenceId": "bui1-cup-example-3",
+      "sentenceId": "bui1-cup-glass-example-3",
       "sentence": "你拎杯嚟畀我。",
       "jyutping": "nei5 ling1 bui1 lai4 bei2 ngo5.",
       "meaning": "You bring me the cup.",
-      "sourceWordId": "bui1-cup",
+      "sourceWordId": "bui1-cup-glass",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cup / glass",
@@ -3843,14 +3843,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-cup.json"
+      "sourceFile": "r2-backup/words/bui1-cup-glass.json"
     },
     {
-      "sentenceId": "bui1-cup-example-4",
+      "sentenceId": "bui1-cup-glass-example-4",
       "sentence": "佢買咗兩杯咖啡。",
       "jyutping": "keoi5 maai5 zo2 loeng5 bui1 gaa3 fe1.",
       "meaning": "He bought two cups of coffee.",
-      "sourceWordId": "bui1-cup",
+      "sourceWordId": "bui1-cup-glass",
       "sourceWord": "杯",
       "sourceWordJyutping": "bui1",
       "sourceWordMeaning": "cup / glass",
@@ -3862,7 +3862,7 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/bui1-cup.json"
+      "sourceFile": "r2-backup/words/bui1-cup-glass.json"
     },
     {
       "sentenceId": "bou1-pot-example-1",
@@ -4017,11 +4017,11 @@
       "sourceFile": "r2-backup/words/wok6-wok.json"
     },
     {
-      "sentenceId": "ping4dai2wok6-pan-example-1",
+      "sentenceId": "ping4dai2wok6-frying-pan-example-1",
       "sentence": "我哋需要一個大啲嘅平底鑊。",
       "jyutping": "ngo5 dei6 seoi1 jiu3 jat1 go3 daai6 di1 ge3 ping4 dai2 wok6.",
       "meaning": "We need a bigger frying pan.",
-      "sourceWordId": "ping4dai2wok6-pan",
+      "sourceWordId": "ping4dai2wok6-frying-pan",
       "sourceWord": "平底鑊",
       "sourceWordJyutping": "ping4 dai2 wok6",
       "sourceWordMeaning": "frying pan",
@@ -4033,14 +4033,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4dai2wok6-pan.json"
+      "sourceFile": "r2-backup/words/ping4dai2wok6-frying-pan.json"
     },
     {
-      "sentenceId": "ping4dai2wok6-pan-example-2",
+      "sentenceId": "ping4dai2wok6-frying-pan-example-2",
       "sentence": "媽媽用平底鑊煎咗啲蛋。",
       "jyutping": "maa4 maa1 jung6 ping4 dai2 wok6 zin1 zo2 di1 daan6.",
       "meaning": "Mom used the frying pan to fry some eggs.",
-      "sourceWordId": "ping4dai2wok6-pan",
+      "sourceWordId": "ping4dai2wok6-frying-pan",
       "sourceWord": "平底鑊",
       "sourceWordJyutping": "ping4 dai2 wok6",
       "sourceWordMeaning": "frying pan",
@@ -4052,14 +4052,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4dai2wok6-pan.json"
+      "sourceFile": "r2-backup/words/ping4dai2wok6-frying-pan.json"
     },
     {
-      "sentenceId": "ping4dai2wok6-pan-example-3",
+      "sentenceId": "ping4dai2wok6-frying-pan-example-3",
       "sentence": "記住唔好用鋼絲刷洗平底鑊。",
       "jyutping": "gei3 zyu6 m4 hou2 jung6 gong3 si1 caat3 sai2 ping4 dai2 wok6.",
       "meaning": "Remember not to use a wire brush to clean the frying pan.",
-      "sourceWordId": "ping4dai2wok6-pan",
+      "sourceWordId": "ping4dai2wok6-frying-pan",
       "sourceWord": "平底鑊",
       "sourceWordJyutping": "ping4 dai2 wok6",
       "sourceWordMeaning": "frying pan",
@@ -4071,14 +4071,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4dai2wok6-pan.json"
+      "sourceFile": "r2-backup/words/ping4dai2wok6-frying-pan.json"
     },
     {
-      "sentenceId": "ping4dai2wok6-pan-example-4",
+      "sentenceId": "ping4dai2wok6-frying-pan-example-4",
       "sentence": "我哋去商場買個新平底鑊啦！",
       "jyutping": "ngo5 dei6 heoi3 soeng1 coeng4 maai5 go3 san1 ping4 dai2 wok6 laa1!",
       "meaning": "Let's go to the mall to buy a new frying pan!",
-      "sourceWordId": "ping4dai2wok6-pan",
+      "sourceWordId": "ping4dai2wok6-frying-pan",
       "sourceWord": "平底鑊",
       "sourceWordJyutping": "ping4 dai2 wok6",
       "sourceWordMeaning": "frying pan",
@@ -4090,7 +4090,7 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ping4dai2wok6-pan.json"
+      "sourceFile": "r2-backup/words/ping4dai2wok6-frying-pan.json"
     },
     {
       "sentenceId": "hap6-box-example-1",
@@ -4169,11 +4169,11 @@
       "sourceFile": "r2-backup/words/hap6-box.json"
     },
     {
-      "sentenceId": "gaa3-shelf-example-1",
+      "sentenceId": "gaa3-shelf-rack-example-1",
       "sentence": "呢個架放滿咗書。",
       "jyutping": "ni1 go3 gaa3 fong3 mun5 zo2 syu1.",
       "meaning": "This shelf is full of books.",
-      "sourceWordId": "gaa3-shelf",
+      "sourceWordId": "gaa3-shelf-rack",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "shelf / rack",
@@ -4185,14 +4185,14 @@
         "organization",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-shelf.json"
+      "sourceFile": "r2-backup/words/gaa3-shelf-rack.json"
     },
     {
-      "sentenceId": "gaa3-shelf-example-2",
+      "sentenceId": "gaa3-shelf-rack-example-2",
       "sentence": "你搵下鞋架喺邊度？",
       "jyutping": "nei5 wan2 haa5 haai4 gaa3 hai2 bin1 dou6?",
       "meaning": "Can you find where the shoe rack is?",
-      "sourceWordId": "gaa3-shelf",
+      "sourceWordId": "gaa3-shelf-rack",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "shelf / rack",
@@ -4204,14 +4204,14 @@
         "organization",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-shelf.json"
+      "sourceFile": "r2-backup/words/gaa3-shelf-rack.json"
     },
     {
-      "sentenceId": "gaa3-shelf-example-3",
+      "sentenceId": "gaa3-shelf-rack-example-3",
       "sentence": "我哋喺客廳買咗新嘅茶架。",
       "jyutping": "ngo5 dei6 hai2 haak3 teng1 maai5 zo2 san1 ge3 caa4 gaa3.",
       "meaning": "We bought a new tea rack in the living room.",
-      "sourceWordId": "gaa3-shelf",
+      "sourceWordId": "gaa3-shelf-rack",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "shelf / rack",
@@ -4223,14 +4223,14 @@
         "organization",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-shelf.json"
+      "sourceFile": "r2-backup/words/gaa3-shelf-rack.json"
     },
     {
-      "sentenceId": "gaa3-shelf-example-4",
+      "sentenceId": "gaa3-shelf-rack-example-4",
       "sentence": "上架嘅枱面要保持整齊。",
       "jyutping": "soeng6 gaa3 ge3 toi2 min6 jiu3 bou2 ci4 zing2 cai4.",
       "meaning": "The table surface on the shelf needs to be kept tidy.",
-      "sourceWordId": "gaa3-shelf",
+      "sourceWordId": "gaa3-shelf-rack",
       "sourceWord": "架",
       "sourceWordJyutping": "gaa3",
       "sourceWordMeaning": "shelf / rack",
@@ -4242,14 +4242,14 @@
         "organization",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gaa3-shelf.json"
+      "sourceFile": "r2-backup/words/gaa3-shelf-rack.json"
     },
     {
-      "sentenceId": "dei6gwai6-cupboard-example-1",
+      "sentenceId": "dei6gwai6-floor-cabinet-example-1",
       "sentence": "我哋客廳有一個大地櫃。",
       "jyutping": "ngo5 dei6 haak3 teng1 jau5 jat1 go3 daai6 dei6 gwai6.",
       "meaning": "Our living room has a big floor cabinet.",
-      "sourceWordId": "dei6gwai6-cupboard",
+      "sourceWordId": "dei6gwai6-floor-cabinet",
       "sourceWord": "地櫃",
       "sourceWordJyutping": "dei6 gwai6",
       "sourceWordMeaning": "floor cabinet",
@@ -4261,14 +4261,14 @@
         "floor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6gwai6-cupboard.json"
+      "sourceFile": "r2-backup/words/dei6gwai6-floor-cabinet.json"
     },
     {
-      "sentenceId": "dei6gwai6-cupboard-example-2",
+      "sentenceId": "dei6gwai6-floor-cabinet-example-2",
       "sentence": "呢個地櫃用嚟放碗碟。",
       "jyutping": "ni1 go3 dei6 gwai6 jung6 lai4 fong3 wun2 dip6.",
       "meaning": "This floor cabinet is used to store bowls and plates.",
-      "sourceWordId": "dei6gwai6-cupboard",
+      "sourceWordId": "dei6gwai6-floor-cabinet",
       "sourceWord": "地櫃",
       "sourceWordJyutping": "dei6 gwai6",
       "sourceWordMeaning": "floor cabinet",
@@ -4280,14 +4280,14 @@
         "floor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6gwai6-cupboard.json"
+      "sourceFile": "r2-backup/words/dei6gwai6-floor-cabinet.json"
     },
     {
-      "sentenceId": "dei6gwai6-cupboard-example-3",
+      "sentenceId": "dei6gwai6-floor-cabinet-example-3",
       "sentence": "你可以喺地櫃度擺啲雜物。",
       "jyutping": "nei5 ho2 ji5 hai2 dei6 gwai6 dou6 baai2 di1 zaap6 mat6.",
       "meaning": "You can put some miscellaneous items in the floor cabinet.",
-      "sourceWordId": "dei6gwai6-cupboard",
+      "sourceWordId": "dei6gwai6-floor-cabinet",
       "sourceWord": "地櫃",
       "sourceWordJyutping": "dei6 gwai6",
       "sourceWordMeaning": "floor cabinet",
@@ -4299,14 +4299,14 @@
         "floor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6gwai6-cupboard.json"
+      "sourceFile": "r2-backup/words/dei6gwai6-floor-cabinet.json"
     },
     {
-      "sentenceId": "dei6gwai6-cupboard-example-4",
+      "sentenceId": "dei6gwai6-floor-cabinet-example-4",
       "sentence": "呢個新地櫃好啱我哋嘅房間。",
       "jyutping": "ni1 go3 san1 dei6 gwai6 hou2 ngaam1 ngo5 dei6 ge3 fong4 gaan1.",
       "meaning": "This new floor cabinet fits well in our room.",
-      "sourceWordId": "dei6gwai6-cupboard",
+      "sourceWordId": "dei6gwai6-floor-cabinet",
       "sourceWord": "地櫃",
       "sourceWordJyutping": "dei6 gwai6",
       "sourceWordMeaning": "floor cabinet",
@@ -4318,7 +4318,7 @@
         "floor",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6gwai6-cupboard.json"
+      "sourceFile": "r2-backup/words/dei6gwai6-floor-cabinet.json"
     },
     {
       "sentenceId": "laam4-basket-example-1",
@@ -4549,11 +4549,11 @@
       "sourceFile": "r2-backup/words/sau1naap6doi2-storage-bag.json"
     },
     {
-      "sentenceId": "syut3gwai6-fridge-example-1",
+      "sentenceId": "syut3gwai6-refrigerator-fridge-example-1",
       "sentence": "我哋嘅雪櫃裏面有啲水果。",
       "jyutping": "ngo5 dei6 ge3 syut3 gwai6 leoi5 min6 jau5 di1 seoi2 gwo2.",
       "meaning": "There are some fruits inside our fridge.",
-      "sourceWordId": "syut3gwai6-fridge",
+      "sourceWordId": "syut3gwai6-refrigerator-fridge",
       "sourceWord": "雪櫃",
       "sourceWordJyutping": "syut3 gwai6",
       "sourceWordMeaning": "refrigerator / fridge",
@@ -4565,14 +4565,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syut3gwai6-fridge.json"
+      "sourceFile": "r2-backup/words/syut3gwai6-refrigerator-fridge.json"
     },
     {
-      "sentenceId": "syut3gwai6-fridge-example-2",
+      "sentenceId": "syut3gwai6-refrigerator-fridge-example-2",
       "sentence": "你記唔記得關雪櫃門？",
       "jyutping": "nei5 gei3 m4 gei3 dak1 gwaan1 syut3 gwai6 mun4?",
       "meaning": "Did you remember to close the fridge door?",
-      "sourceWordId": "syut3gwai6-fridge",
+      "sourceWordId": "syut3gwai6-refrigerator-fridge",
       "sourceWord": "雪櫃",
       "sourceWordJyutping": "syut3 gwai6",
       "sourceWordMeaning": "refrigerator / fridge",
@@ -4584,14 +4584,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syut3gwai6-fridge.json"
+      "sourceFile": "r2-backup/words/syut3gwai6-refrigerator-fridge.json"
     },
     {
-      "sentenceId": "syut3gwai6-fridge-example-3",
+      "sentenceId": "syut3gwai6-refrigerator-fridge-example-3",
       "sentence": "呢部新雪櫃好慳電。",
       "jyutping": "ni1 bou6 san1 syut3 gwai6 hou2 haan1 din6.",
       "meaning": "This new fridge saves a lot of electricity.",
-      "sourceWordId": "syut3gwai6-fridge",
+      "sourceWordId": "syut3gwai6-refrigerator-fridge",
       "sourceWord": "雪櫃",
       "sourceWordJyutping": "syut3 gwai6",
       "sourceWordMeaning": "refrigerator / fridge",
@@ -4603,14 +4603,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syut3gwai6-fridge.json"
+      "sourceFile": "r2-backup/words/syut3gwai6-refrigerator-fridge.json"
     },
     {
-      "sentenceId": "syut3gwai6-fridge-example-4",
+      "sentenceId": "syut3gwai6-refrigerator-fridge-example-4",
       "sentence": "我想買一部大啲嘅雪櫃。",
       "jyutping": "ngo5 soeng2 maai5 jat1 bou6 daai6 di1 ge3 syut3 gwai6.",
       "meaning": "I want to buy a bigger fridge.",
-      "sourceWordId": "syut3gwai6-fridge",
+      "sourceWordId": "syut3gwai6-refrigerator-fridge",
       "sourceWord": "雪櫃",
       "sourceWordJyutping": "syut3 gwai6",
       "sourceWordMeaning": "refrigerator / fridge",
@@ -4622,14 +4622,14 @@
         "basic vocabulary",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syut3gwai6-fridge.json"
+      "sourceFile": "r2-backup/words/syut3gwai6-refrigerator-fridge.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-1",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-1",
       "sentence": "我屋企有部新嘅洗衣機。",
       "jyutping": "ngo5 uk1 kei2 jau5 bou6 san1 ge3 sai2 ji1 gei1.",
       "meaning": "I have a new washing machine at home.",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4640,14 +4640,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-2",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-2",
       "sentence": "洗衣機壞咗，唔洗衫啦。",
       "jyutping": "sai2 ji1 gei1 waai6 zo2, m4 sai2 saam1 laa1.",
       "meaning": "The washing machine is broken, so no washing clothes.",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4658,14 +4658,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-3",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-3",
       "sentence": "你識唔識點用洗衣機？",
       "jyutping": "nei5 sik1 m4 sik1 dim2 jung6 sai2 ji1 gei1?",
       "meaning": "Do you know how to use the washing machine?",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4676,14 +4676,14 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
-      "sentenceId": "sai2ji1gei1-washing-machine-example-4",
+      "sentenceId": "sai2ji1gei1-washing-machine-2-example-4",
       "sentence": "呢部洗衣機好慳水。",
       "jyutping": "ni1 bou6 sai2 ji1 gei1 hou2 haan1 seoi2.",
       "meaning": "This washing machine saves water.",
-      "sourceWordId": "sai2ji1gei1-washing-machine",
+      "sourceWordId": "sai2ji1gei1-washing-machine-2",
       "sourceWord": "洗衣機",
       "sourceWordJyutping": "sai2 ji1 gei1",
       "sourceWordMeaning": "washing machine",
@@ -4694,7 +4694,7 @@
         "basic",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine.json"
+      "sourceFile": "r2-backup/words/sai2ji1gei1-washing-machine-2.json"
     },
     {
       "sentenceId": "faan6bou1-rice-cooker-example-1",
@@ -4925,11 +4925,11 @@
       "sourceFile": "r2-backup/words/din6nou5-computer.json"
     },
     {
-      "sentenceId": "din6waa2-phone-example-1",
+      "sentenceId": "din6waa2-telephone-example-1",
       "sentence": "我部電話壞咗。",
       "jyutping": "Ngo5 bou6 din6 waa2 waai6 zo2.",
       "meaning": "My phone is broken.",
-      "sourceWordId": "din6waa2-phone",
+      "sourceWordId": "din6waa2-telephone",
       "sourceWord": "電話",
       "sourceWordJyutping": "din6 waa2",
       "sourceWordMeaning": "telephone",
@@ -4940,14 +4940,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6waa2-phone.json"
+      "sourceFile": "r2-backup/words/din6waa2-telephone.json"
     },
     {
-      "sentenceId": "din6waa2-phone-example-2",
+      "sentenceId": "din6waa2-telephone-example-2",
       "sentence": "你有冇電話號碼？",
       "jyutping": "Nei5 jau5 mou5 din6 waa2 hou6 maa5?",
       "meaning": "Do you have a phone number?",
-      "sourceWordId": "din6waa2-phone",
+      "sourceWordId": "din6waa2-telephone",
       "sourceWord": "電話",
       "sourceWordJyutping": "din6 waa2",
       "sourceWordMeaning": "telephone",
@@ -4958,14 +4958,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6waa2-phone.json"
+      "sourceFile": "r2-backup/words/din6waa2-telephone.json"
     },
     {
-      "sentenceId": "din6waa2-phone-example-3",
+      "sentenceId": "din6waa2-telephone-example-3",
       "sentence": "佢喺用電話傾偈。",
       "jyutping": "Keoi5 hai2 jung6 din6 waa2 king1 gai2.",
       "meaning": "He is talking on the phone.",
-      "sourceWordId": "din6waa2-phone",
+      "sourceWordId": "din6waa2-telephone",
       "sourceWord": "電話",
       "sourceWordJyutping": "din6 waa2",
       "sourceWordMeaning": "telephone",
@@ -4976,14 +4976,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6waa2-phone.json"
+      "sourceFile": "r2-backup/words/din6waa2-telephone.json"
     },
     {
-      "sentenceId": "din6waa2-phone-example-4",
+      "sentenceId": "din6waa2-telephone-example-4",
       "sentence": "我想借個電話打個畀你。",
       "jyutping": "Ngo5 soeng2 ze3 go3 din6 waa2 daa2 go3 bei2 nei5.",
       "meaning": "I want to borrow a phone to call you.",
-      "sourceWordId": "din6waa2-phone",
+      "sourceWordId": "din6waa2-telephone",
       "sourceWord": "電話",
       "sourceWordJyutping": "din6 waa2",
       "sourceWordMeaning": "telephone",
@@ -4994,14 +4994,14 @@
         "daily use",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6waa2-phone.json"
+      "sourceFile": "r2-backup/words/din6waa2-telephone.json"
     },
     {
-      "sentenceId": "ci3so2-toilet-example-1",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-1",
       "sentence": "你知唔知道廁所喺邊？",
       "jyutping": "nei5 zi1 m4 zi1 dou3 ci3 so2 hai2 bin1?",
       "meaning": "Do you know where the toilet is?",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -5013,14 +5013,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
-      "sentenceId": "ci3so2-toilet-example-2",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-2",
       "sentence": "我哋要去廁所洗手先。",
       "jyutping": "ngo5 dei6 jiu3 heoi3 ci3 so2 sai2 sau2 sin1.",
       "meaning": "We need to go to the toilet to wash our hands first.",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -5032,14 +5032,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
-      "sentenceId": "ci3so2-toilet-example-3",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-3",
       "sentence": "公司啲廁所幾乾淨。",
       "jyutping": "gung1 si1 di1 ci3 so2 gei2 gon1 zeng6.",
       "meaning": "The office toilets are quite clean.",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -5051,14 +5051,14 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
-      "sentenceId": "ci3so2-toilet-example-4",
+      "sentenceId": "ci3so2-toilet-washroom-restroom-example-4",
       "sentence": "佢去咗公眾廁所。",
       "jyutping": "keoi5 heoi3 zo2 gung1 zung3 ci3 so2.",
       "meaning": "He went to the public toilet.",
-      "sourceWordId": "ci3so2-toilet",
+      "sourceWordId": "ci3so2-toilet-washroom-restroom",
       "sourceWord": "廁所",
       "sourceWordJyutping": "ci3 so2",
       "sourceWordMeaning": "toilet / washroom / restroom",
@@ -5070,7 +5070,7 @@
         "location",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/ci3so2-toilet.json"
+      "sourceFile": "r2-backup/words/ci3so2-toilet-washroom-restroom.json"
     },
     {
       "sentenceId": "juk6gong1-bathtub-example-1",
@@ -5597,11 +5597,11 @@
       "sourceFile": "r2-backup/words/sai2tau4seoi2-shampoo.json"
     },
     {
-      "sentenceId": "cung1loeng4jik6-body-wash-example-1",
+      "sentenceId": "cung1loeng4jik6-body-wash-shower-gel-example-1",
       "sentence": "我唔記得買沖涼液喇。",
       "jyutping": "ngo5 m4 gei3 dak1 maai5 cung1 loeng4 jik6 laa3",
       "meaning": "I forgot to buy body wash.",
-      "sourceWordId": "cung1loeng4jik6-body-wash",
+      "sourceWordId": "cung1loeng4jik6-body-wash-shower-gel",
       "sourceWord": "沖涼液",
       "sourceWordJyutping": "cung1 loeng4 jik6",
       "sourceWordMeaning": "body wash / shower gel",
@@ -5613,14 +5613,14 @@
         "personal care",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash.json"
+      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash-shower-gel.json"
     },
     {
-      "sentenceId": "cung1loeng4jik6-body-wash-example-2",
+      "sentenceId": "cung1loeng4jik6-body-wash-shower-gel-example-2",
       "sentence": "呢款沖涼液好香。",
       "jyutping": "ni1 fun2 cung1 loeng4 jik6 hou2 hoeng1",
       "meaning": "This kind of body wash smells nice.",
-      "sourceWordId": "cung1loeng4jik6-body-wash",
+      "sourceWordId": "cung1loeng4jik6-body-wash-shower-gel",
       "sourceWord": "沖涼液",
       "sourceWordJyutping": "cung1 loeng4 jik6",
       "sourceWordMeaning": "body wash / shower gel",
@@ -5632,14 +5632,14 @@
         "personal care",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash.json"
+      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash-shower-gel.json"
     },
     {
-      "sentenceId": "cung1loeng4jik6-body-wash-example-3",
+      "sentenceId": "cung1loeng4jik6-body-wash-shower-gel-example-3",
       "sentence": "浴室入面冇沖涼液啦。",
       "jyutping": "juk6 sat1 jap6 min6 mou5 cung1 loeng4 jik6 laa1",
       "meaning": "There is no body wash in the bathroom.",
-      "sourceWordId": "cung1loeng4jik6-body-wash",
+      "sourceWordId": "cung1loeng4jik6-body-wash-shower-gel",
       "sourceWord": "沖涼液",
       "sourceWordJyutping": "cung1 loeng4 jik6",
       "sourceWordMeaning": "body wash / shower gel",
@@ -5651,14 +5651,14 @@
         "personal care",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash.json"
+      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash-shower-gel.json"
     },
     {
-      "sentenceId": "cung1loeng4jik6-body-wash-example-4",
+      "sentenceId": "cung1loeng4jik6-body-wash-shower-gel-example-4",
       "sentence": "你用緊邊隻沖涼液？",
       "jyutping": "nei5 jung6 gan2 bin1 zek3 cung1 loeng4 jik6?",
       "meaning": "Which body wash are you using?",
-      "sourceWordId": "cung1loeng4jik6-body-wash",
+      "sourceWordId": "cung1loeng4jik6-body-wash-shower-gel",
       "sourceWord": "沖涼液",
       "sourceWordJyutping": "cung1 loeng4 jik6",
       "sourceWordMeaning": "body wash / shower gel",
@@ -5670,7 +5670,7 @@
         "personal care",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash.json"
+      "sourceFile": "r2-backup/words/cung1loeng4jik6-body-wash-shower-gel.json"
     },
     {
       "sentenceId": "fei4zou6-soap-example-1",
@@ -5973,80 +5973,52 @@
       "sourceFile": "r2-backup/words/caat3ngaa4-brush-teeth.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-a-shower-example-1",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-1",
       "sentence": "我宜家去沖涼。",
       "jyutping": "ngo5 ji4 gaa1 heoi3 cung1 loeng4.",
       "meaning": "I'm going to take a shower now.",
-      "sourceWordId": "cung1loeng4-take-a-shower",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a wash",
-      "tags": [
-        "bathroom",
-        "daily routine",
-        "washing",
-        "hygiene",
-        "conversation",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-a-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-a-shower-example-2",
-      "sentence": "沖涼之後我覺得好舒服。",
-      "jyutping": "cung1 loeng4 zi1 hau6 ngo5 gok3 dak1 hou2 syu1 fuk6.",
-      "meaning": "I feel very comfortable after taking a shower.",
-      "sourceWordId": "cung1loeng4-take-a-shower",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-2",
+      "sentence": "沖完涼之後我覺得好舒服。",
+      "jyutping": "cung1 jyun4 loeng4 zi1 hau6 ngo5 gok3 dak1 hou2 syu1 fuk6.",
+      "meaning": "I feel really comfortable after taking a shower.",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a wash",
-      "tags": [
-        "bathroom",
-        "daily routine",
-        "washing",
-        "hygiene",
-        "conversation",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-a-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-a-shower-example-3",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-3",
       "sentence": "你今晚幾點沖涼？",
       "jyutping": "nei5 gam1 maan5 gei2 dim2 cung1 loeng4?",
-      "meaning": "What time will you take a shower tonight?",
-      "sourceWordId": "cung1loeng4-take-a-shower",
+      "meaning": "What time are you taking a shower tonight?",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a wash",
-      "tags": [
-        "bathroom",
-        "daily routine",
-        "washing",
-        "hygiene",
-        "conversation",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-a-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
-      "sentenceId": "cung1loeng4-take-a-shower-example-4",
+      "sentenceId": "cung1loeng4-to-take-a-shower-to-bathe-example-4",
       "sentence": "沖涼嘅時候唔好用太熱嘅水。",
       "jyutping": "cung1 loeng4 ge3 si4 hau6 m4 hou2 jung6 taai3 jit6 ge3 seoi2.",
-      "meaning": "Don't use water that is too hot when taking a shower.",
-      "sourceWordId": "cung1loeng4-take-a-shower",
+      "meaning": "Don't use water that's too hot when showering.",
+      "sourceWordId": "cung1loeng4-to-take-a-shower-to-bathe",
       "sourceWord": "沖涼",
       "sourceWordJyutping": "cung1 loeng4",
-      "sourceWordMeaning": "take a wash",
-      "tags": [
-        "bathroom",
-        "daily routine",
-        "washing",
-        "hygiene",
-        "conversation",
-        "level-1"
-      ],
-      "sourceFile": "r2-backup/words/cung1loeng4-take-a-shower.json"
+      "sourceWordMeaning": "to take a shower; to bathe",
+      "tags": [],
+      "sourceFile": "r2-backup/words/cung1loeng4-to-take-a-shower-to-bathe.json"
     },
     {
       "sentenceId": "min6gan1-face-towel-example-1",
@@ -6125,11 +6097,11 @@
       "sourceFile": "r2-backup/words/min6gan1-face-towel.json"
     },
     {
-      "sentenceId": "sou3baa2-sweep-example-1",
+      "sentenceId": "sou3baa2-broom-example-1",
       "sentence": "屋企唔乾淨，我要攞掃把嚟掃。",
       "jyutping": "uk1 kei2 m4 gon1 zim1, ngo5 jiu3 lo2 sou3 baa2 lai4 sou3.",
       "meaning": "The house is not clean, I need to take the broom to sweep.",
-      "sourceWordId": "sou3baa2-sweep",
+      "sourceWordId": "sou3baa2-broom",
       "sourceWord": "掃把",
       "sourceWordJyutping": "sou3 baa2",
       "sourceWordMeaning": "broom",
@@ -6141,14 +6113,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sou3baa2-sweep.json"
+      "sourceFile": "r2-backup/words/sou3baa2-broom.json"
     },
     {
-      "sentenceId": "sou3baa2-sweep-example-2",
+      "sentenceId": "sou3baa2-broom-example-2",
       "sentence": "掃把放咗喺角落度。",
       "jyutping": "sou3 baa2 fong3 zo2 hai2 gok3 lok6 dou6.",
       "meaning": "The broom is placed in the corner.",
-      "sourceWordId": "sou3baa2-sweep",
+      "sourceWordId": "sou3baa2-broom",
       "sourceWord": "掃把",
       "sourceWordJyutping": "sou3 baa2",
       "sourceWordMeaning": "broom",
@@ -6160,14 +6132,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sou3baa2-sweep.json"
+      "sourceFile": "r2-backup/words/sou3baa2-broom.json"
     },
     {
-      "sentenceId": "sou3baa2-sweep-example-3",
+      "sentenceId": "sou3baa2-broom-example-3",
       "sentence": "呢個掃把好似幾好用喎。",
       "jyutping": "ni1 go3 sou3 baa2 hou2 ci5 gei2 hou2 jung6 wo3.",
       "meaning": "This broom seems to be quite useful.",
-      "sourceWordId": "sou3baa2-sweep",
+      "sourceWordId": "sou3baa2-broom",
       "sourceWord": "掃把",
       "sourceWordJyutping": "sou3 baa2",
       "sourceWordMeaning": "broom",
@@ -6179,14 +6151,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sou3baa2-sweep.json"
+      "sourceFile": "r2-backup/words/sou3baa2-broom.json"
     },
     {
-      "sentenceId": "sou3baa2-sweep-example-4",
+      "sentenceId": "sou3baa2-broom-example-4",
       "sentence": "小朋友學用掃把掃地。",
       "jyutping": "siu2 pang4 jau5 hok6 jung6 sou3 baa2 sou3 dei6.",
       "meaning": "The kids are learning to sweep the floor with the broom.",
-      "sourceWordId": "sou3baa2-sweep",
+      "sourceWordId": "sou3baa2-broom",
       "sourceWord": "掃把",
       "sourceWordJyutping": "sou3 baa2",
       "sourceWordMeaning": "broom",
@@ -6198,7 +6170,7 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sou3baa2-sweep.json"
+      "sourceFile": "r2-backup/words/sou3baa2-broom.json"
     },
     {
       "sentenceId": "to1baa2-mop-example-1",
@@ -6953,11 +6925,11 @@
       "sourceFile": "r2-backup/words/caan1teng1-dining-room.json"
     },
     {
-      "sentenceId": "syu1fong4-study-example-1",
+      "sentenceId": "syu1fong4-study-study-room-example-1",
       "sentence": "我鍾意喺書房睇書。",
       "jyutping": "ngo5 zung1 ji3 hai2 syu1 fong4 tai2 syu1",
       "meaning": "I like reading books in the study room.",
-      "sourceWordId": "syu1fong4-study",
+      "sourceWordId": "syu1fong4-study-study-room",
       "sourceWord": "書房",
       "sourceWordJyutping": "syu1 fong4",
       "sourceWordMeaning": "study / study room",
@@ -6969,14 +6941,14 @@
         "house",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syu1fong4-study.json"
+      "sourceFile": "r2-backup/words/syu1fong4-study-study-room.json"
     },
     {
-      "sentenceId": "syu1fong4-study-example-2",
+      "sentenceId": "syu1fong4-study-study-room-example-2",
       "sentence": "書房入面有一張大書桌。",
       "jyutping": "syu1 fong4 jap6 min6 jau5 jat1 zoeng1 daai6 syu1 coek3",
       "meaning": "There is a big desk inside the study room.",
-      "sourceWordId": "syu1fong4-study",
+      "sourceWordId": "syu1fong4-study-study-room",
       "sourceWord": "書房",
       "sourceWordJyutping": "syu1 fong4",
       "sourceWordMeaning": "study / study room",
@@ -6988,14 +6960,14 @@
         "house",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syu1fong4-study.json"
+      "sourceFile": "r2-backup/words/syu1fong4-study-study-room.json"
     },
     {
-      "sentenceId": "syu1fong4-study-example-3",
+      "sentenceId": "syu1fong4-study-study-room-example-3",
       "sentence": "媽咪話等陣喺書房寫功課。",
       "jyutping": "maa4 mi4 waa6 dang2 zan6 hai2 syu1 fong4 se2 gung1 fo3",
       "meaning": "Mom said to do homework later in the study room.",
-      "sourceWordId": "syu1fong4-study",
+      "sourceWordId": "syu1fong4-study-study-room",
       "sourceWord": "書房",
       "sourceWordJyutping": "syu1 fong4",
       "sourceWordMeaning": "study / study room",
@@ -7007,14 +6979,14 @@
         "house",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syu1fong4-study.json"
+      "sourceFile": "r2-backup/words/syu1fong4-study-study-room.json"
     },
     {
-      "sentenceId": "syu1fong4-study-example-4",
+      "sentenceId": "syu1fong4-study-study-room-example-4",
       "sentence": "我哋換咗新書房，空間大咗好多。",
       "jyutping": "ngo5 dei6 wun6 zo2 san1 syu1 fong4, hung1 gaan1 daai6 zo2 hou2 do1",
       "meaning": "We changed to a new study room; the space is much bigger.",
-      "sourceWordId": "syu1fong4-study",
+      "sourceWordId": "syu1fong4-study-study-room",
       "sourceWord": "書房",
       "sourceWordJyutping": "syu1 fong4",
       "sourceWordMeaning": "study / study room",
@@ -7026,80 +6998,80 @@
         "house",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/syu1fong4-study.json"
+      "sourceFile": "r2-backup/words/syu1fong4-study-study-room.json"
     },
     {
       "sentenceId": "faa1jyun4-garden-example-1",
-      "sentence": "我哋喺花園度玩。",
-      "jyutping": "ngo5 dei6 hai2 faa1 jyun4 dou6 waan2.",
-      "meaning": "We are playing in the garden.",
+      "sentence": "我屋企後面有個花園。",
+      "jyutping": "ngo5 uk1 kei2 hau6 min6 jau5 go3 faa1 jyun4.",
+      "meaning": "There is a garden behind my home.",
       "sourceWordId": "faa1jyun4-garden",
       "sourceWord": "花園",
       "sourceWordJyutping": "faa1 jyun4",
       "sourceWordMeaning": "garden",
       "tags": [
-        "outdoor",
+        "plants and gardening",
         "nature",
-        "plants",
         "home",
-        "location",
+        "outdoor space",
+        "everyday vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
     },
     {
       "sentenceId": "faa1jyun4-garden-example-2",
-      "sentence": "花園入面有好多花。",
-      "jyutping": "faa1 jyun4 jap6 min6 jau5 hou2 do1 faa1.",
-      "meaning": "There are many flowers in the garden.",
+      "sentence": "放工之後，我鍾意去花園行一陣。",
+      "jyutping": "fong3 gung1 zi1 hau6, ngo5 zung1 ji3 heoi3 faa1 jyun4 hang4 jat1 zan6.",
+      "meaning": "After work, I like to go for a walk in the garden.",
       "sourceWordId": "faa1jyun4-garden",
       "sourceWord": "花園",
       "sourceWordJyutping": "faa1 jyun4",
       "sourceWordMeaning": "garden",
       "tags": [
-        "outdoor",
+        "plants and gardening",
         "nature",
-        "plants",
         "home",
-        "location",
+        "outdoor space",
+        "everyday vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
     },
     {
       "sentenceId": "faa1jyun4-garden-example-3",
-      "sentence": "你去掃花園未？",
-      "jyutping": "nei5 heoi3 sou3 faa1 jyun4 mei6?",
-      "meaning": "Have you cleaned the garden yet?",
+      "sentence": "呢個花園種咗好多玫瑰。",
+      "jyutping": "ni1 go3 faa1 jyun4 zung3 zo2 hou2 do1 mui4 gwai3.",
+      "meaning": "This garden has a lot of roses planted in it.",
       "sourceWordId": "faa1jyun4-garden",
       "sourceWord": "花園",
       "sourceWordJyutping": "faa1 jyun4",
       "sourceWordMeaning": "garden",
       "tags": [
-        "outdoor",
+        "plants and gardening",
         "nature",
-        "plants",
         "home",
-        "location",
+        "outdoor space",
+        "everyday vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
     },
     {
       "sentenceId": "faa1jyun4-garden-example-4",
-      "sentence": "我鍾意喺靚花園度飲茶。",
-      "jyutping": "ngo5 zung1 ji3 hai2 leng3 faa1 jyun4 dou6 jam2 caa4.",
-      "meaning": "I like having tea in a beautiful garden.",
+      "sentence": "阿媽成日喺花園度打理啲植物。",
+      "jyutping": "aa3 maa1 seng4 jat6 hai2 faa1 jyun4 dou6 daa2 lei5 di1 zing6 mat6.",
+      "meaning": "My mum often takes care of the plants in the garden.",
       "sourceWordId": "faa1jyun4-garden",
       "sourceWord": "花園",
       "sourceWordJyutping": "faa1 jyun4",
       "sourceWordMeaning": "garden",
       "tags": [
-        "outdoor",
+        "plants and gardening",
         "nature",
-        "plants",
         "home",
-        "location",
+        "outdoor space",
+        "everyday vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/faa1jyun4-garden.json"
@@ -8005,11 +7977,11 @@
       "sourceFile": "r2-backup/words/coeng1lim4-curtain.json"
     },
     {
-      "sentenceId": "dei6taan2-rug-example-1",
+      "sentenceId": "dei6taan2-rug-carpet-example-1",
       "sentence": "我新買咗張紅色嘅地毯。",
       "jyutping": "ngo5 san1 maai5 zo2 zoeng1 hung4 sik1 ge3 dei6 taan2.",
       "meaning": "I just bought a new red rug.",
-      "sourceWordId": "dei6taan2-rug",
+      "sourceWordId": "dei6taan2-rug-carpet",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "rug / carpet",
@@ -8021,14 +7993,14 @@
         "carpet",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-rug.json"
+      "sourceFile": "r2-backup/words/dei6taan2-rug-carpet.json"
     },
     {
-      "sentenceId": "dei6taan2-rug-example-2",
+      "sentenceId": "dei6taan2-rug-carpet-example-2",
       "sentence": "地毯鋪咗之後屋企感覺舒服好多。",
       "jyutping": "dei6 taan2 pou1 zo2 zi1 hau6 nguk1 kei2 gam2 gok3 syu1 fuk6 hou2 do1.",
       "meaning": "After laying the carpet, the home feels much more comfortable.",
-      "sourceWordId": "dei6taan2-rug",
+      "sourceWordId": "dei6taan2-rug-carpet",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "rug / carpet",
@@ -8040,14 +8012,14 @@
         "carpet",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-rug.json"
+      "sourceFile": "r2-backup/words/dei6taan2-rug-carpet.json"
     },
     {
-      "sentenceId": "dei6taan2-rug-example-3",
+      "sentenceId": "dei6taan2-rug-carpet-example-3",
       "sentence": "呢張地毯幾時買嘅？",
       "jyutping": "ni1 zoeng1 dei6 taan2 gei2 si4 maai5 ge3?",
       "meaning": "When did you buy this rug?",
-      "sourceWordId": "dei6taan2-rug",
+      "sourceWordId": "dei6taan2-rug-carpet",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "rug / carpet",
@@ -8059,14 +8031,14 @@
         "carpet",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-rug.json"
+      "sourceFile": "r2-backup/words/dei6taan2-rug-carpet.json"
     },
     {
-      "sentenceId": "dei6taan2-rug-example-4",
+      "sentenceId": "dei6taan2-rug-carpet-example-4",
       "sentence": "冬天鋪地毯可以保暖。",
       "jyutping": "dung1 tin1 pou1 dei6 taan2 ho2 ji5 bou2 nyun5.",
       "meaning": "Laying a rug in winter can keep you warm.",
-      "sourceWordId": "dei6taan2-rug",
+      "sourceWordId": "dei6taan2-rug-carpet",
       "sourceWord": "地毯",
       "sourceWordJyutping": "dei6 taan2",
       "sourceWordMeaning": "rug / carpet",
@@ -8078,80 +8050,84 @@
         "carpet",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dei6taan2-rug.json"
+      "sourceFile": "r2-backup/words/dei6taan2-rug-carpet.json"
     },
     {
       "sentenceId": "pun4zoi1-potted-plant-example-1",
-      "sentence": "我屋企有好多盆栽。",
-      "jyutping": "ngo5 uk1 kei2 jau5 hou2 do1 pun4 zoi1.",
-      "meaning": "I have many potted plants at home.",
+      "sentence": "我屋企有幾盆栽擺喺窗邊。",
+      "jyutping": "ngo5 uk1 kei2 jau5 gei2 pun4 zoi1 baai2 hai2 coeng1 bin1.",
+      "meaning": "I have a few potted plants by the window at home.",
       "sourceWordId": "pun4zoi1-potted-plant",
       "sourceWord": "盆栽",
       "sourceWordJyutping": "pun4 zoi1",
       "sourceWordMeaning": "potted plant",
       "tags": [
-        "furniture",
-        "home_decor",
         "plants",
         "gardening",
-        "countable_noun",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
     },
     {
       "sentenceId": "pun4zoi1-potted-plant-example-2",
-      "sentence": "呢盆盆栽係我買俾你嘅。",
-      "jyutping": "ni1 pun4 pun4 zoi1 hai6 ngo5 maai5 bei2 nei5 ge3.",
-      "meaning": "This potted plant is the one I bought for you.",
+      "sentence": "佢買咗一盆栽送畀阿媽。",
+      "jyutping": "keoi5 maai5 zo2 jat1 pun4 zoi1 sung3 bei2 aa3 maa1.",
+      "meaning": "He bought a potted plant as a gift for his mom.",
       "sourceWordId": "pun4zoi1-potted-plant",
       "sourceWord": "盆栽",
       "sourceWordJyutping": "pun4 zoi1",
       "sourceWordMeaning": "potted plant",
       "tags": [
-        "furniture",
-        "home_decor",
         "plants",
         "gardening",
-        "countable_noun",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
     },
     {
       "sentenceId": "pun4zoi1-potted-plant-example-3",
-      "sentence": "盆栽放喺窗台好靚。",
-      "jyutping": "pun4 zoi1 fong3 hai2 coeng1 toi4 hou2 leng3.",
-      "meaning": "The potted plant looks nice on the windowsill.",
+      "sentence": "呢盆栽幾靚，不過要日日淋水。",
+      "jyutping": "ni1 pun4 zoi1 gei2 leng3, bat1 gwo3 jiu3 jat6 jat6 lam4 seoi2.",
+      "meaning": "This potted plant is pretty, but it needs watering every day.",
       "sourceWordId": "pun4zoi1-potted-plant",
       "sourceWord": "盆栽",
       "sourceWordJyutping": "pun4 zoi1",
       "sourceWordMeaning": "potted plant",
       "tags": [
-        "furniture",
-        "home_decor",
         "plants",
         "gardening",
-        "countable_noun",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
     },
     {
       "sentenceId": "pun4zoi1-potted-plant-example-4",
-      "sentence": "你識唔識照顧盆栽？",
-      "jyutping": "nei5 sik1 m4 sik1 ziu3 gu3 pun4 zoi1?",
-      "meaning": "Do you know how to take care of potted plants?",
+      "sentence": "店入面賣好多盆栽同花盆。",
+      "jyutping": "dim3 jap6 min6 maai6 hou2 do1 pun4 zoi1 tung4 faa1 pun4.",
+      "meaning": "The shop sells lots of potted plants and flowerpots.",
       "sourceWordId": "pun4zoi1-potted-plant",
       "sourceWord": "盆栽",
       "sourceWordJyutping": "pun4 zoi1",
       "sourceWordMeaning": "potted plant",
       "tags": [
-        "furniture",
-        "home_decor",
         "plants",
         "gardening",
-        "countable_noun",
+        "home",
+        "nouns",
+        "everyday Cantonese",
+        "basic vocabulary",
         "level-1"
       ],
       "sourceFile": "r2-backup/words/pun4zoi1-potted-plant.json"
@@ -8609,11 +8585,11 @@
       "sourceFile": "r2-backup/words/dang1paau1-light-bulb.json"
     },
     {
-      "sentenceId": "sau2din6tung2-torch-example-1",
+      "sentenceId": "sau2din6tung2-torch-flashlight-example-1",
       "sentence": "我今晚出街記得帶手電筒。",
       "jyutping": "ngo5 gam1 maan5 ceot1 gaai1 gei3 dak1 daai3 sau2 din6 tung2.",
       "meaning": "Remember to bring a torch when you go out tonight.",
-      "sourceWordId": "sau2din6tung2-torch",
+      "sourceWordId": "sau2din6tung2-torch-flashlight",
       "sourceWord": "手電筒",
       "sourceWordJyutping": "sau2 din6 tung2",
       "sourceWordMeaning": "torch / flashlight",
@@ -8625,14 +8601,14 @@
         "handheld",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau2din6tung2-torch.json"
+      "sourceFile": "r2-backup/words/sau2din6tung2-torch-flashlight.json"
     },
     {
-      "sentenceId": "sau2din6tung2-torch-example-2",
+      "sentenceId": "sau2din6tung2-torch-flashlight-example-2",
       "sentence": "停電嘅時候我用手電筒照路。",
       "jyutping": "ting4 din6 ge3 si4 hau6 ngo5 jung6 sau2 din6 tung2 ziu3 lou6.",
       "meaning": "I use a flashlight to light the way when there is a power cut.",
-      "sourceWordId": "sau2din6tung2-torch",
+      "sourceWordId": "sau2din6tung2-torch-flashlight",
       "sourceWord": "手電筒",
       "sourceWordJyutping": "sau2 din6 tung2",
       "sourceWordMeaning": "torch / flashlight",
@@ -8644,14 +8620,14 @@
         "handheld",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau2din6tung2-torch.json"
+      "sourceFile": "r2-backup/words/sau2din6tung2-torch-flashlight.json"
     },
     {
-      "sentenceId": "sau2din6tung2-torch-example-3",
+      "sentenceId": "sau2din6tung2-torch-flashlight-example-3",
       "sentence": "手電筒啲電池用晒，要換新嘅。",
       "jyutping": "sau2 din6 tung2 di1 din6 ci4 jung6 saai3, jiu3 wun6 san1 ge3.",
       "meaning": "The flashlight’s batteries are all used up; need to replace them.",
-      "sourceWordId": "sau2din6tung2-torch",
+      "sourceWordId": "sau2din6tung2-torch-flashlight",
       "sourceWord": "手電筒",
       "sourceWordJyutping": "sau2 din6 tung2",
       "sourceWordMeaning": "torch / flashlight",
@@ -8663,14 +8639,14 @@
         "handheld",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau2din6tung2-torch.json"
+      "sourceFile": "r2-backup/words/sau2din6tung2-torch-flashlight.json"
     },
     {
-      "sentenceId": "sau2din6tung2-torch-example-4",
+      "sentenceId": "sau2din6tung2-torch-flashlight-example-4",
       "sentence": "行山帶手電筒可以幫到手。",
       "jyutping": "haang4 saan1 daai3 sau2 din6 tung2 ho2 ji5 bong1 dou3 sau2.",
       "meaning": "Bringing a torch when hiking can be helpful.",
-      "sourceWordId": "sau2din6tung2-torch",
+      "sourceWordId": "sau2din6tung2-torch-flashlight",
       "sourceWord": "手電筒",
       "sourceWordJyutping": "sau2 din6 tung2",
       "sourceWordMeaning": "torch / flashlight",
@@ -8682,7 +8658,7 @@
         "handheld",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau2din6tung2-torch.json"
+      "sourceFile": "r2-backup/words/sau2din6tung2-torch-flashlight.json"
     },
     {
       "sentenceId": "je6dang1-night-light-example-1",
@@ -8837,11 +8813,11 @@
       "sourceFile": "r2-backup/words/zo6dei6dang1-floor-lamp.json"
     },
     {
-      "sentenceId": "dang1zaau3-lamp-shade-example-1",
+      "sentenceId": "dang1zaau3-lampshade-example-1",
       "sentence": "呢個燈罩好靚。",
       "jyutping": "ni1 go3 dang1 zaau3 hou2 leng3.",
       "meaning": "This lampshade is very pretty.",
-      "sourceWordId": "dang1zaau3-lamp-shade",
+      "sourceWordId": "dang1zaau3-lampshade",
       "sourceWord": "燈罩",
       "sourceWordJyutping": "dang1 zaau3",
       "sourceWordMeaning": "lampshade",
@@ -8853,14 +8829,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1zaau3-lamp-shade.json"
+      "sourceFile": "r2-backup/words/dang1zaau3-lampshade.json"
     },
     {
-      "sentenceId": "dang1zaau3-lamp-shade-example-2",
+      "sentenceId": "dang1zaau3-lampshade-example-2",
       "sentence": "我想換個新的燈罩。",
       "jyutping": "ngo5 soeng2 wun6 go3 san1 dik1 dang1 zaau3.",
       "meaning": "I want to change to a new lampshade.",
-      "sourceWordId": "dang1zaau3-lamp-shade",
+      "sourceWordId": "dang1zaau3-lampshade",
       "sourceWord": "燈罩",
       "sourceWordJyutping": "dang1 zaau3",
       "sourceWordMeaning": "lampshade",
@@ -8872,14 +8848,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1zaau3-lamp-shade.json"
+      "sourceFile": "r2-backup/words/dang1zaau3-lampshade.json"
     },
     {
-      "sentenceId": "dang1zaau3-lamp-shade-example-3",
+      "sentenceId": "dang1zaau3-lampshade-example-3",
       "sentence": "燈罩上面有啲塵。",
       "jyutping": "dang1 zaau3 soeng6 min6 jau5 di1 can4.",
       "meaning": "There is some dust on the lampshade.",
-      "sourceWordId": "dang1zaau3-lamp-shade",
+      "sourceWordId": "dang1zaau3-lampshade",
       "sourceWord": "燈罩",
       "sourceWordJyutping": "dang1 zaau3",
       "sourceWordMeaning": "lampshade",
@@ -8891,14 +8867,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1zaau3-lamp-shade.json"
+      "sourceFile": "r2-backup/words/dang1zaau3-lampshade.json"
     },
     {
-      "sentenceId": "dang1zaau3-lamp-shade-example-4",
+      "sentenceId": "dang1zaau3-lampshade-example-4",
       "sentence": "佢買咗個黃色嘅燈罩。",
       "jyutping": "keoi5 maai5 zo2 go3 wong4 sik1 ge3 dang1 zaau3.",
       "meaning": "He/She bought a yellow lampshade.",
-      "sourceWordId": "dang1zaau3-lamp-shade",
+      "sourceWordId": "dang1zaau3-lampshade",
       "sourceWord": "燈罩",
       "sourceWordJyutping": "dang1 zaau3",
       "sourceWordMeaning": "lampshade",
@@ -8910,14 +8886,14 @@
         "beginner",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/dang1zaau3-lamp-shade.json"
+      "sourceFile": "r2-backup/words/dang1zaau3-lampshade.json"
     },
     {
-      "sentenceId": "hoi1dang1-turn-on-light-example-1",
+      "sentenceId": "hoi1dang1-turn-on-the-light-example-1",
       "sentence": "夜晚太黑，唔該開燈啦。",
       "jyutping": "je6 maan5 taai3 hak1, m4 goi1 hoi1 dang1 laa1.",
       "meaning": "It's too dark at night, please turn on the light.",
-      "sourceWordId": "hoi1dang1-turn-on-light",
+      "sourceWordId": "hoi1dang1-turn-on-the-light",
       "sourceWord": "開燈",
       "sourceWordJyutping": "hoi1 dang1",
       "sourceWordMeaning": "turn on the light",
@@ -8929,14 +8905,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-light.json"
+      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-the-light.json"
     },
     {
-      "sentenceId": "hoi1dang1-turn-on-light-example-2",
+      "sentenceId": "hoi1dang1-turn-on-the-light-example-2",
       "sentence": "我入嚟先開燈。",
       "jyutping": "ngo5 jap6 lai4 sin1 hoi1 dang1.",
       "meaning": "I turn on the light first when I come in.",
-      "sourceWordId": "hoi1dang1-turn-on-light",
+      "sourceWordId": "hoi1dang1-turn-on-the-light",
       "sourceWord": "開燈",
       "sourceWordJyutping": "hoi1 dang1",
       "sourceWordMeaning": "turn on the light",
@@ -8948,14 +8924,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-light.json"
+      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-the-light.json"
     },
     {
-      "sentenceId": "hoi1dang1-turn-on-light-example-3",
+      "sentenceId": "hoi1dang1-turn-on-the-light-example-3",
       "sentence": "你唔好忘記開燈啊！",
       "jyutping": "nei5 m4 hou2 mong4 gei3 hoi1 dang1 aa3!",
       "meaning": "Don’t forget to turn on the light!",
-      "sourceWordId": "hoi1dang1-turn-on-light",
+      "sourceWordId": "hoi1dang1-turn-on-the-light",
       "sourceWord": "開燈",
       "sourceWordJyutping": "hoi1 dang1",
       "sourceWordMeaning": "turn on the light",
@@ -8967,14 +8943,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-light.json"
+      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-the-light.json"
     },
     {
-      "sentenceId": "hoi1dang1-turn-on-light-example-4",
+      "sentenceId": "hoi1dang1-turn-on-the-light-example-4",
       "sentence": "屋企冇人嘅時候記得關燈，唔好只係開燈。",
       "jyutping": "uk1 kei2 mou5 jan4 ge3 si4 hau6 gei3 dak1 gwaan1 dang1, m4 hou2 zi2 hai6 hoi1 dang1.",
       "meaning": "Remember to switch off the lights when no one is home, not just turn them on.",
-      "sourceWordId": "hoi1dang1-turn-on-light",
+      "sourceWordId": "hoi1dang1-turn-on-the-light",
       "sourceWord": "開燈",
       "sourceWordJyutping": "hoi1 dang1",
       "sourceWordMeaning": "turn on the light",
@@ -8986,14 +8962,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-light.json"
+      "sourceFile": "r2-backup/words/hoi1dang1-turn-on-the-light.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-1",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-1",
       "sentence": "訓覺之前記住關燈。",
       "jyutping": "fan3 gaau3 zi1 cin4 gei3 zyu6 gwaan1 dang1.",
       "meaning": "Remember to turn off the light before sleeping.",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -9005,14 +8981,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-2",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-2",
       "sentence": "可以幫我關燈嗎？",
       "jyutping": "ho2 ji5 bong1 ngo5 gwaan1 dang1 maa3?",
       "meaning": "Can you help me turn off the light?",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -9024,14 +9000,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-3",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-3",
       "sentence": "出門時要關燈。",
       "jyutping": "ceot1 mun4 si4 jiu3 gwaan1 dang1.",
       "meaning": "You need to turn off the light when going out.",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -9043,14 +9019,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
-      "sentenceId": "gwaan1dang1-turn-off-light-example-4",
+      "sentenceId": "gwaan1dang1-turn-off-the-light-example-4",
       "sentence": "佢已經關燈瞓覺喇。",
       "jyutping": "keoi5 ji5 ging1 gwaan1 dang1 fan3 gaau3 laa3.",
       "meaning": "He already turned off the light and is sleeping.",
-      "sourceWordId": "gwaan1dang1-turn-off-light",
+      "sourceWordId": "gwaan1dang1-turn-off-the-light",
       "sourceWord": "關燈",
       "sourceWordJyutping": "gwaan1 dang1",
       "sourceWordMeaning": "turn off the light",
@@ -9062,7 +9038,7 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-light.json"
+      "sourceFile": "r2-backup/words/gwaan1dang1-turn-off-the-light.json"
     },
     {
       "sentenceId": "mun4beng2-door-handle-example-1",
@@ -9369,11 +9345,11 @@
       "sourceFile": "r2-backup/words/mun4zung1-doorbell.json"
     },
     {
-      "sentenceId": "mun4hau2-doorway-example-1",
+      "sentenceId": "mun4hau2-doorway-entrance-example-1",
       "sentence": "我喺門口等你。",
       "jyutping": "ngo5 hai2 mun4 hau2 dang2 nei5.",
       "meaning": "I am waiting for you at the doorway.",
-      "sourceWordId": "mun4hau2-doorway",
+      "sourceWordId": "mun4hau2-doorway-entrance",
       "sourceWord": "門口",
       "sourceWordJyutping": "mun4 hau2",
       "sourceWordMeaning": "doorway / entrance",
@@ -9385,14 +9361,14 @@
         "doors_and_windows",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mun4hau2-doorway.json"
+      "sourceFile": "r2-backup/words/mun4hau2-doorway-entrance.json"
     },
     {
-      "sentenceId": "mun4hau2-doorway-example-2",
+      "sentenceId": "mun4hau2-doorway-entrance-example-2",
       "sentence": "門口有個郵箱。",
       "jyutping": "mun4 hau2 jau5 go3 jau4 soeng1.",
       "meaning": "There is a mailbox at the doorway.",
-      "sourceWordId": "mun4hau2-doorway",
+      "sourceWordId": "mun4hau2-doorway-entrance",
       "sourceWord": "門口",
       "sourceWordJyutping": "mun4 hau2",
       "sourceWordMeaning": "doorway / entrance",
@@ -9404,14 +9380,14 @@
         "doors_and_windows",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mun4hau2-doorway.json"
+      "sourceFile": "r2-backup/words/mun4hau2-doorway-entrance.json"
     },
     {
-      "sentenceId": "mun4hau2-doorway-example-3",
+      "sentenceId": "mun4hau2-doorway-entrance-example-3",
       "sentence": "請喺門口脫鞋。",
       "jyutping": "cing2 hai2 mun4 hau2 tyut3 haai4.",
       "meaning": "Please take off your shoes at the doorway.",
-      "sourceWordId": "mun4hau2-doorway",
+      "sourceWordId": "mun4hau2-doorway-entrance",
       "sourceWord": "門口",
       "sourceWordJyutping": "mun4 hau2",
       "sourceWordMeaning": "doorway / entrance",
@@ -9423,14 +9399,14 @@
         "doors_and_windows",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mun4hau2-doorway.json"
+      "sourceFile": "r2-backup/words/mun4hau2-doorway-entrance.json"
     },
     {
-      "sentenceId": "mun4hau2-doorway-example-4",
+      "sentenceId": "mun4hau2-doorway-entrance-example-4",
       "sentence": "門口好多人，唔好阻住路。",
       "jyutping": "mun4 hau2 hou2 do1 jan4, m4 hou2 zo2 zyu6 lou6.",
       "meaning": "There are many people at the doorway, don’t block the way.",
-      "sourceWordId": "mun4hau2-doorway",
+      "sourceWordId": "mun4hau2-doorway-entrance",
       "sourceWord": "門口",
       "sourceWordJyutping": "mun4 hau2",
       "sourceWordMeaning": "doorway / entrance",
@@ -9442,7 +9418,7 @@
         "doors_and_windows",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/mun4hau2-doorway.json"
+      "sourceFile": "r2-backup/words/mun4hau2-doorway-entrance.json"
     },
     {
       "sentenceId": "coeng1toi4-windowsill-example-1",
@@ -9455,7 +9431,6 @@
       "sourceWordMeaning": "windowsill",
       "tags": [
         "home",
-        "furniture",
         "household items",
         "windows",
         "interior",
@@ -9465,16 +9440,15 @@
     },
     {
       "sentenceId": "coeng1toi4-windowsill-example-2",
-      "sentence": "窗台好企理，可以擺啲裝飾品。",
-      "jyutping": "coeng1 toi4 hou2 kei5 lei5, ho2 ji5 baai2 di1 zong1 sik1 ban2.",
-      "meaning": "The windowsill is tidy and can hold some decorations.",
+      "sentence": "個窗台好企理，可以擺啲裝飾品。",
+      "jyutping": "go3 coeng1 toi4 hou2 kei5 lei5, ho2 ji5 baai2 di1 zong1 sik1 ban2.",
+      "meaning": "The windowsill is tidy, and you can put some decorations on it.",
       "sourceWordId": "coeng1toi4-windowsill",
       "sourceWord": "窗台",
       "sourceWordJyutping": "coeng1 toi4",
       "sourceWordMeaning": "windowsill",
       "tags": [
         "home",
-        "furniture",
         "household items",
         "windows",
         "interior",
@@ -9484,16 +9458,15 @@
     },
     {
       "sentenceId": "coeng1toi4-windowsill-example-3",
-      "sentence": "窗台要清潔，先可以保持乾淨。",
-      "jyutping": "coeng1 toi4 jiu3 cing1 git3, sin1 ho2 ji5 bou2 ci4 gon1 zeng6.",
-      "meaning": "The windowsill needs to be cleaned to stay neat.",
+      "sentence": "個窗台好多塵，要清潔吓。",
+      "jyutping": "go3 coeng1 toi4 hou2 do1 can4, jiu3 cing1 git3 haa5.",
+      "meaning": "The windowsill is very dusty and needs to be cleaned.",
       "sourceWordId": "coeng1toi4-windowsill",
       "sourceWord": "窗台",
       "sourceWordJyutping": "coeng1 toi4",
       "sourceWordMeaning": "windowsill",
       "tags": [
         "home",
-        "furniture",
         "household items",
         "windows",
         "interior",
@@ -9505,14 +9478,13 @@
       "sentenceId": "coeng1toi4-windowsill-example-4",
       "sentence": "小朋友鍾意坐喺窗台睇街。",
       "jyutping": "siu2 pang4 jau5 zung1 ji3 co5 hai2 coeng1 toi4 tai2 gaai1.",
-      "meaning": "Kids like to sit on the windowsill to watch the street.",
+      "meaning": "Kids like to sit on the windowsill and watch the street.",
       "sourceWordId": "coeng1toi4-windowsill",
       "sourceWord": "窗台",
       "sourceWordJyutping": "coeng1 toi4",
       "sourceWordMeaning": "windowsill",
       "tags": [
         "home",
-        "furniture",
         "household items",
         "windows",
         "interior",
@@ -9745,11 +9717,11 @@
       "sourceFile": "r2-backup/words/sai2saam1-wash-clothes.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-1",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-1",
       "sentence": "我每日放工返屋企都要晾衫。",
       "jyutping": "ngo5 mui5 jat6 fong3 gung1 faan1 uk1 kei2 dou1 jiu3 long6 saam1.",
       "meaning": "I hang clothes to dry every day after work.",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -9761,14 +9733,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-2",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-2",
       "sentence": "今日太陽好大，快啲去晾衫啦！",
       "jyutping": "gam1 jat6 taai3 joeng4 hou2 daai6, faai3 di1 heoi3 long6 saam1 laa1!",
       "meaning": "The sun is strong today, go hang the clothes to dry quickly!",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -9780,14 +9752,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-3",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-3",
       "sentence": "媽媽教我點樣好好咁晾衫。",
       "jyutping": "maa4 maa1 gaau3 ngo5 dim2 joeng6 hou2 hou2 gam2 long6 saam1.",
       "meaning": "Mom taught me how to hang clothes properly.",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -9799,14 +9771,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
-      "sentenceId": "long6saam1-hang-clothes-example-4",
+      "sentenceId": "long6saam1-hang-clothes-to-dry-example-4",
       "sentence": "樓下嘅朋友晾衫晾到成間天。",
       "jyutping": "lau4 haa6 ge3 pang4 jau5 long6 saam1 long6 dou3 sing4 gaan1 tin1.",
       "meaning": "The neighbor downstairs hangs clothes all day long.",
-      "sourceWordId": "long6saam1-hang-clothes",
+      "sourceWordId": "long6saam1-hang-clothes-to-dry",
       "sourceWord": "晾衫",
       "sourceWordJyutping": "long6 saam1",
       "sourceWordMeaning": "hang clothes to dry",
@@ -9818,14 +9790,14 @@
         "verbs",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1-hang-clothes.json"
+      "sourceFile": "r2-backup/words/long6saam1-hang-clothes-to-dry.json"
     },
     {
-      "sentenceId": "long6saam1gaa3-clothes-rack-example-1",
+      "sentenceId": "long6saam1gaa3-clothes-drying-rack-example-1",
       "sentence": "我啲衫放咗喺晾衫架。",
       "jyutping": "ngo5 di1 saam1 fong3 zo2 hai2 long6 saam1 gaa3.",
       "meaning": "I put the clothes on the clothes drying rack.",
-      "sourceWordId": "long6saam1gaa3-clothes-rack",
+      "sourceWordId": "long6saam1gaa3-clothes-drying-rack",
       "sourceWord": "晾衫架",
       "sourceWordJyutping": "long6 saam1 gaa3",
       "sourceWordMeaning": "clothes drying rack",
@@ -9837,14 +9809,14 @@
         "household",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-rack.json"
+      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-drying-rack.json"
     },
     {
-      "sentenceId": "long6saam1gaa3-clothes-rack-example-2",
+      "sentenceId": "long6saam1gaa3-clothes-drying-rack-example-2",
       "sentence": "晾衫架放喺陽臺度。",
       "jyutping": "long6 saam1 gaa3 fong3 hai2 joeng6 toi4 dou6.",
       "meaning": "The clothes drying rack is placed on the balcony.",
-      "sourceWordId": "long6saam1gaa3-clothes-rack",
+      "sourceWordId": "long6saam1gaa3-clothes-drying-rack",
       "sourceWord": "晾衫架",
       "sourceWordJyutping": "long6 saam1 gaa3",
       "sourceWordMeaning": "clothes drying rack",
@@ -9856,14 +9828,14 @@
         "household",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-rack.json"
+      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-drying-rack.json"
     },
     {
-      "sentenceId": "long6saam1gaa3-clothes-rack-example-3",
+      "sentenceId": "long6saam1gaa3-clothes-drying-rack-example-3",
       "sentence": "快啲攞啲衫落嚟，晾衫架已經滿咗。",
       "jyutping": "faai3 di1 lo2 di1 saam1 lok6 lei4, long6 saam1 gaa3 ji5 ging1 mun5 zo2.",
       "meaning": "Hurry up and take the clothes down, the clothes drying rack is already full.",
-      "sourceWordId": "long6saam1gaa3-clothes-rack",
+      "sourceWordId": "long6saam1gaa3-clothes-drying-rack",
       "sourceWord": "晾衫架",
       "sourceWordJyutping": "long6 saam1 gaa3",
       "sourceWordMeaning": "clothes drying rack",
@@ -9875,14 +9847,14 @@
         "household",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-rack.json"
+      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-drying-rack.json"
     },
     {
-      "sentenceId": "long6saam1gaa3-clothes-rack-example-4",
+      "sentenceId": "long6saam1gaa3-clothes-drying-rack-example-4",
       "sentence": "我哋買咗個新嘅晾衫架。",
       "jyutping": "ngo5 dei6 maai5 zo2 go3 san1 ge3 long6 saam1 gaa3.",
       "meaning": "We bought a new clothes drying rack.",
-      "sourceWordId": "long6saam1gaa3-clothes-rack",
+      "sourceWordId": "long6saam1gaa3-clothes-drying-rack",
       "sourceWord": "晾衫架",
       "sourceWordJyutping": "long6 saam1 gaa3",
       "sourceWordMeaning": "clothes drying rack",
@@ -9894,14 +9866,14 @@
         "household",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-rack.json"
+      "sourceFile": "r2-backup/words/long6saam1gaa3-clothes-drying-rack.json"
     },
     {
-      "sentenceId": "sau1saam1-collect-clothes-example-1",
+      "sentenceId": "sau1saam1-bring-in-the-laundry-example-1",
       "sentence": "我今日負責收衫呀。",
       "jyutping": "ngo5 gam1 jat6 fu6 zaak3 sau1 saam1 aa3.",
       "meaning": "I'm responsible for bringing in the laundry today.",
-      "sourceWordId": "sau1saam1-collect-clothes",
+      "sourceWordId": "sau1saam1-bring-in-the-laundry",
       "sourceWord": "收衫",
       "sourceWordJyutping": "sau1 saam1",
       "sourceWordMeaning": "bring in the laundry",
@@ -9913,14 +9885,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1saam1-collect-clothes.json"
+      "sourceFile": "r2-backup/words/sau1saam1-bring-in-the-laundry.json"
     },
     {
-      "sentenceId": "sau1saam1-collect-clothes-example-2",
+      "sentenceId": "sau1saam1-bring-in-the-laundry-example-2",
       "sentence": "你幫我收衫得唔得？",
       "jyutping": "nei5 bong1 ngo5 sau1 saam1 dak1 m4 dak1?",
       "meaning": "Can you help me bring in the laundry?",
-      "sourceWordId": "sau1saam1-collect-clothes",
+      "sourceWordId": "sau1saam1-bring-in-the-laundry",
       "sourceWord": "收衫",
       "sourceWordJyutping": "sau1 saam1",
       "sourceWordMeaning": "bring in the laundry",
@@ -9932,14 +9904,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1saam1-collect-clothes.json"
+      "sourceFile": "r2-backup/words/sau1saam1-bring-in-the-laundry.json"
     },
     {
-      "sentenceId": "sau1saam1-collect-clothes-example-3",
+      "sentenceId": "sau1saam1-bring-in-the-laundry-example-3",
       "sentence": "收衫之前記得睇下衫乾唔乾。",
       "jyutping": "sau1 saam1 zi1 cin4 gei3 dak1 tai2 haa5 saam1 gon1 m4 gon1.",
       "meaning": "Before bringing in the laundry, remember to check if the clothes are dry.",
-      "sourceWordId": "sau1saam1-collect-clothes",
+      "sourceWordId": "sau1saam1-bring-in-the-laundry",
       "sourceWord": "收衫",
       "sourceWordJyutping": "sau1 saam1",
       "sourceWordMeaning": "bring in the laundry",
@@ -9951,14 +9923,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1saam1-collect-clothes.json"
+      "sourceFile": "r2-backup/words/sau1saam1-bring-in-the-laundry.json"
     },
     {
-      "sentenceId": "sau1saam1-collect-clothes-example-4",
+      "sentenceId": "sau1saam1-bring-in-the-laundry-example-4",
       "sentence": "收衫係每日嘅家務之一。",
       "jyutping": "sau1 saam1 hai6 mui5 jat6 ge3 gaa1 mou6 zi1 jat1.",
       "meaning": "Bringing in the laundry is one of the daily household chores.",
-      "sourceWordId": "sau1saam1-collect-clothes",
+      "sourceWordId": "sau1saam1-bring-in-the-laundry",
       "sourceWord": "收衫",
       "sourceWordJyutping": "sau1 saam1",
       "sourceWordMeaning": "bring in the laundry",
@@ -9970,7 +9942,7 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sau1saam1-collect-clothes.json"
+      "sourceFile": "r2-backup/words/sau1saam1-bring-in-the-laundry.json"
     },
     {
       "sentenceId": "zip3saam1-fold-clothes-example-1",
@@ -10505,11 +10477,11 @@
       "sourceFile": "r2-backup/words/mong5lok6-internet.json"
     },
     {
-      "sentenceId": "wai1faai1-wifi-example-1",
+      "sentenceId": "wai1faai1-wi-fi-example-1",
       "sentence": "我想連接啲Wi-Fi，不如借你電話用下。",
       "jyutping": "ngo5 soeng2 lin4 zip3 di1 wai1 faai1, bat1 jyu4 ze3 nei5 din6 waa2 jung6 haa5.",
       "meaning": "I want to connect to some Wi-Fi, can I borrow your phone to use it?",
-      "sourceWordId": "wai1faai1-wifi",
+      "sourceWordId": "wai1faai1-wi-fi",
       "sourceWord": "Wi-Fi",
       "sourceWordJyutping": "wai1 faai1",
       "sourceWordMeaning": "Wi-Fi",
@@ -10521,14 +10493,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wai1faai1-wifi.json"
+      "sourceFile": "r2-backup/words/wai1faai1-wi-fi.json"
     },
     {
-      "sentenceId": "wai1faai1-wifi-example-2",
+      "sentenceId": "wai1faai1-wi-fi-example-2",
       "sentence": "呢間咖啡店Wi-Fi免費用。",
       "jyutping": "ni1 gaan1 kaa1 fe1 dim3 wai1 faai1 min5 fei1 jung6.",
       "meaning": "The Wi-Fi in this coffee shop is free to use.",
-      "sourceWordId": "wai1faai1-wifi",
+      "sourceWordId": "wai1faai1-wi-fi",
       "sourceWord": "Wi-Fi",
       "sourceWordJyutping": "wai1 faai1",
       "sourceWordMeaning": "Wi-Fi",
@@ -10540,14 +10512,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wai1faai1-wifi.json"
+      "sourceFile": "r2-backup/words/wai1faai1-wi-fi.json"
     },
     {
-      "sentenceId": "wai1faai1-wifi-example-3",
+      "sentenceId": "wai1faai1-wi-fi-example-3",
       "sentence": "我屋企啲Wi-Fi信號唔穩定，好煩。",
       "jyutping": "ngo5 uk1 kei2 di1 wai1 faai1 seon3 hou6 m4 wan2 ding6, hou2 faan4.",
       "meaning": "The Wi-Fi signal at my home is unstable, very annoying.",
-      "sourceWordId": "wai1faai1-wifi",
+      "sourceWordId": "wai1faai1-wi-fi",
       "sourceWord": "Wi-Fi",
       "sourceWordJyutping": "wai1 faai1",
       "sourceWordMeaning": "Wi-Fi",
@@ -10559,14 +10531,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wai1faai1-wifi.json"
+      "sourceFile": "r2-backup/words/wai1faai1-wi-fi.json"
     },
     {
-      "sentenceId": "wai1faai1-wifi-example-4",
+      "sentenceId": "wai1faai1-wi-fi-example-4",
       "sentence": "可唔可以幫我攞個Wi-Fi密碼？",
       "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5 lo2 go3 wai1 faai1 mat6 maa5?",
       "meaning": "Can you help me get the Wi-Fi password?",
-      "sourceWordId": "wai1faai1-wifi",
+      "sourceWordId": "wai1faai1-wi-fi",
       "sourceWord": "Wi-Fi",
       "sourceWordJyutping": "wai1 faai1",
       "sourceWordMeaning": "Wi-Fi",
@@ -10578,14 +10550,14 @@
         "home",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/wai1faai1-wifi.json"
+      "sourceFile": "r2-backup/words/wai1faai1-wi-fi.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-1",
+      "sentenceId": "din6fai3-electric-bill-example-1",
       "sentence": "我今晚要交電費。",
       "jyutping": "ngo5 gam1 maan5 jiu3 gaau1 din6 fai3.",
       "meaning": "I need to pay the electricity bill tonight.",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -10597,14 +10569,14 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-2",
+      "sentenceId": "din6fai3-electric-bill-example-2",
       "sentence": "今個月嘅電費好貴。",
       "jyutping": "gam1 go3 jyut6 ge3 din6 fai3 hou2 gwai3.",
       "meaning": "This month's electric bill is expensive.",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -10616,14 +10588,14 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-3",
+      "sentenceId": "din6fai3-electric-bill-example-3",
       "sentence": "屋企啲電費成日都高。",
       "jyutping": "uk1 kei2 di1 din6 fai3 seng4 jat6 dou1 gou1.",
       "meaning": "The electricity bill at home is always high.",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -10635,14 +10607,14 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
-      "sentenceId": "din6fai3-electricity-bill-example-4",
+      "sentenceId": "din6fai3-electric-bill-example-4",
       "sentence": "你繳咗唔繳電費？",
       "jyutping": "nei5 gaau2 zo2 m4 gaau2 din6 fai3?",
       "meaning": "Did you pay the electricity bill?",
-      "sourceWordId": "din6fai3-electricity-bill",
+      "sourceWordId": "din6fai3-electric-bill",
       "sourceWord": "電費",
       "sourceWordJyutping": "din6 fai3",
       "sourceWordMeaning": "electric bill",
@@ -10654,7 +10626,7 @@
         "expenses",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6fai3-electricity-bill.json"
+      "sourceFile": "r2-backup/words/din6fai3-electric-bill.json"
     },
     {
       "sentenceId": "seoi2fai3-water-bill-example-1",
@@ -10885,80 +10857,80 @@
       "sourceFile": "r2-backup/words/biu1-meter.json"
     },
     {
-      "sentenceId": "din6biu1-electric-meter-example-1",
+      "sentenceId": "din6biu1-electricity-meter-example-1",
       "sentence": "我想睇吓個電錶幾時換過。",
       "jyutping": "ngo5 soeng2 tai2 haa5 go3 din6 biu1 gei2 si4 wun6 gwo3.",
-      "meaning": "I want to see when the electric meter was last changed.",
-      "sourceWordId": "din6biu1-electric-meter",
+      "meaning": "I want to see when the electricity meter was last replaced.",
+      "sourceWordId": "din6biu1-electricity-meter",
       "sourceWord": "電錶",
       "sourceWordJyutping": "din6 biu1",
-      "sourceWordMeaning": "electric meter",
+      "sourceWordMeaning": "electricity meter",
       "tags": [
         "home",
         "utilities",
         "electricity",
         "measurement",
-        "appliances",
+        "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6biu1-electric-meter.json"
+      "sourceFile": "r2-backup/words/din6biu1-electricity-meter.json"
     },
     {
-      "sentenceId": "din6biu1-electric-meter-example-2",
-      "sentence": "電錶度數今日升咗。",
-      "jyutping": "din6 biu1 dou6 sou3 gam1 jat6 sing1 zo2.",
-      "meaning": "The reading on the electric meter increased today.",
-      "sourceWordId": "din6biu1-electric-meter",
+      "sentenceId": "din6biu1-electricity-meter-example-2",
+      "sentence": "電錶讀數今日升咗。",
+      "jyutping": "din6 biu1 duk6 sou3 gam1 jat6 sing1 zo2.",
+      "meaning": "The electricity meter reading went up today.",
+      "sourceWordId": "din6biu1-electricity-meter",
       "sourceWord": "電錶",
       "sourceWordJyutping": "din6 biu1",
-      "sourceWordMeaning": "electric meter",
+      "sourceWordMeaning": "electricity meter",
       "tags": [
         "home",
         "utilities",
         "electricity",
         "measurement",
-        "appliances",
+        "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6biu1-electric-meter.json"
+      "sourceFile": "r2-backup/words/din6biu1-electricity-meter.json"
     },
     {
-      "sentenceId": "din6biu1-electric-meter-example-3",
+      "sentenceId": "din6biu1-electricity-meter-example-3",
       "sentence": "佢哋要嚟檢查你屋企嘅電錶。",
       "jyutping": "keoi5 dei6 jiu3 lai4 gim2 caa4 nei5 uk1 kei2 ge3 din6 biu1.",
-      "meaning": "They need to come check your home’s electric meter.",
-      "sourceWordId": "din6biu1-electric-meter",
+      "meaning": "They need to come inspect your home's electricity meter.",
+      "sourceWordId": "din6biu1-electricity-meter",
       "sourceWord": "電錶",
       "sourceWordJyutping": "din6 biu1",
-      "sourceWordMeaning": "electric meter",
+      "sourceWordMeaning": "electricity meter",
       "tags": [
         "home",
         "utilities",
         "electricity",
         "measurement",
-        "appliances",
+        "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6biu1-electric-meter.json"
+      "sourceFile": "r2-backup/words/din6biu1-electricity-meter.json"
     },
     {
-      "sentenceId": "din6biu1-electric-meter-example-4",
-      "sentence": "電錶隔住層門睇唔清楚。",
-      "jyutping": "din6 biu1 gaak3 zyu6 cang4 mun4 tai2 m4 cing1 co2.",
-      "meaning": "The electric meter can't be seen clearly because there is a door in the way.",
-      "sourceWordId": "din6biu1-electric-meter",
+      "sentenceId": "din6biu1-electricity-meter-example-4",
+      "sentence": "電錶喺門後面，睇唔清楚。",
+      "jyutping": "din6 biu1 hai2 mun4 hau6 min6, tai2 m4 cing1 co2.",
+      "meaning": "The electricity meter is behind the door, so it can't be seen clearly.",
+      "sourceWordId": "din6biu1-electricity-meter",
       "sourceWord": "電錶",
       "sourceWordJyutping": "din6 biu1",
-      "sourceWordMeaning": "electric meter",
+      "sourceWordMeaning": "electricity meter",
       "tags": [
         "home",
         "utilities",
         "electricity",
         "measurement",
-        "appliances",
+        "noun",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/din6biu1-electric-meter.json"
+      "sourceFile": "r2-backup/words/din6biu1-electricity-meter.json"
     },
     {
       "sentenceId": "seoi2biu1-water-meter-example-1",
@@ -11113,11 +11085,11 @@
       "sourceFile": "r2-backup/words/sau1lei5-repair.json"
     },
     {
-      "sentenceId": "zing2-repair-fix-example-1",
+      "sentenceId": "zing2-repair-example-1",
       "sentence": "我要整電腦。",
       "jyutping": "ngo5 jiu3 zing2 din6 nou5.",
       "meaning": "I need to repair the computer.",
-      "sourceWordId": "zing2-repair-fix",
+      "sourceWordId": "zing2-repair",
       "sourceWord": "整",
       "sourceWordJyutping": "zing2",
       "sourceWordMeaning": "repair",
@@ -11129,14 +11101,14 @@
         "verb",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing2-repair-fix.json"
+      "sourceFile": "r2-backup/words/zing2-repair.json"
     },
     {
-      "sentenceId": "zing2-repair-fix-example-2",
+      "sentenceId": "zing2-repair-example-2",
       "sentence": "傢俬壞咗，要整吓。",
       "jyutping": "gaa1 si1 waai6 zo2, jiu3 zing2 ha5.",
       "meaning": "The furniture is broken and needs to be fixed.",
-      "sourceWordId": "zing2-repair-fix",
+      "sourceWordId": "zing2-repair",
       "sourceWord": "整",
       "sourceWordJyutping": "zing2",
       "sourceWordMeaning": "repair",
@@ -11148,14 +11120,14 @@
         "verb",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing2-repair-fix.json"
+      "sourceFile": "r2-backup/words/zing2-repair.json"
     },
     {
-      "sentenceId": "zing2-repair-fix-example-3",
+      "sentenceId": "zing2-repair-example-3",
       "sentence": "佢幫我整門窗。",
       "jyutping": "keoi5 bong1 ngo5 zing2 mun4 coeng1.",
       "meaning": "He helped me repair the door and window.",
-      "sourceWordId": "zing2-repair-fix",
+      "sourceWordId": "zing2-repair",
       "sourceWord": "整",
       "sourceWordJyutping": "zing2",
       "sourceWordMeaning": "repair",
@@ -11167,14 +11139,14 @@
         "verb",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing2-repair-fix.json"
+      "sourceFile": "r2-backup/words/zing2-repair.json"
     },
     {
-      "sentenceId": "zing2-repair-fix-example-4",
+      "sentenceId": "zing2-repair-example-4",
       "sentence": "整埋呢啲拖鞋先。",
       "jyutping": "zing2 maai4 ni1 di1 to1 haai4 sin1.",
       "meaning": "Fix these slippers first.",
-      "sourceWordId": "zing2-repair-fix",
+      "sourceWordId": "zing2-repair",
       "sourceWord": "整",
       "sourceWordJyutping": "zing2",
       "sourceWordMeaning": "repair",
@@ -11186,7 +11158,7 @@
         "verb",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/zing2-repair-fix.json"
+      "sourceFile": "r2-backup/words/zing2-repair.json"
     },
     {
       "sentenceId": "wai4sau1-maintenance-example-1",
@@ -11341,11 +11313,11 @@
       "sourceFile": "r2-backup/words/lau6seoi2-leak.json"
     },
     {
-      "sentenceId": "lau6din6-electric-leak-example-1",
+      "sentenceId": "lau6din6-electric-leakage-example-1",
       "sentence": "屋企嘅電器有漏電，好危險。",
       "jyutping": "uk1 kei2 ge3 din6 hei3 jau5 lau6 din6, hou2 ngai4 him2.",
       "meaning": "The home appliance has electric leakage, very dangerous.",
-      "sourceWordId": "lau6din6-electric-leak",
+      "sourceWordId": "lau6din6-electric-leakage",
       "sourceWord": "漏電",
       "sourceWordJyutping": "lau6 din6",
       "sourceWordMeaning": "electric leakage",
@@ -11357,14 +11329,14 @@
         "hazard",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau6din6-electric-leak.json"
+      "sourceFile": "r2-backup/words/lau6din6-electric-leakage.json"
     },
     {
-      "sentenceId": "lau6din6-electric-leak-example-2",
+      "sentenceId": "lau6din6-electric-leakage-example-2",
       "sentence": "師傅話屋企漏電，要即刻修理。",
       "jyutping": "si1 fu2 waa6 uk1 kei2 lau6 din6, jiu3 zik1 hak1 sau1 lei5.",
       "meaning": "The technician said there is electric leakage at home and it needs immediate repair.",
-      "sourceWordId": "lau6din6-electric-leak",
+      "sourceWordId": "lau6din6-electric-leakage",
       "sourceWord": "漏電",
       "sourceWordJyutping": "lau6 din6",
       "sourceWordMeaning": "electric leakage",
@@ -11376,14 +11348,14 @@
         "hazard",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau6din6-electric-leak.json"
+      "sourceFile": "r2-backup/words/lau6din6-electric-leakage.json"
     },
     {
-      "sentenceId": "lau6din6-electric-leak-example-3",
+      "sentenceId": "lau6din6-electric-leakage-example-3",
       "sentence": "用電安全最緊要，唔好畀漏電發生。",
       "jyutping": "jung6 din6 on1 cyun4 zeoi3 gan2 jiu3, m4 hou2 bei2 lau6 din6 faat3 sang1.",
       "meaning": "Electrical safety is the most important, don’t let electric leakage happen.",
-      "sourceWordId": "lau6din6-electric-leak",
+      "sourceWordId": "lau6din6-electric-leakage",
       "sourceWord": "漏電",
       "sourceWordJyutping": "lau6 din6",
       "sourceWordMeaning": "electric leakage",
@@ -11395,14 +11367,14 @@
         "hazard",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau6din6-electric-leak.json"
+      "sourceFile": "r2-backup/words/lau6din6-electric-leakage.json"
     },
     {
-      "sentenceId": "lau6din6-electric-leak-example-4",
+      "sentenceId": "lau6din6-electric-leakage-example-4",
       "sentence": "檢查時發現插頭有漏電，要換新嘅。",
       "jyutping": "gim2 caa4 si4 faat3 jin4 caap3 tau4 jau5 lau6 din6, jiu3 wun6 san1 ge3.",
       "meaning": "Found electric leakage at the plug during inspection, needs to be replaced.",
-      "sourceWordId": "lau6din6-electric-leak",
+      "sourceWordId": "lau6din6-electric-leakage",
       "sourceWord": "漏電",
       "sourceWordJyutping": "lau6 din6",
       "sourceWordMeaning": "electric leakage",
@@ -11414,7 +11386,7 @@
         "hazard",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/lau6din6-electric-leak.json"
+      "sourceFile": "r2-backup/words/lau6din6-electric-leakage.json"
     },
     {
       "sentenceId": "ting4din6-power-cut-example-1",
@@ -11569,11 +11541,11 @@
       "sourceFile": "r2-backup/words/seoi2hau4-water-pipe.json"
     },
     {
-      "sentenceId": "tung1keoi4-unclog-example-1",
+      "sentenceId": "tung1keoi4-unclog-the-drain-example-1",
       "sentence": "廁所水槽塞住，要通渠。",
       "jyutping": "ci3 so2 seoi2 cou4 sak1 zyu6, jiu3 tung1 keoi4.",
       "meaning": "The toilet sink is clogged, need to unclog the drain.",
-      "sourceWordId": "tung1keoi4-unclog",
+      "sourceWordId": "tung1keoi4-unclog-the-drain",
       "sourceWord": "通渠",
       "sourceWordJyutping": "tung1 keoi4",
       "sourceWordMeaning": "unclog the drain",
@@ -11585,14 +11557,14 @@
         "kitchen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung1keoi4-unclog.json"
+      "sourceFile": "r2-backup/words/tung1keoi4-unclog-the-drain.json"
     },
     {
-      "sentenceId": "tung1keoi4-unclog-example-2",
+      "sentenceId": "tung1keoi4-unclog-the-drain-example-2",
       "sentence": "佢叫咗人嚟通渠，依家水流得順啦。",
       "jyutping": "keoi5 giu3 zo2 jan4 lai4 tung1 keoi4, ji1 gaa1 seoi2 lau4 dak1 seon6 laa1.",
       "meaning": "He called someone to unclog the drain, now the water flows smoothly.",
-      "sourceWordId": "tung1keoi4-unclog",
+      "sourceWordId": "tung1keoi4-unclog-the-drain",
       "sourceWord": "通渠",
       "sourceWordJyutping": "tung1 keoi4",
       "sourceWordMeaning": "unclog the drain",
@@ -11604,14 +11576,14 @@
         "kitchen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung1keoi4-unclog.json"
+      "sourceFile": "r2-backup/words/tung1keoi4-unclog-the-drain.json"
     },
     {
-      "sentenceId": "tung1keoi4-unclog-example-3",
+      "sentenceId": "tung1keoi4-unclog-the-drain-example-3",
       "sentence": "煮飯後唔好將油倒入水槽，免得通渠。",
       "jyutping": "zyu2 faan6 hau6 m4 hou2 zoeng1 jau4 dou3 jap6 seoi2 cou4, min5 dak1 tung1 keoi4.",
       "meaning": "Don't pour oil into the sink after cooking to avoid clogging the drain.",
-      "sourceWordId": "tung1keoi4-unclog",
+      "sourceWordId": "tung1keoi4-unclog-the-drain",
       "sourceWord": "通渠",
       "sourceWordJyutping": "tung1 keoi4",
       "sourceWordMeaning": "unclog the drain",
@@ -11623,14 +11595,14 @@
         "kitchen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung1keoi4-unclog.json"
+      "sourceFile": "r2-backup/words/tung1keoi4-unclog-the-drain.json"
     },
     {
-      "sentenceId": "tung1keoi4-unclog-example-4",
+      "sentenceId": "tung1keoi4-unclog-the-drain-example-4",
       "sentence": "通渠費用幾多錢？",
       "jyutping": "tung1 keoi4 fai3 jung6 gei2 do1 cin2?",
       "meaning": "How much does it cost to unclog the drain?",
-      "sourceWordId": "tung1keoi4-unclog",
+      "sourceWordId": "tung1keoi4-unclog-the-drain",
       "sourceWord": "通渠",
       "sourceWordJyutping": "tung1 keoi4",
       "sourceWordMeaning": "unclog the drain",
@@ -11642,14 +11614,14 @@
         "kitchen",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/tung1keoi4-unclog.json"
+      "sourceFile": "r2-backup/words/tung1keoi4-unclog-the-drain.json"
     },
     {
-      "sentenceId": "sak1-blocked-example-1",
+      "sentenceId": "sak1-blocked-clogged-example-1",
       "sentence": "個渠塞咗，好似水排唔走。",
       "jyutping": "go3 keoi4 sak1 zo2, hou2 ci5 seoi2 paai4 m4 zau2.",
       "meaning": "The drain is blocked, water can't flow out.",
-      "sourceWordId": "sak1-blocked",
+      "sourceWordId": "sak1-blocked-clogged",
       "sourceWord": "塞",
       "sourceWordJyutping": "sak1",
       "sourceWordMeaning": "blocked / clogged",
@@ -11661,14 +11633,14 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sak1-blocked.json"
+      "sourceFile": "r2-backup/words/sak1-blocked-clogged.json"
     },
     {
-      "sentenceId": "sak1-blocked-example-2",
+      "sentenceId": "sak1-blocked-clogged-example-2",
       "sentence": "地鐵今朝塞車，好辛苦。",
       "jyutping": "dei6 tit3 gam1 ziu1 sak1 ce1, hou2 san1 fu2.",
       "meaning": "The subway was jammed this morning, very exhausting.",
-      "sourceWordId": "sak1-blocked",
+      "sourceWordId": "sak1-blocked-clogged",
       "sourceWord": "塞",
       "sourceWordJyutping": "sak1",
       "sourceWordMeaning": "blocked / clogged",
@@ -11680,14 +11652,14 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sak1-blocked.json"
+      "sourceFile": "r2-backup/words/sak1-blocked-clogged.json"
     },
     {
-      "sentenceId": "sak1-blocked-example-3",
+      "sentenceId": "sak1-blocked-clogged-example-3",
       "sentence": "你睇吓，門縫塞滿咗啲塵。",
       "jyutping": "nei5 tai2 haa5, mun4 fung3 sak1 mun5 zo2 di1 can4.",
       "meaning": "Look, the door gap is clogged with dust.",
-      "sourceWordId": "sak1-blocked",
+      "sourceWordId": "sak1-blocked-clogged",
       "sourceWord": "塞",
       "sourceWordJyutping": "sak1",
       "sourceWordMeaning": "blocked / clogged",
@@ -11699,14 +11671,14 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sak1-blocked.json"
+      "sourceFile": "r2-backup/words/sak1-blocked-clogged.json"
     },
     {
-      "sentenceId": "sak1-blocked-example-4",
+      "sentenceId": "sak1-blocked-clogged-example-4",
       "sentence": "我塞咗啲紙喺抽屜入面。",
       "jyutping": "ngo5 sak1 zo2 di1 zi2 hai2 cau1 tai3 jap6 min6.",
       "meaning": "I stuffed some paper inside the drawer.",
-      "sourceWordId": "sak1-blocked",
+      "sourceWordId": "sak1-blocked-clogged",
       "sourceWord": "塞",
       "sourceWordJyutping": "sak1",
       "sourceWordMeaning": "blocked / clogged",
@@ -11718,7 +11690,7 @@
         "everyday speech",
         "level-1"
       ],
-      "sourceFile": "r2-backup/words/sak1-blocked.json"
+      "sourceFile": "r2-backup/words/sak1-blocked-clogged.json"
     }
   ],
   "missingWordFiles": [
