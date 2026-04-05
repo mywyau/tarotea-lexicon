@@ -1,0 +1,62 @@
+{
+  "root": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words",
+  "files_scanned": 2643,
+  "threshold": 0.4,
+  "issues_found": 6,
+  "issues": [
+    {
+      "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/cin2wong4sik1-light-yellow.json",
+      "usage_path": "$.usage",
+      "index": 0,
+      "issue": "high_chinese_ratio",
+      "chinese_ratio": 0.8065,
+      "threshold": 0.4,
+      "value": "「淺黃色」係一個顏色名，可以直接做名詞用，例如：我鍾意淺黃色。"
+    },
+    {
+      "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/cin2wong4sik1-light-yellow.json",
+      "usage_path": "$.usage",
+      "index": 1,
+      "issue": "high_chinese_ratio",
+      "chinese_ratio": 0.8077,
+      "threshold": 0.4,
+      "value": "講件物件嘅外觀時，可以放喺「係」後面：件衫係淺黃色。"
+    },
+    {
+      "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/cin2wong4sik1-light-yellow.json",
+      "usage_path": "$.usage",
+      "index": 2,
+      "issue": "high_chinese_ratio",
+      "chinese_ratio": 0.88,
+      "threshold": 0.4,
+      "value": "同其他顏色一齊用都得，通常擺喺名詞前面：淺黃色袋。"
+    },
+    {
+      "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/cin2wong4sik1-light-yellow.json",
+      "usage_path": "$.usage",
+      "index": 3,
+      "issue": "high_chinese_ratio",
+      "chinese_ratio": 0.875,
+      "threshold": 0.4,
+      "value": "如果想形容得自然啲，可以用嚟講淡色、柔和嘅感覺：呢隻色好淺黃色。"
+    },
+    {
+      "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/din6jing2jyun2-cinema.json",
+      "usage_path": "$.usage",
+      "index": 3,
+      "issue": "high_chinese_ratio",
+      "chinese_ratio": 0.439,
+      "threshold": 0.4,
+      "value": "Common collocations: 去電影院, 喺電影院, 電影院附近, 電影院門口."
+    },
+    {
+      "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/gok3dou6-angle-perspective-point-of-view.json",
+      "usage_path": "$.usage",
+      "index": 2,
+      "issue": "high_chinese_ratio",
+      "chinese_ratio": 0.4194,
+      "threshold": 0.4,
+      "value": "Often paired with 從…角度 / 唔同角度 / 一個角度嚟睇"
+    }
+  ]
+}

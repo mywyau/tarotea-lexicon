@@ -4,13 +4,14 @@
   "jyutping": "cin2 wong4 sik1",
   "meaning": "light yellow",
   "pos": [
+    "adjective",
     "noun"
   ],
   "usage": [
-    "「淺黃色」係一個顏色名，可以直接做名詞用，例如：我鍾意淺黃色。",
-    "講件物件嘅外觀時，可以放喺「係」後面：件衫係淺黃色。",
-    "同其他顏色一齊用都得，通常擺喺名詞前面：淺黃色袋。",
-    "如果想形容得自然啲，可以用嚟講淡色、柔和嘅感覺：呢隻色好淺黃色。"
+    "「淺黃色」 means 'light yellow' and is used to describe a pale or light shade of yellow.",
+    "It is most commonly used before a noun to describe the colour of something, for example: 淺黃色裙 (light yellow skirt) or 淺黃色花 (light yellow flower).",
+    "It can also be used after 「係」 to state the colour of something, for example: 件衫係淺黃色。('The shirt is light yellow.')",
+    "In everyday Cantonese, this word is useful for describing the colour of clothes, bags, walls, flowers, or light."
   ],
   "examples": [
     {
@@ -21,21 +22,21 @@
     },
     {
       "id": "cin2wong4sik1-light-yellow-example-2",
-      "sentence": "我想要淺黃色嘅牆。",
-      "jyutping": "ngo5 soeng2 jiu3 cin2 wong4 sik1 ge3 coeng4.",
-      "meaning": "I want a light yellow wall."
-    },
-    {
-      "id": "cin2wong4sik1-light-yellow-example-3",
-      "sentence": "佢買咗一個淺黃色嘅袋。",
-      "jyutping": "keoi5 maai5 zo2 jat1 go3 cin2 wong4 sik1 ge3 doi2.",
+      "sentence": "佢買咗個淺黃色嘅袋。",
+      "jyutping": "keoi5 maai5 zo2 go3 cin2 wong4 sik1 ge3 doi2.",
       "meaning": "He/She bought a light yellow bag."
     },
     {
+      "id": "cin2wong4sik1-light-yellow-example-3",
+      "sentence": "間房油成淺黃色之後明亮咗好多。",
+      "jyutping": "gaan1 fong2 jau4 sing4 cin2 wong4 sik1 zi1 hau6 ming4 loeng6 zo2 hou2 do1.",
+      "meaning": "The room looked much brighter after being painted light yellow."
+    },
+    {
       "id": "cin2wong4sik1-light-yellow-example-4",
-      "sentence": "個枱燈發住淺黃色光。",
-      "jyutping": "go3 toi2 dang1 faat3 zyu6 cin2 wong4 sik1 gwong1.",
-      "meaning": "The desk lamp gives off a light yellow light."
+      "sentence": "盞燈發出淺黃色嘅光。",
+      "jyutping": "zaan2 dang1 faat3 ceot1 cin2 wong4 sik1 ge3 gwong1.",
+      "meaning": "The lamp gives off a light yellow light."
     }
   ],
   "audio": {

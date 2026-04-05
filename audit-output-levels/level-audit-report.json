@@ -1,0 +1,97 @@
+{
+  "summary": {
+    "levels_checked": 10,
+    "level_files_seen": 10,
+    "word_ids_referenced": 544,
+    "unique_word_ids_referenced": 510,
+    "missing_word_json_count": 0,
+    "missing_word_audio_count": 0,
+    "sentence_examples_checked": 1950,
+    "missing_sentence_audio_count": 0
+  },
+  "levels": [
+    {
+      "levelFile": "r2-backup/levels/level-eight.json",
+      "levelId": "level-eight",
+      "wordCount": 64,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-five.json",
+      "levelId": "level-five",
+      "wordCount": 60,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-four.json",
+      "levelId": "level-four",
+      "wordCount": 36,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-nine.json",
+      "levelId": "level-nine",
+      "wordCount": 60,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-one.json",
+      "levelId": "level-one",
+      "wordCount": 46,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-seven.json",
+      "levelId": "level-seven",
+      "wordCount": 62,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-six.json",
+      "levelId": "level-six",
+      "wordCount": 56,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-ten.json",
+      "levelId": "level-ten",
+      "wordCount": 54,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-three.json",
+      "levelId": "level-three",
+      "wordCount": 43,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    },
+    {
+      "levelFile": "r2-backup/levels/level-two.json",
+      "levelId": "level-two",
+      "wordCount": 63,
+      "missingWordJson": [],
+      "missingWordAudio": [],
+      "missingSentenceAudio": []
+    }
+  ],
+  "allMissingWordJsonIds": [],
+  "allMissingWordAudioIds": [],
+  "allMissingSentenceAudioIds": []
+}

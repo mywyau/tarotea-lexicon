@@ -2,7 +2,7 @@
 
 ## What does this app do?
 
-Batch-generate Cantonese Text To Speech audio for TaroTea site content. Or can be used to call OpenAI's api for conversion 
+Batch-generate Cantonese Text To Speech audio for TaroTea site content. Or can be used to call OpenAI's api for conversion
 
 ## Usage
 
@@ -17,17 +17,16 @@ python scripts/generate_words.py \
   --dry-run
 ```
 
-
 ### Production run, this will actually bill you :)
 
-You first need to edit the data for the words/sentences wanted in 
+You first need to edit the data for the words/sentences wanted in
 
 ```
-base_words.json 
+base_words.json
 ```
 
 Then we can run this script to call openapi to convert out text to speech.
-The cantonese context is inferred and using cantonese style langauge helps the ai speak using cantonese. 
+The cantonese context is inferred and using cantonese style langauge helps the ai speak using cantonese.
 
 ```
 python scripts/generate_words.py \
@@ -35,16 +34,15 @@ python scripts/generate_words.py \
   --output audio/words
 ```
 
-or 
+or
 
 ```
 ./run_prod.sh
 ```
 
-The conversion is prefixed with "用廣東話讀" which we will trim. 
+The conversion is prefixed with "用廣東話讀" which we will trim.
 
 We then need to trim the sound file and remove the prefix in the next step
-
 
 ### Production run, this will actually bill you :)
 
@@ -72,6 +70,7 @@ ffmpeg -i 九月.mp3 -af "atrim=start=1.3:end=1.6" cleaned/九月.mp3
 ```
 
 <audio controls src="audio/words/cleaned/.mp3" title="Title"></audio>
+
 ```
 ffmpeg -i git3cuk1-end-example-1.mp3 -af "atrim=start=1.3" cleaned/git3cuk1-end-example-1.mp3
 ffmpeg -i cleaned/我之前去過香港好多次.mp3 -af "atrim=end=0.5" cleaned/我之前去過香港好多次2.mp3
@@ -79,15 +78,14 @@ ffmpeg -i cleaned/我之前去過香港好多次.mp3 -af "atrim=end=0.5" cleaned
 ffmpeg -i 我.mp3 -af "atrim=start=1.3" cleaned/我.mp3
 ```
 
-
 ffmpeg -i co5-sit-example-2.mp3 \
-  -af "atrim=start=2.4:end=2.7,atempo=0.7" \
-  cleaned/co5-sit-example-2.mp3
+ -af "atrim=start=2.4:end=2.7,atempo=0.7" \
+ cleaned/co5-sit-example-2.mp3
 
-
-### Download and back up locally cloudflare r2 storage 
+### Download and back up locally cloudflare r2 storage
 
 ### Sync and download S3 bucket locally
+
 ```
 aws s3 sync s3://tarotea-content ./r2-backup \
   --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
@@ -95,6 +93,7 @@ aws s3 sync s3://tarotea-content ./r2-backup \
 ```
 
 ### Copy words from local directory to S3 cloudflare
+
 ```
 aws s3 cp ./content/words \
 s3://tarotea-content/words \
@@ -104,6 +103,7 @@ s3://tarotea-content/words \
 ```
 
 ### Copy audio from local directory to S3 cloudflare
+
 ```
 aws s3 cp ./audio/words \
 s3://tarotea-content/audio \
@@ -113,6 +113,7 @@ s3://tarotea-content/audio \
 ```
 
 ### Find audio files longer than 10s in wip folders
+
 ```
 find audio/words -type f -name "*.mp3" -print0 |
 while IFS= read -r -d '' file; do
@@ -123,8 +124,8 @@ while IFS= read -r -d '' file; do
 done
 ```
 
+### Find audio files longer than 10s in r2 local audio directory - takes a while to run
 
-### Find audio files longer than 10s in r2 local audio directory - takes a while to run 
 ```
 find r2-backup/audio -type f -name "*.mp3" -print0 |
 while IFS= read -r -d '' file; do
@@ -135,32 +136,32 @@ while IFS= read -r -d '' file; do
 done
 ```
 
-
 ### Generate audio file names and generate audio
 
 # 1. Generate audio resource list
+
 python scripts/generate_audio_resources.py
 
 # 2. Dry run (no API calls)
+
 python scripts/generate_words.py \
-  --resources resources/words.audio.json \
-  --output audio/words \
-  --dry-run
+ --resources resources/words.audio.json \
+ --output audio/words \
+ --dry-run
 
 # 3. Generate actual audio
+
 python scripts/generate_words.py \
-  --resources resources/words.audio.json \
-  --output audio/words
+ --resources resources/words.audio.json \
+ --output audio/words
 
-
-  ### remember to export your OpenAi key - 
+### remember to export your OpenAi key -
 
 ```
 
 export <key>
 
 ```
-
 
 ### find copy json file in file name in directory
 
@@ -174,13 +175,13 @@ export <key>
  find . -type f -name "*copy*.mp3"
 ```
 
-
 ```
 
 python3 scripts/extract_example_sentences.py /path/to/your/json-folder examples.json
 ```
 
 ### extract sentences from levels
+
 ```
  not this one python3 scripts/extract_level_sentences.py ./r2-backup/levels/level-one.json ./r2-backup/words ./sentences/level/level-one-sentences.json --dedupe
 
@@ -190,7 +191,6 @@ python3 scripts/extract_level_sentences.py \
   ./sentences/level \
   --dedupe
 ```
-
 
 ### extract sentences from topics
 
@@ -204,11 +204,10 @@ python3 scripts/extract_topics_sentences.py \
   --dedupe
 ```
 
-
 ### delete topic words from r2 for topic
 
 ```
-python3 scripts/delete_topic_from_r2.py 
+python3 scripts/delete_topic_from_r2.py
 ```
 
 ```
@@ -217,16 +216,12 @@ python3 scripts/review_naturalness.py run
 
 python3 scripts/rewrite_word_unnatural_sentences.py run
 
-
 python3 scripts/delete_audio_local_from_r2.py
-
-
 
 mkdir -p /Users/michaelyau/self_projects/ibm/resources/r2-backup
 cp -R /Users/michaelyau/tarotea/openai-tts/r2-backup/words /Users/michaelyau/self_projects/ibm/resources/r2-backup/
 
 cp -R /Users/michaelyau/tarotea/openai-tts/r2-backupV2/audio /Users/michaelyau/tarotea/openai-tts/audio/words
-
 
 ### delete and sync new audio
 
@@ -235,7 +230,6 @@ s3://tarotea-content/audio \
 --delete \
 --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
 --profile r2
-
 
 aws s3 sync ./r2-backupV2/words \
 s3://tarotea-content/words \
@@ -249,19 +243,31 @@ s3://tarotea-content/levels \
 --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
 --profile r2
 
-
-
-
 python scripts/audit_topics.py \
-  --topics-dir ./r2-backup/topics \
-  --words-dir ./r2-backup/words \
-  --audio-dir ./r2-backup/audio \
-  --output ./audit-output/topic-audio-word-audit.json
-
-
+ --topics-dir ./r2-backup/topics \
+ --words-dir ./r2-backup/words \
+ --audio-dir ./r2-backup/audio \
+ --output ./audit-output/topic-audio-word-audit.json
 
 python scripts/audit_levels.py \
-  --levels-dir ./r2-backup/levels \
-  --words-dir ./r2-backup/words \
-  --audio-dir ./r2-backup/audio \
-  --output-dir ./audit-output-levels
+ --levels-dir ./r2-backup/levels \
+ --words-dir ./r2-backup/words \
+ --audio-dir ./r2-backup/audio \
+ --output-dir ./audit-output-levels
+
+python scripts/audit_usage.py ./r2-backup/words
+
+python scripts/audit_usage.py ./r2-backup/words --output reports/usage_audit.json
+
+python scripts/fix_usage_ai.py \
+ --report reports/usage_audit.json \
+ --output-jsonl reports/openai/usage_patch_batch.jsonl \
+ --mapping reports/openai/usage_patch_mapping.json \
+ --model gpt-5.4-mini
+
+
+python scripts/apply_usage_patch.py \
+ --batch-output reports/openai/usage_patch_batch_output.jsonl \
+ --root ./r2-backup/words \
+ --output-dir reports/openai/applied_usage_patches \
+ --reject-chinese
