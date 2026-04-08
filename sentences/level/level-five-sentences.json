@@ -1,0 +1,4577 @@
+{
+  "level": 5,
+  "title": "Level 5 – Work, services, and responsibility",
+  "totalWords": 60,
+  "totalSentences": 240,
+  "items": [
+    {
+      "sentenceId": "gung1zok3-work-job-example-1",
+      "sentence": "我每日朝早八點去返工，準時開始工作。",
+      "jyutping": "ngo5 mui5 jat6 ziu1 zou2 baat3 dim2 heoi3 faan1 gung1, zeon2 si4 hoi1 ci2 gung1 zok3.",
+      "meaning": "I go to work every morning at eight o'clock and start working on time.",
+      "sourceWordId": "gung1zok3-work-job",
+      "sourceWord": "工作",
+      "sourceWordJyutping": "gung1 zok3",
+      "sourceWordMeaning": "work / job",
+      "tags": [
+        "work",
+        "job",
+        "employment",
+        "professional",
+        "labour",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gung1zok3-work-job.json"
+    },
+    {
+      "sentenceId": "gung1zok3-work-job-example-2",
+      "sentence": "佢依家喺間銀行做緊金融工作，好忙。",
+      "jyutping": "keoi5 ji1 gaa1 hai2 gaan1 ngan4 hong4 zou6 gan2 gam1 jung4 gung1 zok3, hou2 mong4.",
+      "meaning": "He is currently doing financial work at a bank and is very busy.",
+      "sourceWordId": "gung1zok3-work-job",
+      "sourceWord": "工作",
+      "sourceWordJyutping": "gung1 zok3",
+      "sourceWordMeaning": "work / job",
+      "tags": [
+        "work",
+        "job",
+        "employment",
+        "professional",
+        "labour",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gung1zok3-work-job.json"
+    },
+    {
+      "sentenceId": "gung1zok3-work-job-example-3",
+      "sentence": "搵工作唔係咁容易，尤其係而家咁競爭激烈嘅市場。",
+      "jyutping": "wan2 gung1 zok3 m4 hai6 gam2 jung4 ji6, jau1 kei4 hai6 ji4 gaa1 gam2 ging3 zang1 gik1 lit6 ge3 si5 coeng4.",
+      "meaning": "Finding a job is not that easy, especially in such a competitive market nowadays.",
+      "sourceWordId": "gung1zok3-work-job",
+      "sourceWord": "工作",
+      "sourceWordJyutping": "gung1 zok3",
+      "sourceWordMeaning": "work / job",
+      "tags": [
+        "work",
+        "job",
+        "employment",
+        "professional",
+        "labour",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gung1zok3-work-job.json"
+    },
+    {
+      "sentenceId": "gung1zok3-work-job-example-4",
+      "sentence": "完成呢個工作之後，我哋可以準備去旅行。",
+      "jyutping": "wan4 sing4 ni1 go3 gung1 zok3 zi1 hau6, ngo5 dei6 ho2 ji5 zeon2 bei6 heoi3 leoi5 hang4.",
+      "meaning": "After finishing this work, we can prepare to go on a trip.",
+      "sourceWordId": "gung1zok3-work-job",
+      "sourceWord": "工作",
+      "sourceWordJyutping": "gung1 zok3",
+      "sourceWordMeaning": "work / job",
+      "tags": [
+        "work",
+        "job",
+        "employment",
+        "professional",
+        "labour",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gung1zok3-work-job.json"
+    },
+    {
+      "sentenceId": "zik1wai6-job-position-example-1",
+      "sentence": "佢而家嘅職位係市場經理。",
+      "jyutping": "keoi5 ji4gaa1 ge3 zik1 wai6 hai6 si5coeng4 ging1lei5.",
+      "meaning": "His current position is marketing manager.",
+      "sourceWordId": "zik1wai6-job-position",
+      "sourceWord": "職位",
+      "sourceWordJyutping": "zik1 wai6",
+      "sourceWordMeaning": "job position",
+      "tags": [
+        "employment",
+        "job",
+        "workplace",
+        "career",
+        "hierarchy",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1wai6-job-position.json"
+    },
+    {
+      "sentenceId": "zik1wai6-job-position-example-2",
+      "sentence": "你申請嗰個職位要咩資格？",
+      "jyutping": "nei5 san1cing2 go2 go3 zik1 wai6 jiu3 me1 zi1gaak3?",
+      "meaning": "What qualifications are required for the position you applied for?",
+      "sourceWordId": "zik1wai6-job-position",
+      "sourceWord": "職位",
+      "sourceWordJyutping": "zik1 wai6",
+      "sourceWordMeaning": "job position",
+      "tags": [
+        "employment",
+        "job",
+        "workplace",
+        "career",
+        "hierarchy",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1wai6-job-position.json"
+    },
+    {
+      "sentenceId": "zik1wai6-job-position-example-3",
+      "sentence": "升職後佢嘅職位有好多責任。",
+      "jyutping": "sing1zik1 hau6 keoi5 ge3 zik1 wai6 jau5 hou2 do1 zaak3jam6.",
+      "meaning": "After promotion, his position has a lot of responsibilities.",
+      "sourceWordId": "zik1wai6-job-position",
+      "sourceWord": "職位",
+      "sourceWordJyutping": "zik1 wai6",
+      "sourceWordMeaning": "job position",
+      "tags": [
+        "employment",
+        "job",
+        "workplace",
+        "career",
+        "hierarchy",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1wai6-job-position.json"
+    },
+    {
+      "sentenceId": "zik1wai6-job-position-example-4",
+      "sentence": "呢間公司嘅職位大多數係全職嘅。",
+      "jyutping": "ni1 gaan1 gung1si1 ge3 zik1 wai6 daai6 do1 sou3 hai6 cyun4zik1 ge3.",
+      "meaning": "Most of the positions in this company are full-time.",
+      "sourceWordId": "zik1wai6-job-position",
+      "sourceWord": "職位",
+      "sourceWordJyutping": "zik1 wai6",
+      "sourceWordMeaning": "job position",
+      "tags": [
+        "employment",
+        "job",
+        "workplace",
+        "career",
+        "hierarchy",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1wai6-job-position.json"
+    },
+    {
+      "sentenceId": "tung4si6-colleague-example-1",
+      "sentence": "我啱啱換咗新部門，同事哋都幾好相處。",
+      "jyutping": "ngo5 ngaam1 ngaam1 wun6 zo2 san1 bou6 mun4, tung4 si6 dei6 dou1 gei2 hou2 soeng1 co2.",
+      "meaning": "I just switched to a new department, and the colleagues are quite easy to get along with.",
+      "sourceWordId": "tung4si6-colleague",
+      "sourceWord": "同事",
+      "sourceWordJyutping": "tung4 si6",
+      "sourceWordMeaning": "colleague",
+      "tags": [
+        "work",
+        "professional life",
+        "relationships",
+        "colleague",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/tung4si6-colleague.json"
+    },
+    {
+      "sentenceId": "tung4si6-colleague-example-2",
+      "sentence": "同事叫我今晚食飯，一齊傾吓計。",
+      "jyutping": "tung4 si6 giu3 ngo5 gam1 maan5 sik6 faan6, jat1 cai4 king1 haa5 gai2.",
+      "meaning": "My colleagues invited me to dinner tonight to have a chat together.",
+      "sourceWordId": "tung4si6-colleague",
+      "sourceWord": "同事",
+      "sourceWordJyutping": "tung4 si6",
+      "sourceWordMeaning": "colleague",
+      "tags": [
+        "work",
+        "professional life",
+        "relationships",
+        "colleague",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/tung4si6-colleague.json"
+    },
+    {
+      "sentenceId": "tung4si6-colleague-example-3",
+      "sentence": "喺辦公室，同事之間要互相尊重。",
+      "jyutping": "hai2 baan6 gung1 sat1, tung4 si6 zi1 gaan1 jiu3 wu6 soeng1 zyun1 zung6.",
+      "meaning": "In the office, colleagues need to respect each other.",
+      "sourceWordId": "tung4si6-colleague",
+      "sourceWord": "同事",
+      "sourceWordJyutping": "tung4 si6",
+      "sourceWordMeaning": "colleague",
+      "tags": [
+        "work",
+        "professional life",
+        "relationships",
+        "colleague",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/tung4si6-colleague.json"
+    },
+    {
+      "sentenceId": "tung4si6-colleague-example-4",
+      "sentence": "新加入嘅同事好快就融入咗我哋團隊。",
+      "jyutping": "san1 gaa1 jap6 ge3 tung4 si6 hou2 faai3 zau6 jung4 jap6 zo2 ngo5 dei6 tyun4 deoi2.",
+      "meaning": "The new colleague quickly integrated into our team.",
+      "sourceWordId": "tung4si6-colleague",
+      "sourceWord": "同事",
+      "sourceWordJyutping": "tung4 si6",
+      "sourceWordMeaning": "colleague",
+      "tags": [
+        "work",
+        "professional life",
+        "relationships",
+        "colleague",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/tung4si6-colleague.json"
+    },
+    {
+      "sentenceId": "soeng6si1-supervisor-manager-example-1",
+      "sentence": "我哋嘅上司今日開咗個重要會議。",
+      "jyutping": "ngo5 dei6 ge3 soeng6 si1 gam1 jat6 hoi1 zo2 go3 zung6 jiu3 wui2 ji5.",
+      "meaning": "Our supervisor held an important meeting today.",
+      "sourceWordId": "soeng6si1-supervisor-manager",
+      "sourceWord": "上司",
+      "sourceWordJyutping": "soeng6 si1",
+      "sourceWordMeaning": "supervisor / manager",
+      "tags": [
+        "work",
+        "professional life",
+        "management",
+        "supervisor",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng6si1-supervisor-manager.json"
+    },
+    {
+      "sentenceId": "soeng6si1-supervisor-manager-example-2",
+      "sentence": "上司叫我加快完成報告。",
+      "jyutping": "soeng6 si1 giu3 ngo5 gaa1 faai3 jyun4 sing4 bou3 gou3.",
+      "meaning": "The supervisor asked me to speed up finishing the report.",
+      "sourceWordId": "soeng6si1-supervisor-manager",
+      "sourceWord": "上司",
+      "sourceWordJyutping": "soeng6 si1",
+      "sourceWordMeaning": "supervisor / manager",
+      "tags": [
+        "work",
+        "professional life",
+        "management",
+        "supervisor",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng6si1-supervisor-manager.json"
+    },
+    {
+      "sentenceId": "soeng6si1-supervisor-manager-example-3",
+      "sentence": "如果你有問題，可以問你的上司。",
+      "jyutping": "jyu4 gwo2 nei5 jau5 man6 tai4, ho2 ji5 man6 nei5 dik1 soeng6 si1.",
+      "meaning": "If you have questions, you can ask your supervisor.",
+      "sourceWordId": "soeng6si1-supervisor-manager",
+      "sourceWord": "上司",
+      "sourceWordJyutping": "soeng6 si1",
+      "sourceWordMeaning": "supervisor / manager",
+      "tags": [
+        "work",
+        "professional life",
+        "management",
+        "supervisor",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng6si1-supervisor-manager.json"
+    },
+    {
+      "sentenceId": "soeng6si1-supervisor-manager-example-4",
+      "sentence": "我對呢位上司感覺幾有信心。",
+      "jyutping": "ngo5 deoi3 ni1 wai2 soeng6 si1 gam2 gok3 gei2 jau5 seon3 sam1.",
+      "meaning": "I feel quite confident about this supervisor.",
+      "sourceWordId": "soeng6si1-supervisor-manager",
+      "sourceWord": "上司",
+      "sourceWordJyutping": "soeng6 si1",
+      "sourceWordMeaning": "supervisor / manager",
+      "tags": [
+        "work",
+        "professional life",
+        "management",
+        "supervisor",
+        "office",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng6si1-supervisor-manager.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-1",
+      "sentence": "我哋個老闆今日唔喺公司。",
+      "jyutping": "ngo5 dei6 go3 lou5 baan2 gam1 jat6 m4 hai2 gung1 si1.",
+      "meaning": "Our boss isn’t in the office today.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-2",
+      "sentence": "佢係呢間舖頭嘅老闆。",
+      "jyutping": "keoi5 hai6 ni1 gaan1 pou3 tau4 ge3 lou5 baan2.",
+      "meaning": "He is the owner of this shop.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-3",
+      "sentence": "老闆叫我哋聽日早啲返工。",
+      "jyutping": "lou5 baan2 giu3 ngo5 dei6 ting1 jat6 zou2 di1 faan1 gung1.",
+      "meaning": "The boss asked us to come to work earlier tomorrow.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "lou5baan2-boss-example-4",
+      "sentence": "我同老闆傾過加人工嘅事。",
+      "jyutping": "ngo5 tung4 lou5 baan2 king1 gwo3 gaa1 jan4 gung1 ge3 si6.",
+      "meaning": "I talked with the boss about a pay raise.",
+      "sourceWordId": "lou5baan2-boss",
+      "sourceWord": "老闆",
+      "sourceWordJyutping": "lou5 baan2",
+      "sourceWordMeaning": "boss",
+      "tags": [
+        "jobs",
+        "professions",
+        "workplace",
+        "common word",
+        "noun",
+        "boss",
+        "business",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lou5baan2-boss.json"
+    },
+    {
+      "sentenceId": "fu6zaak3-to-be-responsible-for-in-charge-of-example-1",
+      "sentence": "呢個項目係我負責，你可以問我任何問題。",
+      "jyutping": "ni1 go3 hong6 muk6 hai6 ngo5 fu6 zaak3, nei5 ho2 ji5 man6 ngo5 jam6 ho4 man6 tai4.",
+      "meaning": "I am in charge of this project, you can ask me any questions.",
+      "sourceWordId": "fu6zaak3-to-be-responsible-for-in-charge-of",
+      "sourceWord": "負責",
+      "sourceWordJyutping": "fu6 zaak3",
+      "sourceWordMeaning": "to be responsible for / in charge of",
+      "tags": [
+        "responsibility",
+        "management",
+        "work",
+        "role",
+        "accountability",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6zaak3-to-be-responsible-for-in-charge-of.json"
+    },
+    {
+      "sentenceId": "fu6zaak3-to-be-responsible-for-in-charge-of-example-2",
+      "sentence": "佢負責管理整間公司嘅財務。",
+      "jyutping": "keoi5 fu6 zaak3 gun2 lei5 zeng2 gaan1 gung1 si1 ge3 coi4 mou6.",
+      "meaning": "He is responsible for managing the company's finances.",
+      "sourceWordId": "fu6zaak3-to-be-responsible-for-in-charge-of",
+      "sourceWord": "負責",
+      "sourceWordJyutping": "fu6 zaak3",
+      "sourceWordMeaning": "to be responsible for / in charge of",
+      "tags": [
+        "responsibility",
+        "management",
+        "work",
+        "role",
+        "accountability",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6zaak3-to-be-responsible-for-in-charge-of.json"
+    },
+    {
+      "sentenceId": "fu6zaak3-to-be-responsible-for-in-charge-of-example-3",
+      "sentence": "負責安排今次會議嘅人係邊個？",
+      "jyutping": "fu6 zaak3 on1 paai4 gam1 ci3 wui6 ji5 ge3 jan4 hai6 bin1 go3?",
+      "meaning": "Who is responsible for organizing this meeting?",
+      "sourceWordId": "fu6zaak3-to-be-responsible-for-in-charge-of",
+      "sourceWord": "負責",
+      "sourceWordJyutping": "fu6 zaak3",
+      "sourceWordMeaning": "to be responsible for / in charge of",
+      "tags": [
+        "responsibility",
+        "management",
+        "work",
+        "role",
+        "accountability",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6zaak3-to-be-responsible-for-in-charge-of.json"
+    },
+    {
+      "sentenceId": "fu6zaak3-to-be-responsible-for-in-charge-of-example-4",
+      "sentence": "作為部門主管，你要負責確保工作順利進行。",
+      "jyutping": "zok3 wai4 bou6 mun4 zyu2 gun2, nei5 jiu3 fu6 zaak3 kok3 bou2 gung1 zok3 seon6 lei6 zeon3 hang4.",
+      "meaning": "As a department manager, you are responsible for ensuring work proceeds smoothly.",
+      "sourceWordId": "fu6zaak3-to-be-responsible-for-in-charge-of",
+      "sourceWord": "負責",
+      "sourceWordJyutping": "fu6 zaak3",
+      "sourceWordMeaning": "to be responsible for / in charge of",
+      "tags": [
+        "responsibility",
+        "management",
+        "work",
+        "role",
+        "accountability",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6zaak3-to-be-responsible-for-in-charge-of.json"
+    },
+    {
+      "sentenceId": "zik1zaak3-job-duties-responsibilities-example-1",
+      "sentence": "老闆今日俾左我啲新職責。",
+      "jyutping": "lou5 baan2 gam1 jat6 bei2 zo2 ngo5 di1 san1 zik1 zaak3.",
+      "meaning": "The boss gave me some new job duties today.",
+      "sourceWordId": "zik1zaak3-job-duties-responsibilities",
+      "sourceWord": "職責",
+      "sourceWordJyutping": "zik1 zaak3",
+      "sourceWordMeaning": "job duties / responsibilities",
+      "tags": [
+        "work",
+        "responsibilities",
+        "job duties",
+        "professional",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1zaak3-job-duties-responsibilities.json"
+    },
+    {
+      "sentenceId": "zik1zaak3-job-duties-responsibilities-example-2",
+      "sentence": "你要清楚自己嘅職責係乜嘢。",
+      "jyutping": "nei5 jiu3 cing1 co2 zi6 gei2 ge3 zik1 zaak3 hai6 mat1 je5.",
+      "meaning": "You need to clearly understand what your job responsibilities are.",
+      "sourceWordId": "zik1zaak3-job-duties-responsibilities",
+      "sourceWord": "職責",
+      "sourceWordJyutping": "zik1 zaak3",
+      "sourceWordMeaning": "job duties / responsibilities",
+      "tags": [
+        "work",
+        "responsibilities",
+        "job duties",
+        "professional",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1zaak3-job-duties-responsibilities.json"
+    },
+    {
+      "sentenceId": "zik1zaak3-job-duties-responsibilities-example-3",
+      "sentence": "分工合作，每個人都要做好自己嘅職責。",
+      "jyutping": "fan1 gung1 hap6 zok3, mui5 go3 jan4 dou1 jiu3 zou6 hou2 zi6 gei2 ge3 zik1 zaak3.",
+      "meaning": "Divide the work and cooperate; everyone must do their own job duties well.",
+      "sourceWordId": "zik1zaak3-job-duties-responsibilities",
+      "sourceWord": "職責",
+      "sourceWordJyutping": "zik1 zaak3",
+      "sourceWordMeaning": "job duties / responsibilities",
+      "tags": [
+        "work",
+        "responsibilities",
+        "job duties",
+        "professional",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1zaak3-job-duties-responsibilities.json"
+    },
+    {
+      "sentenceId": "zik1zaak3-job-duties-responsibilities-example-4",
+      "sentence": "完成職責之後，佢就可以申請假期。",
+      "jyutping": "wan4 sing4 zik1 zaak3 zi1 hau6, keoi5 zau6 ho2 ji5 san1 cing2 gaa3 kei4.",
+      "meaning": "After completing the duties, he can apply for leave.",
+      "sourceWordId": "zik1zaak3-job-duties-responsibilities",
+      "sourceWord": "職責",
+      "sourceWordJyutping": "zik1 zaak3",
+      "sourceWordMeaning": "job duties / responsibilities",
+      "tags": [
+        "work",
+        "responsibilities",
+        "job duties",
+        "professional",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zik1zaak3-job-duties-responsibilities.json"
+    },
+    {
+      "sentenceId": "si3jung6kei4-probation-period-example-1",
+      "sentence": "我喺呢間公司嘅試用期仲未完，要繼續努力。",
+      "jyutping": "ngo5 hai2 ni1 gaan1 gung1 si1 ge3 si3 jung6 kei4 zung6 mei6 yun4, jiu3 gai3 zuk6 nou5 lik6.",
+      "meaning": "My probation period at this company isn't over yet; I have to keep working hard.",
+      "sourceWordId": "si3jung6kei4-probation-period",
+      "sourceWord": "試用期",
+      "sourceWordJyutping": "si3 jung6 kei4",
+      "sourceWordMeaning": "probation period",
+      "tags": [
+        "employment",
+        "workplace",
+        "human resources",
+        "job",
+        "probation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/si3jung6kei4-probation-period.json"
+    },
+    {
+      "sentenceId": "si3jung6kei4-probation-period-example-2",
+      "sentence": "通常試用期係三個月，如果表現唔好，公司可以即刻解僱。",
+      "jyutping": "tung1 soeng4 si3 jung6 kei4 hai6 saam1 go3 jyut6, jyu4 gwo2 biu2 jin2 m4 hou2, gung1 si1 ho2 ji5 zik1 hak1 gaai2 gu3.",
+      "meaning": "Usually the probation period is three months, and if performance is not good, the company can terminate immediately.",
+      "sourceWordId": "si3jung6kei4-probation-period",
+      "sourceWord": "試用期",
+      "sourceWordJyutping": "si3 jung6 kei4",
+      "sourceWordMeaning": "probation period",
+      "tags": [
+        "employment",
+        "workplace",
+        "human resources",
+        "job",
+        "probation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/si3jung6kei4-probation-period.json"
+    },
+    {
+      "sentenceId": "si3jung6kei4-probation-period-example-3",
+      "sentence": "我哋喺試用期內唔會享有全部嘅員工福利。",
+      "jyutping": "ngo5 dei6 hai2 si3 jung6 kei4 noi6 m4 wui5 hoeng2 jau5 cyun4 bou6 ge3 jyun4 gung1 fuk1 lai6.",
+      "meaning": "We don’t have full employee benefits during the probation period.",
+      "sourceWordId": "si3jung6kei4-probation-period",
+      "sourceWord": "試用期",
+      "sourceWordJyutping": "si3 jung6 kei4",
+      "sourceWordMeaning": "probation period",
+      "tags": [
+        "employment",
+        "workplace",
+        "human resources",
+        "job",
+        "probation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/si3jung6kei4-probation-period.json"
+    },
+    {
+      "sentenceId": "si3jung6kei4-probation-period-example-4",
+      "sentence": "試用期結束之後，你先至可以申請年假同加薪。",
+      "jyutping": "si3 jung6 kei4 git3 cuk1 zi1 hau6, nei5 sin1 zi3 ho2 ji5 san1 cing2 nin4 gaa3 tung4 gaa1 san1.",
+      "meaning": "Only after the probation period ends can you apply for annual leave and a raise.",
+      "sourceWordId": "si3jung6kei4-probation-period",
+      "sourceWord": "試用期",
+      "sourceWordJyutping": "si3 jung6 kei4",
+      "sourceWordMeaning": "probation period",
+      "tags": [
+        "employment",
+        "workplace",
+        "human resources",
+        "job",
+        "probation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/si3jung6kei4-probation-period.json"
+    },
+    {
+      "sentenceId": "daa2gung1-to-work-for-someone-example-1",
+      "sentence": "我而家喺餐廳打工，忙到冇時間休息。",
+      "jyutping": "ngo5 ji4 gaa1 hai2 caan1 teng1 daa2 gung1, mong4 dou3 mou5 si4 gaan3 jau1 sik1.",
+      "meaning": "I am currently working in a restaurant, so busy that I have no time to rest.",
+      "sourceWordId": "daa2gung1-to-work-for-someone",
+      "sourceWord": "打工",
+      "sourceWordJyutping": "daa2 gung1",
+      "sourceWordMeaning": "to work for someone",
+      "tags": [
+        "work",
+        "employment",
+        "part-time job",
+        "manual work",
+        "career",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daa2gung1-to-work-for-someone.json"
+    },
+    {
+      "sentenceId": "daa2gung1-to-work-for-someone-example-2",
+      "sentence": "細佬啱啱開始喺間旅行社打工。",
+      "jyutping": "sai3 lou2 ngaam1 ngaam1 hoi1 ci2 hai2 gaan1 leoi5 hang4 se5 daa2 gung1.",
+      "meaning": "My younger brother just started working at a travel agency.",
+      "sourceWordId": "daa2gung1-to-work-for-someone",
+      "sourceWord": "打工",
+      "sourceWordJyutping": "daa2 gung1",
+      "sourceWordMeaning": "to work for someone",
+      "tags": [
+        "work",
+        "employment",
+        "part-time job",
+        "manual work",
+        "career",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daa2gung1-to-work-for-someone.json"
+    },
+    {
+      "sentenceId": "daa2gung1-to-work-for-someone-example-3",
+      "sentence": "好多學生暑假嚟呢度打工賺零用錢。",
+      "jyutping": "hou2 do1 hok6 saang1 syu1 gaa3 lei4 ni1 dou6 daa2 gung1 zaan6 ling4 jung6 cin2.",
+      "meaning": "Many students come here during summer vacation to work and earn pocket money.",
+      "sourceWordId": "daa2gung1-to-work-for-someone",
+      "sourceWord": "打工",
+      "sourceWordJyutping": "daa2 gung1",
+      "sourceWordMeaning": "to work for someone",
+      "tags": [
+        "work",
+        "employment",
+        "part-time job",
+        "manual work",
+        "career",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daa2gung1-to-work-for-someone.json"
+    },
+    {
+      "sentenceId": "daa2gung1-to-work-for-someone-example-4",
+      "sentence": "我唔想一世都喺度打工，想自己做老闆。",
+      "jyutping": "ngo5 m4 soeng2 jat1 sai3 dou1 hai2 dou6 daa2 gung1, soeng2 zi6 gei2 zou6 lou5 baan2.",
+      "meaning": "I don't want to work for others all my life; I want to be my own boss.",
+      "sourceWordId": "daa2gung1-to-work-for-someone",
+      "sourceWord": "打工",
+      "sourceWordJyutping": "daa2 gung1",
+      "sourceWordMeaning": "to work for someone",
+      "tags": [
+        "work",
+        "employment",
+        "part-time job",
+        "manual work",
+        "career",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daa2gung1-to-work-for-someone.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-1",
+      "sentence": "我聽日要早啲返工。",
+      "jyutping": "ngo5 ting1jat6 jiu3 zou2 di1 faan1 gung1.",
+      "meaning": "I have to go to work earlier tomorrow.",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-2",
+      "sentence": "你幾點返工？",
+      "jyutping": "nei5 gei2 dim2 faan1 gung1?",
+      "meaning": "What time do you go to work?",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-3",
+      "sentence": "佢每日搭巴士返工。",
+      "jyutping": "keoi5 mui5jat6 daap3 baa1si2 faan1 gung1.",
+      "meaning": "He/she takes the bus to work every day.",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "faan1gung1-go-to-work-example-4",
+      "sentence": "病都冇請假返工，真係辛苦。",
+      "jyutping": "beng6 dou1 mou5 ceng2 gaa3 faan1 gung1, zan1 hai6 san1fu2.",
+      "meaning": "Going to work without taking sick leave is really tough.",
+      "sourceWordId": "faan1gung1-go-to-work",
+      "sourceWord": "返工",
+      "sourceWordJyutping": "faan1 gung1",
+      "sourceWordMeaning": "go to work",
+      "tags": [
+        "jobs and work",
+        "daily routine",
+        "beginner",
+        "spoken Cantonese",
+        "common verb",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/faan1gung1-go-to-work.json"
+    },
+    {
+      "sentenceId": "sau1gung1-to-finish-work-example-1",
+      "sentence": "我哋今日五點鐘收工。",
+      "jyutping": "ngo5 dei6 gam1 jat6 ng5 dim2 zung1 sau1 gung1.",
+      "meaning": "We finish work at five o'clock today.",
+      "sourceWordId": "sau1gung1-to-finish-work",
+      "sourceWord": "收工",
+      "sourceWordJyutping": "sau1 gung1",
+      "sourceWordMeaning": "to finish work",
+      "tags": [
+        "work",
+        "daily conversation",
+        "verbs",
+        "colloquial",
+        "completing tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/sau1gung1-to-finish-work.json"
+    },
+    {
+      "sentenceId": "sau1gung1-to-finish-work-example-2",
+      "sentence": "做咗一日嘅嘢，好想快啲收工返屋企。",
+      "jyutping": "zou6 zo2 jat1 jat6 ge3 je5, hou2 soeng2 faai3 di1 sau1 gung1 faan1 uk1 kei2.",
+      "meaning": "After working all day, I really want to finish work quickly and go home.",
+      "sourceWordId": "sau1gung1-to-finish-work",
+      "sourceWord": "收工",
+      "sourceWordJyutping": "sau1 gung1",
+      "sourceWordMeaning": "to finish work",
+      "tags": [
+        "work",
+        "daily conversation",
+        "verbs",
+        "colloquial",
+        "completing tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/sau1gung1-to-finish-work.json"
+    },
+    {
+      "sentenceId": "sau1gung1-to-finish-work-example-3",
+      "sentence": "收工之前記得檢晒啲文件。",
+      "jyutping": "sau1 gung1 zi1 cin4 gei3 dak1 gim2 saai3 di1 man4 gin2.",
+      "meaning": "Remember to organize all the documents before finishing work.",
+      "sourceWordId": "sau1gung1-to-finish-work",
+      "sourceWord": "收工",
+      "sourceWordJyutping": "sau1 gung1",
+      "sourceWordMeaning": "to finish work",
+      "tags": [
+        "work",
+        "daily conversation",
+        "verbs",
+        "colloquial",
+        "completing tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/sau1gung1-to-finish-work.json"
+    },
+    {
+      "sentenceId": "sau1gung1-to-finish-work-example-4",
+      "sentence": "嗰個活動完咗，我哋就可以收工啦。",
+      "jyutping": "go2 go3 wut6 dung6 jyun4 zo2, ngo5 dei6 zau6 ho2 ji5 sau1 gung1 laa1.",
+      "meaning": "After that event is over, we can finish work.",
+      "sourceWordId": "sau1gung1-to-finish-work",
+      "sourceWord": "收工",
+      "sourceWordJyutping": "sau1 gung1",
+      "sourceWordMeaning": "to finish work",
+      "tags": [
+        "work",
+        "daily conversation",
+        "verbs",
+        "colloquial",
+        "completing tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/sau1gung1-to-finish-work.json"
+    },
+    {
+      "sentenceId": "gaa1baan1-to-work-overtime-example-1",
+      "sentence": "今個星期我每日都要加班，真係好攰。",
+      "jyutping": "gam1 go3 sing1 kei4 ngo5 mui5 jat6 dou1 jiu3 gaa1 baan1, zan1 hai6 hou2 gui6.",
+      "meaning": "This week I have to work overtime every day, I am really tired.",
+      "sourceWordId": "gaa1baan1-to-work-overtime",
+      "sourceWord": "加班",
+      "sourceWordJyutping": "gaa1 baan1",
+      "sourceWordMeaning": "to work overtime",
+      "tags": [
+        "work",
+        "overtime",
+        "professional life",
+        "expression",
+        "work habits",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaa1baan1-to-work-overtime.json"
+    },
+    {
+      "sentenceId": "gaa1baan1-to-work-overtime-example-2",
+      "sentence": "加班完之後我哋一齊去飲嘢放鬆下啦。",
+      "jyutping": "gaa1 baan1 jyun4 zi1 hau6 ngo5 dei6 jat1 cai4 heoi3 jam2 je5 fong3 sung1 haa5 laa1.",
+      "meaning": "After working overtime, let's go have a drink together to relax.",
+      "sourceWordId": "gaa1baan1-to-work-overtime",
+      "sourceWord": "加班",
+      "sourceWordJyutping": "gaa1 baan1",
+      "sourceWordMeaning": "to work overtime",
+      "tags": [
+        "work",
+        "overtime",
+        "professional life",
+        "expression",
+        "work habits",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaa1baan1-to-work-overtime.json"
+    },
+    {
+      "sentenceId": "gaa1baan1-to-work-overtime-example-3",
+      "sentence": "老細話呢排唔好太多加班，注重員工平衡。",
+      "jyutping": "lou5 sai3 waa6 ni1 paai4 m4 hou2 taai3 do1 gaa1 baan1, zyu3 zung6 jyun4 gung1 peng4 hang4.",
+      "meaning": "The boss said not to have too much overtime recently and to focus on employee balance.",
+      "sourceWordId": "gaa1baan1-to-work-overtime",
+      "sourceWord": "加班",
+      "sourceWordJyutping": "gaa1 baan1",
+      "sourceWordMeaning": "to work overtime",
+      "tags": [
+        "work",
+        "overtime",
+        "professional life",
+        "expression",
+        "work habits",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaa1baan1-to-work-overtime.json"
+    },
+    {
+      "sentenceId": "gaa1baan1-to-work-overtime-example-4",
+      "sentence": "加唔加班由你自己決定，但記住要照顧身體。",
+      "jyutping": "gaa1 m4 gaa1 baan1 jau4 nei5 zi6 gei2 kyut3 ding6, daan6 gei3 zyu6 jiu3 ziu3 gu3 san1 tai2.",
+      "meaning": "Whether to work overtime is up to you, but remember to take care of your health.",
+      "sourceWordId": "gaa1baan1-to-work-overtime",
+      "sourceWord": "加班",
+      "sourceWordJyutping": "gaa1 baan1",
+      "sourceWordMeaning": "to work overtime",
+      "tags": [
+        "work",
+        "overtime",
+        "professional life",
+        "expression",
+        "work habits",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaa1baan1-to-work-overtime.json"
+    },
+    {
+      "sentenceId": "jam6mou6-task-assignment-example-1",
+      "sentence": "我今日有啲緊急嘅任務要完成。",
+      "jyutping": "ngo5 gam1 jat6 jau5 di1 gan2 gap1 ge3 jam6 mou6 jiu3 jyun4 sing4.",
+      "meaning": "I have some urgent tasks to complete today.",
+      "sourceWordId": "jam6mou6-task-assignment",
+      "sourceWord": "任務",
+      "sourceWordJyutping": "jam6 mou6",
+      "sourceWordMeaning": "task / assignment",
+      "tags": [
+        "tasks",
+        "work",
+        "assignments",
+        "responsibility",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jam6mou6-task-assignment.json"
+    },
+    {
+      "sentenceId": "jam6mou6-task-assignment-example-2",
+      "sentence": "老細分配咗一個新任務畀我。",
+      "jyutping": "lou5 sai3 fan1 pui3 zo2 jat1 go3 san1 jam6 mou6 bei2 ngo5.",
+      "meaning": "The boss assigned a new task to me.",
+      "sourceWordId": "jam6mou6-task-assignment",
+      "sourceWord": "任務",
+      "sourceWordJyutping": "jam6 mou6",
+      "sourceWordMeaning": "task / assignment",
+      "tags": [
+        "tasks",
+        "work",
+        "assignments",
+        "responsibility",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jam6mou6-task-assignment.json"
+    },
+    {
+      "sentenceId": "jam6mou6-task-assignment-example-3",
+      "sentence": "完成呢項任務之後我哋可以休息一下。",
+      "jyutping": "yun4 sing4 ni1 hong6 jam6 mou6 zi1 hau6 ngo5 dei6 ho2 ji5 jau1 sik1 jat1 haa5.",
+      "meaning": "After completing this task, we can take a break.",
+      "sourceWordId": "jam6mou6-task-assignment",
+      "sourceWord": "任務",
+      "sourceWordJyutping": "jam6 mou6",
+      "sourceWordMeaning": "task / assignment",
+      "tags": [
+        "tasks",
+        "work",
+        "assignments",
+        "responsibility",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jam6mou6-task-assignment.json"
+    },
+    {
+      "sentenceId": "jam6mou6-task-assignment-example-4",
+      "sentence": "接受任務之前要先了解清楚要求。",
+      "jyutping": "zip3 sau6 jam6 mou6 zi1 cin4 jiu3 sin1 liu5 gaai2 cing1 co2 yiu1 kau4.",
+      "meaning": "Before accepting a task, you need to clearly understand the requirements.",
+      "sourceWordId": "jam6mou6-task-assignment",
+      "sourceWord": "任務",
+      "sourceWordJyutping": "jam6 mou6",
+      "sourceWordMeaning": "task / assignment",
+      "tags": [
+        "tasks",
+        "work",
+        "assignments",
+        "responsibility",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jam6mou6-task-assignment.json"
+    },
+    {
+      "sentenceId": "gwo3cing4-process-example-1",
+      "sentence": "呢個項目嘅過程好繁複，要小心處理。",
+      "jyutping": "ni1 go3 hong6 muk6 ge3 gwo3 cing4 hou2 faan4 fuk6, jiu3 siu2 sam1 cyu3 lei5.",
+      "meaning": "The process of this project is very complicated and requires careful handling.",
+      "sourceWordId": "gwo3cing4-process",
+      "sourceWord": "過程",
+      "sourceWordJyutping": "gwo3 cing4",
+      "sourceWordMeaning": "process",
+      "tags": [
+        "advanced",
+        "phrase",
+        "process",
+        "describing",
+        "sequence",
+        "level-6"
+      ],
+      "sourceFile": "r2-backup/words/gwo3cing4-process.json"
+    },
+    {
+      "sentenceId": "gwo3cing4-process-example-2",
+      "sentence": "我想了解整個手術嘅過程係點樣。",
+      "jyutping": "ngo5 soeng2 liu5 gaai2 zing2 go3 sau2 seot6 ge3 gwo3 cing4 hai6 dim2 joeng6.",
+      "meaning": "I want to understand how the entire surgery process works.",
+      "sourceWordId": "gwo3cing4-process",
+      "sourceWord": "過程",
+      "sourceWordJyutping": "gwo3 cing4",
+      "sourceWordMeaning": "process",
+      "tags": [
+        "advanced",
+        "phrase",
+        "process",
+        "describing",
+        "sequence",
+        "level-6"
+      ],
+      "sourceFile": "r2-backup/words/gwo3cing4-process.json"
+    },
+    {
+      "sentenceId": "gwo3cing4-process-example-3",
+      "sentence": "做研究嘅過程中，發現咗好多新嘢。",
+      "jyutping": "zou6 jin4 gau3 ge3 gwo3 cing4 zung1, faat3 jin6 zo2 hou2 do1 san1 je5.",
+      "meaning": "During the research process, many new things were discovered.",
+      "sourceWordId": "gwo3cing4-process",
+      "sourceWord": "過程",
+      "sourceWordJyutping": "gwo3 cing4",
+      "sourceWordMeaning": "process",
+      "tags": [
+        "advanced",
+        "phrase",
+        "process",
+        "describing",
+        "sequence",
+        "level-6"
+      ],
+      "sourceFile": "r2-backup/words/gwo3cing4-process.json"
+    },
+    {
+      "sentenceId": "gwo3cing4-process-example-4",
+      "sentence": "溝通嘅過程中，最好保持耐心。",
+      "jyutping": "kau1 tung1 ge3 gwo3 cing4 zung1, zeoi3 hou2 bou2 ci4 noi6 sam1.",
+      "meaning": "In the process of communication, it’s best to maintain patience.",
+      "sourceWordId": "gwo3cing4-process",
+      "sourceWord": "過程",
+      "sourceWordJyutping": "gwo3 cing4",
+      "sourceWordMeaning": "process",
+      "tags": [
+        "advanced",
+        "phrase",
+        "process",
+        "describing",
+        "sequence",
+        "level-6"
+      ],
+      "sourceFile": "r2-backup/words/gwo3cing4-process.json"
+    },
+    {
+      "sentenceId": "lau4cing4-workflow-example-1",
+      "sentence": "呢個流程好複雜，要分得好清楚先得。",
+      "jyutping": "ni1 go3 lau4 cing4 hou2 fuk6 zaap6, jiu3 fan1 dak1 hou2 cing1 co2 sin1 dak1.",
+      "meaning": "This workflow is complicated; it needs to be clearly divided first.",
+      "sourceWordId": "lau4cing4-workflow",
+      "sourceWord": "流程",
+      "sourceWordJyutping": "lau4 cing4",
+      "sourceWordMeaning": "workflow",
+      "tags": [
+        "workflow",
+        "business",
+        "process",
+        "efficiency",
+        "management",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lau4cing4-workflow.json"
+    },
+    {
+      "sentenceId": "lau4cing4-workflow-example-2",
+      "sentence": "我哋依家喺度檢討工作流程，搵出可以改進嘅地方。",
+      "jyutping": "ngo5 dei6 ji1 gaa1 hai2 dou6 gim2 tou2 gung1 zok3 lau4 cing4, wan2 ceot1 ho2 ji5 goi2 zeon3 ge3 dei6 fong1.",
+      "meaning": "We are reviewing the work workflow now to find areas for improvement.",
+      "sourceWordId": "lau4cing4-workflow",
+      "sourceWord": "流程",
+      "sourceWordJyutping": "lau4 cing4",
+      "sourceWordMeaning": "workflow",
+      "tags": [
+        "workflow",
+        "business",
+        "process",
+        "efficiency",
+        "management",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lau4cing4-workflow.json"
+    },
+    {
+      "sentenceId": "lau4cing4-workflow-example-3",
+      "sentence": "有啲公司會用軟件嚟幫助管理流程。",
+      "jyutping": "jau5 di1 gung1 si1 wui5 jung6 jyun5 gin6 lai4 bong1 zo6 gun2 lei5 lau4 cing4.",
+      "meaning": "Some companies use software to help manage workflows.",
+      "sourceWordId": "lau4cing4-workflow",
+      "sourceWord": "流程",
+      "sourceWordJyutping": "lau4 cing4",
+      "sourceWordMeaning": "workflow",
+      "tags": [
+        "workflow",
+        "business",
+        "process",
+        "efficiency",
+        "management",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lau4cing4-workflow.json"
+    },
+    {
+      "sentenceId": "lau4cing4-workflow-example-4",
+      "sentence": "呢個流程簡化咗，做嘢快咗好多。",
+      "jyutping": "ni1 go3 lau4 cing4 gaan2 faa3 zo2, zou6 je5 faai3 zo2 hou2 do1.",
+      "meaning": "This workflow has been simplified, and work has become much faster.",
+      "sourceWordId": "lau4cing4-workflow",
+      "sourceWord": "流程",
+      "sourceWordJyutping": "lau4 cing4",
+      "sourceWordMeaning": "workflow",
+      "tags": [
+        "workflow",
+        "business",
+        "process",
+        "efficiency",
+        "management",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lau4cing4-workflow.json"
+    },
+    {
+      "sentenceId": "bou6zou6-steps-procedure-example-1",
+      "sentence": "你要清楚咁跟呢個步驟先得。",
+      "jyutping": "nei5 jiu3 cing1 co2 gam2 gan1 ni1 go3 bou6 zou6 sin1 dak1.",
+      "meaning": "You have to clearly follow this step first.",
+      "sourceWordId": "bou6zou6-steps-procedure",
+      "sourceWord": "步驟",
+      "sourceWordJyutping": "bou6 zou6",
+      "sourceWordMeaning": "steps / procedure",
+      "tags": [
+        "procedure",
+        "steps",
+        "workflow",
+        "instructions",
+        "process",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou6zou6-steps-procedure.json"
+    },
+    {
+      "sentenceId": "bou6zou6-steps-procedure-example-2",
+      "sentence": "教我做蛋糕嘅每一個步驟啦。",
+      "jyutping": "gaau3 ngo5 zou6 daan6 gou1 ge3 mui5 jat1 go3 bou6 zou6 laa1.",
+      "meaning": "Teach me every step of making a cake.",
+      "sourceWordId": "bou6zou6-steps-procedure",
+      "sourceWord": "步驟",
+      "sourceWordJyutping": "bou6 zou6",
+      "sourceWordMeaning": "steps / procedure",
+      "tags": [
+        "procedure",
+        "steps",
+        "workflow",
+        "instructions",
+        "process",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou6zou6-steps-procedure.json"
+    },
+    {
+      "sentenceId": "bou6zou6-steps-procedure-example-3",
+      "sentence": "公司改咗啲工作步驟，提高效率咗好多。",
+      "jyutping": "gung1 si1 goi2 zo2 di1 gung1 zok3 bou6 zou6, tai4 gou1 haau6 leot6 zo2 hou2 do1.",
+      "meaning": "The company changed some work procedures, greatly improving efficiency.",
+      "sourceWordId": "bou6zou6-steps-procedure",
+      "sourceWord": "步驟",
+      "sourceWordJyutping": "bou6 zou6",
+      "sourceWordMeaning": "steps / procedure",
+      "tags": [
+        "procedure",
+        "steps",
+        "workflow",
+        "instructions",
+        "process",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou6zou6-steps-procedure.json"
+    },
+    {
+      "sentenceId": "bou6zou6-steps-procedure-example-4",
+      "sentence": "依家唔好跳過任何步驟，因為可能會出錯。",
+      "jyutping": "ji1 gaa1 m4 hou2 tiu3 gwo3 jam6 ho4 bou6 zou6, jan1 wai6 ho2 nang4 wui5 ceot1 co3.",
+      "meaning": "Don't skip any steps now, because mistakes might happen.",
+      "sourceWordId": "bou6zou6-steps-procedure",
+      "sourceWord": "步驟",
+      "sourceWordJyutping": "bou6 zou6",
+      "sourceWordMeaning": "steps / procedure",
+      "tags": [
+        "procedure",
+        "steps",
+        "workflow",
+        "instructions",
+        "process",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou6zou6-steps-procedure.json"
+    },
+    {
+      "sentenceId": "gan1zeon3-to-follow-up-example-1",
+      "sentence": "我會盡快跟進你嘅申請。",
+      "jyutping": "ngo5 wui5 zeon3 faai3 gan1 zeon3 nei5 ge3 san1 cing2.",
+      "meaning": "I will follow up on your application as soon as possible.",
+      "sourceWordId": "gan1zeon3-to-follow-up",
+      "sourceWord": "跟進",
+      "sourceWordJyutping": "gan1 zeon3",
+      "sourceWordMeaning": "to follow up",
+      "tags": [
+        "business",
+        "workflow",
+        "communication",
+        "responsibility",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gan1zeon3-to-follow-up.json"
+    },
+    {
+      "sentenceId": "gan1zeon3-to-follow-up-example-2",
+      "sentence": "記得跟進上星期嘅會議決定。",
+      "jyutping": "gei3 dak1 gan1 zeon3 soeng6 sing1 kei4 ge3 wui6 ji5 kyut3 ding6.",
+      "meaning": "Remember to follow up on last week's meeting decisions.",
+      "sourceWordId": "gan1zeon3-to-follow-up",
+      "sourceWord": "跟進",
+      "sourceWordJyutping": "gan1 zeon3",
+      "sourceWordMeaning": "to follow up",
+      "tags": [
+        "business",
+        "workflow",
+        "communication",
+        "responsibility",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gan1zeon3-to-follow-up.json"
+    },
+    {
+      "sentenceId": "gan1zeon3-to-follow-up-example-3",
+      "sentence": "你可唔可以幫我跟進客戶嘅投訴？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 gan1 zeon3 haak3 wu6 ge3 tau4 sou3?",
+      "meaning": "Can you help me follow up on the customer's complaint?",
+      "sourceWordId": "gan1zeon3-to-follow-up",
+      "sourceWord": "跟進",
+      "sourceWordJyutping": "gan1 zeon3",
+      "sourceWordMeaning": "to follow up",
+      "tags": [
+        "business",
+        "workflow",
+        "communication",
+        "responsibility",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gan1zeon3-to-follow-up.json"
+    },
+    {
+      "sentenceId": "gan1zeon3-to-follow-up-example-4",
+      "sentence": "我哋需唔需要跟進嗰個項目嘅進度？",
+      "jyutping": "ngo5 dei6 seoi1 m4 seoi1 jiu3 gan1 zeon3 go2 go3 hong6 muk6 ge3 zeon3 dou6?",
+      "meaning": "Do we need to follow up on the progress of that project?",
+      "sourceWordId": "gan1zeon3-to-follow-up",
+      "sourceWord": "跟進",
+      "sourceWordJyutping": "gan1 zeon3",
+      "sourceWordMeaning": "to follow up",
+      "tags": [
+        "business",
+        "workflow",
+        "communication",
+        "responsibility",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gan1zeon3-to-follow-up.json"
+    },
+    {
+      "sentenceId": "hip3tiu4-to-coordinate-example-1",
+      "sentence": "我哋要協調各部門嘅工作時間先可以準時完成項目。",
+      "jyutping": "ngo5 dei6 jiu3 hip3 tiu4 gok3 bou6 mun4 ge3 gung1 zok3 si4 gaan3 sin1 ho2 ji5 zeon2 si4 jyun4 sing4 hong6 muk6.",
+      "meaning": "We need to coordinate the working hours of each department to complete the project on time.",
+      "sourceWordId": "hip3tiu4-to-coordinate",
+      "sourceWord": "協調",
+      "sourceWordJyutping": "hip3 tiu4",
+      "sourceWordMeaning": "to coordinate",
+      "tags": [
+        "coordination",
+        "work",
+        "communication",
+        "teamwork",
+        "organization",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/hip3tiu4-to-coordinate.json"
+    },
+    {
+      "sentenceId": "hip3tiu4-to-coordinate-example-2",
+      "sentence": "佢負責協調貨運同埋倉庫嘅安排。",
+      "jyutping": "keoi5 fu6 zaak3 hip3 tiu4 fo3 wan6 tung4 maai4 cong1 fo3 ge3 ngon1 paai4.",
+      "meaning": "He is responsible for coordinating the shipping and warehouse arrangements.",
+      "sourceWordId": "hip3tiu4-to-coordinate",
+      "sourceWord": "協調",
+      "sourceWordJyutping": "hip3 tiu4",
+      "sourceWordMeaning": "to coordinate",
+      "tags": [
+        "coordination",
+        "work",
+        "communication",
+        "teamwork",
+        "organization",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/hip3tiu4-to-coordinate.json"
+    },
+    {
+      "sentenceId": "hip3tiu4-to-coordinate-example-3",
+      "sentence": "國際會議通常需要多個國家協調意見。",
+      "jyutping": "gwok3 zai3 wui6 ji5 tung1 soeng4 seoi1 jiu3 do1 go3 gwok3 gaa1 hip3 tiu4 ji3 gin3.",
+      "meaning": "International meetings usually require multiple countries to coordinate their opinions.",
+      "sourceWordId": "hip3tiu4-to-coordinate",
+      "sourceWord": "協調",
+      "sourceWordJyutping": "hip3 tiu4",
+      "sourceWordMeaning": "to coordinate",
+      "tags": [
+        "coordination",
+        "work",
+        "communication",
+        "teamwork",
+        "organization",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/hip3tiu4-to-coordinate.json"
+    },
+    {
+      "sentenceId": "hip3tiu4-to-coordinate-example-4",
+      "sentence": "我試下協調大家嘅時間參加呢個聚會。",
+      "jyutping": "ngo5 si3 haa5 hip3 tiu4 daai6 gaa1 ge3 si4 gaan3 caam1 gaa1 ni1 go3 zeoi6 wui6.",
+      "meaning": "I will try to coordinate everyone's time to attend this gathering.",
+      "sourceWordId": "hip3tiu4-to-coordinate",
+      "sourceWord": "協調",
+      "sourceWordJyutping": "hip3 tiu4",
+      "sourceWordMeaning": "to coordinate",
+      "tags": [
+        "coordination",
+        "work",
+        "communication",
+        "teamwork",
+        "organization",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/hip3tiu4-to-coordinate.json"
+    },
+    {
+      "sentenceId": "zap1hang4-to-carry-out-execute-example-1",
+      "sentence": "我哋需要盡快執行呢個計劃。",
+      "jyutping": "ngo5 dei6 seoi1 jiu3 zeon6 faai3 zap1 hang4 ni1 go3 gai3 waak6.",
+      "meaning": "We need to carry out this plan as soon as possible.",
+      "sourceWordId": "zap1hang4-to-carry-out-execute",
+      "sourceWord": "執行",
+      "sourceWordJyutping": "zap1 hang4",
+      "sourceWordMeaning": "to carry out / execute",
+      "tags": [
+        "business",
+        "formal",
+        "task",
+        "execution",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zap1hang4-to-carry-out-execute.json"
+    },
+    {
+      "sentenceId": "zap1hang4-to-carry-out-execute-example-2",
+      "sentence": "上司叫我執行新嘅政策。",
+      "jyutping": "soeng6 si1 giu3 ngo5 zap1 hang4 san1 ge3 zing3 caak3.",
+      "meaning": "The boss asked me to execute the new policy.",
+      "sourceWordId": "zap1hang4-to-carry-out-execute",
+      "sourceWord": "執行",
+      "sourceWordJyutping": "zap1 hang4",
+      "sourceWordMeaning": "to carry out / execute",
+      "tags": [
+        "business",
+        "formal",
+        "task",
+        "execution",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zap1hang4-to-carry-out-execute.json"
+    },
+    {
+      "sentenceId": "zap1hang4-to-carry-out-execute-example-3",
+      "sentence": "執行呢個任務需要團隊合作。",
+      "jyutping": "zap1 hang4 ni1 go3 jam6 mou6 seoi1 jiu3 tyun4 deoi2 hap6 zok3.",
+      "meaning": "Carrying out this task requires teamwork.",
+      "sourceWordId": "zap1hang4-to-carry-out-execute",
+      "sourceWord": "執行",
+      "sourceWordJyutping": "zap1 hang4",
+      "sourceWordMeaning": "to carry out / execute",
+      "tags": [
+        "business",
+        "formal",
+        "task",
+        "execution",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zap1hang4-to-carry-out-execute.json"
+    },
+    {
+      "sentenceId": "zap1hang4-to-carry-out-execute-example-4",
+      "sentence": "佢負責執行所有嘅安全程序。",
+      "jyutping": "keoi5 fu6 zaak3 zap1 hang4 so2 jau5 ge3 on1 cyun4 cing4 zeoi6.",
+      "meaning": "He is responsible for executing all safety procedures.",
+      "sourceWordId": "zap1hang4-to-carry-out-execute",
+      "sourceWord": "執行",
+      "sourceWordJyutping": "zap1 hang4",
+      "sourceWordMeaning": "to carry out / execute",
+      "tags": [
+        "business",
+        "formal",
+        "task",
+        "execution",
+        "workflow",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zap1hang4-to-carry-out-execute.json"
+    },
+    {
+      "sentenceId": "lok6sat6-to-implement-make-real-example-1",
+      "sentence": "我哋要盡快落實新嘅工作流程。",
+      "jyutping": "ngo5 dei6 jiu3 zeon6 faai3 lok6 sat6 san1 ge3 gung1 zok3 lau4 sing4.",
+      "meaning": "We need to implement the new workflow as soon as possible.",
+      "sourceWordId": "lok6sat6-to-implement-make-real",
+      "sourceWord": "落實",
+      "sourceWordJyutping": "lok6 sat6",
+      "sourceWordMeaning": "to implement / make real",
+      "tags": [
+        "formal",
+        "business",
+        "policy",
+        "project",
+        "implementation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lok6sat6-to-implement-make-real.json"
+    },
+    {
+      "sentenceId": "lok6sat6-to-implement-make-real-example-2",
+      "sentence": "政府承諾嘅政策仲未落實。",
+      "jyutping": "zing3 fu2 sing4 nok6 ge3 zing3 caak3 zung6 mei6 lok6 sat6.",
+      "meaning": "The government's promised policies have not been implemented yet.",
+      "sourceWordId": "lok6sat6-to-implement-make-real",
+      "sourceWord": "落實",
+      "sourceWordJyutping": "lok6 sat6",
+      "sourceWordMeaning": "to implement / make real",
+      "tags": [
+        "formal",
+        "business",
+        "policy",
+        "project",
+        "implementation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lok6sat6-to-implement-make-real.json"
+    },
+    {
+      "sentenceId": "lok6sat6-to-implement-make-real-example-3",
+      "sentence": "公司將會花多啲時間落實客戶嘅要求。",
+      "jyutping": "gung1 si1 zoeng1 wui5 faa1 do1 di1 si4 gaan1 lok6 sat6 haak3 wu6 ge3 jiu1 kau4.",
+      "meaning": "The company will spend more time implementing the clients' requests.",
+      "sourceWordId": "lok6sat6-to-implement-make-real",
+      "sourceWord": "落實",
+      "sourceWordJyutping": "lok6 sat6",
+      "sourceWordMeaning": "to implement / make real",
+      "tags": [
+        "formal",
+        "business",
+        "policy",
+        "project",
+        "implementation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lok6sat6-to-implement-make-real.json"
+    },
+    {
+      "sentenceId": "lok6sat6-to-implement-make-real-example-4",
+      "sentence": "落實計劃需要團隊合作嘅努力。",
+      "jyutping": "lok6 sat6 gai3 waak6 seoi1 jiu3 tyun4 deoi2 hap6 zok3 ge3 nou5 lik6.",
+      "meaning": "Implementing the plan requires collaborative effort from the team.",
+      "sourceWordId": "lok6sat6-to-implement-make-real",
+      "sourceWord": "落實",
+      "sourceWordJyutping": "lok6 sat6",
+      "sourceWordMeaning": "to implement / make real",
+      "tags": [
+        "formal",
+        "business",
+        "policy",
+        "project",
+        "implementation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/lok6sat6-to-implement-make-real.json"
+    },
+    {
+      "sentenceId": "gaau1zo2-to-submit-hand-in-example-1",
+      "sentence": "我啱啱交咗個報告畀老細。",
+      "jyutping": "ngo5 aam1 aam1 gaau1 zo2 go3 bou3 gou3 bei2 lou5 sai3.",
+      "meaning": "I just submitted the report to the boss.",
+      "sourceWordId": "gaau1zo2-to-submit-hand-in",
+      "sourceWord": "交咗",
+      "sourceWordJyutping": "gaau1 zo2",
+      "sourceWordMeaning": "to submit / hand in",
+      "tags": [
+        "submission",
+        "work",
+        "completed action",
+        "formal process",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1zo2-to-submit-hand-in.json"
+    },
+    {
+      "sentenceId": "gaau1zo2-to-submit-hand-in-example-2",
+      "sentence": "你交咗功課未呀？",
+      "jyutping": "nei5 gaau1 zo2 gung1 fo3 mei6 aa3?",
+      "meaning": "Have you submitted your homework yet?",
+      "sourceWordId": "gaau1zo2-to-submit-hand-in",
+      "sourceWord": "交咗",
+      "sourceWordJyutping": "gaau1 zo2",
+      "sourceWordMeaning": "to submit / hand in",
+      "tags": [
+        "submission",
+        "work",
+        "completed action",
+        "formal process",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1zo2-to-submit-hand-in.json"
+    },
+    {
+      "sentenceId": "gaau1zo2-to-submit-hand-in-example-3",
+      "sentence": "啲文件都交咗，依家等覆信。",
+      "jyutping": "di1 man4 gin2 dou1 gaau1 zo2, ji1 gaa1 dang2 fuk1 seon3.",
+      "meaning": "All the documents have been submitted; now we are waiting for a reply.",
+      "sourceWordId": "gaau1zo2-to-submit-hand-in",
+      "sourceWord": "交咗",
+      "sourceWordJyutping": "gaau1 zo2",
+      "sourceWordMeaning": "to submit / hand in",
+      "tags": [
+        "submission",
+        "work",
+        "completed action",
+        "formal process",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1zo2-to-submit-hand-in.json"
+    },
+    {
+      "sentenceId": "gaau1zo2-to-submit-hand-in-example-4",
+      "sentence": "我交咗申請表，佢話幾日之後會通知我。",
+      "jyutping": "ngo5 gaau1 zo2 san1 cing2 biu2, keoi5 waa6 gei2 jat6 zi1 hau6 wui5 tung1 zi1 ngo5.",
+      "meaning": "I submitted the application form, and they said they will notify me in a few days.",
+      "sourceWordId": "gaau1zo2-to-submit-hand-in",
+      "sourceWord": "交咗",
+      "sourceWordJyutping": "gaau1 zo2",
+      "sourceWordMeaning": "to submit / hand in",
+      "tags": [
+        "submission",
+        "work",
+        "completed action",
+        "formal process",
+        "tasks",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1zo2-to-submit-hand-in.json"
+    },
+    {
+      "sentenceId": "on1paai4-to-arrange-schedule-example-1",
+      "sentence": "我幫你安排咗下午嘅會議。",
+      "jyutping": "ngo5 bong1 nei5 on1 paai4 zo2 haa6 ng5 ge3 wui6 ji5.",
+      "meaning": "I have arranged the meeting for this afternoon for you.",
+      "sourceWordId": "on1paai4-to-arrange-schedule",
+      "sourceWord": "安排",
+      "sourceWordJyutping": "on1 paai4",
+      "sourceWordMeaning": "to arrange / schedule",
+      "tags": [
+        "arrangement",
+        "schedule",
+        "planning",
+        "workflow",
+        "meeting",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/on1paai4-to-arrange-schedule.json"
+    },
+    {
+      "sentenceId": "on1paai4-to-arrange-schedule-example-2",
+      "sentence": "你安排咗旅行嘅時間未？",
+      "jyutping": "nei5 on1 paai4 zo2 leoi5 hang4 ge3 si4 gaan3 mei6?",
+      "meaning": "Have you scheduled the time for the trip yet?",
+      "sourceWordId": "on1paai4-to-arrange-schedule",
+      "sourceWord": "安排",
+      "sourceWordJyutping": "on1 paai4",
+      "sourceWordMeaning": "to arrange / schedule",
+      "tags": [
+        "arrangement",
+        "schedule",
+        "planning",
+        "workflow",
+        "meeting",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/on1paai4-to-arrange-schedule.json"
+    },
+    {
+      "sentenceId": "on1paai4-to-arrange-schedule-example-3",
+      "sentence": "公司會安排專人嚟幫我哋安裝設備。",
+      "jyutping": "gung1 si1 wui5 on1 paai4 zyun1 jan4 lai4 bong1 ngo5 dei6 on1 zong1 se3 bei6.",
+      "meaning": "The company will arrange for a specialist to help us install the equipment.",
+      "sourceWordId": "on1paai4-to-arrange-schedule",
+      "sourceWord": "安排",
+      "sourceWordJyutping": "on1 paai4",
+      "sourceWordMeaning": "to arrange / schedule",
+      "tags": [
+        "arrangement",
+        "schedule",
+        "planning",
+        "workflow",
+        "meeting",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/on1paai4-to-arrange-schedule.json"
+    },
+    {
+      "sentenceId": "on1paai4-to-arrange-schedule-example-4",
+      "sentence": "記得安排好明天嘅行程，唔好遲到。",
+      "jyutping": "gei3 dak1 on1 paai4 hou2 ming4 tin1 ge3 hang4 cing4, m4 hou2 ci4 dou3.",
+      "meaning": "Remember to arrange tomorrow’s schedule well, don’t be late.",
+      "sourceWordId": "on1paai4-to-arrange-schedule",
+      "sourceWord": "安排",
+      "sourceWordJyutping": "on1 paai4",
+      "sourceWordMeaning": "to arrange / schedule",
+      "tags": [
+        "arrangement",
+        "schedule",
+        "planning",
+        "workflow",
+        "meeting",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/on1paai4-to-arrange-schedule.json"
+    },
+    {
+      "sentenceId": "zoi3tai2haa5-to-check-again-example-1",
+      "sentence": "我哋再睇下呢份報告先，睇吓有冇錯。",
+      "jyutping": "ngo5 dei6 zoi3 tai2 haa5 ni1 fan6 bou3 gou3 sin1, tai2 haa5 jau5 mou5 co3.",
+      "meaning": "Let's check this report again first to see if there are any mistakes.",
+      "sourceWordId": "zoi3tai2haa5-to-check-again",
+      "sourceWord": "再睇下",
+      "sourceWordJyutping": "zoi3 tai2 haa5",
+      "sourceWordMeaning": "to check again",
+      "tags": [
+        "checking",
+        "confirmation",
+        "review",
+        "accuracy",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zoi3tai2haa5-to-check-again.json"
+    },
+    {
+      "sentenceId": "zoi3tai2haa5-to-check-again-example-2",
+      "sentence": "你可以再睇下部機嘅設定，確保冇遺漏。",
+      "jyutping": "nei5 ho2 ji5 zoi3 tai2 haa5 bou6 gei1 ge3 se3 ding6, kok3 bou2 mou5 wai4 lau6.",
+      "meaning": "You can check the device settings again to make sure nothing is missing.",
+      "sourceWordId": "zoi3tai2haa5-to-check-again",
+      "sourceWord": "再睇下",
+      "sourceWordJyutping": "zoi3 tai2 haa5",
+      "sourceWordMeaning": "to check again",
+      "tags": [
+        "checking",
+        "confirmation",
+        "review",
+        "accuracy",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zoi3tai2haa5-to-check-again.json"
+    },
+    {
+      "sentenceId": "zoi3tai2haa5-to-check-again-example-3",
+      "sentence": "我會再睇下你準備嘅資料，確保一切齊全。",
+      "jyutping": "ngo5 wui5 zoi3 tai2 haa5 nei5 zeon2 bei6 ge3 zi1 liu2, kok3 bou2 jat1 cai3 cai4 cyun4.",
+      "meaning": "I will check the materials you prepared again to ensure everything is complete.",
+      "sourceWordId": "zoi3tai2haa5-to-check-again",
+      "sourceWord": "再睇下",
+      "sourceWordJyutping": "zoi3 tai2 haa5",
+      "sourceWordMeaning": "to check again",
+      "tags": [
+        "checking",
+        "confirmation",
+        "review",
+        "accuracy",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zoi3tai2haa5-to-check-again.json"
+    },
+    {
+      "sentenceId": "zoi3tai2haa5-to-check-again-example-4",
+      "sentence": "辦公室嘅文件我再睇下，確認冇漏嘢先交出去。",
+      "jyutping": "baan6 gung1 sat1 ge3 man4 gin2 ngo5 zoi3 tai2 haa5, kok3 jing6 mou5 lau6 je5 sin1 gaau1 ceot1 heoi3.",
+      "meaning": "I will check the office documents again and make sure nothing is missing before sending them out.",
+      "sourceWordId": "zoi3tai2haa5-to-check-again",
+      "sourceWord": "再睇下",
+      "sourceWordJyutping": "zoi3 tai2 haa5",
+      "sourceWordMeaning": "to check again",
+      "tags": [
+        "checking",
+        "confirmation",
+        "review",
+        "accuracy",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zoi3tai2haa5-to-check-again.json"
+    },
+    {
+      "sentenceId": "kwai1geoi2-rules-proper-conduct-example-1",
+      "sentence": "你要識得守規矩，唔好亂嚟。",
+      "jyutping": "nei5 jiu3 sik1 dak1 sau2 kwai1 geoi2, m4 hou2 lyun6 lai4.",
+      "meaning": "You have to know how to follow the rules and not act recklessly.",
+      "sourceWordId": "kwai1geoi2-rules-proper-conduct",
+      "sourceWord": "規矩",
+      "sourceWordJyutping": "kwai1 geoi2",
+      "sourceWordMeaning": "rules / proper conduct",
+      "tags": [
+        "rules",
+        "conduct",
+        "etiquette",
+        "discipline",
+        "social norms",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1geoi2-rules-proper-conduct.json"
+    },
+    {
+      "sentenceId": "kwai1geoi2-rules-proper-conduct-example-2",
+      "sentence": "呢度嘅規矩好嚴格，每個人都要遵守。",
+      "jyutping": "ni1 dou6 ge3 kwai1 geoi2 hou2 jim4 gaak3, mui5 go3 jan4 dou1 jiu3 zeon1 sau2.",
+      "meaning": "The rules here are very strict; everyone must comply.",
+      "sourceWordId": "kwai1geoi2-rules-proper-conduct",
+      "sourceWord": "規矩",
+      "sourceWordJyutping": "kwai1 geoi2",
+      "sourceWordMeaning": "rules / proper conduct",
+      "tags": [
+        "rules",
+        "conduct",
+        "etiquette",
+        "discipline",
+        "social norms",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1geoi2-rules-proper-conduct.json"
+    },
+    {
+      "sentenceId": "kwai1geoi2-rules-proper-conduct-example-3",
+      "sentence": "做嘢要有規矩，先可以做到長遠。",
+      "jyutping": "zou6 je5 jiu3 jau5 kwai1 geoi2, sin1 ho2 ji5 zou6 dou3 coeng4 yun5.",
+      "meaning": "You need to have proper conduct at work to achieve long-term success.",
+      "sourceWordId": "kwai1geoi2-rules-proper-conduct",
+      "sourceWord": "規矩",
+      "sourceWordJyutping": "kwai1 geoi2",
+      "sourceWordMeaning": "rules / proper conduct",
+      "tags": [
+        "rules",
+        "conduct",
+        "etiquette",
+        "discipline",
+        "social norms",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1geoi2-rules-proper-conduct.json"
+    },
+    {
+      "sentenceId": "kwai1geoi2-rules-proper-conduct-example-4",
+      "sentence": "佢成日鬧人，根本唔識規矩。",
+      "jyutping": "keoi5 seng4 jat6 naau6 jan4, gan1 bun2 m4 sik1 kwai1 geoi2.",
+      "meaning": "He often scolds others and basically doesn't understand proper conduct.",
+      "sourceWordId": "kwai1geoi2-rules-proper-conduct",
+      "sourceWord": "規矩",
+      "sourceWordJyutping": "kwai1 geoi2",
+      "sourceWordMeaning": "rules / proper conduct",
+      "tags": [
+        "rules",
+        "conduct",
+        "etiquette",
+        "discipline",
+        "social norms",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1geoi2-rules-proper-conduct.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-requirement-to-require-example-1",
+      "sentence": "公司要求我哋準時交齊報告。",
+      "jyutping": "gung1 si1 jiu1 kau4 ngo5 dei6 zeon2 si4 gaau1 cai4 bou3 gou3.",
+      "meaning": "The company requires us to submit the report on time.",
+      "sourceWordId": "jiu1kau4-requirement-to-require",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "requirement / to require",
+      "tags": [
+        "formal",
+        "requirements",
+        "rules",
+        "expectations",
+        "workplace",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-requirement-to-require.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-requirement-to-require-example-2",
+      "sentence": "老師要求學生每日溫習功課。",
+      "jyutping": "lou5 si1 jiu1 kau4 hok6 saang1 mui5 jat6 wan1 zaap6 gung1 fo3.",
+      "meaning": "The teacher requires students to review their homework every day.",
+      "sourceWordId": "jiu1kau4-requirement-to-require",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "requirement / to require",
+      "tags": [
+        "formal",
+        "requirements",
+        "rules",
+        "expectations",
+        "workplace",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-requirement-to-require.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-requirement-to-require-example-3",
+      "sentence": "參加考試有啲嚴格嘅要求。",
+      "jyutping": "caam1 gaa1 haau2 si3 jau5 di1 jim4 gaak3 ge3 jiu1 kau4.",
+      "meaning": "There are some strict requirements to participate in the exam.",
+      "sourceWordId": "jiu1kau4-requirement-to-require",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "requirement / to require",
+      "tags": [
+        "formal",
+        "requirements",
+        "rules",
+        "expectations",
+        "workplace",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-requirement-to-require.json"
+    },
+    {
+      "sentenceId": "jiu1kau4-requirement-to-require-example-4",
+      "sentence": "佢對員工嘅工作要求好高。",
+      "jyutping": "keoi5 deoi3 jyun4 gung1 ge3 gung1 zok3 jiu1 kau4 hou2 gou1.",
+      "meaning": "He has very high work requirements for his employees.",
+      "sourceWordId": "jiu1kau4-requirement-to-require",
+      "sourceWord": "要求",
+      "sourceWordJyutping": "jiu1 kau4",
+      "sourceWordMeaning": "requirement / to require",
+      "tags": [
+        "formal",
+        "requirements",
+        "rules",
+        "expectations",
+        "workplace",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jiu1kau4-requirement-to-require.json"
+    },
+    {
+      "sentenceId": "biu1zeon2-standard-example-1",
+      "sentence": "我哋公司嘅工作流程有自己嘅標準。",
+      "jyutping": "ngo5 dei6 gung1 si1 ge3 gung1 zok3 lau4 cing4 jau5 zi6 gei2 ge3 biu1 zeon2.",
+      "meaning": "Our company has its own standard work procedures.",
+      "sourceWordId": "biu1zeon2-standard",
+      "sourceWord": "標準",
+      "sourceWordJyutping": "biu1 zeon2",
+      "sourceWordMeaning": "standard",
+      "tags": [
+        "standard",
+        "benchmark",
+        "quality",
+        "expectation",
+        "criteria",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu1zeon2-standard.json"
+    },
+    {
+      "sentenceId": "biu1zeon2-standard-example-2",
+      "sentence": "你嘅廣東話達到咗標準，可以同本地人溝通。",
+      "jyutping": "nei5 ge3 gwong2 dung1 waa2 daat6 dou3 zo2 biu1 zeon2, ho2 ji5 tung4 bun2 dei6 jan4 kau1 tung1.",
+      "meaning": "Your Cantonese has reached the standard and you can communicate with locals.",
+      "sourceWordId": "biu1zeon2-standard",
+      "sourceWord": "標準",
+      "sourceWordJyutping": "biu1 zeon2",
+      "sourceWordMeaning": "standard",
+      "tags": [
+        "standard",
+        "benchmark",
+        "quality",
+        "expectation",
+        "criteria",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu1zeon2-standard.json"
+    },
+    {
+      "sentenceId": "biu1zeon2-standard-example-3",
+      "sentence": "唔好低估自己嘅標準，要繼續努力。",
+      "jyutping": "m4 ho2 dai1 gu3 zi6 gei2 ge3 biu1 zeon2, jiu3 gai3 zuk6 nou5 lik6.",
+      "meaning": "Don't underestimate your own standards; you need to keep working hard.",
+      "sourceWordId": "biu1zeon2-standard",
+      "sourceWord": "標準",
+      "sourceWordJyutping": "biu1 zeon2",
+      "sourceWordMeaning": "standard",
+      "tags": [
+        "standard",
+        "benchmark",
+        "quality",
+        "expectation",
+        "criteria",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu1zeon2-standard.json"
+    },
+    {
+      "sentenceId": "biu1zeon2-standard-example-4",
+      "sentence": "呢個產品冇達到質量標準，唔好買。",
+      "jyutping": "ni1 go3 caan2 ban2 mou5 daat6 dou3 zat1 loeng6 biu1 zeon2, m4 ho2 maai5.",
+      "meaning": "This product does not meet quality standards; don't buy it.",
+      "sourceWordId": "biu1zeon2-standard",
+      "sourceWord": "標準",
+      "sourceWordJyutping": "biu1 zeon2",
+      "sourceWordMeaning": "standard",
+      "tags": [
+        "standard",
+        "benchmark",
+        "quality",
+        "expectation",
+        "criteria",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu1zeon2-standard.json"
+    },
+    {
+      "sentenceId": "zaak3jam6-responsibility-example-1",
+      "sentence": "每個人都應該對自己嘅行為負起責任。",
+      "jyutping": "mui5 go3 jan4 dou1 jing1 goi1 deoi3 zi6 gei2 ge3 hang4 wai4 fu6 hei2 zaak3 jam6.",
+      "meaning": "Everyone should take responsibility for their own actions.",
+      "sourceWordId": "zaak3jam6-responsibility",
+      "sourceWord": "責任",
+      "sourceWordJyutping": "zaak3 jam6",
+      "sourceWordMeaning": "responsibility",
+      "tags": [
+        "accountability",
+        "duty",
+        "moral",
+        "social",
+        "obligation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zaak3jam6-responsibility.json"
+    },
+    {
+      "sentenceId": "zaak3jam6-responsibility-example-2",
+      "sentence": "做呢份工，責任重大，唔可以馬虎。",
+      "jyutping": "zou6 ni1 fan6 gung1, zaak3 jam6 zung6 daai6, m4 ho2 ji5 maa5 fu2.",
+      "meaning": "Doing this job comes with heavy responsibility; you can’t be careless.",
+      "sourceWordId": "zaak3jam6-responsibility",
+      "sourceWord": "責任",
+      "sourceWordJyutping": "zaak3 jam6",
+      "sourceWordMeaning": "responsibility",
+      "tags": [
+        "accountability",
+        "duty",
+        "moral",
+        "social",
+        "obligation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zaak3jam6-responsibility.json"
+    },
+    {
+      "sentenceId": "zaak3jam6-responsibility-example-3",
+      "sentence": "佢推晒責任畀其他人，冇做自己應該做嘅嘢。",
+      "jyutping": "keoi5 teoi1 saai3 zaak3 jam6 bei2 kei4 taa1 jan4, mou5 zou6 zi6 gei2 jing1 goi1 zou6 ge3 je5.",
+      "meaning": "He pushed all the responsibility to others and didn’t do what he was supposed to.",
+      "sourceWordId": "zaak3jam6-responsibility",
+      "sourceWord": "責任",
+      "sourceWordJyutping": "zaak3 jam6",
+      "sourceWordMeaning": "responsibility",
+      "tags": [
+        "accountability",
+        "duty",
+        "moral",
+        "social",
+        "obligation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zaak3jam6-responsibility.json"
+    },
+    {
+      "sentenceId": "zaak3jam6-responsibility-example-4",
+      "sentence": "父母有責任教導子女做人嘅道理。",
+      "jyutping": "fu6 mou5 jau5 zaak3 jam6 gaau3 dou6 zi2 neoi5 zou6 jan4 ge3 dou6 lei5.",
+      "meaning": "Parents have the responsibility to teach their children the principles of being a person.",
+      "sourceWordId": "zaak3jam6-responsibility",
+      "sourceWord": "責任",
+      "sourceWordJyutping": "zaak3 jam6",
+      "sourceWordMeaning": "responsibility",
+      "tags": [
+        "accountability",
+        "duty",
+        "moral",
+        "social",
+        "obligation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zaak3jam6-responsibility.json"
+    },
+    {
+      "sentenceId": "haan6zai3-restriction-limit-example-1",
+      "sentence": "我哋要限制入場人數，確保安全。",
+      "jyutping": "ngo5 dei6 jiu3 haan6 zai3 jap6 coeng4 jan4 sou3, kok3 bou2 ngon1 cyun4.",
+      "meaning": "We need to limit the number of people entering to ensure safety.",
+      "sourceWordId": "haan6zai3-restriction-limit",
+      "sourceWord": "限制",
+      "sourceWordJyutping": "haan6 zai3",
+      "sourceWordMeaning": "restriction / limit",
+      "tags": [
+        "rules",
+        "regulation",
+        "limitations",
+        "control",
+        "restrictions",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haan6zai3-restriction-limit.json"
+    },
+    {
+      "sentenceId": "haan6zai3-restriction-limit-example-2",
+      "sentence": "政府宣布咗新嘅交通限制措施。",
+      "jyutping": "zing3 fu2 syun1 bou3 zo2 san1 ge3 gaau1 tung1 haan6 zai3 cou3 si1.",
+      "meaning": "The government announced new traffic restrictions.",
+      "sourceWordId": "haan6zai3-restriction-limit",
+      "sourceWord": "限制",
+      "sourceWordJyutping": "haan6 zai3",
+      "sourceWordMeaning": "restriction / limit",
+      "tags": [
+        "rules",
+        "regulation",
+        "limitations",
+        "control",
+        "restrictions",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haan6zai3-restriction-limit.json"
+    },
+    {
+      "sentenceId": "haan6zai3-restriction-limit-example-3",
+      "sentence": "唔好讓自己嘅思想被框架限制咗。",
+      "jyutping": "m4 hou2 joeng6 zi6 gei2 ge3 si1 soeng2 bei6 kwaang1 gaa3 haan6 zai3 zo2.",
+      "meaning": "Don't let your thoughts be limited by frameworks.",
+      "sourceWordId": "haan6zai3-restriction-limit",
+      "sourceWord": "限制",
+      "sourceWordJyutping": "haan6 zai3",
+      "sourceWordMeaning": "restriction / limit",
+      "tags": [
+        "rules",
+        "regulation",
+        "limitations",
+        "control",
+        "restrictions",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haan6zai3-restriction-limit.json"
+    },
+    {
+      "sentenceId": "haan6zai3-restriction-limit-example-4",
+      "sentence": "呢啲規則係為咗限制未成年人嘅行動。",
+      "jyutping": "ni1 di1 kwai1 zak1 hai6 wai4 zo2 haan6 zai3 mei6 sing4 nin4 jan4 ge3 hang4 dung6.",
+      "meaning": "These rules are to restrict the actions of minors.",
+      "sourceWordId": "haan6zai3-restriction-limit",
+      "sourceWord": "限制",
+      "sourceWordJyutping": "haan6 zai3",
+      "sourceWordMeaning": "restriction / limit",
+      "tags": [
+        "rules",
+        "regulation",
+        "limitations",
+        "control",
+        "restrictions",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haan6zai3-restriction-limit.json"
+    },
+    {
+      "sentenceId": "kwai1ding6-rule-regulation-example-1",
+      "sentence": "公司有好多嚴格嘅規定，要大家遵守。",
+      "jyutping": "gung1 si1 jau5 hou2 do1 jim4 gaak3 ge3 kwai1 ding6, jiu3 daai6 gaa1 zeon1 sau2.",
+      "meaning": "The company has many strict rules that everyone must follow.",
+      "sourceWordId": "kwai1ding6-rule-regulation",
+      "sourceWord": "規定",
+      "sourceWordJyutping": "kwai1 ding6",
+      "sourceWordMeaning": "rule / regulation",
+      "tags": [
+        "rules",
+        "regulations",
+        "formal",
+        "policies",
+        "compliance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1ding6-rule-regulation.json"
+    },
+    {
+      "sentenceId": "kwai1ding6-rule-regulation-example-2",
+      "sentence": "呢個規定幾時開始實行？",
+      "jyutping": "ni1 go3 kwai1 ding6 gei2 si4 hoi1 ci2 sat6 hang4?",
+      "meaning": "When will this regulation start to be enforced?",
+      "sourceWordId": "kwai1ding6-rule-regulation",
+      "sourceWord": "規定",
+      "sourceWordJyutping": "kwai1 ding6",
+      "sourceWordMeaning": "rule / regulation",
+      "tags": [
+        "rules",
+        "regulations",
+        "formal",
+        "policies",
+        "compliance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1ding6-rule-regulation.json"
+    },
+    {
+      "sentenceId": "kwai1ding6-rule-regulation-example-3",
+      "sentence": "你違反咗學校嘅規定，所以被警告。",
+      "jyutping": "nei5 wai4 faan6 zo2 hok6 haau6 ge3 kwai1 ding6, so2 ji5 bei6 ging2 gou3.",
+      "meaning": "You broke the school's rules, so you were given a warning.",
+      "sourceWordId": "kwai1ding6-rule-regulation",
+      "sourceWord": "規定",
+      "sourceWordJyutping": "kwai1 ding6",
+      "sourceWordMeaning": "rule / regulation",
+      "tags": [
+        "rules",
+        "regulations",
+        "formal",
+        "policies",
+        "compliance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1ding6-rule-regulation.json"
+    },
+    {
+      "sentenceId": "kwai1ding6-rule-regulation-example-4",
+      "sentence": "政府規定所有司機必須戴安全帶。",
+      "jyutping": "zing3 fu2 kwai1 ding6 so2 jau5 si1 gei1 bit1 seoi1 daai3 ngon1 cyun4 daai3.",
+      "meaning": "The government regulates that all drivers must wear seat belts.",
+      "sourceWordId": "kwai1ding6-rule-regulation",
+      "sourceWord": "規定",
+      "sourceWordJyutping": "kwai1 ding6",
+      "sourceWordMeaning": "rule / regulation",
+      "tags": [
+        "rules",
+        "regulations",
+        "formal",
+        "policies",
+        "compliance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kwai1ding6-rule-regulation.json"
+    },
+    {
+      "sentenceId": "m4hou2ci4dou3-dont-be-late-example-1",
+      "sentence": "開會準時開始，唔好遲到呀。",
+      "jyutping": "hoi1 wui6 zeon2 si4 hoi1 ci2, m4 hou2 ci4 dou3 aa3.",
+      "meaning": "The meeting will start on time, don't be late.",
+      "sourceWordId": "m4hou2ci4dou3-dont-be-late",
+      "sourceWord": "唔好遲到",
+      "sourceWordJyutping": "m4 hou2 ci4 dou3",
+      "sourceWordMeaning": "don’t be late",
+      "tags": [
+        "time",
+        "punctuality",
+        "reminder",
+        "polite warning",
+        "daily expression",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ci4dou3-dont-be-late.json"
+    },
+    {
+      "sentenceId": "m4hou2ci4dou3-dont-be-late-example-2",
+      "sentence": "我哋今晚七點見，唔好遲到喇。",
+      "jyutping": "ngo5 dei6 gam1 maan5 cat1 dim2 gin3, m4 hou2 ci4 dou3 laa3.",
+      "meaning": "We’ll meet at seven tonight, don’t be late.",
+      "sourceWordId": "m4hou2ci4dou3-dont-be-late",
+      "sourceWord": "唔好遲到",
+      "sourceWordJyutping": "m4 hou2 ci4 dou3",
+      "sourceWordMeaning": "don’t be late",
+      "tags": [
+        "time",
+        "punctuality",
+        "reminder",
+        "polite warning",
+        "daily expression",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ci4dou3-dont-be-late.json"
+    },
+    {
+      "sentenceId": "m4hou2ci4dou3-dont-be-late-example-3",
+      "sentence": "老師叮囑我哋考試唔好遲到。",
+      "jyutping": "lou5 si1 ding1 zuk1 ngo5 dei6 haau2 si3 m4 hou2 ci4 dou3.",
+      "meaning": "The teacher reminded us not to be late for the exam.",
+      "sourceWordId": "m4hou2ci4dou3-dont-be-late",
+      "sourceWord": "唔好遲到",
+      "sourceWordJyutping": "m4 hou2 ci4 dou3",
+      "sourceWordMeaning": "don’t be late",
+      "tags": [
+        "time",
+        "punctuality",
+        "reminder",
+        "polite warning",
+        "daily expression",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ci4dou3-dont-be-late.json"
+    },
+    {
+      "sentenceId": "m4hou2ci4dou3-dont-be-late-example-4",
+      "sentence": "如果你唔好遲到，大家可以準時開始。",
+      "jyutping": "jyu4 gwo2 nei5 m4 hou2 ci4 dou3, daai6 gaa1 ho2 ji5 zeon2 si4 hoi1 ci2.",
+      "meaning": "If you don't be late, everyone can start on time.",
+      "sourceWordId": "m4hou2ci4dou3-dont-be-late",
+      "sourceWord": "唔好遲到",
+      "sourceWordJyutping": "m4 hou2 ci4 dou3",
+      "sourceWordMeaning": "don’t be late",
+      "tags": [
+        "time",
+        "punctuality",
+        "reminder",
+        "polite warning",
+        "daily expression",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ci4dou3-dont-be-late.json"
+    },
+    {
+      "sentenceId": "jyu4kei4-on-schedule-as-planned-example-1",
+      "sentence": "我哋需要如期完成呢份報告。",
+      "jyutping": "ngo5 dei6 seoi1 jiu3 jyu4 kei4 jyun4 sing4 ni1 fan6 bou3 gou3.",
+      "meaning": "We need to complete this report on schedule.",
+      "sourceWordId": "jyu4kei4-on-schedule-as-planned",
+      "sourceWord": "如期",
+      "sourceWordJyutping": "jyu4 kei4",
+      "sourceWordMeaning": "on schedule / as planned",
+      "tags": [
+        "timing",
+        "schedule",
+        "deadlines",
+        "planning",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jyu4kei4-on-schedule-as-planned.json"
+    },
+    {
+      "sentenceId": "jyu4kei4-on-schedule-as-planned-example-2",
+      "sentence": "佢哋如期返咗嚟開會。",
+      "jyutping": "keoi5 dei6 jyu4 kei4 faan1 zo2 lai4 hoi1 wui2.",
+      "meaning": "They came back on time for the meeting.",
+      "sourceWordId": "jyu4kei4-on-schedule-as-planned",
+      "sourceWord": "如期",
+      "sourceWordJyutping": "jyu4 kei4",
+      "sourceWordMeaning": "on schedule / as planned",
+      "tags": [
+        "timing",
+        "schedule",
+        "deadlines",
+        "planning",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jyu4kei4-on-schedule-as-planned.json"
+    },
+    {
+      "sentenceId": "jyu4kei4-on-schedule-as-planned-example-3",
+      "sentence": "工程如期完成，大家都好開心。",
+      "jyutping": "gung1 cing4 jyu4 kei4 jyun4 sing4, daai6 gaa1 dou1 hou2 hoi1 sam1.",
+      "meaning": "The project was completed as scheduled, everyone is very happy.",
+      "sourceWordId": "jyu4kei4-on-schedule-as-planned",
+      "sourceWord": "如期",
+      "sourceWordJyutping": "jyu4 kei4",
+      "sourceWordMeaning": "on schedule / as planned",
+      "tags": [
+        "timing",
+        "schedule",
+        "deadlines",
+        "planning",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jyu4kei4-on-schedule-as-planned.json"
+    },
+    {
+      "sentenceId": "jyu4kei4-on-schedule-as-planned-example-4",
+      "sentence": "請確保你如期交付材料。",
+      "jyutping": "cing2 kok3 bou2 nei5 jyu4 kei4 gaau1 fu6 coi4 liu2.",
+      "meaning": "Please ensure you submit the materials on time.",
+      "sourceWordId": "jyu4kei4-on-schedule-as-planned",
+      "sourceWord": "如期",
+      "sourceWordJyutping": "jyu4 kei4",
+      "sourceWordMeaning": "on schedule / as planned",
+      "tags": [
+        "timing",
+        "schedule",
+        "deadlines",
+        "planning",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jyu4kei4-on-schedule-as-planned.json"
+    },
+    {
+      "sentenceId": "ceot1jin6-to-appear-emerge-example-1",
+      "sentence": "呢個問題突然出現，我哋要諗辦法解決。",
+      "jyutping": "ni1 go3 man6 tai4 dat6 jin4 ceot1 jin6, ngo5 dei6 jiu3 nam2 baan6 faat3 gaai2 kyut3",
+      "meaning": "This problem suddenly came up, so we need to think of a way to solve it.",
+      "sourceWordId": "ceot1jin6-to-appear-emerge",
+      "sourceWord": "出現",
+      "sourceWordJyutping": "ceot1 jin6",
+      "sourceWordMeaning": "to appear / emerge",
+      "tags": [
+        "appearance",
+        "emerge",
+        "problems",
+        "opportunities",
+        "verb",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceot1jin6-to-appear-emerge.json"
+    },
+    {
+      "sentenceId": "ceot1jin6-to-appear-emerge-example-2",
+      "sentence": "新科技令好多新機會出現。",
+      "jyutping": "san1 fo1 gei6 ling6 hou2 do1 san1 gei1 wui6 ceot1 jin6",
+      "meaning": "New technology has created many new opportunities.",
+      "sourceWordId": "ceot1jin6-to-appear-emerge",
+      "sourceWord": "出現",
+      "sourceWordJyutping": "ceot1 jin6",
+      "sourceWordMeaning": "to appear / emerge",
+      "tags": [
+        "appearance",
+        "emerge",
+        "problems",
+        "opportunities",
+        "verb",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceot1jin6-to-appear-emerge.json"
+    },
+    {
+      "sentenceId": "ceot1jin6-to-appear-emerge-example-3",
+      "sentence": "當你準備好時，機會就會自然出現。",
+      "jyutping": "dong1 nei5 zeon2 bei6 hou2 si4, gei1 wui6 zau6 wui5 zi6 jin4 ceot1 jin6",
+      "meaning": "When you are ready, opportunities will naturally appear.",
+      "sourceWordId": "ceot1jin6-to-appear-emerge",
+      "sourceWord": "出現",
+      "sourceWordJyutping": "ceot1 jin6",
+      "sourceWordMeaning": "to appear / emerge",
+      "tags": [
+        "appearance",
+        "emerge",
+        "problems",
+        "opportunities",
+        "verb",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceot1jin6-to-appear-emerge.json"
+    },
+    {
+      "sentenceId": "ceot1jin6-to-appear-emerge-example-4",
+      "sentence": "天空中出現咗一道美麗嘅彩虹。",
+      "jyutping": "tin1 hung1 zung1 ceot1 jin6 zo2 jat1 dou6 mei5 lai6 ge3 coi2 hung4",
+      "meaning": "A beautiful rainbow appeared in the sky.",
+      "sourceWordId": "ceot1jin6-to-appear-emerge",
+      "sourceWord": "出現",
+      "sourceWordJyutping": "ceot1 jin6",
+      "sourceWordMeaning": "to appear / emerge",
+      "tags": [
+        "appearance",
+        "emerge",
+        "problems",
+        "opportunities",
+        "verb",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceot1jin6-to-appear-emerge.json"
+    },
+    {
+      "sentenceId": "ci4zo2-late-running-late-too-late-delayed-example-1",
+      "sentence": "我遲咗十分鐘先到。",
+      "jyutping": "ngo5 ci4 zo2 sap6 fan1 zung1 sin1 dou3",
+      "meaning": "I arrived ten minutes late.",
+      "sourceWordId": "ci4zo2-late-running-late-too-late-delayed",
+      "sourceWord": "遲咗",
+      "sourceWordJyutping": "ci4 zo2",
+      "sourceWordMeaning": "late / running late / too late / delayed",
+      "tags": [
+        "expression",
+        "time",
+        "delay",
+        "apology",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ci4zo2-late-running-late-too-late-delayed.json"
+    },
+    {
+      "sentenceId": "ci4zo2-late-running-late-too-late-delayed-example-2",
+      "sentence": "我瞓過龍，所以遲咗。",
+      "jyutping": "ngo5 fan3 gwo3 lung4, so2 ji5 ci4 zo2",
+      "meaning": "I overslept, so I was late.",
+      "sourceWordId": "ci4zo2-late-running-late-too-late-delayed",
+      "sourceWord": "遲咗",
+      "sourceWordJyutping": "ci4 zo2",
+      "sourceWordMeaning": "late / running late / too late / delayed",
+      "tags": [
+        "expression",
+        "time",
+        "delay",
+        "apology",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ci4zo2-late-running-late-too-late-delayed.json"
+    },
+    {
+      "sentenceId": "ci4zo2-late-running-late-too-late-delayed-example-3",
+      "sentence": "我買飛買遲咗，啲飛已經賣晒。",
+      "jyutping": "ngo5 maai5 fei1 maai5 ci4 zo2, di1 fei1 ji5 ging1 maai6 saai3",
+      "meaning": "I bought the tickets too late, and they were already sold out.",
+      "sourceWordId": "ci4zo2-late-running-late-too-late-delayed",
+      "sourceWord": "遲咗",
+      "sourceWordJyutping": "ci4 zo2",
+      "sourceWordMeaning": "late / running late / too late / delayed",
+      "tags": [
+        "expression",
+        "time",
+        "delay",
+        "apology",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ci4zo2-late-running-late-too-late-delayed.json"
+    },
+    {
+      "sentenceId": "ci4zo2-late-running-late-too-late-delayed-example-4",
+      "sentence": "我唔想遲咗，所以早啲出門。",
+      "jyutping": "ngo5 m4 soeng2 ci4 zo2, so2 ji5 zou2 di1 ceot1 mun4",
+      "meaning": "I didn’t want to be late, so I left early.",
+      "sourceWordId": "ci4zo2-late-running-late-too-late-delayed",
+      "sourceWord": "遲咗",
+      "sourceWordJyutping": "ci4 zo2",
+      "sourceWordMeaning": "late / running late / too late / delayed",
+      "tags": [
+        "expression",
+        "time",
+        "delay",
+        "apology",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ci4zo2-late-running-late-too-late-delayed.json"
+    },
+    {
+      "sentenceId": "gaau2co3-to-mess-up-make-a-mistake-example-1",
+      "sentence": "我哋今次搞錯咗地點，去錯咗餐廳。",
+      "jyutping": "ngo5 dei6 gam1 ci3 gaau2 co3 zo2 dei6 dim2, heoi3 co3 zo2 caan1 teng1.",
+      "meaning": "We messed up the location this time and went to the wrong restaurant.",
+      "sourceWordId": "gaau2co3-to-mess-up-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "to mess up / make a mistake",
+      "tags": [
+        "mistake",
+        "common phrase",
+        "casual",
+        "verb phrase",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-to-mess-up-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "gaau2co3-to-mess-up-make-a-mistake-example-2",
+      "sentence": "對唔住，我搞錯咗個時間。",
+      "jyutping": "deoi3 m4 zyu6, ngo5 gaau2 co3 zo2 go3 si4 gaan1.",
+      "meaning": "Sorry, I got the time wrong.",
+      "sourceWordId": "gaau2co3-to-mess-up-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "to mess up / make a mistake",
+      "tags": [
+        "mistake",
+        "common phrase",
+        "casual",
+        "verb phrase",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-to-mess-up-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "gaau2co3-to-mess-up-make-a-mistake-example-3",
+      "sentence": "你搞錯咗人，我唔係你要搵嘅人。",
+      "jyutping": "nei5 gaau2 co3 zo2 jan4, ngo5 m4 hai6 nei5 jiu3 wan2 ge3 jan4.",
+      "meaning": "You got the wrong person; I’m not the one you’re looking for.",
+      "sourceWordId": "gaau2co3-to-mess-up-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "to mess up / make a mistake",
+      "tags": [
+        "mistake",
+        "common phrase",
+        "casual",
+        "verb phrase",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-to-mess-up-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "gaau2co3-to-mess-up-make-a-mistake-example-4",
+      "sentence": "呢度搞錯咗，應該係側門入去。",
+      "jyutping": "ni1 dou6 gaau2 co3 zo2, jing1 goi1 hai6 zak1 mun4 jap6 heoi3.",
+      "meaning": "There was a mistake here; you should enter through the side door.",
+      "sourceWordId": "gaau2co3-to-mess-up-make-a-mistake",
+      "sourceWord": "搞錯",
+      "sourceWordJyutping": "gaau2 co3",
+      "sourceWordMeaning": "to mess up / make a mistake",
+      "tags": [
+        "mistake",
+        "common phrase",
+        "casual",
+        "verb phrase",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2co3-to-mess-up-make-a-mistake.json"
+    },
+    {
+      "sentenceId": "jing3deoi3-to-deal-with-respond-to-example-1",
+      "sentence": "佢好有經驗，知道點樣應對困難。",
+      "jyutping": "keoi5 hou2 jau5 ging1 jam6, zi1 dou3 dim2 joeng6 jing3 deoi3 kwan3 naan4.",
+      "meaning": "He is experienced and knows how to deal with difficulties.",
+      "sourceWordId": "jing3deoi3-to-deal-with-respond-to",
+      "sourceWord": "應對",
+      "sourceWordJyutping": "jing3 deoi3",
+      "sourceWordMeaning": "to deal with / respond to",
+      "tags": [
+        "advanced",
+        "problem-solving",
+        "communication",
+        "response",
+        "handling",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jing3deoi3-to-deal-with-respond-to.json"
+    },
+    {
+      "sentenceId": "jing3deoi3-to-deal-with-respond-to-example-2",
+      "sentence": "公司要有好嘅方法去應對市場變化。",
+      "jyutping": "gung1 si1 jiu3 jau5 hou2 ge3 fong1 faat3 heoi3 jing3 deoi3 si5 coeng4 bin3 faa3.",
+      "meaning": "The company must have good ways to respond to market changes.",
+      "sourceWordId": "jing3deoi3-to-deal-with-respond-to",
+      "sourceWord": "應對",
+      "sourceWordJyutping": "jing3 deoi3",
+      "sourceWordMeaning": "to deal with / respond to",
+      "tags": [
+        "advanced",
+        "problem-solving",
+        "communication",
+        "response",
+        "handling",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jing3deoi3-to-deal-with-respond-to.json"
+    },
+    {
+      "sentenceId": "jing3deoi3-to-deal-with-respond-to-example-3",
+      "sentence": "喺緊急情況下，應對措施要快同準確。",
+      "jyutping": "hai2 gan2 gap1 cing4 fong3 haa6, jing3 deoi3 cau4 sik1 jiu3 faai3 tung4 zeon2 kok3.",
+      "meaning": "In emergency situations, response measures must be fast and accurate.",
+      "sourceWordId": "jing3deoi3-to-deal-with-respond-to",
+      "sourceWord": "應對",
+      "sourceWordJyutping": "jing3 deoi3",
+      "sourceWordMeaning": "to deal with / respond to",
+      "tags": [
+        "advanced",
+        "problem-solving",
+        "communication",
+        "response",
+        "handling",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jing3deoi3-to-deal-with-respond-to.json"
+    },
+    {
+      "sentenceId": "jing3deoi3-to-deal-with-respond-to-example-4",
+      "sentence": "我哋要諗清楚點樣應對客戶嘅投訴。",
+      "jyutping": "ngo5 dei6 jiu3 nam2 cing1 co2 dim2 joeng6 jing3 deoi3 haak3 wu6 ge3 tau4 sou3.",
+      "meaning": "We need to clearly think about how to handle customer complaints.",
+      "sourceWordId": "jing3deoi3-to-deal-with-respond-to",
+      "sourceWord": "應對",
+      "sourceWordJyutping": "jing3 deoi3",
+      "sourceWordMeaning": "to deal with / respond to",
+      "tags": [
+        "advanced",
+        "problem-solving",
+        "communication",
+        "response",
+        "handling",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jing3deoi3-to-deal-with-respond-to.json"
+    },
+    {
+      "sentenceId": "bou2faan1-to-fix-it-make-up-for-it-example-1",
+      "sentence": "我遲咗交功課，今日要補返。",
+      "jyutping": "ngo5 ci4 zo2 gaau1 gung1 fo3, gam1 jat6 jiu3 bou2 faan1.",
+      "meaning": "I handed in my homework late; today I have to make up for it.",
+      "sourceWordId": "bou2faan1-to-fix-it-make-up-for-it",
+      "sourceWord": "補返",
+      "sourceWordJyutping": "bou2 faan1",
+      "sourceWordMeaning": "to fix it / make up for it",
+      "tags": [
+        "expression",
+        "fix",
+        "make-up",
+        "correction",
+        "compensation",
+        "advanced",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou2faan1-to-fix-it-make-up-for-it.json"
+    },
+    {
+      "sentenceId": "bou2faan1-to-fix-it-make-up-for-it-example-2",
+      "sentence": "你唔使擔心，我會幫你補返嗰部分。",
+      "jyutping": "nei5 m4 sai2 daam1 sam1, ngo5 wui5 bong1 nei5 bou2 faan1 go2 bou6 fan6.",
+      "meaning": "You don't have to worry, I will help you fix that part.",
+      "sourceWordId": "bou2faan1-to-fix-it-make-up-for-it",
+      "sourceWord": "補返",
+      "sourceWordJyutping": "bou2 faan1",
+      "sourceWordMeaning": "to fix it / make up for it",
+      "tags": [
+        "expression",
+        "fix",
+        "make-up",
+        "correction",
+        "compensation",
+        "advanced",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou2faan1-to-fix-it-make-up-for-it.json"
+    },
+    {
+      "sentenceId": "bou2faan1-to-fix-it-make-up-for-it-example-3",
+      "sentence": "昨日漏咗飲水，要補返身體水分。",
+      "jyutping": "zo6 jat6 lau6 zo2 jam2 seoi2, jiu3 bou2 faan1 san1 tai2 seoi2 fan6.",
+      "meaning": "I missed drinking water yesterday; need to make up for the body's hydration.",
+      "sourceWordId": "bou2faan1-to-fix-it-make-up-for-it",
+      "sourceWord": "補返",
+      "sourceWordJyutping": "bou2 faan1",
+      "sourceWordMeaning": "to fix it / make up for it",
+      "tags": [
+        "expression",
+        "fix",
+        "make-up",
+        "correction",
+        "compensation",
+        "advanced",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou2faan1-to-fix-it-make-up-for-it.json"
+    },
+    {
+      "sentenceId": "bou2faan1-to-fix-it-make-up-for-it-example-4",
+      "sentence": "佢犯嘅錯，我哋要幫佢補返。",
+      "jyutping": "keoi5 faan6 ge3 co3, ngo5 dei6 jiu3 bong1 keoi5 bou2 faan1.",
+      "meaning": "We need to help him fix the mistakes he made.",
+      "sourceWordId": "bou2faan1-to-fix-it-make-up-for-it",
+      "sourceWord": "補返",
+      "sourceWordJyutping": "bou2 faan1",
+      "sourceWordMeaning": "to fix it / make up for it",
+      "tags": [
+        "expression",
+        "fix",
+        "make-up",
+        "correction",
+        "compensation",
+        "advanced",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/bou2faan1-to-fix-it-make-up-for-it.json"
+    },
+    {
+      "sentenceId": "gaau2dim6-sorted-done-example-1",
+      "sentence": "我已經搞掂晒個報告。",
+      "jyutping": "ngo5 ji5 ging1 gaau2 dim6 saai3 go3 bou3 gou3.",
+      "meaning": "I have already finished the report.",
+      "sourceWordId": "gaau2dim6-sorted-done",
+      "sourceWord": "搞掂",
+      "sourceWordJyutping": "gaau2 dim6",
+      "sourceWordMeaning": "sorted / done",
+      "tags": [
+        "informal",
+        "spoken",
+        "task completion",
+        "problem solving",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2dim6-sorted-done.json"
+    },
+    {
+      "sentenceId": "gaau2dim6-sorted-done-example-2",
+      "sentence": "唔使擔心，全部嘢我搞掂咗。",
+      "jyutping": "m4 sai2 daam1 sam1, cyun4 bou6 je5 ngo5 gaau2 dim6 zo2.",
+      "meaning": "Don’t worry, I’ve sorted everything out.",
+      "sourceWordId": "gaau2dim6-sorted-done",
+      "sourceWord": "搞掂",
+      "sourceWordJyutping": "gaau2 dim6",
+      "sourceWordMeaning": "sorted / done",
+      "tags": [
+        "informal",
+        "spoken",
+        "task completion",
+        "problem solving",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2dim6-sorted-done.json"
+    },
+    {
+      "sentenceId": "gaau2dim6-sorted-done-example-3",
+      "sentence": "呢個問題好簡單，快啲搞掂啦！",
+      "jyutping": "ni1 go3 man6 tai4 hou2 gaan2 daan1, faai3 di1 gaau2 dim6 laa1!",
+      "meaning": "This problem is simple, sort it out quickly!",
+      "sourceWordId": "gaau2dim6-sorted-done",
+      "sourceWord": "搞掂",
+      "sourceWordJyutping": "gaau2 dim6",
+      "sourceWordMeaning": "sorted / done",
+      "tags": [
+        "informal",
+        "spoken",
+        "task completion",
+        "problem solving",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2dim6-sorted-done.json"
+    },
+    {
+      "sentenceId": "gaau2dim6-sorted-done-example-4",
+      "sentence": "我哋今晚搞掂晒準備工作先落街。",
+      "jyutping": "ngo5 dei6 gam1 maan5 gaau2 dim6 saai3 zeon2 bei6 gung1 zok3 sin1 lok6 gaai1.",
+      "meaning": "We’ll finish all the preparations tonight before going out.",
+      "sourceWordId": "gaau2dim6-sorted-done",
+      "sourceWord": "搞掂",
+      "sourceWordJyutping": "gaau2 dim6",
+      "sourceWordMeaning": "sorted / done",
+      "tags": [
+        "informal",
+        "spoken",
+        "task completion",
+        "problem solving",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau2dim6-sorted-done.json"
+    },
+    {
+      "sentenceId": "mou5man6tai4-no-problem-example-1",
+      "sentence": "你幫我帶書返嚟，好多謝！— 冇問題！",
+      "jyutping": "nei5 bong1 ngo5 daai3 syu1 faan1 lai4, hou2 do1 ze6! — mou5 man6 tai4!",
+      "meaning": "Thanks a lot for bringing the book back for me! — No problem!",
+      "sourceWordId": "mou5man6tai4-no-problem",
+      "sourceWord": "冇問題",
+      "sourceWordJyutping": "mou5 man6 tai4",
+      "sourceWordMeaning": "no problem",
+      "tags": [
+        "common phrase",
+        "reassurance",
+        "informal",
+        "politeness",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/mou5man6tai4-no-problem.json"
+    },
+    {
+      "sentenceId": "mou5man6tai4-no-problem-example-2",
+      "sentence": "聽日嘅會議可以改時間嗎？— 冇問題，我會通知大家。",
+      "jyutping": "ting1 jat6 ge3 wui6 ji5 ho2 ji5 goi2 si4 gaan1 maa3? — mou5 man6 tai4, ngo5 wui5 tung1 zi3 daai6 gaa1.",
+      "meaning": "Can we change the time of tomorrow's meeting? — No problem, I will inform everyone.",
+      "sourceWordId": "mou5man6tai4-no-problem",
+      "sourceWord": "冇問題",
+      "sourceWordJyutping": "mou5 man6 tai4",
+      "sourceWordMeaning": "no problem",
+      "tags": [
+        "common phrase",
+        "reassurance",
+        "informal",
+        "politeness",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/mou5man6tai4-no-problem.json"
+    },
+    {
+      "sentenceId": "mou5man6tai4-no-problem-example-3",
+      "sentence": "對唔住，我嚟遲咗。— 冇問題，大家都未開始。",
+      "jyutping": "deoi3 m4 zyu6, ngo5 lai4 ci4 zo2. — mou5 man6 tai4, daai6 gaa1 dou1 mei6 hoi1 ci2.",
+      "meaning": "Sorry, I arrived late. — No problem, nobody has started yet.",
+      "sourceWordId": "mou5man6tai4-no-problem",
+      "sourceWord": "冇問題",
+      "sourceWordJyutping": "mou5 man6 tai4",
+      "sourceWordMeaning": "no problem",
+      "tags": [
+        "common phrase",
+        "reassurance",
+        "informal",
+        "politeness",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/mou5man6tai4-no-problem.json"
+    },
+    {
+      "sentenceId": "mou5man6tai4-no-problem-example-4",
+      "sentence": "你需要幫手清潔屋企？— 冇問題，我今晚得閒。",
+      "jyutping": "nei5 seoi1 jiu3 bong1 sau2 cing1 git3 uk1 kei2? — mou5 man6 tai4, ngo5 gam1 maan5 dak1 haan4.",
+      "meaning": "Do you need help cleaning the house? — No problem, I am free tonight.",
+      "sourceWordId": "mou5man6tai4-no-problem",
+      "sourceWord": "冇問題",
+      "sourceWordJyutping": "mou5 man6 tai4",
+      "sourceWordMeaning": "no problem",
+      "tags": [
+        "common phrase",
+        "reassurance",
+        "informal",
+        "politeness",
+        "everyday conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/mou5man6tai4-no-problem.json"
+    },
+    {
+      "sentenceId": "fu6mou6-service-example-1",
+      "sentence": "呢間店嘅客戶服務好周到。",
+      "jyutping": "ni1 gaan1 dim3 ge3 haak3 wu6 fu6 mou6 hou2 zau1 dou3.",
+      "meaning": "The customer service at this shop is very attentive.",
+      "sourceWordId": "fu6mou6-service",
+      "sourceWord": "服務",
+      "sourceWordJyutping": "fu6 mou6",
+      "sourceWordMeaning": "service",
+      "tags": [
+        "service",
+        "customer support",
+        "business",
+        "politeness",
+        "daily conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6mou6-service.json"
+    },
+    {
+      "sentenceId": "fu6mou6-service-example-2",
+      "sentence": "我哋下星期會開始提供新嘅網上服務。",
+      "jyutping": "ngo5 dei6 haa6 sing1 kei4 wui5 hoi1 ci2 tai4 gung1 san1 ge3 mong5 soeng6 fu6 mou6.",
+      "meaning": "We will start offering new online services next week.",
+      "sourceWordId": "fu6mou6-service",
+      "sourceWord": "服務",
+      "sourceWordJyutping": "fu6 mou6",
+      "sourceWordMeaning": "service",
+      "tags": [
+        "service",
+        "customer support",
+        "business",
+        "politeness",
+        "daily conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6mou6-service.json"
+    },
+    {
+      "sentenceId": "fu6mou6-service-example-3",
+      "sentence": "佢嘅服務態度令我好滿意。",
+      "jyutping": "keoi5 ge3 fu6 mou6 taai3 dou6 ling6 ngo5 hou2 mun5 ji3.",
+      "meaning": "His service attitude made me very satisfied.",
+      "sourceWordId": "fu6mou6-service",
+      "sourceWord": "服務",
+      "sourceWordJyutping": "fu6 mou6",
+      "sourceWordMeaning": "service",
+      "tags": [
+        "service",
+        "customer support",
+        "business",
+        "politeness",
+        "daily conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6mou6-service.json"
+    },
+    {
+      "sentenceId": "fu6mou6-service-example-4",
+      "sentence": "間酒店提供嘅客房服務非常專業。",
+      "jyutping": "gaan1 zau2 dim3 tai4 gung1 ge3 haak3 fong2 fu6 mou6 fei1 soeng4 zyun1 jip6.",
+      "meaning": "The hotel’s room service is very professional.",
+      "sourceWordId": "fu6mou6-service",
+      "sourceWord": "服務",
+      "sourceWordJyutping": "fu6 mou6",
+      "sourceWordMeaning": "service",
+      "tags": [
+        "service",
+        "customer support",
+        "business",
+        "politeness",
+        "daily conversation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/fu6mou6-service.json"
+    },
+    {
+      "sentenceId": "dang1gei3-register-example-1",
+      "sentence": "我去診所登記睇醫生。",
+      "jyutping": "ngo5 heoi3 zan2 so2 dang1 gei3 tai2 ji1 sang1.",
+      "meaning": "I went to the clinic to register to see a doctor.",
+      "sourceWordId": "dang1gei3-register",
+      "sourceWord": "登記",
+      "sourceWordJyutping": "dang1 gei3",
+      "sourceWordMeaning": "register",
+      "tags": [
+        "health",
+        "medicine",
+        "clinic",
+        "appointment",
+        "registration",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang1gei3-register.json"
+    },
+    {
+      "sentenceId": "dang1gei3-register-example-2",
+      "sentence": "你記得登記疫苗未？",
+      "jyutping": "nei5 gei3 dak1 dang1 gei3 jik6 miu4 mei6?",
+      "meaning": "Did you remember to register for the vaccine?",
+      "sourceWordId": "dang1gei3-register",
+      "sourceWord": "登記",
+      "sourceWordJyutping": "dang1 gei3",
+      "sourceWordMeaning": "register",
+      "tags": [
+        "health",
+        "medicine",
+        "clinic",
+        "appointment",
+        "registration",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang1gei3-register.json"
+    },
+    {
+      "sentenceId": "dang1gei3-register-example-3",
+      "sentence": "登記個過程好簡單，只要填張表。",
+      "jyutping": "dang1 gei3 go3 gwo3 cing4 hou2 gaan2 daan1, zi2 jiu3 tin4 zoeng1 biu2.",
+      "meaning": "The registration process is very simple, just need to fill out a form.",
+      "sourceWordId": "dang1gei3-register",
+      "sourceWord": "登記",
+      "sourceWordJyutping": "dang1 gei3",
+      "sourceWordMeaning": "register",
+      "tags": [
+        "health",
+        "medicine",
+        "clinic",
+        "appointment",
+        "registration",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang1gei3-register.json"
+    },
+    {
+      "sentenceId": "dang1gei3-register-example-4",
+      "sentence": "如果未登記，要盡快去辦理。",
+      "jyutping": "jyu4 gwo2 mei6 dang1 gei3, jiu3 zeon6 faai3 heoi3 baan6 lei5.",
+      "meaning": "If you haven’t registered yet, you need to handle it as soon as possible.",
+      "sourceWordId": "dang1gei3-register",
+      "sourceWord": "登記",
+      "sourceWordJyutping": "dang1 gei3",
+      "sourceWordMeaning": "register",
+      "tags": [
+        "health",
+        "medicine",
+        "clinic",
+        "appointment",
+        "registration",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/dang1gei3-register.json"
+    },
+    {
+      "sentenceId": "san1cing2-to-apply-example-1",
+      "sentence": "我打算申請大學嘅獎學金。",
+      "jyutping": "ngo5 daa2 syun3 san1 cing2 daai6 hok6 ge3 zoeng2 hok6 gam1.",
+      "meaning": "I plan to apply for the university scholarship.",
+      "sourceWordId": "san1cing2-to-apply",
+      "sourceWord": "申請",
+      "sourceWordJyutping": "san1 cing2",
+      "sourceWordMeaning": "to apply",
+      "tags": [
+        "formal",
+        "administrative",
+        "application",
+        "official",
+        "request",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/san1cing2-to-apply.json"
+    },
+    {
+      "sentenceId": "san1cing2-to-apply-example-2",
+      "sentence": "佢已經申請咗工作簽證。",
+      "jyutping": "keoi5 ji5 ging1 san1 cing2 zo2 gung1 zok3 cim1 zing3.",
+      "meaning": "He has already applied for a work visa.",
+      "sourceWordId": "san1cing2-to-apply",
+      "sourceWord": "申請",
+      "sourceWordJyutping": "san1 cing2",
+      "sourceWordMeaning": "to apply",
+      "tags": [
+        "formal",
+        "administrative",
+        "application",
+        "official",
+        "request",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/san1cing2-to-apply.json"
+    },
+    {
+      "sentenceId": "san1cing2-to-apply-example-3",
+      "sentence": "你記得喺截止日期之前申請假期。",
+      "jyutping": "nei5 gei3 dak1 hai2 git3 zi2 jat6 kei4 zi1 cin4 san1 cing2 gaa3 kei4.",
+      "meaning": "You should remember to apply for leave before the deadline.",
+      "sourceWordId": "san1cing2-to-apply",
+      "sourceWord": "申請",
+      "sourceWordJyutping": "san1 cing2",
+      "sourceWordMeaning": "to apply",
+      "tags": [
+        "formal",
+        "administrative",
+        "application",
+        "official",
+        "request",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/san1cing2-to-apply.json"
+    },
+    {
+      "sentenceId": "san1cing2-to-apply-example-4",
+      "sentence": "我哋要去申請新嘅身份證。",
+      "jyutping": "ngo5 dei6 jiu3 heoi3 san1 cing2 san1 ge3 san1 fan6 zing3.",
+      "meaning": "We need to go apply for a new identity card.",
+      "sourceWordId": "san1cing2-to-apply",
+      "sourceWord": "申請",
+      "sourceWordJyutping": "san1 cing2",
+      "sourceWordMeaning": "to apply",
+      "tags": [
+        "formal",
+        "administrative",
+        "application",
+        "official",
+        "request",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/san1cing2-to-apply.json"
+    },
+    {
+      "sentenceId": "ceoi2siu1-to-cancel-example-1",
+      "sentence": "我諗住取消今晚嘅晚餐訂座。",
+      "jyutping": "ngo5 lam2 zyu6 ceoi2 siu1 gam1 maan5 ge3 maan5 caan1 deng6 zo6.",
+      "meaning": "I intend to cancel the dinner reservation for tonight.",
+      "sourceWordId": "ceoi2siu1-to-cancel",
+      "sourceWord": "取消",
+      "sourceWordJyutping": "ceoi2 siu1",
+      "sourceWordMeaning": "to cancel",
+      "tags": [
+        "cancellation",
+        "service",
+        "plans",
+        "booking",
+        "administration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2siu1-to-cancel.json"
+    },
+    {
+      "sentenceId": "ceoi2siu1-to-cancel-example-2",
+      "sentence": "因為天氣唔好，佢哋決定取消旅行。",
+      "jyutping": "jan1 wai6 tin1 hei3 m4 hou2, keoi5 dei6 kyut3 ding6 ceoi2 siu1 leoi5 hang4.",
+      "meaning": "Because of the bad weather, they decided to cancel the trip.",
+      "sourceWordId": "ceoi2siu1-to-cancel",
+      "sourceWord": "取消",
+      "sourceWordJyutping": "ceoi2 siu1",
+      "sourceWordMeaning": "to cancel",
+      "tags": [
+        "cancellation",
+        "service",
+        "plans",
+        "booking",
+        "administration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2siu1-to-cancel.json"
+    },
+    {
+      "sentenceId": "ceoi2siu1-to-cancel-example-3",
+      "sentence": "你可唔可以幫我取消呢份訂單？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 ceoi2 siu1 ni1 fan6 deng6 daan1?",
+      "meaning": "Can you help me cancel this order?",
+      "sourceWordId": "ceoi2siu1-to-cancel",
+      "sourceWord": "取消",
+      "sourceWordJyutping": "ceoi2 siu1",
+      "sourceWordMeaning": "to cancel",
+      "tags": [
+        "cancellation",
+        "service",
+        "plans",
+        "booking",
+        "administration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2siu1-to-cancel.json"
+    },
+    {
+      "sentenceId": "ceoi2siu1-to-cancel-example-4",
+      "sentence": "如果想取消會員資格，請提前通知我哋。",
+      "jyutping": "jyu4 gwo2 soeng2 ceoi2 siu1 wui6 jyun4 zi1 gaak3, cing2 tai4 cin4 tung1 zi1 ngo5 dei6.",
+      "meaning": "If you want to cancel your membership, please notify us in advance.",
+      "sourceWordId": "ceoi2siu1-to-cancel",
+      "sourceWord": "取消",
+      "sourceWordJyutping": "ceoi2 siu1",
+      "sourceWordMeaning": "to cancel",
+      "tags": [
+        "cancellation",
+        "service",
+        "plans",
+        "booking",
+        "administration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2siu1-to-cancel.json"
+    },
+    {
+      "sentenceId": "kok3jing6-to-confirm-example-1",
+      "sentence": "我想確認下明日嘅會議時間。",
+      "jyutping": "ngo5 soeng2 kok3 jing6 haa5 ming4 jat6 ge3 wui6 ji5 si4 gaan3.",
+      "meaning": "I want to confirm the time of tomorrow's meeting.",
+      "sourceWordId": "kok3jing6-to-confirm",
+      "sourceWord": "確認",
+      "sourceWordJyutping": "kok3 jing6",
+      "sourceWordMeaning": "to confirm",
+      "tags": [
+        "confirmation",
+        "communication",
+        "verification",
+        "administration",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kok3jing6-to-confirm.json"
+    },
+    {
+      "sentenceId": "kok3jing6-to-confirm-example-2",
+      "sentence": "你可唔可以幫我確認返啲資料？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 kok3 jing6 faan1 di1 zi1 liu2?",
+      "meaning": "Can you help me confirm those details?",
+      "sourceWordId": "kok3jing6-to-confirm",
+      "sourceWord": "確認",
+      "sourceWordJyutping": "kok3 jing6",
+      "sourceWordMeaning": "to confirm",
+      "tags": [
+        "confirmation",
+        "communication",
+        "verification",
+        "administration",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kok3jing6-to-confirm.json"
+    },
+    {
+      "sentenceId": "kok3jing6-to-confirm-example-3",
+      "sentence": "我已經同客戶確認咗貨品嘅數量。",
+      "jyutping": "ngo5 ji5 ging1 tung4 haak3 wu6 kok3 jing6 zo2 fo3 ban2 ge3 sou3 loeng6.",
+      "meaning": "I have already confirmed the quantity of the goods with the client.",
+      "sourceWordId": "kok3jing6-to-confirm",
+      "sourceWord": "確認",
+      "sourceWordJyutping": "kok3 jing6",
+      "sourceWordMeaning": "to confirm",
+      "tags": [
+        "confirmation",
+        "communication",
+        "verification",
+        "administration",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kok3jing6-to-confirm.json"
+    },
+    {
+      "sentenceId": "kok3jing6-to-confirm-example-4",
+      "sentence": "喺出發之前，一定要確認好路線。",
+      "jyutping": "hai2 ceot1 faat3 zi1 cin4, jat1 ding6 jiu3 kok3 jing6 hou2 lou6 sin3.",
+      "meaning": "Before departure, you must confirm the route properly.",
+      "sourceWordId": "kok3jing6-to-confirm",
+      "sourceWord": "確認",
+      "sourceWordJyutping": "kok3 jing6",
+      "sourceWordMeaning": "to confirm",
+      "tags": [
+        "confirmation",
+        "communication",
+        "verification",
+        "administration",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/kok3jing6-to-confirm.json"
+    },
+    {
+      "sentenceId": "zip3sau1-to-receive-example-1",
+      "sentence": "我今日會去你公司接收呢批貨。",
+      "jyutping": "ngo5 gam1 jat6 wui5 heoi3 nei5 gung1 si1 zip3 sau1 ni1 pat1 fo3.",
+      "meaning": "I will go to your company today to receive this batch of goods.",
+      "sourceWordId": "zip3sau1-to-receive",
+      "sourceWord": "接收",
+      "sourceWordJyutping": "zip3 sau1",
+      "sourceWordMeaning": "to receive",
+      "tags": [
+        "advanced",
+        "services",
+        "real_life",
+        "formal",
+        "receiving",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zip3sau1-to-receive.json"
+    },
+    {
+      "sentenceId": "zip3sau1-to-receive-example-2",
+      "sentence": "你收到電郵就代表你已經接收咗通知。",
+      "jyutping": "nei5 sau1 dou3 din6 jau4 zau6 doi6 biu2 nei5 ji5 ging1 zip3 sau1 zo2 tung1 zi3.",
+      "meaning": "Receiving your email means that you have already received the notification.",
+      "sourceWordId": "zip3sau1-to-receive",
+      "sourceWord": "接收",
+      "sourceWordJyutping": "zip3 sau1",
+      "sourceWordMeaning": "to receive",
+      "tags": [
+        "advanced",
+        "services",
+        "real_life",
+        "formal",
+        "receiving",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zip3sau1-to-receive.json"
+    },
+    {
+      "sentenceId": "zip3sau1-to-receive-example-3",
+      "sentence": "佢哋正式接收呢份文件後，先會開始執行計劃。",
+      "jyutping": "keoi5 dei6 zing3 sik1 zip3 sau1 ni1 fan6 man4 gin2 hau6, sin1 wui5 hoi1 ci2 zap1 hang4 gai3 waak6.",
+      "meaning": "They will start executing the plan only after formally receiving this document.",
+      "sourceWordId": "zip3sau1-to-receive",
+      "sourceWord": "接收",
+      "sourceWordJyutping": "zip3 sau1",
+      "sourceWordMeaning": "to receive",
+      "tags": [
+        "advanced",
+        "services",
+        "real_life",
+        "formal",
+        "receiving",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zip3sau1-to-receive.json"
+    },
+    {
+      "sentenceId": "zip3sau1-to-receive-example-4",
+      "sentence": "請你喺門口接收包裹，唔好俾佢哋亂拎走。",
+      "jyutping": "cing2 nei5 hai2 mun4 hau2 zip3 sau1 baau1 gwo2, m4 hou2 bei2 keoi5 dei6 lyun6 ning1 zau2.",
+      "meaning": "Please receive the package at the door and don't let them take it away carelessly.",
+      "sourceWordId": "zip3sau1-to-receive",
+      "sourceWord": "接收",
+      "sourceWordJyutping": "zip3 sau1",
+      "sourceWordMeaning": "to receive",
+      "tags": [
+        "advanced",
+        "services",
+        "real_life",
+        "formal",
+        "receiving",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zip3sau1-to-receive.json"
+    },
+    {
+      "sentenceId": "gaau1fai3-to-pay-a-fee-example-1",
+      "sentence": "我今日要去銀行交費。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 heoi3 ngan4 hong4 gaau1 fai3.",
+      "meaning": "I have to go to the bank today to pay the fee.",
+      "sourceWordId": "gaau1fai3-to-pay-a-fee",
+      "sourceWord": "交費",
+      "sourceWordJyutping": "gaau1 fai3",
+      "sourceWordMeaning": "to pay a fee",
+      "tags": [
+        "financial",
+        "payment",
+        "daily life",
+        "formal",
+        "informal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1fai3-to-pay-a-fee.json"
+    },
+    {
+      "sentenceId": "gaau1fai3-to-pay-a-fee-example-2",
+      "sentence": "你記唔記得交電費？",
+      "jyutping": "nei5 gei3 m4 gei3 dak1 gaau1 din6 fai3?",
+      "meaning": "Do you remember to pay the electricity fee?",
+      "sourceWordId": "gaau1fai3-to-pay-a-fee",
+      "sourceWord": "交費",
+      "sourceWordJyutping": "gaau1 fai3",
+      "sourceWordMeaning": "to pay a fee",
+      "tags": [
+        "financial",
+        "payment",
+        "daily life",
+        "formal",
+        "informal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1fai3-to-pay-a-fee.json"
+    },
+    {
+      "sentenceId": "gaau1fai3-to-pay-a-fee-example-3",
+      "sentence": "佢哋喺學校交學費。",
+      "jyutping": "keoi5 dei6 hai2 hok6 haau6 gaau1 hok6 fai3.",
+      "meaning": "They pay tuition fees at the school.",
+      "sourceWordId": "gaau1fai3-to-pay-a-fee",
+      "sourceWord": "交費",
+      "sourceWordJyutping": "gaau1 fai3",
+      "sourceWordMeaning": "to pay a fee",
+      "tags": [
+        "financial",
+        "payment",
+        "daily life",
+        "formal",
+        "informal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1fai3-to-pay-a-fee.json"
+    },
+    {
+      "sentenceId": "gaau1fai3-to-pay-a-fee-example-4",
+      "sentence": "我哋要準時交租金，唔可以遲。",
+      "jyutping": "ngo5 dei6 jiu3 zeon2 si4 gaau1 zou1 gam1, m4 ho2 ji5 ci4.",
+      "meaning": "We have to pay the rent on time and cannot be late.",
+      "sourceWordId": "gaau1fai3-to-pay-a-fee",
+      "sourceWord": "交費",
+      "sourceWordJyutping": "gaau1 fai3",
+      "sourceWordMeaning": "to pay a fee",
+      "tags": [
+        "financial",
+        "payment",
+        "daily life",
+        "formal",
+        "informal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gaau1fai3-to-pay-a-fee.json"
+    },
+    {
+      "sentenceId": "maa4faan4nei5-please-sorry-to-bother-you-example-1",
+      "sentence": "麻煩你幫我睇下呢份文件。",
+      "jyutping": "maa4 faan4 nei5 bong1 ngo5 tai2 haa5 ni1 fan6 man4 gin2.",
+      "meaning": "Please help me look over this document.",
+      "sourceWordId": "maa4faan4nei5-please-sorry-to-bother-you",
+      "sourceWord": "麻煩你",
+      "sourceWordJyutping": "maa4 faan4 nei5",
+      "sourceWordMeaning": "please / sorry to bother you",
+      "tags": [
+        "politeness",
+        "request",
+        "courtesy",
+        "formal",
+        "help",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/maa4faan4nei5-please-sorry-to-bother-you.json"
+    },
+    {
+      "sentenceId": "maa4faan4nei5-please-sorry-to-bother-you-example-2",
+      "sentence": "麻煩你借我支筆，好嗎？",
+      "jyutping": "maa4 faan4 nei5 ze3 ngo5 zi1 bat1, hou2 maa3?",
+      "meaning": "Sorry to bother you, can I borrow a pen?",
+      "sourceWordId": "maa4faan4nei5-please-sorry-to-bother-you",
+      "sourceWord": "麻煩你",
+      "sourceWordJyutping": "maa4 faan4 nei5",
+      "sourceWordMeaning": "please / sorry to bother you",
+      "tags": [
+        "politeness",
+        "request",
+        "courtesy",
+        "formal",
+        "help",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/maa4faan4nei5-please-sorry-to-bother-you.json"
+    },
+    {
+      "sentenceId": "maa4faan4nei5-please-sorry-to-bother-you-example-3",
+      "sentence": "麻煩你盡快回覆我嘅電郵。",
+      "jyutping": "maa4 faan4 nei5 zeon6 faai3 wui4 fuk1 ngo5 ge3 din6 jau4.",
+      "meaning": "Please reply to my email as soon as possible.",
+      "sourceWordId": "maa4faan4nei5-please-sorry-to-bother-you",
+      "sourceWord": "麻煩你",
+      "sourceWordJyutping": "maa4 faan4 nei5",
+      "sourceWordMeaning": "please / sorry to bother you",
+      "tags": [
+        "politeness",
+        "request",
+        "courtesy",
+        "formal",
+        "help",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/maa4faan4nei5-please-sorry-to-bother-you.json"
+    },
+    {
+      "sentenceId": "maa4faan4nei5-please-sorry-to-bother-you-example-4",
+      "sentence": "你麻煩你幫下手啦，我一個人做唔切。",
+      "jyutping": "nei5 maa4 faan4 nei5 bong1 haa5 sau2 laa1, ngo5 jat1 go3 jan4 zou6 m4 cit3.",
+      "meaning": "Could you please help me? I can't finish it by myself.",
+      "sourceWordId": "maa4faan4nei5-please-sorry-to-bother-you",
+      "sourceWord": "麻煩你",
+      "sourceWordJyutping": "maa4 faan4 nei5",
+      "sourceWordMeaning": "please / sorry to bother you",
+      "tags": [
+        "politeness",
+        "request",
+        "courtesy",
+        "formal",
+        "help",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/maa4faan4nei5-please-sorry-to-bother-you.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-1",
+      "sentence": "唔好意思，借過一下。",
+      "jyutping": "m4 hou2 ji3 si1, ze3 gwo3 jat1 haa5.",
+      "meaning": "Excuse me, may I pass through?",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "courtesy",
+        "everyday speech",
+        "interruption",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-2",
+      "sentence": "唔好意思，我遲咗啲。",
+      "jyutping": "m4 hou2 ji3 si1, ngo5 ci4 zo2 di1.",
+      "meaning": "Sorry, I am a bit late.",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "courtesy",
+        "everyday speech",
+        "interruption",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-3",
+      "sentence": "唔好意思，可以借我支筆嗎？",
+      "jyutping": "m4 hou2 ji3 si1, ho2 ji5 ze3 ngo5 zi1 bat1 maa3?",
+      "meaning": "Excuse me, can I borrow your pen?",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "courtesy",
+        "everyday speech",
+        "interruption",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "m4hou2ji3si1-sorry-excuse-me-example-4",
+      "sentence": "唔好意思，呢度唔可以泊車。",
+      "jyutping": "m4 hou2 ji3 si1, ni1 dou6 m4 ho2 ji5 paak3 ce1.",
+      "meaning": "Sorry, you can’t park here.",
+      "sourceWordId": "m4hou2ji3si1-sorry-excuse-me",
+      "sourceWord": "唔好意思",
+      "sourceWordJyutping": "m4 hou2 ji3 si1",
+      "sourceWordMeaning": "sorry / excuse me",
+      "tags": [
+        "politeness",
+        "apology",
+        "courtesy",
+        "everyday speech",
+        "interruption",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/m4hou2ji3si1-sorry-excuse-me.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-may-i-example-1",
+      "sentence": "可唔可以幫我拎一下嗰個行李？",
+      "jyutping": "ho2 m4 ho2 ji5 bong1 ngo5 ling1 jat1 haa5 go2 go3 hang4 lei5?",
+      "meaning": "Could you help me carry that luggage?",
+      "sourceWordId": "ho2m4ho2ji5-could-you-may-i",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you-may-i.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-may-i-example-2",
+      "sentence": "我可唔可以早啲走？",
+      "jyutping": "ngo5 ho2 m4 ho2 ji5 zou2 di1 zau2?",
+      "meaning": "May I leave earlier?",
+      "sourceWordId": "ho2m4ho2ji5-could-you-may-i",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you-may-i.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-may-i-example-3",
+      "sentence": "可唔可以借我支筆？",
+      "jyutping": "ho2 m4 ho2 ji5 ze3 ngo5 zi1 bat1?",
+      "meaning": "Could you lend me a pen?",
+      "sourceWordId": "ho2m4ho2ji5-could-you-may-i",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you-may-i.json"
+    },
+    {
+      "sentenceId": "ho2m4ho2ji5-could-you-may-i-example-4",
+      "sentence": "可唔可以同你講下我嘅想法？",
+      "jyutping": "ho2 m4 ho2 ji5 tung4 nei5 gong2 haa5 ngo5 ge3 soeng2 faat3?",
+      "meaning": "May I talk to you about my ideas?",
+      "sourceWordId": "ho2m4ho2ji5-could-you-may-i",
+      "sourceWord": "可唔可以",
+      "sourceWordJyutping": "ho2 m4 ho2 ji5",
+      "sourceWordMeaning": "could you / may I",
+      "tags": [
+        "politeness",
+        "request",
+        "permission",
+        "expressions",
+        "Cantonese",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/ho2m4ho2ji5-could-you-may-i.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-1",
+      "sentence": "你介唔介意我借埋你部電話用一陣？",
+      "jyutping": "nei5 gaai3 m4 gaai3 ji3 ngo5 ze3 maai4 nei5 bou6 din6 waa2 jung6 jat1 zan6?",
+      "meaning": "Do you mind if I borrow your phone for a moment?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-2",
+      "sentence": "介唔介意我今晚唔返屋企食飯？",
+      "jyutping": "gaai3 m4 gaai3 ji3 ngo5 gam1 maan5 m4 faan1 uk1 kei2 sik6 faan6?",
+      "meaning": "Do you mind if I don’t come home for dinner tonight?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-3",
+      "sentence": "你介唔介意我幫你睇下份文件？",
+      "jyutping": "nei5 gaai3 m4 gaai3 ji3 ngo5 bong1 nei5 tai2 haa5 fan6 man4 gin2?",
+      "meaning": "Do you mind if I help you check the document?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "gaai3m4gaai3ji3-do-you-mind-example-4",
+      "sentence": "介唔介意同我講多啲關於你嘅計劃？",
+      "jyutping": "gaai3 m4 gaai3 ji3 tung4 ngo5 gong2 do1 di1 gwaan1 jyu1 nei5 ge3 gai3 waak6?",
+      "meaning": "Do you mind telling me more about your plans?",
+      "sourceWordId": "gaai3m4gaai3ji3-do-you-mind",
+      "sourceWord": "介唔介意",
+      "sourceWordJyutping": "gaai3 m4 gaai3 ji3",
+      "sourceWordMeaning": "do you mind",
+      "tags": [
+        "politeness",
+        "requests",
+        "questions",
+        "expressions",
+        "social_interaction",
+        "level-7"
+      ],
+      "sourceFile": "r2-backup/words/gaai3m4gaai3ji3-do-you-mind.json"
+    },
+    {
+      "sentenceId": "soeng1loeng6-to-discuss-negotiate-example-1",
+      "sentence": "我哋需要商量下下星期嘅計劃。",
+      "jyutping": "ngo5 dei6 seoi1 jiu3 soeng1 loeng6 haa5 haa5 sing1 ge3 gai3 waak6.",
+      "meaning": "We need to discuss the plan for next week.",
+      "sourceWordId": "soeng1loeng6-to-discuss-negotiate",
+      "sourceWord": "商量",
+      "sourceWordJyutping": "soeng1 loeng6",
+      "sourceWordMeaning": "to discuss / negotiate",
+      "tags": [
+        "politeness",
+        "negotiation",
+        "discussion",
+        "decision-making",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng1loeng6-to-discuss-negotiate.json"
+    },
+    {
+      "sentenceId": "soeng1loeng6-to-discuss-negotiate-example-2",
+      "sentence": "買樓之前最好同銀行商量下貸款嘅條件。",
+      "jyutping": "maai5 lau4 zi1 cin4 zeoi3 hou2 tung4 ngan4 hong4 soeng1 loeng6 haa5 taai3 fun2 ge3 tiu4 gin6.",
+      "meaning": "Before buying a property, it's best to discuss the loan conditions with the bank.",
+      "sourceWordId": "soeng1loeng6-to-discuss-negotiate",
+      "sourceWord": "商量",
+      "sourceWordJyutping": "soeng1 loeng6",
+      "sourceWordMeaning": "to discuss / negotiate",
+      "tags": [
+        "politeness",
+        "negotiation",
+        "discussion",
+        "decision-making",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng1loeng6-to-discuss-negotiate.json"
+    },
+    {
+      "sentenceId": "soeng1loeng6-to-discuss-negotiate-example-3",
+      "sentence": "我地唔好咁快決定，要先商量清楚。",
+      "jyutping": "ngo5 dei6 m4 hou2 gam3 faai3 kyut3 ding6, jiu3 sin1 soeng1 loeng6 cing1 co2.",
+      "meaning": "Let's not decide so quickly, we need to discuss clearly first.",
+      "sourceWordId": "soeng1loeng6-to-discuss-negotiate",
+      "sourceWord": "商量",
+      "sourceWordJyutping": "soeng1 loeng6",
+      "sourceWordMeaning": "to discuss / negotiate",
+      "tags": [
+        "politeness",
+        "negotiation",
+        "discussion",
+        "decision-making",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng1loeng6-to-discuss-negotiate.json"
+    },
+    {
+      "sentenceId": "soeng1loeng6-to-discuss-negotiate-example-4",
+      "sentence": "佢哋兩家嘅父母會為婚事商量。",
+      "jyutping": "keoi5 dei6 loeng5 gaa1 ge3 fu6 mou5 wui5 wai4 fan1 si6 soeng1 loeng6.",
+      "meaning": "The parents of both families will discuss the wedding arrangements.",
+      "sourceWordId": "soeng1loeng6-to-discuss-negotiate",
+      "sourceWord": "商量",
+      "sourceWordJyutping": "soeng1 loeng6",
+      "sourceWordMeaning": "to discuss / negotiate",
+      "tags": [
+        "politeness",
+        "negotiation",
+        "discussion",
+        "decision-making",
+        "formal",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/soeng1loeng6-to-discuss-negotiate.json"
+    },
+    {
+      "sentenceId": "pui3hap6-to-cooperate-coordinate-with-example-1",
+      "sentence": "我哋需要配合埋呢個計劃嘅時間表。",
+      "jyutping": "ngo5 dei6 seoi1 jiu3 pui3 hap6 maai4 ni1 go3 gai3 waak6 ge3 si4 gaan1 biu2.",
+      "meaning": "We need to coordinate with the schedule of this project.",
+      "sourceWordId": "pui3hap6-to-cooperate-coordinate-with",
+      "sourceWord": "配合",
+      "sourceWordJyutping": "pui3 hap6",
+      "sourceWordMeaning": "to cooperate / coordinate with",
+      "tags": [
+        "cooperation",
+        "coordination",
+        "politeness",
+        "negotiation",
+        "collaboration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/pui3hap6-to-cooperate-coordinate-with.json"
+    },
+    {
+      "sentenceId": "pui3hap6-to-cooperate-coordinate-with-example-2",
+      "sentence": "你可唔可以配合我哋嘅工作安排？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 pui3 hap6 ngo5 dei6 ge3 gung1 zok3 ngon1 paai4?",
+      "meaning": "Can you cooperate with our work arrangement?",
+      "sourceWordId": "pui3hap6-to-cooperate-coordinate-with",
+      "sourceWord": "配合",
+      "sourceWordJyutping": "pui3 hap6",
+      "sourceWordMeaning": "to cooperate / coordinate with",
+      "tags": [
+        "cooperation",
+        "coordination",
+        "politeness",
+        "negotiation",
+        "collaboration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/pui3hap6-to-cooperate-coordinate-with.json"
+    },
+    {
+      "sentenceId": "pui3hap6-to-cooperate-coordinate-with-example-3",
+      "sentence": "大家配合返，先做得快啲。",
+      "jyutping": "daai6 gaa1 pui3 hap6 faan1, sin1 zou6 dak1 faai3 di1.",
+      "meaning": "If everyone cooperates, the work will be done faster.",
+      "sourceWordId": "pui3hap6-to-cooperate-coordinate-with",
+      "sourceWord": "配合",
+      "sourceWordJyutping": "pui3 hap6",
+      "sourceWordMeaning": "to cooperate / coordinate with",
+      "tags": [
+        "cooperation",
+        "coordination",
+        "politeness",
+        "negotiation",
+        "collaboration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/pui3hap6-to-cooperate-coordinate-with.json"
+    },
+    {
+      "sentenceId": "pui3hap6-to-cooperate-coordinate-with-example-4",
+      "sentence": "呢個方案需要同其他部門配合先得。",
+      "jyutping": "ni1 go3 fong1 on3 seoi1 jiu3 tung4 kei4 taa1 bou6 mun4 pui3 hap6 sin1 dak1.",
+      "meaning": "This plan requires coordination with other departments.",
+      "sourceWordId": "pui3hap6-to-cooperate-coordinate-with",
+      "sourceWord": "配合",
+      "sourceWordJyutping": "pui3 hap6",
+      "sourceWordMeaning": "to cooperate / coordinate with",
+      "tags": [
+        "cooperation",
+        "coordination",
+        "politeness",
+        "negotiation",
+        "collaboration",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/pui3hap6-to-cooperate-coordinate-with.json"
+    },
+    {
+      "sentenceId": "loeng6gaai2-to-be-understanding-example-1",
+      "sentence": "我希望你可以諒解我嘅難處。",
+      "jyutping": "ngo5 hei1 mong6 nei5 ho2 ji5 loeng6 gaai2 ngo5 ge3 naan4 co3.",
+      "meaning": "I hope you can be understanding of my difficulties.",
+      "sourceWordId": "loeng6gaai2-to-be-understanding",
+      "sourceWord": "諒解",
+      "sourceWordJyutping": "loeng6 gaai2",
+      "sourceWordMeaning": "to be understanding",
+      "tags": [
+        "politeness",
+        "empathy",
+        "negotiation",
+        "communication",
+        "relationship building",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/loeng6gaai2-to-be-understanding.json"
+    },
+    {
+      "sentenceId": "loeng6gaai2-to-be-understanding-example-2",
+      "sentence": "多謝你嘅諒解，令我感覺輕鬆啲。",
+      "jyutping": "do1 ze6 nei5 ge3 loeng6 gaai2, ling6 ngo5 gam2 gok3 hing1 sung1 di1.",
+      "meaning": "Thank you for your understanding, it makes me feel more relaxed.",
+      "sourceWordId": "loeng6gaai2-to-be-understanding",
+      "sourceWord": "諒解",
+      "sourceWordJyutping": "loeng6 gaai2",
+      "sourceWordMeaning": "to be understanding",
+      "tags": [
+        "politeness",
+        "empathy",
+        "negotiation",
+        "communication",
+        "relationship building",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/loeng6gaai2-to-be-understanding.json"
+    },
+    {
+      "sentenceId": "loeng6gaai2-to-be-understanding-example-3",
+      "sentence": "諒解係建立良好關係嘅重要一環。",
+      "jyutping": "loeng6 gaai2 hai6 gin3 laap6 loeng4 hou2 gwaan1 hai6 ge3 zung6 jiu3 jat1 waan4.",
+      "meaning": "Understanding is an important part of building good relationships.",
+      "sourceWordId": "loeng6gaai2-to-be-understanding",
+      "sourceWord": "諒解",
+      "sourceWordJyutping": "loeng6 gaai2",
+      "sourceWordMeaning": "to be understanding",
+      "tags": [
+        "politeness",
+        "empathy",
+        "negotiation",
+        "communication",
+        "relationship building",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/loeng6gaai2-to-be-understanding.json"
+    },
+    {
+      "sentenceId": "loeng6gaai2-to-be-understanding-example-4",
+      "sentence": "我哋需要互相諒解，先至可以解決問題。",
+      "jyutping": "ngo5 dei6 seoi1 jiu3 wu6 soeng1 loeng6 gaai2, sin1 zi3 ho2 ji5 gaai2 kyut3 man6 tai4.",
+      "meaning": "We need to understand each other in order to solve the problem.",
+      "sourceWordId": "loeng6gaai2-to-be-understanding",
+      "sourceWord": "諒解",
+      "sourceWordJyutping": "loeng6 gaai2",
+      "sourceWordMeaning": "to be understanding",
+      "tags": [
+        "politeness",
+        "empathy",
+        "negotiation",
+        "communication",
+        "relationship building",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/loeng6gaai2-to-be-understanding.json"
+    },
+    {
+      "sentenceId": "daan6hai6-but-however-spoken-example-1",
+      "sentence": "我知道你嘅意思，但係我都有自己嘅諗法。",
+      "jyutping": "ngo5 zi1 dou3 nei5 ge3 ji3 si1, daan6 hai6 ngo5 dou1 jau5 zi6 gei2 ge3 nam2 faat3.",
+      "meaning": "I understand your point, but I also have my own way of thinking.",
+      "sourceWordId": "daan6hai6-but-however-spoken",
+      "sourceWord": "但係",
+      "sourceWordJyutping": "daan6 hai6",
+      "sourceWordMeaning": "but / however (spoken)",
+      "tags": [
+        "conversation",
+        "contrast",
+        "politeness",
+        "negotiation",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
+    },
+    {
+      "sentenceId": "daan6hai6-but-however-spoken-example-2",
+      "sentence": "我哋想去戲院，但係而家時間唔夠。",
+      "jyutping": "ngo5 dei6 soeng2 heoi3 hei3 jyun2, daan6 hai6 ji4 gaa1 si4 gaan3 m4 gau3.",
+      "meaning": "We want to go to the cinema, but we don’t have enough time now.",
+      "sourceWordId": "daan6hai6-but-however-spoken",
+      "sourceWord": "但係",
+      "sourceWordJyutping": "daan6 hai6",
+      "sourceWordMeaning": "but / however (spoken)",
+      "tags": [
+        "conversation",
+        "contrast",
+        "politeness",
+        "negotiation",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
+    },
+    {
+      "sentenceId": "daan6hai6-but-however-spoken-example-3",
+      "sentence": "呢件事好重要，但係唔使太緊張。",
+      "jyutping": "ni1 gin6 si6 hou2 zung6 jiu3, daan6 hai6 m4 sai2 taai3 gan2 zoeng1.",
+      "meaning": "This matter is important, but there's no need to be too nervous.",
+      "sourceWordId": "daan6hai6-but-however-spoken",
+      "sourceWord": "但係",
+      "sourceWordJyutping": "daan6 hai6",
+      "sourceWordMeaning": "but / however (spoken)",
+      "tags": [
+        "conversation",
+        "contrast",
+        "politeness",
+        "negotiation",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
+    },
+    {
+      "sentenceId": "daan6hai6-but-however-spoken-example-4",
+      "sentence": "我明白你嘅困難，但係我未必可以幫到你。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ge3 kwan3 naan4, daan6 hai6 ngo5 mei6 bat1 ho2 ji5 bong1 dou3 nei5.",
+      "meaning": "I understand your difficulties, but I may not be able to help you.",
+      "sourceWordId": "daan6hai6-but-however-spoken",
+      "sourceWord": "但係",
+      "sourceWordJyutping": "daan6 hai6",
+      "sourceWordMeaning": "but / however (spoken)",
+      "tags": [
+        "conversation",
+        "contrast",
+        "politeness",
+        "negotiation",
+        "spoken Cantonese",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/daan6hai6-but-however-spoken.json"
+    },
+    {
+      "sentenceId": "biu2jin6-performance-example-1",
+      "sentence": "你今次嘅考試表現好好，值得嘉許。",
+      "jyutping": "nei5 gam1 ci3 ge3 haau2 si3 biu2 jin6 hou2 hou2, zik1 dak1 gaa1 heoi2.",
+      "meaning": "Your performance in this exam was very good and deserves praise.",
+      "sourceWordId": "biu2jin6-performance",
+      "sourceWord": "表現",
+      "sourceWordJyutping": "biu2 jin6",
+      "sourceWordMeaning": "performance",
+      "tags": [
+        "feedback",
+        "evaluation",
+        "improvement",
+        "work",
+        "performance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin6-performance.json"
+    },
+    {
+      "sentenceId": "biu2jin6-performance-example-2",
+      "sentence": "佢喺比賽入面嘅表現令所有人都驚訝。",
+      "jyutping": "keoi5 hai2 bei2 coi3 jap6 min6 ge3 biu2 jin6 ling6 so2 jau5 jan4 dou1 ging1 ngaa6.",
+      "meaning": "His performance in the competition surprised everyone.",
+      "sourceWordId": "biu2jin6-performance",
+      "sourceWord": "表現",
+      "sourceWordJyutping": "biu2 jin6",
+      "sourceWordMeaning": "performance",
+      "tags": [
+        "feedback",
+        "evaluation",
+        "improvement",
+        "work",
+        "performance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin6-performance.json"
+    },
+    {
+      "sentenceId": "biu2jin6-performance-example-3",
+      "sentence": "公司會根據員工嘅表現嚟決定升職。",
+      "jyutping": "gung1 si1 wui5 gan1 geoi3 jyun4 gung1 ge3 biu2 jin6 lai4 kyut3 ding6 sing1 zik1.",
+      "meaning": "The company will decide promotions based on employees' performance.",
+      "sourceWordId": "biu2jin6-performance",
+      "sourceWord": "表現",
+      "sourceWordJyutping": "biu2 jin6",
+      "sourceWordMeaning": "performance",
+      "tags": [
+        "feedback",
+        "evaluation",
+        "improvement",
+        "work",
+        "performance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin6-performance.json"
+    },
+    {
+      "sentenceId": "biu2jin6-performance-example-4",
+      "sentence": "我哋應該定期檢討自己嘅表現，持續改進。",
+      "jyutping": "ngo5 dei6 jing1 goi1 ding6 kei4 gim2 tou2 zi6 gei2 ge3 biu2 jin6, ci4 zuk6 goi2 zeon3.",
+      "meaning": "We should regularly review our own performance and continuously improve.",
+      "sourceWordId": "biu2jin6-performance",
+      "sourceWord": "表現",
+      "sourceWordJyutping": "biu2 jin6",
+      "sourceWordMeaning": "performance",
+      "tags": [
+        "feedback",
+        "evaluation",
+        "improvement",
+        "work",
+        "performance",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/biu2jin6-performance.json"
+    },
+    {
+      "sentenceId": "zeon3bou6-progress-example-1",
+      "sentence": "你嘅英文有好多進步。",
+      "jyutping": "nei5 ge3 jing1 man4 jau5 hou2 do1 zeon3 bou6。",
+      "meaning": "Your English has a lot of progress.",
+      "sourceWordId": "zeon3bou6-progress",
+      "sourceWord": "進步",
+      "sourceWordJyutping": "zeon3 bou6",
+      "sourceWordMeaning": "progress",
+      "tags": [
+        "progress",
+        "improvement",
+        "results",
+        "skills",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeon3bou6-progress.json"
+    },
+    {
+      "sentenceId": "zeon3bou6-progress-example-2",
+      "sentence": "佢練習得好勤力，所以進步好快。",
+      "jyutping": "keoi5 lin6 zaap6 dak1 hou2 kan4 lik6, so2 ji5 zeon3 bou6 hou2 faai3。",
+      "meaning": "He practices very hard, so the progress is fast.",
+      "sourceWordId": "zeon3bou6-progress",
+      "sourceWord": "進步",
+      "sourceWordJyutping": "zeon3 bou6",
+      "sourceWordMeaning": "progress",
+      "tags": [
+        "progress",
+        "improvement",
+        "results",
+        "skills",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeon3bou6-progress.json"
+    },
+    {
+      "sentenceId": "zeon3bou6-progress-example-3",
+      "sentence": "雖然進步咗，但仲可以做得更好。",
+      "jyutping": "seoi1 jin4 zeon3 bou6 zo2, daan6 zung6 ho2 ji5 zou6 dak1 gang3 hou2。",
+      "meaning": "Although there is progress, it can still be done better.",
+      "sourceWordId": "zeon3bou6-progress",
+      "sourceWord": "進步",
+      "sourceWordJyutping": "zeon3 bou6",
+      "sourceWordMeaning": "progress",
+      "tags": [
+        "progress",
+        "improvement",
+        "results",
+        "skills",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeon3bou6-progress.json"
+    },
+    {
+      "sentenceId": "zeon3bou6-progress-example-4",
+      "sentence": "我見到你最近有進步，好掂！",
+      "jyutping": "ngo5 gin3 dou3 nei5 zeoi3 gan6 jau5 zeon3 bou6, hou2 dim6!",
+      "meaning": "I see you have made progress recently, well done!",
+      "sourceWordId": "zeon3bou6-progress",
+      "sourceWord": "進步",
+      "sourceWordJyutping": "zeon3 bou6",
+      "sourceWordMeaning": "progress",
+      "tags": [
+        "progress",
+        "improvement",
+        "results",
+        "skills",
+        "learning",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/zeon3bou6-progress.json"
+    },
+    {
+      "sentenceId": "gin3ji3-suggestion-example-1",
+      "sentence": "我有啲建議想同你講。",
+      "jyutping": "ngo5 jau5 di1 gin3 ji3 soeng2 tung4 nei5 gong2.",
+      "meaning": "I have some suggestions I want to tell you.",
+      "sourceWordId": "gin3ji3-suggestion",
+      "sourceWord": "建議",
+      "sourceWordJyutping": "gin3 ji3",
+      "sourceWordMeaning": "suggestion",
+      "tags": [
+        "suggestion",
+        "advice",
+        "feedback",
+        "polite expression",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gin3ji3-suggestion.json"
+    },
+    {
+      "sentenceId": "gin3ji3-suggestion-example-2",
+      "sentence": "你可唔可以俾啲建議我點做好啲？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bei2 di1 gin3 ji3 ngo5 dim2 zou6 hou2 di1?",
+      "meaning": "Can you give me some suggestions on how to do better?",
+      "sourceWordId": "gin3ji3-suggestion",
+      "sourceWord": "建議",
+      "sourceWordJyutping": "gin3 ji3",
+      "sourceWordMeaning": "suggestion",
+      "tags": [
+        "suggestion",
+        "advice",
+        "feedback",
+        "polite expression",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gin3ji3-suggestion.json"
+    },
+    {
+      "sentenceId": "gin3ji3-suggestion-example-3",
+      "sentence": "建議你試下換另一種方法。",
+      "jyutping": "gin3 ji3 nei5 si3 haa5 wun6 ling6 jat1 zung2 fong1 faat3.",
+      "meaning": "I suggest you try a different method.",
+      "sourceWordId": "gin3ji3-suggestion",
+      "sourceWord": "建議",
+      "sourceWordJyutping": "gin3 ji3",
+      "sourceWordMeaning": "suggestion",
+      "tags": [
+        "suggestion",
+        "advice",
+        "feedback",
+        "polite expression",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gin3ji3-suggestion.json"
+    },
+    {
+      "sentenceId": "gin3ji3-suggestion-example-4",
+      "sentence": "大家有冇乜建議可以改善呢個計劃？",
+      "jyutping": "daai6 gaa1 jau5 mou5 mat1 gin3 ji3 ho2 ji5 goi2 sin6 ni1 go3 gai3 waak6?",
+      "meaning": "Does anyone have any suggestions to improve this plan?",
+      "sourceWordId": "gin3ji3-suggestion",
+      "sourceWord": "建議",
+      "sourceWordJyutping": "gin3 ji3",
+      "sourceWordMeaning": "suggestion",
+      "tags": [
+        "suggestion",
+        "advice",
+        "feedback",
+        "polite expression",
+        "communication",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/gin3ji3-suggestion.json"
+    },
+    {
+      "sentenceId": "goi2sin6-to-improve-fix-up-example-1",
+      "sentence": "我哋需要改善呢個系統嘅效率。",
+      "jyutping": "ngo5 dei6 seoi1 jiu3 goi2 sin6 ni1 go3 hai6 tung2 ge3 haau6 luk6.",
+      "meaning": "We need to improve the efficiency of this system.",
+      "sourceWordId": "goi2sin6-to-improve-fix-up",
+      "sourceWord": "改善",
+      "sourceWordJyutping": "goi2 sin6",
+      "sourceWordMeaning": "to improve / fix up",
+      "tags": [
+        "feedback",
+        "improvement",
+        "self-development",
+        "quality enhancement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/goi2sin6-to-improve-fix-up.json"
+    },
+    {
+      "sentenceId": "goi2sin6-to-improve-fix-up-example-2",
+      "sentence": "老師建議我改善我嘅發音。",
+      "jyutping": "lou5 si1 gin3 ji5 ngo5 goi2 sin6 ngo5 ge3 faat3 jam1.",
+      "meaning": "The teacher suggested that I improve my pronunciation.",
+      "sourceWordId": "goi2sin6-to-improve-fix-up",
+      "sourceWord": "改善",
+      "sourceWordJyutping": "goi2 sin6",
+      "sourceWordMeaning": "to improve / fix up",
+      "tags": [
+        "feedback",
+        "improvement",
+        "self-development",
+        "quality enhancement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/goi2sin6-to-improve-fix-up.json"
+    },
+    {
+      "sentenceId": "goi2sin6-to-improve-fix-up-example-3",
+      "sentence": "公司投入咗好多資源去改善客戶服務。",
+      "jyutping": "gung1 si1 tau4 jap6 zo2 hou2 do1 zi1 jyun4 heoi3 goi2 sin6 haak3 wu6 fuk6 mou6.",
+      "meaning": "The company invested a lot of resources to improve customer service.",
+      "sourceWordId": "goi2sin6-to-improve-fix-up",
+      "sourceWord": "改善",
+      "sourceWordJyutping": "goi2 sin6",
+      "sourceWordMeaning": "to improve / fix up",
+      "tags": [
+        "feedback",
+        "improvement",
+        "self-development",
+        "quality enhancement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/goi2sin6-to-improve-fix-up.json"
+    },
+    {
+      "sentenceId": "goi2sin6-to-improve-fix-up-example-4",
+      "sentence": "佢經常搵方法改善自己嘅工作態度。",
+      "jyutping": "keoi5 ging1 soeng4 wan2 fong1 faat3 goi2 sin6 zi6 gei2 ge3 gung1 zok3 taai3 dou6.",
+      "meaning": "He often looks for ways to improve his work attitude.",
+      "sourceWordId": "goi2sin6-to-improve-fix-up",
+      "sourceWord": "改善",
+      "sourceWordJyutping": "goi2 sin6",
+      "sourceWordMeaning": "to improve / fix up",
+      "tags": [
+        "feedback",
+        "improvement",
+        "self-development",
+        "quality enhancement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/goi2sin6-to-improve-fix-up.json"
+    },
+    {
+      "sentenceId": "zou6dak1m4co3-did-pretty-well-example-1",
+      "sentence": "你今次報告做得唔錯，繼續努力呀！",
+      "jyutping": "nei5 gam1 ci3 bou3 gou3 zou6 dak1 m4 co3, gai3 zuk6 nou5 lik6 aa3!",
+      "meaning": "You did pretty well on this report, keep up the good work!",
+      "sourceWordId": "zou6dak1m4co3-did-pretty-well",
+      "sourceWord": "做得唔錯",
+      "sourceWordJyutping": "zou6 dak1 m4 co3",
+      "sourceWordMeaning": "did pretty well",
+      "tags": [
+        "feedback",
+        "praise",
+        "positive reinforcement",
+        "performance",
+        "encouragement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zou6dak1m4co3-did-pretty-well.json"
+    },
+    {
+      "sentenceId": "zou6dak1m4co3-did-pretty-well-example-2",
+      "sentence": "雖然唔係完美，但你做得唔錯，唔好灰心。",
+      "jyutping": "seoi1 jin4 m4 hai6 jyun4 mei5, daan6 nei5 zou6 dak1 m4 co3, m4 hou2 fui1 sam1.",
+      "meaning": "Although it’s not perfect, you did pretty well, don’t be discouraged.",
+      "sourceWordId": "zou6dak1m4co3-did-pretty-well",
+      "sourceWord": "做得唔錯",
+      "sourceWordJyutping": "zou6 dak1 m4 co3",
+      "sourceWordMeaning": "did pretty well",
+      "tags": [
+        "feedback",
+        "praise",
+        "positive reinforcement",
+        "performance",
+        "encouragement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zou6dak1m4co3-did-pretty-well.json"
+    },
+    {
+      "sentenceId": "zou6dak1m4co3-did-pretty-well-example-3",
+      "sentence": "學生答問題做得唔錯，老師好滿意。",
+      "jyutping": "hok6 saang1 daap3 man6 tai4 zou6 dak1 m4 co3, lou5 si1 hou2 mun5 ji6.",
+      "meaning": "The student did pretty well answering the questions; the teacher was very satisfied.",
+      "sourceWordId": "zou6dak1m4co3-did-pretty-well",
+      "sourceWord": "做得唔錯",
+      "sourceWordJyutping": "zou6 dak1 m4 co3",
+      "sourceWordMeaning": "did pretty well",
+      "tags": [
+        "feedback",
+        "praise",
+        "positive reinforcement",
+        "performance",
+        "encouragement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zou6dak1m4co3-did-pretty-well.json"
+    },
+    {
+      "sentenceId": "zou6dak1m4co3-did-pretty-well-example-4",
+      "sentence": "呢次演講你準備得好充分，表現做得唔錯。",
+      "jyutping": "ni1 ci3 jin2 gong2 nei5 zeon2 bei6 dak1 hou2 cung1 fan6, biu2 jin2 zou6 dak1 m4 co3.",
+      "meaning": "You prepared well for this speech, your performance was pretty good.",
+      "sourceWordId": "zou6dak1m4co3-did-pretty-well",
+      "sourceWord": "做得唔錯",
+      "sourceWordJyutping": "zou6 dak1 m4 co3",
+      "sourceWordMeaning": "did pretty well",
+      "tags": [
+        "feedback",
+        "praise",
+        "positive reinforcement",
+        "performance",
+        "encouragement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/zou6dak1m4co3-did-pretty-well.json"
+    },
+    {
+      "sentenceId": "jau5zeon3bou6-youve-improved-example-1",
+      "sentence": "你最近畫畫有進步喎，繼續加油！",
+      "jyutping": "nei5 zeoi3 gan6 waak6 waa2 jau5 zeon3 bou6 wo3, gai3 zuk6 gaa1 jau2!",
+      "meaning": "You’ve improved in your drawing recently, keep it up!",
+      "sourceWordId": "jau5zeon3bou6-youve-improved",
+      "sourceWord": "有進步",
+      "sourceWordJyutping": "jau5 zeon3 bou6",
+      "sourceWordMeaning": "you’ve improved",
+      "tags": [
+        "feedback",
+        "encouragement",
+        "progress",
+        "skill improvement",
+        "positive reinforcement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jau5zeon3bou6-youve-improved.json"
+    },
+    {
+      "sentenceId": "jau5zeon3bou6-youve-improved-example-2",
+      "sentence": "老師話我英文有進步，我好開心。",
+      "jyutping": "lou5 si1 waa6 ngo5 jing1 man4 jau5 zeon3 bou6, ngo5 hou2 hoi1 sam1.",
+      "meaning": "The teacher said my English has improved, I’m very happy.",
+      "sourceWordId": "jau5zeon3bou6-youve-improved",
+      "sourceWord": "有進步",
+      "sourceWordJyutping": "jau5 zeon3 bou6",
+      "sourceWordMeaning": "you’ve improved",
+      "tags": [
+        "feedback",
+        "encouragement",
+        "progress",
+        "skill improvement",
+        "positive reinforcement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jau5zeon3bou6-youve-improved.json"
+    },
+    {
+      "sentenceId": "jau5zeon3bou6-youve-improved-example-3",
+      "sentence": "雖然仲有啲錯誤，但你嘅發音有進步。",
+      "jyutping": "seoi1 jyun4 zung6 jau5 di1 co3 ng6, daan6 nei5 ge3 faat3 jam1 jau5 zeon3 bou6.",
+      "meaning": "Although there are still some mistakes, your pronunciation has improved.",
+      "sourceWordId": "jau5zeon3bou6-youve-improved",
+      "sourceWord": "有進步",
+      "sourceWordJyutping": "jau5 zeon3 bou6",
+      "sourceWordMeaning": "you’ve improved",
+      "tags": [
+        "feedback",
+        "encouragement",
+        "progress",
+        "skill improvement",
+        "positive reinforcement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jau5zeon3bou6-youve-improved.json"
+    },
+    {
+      "sentenceId": "jau5zeon3bou6-youve-improved-example-4",
+      "sentence": "你嘅努力有進步，繼續保持呢個態度。",
+      "jyutping": "nei5 ge3 nou5 lik6 jau5 zeon3 bou6, gai3 zuk6 bou2 ci4 ni1 go3 taai3 dou6.",
+      "meaning": "Your efforts have improved, keep maintaining this attitude.",
+      "sourceWordId": "jau5zeon3bou6-youve-improved",
+      "sourceWord": "有進步",
+      "sourceWordJyutping": "jau5 zeon3 bou6",
+      "sourceWordMeaning": "you’ve improved",
+      "tags": [
+        "feedback",
+        "encouragement",
+        "progress",
+        "skill improvement",
+        "positive reinforcement",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/jau5zeon3bou6-youve-improved.json"
+    },
+    {
+      "sentenceId": "haa6ci3zoi3zou6hou2di1-do-better-next-time-example-1",
+      "sentence": "你呢次做得唔錯，下次再做好啲啦。",
+      "jyutping": "nei5 ni1 ci3 zou6 dak1 m4 co3, haa6 ci3 zoi3 zou6 hou2 di1 laa1.",
+      "meaning": "You did not bad this time, do better next time.",
+      "sourceWordId": "haa6ci3zoi3zou6hou2di1-do-better-next-time",
+      "sourceWord": "下次再做好啲",
+      "sourceWordJyutping": "haa6 ci3 zoi3 zou6 hou2 di1",
+      "sourceWordMeaning": "do better next time",
+      "tags": [
+        "encouragement",
+        "constructive feedback",
+        "improvement",
+        "spoken Cantonese",
+        "motivation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haa6ci3zoi3zou6hou2di1-do-better-next-time.json"
+    },
+    {
+      "sentenceId": "haa6ci3zoi3zou6hou2di1-do-better-next-time-example-2",
+      "sentence": "考試唔夠理想，落次下次再做好啲啦。",
+      "jyutping": "haau2 si3 m4 gau3 lei5 soeng2, lok6 ci3 haa6 ci3 zoi3 zou6 hou2 di1 laa1.",
+      "meaning": "The exam result isn’t ideal, do better next time.",
+      "sourceWordId": "haa6ci3zoi3zou6hou2di1-do-better-next-time",
+      "sourceWord": "下次再做好啲",
+      "sourceWordJyutping": "haa6 ci3 zoi3 zou6 hou2 di1",
+      "sourceWordMeaning": "do better next time",
+      "tags": [
+        "encouragement",
+        "constructive feedback",
+        "improvement",
+        "spoken Cantonese",
+        "motivation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haa6ci3zoi3zou6hou2di1-do-better-next-time.json"
+    },
+    {
+      "sentenceId": "haa6ci3zoi3zou6hou2di1-do-better-next-time-example-3",
+      "sentence": "我知道你今次失敗，但係下次再做好啲就得。",
+      "jyutping": "ngo5 zi1 dou3 nei5 gam1 ci3 sat1 baai6, daan6 hai6 haa6 ci3 zoi3 zou6 hou2 di1 zau6 dak1.",
+      "meaning": "I know you failed this time, but it’s okay if you do better next time.",
+      "sourceWordId": "haa6ci3zoi3zou6hou2di1-do-better-next-time",
+      "sourceWord": "下次再做好啲",
+      "sourceWordJyutping": "haa6 ci3 zoi3 zou6 hou2 di1",
+      "sourceWordMeaning": "do better next time",
+      "tags": [
+        "encouragement",
+        "constructive feedback",
+        "improvement",
+        "spoken Cantonese",
+        "motivation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haa6ci3zoi3zou6hou2di1-do-better-next-time.json"
+    },
+    {
+      "sentenceId": "haa6ci3zoi3zou6hou2di1-do-better-next-time-example-4",
+      "sentence": "老板話佢要下次再做好啲，唔好再出錯。",
+      "jyutping": "lou5 baan2 waa6 keoi5 jiu3 haa6 ci3 zoi3 zou6 hou2 di1, m4 hou2 zoi6 ceot1 co3.",
+      "meaning": "The boss said he wants us to do better next time and not make mistakes again.",
+      "sourceWordId": "haa6ci3zoi3zou6hou2di1-do-better-next-time",
+      "sourceWord": "下次再做好啲",
+      "sourceWordJyutping": "haa6 ci3 zoi3 zou6 hou2 di1",
+      "sourceWordMeaning": "do better next time",
+      "tags": [
+        "encouragement",
+        "constructive feedback",
+        "improvement",
+        "spoken Cantonese",
+        "motivation",
+        "level-5"
+      ],
+      "sourceFile": "r2-backup/words/haa6ci3zoi3zou6hou2di1-do-better-next-time.json"
+    }
+  ],
+  "missingWordFiles": []
+}

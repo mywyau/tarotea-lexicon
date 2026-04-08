@@ -1,0 +1,4531 @@
+{
+  "level": 9,
+  "title": "Level 9 – Media, society, and abstract discussion",
+  "totalWords": 60,
+  "totalSentences": 238,
+  "items": [
+    {
+      "sentenceId": "san1man4-news-example-1",
+      "sentence": "我每日都會睇新聞。",
+      "jyutping": "ngo5 mui5 jat6 dou1 wui5 tai2 san1 man4.",
+      "meaning": "I watch the news every day.",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "san1man4-news-example-2",
+      "sentence": "你聽咗今日嘅新聞未？",
+      "jyutping": "nei5 teng1 zo2 gam1 jat6 ge3 san1 man4 mei6?",
+      "meaning": "Have you heard today's news yet?",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "san1man4-news-example-3",
+      "sentence": "電視新聞成日報道本地消息。",
+      "jyutping": "din6 si6 san1 man4 sing4 jat6 bou3 dou6 bun2 dei6 siu1 sik1.",
+      "meaning": "TV news often reports local updates.",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "san1man4-news-example-4",
+      "sentence": "呢單新聞好多人都好關心。",
+      "jyutping": "ni1 daan1 san1 man4 hou2 do1 jan4 dou1 hou2 gwaan1 sam1.",
+      "meaning": "A lot of people are concerned about this news item.",
+      "sourceWordId": "san1man4-news",
+      "sourceWord": "新聞",
+      "sourceWordJyutping": "san1 man4",
+      "sourceWordMeaning": "news",
+      "tags": [
+        "news",
+        "media",
+        "daily-life",
+        "neutral",
+        "common-noun",
+        "beginner",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/san1man4-news.json"
+    },
+    {
+      "sentenceId": "bou3dou6-to-report-report-coverage-example-1",
+      "sentence": "呢間電視台今晚會有現場報道。",
+      "jyutping": "ni1 gaan1 din6 si6 toi4 gam1 maan5 wui5 jau5 jin6 coeng4 bou3 dou6.",
+      "meaning": "This TV station will have live on-site coverage tonight.",
+      "sourceWordId": "bou3dou6-to-report-report-coverage",
+      "sourceWord": "報道",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "to report; report; coverage",
+      "tags": [
+        "media",
+        "news",
+        "communication",
+        "journalism",
+        "current affairs",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-to-report-report-coverage.json"
+    },
+    {
+      "sentenceId": "bou3dou6-to-report-report-coverage-example-2",
+      "sentence": "記者喺現場即時報道最新消息。",
+      "jyutping": "gei3 ze2 hai2 jin6 coeng4 zik1 si4 bou3 dou6 zeoi3 san1 siu1 sik1.",
+      "meaning": "The reporter is giving live updates from the scene.",
+      "sourceWordId": "bou3dou6-to-report-report-coverage",
+      "sourceWord": "報道",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "to report; report; coverage",
+      "tags": [
+        "media",
+        "news",
+        "communication",
+        "journalism",
+        "current affairs",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-to-report-report-coverage.json"
+    },
+    {
+      "sentenceId": "bou3dou6-to-report-report-coverage-example-3",
+      "sentence": "呢篇新聞報道好詳細，冇遺漏任何重要資料。",
+      "jyutping": "ni1 pin1 san1 man4 bou3 dou6 hou2 coeng4 sai2, mou5 wai4 lau6 jam6 ho4 zung6 jiu3 zi1 liu2.",
+      "meaning": "This news report was very detailed and did not leave out any important information.",
+      "sourceWordId": "bou3dou6-to-report-report-coverage",
+      "sourceWord": "報道",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "to report; report; coverage",
+      "tags": [
+        "media",
+        "news",
+        "communication",
+        "journalism",
+        "current affairs",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-to-report-report-coverage.json"
+    },
+    {
+      "sentenceId": "bou3dou6-to-report-report-coverage-example-4",
+      "sentence": "網上平台會報道今日嘅政治發展。",
+      "jyutping": "mong5 soeng6 ping4 toi4 wui5 bou3 dou6 gam1 jat6 ge3 zing3 zi6 faat3 zin2.",
+      "meaning": "The online platform will report on today's political developments.",
+      "sourceWordId": "bou3dou6-to-report-report-coverage",
+      "sourceWord": "報道",
+      "sourceWordJyutping": "bou3 dou6",
+      "sourceWordMeaning": "to report; report; coverage",
+      "tags": [
+        "media",
+        "news",
+        "communication",
+        "journalism",
+        "current affairs",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3dou6-to-report-report-coverage.json"
+    },
+    {
+      "sentenceId": "siu1sik1-news-information-example-1",
+      "sentence": "你有冇啲新消息？",
+      "jyutping": "nei5 jau5 mou5 di1 san1 siu1 sik1?",
+      "meaning": "Do you have any new news?",
+      "sourceWordId": "siu1sik1-news-information",
+      "sourceWord": "消息",
+      "sourceWordJyutping": "siu1 sik1",
+      "sourceWordMeaning": "news / information",
+      "tags": [
+        "news",
+        "information",
+        "conversation",
+        "media",
+        "updates",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/siu1sik1-news-information.json"
+    },
+    {
+      "sentenceId": "siu1sik1-news-information-example-2",
+      "sentence": "呢單嘢嘅消息好快就傳開咗。",
+      "jyutping": "ni1 daan1 je5 ge3 siu1 sik1 hou2 faai3 zau6 cyun4 hoi1 zo2.",
+      "meaning": "The news about this matter spread quickly.",
+      "sourceWordId": "siu1sik1-news-information",
+      "sourceWord": "消息",
+      "sourceWordJyutping": "siu1 sik1",
+      "sourceWordMeaning": "news / information",
+      "tags": [
+        "news",
+        "information",
+        "conversation",
+        "media",
+        "updates",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/siu1sik1-news-information.json"
+    },
+    {
+      "sentenceId": "siu1sik1-news-information-example-3",
+      "sentence": "我哋等緊最新嘅消息先。",
+      "jyutping": "ngo5 dei6 dang2 gan2 zeoi3 san1 ge3 siu1 sik1 sin1.",
+      "meaning": "We are waiting for the latest news first.",
+      "sourceWordId": "siu1sik1-news-information",
+      "sourceWord": "消息",
+      "sourceWordJyutping": "siu1 sik1",
+      "sourceWordMeaning": "news / information",
+      "tags": [
+        "news",
+        "information",
+        "conversation",
+        "media",
+        "updates",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/siu1sik1-news-information.json"
+    },
+    {
+      "sentenceId": "siu1sik1-news-information-example-4",
+      "sentence": "收到呢啲消息之後，我哋要即刻反應。",
+      "jyutping": "sau1 dou3 ni1 di1 siu1 sik1 zi1 hau6, ngo5 dei6 jiu3 zik1 hak1 faan2 jing3.",
+      "meaning": "After receiving this information, we need to respond immediately.",
+      "sourceWordId": "siu1sik1-news-information",
+      "sourceWord": "消息",
+      "sourceWordJyutping": "siu1 sik1",
+      "sourceWordMeaning": "news / information",
+      "tags": [
+        "news",
+        "information",
+        "conversation",
+        "media",
+        "updates",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/siu1sik1-news-information.json"
+    },
+    {
+      "sentenceId": "fong2man6-interview-example-1",
+      "sentence": "記者今日會訪問呢位明星。",
+      "jyutping": "gei3 ze2 gam1 jat6 wui5 fong2 man6 ni1 wai2 ming4 sing1.",
+      "meaning": "The reporter will interview this celebrity today.",
+      "sourceWordId": "fong2man6-interview",
+      "sourceWord": "訪問",
+      "sourceWordJyutping": "fong2 man6",
+      "sourceWordMeaning": "interview",
+      "tags": [
+        "media",
+        "interview",
+        "conversation",
+        "news",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong2man6-interview.json"
+    },
+    {
+      "sentenceId": "fong2man6-interview-example-2",
+      "sentence": "我哋下星期有一個重要嘅訪問。",
+      "jyutping": "ngo5 dei6 haa6 sing1 kei4 jau5 jat1 go3 zung6 jiu3 ge3 fong2 man6.",
+      "meaning": "We have an important interview next week.",
+      "sourceWordId": "fong2man6-interview",
+      "sourceWord": "訪問",
+      "sourceWordJyutping": "fong2 man6",
+      "sourceWordMeaning": "interview",
+      "tags": [
+        "media",
+        "interview",
+        "conversation",
+        "news",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong2man6-interview.json"
+    },
+    {
+      "sentenceId": "fong2man6-interview-example-3",
+      "sentence": "你準備好咗去訪問條件未？",
+      "jyutping": "nei5 zeon2 bei6 hou2 zo2 heoi3 fong2 man6 tiu4 gin2 mei6?",
+      "meaning": "Are you ready to attend the interview?",
+      "sourceWordId": "fong2man6-interview",
+      "sourceWord": "訪問",
+      "sourceWordJyutping": "fong2 man6",
+      "sourceWordMeaning": "interview",
+      "tags": [
+        "media",
+        "interview",
+        "conversation",
+        "news",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong2man6-interview.json"
+    },
+    {
+      "sentenceId": "fong2man6-interview-example-4",
+      "sentence": "佢接受咗電視台嘅訪問。",
+      "jyutping": "keoi5 zip3 sau6 zo2 din6 si6 toi4 ge3 fong2 man6.",
+      "meaning": "He accepted the interview from the TV station.",
+      "sourceWordId": "fong2man6-interview",
+      "sourceWord": "訪問",
+      "sourceWordJyutping": "fong2 man6",
+      "sourceWordMeaning": "interview",
+      "tags": [
+        "media",
+        "interview",
+        "conversation",
+        "news",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong2man6-interview.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-1",
+      "sentence": "報紙頭版有一篇關於選舉嘅評論。",
+      "jyutping": "bou3zi2 tau4 baan2 jau5 jat1 zeon3 gwun1 ceoi3 gun1 ge3 ping4 leon6.",
+      "meaning": "There is a commentary on the election on the front page of the newspaper.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-2",
+      "sentence": "佢喺電台做時事評論。",
+      "jyutping": "keoi5 hai2 din6 toi4 zou6 si4 si6 ping4 leon6.",
+      "meaning": "He does current affairs commentary on the radio.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-3",
+      "sentence": "呢篇評論寫得幾中肯。",
+      "jyutping": "ni1 pin1 ping4 leon6 se2 dak1 gei2 zung1 hang2.",
+      "meaning": "This commentary is written quite objectively.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "ping4leon6-commentary-example-4",
+      "sentence": "我想睇多啲專業評論先決定買唔買。",
+      "jyutping": "ngo5 soeng2 tai2 do1 di1 zyun1 jip6 ping4 leon6 sin1 kyut3 ding6 maai5 m4 maai5.",
+      "meaning": "I want to read more professional commentary before deciding whether to buy it.",
+      "sourceWordId": "ping4leon6-commentary",
+      "sourceWord": "評論",
+      "sourceWordJyutping": "ping4 leon6",
+      "sourceWordMeaning": "commentary",
+      "tags": [
+        "news and media",
+        "formal",
+        "writing",
+        "reporting",
+        "academic",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/ping4leon6-commentary.json"
+    },
+    {
+      "sentenceId": "gan1geoi3-according-to-example-1",
+      "sentence": "根據天氣預報，明天會落雨。",
+      "jyutping": "gan1 geoi3 tin1 hei3 jyu6 bou3, ming4 tin1 wui5 lok6 jyu5.",
+      "meaning": "According to the weather forecast, it will rain tomorrow.",
+      "sourceWordId": "gan1geoi3-according-to",
+      "sourceWord": "根據",
+      "sourceWordJyutping": "gan1 geoi3",
+      "sourceWordMeaning": "according to",
+      "tags": [
+        "formal",
+        "news",
+        "source-attribution",
+        "reporting",
+        "connector",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gan1geoi3-according-to.json"
+    },
+    {
+      "sentenceId": "gan1geoi3-according-to-example-2",
+      "sentence": "根據警方消息，案情有新進展。",
+      "jyutping": "gan1 geoi3 ging2 fong1 siu1 sik1, on3 cing4 jau5 san1 zeon3 zin2.",
+      "meaning": "According to police news, there are new developments in the case.",
+      "sourceWordId": "gan1geoi3-according-to",
+      "sourceWord": "根據",
+      "sourceWordJyutping": "gan1 geoi3",
+      "sourceWordMeaning": "according to",
+      "tags": [
+        "formal",
+        "news",
+        "source-attribution",
+        "reporting",
+        "connector",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gan1geoi3-according-to.json"
+    },
+    {
+      "sentenceId": "gan1geoi3-according-to-example-3",
+      "sentence": "根據報告，經濟狀況正在改善。",
+      "jyutping": "gan1 geoi3 bou3 gou3, ging1 zai3 zong6 fong3 zing3 zoi6 goi2 sin6.",
+      "meaning": "According to the report, the economic situation is improving.",
+      "sourceWordId": "gan1geoi3-according-to",
+      "sourceWord": "根據",
+      "sourceWordJyutping": "gan1 geoi3",
+      "sourceWordMeaning": "according to",
+      "tags": [
+        "formal",
+        "news",
+        "source-attribution",
+        "reporting",
+        "connector",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gan1geoi3-according-to.json"
+    },
+    {
+      "sentenceId": "gan1geoi3-according-to-example-4",
+      "sentence": "根據專家的意見，我哋應該改變策略。",
+      "jyutping": "gan1 geoi3 zyun1 gaa1 dik1 ji3 gin3, ngo5 dei6 jing1 goi1 goi2 bin3 caak3 loek6.",
+      "meaning": "According to the experts' opinions, we should change our strategy.",
+      "sourceWordId": "gan1geoi3-according-to",
+      "sourceWord": "根據",
+      "sourceWordJyutping": "gan1 geoi3",
+      "sourceWordMeaning": "according to",
+      "tags": [
+        "formal",
+        "news",
+        "source-attribution",
+        "reporting",
+        "connector",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gan1geoi3-according-to.json"
+    },
+    {
+      "sentenceId": "bou3gou3-report-example-1",
+      "sentence": "政府今日會發佈最新嘅環境報告。",
+      "jyutping": "zing3 fu2 gam1 jat6 wui5 faat3 bou3 zeoi3 san1 ge3 waan4 ging2 bou3 gou3.",
+      "meaning": "The government will release the latest environmental report today.",
+      "sourceWordId": "bou3gou3-report",
+      "sourceWord": "報告",
+      "sourceWordJyutping": "bou3 gou3",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "formal",
+        "documents",
+        "media",
+        "professional",
+        "academic",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3gou3-report.json"
+    },
+    {
+      "sentenceId": "bou3gou3-report-example-2",
+      "sentence": "你睇咗嗰份財務報告未？",
+      "jyutping": "nei5 tai2 zo2 go2 fan6 coi4 mou6 bou3 gou3 mei6?",
+      "meaning": "Have you read that financial report yet?",
+      "sourceWordId": "bou3gou3-report",
+      "sourceWord": "報告",
+      "sourceWordJyutping": "bou3 gou3",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "formal",
+        "documents",
+        "media",
+        "professional",
+        "academic",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3gou3-report.json"
+    },
+    {
+      "sentenceId": "bou3gou3-report-example-3",
+      "sentence": "呢份市場報告分析咗銷售趨勢。",
+      "jyutping": "ni1 fan6 si5 coeng4 bou3 gou3 fan1 sik1 zo2 siu1 sau6 ceoi1 si3.",
+      "meaning": "This market report analyzes sales trends.",
+      "sourceWordId": "bou3gou3-report",
+      "sourceWord": "報告",
+      "sourceWordJyutping": "bou3 gou3",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "formal",
+        "documents",
+        "media",
+        "professional",
+        "academic",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3gou3-report.json"
+    },
+    {
+      "sentenceId": "bou3gou3-report-example-4",
+      "sentence": "員工要提交季度工作報告。",
+      "jyutping": "jyun4 gung1 jiu3 tai4 gaau1 gwai3 dou6 gung1 zok3 bou3 gou3.",
+      "meaning": "Employees need to submit quarterly work reports.",
+      "sourceWordId": "bou3gou3-report",
+      "sourceWord": "報告",
+      "sourceWordJyutping": "bou3 gou3",
+      "sourceWordMeaning": "report",
+      "tags": [
+        "formal",
+        "documents",
+        "media",
+        "professional",
+        "academic",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bou3gou3-report.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-1",
+      "sentence": "我今日喺網上睇新聞。",
+      "jyutping": "ngo5 gam1 jat6 hai2 mong5 soeng6 tai2 san1 man4.",
+      "meaning": "I read the news online today.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-2",
+      "sentence": "呢間公司有網上訂票服務。",
+      "jyutping": "ni1 gaan1 gung1 si1 jau5 mong5 soeng6 deng6 piu3 fuk6 mou6.",
+      "meaning": "This company has online ticket booking service.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-3",
+      "sentence": "老師叫我哋網上交功課。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 mong5 soeng6 gaau1 gung1 fo3.",
+      "meaning": "The teacher asked us to submit homework online.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "mong5soeng6-online-example-4",
+      "sentence": "佢成日喺網上買嘢。",
+      "jyutping": "keoi5 sing4 jat6 hai2 mong5 soeng6 maai5 je5.",
+      "meaning": "He often buys things online.",
+      "sourceWordId": "mong5soeng6-online",
+      "sourceWord": "網上",
+      "sourceWordJyutping": "mong5 soeng6",
+      "sourceWordMeaning": "online",
+      "tags": [
+        "media",
+        "internet",
+        "digital",
+        "common",
+        "basic",
+        "news",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/mong5soeng6-online.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui5tai4-social-media-example-1",
+      "sentence": "社交媒體對年輕人嘅日常生活影響好大。",
+      "jyutping": "se5 gaau1 mui5 tai4 deoi3 nin4 heng1 jan4 ge3 jat6 soeng4 sang1 wut6 jing2 hoeng2 hou2 daai6.",
+      "meaning": "Social media has a great impact on youngsters' daily lives.",
+      "sourceWordId": "se5gaau1mui5tai4-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui5 tai4",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "advanced",
+        "news_and_media",
+        "digital_communication",
+        "modern_life",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui5tai4-social-media.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui5tai4-social-media-example-2",
+      "sentence": "依家好多企業都會利用社交媒體做宣傳。",
+      "jyutping": "ji1 gaa1 hou2 do1 kei5 jip6 dou1 wui5 lei6 jung6 se5 gaau1 mui5 tai4 zou6 syun1 cyun4.",
+      "meaning": "Nowadays many companies use social media for promotion.",
+      "sourceWordId": "se5gaau1mui5tai4-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui5 tai4",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "advanced",
+        "news_and_media",
+        "digital_communication",
+        "modern_life",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui5tai4-social-media.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui5tai4-social-media-example-3",
+      "sentence": "社交媒體可以幫助人哋建立同朋友嘅聯繫。",
+      "jyutping": "se5 gaau1 mui5 tai4 ho2 ji5 bong1 zo6 jan4 dei6 gin3 laap6 tung4 pang4 jau5 ge3 lyun4 hai6.",
+      "meaning": "Social media can help people build connections with friends.",
+      "sourceWordId": "se5gaau1mui5tai4-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui5 tai4",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "advanced",
+        "news_and_media",
+        "digital_communication",
+        "modern_life",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui5tai4-social-media.json"
+    },
+    {
+      "sentenceId": "se5gaau1mui5tai4-social-media-example-4",
+      "sentence": "佢喺社交媒體度分享自己嘅旅行經歷。",
+      "jyutping": "keoi5 hai2 se5 gaau1 mui5 tai4 dou6 fan1 hoeng2 zi6 gei2 ge3 leoi5 hang4 ging1 lik6.",
+      "meaning": "He shared his travel experiences on social media.",
+      "sourceWordId": "se5gaau1mui5tai4-social-media",
+      "sourceWord": "社交媒體",
+      "sourceWordJyutping": "se5 gaau1 mui5 tai4",
+      "sourceWordMeaning": "social media",
+      "tags": [
+        "advanced",
+        "news_and_media",
+        "digital_communication",
+        "modern_life",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5gaau1mui5tai4-social-media.json"
+    },
+    {
+      "sentenceId": "se5wui6-society-example-1",
+      "sentence": "社會嘅變遷中，人哋嘅價值觀都會改變。",
+      "jyutping": "se5 wui6 ge3 bin3 cin1 zung1, jan4 dei6 ge3 gaa3 zik6 gwaan1 dou1 wui5 goi2 bin3.",
+      "meaning": "In society's changes, people's values also change.",
+      "sourceWordId": "se5wui6-society",
+      "sourceWord": "社會",
+      "sourceWordJyutping": "se5 wui6",
+      "sourceWordMeaning": "society",
+      "tags": [
+        "advanced",
+        "society",
+        "social structures",
+        "culture",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5wui6-society.json"
+    },
+    {
+      "sentenceId": "se5wui6-society-example-2",
+      "sentence": "政府應該重視社會嘅弱勢群體。",
+      "jyutping": "zing3 fu2 jing1 goi1 cung4 si6 se5 wui6 ge3 joek6 sai3 kwan4 tai2.",
+      "meaning": "The government should pay attention to the vulnerable groups in society.",
+      "sourceWordId": "se5wui6-society",
+      "sourceWord": "社會",
+      "sourceWordJyutping": "se5 wui6",
+      "sourceWordMeaning": "society",
+      "tags": [
+        "advanced",
+        "society",
+        "social structures",
+        "culture",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5wui6-society.json"
+    },
+    {
+      "sentenceId": "se5wui6-society-example-3",
+      "sentence": "依家嘅社會對環保愈嚟愈關注。",
+      "jyutping": "ji1 gaa1 ge3 se5 wui6 deoi3 waan4 bou2 jyu6 lai4 jyu6 gwaan1 zyu3.",
+      "meaning": "Today's society increasingly focuses on environmental protection.",
+      "sourceWordId": "se5wui6-society",
+      "sourceWord": "社會",
+      "sourceWordJyutping": "se5 wui6",
+      "sourceWordMeaning": "society",
+      "tags": [
+        "advanced",
+        "society",
+        "social structures",
+        "culture",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5wui6-society.json"
+    },
+    {
+      "sentenceId": "se5wui6-society-example-4",
+      "sentence": "年輕人係推動社會改變嘅重要力量。",
+      "jyutping": "nin4 hing1 jan4 hai6 teoi1 dung6 se5 wui6 goi2 bin3 ge3 zung6 jiu3 lik6 loeng6.",
+      "meaning": "Young people are an important force driving social change.",
+      "sourceWordId": "se5wui6-society",
+      "sourceWord": "社會",
+      "sourceWordJyutping": "se5 wui6",
+      "sourceWordMeaning": "society",
+      "tags": [
+        "advanced",
+        "society",
+        "social structures",
+        "culture",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/se5wui6-society.json"
+    },
+    {
+      "sentenceId": "man4faa3-culture-example-1",
+      "sentence": "我哋應該尊重唔同國家嘅文化。",
+      "jyutping": "ngo5 dei6 jing1 goi1 zyun1 zung6 m4 tung4 gwok3 gaa1 ge3 man4 faa3.",
+      "meaning": "We should respect the cultures of different countries.",
+      "sourceWordId": "man4faa3-culture",
+      "sourceWord": "文化",
+      "sourceWordJyutping": "man4 faa3",
+      "sourceWordMeaning": "culture",
+      "tags": [
+        "advanced",
+        "society",
+        "culture",
+        "expression",
+        "linguistics",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/man4faa3-culture.json"
+    },
+    {
+      "sentenceId": "man4faa3-culture-example-2",
+      "sentence": "現代嘅文化反映咗我哋嘅生活方式。",
+      "jyutping": "jin6 doi6 ge3 man4 faa3 faan2 jing6 zo2 ngo5 dei6 ge3 sang1 wut6 fong1 sik1.",
+      "meaning": "Modern culture reflects our lifestyle.",
+      "sourceWordId": "man4faa3-culture",
+      "sourceWord": "文化",
+      "sourceWordJyutping": "man4 faa3",
+      "sourceWordMeaning": "culture",
+      "tags": [
+        "advanced",
+        "society",
+        "culture",
+        "expression",
+        "linguistics",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/man4faa3-culture.json"
+    },
+    {
+      "sentenceId": "man4faa3-culture-example-3",
+      "sentence": "旅遊係了解另一種文化嘅好方法。",
+      "jyutping": "leoi5 jau4 hai6 liu5 gaai2 ling6 jat1 zung2 man4 faa3 ge3 hou2 fong1 faat3.",
+      "meaning": "Travel is a good way to understand another type of culture.",
+      "sourceWordId": "man4faa3-culture",
+      "sourceWord": "文化",
+      "sourceWordJyutping": "man4 faa3",
+      "sourceWordMeaning": "culture",
+      "tags": [
+        "advanced",
+        "society",
+        "culture",
+        "expression",
+        "linguistics",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/man4faa3-culture.json"
+    },
+    {
+      "sentenceId": "man4faa3-culture-example-4",
+      "sentence": "文化活動可以增進社區嘅團結。",
+      "jyutping": "man4 faa3 wut6 dung6 ho2 ji5 zang1 zeon3 se5 keoi1 ge3 tyun4 git3.",
+      "meaning": "Cultural activities can enhance community unity.",
+      "sourceWordId": "man4faa3-culture",
+      "sourceWord": "文化",
+      "sourceWordJyutping": "man4 faa3",
+      "sourceWordMeaning": "culture",
+      "tags": [
+        "advanced",
+        "society",
+        "culture",
+        "expression",
+        "linguistics",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/man4faa3-culture.json"
+    },
+    {
+      "sentenceId": "ging1zai3-economy-example-1",
+      "sentence": "經濟復甦之後，大家嘅生活都會好轉。",
+      "jyutping": "ging1 zai3 fuk6 sou1 zi1 hau6, daai6 gaa1 ge3 saang1 wut6 dou1 wui5 hou2 zyun2.",
+      "meaning": "After the economy recovers, everyone’s living conditions will improve.",
+      "sourceWordId": "ging1zai3-economy",
+      "sourceWord": "經濟",
+      "sourceWordJyutping": "ging1 zai3",
+      "sourceWordMeaning": "economy",
+      "tags": [
+        "advanced",
+        "noun",
+        "society",
+        "economy",
+        "finance",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ging1zai3-economy.json"
+    },
+    {
+      "sentenceId": "ging1zai3-economy-example-2",
+      "sentence": "銀行業係經濟發展嘅重要支柱。",
+      "jyutping": "ngan4 hong4 jip6 hai6 ging1 zai3 faat3 zin2 ge3 zung6 jiu3 zi1 zyu6.",
+      "meaning": "The banking sector is an important pillar of economic development.",
+      "sourceWordId": "ging1zai3-economy",
+      "sourceWord": "經濟",
+      "sourceWordJyutping": "ging1 zai3",
+      "sourceWordMeaning": "economy",
+      "tags": [
+        "advanced",
+        "noun",
+        "society",
+        "economy",
+        "finance",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ging1zai3-economy.json"
+    },
+    {
+      "sentenceId": "ging1zai3-economy-example-3",
+      "sentence": "當經濟低迷嘅時候，好多公司都會受到影響。",
+      "jyutping": "dong1 ging1 zai3 dai1 mai4 ge3 si4 hau6, hou2 do1 gung1 si1 dou1 wui5 sau6 dou3 jing2 hoeng2.",
+      "meaning": "When the economy is in a downturn, many companies are affected.",
+      "sourceWordId": "ging1zai3-economy",
+      "sourceWord": "經濟",
+      "sourceWordJyutping": "ging1 zai3",
+      "sourceWordMeaning": "economy",
+      "tags": [
+        "advanced",
+        "noun",
+        "society",
+        "economy",
+        "finance",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ging1zai3-economy.json"
+    },
+    {
+      "sentenceId": "ging1zai3-economy-example-4",
+      "sentence": "政府推出新政策刺激經濟增長。",
+      "jyutping": "zing3 fu2 ceot1 teoi1 san1 zing3 cak1 cik1 gik1 ging1 zai3 zang1 zoeng2.",
+      "meaning": "The government introduced new policies to stimulate economic growth.",
+      "sourceWordId": "ging1zai3-economy",
+      "sourceWord": "經濟",
+      "sourceWordJyutping": "ging1 zai3",
+      "sourceWordMeaning": "economy",
+      "tags": [
+        "advanced",
+        "noun",
+        "society",
+        "economy",
+        "finance",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ging1zai3-economy.json"
+    },
+    {
+      "sentenceId": "fo1gei1-technology-example-1",
+      "sentence": "而家嘅社會離唔開科技，好多嘢都靠佢運作。",
+      "jyutping": "ji4 gaa1 ge3 se5 wui6 lei4 m4 hoi1 fo1 gei1, hou2 do1 je5 dou1 haau1 keoi5 wan6 zok3.",
+      "meaning": "Nowadays society cannot live without technology; many things operate relying on it.",
+      "sourceWordId": "fo1gei1-technology",
+      "sourceWord": "科技",
+      "sourceWordJyutping": "fo1 gei1",
+      "sourceWordMeaning": "technology",
+      "tags": [
+        "advanced",
+        "society",
+        "technology",
+        "innovation",
+        "science",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fo1gei1-technology.json"
+    },
+    {
+      "sentenceId": "fo1gei1-technology-example-2",
+      "sentence": "公司啱啱投資咗一筆資金落喺新嘅科技產品上。",
+      "jyutping": "gung1 si1 aap1 aap1 tau4 zi1 zo2 jat1 bat1 zi1 gam1 lok6 hai2 san1 ge3 fo1 gei1 caan2 ban2 soeng6.",
+      "meaning": "The company just invested a sum of money in new technology products.",
+      "sourceWordId": "fo1gei1-technology",
+      "sourceWord": "科技",
+      "sourceWordJyutping": "fo1 gei1",
+      "sourceWordMeaning": "technology",
+      "tags": [
+        "advanced",
+        "society",
+        "technology",
+        "innovation",
+        "science",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fo1gei1-technology.json"
+    },
+    {
+      "sentenceId": "fo1gei1-technology-example-3",
+      "sentence": "科技發展得咁快，好難追得上。",
+      "jyutping": "fo1 gei1 faat3 cin2 dak1 gam3 faai3, hou2 naan4 zeoi1 dak1 soeng5.",
+      "meaning": "Technology develops so fast that it's hard to keep up.",
+      "sourceWordId": "fo1gei1-technology",
+      "sourceWord": "科技",
+      "sourceWordJyutping": "fo1 gei1",
+      "sourceWordMeaning": "technology",
+      "tags": [
+        "advanced",
+        "society",
+        "technology",
+        "innovation",
+        "science",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fo1gei1-technology.json"
+    },
+    {
+      "sentenceId": "fo1gei1-technology-example-4",
+      "sentence": "教育系統用咗好多科技工具幫助學生學習。",
+      "jyutping": "gaau3 juk6 hai6 tung2 jung6 zo2 hou2 do1 fo1 gei1 gung1 geoi6 bong1 zo6 hok6 saang1 hok6 zaap6.",
+      "meaning": "The education system uses a lot of technology tools to help students learn.",
+      "sourceWordId": "fo1gei1-technology",
+      "sourceWord": "科技",
+      "sourceWordJyutping": "fo1 gei1",
+      "sourceWordMeaning": "technology",
+      "tags": [
+        "advanced",
+        "society",
+        "technology",
+        "innovation",
+        "science",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fo1gei1-technology.json"
+    },
+    {
+      "sentenceId": "gaau3juk6-education-example-1",
+      "sentence": "而家嘅教育系統越嚟越重視學生嘅創意思維。",
+      "jyutping": "ji4 gaa1 ge3 gaau3 juk6 hai6 tung2 jyut6 lai4 jyut6 zung6 si6 hok6 saang1 ge3 cong3 ji3 si1 wai4.",
+      "meaning": "Today's education system increasingly values students' creative thinking.",
+      "sourceWordId": "gaau3juk6-education",
+      "sourceWord": "教育",
+      "sourceWordJyutping": "gaau3 juk6",
+      "sourceWordMeaning": "education",
+      "tags": [
+        "education",
+        "society",
+        "policy",
+        "teaching",
+        "learning",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaau3juk6-education.json"
+    },
+    {
+      "sentenceId": "gaau3juk6-education-example-2",
+      "sentence": "父母應該喺家庭教育方面投入多啲時間。",
+      "jyutping": "fu6 mou5 jing1 goi1 hai2 gaa1 ting4 gaau3 juk6 fong1 min6 tau4 jap6 do1 di1 si4 gaan3.",
+      "meaning": "Parents should invest more time in family education.",
+      "sourceWordId": "gaau3juk6-education",
+      "sourceWord": "教育",
+      "sourceWordJyutping": "gaau3 juk6",
+      "sourceWordMeaning": "education",
+      "tags": [
+        "education",
+        "society",
+        "policy",
+        "teaching",
+        "learning",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaau3juk6-education.json"
+    },
+    {
+      "sentenceId": "gaau3juk6-education-example-3",
+      "sentence": "學校教育唔單止係傳授知識，仲有培養同理心。",
+      "jyutping": "hok6 haau6 gaau3 juk6 m4 daan1 zi2 hai6 cyun4 sau6 zi1 sik1, zung6 jau5 pui4 joeng5 tung4 lei5 sam1.",
+      "meaning": "School education is not only about imparting knowledge but also about cultivating empathy.",
+      "sourceWordId": "gaau3juk6-education",
+      "sourceWord": "教育",
+      "sourceWordJyutping": "gaau3 juk6",
+      "sourceWordMeaning": "education",
+      "tags": [
+        "education",
+        "society",
+        "policy",
+        "teaching",
+        "learning",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaau3juk6-education.json"
+    },
+    {
+      "sentenceId": "gaau3juk6-education-example-4",
+      "sentence": "政府最近推出咗一啲新嘅教育政策。",
+      "jyutping": "zing3 fu2 zeoi3 gan6 teoi1 ceot1 zo2 jat1 di1 san1 ge3 gaau3 juk6 zing3 caak3.",
+      "meaning": "The government recently introduced some new education policies.",
+      "sourceWordId": "gaau3juk6-education",
+      "sourceWord": "教育",
+      "sourceWordJyutping": "gaau3 juk6",
+      "sourceWordMeaning": "education",
+      "tags": [
+        "education",
+        "society",
+        "policy",
+        "teaching",
+        "learning",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaau3juk6-education.json"
+    },
+    {
+      "sentenceId": "zing3fu2-government-example-1",
+      "sentence": "政府最近推出咗一個新嘅交通政策。",
+      "jyutping": "zing3 fu2 zeoi3 gan6 teoi1 ceot1 zo2 jat1 go3 san1 ge3 gaau1 tung1 zing3 ceot3.",
+      "meaning": "The government recently introduced a new transportation policy.",
+      "sourceWordId": "zing3fu2-government",
+      "sourceWord": "政府",
+      "sourceWordJyutping": "zing3 fu2",
+      "sourceWordMeaning": "government",
+      "tags": [
+        "advanced",
+        "society",
+        "politics",
+        "government",
+        "policy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing3fu2-government.json"
+    },
+    {
+      "sentenceId": "zing3fu2-government-example-2",
+      "sentence": "我哋應該支持政府嘅環保措施。",
+      "jyutping": "ngo5 dei6 jing1 goi1 zi1 ci4 zing3 fu2 ge3 waan4 bou2 cou3 si1.",
+      "meaning": "We should support the government's environmental protection measures.",
+      "sourceWordId": "zing3fu2-government",
+      "sourceWord": "政府",
+      "sourceWordJyutping": "zing3 fu2",
+      "sourceWordMeaning": "government",
+      "tags": [
+        "advanced",
+        "society",
+        "politics",
+        "government",
+        "policy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing3fu2-government.json"
+    },
+    {
+      "sentenceId": "zing3fu2-government-example-3",
+      "sentence": "政府嘅決定對經濟發展好重要。",
+      "jyutping": "zing3 fu2 ge3 kyut3 ding6 deoi3 ging1 zai3 faat3 zin2 hou2 zung6 jiu3.",
+      "meaning": "The government's decisions are very important for economic development.",
+      "sourceWordId": "zing3fu2-government",
+      "sourceWord": "政府",
+      "sourceWordJyutping": "zing3 fu2",
+      "sourceWordMeaning": "government",
+      "tags": [
+        "advanced",
+        "society",
+        "politics",
+        "government",
+        "policy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing3fu2-government.json"
+    },
+    {
+      "sentenceId": "zing3fu2-government-example-4",
+      "sentence": "佢哋對政府唔滿意，於是開始示威。",
+      "jyutping": "keoi5 dei6 deoi3 zing3 fu2 m4 mun5 ji3, jyu1 si6 hoi1 ci2 si6 wai1.",
+      "meaning": "They are dissatisfied with the government, so they started protesting.",
+      "sourceWordId": "zing3fu2-government",
+      "sourceWord": "政府",
+      "sourceWordJyutping": "zing3 fu2",
+      "sourceWordMeaning": "government",
+      "tags": [
+        "advanced",
+        "society",
+        "politics",
+        "government",
+        "policy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing3fu2-government.json"
+    },
+    {
+      "sentenceId": "si5man4-citizens-the-public-example-1",
+      "sentence": "市民好關心政府嘅新政策。",
+      "jyutping": "si5 man4 hou2 gwaan1 sam1 zing3 fu2 ge3 san1 zing3 ceot3.",
+      "meaning": "Citizens are very concerned about the government's new policy.",
+      "sourceWordId": "si5man4-citizens-the-public",
+      "sourceWord": "市民",
+      "sourceWordJyutping": "si5 man4",
+      "sourceWordMeaning": "citizens / the public",
+      "tags": [
+        "society",
+        "urban life",
+        "public",
+        "government",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/si5man4-citizens-the-public.json"
+    },
+    {
+      "sentenceId": "si5man4-citizens-the-public-example-2",
+      "sentence": "多數市民支持環保運動。",
+      "jyutping": "do1 sou3 si5 man4 zi1 ci4 waan4 bou2 wan6 dung6.",
+      "meaning": "Most citizens support the environmental protection movement.",
+      "sourceWordId": "si5man4-citizens-the-public",
+      "sourceWord": "市民",
+      "sourceWordJyutping": "si5 man4",
+      "sourceWordMeaning": "citizens / the public",
+      "tags": [
+        "society",
+        "urban life",
+        "public",
+        "government",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/si5man4-citizens-the-public.json"
+    },
+    {
+      "sentenceId": "si5man4-citizens-the-public-example-3",
+      "sentence": "市民嘅意見對政府好重要。",
+      "jyutping": "si5 man4 ge3 ji3 gin3 deoi3 zing3 fu2 hou2 zung6 jiu3.",
+      "meaning": "The citizens' opinions are very important to the government.",
+      "sourceWordId": "si5man4-citizens-the-public",
+      "sourceWord": "市民",
+      "sourceWordJyutping": "si5 man4",
+      "sourceWordMeaning": "citizens / the public",
+      "tags": [
+        "society",
+        "urban life",
+        "public",
+        "government",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/si5man4-citizens-the-public.json"
+    },
+    {
+      "sentenceId": "si5man4-citizens-the-public-example-4",
+      "sentence": "政府應該聽取市民嘅聲音。",
+      "jyutping": "zing3 fu2 jing1 goi1 teng1 ceoi2 si5 man4 ge3 seng1 jam1.",
+      "meaning": "The government should listen to the voices of the citizens.",
+      "sourceWordId": "si5man4-citizens-the-public",
+      "sourceWord": "市民",
+      "sourceWordJyutping": "si5 man4",
+      "sourceWordMeaning": "citizens / the public",
+      "tags": [
+        "society",
+        "urban life",
+        "public",
+        "government",
+        "community",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/si5man4-citizens-the-public.json"
+    },
+    {
+      "sentenceId": "gwaan1zyu3-to-be-concerned-about-pay-attention-example-1",
+      "sentence": "我好關注政府嘅最新政策。",
+      "jyutping": "ngo5 hou2 gwaan1 zyu3 zing3 fu2 ge3 zeoi3 san1 ze3 ceot3.",
+      "meaning": "I am very concerned about the government's latest policies.",
+      "sourceWordId": "gwaan1zyu3-to-be-concerned-about-pay-attention",
+      "sourceWord": "關注",
+      "sourceWordJyutping": "gwaan1 zyu3",
+      "sourceWordMeaning": "to be concerned about / pay attention",
+      "tags": [
+        "advanced",
+        "social topics",
+        "concern",
+        "attention",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gwaan1zyu3-to-be-concerned-about-pay-attention.json"
+    },
+    {
+      "sentenceId": "gwaan1zyu3-to-be-concerned-about-pay-attention-example-2",
+      "sentence": "大家都應該關注環境保護嘅問題。",
+      "jyutping": "daai6 gaa1 dou1 jing1 goi1 gwaan1 zyu3 waan4 ging2 bou2 wu6 ge3 man6 tai4.",
+      "meaning": "Everyone should pay attention to environmental protection issues.",
+      "sourceWordId": "gwaan1zyu3-to-be-concerned-about-pay-attention",
+      "sourceWord": "關注",
+      "sourceWordJyutping": "gwaan1 zyu3",
+      "sourceWordMeaning": "to be concerned about / pay attention",
+      "tags": [
+        "advanced",
+        "social topics",
+        "concern",
+        "attention",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gwaan1zyu3-to-be-concerned-about-pay-attention.json"
+    },
+    {
+      "sentenceId": "gwaan1zyu3-to-be-concerned-about-pay-attention-example-3",
+      "sentence": "佢對新嘅社會變化好關注。",
+      "jyutping": "keoi5 deoi3 san1 ge3 se5 wui6 bin3 faa3 hou2 gwaan1 zyu3.",
+      "meaning": "He is very concerned about the new social changes.",
+      "sourceWordId": "gwaan1zyu3-to-be-concerned-about-pay-attention",
+      "sourceWord": "關注",
+      "sourceWordJyutping": "gwaan1 zyu3",
+      "sourceWordMeaning": "to be concerned about / pay attention",
+      "tags": [
+        "advanced",
+        "social topics",
+        "concern",
+        "attention",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gwaan1zyu3-to-be-concerned-about-pay-attention.json"
+    },
+    {
+      "sentenceId": "gwaan1zyu3-to-be-concerned-about-pay-attention-example-4",
+      "sentence": "我哋應該關注窮人嘅生活狀況。",
+      "jyutping": "ngo5 dei6 jing1 goi1 gwaan1 zyu3 kung4 jan4 ge3 sang1 wut6 zong6 fong3.",
+      "meaning": "We should be concerned about the living conditions of the poor.",
+      "sourceWordId": "gwaan1zyu3-to-be-concerned-about-pay-attention",
+      "sourceWord": "關注",
+      "sourceWordJyutping": "gwaan1 zyu3",
+      "sourceWordMeaning": "to be concerned about / pay attention",
+      "tags": [
+        "advanced",
+        "social topics",
+        "concern",
+        "attention",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gwaan1zyu3-to-be-concerned-about-pay-attention.json"
+    },
+    {
+      "sentenceId": "aat3lik6-pressure-stress-example-1",
+      "sentence": "我最近工作量好大，有好多壓力。",
+      "jyutping": "ngo5 zeoi3 gan6 gung1 zok3 loeng6 hou2 daai6, jau5 hou2 do1 aat3 lik6.",
+      "meaning": "I have a heavy workload recently, and there is a lot of pressure.",
+      "sourceWordId": "aat3lik6-pressure-stress",
+      "sourceWord": "壓力",
+      "sourceWordJyutping": "aat3 lik6",
+      "sourceWordMeaning": "pressure / stress",
+      "tags": [
+        "advanced",
+        "expression",
+        "emotions",
+        "society",
+        "stress",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/aat3lik6-pressure-stress.json"
+    },
+    {
+      "sentenceId": "aat3lik6-pressure-stress-example-2",
+      "sentence": "面對考試嘅時候，壓力會令我好緊張。",
+      "jyutping": "min6 deoi3 haau2 si5 ge3 si4 hau6, aat3 lik6 wui5 ling6 ngo5 hou2 gan2 zoeng1.",
+      "meaning": "When facing exams, pressure makes me feel very nervous.",
+      "sourceWordId": "aat3lik6-pressure-stress",
+      "sourceWord": "壓力",
+      "sourceWordJyutping": "aat3 lik6",
+      "sourceWordMeaning": "pressure / stress",
+      "tags": [
+        "advanced",
+        "expression",
+        "emotions",
+        "society",
+        "stress",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/aat3lik6-pressure-stress.json"
+    },
+    {
+      "sentenceId": "aat3lik6-pressure-stress-example-3",
+      "sentence": "佢因為家人嘅期望，感受到好大嘅壓力。",
+      "jyutping": "keoi5 jan1 wai6 gaa1 jan4 ge3 kei4 mong6, gam2 sau6 dou3 hou2 daai6 ge3 aat3 lik6.",
+      "meaning": "He feels a lot of pressure because of his family's expectations.",
+      "sourceWordId": "aat3lik6-pressure-stress",
+      "sourceWord": "壓力",
+      "sourceWordJyutping": "aat3 lik6",
+      "sourceWordMeaning": "pressure / stress",
+      "tags": [
+        "advanced",
+        "expression",
+        "emotions",
+        "society",
+        "stress",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/aat3lik6-pressure-stress.json"
+    },
+    {
+      "sentenceId": "aat3lik6-pressure-stress-example-4",
+      "sentence": "做運動可以幫助我舒緩壓力。",
+      "jyutping": "zou6 wan6 dung6 ho2 ji5 bong1 zo6 ngo5 syu1 wun6 aat3 lik6.",
+      "meaning": "Exercising can help me relieve pressure.",
+      "sourceWordId": "aat3lik6-pressure-stress",
+      "sourceWord": "壓力",
+      "sourceWordJyutping": "aat3 lik6",
+      "sourceWordMeaning": "pressure / stress",
+      "tags": [
+        "advanced",
+        "expression",
+        "emotions",
+        "society",
+        "stress",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/aat3lik6-pressure-stress.json"
+    },
+    {
+      "sentenceId": "koi3nim6-concept-example-1",
+      "sentence": "我唔明白呢個概念，你可唔可以解釋吓？",
+      "jyutping": "ngo5 m4 ming4 baak6 ni1 go3 koi3 nim6, nei5 ho2 m4 ho2 ji5 gaai2 sik1 haa5?",
+      "meaning": "I don't understand this concept, could you explain it?",
+      "sourceWordId": "koi3nim6-concept",
+      "sourceWord": "概念",
+      "sourceWordJyutping": "koi3 nim6",
+      "sourceWordMeaning": "concept",
+      "tags": [
+        "advanced",
+        "academic",
+        "abstract",
+        "education",
+        "philosophy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/koi3nim6-concept.json"
+    },
+    {
+      "sentenceId": "koi3nim6-concept-example-2",
+      "sentence": "呢個概念好抽象，好多人都未必接受到。",
+      "jyutping": "ni1 go3 koi3 nim6 hou2 cau1 soeng2, hou2 do1 jan4 dou1 mei6 bat1 zip3 sau6 dou3.",
+      "meaning": "This concept is quite abstract; many people might not accept it.",
+      "sourceWordId": "koi3nim6-concept",
+      "sourceWord": "概念",
+      "sourceWordJyutping": "koi3 nim6",
+      "sourceWordMeaning": "concept",
+      "tags": [
+        "advanced",
+        "academic",
+        "abstract",
+        "education",
+        "philosophy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/koi3nim6-concept.json"
+    },
+    {
+      "sentenceId": "koi3nim6-concept-example-3",
+      "sentence": "學習新嘅概念可以幫助我哋擴闊視野。",
+      "jyutping": "hok6 zaap6 san1 ge3 koi3 nim6 ho2 ji5 bong1 zo6 ngo5 dei6 kwaa3 fut3 si6 je5.",
+      "meaning": "Learning new concepts can help us broaden our horizons.",
+      "sourceWordId": "koi3nim6-concept",
+      "sourceWord": "概念",
+      "sourceWordJyutping": "koi3 nim6",
+      "sourceWordMeaning": "concept",
+      "tags": [
+        "advanced",
+        "academic",
+        "abstract",
+        "education",
+        "philosophy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/koi3nim6-concept.json"
+    },
+    {
+      "sentenceId": "koi3nim6-concept-example-4",
+      "sentence": "老師介紹咗個重要嘅概念，全部同學都諗深咗。",
+      "jyutping": "lou5 si1 gaai3 siu6 zo2 go3 zung6 jiu3 ge3 koi3 nim6, cyun4 bou6 tung4 hok6 dou1 nam2 sam1 zo2.",
+      "meaning": "The teacher introduced an important concept, and all the students thought deeply about it.",
+      "sourceWordId": "koi3nim6-concept",
+      "sourceWord": "概念",
+      "sourceWordJyutping": "koi3 nim6",
+      "sourceWordMeaning": "concept",
+      "tags": [
+        "advanced",
+        "academic",
+        "abstract",
+        "education",
+        "philosophy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/koi3nim6-concept.json"
+    },
+    {
+      "sentenceId": "gaa3zik6-value-example-1",
+      "sentence": "呢件藝術品嘅價值好高。",
+      "jyutping": "ni1 gin6 ngai6 seot6 ban2 ge3 gaa3 zik6 hou2 gou1.",
+      "meaning": "The value of this artwork is very high.",
+      "sourceWordId": "gaa3zik6-value",
+      "sourceWord": "價值",
+      "sourceWordJyutping": "gaa3 zik6",
+      "sourceWordMeaning": "value",
+      "tags": [
+        "concept",
+        "abstract noun",
+        "importance",
+        "moral values",
+        "economic worth",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaa3zik6-value.json"
+    },
+    {
+      "sentenceId": "gaa3zik6-value-example-2",
+      "sentence": "每個人嘅價值觀都唔同。",
+      "jyutping": "mui5 go3 jan4 ge3 gaa3 zik6 gun1 dou1 m4 tung4.",
+      "meaning": "Everyone's values are different.",
+      "sourceWordId": "gaa3zik6-value",
+      "sourceWord": "價值",
+      "sourceWordJyutping": "gaa3 zik6",
+      "sourceWordMeaning": "value",
+      "tags": [
+        "concept",
+        "abstract noun",
+        "importance",
+        "moral values",
+        "economic worth",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaa3zik6-value.json"
+    },
+    {
+      "sentenceId": "gaa3zik6-value-example-3",
+      "sentence": "呢啲經驗對我嚟講好有價值。",
+      "jyutping": "ni1 di1 ging1 jim6 deoi3 ngo5 lai4 gong2 hou2 jau5 gaa3 zik6.",
+      "meaning": "These experiences are very valuable to me.",
+      "sourceWordId": "gaa3zik6-value",
+      "sourceWord": "價值",
+      "sourceWordJyutping": "gaa3 zik6",
+      "sourceWordMeaning": "value",
+      "tags": [
+        "concept",
+        "abstract noun",
+        "importance",
+        "moral values",
+        "economic worth",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaa3zik6-value.json"
+    },
+    {
+      "sentenceId": "gaa3zik6-value-example-4",
+      "sentence": "佢哋討論緊社會價值嘅變化。",
+      "jyutping": "keoi5 dei6 tou2 leon6 gan2 se5 wui6 gaa3 zik6 ge3 bin3 faa3.",
+      "meaning": "They are discussing changes in social values.",
+      "sourceWordId": "gaa3zik6-value",
+      "sourceWord": "價值",
+      "sourceWordJyutping": "gaa3 zik6",
+      "sourceWordMeaning": "value",
+      "tags": [
+        "concept",
+        "abstract noun",
+        "importance",
+        "moral values",
+        "economic worth",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaa3zik6-value.json"
+    },
+    {
+      "sentenceId": "jyun4zak1-principle-example-1",
+      "sentence": "我唔會因為金錢而違反自己嘅原則。",
+      "jyutping": "ngo5 m4 wui5 jan1wai4 gam1cin2 ji4 wai4faan6 zi6gei2 ge3 jyun4 zak1.",
+      "meaning": "I won't violate my own principles because of money.",
+      "sourceWordId": "jyun4zak1-principle",
+      "sourceWord": "原則",
+      "sourceWordJyutping": "jyun4 zak1",
+      "sourceWordMeaning": "principle",
+      "tags": [
+        "advanced",
+        "concept",
+        "values",
+        "morality",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4zak1-principle.json"
+    },
+    {
+      "sentenceId": "jyun4zak1-principle-example-2",
+      "sentence": "每個人都有自己嘅原則，唔好迫人改變。",
+      "jyutping": "mui5 go3 jan4 dou1 jau5 zi6gei2 ge3 jyun4 zak1, m4 hou2 bik1 jan4 goi2bin3.",
+      "meaning": "Everyone has their own principles; don’t force others to change them.",
+      "sourceWordId": "jyun4zak1-principle",
+      "sourceWord": "原則",
+      "sourceWordJyutping": "jyun4 zak1",
+      "sourceWordMeaning": "principle",
+      "tags": [
+        "advanced",
+        "concept",
+        "values",
+        "morality",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4zak1-principle.json"
+    },
+    {
+      "sentenceId": "jyun4zak1-principle-example-3",
+      "sentence": "喺處理問題時，堅持原則好重要。",
+      "jyutping": "hai2 cyu3lei5 man6tai4 si4, gin1ci4 jyun4 zak1 hou2 zung6jiu3.",
+      "meaning": "Sticking to principles is very important when handling problems.",
+      "sourceWordId": "jyun4zak1-principle",
+      "sourceWord": "原則",
+      "sourceWordJyutping": "jyun4 zak1",
+      "sourceWordMeaning": "principle",
+      "tags": [
+        "advanced",
+        "concept",
+        "values",
+        "morality",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4zak1-principle.json"
+    },
+    {
+      "sentenceId": "jyun4zak1-principle-example-4",
+      "sentence": "佢因為原則問題拒絕咗呢份工作。",
+      "jyutping": "keoi5 jan1wai4 jyun4 zak1 man6tai4 keoi5zyut6 zo2 ni1 fan6 gung1zok3.",
+      "meaning": "He refused this job because of principle-related issues.",
+      "sourceWordId": "jyun4zak1-principle",
+      "sourceWord": "原則",
+      "sourceWordJyutping": "jyun4 zak1",
+      "sourceWordMeaning": "principle",
+      "tags": [
+        "advanced",
+        "concept",
+        "values",
+        "morality",
+        "communication",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4zak1-principle.json"
+    },
+    {
+      "sentenceId": "lei5leon6-theory-example-1",
+      "sentence": "佢嘅理論幾有道理。",
+      "jyutping": "keoi5 ge3 lei5 leon6 gei2 jau5 dou6 lei5.",
+      "meaning": "His theory makes a lot of sense.",
+      "sourceWordId": "lei5leon6-theory",
+      "sourceWord": "理論",
+      "sourceWordJyutping": "lei5 leon6",
+      "sourceWordMeaning": "theory",
+      "tags": [
+        "science",
+        "education",
+        "academic",
+        "thinking",
+        "explanation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5leon6-theory.json"
+    },
+    {
+      "sentenceId": "lei5leon6-theory-example-2",
+      "sentence": "老師講咗好多科學嘅理論。",
+      "jyutping": "lou5 si1 gong2 zo2 hou2 do1 fo1 hok6 ge3 lei5 leon6.",
+      "meaning": "The teacher talked about many scientific theories.",
+      "sourceWordId": "lei5leon6-theory",
+      "sourceWord": "理論",
+      "sourceWordJyutping": "lei5 leon6",
+      "sourceWordMeaning": "theory",
+      "tags": [
+        "science",
+        "education",
+        "academic",
+        "thinking",
+        "explanation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5leon6-theory.json"
+    },
+    {
+      "sentenceId": "lei5leon6-theory-example-3",
+      "sentence": "呢個理論未證實。",
+      "jyutping": "ni1 go3 lei5 leon6 mei6 zing3 sat6.",
+      "meaning": "This theory has not been proven yet.",
+      "sourceWordId": "lei5leon6-theory",
+      "sourceWord": "理論",
+      "sourceWordJyutping": "lei5 leon6",
+      "sourceWordMeaning": "theory",
+      "tags": [
+        "science",
+        "education",
+        "academic",
+        "thinking",
+        "explanation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5leon6-theory.json"
+    },
+    {
+      "sentenceId": "lei5leon6-theory-example-4",
+      "sentence": "我哋要用理論去解釋問題。",
+      "jyutping": "ngo5 dei6 jiu3 jung6 lei5 leon6 heoi3 gaai2 sik1 man6 tai4.",
+      "meaning": "We need to use theory to explain the problem.",
+      "sourceWordId": "lei5leon6-theory",
+      "sourceWord": "理論",
+      "sourceWordJyutping": "lei5 leon6",
+      "sourceWordMeaning": "theory",
+      "tags": [
+        "science",
+        "education",
+        "academic",
+        "thinking",
+        "explanation",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/lei5leon6-theory.json"
+    },
+    {
+      "sentenceId": "bun2zat1-essence-example-1",
+      "sentence": "我哋要了解問題嘅本質，先至可以搵到解決方法。",
+      "jyutping": "ngo5 dei6 jiu3 liu5 gaai2 man6 tai4 ge3 bun2 zat1, sin1 zi3 ho2 ji5 wan2 dou3 gaai2 kyut3 fong1 faat3.",
+      "meaning": "We need to understand the essence of the problem before we can find a solution.",
+      "sourceWordId": "bun2zat1-essence",
+      "sourceWord": "本質",
+      "sourceWordJyutping": "bun2 zat1",
+      "sourceWordMeaning": "essence",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "abstract",
+        "reflection",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bun2zat1-essence.json"
+    },
+    {
+      "sentenceId": "bun2zat1-essence-example-2",
+      "sentence": "人與人之間嘅本質係互相尊重同理解。",
+      "jyutping": "jan4 jyu5 jan4 zi1 gaan1 ge3 bun2 zat1 hai6 wu6 soeng1 zyun1 zung3 tung4 liu5 gaai2.",
+      "meaning": "The essence of the relationship between people is mutual respect and understanding.",
+      "sourceWordId": "bun2zat1-essence",
+      "sourceWord": "本質",
+      "sourceWordJyutping": "bun2 zat1",
+      "sourceWordMeaning": "essence",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "abstract",
+        "reflection",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bun2zat1-essence.json"
+    },
+    {
+      "sentenceId": "bun2zat1-essence-example-3",
+      "sentence": "藝術嘅本質係表達情感同思想。",
+      "jyutping": "ngai6 seot6 ge3 bun2 zat1 hai6 biu2 daat6 cing4 gam2 tung4 si1 soeng2.",
+      "meaning": "The essence of art is expressing emotions and ideas.",
+      "sourceWordId": "bun2zat1-essence",
+      "sourceWord": "本質",
+      "sourceWordJyutping": "bun2 zat1",
+      "sourceWordMeaning": "essence",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "abstract",
+        "reflection",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bun2zat1-essence.json"
+    },
+    {
+      "sentenceId": "bun2zat1-essence-example-4",
+      "sentence": "雖然表面唔同，但公司嘅本質未變。",
+      "jyutping": "seoi1 jin4 biu2 min6 m4 tung4, daan6 gung1 si1 ge3 bun2 zat1 mei6 bin3.",
+      "meaning": "Although the surface appears different, the company's essence has not changed.",
+      "sourceWordId": "bun2zat1-essence",
+      "sourceWord": "本質",
+      "sourceWordJyutping": "bun2 zat1",
+      "sourceWordMeaning": "essence",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "abstract",
+        "reflection",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/bun2zat1-essence.json"
+    },
+    {
+      "sentenceId": "jin6sat6-reality-example-1",
+      "sentence": "我哋要面對現實，唔可以一直幻想。",
+      "jyutping": "ngo5 dei6 jiu3 min6 deoi3 jin6 sat6, m4 ho2 ji5 jat1 zik6 waan6 soeng2.",
+      "meaning": "We have to face reality and can't keep fantasizing.",
+      "sourceWordId": "jin6sat6-reality",
+      "sourceWord": "現實",
+      "sourceWordJyutping": "jin6 sat6",
+      "sourceWordMeaning": "reality",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "life",
+        "pragmatism",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jin6sat6-reality.json"
+    },
+    {
+      "sentenceId": "jin6sat6-reality-example-2",
+      "sentence": "現實社會好複雜，唔係咁簡單。",
+      "jyutping": "jin6 sat6 se5 wui6 hou2 fuk1 zaap6, m4 hai6 gam2 gaan2 daan1.",
+      "meaning": "The real society is very complex, not so simple.",
+      "sourceWordId": "jin6sat6-reality",
+      "sourceWord": "現實",
+      "sourceWordJyutping": "jin6 sat6",
+      "sourceWordMeaning": "reality",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "life",
+        "pragmatism",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jin6sat6-reality.json"
+    },
+    {
+      "sentenceId": "jin6sat6-reality-example-3",
+      "sentence": "雖然理想好美，但現實更重要。",
+      "jyutping": "seoi1 jin4 lei5 soeng2 hou2 mei5, daan6 jin6 sat6 gang3 zung6 jiu3.",
+      "meaning": "Although ideals are beautiful, reality is more important.",
+      "sourceWordId": "jin6sat6-reality",
+      "sourceWord": "現實",
+      "sourceWordJyutping": "jin6 sat6",
+      "sourceWordMeaning": "reality",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "life",
+        "pragmatism",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jin6sat6-reality.json"
+    },
+    {
+      "sentenceId": "jin6sat6-reality-example-4",
+      "sentence": "佢終於接受咗現實，開始努力工作。",
+      "jyutping": "keoi5 zung1 jyu4 zip3 sau6 zo2 jin6 sat6, hoi1 ci2 nok6 lik6 gung1 zok3.",
+      "meaning": "He finally accepted reality and started working hard.",
+      "sourceWordId": "jin6sat6-reality",
+      "sourceWord": "現實",
+      "sourceWordJyutping": "jin6 sat6",
+      "sourceWordMeaning": "reality",
+      "tags": [
+        "advanced",
+        "concept",
+        "philosophy",
+        "life",
+        "pragmatism",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jin6sat6-reality.json"
+    },
+    {
+      "sentenceId": "zi6jau4-freedom-example-1",
+      "sentence": "我好重視個人嘅自由。",
+      "jyutping": "ngo5 hou2 cung4 si6 go3 jan4 ge3 zi6 jau4.",
+      "meaning": "I highly value personal freedom.",
+      "sourceWordId": "zi6jau4-freedom",
+      "sourceWord": "自由",
+      "sourceWordJyutping": "zi6 jau4",
+      "sourceWordMeaning": "freedom",
+      "tags": [
+        "advanced",
+        "abstract",
+        "concept",
+        "expression",
+        "values",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi6jau4-freedom.json"
+    },
+    {
+      "sentenceId": "zi6jau4-freedom-example-2",
+      "sentence": "有冇自由係一個好重要嘅問題。",
+      "jyutping": "jau5 mou5 zi6 jau4 hai6 jat1 go3 hou2 zung6 jiu3 ge3 man6 tai4.",
+      "meaning": "Whether there is freedom or not is a very important issue.",
+      "sourceWordId": "zi6jau4-freedom",
+      "sourceWord": "自由",
+      "sourceWordJyutping": "zi6 jau4",
+      "sourceWordMeaning": "freedom",
+      "tags": [
+        "advanced",
+        "abstract",
+        "concept",
+        "expression",
+        "values",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi6jau4-freedom.json"
+    },
+    {
+      "sentenceId": "zi6jau4-freedom-example-3",
+      "sentence": "自由令我感覺到快樂同輕鬆。",
+      "jyutping": "zi6 jau4 ling6 ngo5 gam2 gok3 dou3 faai3 lok6 tung4 heng1 sung1.",
+      "meaning": "Freedom makes me feel happy and relaxed.",
+      "sourceWordId": "zi6jau4-freedom",
+      "sourceWord": "自由",
+      "sourceWordJyutping": "zi6 jau4",
+      "sourceWordMeaning": "freedom",
+      "tags": [
+        "advanced",
+        "abstract",
+        "concept",
+        "expression",
+        "values",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi6jau4-freedom.json"
+    },
+    {
+      "sentenceId": "zi6jau4-freedom-example-4",
+      "sentence": "爭取自由需要勇氣同努力。",
+      "jyutping": "zaang1 ceoi2 zi6 jau4 seoi1 jiu3 jung5 hei3 tung4 nou5 lik6.",
+      "meaning": "Fighting for freedom requires courage and effort.",
+      "sourceWordId": "zi6jau4-freedom",
+      "sourceWord": "自由",
+      "sourceWordJyutping": "zi6 jau4",
+      "sourceWordMeaning": "freedom",
+      "tags": [
+        "advanced",
+        "abstract",
+        "concept",
+        "expression",
+        "values",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi6jau4-freedom.json"
+    },
+    {
+      "sentenceId": "gung1ping4-fairness-example-1",
+      "sentence": "我哋要保持公平，唔好偏袒任何一方。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 ci4 gung1 ping4, m4 hou2 pin1 taan2 jam6 ho4 jat1 fong1.",
+      "meaning": "We need to maintain fairness and not favor any side.",
+      "sourceWordId": "gung1ping4-fairness",
+      "sourceWord": "公平",
+      "sourceWordJyutping": "gung1 ping4",
+      "sourceWordMeaning": "fairness",
+      "tags": [
+        "concept",
+        "fairness",
+        "justice",
+        "impartiality",
+        "equality",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gung1ping4-fairness.json"
+    },
+    {
+      "sentenceId": "gung1ping4-fairness-example-2",
+      "sentence": "老師嘅評分標準係公平嘅。",
+      "jyutping": "lou5 si1 ge3 ping4 fan1 biu1 zeon2 hai6 gung1 ping4 ge3.",
+      "meaning": "The teacher’s grading criteria are fair.",
+      "sourceWordId": "gung1ping4-fairness",
+      "sourceWord": "公平",
+      "sourceWordJyutping": "gung1 ping4",
+      "sourceWordMeaning": "fairness",
+      "tags": [
+        "concept",
+        "fairness",
+        "justice",
+        "impartiality",
+        "equality",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gung1ping4-fairness.json"
+    },
+    {
+      "sentenceId": "gung1ping4-fairness-example-3",
+      "sentence": "大家都希望得到公平嘅機會。",
+      "jyutping": "daai6 gaa1 dou1 hei1 mong6 dak1 dou3 gung1 ping4 ge3 gei1 wui6.",
+      "meaning": "Everyone hopes to get a fair opportunity.",
+      "sourceWordId": "gung1ping4-fairness",
+      "sourceWord": "公平",
+      "sourceWordJyutping": "gung1 ping4",
+      "sourceWordMeaning": "fairness",
+      "tags": [
+        "concept",
+        "fairness",
+        "justice",
+        "impartiality",
+        "equality",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gung1ping4-fairness.json"
+    },
+    {
+      "sentenceId": "gung1ping4-fairness-example-4",
+      "sentence": "政府應該確保政策對所有人公平。",
+      "jyutping": "zing3 fu2 jing1 goi1 kok3 bou2 zing3 ceot3 deoi3 so2 jau5 jan4 gung1 ping4.",
+      "meaning": "The government should ensure policies are fair to all people.",
+      "sourceWordId": "gung1ping4-fairness",
+      "sourceWord": "公平",
+      "sourceWordJyutping": "gung1 ping4",
+      "sourceWordMeaning": "fairness",
+      "tags": [
+        "concept",
+        "fairness",
+        "justice",
+        "impartiality",
+        "equality",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gung1ping4-fairness.json"
+    },
+    {
+      "sentenceId": "fan1sik1-to-analyse-example-1",
+      "sentence": "我哋要分析呢個市場嘅需求先。",
+      "jyutping": "ngo5 dei6 jiu3 fan1 sik1 ni1 go3 si5 coeng4 ge3 seoi1 kau4 sin1.",
+      "meaning": "We need to analyse the demand of this market first.",
+      "sourceWordId": "fan1sik1-to-analyse",
+      "sourceWord": "分析",
+      "sourceWordJyutping": "fan1 sik1",
+      "sourceWordMeaning": "to analyse",
+      "tags": [
+        "verb",
+        "formal",
+        "spoken",
+        "academic",
+        "critical thinking",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fan1sik1-to-analyse.json"
+    },
+    {
+      "sentenceId": "fan1sik1-to-analyse-example-2",
+      "sentence": "老師教我哋點樣分析文章。",
+      "jyutping": "lou5 si1 gaau3 ngo5 dei6 dim2 joeng6 fan1 sik1 man4 zoeng1.",
+      "meaning": "The teacher taught us how to analyse an essay.",
+      "sourceWordId": "fan1sik1-to-analyse",
+      "sourceWord": "分析",
+      "sourceWordJyutping": "fan1 sik1",
+      "sourceWordMeaning": "to analyse",
+      "tags": [
+        "verb",
+        "formal",
+        "spoken",
+        "academic",
+        "critical thinking",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fan1sik1-to-analyse.json"
+    },
+    {
+      "sentenceId": "fan1sik1-to-analyse-example-3",
+      "sentence": "佢分析咗公司嘅財務狀況。",
+      "jyutping": "keoi5 fan1 sik1 zo2 gung1 si1 ge3 coi4 mou6 zong6 fong3.",
+      "meaning": "He analysed the company's financial situation.",
+      "sourceWordId": "fan1sik1-to-analyse",
+      "sourceWord": "分析",
+      "sourceWordJyutping": "fan1 sik1",
+      "sourceWordMeaning": "to analyse",
+      "tags": [
+        "verb",
+        "formal",
+        "spoken",
+        "academic",
+        "critical thinking",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fan1sik1-to-analyse.json"
+    },
+    {
+      "sentenceId": "fan1sik1-to-analyse-example-4",
+      "sentence": "分析完之後，我哋再做決定。",
+      "jyutping": "fan1 sik1 yun4 zi1 hau6, ngo5 dei6 zoi3 zou6 kyut3 ding6.",
+      "meaning": "After analysing, we will make a decision.",
+      "sourceWordId": "fan1sik1-to-analyse",
+      "sourceWord": "分析",
+      "sourceWordJyutping": "fan1 sik1",
+      "sourceWordMeaning": "to analyse",
+      "tags": [
+        "verb",
+        "formal",
+        "spoken",
+        "academic",
+        "critical thinking",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fan1sik1-to-analyse.json"
+    },
+    {
+      "sentenceId": "gaai2sik1-to-explain-example-1",
+      "sentence": "你可唔可以幫我解釋呢個問題？",
+      "jyutping": "nei5 ho2 m4 ho2 ji5 bong1 ngo5 gaai2 sik1 ni1 go3 man6 tai4?",
+      "meaning": "Can you help me explain this problem?",
+      "sourceWordId": "gaai2sik1-to-explain",
+      "sourceWord": "解釋",
+      "sourceWordJyutping": "gaai2 sik1",
+      "sourceWordMeaning": "to explain",
+      "tags": [
+        "advanced",
+        "phrase",
+        "verb phrase",
+        "communication",
+        "clarification",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaai2sik1-to-explain.json"
+    },
+    {
+      "sentenceId": "gaai2sik1-to-explain-example-2",
+      "sentence": "老師用咗好多例子去解釋文法規則。",
+      "jyutping": "lou5 si1 jung6 zo2 hou2 do1 lai6 zi2 heoi3 gaai2 sik1 man4 faat3 kwai1 zak1.",
+      "meaning": "The teacher used many examples to explain the grammar rules.",
+      "sourceWordId": "gaai2sik1-to-explain",
+      "sourceWord": "解釋",
+      "sourceWordJyutping": "gaai2 sik1",
+      "sourceWordMeaning": "to explain",
+      "tags": [
+        "advanced",
+        "phrase",
+        "verb phrase",
+        "communication",
+        "clarification",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaai2sik1-to-explain.json"
+    },
+    {
+      "sentenceId": "gaai2sik1-to-explain-example-3",
+      "sentence": "我嘗試解釋，但佢似乎未明白。",
+      "jyutping": "ngo5 soeng4 si3 gaai2 sik1, daan6 keoi5 ci5 fu1 mei6 ming4 baak6.",
+      "meaning": "I tried to explain, but he seems not to understand.",
+      "sourceWordId": "gaai2sik1-to-explain",
+      "sourceWord": "解釋",
+      "sourceWordJyutping": "gaai2 sik1",
+      "sourceWordMeaning": "to explain",
+      "tags": [
+        "advanced",
+        "phrase",
+        "verb phrase",
+        "communication",
+        "clarification",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaai2sik1-to-explain.json"
+    },
+    {
+      "sentenceId": "gaai2sik1-to-explain-example-4",
+      "sentence": "請你詳細解釋下呢個概念。",
+      "jyutping": "cing2 nei5 coeng4 sai2 gaai2 sik1 haa5 ni1 go3 koi3 nim6.",
+      "meaning": "Please explain this concept in detail.",
+      "sourceWordId": "gaai2sik1-to-explain",
+      "sourceWord": "解釋",
+      "sourceWordJyutping": "gaai2 sik1",
+      "sourceWordMeaning": "to explain",
+      "tags": [
+        "advanced",
+        "phrase",
+        "verb phrase",
+        "communication",
+        "clarification",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gaai2sik1-to-explain.json"
+    },
+    {
+      "sentenceId": "zi2ceot1-to-point-out-example-1",
+      "sentence": "我想指出呢個問題嘅嚴重性。",
+      "jyutping": "ngo5 soeng2 zi2 ceot1 ni1 go3 man6 tai4 ge3 jim4 zung6 sing3.",
+      "meaning": "I want to point out the seriousness of this problem.",
+      "sourceWordId": "zi2ceot1-to-point-out",
+      "sourceWord": "指出",
+      "sourceWordJyutping": "zi2 ceot1",
+      "sourceWordMeaning": "to point out",
+      "tags": [
+        "advanced",
+        "phrase",
+        "formal",
+        "conversation",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi2ceot1-to-point-out.json"
+    },
+    {
+      "sentenceId": "zi2ceot1-to-point-out-example-2",
+      "sentence": "佢指出其實呢個方法有啲缺陷。",
+      "jyutping": "keoi5 zi2 ceot1 kei4 sat6 ni1 go3 fong1 faat3 jau5 di1 kyut3 haam6.",
+      "meaning": "He pointed out that this method actually has some shortcomings.",
+      "sourceWordId": "zi2ceot1-to-point-out",
+      "sourceWord": "指出",
+      "sourceWordJyutping": "zi2 ceot1",
+      "sourceWordMeaning": "to point out",
+      "tags": [
+        "advanced",
+        "phrase",
+        "formal",
+        "conversation",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi2ceot1-to-point-out.json"
+    },
+    {
+      "sentenceId": "zi2ceot1-to-point-out-example-3",
+      "sentence": "老師指出你寫得好有條理。",
+      "jyutping": "lou5 si1 zi2 ceot1 nei5 se2 dak1 hou2 jau5 tiu4 lei5.",
+      "meaning": "The teacher pointed out that you wrote very logically.",
+      "sourceWordId": "zi2ceot1-to-point-out",
+      "sourceWord": "指出",
+      "sourceWordJyutping": "zi2 ceot1",
+      "sourceWordMeaning": "to point out",
+      "tags": [
+        "advanced",
+        "phrase",
+        "formal",
+        "conversation",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi2ceot1-to-point-out.json"
+    },
+    {
+      "sentenceId": "zi2ceot1-to-point-out-example-4",
+      "sentence": "佢哋指出咗啲需要改進嘅地方。",
+      "jyutping": "keoi5 dei6 zi2 ceot1 zo2 di1 seoi1 jiu3 goi2 zeon3 ge3 dei6 fong1.",
+      "meaning": "They pointed out some areas that need improvement.",
+      "sourceWordId": "zi2ceot1-to-point-out",
+      "sourceWord": "指出",
+      "sourceWordJyutping": "zi2 ceot1",
+      "sourceWordMeaning": "to point out",
+      "tags": [
+        "advanced",
+        "phrase",
+        "formal",
+        "conversation",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zi2ceot1-to-point-out.json"
+    },
+    {
+      "sentenceId": "tai4dou6-to-mention-example-1",
+      "sentence": "提到旅行，你有冇諗過去日本？",
+      "jyutping": "tai4 dou6 leoi5 hang4, nei5 jau5 mou5 nam2 gwo3 heoi3 jat6 bun2?",
+      "meaning": "Speaking of travel, have you thought about going to Japan?",
+      "sourceWordId": "tai4dou6-to-mention",
+      "sourceWord": "提到",
+      "sourceWordJyutping": "tai4 dou6",
+      "sourceWordMeaning": "to mention",
+      "tags": [
+        "expression",
+        "conversation",
+        "topic introduction",
+        "mentioning",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai4dou6-to-mention.json"
+    },
+    {
+      "sentenceId": "tai4dou6-to-mention-example-2",
+      "sentence": "佢提到嗰個計劃，話可能會延期。",
+      "jyutping": "keoi5 tai4 dou6 go2 go3 gai3 waak6, waa6 ho2 nang4 wui5 jan4 kei4.",
+      "meaning": "He mentioned that plan, saying it might be postponed.",
+      "sourceWordId": "tai4dou6-to-mention",
+      "sourceWord": "提到",
+      "sourceWordJyutping": "tai4 dou6",
+      "sourceWordMeaning": "to mention",
+      "tags": [
+        "expression",
+        "conversation",
+        "topic introduction",
+        "mentioning",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai4dou6-to-mention.json"
+    },
+    {
+      "sentenceId": "tai4dou6-to-mention-example-3",
+      "sentence": "我哋提到嘅嘢，都係關於環保嘅問題。",
+      "jyutping": "ngo5 dei6 tai4 dou6 ge3 je5, dou1 hai6 gwaan1 jyu1 waan4 bo2 ge3 man6 tai4.",
+      "meaning": "The things we are mentioning all relate to environmental issues.",
+      "sourceWordId": "tai4dou6-to-mention",
+      "sourceWord": "提到",
+      "sourceWordJyutping": "tai4 dou6",
+      "sourceWordMeaning": "to mention",
+      "tags": [
+        "expression",
+        "conversation",
+        "topic introduction",
+        "mentioning",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai4dou6-to-mention.json"
+    },
+    {
+      "sentenceId": "tai4dou6-to-mention-example-4",
+      "sentence": "提到你媽媽，佢最近好唔好？",
+      "jyutping": "tai4 dou6 nei5 maa4 maa1, keoi5 zeoi3 gan6 hou2 m4 hou2?",
+      "meaning": "Speaking of your mother, how has she been lately?",
+      "sourceWordId": "tai4dou6-to-mention",
+      "sourceWord": "提到",
+      "sourceWordJyutping": "tai4 dou6",
+      "sourceWordMeaning": "to mention",
+      "tags": [
+        "expression",
+        "conversation",
+        "topic introduction",
+        "mentioning",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai4dou6-to-mention.json"
+    },
+    {
+      "sentenceId": "lei5gaai2-to-understand-example-1",
+      "sentence": "我好難理解點解佢會噉做。",
+      "jyutping": "ngo5 hou2 naan4 lei5 gaai2 dim2 gaai2 keoi5 wui5 gam2 zou6.",
+      "meaning": "I find it hard to understand why he would do that.",
+      "sourceWordId": "lei5gaai2-to-understand",
+      "sourceWord": "理解",
+      "sourceWordJyutping": "lei5 gaai2",
+      "sourceWordMeaning": "to understand",
+      "tags": [
+        "phrase",
+        "cognitive",
+        "comprehension",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei5gaai2-to-understand.json"
+    },
+    {
+      "sentenceId": "lei5gaai2-to-understand-example-2",
+      "sentence": "老師講解得好清楚，我完全理解咗。",
+      "jyutping": "lou5 si1 gong2 gaai2 dak1 hou2 cing1 co2, ngo5 jyun4 cyun4 lei5 gaai2 zo2.",
+      "meaning": "The teacher explained clearly, and I completely understood.",
+      "sourceWordId": "lei5gaai2-to-understand",
+      "sourceWord": "理解",
+      "sourceWordJyutping": "lei5 gaai2",
+      "sourceWordMeaning": "to understand",
+      "tags": [
+        "phrase",
+        "cognitive",
+        "comprehension",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei5gaai2-to-understand.json"
+    },
+    {
+      "sentenceId": "lei5gaai2-to-understand-example-3",
+      "sentence": "你試下換個角度去理解佢嘅感受。",
+      "jyutping": "nei5 si3 haa5 wun6 go3 gok3 dou6 heoi3 lei5 gaai2 keoi5 ge3 gam2 sau6.",
+      "meaning": "Try to understand his feelings from a different perspective.",
+      "sourceWordId": "lei5gaai2-to-understand",
+      "sourceWord": "理解",
+      "sourceWordJyutping": "lei5 gaai2",
+      "sourceWordMeaning": "to understand",
+      "tags": [
+        "phrase",
+        "cognitive",
+        "comprehension",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei5gaai2-to-understand.json"
+    },
+    {
+      "sentenceId": "lei5gaai2-to-understand-example-4",
+      "sentence": "理解別人的立場，有助於溝通。",
+      "jyutping": "lei5 gaai2 bit6 jan4 dik1 lap6 coeng4, jau5 zo6 jyu1 kau1 tung1.",
+      "meaning": "Understanding others’ positions helps with communication.",
+      "sourceWordId": "lei5gaai2-to-understand",
+      "sourceWord": "理解",
+      "sourceWordJyutping": "lei5 gaai2",
+      "sourceWordMeaning": "to understand",
+      "tags": [
+        "phrase",
+        "cognitive",
+        "comprehension",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei5gaai2-to-understand.json"
+    },
+    {
+      "sentenceId": "zung6dim2-key-point-main-point-example-1",
+      "sentence": "我哋講呢個計劃嘅重點係節省成本。",
+      "jyutping": "ngo5 dei6 gong2 ni1 go3 gai3 waak6 ge3 zung6 dim2 hai6 zit3 saang2 sing4 bun2.",
+      "meaning": "The key point of this plan is to reduce costs.",
+      "sourceWordId": "zung6dim2-key-point-main-point",
+      "sourceWord": "重點",
+      "sourceWordJyutping": "zung6 dim2",
+      "sourceWordMeaning": "key point; main point",
+      "tags": [
+        "advanced",
+        "analysis",
+        "important",
+        "summary",
+        "focus",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung6dim2-key-point-main-point.json"
+    },
+    {
+      "sentenceId": "zung6dim2-key-point-main-point-example-2",
+      "sentence": "聽我講完先，你要記住重點。",
+      "jyutping": "teng1 ngo5 gong2 jyun4 sin1, nei5 jiu3 gei3 zyu6 zung6 dim2.",
+      "meaning": "Listen to me finish first; you need to remember the key point.",
+      "sourceWordId": "zung6dim2-key-point-main-point",
+      "sourceWord": "重點",
+      "sourceWordJyutping": "zung6 dim2",
+      "sourceWordMeaning": "key point; main point",
+      "tags": [
+        "advanced",
+        "analysis",
+        "important",
+        "summary",
+        "focus",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung6dim2-key-point-main-point.json"
+    },
+    {
+      "sentenceId": "zung6dim2-key-point-main-point-example-3",
+      "sentence": "呢篇文章嘅重點係講市場趨勢。",
+      "jyutping": "ni1 pin1 man4 zoeng1 ge3 zung6 dim2 hai6 gong2 si5 coeng4 ceoi1 si3.",
+      "meaning": "The main point of this article is about market trends.",
+      "sourceWordId": "zung6dim2-key-point-main-point",
+      "sourceWord": "重點",
+      "sourceWordJyutping": "zung6 dim2",
+      "sourceWordMeaning": "key point; main point",
+      "tags": [
+        "advanced",
+        "analysis",
+        "important",
+        "summary",
+        "focus",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung6dim2-key-point-main-point.json"
+    },
+    {
+      "sentenceId": "zung6dim2-key-point-main-point-example-4",
+      "sentence": "講嘢要講清楚個重點，唔好離題。",
+      "jyutping": "gong2 je5 jiu3 gong2 cing1 co2 go3 zung6 dim2, m4 hou2 lei4 tai4.",
+      "meaning": "When speaking, you should make the main point clear and not go off-topic.",
+      "sourceWordId": "zung6dim2-key-point-main-point",
+      "sourceWord": "重點",
+      "sourceWordJyutping": "zung6 dim2",
+      "sourceWordMeaning": "key point; main point",
+      "tags": [
+        "advanced",
+        "analysis",
+        "important",
+        "summary",
+        "focus",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung6dim2-key-point-main-point.json"
+    },
+    {
+      "sentenceId": "fong1min6-aspect-area-example-1",
+      "sentence": "呢份報告喺市場方面分析得好詳細。",
+      "jyutping": "ni1 fan6 bou3 gou3 hai2 si5 coeng4 fong1 min6 fan1 sik1 dak1 hou2 coeng4 sai3.",
+      "meaning": "This report analyzes the market aspect very thoroughly.",
+      "sourceWordId": "fong1min6-aspect-area",
+      "sourceWord": "方面",
+      "sourceWordJyutping": "fong1 min6",
+      "sourceWordMeaning": "aspect / area",
+      "tags": [
+        "advanced",
+        "expression",
+        "analysis",
+        "discussion",
+        "aspect",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong1min6-aspect-area.json"
+    },
+    {
+      "sentenceId": "fong1min6-aspect-area-example-2",
+      "sentence": "你喺工作方面有冇咩特別嘅計劃？",
+      "jyutping": "nei5 hai2 gung1 zok3 fong1 min6 jau5 mou5 me1 dak6 bit6 ge3 gai3 waak6?",
+      "meaning": "Do you have any special plans in terms of work?",
+      "sourceWordId": "fong1min6-aspect-area",
+      "sourceWord": "方面",
+      "sourceWordJyutping": "fong1 min6",
+      "sourceWordMeaning": "aspect / area",
+      "tags": [
+        "advanced",
+        "expression",
+        "analysis",
+        "discussion",
+        "aspect",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong1min6-aspect-area.json"
+    },
+    {
+      "sentenceId": "fong1min6-aspect-area-example-3",
+      "sentence": "學習語言方面，我建議多啲練習同交流。",
+      "jyutping": "hok6 zaap6 jyu5 jin4 fong1 min6, ngo5 gin3 ji5 do1 di1 lin6 zaap6 tung4 gaau1 lau4.",
+      "meaning": "Regarding language learning, I suggest more practice and communication.",
+      "sourceWordId": "fong1min6-aspect-area",
+      "sourceWord": "方面",
+      "sourceWordJyutping": "fong1 min6",
+      "sourceWordMeaning": "aspect / area",
+      "tags": [
+        "advanced",
+        "expression",
+        "analysis",
+        "discussion",
+        "aspect",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong1min6-aspect-area.json"
+    },
+    {
+      "sentenceId": "fong1min6-aspect-area-example-4",
+      "sentence": "財務方面嘅問題，最好搵專家幫手。",
+      "jyutping": "coi4 mou6 fong1 min6 ge3 man6 tai4, zeoi3 hou2 wan2 zyun1 gaa1 bong1 sau2.",
+      "meaning": "For financial matters, it's best to seek expert help.",
+      "sourceWordId": "fong1min6-aspect-area",
+      "sourceWord": "方面",
+      "sourceWordJyutping": "fong1 min6",
+      "sourceWordMeaning": "aspect / area",
+      "tags": [
+        "advanced",
+        "expression",
+        "analysis",
+        "discussion",
+        "aspect",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/fong1min6-aspect-area.json"
+    },
+    {
+      "sentenceId": "gun1dim2-viewpoint-example-1",
+      "sentence": "你嘅觀點同我有啲唔同。",
+      "jyutping": "nei5 ge3 gun1 dim2 tung4 ngo5 jau5 di1 m4 tung4.",
+      "meaning": "Your viewpoint is a bit different from mine.",
+      "sourceWordId": "gun1dim2-viewpoint",
+      "sourceWord": "觀點",
+      "sourceWordJyutping": "gun1 dim2",
+      "sourceWordMeaning": "viewpoint",
+      "tags": [
+        "advanced",
+        "opinions",
+        "discussion",
+        "expression",
+        "viewpoint",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gun1dim2-viewpoint.json"
+    },
+    {
+      "sentenceId": "gun1dim2-viewpoint-example-2",
+      "sentence": "我想聽下你對呢件事嘅觀點。",
+      "jyutping": "ngo5 soeng2 teng1 haa5 nei5 deoi3 ni1 gin6 si6 ge3 gun1 dim2.",
+      "meaning": "I want to hear your viewpoint on this matter.",
+      "sourceWordId": "gun1dim2-viewpoint",
+      "sourceWord": "觀點",
+      "sourceWordJyutping": "gun1 dim2",
+      "sourceWordMeaning": "viewpoint",
+      "tags": [
+        "advanced",
+        "opinions",
+        "discussion",
+        "expression",
+        "viewpoint",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gun1dim2-viewpoint.json"
+    },
+    {
+      "sentenceId": "gun1dim2-viewpoint-example-3",
+      "sentence": "各人都有自己嘅觀點，大家要互相尊重。",
+      "jyutping": "gok3 jan4 dou1 jau5 zi6 gei2 ge3 gun1 dim2, daai6 gaa1 jiu3 wu6 soeng1 zyun1 zung3.",
+      "meaning": "Everyone has their own viewpoint; we should respect each other.",
+      "sourceWordId": "gun1dim2-viewpoint",
+      "sourceWord": "觀點",
+      "sourceWordJyutping": "gun1 dim2",
+      "sourceWordMeaning": "viewpoint",
+      "tags": [
+        "advanced",
+        "opinions",
+        "discussion",
+        "expression",
+        "viewpoint",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gun1dim2-viewpoint.json"
+    },
+    {
+      "sentenceId": "gun1dim2-viewpoint-example-4",
+      "sentence": "講嘢嘅時候，要清楚表達自己嘅觀點。",
+      "jyutping": "gong2 je5 ge3 si4 hau6, jiu3 cing1 co2 biu2 daat6 zi6 gei2 ge3 gun1 dim2.",
+      "meaning": "When speaking, you need to clearly express your viewpoint.",
+      "sourceWordId": "gun1dim2-viewpoint",
+      "sourceWord": "觀點",
+      "sourceWordJyutping": "gun1 dim2",
+      "sourceWordMeaning": "viewpoint",
+      "tags": [
+        "advanced",
+        "opinions",
+        "discussion",
+        "expression",
+        "viewpoint",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gun1dim2-viewpoint.json"
+    },
+    {
+      "sentenceId": "laap6coeng4-stance-position-example-1",
+      "sentence": "你嘅立場係點解釋呢個問題？",
+      "jyutping": "nei5 ge3 laap6 coeng4 hai6 dim2 gaai2 sik1 ni1 go3 man6 tai4?",
+      "meaning": "What is your stance on this issue?",
+      "sourceWordId": "laap6coeng4-stance-position",
+      "sourceWord": "立場",
+      "sourceWordJyutping": "laap6 coeng4",
+      "sourceWordMeaning": "stance / position",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinions",
+        "viewpoints",
+        "discussion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/laap6coeng4-stance-position.json"
+    },
+    {
+      "sentenceId": "laap6coeng4-stance-position-example-2",
+      "sentence": "公司嘅立場係支持環保措施。",
+      "jyutping": "gung1 si1 ge3 laap6 coeng4 hai6 zi1 ci4 waan4 bou2 cou3 sik1.",
+      "meaning": "The company's position is to support environmental protection measures.",
+      "sourceWordId": "laap6coeng4-stance-position",
+      "sourceWord": "立場",
+      "sourceWordJyutping": "laap6 coeng4",
+      "sourceWordMeaning": "stance / position",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinions",
+        "viewpoints",
+        "discussion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/laap6coeng4-stance-position.json"
+    },
+    {
+      "sentenceId": "laap6coeng4-stance-position-example-3",
+      "sentence": "佢喺辯論中保持咗中立嘅立場。",
+      "jyutping": "keoi5 hai2 bin6 leon6 zung1 bou2 ci4 zo2 zung1 lap6 ge3 laap6 coeng4.",
+      "meaning": "He maintained a neutral stance during the debate.",
+      "sourceWordId": "laap6coeng4-stance-position",
+      "sourceWord": "立場",
+      "sourceWordJyutping": "laap6 coeng4",
+      "sourceWordMeaning": "stance / position",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinions",
+        "viewpoints",
+        "discussion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/laap6coeng4-stance-position.json"
+    },
+    {
+      "sentenceId": "laap6coeng4-stance-position-example-4",
+      "sentence": "了解對方嘅立場有助於解決衝突。",
+      "jyutping": "liu5 gaai2 deoi3 fong1 ge3 laap6 coeng4 jau5 zo6 jyu1 gaai2 kyut3 cung1 dat6.",
+      "meaning": "Understanding the other party's position helps resolve conflicts.",
+      "sourceWordId": "laap6coeng4-stance-position",
+      "sourceWord": "立場",
+      "sourceWordJyutping": "laap6 coeng4",
+      "sourceWordMeaning": "stance / position",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinions",
+        "viewpoints",
+        "discussion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/laap6coeng4-stance-position.json"
+    },
+    {
+      "sentenceId": "gok3dou6-angle-perspective-example-1",
+      "sentence": "我哋要從不同角度睇呢個問題先得。",
+      "jyutping": "ngo5 dei6 jiu3 cung4 bat1 tung4 gok3 dou6 tai2 ni1 go3 man6 tai4 sin1 dak1.",
+      "meaning": "We need to look at this problem from different perspectives first.",
+      "sourceWordId": "gok3dou6-angle-perspective",
+      "sourceWord": "角度",
+      "sourceWordJyutping": "gok3 dou6",
+      "sourceWordMeaning": "angle / perspective",
+      "tags": [
+        "advanced",
+        "viewpoints",
+        "opinions",
+        "perspective",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gok3dou6-angle-perspective.json"
+    },
+    {
+      "sentenceId": "gok3dou6-angle-perspective-example-2",
+      "sentence": "你試下用其他角度去分析呢件事。",
+      "jyutping": "nei5 si3 haa5 jung6 kei4 taa1 gok3 dou6 heoi3 fan1 sik1 ni1 gin6 si6.",
+      "meaning": "Try analyzing this matter from another angle.",
+      "sourceWordId": "gok3dou6-angle-perspective",
+      "sourceWord": "角度",
+      "sourceWordJyutping": "gok3 dou6",
+      "sourceWordMeaning": "angle / perspective",
+      "tags": [
+        "advanced",
+        "viewpoints",
+        "opinions",
+        "perspective",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gok3dou6-angle-perspective.json"
+    },
+    {
+      "sentenceId": "gok3dou6-angle-perspective-example-3",
+      "sentence": "呢個角度講法聽落又合理。",
+      "jyutping": "ni1 go3 gok3 dou6 gong2 faat3 teng1 lok6 jau6 hap6 lei5.",
+      "meaning": "This perspective sounds reasonable.",
+      "sourceWordId": "gok3dou6-angle-perspective",
+      "sourceWord": "角度",
+      "sourceWordJyutping": "gok3 dou6",
+      "sourceWordMeaning": "angle / perspective",
+      "tags": [
+        "advanced",
+        "viewpoints",
+        "opinions",
+        "perspective",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gok3dou6-angle-perspective.json"
+    },
+    {
+      "sentenceId": "gok3dou6-angle-perspective-example-4",
+      "sentence": "擺低主觀，換個角度諗吓先。",
+      "jyutping": "baai2 dai1 zyu2 gun1, wun6 go3 gok3 dou6 nam2 haa5 sin1.",
+      "meaning": "Put aside your opinions and think from a different angle first.",
+      "sourceWordId": "gok3dou6-angle-perspective",
+      "sourceWord": "角度",
+      "sourceWordJyutping": "gok3 dou6",
+      "sourceWordMeaning": "angle / perspective",
+      "tags": [
+        "advanced",
+        "viewpoints",
+        "opinions",
+        "perspective",
+        "analysis",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gok3dou6-angle-perspective.json"
+    },
+    {
+      "sentenceId": "ji3gin3-opinion-example-1",
+      "sentence": "你有冇咩意見想講？",
+      "jyutping": "nei5 jau5 mou5 me1 ji3 gin3 soeng2 gong2?",
+      "meaning": "Do you have any opinions you want to share?",
+      "sourceWordId": "ji3gin3-opinion",
+      "sourceWord": "意見",
+      "sourceWordJyutping": "ji3 gin3",
+      "sourceWordMeaning": "opinion",
+      "tags": [
+        "opinion",
+        "viewpoint",
+        "feedback",
+        "discussion",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ji3gin3-opinion.json"
+    },
+    {
+      "sentenceId": "ji3gin3-opinion-example-2",
+      "sentence": "我覺得你嘅意見好有道理。",
+      "jyutping": "ngo5 gok3 dak1 nei5 ge3 ji3 gin3 hou2 jau5 dou6 lei5.",
+      "meaning": "I think your opinion is very reasonable.",
+      "sourceWordId": "ji3gin3-opinion",
+      "sourceWord": "意見",
+      "sourceWordJyutping": "ji3 gin3",
+      "sourceWordMeaning": "opinion",
+      "tags": [
+        "opinion",
+        "viewpoint",
+        "feedback",
+        "discussion",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ji3gin3-opinion.json"
+    },
+    {
+      "sentenceId": "ji3gin3-opinion-example-3",
+      "sentence": "大家都可以自由發表自己嘅意見。",
+      "jyutping": "daai6 gaa1 dou1 ho2 ji5 zi6 jau4 faat3 biu2 zi6 gei2 ge3 ji3 gin3.",
+      "meaning": "Everyone can freely express their own opinions.",
+      "sourceWordId": "ji3gin3-opinion",
+      "sourceWord": "意見",
+      "sourceWordJyutping": "ji3 gin3",
+      "sourceWordMeaning": "opinion",
+      "tags": [
+        "opinion",
+        "viewpoint",
+        "feedback",
+        "discussion",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ji3gin3-opinion.json"
+    },
+    {
+      "sentenceId": "ji3gin3-opinion-example-4",
+      "sentence": "我聽完你嘅意見之後，會再諗諗。",
+      "jyutping": "ngo5 teng1 jyun4 nei5 ge3 ji3 gin3 zi1 hau6, wui5 zoi3 nam2 nam2.",
+      "meaning": "After hearing your opinion, I will think it over again.",
+      "sourceWordId": "ji3gin3-opinion",
+      "sourceWord": "意見",
+      "sourceWordJyutping": "ji3 gin3",
+      "sourceWordMeaning": "opinion",
+      "tags": [
+        "opinion",
+        "viewpoint",
+        "feedback",
+        "discussion",
+        "expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ji3gin3-opinion.json"
+    },
+    {
+      "sentenceId": "tai2faat3-way-of-seeing-view-example-1",
+      "sentence": "你嘅睇法同我唔同，我覺得佢講得啱。",
+      "jyutping": "nei5 ge3 tai2 faat3 tung4 ngo5 m4 tung4, ngo5 gok3 dak1 keoi5 gong2 dak1 a1m3.",
+      "meaning": "Your way of seeing it is different from mine; I think what he said is right.",
+      "sourceWordId": "tai2faat3-way-of-seeing-view",
+      "sourceWord": "睇法",
+      "sourceWordJyutping": "tai2 faat3",
+      "sourceWordMeaning": "way of seeing / view",
+      "tags": [
+        "perspective",
+        "viewpoint",
+        "opinion",
+        "expression",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai2faat3-way-of-seeing-view.json"
+    },
+    {
+      "sentenceId": "tai2faat3-way-of-seeing-view-example-2",
+      "sentence": "喺呢件事上，大家嘅睇法都有啲唔同。",
+      "jyutping": "hai2 ni1 gin6 si6 soeng6, daai6 gaa1 ge3 tai2 faat3 dou1 jau5 di1 m4 tung4.",
+      "meaning": "Regarding this matter, everyone's viewpoints are somewhat different.",
+      "sourceWordId": "tai2faat3-way-of-seeing-view",
+      "sourceWord": "睇法",
+      "sourceWordJyutping": "tai2 faat3",
+      "sourceWordMeaning": "way of seeing / view",
+      "tags": [
+        "perspective",
+        "viewpoint",
+        "opinion",
+        "expression",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai2faat3-way-of-seeing-view.json"
+    },
+    {
+      "sentenceId": "tai2faat3-way-of-seeing-view-example-3",
+      "sentence": "你用呢個睇法去分析問題，好有新意。",
+      "jyutping": "nei5 jung6 ni1 go3 tai2 faat3 heoi3 fan1 sik1 man6 tai4, hou2 jau5 san1 ji3.",
+      "meaning": "Using this way of seeing to analyze the problem is very innovative.",
+      "sourceWordId": "tai2faat3-way-of-seeing-view",
+      "sourceWord": "睇法",
+      "sourceWordJyutping": "tai2 faat3",
+      "sourceWordMeaning": "way of seeing / view",
+      "tags": [
+        "perspective",
+        "viewpoint",
+        "opinion",
+        "expression",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai2faat3-way-of-seeing-view.json"
+    },
+    {
+      "sentenceId": "tai2faat3-way-of-seeing-view-example-4",
+      "sentence": "我想聽下你對呢個計劃嘅睇法。",
+      "jyutping": "ngo5 soeng2 teng1 haa5 nei5 deoi3 ni1 go3 gai3 waak6 ge3 tai2 faat3.",
+      "meaning": "I want to hear your viewpoint on this plan.",
+      "sourceWordId": "tai2faat3-way-of-seeing-view",
+      "sourceWord": "睇法",
+      "sourceWordJyutping": "tai2 faat3",
+      "sourceWordMeaning": "way of seeing / view",
+      "tags": [
+        "perspective",
+        "viewpoint",
+        "opinion",
+        "expression",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/tai2faat3-way-of-seeing-view.json"
+    },
+    {
+      "sentenceId": "ngo5jing6wai4-i-think-in-my-opinion-example-1",
+      "sentence": "我認為呢件事應該慢慢處理。",
+      "jyutping": "ngo5 jing6 wai4 ni1 gin6 si6 jing1 goi1 maan6 maan6 cyu2 lei5.",
+      "meaning": "I think this matter should be handled slowly.",
+      "sourceWordId": "ngo5jing6wai4-i-think-in-my-opinion",
+      "sourceWord": "我認為",
+      "sourceWordJyutping": "ngo5 jing6 wai4",
+      "sourceWordMeaning": "I think / in my opinion",
+      "tags": [
+        "opinion",
+        "expression",
+        "discourse marker",
+        "advanced",
+        "viewpoints",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jing6wai4-i-think-in-my-opinion.json"
+    },
+    {
+      "sentenceId": "ngo5jing6wai4-i-think-in-my-opinion-example-2",
+      "sentence": "我認為大家都應該聽聽對方嘅意見。",
+      "jyutping": "ngo5 jing6 wai4 daai6 gaa1 dou1 jing1 goi1 teng1 teng1 deoi3 fong1 ge3 ji3 gin3.",
+      "meaning": "In my opinion, everyone should listen to the other party’s opinions.",
+      "sourceWordId": "ngo5jing6wai4-i-think-in-my-opinion",
+      "sourceWord": "我認為",
+      "sourceWordJyutping": "ngo5 jing6 wai4",
+      "sourceWordMeaning": "I think / in my opinion",
+      "tags": [
+        "opinion",
+        "expression",
+        "discourse marker",
+        "advanced",
+        "viewpoints",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jing6wai4-i-think-in-my-opinion.json"
+    },
+    {
+      "sentenceId": "ngo5jing6wai4-i-think-in-my-opinion-example-3",
+      "sentence": "我認為呢個方法未必最有效。",
+      "jyutping": "ngo5 jing6 wai4 ni1 go3 fong1 faat3 mei6 bat1 zeoi3 jau6 haau6.",
+      "meaning": "I think this method might not be the most effective.",
+      "sourceWordId": "ngo5jing6wai4-i-think-in-my-opinion",
+      "sourceWord": "我認為",
+      "sourceWordJyutping": "ngo5 jing6 wai4",
+      "sourceWordMeaning": "I think / in my opinion",
+      "tags": [
+        "opinion",
+        "expression",
+        "discourse marker",
+        "advanced",
+        "viewpoints",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jing6wai4-i-think-in-my-opinion.json"
+    },
+    {
+      "sentenceId": "ngo5jing6wai4-i-think-in-my-opinion-example-4",
+      "sentence": "我認為佢嘅做法唔太合理。",
+      "jyutping": "ngo5 jing6 wai4 keoi5 ge3 zou6 faat3 m4 taai3 ho2 lei5.",
+      "meaning": "In my opinion, his approach is not very reasonable.",
+      "sourceWordId": "ngo5jing6wai4-i-think-in-my-opinion",
+      "sourceWord": "我認為",
+      "sourceWordJyutping": "ngo5 jing6 wai4",
+      "sourceWordMeaning": "I think / in my opinion",
+      "tags": [
+        "opinion",
+        "expression",
+        "discourse marker",
+        "advanced",
+        "viewpoints",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ngo5jing6wai4-i-think-in-my-opinion.json"
+    },
+    {
+      "sentenceId": "ci5fu4-it-seems-apparently-example-1",
+      "sentence": "佢似乎唔想參加呢個聚會。",
+      "jyutping": "Keoi5 ci5 fu4 m4 soeng2 caam1 gaa1 ni1 go3 zeoi6 wui2.",
+      "meaning": "It seems that he doesn't want to attend this gathering.",
+      "sourceWordId": "ci5fu4-it-seems-apparently",
+      "sourceWord": "似乎",
+      "sourceWordJyutping": "ci5 fu4",
+      "sourceWordMeaning": "it seems / apparently",
+      "tags": [
+        "expression",
+        "uncertainty",
+        "opinion",
+        "guess",
+        "tentative",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ci5fu4-it-seems-apparently.json"
+    },
+    {
+      "sentenceId": "ci5fu4-it-seems-apparently-example-2",
+      "sentence": "天氣似乎會變壞喇。",
+      "jyutping": "Tin1 hei3 ci5 fu4 wui5 bin3 waai6 laa3.",
+      "meaning": "It appears that the weather will turn bad.",
+      "sourceWordId": "ci5fu4-it-seems-apparently",
+      "sourceWord": "似乎",
+      "sourceWordJyutping": "ci5 fu4",
+      "sourceWordMeaning": "it seems / apparently",
+      "tags": [
+        "expression",
+        "uncertainty",
+        "opinion",
+        "guess",
+        "tentative",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ci5fu4-it-seems-apparently.json"
+    },
+    {
+      "sentenceId": "ci5fu4-it-seems-apparently-example-3",
+      "sentence": "佢似乎已經完成晒所有嘅工作。",
+      "jyutping": "Keoi5 ci5 fu4 ji5 ging1 jyun4 sing4 saai3 so2 jau5 ge3 gung1 zok3.",
+      "meaning": "It seems that he has already finished all the work.",
+      "sourceWordId": "ci5fu4-it-seems-apparently",
+      "sourceWord": "似乎",
+      "sourceWordJyutping": "ci5 fu4",
+      "sourceWordMeaning": "it seems / apparently",
+      "tags": [
+        "expression",
+        "uncertainty",
+        "opinion",
+        "guess",
+        "tentative",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ci5fu4-it-seems-apparently.json"
+    },
+    {
+      "sentenceId": "ci5fu4-it-seems-apparently-example-4",
+      "sentence": "呢啲資料似乎有啲錯誤。",
+      "jyutping": "Ni1 di1 zi1 liu2 ci5 fu4 jau5 di1 co3 ng6.",
+      "meaning": "These materials apparently have some errors.",
+      "sourceWordId": "ci5fu4-it-seems-apparently",
+      "sourceWord": "似乎",
+      "sourceWordJyutping": "ci5 fu4",
+      "sourceWordMeaning": "it seems / apparently",
+      "tags": [
+        "expression",
+        "uncertainty",
+        "opinion",
+        "guess",
+        "tentative",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ci5fu4-it-seems-apparently.json"
+    },
+    {
+      "sentenceId": "jyun4jan1-cause-reason-example-1",
+      "sentence": "佢遲到嘅原因係交通塞車。",
+      "jyutping": "Keoi5 ci4 dou3 ge3 jyun4 jan1 hai6 gaau1 tung1 sak1 ce1.",
+      "meaning": "The reason he was late is because of traffic congestion.",
+      "sourceWordId": "jyun4jan1-cause-reason",
+      "sourceWord": "原因",
+      "sourceWordJyutping": "jyun4 jan1",
+      "sourceWordMeaning": "cause / reason",
+      "tags": [
+        "cause",
+        "reason",
+        "explanation",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4jan1-cause-reason.json"
+    },
+    {
+      "sentenceId": "jyun4jan1-cause-reason-example-2",
+      "sentence": "唔開心嘅原因係工作太多。",
+      "jyutping": "M4 hoi1 sam1 ge3 jyun4 jan1 hai6 gung1 zok3 taai3 do1.",
+      "meaning": "The cause of unhappiness is having too much work.",
+      "sourceWordId": "jyun4jan1-cause-reason",
+      "sourceWord": "原因",
+      "sourceWordJyutping": "jyun4 jan1",
+      "sourceWordMeaning": "cause / reason",
+      "tags": [
+        "cause",
+        "reason",
+        "explanation",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4jan1-cause-reason.json"
+    },
+    {
+      "sentenceId": "jyun4jan1-cause-reason-example-3",
+      "sentence": "我諗定原因先至決定行動。",
+      "jyutping": "Ngo5 nam2 ding6 jyun4 jan1 sin1 zi3 kyut3 ding6 hang4 dung6.",
+      "meaning": "I consider the reasons before deciding to take action.",
+      "sourceWordId": "jyun4jan1-cause-reason",
+      "sourceWord": "原因",
+      "sourceWordJyutping": "jyun4 jan1",
+      "sourceWordMeaning": "cause / reason",
+      "tags": [
+        "cause",
+        "reason",
+        "explanation",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4jan1-cause-reason.json"
+    },
+    {
+      "sentenceId": "jyun4jan1-cause-reason-example-4",
+      "sentence": "原來呢件事嘅原因係誤會。",
+      "jyutping": "Jyun4 loi4 ni1 gin6 si6 ge3 jyun4 jan1 hai6 ng6 wui6.",
+      "meaning": "It turns out the cause of this matter is a misunderstanding.",
+      "sourceWordId": "jyun4jan1-cause-reason",
+      "sourceWord": "原因",
+      "sourceWordJyutping": "jyun4 jan1",
+      "sourceWordMeaning": "cause / reason",
+      "tags": [
+        "cause",
+        "reason",
+        "explanation",
+        "formal",
+        "informal",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jyun4jan1-cause-reason.json"
+    },
+    {
+      "sentenceId": "git3gwo2-result-outcome-example-1",
+      "sentence": "我哋仲未收到測試結果。",
+      "jyutping": "ngo5 dei6 zung6 mei6 sau1 dou3 cak1 si3 git3 gwo2.",
+      "meaning": "We haven't received the test results yet.",
+      "sourceWordId": "git3gwo2-result-outcome",
+      "sourceWord": "結果",
+      "sourceWordJyutping": "git3 gwo2",
+      "sourceWordMeaning": "result; outcome",
+      "tags": [
+        "science",
+        "noun",
+        "outcome",
+        "results",
+        "general_science",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
+    },
+    {
+      "sentenceId": "git3gwo2-result-outcome-example-2",
+      "sentence": "研究結果好令人驚訝。",
+      "jyutping": "jin4 gau3 git3 gwo2 hou2 ling6 jan4 ging1 ngaa6.",
+      "meaning": "The research results are very surprising.",
+      "sourceWordId": "git3gwo2-result-outcome",
+      "sourceWord": "結果",
+      "sourceWordJyutping": "git3 gwo2",
+      "sourceWordMeaning": "result; outcome",
+      "tags": [
+        "science",
+        "noun",
+        "outcome",
+        "results",
+        "general_science",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
+    },
+    {
+      "sentenceId": "git3gwo2-result-outcome-example-3",
+      "sentence": "你睇吓，計算結果係啱嘅。",
+      "jyutping": "nei5 tai2 haa5, gai3 syun3 git3 gwo2 hai6 aam1 ge3.",
+      "meaning": "Look, the result of the calculation is correct.",
+      "sourceWordId": "git3gwo2-result-outcome",
+      "sourceWord": "結果",
+      "sourceWordJyutping": "git3 gwo2",
+      "sourceWordMeaning": "result; outcome",
+      "tags": [
+        "science",
+        "noun",
+        "outcome",
+        "results",
+        "general_science",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
+    },
+    {
+      "sentenceId": "git3gwo2-result-outcome-example-4",
+      "sentence": "呢個實驗嘅結果證明咗個理論。",
+      "jyutping": "ni1 go3 sat6 jim6 ge3 git3 gwo2 zing3 ming4 zo2 go3 lei5 leon6.",
+      "meaning": "The result of this experiment proved the theory.",
+      "sourceWordId": "git3gwo2-result-outcome",
+      "sourceWord": "結果",
+      "sourceWordJyutping": "git3 gwo2",
+      "sourceWordMeaning": "result; outcome",
+      "tags": [
+        "science",
+        "noun",
+        "outcome",
+        "results",
+        "general_science",
+        "level-1"
+      ],
+      "sourceFile": "r2-backup/words/git3gwo2-result-outcome.json"
+    },
+    {
+      "sentenceId": "dou6zi3-to-lead-to-example-1",
+      "sentence": "最近嘅天氣變化導致咗我感冒。",
+      "jyutping": "zeoi3 gan6 ge3 tin1 hei3 bin3 faa3 dou6 zi3 zo2 ngo5 gam2 mou6.",
+      "meaning": "The recent weather changes led to me catching a cold.",
+      "sourceWordId": "dou6zi3-to-lead-to",
+      "sourceWord": "導致",
+      "sourceWordJyutping": "dou6 zi3",
+      "sourceWordMeaning": "to lead to",
+      "tags": [
+        "cause_and_effect",
+        "formal",
+        "connector",
+        "linking_phrase",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/dou6zi3-to-lead-to.json"
+    },
+    {
+      "sentenceId": "dou6zi3-to-lead-to-example-2",
+      "sentence": "佢嘅錯誤判斷導致咗公司損失慘重。",
+      "jyutping": "keoi5 ge3 co3 ng6 pun3 dyun6 dou6 zi3 zo2 gung1 si1 syun2 sat1 caam2 cung5.",
+      "meaning": "His wrong judgment led to heavy losses for the company.",
+      "sourceWordId": "dou6zi3-to-lead-to",
+      "sourceWord": "導致",
+      "sourceWordJyutping": "dou6 zi3",
+      "sourceWordMeaning": "to lead to",
+      "tags": [
+        "cause_and_effect",
+        "formal",
+        "connector",
+        "linking_phrase",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/dou6zi3-to-lead-to.json"
+    },
+    {
+      "sentenceId": "dou6zi3-to-lead-to-example-3",
+      "sentence": "交通擠塞導致咗我哋遲到。",
+      "jyutping": "gaau1 tung1 zai1 sak1 dou6 zi3 zo2 ngo5 dei6 ci4 dou3.",
+      "meaning": "Traffic congestion caused us to be late.",
+      "sourceWordId": "dou6zi3-to-lead-to",
+      "sourceWord": "導致",
+      "sourceWordJyutping": "dou6 zi3",
+      "sourceWordMeaning": "to lead to",
+      "tags": [
+        "cause_and_effect",
+        "formal",
+        "connector",
+        "linking_phrase",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/dou6zi3-to-lead-to.json"
+    },
+    {
+      "sentenceId": "dou6zi3-to-lead-to-example-4",
+      "sentence": "污染嚴重導致咗當地生態破壞。",
+      "jyutping": "wu1 jim5 yim4 zung6 dou6 zi3 zo2 dong1 dei6 sang1 taai3 po3 waai6.",
+      "meaning": "Severe pollution has led to local ecological damage.",
+      "sourceWordId": "dou6zi3-to-lead-to",
+      "sourceWord": "導致",
+      "sourceWordJyutping": "dou6 zi3",
+      "sourceWordMeaning": "to lead to",
+      "tags": [
+        "cause_and_effect",
+        "formal",
+        "connector",
+        "linking_phrase",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/dou6zi3-to-lead-to.json"
+    },
+    {
+      "sentenceId": "jing2hoeng2dou3-to-affect-example-1",
+      "sentence": "噪音太大會影響到我嘅專注力。",
+      "jyutping": "zou3 jam1 taai3 daai6 wui5 jing2 hoeng2 dou3 ngo5 ge3 zyun1 zyu3 lik6.",
+      "meaning": "Loud noise will affect my concentration.",
+      "sourceWordId": "jing2hoeng2dou3-to-affect",
+      "sourceWord": "影響到",
+      "sourceWordJyutping": "jing2 hoeng2 dou3",
+      "sourceWordMeaning": "to affect",
+      "tags": [
+        "cause and effect",
+        "impact",
+        "influence",
+        "consequences",
+        "advanced expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jing2hoeng2dou3-to-affect.json"
+    },
+    {
+      "sentenceId": "jing2hoeng2dou3-to-affect-example-2",
+      "sentence": "你嘅決定可能會影響到整個團隊。",
+      "jyutping": "nei5 ge3 kyut3 ding6 ho2 nang4 wui5 jing2 hoeng2 dou3 zing2 go3 tyun4 deoi2.",
+      "meaning": "Your decision might affect the whole team.",
+      "sourceWordId": "jing2hoeng2dou3-to-affect",
+      "sourceWord": "影響到",
+      "sourceWordJyutping": "jing2 hoeng2 dou3",
+      "sourceWordMeaning": "to affect",
+      "tags": [
+        "cause and effect",
+        "impact",
+        "influence",
+        "consequences",
+        "advanced expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jing2hoeng2dou3-to-affect.json"
+    },
+    {
+      "sentenceId": "jing2hoeng2dou3-to-affect-example-3",
+      "sentence": "天氣變差會影響到出門嘅計劃。",
+      "jyutping": "tin1 hei3 bin3 caa1 wui5 jing2 hoeng2 dou3 ceot1 mun4 ge3 gai3 waak6.",
+      "meaning": "Bad weather will affect the plans of going out.",
+      "sourceWordId": "jing2hoeng2dou3-to-affect",
+      "sourceWord": "影響到",
+      "sourceWordJyutping": "jing2 hoeng2 dou3",
+      "sourceWordMeaning": "to affect",
+      "tags": [
+        "cause and effect",
+        "impact",
+        "influence",
+        "consequences",
+        "advanced expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jing2hoeng2dou3-to-affect.json"
+    },
+    {
+      "sentenceId": "jing2hoeng2dou3-to-affect-example-4",
+      "sentence": "小朋友嘅健康狀況會影響到佢哋嘅學習能力。",
+      "jyutping": "siu2 pang4 jau5 ge3 gin6 hong1 zong6 fong3 wui5 jing2 hoeng2 dou3 keoi5 dei6 ge3 hok6 zaap6 nang4 lik6.",
+      "meaning": "Children's health condition will affect their learning ability.",
+      "sourceWordId": "jing2hoeng2dou3-to-affect",
+      "sourceWord": "影響到",
+      "sourceWordJyutping": "jing2 hoeng2 dou3",
+      "sourceWordMeaning": "to affect",
+      "tags": [
+        "cause and effect",
+        "impact",
+        "influence",
+        "consequences",
+        "advanced expression",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jing2hoeng2dou3-to-affect.json"
+    },
+    {
+      "sentenceId": "daai3lei4-to-bring-about-example-1",
+      "sentence": "呢個決定會帶嚟好多問題。",
+      "jyutping": "ni1 go3 kyut3 ding6 wui5 daai3 lei4 hou2 do1 man6 tai4.",
+      "meaning": "This decision will bring about many problems.",
+      "sourceWordId": "daai3lei4-to-bring-about",
+      "sourceWord": "帶嚟",
+      "sourceWordJyutping": "daai3 lei4",
+      "sourceWordMeaning": "to bring about",
+      "tags": [
+        "cause",
+        "effect",
+        "result",
+        "spoken Cantonese",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai3lei4-to-bring-about.json"
+    },
+    {
+      "sentenceId": "daai3lei4-to-bring-about-example-2",
+      "sentence": "佢嘅遲到帶嚟唔好嘅印象。",
+      "jyutping": "keoi5 ge3 ci4 dou3 daai3 lei4 m4 hou2 ge3 jan3 zoeng6.",
+      "meaning": "His lateness brought about a bad impression.",
+      "sourceWordId": "daai3lei4-to-bring-about",
+      "sourceWord": "帶嚟",
+      "sourceWordJyutping": "daai3 lei4",
+      "sourceWordMeaning": "to bring about",
+      "tags": [
+        "cause",
+        "effect",
+        "result",
+        "spoken Cantonese",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai3lei4-to-bring-about.json"
+    },
+    {
+      "sentenceId": "daai3lei4-to-bring-about-example-3",
+      "sentence": "新政策帶嚟經濟增長。",
+      "jyutping": "san1 zing3 caak3 daai3 lei4 ging1 zai3 zang1 coeng4.",
+      "meaning": "The new policy brought about economic growth.",
+      "sourceWordId": "daai3lei4-to-bring-about",
+      "sourceWord": "帶嚟",
+      "sourceWordJyutping": "daai3 lei4",
+      "sourceWordMeaning": "to bring about",
+      "tags": [
+        "cause",
+        "effect",
+        "result",
+        "spoken Cantonese",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai3lei4-to-bring-about.json"
+    },
+    {
+      "sentenceId": "daai3lei4-to-bring-about-example-4",
+      "sentence": "佢嘅誠實態度帶嚟信任。",
+      "jyutping": "keoi5 ge3 sing4 sat6 taai3 dou6 daai3 lei4 seon3 jam6.",
+      "meaning": "His honest attitude brought about trust.",
+      "sourceWordId": "daai3lei4-to-bring-about",
+      "sourceWord": "帶嚟",
+      "sourceWordJyutping": "daai3 lei4",
+      "sourceWordMeaning": "to bring about",
+      "tags": [
+        "cause",
+        "effect",
+        "result",
+        "spoken Cantonese",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai3lei4-to-bring-about.json"
+    },
+    {
+      "sentenceId": "hou2cyu3-benefit-example-1",
+      "sentence": "呢份工嘅好處係有彈性時間。",
+      "jyutping": "ni1 fan6 gung1 ge3 hou2 cyu3 hai6 jau5 daan6 sing3 si4 gaan3.",
+      "meaning": "The benefit of this job is having flexible hours.",
+      "sourceWordId": "hou2cyu3-benefit",
+      "sourceWord": "好處",
+      "sourceWordJyutping": "hou2 cyu3",
+      "sourceWordMeaning": "benefit",
+      "tags": [
+        "expression",
+        "benefit",
+        "comparison",
+        "advantages",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/hou2cyu3-benefit.json"
+    },
+    {
+      "sentenceId": "hou2cyu3-benefit-example-2",
+      "sentence": "學多啲語言有好多好處，尤其係旅行嘅時候。",
+      "jyutping": "hok6 do1 di1 jyu5 jin4 jau5 hou2 do1 hou2 cyu3, jau1 kei4 hai6 leoi5 hang4 ge3 si4 hau6.",
+      "meaning": "Learning more languages has many benefits, especially when traveling.",
+      "sourceWordId": "hou2cyu3-benefit",
+      "sourceWord": "好處",
+      "sourceWordJyutping": "hou2 cyu3",
+      "sourceWordMeaning": "benefit",
+      "tags": [
+        "expression",
+        "benefit",
+        "comparison",
+        "advantages",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/hou2cyu3-benefit.json"
+    },
+    {
+      "sentenceId": "hou2cyu3-benefit-example-3",
+      "sentence": "你要考慮清楚所有嘅好處同壞處先至好決定。",
+      "jyutping": "nei5 jiu3 haau2 leoi6 cing1 co2 so2 jau5 ge3 hou2 cyu3 tung4 waai6 cyu3 sin1 zi3 hou2 kyut3 ding6.",
+      "meaning": "You need to carefully consider all the benefits and disadvantages before deciding.",
+      "sourceWordId": "hou2cyu3-benefit",
+      "sourceWord": "好處",
+      "sourceWordJyutping": "hou2 cyu3",
+      "sourceWordMeaning": "benefit",
+      "tags": [
+        "expression",
+        "benefit",
+        "comparison",
+        "advantages",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/hou2cyu3-benefit.json"
+    },
+    {
+      "sentenceId": "hou2cyu3-benefit-example-4",
+      "sentence": "呢個新計劃嘅最大好處係能夠節省時間。",
+      "jyutping": "ni1 go3 san1 gai3 waak6 ge3 zeoi3 daai6 hou2 cyu3 hai6 nang4 gau3 zit3 sang2 si4 gaan3.",
+      "meaning": "The biggest benefit of this new plan is that it can save time.",
+      "sourceWordId": "hou2cyu3-benefit",
+      "sourceWord": "好處",
+      "sourceWordJyutping": "hou2 cyu3",
+      "sourceWordMeaning": "benefit",
+      "tags": [
+        "expression",
+        "benefit",
+        "comparison",
+        "advantages",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/hou2cyu3-benefit.json"
+    },
+    {
+      "sentenceId": "waai6cyu3-drawback-example-1",
+      "sentence": "呢部手機嘅壞處係電池用得耐唔夠力。",
+      "jyutping": "ni1 bou6 sau2 gei1 ge3 waai6 cyu3 hai6 din6 ci4 jung6 dak1 noi6 m4 gau3 lik6.",
+      "meaning": "The drawback of this phone is that the battery doesn’t last long.",
+      "sourceWordId": "waai6cyu3-drawback",
+      "sourceWord": "壞處",
+      "sourceWordJyutping": "waai6 cyu3",
+      "sourceWordMeaning": "drawback",
+      "tags": [
+        "comparison",
+        "balance",
+        "disadvantages",
+        "everyday speech",
+        "decision-making",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/waai6cyu3-drawback.json"
+    },
+    {
+      "sentenceId": "waai6cyu3-drawback-example-2",
+      "sentence": "你要考慮清楚嘅壞處先決定。",
+      "jyutping": "nei5 jiu3 haau2 leoi6 cing1 co2 ge3 waai6 cyu3 sin1 kyut3 ding6.",
+      "meaning": "You should carefully consider the drawbacks before making a decision.",
+      "sourceWordId": "waai6cyu3-drawback",
+      "sourceWord": "壞處",
+      "sourceWordJyutping": "waai6 cyu3",
+      "sourceWordMeaning": "drawback",
+      "tags": [
+        "comparison",
+        "balance",
+        "disadvantages",
+        "everyday speech",
+        "decision-making",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/waai6cyu3-drawback.json"
+    },
+    {
+      "sentenceId": "waai6cyu3-drawback-example-3",
+      "sentence": "雖然呢個計劃有好處，但我哋都要留意壞處。",
+      "jyutping": "seoi1 jin4 ni1 go3 gai3 waak6 jau5 hou2 cyu3, daan6 ngo5 dei6 dou1 jiu3 lau4 ji3 waai6 cyu3.",
+      "meaning": "Although this plan has benefits, we also need to pay attention to its drawbacks.",
+      "sourceWordId": "waai6cyu3-drawback",
+      "sourceWord": "壞處",
+      "sourceWordJyutping": "waai6 cyu3",
+      "sourceWordMeaning": "drawback",
+      "tags": [
+        "comparison",
+        "balance",
+        "disadvantages",
+        "everyday speech",
+        "decision-making",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/waai6cyu3-drawback.json"
+    },
+    {
+      "sentenceId": "waai6cyu3-drawback-example-4",
+      "sentence": "壞處唔一定代表全部負面，只係指某啲限制。",
+      "jyutping": "waai6 cyu3 m4 jat1 ding6 doi6 biu2 cyun4 bou6 fu6 min6, zi2 hai6 zi2 mau5 di1 haan6 zai3.",
+      "meaning": "Drawbacks don’t necessarily mean all negative aspects; they just refer to some limitations.",
+      "sourceWordId": "waai6cyu3-drawback",
+      "sourceWord": "壞處",
+      "sourceWordJyutping": "waai6 cyu3",
+      "sourceWordMeaning": "drawback",
+      "tags": [
+        "comparison",
+        "balance",
+        "disadvantages",
+        "everyday speech",
+        "decision-making",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/waai6cyu3-drawback.json"
+    },
+    {
+      "sentenceId": "ceoi2se2-trade-off-example-1",
+      "sentence": "工作同私人時間之間嘅取捨真係好難。",
+      "jyutping": "gung1 zok3 tung4 si1 jan4 si4 gaan3 zi1 gaan1 ge3 ceoi2 se2 zan1 hai6 hou2 naan4",
+      "meaning": "The trade-off between work and personal time is really difficult.",
+      "sourceWordId": "ceoi2se2-trade-off",
+      "sourceWord": "取捨",
+      "sourceWordJyutping": "ceoi2 se2",
+      "sourceWordMeaning": "trade-off",
+      "tags": [
+        "trade-off",
+        "decision-making",
+        "balance",
+        "compromise",
+        "prioritization",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2se2-trade-off.json"
+    },
+    {
+      "sentenceId": "ceoi2se2-trade-off-example-2",
+      "sentence": "如果你想買平啲嘅房，就要喺位置或者面積做取捨。",
+      "jyutping": "jyu4 gwo2 nei5 soeng2 maai5 peng4 di1 ge3 fong4, zau6 jiu3 hai2 wai6 zi6 waak6 ze2 min6 zik1 zou6 ceoi2 se2",
+      "meaning": "If you want to buy a cheaper apartment, you have to make trade-offs between location and size.",
+      "sourceWordId": "ceoi2se2-trade-off",
+      "sourceWord": "取捨",
+      "sourceWordJyutping": "ceoi2 se2",
+      "sourceWordMeaning": "trade-off",
+      "tags": [
+        "trade-off",
+        "decision-making",
+        "balance",
+        "compromise",
+        "prioritization",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2se2-trade-off.json"
+    },
+    {
+      "sentenceId": "ceoi2se2-trade-off-example-3",
+      "sentence": "環保同經濟發展經常要做取捨，唔容易決定。",
+      "jyutping": "waan4 bou2 tung4 ging1 zai3 faat3 zin2 ging1 soeng4 jiu3 zou6 ceoi2 se2, m4 jung4 ji6 kyut3 ding6",
+      "meaning": "Environmental protection and economic development often require trade-offs, which are not easy to decide.",
+      "sourceWordId": "ceoi2se2-trade-off",
+      "sourceWord": "取捨",
+      "sourceWordJyutping": "ceoi2 se2",
+      "sourceWordMeaning": "trade-off",
+      "tags": [
+        "trade-off",
+        "decision-making",
+        "balance",
+        "compromise",
+        "prioritization",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2se2-trade-off.json"
+    },
+    {
+      "sentenceId": "ceoi2se2-trade-off-example-4",
+      "sentence": "喺選擇大學時，學科興趣同就業前景要做取捨。",
+      "jyutping": "hai2 syun2 zaak6 daai6 hok6 si4, hok6 fo1 hing3 ceoi3 tung4 zau6 jip6 cin4 ging2 jiu3 zou6 ceoi2 se2",
+      "meaning": "When choosing a university, you have to make trade-offs between academic interests and career prospects.",
+      "sourceWordId": "ceoi2se2-trade-off",
+      "sourceWord": "取捨",
+      "sourceWordJyutping": "ceoi2 se2",
+      "sourceWordMeaning": "trade-off",
+      "tags": [
+        "trade-off",
+        "decision-making",
+        "balance",
+        "compromise",
+        "prioritization",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ceoi2se2-trade-off.json"
+    },
+    {
+      "sentenceId": "jat1fong1min6-on-one-hand-example-1",
+      "sentence": "一方面我想去旅行，另一方面我又要工作。",
+      "jyutping": "jat1 fong1 min6 ngo5 soeng2 heoi3 leoi5 haang4, ling6 jat1 fong1 min6 ngo5 jau6 jiu3 gung1 zok3.",
+      "meaning": "On one hand, I want to travel; on the other hand, I have to work.",
+      "sourceWordId": "jat1fong1min6-on-one-hand",
+      "sourceWord": "一方面",
+      "sourceWordJyutping": "jat1 fong1 min6",
+      "sourceWordMeaning": "on one hand",
+      "tags": [
+        "connector",
+        "contrast",
+        "balance",
+        "formal speech",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1fong1min6-on-one-hand.json"
+    },
+    {
+      "sentenceId": "jat1fong1min6-on-one-hand-example-2",
+      "sentence": "一方面佢努力學習，另一方面佢都有其他興趣。",
+      "jyutping": "jat1 fong1 min6 keoi5 nou5 lik6 hok6 zaap6, ling6 jat1 fong1 min6 keoi5 dou1 jau5 kei4 taa1 hing3 ceoi3.",
+      "meaning": "On one hand, he studies hard; on the other hand, he also has other interests.",
+      "sourceWordId": "jat1fong1min6-on-one-hand",
+      "sourceWord": "一方面",
+      "sourceWordJyutping": "jat1 fong1 min6",
+      "sourceWordMeaning": "on one hand",
+      "tags": [
+        "connector",
+        "contrast",
+        "balance",
+        "formal speech",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1fong1min6-on-one-hand.json"
+    },
+    {
+      "sentenceId": "jat1fong1min6-on-one-hand-example-3",
+      "sentence": "一方面天氣好，另一方面要小心風險。",
+      "jyutping": "jat1 fong1 min6 tin1 hei3 hou2, ling6 jat1 fong1 min6 jiu3 siu2 sam1 fung1 him2.",
+      "meaning": "On one hand, the weather is good; on the other hand, we must be careful of risks.",
+      "sourceWordId": "jat1fong1min6-on-one-hand",
+      "sourceWord": "一方面",
+      "sourceWordJyutping": "jat1 fong1 min6",
+      "sourceWordMeaning": "on one hand",
+      "tags": [
+        "connector",
+        "contrast",
+        "balance",
+        "formal speech",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1fong1min6-on-one-hand.json"
+    },
+    {
+      "sentenceId": "jat1fong1min6-on-one-hand-example-4",
+      "sentence": "一方面我哋要節省，另一方面亦要享受生活。",
+      "jyutping": "jat1 fong1 min6 ngo5 dei6 jiu3 zit3 saang2, ling6 jat1 fong1 min6 jik6 jiu3 hoeng2 sau6 sang1 wut6.",
+      "meaning": "On one hand, we need to save money; on the other hand, we also want to enjoy life.",
+      "sourceWordId": "jat1fong1min6-on-one-hand",
+      "sourceWord": "一方面",
+      "sourceWordJyutping": "jat1 fong1 min6",
+      "sourceWordMeaning": "on one hand",
+      "tags": [
+        "connector",
+        "contrast",
+        "balance",
+        "formal speech",
+        "advanced",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1fong1min6-on-one-hand.json"
+    },
+    {
+      "sentenceId": "ling6jat1fong1min6-on-the-other-hand-example-1",
+      "sentence": "我想去旅行，但另一方面，我又唔想離開屋企太耐。",
+      "jyutping": "ngo5 soeng2 heoi3 leoi5 hang4, daan6 ling6 jat1 fong1 min6, ngo5 jau6 m4 soeng2 lei4 hoi1 uk1 kei2 taai3 noi6.",
+      "meaning": "I want to travel, but on the other hand, I don't want to be away from home for too long.",
+      "sourceWordId": "ling6jat1fong1min6-on-the-other-hand",
+      "sourceWord": "另一方面",
+      "sourceWordJyutping": "ling6 jat1 fong1 min6",
+      "sourceWordMeaning": "on the other hand",
+      "tags": [
+        "contrast",
+        "connector",
+        "spoken Cantonese",
+        "advanced",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ling6jat1fong1min6-on-the-other-hand.json"
+    },
+    {
+      "sentenceId": "ling6jat1fong1min6-on-the-other-hand-example-2",
+      "sentence": "佢工作好忙，另一方面都要照顧家庭。",
+      "jyutping": "keoi5 gung1 zok3 hou2 mong4, ling6 jat1 fong1 min6 dou1 jiu3 ziu3 gu3 gaa1 ting4.",
+      "meaning": "He is very busy with work, and on the other hand, he still needs to take care of his family.",
+      "sourceWordId": "ling6jat1fong1min6-on-the-other-hand",
+      "sourceWord": "另一方面",
+      "sourceWordJyutping": "ling6 jat1 fong1 min6",
+      "sourceWordMeaning": "on the other hand",
+      "tags": [
+        "contrast",
+        "connector",
+        "spoken Cantonese",
+        "advanced",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ling6jat1fong1min6-on-the-other-hand.json"
+    },
+    {
+      "sentenceId": "ling6jat1fong1min6-on-the-other-hand-example-3",
+      "sentence": "呢件事好複雜，另一方面可能會有好結果。",
+      "jyutping": "ni1 gin6 si6 hou2 fuk1 zaap6, ling6 jat1 fong1 min6 ho2 nang4 wui5 jau5 hou2 git3 gwo2.",
+      "meaning": "This matter is complicated, but on the other hand, it might have a good outcome.",
+      "sourceWordId": "ling6jat1fong1min6-on-the-other-hand",
+      "sourceWord": "另一方面",
+      "sourceWordJyutping": "ling6 jat1 fong1 min6",
+      "sourceWordMeaning": "on the other hand",
+      "tags": [
+        "contrast",
+        "connector",
+        "spoken Cantonese",
+        "advanced",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ling6jat1fong1min6-on-the-other-hand.json"
+    },
+    {
+      "sentenceId": "ling6jat1fong1min6-on-the-other-hand-example-4",
+      "sentence": "我哋要考慮成本，另一方面都要考慮質量。",
+      "jyutping": "ngo5 dei6 jiu3 haau2 leoi6 sing4 bun2, ling6 jat1 fong1 min6 dou1 jiu3 haau2 leoi6 zat1 loeng6.",
+      "meaning": "We need to consider cost, but on the other hand, we also need to consider quality.",
+      "sourceWordId": "ling6jat1fong1min6-on-the-other-hand",
+      "sourceWord": "另一方面",
+      "sourceWordJyutping": "ling6 jat1 fong1 min6",
+      "sourceWordMeaning": "on the other hand",
+      "tags": [
+        "contrast",
+        "connector",
+        "spoken Cantonese",
+        "advanced",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ling6jat1fong1min6-on-the-other-hand.json"
+    },
+    {
+      "sentenceId": "zung2kut3lei4gong2-to-sum-up-example-1",
+      "sentence": "總括嚟講，今次嘅活動非常成功。",
+      "jyutping": "zung2 kut3 lei4 gong2, gam1 ci3 ge3 wut6 dung6 fei1 soeng4 sing4 gung1.",
+      "meaning": "To sum up, this event was very successful.",
+      "sourceWordId": "zung2kut3lei4gong2-to-sum-up",
+      "sourceWord": "總括嚟講",
+      "sourceWordJyutping": "zung2 kut3 lei4 gong2",
+      "sourceWordMeaning": "to sum up",
+      "tags": [
+        "summarizing",
+        "discourse_marker",
+        "spoken_cantonese",
+        "formal_informal",
+        "conclusion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung2kut3lei4gong2-to-sum-up.json"
+    },
+    {
+      "sentenceId": "zung2kut3lei4gong2-to-sum-up-example-2",
+      "sentence": "總括嚟講，我哋都對呢個計劃好滿意。",
+      "jyutping": "zung2 kut3 lei4 gong2, ngo5 dei6 dou1 deoi3 ni1 go3 gai3 waak6 hou2 mun5 ji3.",
+      "meaning": "To sum up, we are all very satisfied with this plan.",
+      "sourceWordId": "zung2kut3lei4gong2-to-sum-up",
+      "sourceWord": "總括嚟講",
+      "sourceWordJyutping": "zung2 kut3 lei4 gong2",
+      "sourceWordMeaning": "to sum up",
+      "tags": [
+        "summarizing",
+        "discourse_marker",
+        "spoken_cantonese",
+        "formal_informal",
+        "conclusion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung2kut3lei4gong2-to-sum-up.json"
+    },
+    {
+      "sentenceId": "zung2kut3lei4gong2-to-sum-up-example-3",
+      "sentence": "總括嚟講，佢嘅表現已經好出色。",
+      "jyutping": "zung2 kut3 lei4 gong2, keoi5 ge3 biu2 jin2 ji5 ging1 hou2 ceot1 sik1.",
+      "meaning": "To sum up, his performance has been outstanding.",
+      "sourceWordId": "zung2kut3lei4gong2-to-sum-up",
+      "sourceWord": "總括嚟講",
+      "sourceWordJyutping": "zung2 kut3 lei4 gong2",
+      "sourceWordMeaning": "to sum up",
+      "tags": [
+        "summarizing",
+        "discourse_marker",
+        "spoken_cantonese",
+        "formal_informal",
+        "conclusion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung2kut3lei4gong2-to-sum-up.json"
+    },
+    {
+      "sentenceId": "zung2kut3lei4gong2-to-sum-up-example-4",
+      "sentence": "總括嚟講，今次嘅討論幫助我哋理解得更深入。",
+      "jyutping": "zung2 kut3 lei4 gong2, gam1 ci3 ge3 tou2 leon6 bong1 zo2 ngo5 dei6 lei5 gaai2 dak1 gang3 sam1 jap6.",
+      "meaning": "To sum up, this discussion helped us understand more deeply.",
+      "sourceWordId": "zung2kut3lei4gong2-to-sum-up",
+      "sourceWord": "總括嚟講",
+      "sourceWordJyutping": "zung2 kut3 lei4 gong2",
+      "sourceWordMeaning": "to sum up",
+      "tags": [
+        "summarizing",
+        "discourse_marker",
+        "spoken_cantonese",
+        "formal_informal",
+        "conclusion",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zung2kut3lei4gong2-to-sum-up.json"
+    },
+    {
+      "sentenceId": "zing2tai2lei4tai2-overall-speaking-example-1",
+      "sentence": "整體嚟睇，我哋嘅計劃係成功嘅。",
+      "jyutping": "zing2 tai2 lei4 tai2, ngo5 dei6 ge3 gai3 waak6 hai6 sing4 gung1 ge3.",
+      "meaning": "Overall speaking, our plan is successful.",
+      "sourceWordId": "zing2tai2lei4tai2-overall-speaking",
+      "sourceWord": "整體嚟睇",
+      "sourceWordJyutping": "zing2 tai2 lei4 tai2",
+      "sourceWordMeaning": "overall speaking",
+      "tags": [
+        "advanced",
+        "phrase",
+        "summarising",
+        "connector",
+        "discourse_marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing2tai2lei4tai2-overall-speaking.json"
+    },
+    {
+      "sentenceId": "zing2tai2lei4tai2-overall-speaking-example-2",
+      "sentence": "整體嚟睇，呢間公司嘅績效係有提升嘅空間。",
+      "jyutping": "zing2 tai2 lei4 tai2, ni1 gaan1 gung1 si1 ge3 zik1 haau6 hai6 jau5 tai4 sing1 ge3 hung1 gaan1.",
+      "meaning": "Overall speaking, this company's performance has room for improvement.",
+      "sourceWordId": "zing2tai2lei4tai2-overall-speaking",
+      "sourceWord": "整體嚟睇",
+      "sourceWordJyutping": "zing2 tai2 lei4 tai2",
+      "sourceWordMeaning": "overall speaking",
+      "tags": [
+        "advanced",
+        "phrase",
+        "summarising",
+        "connector",
+        "discourse_marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing2tai2lei4tai2-overall-speaking.json"
+    },
+    {
+      "sentenceId": "zing2tai2lei4tai2-overall-speaking-example-3",
+      "sentence": "整體嚟睇，今次嘅活動反應幾好。",
+      "jyutping": "zing2 tai2 lei4 tai2, gam1 ci3 ge3 wut6 dung6 faan2 jing3 gei2 hou2.",
+      "meaning": "Overall speaking, the response to this event is quite good.",
+      "sourceWordId": "zing2tai2lei4tai2-overall-speaking",
+      "sourceWord": "整體嚟睇",
+      "sourceWordJyutping": "zing2 tai2 lei4 tai2",
+      "sourceWordMeaning": "overall speaking",
+      "tags": [
+        "advanced",
+        "phrase",
+        "summarising",
+        "connector",
+        "discourse_marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing2tai2lei4tai2-overall-speaking.json"
+    },
+    {
+      "sentenceId": "zing2tai2lei4tai2-overall-speaking-example-4",
+      "sentence": "整體嚟睇，佢喺呢個項目中做得幾出色。",
+      "jyutping": "zing2 tai2 lei4 tai2, keoi5 hai2 ni1 go3 hong6 muk6 zung1 zou6 dak1 gei2 ceot1 sik1.",
+      "meaning": "Overall speaking, he performed quite well in this project.",
+      "sourceWordId": "zing2tai2lei4tai2-overall-speaking",
+      "sourceWord": "整體嚟睇",
+      "sourceWordJyutping": "zing2 tai2 lei4 tai2",
+      "sourceWordMeaning": "overall speaking",
+      "tags": [
+        "advanced",
+        "phrase",
+        "summarising",
+        "connector",
+        "discourse_marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zing2tai2lei4tai2-overall-speaking.json"
+    },
+    {
+      "sentenceId": "daai6zi3soeng6-roughly-speaking-example-1",
+      "sentence": "大致上呢個計劃會喺三個月內完成。",
+      "jyutping": "daai6 zi3 soeng6 ni1 go3 gai3 waak6 wui5 hai2 saam1 go3 jyut6 noi6 jyun4 sing4.",
+      "meaning": "Roughly speaking, this project will be completed within three months.",
+      "sourceWordId": "daai6zi3soeng6-roughly-speaking",
+      "sourceWord": "大致上",
+      "sourceWordJyutping": "daai6 zi3 soeng6",
+      "sourceWordMeaning": "roughly speaking",
+      "tags": [
+        "summary",
+        "approximation",
+        "discourse marker",
+        "generalization",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai6zi3soeng6-roughly-speaking.json"
+    },
+    {
+      "sentenceId": "daai6zi3soeng6-roughly-speaking-example-2",
+      "sentence": "大致上佢哋嘅意見都係支持呢個建議。",
+      "jyutping": "daai6 zi3 soeng6 keoi5 dei6 ge3 ji3 gin3 dou1 hai6 zi1 ci4 ni1 go3 gin3 ji5.",
+      "meaning": "Roughly speaking, their opinions all support this proposal.",
+      "sourceWordId": "daai6zi3soeng6-roughly-speaking",
+      "sourceWord": "大致上",
+      "sourceWordJyutping": "daai6 zi3 soeng6",
+      "sourceWordMeaning": "roughly speaking",
+      "tags": [
+        "summary",
+        "approximation",
+        "discourse marker",
+        "generalization",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai6zi3soeng6-roughly-speaking.json"
+    },
+    {
+      "sentenceId": "daai6zi3soeng6-roughly-speaking-example-3",
+      "sentence": "我哋大致上知道問題出喺邊度，不過細節仲未清楚。",
+      "jyutping": "ngo5 dei6 daai6 zi3 soeng6 zi1 dou3 man6 tai4 ceot1 hai2 bin1 dou6, bat1 gwo2 sai3 zit3 zung6 mei6 cing1 co2.",
+      "meaning": "Roughly speaking, we know where the problem lies, but the details are still unclear.",
+      "sourceWordId": "daai6zi3soeng6-roughly-speaking",
+      "sourceWord": "大致上",
+      "sourceWordJyutping": "daai6 zi3 soeng6",
+      "sourceWordMeaning": "roughly speaking",
+      "tags": [
+        "summary",
+        "approximation",
+        "discourse marker",
+        "generalization",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai6zi3soeng6-roughly-speaking.json"
+    },
+    {
+      "sentenceId": "daai6zi3soeng6-roughly-speaking-example-4",
+      "sentence": "大致上嚟講，這本書對初學者幫助唔少。",
+      "jyutping": "daai6 zi3 soeng6 lai4 gong2, ze2 bun2 syu1 deoi3 co1 hok6 ze2 bong1 zo6 m4 siu2.",
+      "meaning": "Roughly speaking, this book is quite helpful to beginners.",
+      "sourceWordId": "daai6zi3soeng6-roughly-speaking",
+      "sourceWord": "大致上",
+      "sourceWordJyutping": "daai6 zi3 soeng6",
+      "sourceWordMeaning": "roughly speaking",
+      "tags": [
+        "summary",
+        "approximation",
+        "discourse marker",
+        "generalization",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/daai6zi3soeng6-roughly-speaking.json"
+    },
+    {
+      "sentenceId": "gei1bun2soeng6-basically-example-1",
+      "sentence": "基本上，我哋今日嘅計劃都冇咩問題。",
+      "jyutping": "gei1 bun2 soeng6, ngo5 dei6 gam1 jat6 ge3 gai3 waak6 dou1 mou5 me1 man6 tai4.",
+      "meaning": "Basically, our plan for today has no problems.",
+      "sourceWordId": "gei1bun2soeng6-basically",
+      "sourceWord": "基本上",
+      "sourceWordJyutping": "gei1 bun2 soeng6",
+      "sourceWordMeaning": "basically",
+      "tags": [
+        "advanced",
+        "connector",
+        "summary",
+        "expression",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gei1bun2soeng6-basically.json"
+    },
+    {
+      "sentenceId": "gei1bun2soeng6-basically-example-2",
+      "sentence": "基本上，你只要跟住指示做就得。",
+      "jyutping": "gei1 bun2 soeng6, nei5 zi2 jiu3 gan1 zyu6 zi2 si6 zou6 zau6 dak1.",
+      "meaning": "Basically, you just need to follow the instructions.",
+      "sourceWordId": "gei1bun2soeng6-basically",
+      "sourceWord": "基本上",
+      "sourceWordJyutping": "gei1 bun2 soeng6",
+      "sourceWordMeaning": "basically",
+      "tags": [
+        "advanced",
+        "connector",
+        "summary",
+        "expression",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gei1bun2soeng6-basically.json"
+    },
+    {
+      "sentenceId": "gei1bun2soeng6-basically-example-3",
+      "sentence": "基本上，佢哋嘅需求都係一致嘅。",
+      "jyutping": "gei1 bun2 soeng6, keoi5 dei6 ge3 seoi1 kau4 dou1 hai6 jat1 zi3 ge3.",
+      "meaning": "Basically, their needs are consistent.",
+      "sourceWordId": "gei1bun2soeng6-basically",
+      "sourceWord": "基本上",
+      "sourceWordJyutping": "gei1 bun2 soeng6",
+      "sourceWordMeaning": "basically",
+      "tags": [
+        "advanced",
+        "connector",
+        "summary",
+        "expression",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gei1bun2soeng6-basically.json"
+    },
+    {
+      "sentenceId": "gei1bun2soeng6-basically-example-4",
+      "sentence": "基本上，呢個問題已經解決咗。",
+      "jyutping": "gei1 bun2 soeng6, ni1 go3 man6 tai4 ji5 ging1 gaai2 kyut3 zo2.",
+      "meaning": "Basically, this problem has already been solved.",
+      "sourceWordId": "gei1bun2soeng6-basically",
+      "sourceWord": "基本上",
+      "sourceWordJyutping": "gei1 bun2 soeng6",
+      "sourceWordMeaning": "basically",
+      "tags": [
+        "advanced",
+        "connector",
+        "summary",
+        "expression",
+        "spoken Cantonese",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/gei1bun2soeng6-basically.json"
+    },
+    {
+      "sentenceId": "ho2ji5waa6-one-could-say-example-1",
+      "sentence": "呢個設計可以話係非常創新。",
+      "jyutping": "ni1 go3 cit3 gai3 ho2 ji5 waa6 hai6 fei1 soeng4 cong3 san1.",
+      "meaning": "One could say this design is very innovative.",
+      "sourceWordId": "ho2ji5waa6-one-could-say",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "one could say",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinion",
+        "framing",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ho2ji5waa6-one-could-say.json"
+    },
+    {
+      "sentenceId": "ho2ji5waa6-one-could-say-example-2",
+      "sentence": "佢嘅說法可以話有啲道理。",
+      "jyutping": "keoi5 ge3 syut3 faat3 ho2 ji5 waa6 jau5 di1 dou6 lei5.",
+      "meaning": "One could say his argument makes some sense.",
+      "sourceWordId": "ho2ji5waa6-one-could-say",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "one could say",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinion",
+        "framing",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ho2ji5waa6-one-could-say.json"
+    },
+    {
+      "sentenceId": "ho2ji5waa6-one-could-say-example-3",
+      "sentence": "今次失敗可以話係個寶貴嘅經驗。",
+      "jyutping": "gam1 ci3 sat1 baai6 ho2 ji5 waa6 hai6 go3 bou2 gwai3 ge3 ging1 jim6.",
+      "meaning": "One could say this failure was a valuable experience.",
+      "sourceWordId": "ho2ji5waa6-one-could-say",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "one could say",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinion",
+        "framing",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ho2ji5waa6-one-could-say.json"
+    },
+    {
+      "sentenceId": "ho2ji5waa6-one-could-say-example-4",
+      "sentence": "佢哋嘅團隊合作可以話做得好。",
+      "jyutping": "keoi5 dei6 ge3 tyun4 deoi2 hap6 zok3 ho2 ji5 waa6 zou6 dak1 hou2.",
+      "meaning": "One could say their teamwork is well done.",
+      "sourceWordId": "ho2ji5waa6-one-could-say",
+      "sourceWord": "可以話",
+      "sourceWordJyutping": "ho2 ji5 waa6",
+      "sourceWordMeaning": "one could say",
+      "tags": [
+        "advanced",
+        "expression",
+        "opinion",
+        "framing",
+        "discourse marker",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/ho2ji5waa6-one-could-say.json"
+    },
+    {
+      "sentenceId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position-example-1",
+      "sentence": "佢主張政府應該加強環保措施。",
+      "jyutping": "keoi5 zyu2 zoeng1 zing3 fu2 jing1 goi1 gaa1 koeng4 waan4 bou2 cou3 si1.",
+      "meaning": "He advocates that the government should strengthen environmental protection measures.",
+      "sourceWordId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position",
+      "sourceWord": "主張",
+      "sourceWordJyutping": "zyu2 zoeng1",
+      "sourceWordMeaning": "to advocate; to argue for; to maintain; view; position",
+      "tags": [
+        "assertion",
+        "opinion",
+        "debate",
+        "formal",
+        "advocacy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position.json"
+    },
+    {
+      "sentenceId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position-example-2",
+      "sentence": "你主張應該點樣解決呢個問題？",
+      "jyutping": "nei5 zyu2 zoeng1 jing1 goi1 dim2 joeng6 gaai2 kyut3 ni1 go3 man6 tai4?",
+      "meaning": "How do you think this problem should be solved?",
+      "sourceWordId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position",
+      "sourceWord": "主張",
+      "sourceWordJyutping": "zyu2 zoeng1",
+      "sourceWordMeaning": "to advocate; to argue for; to maintain; view; position",
+      "tags": [
+        "assertion",
+        "opinion",
+        "debate",
+        "formal",
+        "advocacy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position.json"
+    },
+    {
+      "sentenceId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position-example-3",
+      "sentence": "有啲人主張讀書先至有前途。",
+      "jyutping": "jau5 di1 jan4 zyu2 zoeng1 duk6 syu1 sin1 zi3 jau5 cin4 tou4.",
+      "meaning": "Some people argue that only studying first leads to a good future.",
+      "sourceWordId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position",
+      "sourceWord": "主張",
+      "sourceWordJyutping": "zyu2 zoeng1",
+      "sourceWordMeaning": "to advocate; to argue for; to maintain; view; position",
+      "tags": [
+        "assertion",
+        "opinion",
+        "debate",
+        "formal",
+        "advocacy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position.json"
+    },
+    {
+      "sentenceId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position-example-4",
+      "sentence": "佢主張我哋應該用數據分析嚟做決定。",
+      "jyutping": "keoi5 zyu2 zoeng1 ngo5 dei6 jing1 goi1 jung6 sou3 geoi3 fan1 sik1 lai4 zou6 kyut3 ding6.",
+      "meaning": "He argues that we should use data analysis to make decisions.",
+      "sourceWordId": "zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position",
+      "sourceWord": "主張",
+      "sourceWordJyutping": "zyu2 zoeng1",
+      "sourceWordMeaning": "to advocate; to argue for; to maintain; view; position",
+      "tags": [
+        "assertion",
+        "opinion",
+        "debate",
+        "formal",
+        "advocacy",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/zyu2zoeng1-to-advocate-to-argue-for-to-maintain-view-position.json"
+    },
+    {
+      "sentenceId": "lei6jyu4-for-example-example-1",
+      "sentence": "有好多運動可以做，例如打籃球、跑步同游水。",
+      "jyutping": "jau5 hou2 do1 wan6 dung6 ho2 ji5 zou6, lei6 jyu4 daa2 laam4 kau4, paau2 bou6 tung4 jau4 seoi2.",
+      "meaning": "There are many sports you can do, for example basketball, running, and swimming.",
+      "sourceWordId": "lei6jyu4-for-example",
+      "sourceWord": "例如",
+      "sourceWordJyutping": "lei6 jyu4",
+      "sourceWordMeaning": "for example",
+      "tags": [
+        "connector",
+        "example",
+        "advanced",
+        "argument_and_reasoning",
+        "speech",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei6jyu4-for-example.json"
+    },
+    {
+      "sentenceId": "lei6jyu4-for-example-example-2",
+      "sentence": "我哋要食得健康，例如多食蔬菜同水果。",
+      "jyutping": "ngo5 dei6 jiu3 sik6 dak1 gin6 hong1, lei6 jyu4 do1 sik6 so1 coi3 tung4 seoi2 gwo2.",
+      "meaning": "We need to eat healthy, for example eating more vegetables and fruits.",
+      "sourceWordId": "lei6jyu4-for-example",
+      "sourceWord": "例如",
+      "sourceWordJyutping": "lei6 jyu4",
+      "sourceWordMeaning": "for example",
+      "tags": [
+        "connector",
+        "example",
+        "advanced",
+        "argument_and_reasoning",
+        "speech",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei6jyu4-for-example.json"
+    },
+    {
+      "sentenceId": "lei6jyu4-for-example-example-3",
+      "sentence": "唔同嘅文化有唔同嘅節日，例如聖誕節同農曆新年。",
+      "jyutping": "m4 tung4 ge3 man4 faa3 jau5 m4 tung4 ge3 zit3 jat6, lei6 jyu4 sing3 daan3 zit3 tung4 nung4 lik6 san1 nin4.",
+      "meaning": "Different cultures have different festivals, for example Christmas and Lunar New Year.",
+      "sourceWordId": "lei6jyu4-for-example",
+      "sourceWord": "例如",
+      "sourceWordJyutping": "lei6 jyu4",
+      "sourceWordMeaning": "for example",
+      "tags": [
+        "connector",
+        "example",
+        "advanced",
+        "argument_and_reasoning",
+        "speech",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei6jyu4-for-example.json"
+    },
+    {
+      "sentenceId": "lei6jyu4-for-example-example-4",
+      "sentence": "喺香港，有好多好食嘅地方，例如旺角同銅鑼灣。",
+      "jyutping": "hai2 hoeng1 gong2, jau5 hou2 do1 hou2 sik6 ge3 dei6 fong1, lei6 jyu4 wong6 gok3 tung4 tung4 lo4 waan1.",
+      "meaning": "In Hong Kong, there are many delicious places to eat, for example Mong Kok and Causeway Bay.",
+      "sourceWordId": "lei6jyu4-for-example",
+      "sourceWord": "例如",
+      "sourceWordJyutping": "lei6 jyu4",
+      "sourceWordMeaning": "for example",
+      "tags": [
+        "connector",
+        "example",
+        "advanced",
+        "argument_and_reasoning",
+        "speech",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/lei6jyu4-for-example.json"
+    },
+    {
+      "sentenceId": "jat1bun1lei4gong2-generally-speaking-2-example-1",
+      "sentence": "一般嚟講，香港嘅公共交通系統非常方便。",
+      "jyutping": "jat1 bun1 lei4 gong2, hoeng1 gong2 ge3 gung1 gung6 gaau1 tung1 hai6 tung2 fei1 soeng4 fong1 bin6.",
+      "meaning": "Generally speaking, Hong Kong's public transportation system is very convenient.",
+      "sourceWordId": "jat1bun1lei4gong2-generally-speaking-2",
+      "sourceWord": "一般嚟講",
+      "sourceWordJyutping": "jat1 bun1 lei4 gong2",
+      "sourceWordMeaning": "generally speaking",
+      "tags": [
+        "advanced",
+        "expression",
+        "connector",
+        "generalization",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1bun1lei4gong2-generally-speaking-2.json"
+    },
+    {
+      "sentenceId": "jat1bun1lei4gong2-generally-speaking-2-example-2",
+      "sentence": "一般嚟講，年輕人會比較接受新科技。",
+      "jyutping": "jat1 bun1 lei4 gong2, nin4 heng1 jan4 wui5 bei2 gaau3 zip3 sau6 san1 fo1 gei6.",
+      "meaning": "Generally speaking, young people tend to be more accepting of new technology.",
+      "sourceWordId": "jat1bun1lei4gong2-generally-speaking-2",
+      "sourceWord": "一般嚟講",
+      "sourceWordJyutping": "jat1 bun1 lei4 gong2",
+      "sourceWordMeaning": "generally speaking",
+      "tags": [
+        "advanced",
+        "expression",
+        "connector",
+        "generalization",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1bun1lei4gong2-generally-speaking-2.json"
+    },
+    {
+      "sentenceId": "jat1bun1lei4gong2-generally-speaking-2-example-3",
+      "sentence": "一般嚟講，冬天香港會比較濕冷。",
+      "jyutping": "jat1 bun1 lei4 gong2, dung1 tin1 hoeng1 gong2 wui5 bei2 gaau3 sap1 laang5.",
+      "meaning": "Generally speaking, winters in Hong Kong are comparatively damp and cold.",
+      "sourceWordId": "jat1bun1lei4gong2-generally-speaking-2",
+      "sourceWord": "一般嚟講",
+      "sourceWordJyutping": "jat1 bun1 lei4 gong2",
+      "sourceWordMeaning": "generally speaking",
+      "tags": [
+        "advanced",
+        "expression",
+        "connector",
+        "generalization",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1bun1lei4gong2-generally-speaking-2.json"
+    },
+    {
+      "sentenceId": "jat1bun1lei4gong2-generally-speaking-2-example-4",
+      "sentence": "一般嚟講，考試前做緊準備嘅學生會表現得更好。",
+      "jyutping": "jat1 bun1 lei4 gong2, haau2 si3 cin4 zou6 gan2 zeon2 bei6 ge3 hok6 saang1 wui5 biu2 jin2 dak1 gang3 hou2.",
+      "meaning": "Generally speaking, students who prepare before exams tend to perform better.",
+      "sourceWordId": "jat1bun1lei4gong2-generally-speaking-2",
+      "sourceWord": "一般嚟講",
+      "sourceWordJyutping": "jat1 bun1 lei4 gong2",
+      "sourceWordMeaning": "generally speaking",
+      "tags": [
+        "advanced",
+        "expression",
+        "connector",
+        "generalization",
+        "conversation",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/jat1bun1lei4gong2-generally-speaking-2.json"
+    },
+    {
+      "sentenceId": "so2ji5-therefore-so-example-1",
+      "sentence": "我今日好攰，所以想早啲瞓。",
+      "jyutping": "ngo5 gam1 jat6 hou2 gui6 so2 ji5 soeng2 zou2 di1 fan3",
+      "meaning": "I’m very tired today, so I want to sleep earlier.",
+      "sourceWordId": "so2ji5-therefore-so",
+      "sourceWord": "所以",
+      "sourceWordJyutping": "so2 ji5",
+      "sourceWordMeaning": "therefore; so",
+      "tags": [
+        "level-2",
+        "result",
+        "connector",
+        "common"
+      ],
+      "sourceFile": "r2-backup/words/so2ji5-therefore-so.json"
+    },
+    {
+      "sentenceId": "so2ji5-therefore-so-example-2",
+      "sentence": "落雨，所以我哋留喺屋企。",
+      "jyutping": "lok6 jyu5 so2 ji5 ngo5 dei6 lau4 hai2 uk1 kei2",
+      "meaning": "It’s raining, so we’re staying at home.",
+      "sourceWordId": "so2ji5-therefore-so",
+      "sourceWord": "所以",
+      "sourceWordJyutping": "so2 ji5",
+      "sourceWordMeaning": "therefore; so",
+      "tags": [
+        "level-2",
+        "result",
+        "connector",
+        "common"
+      ],
+      "sourceFile": "r2-backup/words/so2ji5-therefore-so.json"
+    },
+    {
+      "sentenceId": "faan2ji4-on-the-contrary-instead-example-1",
+      "sentence": "我以為佢唔會嚟，反而佢早咗半個鐘到。",
+      "jyutping": "ngo5 ji5wai6 keoi5 m4 wui5 lei4, faan2 ji4 keoi5 zou2 zo2 bun3 go3 zung1 dou3.",
+      "meaning": "I thought he wouldn't come, but on the contrary, he arrived half an hour early.",
+      "sourceWordId": "faan2ji4-on-the-contrary-instead",
+      "sourceWord": "反而",
+      "sourceWordJyutping": "faan2 ji4",
+      "sourceWordMeaning": "on the contrary / instead",
+      "tags": [
+        "advanced",
+        "contrast",
+        "discourse marker",
+        "expression",
+        "connectors",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/faan2ji4-on-the-contrary-instead.json"
+    },
+    {
+      "sentenceId": "faan2ji4-on-the-contrary-instead-example-2",
+      "sentence": "唔係佢唔明白，反而係佢懂得太多，反而有啲迷失。",
+      "jyutping": "m4 hai6 keoi5 m4 ming4baak6, faan2 ji4 hai6 keoi5 dung2 dak1 taai3 do1, faan2 ji4 jau5 di1 mai4 sat1.",
+      "meaning": "It’s not that he doesn’t understand; instead, he understands too much and ends up a bit lost.",
+      "sourceWordId": "faan2ji4-on-the-contrary-instead",
+      "sourceWord": "反而",
+      "sourceWordJyutping": "faan2 ji4",
+      "sourceWordMeaning": "on the contrary / instead",
+      "tags": [
+        "advanced",
+        "contrast",
+        "discourse marker",
+        "expression",
+        "connectors",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/faan2ji4-on-the-contrary-instead.json"
+    },
+    {
+      "sentenceId": "faan2ji4-on-the-contrary-instead-example-3",
+      "sentence": "我諗住要趕快做，但反而拖咗幾日先完成。",
+      "jyutping": "ngo5 nam2 zyu6 jiu3 gon2 faai3 zou6, daan6 faan2 ji4 to1 zo2 gei2 jat6 sin1 jyun4 sing4.",
+      "meaning": "I planned to finish quickly, but instead, it was delayed by a few days before completion.",
+      "sourceWordId": "faan2ji4-on-the-contrary-instead",
+      "sourceWord": "反而",
+      "sourceWordJyutping": "faan2 ji4",
+      "sourceWordMeaning": "on the contrary / instead",
+      "tags": [
+        "advanced",
+        "contrast",
+        "discourse marker",
+        "expression",
+        "connectors",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/faan2ji4-on-the-contrary-instead.json"
+    },
+    {
+      "sentenceId": "faan2ji4-on-the-contrary-instead-example-4",
+      "sentence": "天氣預報話會落雨，反而出咗大太陽。",
+      "jyutping": "tin1 hei3 jyu6 bou3 waa6 wui5 lok6 jyu5, faan2 ji4 ceot1 zo2 daai6 taai3 joeng4.",
+      "meaning": "The weather forecast said it would rain, but on the contrary, the sun came out very brightly.",
+      "sourceWordId": "faan2ji4-on-the-contrary-instead",
+      "sourceWord": "反而",
+      "sourceWordJyutping": "faan2 ji4",
+      "sourceWordMeaning": "on the contrary / instead",
+      "tags": [
+        "advanced",
+        "contrast",
+        "discourse marker",
+        "expression",
+        "connectors",
+        "level-9"
+      ],
+      "sourceFile": "r2-backup/words/faan2ji4-on-the-contrary-instead.json"
+    }
+  ],
+  "missingWordFiles": []
+}
