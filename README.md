@@ -271,3 +271,16 @@ python scripts/apply_usage_patch.py \
  --root ./r2-backup/words \
  --output-dir reports/openai/applied_usage_patches \
  --reject-chinese
+
+### delete and sync from local
+
+aws s3 sync ./content/words \
+s3://tarotea-content/words \
+--dryrun \
+--endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
+--profile r2
+
+aws s3 sync ./content/words \
+s3://tarotea-content/words \
+--endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
+--profile r2
