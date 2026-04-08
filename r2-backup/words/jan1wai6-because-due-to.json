@@ -3,14 +3,11 @@
   "word": "因為",
   "jyutping": "jan1 wai6",
   "meaning": "because; due to",
-  "pos": [
-    "conjunction",
-    "preposition"
-  ],
+  "pos": ["conjunction", "preposition"],
   "usage": [
-    "Used to give a reason for something (often paired with 「所以」 = therefore)",
-    "Common pattern: 「因為 A，所以 B」 (Because A, therefore B)",
-    "In casual speech, you can also just say 「因為 A」 without 「所以」 if the meaning is clear"
+    "Used to give a reason for something (often paired with 所以 = therefore)",
+    "Common pattern: 因為 A，所以 B (Because A, therefore B)",
+    "In casual speech, you can also just say 因為 A without 所以 if the meaning is clear"
   ],
   "examples": [
     {
@@ -33,10 +30,5 @@
       "jan1wai6-because-due-to-example-2.mp3"
     ]
   },
-  "tags": [
-    "level-2",
-    "reason",
-    "connector",
-    "common"
-  ]
+  "tags": ["level-2", "reason", "connector", "common"]
 }

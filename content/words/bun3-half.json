@@ -1,0 +1,66 @@
+{
+  "id": "bun3-half",
+  "word": "半",
+  "jyutping": "bun3",
+  "meaning": "half",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "半 means half of something and can be used with nouns to describe portions.",
+    "You can say 半杯水 to mean half a glass of water.",
+    "It can also describe time, like 半小時 which means half an hour.",
+    "In some cases, 半 comes before a measure word to indicate half of a unit.",
+    "It is commonly used in everyday speech when sharing or dividing things."
+  ],
+  "examples": [
+    {
+      "id": "bun3-half-example-1",
+      "sentence": "我食咗半個蘋果。",
+      "jyutping": "ngo5 sik6 zo2 bun3 go3 ping4 gwo2.",
+      "meaning": "I ate half an apple."
+    },
+    {
+      "id": "bun3-half-example-2",
+      "sentence": "佢遲咗半個鐘。",
+      "jyutping": "keoi5 ci4 zo2 bun3 go3 zung1.",
+      "meaning": "He was late by half an hour."
+    },
+    {
+      "id": "bun3-half-example-3",
+      "sentence": "我想買半公斤蘋果。",
+      "jyutping": "ngo5 soeng2 maai5 bun3 gung1 gan1 ping4 gwo2.",
+      "meaning": "I want to buy half a kilogram of apples."
+    },
+    {
+      "id": "bun3-half-example-4",
+      "sentence": "半夜我聽到啲聲。",
+      "jyutping": "bun3 je6 ngo5 teng1 dou3 di1 seng1.",
+      "meaning": "I heard some sounds at midnight."
+    }
+  ],
+  "audio": {
+    "word": "bun3-half.mp3",
+    "examples": [
+      "bun3-half-example-1.mp3",
+      "bun3-half-example-2.mp3",
+      "bun3-half-example-3.mp3",
+      "bun3-half-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measurements",
+    "quantity",
+    "time",
+    "basic",
+    "daily use",
+    "level-1"
+  ],
+  "related": [
+    "份 (fan6) - portion",
+    "啲 (di1) - some",
+    "杯 (bui1) - cup/glass",
+    "鐘 (zung1) - hour/time",
+    "公斤 (gung1 gan1) - kilogram"
+  ]
+}

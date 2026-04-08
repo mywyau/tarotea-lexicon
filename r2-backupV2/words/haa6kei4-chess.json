@@ -3,14 +3,12 @@
   "word": "下棋",
   "jyutping": "haa6 kei4",
   "meaning": "chess",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
     "Used as a noun meaning “chess”; in Cantonese it often refers to playing chess in general, and the exact kind of chess depends on context.",
-    "Common in phrases like 「下棋」(to play chess) and 「學下棋」(to learn chess). The verb-like use is very natural in spoken Cantonese.",
+    "Common in phrases like 下棋(to play chess) and 學下棋(to learn chess). The verb-like use is very natural in spoken Cantonese.",
     "Usually sounds neutral and everyday. It works well for hobbies, leisure, and skill-building contexts.",
-    "If you want to be specific about the type, you can add the chess type before it, such as 「國際象棋」 or 「中國象棋」."
+    "If you want to be specific about the type, you can add the chess type before it, such as 國際象棋 or 中國象棋."
   ],
   "examples": [
     {
@@ -57,11 +55,5 @@
     "beginner-friendly",
     "level-1"
   ],
-  "related": [
-    "中國象棋",
-    "國際象棋",
-    "棋盤",
-    "棋手",
-    "對弈"
-  ]
+  "related": ["中國象棋", "國際象棋", "棋盤", "棋手", "對弈"]
 }

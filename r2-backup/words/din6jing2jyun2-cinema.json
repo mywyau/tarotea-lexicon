@@ -3,13 +3,11 @@
   "word": "電影院",
   "jyutping": "din6 jing2 jyun2",
   "meaning": "cinema",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "「電影院」 means 'cinema' or 'movie theatre' and refers to the place where people go to watch films on a big screen.",
-    "It is a noun, and it is often used with the classifier 「間」, for example: 一間電影院 (a cinema) or 呢間電影院 (this cinema).",
-    "It commonly appears after verbs such as 「去」 and 「喺」, for example: 去電影院 (go to the cinema) or 喺電影院睇戲 (watch a film at the cinema).",
+    "電影院 means 'cinema' or 'movie theatre' and refers to the place where people go to watch films on a big screen.",
+    "It is a noun, and it is often used with the classifier 間, for example: 一間電影院 (a cinema) or 呢間電影院 (this cinema).",
+    "It commonly appears after verbs such as 去 and 喺, for example: 去電影院 (go to the cinema) or 喺電影院睇戲 (watch a film at the cinema).",
     "This word is useful when talking about plans, locations, or outings, and common phrases include 電影院附近 (near the cinema) and 電影院門口 (the entrance of the cinema)."
   ],
   "examples": [
@@ -56,11 +54,5 @@
     "beginner",
     "level-1"
   ],
-  "related": [
-    "戲院",
-    "電影",
-    "睇戲",
-    "票房",
-    "售票處"
-  ]
+  "related": ["戲院", "電影", "睇戲", "票房", "售票處"]
 }

@@ -3,13 +3,11 @@
   "word": "數學",
   "jyutping": "sou3 hok6",
   "meaning": "math",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "Use 「數學」 as a noun for the subject or field of mathematics.",
+    "Use 數學 as a noun for the subject or field of mathematics.",
     "It can refer to school math or math-related topics in daily conversation.",
-    "You can use it after words like 「學」, 「教」, or 「做」 when talking about learning or teaching math.",
+    "You can use it after words like 學, 教, or 做 when talking about learning or teaching math.",
     "It is also common in phrases about tests, homework, and grades."
   ],
   "examples": [
@@ -55,10 +53,5 @@
     "beginner",
     "level-1"
   ],
-  "related": [
-    "算術",
-    "幾何",
-    "功課",
-    "考試"
-  ]
+  "related": ["算術", "幾何", "功課", "考試"]
 }

@@ -1,0 +1,64 @@
+{
+  "id": "zek3-animal-counter",
+  "word": "隻",
+  "jyutping": "zek3",
+  "meaning": "animal counter",
+  "pos": [
+    "measure word"
+  ],
+  "usage": [
+    "The measure word '隻' (zek3) is used to count animals and some single objects.",
+    "You put '隻' before the noun to show how many animals or certain items you are talking about.",
+    "It works like 'a' or 'an' in English when referring to individual animals.",
+    "'隻' is often used with birds, dogs, cats, and also with one of a pair like a single shoe."
+  ],
+  "examples": [
+    {
+      "id": "zek3-animal-counter-example-1",
+      "sentence": "我養咗一隻狗。",
+      "jyutping": "ngo5 joeng5 zo2 jat1 zek3 gau2.",
+      "meaning": "I have raised a dog."
+    },
+    {
+      "id": "zek3-animal-counter-example-2",
+      "sentence": "嗰隻貓好得意。",
+      "jyutping": "go2 zek3 maau1 hou2 dak1 ji3.",
+      "meaning": "That cat is very cute."
+    },
+    {
+      "id": "zek3-animal-counter-example-3",
+      "sentence": "你見過幾多隻雀？",
+      "jyutping": "nei5 gin3 gwo3 gei2 do1 zek3 zoek3?",
+      "meaning": "How many birds have you seen?"
+    },
+    {
+      "id": "zek3-animal-counter-example-4",
+      "sentence": "我買咗隻鞋。",
+      "jyutping": "ngo5 maai5 zo2 zek3 haai4.",
+      "meaning": "I bought a shoe."
+    }
+  ],
+  "audio": {
+    "word": "zek3-animal-counter.mp3",
+    "examples": [
+      "zek3-animal-counter-example-1.mp3",
+      "zek3-animal-counter-example-2.mp3",
+      "zek3-animal-counter-example-3.mp3",
+      "zek3-animal-counter-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measure word",
+    "animals",
+    "counter",
+    "basic Cantonese",
+    "everyday use",
+    "level-1"
+  ],
+  "related": [
+    "條 (tiu4)",
+    "架 (gaa3)",
+    "本 (bun2)",
+    "杯 (bui1)"
+  ]
+}

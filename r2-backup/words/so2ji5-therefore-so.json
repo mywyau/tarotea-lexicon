@@ -3,13 +3,11 @@
   "word": "所以",
   "jyutping": "so2 ji5",
   "meaning": "therefore; so",
-  "pos": [
-    "conjunction"
-  ],
+  "pos": ["conjunction"],
   "usage": [
     "Used to introduce a result or consequence",
-    "Commonly paired with 「因為」 in the pattern 「因為 A，所以 B」",
-    "In casual speech, 「所以」 is often shortened to just 「所以」 without explicitly stating 「因為」 if the cause is already clear"
+    "Commonly paired with 因為 in the pattern 因為 A，所以 B",
+    "In casual speech, 所以 is often shortened to just 所以 without explicitly stating 因為 if the cause is already clear"
   ],
   "examples": [
     {
@@ -32,10 +30,5 @@
       "so2ji5-therefore-so-example-2.mp3"
     ]
   },
-  "tags": [
-    "level-2",
-    "result",
-    "connector",
-    "common"
-  ]
+  "tags": ["level-2", "result", "connector", "common"]
 }

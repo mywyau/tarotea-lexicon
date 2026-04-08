@@ -43,28 +43,28 @@
       "usage_path": "$.usage",
       "index": 0,
       "issue": "no_latin_translation",
-      "value": "用嚟形容顏色唔鮮明，例如「呢隻藍色有啲暗」。。"
+      "value": "用嚟形容顏色唔鮮明，例如呢隻藍色有啲暗。。"
     },
     {
       "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/am3-dull.json",
       "usage_path": "$.usage",
       "index": 1,
       "issue": "no_latin_translation",
-      "value": "可以放喺名詞前面，直接修飾顏色，例如「暗紅色」、「暗綠色」。。"
+      "value": "可以放喺名詞前面，直接修飾顏色，例如暗紅色、暗綠色。。"
     },
     {
       "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/am3-dull.json",
       "usage_path": "$.usage",
       "index": 2,
       "issue": "no_latin_translation",
-      "value": "好多時同「啲」、「少少」一齊用，語氣會自然啲，例如「呢件衫個色暗咗少少」。。"
+      "value": "好多時同啲、少少一齊用，語氣會自然啲，例如呢件衫個色暗咗少少。。"
     },
     {
       "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/am3-dull.json",
       "usage_path": "$.usage",
       "index": 3,
       "issue": "no_latin_translation",
-      "value": "如果想講燈光或者地方唔光，亦可以用「暗」，例如「間房好暗」。。"
+      "value": "如果想講燈光或者地方唔光，亦可以用暗，例如間房好暗。。"
     },
     {
       "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/baa1si2-bus.json",
@@ -141,14 +141,14 @@
       "usage_path": "$.usage",
       "index": 0,
       "issue": "no_latin_translation",
-      "value": "「淺黃色」係一個顏色名，可以直接做名詞用，例如：我鍾意淺黃色。"
+      "value": "淺黃色係一個顏色名，可以直接做名詞用，例如：我鍾意淺黃色。"
     },
     {
       "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/cin2wong4sik1-light-yellow.json",
       "usage_path": "$.usage",
       "index": 1,
       "issue": "no_latin_translation",
-      "value": "講件物件嘅外觀時，可以放喺「係」後面：件衫係淺黃色。"
+      "value": "講件物件嘅外觀時，可以放喺係後面：件衫係淺黃色。"
     },
     {
       "file": "/Users/michaelyau/tarotea/openai-tts/r2-backup/words/cin2wong4sik1-light-yellow.json",

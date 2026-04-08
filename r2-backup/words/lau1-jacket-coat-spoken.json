@@ -3,12 +3,10 @@
   "word": "褸",
   "jyutping": "lau1",
   "meaning": "jacket / coat (spoken)",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "「褸」is the spoken form and is more common than 「外套」 in everyday conversation.",
-    "It is usually used with the classifier 「件」, for example: “一件褸” (a jacket).",
+    "褸is the spoken form and is more common than 外套 in everyday conversation.",
+    "It is usually used with the classifier 件, for example: “一件褸” (a jacket).",
     "It commonly appears with verbs such as “wear,” “take off,” and “bring.”",
     "It is often mentioned when talking about cold weather or going out."
   ],
@@ -47,18 +45,6 @@
       "lau1-jacket-coat-spoken-example-4.mp3"
     ]
   },
-  "tags": [
-    "clothing",
-    "outerwear",
-    "spoken cantonese",
-    "weather",
-    "level-1"
-  ],
-  "related": [
-    "外套",
-    "毛衣",
-    "T恤",
-    "手套",
-    "冷"
-  ]
+  "tags": ["clothing", "outerwear", "spoken cantonese", "weather", "level-1"],
+  "related": ["外套", "毛衣", "T恤", "手套", "冷"]
 }

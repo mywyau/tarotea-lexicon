@@ -3,13 +3,11 @@
   "word": "雙數",
   "jyutping": "soeng1 sou3",
   "meaning": "even",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "Used when you want to say a number is even, usually with the pattern 「係雙數」.",
+    "Used when you want to say a number is even, usually with the pattern 係雙數.",
     "Often used in math class or games when checking numbers.",
-    "Can be used in contrast with 「單數」 to talk about number type.",
+    "Can be used in contrast with 單數 to talk about number type.",
     "Common in everyday counting or simple calculation."
   ],
   "examples": [
@@ -55,10 +53,5 @@
     "beginner",
     "level-1"
   ],
-  "related": [
-    "單數",
-    "數字",
-    "偶數",
-    "奇數"
-  ]
+  "related": ["單數", "數字", "偶數", "奇數"]
 }

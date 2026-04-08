@@ -3,13 +3,11 @@
   "word": "天橋",
   "jyutping": "tin1 kiu4",
   "meaning": "footbridge",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
     "A common everyday noun for a pedestrian footbridge, especially one over a busy road or near MTR stations and estates.",
-    "It is often used with verbs like 「行」, 「過」, and 「上／落」 when talking about crossing or moving on it.",
-    "In Hong Kong, 「天橋」 can also refer to an elevated covered walkway between buildings, not only a bridge over traffic.",
+    "It is often used with verbs like 行, 過, and 上／落 when talking about crossing or moving on it.",
+    "In Hong Kong, 天橋 can also refer to an elevated covered walkway between buildings, not only a bridge over traffic.",
     "Neutral, very common spoken word; learners should use it for practical directions, transport, and city-life contexts."
   ],
   "examples": [
@@ -56,11 +54,5 @@
     "navigation",
     "level-1"
   ],
-  "related": [
-    "行人天橋",
-    "天橋底",
-    "行人路",
-    "過馬路",
-    "地鐵站"
-  ]
+  "related": ["行人天橋", "天橋底", "行人路", "過馬路", "地鐵站"]
 }

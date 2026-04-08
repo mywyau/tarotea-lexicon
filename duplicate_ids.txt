@@ -1,0 +1,499 @@
+python scripts/check_r2_word_files.py
+Found 123 duplicate base ID groups:
+
+bat1gwo3
+  - bat1gwo3-but-however.json
+  - bat1gwo3-however.json
+
+bei6
+  - bei6-nose.json
+  - bei6-quilt-blanket.json
+
+bou2on1
+  - bou2on1-guard.json
+  - bou2on1-security-security-guard.json
+
+bou3dou6
+  - bou3dou6-report.json
+  - bou3dou6-to-report-report-coverage.json
+
+bou3gou3
+  - bou3gou3-report-2.json
+  - bou3gou3-report.json
+
+bui1
+  - bui1-cup-glass.json
+  - bui1-cupful.json
+
+caan1teng1
+  - caan1teng1-dining-room.json
+  - caan1teng1-restaurant.json
+
+ci3
+  - ci3-time-count.json
+  - ci3-time-occurrence-repetition.json
+  - ci3-wing.json
+
+ci3so2
+  - ci3so2-bathroom.json
+  - ci3so2-toilet-washroom-restroom.json
+
+cim1joek3
+  - cim1joek3-sign-contract.json
+  - cim1joek3-sign.json
+
+cing1
+  - cing1-clear.json
+  - cing1-greenish.json
+
+coeng3go1
+  - coeng3go1-singing.json
+  - coeng3go1-to-sing.json
+
+coeng4
+  - coeng4-wall-2.json
+  - coeng4-wall.json
+
+coi3
+  - coi3-greens-vegetable-plant.json
+  - coi3-vegetables-dishes-context-dependent.json
+
+coi3sam1
+  - coi3sam1-choi-sum.json
+  - coi3sam1-choy-sum.json
+
+daai3
+  - daai3-bring.json
+  - daai3-wear.json
+
+daan6hai6
+  - daan6hai6-but-however-spoken.json
+  - daan6hai6-but-spoken.json
+
+daan6taat1
+  - daan6taat1-egg-tart-2.json
+  - daan6taat1-egg-tart.json
+
+daap3
+  - daap3-answer.json
+  - daap3-ride.json
+
+dang1gei1
+  - dang1gei1-board-plane.json
+  - dang1gei1-check-in.json
+
+dei6baan2
+  - dei6baan2-floor.json
+  - dei6baan2-floorboard.json
+
+dei6taan2
+  - dei6taan2-carpet-rug.json
+  - dei6taan2-rug-carpet.json
+
+din6
+  - din6-electricity.json
+  - din6-lightning.json
+
+din6si6
+  - din6si6-television.json
+  - din6si6-tv.json
+
+din6tai1
+  - din6tai1-elevator.json
+  - din6tai1-lift.json
+
+faai3
+  - faai3-fast.json
+  - faai3-piece.json
+
+faai3di1
+  - faai3di1-a-bit-faster.json
+  - faai3di1-faster.json
+
+faai3seon3
+  - faai3seon3-message.json
+  - faai3seon3-news-flash.json
+
+faan1gung1
+  - faan1gung1-go-to-work.json
+  - faan1gung1-to-go-to-work-to-be-at-work.json
+
+faan2ji4
+  - faan2ji4-instead-on-the-contrary.json
+  - faan2ji4-on-the-contrary-instead.json
+
+faat3jin6
+  - faat3jin6-discovery.json
+  - faat3jin6-to-discover-realise.json
+
+fong3sam1
+  - fong3sam1-relieved-reassured.json
+  - fong3sam1-to-feel-relieved-to-be-at-ease.json
+
+fong3sung1
+  - fong3sung1-relax.json
+  - fong3sung1-relaxed.json
+
+gaa3
+  - gaa3-shelf-rack.json
+  - gaa3-vehicle-counter.json
+
+gaan1
+  - gaan1-interval.json
+  - gaan1-room-counter.json
+
+gaau1fai3
+  - gaau1fai3-pay-fare.json
+  - gaau1fai3-to-pay-a-fee.json
+
+gaau2co3
+  - gaau2co3-make-a-mistake.json
+  - gaau2co3-to-mess-up-make-a-mistake.json
+
+gaau2dim6
+  - gaau2dim6-done-sorted.json
+  - gaau2dim6-sorted-done.json
+
+gam2gok3
+  - gam2gok3-feel.json
+  - gam2gok3-feeling-impression.json
+
+gan1
+  - gan1-catty.json
+  - gan1-root.json
+
+gan2zoeng1
+  - gan2zoeng1-nervous-tense.json
+  - gan2zoeng1-tense-nervous.json
+
+gau2
+  - gau2-dog.json
+  - gau2-nine.json
+
+gei1juk6
+  - gei1juk6-muscle.json
+  - gei1juk6-muscles.json
+
+gei3ze2
+  - gei3ze2-journalist.json
+  - gei3ze2-reporter.json
+
+gin6san1
+  - gin6san1-fitness.json
+  - gin6san1-work-out.json
+
+giu3
+  - giu3-call.json
+  - giu3-cry-out.json
+
+gok3
+  - gok3-angle.json
+  - gok3-horn.json
+
+gok3dou6
+  - gok3dou6-angle-perspective-point-of-view.json
+  - gok3dou6-angle-perspective.json
+
+guk6zyu1paa4faan6
+  - guk6zyu1paa4faan6-baked-pork-chop-rice-2.json
+  - guk6zyu1paa4faan6-baked-pork-chop-rice.json
+
+gung1gan1
+  - gung1gan1-kilogram-common.json
+  - gung1gan1-kilogram.json
+
+gwaan1zyu3
+  - gwaan1zyu3-follow.json
+  - gwaan1zyu3-to-be-concerned-about-pay-attention.json
+
+hap6
+  - hap6-box-2.json
+  - hap6-box.json
+
+hap6joek3
+  - hap6joek3-agreement.json
+  - hap6joek3-contract.json
+
+hap6zok3
+  - hap6zok3-cooperation.json
+  - hap6zok3-to-cooperate-to-work-together.json
+
+hing1
+  - hing1-light-2.json
+  - hing1-light.json
+
+ho2ji5waa6
+  - ho2ji5waa6-one-could-say.json
+  - ho2ji5waa6-you-could-say.json
+
+ho2nang4
+  - ho2nang4-maybe-possibly.json
+  - ho2nang4-possibly-might-likely.json
+
+hok6
+  - hok6-crane.json
+  - hok6-learn.json
+
+hok6jam1ngok6
+  - hok6jam1ngok6-music-lessons.json
+  - hok6jam1ngok6-to-learn-music.json
+
+hou2coi2
+  - hou2coi2-luckily-fortunately.json
+  - hou2coi2-luckily.json
+
+jam1
+  - jam1-cloudy.json
+  - jam1-sound.json
+
+jam2caa4
+  - jam2caa4-have-tea.json
+  - jam2caa4-to-have-dim-sum.json
+
+jam2gaa3fe1
+  - jam2gaa3fe1-coffee.json
+  - jam2gaa3fe1-to-drink-coffee-to-have-coffee.json
+
+jat1bun1lei4gong2
+  - jat1bun1lei4gong2-generally-speaking-2.json
+  - jat1bun1lei4gong2-generally-speaking.json
+
+jat1go3
+  - jat1go3-one-piece.json
+  - jat1go3-one.json
+
+jat1go3zung1
+  - jat1go3zung1-one-hour-2.json
+  - jat1go3zung1-one-hour.json
+
+jau4seoi2
+  - jau4seoi2-swim.json
+  - jau4seoi2-swimming.json
+
+jing2soeng2
+  - jing2soeng2-take-photo.json
+  - jing2soeng2-taking-photos.json
+
+jiu1kau4
+  - jiu1kau4-request.json
+  - jiu1kau4-requirement-to-require.json
+
+jyu4gwo2
+  - jyu4gwo2-if-suppose.json
+  - jyu4gwo2-if.json
+
+jyun4jan1
+  - jyun4jan1-cause-reason.json
+  - jyun4jan1-reason.json
+
+jyun4loi4
+  - jyun4loi4-it-turns-out-originally-realisation.json
+  - jyun4loi4-so-thats-why-it-turns-out.json
+
+jyun5
+  - jyun5-far.json
+  - jyun5-soft.json
+
+laang5hei3
+  - laang5hei3-air-conditioner-2.json
+  - laang5hei3-air-conditioner.json
+
+loeng5go3
+  - loeng5go3-two-pieces.json
+  - loeng5go3-two.json
+
+luk6
+  - luk6-deer.json
+  - luk6-green.json
+  - luk6-six.json
+
+m4hou2ji3si1
+  - m4hou2ji3si1-sorry-excuse-me-2.json
+  - m4hou2ji3si1-sorry-excuse-me.json
+
+maa4maa1
+  - maa4maa1-mother-mum.json
+  - maa4maa1-mum.json
+
+maa5
+  - maa5-horse.json
+  - maa5-size.json
+
+maa5lou6
+  - maa5lou6-road.json
+  - maa5lou6-street.json
+
+maai4daan1
+  - maai4daan1-to-pay-the-bill-2.json
+  - maai4daan1-to-pay-the-bill.json
+
+maan6maan6
+  - maan6maan6-gradually.json
+  - maan6maan6-slowly.json
+
+mou5din6
+  - mou5din6-no-battery.json
+  - mou5din6-no-electricity.json
+
+mou6
+  - mou6-fog.json
+  - mou6-hat.json
+
+ngaa4
+  - ngaa4-shoot-bud.json
+  - ngaa4-tooth.json
+
+ngo5m4syu1fuk6
+  - ngo5m4syu1fuk6-i-dont-feel-well.json
+  - ngo5m4syu1fuk6-i-feel-unwell.json
+
+ngo5nam2
+  - ngo5nam2-i-think.json
+  - ngo5nam2-i-thought-i-think-i-was-thinking.json
+
+paau2bou6
+  - paau2bou6-run.json
+  - paau2bou6-running.json
+
+saam1
+  - saam1-clothes.json
+  - saam1-three.json
+
+saan1
+  - saan1-delete.json
+  - saan1-mountain.json
+
+saan3bou6
+  - saan3bou6-take-a-walk.json
+  - saan3bou6-walking.json
+
+sai2ji1gei1
+  - sai2ji1gei1-washing-machine-2.json
+  - sai2ji1gei1-washing-machine.json
+
+sau1sap6
+  - sau1sap6-clean-up.json
+  - sau1sap6-tidy-up.json
+
+seoi2hau4
+  - seoi2hau4-tap.json
+  - seoi2hau4-water-pipe.json
+
+siu1sik1
+  - siu1sik1-message.json
+  - siu1sik1-news-information.json
+
+so2ji5
+  - so2ji5-so-therefore-spoken.json
+  - so2ji5-therefore-so.json
+
+soeng2
+  - soeng2-photo.json
+  - soeng2-want.json
+
+sung3
+  - sung3-deliver.json
+  - sung3-side-dish.json
+
+syun1
+  - syun1-acid.json
+  - syun1-grandchild.json
+  - syun1-sour.json
+
+tai2
+  - tai2-look.json
+  - tai2-to-look-at-to-watch-to-read.json
+
+tai2faat3
+  - tai2faat3-viewpoint-way-of-seeing-something.json
+  - tai2faat3-way-of-seeing-view.json
+
+tai2syu1
+  - tai2syu1-read.json
+  - tai2syu1-reading-books.json
+
+teng1go1
+  - teng1go1-listen-to-music.json
+  - teng1go1-to-listen-to-songs.json
+
+ting4ce1coeng4
+  - ting4ce1coeng4-car-park.json
+  - ting4ce1coeng4-parking-lot.json
+
+tiu3mou5
+  - tiu3mou5-dance.json
+  - tiu3mou5-dancing.json
+
+toi4
+  - toi4-restaurant-table.json
+  - toi4-table.json
+
+waa6
+  - waa6-say.json
+  - waa6-to-say.json
+
+waai6zo2
+  - waai6zo2-broken.json
+  - waai6zo2-its-broken.json
+
+wan4
+  - wan4-cloud.json
+  - wan4-dizzy.json
+
+wan6dung6
+  - wan6dung6-exercise.json
+  - wan6dung6-motion.json
+  - wan6dung6-sport.json
+
+wui6gai3
+  - wui6gai3-accountant.json
+  - wui6gai3-accounting.json
+
+zan1hai6
+  - zan1hai6-really-seriously.json
+  - zan1hai6-really-truly.json
+
+zi1
+  - zi1-branch.json
+  - zi1-know.json
+  - zi1-stick-item-counter.json
+
+zi1liu2
+  - zi1liu2-data.json
+  - zi1liu2-information.json
+
+zing3ming4
+  - zing3ming4-proof-certificate-to-prove.json
+  - zing3ming4-prove.json
+
+ziu1jim4jau4jyu4
+  - ziu1jim4jau4jyu4-salt-and-pepper-squid-2.json
+  - ziu1jim4jau4jyu4-salt-and-pepper-squid.json
+
+zo6dei6dang1
+  - zo6dei6dang1-floor-lamp.json
+  - zo6dei6dang1-standing-lamp.json
+
+zou6
+  - zou6-do.json
+  - zou6-to-do-to-make.json
+
+zuk1
+  - zuk1-bamboo.json
+  - zuk1-congee.json
+
+zung1
+  - zung1-clock.json
+  - zung1-medium.json
+
+zung6
+  - zung6-even-even-more.json
+  - zung6-heavy.json
+
+zung6loeng6
+  - zung6loeng6-weight-2.json
+  - zung6loeng6-weight.json
+
+zyu2faan6
+  - zyu2faan6-cook-a-meal.json
+  - zyu2faan6-cooking.json

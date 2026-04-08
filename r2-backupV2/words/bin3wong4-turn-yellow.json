@@ -3,12 +3,10 @@
   "word": "變黃",
   "jyutping": "bin3 wong4",
   "meaning": "turn yellow",
-  "pos": [
-    "verb"
-  ],
+  "pos": ["verb"],
   "usage": [
     "Used for a plant, leaf, fruit, or part of the body when its color changes to yellow. In gardening, it often suggests a problem with light, water, nutrients, or age.",
-    "Common in the pattern 「X 變黃」, where X is the thing that changes color. The word is usually a result-state verb, so it describes a change, not a permanent quality.",
+    "Common in the pattern X 變黃, where X is the thing that changes color. The word is usually a result-state verb, so it describes a change, not a permanent quality.",
     "Very natural in plant-care talk, especially for leaves and stems. It can be neutral or warning-like, depending on the situation.",
     "In everyday Cantonese, you can also use it for other things that become yellow in color, but for learners it is most often heard with plants and gardening topics."
   ],
@@ -55,11 +53,5 @@
     "beginner",
     "level-1"
   ],
-  "related": [
-    "黃葉",
-    "枯黃",
-    "轉色",
-    "病徵",
-    "植物"
-  ]
+  "related": ["黃葉", "枯黃", "轉色", "病徵", "植物"]
 }
