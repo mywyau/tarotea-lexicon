@@ -1,0 +1,65 @@
+{
+  "id": "gam1jat6-today",
+  "word": "今日",
+  "jyutping": "gam1 jat6",
+  "meaning": "today",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "今日 is used to refer to the current day, from midnight to midnight.",
+    "It can be used alone as a subject, object, or adverbial time phrase in a sentence.",
+    "When talking about plans or events, 今日 often helps specify timing clearly without needing extra words.",
+    "It can combine with verbs like '去' (heoi3 - to go) or '做' (zou6 - to do) to indicate actions happening today.",
+    "今日 contrasts with words like 聽日 (ting1 jat6 - tomorrow) and 昨日 (zok6 jat6 - yesterday) to position events on the timeline."
+  ],
+  "examples": [
+    {
+      "id": "gam1jat6-today-example-1",
+      "sentence": "我今日要返工。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1.",
+      "meaning": "I have to go to work today."
+    },
+    {
+      "id": "gam1jat6-today-example-2",
+      "sentence": "今日天氣好熱。",
+      "jyutping": "gam1 jat6 tin1 hei3 hou2 jit6.",
+      "meaning": "The weather is very hot today."
+    },
+    {
+      "id": "gam1jat6-today-example-3",
+      "sentence": "我哋今日去飲茶啦！",
+      "jyutping": "ngo5 dei6 gam1 jat6 heoi3 jam2 caa4 laa1!",
+      "meaning": "Let's go have dim sum today!"
+    },
+    {
+      "id": "gam1jat6-today-example-4",
+      "sentence": "今日有冇考試？",
+      "jyutping": "gam1 jat6 jau5 mou5 haau2 si3?",
+      "meaning": "Is there an exam today?"
+    }
+  ],
+  "audio": {
+    "word": "gam1jat6-today.mp3",
+    "examples": [
+      "gam1jat6-today-example-1.mp3",
+      "gam1jat6-today-example-2.mp3",
+      "gam1jat6-today-example-3.mp3",
+      "gam1jat6-today-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "time",
+    "daily",
+    "basic",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "聽日",
+    "昨日",
+    "今日頭先",
+    "而家",
+    "今晚"
+  ]
+}

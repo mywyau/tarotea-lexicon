@@ -1,0 +1,66 @@
+{
+  "id": "faai3-fast",
+  "word": "快",
+  "jyutping": "faai3",
+  "meaning": "fast",
+  "pos": [
+    "adjective",
+    "adverb"
+  ],
+  "usage": [
+    "The word 快 is mainly used as an adjective to describe the speed of something or someone.",
+    "快 can also function as an adverb to modify verbs, indicating the manner in which an action is performed quickly.",
+    "In affirmative sentences, 快 usually comes before the verb it modifies.",
+    "快 can be used in both formal and informal contexts to talk about speed or promptness."
+  ],
+  "examples": [
+    {
+      "id": "faai3-fast-example-1",
+      "sentence": "你跑得好快。",
+      "jyutping": "nei5 paau2 dak1 hou2 faai3.",
+      "meaning": "You run very fast."
+    },
+    {
+      "id": "faai3-fast-example-2",
+      "sentence": "車快啲啊！",
+      "jyutping": "ce1 faai3 di1 aa3!",
+      "meaning": "Drive faster!"
+    },
+    {
+      "id": "faai3-fast-example-3",
+      "sentence": "快啲過嚟幫手啦。",
+      "jyutping": "faai3 di1 gwo3 lei4 bong1 sau2 laa1.",
+      "meaning": "Come here quickly to help."
+    },
+    {
+      "id": "faai3-fast-example-4",
+      "sentence": "呢部電腦快好多。",
+      "jyutping": "ni1 bou6 din6 nou5 faai3 hou2 do1.",
+      "meaning": "This computer is much faster."
+    }
+  ],
+  "audio": {
+    "word": "faai3-fast.mp3",
+    "examples": [
+      "faai3-fast-example-1.mp3",
+      "faai3-fast-example-2.mp3",
+      "faai3-fast-example-3.mp3",
+      "faai3-fast-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "speed",
+    "actions",
+    "daily use",
+    "adjective",
+    "adverb",
+    "level-1"
+  ],
+  "related": [
+    "慢",
+    "快啲",
+    "速",
+    "急",
+    "迅速"
+  ]
+}

@@ -284,3 +284,7 @@ aws s3 sync ./content/words \
 s3://tarotea-content/words \
 --endpoint-url https://3ed1e60152f33852da41c3d61ddb1140.r2.cloudflarestorage.com \
 --profile r2
+
+
+
+https://www.tarotea.co.uk/writing/clothing/vocab/zi2sik1-purple

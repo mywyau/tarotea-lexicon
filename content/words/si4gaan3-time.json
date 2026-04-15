@@ -1,0 +1,64 @@
+{
+  "id": "si4gaan3-time",
+  "word": "時間",
+  "jyutping": "si4 gaan3",
+  "meaning": "time",
+  "pos": ["noun"],
+  "usage": [
+    "Time 時間 is used to talk about the measurable period when things happen.",
+    "It can refer to specific points or durations, like 'What time is it?' or 'I don't have enough time.'",
+    "時間 is a noun, so it usually follows verbs or prepositions when used in sentences.",
+    "You can use 時間 with measure words like 個 (go3) when counting chunks of time.",
+    "It’s common to use 時間 in both formal and informal conversations about schedules, deadlines, and daily activities."
+  ],
+  "examples": [
+    {
+      "id": "si4gaan3-time-example-1",
+      "sentence": "你有冇時間幫我？",
+      "jyutping": "nei5 jau5 mou5 si4 gaan3 bong1 ngo5?",
+      "meaning": "Do you have time to help me?"
+    },
+    {
+      "id": "si4gaan3-time-example-2",
+      "sentence": "我今日冇時間去買嘢。",
+      "jyutping": "ngo5 gam1 jat6 mou5 si4 gaan3 heoi3 maai5 je5.",
+      "meaning": "I don't have time to go shopping today."
+    },
+    {
+      "id": "si4gaan3-time-example-3",
+      "sentence": "時間過得好快。",
+      "jyutping": "si4 gaan3 gwo3 dak1 hou2 faai3.",
+      "meaning": "Time goes by very quickly."
+    },
+    {
+      "id": "si4gaan3-time-example-4",
+      "sentence": "你幾點有時間？",
+      "jyutping": "nei5 gei2 dim2 jau5 si4 gaan3?",
+      "meaning": "What time will you be free?"
+    }
+  ],
+  "audio": {
+    "word": "si4gaan3-time.mp3",
+    "examples": [
+      "si4gaan3-time-example-1.mp3",
+      "si4gaan3-time-example-2.mp3",
+      "si4gaan3-time-example-3.mp3",
+      "si4gaan3-time-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "basic",
+    "time",
+    "noun",
+    "daily conversation",
+    "measurements_and_quantities",
+    "level-1"
+  ],
+  "related": [
+    "分鐘 (fan1 zung1 - minute)",
+    "時刻 (si4 hak1 - moment)",
+    "鐘 (zung1 - clock)",
+    "日期 (jat6 kei4 - date)",
+    "時辰 (si4 san4 - ancient time period)"
+  ]
+}

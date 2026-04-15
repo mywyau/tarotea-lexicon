@@ -1,0 +1,66 @@
+{
+  "id": "mai5-metre",
+  "word": "米",
+  "jyutping": "mai5",
+  "meaning": "metre",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "The word 米 is used to describe the unit of length 'metre' in Cantonese.",
+    "It usually follows a number directly to indicate distance or size, for example, '一米' means 'one metre'.",
+    "米 can be combined with measurement expressions, like '長度幾多米？' (How many metres long?).",
+    "When used in a sentence, 米 acts like a noun and does not change form for singular or plural.",
+    "You can use 米 in daily situations involving measurements, such as describing room size or height."
+  ],
+  "examples": [
+    {
+      "id": "mai5-metre-example-1",
+      "sentence": "呢張枱有兩米長。",
+      "jyutping": "ni1 zoeng1 toi2 jau5 loeng5 mai5 coeng4.",
+      "meaning": "This table is two metres long."
+    },
+    {
+      "id": "mai5-metre-example-2",
+      "sentence": "我屋企同學校差唔多一百米遠。",
+      "jyutping": "ngo5 uk1 kei2 tung4 hok6 haau6 caa1 m4 do1 jat1 baak3 mai5 jyun5.",
+      "meaning": "My home is about 100 metres from the school."
+    },
+    {
+      "id": "mai5-metre-example-3",
+      "sentence": "呢條繩有五米長。",
+      "jyutping": "ni1 tiu4 sing4 jau5 ng5 mai5 coeng4.",
+      "meaning": "This rope is five metres long."
+    },
+    {
+      "id": "mai5-metre-example-4",
+      "sentence": "我高一米七幾。",
+      "jyutping": "ngo5 gou1 jat1 mai5 cat1 gei2.",
+      "meaning": "I am about 1.7 metres tall."
+    }
+  ],
+  "audio": {
+    "word": "mai5-metre.mp3",
+    "examples": [
+      "mai5-metre-example-1.mp3",
+      "mai5-metre-example-2.mp3",
+      "mai5-metre-example-3.mp3",
+      "mai5-metre-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "measurements",
+    "length",
+    "distance",
+    "common noun",
+    "basic vocabulary",
+    "level-1"
+  ],
+  "related": [
+    "厘米 (cam4 lei5) - centimetre",
+    "公里 (gung1 lei5) - kilometre",
+    "直徑 (zik6 ging3) - diameter",
+    "高度 (gou1 dou6) - height",
+    "長度 (coeng4 dou6) - length"
+  ]
+}

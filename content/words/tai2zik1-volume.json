@@ -1,0 +1,68 @@
+{
+  "id": "tai2zik1-volume",
+  "word": "體積",
+  "jyutping": "tai2 zik1",
+  "meaning": "volume",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used to talk about how much space a 3D object takes up; common in math, science, and everyday measurement contexts.",
+    "Often appears with verbs like 計, 求, 比較 when discussing calculation or comparison of size.",
+    "In Hong Kong school math, it usually refers to the amount of space inside a solid, not the area of a flat shape.",
+    "Learners should note that 體積 is a formal academic noun, so it sounds natural in classroom or technical talk."
+  ],
+  "examples": [
+    {
+      "id": "tai2zik1-volume-example-1",
+      "sentence": "呢個盒嘅體積好大。",
+      "jyutping": "ni1 go3 hot3 ge3 tai2 zik1 hou2 daai6.",
+      "meaning": "This box has a large volume."
+    },
+    {
+      "id": "tai2zik1-volume-example-2",
+      "sentence": "老師叫我哋計圓柱體嘅體積。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 gai3 jyun4 zyu2 tai2 ge3 tai2 zik1.",
+      "meaning": "The teacher told us to calculate the volume of the cylinder."
+    },
+    {
+      "id": "tai2zik1-volume-example-3",
+      "sentence": "如果水倒入去，體積就會變。",
+      "jyutping": "jyu4 gwo2 seoi2 dou2 jap6 heoi3, tai2 zik1 zau6 wui5 bin3.",
+      "meaning": "If water is poured in, the volume will change."
+    },
+    {
+      "id": "tai2zik1-volume-example-4",
+      "sentence": "呢件傢俬體積唔細，要小心搬。",
+      "jyutping": "ni1 gin6 gaa1 si1 tai2 zik1 m4 sai3, jiu3 siu2 sam1 bun1.",
+      "meaning": "This piece of furniture is not small in volume, so move it carefully."
+    }
+  ],
+  "audio": {
+    "word": "tai2zik1-volume.mp3",
+    "examples": [
+      "tai2zik1-volume-example-1.mp3",
+      "tai2zik1-volume-example-2.mp3",
+      "tai2zik1-volume-example-3.mp3",
+      "tai2zik1-volume-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "shapes",
+    "geometry",
+    "measurement",
+    "school",
+    "science",
+    "formal",
+    "noun",
+    "level-1"
+  ],
+  "related": [
+    "面積",
+    "長度",
+    "闊度",
+    "高度",
+    "空間"
+  ]
+}

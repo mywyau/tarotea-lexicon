@@ -1,0 +1,66 @@
+{
+  "id": "laap6fong1-cube",
+  "word": "立方",
+  "jyutping": "laap6 fong1",
+  "meaning": "cube",
+  "pos": [
+    "noun"
+  ],
+  "usage": [
+    "Used in maths for the operation or result of cubing, as in power of 3: 立方.",
+    "Common in school math, science, and geometry; it sounds formal and standard, not casual slang.",
+    "Can pair with measure words or numbers when talking about volume, e.g. a cube-shaped object or cubic units.",
+    "For learners: 立方 is often linked to 平方 (square) and 次方 (power), so it usually appears in lessons about exponents and measurement."
+  ],
+  "examples": [
+    {
+      "id": "laap6fong1-cube-example-1",
+      "sentence": "呢條數要計 2 立方。",
+      "jyutping": "ni1 tiu4 sou3 jiu3 gai3 ji6 laap6 fong1",
+      "meaning": "This problem requires calculating 2 cubed."
+    },
+    {
+      "id": "laap6fong1-cube-example-2",
+      "sentence": "老師教我哋點樣求立方。",
+      "jyutping": "lou5si1 gaau3 ngo5dei6 dim2 joeng6 kau4 laap6 fong1",
+      "meaning": "The teacher taught us how to find a cube."
+    },
+    {
+      "id": "laap6fong1-cube-example-3",
+      "sentence": "呢個木盒係一個正立方體。",
+      "jyutping": "ni1 go3 muk6 hap2 hai6 jat1 go3 zing3 laap6 fong1 tai2",
+      "meaning": "This wooden box is a cube."
+    },
+    {
+      "id": "laap6fong1-cube-example-4",
+      "sentence": "三的立方係二十七。",
+      "jyutping": "saam1 dik1 laap6 fong1 hai6 ji6 sap6 cat1",
+      "meaning": "Three cubed is twenty-seven."
+    }
+  ],
+  "audio": {
+    "word": "laap6fong1-cube.mp3",
+    "examples": [
+      "laap6fong1-cube-example-1.mp3",
+      "laap6fong1-cube-example-2.mp3",
+      "laap6fong1-cube-example-3.mp3",
+      "laap6fong1-cube-example-4.mp3"
+    ]
+  },
+  "tags": [
+    "math",
+    "powers and roots",
+    "school math",
+    "geometry",
+    "exponents",
+    "elementary",
+    "level-1"
+  ],
+  "related": [
+    "平方",
+    "次方",
+    "立方體",
+    "開根號",
+    "冪"
+  ]
+}
