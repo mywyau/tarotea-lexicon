@@ -47,7 +47,7 @@ python3 scripts/check_jyutping.py \
   --input-dir r2-backup/words \
   --output-dir output/checks/jyutping \
   --model gpt-4.1 \
-  --limit 20
+  --limit 0
 ```
 
 ### 3) Translation checker
@@ -59,6 +59,40 @@ python3 scripts/check_translations.py \
   --model gpt-4.1 \
   --limit 20
 ```
+
+### 4) Local structure checker (offline)
+
+Use this when you want to validate word JSON structure and references without calling OpenAI:
+
+```bash
+python3 scripts/check_word_json_data.py \
+  --input-dir r2-backup/words \
+  --recursive \
+  --output-json output/checks/word-json/report.json
+```
+
+If your files are under `r2-backup/content`, pass that path with `--input-dir r2-backup/content`.
+
+Optional strict check for audio files on disk:
+
+```bash
+python3 scripts/check_word_json_data.py \
+  --input-dir r2-backup/words \
+  --check-audio-files
+```
+
+Auto-add placeholders for missing `pos`/`tags`/`related`/`audio` fields:
+
+```bash
+python3 scripts/check_word_json_data.py \
+  --input-dir r2-backup/words \
+  --apply-placeholders \
+  --output-json output/checks/word-json/placeholders.json
+```
+
+Notes:
+- `--skip-nonword-files` is enabled by default, so utility JSON files (like remap summaries) are ignored.
+- Use `--no-skip-nonword-files` if you want every JSON file audited regardless of shape.
 
 ## Optional rewrite tool
 

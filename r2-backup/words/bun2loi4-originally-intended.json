@@ -3,7 +3,9 @@
   "word": "本來",
   "jyutping": "bun2 loi4",
   "meaning": "originally / originally intended",
-  "pos": ["adverb"],
+  "pos": [
+    "adverb"
+  ],
   "usage": [
     "Used to describe an original state, intention, plan, or expectation.",
     "It often introduces something that was true or expected before a later change happened.",
@@ -43,5 +45,11 @@
       "bun2loi4-originally-intended-example-3.mp3",
       "bun2loi4-originally-intended-example-4.mp3"
     ]
-  }
+  },
+  "tags": [
+    "placeholder"
+  ],
+  "related": [
+    "TODO: add related words"
+  ]
 }
