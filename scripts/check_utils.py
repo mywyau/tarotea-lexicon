@@ -109,10 +109,20 @@ def run_check(
 
     indexed: list[tuple[str, Path]] = []
     requests: list[dict[str, Any]] = []
+    skipped: list[dict[str, str]] = []
     for idx, path in enumerate(files):
-        entry = load_json(path)
+        try:
+            entry = load_json(path)
+        except Exception as exc:  # noqa: BLE001
+            skipped.append({"file": str(path), "reason": f"json_error:{type(exc).__name__}"})
+            continue
+
+        if not isinstance(entry, dict):
+            skipped.append({"file": str(path), "reason": f"unsupported_json_type:{type(entry).__name__}"})
+            continue
+
         payload = payload_builder(entry)
-        custom_id = str(idx)
+        custom_id = str(len(indexed))
         indexed.append((custom_id, path))
         requests.append(
             {
@@ -130,6 +140,36 @@ def run_check(
                 },
             }
         )
+
+    if not requests:
+        write_reports(
+            output_dir,
+            [],
+            {
+                "check": check_name,
+                "input_dir": str(input_dir),
+                "processed": 0,
+                "counts": {"pass": 0, "needs_review": 0, "error": 0},
+                "skipped": skipped,
+                "batch_id": None,
+                "batch_status": "not_submitted",
+                "batch_input": None,
+            },
+        )
+        print(
+            json.dumps(
+                {
+                    "check": check_name,
+                    "processed": 0,
+                    "counts": {"pass": 0, "needs_review": 0, "error": 0},
+                    "skipped": len(skipped),
+                    "output_dir": str(output_dir),
+                    "batch_status": "not_submitted",
+                },
+                indent=2,
+            )
+        )
+        return 0
 
     batch_input_path = output_dir / "batch" / "input.jsonl"
     write_jsonl(batch_input_path, requests)
@@ -207,6 +247,7 @@ def run_check(
             "input_dir": str(input_dir),
             "processed": len(rows),
             "counts": counts,
+            "skipped": skipped,
             "batch_id": batch.id,
             "batch_status": batch.status,
             "batch_input": str(batch_input_path),
@@ -219,6 +260,7 @@ def run_check(
                 "check": check_name,
                 "processed": len(rows),
                 "counts": counts,
+                "skipped": len(skipped),
                 "output_dir": str(output_dir),
                 "batch_id": batch.id,
                 "batch_status": batch.status,
