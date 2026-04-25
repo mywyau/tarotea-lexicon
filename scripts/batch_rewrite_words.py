@@ -61,6 +61,17 @@ def parse_args() -> argparse.Namespace:
         help="Directory where rewritten JSON files and reports are written",
     )
     parser.add_argument("--model", default="gpt-4.1", help="OpenAI model name")
+    parser.add_argument(
+        "--temperature",
+        type=float,
+        default=None,
+        help="Sampling temperature. Omit to use model default (recommended for models that disallow custom values).",
+    )
+    parser.add_argument(
+        "--force-json-mode",
+        action="store_true",
+        help="Force Chat Completions JSON mode. By default, GPT-5* models skip this for compatibility.",
+    )
     parser.add_argument("--limit", type=int, default=0, help="Process only first N files (0 = all)")
     parser.add_argument("--min-confidence", type=float, default=0.8, help="Minimum confidence to auto-apply rewrite")
     parser.add_argument("--max-retries", type=int, default=2, help="Reserved for compatibility (unused in batch mode)")
@@ -125,7 +136,47 @@ def parse_model_content(content: str) -> ModelResult:
     )
 
 
-def build_request(entry: dict[str, Any], model: str) -> dict[str, Any]:
+def format_batch_error(err_row: dict[str, Any]) -> str:
+    """Extract a useful error string from Batch error rows."""
+    error_obj = err_row.get("error")
+    if isinstance(error_obj, str) and error_obj.strip():
+        return error_obj.strip()
+    if isinstance(error_obj, dict):
+        code = str(error_obj.get("code", "")).strip()
+        message = str(error_obj.get("message", "")).strip()
+        combined = f"{code}:{message}".strip(":")
+        if combined:
+            return combined
+        return json.dumps(error_obj, ensure_ascii=False)
+
+    response = err_row.get("response", {})
+    if isinstance(response, dict):
+        status_code = response.get("status_code")
+        body = response.get("body", {})
+        if isinstance(body, dict):
+            body_error = body.get("error")
+            if isinstance(body_error, dict):
+                code = str(body_error.get("code", "")).strip()
+                message = str(body_error.get("message", "")).strip()
+                combined = f"{code}:{message}".strip(":")
+                if status_code is not None:
+                    return f"http_{status_code}:{combined}" if combined else f"http_{status_code}"
+                if combined:
+                    return combined
+            if status_code is not None:
+                return f"http_{status_code}:{json.dumps(body, ensure_ascii=False)}"
+        if status_code is not None:
+            return f"http_{status_code}"
+
+    return "unknown"
+
+
+def build_request(
+    entry: dict[str, Any],
+    model: str,
+    temperature: float | None,
+    force_json_mode: bool,
+) -> dict[str, Any]:
     user_payload = {
         "constraints": {
             "tone_numbers": "Use Jyutping tone digits 1-6.",
@@ -139,15 +190,19 @@ def build_request(entry: dict[str, Any], model: str) -> dict[str, Any]:
         },
         "entry": entry,
     }
-    return {
+    body: dict[str, Any] = {
         "model": model,
-        "temperature": 0,
-        "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
         ],
     }
+    use_json_mode = force_json_mode or not model.startswith("gpt-5")
+    if use_json_mode:
+        body["response_format"] = {"type": "json_object"}
+    if temperature is not None:
+        body["temperature"] = temperature
+    return body
 
 
 def main() -> int:
@@ -190,7 +245,7 @@ def main() -> int:
                 "custom_id": custom_id,
                 "method": "POST",
                 "url": "/v1/chat/completions",
-                "body": build_request(entry, args.model),
+                "body": build_request(entry, args.model, args.temperature, args.force_json_mode),
             }
         )
 
@@ -210,7 +265,7 @@ def main() -> int:
 
     error_by_id: dict[str, Any] = {}
     for err in error_rows:
-        error_by_id[str(err.get("custom_id", ""))] = err.get("error", "unknown")
+        error_by_id[str(err.get("custom_id", ""))] = format_batch_error(err)
 
     output_by_id: dict[str, dict[str, Any]] = {}
     for out_row in output_rows:
