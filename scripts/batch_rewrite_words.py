@@ -125,6 +125,41 @@ def parse_model_content(content: str) -> ModelResult:
     )
 
 
+def format_batch_error(err_row: dict[str, Any]) -> str:
+    """Extract a useful error string from Batch error rows."""
+    error_obj = err_row.get("error")
+    if isinstance(error_obj, str) and error_obj.strip():
+        return error_obj.strip()
+    if isinstance(error_obj, dict):
+        code = str(error_obj.get("code", "")).strip()
+        message = str(error_obj.get("message", "")).strip()
+        combined = f"{code}:{message}".strip(":")
+        if combined:
+            return combined
+        return json.dumps(error_obj, ensure_ascii=False)
+
+    response = err_row.get("response", {})
+    if isinstance(response, dict):
+        status_code = response.get("status_code")
+        body = response.get("body", {})
+        if isinstance(body, dict):
+            body_error = body.get("error")
+            if isinstance(body_error, dict):
+                code = str(body_error.get("code", "")).strip()
+                message = str(body_error.get("message", "")).strip()
+                combined = f"{code}:{message}".strip(":")
+                if status_code is not None:
+                    return f"http_{status_code}:{combined}" if combined else f"http_{status_code}"
+                if combined:
+                    return combined
+            if status_code is not None:
+                return f"http_{status_code}:{json.dumps(body, ensure_ascii=False)}"
+        if status_code is not None:
+            return f"http_{status_code}"
+
+    return "unknown"
+
+
 def build_request(entry: dict[str, Any], model: str) -> dict[str, Any]:
     user_payload = {
         "constraints": {
@@ -210,7 +245,7 @@ def main() -> int:
 
     error_by_id: dict[str, Any] = {}
     for err in error_rows:
-        error_by_id[str(err.get("custom_id", ""))] = err.get("error", "unknown")
+        error_by_id[str(err.get("custom_id", ""))] = format_batch_error(err)
 
     output_by_id: dict[str, dict[str, Any]] = {}
     for out_row in output_rows:
