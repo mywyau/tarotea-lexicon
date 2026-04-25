@@ -3,10 +3,7 @@
   "word": "比較",
   "jyutping": "bei2 gaau3",
   "meaning": "to compare; relatively",
-  "pos": [
-    "verb",
-    "adverb"
-  ],
+  "pos": ["verb", "adverb"],
   "usage": [
     "As a verb, used to compare two or more things",
     "As an adverb, used to indicate something is relatively or comparatively so",
@@ -33,9 +30,6 @@
       "bei2gaau3-to-compare-relatively-example-2.mp3"
     ]
   },
-  "tags": [
-    "level-2",
-    "comparison",
-    "common"
-  ]
+  "tags": ["level-2", "comparison", "common"],
+  "related": ["買嘢", "收銀", "埋單", "錢", "找數"]
 }

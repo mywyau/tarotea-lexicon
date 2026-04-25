@@ -47,7 +47,7 @@ python3 scripts/check_jyutping.py \
   --input-dir r2-backup/words \
   --output-dir output/checks/jyutping \
   --model gpt-4.1 \
-  --limit 20
+  --limit 0
 ```
 
 ### 3) Translation checker
