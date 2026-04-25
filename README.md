@@ -81,6 +81,19 @@ python3 scripts/check_word_json_data.py \
   --check-audio-files
 ```
 
+Auto-add placeholders for missing `pos`/`tags`/`related`/`audio` fields:
+
+```bash
+python3 scripts/check_word_json_data.py \
+  --input-dir r2-backup/words \
+  --apply-placeholders \
+  --output-json output/checks/word-json/placeholders.json
+```
+
+Notes:
+- `--skip-nonword-files` is enabled by default, so utility JSON files (like remap summaries) are ignored.
+- Use `--no-skip-nonword-files` if you want every JSON file audited regardless of shape.
+
 ## Optional rewrite tool
 
 If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` also uses the OpenAI Batch API, writes candidates to an output folder, and does not overwrite source files unless you manually promote reviewed output.

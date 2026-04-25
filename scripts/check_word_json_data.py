@@ -19,6 +19,9 @@ class Issue:
     message: str
 
 
+WORD_KEYS = {"id", "word", "jyutping", "meaning", "examples"}
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Validate word JSON files for common data errors")
     parser.add_argument(
@@ -41,6 +44,22 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--output-json",
         help="Optional path to write machine-readable report JSON",
+    )
+    parser.add_argument(
+        "--skip-nonword-files",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Skip JSON files that do not look like word entries (default: true)",
+    )
+    parser.add_argument(
+        "--apply-placeholders",
+        action="store_true",
+        help="Write placeholder values for missing required fields in parseable word-entry files",
+    )
+    parser.add_argument(
+        "--placeholder-tag",
+        default="placeholder",
+        help="Tag value to insert when tags are missing/empty (default: placeholder)",
     )
     return parser.parse_args()
 
@@ -141,6 +160,49 @@ def validate_entry(path: Path, data: dict[str, Any], audio_dir: Path, check_audi
     return issues
 
 
+def is_word_entry(data: dict[str, Any]) -> bool:
+    return all(k in data for k in WORD_KEYS)
+
+
+def apply_placeholders(data: dict[str, Any], placeholder_tag: str) -> list[str]:
+    changes: list[str] = []
+
+    if not isinstance(data.get("pos"), list) or not data["pos"]:
+        data["pos"] = ["unknown"]
+        changes.append("pos")
+
+    if not isinstance(data.get("tags"), list) or not data["tags"]:
+        data["tags"] = [placeholder_tag]
+        changes.append("tags")
+
+    if not isinstance(data.get("related"), list) or not data["related"]:
+        data["related"] = ["TODO: add related words"]
+        changes.append("related")
+
+    entry_id = data.get("id") if isinstance(data.get("id"), str) else None
+    examples = data.get("examples") if isinstance(data.get("examples"), list) else []
+    example_ids = [ex.get("id") for ex in examples if isinstance(ex, dict) and isinstance(ex.get("id"), str)]
+    expected_word_audio = f"{entry_id}.mp3" if entry_id else "TODO-word-audio.mp3"
+    expected_example_audio = [f"{ex_id}.mp3" for ex_id in example_ids]
+
+    if not isinstance(data.get("audio"), dict):
+        data["audio"] = {
+            "word": expected_word_audio,
+            "examples": expected_example_audio,
+        }
+        changes.append("audio")
+    else:
+        audio = data["audio"]
+        if not isinstance(audio.get("word"), str) or not audio["word"].strip():
+            audio["word"] = expected_word_audio
+            changes.append("audio.word")
+        if not isinstance(audio.get("examples"), list) or not audio["examples"]:
+            audio["examples"] = expected_example_audio
+            changes.append("audio.examples")
+
+    return changes
+
+
 def main() -> int:
     args = parse_args()
     input_dir = Path(args.input_dir)
@@ -157,6 +219,9 @@ def main() -> int:
 
     report: list[dict[str, Any]] = []
     seen_entry_ids: dict[str, list[str]] = {}
+    skipped_nonword_files = 0
+    placeholder_updates = 0
+    placeholder_fields: dict[str, list[str]] = {}
 
     for path in files:
         item: dict[str, Any] = {"file": str(path), "errors": [], "warnings": []}
@@ -171,6 +236,20 @@ def main() -> int:
             item["errors"].append(f"Top-level JSON must be an object, got {type(data).__name__}")
             report.append(item)
             continue
+
+        if args.skip_nonword_files and not is_word_entry(data):
+            skipped_nonword_files += 1
+            item["warnings"].append("Skipped non-word JSON file (missing one or more core word keys)")
+            report.append(item)
+            continue
+
+        if args.apply_placeholders:
+            changed = apply_placeholders(data, args.placeholder_tag)
+            if changed:
+                path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+                placeholder_updates += 1
+                placeholder_fields[str(path)] = changed
+                item["warnings"].append(f"Applied placeholders: {', '.join(changed)}")
 
         entry_id = data.get("id")
         if isinstance(entry_id, str) and entry_id.strip():
@@ -199,6 +278,10 @@ def main() -> int:
     print(f"Checked {len(report)} file(s) in {input_dir}")
     print(f"Files with errors: {error_files}")
     print(f"Files with warnings: {warning_files}")
+    if args.skip_nonword_files:
+        print(f"Skipped non-word files: {skipped_nonword_files}")
+    if args.apply_placeholders:
+        print(f"Files updated with placeholders: {placeholder_updates}")
 
     for row in report:
         if not row["errors"] and not row["warnings"]:
@@ -219,6 +302,9 @@ def main() -> int:
             "error_files": error_files,
             "warning_files": warning_files,
             "duplicate_ids": duplicate_errors,
+            "skipped_nonword_files": skipped_nonword_files,
+            "placeholder_updates": placeholder_updates,
+            "placeholder_fields": placeholder_fields,
             "results": report,
         }
         out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
