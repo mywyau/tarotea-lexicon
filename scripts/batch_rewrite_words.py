@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Batch audit/rewrite Cantonese word JSON files with OpenAI.
+"""Batch audit/rewrite Cantonese word JSON files with OpenAI Batch API.
 
 This script is intentionally conservative:
 - It keeps the original JSON shape.
@@ -14,12 +14,12 @@ import argparse
 import json
 import os
 import sys
-import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable
 
 from openai import OpenAI
+from openai_batch_utils import collect_batch_results, submit_batch, wait_for_batch, write_jsonl
 
 
 SYSTEM_PROMPT = """You are a Cantonese lexicography QA assistant.
@@ -63,8 +63,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--model", default="gpt-4.1", help="OpenAI model name")
     parser.add_argument("--limit", type=int, default=0, help="Process only first N files (0 = all)")
     parser.add_argument("--min-confidence", type=float, default=0.8, help="Minimum confidence to auto-apply rewrite")
-    parser.add_argument("--max-retries", type=int, default=2, help="Retries for malformed model output")
-    parser.add_argument("--sleep-seconds", type=float, default=0.0, help="Optional delay between API requests")
+    parser.add_argument("--max-retries", type=int, default=2, help="Reserved for compatibility (unused in batch mode)")
+    parser.add_argument("--sleep-seconds", type=float, default=0.0, help="Reserved for compatibility (unused in batch mode)")
     parser.add_argument(
         "--dry-run",
         action="store_true",
@@ -75,6 +75,8 @@ def parse_args() -> argparse.Namespace:
         default="*.json",
         help="Filename glob relative to input directory (default: *.json)",
     )
+    parser.add_argument("--completion-window", default="24h", help="Batch API completion window (default: 24h)")
+    parser.add_argument("--poll-seconds", type=float, default=10.0, help="Polling interval for batch status")
     return parser.parse_args()
 
 
@@ -113,12 +115,17 @@ def load_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def call_model(
-    client: OpenAI,
-    model: str,
-    entry: dict[str, Any],
-    max_retries: int,
-) -> ModelResult:
+def parse_model_content(content: str) -> ModelResult:
+    parsed = json.loads(content)
+    return ModelResult(
+        decision=str(parsed["decision"]).strip().lower(),
+        confidence=float(parsed["confidence"]),
+        issues=[str(x) for x in parsed.get("issues", [])],
+        updated_entry=dict(parsed["updated_entry"]),
+    )
+
+
+def build_request(entry: dict[str, Any], model: str) -> dict[str, Any]:
     user_payload = {
         "constraints": {
             "tone_numbers": "Use Jyutping tone digits 1-6.",
@@ -132,37 +139,20 @@ def call_model(
         },
         "entry": entry,
     }
-
-    last_err: Exception | None = None
-    for _attempt in range(max_retries + 1):
-        try:
-            resp = client.chat.completions.create(
-                model=model,
-                temperature=0,
-                response_format={"type": "json_object"},
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
-                ],
-            )
-            content = resp.choices[0].message.content
-            parsed = json.loads(content)
-            result = ModelResult(
-                decision=str(parsed["decision"]).strip().lower(),
-                confidence=float(parsed["confidence"]),
-                issues=[str(x) for x in parsed.get("issues", [])],
-                updated_entry=dict(parsed["updated_entry"]),
-            )
-            return result
-        except Exception as exc:  # noqa: BLE001
-            last_err = exc
-            continue
-
-    raise RuntimeError(f"Model call failed after retries: {last_err}")
+    return {
+        "model": model,
+        "temperature": 0,
+        "response_format": {"type": "json_object"},
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
+        ],
+    }
 
 
 def main() -> int:
     args = parse_args()
+    _ = args.max_retries, args.sleep_seconds
 
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
@@ -177,8 +167,10 @@ def main() -> int:
     output_dir = Path(args.output_dir)
     rewritten_dir = output_dir / "rewritten"
     reports_dir = output_dir / "reports"
+    batch_dir = output_dir / "batch"
     rewritten_dir.mkdir(parents=True, exist_ok=True)
     reports_dir.mkdir(parents=True, exist_ok=True)
+    batch_dir.mkdir(parents=True, exist_ok=True)
 
     files = list(iter_files(input_dir, args.glob, args.limit))
     if not files:
@@ -187,11 +179,47 @@ def main() -> int:
 
     client = OpenAI(api_key=api_key)
 
+    indexed: list[tuple[str, Path, dict[str, Any]]] = []
+    requests: list[dict[str, Any]] = []
+    for idx, path in enumerate(files):
+        entry = load_json(path)
+        custom_id = str(idx)
+        indexed.append((custom_id, path, entry))
+        requests.append(
+            {
+                "custom_id": custom_id,
+                "method": "POST",
+                "url": "/v1/chat/completions",
+                "body": build_request(entry, args.model),
+            }
+        )
+
+    batch_input_path = batch_dir / "input.jsonl"
+    write_jsonl(batch_input_path, requests)
+
+    batch = submit_batch(
+        client,
+        input_jsonl=batch_input_path,
+        endpoint="/v1/chat/completions",
+        completion_window=args.completion_window,
+        metadata={"task": "rewrite_words", "input_dir": str(input_dir)},
+    )
+    batch = wait_for_batch(client, batch.id, args.poll_seconds)
+
+    output_rows, error_rows = collect_batch_results(client, batch)
+
+    error_by_id: dict[str, Any] = {}
+    for err in error_rows:
+        error_by_id[str(err.get("custom_id", ""))] = err.get("error", "unknown")
+
+    output_by_id: dict[str, dict[str, Any]] = {}
+    for out_row in output_rows:
+        output_by_id[str(out_row.get("custom_id", ""))] = out_row
+
     report_rows: list[dict[str, Any]] = []
     applied = 0
 
-    for path in files:
-        entry = load_json(path)
+    for custom_id, path, entry in indexed:
         row: dict[str, Any] = {
             "file": str(path),
             "status": "unknown",
@@ -201,8 +229,30 @@ def main() -> int:
             "validation_errors": [],
         }
 
+        if custom_id in error_by_id:
+            row["status"] = "error"
+            row["issues"] = [f"batch_error:{error_by_id[custom_id]}"]
+            report_rows.append(row)
+            continue
+
+        out_row = output_by_id.get(custom_id)
+        if not out_row:
+            row["status"] = "error"
+            row["issues"] = ["missing_batch_output"]
+            report_rows.append(row)
+            continue
+
+        response = out_row.get("response", {})
+        if response.get("status_code") != 200:
+            row["status"] = "error"
+            row["issues"] = [f"http_status:{response.get('status_code')}"]
+            report_rows.append(row)
+            continue
+
         try:
-            result = call_model(client, args.model, entry, args.max_retries)
+            content = response["body"]["choices"][0]["message"]["content"]
+            result = parse_model_content(content)
+
             row["decision"] = result.decision
             row["confidence"] = result.confidence
             row["issues"] = result.issues
@@ -231,9 +281,6 @@ def main() -> int:
 
         report_rows.append(row)
 
-        if args.sleep_seconds > 0:
-            time.sleep(args.sleep_seconds)
-
     report_path = reports_dir / "audit-report.jsonl"
     with report_path.open("w", encoding="utf-8") as fh:
         for row in report_rows:
@@ -246,6 +293,9 @@ def main() -> int:
         "dry_run": args.dry_run,
         "report": str(report_path),
         "rewritten_dir": str(rewritten_dir),
+        "batch_id": batch.id,
+        "batch_status": batch.status,
+        "batch_input": str(batch_input_path),
     }
     (reports_dir / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 

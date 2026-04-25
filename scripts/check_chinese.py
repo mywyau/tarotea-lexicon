@@ -52,6 +52,8 @@ def main() -> int:
         limit=args.limit,
         max_retries=args.max_retries,
         sleep_seconds=args.sleep_seconds,
+        completion_window=args.completion_window,
+        poll_seconds=args.poll_seconds,
     )
 
 
