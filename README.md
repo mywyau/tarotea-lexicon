@@ -60,6 +60,27 @@ python3 scripts/check_translations.py \
   --limit 20
 ```
 
+### 4) Local structure checker (offline)
+
+Use this when you want to validate word JSON structure and references without calling OpenAI:
+
+```bash
+python3 scripts/check_word_json_data.py \
+  --input-dir r2-backup/words \
+  --recursive \
+  --output-json output/checks/word-json/report.json
+```
+
+If your files are under `r2-backup/content`, pass that path with `--input-dir r2-backup/content`.
+
+Optional strict check for audio files on disk:
+
+```bash
+python3 scripts/check_word_json_data.py \
+  --input-dir r2-backup/words \
+  --check-audio-files
+```
+
 ## Optional rewrite tool
 
 If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` also uses the OpenAI Batch API, writes candidates to an output folder, and does not overwrite source files unless you manually promote reviewed output.
