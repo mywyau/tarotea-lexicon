@@ -3,9 +3,11 @@
   "word": "一個鐘",
   "jyutping": "jat1 go3 zung1",
   "meaning": "one hour",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "一個鐘usually refers to a duration of exactly one hour.",
+    "「一個鐘」usually refers to a duration of exactly one hour.",
     "It can be used to indicate how long an activity lasts.",
     "In casual conversations, people say they need \"一個鐘\" to do something, meaning an hour is required.",
     "It can be combined with verbs like 去 (go), 做 (do), or 等 (wait) to describe time spent."
@@ -45,7 +47,14 @@
       "jat1go3zung1-one-hour-2-example-4.mp3"
     ]
   },
-  "tags": ["time", "duration", "hour", "everyday", "measurement", "level-1"],
+  "tags": [
+    "time",
+    "duration",
+    "hour",
+    "everyday",
+    "measurement",
+    "level-1"
+  ],
   "related": [
     "分鐘 (fan1 zung1) - minute",
     "半個鐘 (bun3 go3 zung1) - half an hour",

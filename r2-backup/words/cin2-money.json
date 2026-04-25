@@ -3,12 +3,14 @@
   "word": "錢",
   "jyutping": "cin2",
   "meaning": "money",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
     "Used for general money in everyday conversation; very common and neutral.",
-    "Can be used by itself or in phrases like 啲錢、搵錢、借錢.",
+    "Can be used by itself or in phrases like 「啲錢」、「搵錢」、「借錢」.",
     "Often refers to cash, funds, or money in a broad sense, not a specific amount unless context makes it clear.",
-    "In casual speech, people may say 錢 where English speakers might use 'money' or 'cash' depending on the situation."
+    "In casual speech, people may say 「錢」 where English speakers might use 'money' or 'cash' depending on the situation."
   ],
   "examples": [
     {
@@ -56,5 +58,11 @@
     "business",
     "level-1"
   ],
-  "related": ["銀包", "現金", "搵錢", "借錢", "儲錢"]
+  "related": [
+    "銀包",
+    "現金",
+    "搵錢",
+    "借錢",
+    "儲錢"
+  ]
 }

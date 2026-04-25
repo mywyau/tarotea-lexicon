@@ -3,12 +3,15 @@
   "word": "除",
   "jyutping": "ceoi4",
   "meaning": "divide",
-  "pos": ["verb", "noun"],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "usage": [
     "Used as a verb meaning to divide something into equal parts.",
     "Common in math talk, especially for division problems and answers.",
-    "Can be used with numbers directly, e.g. 八除二.",
-    "Also appears in the phrase 除以 when saying one number divided by another."
+    "Can be used with numbers directly, e.g. 「八除二」.",
+    "Also appears in the phrase 「除以」 when saying one number divided by another."
   ],
   "examples": [
     {
@@ -54,5 +57,10 @@
     "numbers",
     "level-1"
   ],
-  "related": ["除以", "除法", "分開", "乘法"]
+  "related": [
+    "除以",
+    "除法",
+    "分開",
+    "乘法"
+  ]
 }

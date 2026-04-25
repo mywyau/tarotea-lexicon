@@ -3,9 +3,11 @@
   "word": "打太極",
   "jyutping": "daa2 taai3 gik6",
   "meaning": "do tai chi",
-  "pos": ["verb phrase"],
+  "pos": [
+    "verb phrase"
+  ],
   "usage": [
-    "打太極is used as a verb phrase to describe the action of practicing tai chi.",
+    "「打太極」is used as a verb phrase to describe the action of practicing tai chi.",
     "You can use it in simple present tense: 我每日打太極。 (I do tai chi every day.)",
     "It often appears with time phrases to show frequency, e.g., 每朝打太極 (do tai chi every morning).",
     "It can be combined with places where you practice tai chi: 公園打太極 (do tai chi in the park).",
@@ -46,6 +48,19 @@
       "daa2taai3gik6-do-tai-chi-example-4.mp3"
     ]
   },
-  "tags": ["fitness", "exercise", "martial arts", "health", "hobby", "level-1"],
-  "related": ["武術", "氣功", "太極拳", "健身", "運動"]
+  "tags": [
+    "fitness",
+    "exercise",
+    "martial arts",
+    "health",
+    "hobby",
+    "level-1"
+  ],
+  "related": [
+    "武術",
+    "氣功",
+    "太極拳",
+    "健身",
+    "運動"
+  ]
 }

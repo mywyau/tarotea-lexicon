@@ -3,11 +3,13 @@
   "word": "雖然",
   "jyutping": "seoi1 jin4",
   "meaning": "although; even though",
-  "pos": ["conjunction"],
+  "pos": [
+    "conjunction"
+  ],
   "usage": [
     "Used to introduce a contrast or concession",
-    "Common pattern: 雖然 A，但係 B (Although A, but B)",
-    "In casual speech, 但係 is sometimes implied if the contrast is clear"
+    "Common pattern: 「雖然 A，但係 B」 (Although A, but B)",
+    "In casual speech, 「但係」 is sometimes implied if the contrast is clear"
   ],
   "examples": [
     {
@@ -30,5 +32,10 @@
       "seoi1jin4-although-even-though-example-2.mp3"
     ]
   },
-  "tags": ["level-2", "contrast", "connector", "common"]
+  "tags": [
+    "level-2",
+    "contrast",
+    "connector",
+    "common"
+  ]
 }

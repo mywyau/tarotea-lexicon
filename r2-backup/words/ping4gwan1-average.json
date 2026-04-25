@@ -3,11 +3,13 @@
   "word": "平均",
   "jyutping": "ping4 gwan1",
   "meaning": "average",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use平均to talk about the average amount or rate of something.",
+    "Use「平均」to talk about the average amount or rate of something.",
     "It is common in math, school, and everyday data talk.",
-    "You can put平均before a noun to describe an average figure.",
+    "You can put「平均」before a noun to describe an average figure.",
     "It can also be used when comparing results over time."
   ],
   "examples": [
@@ -55,5 +57,10 @@
     "beginner",
     "level-1"
   ],
-  "related": ["平均分", "平均數", "均勻", "每人"]
+  "related": [
+    "平均分",
+    "平均數",
+    "均勻",
+    "每人"
+  ]
 }

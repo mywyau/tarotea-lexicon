@@ -3,14 +3,12 @@
   "word": "直線",
   "jyutping": "zik6 sin3",
   "meaning": "line",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "Use **直線** to talk about a straight line in math or drawing.",
+    "Use 直線 to talk about a straight line in math or drawing.",
     "It can describe a path, edge, or movement that goes straight without turning.",
-    "In everyday speech, **直線** can also be used figuratively for something direct or simple.",
-    "When learning shapes and geometry, **直線** usually refers to one straight line segment or line form."
+    "In everyday speech, 直線 can also be used figuratively for something direct or simple.",
+    "When learning shapes and geometry, 直線 usually refers to one straight line segment or line form."
   ],
   "examples": [
     {
@@ -57,11 +55,5 @@
     "line",
     "level-1"
   ],
-  "related": [
-    "線",
-    "線段",
-    "平行線",
-    "圖形",
-    "點"
-  ]
+  "related": ["線", "線段", "平行線", "圖形", "點"]
 }

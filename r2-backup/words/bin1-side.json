@@ -3,14 +3,12 @@
   "word": "邊",
   "jyutping": "bin1",
   "meaning": "side",
-  "pos": [
-    "noun"
-  ],
+  "pos": ["noun"],
   "usage": [
-    "Use 邊 to mean the side of a shape or object.",
-    "Use 邊 when you talk about left or right side.",
-    "Use 邊 in simple shape words and counting.",
-    "Use 邊 can also mean a border or edge."
+    "邊 is a noun meaning a side or edge of something.",
+    "It is often used for the sides of shapes and objects, such as triangles, squares, or tables.",
+    "You can also use 邊 when talking about direction or position, for example the left side or the right side.",
+    "In some contexts, 邊 can mean an edge or border, depending on what is being described."
   ],
   "examples": [
     {
@@ -47,18 +45,6 @@
       "bin1-side-example-4.mp3"
     ]
   },
-  "tags": [
-    "math",
-    "shapes",
-    "elementary",
-    "counting",
-    "geometry",
-    "level-1"
-  ],
-  "related": [
-    "角",
-    "邊緣",
-    "邊邊",
-    "一邊"
-  ]
+  "tags": ["math", "shapes", "elementary", "counting", "geometry", "level-1"],
+  "related": ["角", "邊緣", "邊邊", "一邊"]
 }

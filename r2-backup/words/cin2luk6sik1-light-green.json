@@ -3,11 +3,13 @@
   "word": "淺綠色",
   "jyutping": "cin2 luk6 sik1",
   "meaning": "light green",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "Use 淺綠色 as a noun for a light green colour. Example: 呢件衫係淺綠色。",
+    "Use 「淺綠色」 as a noun for a light green colour. Example: 呢件衫係淺綠色。",
     "It is common in everyday descriptions of clothes, objects, and rooms. Example: 我想要淺綠色嘅牆。",
-    "You can place it after a modifier like 好 or 幾 for a softer description. Example: 呢隻茶幾淺綠色。",
+    "You can place it after a modifier like 「好」 or 「幾」 for a softer description. Example: 呢隻茶幾淺綠色。",
     "It can also be used when choosing or comparing colours. Example: 你鍾意淺綠色定深綠色？"
   ],
   "examples": [
@@ -53,5 +55,10 @@
     "describing things",
     "level-1"
   ],
-  "related": ["綠色", "深綠色", "淺藍色", "淺黃色"]
+  "related": [
+    "綠色",
+    "深綠色",
+    "淺藍色",
+    "淺黃色"
+  ]
 }

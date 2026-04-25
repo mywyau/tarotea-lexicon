@@ -3,9 +3,12 @@
   "word": "大於",
   "jyutping": "daai6 jyu1",
   "meaning": "greater",
-  "pos": ["comparison marker", "math expression"],
+  "pos": [
+    "comparison marker",
+    "math expression"
+  ],
   "usage": [
-    "Use 大於 to compare two numbers or quantities.",
+    "Use 「大於」 to compare two numbers or quantities.",
     "It is common in math, especially with symbols like '>'.",
     "Use it when one side has a bigger value, not for feelings or opinions.",
     "In quick speech, people often say it in school or homework talk."
@@ -53,5 +56,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["大過", "細過", "等於", "大細", "多過"]
+  "related": [
+    "大過",
+    "細過",
+    "等於",
+    "大細",
+    "多過"
+  ]
 }

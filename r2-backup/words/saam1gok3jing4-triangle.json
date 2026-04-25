@@ -3,12 +3,14 @@
   "word": "三角形",
   "jyutping": "saam1 gok3 jing4",
   "meaning": "triangle",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "三角形 is a noun for a three-sided shape, so you can use it with classifiers like 個 or 塊 depending on the object.",
-    "It often appears in simple school or geometry contexts, like 畫一個三角形 or 呢個係三角形.",
-    "When describing objects or patterns, 三角形 can be used as a modifier, for example 三角形耳環 or 三角形圖案.",
-    "In everyday Cantonese, people usually say 三角形直接指 the shape; there is no special verb form for it."
+    "三角形 is a noun for a three-sided shape, so you can use it with classifiers like 「個」 or 「塊」 depending on the object.",
+    "It often appears in simple school or geometry contexts, like 「畫一個三角形」 or 「呢個係三角形」.",
+    "When describing objects or patterns, 「三角形」 can be used as a modifier, for example 「三角形耳環」 or 「三角形圖案」.",
+    "In everyday Cantonese, people usually say 「三角形」直接指 the shape; there is no special verb form for it."
   ],
   "examples": [
     {
@@ -53,5 +55,11 @@
     "beginner",
     "level-1"
   ],
-  "related": ["圓形", "正方形", "長方形", "圖案", "角"]
+  "related": [
+    "圓形",
+    "正方形",
+    "長方形",
+    "圖案",
+    "角"
+  ]
 }

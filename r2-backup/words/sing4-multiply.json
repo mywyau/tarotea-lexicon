@@ -3,11 +3,14 @@
   "word": "乘",
   "jyutping": "sing4",
   "meaning": "multiply",
-  "pos": ["verb", "noun"],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "usage": [
     "Use 乘 when you talk about multiplication, like in math class or doing sums.",
-    "As a verb, 乘 usually comes before the number you are multiplying with, e.g. 二乘三.",
-    "In everyday Cantonese, people often say 乘法 for the math topic and 乘 for the action.",
+    "As a verb, 乘 usually comes before the number you are multiplying with, e.g. 「二乘三」.",
+    "In everyday Cantonese, people often say 「乘法」 for the math topic and 「乘」 for the action.",
     "This word is common in simple arithmetic, especially when talking about times tables and multiplication questions."
   ],
   "examples": [
@@ -53,5 +56,11 @@
     "school",
     "level-1"
   ],
-  "related": ["乘法", "乘數", "倍", "加", "除"]
+  "related": [
+    "乘法",
+    "乘數",
+    "倍",
+    "加",
+    "除"
+  ]
 }

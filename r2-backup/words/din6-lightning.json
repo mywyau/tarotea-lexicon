@@ -3,12 +3,14 @@
   "word": "電",
   "jyutping": "din6",
   "meaning": "lightning",
-  "pos": ["noun"],
+  "pos": [
+    "noun"
+  ],
   "usage": [
-    "電(din6) refers to lightning, the natural electrical discharge in the atmosphere.",
+    "「電」(din6) refers to lightning, the natural electrical discharge in the atmosphere.",
     "It is usually used as a noun, but can appear in compound words related to electricity or lightning.",
     "You can say it alone to talk about lightning, or combine it with other words to describe storms or electrical phenomena.",
-    "When talking about weather, 電often appears together with 閃(sin2) in the phrase 閃電 meaning lightning bolt or flash of lightning.",
+    "When talking about weather, 「電」often appears together with 「閃」(sin2) in the phrase 「閃電」 meaning lightning bolt or flash of lightning.",
     "It can also be metaphorically used to talk about electric things or electricity in general."
   ],
   "examples": [
@@ -46,7 +48,14 @@
       "din6-lightning-example-4.mp3"
     ]
   },
-  "tags": ["weather", "rain", "thunderstorm", "lightning", "nature", "level-1"],
+  "tags": [
+    "weather",
+    "rain",
+    "thunderstorm",
+    "lightning",
+    "nature",
+    "level-1"
+  ],
   "related": [
     "閃電 sin2 din6 - lightning bolt",
     "雷 leoi4 - thunder",
