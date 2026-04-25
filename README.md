@@ -35,19 +35,11 @@ python3 scripts/merge_lexicon.py
 ### 4) Additional audit + repair helpers
 
 ```bash
-python3 scripts/repair_lexicon.py
-python3 scripts/review_jyutping_batch.py
-python3 scripts/audit_levels.py
-python3 scripts/audit_topics.py
-python3 scripts/audit_usage.py
 ```
 
 ## Data extraction helpers
 
 ```bash
-python3 scripts/extract_level_sentences.py <levels_dir> <words_dir> <out_dir> --dedupe
-python3 scripts/extract_topics_sentences.py <topics_dir> <words_dir> <out_dir> --dedupe
-python3 scripts/extract_example_sentences.py <words_dir> <out_file>
 ```
 
 ## Notes
