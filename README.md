@@ -8,41 +8,30 @@ This repository now contains **lexicon-focused tooling only**:
 
 Audio/TTS generation code and related helper scripts were removed.
 
-## Core workflows
+## OpenAI batch rewriting workflow
 
-### 1) Generate lexicon candidates
-
-```bash
-python3 scripts/lexicon.py
-```
-
-Outputs are written to `lexicon/lexicon-build/`.
-
-### 2) Audit generated lexicon
+Use the batch tool to audit and optionally rewrite individual word JSON files.
 
 ```bash
-python3 scripts/audit_lexicon.py
+python3 scripts/batch_rewrite_words.py \
+  --input-dir r2-backup/words \
+  --output-dir output/rewritten-words \
+  --model gpt-4.1 \
+  --dry-run
 ```
 
-Outputs are written to `lexicon/audit-batch-output/`.
-
-### 3) Merge audited output back into runtime lexicon
+To process all matching files and write rewritten output when confidence is high enough:
 
 ```bash
-python3 scripts/merge_lexicon.py
+python3 scripts/batch_rewrite_words.py \
+  --input-dir r2-backup/words \
+  --output-dir output/rewritten-words \
+  --model gpt-4.1 \
+  --min-confidence 0.85
 ```
 
-### 4) Additional audit + repair helpers
+### Important notes
 
-```bash
-```
-
-## Data extraction helpers
-
-```bash
-```
-
-## Notes
-
-- Most scripts use environment variables for paths (defaults are in each script).
-- For OpenAI-backed scripts, set `OPENAI_API_KEY` before running.
+- Set `OPENAI_API_KEY` before running OpenAI-backed scripts.
+- Start with `--dry-run` and small `--limit` batches, then review `output/rewritten-words/reports/audit-report.jsonl`.
+- This repo currently stores individual word entries in `r2-backup/words`.
