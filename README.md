@@ -94,9 +94,51 @@ Notes:
 - `--skip-nonword-files` is enabled by default, so utility JSON files (like remap summaries) are ignored.
 - Use `--no-skip-nonword-files` if you want every JSON file audited regardless of shape.
 
-## Optional rewrite tool
+## Optional rewrite tool (OpenAI Batch API)
 
-If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` also uses the OpenAI Batch API, writes candidates to an output folder, and does not overwrite source files unless you manually promote reviewed output.
+Use this when you want model-assisted rewrite candidates for word entries.
+Like the check scripts, it processes data via OpenAI Batch API and writes output under `output/...` (not back into `r2-backup/words`).
+
+### Basic usage
+
+```bash
+python3 scripts/batch_rewrite_words.py \
+  --input-dir r2-backup/words \
+  --output-dir output/rewritten-words \
+  --model gpt-4.1 \
+  --limit 20
+```
+
+### Dry-run audit only (recommended first pass)
+
+```bash
+python3 scripts/batch_rewrite_words.py \
+  --input-dir r2-backup/words \
+  --output-dir output/rewritten-words \
+  --dry-run \
+  --limit 20
+```
+
+### Key options
+
+- `--min-confidence` (default `0.8`): minimum model confidence required before a rewrite is considered auto-applicable.
+- `--glob` (default `*.json`): select a subset of files by pattern.
+- `--completion-window` (default `24h`) and `--poll-seconds` (default `10`): Batch API processing/polling controls.
+- `--temperature`: optional sampling temperature.
+- `--force-json-mode`: force Chat Completions JSON mode (by default, `gpt-5*` models skip forced JSON mode for compatibility).
+
+### Output layout
+
+- `output/rewritten-words/batch/input.jsonl`: submitted batch payload.
+- `output/rewritten-words/reports/audit-report.jsonl`: per-file decisions, issues, validation status.
+- `output/rewritten-words/reports/summary.json`: run summary (counts, batch id/status, paths).
+- `output/rewritten-words/rewritten/*.json`: rewritten entries that passed decision/confidence/validation checks (unless `--dry-run`).
+
+### Safety behavior
+
+- The script validates key shape invariants (required keys, stable IDs, unchanged example IDs/audio).
+- Rewrites are only written when decision/confidence/validation gates pass.
+- Original source files in `r2-backup/words` are never overwritten by this tool.
 
 ## Important notes
 
