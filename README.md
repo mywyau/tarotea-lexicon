@@ -8,10 +8,10 @@ This repository now contains **lexicon-focused tooling only**:
 
 Audio/TTS generation code and related helper scripts were removed.
 
-## OpenAI audit/check scripts (no source rewrites)
+## OpenAI audit/check scripts (Batch API, no source rewrites)
 
 These check scripts **never modify source files** in `r2-backup/words`.
-They only write reports to `output/checks/...`.
+They use the OpenAI Batch API and only write reports to `output/checks/...`.
 
 ### 1) Chinese checker
 
@@ -22,6 +22,13 @@ python3 scripts/check_chinese.py \
   --model gpt-4.1 \
   --limit 20
 ```
+
+Batch options available on all scripts:
+
+- `--completion-window` (default `24h`)
+- `--poll-seconds` (default `10`)
+
+Use `--limit 0` (or omit `--limit`) to process all files.
 
 ### 2) Jyutping checker
 
@@ -45,7 +52,7 @@ python3 scripts/check_translations.py \
 
 ## Optional rewrite tool
 
-If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` writes candidates to an output folder and does not overwrite source files unless you manually promote reviewed output.
+If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` also uses the OpenAI Batch API, writes candidates to an output folder, and does not overwrite source files unless you manually promote reviewed output.
 
 ## Important notes
 
