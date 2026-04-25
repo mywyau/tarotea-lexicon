@@ -8,30 +8,47 @@ This repository now contains **lexicon-focused tooling only**:
 
 Audio/TTS generation code and related helper scripts were removed.
 
-## OpenAI batch rewriting workflow
+## OpenAI audit/check scripts (no source rewrites)
 
-Use the batch tool to audit and optionally rewrite individual word JSON files.
+These check scripts **never modify source files** in `r2-backup/words`.
+They only write reports to `output/checks/...`.
 
-```bash
-python3 scripts/batch_rewrite_words.py \
-  --input-dir r2-backup/words \
-  --output-dir output/rewritten-words \
-  --model gpt-4.1 \
-  --dry-run
-```
-
-To process all matching files and write rewritten output when confidence is high enough:
+### 1) Chinese checker
 
 ```bash
-python3 scripts/batch_rewrite_words.py \
+python3 scripts/check_chinese.py \
   --input-dir r2-backup/words \
-  --output-dir output/rewritten-words \
+  --output-dir output/checks/chinese \
   --model gpt-4.1 \
-  --min-confidence 0.85
+  --limit 20
 ```
 
-### Important notes
+### 2) Jyutping checker
+
+```bash
+python3 scripts/check_jyutping.py \
+  --input-dir r2-backup/words \
+  --output-dir output/checks/jyutping \
+  --model gpt-4.1 \
+  --limit 20
+```
+
+### 3) Translation checker
+
+```bash
+python3 scripts/check_translations.py \
+  --input-dir r2-backup/words \
+  --output-dir output/checks/translations \
+  --model gpt-4.1 \
+  --limit 20
+```
+
+## Optional rewrite tool
+
+If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` writes candidates to an output folder and does not overwrite source files unless you manually promote reviewed output.
+
+## Important notes
 
 - Set `OPENAI_API_KEY` before running OpenAI-backed scripts.
-- Start with `--dry-run` and small `--limit` batches, then review `output/rewritten-words/reports/audit-report.jsonl`.
+- Start with small `--limit` batches and review generated reports first.
 - This repo currently stores individual word entries in `r2-backup/words`.
