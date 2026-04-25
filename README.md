@@ -13,6 +13,16 @@ Audio/TTS generation code and related helper scripts were removed.
 These check scripts **never modify source files** in `r2-backup/words`.
 They use the OpenAI Batch API and only write reports to `output/checks/...`.
 
+### Prerequisites
+
+Install Python dependencies before running any OpenAI-backed script:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
 ### 1) Chinese checker
 
 ```bash
