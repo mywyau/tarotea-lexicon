@@ -61,6 +61,12 @@ def parse_args() -> argparse.Namespace:
         help="Directory where rewritten JSON files and reports are written",
     )
     parser.add_argument("--model", default="gpt-4.1", help="OpenAI model name")
+    parser.add_argument(
+        "--temperature",
+        type=float,
+        default=None,
+        help="Sampling temperature. Omit to use model default (recommended for models that disallow custom values).",
+    )
     parser.add_argument("--limit", type=int, default=0, help="Process only first N files (0 = all)")
     parser.add_argument("--min-confidence", type=float, default=0.8, help="Minimum confidence to auto-apply rewrite")
     parser.add_argument("--max-retries", type=int, default=2, help="Reserved for compatibility (unused in batch mode)")
@@ -160,7 +166,7 @@ def format_batch_error(err_row: dict[str, Any]) -> str:
     return "unknown"
 
 
-def build_request(entry: dict[str, Any], model: str) -> dict[str, Any]:
+def build_request(entry: dict[str, Any], model: str, temperature: float | None) -> dict[str, Any]:
     user_payload = {
         "constraints": {
             "tone_numbers": "Use Jyutping tone digits 1-6.",
@@ -174,15 +180,17 @@ def build_request(entry: dict[str, Any], model: str) -> dict[str, Any]:
         },
         "entry": entry,
     }
-    return {
+    body: dict[str, Any] = {
         "model": model,
-        "temperature": 0,
         "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
         ],
     }
+    if temperature is not None:
+        body["temperature"] = temperature
+    return body
 
 
 def main() -> int:
@@ -225,7 +233,7 @@ def main() -> int:
                 "custom_id": custom_id,
                 "method": "POST",
                 "url": "/v1/chat/completions",
-                "body": build_request(entry, args.model),
+                "body": build_request(entry, args.model, args.temperature),
             }
         )
 
