@@ -8,41 +8,47 @@ This repository now contains **lexicon-focused tooling only**:
 
 Audio/TTS generation code and related helper scripts were removed.
 
-## Core workflows
+## OpenAI audit/check scripts (no source rewrites)
 
-### 1) Generate lexicon candidates
+These check scripts **never modify source files** in `r2-backup/words`.
+They only write reports to `output/checks/...`.
 
-```bash
-python3 scripts/lexicon.py
-```
-
-Outputs are written to `lexicon/lexicon-build/`.
-
-### 2) Audit generated lexicon
+### 1) Chinese checker
 
 ```bash
-python3 scripts/audit_lexicon.py
+python3 scripts/check_chinese.py \
+  --input-dir r2-backup/words \
+  --output-dir output/checks/chinese \
+  --model gpt-4.1 \
+  --limit 20
 ```
 
-Outputs are written to `lexicon/audit-batch-output/`.
-
-### 3) Merge audited output back into runtime lexicon
+### 2) Jyutping checker
 
 ```bash
-python3 scripts/merge_lexicon.py
+python3 scripts/check_jyutping.py \
+  --input-dir r2-backup/words \
+  --output-dir output/checks/jyutping \
+  --model gpt-4.1 \
+  --limit 20
 ```
 
-### 4) Additional audit + repair helpers
+### 3) Translation checker
 
 ```bash
+python3 scripts/check_translations.py \
+  --input-dir r2-backup/words \
+  --output-dir output/checks/translations \
+  --model gpt-4.1 \
+  --limit 20
 ```
 
-## Data extraction helpers
+## Optional rewrite tool
 
-```bash
-```
+If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` writes candidates to an output folder and does not overwrite source files unless you manually promote reviewed output.
 
-## Notes
+## Important notes
 
-- Most scripts use environment variables for paths (defaults are in each script).
-- For OpenAI-backed scripts, set `OPENAI_API_KEY` before running.
+- Set `OPENAI_API_KEY` before running OpenAI-backed scripts.
+- Start with small `--limit` batches and review generated reports first.
+- This repo currently stores individual word entries in `r2-backup/words`.
