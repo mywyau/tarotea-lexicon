@@ -67,6 +67,11 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Sampling temperature. Omit to use model default (recommended for models that disallow custom values).",
     )
+    parser.add_argument(
+        "--force-json-mode",
+        action="store_true",
+        help="Force Chat Completions JSON mode. By default, GPT-5* models skip this for compatibility.",
+    )
     parser.add_argument("--limit", type=int, default=0, help="Process only first N files (0 = all)")
     parser.add_argument("--min-confidence", type=float, default=0.8, help="Minimum confidence to auto-apply rewrite")
     parser.add_argument("--max-retries", type=int, default=2, help="Reserved for compatibility (unused in batch mode)")
@@ -166,7 +171,12 @@ def format_batch_error(err_row: dict[str, Any]) -> str:
     return "unknown"
 
 
-def build_request(entry: dict[str, Any], model: str, temperature: float | None) -> dict[str, Any]:
+def build_request(
+    entry: dict[str, Any],
+    model: str,
+    temperature: float | None,
+    force_json_mode: bool,
+) -> dict[str, Any]:
     user_payload = {
         "constraints": {
             "tone_numbers": "Use Jyutping tone digits 1-6.",
@@ -182,12 +192,14 @@ def build_request(entry: dict[str, Any], model: str, temperature: float | None) 
     }
     body: dict[str, Any] = {
         "model": model,
-        "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
         ],
     }
+    use_json_mode = force_json_mode or not model.startswith("gpt-5")
+    if use_json_mode:
+        body["response_format"] = {"type": "json_object"}
     if temperature is not None:
         body["temperature"] = temperature
     return body
@@ -233,7 +245,7 @@ def main() -> int:
                 "custom_id": custom_id,
                 "method": "POST",
                 "url": "/v1/chat/completions",
-                "body": build_request(entry, args.model, args.temperature),
+                "body": build_request(entry, args.model, args.temperature, args.force_json_mode),
             }
         )
 
