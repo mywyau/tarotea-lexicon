@@ -50,6 +50,75 @@ python3 scripts/check_jyutping.py \
   --limit 0
 ```
 
+If you run the checker with a newer reasoning model (for example `gpt-5.1`) and get a very large `needs_review` bucket, treat that report as a triage queue, not a direct rewrite list.
+
+Recommended post-check triage:
+
+1) Summarize issue tags by frequency:
+
+```bash
+python3 - <<'PY'
+import json
+from collections import Counter
+from pathlib import Path
+
+report = Path("output/checks/jyutping/report.jsonl")
+rows = [json.loads(line) for line in report.read_text(encoding="utf-8").splitlines() if line.strip()]
+needs_review = [r for r in rows if r.get("status") == "needs_review"]
+
+counter = Counter()
+for row in needs_review:
+    counter.update(row.get("issues", []))
+
+print(f"needs_review={len(needs_review)}")
+for issue, count in counter.most_common(20):
+    print(f"{count:>5}  {issue}")
+PY
+```
+
+2) Create a focused file list for high-signal issues first (example: clear mismatches/romanization errors):
+
+```bash
+python3 - <<'PY'
+import json
+from pathlib import Path
+
+high_signal = {"example_jyutping_mismatch", "romanization_error", "headword_tone", "character_mismatch"}
+report = Path("output/checks/jyutping/report.jsonl")
+out = Path("output/checks/jyutping/high-signal-files.txt")
+
+selected = []
+for line in report.read_text(encoding="utf-8").splitlines():
+    if not line.strip():
+        continue
+    row = json.loads(line)
+    if row.get("status") != "needs_review":
+        continue
+    issues = set(row.get("issues", []))
+    if issues & high_signal:
+        selected.append(row["file"])
+
+out.write_text("\n".join(selected) + ("\n" if selected else ""), encoding="utf-8")
+print(f"wrote {len(selected)} files to {out}")
+PY
+```
+
+3) Stage and run rewrite candidate generation only on that shortlist (after manual spot-check):
+
+```bash
+mkdir -p output/checks/jyutping/high-signal-words
+while IFS= read -r file; do cp "$file" output/checks/jyutping/high-signal-words/; done < output/checks/jyutping/high-signal-files.txt
+
+python3 scripts/batch_rewrite_words.py \
+  --input-dir output/checks/jyutping/high-signal-words \
+  --output-dir output/rewritten-words-jyutping-pass1 \
+  --model gpt-4.1 \
+  --min-confidence 0.9 \
+  --dry-run
+```
+
+Then manually review `output/rewritten-words-jyutping-pass1/reports/audit-report.jsonl` before applying anything.
+
 ### 3) Translation checker
 
 ```bash
@@ -94,9 +163,51 @@ Notes:
 - `--skip-nonword-files` is enabled by default, so utility JSON files (like remap summaries) are ignored.
 - Use `--no-skip-nonword-files` if you want every JSON file audited regardless of shape.
 
-## Optional rewrite tool
+## Optional rewrite tool (OpenAI Batch API)
 
-If you decide to apply rewrites later, `scripts/batch_rewrite_words.py` also uses the OpenAI Batch API, writes candidates to an output folder, and does not overwrite source files unless you manually promote reviewed output.
+Use this when you want model-assisted rewrite candidates for word entries.
+Like the check scripts, it processes data via OpenAI Batch API and writes output under `output/...` (not back into `r2-backup/words`).
+
+### Basic usage
+
+```bash
+python3 scripts/batch_rewrite_words.py \
+  --input-dir r2-backup/words \
+  --output-dir output/rewritten-words \
+  --model gpt-4.1 \
+  --limit 20
+```
+
+### Dry-run audit only (recommended first pass)
+
+```bash
+python3 scripts/batch_rewrite_words.py \
+  --input-dir r2-backup/words \
+  --output-dir output/rewritten-words \
+  --dry-run \
+  --limit 20
+```
+
+### Key options
+
+- `--min-confidence` (default `0.8`): minimum model confidence required before a rewrite is considered auto-applicable.
+- `--glob` (default `*.json`): select a subset of files by pattern.
+- `--completion-window` (default `24h`) and `--poll-seconds` (default `10`): Batch API processing/polling controls.
+- `--temperature`: optional sampling temperature.
+- `--force-json-mode`: force Chat Completions JSON mode (by default, `gpt-5*` models skip forced JSON mode for compatibility).
+
+### Output layout
+
+- `output/rewritten-words/batch/input.jsonl`: submitted batch payload.
+- `output/rewritten-words/reports/audit-report.jsonl`: per-file decisions, issues, validation status.
+- `output/rewritten-words/reports/summary.json`: run summary (counts, batch id/status, paths).
+- `output/rewritten-words/rewritten/*.json`: rewritten entries that passed decision/confidence/validation checks (unless `--dry-run`).
+
+### Safety behavior
+
+- The script validates key shape invariants (required keys, stable IDs, unchanged example IDs/audio).
+- Rewrites are only written when decision/confidence/validation gates pass.
+- Original source files in `r2-backup/words` are never overwritten by this tool.
 
 ## Important notes
 
