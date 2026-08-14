@@ -46,7 +46,7 @@ Use `--limit 0` (or omit `--limit`) to process all files.
 python3 scripts/check_jyutping.py \
   --input-dir r2-backup/words \
   --output-dir output/checks/jyutping \
-  --model gpt-4.1 \
+  --model gpt-5.1 \
   --limit 0
 ```
 
