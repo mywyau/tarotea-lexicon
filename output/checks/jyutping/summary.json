@@ -1,0 +1,15 @@
+{
+  "check": "jyutping",
+  "input_dir": "r2-backup/words",
+  "processed": 2640,
+  "counts": {
+    "pass": 941,
+    "needs_review": 1697,
+    "error": 2
+  },
+  "skipped": [],
+  "batch_id": "batch_69ed140f49c08190b1e181bb3b26ef6e",
+  "batch_status": "completed",
+  "batch_input": "output/checks/jyutping/batch/input.jsonl",
+  "report": "output/checks/jyutping/report.jsonl"
+}
