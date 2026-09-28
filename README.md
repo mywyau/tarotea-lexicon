@@ -83,7 +83,7 @@ python3 - <<'PY'
 import json
 from pathlib import Path
 
-high_signal = {"example_jyutping_mismatch", "romanization_error", "headword_tone", "character_mismatch"}
+high_signal = {"example_jyutping_mismatch", "romanization_error", "headword_tone", "character_mismatch"}  # Adjust to tags actually present in your report.
 report = Path("output/checks/jyutping/report.jsonl")
 out = Path("output/checks/jyutping/high-signal-files.txt")
 
@@ -106,8 +106,14 @@ PY
 3) Stage and run rewrite candidate generation only on that shortlist (after manual spot-check):
 
 ```bash
-mkdir -p output/checks/jyutping/high-signal-words
-while IFS= read -r file; do cp "$file" output/checks/jyutping/high-signal-words/; done < output/checks/jyutping/high-signal-files.txt
+stage=output/checks/jyutping/high-signal-words
+mkdir -p "$stage"
+find "$stage" -maxdepth 1 -type f -name '*.json' -delete
+while IFS= read -r file; do
+  [ -n "$file" ] || continue
+  cp -- "$file" "$stage/"
+done < output/checks/jyutping/high-signal-files.txt
+[ -n "$(find "$stage" -maxdepth 1 -type f -name '*.json' -print -quit)" ] || { echo 'No files staged; check the issue tags and report.' >&2; exit 1; }
 
 python3 scripts/batch_rewrite_words.py \
   --input-dir output/checks/jyutping/high-signal-words \
@@ -117,7 +123,7 @@ python3 scripts/batch_rewrite_words.py \
   --dry-run
 ```
 
-Then manually review `output/rewritten-words-jyutping-pass1/reports/audit-report.jsonl` before applying anything.
+Review `output/rewritten-words-jyutping-pass1/reports/audit-report.jsonl` for decisions and validation errors. A dry run does not save candidate entries. To inspect actual rewritten JSON, rerun the same command without `--dry-run`, then review files under `rewritten/` before manually promoting them.
 
 ### 3) Translation checker
 
@@ -166,7 +172,7 @@ Notes:
 ## Optional rewrite tool (OpenAI Batch API)
 
 Use this when you want model-assisted rewrite candidates for word entries.
-Like the check scripts, it processes data via OpenAI Batch API and writes output under `output/...` (not back into `r2-backup/words`).
+It processes data via OpenAI Batch API. The commands below write to `output/...`; keep `--output-dir` outside `r2-backup/words`.
 
 ### Basic usage
 
@@ -201,13 +207,14 @@ python3 scripts/batch_rewrite_words.py \
 - `output/rewritten-words/batch/input.jsonl`: submitted batch payload.
 - `output/rewritten-words/reports/audit-report.jsonl`: per-file decisions, issues, validation status.
 - `output/rewritten-words/reports/summary.json`: run summary (counts, batch id/status, paths).
-- `output/rewritten-words/rewritten/*.json`: rewritten entries that passed decision/confidence/validation checks (unless `--dry-run`).
+- `output/rewritten-words/rewritten/*.json`: entries with `accept` or `rewrite` decisions that passed confidence and shape validation (unless `--dry-run`). Existing files of the same name in this output directory may be replaced on later runs.
 
 ### Safety behavior
 
-- The script validates key shape invariants (required keys, stable IDs, unchanged example IDs/audio).
-- Rewrites are only written when decision/confidence/validation gates pass.
-- Original source files in `r2-backup/words` are never overwritten by this tool.
+- The script checks for required keys, unchanged entry and example IDs, unchanged example count, and unchanged top-level audio. This is shape validation, not a guarantee of linguistic accuracy or full schema validity.
+- With `--dry-run`, it still submits a paid Batch API job and writes the batch input and audit reports, but does not save candidate JSON. The report contains decisions and issues, not the proposed entry text.
+- Without `--dry-run`, `accept` and `rewrite` decisions that meet the confidence and shape checks are written to `--output-dir/rewritten/`.
+- The example output directory keeps source files separate. The script does not prevent you from selecting an output directory inside the source tree, so keep it outside `r2-backup/words` and manually review candidates before promotion.
 
 ## Important notes
 
